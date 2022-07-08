@@ -1,4 +1,7 @@
 module React.Icons
-  ( module React.Icons.Generated
-  , module React.Icons.Types
+  ( module Types
+  , module Generated
   ) where
+
+import React.Icons.Generated as Generated
+import React.Icons.Types as Types

@@ -12,7 +12,7 @@
   "scripts": {
     "postinstall": "spago install",
     "build": "spago build",
-    "codegen": "codegen/codegen.sh > src/React/Icons/Generated.purs"
+    "codegen": "codegen/codegen.sh"
   },
   "dependencies": {
     "react-icons": "^4.4.0"
