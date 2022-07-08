@@ -2,10 +2,10 @@
 -- | THIS FILE IS GENERATED -- DO NOT EDIT IT
 -- | ----------------------------------------
 
-module React.Icons where
+module React.Icons.Fa where
 
 import Prim.Row (class Union)
-import React.Basic (JSX, ReactComponent, element)
+import React.Basic (JSX, element)
 import React.Icons.Types (ReactIcon, PropsIcon)
 import Unsafe.Coerce (unsafeCoerce)
 
