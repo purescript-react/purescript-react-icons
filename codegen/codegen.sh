@@ -8,20 +8,13 @@ command -v "sed" >/dev/null 2>&1 || {
 }
 
 dir="$(cd "$(dirname "${BASH_SOURCE[0]}")" >/dev/null 2>&1 && pwd)"
-depDir="$dir/../node_modules/react-icons"
+libDir="$dir/../node_modules/react-icons"
+allLibsFile="$libDir/all.d.ts"
 
-[ -d "$depDir" ] || {
+[ -d "$libDir" ] || {
     echo "Error: react-icons dependency not installed" && exit 1
     exit 1
 }
-
-iconFiles="$depDir/*/index.d.ts"
-
-# Only FA (fow now)
-iconFiles="$depDir/fa/index.d.ts"
-
-# shellcheck disable=SC2086
-iconNames=$(sed -nr 's/export declare const ([A-Za-z]+): IconType;/\1/p' $iconFiles | sort -u)
 
 toPureScript() {
     outputPs+="\n$(sed -e "s/\${icon}/${1,}/g" "$dir/templateIcon.txt")\n"
@@ -41,19 +34,26 @@ toJavaScript() {
     outputJs+="\n"
 }
 
-echo "Generating icons ..."
-outputPs="$(cat "$dir/templateModule.txt")\n"
-outputJs=""
-for name in $iconNames; do
-    echo "- $name"
-    toPureScript "$name"
-    toJavaScript "$name"
+libs=$(sed -nr "s/export \* from '\.\/([a-z]+)';/\1/p" "$allLibsFile" | sort -u)
+
+for lib in $libs; do
+    echo "Generating $lib icons ..."
+    iconFile="$libDir/$lib/index.d.ts"
+    regex='s/export declare const ([A-Za-z]+): IconType;/\1/p'
+    iconNames=$(sed -nr "$regex" "$iconFile" | sort -u)
+    outputPs="$(sed -e "s/\${lib}/${lib^}/g" "$dir/templateModule.txt")\n"
+    outputJs=""
+    for name in $iconNames; do
+        echo "- $name"
+        toPureScript "$name"
+        toJavaScript "$name"
+    done
+
+    echo "Writing PureScript"
+    printf "%b" "$outputPs" >"$dir/../src/React/Icons/${lib^}.purs"
+
+    echo "Writing JavaScript"
+    printf "%b" "$outputJs" >"$dir/../src/React/Icons/${lib^}.js"
 done
-
-echo "Writing PureScript"
-printf "%b" "$outputPs" >"$dir/../src/React/Icons.purs"
-
-echo "Writing JavaScript"
-printf "%b" "$outputJs" >"$dir/../src/React/Icons.js"
 
 echo "done"
