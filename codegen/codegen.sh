@@ -49,9 +49,9 @@ for name in $iconNames; do
 done
 
 echo "Writing PureScript"
-printf "%b" "$outputPs" >"$dir/../src/React/Icons/Generated.purs"
+printf "%b" "$outputPs" >"$dir/../src/React/Icons.purs"
 
 echo "Writing JavaScript"
-printf "%b" "$outputJs" >"$dir/../src/React/Icons/Generated.js"
+printf "%b" "$outputJs" >"$dir/../src/React/Icons.js"
 
 echo "done"

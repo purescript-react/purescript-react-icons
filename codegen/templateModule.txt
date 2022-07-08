@@ -2,7 +2,7 @@
 -- | THIS FILE IS GENERATED -- DO NOT EDIT IT
 -- | ----------------------------------------
 
-module React.Icons.Generated where
+module React.Icons where
 
 import Prim.Row (class Union)
 import React.Basic (JSX, ReactComponent, element)
