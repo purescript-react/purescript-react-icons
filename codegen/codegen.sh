@@ -17,6 +17,9 @@ depDir="$dir/../node_modules/react-icons"
 
 iconFiles="$depDir/*/index.d.ts"
 
+# Only FA (fow now)
+iconFiles="$depDir/fa/index.d.ts"
+
 # shellcheck disable=SC2086
 iconNames=$(sed -nr 's/export declare const ([A-Za-z]+): IconType;/\1/p' $iconFiles | sort -u)
 
