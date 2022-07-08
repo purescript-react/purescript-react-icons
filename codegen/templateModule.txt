@@ -1,0 +1,19 @@
+-- | ----------------------------------------
+-- | THIS FILE IS GENERATED -- DO NOT EDIT IT
+-- | ----------------------------------------
+
+module React.Icons.Generated where
+
+import Prim.Row (class Union)
+import React.Basic (JSX, ReactComponent, element)
+import Unsafe.Coerce (unsafeCoerce)
+
+type ReactIcon = ReactComponent (Record PropsIcon)
+
+type PropsIcon = SharedSVGProps
+  ( children :: JSX
+  , size :: String
+  , color :: String
+  , title :: String
+  )
+

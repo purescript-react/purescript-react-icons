@@ -11,7 +11,8 @@
   },
   "scripts": {
     "postinstall": "spago install",
-    "build": "spago build"
+    "build": "spago build",
+    "codegen": "codegen/codegen.sh > src/React/Icons/Generated.purs"
   },
   "dependencies": {
     "react-icons": "^4.4.0"
