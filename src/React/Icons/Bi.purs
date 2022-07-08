@@ -9,3712 +9,3712 @@ import React.Basic (JSX, element)
 import React.Icons.Types (ReactIcon, PropsIcon)
 import Unsafe.Coerce (unsafeCoerce)
 
-foreign import biAbacus_ :: ReactIcon
+foreign import _biAbacus :: ReactIcon
 
 biAbacus :: forall a b. Union a b PropsIcon => Record a -> JSX
-biAbacus = element (unsafeCoerce biAbacus_)
+biAbacus = element (unsafeCoerce _biAbacus)
 
-foreign import biAccessibility_ :: ReactIcon
+foreign import _biAccessibility :: ReactIcon
 
 biAccessibility :: forall a b. Union a b PropsIcon => Record a -> JSX
-biAccessibility = element (unsafeCoerce biAccessibility_)
+biAccessibility = element (unsafeCoerce _biAccessibility)
 
-foreign import biAddToQueue_ :: ReactIcon
+foreign import _biAddToQueue :: ReactIcon
 
 biAddToQueue :: forall a b. Union a b PropsIcon => Record a -> JSX
-biAddToQueue = element (unsafeCoerce biAddToQueue_)
+biAddToQueue = element (unsafeCoerce _biAddToQueue)
 
-foreign import biAdjust_ :: ReactIcon
+foreign import _biAdjust :: ReactIcon
 
 biAdjust :: forall a b. Union a b PropsIcon => Record a -> JSX
-biAdjust = element (unsafeCoerce biAdjust_)
+biAdjust = element (unsafeCoerce _biAdjust)
 
-foreign import biAlarm_ :: ReactIcon
+foreign import _biAlarm :: ReactIcon
 
 biAlarm :: forall a b. Union a b PropsIcon => Record a -> JSX
-biAlarm = element (unsafeCoerce biAlarm_)
+biAlarm = element (unsafeCoerce _biAlarm)
 
-foreign import biAlarmAdd_ :: ReactIcon
+foreign import _biAlarmAdd :: ReactIcon
 
 biAlarmAdd :: forall a b. Union a b PropsIcon => Record a -> JSX
-biAlarmAdd = element (unsafeCoerce biAlarmAdd_)
+biAlarmAdd = element (unsafeCoerce _biAlarmAdd)
 
-foreign import biAlarmExclamation_ :: ReactIcon
+foreign import _biAlarmExclamation :: ReactIcon
 
 biAlarmExclamation :: forall a b. Union a b PropsIcon => Record a -> JSX
-biAlarmExclamation = element (unsafeCoerce biAlarmExclamation_)
+biAlarmExclamation = element (unsafeCoerce _biAlarmExclamation)
 
-foreign import biAlarmOff_ :: ReactIcon
+foreign import _biAlarmOff :: ReactIcon
 
 biAlarmOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-biAlarmOff = element (unsafeCoerce biAlarmOff_)
+biAlarmOff = element (unsafeCoerce _biAlarmOff)
 
-foreign import biAlarmSnooze_ :: ReactIcon
+foreign import _biAlarmSnooze :: ReactIcon
 
 biAlarmSnooze :: forall a b. Union a b PropsIcon => Record a -> JSX
-biAlarmSnooze = element (unsafeCoerce biAlarmSnooze_)
+biAlarmSnooze = element (unsafeCoerce _biAlarmSnooze)
 
-foreign import biAlbum_ :: ReactIcon
+foreign import _biAlbum :: ReactIcon
 
 biAlbum :: forall a b. Union a b PropsIcon => Record a -> JSX
-biAlbum = element (unsafeCoerce biAlbum_)
+biAlbum = element (unsafeCoerce _biAlbum)
 
-foreign import biAlignJustify_ :: ReactIcon
+foreign import _biAlignJustify :: ReactIcon
 
 biAlignJustify :: forall a b. Union a b PropsIcon => Record a -> JSX
-biAlignJustify = element (unsafeCoerce biAlignJustify_)
+biAlignJustify = element (unsafeCoerce _biAlignJustify)
 
-foreign import biAlignLeft_ :: ReactIcon
+foreign import _biAlignLeft :: ReactIcon
 
 biAlignLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-biAlignLeft = element (unsafeCoerce biAlignLeft_)
+biAlignLeft = element (unsafeCoerce _biAlignLeft)
 
-foreign import biAlignMiddle_ :: ReactIcon
+foreign import _biAlignMiddle :: ReactIcon
 
 biAlignMiddle :: forall a b. Union a b PropsIcon => Record a -> JSX
-biAlignMiddle = element (unsafeCoerce biAlignMiddle_)
+biAlignMiddle = element (unsafeCoerce _biAlignMiddle)
 
-foreign import biAlignRight_ :: ReactIcon
+foreign import _biAlignRight :: ReactIcon
 
 biAlignRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-biAlignRight = element (unsafeCoerce biAlignRight_)
+biAlignRight = element (unsafeCoerce _biAlignRight)
 
-foreign import biAnalyse_ :: ReactIcon
+foreign import _biAnalyse :: ReactIcon
 
 biAnalyse :: forall a b. Union a b PropsIcon => Record a -> JSX
-biAnalyse = element (unsafeCoerce biAnalyse_)
+biAnalyse = element (unsafeCoerce _biAnalyse)
 
-foreign import biAnchor_ :: ReactIcon
+foreign import _biAnchor :: ReactIcon
 
 biAnchor :: forall a b. Union a b PropsIcon => Record a -> JSX
-biAnchor = element (unsafeCoerce biAnchor_)
+biAnchor = element (unsafeCoerce _biAnchor)
 
-foreign import biAngry_ :: ReactIcon
+foreign import _biAngry :: ReactIcon
 
 biAngry :: forall a b. Union a b PropsIcon => Record a -> JSX
-biAngry = element (unsafeCoerce biAngry_)
+biAngry = element (unsafeCoerce _biAngry)
 
-foreign import biAperture_ :: ReactIcon
+foreign import _biAperture :: ReactIcon
 
 biAperture :: forall a b. Union a b PropsIcon => Record a -> JSX
-biAperture = element (unsafeCoerce biAperture_)
+biAperture = element (unsafeCoerce _biAperture)
 
-foreign import biArch_ :: ReactIcon
+foreign import _biArch :: ReactIcon
 
 biArch :: forall a b. Union a b PropsIcon => Record a -> JSX
-biArch = element (unsafeCoerce biArch_)
+biArch = element (unsafeCoerce _biArch)
 
-foreign import biArchive_ :: ReactIcon
+foreign import _biArchive :: ReactIcon
 
 biArchive :: forall a b. Union a b PropsIcon => Record a -> JSX
-biArchive = element (unsafeCoerce biArchive_)
+biArchive = element (unsafeCoerce _biArchive)
 
-foreign import biArchiveIn_ :: ReactIcon
+foreign import _biArchiveIn :: ReactIcon
 
 biArchiveIn :: forall a b. Union a b PropsIcon => Record a -> JSX
-biArchiveIn = element (unsafeCoerce biArchiveIn_)
+biArchiveIn = element (unsafeCoerce _biArchiveIn)
 
-foreign import biArchiveOut_ :: ReactIcon
+foreign import _biArchiveOut :: ReactIcon
 
 biArchiveOut :: forall a b. Union a b PropsIcon => Record a -> JSX
-biArchiveOut = element (unsafeCoerce biArchiveOut_)
+biArchiveOut = element (unsafeCoerce _biArchiveOut)
 
-foreign import biArea_ :: ReactIcon
+foreign import _biArea :: ReactIcon
 
 biArea :: forall a b. Union a b PropsIcon => Record a -> JSX
-biArea = element (unsafeCoerce biArea_)
+biArea = element (unsafeCoerce _biArea)
 
-foreign import biArrowBack_ :: ReactIcon
+foreign import _biArrowBack :: ReactIcon
 
 biArrowBack :: forall a b. Union a b PropsIcon => Record a -> JSX
-biArrowBack = element (unsafeCoerce biArrowBack_)
+biArrowBack = element (unsafeCoerce _biArrowBack)
 
-foreign import biArrowFromBottom_ :: ReactIcon
+foreign import _biArrowFromBottom :: ReactIcon
 
 biArrowFromBottom :: forall a b. Union a b PropsIcon => Record a -> JSX
-biArrowFromBottom = element (unsafeCoerce biArrowFromBottom_)
+biArrowFromBottom = element (unsafeCoerce _biArrowFromBottom)
 
-foreign import biArrowFromLeft_ :: ReactIcon
+foreign import _biArrowFromLeft :: ReactIcon
 
 biArrowFromLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-biArrowFromLeft = element (unsafeCoerce biArrowFromLeft_)
+biArrowFromLeft = element (unsafeCoerce _biArrowFromLeft)
 
-foreign import biArrowFromRight_ :: ReactIcon
+foreign import _biArrowFromRight :: ReactIcon
 
 biArrowFromRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-biArrowFromRight = element (unsafeCoerce biArrowFromRight_)
+biArrowFromRight = element (unsafeCoerce _biArrowFromRight)
 
-foreign import biArrowFromTop_ :: ReactIcon
+foreign import _biArrowFromTop :: ReactIcon
 
 biArrowFromTop :: forall a b. Union a b PropsIcon => Record a -> JSX
-biArrowFromTop = element (unsafeCoerce biArrowFromTop_)
+biArrowFromTop = element (unsafeCoerce _biArrowFromTop)
 
-foreign import biArrowToBottom_ :: ReactIcon
+foreign import _biArrowToBottom :: ReactIcon
 
 biArrowToBottom :: forall a b. Union a b PropsIcon => Record a -> JSX
-biArrowToBottom = element (unsafeCoerce biArrowToBottom_)
+biArrowToBottom = element (unsafeCoerce _biArrowToBottom)
 
-foreign import biArrowToLeft_ :: ReactIcon
+foreign import _biArrowToLeft :: ReactIcon
 
 biArrowToLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-biArrowToLeft = element (unsafeCoerce biArrowToLeft_)
+biArrowToLeft = element (unsafeCoerce _biArrowToLeft)
 
-foreign import biArrowToRight_ :: ReactIcon
+foreign import _biArrowToRight :: ReactIcon
 
 biArrowToRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-biArrowToRight = element (unsafeCoerce biArrowToRight_)
+biArrowToRight = element (unsafeCoerce _biArrowToRight)
 
-foreign import biArrowToTop_ :: ReactIcon
+foreign import _biArrowToTop :: ReactIcon
 
 biArrowToTop :: forall a b. Union a b PropsIcon => Record a -> JSX
-biArrowToTop = element (unsafeCoerce biArrowToTop_)
+biArrowToTop = element (unsafeCoerce _biArrowToTop)
 
-foreign import biAt_ :: ReactIcon
+foreign import _biAt :: ReactIcon
 
 biAt :: forall a b. Union a b PropsIcon => Record a -> JSX
-biAt = element (unsafeCoerce biAt_)
+biAt = element (unsafeCoerce _biAt)
 
-foreign import biAtom_ :: ReactIcon
+foreign import _biAtom :: ReactIcon
 
 biAtom :: forall a b. Union a b PropsIcon => Record a -> JSX
-biAtom = element (unsafeCoerce biAtom_)
+biAtom = element (unsafeCoerce _biAtom)
 
-foreign import biAward_ :: ReactIcon
+foreign import _biAward :: ReactIcon
 
 biAward :: forall a b. Union a b PropsIcon => Record a -> JSX
-biAward = element (unsafeCoerce biAward_)
+biAward = element (unsafeCoerce _biAward)
 
-foreign import biBadge_ :: ReactIcon
+foreign import _biBadge :: ReactIcon
 
 biBadge :: forall a b. Union a b PropsIcon => Record a -> JSX
-biBadge = element (unsafeCoerce biBadge_)
+biBadge = element (unsafeCoerce _biBadge)
 
-foreign import biBadgeCheck_ :: ReactIcon
+foreign import _biBadgeCheck :: ReactIcon
 
 biBadgeCheck :: forall a b. Union a b PropsIcon => Record a -> JSX
-biBadgeCheck = element (unsafeCoerce biBadgeCheck_)
+biBadgeCheck = element (unsafeCoerce _biBadgeCheck)
 
-foreign import biBall_ :: ReactIcon
+foreign import _biBall :: ReactIcon
 
 biBall :: forall a b. Union a b PropsIcon => Record a -> JSX
-biBall = element (unsafeCoerce biBall_)
+biBall = element (unsafeCoerce _biBall)
 
-foreign import biBandAid_ :: ReactIcon
+foreign import _biBandAid :: ReactIcon
 
 biBandAid :: forall a b. Union a b PropsIcon => Record a -> JSX
-biBandAid = element (unsafeCoerce biBandAid_)
+biBandAid = element (unsafeCoerce _biBandAid)
 
-foreign import biBarChart_ :: ReactIcon
+foreign import _biBarChart :: ReactIcon
 
 biBarChart :: forall a b. Union a b PropsIcon => Record a -> JSX
-biBarChart = element (unsafeCoerce biBarChart_)
+biBarChart = element (unsafeCoerce _biBarChart)
 
-foreign import biBarChartAlt_ :: ReactIcon
+foreign import _biBarChartAlt :: ReactIcon
 
 biBarChartAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-biBarChartAlt = element (unsafeCoerce biBarChartAlt_)
+biBarChartAlt = element (unsafeCoerce _biBarChartAlt)
 
-foreign import biBarChartSquare_ :: ReactIcon
+foreign import _biBarChartSquare :: ReactIcon
 
 biBarChartSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-biBarChartSquare = element (unsafeCoerce biBarChartSquare_)
+biBarChartSquare = element (unsafeCoerce _biBarChartSquare)
 
-foreign import biBarcode_ :: ReactIcon
+foreign import _biBarcode :: ReactIcon
 
 biBarcode :: forall a b. Union a b PropsIcon => Record a -> JSX
-biBarcode = element (unsafeCoerce biBarcode_)
+biBarcode = element (unsafeCoerce _biBarcode)
 
-foreign import biBarcodeReader_ :: ReactIcon
+foreign import _biBarcodeReader :: ReactIcon
 
 biBarcodeReader :: forall a b. Union a b PropsIcon => Record a -> JSX
-biBarcodeReader = element (unsafeCoerce biBarcodeReader_)
+biBarcodeReader = element (unsafeCoerce _biBarcodeReader)
 
-foreign import biBaseball_ :: ReactIcon
+foreign import _biBaseball :: ReactIcon
 
 biBaseball :: forall a b. Union a b PropsIcon => Record a -> JSX
-biBaseball = element (unsafeCoerce biBaseball_)
+biBaseball = element (unsafeCoerce _biBaseball)
 
-foreign import biBasket_ :: ReactIcon
+foreign import _biBasket :: ReactIcon
 
 biBasket :: forall a b. Union a b PropsIcon => Record a -> JSX
-biBasket = element (unsafeCoerce biBasket_)
+biBasket = element (unsafeCoerce _biBasket)
 
-foreign import biBasketball_ :: ReactIcon
+foreign import _biBasketball :: ReactIcon
 
 biBasketball :: forall a b. Union a b PropsIcon => Record a -> JSX
-biBasketball = element (unsafeCoerce biBasketball_)
+biBasketball = element (unsafeCoerce _biBasketball)
 
-foreign import biBath_ :: ReactIcon
+foreign import _biBath :: ReactIcon
 
 biBath :: forall a b. Union a b PropsIcon => Record a -> JSX
-biBath = element (unsafeCoerce biBath_)
+biBath = element (unsafeCoerce _biBath)
 
-foreign import biBattery_ :: ReactIcon
+foreign import _biBattery :: ReactIcon
 
 biBattery :: forall a b. Union a b PropsIcon => Record a -> JSX
-biBattery = element (unsafeCoerce biBattery_)
+biBattery = element (unsafeCoerce _biBattery)
 
-foreign import biBed_ :: ReactIcon
+foreign import _biBed :: ReactIcon
 
 biBed :: forall a b. Union a b PropsIcon => Record a -> JSX
-biBed = element (unsafeCoerce biBed_)
+biBed = element (unsafeCoerce _biBed)
 
-foreign import biBeenHere_ :: ReactIcon
+foreign import _biBeenHere :: ReactIcon
 
 biBeenHere :: forall a b. Union a b PropsIcon => Record a -> JSX
-biBeenHere = element (unsafeCoerce biBeenHere_)
+biBeenHere = element (unsafeCoerce _biBeenHere)
 
-foreign import biBeer_ :: ReactIcon
+foreign import _biBeer :: ReactIcon
 
 biBeer :: forall a b. Union a b PropsIcon => Record a -> JSX
-biBeer = element (unsafeCoerce biBeer_)
+biBeer = element (unsafeCoerce _biBeer)
 
-foreign import biBell_ :: ReactIcon
+foreign import _biBell :: ReactIcon
 
 biBell :: forall a b. Union a b PropsIcon => Record a -> JSX
-biBell = element (unsafeCoerce biBell_)
+biBell = element (unsafeCoerce _biBell)
 
-foreign import biBellMinus_ :: ReactIcon
+foreign import _biBellMinus :: ReactIcon
 
 biBellMinus :: forall a b. Union a b PropsIcon => Record a -> JSX
-biBellMinus = element (unsafeCoerce biBellMinus_)
+biBellMinus = element (unsafeCoerce _biBellMinus)
 
-foreign import biBellOff_ :: ReactIcon
+foreign import _biBellOff :: ReactIcon
 
 biBellOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-biBellOff = element (unsafeCoerce biBellOff_)
+biBellOff = element (unsafeCoerce _biBellOff)
 
-foreign import biBellPlus_ :: ReactIcon
+foreign import _biBellPlus :: ReactIcon
 
 biBellPlus :: forall a b. Union a b PropsIcon => Record a -> JSX
-biBellPlus = element (unsafeCoerce biBellPlus_)
+biBellPlus = element (unsafeCoerce _biBellPlus)
 
-foreign import biBible_ :: ReactIcon
+foreign import _biBible :: ReactIcon
 
 biBible :: forall a b. Union a b PropsIcon => Record a -> JSX
-biBible = element (unsafeCoerce biBible_)
+biBible = element (unsafeCoerce _biBible)
 
-foreign import biBitcoin_ :: ReactIcon
+foreign import _biBitcoin :: ReactIcon
 
 biBitcoin :: forall a b. Union a b PropsIcon => Record a -> JSX
-biBitcoin = element (unsafeCoerce biBitcoin_)
+biBitcoin = element (unsafeCoerce _biBitcoin)
 
-foreign import biBlanket_ :: ReactIcon
+foreign import _biBlanket :: ReactIcon
 
 biBlanket :: forall a b. Union a b PropsIcon => Record a -> JSX
-biBlanket = element (unsafeCoerce biBlanket_)
+biBlanket = element (unsafeCoerce _biBlanket)
 
-foreign import biBlock_ :: ReactIcon
+foreign import _biBlock :: ReactIcon
 
 biBlock :: forall a b. Union a b PropsIcon => Record a -> JSX
-biBlock = element (unsafeCoerce biBlock_)
+biBlock = element (unsafeCoerce _biBlock)
 
-foreign import biBluetooth_ :: ReactIcon
+foreign import _biBluetooth :: ReactIcon
 
 biBluetooth :: forall a b. Union a b PropsIcon => Record a -> JSX
-biBluetooth = element (unsafeCoerce biBluetooth_)
+biBluetooth = element (unsafeCoerce _biBluetooth)
 
-foreign import biBody_ :: ReactIcon
+foreign import _biBody :: ReactIcon
 
 biBody :: forall a b. Union a b PropsIcon => Record a -> JSX
-biBody = element (unsafeCoerce biBody_)
+biBody = element (unsafeCoerce _biBody)
 
-foreign import biBold_ :: ReactIcon
+foreign import _biBold :: ReactIcon
 
 biBold :: forall a b. Union a b PropsIcon => Record a -> JSX
-biBold = element (unsafeCoerce biBold_)
+biBold = element (unsafeCoerce _biBold)
 
-foreign import biBoltCircle_ :: ReactIcon
+foreign import _biBoltCircle :: ReactIcon
 
 biBoltCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-biBoltCircle = element (unsafeCoerce biBoltCircle_)
+biBoltCircle = element (unsafeCoerce _biBoltCircle)
 
-foreign import biBomb_ :: ReactIcon
+foreign import _biBomb :: ReactIcon
 
 biBomb :: forall a b. Union a b PropsIcon => Record a -> JSX
-biBomb = element (unsafeCoerce biBomb_)
+biBomb = element (unsafeCoerce _biBomb)
 
-foreign import biBone_ :: ReactIcon
+foreign import _biBone :: ReactIcon
 
 biBone :: forall a b. Union a b PropsIcon => Record a -> JSX
-biBone = element (unsafeCoerce biBone_)
+biBone = element (unsafeCoerce _biBone)
 
-foreign import biBong_ :: ReactIcon
+foreign import _biBong :: ReactIcon
 
 biBong :: forall a b. Union a b PropsIcon => Record a -> JSX
-biBong = element (unsafeCoerce biBong_)
+biBong = element (unsafeCoerce _biBong)
 
-foreign import biBook_ :: ReactIcon
+foreign import _biBook :: ReactIcon
 
 biBook :: forall a b. Union a b PropsIcon => Record a -> JSX
-biBook = element (unsafeCoerce biBook_)
+biBook = element (unsafeCoerce _biBook)
 
-foreign import biBookAdd_ :: ReactIcon
+foreign import _biBookAdd :: ReactIcon
 
 biBookAdd :: forall a b. Union a b PropsIcon => Record a -> JSX
-biBookAdd = element (unsafeCoerce biBookAdd_)
+biBookAdd = element (unsafeCoerce _biBookAdd)
 
-foreign import biBookAlt_ :: ReactIcon
+foreign import _biBookAlt :: ReactIcon
 
 biBookAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-biBookAlt = element (unsafeCoerce biBookAlt_)
+biBookAlt = element (unsafeCoerce _biBookAlt)
 
-foreign import biBookBookmark_ :: ReactIcon
+foreign import _biBookBookmark :: ReactIcon
 
 biBookBookmark :: forall a b. Union a b PropsIcon => Record a -> JSX
-biBookBookmark = element (unsafeCoerce biBookBookmark_)
+biBookBookmark = element (unsafeCoerce _biBookBookmark)
 
-foreign import biBookContent_ :: ReactIcon
+foreign import _biBookContent :: ReactIcon
 
 biBookContent :: forall a b. Union a b PropsIcon => Record a -> JSX
-biBookContent = element (unsafeCoerce biBookContent_)
+biBookContent = element (unsafeCoerce _biBookContent)
 
-foreign import biBookHeart_ :: ReactIcon
+foreign import _biBookHeart :: ReactIcon
 
 biBookHeart :: forall a b. Union a b PropsIcon => Record a -> JSX
-biBookHeart = element (unsafeCoerce biBookHeart_)
+biBookHeart = element (unsafeCoerce _biBookHeart)
 
-foreign import biBookmark_ :: ReactIcon
+foreign import _biBookmark :: ReactIcon
 
 biBookmark :: forall a b. Union a b PropsIcon => Record a -> JSX
-biBookmark = element (unsafeCoerce biBookmark_)
+biBookmark = element (unsafeCoerce _biBookmark)
 
-foreign import biBookmarkAlt_ :: ReactIcon
+foreign import _biBookmarkAlt :: ReactIcon
 
 biBookmarkAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-biBookmarkAlt = element (unsafeCoerce biBookmarkAlt_)
+biBookmarkAlt = element (unsafeCoerce _biBookmarkAlt)
 
-foreign import biBookmarkAltMinus_ :: ReactIcon
+foreign import _biBookmarkAltMinus :: ReactIcon
 
 biBookmarkAltMinus :: forall a b. Union a b PropsIcon => Record a -> JSX
-biBookmarkAltMinus = element (unsafeCoerce biBookmarkAltMinus_)
+biBookmarkAltMinus = element (unsafeCoerce _biBookmarkAltMinus)
 
-foreign import biBookmarkAltPlus_ :: ReactIcon
+foreign import _biBookmarkAltPlus :: ReactIcon
 
 biBookmarkAltPlus :: forall a b. Union a b PropsIcon => Record a -> JSX
-biBookmarkAltPlus = element (unsafeCoerce biBookmarkAltPlus_)
+biBookmarkAltPlus = element (unsafeCoerce _biBookmarkAltPlus)
 
-foreign import biBookmarkHeart_ :: ReactIcon
+foreign import _biBookmarkHeart :: ReactIcon
 
 biBookmarkHeart :: forall a b. Union a b PropsIcon => Record a -> JSX
-biBookmarkHeart = element (unsafeCoerce biBookmarkHeart_)
+biBookmarkHeart = element (unsafeCoerce _biBookmarkHeart)
 
-foreign import biBookmarkMinus_ :: ReactIcon
+foreign import _biBookmarkMinus :: ReactIcon
 
 biBookmarkMinus :: forall a b. Union a b PropsIcon => Record a -> JSX
-biBookmarkMinus = element (unsafeCoerce biBookmarkMinus_)
+biBookmarkMinus = element (unsafeCoerce _biBookmarkMinus)
 
-foreign import biBookmarkPlus_ :: ReactIcon
+foreign import _biBookmarkPlus :: ReactIcon
 
 biBookmarkPlus :: forall a b. Union a b PropsIcon => Record a -> JSX
-biBookmarkPlus = element (unsafeCoerce biBookmarkPlus_)
+biBookmarkPlus = element (unsafeCoerce _biBookmarkPlus)
 
-foreign import biBookmarks_ :: ReactIcon
+foreign import _biBookmarks :: ReactIcon
 
 biBookmarks :: forall a b. Union a b PropsIcon => Record a -> JSX
-biBookmarks = element (unsafeCoerce biBookmarks_)
+biBookmarks = element (unsafeCoerce _biBookmarks)
 
-foreign import biBookOpen_ :: ReactIcon
+foreign import _biBookOpen :: ReactIcon
 
 biBookOpen :: forall a b. Union a b PropsIcon => Record a -> JSX
-biBookOpen = element (unsafeCoerce biBookOpen_)
+biBookOpen = element (unsafeCoerce _biBookOpen)
 
-foreign import biBookReader_ :: ReactIcon
+foreign import _biBookReader :: ReactIcon
 
 biBookReader :: forall a b. Union a b PropsIcon => Record a -> JSX
-biBookReader = element (unsafeCoerce biBookReader_)
+biBookReader = element (unsafeCoerce _biBookReader)
 
-foreign import biBorderAll_ :: ReactIcon
+foreign import _biBorderAll :: ReactIcon
 
 biBorderAll :: forall a b. Union a b PropsIcon => Record a -> JSX
-biBorderAll = element (unsafeCoerce biBorderAll_)
+biBorderAll = element (unsafeCoerce _biBorderAll)
 
-foreign import biBorderBottom_ :: ReactIcon
+foreign import _biBorderBottom :: ReactIcon
 
 biBorderBottom :: forall a b. Union a b PropsIcon => Record a -> JSX
-biBorderBottom = element (unsafeCoerce biBorderBottom_)
+biBorderBottom = element (unsafeCoerce _biBorderBottom)
 
-foreign import biBorderInner_ :: ReactIcon
+foreign import _biBorderInner :: ReactIcon
 
 biBorderInner :: forall a b. Union a b PropsIcon => Record a -> JSX
-biBorderInner = element (unsafeCoerce biBorderInner_)
+biBorderInner = element (unsafeCoerce _biBorderInner)
 
-foreign import biBorderLeft_ :: ReactIcon
+foreign import _biBorderLeft :: ReactIcon
 
 biBorderLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-biBorderLeft = element (unsafeCoerce biBorderLeft_)
+biBorderLeft = element (unsafeCoerce _biBorderLeft)
 
-foreign import biBorderNone_ :: ReactIcon
+foreign import _biBorderNone :: ReactIcon
 
 biBorderNone :: forall a b. Union a b PropsIcon => Record a -> JSX
-biBorderNone = element (unsafeCoerce biBorderNone_)
+biBorderNone = element (unsafeCoerce _biBorderNone)
 
-foreign import biBorderOuter_ :: ReactIcon
+foreign import _biBorderOuter :: ReactIcon
 
 biBorderOuter :: forall a b. Union a b PropsIcon => Record a -> JSX
-biBorderOuter = element (unsafeCoerce biBorderOuter_)
+biBorderOuter = element (unsafeCoerce _biBorderOuter)
 
-foreign import biBorderRadius_ :: ReactIcon
+foreign import _biBorderRadius :: ReactIcon
 
 biBorderRadius :: forall a b. Union a b PropsIcon => Record a -> JSX
-biBorderRadius = element (unsafeCoerce biBorderRadius_)
+biBorderRadius = element (unsafeCoerce _biBorderRadius)
 
-foreign import biBorderRight_ :: ReactIcon
+foreign import _biBorderRight :: ReactIcon
 
 biBorderRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-biBorderRight = element (unsafeCoerce biBorderRight_)
+biBorderRight = element (unsafeCoerce _biBorderRight)
 
-foreign import biBorderTop_ :: ReactIcon
+foreign import _biBorderTop :: ReactIcon
 
 biBorderTop :: forall a b. Union a b PropsIcon => Record a -> JSX
-biBorderTop = element (unsafeCoerce biBorderTop_)
+biBorderTop = element (unsafeCoerce _biBorderTop)
 
-foreign import biBot_ :: ReactIcon
+foreign import _biBot :: ReactIcon
 
 biBot :: forall a b. Union a b PropsIcon => Record a -> JSX
-biBot = element (unsafeCoerce biBot_)
+biBot = element (unsafeCoerce _biBot)
 
-foreign import biBowlingBall_ :: ReactIcon
+foreign import _biBowlingBall :: ReactIcon
 
 biBowlingBall :: forall a b. Union a b PropsIcon => Record a -> JSX
-biBowlingBall = element (unsafeCoerce biBowlingBall_)
+biBowlingBall = element (unsafeCoerce _biBowlingBall)
 
-foreign import biBox_ :: ReactIcon
+foreign import _biBox :: ReactIcon
 
 biBox :: forall a b. Union a b PropsIcon => Record a -> JSX
-biBox = element (unsafeCoerce biBox_)
+biBox = element (unsafeCoerce _biBox)
 
-foreign import biBracket_ :: ReactIcon
+foreign import _biBracket :: ReactIcon
 
 biBracket :: forall a b. Union a b PropsIcon => Record a -> JSX
-biBracket = element (unsafeCoerce biBracket_)
+biBracket = element (unsafeCoerce _biBracket)
 
-foreign import biBraille_ :: ReactIcon
+foreign import _biBraille :: ReactIcon
 
 biBraille :: forall a b. Union a b PropsIcon => Record a -> JSX
-biBraille = element (unsafeCoerce biBraille_)
+biBraille = element (unsafeCoerce _biBraille)
 
-foreign import biBrain_ :: ReactIcon
+foreign import _biBrain :: ReactIcon
 
 biBrain :: forall a b. Union a b PropsIcon => Record a -> JSX
-biBrain = element (unsafeCoerce biBrain_)
+biBrain = element (unsafeCoerce _biBrain)
 
-foreign import biBriefcase_ :: ReactIcon
+foreign import _biBriefcase :: ReactIcon
 
 biBriefcase :: forall a b. Union a b PropsIcon => Record a -> JSX
-biBriefcase = element (unsafeCoerce biBriefcase_)
+biBriefcase = element (unsafeCoerce _biBriefcase)
 
-foreign import biBriefcaseAlt_ :: ReactIcon
+foreign import _biBriefcaseAlt :: ReactIcon
 
 biBriefcaseAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-biBriefcaseAlt = element (unsafeCoerce biBriefcaseAlt_)
+biBriefcaseAlt = element (unsafeCoerce _biBriefcaseAlt)
 
-foreign import biBrightness_ :: ReactIcon
+foreign import _biBrightness :: ReactIcon
 
 biBrightness :: forall a b. Union a b PropsIcon => Record a -> JSX
-biBrightness = element (unsafeCoerce biBrightness_)
+biBrightness = element (unsafeCoerce _biBrightness)
 
-foreign import biBrightnessHalf_ :: ReactIcon
+foreign import _biBrightnessHalf :: ReactIcon
 
 biBrightnessHalf :: forall a b. Union a b PropsIcon => Record a -> JSX
-biBrightnessHalf = element (unsafeCoerce biBrightnessHalf_)
+biBrightnessHalf = element (unsafeCoerce _biBrightnessHalf)
 
-foreign import biBroadcast_ :: ReactIcon
+foreign import _biBroadcast :: ReactIcon
 
 biBroadcast :: forall a b. Union a b PropsIcon => Record a -> JSX
-biBroadcast = element (unsafeCoerce biBroadcast_)
+biBroadcast = element (unsafeCoerce _biBroadcast)
 
-foreign import biBrush_ :: ReactIcon
+foreign import _biBrush :: ReactIcon
 
 biBrush :: forall a b. Union a b PropsIcon => Record a -> JSX
-biBrush = element (unsafeCoerce biBrush_)
+biBrush = element (unsafeCoerce _biBrush)
 
-foreign import biBrushAlt_ :: ReactIcon
+foreign import _biBrushAlt :: ReactIcon
 
 biBrushAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-biBrushAlt = element (unsafeCoerce biBrushAlt_)
+biBrushAlt = element (unsafeCoerce _biBrushAlt)
 
-foreign import biBug_ :: ReactIcon
+foreign import _biBug :: ReactIcon
 
 biBug :: forall a b. Union a b PropsIcon => Record a -> JSX
-biBug = element (unsafeCoerce biBug_)
+biBug = element (unsafeCoerce _biBug)
 
-foreign import biBugAlt_ :: ReactIcon
+foreign import _biBugAlt :: ReactIcon
 
 biBugAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-biBugAlt = element (unsafeCoerce biBugAlt_)
+biBugAlt = element (unsafeCoerce _biBugAlt)
 
-foreign import biBuilding_ :: ReactIcon
+foreign import _biBuilding :: ReactIcon
 
 biBuilding :: forall a b. Union a b PropsIcon => Record a -> JSX
-biBuilding = element (unsafeCoerce biBuilding_)
+biBuilding = element (unsafeCoerce _biBuilding)
 
-foreign import biBuildingHouse_ :: ReactIcon
+foreign import _biBuildingHouse :: ReactIcon
 
 biBuildingHouse :: forall a b. Union a b PropsIcon => Record a -> JSX
-biBuildingHouse = element (unsafeCoerce biBuildingHouse_)
+biBuildingHouse = element (unsafeCoerce _biBuildingHouse)
 
-foreign import biBuildings_ :: ReactIcon
+foreign import _biBuildings :: ReactIcon
 
 biBuildings :: forall a b. Union a b PropsIcon => Record a -> JSX
-biBuildings = element (unsafeCoerce biBuildings_)
+biBuildings = element (unsafeCoerce _biBuildings)
 
-foreign import biBulb_ :: ReactIcon
+foreign import _biBulb :: ReactIcon
 
 biBulb :: forall a b. Union a b PropsIcon => Record a -> JSX
-biBulb = element (unsafeCoerce biBulb_)
+biBulb = element (unsafeCoerce _biBulb)
 
-foreign import biBullseye_ :: ReactIcon
+foreign import _biBullseye :: ReactIcon
 
 biBullseye :: forall a b. Union a b PropsIcon => Record a -> JSX
-biBullseye = element (unsafeCoerce biBullseye_)
+biBullseye = element (unsafeCoerce _biBullseye)
 
-foreign import biBuoy_ :: ReactIcon
+foreign import _biBuoy :: ReactIcon
 
 biBuoy :: forall a b. Union a b PropsIcon => Record a -> JSX
-biBuoy = element (unsafeCoerce biBuoy_)
+biBuoy = element (unsafeCoerce _biBuoy)
 
-foreign import biBus_ :: ReactIcon
+foreign import _biBus :: ReactIcon
 
 biBus :: forall a b. Union a b PropsIcon => Record a -> JSX
-biBus = element (unsafeCoerce biBus_)
+biBus = element (unsafeCoerce _biBus)
 
-foreign import biBusSchool_ :: ReactIcon
+foreign import _biBusSchool :: ReactIcon
 
 biBusSchool :: forall a b. Union a b PropsIcon => Record a -> JSX
-biBusSchool = element (unsafeCoerce biBusSchool_)
+biBusSchool = element (unsafeCoerce _biBusSchool)
 
-foreign import biCabinet_ :: ReactIcon
+foreign import _biCabinet :: ReactIcon
 
 biCabinet :: forall a b. Union a b PropsIcon => Record a -> JSX
-biCabinet = element (unsafeCoerce biCabinet_)
+biCabinet = element (unsafeCoerce _biCabinet)
 
-foreign import biCake_ :: ReactIcon
+foreign import _biCake :: ReactIcon
 
 biCake :: forall a b. Union a b PropsIcon => Record a -> JSX
-biCake = element (unsafeCoerce biCake_)
+biCake = element (unsafeCoerce _biCake)
 
-foreign import biCalculator_ :: ReactIcon
+foreign import _biCalculator :: ReactIcon
 
 biCalculator :: forall a b. Union a b PropsIcon => Record a -> JSX
-biCalculator = element (unsafeCoerce biCalculator_)
+biCalculator = element (unsafeCoerce _biCalculator)
 
-foreign import biCalendar_ :: ReactIcon
+foreign import _biCalendar :: ReactIcon
 
 biCalendar :: forall a b. Union a b PropsIcon => Record a -> JSX
-biCalendar = element (unsafeCoerce biCalendar_)
+biCalendar = element (unsafeCoerce _biCalendar)
 
-foreign import biCalendarAlt_ :: ReactIcon
+foreign import _biCalendarAlt :: ReactIcon
 
 biCalendarAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-biCalendarAlt = element (unsafeCoerce biCalendarAlt_)
+biCalendarAlt = element (unsafeCoerce _biCalendarAlt)
 
-foreign import biCalendarCheck_ :: ReactIcon
+foreign import _biCalendarCheck :: ReactIcon
 
 biCalendarCheck :: forall a b. Union a b PropsIcon => Record a -> JSX
-biCalendarCheck = element (unsafeCoerce biCalendarCheck_)
+biCalendarCheck = element (unsafeCoerce _biCalendarCheck)
 
-foreign import biCalendarEdit_ :: ReactIcon
+foreign import _biCalendarEdit :: ReactIcon
 
 biCalendarEdit :: forall a b. Union a b PropsIcon => Record a -> JSX
-biCalendarEdit = element (unsafeCoerce biCalendarEdit_)
+biCalendarEdit = element (unsafeCoerce _biCalendarEdit)
 
-foreign import biCalendarEvent_ :: ReactIcon
+foreign import _biCalendarEvent :: ReactIcon
 
 biCalendarEvent :: forall a b. Union a b PropsIcon => Record a -> JSX
-biCalendarEvent = element (unsafeCoerce biCalendarEvent_)
+biCalendarEvent = element (unsafeCoerce _biCalendarEvent)
 
-foreign import biCalendarExclamation_ :: ReactIcon
+foreign import _biCalendarExclamation :: ReactIcon
 
 biCalendarExclamation :: forall a b. Union a b PropsIcon => Record a -> JSX
-biCalendarExclamation = element (unsafeCoerce biCalendarExclamation_)
+biCalendarExclamation = element (unsafeCoerce _biCalendarExclamation)
 
-foreign import biCalendarHeart_ :: ReactIcon
+foreign import _biCalendarHeart :: ReactIcon
 
 biCalendarHeart :: forall a b. Union a b PropsIcon => Record a -> JSX
-biCalendarHeart = element (unsafeCoerce biCalendarHeart_)
+biCalendarHeart = element (unsafeCoerce _biCalendarHeart)
 
-foreign import biCalendarMinus_ :: ReactIcon
+foreign import _biCalendarMinus :: ReactIcon
 
 biCalendarMinus :: forall a b. Union a b PropsIcon => Record a -> JSX
-biCalendarMinus = element (unsafeCoerce biCalendarMinus_)
+biCalendarMinus = element (unsafeCoerce _biCalendarMinus)
 
-foreign import biCalendarPlus_ :: ReactIcon
+foreign import _biCalendarPlus :: ReactIcon
 
 biCalendarPlus :: forall a b. Union a b PropsIcon => Record a -> JSX
-biCalendarPlus = element (unsafeCoerce biCalendarPlus_)
+biCalendarPlus = element (unsafeCoerce _biCalendarPlus)
 
-foreign import biCalendarStar_ :: ReactIcon
+foreign import _biCalendarStar :: ReactIcon
 
 biCalendarStar :: forall a b. Union a b PropsIcon => Record a -> JSX
-biCalendarStar = element (unsafeCoerce biCalendarStar_)
+biCalendarStar = element (unsafeCoerce _biCalendarStar)
 
-foreign import biCalendarWeek_ :: ReactIcon
+foreign import _biCalendarWeek :: ReactIcon
 
 biCalendarWeek :: forall a b. Union a b PropsIcon => Record a -> JSX
-biCalendarWeek = element (unsafeCoerce biCalendarWeek_)
+biCalendarWeek = element (unsafeCoerce _biCalendarWeek)
 
-foreign import biCalendarX_ :: ReactIcon
+foreign import _biCalendarX :: ReactIcon
 
 biCalendarX :: forall a b. Union a b PropsIcon => Record a -> JSX
-biCalendarX = element (unsafeCoerce biCalendarX_)
+biCalendarX = element (unsafeCoerce _biCalendarX)
 
-foreign import biCamera_ :: ReactIcon
+foreign import _biCamera :: ReactIcon
 
 biCamera :: forall a b. Union a b PropsIcon => Record a -> JSX
-biCamera = element (unsafeCoerce biCamera_)
+biCamera = element (unsafeCoerce _biCamera)
 
-foreign import biCameraHome_ :: ReactIcon
+foreign import _biCameraHome :: ReactIcon
 
 biCameraHome :: forall a b. Union a b PropsIcon => Record a -> JSX
-biCameraHome = element (unsafeCoerce biCameraHome_)
+biCameraHome = element (unsafeCoerce _biCameraHome)
 
-foreign import biCameraMovie_ :: ReactIcon
+foreign import _biCameraMovie :: ReactIcon
 
 biCameraMovie :: forall a b. Union a b PropsIcon => Record a -> JSX
-biCameraMovie = element (unsafeCoerce biCameraMovie_)
+biCameraMovie = element (unsafeCoerce _biCameraMovie)
 
-foreign import biCameraOff_ :: ReactIcon
+foreign import _biCameraOff :: ReactIcon
 
 biCameraOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-biCameraOff = element (unsafeCoerce biCameraOff_)
+biCameraOff = element (unsafeCoerce _biCameraOff)
 
-foreign import biCapsule_ :: ReactIcon
+foreign import _biCapsule :: ReactIcon
 
 biCapsule :: forall a b. Union a b PropsIcon => Record a -> JSX
-biCapsule = element (unsafeCoerce biCapsule_)
+biCapsule = element (unsafeCoerce _biCapsule)
 
-foreign import biCaptions_ :: ReactIcon
+foreign import _biCaptions :: ReactIcon
 
 biCaptions :: forall a b. Union a b PropsIcon => Record a -> JSX
-biCaptions = element (unsafeCoerce biCaptions_)
+biCaptions = element (unsafeCoerce _biCaptions)
 
-foreign import biCar_ :: ReactIcon
+foreign import _biCar :: ReactIcon
 
 biCar :: forall a b. Union a b PropsIcon => Record a -> JSX
-biCar = element (unsafeCoerce biCar_)
+biCar = element (unsafeCoerce _biCar)
 
-foreign import biCard_ :: ReactIcon
+foreign import _biCard :: ReactIcon
 
 biCard :: forall a b. Union a b PropsIcon => Record a -> JSX
-biCard = element (unsafeCoerce biCard_)
+biCard = element (unsafeCoerce _biCard)
 
-foreign import biCaretDown_ :: ReactIcon
+foreign import _biCaretDown :: ReactIcon
 
 biCaretDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-biCaretDown = element (unsafeCoerce biCaretDown_)
+biCaretDown = element (unsafeCoerce _biCaretDown)
 
-foreign import biCaretDownCircle_ :: ReactIcon
+foreign import _biCaretDownCircle :: ReactIcon
 
 biCaretDownCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-biCaretDownCircle = element (unsafeCoerce biCaretDownCircle_)
+biCaretDownCircle = element (unsafeCoerce _biCaretDownCircle)
 
-foreign import biCaretDownSquare_ :: ReactIcon
+foreign import _biCaretDownSquare :: ReactIcon
 
 biCaretDownSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-biCaretDownSquare = element (unsafeCoerce biCaretDownSquare_)
+biCaretDownSquare = element (unsafeCoerce _biCaretDownSquare)
 
-foreign import biCaretLeft_ :: ReactIcon
+foreign import _biCaretLeft :: ReactIcon
 
 biCaretLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-biCaretLeft = element (unsafeCoerce biCaretLeft_)
+biCaretLeft = element (unsafeCoerce _biCaretLeft)
 
-foreign import biCaretLeftCircle_ :: ReactIcon
+foreign import _biCaretLeftCircle :: ReactIcon
 
 biCaretLeftCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-biCaretLeftCircle = element (unsafeCoerce biCaretLeftCircle_)
+biCaretLeftCircle = element (unsafeCoerce _biCaretLeftCircle)
 
-foreign import biCaretLeftSquare_ :: ReactIcon
+foreign import _biCaretLeftSquare :: ReactIcon
 
 biCaretLeftSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-biCaretLeftSquare = element (unsafeCoerce biCaretLeftSquare_)
+biCaretLeftSquare = element (unsafeCoerce _biCaretLeftSquare)
 
-foreign import biCaretRight_ :: ReactIcon
+foreign import _biCaretRight :: ReactIcon
 
 biCaretRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-biCaretRight = element (unsafeCoerce biCaretRight_)
+biCaretRight = element (unsafeCoerce _biCaretRight)
 
-foreign import biCaretRightCircle_ :: ReactIcon
+foreign import _biCaretRightCircle :: ReactIcon
 
 biCaretRightCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-biCaretRightCircle = element (unsafeCoerce biCaretRightCircle_)
+biCaretRightCircle = element (unsafeCoerce _biCaretRightCircle)
 
-foreign import biCaretRightSquare_ :: ReactIcon
+foreign import _biCaretRightSquare :: ReactIcon
 
 biCaretRightSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-biCaretRightSquare = element (unsafeCoerce biCaretRightSquare_)
+biCaretRightSquare = element (unsafeCoerce _biCaretRightSquare)
 
-foreign import biCaretUp_ :: ReactIcon
+foreign import _biCaretUp :: ReactIcon
 
 biCaretUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-biCaretUp = element (unsafeCoerce biCaretUp_)
+biCaretUp = element (unsafeCoerce _biCaretUp)
 
-foreign import biCaretUpCircle_ :: ReactIcon
+foreign import _biCaretUpCircle :: ReactIcon
 
 biCaretUpCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-biCaretUpCircle = element (unsafeCoerce biCaretUpCircle_)
+biCaretUpCircle = element (unsafeCoerce _biCaretUpCircle)
 
-foreign import biCaretUpSquare_ :: ReactIcon
+foreign import _biCaretUpSquare :: ReactIcon
 
 biCaretUpSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-biCaretUpSquare = element (unsafeCoerce biCaretUpSquare_)
+biCaretUpSquare = element (unsafeCoerce _biCaretUpSquare)
 
-foreign import biCarousel_ :: ReactIcon
+foreign import _biCarousel :: ReactIcon
 
 biCarousel :: forall a b. Union a b PropsIcon => Record a -> JSX
-biCarousel = element (unsafeCoerce biCarousel_)
+biCarousel = element (unsafeCoerce _biCarousel)
 
-foreign import biCart_ :: ReactIcon
+foreign import _biCart :: ReactIcon
 
 biCart :: forall a b. Union a b PropsIcon => Record a -> JSX
-biCart = element (unsafeCoerce biCart_)
+biCart = element (unsafeCoerce _biCart)
 
-foreign import biCartAlt_ :: ReactIcon
+foreign import _biCartAlt :: ReactIcon
 
 biCartAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-biCartAlt = element (unsafeCoerce biCartAlt_)
+biCartAlt = element (unsafeCoerce _biCartAlt)
 
-foreign import biCast_ :: ReactIcon
+foreign import _biCast :: ReactIcon
 
 biCast :: forall a b. Union a b PropsIcon => Record a -> JSX
-biCast = element (unsafeCoerce biCast_)
+biCast = element (unsafeCoerce _biCast)
 
-foreign import biCategory_ :: ReactIcon
+foreign import _biCategory :: ReactIcon
 
 biCategory :: forall a b. Union a b PropsIcon => Record a -> JSX
-biCategory = element (unsafeCoerce biCategory_)
+biCategory = element (unsafeCoerce _biCategory)
 
-foreign import biCategoryAlt_ :: ReactIcon
+foreign import _biCategoryAlt :: ReactIcon
 
 biCategoryAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-biCategoryAlt = element (unsafeCoerce biCategoryAlt_)
+biCategoryAlt = element (unsafeCoerce _biCategoryAlt)
 
-foreign import biCctv_ :: ReactIcon
+foreign import _biCctv :: ReactIcon
 
 biCctv :: forall a b. Union a b PropsIcon => Record a -> JSX
-biCctv = element (unsafeCoerce biCctv_)
+biCctv = element (unsafeCoerce _biCctv)
 
-foreign import biCertification_ :: ReactIcon
+foreign import _biCertification :: ReactIcon
 
 biCertification :: forall a b. Union a b PropsIcon => Record a -> JSX
-biCertification = element (unsafeCoerce biCertification_)
+biCertification = element (unsafeCoerce _biCertification)
 
-foreign import biChair_ :: ReactIcon
+foreign import _biChair :: ReactIcon
 
 biChair :: forall a b. Union a b PropsIcon => Record a -> JSX
-biChair = element (unsafeCoerce biChair_)
+biChair = element (unsafeCoerce _biChair)
 
-foreign import biChalkboard_ :: ReactIcon
+foreign import _biChalkboard :: ReactIcon
 
 biChalkboard :: forall a b. Union a b PropsIcon => Record a -> JSX
-biChalkboard = element (unsafeCoerce biChalkboard_)
+biChalkboard = element (unsafeCoerce _biChalkboard)
 
-foreign import biChart_ :: ReactIcon
+foreign import _biChart :: ReactIcon
 
 biChart :: forall a b. Union a b PropsIcon => Record a -> JSX
-biChart = element (unsafeCoerce biChart_)
+biChart = element (unsafeCoerce _biChart)
 
-foreign import biChat_ :: ReactIcon
+foreign import _biChat :: ReactIcon
 
 biChat :: forall a b. Union a b PropsIcon => Record a -> JSX
-biChat = element (unsafeCoerce biChat_)
+biChat = element (unsafeCoerce _biChat)
 
-foreign import biCheck_ :: ReactIcon
+foreign import _biCheck :: ReactIcon
 
 biCheck :: forall a b. Union a b PropsIcon => Record a -> JSX
-biCheck = element (unsafeCoerce biCheck_)
+biCheck = element (unsafeCoerce _biCheck)
 
-foreign import biCheckbox_ :: ReactIcon
+foreign import _biCheckbox :: ReactIcon
 
 biCheckbox :: forall a b. Union a b PropsIcon => Record a -> JSX
-biCheckbox = element (unsafeCoerce biCheckbox_)
+biCheckbox = element (unsafeCoerce _biCheckbox)
 
-foreign import biCheckboxChecked_ :: ReactIcon
+foreign import _biCheckboxChecked :: ReactIcon
 
 biCheckboxChecked :: forall a b. Union a b PropsIcon => Record a -> JSX
-biCheckboxChecked = element (unsafeCoerce biCheckboxChecked_)
+biCheckboxChecked = element (unsafeCoerce _biCheckboxChecked)
 
-foreign import biCheckboxMinus_ :: ReactIcon
+foreign import _biCheckboxMinus :: ReactIcon
 
 biCheckboxMinus :: forall a b. Union a b PropsIcon => Record a -> JSX
-biCheckboxMinus = element (unsafeCoerce biCheckboxMinus_)
+biCheckboxMinus = element (unsafeCoerce _biCheckboxMinus)
 
-foreign import biCheckboxSquare_ :: ReactIcon
+foreign import _biCheckboxSquare :: ReactIcon
 
 biCheckboxSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-biCheckboxSquare = element (unsafeCoerce biCheckboxSquare_)
+biCheckboxSquare = element (unsafeCoerce _biCheckboxSquare)
 
-foreign import biCheckCircle_ :: ReactIcon
+foreign import _biCheckCircle :: ReactIcon
 
 biCheckCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-biCheckCircle = element (unsafeCoerce biCheckCircle_)
+biCheckCircle = element (unsafeCoerce _biCheckCircle)
 
-foreign import biCheckDouble_ :: ReactIcon
+foreign import _biCheckDouble :: ReactIcon
 
 biCheckDouble :: forall a b. Union a b PropsIcon => Record a -> JSX
-biCheckDouble = element (unsafeCoerce biCheckDouble_)
+biCheckDouble = element (unsafeCoerce _biCheckDouble)
 
-foreign import biCheckShield_ :: ReactIcon
+foreign import _biCheckShield :: ReactIcon
 
 biCheckShield :: forall a b. Union a b PropsIcon => Record a -> JSX
-biCheckShield = element (unsafeCoerce biCheckShield_)
+biCheckShield = element (unsafeCoerce _biCheckShield)
 
-foreign import biCheckSquare_ :: ReactIcon
+foreign import _biCheckSquare :: ReactIcon
 
 biCheckSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-biCheckSquare = element (unsafeCoerce biCheckSquare_)
+biCheckSquare = element (unsafeCoerce _biCheckSquare)
 
-foreign import biChevronDown_ :: ReactIcon
+foreign import _biChevronDown :: ReactIcon
 
 biChevronDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-biChevronDown = element (unsafeCoerce biChevronDown_)
+biChevronDown = element (unsafeCoerce _biChevronDown)
 
-foreign import biChevronDownCircle_ :: ReactIcon
+foreign import _biChevronDownCircle :: ReactIcon
 
 biChevronDownCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-biChevronDownCircle = element (unsafeCoerce biChevronDownCircle_)
+biChevronDownCircle = element (unsafeCoerce _biChevronDownCircle)
 
-foreign import biChevronDownSquare_ :: ReactIcon
+foreign import _biChevronDownSquare :: ReactIcon
 
 biChevronDownSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-biChevronDownSquare = element (unsafeCoerce biChevronDownSquare_)
+biChevronDownSquare = element (unsafeCoerce _biChevronDownSquare)
 
-foreign import biChevronLeft_ :: ReactIcon
+foreign import _biChevronLeft :: ReactIcon
 
 biChevronLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-biChevronLeft = element (unsafeCoerce biChevronLeft_)
+biChevronLeft = element (unsafeCoerce _biChevronLeft)
 
-foreign import biChevronLeftCircle_ :: ReactIcon
+foreign import _biChevronLeftCircle :: ReactIcon
 
 biChevronLeftCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-biChevronLeftCircle = element (unsafeCoerce biChevronLeftCircle_)
+biChevronLeftCircle = element (unsafeCoerce _biChevronLeftCircle)
 
-foreign import biChevronLeftSquare_ :: ReactIcon
+foreign import _biChevronLeftSquare :: ReactIcon
 
 biChevronLeftSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-biChevronLeftSquare = element (unsafeCoerce biChevronLeftSquare_)
+biChevronLeftSquare = element (unsafeCoerce _biChevronLeftSquare)
 
-foreign import biChevronRight_ :: ReactIcon
+foreign import _biChevronRight :: ReactIcon
 
 biChevronRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-biChevronRight = element (unsafeCoerce biChevronRight_)
+biChevronRight = element (unsafeCoerce _biChevronRight)
 
-foreign import biChevronRightCircle_ :: ReactIcon
+foreign import _biChevronRightCircle :: ReactIcon
 
 biChevronRightCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-biChevronRightCircle = element (unsafeCoerce biChevronRightCircle_)
+biChevronRightCircle = element (unsafeCoerce _biChevronRightCircle)
 
-foreign import biChevronRightSquare_ :: ReactIcon
+foreign import _biChevronRightSquare :: ReactIcon
 
 biChevronRightSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-biChevronRightSquare = element (unsafeCoerce biChevronRightSquare_)
+biChevronRightSquare = element (unsafeCoerce _biChevronRightSquare)
 
-foreign import biChevronsDown_ :: ReactIcon
+foreign import _biChevronsDown :: ReactIcon
 
 biChevronsDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-biChevronsDown = element (unsafeCoerce biChevronsDown_)
+biChevronsDown = element (unsafeCoerce _biChevronsDown)
 
-foreign import biChevronsLeft_ :: ReactIcon
+foreign import _biChevronsLeft :: ReactIcon
 
 biChevronsLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-biChevronsLeft = element (unsafeCoerce biChevronsLeft_)
+biChevronsLeft = element (unsafeCoerce _biChevronsLeft)
 
-foreign import biChevronsRight_ :: ReactIcon
+foreign import _biChevronsRight :: ReactIcon
 
 biChevronsRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-biChevronsRight = element (unsafeCoerce biChevronsRight_)
+biChevronsRight = element (unsafeCoerce _biChevronsRight)
 
-foreign import biChevronsUp_ :: ReactIcon
+foreign import _biChevronsUp :: ReactIcon
 
 biChevronsUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-biChevronsUp = element (unsafeCoerce biChevronsUp_)
+biChevronsUp = element (unsafeCoerce _biChevronsUp)
 
-foreign import biChevronUp_ :: ReactIcon
+foreign import _biChevronUp :: ReactIcon
 
 biChevronUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-biChevronUp = element (unsafeCoerce biChevronUp_)
+biChevronUp = element (unsafeCoerce _biChevronUp)
 
-foreign import biChevronUpCircle_ :: ReactIcon
+foreign import _biChevronUpCircle :: ReactIcon
 
 biChevronUpCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-biChevronUpCircle = element (unsafeCoerce biChevronUpCircle_)
+biChevronUpCircle = element (unsafeCoerce _biChevronUpCircle)
 
-foreign import biChevronUpSquare_ :: ReactIcon
+foreign import _biChevronUpSquare :: ReactIcon
 
 biChevronUpSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-biChevronUpSquare = element (unsafeCoerce biChevronUpSquare_)
+biChevronUpSquare = element (unsafeCoerce _biChevronUpSquare)
 
-foreign import biChip_ :: ReactIcon
+foreign import _biChip :: ReactIcon
 
 biChip :: forall a b. Union a b PropsIcon => Record a -> JSX
-biChip = element (unsafeCoerce biChip_)
+biChip = element (unsafeCoerce _biChip)
 
-foreign import biChurch_ :: ReactIcon
+foreign import _biChurch :: ReactIcon
 
 biChurch :: forall a b. Union a b PropsIcon => Record a -> JSX
-biChurch = element (unsafeCoerce biChurch_)
+biChurch = element (unsafeCoerce _biChurch)
 
-foreign import biCircle_ :: ReactIcon
+foreign import _biCircle :: ReactIcon
 
 biCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-biCircle = element (unsafeCoerce biCircle_)
+biCircle = element (unsafeCoerce _biCircle)
 
-foreign import biClinic_ :: ReactIcon
+foreign import _biClinic :: ReactIcon
 
 biClinic :: forall a b. Union a b PropsIcon => Record a -> JSX
-biClinic = element (unsafeCoerce biClinic_)
+biClinic = element (unsafeCoerce _biClinic)
 
-foreign import biClipboard_ :: ReactIcon
+foreign import _biClipboard :: ReactIcon
 
 biClipboard :: forall a b. Union a b PropsIcon => Record a -> JSX
-biClipboard = element (unsafeCoerce biClipboard_)
+biClipboard = element (unsafeCoerce _biClipboard)
 
-foreign import biCloset_ :: ReactIcon
+foreign import _biCloset :: ReactIcon
 
 biCloset :: forall a b. Union a b PropsIcon => Record a -> JSX
-biCloset = element (unsafeCoerce biCloset_)
+biCloset = element (unsafeCoerce _biCloset)
 
-foreign import biCloud_ :: ReactIcon
+foreign import _biCloud :: ReactIcon
 
 biCloud :: forall a b. Union a b PropsIcon => Record a -> JSX
-biCloud = element (unsafeCoerce biCloud_)
+biCloud = element (unsafeCoerce _biCloud)
 
-foreign import biCloudDownload_ :: ReactIcon
+foreign import _biCloudDownload :: ReactIcon
 
 biCloudDownload :: forall a b. Union a b PropsIcon => Record a -> JSX
-biCloudDownload = element (unsafeCoerce biCloudDownload_)
+biCloudDownload = element (unsafeCoerce _biCloudDownload)
 
-foreign import biCloudDrizzle_ :: ReactIcon
+foreign import _biCloudDrizzle :: ReactIcon
 
 biCloudDrizzle :: forall a b. Union a b PropsIcon => Record a -> JSX
-biCloudDrizzle = element (unsafeCoerce biCloudDrizzle_)
+biCloudDrizzle = element (unsafeCoerce _biCloudDrizzle)
 
-foreign import biCloudLightning_ :: ReactIcon
+foreign import _biCloudLightning :: ReactIcon
 
 biCloudLightning :: forall a b. Union a b PropsIcon => Record a -> JSX
-biCloudLightning = element (unsafeCoerce biCloudLightning_)
+biCloudLightning = element (unsafeCoerce _biCloudLightning)
 
-foreign import biCloudLightRain_ :: ReactIcon
+foreign import _biCloudLightRain :: ReactIcon
 
 biCloudLightRain :: forall a b. Union a b PropsIcon => Record a -> JSX
-biCloudLightRain = element (unsafeCoerce biCloudLightRain_)
+biCloudLightRain = element (unsafeCoerce _biCloudLightRain)
 
-foreign import biCloudRain_ :: ReactIcon
+foreign import _biCloudRain :: ReactIcon
 
 biCloudRain :: forall a b. Union a b PropsIcon => Record a -> JSX
-biCloudRain = element (unsafeCoerce biCloudRain_)
+biCloudRain = element (unsafeCoerce _biCloudRain)
 
-foreign import biCloudSnow_ :: ReactIcon
+foreign import _biCloudSnow :: ReactIcon
 
 biCloudSnow :: forall a b. Union a b PropsIcon => Record a -> JSX
-biCloudSnow = element (unsafeCoerce biCloudSnow_)
+biCloudSnow = element (unsafeCoerce _biCloudSnow)
 
-foreign import biCloudUpload_ :: ReactIcon
+foreign import _biCloudUpload :: ReactIcon
 
 biCloudUpload :: forall a b. Union a b PropsIcon => Record a -> JSX
-biCloudUpload = element (unsafeCoerce biCloudUpload_)
+biCloudUpload = element (unsafeCoerce _biCloudUpload)
 
-foreign import biCode_ :: ReactIcon
+foreign import _biCode :: ReactIcon
 
 biCode :: forall a b. Union a b PropsIcon => Record a -> JSX
-biCode = element (unsafeCoerce biCode_)
+biCode = element (unsafeCoerce _biCode)
 
-foreign import biCodeAlt_ :: ReactIcon
+foreign import _biCodeAlt :: ReactIcon
 
 biCodeAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-biCodeAlt = element (unsafeCoerce biCodeAlt_)
+biCodeAlt = element (unsafeCoerce _biCodeAlt)
 
-foreign import biCodeBlock_ :: ReactIcon
+foreign import _biCodeBlock :: ReactIcon
 
 biCodeBlock :: forall a b. Union a b PropsIcon => Record a -> JSX
-biCodeBlock = element (unsafeCoerce biCodeBlock_)
+biCodeBlock = element (unsafeCoerce _biCodeBlock)
 
-foreign import biCodeCurly_ :: ReactIcon
+foreign import _biCodeCurly :: ReactIcon
 
 biCodeCurly :: forall a b. Union a b PropsIcon => Record a -> JSX
-biCodeCurly = element (unsafeCoerce biCodeCurly_)
+biCodeCurly = element (unsafeCoerce _biCodeCurly)
 
-foreign import biCoffee_ :: ReactIcon
+foreign import _biCoffee :: ReactIcon
 
 biCoffee :: forall a b. Union a b PropsIcon => Record a -> JSX
-biCoffee = element (unsafeCoerce biCoffee_)
+biCoffee = element (unsafeCoerce _biCoffee)
 
-foreign import biCoffeeTogo_ :: ReactIcon
+foreign import _biCoffeeTogo :: ReactIcon
 
 biCoffeeTogo :: forall a b. Union a b PropsIcon => Record a -> JSX
-biCoffeeTogo = element (unsafeCoerce biCoffeeTogo_)
+biCoffeeTogo = element (unsafeCoerce _biCoffeeTogo)
 
-foreign import biCog_ :: ReactIcon
+foreign import _biCog :: ReactIcon
 
 biCog :: forall a b. Union a b PropsIcon => Record a -> JSX
-biCog = element (unsafeCoerce biCog_)
+biCog = element (unsafeCoerce _biCog)
 
-foreign import biCoin_ :: ReactIcon
+foreign import _biCoin :: ReactIcon
 
 biCoin :: forall a b. Union a b PropsIcon => Record a -> JSX
-biCoin = element (unsafeCoerce biCoin_)
+biCoin = element (unsafeCoerce _biCoin)
 
-foreign import biCoinStack_ :: ReactIcon
+foreign import _biCoinStack :: ReactIcon
 
 biCoinStack :: forall a b. Union a b PropsIcon => Record a -> JSX
-biCoinStack = element (unsafeCoerce biCoinStack_)
+biCoinStack = element (unsafeCoerce _biCoinStack)
 
-foreign import biCollapse_ :: ReactIcon
+foreign import _biCollapse :: ReactIcon
 
 biCollapse :: forall a b. Union a b PropsIcon => Record a -> JSX
-biCollapse = element (unsafeCoerce biCollapse_)
+biCollapse = element (unsafeCoerce _biCollapse)
 
-foreign import biCollection_ :: ReactIcon
+foreign import _biCollection :: ReactIcon
 
 biCollection :: forall a b. Union a b PropsIcon => Record a -> JSX
-biCollection = element (unsafeCoerce biCollection_)
+biCollection = element (unsafeCoerce _biCollection)
 
-foreign import biColorFill_ :: ReactIcon
+foreign import _biColorFill :: ReactIcon
 
 biColorFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-biColorFill = element (unsafeCoerce biColorFill_)
+biColorFill = element (unsafeCoerce _biColorFill)
 
-foreign import biColumns_ :: ReactIcon
+foreign import _biColumns :: ReactIcon
 
 biColumns :: forall a b. Union a b PropsIcon => Record a -> JSX
-biColumns = element (unsafeCoerce biColumns_)
+biColumns = element (unsafeCoerce _biColumns)
 
-foreign import biCommand_ :: ReactIcon
+foreign import _biCommand :: ReactIcon
 
 biCommand :: forall a b. Union a b PropsIcon => Record a -> JSX
-biCommand = element (unsafeCoerce biCommand_)
+biCommand = element (unsafeCoerce _biCommand)
 
-foreign import biComment_ :: ReactIcon
+foreign import _biComment :: ReactIcon
 
 biComment :: forall a b. Union a b PropsIcon => Record a -> JSX
-biComment = element (unsafeCoerce biComment_)
+biComment = element (unsafeCoerce _biComment)
 
-foreign import biCommentAdd_ :: ReactIcon
+foreign import _biCommentAdd :: ReactIcon
 
 biCommentAdd :: forall a b. Union a b PropsIcon => Record a -> JSX
-biCommentAdd = element (unsafeCoerce biCommentAdd_)
+biCommentAdd = element (unsafeCoerce _biCommentAdd)
 
-foreign import biCommentCheck_ :: ReactIcon
+foreign import _biCommentCheck :: ReactIcon
 
 biCommentCheck :: forall a b. Union a b PropsIcon => Record a -> JSX
-biCommentCheck = element (unsafeCoerce biCommentCheck_)
+biCommentCheck = element (unsafeCoerce _biCommentCheck)
 
-foreign import biCommentDetail_ :: ReactIcon
+foreign import _biCommentDetail :: ReactIcon
 
 biCommentDetail :: forall a b. Union a b PropsIcon => Record a -> JSX
-biCommentDetail = element (unsafeCoerce biCommentDetail_)
+biCommentDetail = element (unsafeCoerce _biCommentDetail)
 
-foreign import biCommentDots_ :: ReactIcon
+foreign import _biCommentDots :: ReactIcon
 
 biCommentDots :: forall a b. Union a b PropsIcon => Record a -> JSX
-biCommentDots = element (unsafeCoerce biCommentDots_)
+biCommentDots = element (unsafeCoerce _biCommentDots)
 
-foreign import biCommentEdit_ :: ReactIcon
+foreign import _biCommentEdit :: ReactIcon
 
 biCommentEdit :: forall a b. Union a b PropsIcon => Record a -> JSX
-biCommentEdit = element (unsafeCoerce biCommentEdit_)
+biCommentEdit = element (unsafeCoerce _biCommentEdit)
 
-foreign import biCommentError_ :: ReactIcon
+foreign import _biCommentError :: ReactIcon
 
 biCommentError :: forall a b. Union a b PropsIcon => Record a -> JSX
-biCommentError = element (unsafeCoerce biCommentError_)
+biCommentError = element (unsafeCoerce _biCommentError)
 
-foreign import biCommentMinus_ :: ReactIcon
+foreign import _biCommentMinus :: ReactIcon
 
 biCommentMinus :: forall a b. Union a b PropsIcon => Record a -> JSX
-biCommentMinus = element (unsafeCoerce biCommentMinus_)
+biCommentMinus = element (unsafeCoerce _biCommentMinus)
 
-foreign import biCommentX_ :: ReactIcon
+foreign import _biCommentX :: ReactIcon
 
 biCommentX :: forall a b. Union a b PropsIcon => Record a -> JSX
-biCommentX = element (unsafeCoerce biCommentX_)
+biCommentX = element (unsafeCoerce _biCommentX)
 
-foreign import biCompass_ :: ReactIcon
+foreign import _biCompass :: ReactIcon
 
 biCompass :: forall a b. Union a b PropsIcon => Record a -> JSX
-biCompass = element (unsafeCoerce biCompass_)
+biCompass = element (unsafeCoerce _biCompass)
 
-foreign import biConfused_ :: ReactIcon
+foreign import _biConfused :: ReactIcon
 
 biConfused :: forall a b. Union a b PropsIcon => Record a -> JSX
-biConfused = element (unsafeCoerce biConfused_)
+biConfused = element (unsafeCoerce _biConfused)
 
-foreign import biConversation_ :: ReactIcon
+foreign import _biConversation :: ReactIcon
 
 biConversation :: forall a b. Union a b PropsIcon => Record a -> JSX
-biConversation = element (unsafeCoerce biConversation_)
+biConversation = element (unsafeCoerce _biConversation)
 
-foreign import biCookie_ :: ReactIcon
+foreign import _biCookie :: ReactIcon
 
 biCookie :: forall a b. Union a b PropsIcon => Record a -> JSX
-biCookie = element (unsafeCoerce biCookie_)
+biCookie = element (unsafeCoerce _biCookie)
 
-foreign import biCool_ :: ReactIcon
+foreign import _biCool :: ReactIcon
 
 biCool :: forall a b. Union a b PropsIcon => Record a -> JSX
-biCool = element (unsafeCoerce biCool_)
+biCool = element (unsafeCoerce _biCool)
 
-foreign import biCopy_ :: ReactIcon
+foreign import _biCopy :: ReactIcon
 
 biCopy :: forall a b. Union a b PropsIcon => Record a -> JSX
-biCopy = element (unsafeCoerce biCopy_)
+biCopy = element (unsafeCoerce _biCopy)
 
-foreign import biCopyAlt_ :: ReactIcon
+foreign import _biCopyAlt :: ReactIcon
 
 biCopyAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-biCopyAlt = element (unsafeCoerce biCopyAlt_)
+biCopyAlt = element (unsafeCoerce _biCopyAlt)
 
-foreign import biCopyright_ :: ReactIcon
+foreign import _biCopyright :: ReactIcon
 
 biCopyright :: forall a b. Union a b PropsIcon => Record a -> JSX
-biCopyright = element (unsafeCoerce biCopyright_)
+biCopyright = element (unsafeCoerce _biCopyright)
 
-foreign import biCreditCard_ :: ReactIcon
+foreign import _biCreditCard :: ReactIcon
 
 biCreditCard :: forall a b. Union a b PropsIcon => Record a -> JSX
-biCreditCard = element (unsafeCoerce biCreditCard_)
+biCreditCard = element (unsafeCoerce _biCreditCard)
 
-foreign import biCreditCardAlt_ :: ReactIcon
+foreign import _biCreditCardAlt :: ReactIcon
 
 biCreditCardAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-biCreditCardAlt = element (unsafeCoerce biCreditCardAlt_)
+biCreditCardAlt = element (unsafeCoerce _biCreditCardAlt)
 
-foreign import biCreditCardFront_ :: ReactIcon
+foreign import _biCreditCardFront :: ReactIcon
 
 biCreditCardFront :: forall a b. Union a b PropsIcon => Record a -> JSX
-biCreditCardFront = element (unsafeCoerce biCreditCardFront_)
+biCreditCardFront = element (unsafeCoerce _biCreditCardFront)
 
-foreign import biCrop_ :: ReactIcon
+foreign import _biCrop :: ReactIcon
 
 biCrop :: forall a b. Union a b PropsIcon => Record a -> JSX
-biCrop = element (unsafeCoerce biCrop_)
+biCrop = element (unsafeCoerce _biCrop)
 
-foreign import biCrosshair_ :: ReactIcon
+foreign import _biCrosshair :: ReactIcon
 
 biCrosshair :: forall a b. Union a b PropsIcon => Record a -> JSX
-biCrosshair = element (unsafeCoerce biCrosshair_)
+biCrosshair = element (unsafeCoerce _biCrosshair)
 
-foreign import biCrown_ :: ReactIcon
+foreign import _biCrown :: ReactIcon
 
 biCrown :: forall a b. Union a b PropsIcon => Record a -> JSX
-biCrown = element (unsafeCoerce biCrown_)
+biCrown = element (unsafeCoerce _biCrown)
 
-foreign import biCube_ :: ReactIcon
+foreign import _biCube :: ReactIcon
 
 biCube :: forall a b. Union a b PropsIcon => Record a -> JSX
-biCube = element (unsafeCoerce biCube_)
+biCube = element (unsafeCoerce _biCube)
 
-foreign import biCubeAlt_ :: ReactIcon
+foreign import _biCubeAlt :: ReactIcon
 
 biCubeAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-biCubeAlt = element (unsafeCoerce biCubeAlt_)
+biCubeAlt = element (unsafeCoerce _biCubeAlt)
 
-foreign import biCuboid_ :: ReactIcon
+foreign import _biCuboid :: ReactIcon
 
 biCuboid :: forall a b. Union a b PropsIcon => Record a -> JSX
-biCuboid = element (unsafeCoerce biCuboid_)
+biCuboid = element (unsafeCoerce _biCuboid)
 
-foreign import biCurrentLocation_ :: ReactIcon
+foreign import _biCurrentLocation :: ReactIcon
 
 biCurrentLocation :: forall a b. Union a b PropsIcon => Record a -> JSX
-biCurrentLocation = element (unsafeCoerce biCurrentLocation_)
+biCurrentLocation = element (unsafeCoerce _biCurrentLocation)
 
-foreign import biCustomize_ :: ReactIcon
+foreign import _biCustomize :: ReactIcon
 
 biCustomize :: forall a b. Union a b PropsIcon => Record a -> JSX
-biCustomize = element (unsafeCoerce biCustomize_)
+biCustomize = element (unsafeCoerce _biCustomize)
 
-foreign import biCut_ :: ReactIcon
+foreign import _biCut :: ReactIcon
 
 biCut :: forall a b. Union a b PropsIcon => Record a -> JSX
-biCut = element (unsafeCoerce biCut_)
+biCut = element (unsafeCoerce _biCut)
 
-foreign import biCycling_ :: ReactIcon
+foreign import _biCycling :: ReactIcon
 
 biCycling :: forall a b. Union a b PropsIcon => Record a -> JSX
-biCycling = element (unsafeCoerce biCycling_)
+biCycling = element (unsafeCoerce _biCycling)
 
-foreign import biCylinder_ :: ReactIcon
+foreign import _biCylinder :: ReactIcon
 
 biCylinder :: forall a b. Union a b PropsIcon => Record a -> JSX
-biCylinder = element (unsafeCoerce biCylinder_)
+biCylinder = element (unsafeCoerce _biCylinder)
 
-foreign import biData_ :: ReactIcon
+foreign import _biData :: ReactIcon
 
 biData :: forall a b. Union a b PropsIcon => Record a -> JSX
-biData = element (unsafeCoerce biData_)
+biData = element (unsafeCoerce _biData)
 
-foreign import biDesktop_ :: ReactIcon
+foreign import _biDesktop :: ReactIcon
 
 biDesktop :: forall a b. Union a b PropsIcon => Record a -> JSX
-biDesktop = element (unsafeCoerce biDesktop_)
+biDesktop = element (unsafeCoerce _biDesktop)
 
-foreign import biDetail_ :: ReactIcon
+foreign import _biDetail :: ReactIcon
 
 biDetail :: forall a b. Union a b PropsIcon => Record a -> JSX
-biDetail = element (unsafeCoerce biDetail_)
+biDetail = element (unsafeCoerce _biDetail)
 
-foreign import biDevices_ :: ReactIcon
+foreign import _biDevices :: ReactIcon
 
 biDevices :: forall a b. Union a b PropsIcon => Record a -> JSX
-biDevices = element (unsafeCoerce biDevices_)
+biDevices = element (unsafeCoerce _biDevices)
 
-foreign import biDialpad_ :: ReactIcon
+foreign import _biDialpad :: ReactIcon
 
 biDialpad :: forall a b. Union a b PropsIcon => Record a -> JSX
-biDialpad = element (unsafeCoerce biDialpad_)
+biDialpad = element (unsafeCoerce _biDialpad)
 
-foreign import biDialpadAlt_ :: ReactIcon
+foreign import _biDialpadAlt :: ReactIcon
 
 biDialpadAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-biDialpadAlt = element (unsafeCoerce biDialpadAlt_)
+biDialpadAlt = element (unsafeCoerce _biDialpadAlt)
 
-foreign import biDiamond_ :: ReactIcon
+foreign import _biDiamond :: ReactIcon
 
 biDiamond :: forall a b. Union a b PropsIcon => Record a -> JSX
-biDiamond = element (unsafeCoerce biDiamond_)
+biDiamond = element (unsafeCoerce _biDiamond)
 
-foreign import biDirections_ :: ReactIcon
+foreign import _biDirections :: ReactIcon
 
 biDirections :: forall a b. Union a b PropsIcon => Record a -> JSX
-biDirections = element (unsafeCoerce biDirections_)
+biDirections = element (unsafeCoerce _biDirections)
 
-foreign import biDisc_ :: ReactIcon
+foreign import _biDisc :: ReactIcon
 
 biDisc :: forall a b. Union a b PropsIcon => Record a -> JSX
-biDisc = element (unsafeCoerce biDisc_)
+biDisc = element (unsafeCoerce _biDisc)
 
-foreign import biDish_ :: ReactIcon
+foreign import _biDish :: ReactIcon
 
 biDish :: forall a b. Union a b PropsIcon => Record a -> JSX
-biDish = element (unsafeCoerce biDish_)
+biDish = element (unsafeCoerce _biDish)
 
-foreign import biDislike_ :: ReactIcon
+foreign import _biDislike :: ReactIcon
 
 biDislike :: forall a b. Union a b PropsIcon => Record a -> JSX
-biDislike = element (unsafeCoerce biDislike_)
+biDislike = element (unsafeCoerce _biDislike)
 
-foreign import biDizzy_ :: ReactIcon
+foreign import _biDizzy :: ReactIcon
 
 biDizzy :: forall a b. Union a b PropsIcon => Record a -> JSX
-biDizzy = element (unsafeCoerce biDizzy_)
+biDizzy = element (unsafeCoerce _biDizzy)
 
-foreign import biDna_ :: ReactIcon
+foreign import _biDna :: ReactIcon
 
 biDna :: forall a b. Union a b PropsIcon => Record a -> JSX
-biDna = element (unsafeCoerce biDna_)
+biDna = element (unsafeCoerce _biDna)
 
-foreign import biDockBottom_ :: ReactIcon
+foreign import _biDockBottom :: ReactIcon
 
 biDockBottom :: forall a b. Union a b PropsIcon => Record a -> JSX
-biDockBottom = element (unsafeCoerce biDockBottom_)
+biDockBottom = element (unsafeCoerce _biDockBottom)
 
-foreign import biDockLeft_ :: ReactIcon
+foreign import _biDockLeft :: ReactIcon
 
 biDockLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-biDockLeft = element (unsafeCoerce biDockLeft_)
+biDockLeft = element (unsafeCoerce _biDockLeft)
 
-foreign import biDockRight_ :: ReactIcon
+foreign import _biDockRight :: ReactIcon
 
 biDockRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-biDockRight = element (unsafeCoerce biDockRight_)
+biDockRight = element (unsafeCoerce _biDockRight)
 
-foreign import biDockTop_ :: ReactIcon
+foreign import _biDockTop :: ReactIcon
 
 biDockTop :: forall a b. Union a b PropsIcon => Record a -> JSX
-biDockTop = element (unsafeCoerce biDockTop_)
+biDockTop = element (unsafeCoerce _biDockTop)
 
-foreign import biDollar_ :: ReactIcon
+foreign import _biDollar :: ReactIcon
 
 biDollar :: forall a b. Union a b PropsIcon => Record a -> JSX
-biDollar = element (unsafeCoerce biDollar_)
+biDollar = element (unsafeCoerce _biDollar)
 
-foreign import biDollarCircle_ :: ReactIcon
+foreign import _biDollarCircle :: ReactIcon
 
 biDollarCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-biDollarCircle = element (unsafeCoerce biDollarCircle_)
+biDollarCircle = element (unsafeCoerce _biDollarCircle)
 
-foreign import biDonateBlood_ :: ReactIcon
+foreign import _biDonateBlood :: ReactIcon
 
 biDonateBlood :: forall a b. Union a b PropsIcon => Record a -> JSX
-biDonateBlood = element (unsafeCoerce biDonateBlood_)
+biDonateBlood = element (unsafeCoerce _biDonateBlood)
 
-foreign import biDonateHeart_ :: ReactIcon
+foreign import _biDonateHeart :: ReactIcon
 
 biDonateHeart :: forall a b. Union a b PropsIcon => Record a -> JSX
-biDonateHeart = element (unsafeCoerce biDonateHeart_)
+biDonateHeart = element (unsafeCoerce _biDonateHeart)
 
-foreign import biDoorOpen_ :: ReactIcon
+foreign import _biDoorOpen :: ReactIcon
 
 biDoorOpen :: forall a b. Union a b PropsIcon => Record a -> JSX
-biDoorOpen = element (unsafeCoerce biDoorOpen_)
+biDoorOpen = element (unsafeCoerce _biDoorOpen)
 
-foreign import biDotsHorizontal_ :: ReactIcon
+foreign import _biDotsHorizontal :: ReactIcon
 
 biDotsHorizontal :: forall a b. Union a b PropsIcon => Record a -> JSX
-biDotsHorizontal = element (unsafeCoerce biDotsHorizontal_)
+biDotsHorizontal = element (unsafeCoerce _biDotsHorizontal)
 
-foreign import biDotsHorizontalRounded_ :: ReactIcon
+foreign import _biDotsHorizontalRounded :: ReactIcon
 
 biDotsHorizontalRounded :: forall a b. Union a b PropsIcon => Record a -> JSX
-biDotsHorizontalRounded = element (unsafeCoerce biDotsHorizontalRounded_)
+biDotsHorizontalRounded = element (unsafeCoerce _biDotsHorizontalRounded)
 
-foreign import biDotsVertical_ :: ReactIcon
+foreign import _biDotsVertical :: ReactIcon
 
 biDotsVertical :: forall a b. Union a b PropsIcon => Record a -> JSX
-biDotsVertical = element (unsafeCoerce biDotsVertical_)
+biDotsVertical = element (unsafeCoerce _biDotsVertical)
 
-foreign import biDotsVerticalRounded_ :: ReactIcon
+foreign import _biDotsVerticalRounded :: ReactIcon
 
 biDotsVerticalRounded :: forall a b. Union a b PropsIcon => Record a -> JSX
-biDotsVerticalRounded = element (unsafeCoerce biDotsVerticalRounded_)
+biDotsVerticalRounded = element (unsafeCoerce _biDotsVerticalRounded)
 
-foreign import biDoughnutChart_ :: ReactIcon
+foreign import _biDoughnutChart :: ReactIcon
 
 biDoughnutChart :: forall a b. Union a b PropsIcon => Record a -> JSX
-biDoughnutChart = element (unsafeCoerce biDoughnutChart_)
+biDoughnutChart = element (unsafeCoerce _biDoughnutChart)
 
-foreign import biDownArrow_ :: ReactIcon
+foreign import _biDownArrow :: ReactIcon
 
 biDownArrow :: forall a b. Union a b PropsIcon => Record a -> JSX
-biDownArrow = element (unsafeCoerce biDownArrow_)
+biDownArrow = element (unsafeCoerce _biDownArrow)
 
-foreign import biDownArrowAlt_ :: ReactIcon
+foreign import _biDownArrowAlt :: ReactIcon
 
 biDownArrowAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-biDownArrowAlt = element (unsafeCoerce biDownArrowAlt_)
+biDownArrowAlt = element (unsafeCoerce _biDownArrowAlt)
 
-foreign import biDownArrowCircle_ :: ReactIcon
+foreign import _biDownArrowCircle :: ReactIcon
 
 biDownArrowCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-biDownArrowCircle = element (unsafeCoerce biDownArrowCircle_)
+biDownArrowCircle = element (unsafeCoerce _biDownArrowCircle)
 
-foreign import biDownload_ :: ReactIcon
+foreign import _biDownload :: ReactIcon
 
 biDownload :: forall a b. Union a b PropsIcon => Record a -> JSX
-biDownload = element (unsafeCoerce biDownload_)
+biDownload = element (unsafeCoerce _biDownload)
 
-foreign import biDownvote_ :: ReactIcon
+foreign import _biDownvote :: ReactIcon
 
 biDownvote :: forall a b. Union a b PropsIcon => Record a -> JSX
-biDownvote = element (unsafeCoerce biDownvote_)
+biDownvote = element (unsafeCoerce _biDownvote)
 
-foreign import biDrink_ :: ReactIcon
+foreign import _biDrink :: ReactIcon
 
 biDrink :: forall a b. Union a b PropsIcon => Record a -> JSX
-biDrink = element (unsafeCoerce biDrink_)
+biDrink = element (unsafeCoerce _biDrink)
 
-foreign import biDroplet_ :: ReactIcon
+foreign import _biDroplet :: ReactIcon
 
 biDroplet :: forall a b. Union a b PropsIcon => Record a -> JSX
-biDroplet = element (unsafeCoerce biDroplet_)
+biDroplet = element (unsafeCoerce _biDroplet)
 
-foreign import biDumbbell_ :: ReactIcon
+foreign import _biDumbbell :: ReactIcon
 
 biDumbbell :: forall a b. Union a b PropsIcon => Record a -> JSX
-biDumbbell = element (unsafeCoerce biDumbbell_)
+biDumbbell = element (unsafeCoerce _biDumbbell)
 
-foreign import biDuplicate_ :: ReactIcon
+foreign import _biDuplicate :: ReactIcon
 
 biDuplicate :: forall a b. Union a b PropsIcon => Record a -> JSX
-biDuplicate = element (unsafeCoerce biDuplicate_)
+biDuplicate = element (unsafeCoerce _biDuplicate)
 
-foreign import biEdit_ :: ReactIcon
+foreign import _biEdit :: ReactIcon
 
 biEdit :: forall a b. Union a b PropsIcon => Record a -> JSX
-biEdit = element (unsafeCoerce biEdit_)
+biEdit = element (unsafeCoerce _biEdit)
 
-foreign import biEditAlt_ :: ReactIcon
+foreign import _biEditAlt :: ReactIcon
 
 biEditAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-biEditAlt = element (unsafeCoerce biEditAlt_)
+biEditAlt = element (unsafeCoerce _biEditAlt)
 
-foreign import biEnvelope_ :: ReactIcon
+foreign import _biEnvelope :: ReactIcon
 
 biEnvelope :: forall a b. Union a b PropsIcon => Record a -> JSX
-biEnvelope = element (unsafeCoerce biEnvelope_)
+biEnvelope = element (unsafeCoerce _biEnvelope)
 
-foreign import biEnvelopeOpen_ :: ReactIcon
+foreign import _biEnvelopeOpen :: ReactIcon
 
 biEnvelopeOpen :: forall a b. Union a b PropsIcon => Record a -> JSX
-biEnvelopeOpen = element (unsafeCoerce biEnvelopeOpen_)
+biEnvelopeOpen = element (unsafeCoerce _biEnvelopeOpen)
 
-foreign import biEqualizer_ :: ReactIcon
+foreign import _biEqualizer :: ReactIcon
 
 biEqualizer :: forall a b. Union a b PropsIcon => Record a -> JSX
-biEqualizer = element (unsafeCoerce biEqualizer_)
+biEqualizer = element (unsafeCoerce _biEqualizer)
 
-foreign import biEraser_ :: ReactIcon
+foreign import _biEraser :: ReactIcon
 
 biEraser :: forall a b. Union a b PropsIcon => Record a -> JSX
-biEraser = element (unsafeCoerce biEraser_)
+biEraser = element (unsafeCoerce _biEraser)
 
-foreign import biError_ :: ReactIcon
+foreign import _biError :: ReactIcon
 
 biError :: forall a b. Union a b PropsIcon => Record a -> JSX
-biError = element (unsafeCoerce biError_)
+biError = element (unsafeCoerce _biError)
 
-foreign import biErrorAlt_ :: ReactIcon
+foreign import _biErrorAlt :: ReactIcon
 
 biErrorAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-biErrorAlt = element (unsafeCoerce biErrorAlt_)
+biErrorAlt = element (unsafeCoerce _biErrorAlt)
 
-foreign import biErrorCircle_ :: ReactIcon
+foreign import _biErrorCircle :: ReactIcon
 
 biErrorCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-biErrorCircle = element (unsafeCoerce biErrorCircle_)
+biErrorCircle = element (unsafeCoerce _biErrorCircle)
 
-foreign import biEuro_ :: ReactIcon
+foreign import _biEuro :: ReactIcon
 
 biEuro :: forall a b. Union a b PropsIcon => Record a -> JSX
-biEuro = element (unsafeCoerce biEuro_)
+biEuro = element (unsafeCoerce _biEuro)
 
-foreign import biExclude_ :: ReactIcon
+foreign import _biExclude :: ReactIcon
 
 biExclude :: forall a b. Union a b PropsIcon => Record a -> JSX
-biExclude = element (unsafeCoerce biExclude_)
+biExclude = element (unsafeCoerce _biExclude)
 
-foreign import biExit_ :: ReactIcon
+foreign import _biExit :: ReactIcon
 
 biExit :: forall a b. Union a b PropsIcon => Record a -> JSX
-biExit = element (unsafeCoerce biExit_)
+biExit = element (unsafeCoerce _biExit)
 
-foreign import biExitFullscreen_ :: ReactIcon
+foreign import _biExitFullscreen :: ReactIcon
 
 biExitFullscreen :: forall a b. Union a b PropsIcon => Record a -> JSX
-biExitFullscreen = element (unsafeCoerce biExitFullscreen_)
+biExitFullscreen = element (unsafeCoerce _biExitFullscreen)
 
-foreign import biExpand_ :: ReactIcon
+foreign import _biExpand :: ReactIcon
 
 biExpand :: forall a b. Union a b PropsIcon => Record a -> JSX
-biExpand = element (unsafeCoerce biExpand_)
+biExpand = element (unsafeCoerce _biExpand)
 
-foreign import biExpandAlt_ :: ReactIcon
+foreign import _biExpandAlt :: ReactIcon
 
 biExpandAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-biExpandAlt = element (unsafeCoerce biExpandAlt_)
+biExpandAlt = element (unsafeCoerce _biExpandAlt)
 
-foreign import biExport_ :: ReactIcon
+foreign import _biExport :: ReactIcon
 
 biExport :: forall a b. Union a b PropsIcon => Record a -> JSX
-biExport = element (unsafeCoerce biExport_)
+biExport = element (unsafeCoerce _biExport)
 
-foreign import biExtension_ :: ReactIcon
+foreign import _biExtension :: ReactIcon
 
 biExtension :: forall a b. Union a b PropsIcon => Record a -> JSX
-biExtension = element (unsafeCoerce biExtension_)
+biExtension = element (unsafeCoerce _biExtension)
 
-foreign import biFace_ :: ReactIcon
+foreign import _biFace :: ReactIcon
 
 biFace :: forall a b. Union a b PropsIcon => Record a -> JSX
-biFace = element (unsafeCoerce biFace_)
+biFace = element (unsafeCoerce _biFace)
 
-foreign import biFastForward_ :: ReactIcon
+foreign import _biFastForward :: ReactIcon
 
 biFastForward :: forall a b. Union a b PropsIcon => Record a -> JSX
-biFastForward = element (unsafeCoerce biFastForward_)
+biFastForward = element (unsafeCoerce _biFastForward)
 
-foreign import biFastForwardCircle_ :: ReactIcon
+foreign import _biFastForwardCircle :: ReactIcon
 
 biFastForwardCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-biFastForwardCircle = element (unsafeCoerce biFastForwardCircle_)
+biFastForwardCircle = element (unsafeCoerce _biFastForwardCircle)
 
-foreign import biFemale_ :: ReactIcon
+foreign import _biFemale :: ReactIcon
 
 biFemale :: forall a b. Union a b PropsIcon => Record a -> JSX
-biFemale = element (unsafeCoerce biFemale_)
+biFemale = element (unsafeCoerce _biFemale)
 
-foreign import biFemaleSign_ :: ReactIcon
+foreign import _biFemaleSign :: ReactIcon
 
 biFemaleSign :: forall a b. Union a b PropsIcon => Record a -> JSX
-biFemaleSign = element (unsafeCoerce biFemaleSign_)
+biFemaleSign = element (unsafeCoerce _biFemaleSign)
 
-foreign import biFile_ :: ReactIcon
+foreign import _biFile :: ReactIcon
 
 biFile :: forall a b. Union a b PropsIcon => Record a -> JSX
-biFile = element (unsafeCoerce biFile_)
+biFile = element (unsafeCoerce _biFile)
 
-foreign import biFileBlank_ :: ReactIcon
+foreign import _biFileBlank :: ReactIcon
 
 biFileBlank :: forall a b. Union a b PropsIcon => Record a -> JSX
-biFileBlank = element (unsafeCoerce biFileBlank_)
+biFileBlank = element (unsafeCoerce _biFileBlank)
 
-foreign import biFileFind_ :: ReactIcon
+foreign import _biFileFind :: ReactIcon
 
 biFileFind :: forall a b. Union a b PropsIcon => Record a -> JSX
-biFileFind = element (unsafeCoerce biFileFind_)
+biFileFind = element (unsafeCoerce _biFileFind)
 
-foreign import biFilm_ :: ReactIcon
+foreign import _biFilm :: ReactIcon
 
 biFilm :: forall a b. Union a b PropsIcon => Record a -> JSX
-biFilm = element (unsafeCoerce biFilm_)
+biFilm = element (unsafeCoerce _biFilm)
 
-foreign import biFilter_ :: ReactIcon
+foreign import _biFilter :: ReactIcon
 
 biFilter :: forall a b. Union a b PropsIcon => Record a -> JSX
-biFilter = element (unsafeCoerce biFilter_)
+biFilter = element (unsafeCoerce _biFilter)
 
-foreign import biFilterAlt_ :: ReactIcon
+foreign import _biFilterAlt :: ReactIcon
 
 biFilterAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-biFilterAlt = element (unsafeCoerce biFilterAlt_)
+biFilterAlt = element (unsafeCoerce _biFilterAlt)
 
-foreign import biFingerprint_ :: ReactIcon
+foreign import _biFingerprint :: ReactIcon
 
 biFingerprint :: forall a b. Union a b PropsIcon => Record a -> JSX
-biFingerprint = element (unsafeCoerce biFingerprint_)
+biFingerprint = element (unsafeCoerce _biFingerprint)
 
-foreign import biFirstAid_ :: ReactIcon
+foreign import _biFirstAid :: ReactIcon
 
 biFirstAid :: forall a b. Union a b PropsIcon => Record a -> JSX
-biFirstAid = element (unsafeCoerce biFirstAid_)
+biFirstAid = element (unsafeCoerce _biFirstAid)
 
-foreign import biFirstPage_ :: ReactIcon
+foreign import _biFirstPage :: ReactIcon
 
 biFirstPage :: forall a b. Union a b PropsIcon => Record a -> JSX
-biFirstPage = element (unsafeCoerce biFirstPage_)
+biFirstPage = element (unsafeCoerce _biFirstPage)
 
-foreign import biFlag_ :: ReactIcon
+foreign import _biFlag :: ReactIcon
 
 biFlag :: forall a b. Union a b PropsIcon => Record a -> JSX
-biFlag = element (unsafeCoerce biFlag_)
+biFlag = element (unsafeCoerce _biFlag)
 
-foreign import biFolder_ :: ReactIcon
+foreign import _biFolder :: ReactIcon
 
 biFolder :: forall a b. Union a b PropsIcon => Record a -> JSX
-biFolder = element (unsafeCoerce biFolder_)
+biFolder = element (unsafeCoerce _biFolder)
 
-foreign import biFolderMinus_ :: ReactIcon
+foreign import _biFolderMinus :: ReactIcon
 
 biFolderMinus :: forall a b. Union a b PropsIcon => Record a -> JSX
-biFolderMinus = element (unsafeCoerce biFolderMinus_)
+biFolderMinus = element (unsafeCoerce _biFolderMinus)
 
-foreign import biFolderOpen_ :: ReactIcon
+foreign import _biFolderOpen :: ReactIcon
 
 biFolderOpen :: forall a b. Union a b PropsIcon => Record a -> JSX
-biFolderOpen = element (unsafeCoerce biFolderOpen_)
+biFolderOpen = element (unsafeCoerce _biFolderOpen)
 
-foreign import biFolderPlus_ :: ReactIcon
+foreign import _biFolderPlus :: ReactIcon
 
 biFolderPlus :: forall a b. Union a b PropsIcon => Record a -> JSX
-biFolderPlus = element (unsafeCoerce biFolderPlus_)
+biFolderPlus = element (unsafeCoerce _biFolderPlus)
 
-foreign import biFont_ :: ReactIcon
+foreign import _biFont :: ReactIcon
 
 biFont :: forall a b. Union a b PropsIcon => Record a -> JSX
-biFont = element (unsafeCoerce biFont_)
+biFont = element (unsafeCoerce _biFont)
 
-foreign import biFontColor_ :: ReactIcon
+foreign import _biFontColor :: ReactIcon
 
 biFontColor :: forall a b. Union a b PropsIcon => Record a -> JSX
-biFontColor = element (unsafeCoerce biFontColor_)
+biFontColor = element (unsafeCoerce _biFontColor)
 
-foreign import biFontFamily_ :: ReactIcon
+foreign import _biFontFamily :: ReactIcon
 
 biFontFamily :: forall a b. Union a b PropsIcon => Record a -> JSX
-biFontFamily = element (unsafeCoerce biFontFamily_)
+biFontFamily = element (unsafeCoerce _biFontFamily)
 
-foreign import biFontSize_ :: ReactIcon
+foreign import _biFontSize :: ReactIcon
 
 biFontSize :: forall a b. Union a b PropsIcon => Record a -> JSX
-biFontSize = element (unsafeCoerce biFontSize_)
+biFontSize = element (unsafeCoerce _biFontSize)
 
-foreign import biFoodMenu_ :: ReactIcon
+foreign import _biFoodMenu :: ReactIcon
 
 biFoodMenu :: forall a b. Union a b PropsIcon => Record a -> JSX
-biFoodMenu = element (unsafeCoerce biFoodMenu_)
+biFoodMenu = element (unsafeCoerce _biFoodMenu)
 
-foreign import biFoodTag_ :: ReactIcon
+foreign import _biFoodTag :: ReactIcon
 
 biFoodTag :: forall a b. Union a b PropsIcon => Record a -> JSX
-biFoodTag = element (unsafeCoerce biFoodTag_)
+biFoodTag = element (unsafeCoerce _biFoodTag)
 
-foreign import biFootball_ :: ReactIcon
+foreign import _biFootball :: ReactIcon
 
 biFootball :: forall a b. Union a b PropsIcon => Record a -> JSX
-biFootball = element (unsafeCoerce biFootball_)
+biFootball = element (unsafeCoerce _biFootball)
 
-foreign import biFridge_ :: ReactIcon
+foreign import _biFridge :: ReactIcon
 
 biFridge :: forall a b. Union a b PropsIcon => Record a -> JSX
-biFridge = element (unsafeCoerce biFridge_)
+biFridge = element (unsafeCoerce _biFridge)
 
-foreign import biFullscreen_ :: ReactIcon
+foreign import _biFullscreen :: ReactIcon
 
 biFullscreen :: forall a b. Union a b PropsIcon => Record a -> JSX
-biFullscreen = element (unsafeCoerce biFullscreen_)
+biFullscreen = element (unsafeCoerce _biFullscreen)
 
-foreign import biGame_ :: ReactIcon
+foreign import _biGame :: ReactIcon
 
 biGame :: forall a b. Union a b PropsIcon => Record a -> JSX
-biGame = element (unsafeCoerce biGame_)
+biGame = element (unsafeCoerce _biGame)
 
-foreign import biGasPump_ :: ReactIcon
+foreign import _biGasPump :: ReactIcon
 
 biGasPump :: forall a b. Union a b PropsIcon => Record a -> JSX
-biGasPump = element (unsafeCoerce biGasPump_)
+biGasPump = element (unsafeCoerce _biGasPump)
 
-foreign import biGhost_ :: ReactIcon
+foreign import _biGhost :: ReactIcon
 
 biGhost :: forall a b. Union a b PropsIcon => Record a -> JSX
-biGhost = element (unsafeCoerce biGhost_)
+biGhost = element (unsafeCoerce _biGhost)
 
-foreign import biGift_ :: ReactIcon
+foreign import _biGift :: ReactIcon
 
 biGift :: forall a b. Union a b PropsIcon => Record a -> JSX
-biGift = element (unsafeCoerce biGift_)
+biGift = element (unsafeCoerce _biGift)
 
-foreign import biGitBranch_ :: ReactIcon
+foreign import _biGitBranch :: ReactIcon
 
 biGitBranch :: forall a b. Union a b PropsIcon => Record a -> JSX
-biGitBranch = element (unsafeCoerce biGitBranch_)
+biGitBranch = element (unsafeCoerce _biGitBranch)
 
-foreign import biGitCommit_ :: ReactIcon
+foreign import _biGitCommit :: ReactIcon
 
 biGitCommit :: forall a b. Union a b PropsIcon => Record a -> JSX
-biGitCommit = element (unsafeCoerce biGitCommit_)
+biGitCommit = element (unsafeCoerce _biGitCommit)
 
-foreign import biGitCompare_ :: ReactIcon
+foreign import _biGitCompare :: ReactIcon
 
 biGitCompare :: forall a b. Union a b PropsIcon => Record a -> JSX
-biGitCompare = element (unsafeCoerce biGitCompare_)
+biGitCompare = element (unsafeCoerce _biGitCompare)
 
-foreign import biGitMerge_ :: ReactIcon
+foreign import _biGitMerge :: ReactIcon
 
 biGitMerge :: forall a b. Union a b PropsIcon => Record a -> JSX
-biGitMerge = element (unsafeCoerce biGitMerge_)
+biGitMerge = element (unsafeCoerce _biGitMerge)
 
-foreign import biGitPullRequest_ :: ReactIcon
+foreign import _biGitPullRequest :: ReactIcon
 
 biGitPullRequest :: forall a b. Union a b PropsIcon => Record a -> JSX
-biGitPullRequest = element (unsafeCoerce biGitPullRequest_)
+biGitPullRequest = element (unsafeCoerce _biGitPullRequest)
 
-foreign import biGitRepoForked_ :: ReactIcon
+foreign import _biGitRepoForked :: ReactIcon
 
 biGitRepoForked :: forall a b. Union a b PropsIcon => Record a -> JSX
-biGitRepoForked = element (unsafeCoerce biGitRepoForked_)
+biGitRepoForked = element (unsafeCoerce _biGitRepoForked)
 
-foreign import biGlasses_ :: ReactIcon
+foreign import _biGlasses :: ReactIcon
 
 biGlasses :: forall a b. Union a b PropsIcon => Record a -> JSX
-biGlasses = element (unsafeCoerce biGlasses_)
+biGlasses = element (unsafeCoerce _biGlasses)
 
-foreign import biGlassesAlt_ :: ReactIcon
+foreign import _biGlassesAlt :: ReactIcon
 
 biGlassesAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-biGlassesAlt = element (unsafeCoerce biGlassesAlt_)
+biGlassesAlt = element (unsafeCoerce _biGlassesAlt)
 
-foreign import biGlobe_ :: ReactIcon
+foreign import _biGlobe :: ReactIcon
 
 biGlobe :: forall a b. Union a b PropsIcon => Record a -> JSX
-biGlobe = element (unsafeCoerce biGlobe_)
+biGlobe = element (unsafeCoerce _biGlobe)
 
-foreign import biGlobeAlt_ :: ReactIcon
+foreign import _biGlobeAlt :: ReactIcon
 
 biGlobeAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-biGlobeAlt = element (unsafeCoerce biGlobeAlt_)
+biGlobeAlt = element (unsafeCoerce _biGlobeAlt)
 
-foreign import biGrid_ :: ReactIcon
+foreign import _biGrid :: ReactIcon
 
 biGrid :: forall a b. Union a b PropsIcon => Record a -> JSX
-biGrid = element (unsafeCoerce biGrid_)
+biGrid = element (unsafeCoerce _biGrid)
 
-foreign import biGridAlt_ :: ReactIcon
+foreign import _biGridAlt :: ReactIcon
 
 biGridAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-biGridAlt = element (unsafeCoerce biGridAlt_)
+biGridAlt = element (unsafeCoerce _biGridAlt)
 
-foreign import biGridHorizontal_ :: ReactIcon
+foreign import _biGridHorizontal :: ReactIcon
 
 biGridHorizontal :: forall a b. Union a b PropsIcon => Record a -> JSX
-biGridHorizontal = element (unsafeCoerce biGridHorizontal_)
+biGridHorizontal = element (unsafeCoerce _biGridHorizontal)
 
-foreign import biGridSmall_ :: ReactIcon
+foreign import _biGridSmall :: ReactIcon
 
 biGridSmall :: forall a b. Union a b PropsIcon => Record a -> JSX
-biGridSmall = element (unsafeCoerce biGridSmall_)
+biGridSmall = element (unsafeCoerce _biGridSmall)
 
-foreign import biGridVertical_ :: ReactIcon
+foreign import _biGridVertical :: ReactIcon
 
 biGridVertical :: forall a b. Union a b PropsIcon => Record a -> JSX
-biGridVertical = element (unsafeCoerce biGridVertical_)
+biGridVertical = element (unsafeCoerce _biGridVertical)
 
-foreign import biGroup_ :: ReactIcon
+foreign import _biGroup :: ReactIcon
 
 biGroup :: forall a b. Union a b PropsIcon => Record a -> JSX
-biGroup = element (unsafeCoerce biGroup_)
+biGroup = element (unsafeCoerce _biGroup)
 
-foreign import biHandicap_ :: ReactIcon
+foreign import _biHandicap :: ReactIcon
 
 biHandicap :: forall a b. Union a b PropsIcon => Record a -> JSX
-biHandicap = element (unsafeCoerce biHandicap_)
+biHandicap = element (unsafeCoerce _biHandicap)
 
-foreign import biHappy_ :: ReactIcon
+foreign import _biHappy :: ReactIcon
 
 biHappy :: forall a b. Union a b PropsIcon => Record a -> JSX
-biHappy = element (unsafeCoerce biHappy_)
+biHappy = element (unsafeCoerce _biHappy)
 
-foreign import biHappyAlt_ :: ReactIcon
+foreign import _biHappyAlt :: ReactIcon
 
 biHappyAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-biHappyAlt = element (unsafeCoerce biHappyAlt_)
+biHappyAlt = element (unsafeCoerce _biHappyAlt)
 
-foreign import biHappyBeaming_ :: ReactIcon
+foreign import _biHappyBeaming :: ReactIcon
 
 biHappyBeaming :: forall a b. Union a b PropsIcon => Record a -> JSX
-biHappyBeaming = element (unsafeCoerce biHappyBeaming_)
+biHappyBeaming = element (unsafeCoerce _biHappyBeaming)
 
-foreign import biHappyHeartEyes_ :: ReactIcon
+foreign import _biHappyHeartEyes :: ReactIcon
 
 biHappyHeartEyes :: forall a b. Union a b PropsIcon => Record a -> JSX
-biHappyHeartEyes = element (unsafeCoerce biHappyHeartEyes_)
+biHappyHeartEyes = element (unsafeCoerce _biHappyHeartEyes)
 
-foreign import biHash_ :: ReactIcon
+foreign import _biHash :: ReactIcon
 
 biHash :: forall a b. Union a b PropsIcon => Record a -> JSX
-biHash = element (unsafeCoerce biHash_)
+biHash = element (unsafeCoerce _biHash)
 
-foreign import biHdd_ :: ReactIcon
+foreign import _biHdd :: ReactIcon
 
 biHdd :: forall a b. Union a b PropsIcon => Record a -> JSX
-biHdd = element (unsafeCoerce biHdd_)
+biHdd = element (unsafeCoerce _biHdd)
 
-foreign import biHeading_ :: ReactIcon
+foreign import _biHeading :: ReactIcon
 
 biHeading :: forall a b. Union a b PropsIcon => Record a -> JSX
-biHeading = element (unsafeCoerce biHeading_)
+biHeading = element (unsafeCoerce _biHeading)
 
-foreign import biHeadphone_ :: ReactIcon
+foreign import _biHeadphone :: ReactIcon
 
 biHeadphone :: forall a b. Union a b PropsIcon => Record a -> JSX
-biHeadphone = element (unsafeCoerce biHeadphone_)
+biHeadphone = element (unsafeCoerce _biHeadphone)
 
-foreign import biHealth_ :: ReactIcon
+foreign import _biHealth :: ReactIcon
 
 biHealth :: forall a b. Union a b PropsIcon => Record a -> JSX
-biHealth = element (unsafeCoerce biHealth_)
+biHealth = element (unsafeCoerce _biHealth)
 
-foreign import biHeart_ :: ReactIcon
+foreign import _biHeart :: ReactIcon
 
 biHeart :: forall a b. Union a b PropsIcon => Record a -> JSX
-biHeart = element (unsafeCoerce biHeart_)
+biHeart = element (unsafeCoerce _biHeart)
 
-foreign import biHeartCircle_ :: ReactIcon
+foreign import _biHeartCircle :: ReactIcon
 
 biHeartCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-biHeartCircle = element (unsafeCoerce biHeartCircle_)
+biHeartCircle = element (unsafeCoerce _biHeartCircle)
 
-foreign import biHeartSquare_ :: ReactIcon
+foreign import _biHeartSquare :: ReactIcon
 
 biHeartSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-biHeartSquare = element (unsafeCoerce biHeartSquare_)
+biHeartSquare = element (unsafeCoerce _biHeartSquare)
 
-foreign import biHelpCircle_ :: ReactIcon
+foreign import _biHelpCircle :: ReactIcon
 
 biHelpCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-biHelpCircle = element (unsafeCoerce biHelpCircle_)
+biHelpCircle = element (unsafeCoerce _biHelpCircle)
 
-foreign import biHide_ :: ReactIcon
+foreign import _biHide :: ReactIcon
 
 biHide :: forall a b. Union a b PropsIcon => Record a -> JSX
-biHide = element (unsafeCoerce biHide_)
+biHide = element (unsafeCoerce _biHide)
 
-foreign import biHighlight_ :: ReactIcon
+foreign import _biHighlight :: ReactIcon
 
 biHighlight :: forall a b. Union a b PropsIcon => Record a -> JSX
-biHighlight = element (unsafeCoerce biHighlight_)
+biHighlight = element (unsafeCoerce _biHighlight)
 
-foreign import biHistory_ :: ReactIcon
+foreign import _biHistory :: ReactIcon
 
 biHistory :: forall a b. Union a b PropsIcon => Record a -> JSX
-biHistory = element (unsafeCoerce biHistory_)
+biHistory = element (unsafeCoerce _biHistory)
 
-foreign import biHive_ :: ReactIcon
+foreign import _biHive :: ReactIcon
 
 biHive :: forall a b. Union a b PropsIcon => Record a -> JSX
-biHive = element (unsafeCoerce biHive_)
+biHive = element (unsafeCoerce _biHive)
 
-foreign import biHome_ :: ReactIcon
+foreign import _biHome :: ReactIcon
 
 biHome :: forall a b. Union a b PropsIcon => Record a -> JSX
-biHome = element (unsafeCoerce biHome_)
+biHome = element (unsafeCoerce _biHome)
 
-foreign import biHomeAlt_ :: ReactIcon
+foreign import _biHomeAlt :: ReactIcon
 
 biHomeAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-biHomeAlt = element (unsafeCoerce biHomeAlt_)
+biHomeAlt = element (unsafeCoerce _biHomeAlt)
 
-foreign import biHomeCircle_ :: ReactIcon
+foreign import _biHomeCircle :: ReactIcon
 
 biHomeCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-biHomeCircle = element (unsafeCoerce biHomeCircle_)
+biHomeCircle = element (unsafeCoerce _biHomeCircle)
 
-foreign import biHomeHeart_ :: ReactIcon
+foreign import _biHomeHeart :: ReactIcon
 
 biHomeHeart :: forall a b. Union a b PropsIcon => Record a -> JSX
-biHomeHeart = element (unsafeCoerce biHomeHeart_)
+biHomeHeart = element (unsafeCoerce _biHomeHeart)
 
-foreign import biHomeSmile_ :: ReactIcon
+foreign import _biHomeSmile :: ReactIcon
 
 biHomeSmile :: forall a b. Union a b PropsIcon => Record a -> JSX
-biHomeSmile = element (unsafeCoerce biHomeSmile_)
+biHomeSmile = element (unsafeCoerce _biHomeSmile)
 
-foreign import biHorizontalCenter_ :: ReactIcon
+foreign import _biHorizontalCenter :: ReactIcon
 
 biHorizontalCenter :: forall a b. Union a b PropsIcon => Record a -> JSX
-biHorizontalCenter = element (unsafeCoerce biHorizontalCenter_)
+biHorizontalCenter = element (unsafeCoerce _biHorizontalCenter)
 
-foreign import biHotel_ :: ReactIcon
+foreign import _biHotel :: ReactIcon
 
 biHotel :: forall a b. Union a b PropsIcon => Record a -> JSX
-biHotel = element (unsafeCoerce biHotel_)
+biHotel = element (unsafeCoerce _biHotel)
 
-foreign import biHourglass_ :: ReactIcon
+foreign import _biHourglass :: ReactIcon
 
 biHourglass :: forall a b. Union a b PropsIcon => Record a -> JSX
-biHourglass = element (unsafeCoerce biHourglass_)
+biHourglass = element (unsafeCoerce _biHourglass)
 
-foreign import biIdCard_ :: ReactIcon
+foreign import _biIdCard :: ReactIcon
 
 biIdCard :: forall a b. Union a b PropsIcon => Record a -> JSX
-biIdCard = element (unsafeCoerce biIdCard_)
+biIdCard = element (unsafeCoerce _biIdCard)
 
-foreign import biImage_ :: ReactIcon
+foreign import _biImage :: ReactIcon
 
 biImage :: forall a b. Union a b PropsIcon => Record a -> JSX
-biImage = element (unsafeCoerce biImage_)
+biImage = element (unsafeCoerce _biImage)
 
-foreign import biImageAdd_ :: ReactIcon
+foreign import _biImageAdd :: ReactIcon
 
 biImageAdd :: forall a b. Union a b PropsIcon => Record a -> JSX
-biImageAdd = element (unsafeCoerce biImageAdd_)
+biImageAdd = element (unsafeCoerce _biImageAdd)
 
-foreign import biImageAlt_ :: ReactIcon
+foreign import _biImageAlt :: ReactIcon
 
 biImageAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-biImageAlt = element (unsafeCoerce biImageAlt_)
+biImageAlt = element (unsafeCoerce _biImageAlt)
 
-foreign import biImages_ :: ReactIcon
+foreign import _biImages :: ReactIcon
 
 biImages :: forall a b. Union a b PropsIcon => Record a -> JSX
-biImages = element (unsafeCoerce biImages_)
+biImages = element (unsafeCoerce _biImages)
 
-foreign import biImport_ :: ReactIcon
+foreign import _biImport :: ReactIcon
 
 biImport :: forall a b. Union a b PropsIcon => Record a -> JSX
-biImport = element (unsafeCoerce biImport_)
+biImport = element (unsafeCoerce _biImport)
 
-foreign import biInfinite_ :: ReactIcon
+foreign import _biInfinite :: ReactIcon
 
 biInfinite :: forall a b. Union a b PropsIcon => Record a -> JSX
-biInfinite = element (unsafeCoerce biInfinite_)
+biInfinite = element (unsafeCoerce _biInfinite)
 
-foreign import biInfoCircle_ :: ReactIcon
+foreign import _biInfoCircle :: ReactIcon
 
 biInfoCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-biInfoCircle = element (unsafeCoerce biInfoCircle_)
+biInfoCircle = element (unsafeCoerce _biInfoCircle)
 
-foreign import biInfoSquare_ :: ReactIcon
+foreign import _biInfoSquare :: ReactIcon
 
 biInfoSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-biInfoSquare = element (unsafeCoerce biInfoSquare_)
+biInfoSquare = element (unsafeCoerce _biInfoSquare)
 
-foreign import biIntersect_ :: ReactIcon
+foreign import _biIntersect :: ReactIcon
 
 biIntersect :: forall a b. Union a b PropsIcon => Record a -> JSX
-biIntersect = element (unsafeCoerce biIntersect_)
+biIntersect = element (unsafeCoerce _biIntersect)
 
-foreign import biItalic_ :: ReactIcon
+foreign import _biItalic :: ReactIcon
 
 biItalic :: forall a b. Union a b PropsIcon => Record a -> JSX
-biItalic = element (unsafeCoerce biItalic_)
+biItalic = element (unsafeCoerce _biItalic)
 
-foreign import biJoystick_ :: ReactIcon
+foreign import _biJoystick :: ReactIcon
 
 biJoystick :: forall a b. Union a b PropsIcon => Record a -> JSX
-biJoystick = element (unsafeCoerce biJoystick_)
+biJoystick = element (unsafeCoerce _biJoystick)
 
-foreign import biJoystickAlt_ :: ReactIcon
+foreign import _biJoystickAlt :: ReactIcon
 
 biJoystickAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-biJoystickAlt = element (unsafeCoerce biJoystickAlt_)
+biJoystickAlt = element (unsafeCoerce _biJoystickAlt)
 
-foreign import biJoystickButton_ :: ReactIcon
+foreign import _biJoystickButton :: ReactIcon
 
 biJoystickButton :: forall a b. Union a b PropsIcon => Record a -> JSX
-biJoystickButton = element (unsafeCoerce biJoystickButton_)
+biJoystickButton = element (unsafeCoerce _biJoystickButton)
 
-foreign import biKey_ :: ReactIcon
+foreign import _biKey :: ReactIcon
 
 biKey :: forall a b. Union a b PropsIcon => Record a -> JSX
-biKey = element (unsafeCoerce biKey_)
+biKey = element (unsafeCoerce _biKey)
 
-foreign import biLabel_ :: ReactIcon
+foreign import _biLabel :: ReactIcon
 
 biLabel :: forall a b. Union a b PropsIcon => Record a -> JSX
-biLabel = element (unsafeCoerce biLabel_)
+biLabel = element (unsafeCoerce _biLabel)
 
-foreign import biLandscape_ :: ReactIcon
+foreign import _biLandscape :: ReactIcon
 
 biLandscape :: forall a b. Union a b PropsIcon => Record a -> JSX
-biLandscape = element (unsafeCoerce biLandscape_)
+biLandscape = element (unsafeCoerce _biLandscape)
 
-foreign import biLaptop_ :: ReactIcon
+foreign import _biLaptop :: ReactIcon
 
 biLaptop :: forall a b. Union a b PropsIcon => Record a -> JSX
-biLaptop = element (unsafeCoerce biLaptop_)
+biLaptop = element (unsafeCoerce _biLaptop)
 
-foreign import biLastPage_ :: ReactIcon
+foreign import _biLastPage :: ReactIcon
 
 biLastPage :: forall a b. Union a b PropsIcon => Record a -> JSX
-biLastPage = element (unsafeCoerce biLastPage_)
+biLastPage = element (unsafeCoerce _biLastPage)
 
-foreign import biLaugh_ :: ReactIcon
+foreign import _biLaugh :: ReactIcon
 
 biLaugh :: forall a b. Union a b PropsIcon => Record a -> JSX
-biLaugh = element (unsafeCoerce biLaugh_)
+biLaugh = element (unsafeCoerce _biLaugh)
 
-foreign import biLayer_ :: ReactIcon
+foreign import _biLayer :: ReactIcon
 
 biLayer :: forall a b. Union a b PropsIcon => Record a -> JSX
-biLayer = element (unsafeCoerce biLayer_)
+biLayer = element (unsafeCoerce _biLayer)
 
-foreign import biLayerMinus_ :: ReactIcon
+foreign import _biLayerMinus :: ReactIcon
 
 biLayerMinus :: forall a b. Union a b PropsIcon => Record a -> JSX
-biLayerMinus = element (unsafeCoerce biLayerMinus_)
+biLayerMinus = element (unsafeCoerce _biLayerMinus)
 
-foreign import biLayerPlus_ :: ReactIcon
+foreign import _biLayerPlus :: ReactIcon
 
 biLayerPlus :: forall a b. Union a b PropsIcon => Record a -> JSX
-biLayerPlus = element (unsafeCoerce biLayerPlus_)
+biLayerPlus = element (unsafeCoerce _biLayerPlus)
 
-foreign import biLayout_ :: ReactIcon
+foreign import _biLayout :: ReactIcon
 
 biLayout :: forall a b. Union a b PropsIcon => Record a -> JSX
-biLayout = element (unsafeCoerce biLayout_)
+biLayout = element (unsafeCoerce _biLayout)
 
-foreign import biLeftArrow_ :: ReactIcon
+foreign import _biLeftArrow :: ReactIcon
 
 biLeftArrow :: forall a b. Union a b PropsIcon => Record a -> JSX
-biLeftArrow = element (unsafeCoerce biLeftArrow_)
+biLeftArrow = element (unsafeCoerce _biLeftArrow)
 
-foreign import biLeftArrowAlt_ :: ReactIcon
+foreign import _biLeftArrowAlt :: ReactIcon
 
 biLeftArrowAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-biLeftArrowAlt = element (unsafeCoerce biLeftArrowAlt_)
+biLeftArrowAlt = element (unsafeCoerce _biLeftArrowAlt)
 
-foreign import biLeftArrowCircle_ :: ReactIcon
+foreign import _biLeftArrowCircle :: ReactIcon
 
 biLeftArrowCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-biLeftArrowCircle = element (unsafeCoerce biLeftArrowCircle_)
+biLeftArrowCircle = element (unsafeCoerce _biLeftArrowCircle)
 
-foreign import biLeftDownArrowCircle_ :: ReactIcon
+foreign import _biLeftDownArrowCircle :: ReactIcon
 
 biLeftDownArrowCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-biLeftDownArrowCircle = element (unsafeCoerce biLeftDownArrowCircle_)
+biLeftDownArrowCircle = element (unsafeCoerce _biLeftDownArrowCircle)
 
-foreign import biLeftIndent_ :: ReactIcon
+foreign import _biLeftIndent :: ReactIcon
 
 biLeftIndent :: forall a b. Union a b PropsIcon => Record a -> JSX
-biLeftIndent = element (unsafeCoerce biLeftIndent_)
+biLeftIndent = element (unsafeCoerce _biLeftIndent)
 
-foreign import biLeftTopArrowCircle_ :: ReactIcon
+foreign import _biLeftTopArrowCircle :: ReactIcon
 
 biLeftTopArrowCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-biLeftTopArrowCircle = element (unsafeCoerce biLeftTopArrowCircle_)
+biLeftTopArrowCircle = element (unsafeCoerce _biLeftTopArrowCircle)
 
-foreign import biLibrary_ :: ReactIcon
+foreign import _biLibrary :: ReactIcon
 
 biLibrary :: forall a b. Union a b PropsIcon => Record a -> JSX
-biLibrary = element (unsafeCoerce biLibrary_)
+biLibrary = element (unsafeCoerce _biLibrary)
 
-foreign import biLike_ :: ReactIcon
+foreign import _biLike :: ReactIcon
 
 biLike :: forall a b. Union a b PropsIcon => Record a -> JSX
-biLike = element (unsafeCoerce biLike_)
+biLike = element (unsafeCoerce _biLike)
 
-foreign import biLineChart_ :: ReactIcon
+foreign import _biLineChart :: ReactIcon
 
 biLineChart :: forall a b. Union a b PropsIcon => Record a -> JSX
-biLineChart = element (unsafeCoerce biLineChart_)
+biLineChart = element (unsafeCoerce _biLineChart)
 
-foreign import biLineChartDown_ :: ReactIcon
+foreign import _biLineChartDown :: ReactIcon
 
 biLineChartDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-biLineChartDown = element (unsafeCoerce biLineChartDown_)
+biLineChartDown = element (unsafeCoerce _biLineChartDown)
 
-foreign import biLink_ :: ReactIcon
+foreign import _biLink :: ReactIcon
 
 biLink :: forall a b. Union a b PropsIcon => Record a -> JSX
-biLink = element (unsafeCoerce biLink_)
+biLink = element (unsafeCoerce _biLink)
 
-foreign import biLinkAlt_ :: ReactIcon
+foreign import _biLinkAlt :: ReactIcon
 
 biLinkAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-biLinkAlt = element (unsafeCoerce biLinkAlt_)
+biLinkAlt = element (unsafeCoerce _biLinkAlt)
 
-foreign import biLinkExternal_ :: ReactIcon
+foreign import _biLinkExternal :: ReactIcon
 
 biLinkExternal :: forall a b. Union a b PropsIcon => Record a -> JSX
-biLinkExternal = element (unsafeCoerce biLinkExternal_)
+biLinkExternal = element (unsafeCoerce _biLinkExternal)
 
-foreign import biLira_ :: ReactIcon
+foreign import _biLira :: ReactIcon
 
 biLira :: forall a b. Union a b PropsIcon => Record a -> JSX
-biLira = element (unsafeCoerce biLira_)
+biLira = element (unsafeCoerce _biLira)
 
-foreign import biListCheck_ :: ReactIcon
+foreign import _biListCheck :: ReactIcon
 
 biListCheck :: forall a b. Union a b PropsIcon => Record a -> JSX
-biListCheck = element (unsafeCoerce biListCheck_)
+biListCheck = element (unsafeCoerce _biListCheck)
 
-foreign import biListMinus_ :: ReactIcon
+foreign import _biListMinus :: ReactIcon
 
 biListMinus :: forall a b. Union a b PropsIcon => Record a -> JSX
-biListMinus = element (unsafeCoerce biListMinus_)
+biListMinus = element (unsafeCoerce _biListMinus)
 
-foreign import biListOl_ :: ReactIcon
+foreign import _biListOl :: ReactIcon
 
 biListOl :: forall a b. Union a b PropsIcon => Record a -> JSX
-biListOl = element (unsafeCoerce biListOl_)
+biListOl = element (unsafeCoerce _biListOl)
 
-foreign import biListPlus_ :: ReactIcon
+foreign import _biListPlus :: ReactIcon
 
 biListPlus :: forall a b. Union a b PropsIcon => Record a -> JSX
-biListPlus = element (unsafeCoerce biListPlus_)
+biListPlus = element (unsafeCoerce _biListPlus)
 
-foreign import biListUl_ :: ReactIcon
+foreign import _biListUl :: ReactIcon
 
 biListUl :: forall a b. Union a b PropsIcon => Record a -> JSX
-biListUl = element (unsafeCoerce biListUl_)
+biListUl = element (unsafeCoerce _biListUl)
 
-foreign import biLoader_ :: ReactIcon
+foreign import _biLoader :: ReactIcon
 
 biLoader :: forall a b. Union a b PropsIcon => Record a -> JSX
-biLoader = element (unsafeCoerce biLoader_)
+biLoader = element (unsafeCoerce _biLoader)
 
-foreign import biLoaderAlt_ :: ReactIcon
+foreign import _biLoaderAlt :: ReactIcon
 
 biLoaderAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-biLoaderAlt = element (unsafeCoerce biLoaderAlt_)
+biLoaderAlt = element (unsafeCoerce _biLoaderAlt)
 
-foreign import biLoaderCircle_ :: ReactIcon
+foreign import _biLoaderCircle :: ReactIcon
 
 biLoaderCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-biLoaderCircle = element (unsafeCoerce biLoaderCircle_)
+biLoaderCircle = element (unsafeCoerce _biLoaderCircle)
 
-foreign import biLocationPlus_ :: ReactIcon
+foreign import _biLocationPlus :: ReactIcon
 
 biLocationPlus :: forall a b. Union a b PropsIcon => Record a -> JSX
-biLocationPlus = element (unsafeCoerce biLocationPlus_)
+biLocationPlus = element (unsafeCoerce _biLocationPlus)
 
-foreign import biLock_ :: ReactIcon
+foreign import _biLock :: ReactIcon
 
 biLock :: forall a b. Union a b PropsIcon => Record a -> JSX
-biLock = element (unsafeCoerce biLock_)
+biLock = element (unsafeCoerce _biLock)
 
-foreign import biLockAlt_ :: ReactIcon
+foreign import _biLockAlt :: ReactIcon
 
 biLockAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-biLockAlt = element (unsafeCoerce biLockAlt_)
+biLockAlt = element (unsafeCoerce _biLockAlt)
 
-foreign import biLockOpen_ :: ReactIcon
+foreign import _biLockOpen :: ReactIcon
 
 biLockOpen :: forall a b. Union a b PropsIcon => Record a -> JSX
-biLockOpen = element (unsafeCoerce biLockOpen_)
+biLockOpen = element (unsafeCoerce _biLockOpen)
 
-foreign import biLockOpenAlt_ :: ReactIcon
+foreign import _biLockOpenAlt :: ReactIcon
 
 biLockOpenAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-biLockOpenAlt = element (unsafeCoerce biLockOpenAlt_)
+biLockOpenAlt = element (unsafeCoerce _biLockOpenAlt)
 
-foreign import biLogIn_ :: ReactIcon
+foreign import _biLogIn :: ReactIcon
 
 biLogIn :: forall a b. Union a b PropsIcon => Record a -> JSX
-biLogIn = element (unsafeCoerce biLogIn_)
+biLogIn = element (unsafeCoerce _biLogIn)
 
-foreign import biLogInCircle_ :: ReactIcon
+foreign import _biLogInCircle :: ReactIcon
 
 biLogInCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-biLogInCircle = element (unsafeCoerce biLogInCircle_)
+biLogInCircle = element (unsafeCoerce _biLogInCircle)
 
-foreign import biLogOut_ :: ReactIcon
+foreign import _biLogOut :: ReactIcon
 
 biLogOut :: forall a b. Union a b PropsIcon => Record a -> JSX
-biLogOut = element (unsafeCoerce biLogOut_)
+biLogOut = element (unsafeCoerce _biLogOut)
 
-foreign import biLogOutCircle_ :: ReactIcon
+foreign import _biLogOutCircle :: ReactIcon
 
 biLogOutCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-biLogOutCircle = element (unsafeCoerce biLogOutCircle_)
+biLogOutCircle = element (unsafeCoerce _biLogOutCircle)
 
-foreign import biLowVision_ :: ReactIcon
+foreign import _biLowVision :: ReactIcon
 
 biLowVision :: forall a b. Union a b PropsIcon => Record a -> JSX
-biLowVision = element (unsafeCoerce biLowVision_)
+biLowVision = element (unsafeCoerce _biLowVision)
 
-foreign import biMagnet_ :: ReactIcon
+foreign import _biMagnet :: ReactIcon
 
 biMagnet :: forall a b. Union a b PropsIcon => Record a -> JSX
-biMagnet = element (unsafeCoerce biMagnet_)
+biMagnet = element (unsafeCoerce _biMagnet)
 
-foreign import biMailSend_ :: ReactIcon
+foreign import _biMailSend :: ReactIcon
 
 biMailSend :: forall a b. Union a b PropsIcon => Record a -> JSX
-biMailSend = element (unsafeCoerce biMailSend_)
+biMailSend = element (unsafeCoerce _biMailSend)
 
-foreign import biMale_ :: ReactIcon
+foreign import _biMale :: ReactIcon
 
 biMale :: forall a b. Union a b PropsIcon => Record a -> JSX
-biMale = element (unsafeCoerce biMale_)
+biMale = element (unsafeCoerce _biMale)
 
-foreign import biMaleSign_ :: ReactIcon
+foreign import _biMaleSign :: ReactIcon
 
 biMaleSign :: forall a b. Union a b PropsIcon => Record a -> JSX
-biMaleSign = element (unsafeCoerce biMaleSign_)
+biMaleSign = element (unsafeCoerce _biMaleSign)
 
-foreign import biMap_ :: ReactIcon
+foreign import _biMap :: ReactIcon
 
 biMap :: forall a b. Union a b PropsIcon => Record a -> JSX
-biMap = element (unsafeCoerce biMap_)
+biMap = element (unsafeCoerce _biMap)
 
-foreign import biMapAlt_ :: ReactIcon
+foreign import _biMapAlt :: ReactIcon
 
 biMapAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-biMapAlt = element (unsafeCoerce biMapAlt_)
+biMapAlt = element (unsafeCoerce _biMapAlt)
 
-foreign import biMapPin_ :: ReactIcon
+foreign import _biMapPin :: ReactIcon
 
 biMapPin :: forall a b. Union a b PropsIcon => Record a -> JSX
-biMapPin = element (unsafeCoerce biMapPin_)
+biMapPin = element (unsafeCoerce _biMapPin)
 
-foreign import biMask_ :: ReactIcon
+foreign import _biMask :: ReactIcon
 
 biMask :: forall a b. Union a b PropsIcon => Record a -> JSX
-biMask = element (unsafeCoerce biMask_)
+biMask = element (unsafeCoerce _biMask)
 
-foreign import biMedal_ :: ReactIcon
+foreign import _biMedal :: ReactIcon
 
 biMedal :: forall a b. Union a b PropsIcon => Record a -> JSX
-biMedal = element (unsafeCoerce biMedal_)
+biMedal = element (unsafeCoerce _biMedal)
 
-foreign import biMeh_ :: ReactIcon
+foreign import _biMeh :: ReactIcon
 
 biMeh :: forall a b. Union a b PropsIcon => Record a -> JSX
-biMeh = element (unsafeCoerce biMeh_)
+biMeh = element (unsafeCoerce _biMeh)
 
-foreign import biMehAlt_ :: ReactIcon
+foreign import _biMehAlt :: ReactIcon
 
 biMehAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-biMehAlt = element (unsafeCoerce biMehAlt_)
+biMehAlt = element (unsafeCoerce _biMehAlt)
 
-foreign import biMehBlank_ :: ReactIcon
+foreign import _biMehBlank :: ReactIcon
 
 biMehBlank :: forall a b. Union a b PropsIcon => Record a -> JSX
-biMehBlank = element (unsafeCoerce biMehBlank_)
+biMehBlank = element (unsafeCoerce _biMehBlank)
 
-foreign import biMemoryCard_ :: ReactIcon
+foreign import _biMemoryCard :: ReactIcon
 
 biMemoryCard :: forall a b. Union a b PropsIcon => Record a -> JSX
-biMemoryCard = element (unsafeCoerce biMemoryCard_)
+biMemoryCard = element (unsafeCoerce _biMemoryCard)
 
-foreign import biMenu_ :: ReactIcon
+foreign import _biMenu :: ReactIcon
 
 biMenu :: forall a b. Union a b PropsIcon => Record a -> JSX
-biMenu = element (unsafeCoerce biMenu_)
+biMenu = element (unsafeCoerce _biMenu)
 
-foreign import biMenuAltLeft_ :: ReactIcon
+foreign import _biMenuAltLeft :: ReactIcon
 
 biMenuAltLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-biMenuAltLeft = element (unsafeCoerce biMenuAltLeft_)
+biMenuAltLeft = element (unsafeCoerce _biMenuAltLeft)
 
-foreign import biMenuAltRight_ :: ReactIcon
+foreign import _biMenuAltRight :: ReactIcon
 
 biMenuAltRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-biMenuAltRight = element (unsafeCoerce biMenuAltRight_)
+biMenuAltRight = element (unsafeCoerce _biMenuAltRight)
 
-foreign import biMerge_ :: ReactIcon
+foreign import _biMerge :: ReactIcon
 
 biMerge :: forall a b. Union a b PropsIcon => Record a -> JSX
-biMerge = element (unsafeCoerce biMerge_)
+biMerge = element (unsafeCoerce _biMerge)
 
-foreign import biMessage_ :: ReactIcon
+foreign import _biMessage :: ReactIcon
 
 biMessage :: forall a b. Union a b PropsIcon => Record a -> JSX
-biMessage = element (unsafeCoerce biMessage_)
+biMessage = element (unsafeCoerce _biMessage)
 
-foreign import biMessageAdd_ :: ReactIcon
+foreign import _biMessageAdd :: ReactIcon
 
 biMessageAdd :: forall a b. Union a b PropsIcon => Record a -> JSX
-biMessageAdd = element (unsafeCoerce biMessageAdd_)
+biMessageAdd = element (unsafeCoerce _biMessageAdd)
 
-foreign import biMessageAlt_ :: ReactIcon
+foreign import _biMessageAlt :: ReactIcon
 
 biMessageAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-biMessageAlt = element (unsafeCoerce biMessageAlt_)
+biMessageAlt = element (unsafeCoerce _biMessageAlt)
 
-foreign import biMessageAltAdd_ :: ReactIcon
+foreign import _biMessageAltAdd :: ReactIcon
 
 biMessageAltAdd :: forall a b. Union a b PropsIcon => Record a -> JSX
-biMessageAltAdd = element (unsafeCoerce biMessageAltAdd_)
+biMessageAltAdd = element (unsafeCoerce _biMessageAltAdd)
 
-foreign import biMessageAltCheck_ :: ReactIcon
+foreign import _biMessageAltCheck :: ReactIcon
 
 biMessageAltCheck :: forall a b. Union a b PropsIcon => Record a -> JSX
-biMessageAltCheck = element (unsafeCoerce biMessageAltCheck_)
+biMessageAltCheck = element (unsafeCoerce _biMessageAltCheck)
 
-foreign import biMessageAltDetail_ :: ReactIcon
+foreign import _biMessageAltDetail :: ReactIcon
 
 biMessageAltDetail :: forall a b. Union a b PropsIcon => Record a -> JSX
-biMessageAltDetail = element (unsafeCoerce biMessageAltDetail_)
+biMessageAltDetail = element (unsafeCoerce _biMessageAltDetail)
 
-foreign import biMessageAltDots_ :: ReactIcon
+foreign import _biMessageAltDots :: ReactIcon
 
 biMessageAltDots :: forall a b. Union a b PropsIcon => Record a -> JSX
-biMessageAltDots = element (unsafeCoerce biMessageAltDots_)
+biMessageAltDots = element (unsafeCoerce _biMessageAltDots)
 
-foreign import biMessageAltEdit_ :: ReactIcon
+foreign import _biMessageAltEdit :: ReactIcon
 
 biMessageAltEdit :: forall a b. Union a b PropsIcon => Record a -> JSX
-biMessageAltEdit = element (unsafeCoerce biMessageAltEdit_)
+biMessageAltEdit = element (unsafeCoerce _biMessageAltEdit)
 
-foreign import biMessageAltError_ :: ReactIcon
+foreign import _biMessageAltError :: ReactIcon
 
 biMessageAltError :: forall a b. Union a b PropsIcon => Record a -> JSX
-biMessageAltError = element (unsafeCoerce biMessageAltError_)
+biMessageAltError = element (unsafeCoerce _biMessageAltError)
 
-foreign import biMessageAltMinus_ :: ReactIcon
+foreign import _biMessageAltMinus :: ReactIcon
 
 biMessageAltMinus :: forall a b. Union a b PropsIcon => Record a -> JSX
-biMessageAltMinus = element (unsafeCoerce biMessageAltMinus_)
+biMessageAltMinus = element (unsafeCoerce _biMessageAltMinus)
 
-foreign import biMessageAltX_ :: ReactIcon
+foreign import _biMessageAltX :: ReactIcon
 
 biMessageAltX :: forall a b. Union a b PropsIcon => Record a -> JSX
-biMessageAltX = element (unsafeCoerce biMessageAltX_)
+biMessageAltX = element (unsafeCoerce _biMessageAltX)
 
-foreign import biMessageCheck_ :: ReactIcon
+foreign import _biMessageCheck :: ReactIcon
 
 biMessageCheck :: forall a b. Union a b PropsIcon => Record a -> JSX
-biMessageCheck = element (unsafeCoerce biMessageCheck_)
+biMessageCheck = element (unsafeCoerce _biMessageCheck)
 
-foreign import biMessageDetail_ :: ReactIcon
+foreign import _biMessageDetail :: ReactIcon
 
 biMessageDetail :: forall a b. Union a b PropsIcon => Record a -> JSX
-biMessageDetail = element (unsafeCoerce biMessageDetail_)
+biMessageDetail = element (unsafeCoerce _biMessageDetail)
 
-foreign import biMessageDots_ :: ReactIcon
+foreign import _biMessageDots :: ReactIcon
 
 biMessageDots :: forall a b. Union a b PropsIcon => Record a -> JSX
-biMessageDots = element (unsafeCoerce biMessageDots_)
+biMessageDots = element (unsafeCoerce _biMessageDots)
 
-foreign import biMessageEdit_ :: ReactIcon
+foreign import _biMessageEdit :: ReactIcon
 
 biMessageEdit :: forall a b. Union a b PropsIcon => Record a -> JSX
-biMessageEdit = element (unsafeCoerce biMessageEdit_)
+biMessageEdit = element (unsafeCoerce _biMessageEdit)
 
-foreign import biMessageError_ :: ReactIcon
+foreign import _biMessageError :: ReactIcon
 
 biMessageError :: forall a b. Union a b PropsIcon => Record a -> JSX
-biMessageError = element (unsafeCoerce biMessageError_)
+biMessageError = element (unsafeCoerce _biMessageError)
 
-foreign import biMessageMinus_ :: ReactIcon
+foreign import _biMessageMinus :: ReactIcon
 
 biMessageMinus :: forall a b. Union a b PropsIcon => Record a -> JSX
-biMessageMinus = element (unsafeCoerce biMessageMinus_)
+biMessageMinus = element (unsafeCoerce _biMessageMinus)
 
-foreign import biMessageRounded_ :: ReactIcon
+foreign import _biMessageRounded :: ReactIcon
 
 biMessageRounded :: forall a b. Union a b PropsIcon => Record a -> JSX
-biMessageRounded = element (unsafeCoerce biMessageRounded_)
+biMessageRounded = element (unsafeCoerce _biMessageRounded)
 
-foreign import biMessageRoundedAdd_ :: ReactIcon
+foreign import _biMessageRoundedAdd :: ReactIcon
 
 biMessageRoundedAdd :: forall a b. Union a b PropsIcon => Record a -> JSX
-biMessageRoundedAdd = element (unsafeCoerce biMessageRoundedAdd_)
+biMessageRoundedAdd = element (unsafeCoerce _biMessageRoundedAdd)
 
-foreign import biMessageRoundedCheck_ :: ReactIcon
+foreign import _biMessageRoundedCheck :: ReactIcon
 
 biMessageRoundedCheck :: forall a b. Union a b PropsIcon => Record a -> JSX
-biMessageRoundedCheck = element (unsafeCoerce biMessageRoundedCheck_)
+biMessageRoundedCheck = element (unsafeCoerce _biMessageRoundedCheck)
 
-foreign import biMessageRoundedDetail_ :: ReactIcon
+foreign import _biMessageRoundedDetail :: ReactIcon
 
 biMessageRoundedDetail :: forall a b. Union a b PropsIcon => Record a -> JSX
-biMessageRoundedDetail = element (unsafeCoerce biMessageRoundedDetail_)
+biMessageRoundedDetail = element (unsafeCoerce _biMessageRoundedDetail)
 
-foreign import biMessageRoundedDots_ :: ReactIcon
+foreign import _biMessageRoundedDots :: ReactIcon
 
 biMessageRoundedDots :: forall a b. Union a b PropsIcon => Record a -> JSX
-biMessageRoundedDots = element (unsafeCoerce biMessageRoundedDots_)
+biMessageRoundedDots = element (unsafeCoerce _biMessageRoundedDots)
 
-foreign import biMessageRoundedEdit_ :: ReactIcon
+foreign import _biMessageRoundedEdit :: ReactIcon
 
 biMessageRoundedEdit :: forall a b. Union a b PropsIcon => Record a -> JSX
-biMessageRoundedEdit = element (unsafeCoerce biMessageRoundedEdit_)
+biMessageRoundedEdit = element (unsafeCoerce _biMessageRoundedEdit)
 
-foreign import biMessageRoundedError_ :: ReactIcon
+foreign import _biMessageRoundedError :: ReactIcon
 
 biMessageRoundedError :: forall a b. Union a b PropsIcon => Record a -> JSX
-biMessageRoundedError = element (unsafeCoerce biMessageRoundedError_)
+biMessageRoundedError = element (unsafeCoerce _biMessageRoundedError)
 
-foreign import biMessageRoundedMinus_ :: ReactIcon
+foreign import _biMessageRoundedMinus :: ReactIcon
 
 biMessageRoundedMinus :: forall a b. Union a b PropsIcon => Record a -> JSX
-biMessageRoundedMinus = element (unsafeCoerce biMessageRoundedMinus_)
+biMessageRoundedMinus = element (unsafeCoerce _biMessageRoundedMinus)
 
-foreign import biMessageRoundedX_ :: ReactIcon
+foreign import _biMessageRoundedX :: ReactIcon
 
 biMessageRoundedX :: forall a b. Union a b PropsIcon => Record a -> JSX
-biMessageRoundedX = element (unsafeCoerce biMessageRoundedX_)
+biMessageRoundedX = element (unsafeCoerce _biMessageRoundedX)
 
-foreign import biMessageSquare_ :: ReactIcon
+foreign import _biMessageSquare :: ReactIcon
 
 biMessageSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-biMessageSquare = element (unsafeCoerce biMessageSquare_)
+biMessageSquare = element (unsafeCoerce _biMessageSquare)
 
-foreign import biMessageSquareAdd_ :: ReactIcon
+foreign import _biMessageSquareAdd :: ReactIcon
 
 biMessageSquareAdd :: forall a b. Union a b PropsIcon => Record a -> JSX
-biMessageSquareAdd = element (unsafeCoerce biMessageSquareAdd_)
+biMessageSquareAdd = element (unsafeCoerce _biMessageSquareAdd)
 
-foreign import biMessageSquareCheck_ :: ReactIcon
+foreign import _biMessageSquareCheck :: ReactIcon
 
 biMessageSquareCheck :: forall a b. Union a b PropsIcon => Record a -> JSX
-biMessageSquareCheck = element (unsafeCoerce biMessageSquareCheck_)
+biMessageSquareCheck = element (unsafeCoerce _biMessageSquareCheck)
 
-foreign import biMessageSquareDetail_ :: ReactIcon
+foreign import _biMessageSquareDetail :: ReactIcon
 
 biMessageSquareDetail :: forall a b. Union a b PropsIcon => Record a -> JSX
-biMessageSquareDetail = element (unsafeCoerce biMessageSquareDetail_)
+biMessageSquareDetail = element (unsafeCoerce _biMessageSquareDetail)
 
-foreign import biMessageSquareDots_ :: ReactIcon
+foreign import _biMessageSquareDots :: ReactIcon
 
 biMessageSquareDots :: forall a b. Union a b PropsIcon => Record a -> JSX
-biMessageSquareDots = element (unsafeCoerce biMessageSquareDots_)
+biMessageSquareDots = element (unsafeCoerce _biMessageSquareDots)
 
-foreign import biMessageSquareEdit_ :: ReactIcon
+foreign import _biMessageSquareEdit :: ReactIcon
 
 biMessageSquareEdit :: forall a b. Union a b PropsIcon => Record a -> JSX
-biMessageSquareEdit = element (unsafeCoerce biMessageSquareEdit_)
+biMessageSquareEdit = element (unsafeCoerce _biMessageSquareEdit)
 
-foreign import biMessageSquareError_ :: ReactIcon
+foreign import _biMessageSquareError :: ReactIcon
 
 biMessageSquareError :: forall a b. Union a b PropsIcon => Record a -> JSX
-biMessageSquareError = element (unsafeCoerce biMessageSquareError_)
+biMessageSquareError = element (unsafeCoerce _biMessageSquareError)
 
-foreign import biMessageSquareMinus_ :: ReactIcon
+foreign import _biMessageSquareMinus :: ReactIcon
 
 biMessageSquareMinus :: forall a b. Union a b PropsIcon => Record a -> JSX
-biMessageSquareMinus = element (unsafeCoerce biMessageSquareMinus_)
+biMessageSquareMinus = element (unsafeCoerce _biMessageSquareMinus)
 
-foreign import biMessageSquareX_ :: ReactIcon
+foreign import _biMessageSquareX :: ReactIcon
 
 biMessageSquareX :: forall a b. Union a b PropsIcon => Record a -> JSX
-biMessageSquareX = element (unsafeCoerce biMessageSquareX_)
+biMessageSquareX = element (unsafeCoerce _biMessageSquareX)
 
-foreign import biMessageX_ :: ReactIcon
+foreign import _biMessageX :: ReactIcon
 
 biMessageX :: forall a b. Union a b PropsIcon => Record a -> JSX
-biMessageX = element (unsafeCoerce biMessageX_)
+biMessageX = element (unsafeCoerce _biMessageX)
 
-foreign import biMeteor_ :: ReactIcon
+foreign import _biMeteor :: ReactIcon
 
 biMeteor :: forall a b. Union a b PropsIcon => Record a -> JSX
-biMeteor = element (unsafeCoerce biMeteor_)
+biMeteor = element (unsafeCoerce _biMeteor)
 
-foreign import biMicrochip_ :: ReactIcon
+foreign import _biMicrochip :: ReactIcon
 
 biMicrochip :: forall a b. Union a b PropsIcon => Record a -> JSX
-biMicrochip = element (unsafeCoerce biMicrochip_)
+biMicrochip = element (unsafeCoerce _biMicrochip)
 
-foreign import biMicrophone_ :: ReactIcon
+foreign import _biMicrophone :: ReactIcon
 
 biMicrophone :: forall a b. Union a b PropsIcon => Record a -> JSX
-biMicrophone = element (unsafeCoerce biMicrophone_)
+biMicrophone = element (unsafeCoerce _biMicrophone)
 
-foreign import biMicrophoneOff_ :: ReactIcon
+foreign import _biMicrophoneOff :: ReactIcon
 
 biMicrophoneOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-biMicrophoneOff = element (unsafeCoerce biMicrophoneOff_)
+biMicrophoneOff = element (unsafeCoerce _biMicrophoneOff)
 
-foreign import biMinus_ :: ReactIcon
+foreign import _biMinus :: ReactIcon
 
 biMinus :: forall a b. Union a b PropsIcon => Record a -> JSX
-biMinus = element (unsafeCoerce biMinus_)
+biMinus = element (unsafeCoerce _biMinus)
 
-foreign import biMinusBack_ :: ReactIcon
+foreign import _biMinusBack :: ReactIcon
 
 biMinusBack :: forall a b. Union a b PropsIcon => Record a -> JSX
-biMinusBack = element (unsafeCoerce biMinusBack_)
+biMinusBack = element (unsafeCoerce _biMinusBack)
 
-foreign import biMinusCircle_ :: ReactIcon
+foreign import _biMinusCircle :: ReactIcon
 
 biMinusCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-biMinusCircle = element (unsafeCoerce biMinusCircle_)
+biMinusCircle = element (unsafeCoerce _biMinusCircle)
 
-foreign import biMinusFront_ :: ReactIcon
+foreign import _biMinusFront :: ReactIcon
 
 biMinusFront :: forall a b. Union a b PropsIcon => Record a -> JSX
-biMinusFront = element (unsafeCoerce biMinusFront_)
+biMinusFront = element (unsafeCoerce _biMinusFront)
 
-foreign import biMobile_ :: ReactIcon
+foreign import _biMobile :: ReactIcon
 
 biMobile :: forall a b. Union a b PropsIcon => Record a -> JSX
-biMobile = element (unsafeCoerce biMobile_)
+biMobile = element (unsafeCoerce _biMobile)
 
-foreign import biMobileAlt_ :: ReactIcon
+foreign import _biMobileAlt :: ReactIcon
 
 biMobileAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-biMobileAlt = element (unsafeCoerce biMobileAlt_)
+biMobileAlt = element (unsafeCoerce _biMobileAlt)
 
-foreign import biMobileLandscape_ :: ReactIcon
+foreign import _biMobileLandscape :: ReactIcon
 
 biMobileLandscape :: forall a b. Union a b PropsIcon => Record a -> JSX
-biMobileLandscape = element (unsafeCoerce biMobileLandscape_)
+biMobileLandscape = element (unsafeCoerce _biMobileLandscape)
 
-foreign import biMobileVibration_ :: ReactIcon
+foreign import _biMobileVibration :: ReactIcon
 
 biMobileVibration :: forall a b. Union a b PropsIcon => Record a -> JSX
-biMobileVibration = element (unsafeCoerce biMobileVibration_)
+biMobileVibration = element (unsafeCoerce _biMobileVibration)
 
-foreign import biMoney_ :: ReactIcon
+foreign import _biMoney :: ReactIcon
 
 biMoney :: forall a b. Union a b PropsIcon => Record a -> JSX
-biMoney = element (unsafeCoerce biMoney_)
+biMoney = element (unsafeCoerce _biMoney)
 
-foreign import biMoon_ :: ReactIcon
+foreign import _biMoon :: ReactIcon
 
 biMoon :: forall a b. Union a b PropsIcon => Record a -> JSX
-biMoon = element (unsafeCoerce biMoon_)
+biMoon = element (unsafeCoerce _biMoon)
 
-foreign import biMouse_ :: ReactIcon
+foreign import _biMouse :: ReactIcon
 
 biMouse :: forall a b. Union a b PropsIcon => Record a -> JSX
-biMouse = element (unsafeCoerce biMouse_)
+biMouse = element (unsafeCoerce _biMouse)
 
-foreign import biMouseAlt_ :: ReactIcon
+foreign import _biMouseAlt :: ReactIcon
 
 biMouseAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-biMouseAlt = element (unsafeCoerce biMouseAlt_)
+biMouseAlt = element (unsafeCoerce _biMouseAlt)
 
-foreign import biMove_ :: ReactIcon
+foreign import _biMove :: ReactIcon
 
 biMove :: forall a b. Union a b PropsIcon => Record a -> JSX
-biMove = element (unsafeCoerce biMove_)
+biMove = element (unsafeCoerce _biMove)
 
-foreign import biMoveHorizontal_ :: ReactIcon
+foreign import _biMoveHorizontal :: ReactIcon
 
 biMoveHorizontal :: forall a b. Union a b PropsIcon => Record a -> JSX
-biMoveHorizontal = element (unsafeCoerce biMoveHorizontal_)
+biMoveHorizontal = element (unsafeCoerce _biMoveHorizontal)
 
-foreign import biMoveVertical_ :: ReactIcon
+foreign import _biMoveVertical :: ReactIcon
 
 biMoveVertical :: forall a b. Union a b PropsIcon => Record a -> JSX
-biMoveVertical = element (unsafeCoerce biMoveVertical_)
+biMoveVertical = element (unsafeCoerce _biMoveVertical)
 
-foreign import biMovie_ :: ReactIcon
+foreign import _biMovie :: ReactIcon
 
 biMovie :: forall a b. Union a b PropsIcon => Record a -> JSX
-biMovie = element (unsafeCoerce biMovie_)
+biMovie = element (unsafeCoerce _biMovie)
 
-foreign import biMoviePlay_ :: ReactIcon
+foreign import _biMoviePlay :: ReactIcon
 
 biMoviePlay :: forall a b. Union a b PropsIcon => Record a -> JSX
-biMoviePlay = element (unsafeCoerce biMoviePlay_)
+biMoviePlay = element (unsafeCoerce _biMoviePlay)
 
-foreign import biMusic_ :: ReactIcon
+foreign import _biMusic :: ReactIcon
 
 biMusic :: forall a b. Union a b PropsIcon => Record a -> JSX
-biMusic = element (unsafeCoerce biMusic_)
+biMusic = element (unsafeCoerce _biMusic)
 
-foreign import biNavigation_ :: ReactIcon
+foreign import _biNavigation :: ReactIcon
 
 biNavigation :: forall a b. Union a b PropsIcon => Record a -> JSX
-biNavigation = element (unsafeCoerce biNavigation_)
+biNavigation = element (unsafeCoerce _biNavigation)
 
-foreign import biNetworkChart_ :: ReactIcon
+foreign import _biNetworkChart :: ReactIcon
 
 biNetworkChart :: forall a b. Union a b PropsIcon => Record a -> JSX
-biNetworkChart = element (unsafeCoerce biNetworkChart_)
+biNetworkChart = element (unsafeCoerce _biNetworkChart)
 
-foreign import biNews_ :: ReactIcon
+foreign import _biNews :: ReactIcon
 
 biNews :: forall a b. Union a b PropsIcon => Record a -> JSX
-biNews = element (unsafeCoerce biNews_)
+biNews = element (unsafeCoerce _biNews)
 
-foreign import biNoEntry_ :: ReactIcon
+foreign import _biNoEntry :: ReactIcon
 
 biNoEntry :: forall a b. Union a b PropsIcon => Record a -> JSX
-biNoEntry = element (unsafeCoerce biNoEntry_)
+biNoEntry = element (unsafeCoerce _biNoEntry)
 
-foreign import biNote_ :: ReactIcon
+foreign import _biNote :: ReactIcon
 
 biNote :: forall a b. Union a b PropsIcon => Record a -> JSX
-biNote = element (unsafeCoerce biNote_)
+biNote = element (unsafeCoerce _biNote)
 
-foreign import biNotepad_ :: ReactIcon
+foreign import _biNotepad :: ReactIcon
 
 biNotepad :: forall a b. Union a b PropsIcon => Record a -> JSX
-biNotepad = element (unsafeCoerce biNotepad_)
+biNotepad = element (unsafeCoerce _biNotepad)
 
-foreign import biNotification_ :: ReactIcon
+foreign import _biNotification :: ReactIcon
 
 biNotification :: forall a b. Union a b PropsIcon => Record a -> JSX
-biNotification = element (unsafeCoerce biNotification_)
+biNotification = element (unsafeCoerce _biNotification)
 
-foreign import biNotificationOff_ :: ReactIcon
+foreign import _biNotificationOff :: ReactIcon
 
 biNotificationOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-biNotificationOff = element (unsafeCoerce biNotificationOff_)
+biNotificationOff = element (unsafeCoerce _biNotificationOff)
 
-foreign import biOutline_ :: ReactIcon
+foreign import _biOutline :: ReactIcon
 
 biOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-biOutline = element (unsafeCoerce biOutline_)
+biOutline = element (unsafeCoerce _biOutline)
 
-foreign import biPackage_ :: ReactIcon
+foreign import _biPackage :: ReactIcon
 
 biPackage :: forall a b. Union a b PropsIcon => Record a -> JSX
-biPackage = element (unsafeCoerce biPackage_)
+biPackage = element (unsafeCoerce _biPackage)
 
-foreign import biPaint_ :: ReactIcon
+foreign import _biPaint :: ReactIcon
 
 biPaint :: forall a b. Union a b PropsIcon => Record a -> JSX
-biPaint = element (unsafeCoerce biPaint_)
+biPaint = element (unsafeCoerce _biPaint)
 
-foreign import biPaintRoll_ :: ReactIcon
+foreign import _biPaintRoll :: ReactIcon
 
 biPaintRoll :: forall a b. Union a b PropsIcon => Record a -> JSX
-biPaintRoll = element (unsafeCoerce biPaintRoll_)
+biPaintRoll = element (unsafeCoerce _biPaintRoll)
 
-foreign import biPalette_ :: ReactIcon
+foreign import _biPalette :: ReactIcon
 
 biPalette :: forall a b. Union a b PropsIcon => Record a -> JSX
-biPalette = element (unsafeCoerce biPalette_)
+biPalette = element (unsafeCoerce _biPalette)
 
-foreign import biPaperclip_ :: ReactIcon
+foreign import _biPaperclip :: ReactIcon
 
 biPaperclip :: forall a b. Union a b PropsIcon => Record a -> JSX
-biPaperclip = element (unsafeCoerce biPaperclip_)
+biPaperclip = element (unsafeCoerce _biPaperclip)
 
-foreign import biPaperPlane_ :: ReactIcon
+foreign import _biPaperPlane :: ReactIcon
 
 biPaperPlane :: forall a b. Union a b PropsIcon => Record a -> JSX
-biPaperPlane = element (unsafeCoerce biPaperPlane_)
+biPaperPlane = element (unsafeCoerce _biPaperPlane)
 
-foreign import biParagraph_ :: ReactIcon
+foreign import _biParagraph :: ReactIcon
 
 biParagraph :: forall a b. Union a b PropsIcon => Record a -> JSX
-biParagraph = element (unsafeCoerce biParagraph_)
+biParagraph = element (unsafeCoerce _biParagraph)
 
-foreign import biPaste_ :: ReactIcon
+foreign import _biPaste :: ReactIcon
 
 biPaste :: forall a b. Union a b PropsIcon => Record a -> JSX
-biPaste = element (unsafeCoerce biPaste_)
+biPaste = element (unsafeCoerce _biPaste)
 
-foreign import biPause_ :: ReactIcon
+foreign import _biPause :: ReactIcon
 
 biPause :: forall a b. Union a b PropsIcon => Record a -> JSX
-biPause = element (unsafeCoerce biPause_)
+biPause = element (unsafeCoerce _biPause)
 
-foreign import biPauseCircle_ :: ReactIcon
+foreign import _biPauseCircle :: ReactIcon
 
 biPauseCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-biPauseCircle = element (unsafeCoerce biPauseCircle_)
+biPauseCircle = element (unsafeCoerce _biPauseCircle)
 
-foreign import biPen_ :: ReactIcon
+foreign import _biPen :: ReactIcon
 
 biPen :: forall a b. Union a b PropsIcon => Record a -> JSX
-biPen = element (unsafeCoerce biPen_)
+biPen = element (unsafeCoerce _biPen)
 
-foreign import biPencil_ :: ReactIcon
+foreign import _biPencil :: ReactIcon
 
 biPencil :: forall a b. Union a b PropsIcon => Record a -> JSX
-biPencil = element (unsafeCoerce biPencil_)
+biPencil = element (unsafeCoerce _biPencil)
 
-foreign import biPhone_ :: ReactIcon
+foreign import _biPhone :: ReactIcon
 
 biPhone :: forall a b. Union a b PropsIcon => Record a -> JSX
-biPhone = element (unsafeCoerce biPhone_)
+biPhone = element (unsafeCoerce _biPhone)
 
-foreign import biPhoneCall_ :: ReactIcon
+foreign import _biPhoneCall :: ReactIcon
 
 biPhoneCall :: forall a b. Union a b PropsIcon => Record a -> JSX
-biPhoneCall = element (unsafeCoerce biPhoneCall_)
+biPhoneCall = element (unsafeCoerce _biPhoneCall)
 
-foreign import biPhoneIncoming_ :: ReactIcon
+foreign import _biPhoneIncoming :: ReactIcon
 
 biPhoneIncoming :: forall a b. Union a b PropsIcon => Record a -> JSX
-biPhoneIncoming = element (unsafeCoerce biPhoneIncoming_)
+biPhoneIncoming = element (unsafeCoerce _biPhoneIncoming)
 
-foreign import biPhoneOff_ :: ReactIcon
+foreign import _biPhoneOff :: ReactIcon
 
 biPhoneOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-biPhoneOff = element (unsafeCoerce biPhoneOff_)
+biPhoneOff = element (unsafeCoerce _biPhoneOff)
 
-foreign import biPhoneOutgoing_ :: ReactIcon
+foreign import _biPhoneOutgoing :: ReactIcon
 
 biPhoneOutgoing :: forall a b. Union a b PropsIcon => Record a -> JSX
-biPhoneOutgoing = element (unsafeCoerce biPhoneOutgoing_)
+biPhoneOutgoing = element (unsafeCoerce _biPhoneOutgoing)
 
-foreign import biPhotoAlbum_ :: ReactIcon
+foreign import _biPhotoAlbum :: ReactIcon
 
 biPhotoAlbum :: forall a b. Union a b PropsIcon => Record a -> JSX
-biPhotoAlbum = element (unsafeCoerce biPhotoAlbum_)
+biPhotoAlbum = element (unsafeCoerce _biPhotoAlbum)
 
-foreign import biPieChart_ :: ReactIcon
+foreign import _biPieChart :: ReactIcon
 
 biPieChart :: forall a b. Union a b PropsIcon => Record a -> JSX
-biPieChart = element (unsafeCoerce biPieChart_)
+biPieChart = element (unsafeCoerce _biPieChart)
 
-foreign import biPieChartAlt_ :: ReactIcon
+foreign import _biPieChartAlt :: ReactIcon
 
 biPieChartAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-biPieChartAlt = element (unsafeCoerce biPieChartAlt_)
+biPieChartAlt = element (unsafeCoerce _biPieChartAlt)
 
-foreign import biPin_ :: ReactIcon
+foreign import _biPin :: ReactIcon
 
 biPin :: forall a b. Union a b PropsIcon => Record a -> JSX
-biPin = element (unsafeCoerce biPin_)
+biPin = element (unsafeCoerce _biPin)
 
-foreign import biPlanet_ :: ReactIcon
+foreign import _biPlanet :: ReactIcon
 
 biPlanet :: forall a b. Union a b PropsIcon => Record a -> JSX
-biPlanet = element (unsafeCoerce biPlanet_)
+biPlanet = element (unsafeCoerce _biPlanet)
 
-foreign import biPlay_ :: ReactIcon
+foreign import _biPlay :: ReactIcon
 
 biPlay :: forall a b. Union a b PropsIcon => Record a -> JSX
-biPlay = element (unsafeCoerce biPlay_)
+biPlay = element (unsafeCoerce _biPlay)
 
-foreign import biPlayCircle_ :: ReactIcon
+foreign import _biPlayCircle :: ReactIcon
 
 biPlayCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-biPlayCircle = element (unsafeCoerce biPlayCircle_)
+biPlayCircle = element (unsafeCoerce _biPlayCircle)
 
-foreign import biPlug_ :: ReactIcon
+foreign import _biPlug :: ReactIcon
 
 biPlug :: forall a b. Union a b PropsIcon => Record a -> JSX
-biPlug = element (unsafeCoerce biPlug_)
+biPlug = element (unsafeCoerce _biPlug)
 
-foreign import biPlus_ :: ReactIcon
+foreign import _biPlus :: ReactIcon
 
 biPlus :: forall a b. Union a b PropsIcon => Record a -> JSX
-biPlus = element (unsafeCoerce biPlus_)
+biPlus = element (unsafeCoerce _biPlus)
 
-foreign import biPlusCircle_ :: ReactIcon
+foreign import _biPlusCircle :: ReactIcon
 
 biPlusCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-biPlusCircle = element (unsafeCoerce biPlusCircle_)
+biPlusCircle = element (unsafeCoerce _biPlusCircle)
 
-foreign import biPlusMedical_ :: ReactIcon
+foreign import _biPlusMedical :: ReactIcon
 
 biPlusMedical :: forall a b. Union a b PropsIcon => Record a -> JSX
-biPlusMedical = element (unsafeCoerce biPlusMedical_)
+biPlusMedical = element (unsafeCoerce _biPlusMedical)
 
-foreign import biPodcast_ :: ReactIcon
+foreign import _biPodcast :: ReactIcon
 
 biPodcast :: forall a b. Union a b PropsIcon => Record a -> JSX
-biPodcast = element (unsafeCoerce biPodcast_)
+biPodcast = element (unsafeCoerce _biPodcast)
 
-foreign import biPointer_ :: ReactIcon
+foreign import _biPointer :: ReactIcon
 
 biPointer :: forall a b. Union a b PropsIcon => Record a -> JSX
-biPointer = element (unsafeCoerce biPointer_)
+biPointer = element (unsafeCoerce _biPointer)
 
-foreign import biPoll_ :: ReactIcon
+foreign import _biPoll :: ReactIcon
 
 biPoll :: forall a b. Union a b PropsIcon => Record a -> JSX
-biPoll = element (unsafeCoerce biPoll_)
+biPoll = element (unsafeCoerce _biPoll)
 
-foreign import biPolygon_ :: ReactIcon
+foreign import _biPolygon :: ReactIcon
 
 biPolygon :: forall a b. Union a b PropsIcon => Record a -> JSX
-biPolygon = element (unsafeCoerce biPolygon_)
+biPolygon = element (unsafeCoerce _biPolygon)
 
-foreign import biPound_ :: ReactIcon
+foreign import _biPound :: ReactIcon
 
 biPound :: forall a b. Union a b PropsIcon => Record a -> JSX
-biPound = element (unsafeCoerce biPound_)
+biPound = element (unsafeCoerce _biPound)
 
-foreign import biPowerOff_ :: ReactIcon
+foreign import _biPowerOff :: ReactIcon
 
 biPowerOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-biPowerOff = element (unsafeCoerce biPowerOff_)
+biPowerOff = element (unsafeCoerce _biPowerOff)
 
-foreign import biPrinter_ :: ReactIcon
+foreign import _biPrinter :: ReactIcon
 
 biPrinter :: forall a b. Union a b PropsIcon => Record a -> JSX
-biPrinter = element (unsafeCoerce biPrinter_)
+biPrinter = element (unsafeCoerce _biPrinter)
 
-foreign import biPulse_ :: ReactIcon
+foreign import _biPulse :: ReactIcon
 
 biPulse :: forall a b. Union a b PropsIcon => Record a -> JSX
-biPulse = element (unsafeCoerce biPulse_)
+biPulse = element (unsafeCoerce _biPulse)
 
-foreign import biPurchaseTag_ :: ReactIcon
+foreign import _biPurchaseTag :: ReactIcon
 
 biPurchaseTag :: forall a b. Union a b PropsIcon => Record a -> JSX
-biPurchaseTag = element (unsafeCoerce biPurchaseTag_)
+biPurchaseTag = element (unsafeCoerce _biPurchaseTag)
 
-foreign import biPurchaseTagAlt_ :: ReactIcon
+foreign import _biPurchaseTagAlt :: ReactIcon
 
 biPurchaseTagAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-biPurchaseTagAlt = element (unsafeCoerce biPurchaseTagAlt_)
+biPurchaseTagAlt = element (unsafeCoerce _biPurchaseTagAlt)
 
-foreign import biPyramid_ :: ReactIcon
+foreign import _biPyramid :: ReactIcon
 
 biPyramid :: forall a b. Union a b PropsIcon => Record a -> JSX
-biPyramid = element (unsafeCoerce biPyramid_)
+biPyramid = element (unsafeCoerce _biPyramid)
 
-foreign import biQr_ :: ReactIcon
+foreign import _biQr :: ReactIcon
 
 biQr :: forall a b. Union a b PropsIcon => Record a -> JSX
-biQr = element (unsafeCoerce biQr_)
+biQr = element (unsafeCoerce _biQr)
 
-foreign import biQrScan_ :: ReactIcon
+foreign import _biQrScan :: ReactIcon
 
 biQrScan :: forall a b. Union a b PropsIcon => Record a -> JSX
-biQrScan = element (unsafeCoerce biQrScan_)
+biQrScan = element (unsafeCoerce _biQrScan)
 
-foreign import biQuestionMark_ :: ReactIcon
+foreign import _biQuestionMark :: ReactIcon
 
 biQuestionMark :: forall a b. Union a b PropsIcon => Record a -> JSX
-biQuestionMark = element (unsafeCoerce biQuestionMark_)
+biQuestionMark = element (unsafeCoerce _biQuestionMark)
 
-foreign import biRadar_ :: ReactIcon
+foreign import _biRadar :: ReactIcon
 
 biRadar :: forall a b. Union a b PropsIcon => Record a -> JSX
-biRadar = element (unsafeCoerce biRadar_)
+biRadar = element (unsafeCoerce _biRadar)
 
-foreign import biRadio_ :: ReactIcon
+foreign import _biRadio :: ReactIcon
 
 biRadio :: forall a b. Union a b PropsIcon => Record a -> JSX
-biRadio = element (unsafeCoerce biRadio_)
+biRadio = element (unsafeCoerce _biRadio)
 
-foreign import biRadioCircle_ :: ReactIcon
+foreign import _biRadioCircle :: ReactIcon
 
 biRadioCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-biRadioCircle = element (unsafeCoerce biRadioCircle_)
+biRadioCircle = element (unsafeCoerce _biRadioCircle)
 
-foreign import biRadioCircleMarked_ :: ReactIcon
+foreign import _biRadioCircleMarked :: ReactIcon
 
 biRadioCircleMarked :: forall a b. Union a b PropsIcon => Record a -> JSX
-biRadioCircleMarked = element (unsafeCoerce biRadioCircleMarked_)
+biRadioCircleMarked = element (unsafeCoerce _biRadioCircleMarked)
 
-foreign import biReceipt_ :: ReactIcon
+foreign import _biReceipt :: ReactIcon
 
 biReceipt :: forall a b. Union a b PropsIcon => Record a -> JSX
-biReceipt = element (unsafeCoerce biReceipt_)
+biReceipt = element (unsafeCoerce _biReceipt)
 
-foreign import biRectangle_ :: ReactIcon
+foreign import _biRectangle :: ReactIcon
 
 biRectangle :: forall a b. Union a b PropsIcon => Record a -> JSX
-biRectangle = element (unsafeCoerce biRectangle_)
+biRectangle = element (unsafeCoerce _biRectangle)
 
-foreign import biRecycle_ :: ReactIcon
+foreign import _biRecycle :: ReactIcon
 
 biRecycle :: forall a b. Union a b PropsIcon => Record a -> JSX
-biRecycle = element (unsafeCoerce biRecycle_)
+biRecycle = element (unsafeCoerce _biRecycle)
 
-foreign import biRedo_ :: ReactIcon
+foreign import _biRedo :: ReactIcon
 
 biRedo :: forall a b. Union a b PropsIcon => Record a -> JSX
-biRedo = element (unsafeCoerce biRedo_)
+biRedo = element (unsafeCoerce _biRedo)
 
-foreign import biRefresh_ :: ReactIcon
+foreign import _biRefresh :: ReactIcon
 
 biRefresh :: forall a b. Union a b PropsIcon => Record a -> JSX
-biRefresh = element (unsafeCoerce biRefresh_)
+biRefresh = element (unsafeCoerce _biRefresh)
 
-foreign import biRegistered_ :: ReactIcon
+foreign import _biRegistered :: ReactIcon
 
 biRegistered :: forall a b. Union a b PropsIcon => Record a -> JSX
-biRegistered = element (unsafeCoerce biRegistered_)
+biRegistered = element (unsafeCoerce _biRegistered)
 
-foreign import biRename_ :: ReactIcon
+foreign import _biRename :: ReactIcon
 
 biRename :: forall a b. Union a b PropsIcon => Record a -> JSX
-biRename = element (unsafeCoerce biRename_)
+biRename = element (unsafeCoerce _biRename)
 
-foreign import biRepeat_ :: ReactIcon
+foreign import _biRepeat :: ReactIcon
 
 biRepeat :: forall a b. Union a b PropsIcon => Record a -> JSX
-biRepeat = element (unsafeCoerce biRepeat_)
+biRepeat = element (unsafeCoerce _biRepeat)
 
-foreign import biReply_ :: ReactIcon
+foreign import _biReply :: ReactIcon
 
 biReply :: forall a b. Union a b PropsIcon => Record a -> JSX
-biReply = element (unsafeCoerce biReply_)
+biReply = element (unsafeCoerce _biReply)
 
-foreign import biReplyAll_ :: ReactIcon
+foreign import _biReplyAll :: ReactIcon
 
 biReplyAll :: forall a b. Union a b PropsIcon => Record a -> JSX
-biReplyAll = element (unsafeCoerce biReplyAll_)
+biReplyAll = element (unsafeCoerce _biReplyAll)
 
-foreign import biRepost_ :: ReactIcon
+foreign import _biRepost :: ReactIcon
 
 biRepost :: forall a b. Union a b PropsIcon => Record a -> JSX
-biRepost = element (unsafeCoerce biRepost_)
+biRepost = element (unsafeCoerce _biRepost)
 
-foreign import biReset_ :: ReactIcon
+foreign import _biReset :: ReactIcon
 
 biReset :: forall a b. Union a b PropsIcon => Record a -> JSX
-biReset = element (unsafeCoerce biReset_)
+biReset = element (unsafeCoerce _biReset)
 
-foreign import biRestaurant_ :: ReactIcon
+foreign import _biRestaurant :: ReactIcon
 
 biRestaurant :: forall a b. Union a b PropsIcon => Record a -> JSX
-biRestaurant = element (unsafeCoerce biRestaurant_)
+biRestaurant = element (unsafeCoerce _biRestaurant)
 
-foreign import biRevision_ :: ReactIcon
+foreign import _biRevision :: ReactIcon
 
 biRevision :: forall a b. Union a b PropsIcon => Record a -> JSX
-biRevision = element (unsafeCoerce biRevision_)
+biRevision = element (unsafeCoerce _biRevision)
 
-foreign import biRewind_ :: ReactIcon
+foreign import _biRewind :: ReactIcon
 
 biRewind :: forall a b. Union a b PropsIcon => Record a -> JSX
-biRewind = element (unsafeCoerce biRewind_)
+biRewind = element (unsafeCoerce _biRewind)
 
-foreign import biRewindCircle_ :: ReactIcon
+foreign import _biRewindCircle :: ReactIcon
 
 biRewindCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-biRewindCircle = element (unsafeCoerce biRewindCircle_)
+biRewindCircle = element (unsafeCoerce _biRewindCircle)
 
-foreign import biRightArrow_ :: ReactIcon
+foreign import _biRightArrow :: ReactIcon
 
 biRightArrow :: forall a b. Union a b PropsIcon => Record a -> JSX
-biRightArrow = element (unsafeCoerce biRightArrow_)
+biRightArrow = element (unsafeCoerce _biRightArrow)
 
-foreign import biRightArrowAlt_ :: ReactIcon
+foreign import _biRightArrowAlt :: ReactIcon
 
 biRightArrowAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-biRightArrowAlt = element (unsafeCoerce biRightArrowAlt_)
+biRightArrowAlt = element (unsafeCoerce _biRightArrowAlt)
 
-foreign import biRightArrowCircle_ :: ReactIcon
+foreign import _biRightArrowCircle :: ReactIcon
 
 biRightArrowCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-biRightArrowCircle = element (unsafeCoerce biRightArrowCircle_)
+biRightArrowCircle = element (unsafeCoerce _biRightArrowCircle)
 
-foreign import biRightDownArrowCircle_ :: ReactIcon
+foreign import _biRightDownArrowCircle :: ReactIcon
 
 biRightDownArrowCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-biRightDownArrowCircle = element (unsafeCoerce biRightDownArrowCircle_)
+biRightDownArrowCircle = element (unsafeCoerce _biRightDownArrowCircle)
 
-foreign import biRightIndent_ :: ReactIcon
+foreign import _biRightIndent :: ReactIcon
 
 biRightIndent :: forall a b. Union a b PropsIcon => Record a -> JSX
-biRightIndent = element (unsafeCoerce biRightIndent_)
+biRightIndent = element (unsafeCoerce _biRightIndent)
 
-foreign import biRightTopArrowCircle_ :: ReactIcon
+foreign import _biRightTopArrowCircle :: ReactIcon
 
 biRightTopArrowCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-biRightTopArrowCircle = element (unsafeCoerce biRightTopArrowCircle_)
+biRightTopArrowCircle = element (unsafeCoerce _biRightTopArrowCircle)
 
-foreign import biRocket_ :: ReactIcon
+foreign import _biRocket :: ReactIcon
 
 biRocket :: forall a b. Union a b PropsIcon => Record a -> JSX
-biRocket = element (unsafeCoerce biRocket_)
+biRocket = element (unsafeCoerce _biRocket)
 
-foreign import biRotateLeft_ :: ReactIcon
+foreign import _biRotateLeft :: ReactIcon
 
 biRotateLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-biRotateLeft = element (unsafeCoerce biRotateLeft_)
+biRotateLeft = element (unsafeCoerce _biRotateLeft)
 
-foreign import biRotateRight_ :: ReactIcon
+foreign import _biRotateRight :: ReactIcon
 
 biRotateRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-biRotateRight = element (unsafeCoerce biRotateRight_)
+biRotateRight = element (unsafeCoerce _biRotateRight)
 
-foreign import biRss_ :: ReactIcon
+foreign import _biRss :: ReactIcon
 
 biRss :: forall a b. Union a b PropsIcon => Record a -> JSX
-biRss = element (unsafeCoerce biRss_)
+biRss = element (unsafeCoerce _biRss)
 
-foreign import biRuble_ :: ReactIcon
+foreign import _biRuble :: ReactIcon
 
 biRuble :: forall a b. Union a b PropsIcon => Record a -> JSX
-biRuble = element (unsafeCoerce biRuble_)
+biRuble = element (unsafeCoerce _biRuble)
 
-foreign import biRuler_ :: ReactIcon
+foreign import _biRuler :: ReactIcon
 
 biRuler :: forall a b. Union a b PropsIcon => Record a -> JSX
-biRuler = element (unsafeCoerce biRuler_)
+biRuler = element (unsafeCoerce _biRuler)
 
-foreign import biRun_ :: ReactIcon
+foreign import _biRun :: ReactIcon
 
 biRun :: forall a b. Union a b PropsIcon => Record a -> JSX
-biRun = element (unsafeCoerce biRun_)
+biRun = element (unsafeCoerce _biRun)
 
-foreign import biRupee_ :: ReactIcon
+foreign import _biRupee :: ReactIcon
 
 biRupee :: forall a b. Union a b PropsIcon => Record a -> JSX
-biRupee = element (unsafeCoerce biRupee_)
+biRupee = element (unsafeCoerce _biRupee)
 
-foreign import biSad_ :: ReactIcon
+foreign import _biSad :: ReactIcon
 
 biSad :: forall a b. Union a b PropsIcon => Record a -> JSX
-biSad = element (unsafeCoerce biSad_)
+biSad = element (unsafeCoerce _biSad)
 
-foreign import biSave_ :: ReactIcon
+foreign import _biSave :: ReactIcon
 
 biSave :: forall a b. Union a b PropsIcon => Record a -> JSX
-biSave = element (unsafeCoerce biSave_)
+biSave = element (unsafeCoerce _biSave)
 
-foreign import biScan_ :: ReactIcon
+foreign import _biScan :: ReactIcon
 
 biScan :: forall a b. Union a b PropsIcon => Record a -> JSX
-biScan = element (unsafeCoerce biScan_)
+biScan = element (unsafeCoerce _biScan)
 
-foreign import biScreenshot_ :: ReactIcon
+foreign import _biScreenshot :: ReactIcon
 
 biScreenshot :: forall a b. Union a b PropsIcon => Record a -> JSX
-biScreenshot = element (unsafeCoerce biScreenshot_)
+biScreenshot = element (unsafeCoerce _biScreenshot)
 
-foreign import biSearch_ :: ReactIcon
+foreign import _biSearch :: ReactIcon
 
 biSearch :: forall a b. Union a b PropsIcon => Record a -> JSX
-biSearch = element (unsafeCoerce biSearch_)
+biSearch = element (unsafeCoerce _biSearch)
 
-foreign import biSearchAlt_ :: ReactIcon
+foreign import _biSearchAlt :: ReactIcon
 
 biSearchAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-biSearchAlt = element (unsafeCoerce biSearchAlt_)
+biSearchAlt = element (unsafeCoerce _biSearchAlt)
 
-foreign import biSelection_ :: ReactIcon
+foreign import _biSelection :: ReactIcon
 
 biSelection :: forall a b. Union a b PropsIcon => Record a -> JSX
-biSelection = element (unsafeCoerce biSelection_)
+biSelection = element (unsafeCoerce _biSelection)
 
-foreign import biSelectMultiple_ :: ReactIcon
+foreign import _biSelectMultiple :: ReactIcon
 
 biSelectMultiple :: forall a b. Union a b PropsIcon => Record a -> JSX
-biSelectMultiple = element (unsafeCoerce biSelectMultiple_)
+biSelectMultiple = element (unsafeCoerce _biSelectMultiple)
 
-foreign import biSend_ :: ReactIcon
+foreign import _biSend :: ReactIcon
 
 biSend :: forall a b. Union a b PropsIcon => Record a -> JSX
-biSend = element (unsafeCoerce biSend_)
+biSend = element (unsafeCoerce _biSend)
 
-foreign import biServer_ :: ReactIcon
+foreign import _biServer :: ReactIcon
 
 biServer :: forall a b. Union a b PropsIcon => Record a -> JSX
-biServer = element (unsafeCoerce biServer_)
+biServer = element (unsafeCoerce _biServer)
 
-foreign import biShapeCircle_ :: ReactIcon
+foreign import _biShapeCircle :: ReactIcon
 
 biShapeCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-biShapeCircle = element (unsafeCoerce biShapeCircle_)
+biShapeCircle = element (unsafeCoerce _biShapeCircle)
 
-foreign import biShapePolygon_ :: ReactIcon
+foreign import _biShapePolygon :: ReactIcon
 
 biShapePolygon :: forall a b. Union a b PropsIcon => Record a -> JSX
-biShapePolygon = element (unsafeCoerce biShapePolygon_)
+biShapePolygon = element (unsafeCoerce _biShapePolygon)
 
-foreign import biShapeSquare_ :: ReactIcon
+foreign import _biShapeSquare :: ReactIcon
 
 biShapeSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-biShapeSquare = element (unsafeCoerce biShapeSquare_)
+biShapeSquare = element (unsafeCoerce _biShapeSquare)
 
-foreign import biShapeTriangle_ :: ReactIcon
+foreign import _biShapeTriangle :: ReactIcon
 
 biShapeTriangle :: forall a b. Union a b PropsIcon => Record a -> JSX
-biShapeTriangle = element (unsafeCoerce biShapeTriangle_)
+biShapeTriangle = element (unsafeCoerce _biShapeTriangle)
 
-foreign import biShare_ :: ReactIcon
+foreign import _biShare :: ReactIcon
 
 biShare :: forall a b. Union a b PropsIcon => Record a -> JSX
-biShare = element (unsafeCoerce biShare_)
+biShare = element (unsafeCoerce _biShare)
 
-foreign import biShareAlt_ :: ReactIcon
+foreign import _biShareAlt :: ReactIcon
 
 biShareAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-biShareAlt = element (unsafeCoerce biShareAlt_)
+biShareAlt = element (unsafeCoerce _biShareAlt)
 
-foreign import biShekel_ :: ReactIcon
+foreign import _biShekel :: ReactIcon
 
 biShekel :: forall a b. Union a b PropsIcon => Record a -> JSX
-biShekel = element (unsafeCoerce biShekel_)
+biShekel = element (unsafeCoerce _biShekel)
 
-foreign import biShield_ :: ReactIcon
+foreign import _biShield :: ReactIcon
 
 biShield :: forall a b. Union a b PropsIcon => Record a -> JSX
-biShield = element (unsafeCoerce biShield_)
+biShield = element (unsafeCoerce _biShield)
 
-foreign import biShieldAlt_ :: ReactIcon
+foreign import _biShieldAlt :: ReactIcon
 
 biShieldAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-biShieldAlt = element (unsafeCoerce biShieldAlt_)
+biShieldAlt = element (unsafeCoerce _biShieldAlt)
 
-foreign import biShieldQuarter_ :: ReactIcon
+foreign import _biShieldQuarter :: ReactIcon
 
 biShieldQuarter :: forall a b. Union a b PropsIcon => Record a -> JSX
-biShieldQuarter = element (unsafeCoerce biShieldQuarter_)
+biShieldQuarter = element (unsafeCoerce _biShieldQuarter)
 
-foreign import biShieldX_ :: ReactIcon
+foreign import _biShieldX :: ReactIcon
 
 biShieldX :: forall a b. Union a b PropsIcon => Record a -> JSX
-biShieldX = element (unsafeCoerce biShieldX_)
+biShieldX = element (unsafeCoerce _biShieldX)
 
-foreign import biShocked_ :: ReactIcon
+foreign import _biShocked :: ReactIcon
 
 biShocked :: forall a b. Union a b PropsIcon => Record a -> JSX
-biShocked = element (unsafeCoerce biShocked_)
+biShocked = element (unsafeCoerce _biShocked)
 
-foreign import biShoppingBag_ :: ReactIcon
+foreign import _biShoppingBag :: ReactIcon
 
 biShoppingBag :: forall a b. Union a b PropsIcon => Record a -> JSX
-biShoppingBag = element (unsafeCoerce biShoppingBag_)
+biShoppingBag = element (unsafeCoerce _biShoppingBag)
 
-foreign import biShow_ :: ReactIcon
+foreign import _biShow :: ReactIcon
 
 biShow :: forall a b. Union a b PropsIcon => Record a -> JSX
-biShow = element (unsafeCoerce biShow_)
+biShow = element (unsafeCoerce _biShow)
 
-foreign import biShowAlt_ :: ReactIcon
+foreign import _biShowAlt :: ReactIcon
 
 biShowAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-biShowAlt = element (unsafeCoerce biShowAlt_)
+biShowAlt = element (unsafeCoerce _biShowAlt)
 
-foreign import biShuffle_ :: ReactIcon
+foreign import _biShuffle :: ReactIcon
 
 biShuffle :: forall a b. Union a b PropsIcon => Record a -> JSX
-biShuffle = element (unsafeCoerce biShuffle_)
+biShuffle = element (unsafeCoerce _biShuffle)
 
-foreign import biSidebar_ :: ReactIcon
+foreign import _biSidebar :: ReactIcon
 
 biSidebar :: forall a b. Union a b PropsIcon => Record a -> JSX
-biSidebar = element (unsafeCoerce biSidebar_)
+biSidebar = element (unsafeCoerce _biSidebar)
 
-foreign import biSitemap_ :: ReactIcon
+foreign import _biSitemap :: ReactIcon
 
 biSitemap :: forall a b. Union a b PropsIcon => Record a -> JSX
-biSitemap = element (unsafeCoerce biSitemap_)
+biSitemap = element (unsafeCoerce _biSitemap)
 
-foreign import biSkipNext_ :: ReactIcon
+foreign import _biSkipNext :: ReactIcon
 
 biSkipNext :: forall a b. Union a b PropsIcon => Record a -> JSX
-biSkipNext = element (unsafeCoerce biSkipNext_)
+biSkipNext = element (unsafeCoerce _biSkipNext)
 
-foreign import biSkipNextCircle_ :: ReactIcon
+foreign import _biSkipNextCircle :: ReactIcon
 
 biSkipNextCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-biSkipNextCircle = element (unsafeCoerce biSkipNextCircle_)
+biSkipNextCircle = element (unsafeCoerce _biSkipNextCircle)
 
-foreign import biSkipPrevious_ :: ReactIcon
+foreign import _biSkipPrevious :: ReactIcon
 
 biSkipPrevious :: forall a b. Union a b PropsIcon => Record a -> JSX
-biSkipPrevious = element (unsafeCoerce biSkipPrevious_)
+biSkipPrevious = element (unsafeCoerce _biSkipPrevious)
 
-foreign import biSkipPreviousCircle_ :: ReactIcon
+foreign import _biSkipPreviousCircle :: ReactIcon
 
 biSkipPreviousCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-biSkipPreviousCircle = element (unsafeCoerce biSkipPreviousCircle_)
+biSkipPreviousCircle = element (unsafeCoerce _biSkipPreviousCircle)
 
-foreign import biSleepy_ :: ReactIcon
+foreign import _biSleepy :: ReactIcon
 
 biSleepy :: forall a b. Union a b PropsIcon => Record a -> JSX
-biSleepy = element (unsafeCoerce biSleepy_)
+biSleepy = element (unsafeCoerce _biSleepy)
 
-foreign import biSlider_ :: ReactIcon
+foreign import _biSlider :: ReactIcon
 
 biSlider :: forall a b. Union a b PropsIcon => Record a -> JSX
-biSlider = element (unsafeCoerce biSlider_)
+biSlider = element (unsafeCoerce _biSlider)
 
-foreign import biSliderAlt_ :: ReactIcon
+foreign import _biSliderAlt :: ReactIcon
 
 biSliderAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-biSliderAlt = element (unsafeCoerce biSliderAlt_)
+biSliderAlt = element (unsafeCoerce _biSliderAlt)
 
-foreign import biSlideshow_ :: ReactIcon
+foreign import _biSlideshow :: ReactIcon
 
 biSlideshow :: forall a b. Union a b PropsIcon => Record a -> JSX
-biSlideshow = element (unsafeCoerce biSlideshow_)
+biSlideshow = element (unsafeCoerce _biSlideshow)
 
-foreign import biSmile_ :: ReactIcon
+foreign import _biSmile :: ReactIcon
 
 biSmile :: forall a b. Union a b PropsIcon => Record a -> JSX
-biSmile = element (unsafeCoerce biSmile_)
+biSmile = element (unsafeCoerce _biSmile)
 
-foreign import biSort_ :: ReactIcon
+foreign import _biSort :: ReactIcon
 
 biSort :: forall a b. Union a b PropsIcon => Record a -> JSX
-biSort = element (unsafeCoerce biSort_)
+biSort = element (unsafeCoerce _biSort)
 
-foreign import biSortAZ_ :: ReactIcon
+foreign import _biSortAZ :: ReactIcon
 
 biSortAZ :: forall a b. Union a b PropsIcon => Record a -> JSX
-biSortAZ = element (unsafeCoerce biSortAZ_)
+biSortAZ = element (unsafeCoerce _biSortAZ)
 
-foreign import biSortDown_ :: ReactIcon
+foreign import _biSortDown :: ReactIcon
 
 biSortDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-biSortDown = element (unsafeCoerce biSortDown_)
+biSortDown = element (unsafeCoerce _biSortDown)
 
-foreign import biSortUp_ :: ReactIcon
+foreign import _biSortUp :: ReactIcon
 
 biSortUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-biSortUp = element (unsafeCoerce biSortUp_)
+biSortUp = element (unsafeCoerce _biSortUp)
 
-foreign import biSortZA_ :: ReactIcon
+foreign import _biSortZA :: ReactIcon
 
 biSortZA :: forall a b. Union a b PropsIcon => Record a -> JSX
-biSortZA = element (unsafeCoerce biSortZA_)
+biSortZA = element (unsafeCoerce _biSortZA)
 
-foreign import biSpa_ :: ReactIcon
+foreign import _biSpa :: ReactIcon
 
 biSpa :: forall a b. Union a b PropsIcon => Record a -> JSX
-biSpa = element (unsafeCoerce biSpa_)
+biSpa = element (unsafeCoerce _biSpa)
 
-foreign import biSpaceBar_ :: ReactIcon
+foreign import _biSpaceBar :: ReactIcon
 
 biSpaceBar :: forall a b. Union a b PropsIcon => Record a -> JSX
-biSpaceBar = element (unsafeCoerce biSpaceBar_)
+biSpaceBar = element (unsafeCoerce _biSpaceBar)
 
-foreign import biSpeaker_ :: ReactIcon
+foreign import _biSpeaker :: ReactIcon
 
 biSpeaker :: forall a b. Union a b PropsIcon => Record a -> JSX
-biSpeaker = element (unsafeCoerce biSpeaker_)
+biSpeaker = element (unsafeCoerce _biSpeaker)
 
-foreign import biSprayCan_ :: ReactIcon
+foreign import _biSprayCan :: ReactIcon
 
 biSprayCan :: forall a b. Union a b PropsIcon => Record a -> JSX
-biSprayCan = element (unsafeCoerce biSprayCan_)
+biSprayCan = element (unsafeCoerce _biSprayCan)
 
-foreign import biSpreadsheet_ :: ReactIcon
+foreign import _biSpreadsheet :: ReactIcon
 
 biSpreadsheet :: forall a b. Union a b PropsIcon => Record a -> JSX
-biSpreadsheet = element (unsafeCoerce biSpreadsheet_)
+biSpreadsheet = element (unsafeCoerce _biSpreadsheet)
 
-foreign import biSquare_ :: ReactIcon
+foreign import _biSquare :: ReactIcon
 
 biSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-biSquare = element (unsafeCoerce biSquare_)
+biSquare = element (unsafeCoerce _biSquare)
 
-foreign import biSquareRounded_ :: ReactIcon
+foreign import _biSquareRounded :: ReactIcon
 
 biSquareRounded :: forall a b. Union a b PropsIcon => Record a -> JSX
-biSquareRounded = element (unsafeCoerce biSquareRounded_)
+biSquareRounded = element (unsafeCoerce _biSquareRounded)
 
-foreign import biStar_ :: ReactIcon
+foreign import _biStar :: ReactIcon
 
 biStar :: forall a b. Union a b PropsIcon => Record a -> JSX
-biStar = element (unsafeCoerce biStar_)
+biStar = element (unsafeCoerce _biStar)
 
-foreign import biStation_ :: ReactIcon
+foreign import _biStation :: ReactIcon
 
 biStation :: forall a b. Union a b PropsIcon => Record a -> JSX
-biStation = element (unsafeCoerce biStation_)
+biStation = element (unsafeCoerce _biStation)
 
-foreign import biStats_ :: ReactIcon
+foreign import _biStats :: ReactIcon
 
 biStats :: forall a b. Union a b PropsIcon => Record a -> JSX
-biStats = element (unsafeCoerce biStats_)
+biStats = element (unsafeCoerce _biStats)
 
-foreign import biSticker_ :: ReactIcon
+foreign import _biSticker :: ReactIcon
 
 biSticker :: forall a b. Union a b PropsIcon => Record a -> JSX
-biSticker = element (unsafeCoerce biSticker_)
+biSticker = element (unsafeCoerce _biSticker)
 
-foreign import biStop_ :: ReactIcon
+foreign import _biStop :: ReactIcon
 
 biStop :: forall a b. Union a b PropsIcon => Record a -> JSX
-biStop = element (unsafeCoerce biStop_)
+biStop = element (unsafeCoerce _biStop)
 
-foreign import biStopCircle_ :: ReactIcon
+foreign import _biStopCircle :: ReactIcon
 
 biStopCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-biStopCircle = element (unsafeCoerce biStopCircle_)
+biStopCircle = element (unsafeCoerce _biStopCircle)
 
-foreign import biStopwatch_ :: ReactIcon
+foreign import _biStopwatch :: ReactIcon
 
 biStopwatch :: forall a b. Union a b PropsIcon => Record a -> JSX
-biStopwatch = element (unsafeCoerce biStopwatch_)
+biStopwatch = element (unsafeCoerce _biStopwatch)
 
-foreign import biStore_ :: ReactIcon
+foreign import _biStore :: ReactIcon
 
 biStore :: forall a b. Union a b PropsIcon => Record a -> JSX
-biStore = element (unsafeCoerce biStore_)
+biStore = element (unsafeCoerce _biStore)
 
-foreign import biStoreAlt_ :: ReactIcon
+foreign import _biStoreAlt :: ReactIcon
 
 biStoreAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-biStoreAlt = element (unsafeCoerce biStoreAlt_)
+biStoreAlt = element (unsafeCoerce _biStoreAlt)
 
-foreign import biStreetView_ :: ReactIcon
+foreign import _biStreetView :: ReactIcon
 
 biStreetView :: forall a b. Union a b PropsIcon => Record a -> JSX
-biStreetView = element (unsafeCoerce biStreetView_)
+biStreetView = element (unsafeCoerce _biStreetView)
 
-foreign import biStrikethrough_ :: ReactIcon
+foreign import _biStrikethrough :: ReactIcon
 
 biStrikethrough :: forall a b. Union a b PropsIcon => Record a -> JSX
-biStrikethrough = element (unsafeCoerce biStrikethrough_)
+biStrikethrough = element (unsafeCoerce _biStrikethrough)
 
-foreign import biSubdirectoryLeft_ :: ReactIcon
+foreign import _biSubdirectoryLeft :: ReactIcon
 
 biSubdirectoryLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-biSubdirectoryLeft = element (unsafeCoerce biSubdirectoryLeft_)
+biSubdirectoryLeft = element (unsafeCoerce _biSubdirectoryLeft)
 
-foreign import biSubdirectoryRight_ :: ReactIcon
+foreign import _biSubdirectoryRight :: ReactIcon
 
 biSubdirectoryRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-biSubdirectoryRight = element (unsafeCoerce biSubdirectoryRight_)
+biSubdirectoryRight = element (unsafeCoerce _biSubdirectoryRight)
 
-foreign import biSun_ :: ReactIcon
+foreign import _biSun :: ReactIcon
 
 biSun :: forall a b. Union a b PropsIcon => Record a -> JSX
-biSun = element (unsafeCoerce biSun_)
+biSun = element (unsafeCoerce _biSun)
 
-foreign import biSupport_ :: ReactIcon
+foreign import _biSupport :: ReactIcon
 
 biSupport :: forall a b. Union a b PropsIcon => Record a -> JSX
-biSupport = element (unsafeCoerce biSupport_)
+biSupport = element (unsafeCoerce _biSupport)
 
-foreign import biSwim_ :: ReactIcon
+foreign import _biSwim :: ReactIcon
 
 biSwim :: forall a b. Union a b PropsIcon => Record a -> JSX
-biSwim = element (unsafeCoerce biSwim_)
+biSwim = element (unsafeCoerce _biSwim)
 
-foreign import biSync_ :: ReactIcon
+foreign import _biSync :: ReactIcon
 
 biSync :: forall a b. Union a b PropsIcon => Record a -> JSX
-biSync = element (unsafeCoerce biSync_)
+biSync = element (unsafeCoerce _biSync)
 
-foreign import biTab_ :: ReactIcon
+foreign import _biTab :: ReactIcon
 
 biTab :: forall a b. Union a b PropsIcon => Record a -> JSX
-biTab = element (unsafeCoerce biTab_)
+biTab = element (unsafeCoerce _biTab)
 
-foreign import biTable_ :: ReactIcon
+foreign import _biTable :: ReactIcon
 
 biTable :: forall a b. Union a b PropsIcon => Record a -> JSX
-biTable = element (unsafeCoerce biTable_)
+biTable = element (unsafeCoerce _biTable)
 
-foreign import biTachometer_ :: ReactIcon
+foreign import _biTachometer :: ReactIcon
 
 biTachometer :: forall a b. Union a b PropsIcon => Record a -> JSX
-biTachometer = element (unsafeCoerce biTachometer_)
+biTachometer = element (unsafeCoerce _biTachometer)
 
-foreign import biTag_ :: ReactIcon
+foreign import _biTag :: ReactIcon
 
 biTag :: forall a b. Union a b PropsIcon => Record a -> JSX
-biTag = element (unsafeCoerce biTag_)
+biTag = element (unsafeCoerce _biTag)
 
-foreign import biTagAlt_ :: ReactIcon
+foreign import _biTagAlt :: ReactIcon
 
 biTagAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-biTagAlt = element (unsafeCoerce biTagAlt_)
+biTagAlt = element (unsafeCoerce _biTagAlt)
 
-foreign import biTargetLock_ :: ReactIcon
+foreign import _biTargetLock :: ReactIcon
 
 biTargetLock :: forall a b. Union a b PropsIcon => Record a -> JSX
-biTargetLock = element (unsafeCoerce biTargetLock_)
+biTargetLock = element (unsafeCoerce _biTargetLock)
 
-foreign import biTask_ :: ReactIcon
+foreign import _biTask :: ReactIcon
 
 biTask :: forall a b. Union a b PropsIcon => Record a -> JSX
-biTask = element (unsafeCoerce biTask_)
+biTask = element (unsafeCoerce _biTask)
 
-foreign import biTaskX_ :: ReactIcon
+foreign import _biTaskX :: ReactIcon
 
 biTaskX :: forall a b. Union a b PropsIcon => Record a -> JSX
-biTaskX = element (unsafeCoerce biTaskX_)
+biTaskX = element (unsafeCoerce _biTaskX)
 
-foreign import biTaxi_ :: ReactIcon
+foreign import _biTaxi :: ReactIcon
 
 biTaxi :: forall a b. Union a b PropsIcon => Record a -> JSX
-biTaxi = element (unsafeCoerce biTaxi_)
+biTaxi = element (unsafeCoerce _biTaxi)
 
-foreign import biTennisBall_ :: ReactIcon
+foreign import _biTennisBall :: ReactIcon
 
 biTennisBall :: forall a b. Union a b PropsIcon => Record a -> JSX
-biTennisBall = element (unsafeCoerce biTennisBall_)
+biTennisBall = element (unsafeCoerce _biTennisBall)
 
-foreign import biTerminal_ :: ReactIcon
+foreign import _biTerminal :: ReactIcon
 
 biTerminal :: forall a b. Union a b PropsIcon => Record a -> JSX
-biTerminal = element (unsafeCoerce biTerminal_)
+biTerminal = element (unsafeCoerce _biTerminal)
 
-foreign import biTestTube_ :: ReactIcon
+foreign import _biTestTube :: ReactIcon
 
 biTestTube :: forall a b. Union a b PropsIcon => Record a -> JSX
-biTestTube = element (unsafeCoerce biTestTube_)
+biTestTube = element (unsafeCoerce _biTestTube)
 
-foreign import biText_ :: ReactIcon
+foreign import _biText :: ReactIcon
 
 biText :: forall a b. Union a b PropsIcon => Record a -> JSX
-biText = element (unsafeCoerce biText_)
+biText = element (unsafeCoerce _biText)
 
-foreign import biTime_ :: ReactIcon
+foreign import _biTime :: ReactIcon
 
 biTime :: forall a b. Union a b PropsIcon => Record a -> JSX
-biTime = element (unsafeCoerce biTime_)
+biTime = element (unsafeCoerce _biTime)
 
-foreign import biTimeFive_ :: ReactIcon
+foreign import _biTimeFive :: ReactIcon
 
 biTimeFive :: forall a b. Union a b PropsIcon => Record a -> JSX
-biTimeFive = element (unsafeCoerce biTimeFive_)
+biTimeFive = element (unsafeCoerce _biTimeFive)
 
-foreign import biTimer_ :: ReactIcon
+foreign import _biTimer :: ReactIcon
 
 biTimer :: forall a b. Union a b PropsIcon => Record a -> JSX
-biTimer = element (unsafeCoerce biTimer_)
+biTimer = element (unsafeCoerce _biTimer)
 
-foreign import biTired_ :: ReactIcon
+foreign import _biTired :: ReactIcon
 
 biTired :: forall a b. Union a b PropsIcon => Record a -> JSX
-biTired = element (unsafeCoerce biTired_)
+biTired = element (unsafeCoerce _biTired)
 
-foreign import biToggleLeft_ :: ReactIcon
+foreign import _biToggleLeft :: ReactIcon
 
 biToggleLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-biToggleLeft = element (unsafeCoerce biToggleLeft_)
+biToggleLeft = element (unsafeCoerce _biToggleLeft)
 
-foreign import biToggleRight_ :: ReactIcon
+foreign import _biToggleRight :: ReactIcon
 
 biToggleRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-biToggleRight = element (unsafeCoerce biToggleRight_)
+biToggleRight = element (unsafeCoerce _biToggleRight)
 
-foreign import biTone_ :: ReactIcon
+foreign import _biTone :: ReactIcon
 
 biTone :: forall a b. Union a b PropsIcon => Record a -> JSX
-biTone = element (unsafeCoerce biTone_)
+biTone = element (unsafeCoerce _biTone)
 
-foreign import biTrafficCone_ :: ReactIcon
+foreign import _biTrafficCone :: ReactIcon
 
 biTrafficCone :: forall a b. Union a b PropsIcon => Record a -> JSX
-biTrafficCone = element (unsafeCoerce biTrafficCone_)
+biTrafficCone = element (unsafeCoerce _biTrafficCone)
 
-foreign import biTrain_ :: ReactIcon
+foreign import _biTrain :: ReactIcon
 
 biTrain :: forall a b. Union a b PropsIcon => Record a -> JSX
-biTrain = element (unsafeCoerce biTrain_)
+biTrain = element (unsafeCoerce _biTrain)
 
-foreign import biTransfer_ :: ReactIcon
+foreign import _biTransfer :: ReactIcon
 
 biTransfer :: forall a b. Union a b PropsIcon => Record a -> JSX
-biTransfer = element (unsafeCoerce biTransfer_)
+biTransfer = element (unsafeCoerce _biTransfer)
 
-foreign import biTransferAlt_ :: ReactIcon
+foreign import _biTransferAlt :: ReactIcon
 
 biTransferAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-biTransferAlt = element (unsafeCoerce biTransferAlt_)
+biTransferAlt = element (unsafeCoerce _biTransferAlt)
 
-foreign import biTrash_ :: ReactIcon
+foreign import _biTrash :: ReactIcon
 
 biTrash :: forall a b. Union a b PropsIcon => Record a -> JSX
-biTrash = element (unsafeCoerce biTrash_)
+biTrash = element (unsafeCoerce _biTrash)
 
-foreign import biTrashAlt_ :: ReactIcon
+foreign import _biTrashAlt :: ReactIcon
 
 biTrashAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-biTrashAlt = element (unsafeCoerce biTrashAlt_)
+biTrashAlt = element (unsafeCoerce _biTrashAlt)
 
-foreign import biTrendingDown_ :: ReactIcon
+foreign import _biTrendingDown :: ReactIcon
 
 biTrendingDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-biTrendingDown = element (unsafeCoerce biTrendingDown_)
+biTrendingDown = element (unsafeCoerce _biTrendingDown)
 
-foreign import biTrendingUp_ :: ReactIcon
+foreign import _biTrendingUp :: ReactIcon
 
 biTrendingUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-biTrendingUp = element (unsafeCoerce biTrendingUp_)
+biTrendingUp = element (unsafeCoerce _biTrendingUp)
 
-foreign import biTrim_ :: ReactIcon
+foreign import _biTrim :: ReactIcon
 
 biTrim :: forall a b. Union a b PropsIcon => Record a -> JSX
-biTrim = element (unsafeCoerce biTrim_)
+biTrim = element (unsafeCoerce _biTrim)
 
-foreign import biTrip_ :: ReactIcon
+foreign import _biTrip :: ReactIcon
 
 biTrip :: forall a b. Union a b PropsIcon => Record a -> JSX
-biTrip = element (unsafeCoerce biTrip_)
+biTrip = element (unsafeCoerce _biTrip)
 
-foreign import biTrophy_ :: ReactIcon
+foreign import _biTrophy :: ReactIcon
 
 biTrophy :: forall a b. Union a b PropsIcon => Record a -> JSX
-biTrophy = element (unsafeCoerce biTrophy_)
+biTrophy = element (unsafeCoerce _biTrophy)
 
-foreign import biTv_ :: ReactIcon
+foreign import _biTv :: ReactIcon
 
 biTv :: forall a b. Union a b PropsIcon => Record a -> JSX
-biTv = element (unsafeCoerce biTv_)
+biTv = element (unsafeCoerce _biTv)
 
-foreign import biUnderline_ :: ReactIcon
+foreign import _biUnderline :: ReactIcon
 
 biUnderline :: forall a b. Union a b PropsIcon => Record a -> JSX
-biUnderline = element (unsafeCoerce biUnderline_)
+biUnderline = element (unsafeCoerce _biUnderline)
 
-foreign import biUndo_ :: ReactIcon
+foreign import _biUndo :: ReactIcon
 
 biUndo :: forall a b. Union a b PropsIcon => Record a -> JSX
-biUndo = element (unsafeCoerce biUndo_)
+biUndo = element (unsafeCoerce _biUndo)
 
-foreign import biUnite_ :: ReactIcon
+foreign import _biUnite :: ReactIcon
 
 biUnite :: forall a b. Union a b PropsIcon => Record a -> JSX
-biUnite = element (unsafeCoerce biUnite_)
+biUnite = element (unsafeCoerce _biUnite)
 
-foreign import biUnlink_ :: ReactIcon
+foreign import _biUnlink :: ReactIcon
 
 biUnlink :: forall a b. Union a b PropsIcon => Record a -> JSX
-biUnlink = element (unsafeCoerce biUnlink_)
+biUnlink = element (unsafeCoerce _biUnlink)
 
-foreign import biUpArrow_ :: ReactIcon
+foreign import _biUpArrow :: ReactIcon
 
 biUpArrow :: forall a b. Union a b PropsIcon => Record a -> JSX
-biUpArrow = element (unsafeCoerce biUpArrow_)
+biUpArrow = element (unsafeCoerce _biUpArrow)
 
-foreign import biUpArrowAlt_ :: ReactIcon
+foreign import _biUpArrowAlt :: ReactIcon
 
 biUpArrowAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-biUpArrowAlt = element (unsafeCoerce biUpArrowAlt_)
+biUpArrowAlt = element (unsafeCoerce _biUpArrowAlt)
 
-foreign import biUpArrowCircle_ :: ReactIcon
+foreign import _biUpArrowCircle :: ReactIcon
 
 biUpArrowCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-biUpArrowCircle = element (unsafeCoerce biUpArrowCircle_)
+biUpArrowCircle = element (unsafeCoerce _biUpArrowCircle)
 
-foreign import biUpload_ :: ReactIcon
+foreign import _biUpload :: ReactIcon
 
 biUpload :: forall a b. Union a b PropsIcon => Record a -> JSX
-biUpload = element (unsafeCoerce biUpload_)
+biUpload = element (unsafeCoerce _biUpload)
 
-foreign import biUpsideDown_ :: ReactIcon
+foreign import _biUpsideDown :: ReactIcon
 
 biUpsideDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-biUpsideDown = element (unsafeCoerce biUpsideDown_)
+biUpsideDown = element (unsafeCoerce _biUpsideDown)
 
-foreign import biUpvote_ :: ReactIcon
+foreign import _biUpvote :: ReactIcon
 
 biUpvote :: forall a b. Union a b PropsIcon => Record a -> JSX
-biUpvote = element (unsafeCoerce biUpvote_)
+biUpvote = element (unsafeCoerce _biUpvote)
 
-foreign import biUsb_ :: ReactIcon
+foreign import _biUsb :: ReactIcon
 
 biUsb :: forall a b. Union a b PropsIcon => Record a -> JSX
-biUsb = element (unsafeCoerce biUsb_)
+biUsb = element (unsafeCoerce _biUsb)
 
-foreign import biUser_ :: ReactIcon
+foreign import _biUser :: ReactIcon
 
 biUser :: forall a b. Union a b PropsIcon => Record a -> JSX
-biUser = element (unsafeCoerce biUser_)
+biUser = element (unsafeCoerce _biUser)
 
-foreign import biUserCheck_ :: ReactIcon
+foreign import _biUserCheck :: ReactIcon
 
 biUserCheck :: forall a b. Union a b PropsIcon => Record a -> JSX
-biUserCheck = element (unsafeCoerce biUserCheck_)
+biUserCheck = element (unsafeCoerce _biUserCheck)
 
-foreign import biUserCircle_ :: ReactIcon
+foreign import _biUserCircle :: ReactIcon
 
 biUserCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-biUserCircle = element (unsafeCoerce biUserCircle_)
+biUserCircle = element (unsafeCoerce _biUserCircle)
 
-foreign import biUserMinus_ :: ReactIcon
+foreign import _biUserMinus :: ReactIcon
 
 biUserMinus :: forall a b. Union a b PropsIcon => Record a -> JSX
-biUserMinus = element (unsafeCoerce biUserMinus_)
+biUserMinus = element (unsafeCoerce _biUserMinus)
 
-foreign import biUserPin_ :: ReactIcon
+foreign import _biUserPin :: ReactIcon
 
 biUserPin :: forall a b. Union a b PropsIcon => Record a -> JSX
-biUserPin = element (unsafeCoerce biUserPin_)
+biUserPin = element (unsafeCoerce _biUserPin)
 
-foreign import biUserPlus_ :: ReactIcon
+foreign import _biUserPlus :: ReactIcon
 
 biUserPlus :: forall a b. Union a b PropsIcon => Record a -> JSX
-biUserPlus = element (unsafeCoerce biUserPlus_)
+biUserPlus = element (unsafeCoerce _biUserPlus)
 
-foreign import biUserVoice_ :: ReactIcon
+foreign import _biUserVoice :: ReactIcon
 
 biUserVoice :: forall a b. Union a b PropsIcon => Record a -> JSX
-biUserVoice = element (unsafeCoerce biUserVoice_)
+biUserVoice = element (unsafeCoerce _biUserVoice)
 
-foreign import biUserX_ :: ReactIcon
+foreign import _biUserX :: ReactIcon
 
 biUserX :: forall a b. Union a b PropsIcon => Record a -> JSX
-biUserX = element (unsafeCoerce biUserX_)
+biUserX = element (unsafeCoerce _biUserX)
 
-foreign import biVector_ :: ReactIcon
+foreign import _biVector :: ReactIcon
 
 biVector :: forall a b. Union a b PropsIcon => Record a -> JSX
-biVector = element (unsafeCoerce biVector_)
+biVector = element (unsafeCoerce _biVector)
 
-foreign import biVerticalCenter_ :: ReactIcon
+foreign import _biVerticalCenter :: ReactIcon
 
 biVerticalCenter :: forall a b. Union a b PropsIcon => Record a -> JSX
-biVerticalCenter = element (unsafeCoerce biVerticalCenter_)
+biVerticalCenter = element (unsafeCoerce _biVerticalCenter)
 
-foreign import biVial_ :: ReactIcon
+foreign import _biVial :: ReactIcon
 
 biVial :: forall a b. Union a b PropsIcon => Record a -> JSX
-biVial = element (unsafeCoerce biVial_)
+biVial = element (unsafeCoerce _biVial)
 
-foreign import biVideo_ :: ReactIcon
+foreign import _biVideo :: ReactIcon
 
 biVideo :: forall a b. Union a b PropsIcon => Record a -> JSX
-biVideo = element (unsafeCoerce biVideo_)
+biVideo = element (unsafeCoerce _biVideo)
 
-foreign import biVideoOff_ :: ReactIcon
+foreign import _biVideoOff :: ReactIcon
 
 biVideoOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-biVideoOff = element (unsafeCoerce biVideoOff_)
+biVideoOff = element (unsafeCoerce _biVideoOff)
 
-foreign import biVideoPlus_ :: ReactIcon
+foreign import _biVideoPlus :: ReactIcon
 
 biVideoPlus :: forall a b. Union a b PropsIcon => Record a -> JSX
-biVideoPlus = element (unsafeCoerce biVideoPlus_)
+biVideoPlus = element (unsafeCoerce _biVideoPlus)
 
-foreign import biVideoRecording_ :: ReactIcon
+foreign import _biVideoRecording :: ReactIcon
 
 biVideoRecording :: forall a b. Union a b PropsIcon => Record a -> JSX
-biVideoRecording = element (unsafeCoerce biVideoRecording_)
+biVideoRecording = element (unsafeCoerce _biVideoRecording)
 
-foreign import biVoicemail_ :: ReactIcon
+foreign import _biVoicemail :: ReactIcon
 
 biVoicemail :: forall a b. Union a b PropsIcon => Record a -> JSX
-biVoicemail = element (unsafeCoerce biVoicemail_)
+biVoicemail = element (unsafeCoerce _biVoicemail)
 
-foreign import biVolume_ :: ReactIcon
+foreign import _biVolume :: ReactIcon
 
 biVolume :: forall a b. Union a b PropsIcon => Record a -> JSX
-biVolume = element (unsafeCoerce biVolume_)
+biVolume = element (unsafeCoerce _biVolume)
 
-foreign import biVolumeFull_ :: ReactIcon
+foreign import _biVolumeFull :: ReactIcon
 
 biVolumeFull :: forall a b. Union a b PropsIcon => Record a -> JSX
-biVolumeFull = element (unsafeCoerce biVolumeFull_)
+biVolumeFull = element (unsafeCoerce _biVolumeFull)
 
-foreign import biVolumeLow_ :: ReactIcon
+foreign import _biVolumeLow :: ReactIcon
 
 biVolumeLow :: forall a b. Union a b PropsIcon => Record a -> JSX
-biVolumeLow = element (unsafeCoerce biVolumeLow_)
+biVolumeLow = element (unsafeCoerce _biVolumeLow)
 
-foreign import biVolumeMute_ :: ReactIcon
+foreign import _biVolumeMute :: ReactIcon
 
 biVolumeMute :: forall a b. Union a b PropsIcon => Record a -> JSX
-biVolumeMute = element (unsafeCoerce biVolumeMute_)
+biVolumeMute = element (unsafeCoerce _biVolumeMute)
 
-foreign import biWalk_ :: ReactIcon
+foreign import _biWalk :: ReactIcon
 
 biWalk :: forall a b. Union a b PropsIcon => Record a -> JSX
-biWalk = element (unsafeCoerce biWalk_)
+biWalk = element (unsafeCoerce _biWalk)
 
-foreign import biWallet_ :: ReactIcon
+foreign import _biWallet :: ReactIcon
 
 biWallet :: forall a b. Union a b PropsIcon => Record a -> JSX
-biWallet = element (unsafeCoerce biWallet_)
+biWallet = element (unsafeCoerce _biWallet)
 
-foreign import biWalletAlt_ :: ReactIcon
+foreign import _biWalletAlt :: ReactIcon
 
 biWalletAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-biWalletAlt = element (unsafeCoerce biWalletAlt_)
+biWalletAlt = element (unsafeCoerce _biWalletAlt)
 
-foreign import biWater_ :: ReactIcon
+foreign import _biWater :: ReactIcon
 
 biWater :: forall a b. Union a b PropsIcon => Record a -> JSX
-biWater = element (unsafeCoerce biWater_)
+biWater = element (unsafeCoerce _biWater)
 
-foreign import biWebcam_ :: ReactIcon
+foreign import _biWebcam :: ReactIcon
 
 biWebcam :: forall a b. Union a b PropsIcon => Record a -> JSX
-biWebcam = element (unsafeCoerce biWebcam_)
+biWebcam = element (unsafeCoerce _biWebcam)
 
-foreign import biWifi_ :: ReactIcon
+foreign import _biWifi :: ReactIcon
 
 biWifi :: forall a b. Union a b PropsIcon => Record a -> JSX
-biWifi = element (unsafeCoerce biWifi_)
+biWifi = element (unsafeCoerce _biWifi)
 
-foreign import biWifiOff_ :: ReactIcon
+foreign import _biWifiOff :: ReactIcon
 
 biWifiOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-biWifiOff = element (unsafeCoerce biWifiOff_)
+biWifiOff = element (unsafeCoerce _biWifiOff)
 
-foreign import biWind_ :: ReactIcon
+foreign import _biWind :: ReactIcon
 
 biWind :: forall a b. Union a b PropsIcon => Record a -> JSX
-biWind = element (unsafeCoerce biWind_)
+biWind = element (unsafeCoerce _biWind)
 
-foreign import biWindow_ :: ReactIcon
+foreign import _biWindow :: ReactIcon
 
 biWindow :: forall a b. Union a b PropsIcon => Record a -> JSX
-biWindow = element (unsafeCoerce biWindow_)
+biWindow = element (unsafeCoerce _biWindow)
 
-foreign import biWindowAlt_ :: ReactIcon
+foreign import _biWindowAlt :: ReactIcon
 
 biWindowAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-biWindowAlt = element (unsafeCoerce biWindowAlt_)
+biWindowAlt = element (unsafeCoerce _biWindowAlt)
 
-foreign import biWindowClose_ :: ReactIcon
+foreign import _biWindowClose :: ReactIcon
 
 biWindowClose :: forall a b. Union a b PropsIcon => Record a -> JSX
-biWindowClose = element (unsafeCoerce biWindowClose_)
+biWindowClose = element (unsafeCoerce _biWindowClose)
 
-foreign import biWindowOpen_ :: ReactIcon
+foreign import _biWindowOpen :: ReactIcon
 
 biWindowOpen :: forall a b. Union a b PropsIcon => Record a -> JSX
-biWindowOpen = element (unsafeCoerce biWindowOpen_)
+biWindowOpen = element (unsafeCoerce _biWindowOpen)
 
-foreign import biWindows_ :: ReactIcon
+foreign import _biWindows :: ReactIcon
 
 biWindows :: forall a b. Union a b PropsIcon => Record a -> JSX
-biWindows = element (unsafeCoerce biWindows_)
+biWindows = element (unsafeCoerce _biWindows)
 
-foreign import biWine_ :: ReactIcon
+foreign import _biWine :: ReactIcon
 
 biWine :: forall a b. Union a b PropsIcon => Record a -> JSX
-biWine = element (unsafeCoerce biWine_)
+biWine = element (unsafeCoerce _biWine)
 
-foreign import biWinkSmile_ :: ReactIcon
+foreign import _biWinkSmile :: ReactIcon
 
 biWinkSmile :: forall a b. Union a b PropsIcon => Record a -> JSX
-biWinkSmile = element (unsafeCoerce biWinkSmile_)
+biWinkSmile = element (unsafeCoerce _biWinkSmile)
 
-foreign import biWinkTongue_ :: ReactIcon
+foreign import _biWinkTongue :: ReactIcon
 
 biWinkTongue :: forall a b. Union a b PropsIcon => Record a -> JSX
-biWinkTongue = element (unsafeCoerce biWinkTongue_)
+biWinkTongue = element (unsafeCoerce _biWinkTongue)
 
-foreign import biWon_ :: ReactIcon
+foreign import _biWon :: ReactIcon
 
 biWon :: forall a b. Union a b PropsIcon => Record a -> JSX
-biWon = element (unsafeCoerce biWon_)
+biWon = element (unsafeCoerce _biWon)
 
-foreign import biWorld_ :: ReactIcon
+foreign import _biWorld :: ReactIcon
 
 biWorld :: forall a b. Union a b PropsIcon => Record a -> JSX
-biWorld = element (unsafeCoerce biWorld_)
+biWorld = element (unsafeCoerce _biWorld)
 
-foreign import biWrench_ :: ReactIcon
+foreign import _biWrench :: ReactIcon
 
 biWrench :: forall a b. Union a b PropsIcon => Record a -> JSX
-biWrench = element (unsafeCoerce biWrench_)
+biWrench = element (unsafeCoerce _biWrench)
 
-foreign import biX_ :: ReactIcon
+foreign import _biX :: ReactIcon
 
 biX :: forall a b. Union a b PropsIcon => Record a -> JSX
-biX = element (unsafeCoerce biX_)
+biX = element (unsafeCoerce _biX)
 
-foreign import biXCircle_ :: ReactIcon
+foreign import _biXCircle :: ReactIcon
 
 biXCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-biXCircle = element (unsafeCoerce biXCircle_)
+biXCircle = element (unsafeCoerce _biXCircle)
 
-foreign import biYen_ :: ReactIcon
+foreign import _biYen :: ReactIcon
 
 biYen :: forall a b. Union a b PropsIcon => Record a -> JSX
-biYen = element (unsafeCoerce biYen_)
+biYen = element (unsafeCoerce _biYen)
 
-foreign import biZoomIn_ :: ReactIcon
+foreign import _biZoomIn :: ReactIcon
 
 biZoomIn :: forall a b. Union a b PropsIcon => Record a -> JSX
-biZoomIn = element (unsafeCoerce biZoomIn_)
+biZoomIn = element (unsafeCoerce _biZoomIn)
 
-foreign import biZoomOut_ :: ReactIcon
+foreign import _biZoomOut :: ReactIcon
 
 biZoomOut :: forall a b. Union a b PropsIcon => Record a -> JSX
-biZoomOut = element (unsafeCoerce biZoomOut_)
+biZoomOut = element (unsafeCoerce _biZoomOut)

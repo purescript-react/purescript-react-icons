@@ -9,732 +9,732 @@ import React.Basic (JSX, element)
 import React.Icons.Types (ReactIcon, PropsIcon)
 import Unsafe.Coerce (unsafeCoerce)
 
-foreign import wiAlien_ :: ReactIcon
+foreign import _wiAlien :: ReactIcon
 
 wiAlien :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiAlien = element (unsafeCoerce wiAlien_)
+wiAlien = element (unsafeCoerce _wiAlien)
 
-foreign import wiBarometer_ :: ReactIcon
+foreign import _wiBarometer :: ReactIcon
 
 wiBarometer :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiBarometer = element (unsafeCoerce wiBarometer_)
+wiBarometer = element (unsafeCoerce _wiBarometer)
 
-foreign import wiCelsius_ :: ReactIcon
+foreign import _wiCelsius :: ReactIcon
 
 wiCelsius :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiCelsius = element (unsafeCoerce wiCelsius_)
+wiCelsius = element (unsafeCoerce _wiCelsius)
 
-foreign import wiCloud_ :: ReactIcon
+foreign import _wiCloud :: ReactIcon
 
 wiCloud :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiCloud = element (unsafeCoerce wiCloud_)
+wiCloud = element (unsafeCoerce _wiCloud)
 
-foreign import wiCloudDown_ :: ReactIcon
+foreign import _wiCloudDown :: ReactIcon
 
 wiCloudDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiCloudDown = element (unsafeCoerce wiCloudDown_)
+wiCloudDown = element (unsafeCoerce _wiCloudDown)
 
-foreign import wiCloudRefresh_ :: ReactIcon
+foreign import _wiCloudRefresh :: ReactIcon
 
 wiCloudRefresh :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiCloudRefresh = element (unsafeCoerce wiCloudRefresh_)
+wiCloudRefresh = element (unsafeCoerce _wiCloudRefresh)
 
-foreign import wiCloudUp_ :: ReactIcon
+foreign import _wiCloudUp :: ReactIcon
 
 wiCloudUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiCloudUp = element (unsafeCoerce wiCloudUp_)
+wiCloudUp = element (unsafeCoerce _wiCloudUp)
 
-foreign import wiCloudy_ :: ReactIcon
+foreign import _wiCloudy :: ReactIcon
 
 wiCloudy :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiCloudy = element (unsafeCoerce wiCloudy_)
+wiCloudy = element (unsafeCoerce _wiCloudy)
 
-foreign import wiCloudyGusts_ :: ReactIcon
+foreign import _wiCloudyGusts :: ReactIcon
 
 wiCloudyGusts :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiCloudyGusts = element (unsafeCoerce wiCloudyGusts_)
+wiCloudyGusts = element (unsafeCoerce _wiCloudyGusts)
 
-foreign import wiCloudyWindy_ :: ReactIcon
+foreign import _wiCloudyWindy :: ReactIcon
 
 wiCloudyWindy :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiCloudyWindy = element (unsafeCoerce wiCloudyWindy_)
+wiCloudyWindy = element (unsafeCoerce _wiCloudyWindy)
 
-foreign import wiDayCloudy_ :: ReactIcon
+foreign import _wiDayCloudy :: ReactIcon
 
 wiDayCloudy :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiDayCloudy = element (unsafeCoerce wiDayCloudy_)
+wiDayCloudy = element (unsafeCoerce _wiDayCloudy)
 
-foreign import wiDayCloudyGusts_ :: ReactIcon
+foreign import _wiDayCloudyGusts :: ReactIcon
 
 wiDayCloudyGusts :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiDayCloudyGusts = element (unsafeCoerce wiDayCloudyGusts_)
+wiDayCloudyGusts = element (unsafeCoerce _wiDayCloudyGusts)
 
-foreign import wiDayCloudyHigh_ :: ReactIcon
+foreign import _wiDayCloudyHigh :: ReactIcon
 
 wiDayCloudyHigh :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiDayCloudyHigh = element (unsafeCoerce wiDayCloudyHigh_)
+wiDayCloudyHigh = element (unsafeCoerce _wiDayCloudyHigh)
 
-foreign import wiDayCloudyWindy_ :: ReactIcon
+foreign import _wiDayCloudyWindy :: ReactIcon
 
 wiDayCloudyWindy :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiDayCloudyWindy = element (unsafeCoerce wiDayCloudyWindy_)
+wiDayCloudyWindy = element (unsafeCoerce _wiDayCloudyWindy)
 
-foreign import wiDayFog_ :: ReactIcon
+foreign import _wiDayFog :: ReactIcon
 
 wiDayFog :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiDayFog = element (unsafeCoerce wiDayFog_)
+wiDayFog = element (unsafeCoerce _wiDayFog)
 
-foreign import wiDayHail_ :: ReactIcon
+foreign import _wiDayHail :: ReactIcon
 
 wiDayHail :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiDayHail = element (unsafeCoerce wiDayHail_)
+wiDayHail = element (unsafeCoerce _wiDayHail)
 
-foreign import wiDayHaze_ :: ReactIcon
+foreign import _wiDayHaze :: ReactIcon
 
 wiDayHaze :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiDayHaze = element (unsafeCoerce wiDayHaze_)
+wiDayHaze = element (unsafeCoerce _wiDayHaze)
 
-foreign import wiDayLightning_ :: ReactIcon
+foreign import _wiDayLightning :: ReactIcon
 
 wiDayLightning :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiDayLightning = element (unsafeCoerce wiDayLightning_)
+wiDayLightning = element (unsafeCoerce _wiDayLightning)
 
-foreign import wiDayLightWind_ :: ReactIcon
+foreign import _wiDayLightWind :: ReactIcon
 
 wiDayLightWind :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiDayLightWind = element (unsafeCoerce wiDayLightWind_)
+wiDayLightWind = element (unsafeCoerce _wiDayLightWind)
 
-foreign import wiDayRain_ :: ReactIcon
+foreign import _wiDayRain :: ReactIcon
 
 wiDayRain :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiDayRain = element (unsafeCoerce wiDayRain_)
+wiDayRain = element (unsafeCoerce _wiDayRain)
 
-foreign import wiDayRainMix_ :: ReactIcon
+foreign import _wiDayRainMix :: ReactIcon
 
 wiDayRainMix :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiDayRainMix = element (unsafeCoerce wiDayRainMix_)
+wiDayRainMix = element (unsafeCoerce _wiDayRainMix)
 
-foreign import wiDayRainWind_ :: ReactIcon
+foreign import _wiDayRainWind :: ReactIcon
 
 wiDayRainWind :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiDayRainWind = element (unsafeCoerce wiDayRainWind_)
+wiDayRainWind = element (unsafeCoerce _wiDayRainWind)
 
-foreign import wiDayShowers_ :: ReactIcon
+foreign import _wiDayShowers :: ReactIcon
 
 wiDayShowers :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiDayShowers = element (unsafeCoerce wiDayShowers_)
+wiDayShowers = element (unsafeCoerce _wiDayShowers)
 
-foreign import wiDaySleet_ :: ReactIcon
+foreign import _wiDaySleet :: ReactIcon
 
 wiDaySleet :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiDaySleet = element (unsafeCoerce wiDaySleet_)
+wiDaySleet = element (unsafeCoerce _wiDaySleet)
 
-foreign import wiDaySleetStorm_ :: ReactIcon
+foreign import _wiDaySleetStorm :: ReactIcon
 
 wiDaySleetStorm :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiDaySleetStorm = element (unsafeCoerce wiDaySleetStorm_)
+wiDaySleetStorm = element (unsafeCoerce _wiDaySleetStorm)
 
-foreign import wiDaySnow_ :: ReactIcon
+foreign import _wiDaySnow :: ReactIcon
 
 wiDaySnow :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiDaySnow = element (unsafeCoerce wiDaySnow_)
+wiDaySnow = element (unsafeCoerce _wiDaySnow)
 
-foreign import wiDaySnowThunderstorm_ :: ReactIcon
+foreign import _wiDaySnowThunderstorm :: ReactIcon
 
 wiDaySnowThunderstorm :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiDaySnowThunderstorm = element (unsafeCoerce wiDaySnowThunderstorm_)
+wiDaySnowThunderstorm = element (unsafeCoerce _wiDaySnowThunderstorm)
 
-foreign import wiDaySnowWind_ :: ReactIcon
+foreign import _wiDaySnowWind :: ReactIcon
 
 wiDaySnowWind :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiDaySnowWind = element (unsafeCoerce wiDaySnowWind_)
+wiDaySnowWind = element (unsafeCoerce _wiDaySnowWind)
 
-foreign import wiDaySprinkle_ :: ReactIcon
+foreign import _wiDaySprinkle :: ReactIcon
 
 wiDaySprinkle :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiDaySprinkle = element (unsafeCoerce wiDaySprinkle_)
+wiDaySprinkle = element (unsafeCoerce _wiDaySprinkle)
 
-foreign import wiDayStormShowers_ :: ReactIcon
+foreign import _wiDayStormShowers :: ReactIcon
 
 wiDayStormShowers :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiDayStormShowers = element (unsafeCoerce wiDayStormShowers_)
+wiDayStormShowers = element (unsafeCoerce _wiDayStormShowers)
 
-foreign import wiDaySunny_ :: ReactIcon
+foreign import _wiDaySunny :: ReactIcon
 
 wiDaySunny :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiDaySunny = element (unsafeCoerce wiDaySunny_)
+wiDaySunny = element (unsafeCoerce _wiDaySunny)
 
-foreign import wiDaySunnyOvercast_ :: ReactIcon
+foreign import _wiDaySunnyOvercast :: ReactIcon
 
 wiDaySunnyOvercast :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiDaySunnyOvercast = element (unsafeCoerce wiDaySunnyOvercast_)
+wiDaySunnyOvercast = element (unsafeCoerce _wiDaySunnyOvercast)
 
-foreign import wiDayThunderstorm_ :: ReactIcon
+foreign import _wiDayThunderstorm :: ReactIcon
 
 wiDayThunderstorm :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiDayThunderstorm = element (unsafeCoerce wiDayThunderstorm_)
+wiDayThunderstorm = element (unsafeCoerce _wiDayThunderstorm)
 
-foreign import wiDayWindy_ :: ReactIcon
+foreign import _wiDayWindy :: ReactIcon
 
 wiDayWindy :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiDayWindy = element (unsafeCoerce wiDayWindy_)
+wiDayWindy = element (unsafeCoerce _wiDayWindy)
 
-foreign import wiDegrees_ :: ReactIcon
+foreign import _wiDegrees :: ReactIcon
 
 wiDegrees :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiDegrees = element (unsafeCoerce wiDegrees_)
+wiDegrees = element (unsafeCoerce _wiDegrees)
 
-foreign import wiDirectionDown_ :: ReactIcon
+foreign import _wiDirectionDown :: ReactIcon
 
 wiDirectionDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiDirectionDown = element (unsafeCoerce wiDirectionDown_)
+wiDirectionDown = element (unsafeCoerce _wiDirectionDown)
 
-foreign import wiDirectionDownLeft_ :: ReactIcon
+foreign import _wiDirectionDownLeft :: ReactIcon
 
 wiDirectionDownLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiDirectionDownLeft = element (unsafeCoerce wiDirectionDownLeft_)
+wiDirectionDownLeft = element (unsafeCoerce _wiDirectionDownLeft)
 
-foreign import wiDirectionDownRight_ :: ReactIcon
+foreign import _wiDirectionDownRight :: ReactIcon
 
 wiDirectionDownRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiDirectionDownRight = element (unsafeCoerce wiDirectionDownRight_)
+wiDirectionDownRight = element (unsafeCoerce _wiDirectionDownRight)
 
-foreign import wiDirectionLeft_ :: ReactIcon
+foreign import _wiDirectionLeft :: ReactIcon
 
 wiDirectionLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiDirectionLeft = element (unsafeCoerce wiDirectionLeft_)
+wiDirectionLeft = element (unsafeCoerce _wiDirectionLeft)
 
-foreign import wiDirectionRight_ :: ReactIcon
+foreign import _wiDirectionRight :: ReactIcon
 
 wiDirectionRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiDirectionRight = element (unsafeCoerce wiDirectionRight_)
+wiDirectionRight = element (unsafeCoerce _wiDirectionRight)
 
-foreign import wiDirectionUp_ :: ReactIcon
+foreign import _wiDirectionUp :: ReactIcon
 
 wiDirectionUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiDirectionUp = element (unsafeCoerce wiDirectionUp_)
+wiDirectionUp = element (unsafeCoerce _wiDirectionUp)
 
-foreign import wiDirectionUpLeft_ :: ReactIcon
+foreign import _wiDirectionUpLeft :: ReactIcon
 
 wiDirectionUpLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiDirectionUpLeft = element (unsafeCoerce wiDirectionUpLeft_)
+wiDirectionUpLeft = element (unsafeCoerce _wiDirectionUpLeft)
 
-foreign import wiDirectionUpRight_ :: ReactIcon
+foreign import _wiDirectionUpRight :: ReactIcon
 
 wiDirectionUpRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiDirectionUpRight = element (unsafeCoerce wiDirectionUpRight_)
+wiDirectionUpRight = element (unsafeCoerce _wiDirectionUpRight)
 
-foreign import wiDust_ :: ReactIcon
+foreign import _wiDust :: ReactIcon
 
 wiDust :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiDust = element (unsafeCoerce wiDust_)
+wiDust = element (unsafeCoerce _wiDust)
 
-foreign import wiEarthquake_ :: ReactIcon
+foreign import _wiEarthquake :: ReactIcon
 
 wiEarthquake :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiEarthquake = element (unsafeCoerce wiEarthquake_)
+wiEarthquake = element (unsafeCoerce _wiEarthquake)
 
-foreign import wiFahrenheit_ :: ReactIcon
+foreign import _wiFahrenheit :: ReactIcon
 
 wiFahrenheit :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiFahrenheit = element (unsafeCoerce wiFahrenheit_)
+wiFahrenheit = element (unsafeCoerce _wiFahrenheit)
 
-foreign import wiFire_ :: ReactIcon
+foreign import _wiFire :: ReactIcon
 
 wiFire :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiFire = element (unsafeCoerce wiFire_)
+wiFire = element (unsafeCoerce _wiFire)
 
-foreign import wiFlood_ :: ReactIcon
+foreign import _wiFlood :: ReactIcon
 
 wiFlood :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiFlood = element (unsafeCoerce wiFlood_)
+wiFlood = element (unsafeCoerce _wiFlood)
 
-foreign import wiFog_ :: ReactIcon
+foreign import _wiFog :: ReactIcon
 
 wiFog :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiFog = element (unsafeCoerce wiFog_)
+wiFog = element (unsafeCoerce _wiFog)
 
-foreign import wiGaleWarning_ :: ReactIcon
+foreign import _wiGaleWarning :: ReactIcon
 
 wiGaleWarning :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiGaleWarning = element (unsafeCoerce wiGaleWarning_)
+wiGaleWarning = element (unsafeCoerce _wiGaleWarning)
 
-foreign import wiHail_ :: ReactIcon
+foreign import _wiHail :: ReactIcon
 
 wiHail :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiHail = element (unsafeCoerce wiHail_)
+wiHail = element (unsafeCoerce _wiHail)
 
-foreign import wiHorizon_ :: ReactIcon
+foreign import _wiHorizon :: ReactIcon
 
 wiHorizon :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiHorizon = element (unsafeCoerce wiHorizon_)
+wiHorizon = element (unsafeCoerce _wiHorizon)
 
-foreign import wiHorizonAlt_ :: ReactIcon
+foreign import _wiHorizonAlt :: ReactIcon
 
 wiHorizonAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiHorizonAlt = element (unsafeCoerce wiHorizonAlt_)
+wiHorizonAlt = element (unsafeCoerce _wiHorizonAlt)
 
-foreign import wiHot_ :: ReactIcon
+foreign import _wiHot :: ReactIcon
 
 wiHot :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiHot = element (unsafeCoerce wiHot_)
+wiHot = element (unsafeCoerce _wiHot)
 
-foreign import wiHumidity_ :: ReactIcon
+foreign import _wiHumidity :: ReactIcon
 
 wiHumidity :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiHumidity = element (unsafeCoerce wiHumidity_)
+wiHumidity = element (unsafeCoerce _wiHumidity)
 
-foreign import wiHurricane_ :: ReactIcon
+foreign import _wiHurricane :: ReactIcon
 
 wiHurricane :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiHurricane = element (unsafeCoerce wiHurricane_)
+wiHurricane = element (unsafeCoerce _wiHurricane)
 
-foreign import wiHurricaneWarning_ :: ReactIcon
+foreign import _wiHurricaneWarning :: ReactIcon
 
 wiHurricaneWarning :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiHurricaneWarning = element (unsafeCoerce wiHurricaneWarning_)
+wiHurricaneWarning = element (unsafeCoerce _wiHurricaneWarning)
 
-foreign import wiLightning_ :: ReactIcon
+foreign import _wiLightning :: ReactIcon
 
 wiLightning :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiLightning = element (unsafeCoerce wiLightning_)
+wiLightning = element (unsafeCoerce _wiLightning)
 
-foreign import wiLunarEclipse_ :: ReactIcon
+foreign import _wiLunarEclipse :: ReactIcon
 
 wiLunarEclipse :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiLunarEclipse = element (unsafeCoerce wiLunarEclipse_)
+wiLunarEclipse = element (unsafeCoerce _wiLunarEclipse)
 
-foreign import wiMeteor_ :: ReactIcon
+foreign import _wiMeteor :: ReactIcon
 
 wiMeteor :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiMeteor = element (unsafeCoerce wiMeteor_)
+wiMeteor = element (unsafeCoerce _wiMeteor)
 
-foreign import wiMoonAltFirstQuarter_ :: ReactIcon
+foreign import _wiMoonAltFirstQuarter :: ReactIcon
 
 wiMoonAltFirstQuarter :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiMoonAltFirstQuarter = element (unsafeCoerce wiMoonAltFirstQuarter_)
+wiMoonAltFirstQuarter = element (unsafeCoerce _wiMoonAltFirstQuarter)
 
-foreign import wiMoonAltFull_ :: ReactIcon
+foreign import _wiMoonAltFull :: ReactIcon
 
 wiMoonAltFull :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiMoonAltFull = element (unsafeCoerce wiMoonAltFull_)
+wiMoonAltFull = element (unsafeCoerce _wiMoonAltFull)
 
-foreign import wiMoonAltNew_ :: ReactIcon
+foreign import _wiMoonAltNew :: ReactIcon
 
 wiMoonAltNew :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiMoonAltNew = element (unsafeCoerce wiMoonAltNew_)
+wiMoonAltNew = element (unsafeCoerce _wiMoonAltNew)
 
-foreign import wiMoonAltThirdQuarter_ :: ReactIcon
+foreign import _wiMoonAltThirdQuarter :: ReactIcon
 
 wiMoonAltThirdQuarter :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiMoonAltThirdQuarter = element (unsafeCoerce wiMoonAltThirdQuarter_)
+wiMoonAltThirdQuarter = element (unsafeCoerce _wiMoonAltThirdQuarter)
 
-foreign import wiMoonFirstQuarter_ :: ReactIcon
+foreign import _wiMoonFirstQuarter :: ReactIcon
 
 wiMoonFirstQuarter :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiMoonFirstQuarter = element (unsafeCoerce wiMoonFirstQuarter_)
+wiMoonFirstQuarter = element (unsafeCoerce _wiMoonFirstQuarter)
 
-foreign import wiMoonFull_ :: ReactIcon
+foreign import _wiMoonFull :: ReactIcon
 
 wiMoonFull :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiMoonFull = element (unsafeCoerce wiMoonFull_)
+wiMoonFull = element (unsafeCoerce _wiMoonFull)
 
-foreign import wiMoonNew_ :: ReactIcon
+foreign import _wiMoonNew :: ReactIcon
 
 wiMoonNew :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiMoonNew = element (unsafeCoerce wiMoonNew_)
+wiMoonNew = element (unsafeCoerce _wiMoonNew)
 
-foreign import wiMoonrise_ :: ReactIcon
+foreign import _wiMoonrise :: ReactIcon
 
 wiMoonrise :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiMoonrise = element (unsafeCoerce wiMoonrise_)
+wiMoonrise = element (unsafeCoerce _wiMoonrise)
 
-foreign import wiMoonset_ :: ReactIcon
+foreign import _wiMoonset :: ReactIcon
 
 wiMoonset :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiMoonset = element (unsafeCoerce wiMoonset_)
+wiMoonset = element (unsafeCoerce _wiMoonset)
 
-foreign import wiMoonThirdQuarter_ :: ReactIcon
+foreign import _wiMoonThirdQuarter :: ReactIcon
 
 wiMoonThirdQuarter :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiMoonThirdQuarter = element (unsafeCoerce wiMoonThirdQuarter_)
+wiMoonThirdQuarter = element (unsafeCoerce _wiMoonThirdQuarter)
 
-foreign import wiNa_ :: ReactIcon
+foreign import _wiNa :: ReactIcon
 
 wiNa :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiNa = element (unsafeCoerce wiNa_)
+wiNa = element (unsafeCoerce _wiNa)
 
-foreign import wiNightAltCloudy_ :: ReactIcon
+foreign import _wiNightAltCloudy :: ReactIcon
 
 wiNightAltCloudy :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiNightAltCloudy = element (unsafeCoerce wiNightAltCloudy_)
+wiNightAltCloudy = element (unsafeCoerce _wiNightAltCloudy)
 
-foreign import wiNightAltCloudyGusts_ :: ReactIcon
+foreign import _wiNightAltCloudyGusts :: ReactIcon
 
 wiNightAltCloudyGusts :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiNightAltCloudyGusts = element (unsafeCoerce wiNightAltCloudyGusts_)
+wiNightAltCloudyGusts = element (unsafeCoerce _wiNightAltCloudyGusts)
 
-foreign import wiNightAltCloudyHigh_ :: ReactIcon
+foreign import _wiNightAltCloudyHigh :: ReactIcon
 
 wiNightAltCloudyHigh :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiNightAltCloudyHigh = element (unsafeCoerce wiNightAltCloudyHigh_)
+wiNightAltCloudyHigh = element (unsafeCoerce _wiNightAltCloudyHigh)
 
-foreign import wiNightAltCloudyWindy_ :: ReactIcon
+foreign import _wiNightAltCloudyWindy :: ReactIcon
 
 wiNightAltCloudyWindy :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiNightAltCloudyWindy = element (unsafeCoerce wiNightAltCloudyWindy_)
+wiNightAltCloudyWindy = element (unsafeCoerce _wiNightAltCloudyWindy)
 
-foreign import wiNightAltHail_ :: ReactIcon
+foreign import _wiNightAltHail :: ReactIcon
 
 wiNightAltHail :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiNightAltHail = element (unsafeCoerce wiNightAltHail_)
+wiNightAltHail = element (unsafeCoerce _wiNightAltHail)
 
-foreign import wiNightAltLightning_ :: ReactIcon
+foreign import _wiNightAltLightning :: ReactIcon
 
 wiNightAltLightning :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiNightAltLightning = element (unsafeCoerce wiNightAltLightning_)
+wiNightAltLightning = element (unsafeCoerce _wiNightAltLightning)
 
-foreign import wiNightAltPartlyCloudy_ :: ReactIcon
+foreign import _wiNightAltPartlyCloudy :: ReactIcon
 
 wiNightAltPartlyCloudy :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiNightAltPartlyCloudy = element (unsafeCoerce wiNightAltPartlyCloudy_)
+wiNightAltPartlyCloudy = element (unsafeCoerce _wiNightAltPartlyCloudy)
 
-foreign import wiNightAltRain_ :: ReactIcon
+foreign import _wiNightAltRain :: ReactIcon
 
 wiNightAltRain :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiNightAltRain = element (unsafeCoerce wiNightAltRain_)
+wiNightAltRain = element (unsafeCoerce _wiNightAltRain)
 
-foreign import wiNightAltRainMix_ :: ReactIcon
+foreign import _wiNightAltRainMix :: ReactIcon
 
 wiNightAltRainMix :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiNightAltRainMix = element (unsafeCoerce wiNightAltRainMix_)
+wiNightAltRainMix = element (unsafeCoerce _wiNightAltRainMix)
 
-foreign import wiNightAltRainWind_ :: ReactIcon
+foreign import _wiNightAltRainWind :: ReactIcon
 
 wiNightAltRainWind :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiNightAltRainWind = element (unsafeCoerce wiNightAltRainWind_)
+wiNightAltRainWind = element (unsafeCoerce _wiNightAltRainWind)
 
-foreign import wiNightAltShowers_ :: ReactIcon
+foreign import _wiNightAltShowers :: ReactIcon
 
 wiNightAltShowers :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiNightAltShowers = element (unsafeCoerce wiNightAltShowers_)
+wiNightAltShowers = element (unsafeCoerce _wiNightAltShowers)
 
-foreign import wiNightAltSleet_ :: ReactIcon
+foreign import _wiNightAltSleet :: ReactIcon
 
 wiNightAltSleet :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiNightAltSleet = element (unsafeCoerce wiNightAltSleet_)
+wiNightAltSleet = element (unsafeCoerce _wiNightAltSleet)
 
-foreign import wiNightAltSleetStorm_ :: ReactIcon
+foreign import _wiNightAltSleetStorm :: ReactIcon
 
 wiNightAltSleetStorm :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiNightAltSleetStorm = element (unsafeCoerce wiNightAltSleetStorm_)
+wiNightAltSleetStorm = element (unsafeCoerce _wiNightAltSleetStorm)
 
-foreign import wiNightAltSnow_ :: ReactIcon
+foreign import _wiNightAltSnow :: ReactIcon
 
 wiNightAltSnow :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiNightAltSnow = element (unsafeCoerce wiNightAltSnow_)
+wiNightAltSnow = element (unsafeCoerce _wiNightAltSnow)
 
-foreign import wiNightAltSnowThunderstorm_ :: ReactIcon
+foreign import _wiNightAltSnowThunderstorm :: ReactIcon
 
 wiNightAltSnowThunderstorm :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiNightAltSnowThunderstorm = element (unsafeCoerce wiNightAltSnowThunderstorm_)
+wiNightAltSnowThunderstorm = element (unsafeCoerce _wiNightAltSnowThunderstorm)
 
-foreign import wiNightAltSnowWind_ :: ReactIcon
+foreign import _wiNightAltSnowWind :: ReactIcon
 
 wiNightAltSnowWind :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiNightAltSnowWind = element (unsafeCoerce wiNightAltSnowWind_)
+wiNightAltSnowWind = element (unsafeCoerce _wiNightAltSnowWind)
 
-foreign import wiNightAltSprinkle_ :: ReactIcon
+foreign import _wiNightAltSprinkle :: ReactIcon
 
 wiNightAltSprinkle :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiNightAltSprinkle = element (unsafeCoerce wiNightAltSprinkle_)
+wiNightAltSprinkle = element (unsafeCoerce _wiNightAltSprinkle)
 
-foreign import wiNightAltStormShowers_ :: ReactIcon
+foreign import _wiNightAltStormShowers :: ReactIcon
 
 wiNightAltStormShowers :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiNightAltStormShowers = element (unsafeCoerce wiNightAltStormShowers_)
+wiNightAltStormShowers = element (unsafeCoerce _wiNightAltStormShowers)
 
-foreign import wiNightAltThunderstorm_ :: ReactIcon
+foreign import _wiNightAltThunderstorm :: ReactIcon
 
 wiNightAltThunderstorm :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiNightAltThunderstorm = element (unsafeCoerce wiNightAltThunderstorm_)
+wiNightAltThunderstorm = element (unsafeCoerce _wiNightAltThunderstorm)
 
-foreign import wiNightClear_ :: ReactIcon
+foreign import _wiNightClear :: ReactIcon
 
 wiNightClear :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiNightClear = element (unsafeCoerce wiNightClear_)
+wiNightClear = element (unsafeCoerce _wiNightClear)
 
-foreign import wiNightCloudy_ :: ReactIcon
+foreign import _wiNightCloudy :: ReactIcon
 
 wiNightCloudy :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiNightCloudy = element (unsafeCoerce wiNightCloudy_)
+wiNightCloudy = element (unsafeCoerce _wiNightCloudy)
 
-foreign import wiNightCloudyGusts_ :: ReactIcon
+foreign import _wiNightCloudyGusts :: ReactIcon
 
 wiNightCloudyGusts :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiNightCloudyGusts = element (unsafeCoerce wiNightCloudyGusts_)
+wiNightCloudyGusts = element (unsafeCoerce _wiNightCloudyGusts)
 
-foreign import wiNightCloudyHigh_ :: ReactIcon
+foreign import _wiNightCloudyHigh :: ReactIcon
 
 wiNightCloudyHigh :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiNightCloudyHigh = element (unsafeCoerce wiNightCloudyHigh_)
+wiNightCloudyHigh = element (unsafeCoerce _wiNightCloudyHigh)
 
-foreign import wiNightCloudyWindy_ :: ReactIcon
+foreign import _wiNightCloudyWindy :: ReactIcon
 
 wiNightCloudyWindy :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiNightCloudyWindy = element (unsafeCoerce wiNightCloudyWindy_)
+wiNightCloudyWindy = element (unsafeCoerce _wiNightCloudyWindy)
 
-foreign import wiNightFog_ :: ReactIcon
+foreign import _wiNightFog :: ReactIcon
 
 wiNightFog :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiNightFog = element (unsafeCoerce wiNightFog_)
+wiNightFog = element (unsafeCoerce _wiNightFog)
 
-foreign import wiNightHail_ :: ReactIcon
+foreign import _wiNightHail :: ReactIcon
 
 wiNightHail :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiNightHail = element (unsafeCoerce wiNightHail_)
+wiNightHail = element (unsafeCoerce _wiNightHail)
 
-foreign import wiNightLightning_ :: ReactIcon
+foreign import _wiNightLightning :: ReactIcon
 
 wiNightLightning :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiNightLightning = element (unsafeCoerce wiNightLightning_)
+wiNightLightning = element (unsafeCoerce _wiNightLightning)
 
-foreign import wiNightPartlyCloudy_ :: ReactIcon
+foreign import _wiNightPartlyCloudy :: ReactIcon
 
 wiNightPartlyCloudy :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiNightPartlyCloudy = element (unsafeCoerce wiNightPartlyCloudy_)
+wiNightPartlyCloudy = element (unsafeCoerce _wiNightPartlyCloudy)
 
-foreign import wiNightRain_ :: ReactIcon
+foreign import _wiNightRain :: ReactIcon
 
 wiNightRain :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiNightRain = element (unsafeCoerce wiNightRain_)
+wiNightRain = element (unsafeCoerce _wiNightRain)
 
-foreign import wiNightRainMix_ :: ReactIcon
+foreign import _wiNightRainMix :: ReactIcon
 
 wiNightRainMix :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiNightRainMix = element (unsafeCoerce wiNightRainMix_)
+wiNightRainMix = element (unsafeCoerce _wiNightRainMix)
 
-foreign import wiNightRainWind_ :: ReactIcon
+foreign import _wiNightRainWind :: ReactIcon
 
 wiNightRainWind :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiNightRainWind = element (unsafeCoerce wiNightRainWind_)
+wiNightRainWind = element (unsafeCoerce _wiNightRainWind)
 
-foreign import wiNightShowers_ :: ReactIcon
+foreign import _wiNightShowers :: ReactIcon
 
 wiNightShowers :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiNightShowers = element (unsafeCoerce wiNightShowers_)
+wiNightShowers = element (unsafeCoerce _wiNightShowers)
 
-foreign import wiNightSleet_ :: ReactIcon
+foreign import _wiNightSleet :: ReactIcon
 
 wiNightSleet :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiNightSleet = element (unsafeCoerce wiNightSleet_)
+wiNightSleet = element (unsafeCoerce _wiNightSleet)
 
-foreign import wiNightSleetStorm_ :: ReactIcon
+foreign import _wiNightSleetStorm :: ReactIcon
 
 wiNightSleetStorm :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiNightSleetStorm = element (unsafeCoerce wiNightSleetStorm_)
+wiNightSleetStorm = element (unsafeCoerce _wiNightSleetStorm)
 
-foreign import wiNightSnow_ :: ReactIcon
+foreign import _wiNightSnow :: ReactIcon
 
 wiNightSnow :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiNightSnow = element (unsafeCoerce wiNightSnow_)
+wiNightSnow = element (unsafeCoerce _wiNightSnow)
 
-foreign import wiNightSnowThunderstorm_ :: ReactIcon
+foreign import _wiNightSnowThunderstorm :: ReactIcon
 
 wiNightSnowThunderstorm :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiNightSnowThunderstorm = element (unsafeCoerce wiNightSnowThunderstorm_)
+wiNightSnowThunderstorm = element (unsafeCoerce _wiNightSnowThunderstorm)
 
-foreign import wiNightSnowWind_ :: ReactIcon
+foreign import _wiNightSnowWind :: ReactIcon
 
 wiNightSnowWind :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiNightSnowWind = element (unsafeCoerce wiNightSnowWind_)
+wiNightSnowWind = element (unsafeCoerce _wiNightSnowWind)
 
-foreign import wiNightSprinkle_ :: ReactIcon
+foreign import _wiNightSprinkle :: ReactIcon
 
 wiNightSprinkle :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiNightSprinkle = element (unsafeCoerce wiNightSprinkle_)
+wiNightSprinkle = element (unsafeCoerce _wiNightSprinkle)
 
-foreign import wiNightStormShowers_ :: ReactIcon
+foreign import _wiNightStormShowers :: ReactIcon
 
 wiNightStormShowers :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiNightStormShowers = element (unsafeCoerce wiNightStormShowers_)
+wiNightStormShowers = element (unsafeCoerce _wiNightStormShowers)
 
-foreign import wiNightThunderstorm_ :: ReactIcon
+foreign import _wiNightThunderstorm :: ReactIcon
 
 wiNightThunderstorm :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiNightThunderstorm = element (unsafeCoerce wiNightThunderstorm_)
+wiNightThunderstorm = element (unsafeCoerce _wiNightThunderstorm)
 
-foreign import wiRain_ :: ReactIcon
+foreign import _wiRain :: ReactIcon
 
 wiRain :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiRain = element (unsafeCoerce wiRain_)
+wiRain = element (unsafeCoerce _wiRain)
 
-foreign import wiRaindrop_ :: ReactIcon
+foreign import _wiRaindrop :: ReactIcon
 
 wiRaindrop :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiRaindrop = element (unsafeCoerce wiRaindrop_)
+wiRaindrop = element (unsafeCoerce _wiRaindrop)
 
-foreign import wiRaindrops_ :: ReactIcon
+foreign import _wiRaindrops :: ReactIcon
 
 wiRaindrops :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiRaindrops = element (unsafeCoerce wiRaindrops_)
+wiRaindrops = element (unsafeCoerce _wiRaindrops)
 
-foreign import wiRainMix_ :: ReactIcon
+foreign import _wiRainMix :: ReactIcon
 
 wiRainMix :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiRainMix = element (unsafeCoerce wiRainMix_)
+wiRainMix = element (unsafeCoerce _wiRainMix)
 
-foreign import wiRainWind_ :: ReactIcon
+foreign import _wiRainWind :: ReactIcon
 
 wiRainWind :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiRainWind = element (unsafeCoerce wiRainWind_)
+wiRainWind = element (unsafeCoerce _wiRainWind)
 
-foreign import wiRefresh_ :: ReactIcon
+foreign import _wiRefresh :: ReactIcon
 
 wiRefresh :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiRefresh = element (unsafeCoerce wiRefresh_)
+wiRefresh = element (unsafeCoerce _wiRefresh)
 
-foreign import wiRefreshAlt_ :: ReactIcon
+foreign import _wiRefreshAlt :: ReactIcon
 
 wiRefreshAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiRefreshAlt = element (unsafeCoerce wiRefreshAlt_)
+wiRefreshAlt = element (unsafeCoerce _wiRefreshAlt)
 
-foreign import wiSandstorm_ :: ReactIcon
+foreign import _wiSandstorm :: ReactIcon
 
 wiSandstorm :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiSandstorm = element (unsafeCoerce wiSandstorm_)
+wiSandstorm = element (unsafeCoerce _wiSandstorm)
 
-foreign import wiShowers_ :: ReactIcon
+foreign import _wiShowers :: ReactIcon
 
 wiShowers :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiShowers = element (unsafeCoerce wiShowers_)
+wiShowers = element (unsafeCoerce _wiShowers)
 
-foreign import wiSleet_ :: ReactIcon
+foreign import _wiSleet :: ReactIcon
 
 wiSleet :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiSleet = element (unsafeCoerce wiSleet_)
+wiSleet = element (unsafeCoerce _wiSleet)
 
-foreign import wiSmallCraftAdvisory_ :: ReactIcon
+foreign import _wiSmallCraftAdvisory :: ReactIcon
 
 wiSmallCraftAdvisory :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiSmallCraftAdvisory = element (unsafeCoerce wiSmallCraftAdvisory_)
+wiSmallCraftAdvisory = element (unsafeCoerce _wiSmallCraftAdvisory)
 
-foreign import wiSmog_ :: ReactIcon
+foreign import _wiSmog :: ReactIcon
 
 wiSmog :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiSmog = element (unsafeCoerce wiSmog_)
+wiSmog = element (unsafeCoerce _wiSmog)
 
-foreign import wiSmoke_ :: ReactIcon
+foreign import _wiSmoke :: ReactIcon
 
 wiSmoke :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiSmoke = element (unsafeCoerce wiSmoke_)
+wiSmoke = element (unsafeCoerce _wiSmoke)
 
-foreign import wiSnow_ :: ReactIcon
+foreign import _wiSnow :: ReactIcon
 
 wiSnow :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiSnow = element (unsafeCoerce wiSnow_)
+wiSnow = element (unsafeCoerce _wiSnow)
 
-foreign import wiSnowflakeCold_ :: ReactIcon
+foreign import _wiSnowflakeCold :: ReactIcon
 
 wiSnowflakeCold :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiSnowflakeCold = element (unsafeCoerce wiSnowflakeCold_)
+wiSnowflakeCold = element (unsafeCoerce _wiSnowflakeCold)
 
-foreign import wiSnowWind_ :: ReactIcon
+foreign import _wiSnowWind :: ReactIcon
 
 wiSnowWind :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiSnowWind = element (unsafeCoerce wiSnowWind_)
+wiSnowWind = element (unsafeCoerce _wiSnowWind)
 
-foreign import wiSolarEclipse_ :: ReactIcon
+foreign import _wiSolarEclipse :: ReactIcon
 
 wiSolarEclipse :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiSolarEclipse = element (unsafeCoerce wiSolarEclipse_)
+wiSolarEclipse = element (unsafeCoerce _wiSolarEclipse)
 
-foreign import wiSprinkle_ :: ReactIcon
+foreign import _wiSprinkle :: ReactIcon
 
 wiSprinkle :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiSprinkle = element (unsafeCoerce wiSprinkle_)
+wiSprinkle = element (unsafeCoerce _wiSprinkle)
 
-foreign import wiStars_ :: ReactIcon
+foreign import _wiStars :: ReactIcon
 
 wiStars :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiStars = element (unsafeCoerce wiStars_)
+wiStars = element (unsafeCoerce _wiStars)
 
-foreign import wiStormShowers_ :: ReactIcon
+foreign import _wiStormShowers :: ReactIcon
 
 wiStormShowers :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiStormShowers = element (unsafeCoerce wiStormShowers_)
+wiStormShowers = element (unsafeCoerce _wiStormShowers)
 
-foreign import wiStormWarning_ :: ReactIcon
+foreign import _wiStormWarning :: ReactIcon
 
 wiStormWarning :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiStormWarning = element (unsafeCoerce wiStormWarning_)
+wiStormWarning = element (unsafeCoerce _wiStormWarning)
 
-foreign import wiStrongWind_ :: ReactIcon
+foreign import _wiStrongWind :: ReactIcon
 
 wiStrongWind :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiStrongWind = element (unsafeCoerce wiStrongWind_)
+wiStrongWind = element (unsafeCoerce _wiStrongWind)
 
-foreign import wiSunrise_ :: ReactIcon
+foreign import _wiSunrise :: ReactIcon
 
 wiSunrise :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiSunrise = element (unsafeCoerce wiSunrise_)
+wiSunrise = element (unsafeCoerce _wiSunrise)
 
-foreign import wiSunset_ :: ReactIcon
+foreign import _wiSunset :: ReactIcon
 
 wiSunset :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiSunset = element (unsafeCoerce wiSunset_)
+wiSunset = element (unsafeCoerce _wiSunset)
 
-foreign import wiThermometer_ :: ReactIcon
+foreign import _wiThermometer :: ReactIcon
 
 wiThermometer :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiThermometer = element (unsafeCoerce wiThermometer_)
+wiThermometer = element (unsafeCoerce _wiThermometer)
 
-foreign import wiThermometerExterior_ :: ReactIcon
+foreign import _wiThermometerExterior :: ReactIcon
 
 wiThermometerExterior :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiThermometerExterior = element (unsafeCoerce wiThermometerExterior_)
+wiThermometerExterior = element (unsafeCoerce _wiThermometerExterior)
 
-foreign import wiThermometerInternal_ :: ReactIcon
+foreign import _wiThermometerInternal :: ReactIcon
 
 wiThermometerInternal :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiThermometerInternal = element (unsafeCoerce wiThermometerInternal_)
+wiThermometerInternal = element (unsafeCoerce _wiThermometerInternal)
 
-foreign import wiThunderstorm_ :: ReactIcon
+foreign import _wiThunderstorm :: ReactIcon
 
 wiThunderstorm :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiThunderstorm = element (unsafeCoerce wiThunderstorm_)
+wiThunderstorm = element (unsafeCoerce _wiThunderstorm)
 
-foreign import wiTornado_ :: ReactIcon
+foreign import _wiTornado :: ReactIcon
 
 wiTornado :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiTornado = element (unsafeCoerce wiTornado_)
+wiTornado = element (unsafeCoerce _wiTornado)
 
-foreign import wiTrain_ :: ReactIcon
+foreign import _wiTrain :: ReactIcon
 
 wiTrain :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiTrain = element (unsafeCoerce wiTrain_)
+wiTrain = element (unsafeCoerce _wiTrain)
 
-foreign import wiTsunami_ :: ReactIcon
+foreign import _wiTsunami :: ReactIcon
 
 wiTsunami :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiTsunami = element (unsafeCoerce wiTsunami_)
+wiTsunami = element (unsafeCoerce _wiTsunami)
 
-foreign import wiUmbrella_ :: ReactIcon
+foreign import _wiUmbrella :: ReactIcon
 
 wiUmbrella :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiUmbrella = element (unsafeCoerce wiUmbrella_)
+wiUmbrella = element (unsafeCoerce _wiUmbrella)
 
-foreign import wiVolcano_ :: ReactIcon
+foreign import _wiVolcano :: ReactIcon
 
 wiVolcano :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiVolcano = element (unsafeCoerce wiVolcano_)
+wiVolcano = element (unsafeCoerce _wiVolcano)
 
-foreign import wiWindDeg_ :: ReactIcon
+foreign import _wiWindDeg :: ReactIcon
 
 wiWindDeg :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiWindDeg = element (unsafeCoerce wiWindDeg_)
+wiWindDeg = element (unsafeCoerce _wiWindDeg)
 
-foreign import wiWindy_ :: ReactIcon
+foreign import _wiWindy :: ReactIcon
 
 wiWindy :: forall a b. Union a b PropsIcon => Record a -> JSX
-wiWindy = element (unsafeCoerce wiWindy_)
+wiWindy = element (unsafeCoerce _wiWindy)

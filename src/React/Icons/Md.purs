@@ -9,16912 +9,16912 @@ import React.Basic (JSX, element)
 import React.Icons.Types (ReactIcon, PropsIcon)
 import Unsafe.Coerce (unsafeCoerce)
 
-foreign import mdAccessAlarm_ :: ReactIcon
+foreign import _mdAccessAlarm :: ReactIcon
 
 mdAccessAlarm :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAccessAlarm = element (unsafeCoerce mdAccessAlarm_)
+mdAccessAlarm = element (unsafeCoerce _mdAccessAlarm)
 
-foreign import mdAccessAlarms_ :: ReactIcon
+foreign import _mdAccessAlarms :: ReactIcon
 
 mdAccessAlarms :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAccessAlarms = element (unsafeCoerce mdAccessAlarms_)
+mdAccessAlarms = element (unsafeCoerce _mdAccessAlarms)
 
-foreign import mdAccessibility_ :: ReactIcon
+foreign import _mdAccessibility :: ReactIcon
 
 mdAccessibility :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAccessibility = element (unsafeCoerce mdAccessibility_)
+mdAccessibility = element (unsafeCoerce _mdAccessibility)
 
-foreign import mdAccessibilityNew_ :: ReactIcon
+foreign import _mdAccessibilityNew :: ReactIcon
 
 mdAccessibilityNew :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAccessibilityNew = element (unsafeCoerce mdAccessibilityNew_)
+mdAccessibilityNew = element (unsafeCoerce _mdAccessibilityNew)
 
-foreign import mdAccessible_ :: ReactIcon
+foreign import _mdAccessible :: ReactIcon
 
 mdAccessible :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAccessible = element (unsafeCoerce mdAccessible_)
+mdAccessible = element (unsafeCoerce _mdAccessible)
 
-foreign import mdAccessibleForward_ :: ReactIcon
+foreign import _mdAccessibleForward :: ReactIcon
 
 mdAccessibleForward :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAccessibleForward = element (unsafeCoerce mdAccessibleForward_)
+mdAccessibleForward = element (unsafeCoerce _mdAccessibleForward)
 
-foreign import mdAccessTime_ :: ReactIcon
+foreign import _mdAccessTime :: ReactIcon
 
 mdAccessTime :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAccessTime = element (unsafeCoerce mdAccessTime_)
+mdAccessTime = element (unsafeCoerce _mdAccessTime)
 
-foreign import mdAccessTimeFilled_ :: ReactIcon
+foreign import _mdAccessTimeFilled :: ReactIcon
 
 mdAccessTimeFilled :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAccessTimeFilled = element (unsafeCoerce mdAccessTimeFilled_)
+mdAccessTimeFilled = element (unsafeCoerce _mdAccessTimeFilled)
 
-foreign import mdAccountBalance_ :: ReactIcon
+foreign import _mdAccountBalance :: ReactIcon
 
 mdAccountBalance :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAccountBalance = element (unsafeCoerce mdAccountBalance_)
+mdAccountBalance = element (unsafeCoerce _mdAccountBalance)
 
-foreign import mdAccountBalanceWallet_ :: ReactIcon
+foreign import _mdAccountBalanceWallet :: ReactIcon
 
 mdAccountBalanceWallet :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAccountBalanceWallet = element (unsafeCoerce mdAccountBalanceWallet_)
+mdAccountBalanceWallet = element (unsafeCoerce _mdAccountBalanceWallet)
 
-foreign import mdAccountBox_ :: ReactIcon
+foreign import _mdAccountBox :: ReactIcon
 
 mdAccountBox :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAccountBox = element (unsafeCoerce mdAccountBox_)
+mdAccountBox = element (unsafeCoerce _mdAccountBox)
 
-foreign import mdAccountCircle_ :: ReactIcon
+foreign import _mdAccountCircle :: ReactIcon
 
 mdAccountCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAccountCircle = element (unsafeCoerce mdAccountCircle_)
+mdAccountCircle = element (unsafeCoerce _mdAccountCircle)
 
-foreign import mdAccountTree_ :: ReactIcon
+foreign import _mdAccountTree :: ReactIcon
 
 mdAccountTree :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAccountTree = element (unsafeCoerce mdAccountTree_)
+mdAccountTree = element (unsafeCoerce _mdAccountTree)
 
-foreign import mdAcUnit_ :: ReactIcon
+foreign import _mdAcUnit :: ReactIcon
 
 mdAcUnit :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAcUnit = element (unsafeCoerce mdAcUnit_)
+mdAcUnit = element (unsafeCoerce _mdAcUnit)
 
-foreign import mdAdb_ :: ReactIcon
+foreign import _mdAdb :: ReactIcon
 
 mdAdb :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAdb = element (unsafeCoerce mdAdb_)
+mdAdb = element (unsafeCoerce _mdAdb)
 
-foreign import mdAdd_ :: ReactIcon
+foreign import _mdAdd :: ReactIcon
 
 mdAdd :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAdd = element (unsafeCoerce mdAdd_)
+mdAdd = element (unsafeCoerce _mdAdd)
 
-foreign import mdAddAlarm_ :: ReactIcon
+foreign import _mdAddAlarm :: ReactIcon
 
 mdAddAlarm :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAddAlarm = element (unsafeCoerce mdAddAlarm_)
+mdAddAlarm = element (unsafeCoerce _mdAddAlarm)
 
-foreign import mdAddAlert_ :: ReactIcon
+foreign import _mdAddAlert :: ReactIcon
 
 mdAddAlert :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAddAlert = element (unsafeCoerce mdAddAlert_)
+mdAddAlert = element (unsafeCoerce _mdAddAlert)
 
-foreign import mdAddAPhoto_ :: ReactIcon
+foreign import _mdAddAPhoto :: ReactIcon
 
 mdAddAPhoto :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAddAPhoto = element (unsafeCoerce mdAddAPhoto_)
+mdAddAPhoto = element (unsafeCoerce _mdAddAPhoto)
 
-foreign import mdAddBox_ :: ReactIcon
+foreign import _mdAddBox :: ReactIcon
 
 mdAddBox :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAddBox = element (unsafeCoerce mdAddBox_)
+mdAddBox = element (unsafeCoerce _mdAddBox)
 
-foreign import mdAddBusiness_ :: ReactIcon
+foreign import _mdAddBusiness :: ReactIcon
 
 mdAddBusiness :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAddBusiness = element (unsafeCoerce mdAddBusiness_)
+mdAddBusiness = element (unsafeCoerce _mdAddBusiness)
 
-foreign import mdAddCall_ :: ReactIcon
+foreign import _mdAddCall :: ReactIcon
 
 mdAddCall :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAddCall = element (unsafeCoerce mdAddCall_)
+mdAddCall = element (unsafeCoerce _mdAddCall)
 
-foreign import mdAddchart_ :: ReactIcon
+foreign import _mdAddchart :: ReactIcon
 
 mdAddchart :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAddchart = element (unsafeCoerce mdAddchart_)
+mdAddchart = element (unsafeCoerce _mdAddchart)
 
-foreign import mdAddChart_ :: ReactIcon
+foreign import _mdAddChart :: ReactIcon
 
 mdAddChart :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAddChart = element (unsafeCoerce mdAddChart_)
+mdAddChart = element (unsafeCoerce _mdAddChart)
 
-foreign import mdAddCircle_ :: ReactIcon
+foreign import _mdAddCircle :: ReactIcon
 
 mdAddCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAddCircle = element (unsafeCoerce mdAddCircle_)
+mdAddCircle = element (unsafeCoerce _mdAddCircle)
 
-foreign import mdAddCircleOutline_ :: ReactIcon
+foreign import _mdAddCircleOutline :: ReactIcon
 
 mdAddCircleOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAddCircleOutline = element (unsafeCoerce mdAddCircleOutline_)
+mdAddCircleOutline = element (unsafeCoerce _mdAddCircleOutline)
 
-foreign import mdAddComment_ :: ReactIcon
+foreign import _mdAddComment :: ReactIcon
 
 mdAddComment :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAddComment = element (unsafeCoerce mdAddComment_)
+mdAddComment = element (unsafeCoerce _mdAddComment)
 
-foreign import mdAddIcCall_ :: ReactIcon
+foreign import _mdAddIcCall :: ReactIcon
 
 mdAddIcCall :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAddIcCall = element (unsafeCoerce mdAddIcCall_)
+mdAddIcCall = element (unsafeCoerce _mdAddIcCall)
 
-foreign import mdAddLink_ :: ReactIcon
+foreign import _mdAddLink :: ReactIcon
 
 mdAddLink :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAddLink = element (unsafeCoerce mdAddLink_)
+mdAddLink = element (unsafeCoerce _mdAddLink)
 
-foreign import mdAddLocation_ :: ReactIcon
+foreign import _mdAddLocation :: ReactIcon
 
 mdAddLocation :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAddLocation = element (unsafeCoerce mdAddLocation_)
+mdAddLocation = element (unsafeCoerce _mdAddLocation)
 
-foreign import mdAddLocationAlt_ :: ReactIcon
+foreign import _mdAddLocationAlt :: ReactIcon
 
 mdAddLocationAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAddLocationAlt = element (unsafeCoerce mdAddLocationAlt_)
+mdAddLocationAlt = element (unsafeCoerce _mdAddLocationAlt)
 
-foreign import mdAddModerator_ :: ReactIcon
+foreign import _mdAddModerator :: ReactIcon
 
 mdAddModerator :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAddModerator = element (unsafeCoerce mdAddModerator_)
+mdAddModerator = element (unsafeCoerce _mdAddModerator)
 
-foreign import mdAddPhotoAlternate_ :: ReactIcon
+foreign import _mdAddPhotoAlternate :: ReactIcon
 
 mdAddPhotoAlternate :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAddPhotoAlternate = element (unsafeCoerce mdAddPhotoAlternate_)
+mdAddPhotoAlternate = element (unsafeCoerce _mdAddPhotoAlternate)
 
-foreign import mdAddReaction_ :: ReactIcon
+foreign import _mdAddReaction :: ReactIcon
 
 mdAddReaction :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAddReaction = element (unsafeCoerce mdAddReaction_)
+mdAddReaction = element (unsafeCoerce _mdAddReaction)
 
-foreign import mdAddRoad_ :: ReactIcon
+foreign import _mdAddRoad :: ReactIcon
 
 mdAddRoad :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAddRoad = element (unsafeCoerce mdAddRoad_)
+mdAddRoad = element (unsafeCoerce _mdAddRoad)
 
-foreign import mdAddShoppingCart_ :: ReactIcon
+foreign import _mdAddShoppingCart :: ReactIcon
 
 mdAddShoppingCart :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAddShoppingCart = element (unsafeCoerce mdAddShoppingCart_)
+mdAddShoppingCart = element (unsafeCoerce _mdAddShoppingCart)
 
-foreign import mdAddTask_ :: ReactIcon
+foreign import _mdAddTask :: ReactIcon
 
 mdAddTask :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAddTask = element (unsafeCoerce mdAddTask_)
+mdAddTask = element (unsafeCoerce _mdAddTask)
 
-foreign import mdAddToDrive_ :: ReactIcon
+foreign import _mdAddToDrive :: ReactIcon
 
 mdAddToDrive :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAddToDrive = element (unsafeCoerce mdAddToDrive_)
+mdAddToDrive = element (unsafeCoerce _mdAddToDrive)
 
-foreign import mdAddToHomeScreen_ :: ReactIcon
+foreign import _mdAddToHomeScreen :: ReactIcon
 
 mdAddToHomeScreen :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAddToHomeScreen = element (unsafeCoerce mdAddToHomeScreen_)
+mdAddToHomeScreen = element (unsafeCoerce _mdAddToHomeScreen)
 
-foreign import mdAddToPhotos_ :: ReactIcon
+foreign import _mdAddToPhotos :: ReactIcon
 
 mdAddToPhotos :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAddToPhotos = element (unsafeCoerce mdAddToPhotos_)
+mdAddToPhotos = element (unsafeCoerce _mdAddToPhotos)
 
-foreign import mdAddToQueue_ :: ReactIcon
+foreign import _mdAddToQueue :: ReactIcon
 
 mdAddToQueue :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAddToQueue = element (unsafeCoerce mdAddToQueue_)
+mdAddToQueue = element (unsafeCoerce _mdAddToQueue)
 
-foreign import mdAdjust_ :: ReactIcon
+foreign import _mdAdjust :: ReactIcon
 
 mdAdjust :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAdjust = element (unsafeCoerce mdAdjust_)
+mdAdjust = element (unsafeCoerce _mdAdjust)
 
-foreign import mdAdminPanelSettings_ :: ReactIcon
+foreign import _mdAdminPanelSettings :: ReactIcon
 
 mdAdminPanelSettings :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAdminPanelSettings = element (unsafeCoerce mdAdminPanelSettings_)
+mdAdminPanelSettings = element (unsafeCoerce _mdAdminPanelSettings)
 
-foreign import mdAdsClick_ :: ReactIcon
+foreign import _mdAdsClick :: ReactIcon
 
 mdAdsClick :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAdsClick = element (unsafeCoerce mdAdsClick_)
+mdAdsClick = element (unsafeCoerce _mdAdsClick)
 
-foreign import mdAdUnits_ :: ReactIcon
+foreign import _mdAdUnits :: ReactIcon
 
 mdAdUnits :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAdUnits = element (unsafeCoerce mdAdUnits_)
+mdAdUnits = element (unsafeCoerce _mdAdUnits)
 
-foreign import mdAgriculture_ :: ReactIcon
+foreign import _mdAgriculture :: ReactIcon
 
 mdAgriculture :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAgriculture = element (unsafeCoerce mdAgriculture_)
+mdAgriculture = element (unsafeCoerce _mdAgriculture)
 
-foreign import mdAir_ :: ReactIcon
+foreign import _mdAir :: ReactIcon
 
 mdAir :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAir = element (unsafeCoerce mdAir_)
+mdAir = element (unsafeCoerce _mdAir)
 
-foreign import mdAirlineSeatFlat_ :: ReactIcon
+foreign import _mdAirlineSeatFlat :: ReactIcon
 
 mdAirlineSeatFlat :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAirlineSeatFlat = element (unsafeCoerce mdAirlineSeatFlat_)
+mdAirlineSeatFlat = element (unsafeCoerce _mdAirlineSeatFlat)
 
-foreign import mdAirlineSeatFlatAngled_ :: ReactIcon
+foreign import _mdAirlineSeatFlatAngled :: ReactIcon
 
 mdAirlineSeatFlatAngled :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAirlineSeatFlatAngled = element (unsafeCoerce mdAirlineSeatFlatAngled_)
+mdAirlineSeatFlatAngled = element (unsafeCoerce _mdAirlineSeatFlatAngled)
 
-foreign import mdAirlineSeatIndividualSuite_ :: ReactIcon
+foreign import _mdAirlineSeatIndividualSuite :: ReactIcon
 
 mdAirlineSeatIndividualSuite :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAirlineSeatIndividualSuite = element (unsafeCoerce mdAirlineSeatIndividualSuite_)
+mdAirlineSeatIndividualSuite = element (unsafeCoerce _mdAirlineSeatIndividualSuite)
 
-foreign import mdAirlineSeatLegroomExtra_ :: ReactIcon
+foreign import _mdAirlineSeatLegroomExtra :: ReactIcon
 
 mdAirlineSeatLegroomExtra :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAirlineSeatLegroomExtra = element (unsafeCoerce mdAirlineSeatLegroomExtra_)
+mdAirlineSeatLegroomExtra = element (unsafeCoerce _mdAirlineSeatLegroomExtra)
 
-foreign import mdAirlineSeatLegroomNormal_ :: ReactIcon
+foreign import _mdAirlineSeatLegroomNormal :: ReactIcon
 
 mdAirlineSeatLegroomNormal :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAirlineSeatLegroomNormal = element (unsafeCoerce mdAirlineSeatLegroomNormal_)
+mdAirlineSeatLegroomNormal = element (unsafeCoerce _mdAirlineSeatLegroomNormal)
 
-foreign import mdAirlineSeatLegroomReduced_ :: ReactIcon
+foreign import _mdAirlineSeatLegroomReduced :: ReactIcon
 
 mdAirlineSeatLegroomReduced :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAirlineSeatLegroomReduced = element (unsafeCoerce mdAirlineSeatLegroomReduced_)
+mdAirlineSeatLegroomReduced = element (unsafeCoerce _mdAirlineSeatLegroomReduced)
 
-foreign import mdAirlineSeatReclineExtra_ :: ReactIcon
+foreign import _mdAirlineSeatReclineExtra :: ReactIcon
 
 mdAirlineSeatReclineExtra :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAirlineSeatReclineExtra = element (unsafeCoerce mdAirlineSeatReclineExtra_)
+mdAirlineSeatReclineExtra = element (unsafeCoerce _mdAirlineSeatReclineExtra)
 
-foreign import mdAirlineSeatReclineNormal_ :: ReactIcon
+foreign import _mdAirlineSeatReclineNormal :: ReactIcon
 
 mdAirlineSeatReclineNormal :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAirlineSeatReclineNormal = element (unsafeCoerce mdAirlineSeatReclineNormal_)
+mdAirlineSeatReclineNormal = element (unsafeCoerce _mdAirlineSeatReclineNormal)
 
-foreign import mdAirplanemodeActive_ :: ReactIcon
+foreign import _mdAirplanemodeActive :: ReactIcon
 
 mdAirplanemodeActive :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAirplanemodeActive = element (unsafeCoerce mdAirplanemodeActive_)
+mdAirplanemodeActive = element (unsafeCoerce _mdAirplanemodeActive)
 
-foreign import mdAirplanemodeInactive_ :: ReactIcon
+foreign import _mdAirplanemodeInactive :: ReactIcon
 
 mdAirplanemodeInactive :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAirplanemodeInactive = element (unsafeCoerce mdAirplanemodeInactive_)
+mdAirplanemodeInactive = element (unsafeCoerce _mdAirplanemodeInactive)
 
-foreign import mdAirplaneTicket_ :: ReactIcon
+foreign import _mdAirplaneTicket :: ReactIcon
 
 mdAirplaneTicket :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAirplaneTicket = element (unsafeCoerce mdAirplaneTicket_)
+mdAirplaneTicket = element (unsafeCoerce _mdAirplaneTicket)
 
-foreign import mdAirplay_ :: ReactIcon
+foreign import _mdAirplay :: ReactIcon
 
 mdAirplay :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAirplay = element (unsafeCoerce mdAirplay_)
+mdAirplay = element (unsafeCoerce _mdAirplay)
 
-foreign import mdAirportShuttle_ :: ReactIcon
+foreign import _mdAirportShuttle :: ReactIcon
 
 mdAirportShuttle :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAirportShuttle = element (unsafeCoerce mdAirportShuttle_)
+mdAirportShuttle = element (unsafeCoerce _mdAirportShuttle)
 
-foreign import mdAlarm_ :: ReactIcon
+foreign import _mdAlarm :: ReactIcon
 
 mdAlarm :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAlarm = element (unsafeCoerce mdAlarm_)
+mdAlarm = element (unsafeCoerce _mdAlarm)
 
-foreign import mdAlarmAdd_ :: ReactIcon
+foreign import _mdAlarmAdd :: ReactIcon
 
 mdAlarmAdd :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAlarmAdd = element (unsafeCoerce mdAlarmAdd_)
+mdAlarmAdd = element (unsafeCoerce _mdAlarmAdd)
 
-foreign import mdAlarmOff_ :: ReactIcon
+foreign import _mdAlarmOff :: ReactIcon
 
 mdAlarmOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAlarmOff = element (unsafeCoerce mdAlarmOff_)
+mdAlarmOff = element (unsafeCoerce _mdAlarmOff)
 
-foreign import mdAlarmOn_ :: ReactIcon
+foreign import _mdAlarmOn :: ReactIcon
 
 mdAlarmOn :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAlarmOn = element (unsafeCoerce mdAlarmOn_)
+mdAlarmOn = element (unsafeCoerce _mdAlarmOn)
 
-foreign import mdAlbum_ :: ReactIcon
+foreign import _mdAlbum :: ReactIcon
 
 mdAlbum :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAlbum = element (unsafeCoerce mdAlbum_)
+mdAlbum = element (unsafeCoerce _mdAlbum)
 
-foreign import mdAlignHorizontalCenter_ :: ReactIcon
+foreign import _mdAlignHorizontalCenter :: ReactIcon
 
 mdAlignHorizontalCenter :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAlignHorizontalCenter = element (unsafeCoerce mdAlignHorizontalCenter_)
+mdAlignHorizontalCenter = element (unsafeCoerce _mdAlignHorizontalCenter)
 
-foreign import mdAlignHorizontalLeft_ :: ReactIcon
+foreign import _mdAlignHorizontalLeft :: ReactIcon
 
 mdAlignHorizontalLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAlignHorizontalLeft = element (unsafeCoerce mdAlignHorizontalLeft_)
+mdAlignHorizontalLeft = element (unsafeCoerce _mdAlignHorizontalLeft)
 
-foreign import mdAlignHorizontalRight_ :: ReactIcon
+foreign import _mdAlignHorizontalRight :: ReactIcon
 
 mdAlignHorizontalRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAlignHorizontalRight = element (unsafeCoerce mdAlignHorizontalRight_)
+mdAlignHorizontalRight = element (unsafeCoerce _mdAlignHorizontalRight)
 
-foreign import mdAlignVerticalBottom_ :: ReactIcon
+foreign import _mdAlignVerticalBottom :: ReactIcon
 
 mdAlignVerticalBottom :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAlignVerticalBottom = element (unsafeCoerce mdAlignVerticalBottom_)
+mdAlignVerticalBottom = element (unsafeCoerce _mdAlignVerticalBottom)
 
-foreign import mdAlignVerticalCenter_ :: ReactIcon
+foreign import _mdAlignVerticalCenter :: ReactIcon
 
 mdAlignVerticalCenter :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAlignVerticalCenter = element (unsafeCoerce mdAlignVerticalCenter_)
+mdAlignVerticalCenter = element (unsafeCoerce _mdAlignVerticalCenter)
 
-foreign import mdAlignVerticalTop_ :: ReactIcon
+foreign import _mdAlignVerticalTop :: ReactIcon
 
 mdAlignVerticalTop :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAlignVerticalTop = element (unsafeCoerce mdAlignVerticalTop_)
+mdAlignVerticalTop = element (unsafeCoerce _mdAlignVerticalTop)
 
-foreign import mdAllInbox_ :: ReactIcon
+foreign import _mdAllInbox :: ReactIcon
 
 mdAllInbox :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAllInbox = element (unsafeCoerce mdAllInbox_)
+mdAllInbox = element (unsafeCoerce _mdAllInbox)
 
-foreign import mdAllInclusive_ :: ReactIcon
+foreign import _mdAllInclusive :: ReactIcon
 
 mdAllInclusive :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAllInclusive = element (unsafeCoerce mdAllInclusive_)
+mdAllInclusive = element (unsafeCoerce _mdAllInclusive)
 
-foreign import mdAllOut_ :: ReactIcon
+foreign import _mdAllOut :: ReactIcon
 
 mdAllOut :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAllOut = element (unsafeCoerce mdAllOut_)
+mdAllOut = element (unsafeCoerce _mdAllOut)
 
-foreign import mdAlternateEmail_ :: ReactIcon
+foreign import _mdAlternateEmail :: ReactIcon
 
 mdAlternateEmail :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAlternateEmail = element (unsafeCoerce mdAlternateEmail_)
+mdAlternateEmail = element (unsafeCoerce _mdAlternateEmail)
 
-foreign import mdAltRoute_ :: ReactIcon
+foreign import _mdAltRoute :: ReactIcon
 
 mdAltRoute :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAltRoute = element (unsafeCoerce mdAltRoute_)
+mdAltRoute = element (unsafeCoerce _mdAltRoute)
 
-foreign import mdAmpStories_ :: ReactIcon
+foreign import _mdAmpStories :: ReactIcon
 
 mdAmpStories :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAmpStories = element (unsafeCoerce mdAmpStories_)
+mdAmpStories = element (unsafeCoerce _mdAmpStories)
 
-foreign import mdAnalytics_ :: ReactIcon
+foreign import _mdAnalytics :: ReactIcon
 
 mdAnalytics :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAnalytics = element (unsafeCoerce mdAnalytics_)
+mdAnalytics = element (unsafeCoerce _mdAnalytics)
 
-foreign import mdAnchor_ :: ReactIcon
+foreign import _mdAnchor :: ReactIcon
 
 mdAnchor :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAnchor = element (unsafeCoerce mdAnchor_)
+mdAnchor = element (unsafeCoerce _mdAnchor)
 
-foreign import mdAndroid_ :: ReactIcon
+foreign import _mdAndroid :: ReactIcon
 
 mdAndroid :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAndroid = element (unsafeCoerce mdAndroid_)
+mdAndroid = element (unsafeCoerce _mdAndroid)
 
-foreign import mdAnimation_ :: ReactIcon
+foreign import _mdAnimation :: ReactIcon
 
 mdAnimation :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAnimation = element (unsafeCoerce mdAnimation_)
+mdAnimation = element (unsafeCoerce _mdAnimation)
 
-foreign import mdAnnouncement_ :: ReactIcon
+foreign import _mdAnnouncement :: ReactIcon
 
 mdAnnouncement :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAnnouncement = element (unsafeCoerce mdAnnouncement_)
+mdAnnouncement = element (unsafeCoerce _mdAnnouncement)
 
-foreign import mdAod_ :: ReactIcon
+foreign import _mdAod :: ReactIcon
 
 mdAod :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAod = element (unsafeCoerce mdAod_)
+mdAod = element (unsafeCoerce _mdAod)
 
-foreign import mdApartment_ :: ReactIcon
+foreign import _mdApartment :: ReactIcon
 
 mdApartment :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdApartment = element (unsafeCoerce mdApartment_)
+mdApartment = element (unsafeCoerce _mdApartment)
 
-foreign import mdApi_ :: ReactIcon
+foreign import _mdApi :: ReactIcon
 
 mdApi :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdApi = element (unsafeCoerce mdApi_)
+mdApi = element (unsafeCoerce _mdApi)
 
-foreign import mdAppBlocking_ :: ReactIcon
+foreign import _mdAppBlocking :: ReactIcon
 
 mdAppBlocking :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAppBlocking = element (unsafeCoerce mdAppBlocking_)
+mdAppBlocking = element (unsafeCoerce _mdAppBlocking)
 
-foreign import mdAppRegistration_ :: ReactIcon
+foreign import _mdAppRegistration :: ReactIcon
 
 mdAppRegistration :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAppRegistration = element (unsafeCoerce mdAppRegistration_)
+mdAppRegistration = element (unsafeCoerce _mdAppRegistration)
 
-foreign import mdApproval_ :: ReactIcon
+foreign import _mdApproval :: ReactIcon
 
 mdApproval :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdApproval = element (unsafeCoerce mdApproval_)
+mdApproval = element (unsafeCoerce _mdApproval)
 
-foreign import mdApps_ :: ReactIcon
+foreign import _mdApps :: ReactIcon
 
 mdApps :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdApps = element (unsafeCoerce mdApps_)
+mdApps = element (unsafeCoerce _mdApps)
 
-foreign import mdAppSettingsAlt_ :: ReactIcon
+foreign import _mdAppSettingsAlt :: ReactIcon
 
 mdAppSettingsAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAppSettingsAlt = element (unsafeCoerce mdAppSettingsAlt_)
+mdAppSettingsAlt = element (unsafeCoerce _mdAppSettingsAlt)
 
-foreign import mdArchitecture_ :: ReactIcon
+foreign import _mdArchitecture :: ReactIcon
 
 mdArchitecture :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdArchitecture = element (unsafeCoerce mdArchitecture_)
+mdArchitecture = element (unsafeCoerce _mdArchitecture)
 
-foreign import mdArchive_ :: ReactIcon
+foreign import _mdArchive :: ReactIcon
 
 mdArchive :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdArchive = element (unsafeCoerce mdArchive_)
+mdArchive = element (unsafeCoerce _mdArchive)
 
-foreign import mdAreaChart_ :: ReactIcon
+foreign import _mdAreaChart :: ReactIcon
 
 mdAreaChart :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAreaChart = element (unsafeCoerce mdAreaChart_)
+mdAreaChart = element (unsafeCoerce _mdAreaChart)
 
-foreign import mdArrowBack_ :: ReactIcon
+foreign import _mdArrowBack :: ReactIcon
 
 mdArrowBack :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdArrowBack = element (unsafeCoerce mdArrowBack_)
+mdArrowBack = element (unsafeCoerce _mdArrowBack)
 
-foreign import mdArrowBackIos_ :: ReactIcon
+foreign import _mdArrowBackIos :: ReactIcon
 
 mdArrowBackIos :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdArrowBackIos = element (unsafeCoerce mdArrowBackIos_)
+mdArrowBackIos = element (unsafeCoerce _mdArrowBackIos)
 
-foreign import mdArrowBackIosNew_ :: ReactIcon
+foreign import _mdArrowBackIosNew :: ReactIcon
 
 mdArrowBackIosNew :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdArrowBackIosNew = element (unsafeCoerce mdArrowBackIosNew_)
+mdArrowBackIosNew = element (unsafeCoerce _mdArrowBackIosNew)
 
-foreign import mdArrowCircleDown_ :: ReactIcon
+foreign import _mdArrowCircleDown :: ReactIcon
 
 mdArrowCircleDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdArrowCircleDown = element (unsafeCoerce mdArrowCircleDown_)
+mdArrowCircleDown = element (unsafeCoerce _mdArrowCircleDown)
 
-foreign import mdArrowCircleUp_ :: ReactIcon
+foreign import _mdArrowCircleUp :: ReactIcon
 
 mdArrowCircleUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdArrowCircleUp = element (unsafeCoerce mdArrowCircleUp_)
+mdArrowCircleUp = element (unsafeCoerce _mdArrowCircleUp)
 
-foreign import mdArrowDownward_ :: ReactIcon
+foreign import _mdArrowDownward :: ReactIcon
 
 mdArrowDownward :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdArrowDownward = element (unsafeCoerce mdArrowDownward_)
+mdArrowDownward = element (unsafeCoerce _mdArrowDownward)
 
-foreign import mdArrowDropDown_ :: ReactIcon
+foreign import _mdArrowDropDown :: ReactIcon
 
 mdArrowDropDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdArrowDropDown = element (unsafeCoerce mdArrowDropDown_)
+mdArrowDropDown = element (unsafeCoerce _mdArrowDropDown)
 
-foreign import mdArrowDropDownCircle_ :: ReactIcon
+foreign import _mdArrowDropDownCircle :: ReactIcon
 
 mdArrowDropDownCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdArrowDropDownCircle = element (unsafeCoerce mdArrowDropDownCircle_)
+mdArrowDropDownCircle = element (unsafeCoerce _mdArrowDropDownCircle)
 
-foreign import mdArrowDropUp_ :: ReactIcon
+foreign import _mdArrowDropUp :: ReactIcon
 
 mdArrowDropUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdArrowDropUp = element (unsafeCoerce mdArrowDropUp_)
+mdArrowDropUp = element (unsafeCoerce _mdArrowDropUp)
 
-foreign import mdArrowForward_ :: ReactIcon
+foreign import _mdArrowForward :: ReactIcon
 
 mdArrowForward :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdArrowForward = element (unsafeCoerce mdArrowForward_)
+mdArrowForward = element (unsafeCoerce _mdArrowForward)
 
-foreign import mdArrowForwardIos_ :: ReactIcon
+foreign import _mdArrowForwardIos :: ReactIcon
 
 mdArrowForwardIos :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdArrowForwardIos = element (unsafeCoerce mdArrowForwardIos_)
+mdArrowForwardIos = element (unsafeCoerce _mdArrowForwardIos)
 
-foreign import mdArrowLeft_ :: ReactIcon
+foreign import _mdArrowLeft :: ReactIcon
 
 mdArrowLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdArrowLeft = element (unsafeCoerce mdArrowLeft_)
+mdArrowLeft = element (unsafeCoerce _mdArrowLeft)
 
-foreign import mdArrowRight_ :: ReactIcon
+foreign import _mdArrowRight :: ReactIcon
 
 mdArrowRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdArrowRight = element (unsafeCoerce mdArrowRight_)
+mdArrowRight = element (unsafeCoerce _mdArrowRight)
 
-foreign import mdArrowRightAlt_ :: ReactIcon
+foreign import _mdArrowRightAlt :: ReactIcon
 
 mdArrowRightAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdArrowRightAlt = element (unsafeCoerce mdArrowRightAlt_)
+mdArrowRightAlt = element (unsafeCoerce _mdArrowRightAlt)
 
-foreign import mdArrowUpward_ :: ReactIcon
+foreign import _mdArrowUpward :: ReactIcon
 
 mdArrowUpward :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdArrowUpward = element (unsafeCoerce mdArrowUpward_)
+mdArrowUpward = element (unsafeCoerce _mdArrowUpward)
 
-foreign import mdArticle_ :: ReactIcon
+foreign import _mdArticle :: ReactIcon
 
 mdArticle :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdArticle = element (unsafeCoerce mdArticle_)
+mdArticle = element (unsafeCoerce _mdArticle)
 
-foreign import mdArtTrack_ :: ReactIcon
+foreign import _mdArtTrack :: ReactIcon
 
 mdArtTrack :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdArtTrack = element (unsafeCoerce mdArtTrack_)
+mdArtTrack = element (unsafeCoerce _mdArtTrack)
 
-foreign import mdAspectRatio_ :: ReactIcon
+foreign import _mdAspectRatio :: ReactIcon
 
 mdAspectRatio :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAspectRatio = element (unsafeCoerce mdAspectRatio_)
+mdAspectRatio = element (unsafeCoerce _mdAspectRatio)
 
-foreign import mdAssessment_ :: ReactIcon
+foreign import _mdAssessment :: ReactIcon
 
 mdAssessment :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAssessment = element (unsafeCoerce mdAssessment_)
+mdAssessment = element (unsafeCoerce _mdAssessment)
 
-foreign import mdAssignment_ :: ReactIcon
+foreign import _mdAssignment :: ReactIcon
 
 mdAssignment :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAssignment = element (unsafeCoerce mdAssignment_)
+mdAssignment = element (unsafeCoerce _mdAssignment)
 
-foreign import mdAssignmentInd_ :: ReactIcon
+foreign import _mdAssignmentInd :: ReactIcon
 
 mdAssignmentInd :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAssignmentInd = element (unsafeCoerce mdAssignmentInd_)
+mdAssignmentInd = element (unsafeCoerce _mdAssignmentInd)
 
-foreign import mdAssignmentLate_ :: ReactIcon
+foreign import _mdAssignmentLate :: ReactIcon
 
 mdAssignmentLate :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAssignmentLate = element (unsafeCoerce mdAssignmentLate_)
+mdAssignmentLate = element (unsafeCoerce _mdAssignmentLate)
 
-foreign import mdAssignmentReturn_ :: ReactIcon
+foreign import _mdAssignmentReturn :: ReactIcon
 
 mdAssignmentReturn :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAssignmentReturn = element (unsafeCoerce mdAssignmentReturn_)
+mdAssignmentReturn = element (unsafeCoerce _mdAssignmentReturn)
 
-foreign import mdAssignmentReturned_ :: ReactIcon
+foreign import _mdAssignmentReturned :: ReactIcon
 
 mdAssignmentReturned :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAssignmentReturned = element (unsafeCoerce mdAssignmentReturned_)
+mdAssignmentReturned = element (unsafeCoerce _mdAssignmentReturned)
 
-foreign import mdAssignmentTurnedIn_ :: ReactIcon
+foreign import _mdAssignmentTurnedIn :: ReactIcon
 
 mdAssignmentTurnedIn :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAssignmentTurnedIn = element (unsafeCoerce mdAssignmentTurnedIn_)
+mdAssignmentTurnedIn = element (unsafeCoerce _mdAssignmentTurnedIn)
 
-foreign import mdAssistant_ :: ReactIcon
+foreign import _mdAssistant :: ReactIcon
 
 mdAssistant :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAssistant = element (unsafeCoerce mdAssistant_)
+mdAssistant = element (unsafeCoerce _mdAssistant)
 
-foreign import mdAssistantDirection_ :: ReactIcon
+foreign import _mdAssistantDirection :: ReactIcon
 
 mdAssistantDirection :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAssistantDirection = element (unsafeCoerce mdAssistantDirection_)
+mdAssistantDirection = element (unsafeCoerce _mdAssistantDirection)
 
-foreign import mdAssistantNavigation_ :: ReactIcon
+foreign import _mdAssistantNavigation :: ReactIcon
 
 mdAssistantNavigation :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAssistantNavigation = element (unsafeCoerce mdAssistantNavigation_)
+mdAssistantNavigation = element (unsafeCoerce _mdAssistantNavigation)
 
-foreign import mdAssistantPhoto_ :: ReactIcon
+foreign import _mdAssistantPhoto :: ReactIcon
 
 mdAssistantPhoto :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAssistantPhoto = element (unsafeCoerce mdAssistantPhoto_)
+mdAssistantPhoto = element (unsafeCoerce _mdAssistantPhoto)
 
-foreign import mdAtm_ :: ReactIcon
+foreign import _mdAtm :: ReactIcon
 
 mdAtm :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAtm = element (unsafeCoerce mdAtm_)
+mdAtm = element (unsafeCoerce _mdAtm)
 
-foreign import mdAttachEmail_ :: ReactIcon
+foreign import _mdAttachEmail :: ReactIcon
 
 mdAttachEmail :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAttachEmail = element (unsafeCoerce mdAttachEmail_)
+mdAttachEmail = element (unsafeCoerce _mdAttachEmail)
 
-foreign import mdAttachFile_ :: ReactIcon
+foreign import _mdAttachFile :: ReactIcon
 
 mdAttachFile :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAttachFile = element (unsafeCoerce mdAttachFile_)
+mdAttachFile = element (unsafeCoerce _mdAttachFile)
 
-foreign import mdAttachment_ :: ReactIcon
+foreign import _mdAttachment :: ReactIcon
 
 mdAttachment :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAttachment = element (unsafeCoerce mdAttachment_)
+mdAttachment = element (unsafeCoerce _mdAttachment)
 
-foreign import mdAttachMoney_ :: ReactIcon
+foreign import _mdAttachMoney :: ReactIcon
 
 mdAttachMoney :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAttachMoney = element (unsafeCoerce mdAttachMoney_)
+mdAttachMoney = element (unsafeCoerce _mdAttachMoney)
 
-foreign import mdAttractions_ :: ReactIcon
+foreign import _mdAttractions :: ReactIcon
 
 mdAttractions :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAttractions = element (unsafeCoerce mdAttractions_)
+mdAttractions = element (unsafeCoerce _mdAttractions)
 
-foreign import mdAttribution_ :: ReactIcon
+foreign import _mdAttribution :: ReactIcon
 
 mdAttribution :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAttribution = element (unsafeCoerce mdAttribution_)
+mdAttribution = element (unsafeCoerce _mdAttribution)
 
-foreign import mdAudiotrack_ :: ReactIcon
+foreign import _mdAudiotrack :: ReactIcon
 
 mdAudiotrack :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAudiotrack = element (unsafeCoerce mdAudiotrack_)
+mdAudiotrack = element (unsafeCoerce _mdAudiotrack)
 
-foreign import mdAutoAwesome_ :: ReactIcon
+foreign import _mdAutoAwesome :: ReactIcon
 
 mdAutoAwesome :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAutoAwesome = element (unsafeCoerce mdAutoAwesome_)
+mdAutoAwesome = element (unsafeCoerce _mdAutoAwesome)
 
-foreign import mdAutoAwesomeMosaic_ :: ReactIcon
+foreign import _mdAutoAwesomeMosaic :: ReactIcon
 
 mdAutoAwesomeMosaic :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAutoAwesomeMosaic = element (unsafeCoerce mdAutoAwesomeMosaic_)
+mdAutoAwesomeMosaic = element (unsafeCoerce _mdAutoAwesomeMosaic)
 
-foreign import mdAutoAwesomeMotion_ :: ReactIcon
+foreign import _mdAutoAwesomeMotion :: ReactIcon
 
 mdAutoAwesomeMotion :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAutoAwesomeMotion = element (unsafeCoerce mdAutoAwesomeMotion_)
+mdAutoAwesomeMotion = element (unsafeCoerce _mdAutoAwesomeMotion)
 
-foreign import mdAutoDelete_ :: ReactIcon
+foreign import _mdAutoDelete :: ReactIcon
 
 mdAutoDelete :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAutoDelete = element (unsafeCoerce mdAutoDelete_)
+mdAutoDelete = element (unsafeCoerce _mdAutoDelete)
 
-foreign import mdAutoFixHigh_ :: ReactIcon
+foreign import _mdAutoFixHigh :: ReactIcon
 
 mdAutoFixHigh :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAutoFixHigh = element (unsafeCoerce mdAutoFixHigh_)
+mdAutoFixHigh = element (unsafeCoerce _mdAutoFixHigh)
 
-foreign import mdAutoFixNormal_ :: ReactIcon
+foreign import _mdAutoFixNormal :: ReactIcon
 
 mdAutoFixNormal :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAutoFixNormal = element (unsafeCoerce mdAutoFixNormal_)
+mdAutoFixNormal = element (unsafeCoerce _mdAutoFixNormal)
 
-foreign import mdAutoFixOff_ :: ReactIcon
+foreign import _mdAutoFixOff :: ReactIcon
 
 mdAutoFixOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAutoFixOff = element (unsafeCoerce mdAutoFixOff_)
+mdAutoFixOff = element (unsafeCoerce _mdAutoFixOff)
 
-foreign import mdAutofpsSelect_ :: ReactIcon
+foreign import _mdAutofpsSelect :: ReactIcon
 
 mdAutofpsSelect :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAutofpsSelect = element (unsafeCoerce mdAutofpsSelect_)
+mdAutofpsSelect = element (unsafeCoerce _mdAutofpsSelect)
 
-foreign import mdAutoGraph_ :: ReactIcon
+foreign import _mdAutoGraph :: ReactIcon
 
 mdAutoGraph :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAutoGraph = element (unsafeCoerce mdAutoGraph_)
+mdAutoGraph = element (unsafeCoerce _mdAutoGraph)
 
-foreign import mdAutorenew_ :: ReactIcon
+foreign import _mdAutorenew :: ReactIcon
 
 mdAutorenew :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAutorenew = element (unsafeCoerce mdAutorenew_)
+mdAutorenew = element (unsafeCoerce _mdAutorenew)
 
-foreign import mdAutoStories_ :: ReactIcon
+foreign import _mdAutoStories :: ReactIcon
 
 mdAutoStories :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAutoStories = element (unsafeCoerce mdAutoStories_)
+mdAutoStories = element (unsafeCoerce _mdAutoStories)
 
-foreign import mdAvTimer_ :: ReactIcon
+foreign import _mdAvTimer :: ReactIcon
 
 mdAvTimer :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdAvTimer = element (unsafeCoerce mdAvTimer_)
+mdAvTimer = element (unsafeCoerce _mdAvTimer)
 
-foreign import mdBabyChangingStation_ :: ReactIcon
+foreign import _mdBabyChangingStation :: ReactIcon
 
 mdBabyChangingStation :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdBabyChangingStation = element (unsafeCoerce mdBabyChangingStation_)
+mdBabyChangingStation = element (unsafeCoerce _mdBabyChangingStation)
 
-foreign import mdBackHand_ :: ReactIcon
+foreign import _mdBackHand :: ReactIcon
 
 mdBackHand :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdBackHand = element (unsafeCoerce mdBackHand_)
+mdBackHand = element (unsafeCoerce _mdBackHand)
 
-foreign import mdBackpack_ :: ReactIcon
+foreign import _mdBackpack :: ReactIcon
 
 mdBackpack :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdBackpack = element (unsafeCoerce mdBackpack_)
+mdBackpack = element (unsafeCoerce _mdBackpack)
 
-foreign import mdBackspace_ :: ReactIcon
+foreign import _mdBackspace :: ReactIcon
 
 mdBackspace :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdBackspace = element (unsafeCoerce mdBackspace_)
+mdBackspace = element (unsafeCoerce _mdBackspace)
 
-foreign import mdBackup_ :: ReactIcon
+foreign import _mdBackup :: ReactIcon
 
 mdBackup :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdBackup = element (unsafeCoerce mdBackup_)
+mdBackup = element (unsafeCoerce _mdBackup)
 
-foreign import mdBackupTable_ :: ReactIcon
+foreign import _mdBackupTable :: ReactIcon
 
 mdBackupTable :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdBackupTable = element (unsafeCoerce mdBackupTable_)
+mdBackupTable = element (unsafeCoerce _mdBackupTable)
 
-foreign import mdBadge_ :: ReactIcon
+foreign import _mdBadge :: ReactIcon
 
 mdBadge :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdBadge = element (unsafeCoerce mdBadge_)
+mdBadge = element (unsafeCoerce _mdBadge)
 
-foreign import mdBakeryDining_ :: ReactIcon
+foreign import _mdBakeryDining :: ReactIcon
 
 mdBakeryDining :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdBakeryDining = element (unsafeCoerce mdBakeryDining_)
+mdBakeryDining = element (unsafeCoerce _mdBakeryDining)
 
-foreign import mdBalcony_ :: ReactIcon
+foreign import _mdBalcony :: ReactIcon
 
 mdBalcony :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdBalcony = element (unsafeCoerce mdBalcony_)
+mdBalcony = element (unsafeCoerce _mdBalcony)
 
-foreign import mdBallot_ :: ReactIcon
+foreign import _mdBallot :: ReactIcon
 
 mdBallot :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdBallot = element (unsafeCoerce mdBallot_)
+mdBallot = element (unsafeCoerce _mdBallot)
 
-foreign import mdBarChart_ :: ReactIcon
+foreign import _mdBarChart :: ReactIcon
 
 mdBarChart :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdBarChart = element (unsafeCoerce mdBarChart_)
+mdBarChart = element (unsafeCoerce _mdBarChart)
 
-foreign import mdBatchPrediction_ :: ReactIcon
+foreign import _mdBatchPrediction :: ReactIcon
 
 mdBatchPrediction :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdBatchPrediction = element (unsafeCoerce mdBatchPrediction_)
+mdBatchPrediction = element (unsafeCoerce _mdBatchPrediction)
 
-foreign import mdBathroom_ :: ReactIcon
+foreign import _mdBathroom :: ReactIcon
 
 mdBathroom :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdBathroom = element (unsafeCoerce mdBathroom_)
+mdBathroom = element (unsafeCoerce _mdBathroom)
 
-foreign import mdBathtub_ :: ReactIcon
+foreign import _mdBathtub :: ReactIcon
 
 mdBathtub :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdBathtub = element (unsafeCoerce mdBathtub_)
+mdBathtub = element (unsafeCoerce _mdBathtub)
 
-foreign import mdBatteryAlert_ :: ReactIcon
+foreign import _mdBatteryAlert :: ReactIcon
 
 mdBatteryAlert :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdBatteryAlert = element (unsafeCoerce mdBatteryAlert_)
+mdBatteryAlert = element (unsafeCoerce _mdBatteryAlert)
 
-foreign import mdBatteryChargingFull_ :: ReactIcon
+foreign import _mdBatteryChargingFull :: ReactIcon
 
 mdBatteryChargingFull :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdBatteryChargingFull = element (unsafeCoerce mdBatteryChargingFull_)
+mdBatteryChargingFull = element (unsafeCoerce _mdBatteryChargingFull)
 
-foreign import mdBatteryFull_ :: ReactIcon
+foreign import _mdBatteryFull :: ReactIcon
 
 mdBatteryFull :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdBatteryFull = element (unsafeCoerce mdBatteryFull_)
+mdBatteryFull = element (unsafeCoerce _mdBatteryFull)
 
-foreign import mdBatterySaver_ :: ReactIcon
+foreign import _mdBatterySaver :: ReactIcon
 
 mdBatterySaver :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdBatterySaver = element (unsafeCoerce mdBatterySaver_)
+mdBatterySaver = element (unsafeCoerce _mdBatterySaver)
 
-foreign import mdBatteryStd_ :: ReactIcon
+foreign import _mdBatteryStd :: ReactIcon
 
 mdBatteryStd :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdBatteryStd = element (unsafeCoerce mdBatteryStd_)
+mdBatteryStd = element (unsafeCoerce _mdBatteryStd)
 
-foreign import mdBatteryUnknown_ :: ReactIcon
+foreign import _mdBatteryUnknown :: ReactIcon
 
 mdBatteryUnknown :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdBatteryUnknown = element (unsafeCoerce mdBatteryUnknown_)
+mdBatteryUnknown = element (unsafeCoerce _mdBatteryUnknown)
 
-foreign import mdBeachAccess_ :: ReactIcon
+foreign import _mdBeachAccess :: ReactIcon
 
 mdBeachAccess :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdBeachAccess = element (unsafeCoerce mdBeachAccess_)
+mdBeachAccess = element (unsafeCoerce _mdBeachAccess)
 
-foreign import mdBed_ :: ReactIcon
+foreign import _mdBed :: ReactIcon
 
 mdBed :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdBed = element (unsafeCoerce mdBed_)
+mdBed = element (unsafeCoerce _mdBed)
 
-foreign import mdBedroomBaby_ :: ReactIcon
+foreign import _mdBedroomBaby :: ReactIcon
 
 mdBedroomBaby :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdBedroomBaby = element (unsafeCoerce mdBedroomBaby_)
+mdBedroomBaby = element (unsafeCoerce _mdBedroomBaby)
 
-foreign import mdBedroomChild_ :: ReactIcon
+foreign import _mdBedroomChild :: ReactIcon
 
 mdBedroomChild :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdBedroomChild = element (unsafeCoerce mdBedroomChild_)
+mdBedroomChild = element (unsafeCoerce _mdBedroomChild)
 
-foreign import mdBedroomParent_ :: ReactIcon
+foreign import _mdBedroomParent :: ReactIcon
 
 mdBedroomParent :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdBedroomParent = element (unsafeCoerce mdBedroomParent_)
+mdBedroomParent = element (unsafeCoerce _mdBedroomParent)
 
-foreign import mdBedtime_ :: ReactIcon
+foreign import _mdBedtime :: ReactIcon
 
 mdBedtime :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdBedtime = element (unsafeCoerce mdBedtime_)
+mdBedtime = element (unsafeCoerce _mdBedtime)
 
-foreign import mdBeenhere_ :: ReactIcon
+foreign import _mdBeenhere :: ReactIcon
 
 mdBeenhere :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdBeenhere = element (unsafeCoerce mdBeenhere_)
+mdBeenhere = element (unsafeCoerce _mdBeenhere)
 
-foreign import mdBento_ :: ReactIcon
+foreign import _mdBento :: ReactIcon
 
 mdBento :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdBento = element (unsafeCoerce mdBento_)
+mdBento = element (unsafeCoerce _mdBento)
 
-foreign import mdBikeScooter_ :: ReactIcon
+foreign import _mdBikeScooter :: ReactIcon
 
 mdBikeScooter :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdBikeScooter = element (unsafeCoerce mdBikeScooter_)
+mdBikeScooter = element (unsafeCoerce _mdBikeScooter)
 
-foreign import mdBiotech_ :: ReactIcon
+foreign import _mdBiotech :: ReactIcon
 
 mdBiotech :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdBiotech = element (unsafeCoerce mdBiotech_)
+mdBiotech = element (unsafeCoerce _mdBiotech)
 
-foreign import mdBlender_ :: ReactIcon
+foreign import _mdBlender :: ReactIcon
 
 mdBlender :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdBlender = element (unsafeCoerce mdBlender_)
+mdBlender = element (unsafeCoerce _mdBlender)
 
-foreign import mdBlock_ :: ReactIcon
+foreign import _mdBlock :: ReactIcon
 
 mdBlock :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdBlock = element (unsafeCoerce mdBlock_)
+mdBlock = element (unsafeCoerce _mdBlock)
 
-foreign import mdBlockFlipped_ :: ReactIcon
+foreign import _mdBlockFlipped :: ReactIcon
 
 mdBlockFlipped :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdBlockFlipped = element (unsafeCoerce mdBlockFlipped_)
+mdBlockFlipped = element (unsafeCoerce _mdBlockFlipped)
 
-foreign import mdBloodtype_ :: ReactIcon
+foreign import _mdBloodtype :: ReactIcon
 
 mdBloodtype :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdBloodtype = element (unsafeCoerce mdBloodtype_)
+mdBloodtype = element (unsafeCoerce _mdBloodtype)
 
-foreign import mdBluetooth_ :: ReactIcon
+foreign import _mdBluetooth :: ReactIcon
 
 mdBluetooth :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdBluetooth = element (unsafeCoerce mdBluetooth_)
+mdBluetooth = element (unsafeCoerce _mdBluetooth)
 
-foreign import mdBluetoothAudio_ :: ReactIcon
+foreign import _mdBluetoothAudio :: ReactIcon
 
 mdBluetoothAudio :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdBluetoothAudio = element (unsafeCoerce mdBluetoothAudio_)
+mdBluetoothAudio = element (unsafeCoerce _mdBluetoothAudio)
 
-foreign import mdBluetoothConnected_ :: ReactIcon
+foreign import _mdBluetoothConnected :: ReactIcon
 
 mdBluetoothConnected :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdBluetoothConnected = element (unsafeCoerce mdBluetoothConnected_)
+mdBluetoothConnected = element (unsafeCoerce _mdBluetoothConnected)
 
-foreign import mdBluetoothDisabled_ :: ReactIcon
+foreign import _mdBluetoothDisabled :: ReactIcon
 
 mdBluetoothDisabled :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdBluetoothDisabled = element (unsafeCoerce mdBluetoothDisabled_)
+mdBluetoothDisabled = element (unsafeCoerce _mdBluetoothDisabled)
 
-foreign import mdBluetoothDrive_ :: ReactIcon
+foreign import _mdBluetoothDrive :: ReactIcon
 
 mdBluetoothDrive :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdBluetoothDrive = element (unsafeCoerce mdBluetoothDrive_)
+mdBluetoothDrive = element (unsafeCoerce _mdBluetoothDrive)
 
-foreign import mdBluetoothSearching_ :: ReactIcon
+foreign import _mdBluetoothSearching :: ReactIcon
 
 mdBluetoothSearching :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdBluetoothSearching = element (unsafeCoerce mdBluetoothSearching_)
+mdBluetoothSearching = element (unsafeCoerce _mdBluetoothSearching)
 
-foreign import mdBlurCircular_ :: ReactIcon
+foreign import _mdBlurCircular :: ReactIcon
 
 mdBlurCircular :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdBlurCircular = element (unsafeCoerce mdBlurCircular_)
+mdBlurCircular = element (unsafeCoerce _mdBlurCircular)
 
-foreign import mdBlurLinear_ :: ReactIcon
+foreign import _mdBlurLinear :: ReactIcon
 
 mdBlurLinear :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdBlurLinear = element (unsafeCoerce mdBlurLinear_)
+mdBlurLinear = element (unsafeCoerce _mdBlurLinear)
 
-foreign import mdBlurOff_ :: ReactIcon
+foreign import _mdBlurOff :: ReactIcon
 
 mdBlurOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdBlurOff = element (unsafeCoerce mdBlurOff_)
+mdBlurOff = element (unsafeCoerce _mdBlurOff)
 
-foreign import mdBlurOn_ :: ReactIcon
+foreign import _mdBlurOn :: ReactIcon
 
 mdBlurOn :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdBlurOn = element (unsafeCoerce mdBlurOn_)
+mdBlurOn = element (unsafeCoerce _mdBlurOn)
 
-foreign import mdBolt_ :: ReactIcon
+foreign import _mdBolt :: ReactIcon
 
 mdBolt :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdBolt = element (unsafeCoerce mdBolt_)
+mdBolt = element (unsafeCoerce _mdBolt)
 
-foreign import mdBook_ :: ReactIcon
+foreign import _mdBook :: ReactIcon
 
 mdBook :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdBook = element (unsafeCoerce mdBook_)
+mdBook = element (unsafeCoerce _mdBook)
 
-foreign import mdBookmark_ :: ReactIcon
+foreign import _mdBookmark :: ReactIcon
 
 mdBookmark :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdBookmark = element (unsafeCoerce mdBookmark_)
+mdBookmark = element (unsafeCoerce _mdBookmark)
 
-foreign import mdBookmarkAdd_ :: ReactIcon
+foreign import _mdBookmarkAdd :: ReactIcon
 
 mdBookmarkAdd :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdBookmarkAdd = element (unsafeCoerce mdBookmarkAdd_)
+mdBookmarkAdd = element (unsafeCoerce _mdBookmarkAdd)
 
-foreign import mdBookmarkAdded_ :: ReactIcon
+foreign import _mdBookmarkAdded :: ReactIcon
 
 mdBookmarkAdded :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdBookmarkAdded = element (unsafeCoerce mdBookmarkAdded_)
+mdBookmarkAdded = element (unsafeCoerce _mdBookmarkAdded)
 
-foreign import mdBookmarkBorder_ :: ReactIcon
+foreign import _mdBookmarkBorder :: ReactIcon
 
 mdBookmarkBorder :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdBookmarkBorder = element (unsafeCoerce mdBookmarkBorder_)
+mdBookmarkBorder = element (unsafeCoerce _mdBookmarkBorder)
 
-foreign import mdBookmarkRemove_ :: ReactIcon
+foreign import _mdBookmarkRemove :: ReactIcon
 
 mdBookmarkRemove :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdBookmarkRemove = element (unsafeCoerce mdBookmarkRemove_)
+mdBookmarkRemove = element (unsafeCoerce _mdBookmarkRemove)
 
-foreign import mdBookmarks_ :: ReactIcon
+foreign import _mdBookmarks :: ReactIcon
 
 mdBookmarks :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdBookmarks = element (unsafeCoerce mdBookmarks_)
+mdBookmarks = element (unsafeCoerce _mdBookmarks)
 
-foreign import mdBookOnline_ :: ReactIcon
+foreign import _mdBookOnline :: ReactIcon
 
 mdBookOnline :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdBookOnline = element (unsafeCoerce mdBookOnline_)
+mdBookOnline = element (unsafeCoerce _mdBookOnline)
 
-foreign import mdBorderAll_ :: ReactIcon
+foreign import _mdBorderAll :: ReactIcon
 
 mdBorderAll :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdBorderAll = element (unsafeCoerce mdBorderAll_)
+mdBorderAll = element (unsafeCoerce _mdBorderAll)
 
-foreign import mdBorderBottom_ :: ReactIcon
+foreign import _mdBorderBottom :: ReactIcon
 
 mdBorderBottom :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdBorderBottom = element (unsafeCoerce mdBorderBottom_)
+mdBorderBottom = element (unsafeCoerce _mdBorderBottom)
 
-foreign import mdBorderClear_ :: ReactIcon
+foreign import _mdBorderClear :: ReactIcon
 
 mdBorderClear :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdBorderClear = element (unsafeCoerce mdBorderClear_)
+mdBorderClear = element (unsafeCoerce _mdBorderClear)
 
-foreign import mdBorderColor_ :: ReactIcon
+foreign import _mdBorderColor :: ReactIcon
 
 mdBorderColor :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdBorderColor = element (unsafeCoerce mdBorderColor_)
+mdBorderColor = element (unsafeCoerce _mdBorderColor)
 
-foreign import mdBorderHorizontal_ :: ReactIcon
+foreign import _mdBorderHorizontal :: ReactIcon
 
 mdBorderHorizontal :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdBorderHorizontal = element (unsafeCoerce mdBorderHorizontal_)
+mdBorderHorizontal = element (unsafeCoerce _mdBorderHorizontal)
 
-foreign import mdBorderInner_ :: ReactIcon
+foreign import _mdBorderInner :: ReactIcon
 
 mdBorderInner :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdBorderInner = element (unsafeCoerce mdBorderInner_)
+mdBorderInner = element (unsafeCoerce _mdBorderInner)
 
-foreign import mdBorderLeft_ :: ReactIcon
+foreign import _mdBorderLeft :: ReactIcon
 
 mdBorderLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdBorderLeft = element (unsafeCoerce mdBorderLeft_)
+mdBorderLeft = element (unsafeCoerce _mdBorderLeft)
 
-foreign import mdBorderOuter_ :: ReactIcon
+foreign import _mdBorderOuter :: ReactIcon
 
 mdBorderOuter :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdBorderOuter = element (unsafeCoerce mdBorderOuter_)
+mdBorderOuter = element (unsafeCoerce _mdBorderOuter)
 
-foreign import mdBorderRight_ :: ReactIcon
+foreign import _mdBorderRight :: ReactIcon
 
 mdBorderRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdBorderRight = element (unsafeCoerce mdBorderRight_)
+mdBorderRight = element (unsafeCoerce _mdBorderRight)
 
-foreign import mdBorderStyle_ :: ReactIcon
+foreign import _mdBorderStyle :: ReactIcon
 
 mdBorderStyle :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdBorderStyle = element (unsafeCoerce mdBorderStyle_)
+mdBorderStyle = element (unsafeCoerce _mdBorderStyle)
 
-foreign import mdBorderTop_ :: ReactIcon
+foreign import _mdBorderTop :: ReactIcon
 
 mdBorderTop :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdBorderTop = element (unsafeCoerce mdBorderTop_)
+mdBorderTop = element (unsafeCoerce _mdBorderTop)
 
-foreign import mdBorderVertical_ :: ReactIcon
+foreign import _mdBorderVertical :: ReactIcon
 
 mdBorderVertical :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdBorderVertical = element (unsafeCoerce mdBorderVertical_)
+mdBorderVertical = element (unsafeCoerce _mdBorderVertical)
 
-foreign import mdBrandingWatermark_ :: ReactIcon
+foreign import _mdBrandingWatermark :: ReactIcon
 
 mdBrandingWatermark :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdBrandingWatermark = element (unsafeCoerce mdBrandingWatermark_)
+mdBrandingWatermark = element (unsafeCoerce _mdBrandingWatermark)
 
-foreign import mdBreakfastDining_ :: ReactIcon
+foreign import _mdBreakfastDining :: ReactIcon
 
 mdBreakfastDining :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdBreakfastDining = element (unsafeCoerce mdBreakfastDining_)
+mdBreakfastDining = element (unsafeCoerce _mdBreakfastDining)
 
-foreign import mdBrightnessAuto_ :: ReactIcon
+foreign import _mdBrightnessAuto :: ReactIcon
 
 mdBrightnessAuto :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdBrightnessAuto = element (unsafeCoerce mdBrightnessAuto_)
+mdBrightnessAuto = element (unsafeCoerce _mdBrightnessAuto)
 
-foreign import mdBrightnessHigh_ :: ReactIcon
+foreign import _mdBrightnessHigh :: ReactIcon
 
 mdBrightnessHigh :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdBrightnessHigh = element (unsafeCoerce mdBrightnessHigh_)
+mdBrightnessHigh = element (unsafeCoerce _mdBrightnessHigh)
 
-foreign import mdBrightnessLow_ :: ReactIcon
+foreign import _mdBrightnessLow :: ReactIcon
 
 mdBrightnessLow :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdBrightnessLow = element (unsafeCoerce mdBrightnessLow_)
+mdBrightnessLow = element (unsafeCoerce _mdBrightnessLow)
 
-foreign import mdBrightnessMedium_ :: ReactIcon
+foreign import _mdBrightnessMedium :: ReactIcon
 
 mdBrightnessMedium :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdBrightnessMedium = element (unsafeCoerce mdBrightnessMedium_)
+mdBrightnessMedium = element (unsafeCoerce _mdBrightnessMedium)
 
-foreign import mdBrokenImage_ :: ReactIcon
+foreign import _mdBrokenImage :: ReactIcon
 
 mdBrokenImage :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdBrokenImage = element (unsafeCoerce mdBrokenImage_)
+mdBrokenImage = element (unsafeCoerce _mdBrokenImage)
 
-foreign import mdBrowserNotSupported_ :: ReactIcon
+foreign import _mdBrowserNotSupported :: ReactIcon
 
 mdBrowserNotSupported :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdBrowserNotSupported = element (unsafeCoerce mdBrowserNotSupported_)
+mdBrowserNotSupported = element (unsafeCoerce _mdBrowserNotSupported)
 
-foreign import mdBrunchDining_ :: ReactIcon
+foreign import _mdBrunchDining :: ReactIcon
 
 mdBrunchDining :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdBrunchDining = element (unsafeCoerce mdBrunchDining_)
+mdBrunchDining = element (unsafeCoerce _mdBrunchDining)
 
-foreign import mdBrush_ :: ReactIcon
+foreign import _mdBrush :: ReactIcon
 
 mdBrush :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdBrush = element (unsafeCoerce mdBrush_)
+mdBrush = element (unsafeCoerce _mdBrush)
 
-foreign import mdBubbleChart_ :: ReactIcon
+foreign import _mdBubbleChart :: ReactIcon
 
 mdBubbleChart :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdBubbleChart = element (unsafeCoerce mdBubbleChart_)
+mdBubbleChart = element (unsafeCoerce _mdBubbleChart)
 
-foreign import mdBugReport_ :: ReactIcon
+foreign import _mdBugReport :: ReactIcon
 
 mdBugReport :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdBugReport = element (unsafeCoerce mdBugReport_)
+mdBugReport = element (unsafeCoerce _mdBugReport)
 
-foreign import mdBuild_ :: ReactIcon
+foreign import _mdBuild :: ReactIcon
 
 mdBuild :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdBuild = element (unsafeCoerce mdBuild_)
+mdBuild = element (unsafeCoerce _mdBuild)
 
-foreign import mdBuildCircle_ :: ReactIcon
+foreign import _mdBuildCircle :: ReactIcon
 
 mdBuildCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdBuildCircle = element (unsafeCoerce mdBuildCircle_)
+mdBuildCircle = element (unsafeCoerce _mdBuildCircle)
 
-foreign import mdBungalow_ :: ReactIcon
+foreign import _mdBungalow :: ReactIcon
 
 mdBungalow :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdBungalow = element (unsafeCoerce mdBungalow_)
+mdBungalow = element (unsafeCoerce _mdBungalow)
 
-foreign import mdBurstMode_ :: ReactIcon
+foreign import _mdBurstMode :: ReactIcon
 
 mdBurstMode :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdBurstMode = element (unsafeCoerce mdBurstMode_)
+mdBurstMode = element (unsafeCoerce _mdBurstMode)
 
-foreign import mdBusAlert_ :: ReactIcon
+foreign import _mdBusAlert :: ReactIcon
 
 mdBusAlert :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdBusAlert = element (unsafeCoerce mdBusAlert_)
+mdBusAlert = element (unsafeCoerce _mdBusAlert)
 
-foreign import mdBusiness_ :: ReactIcon
+foreign import _mdBusiness :: ReactIcon
 
 mdBusiness :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdBusiness = element (unsafeCoerce mdBusiness_)
+mdBusiness = element (unsafeCoerce _mdBusiness)
 
-foreign import mdBusinessCenter_ :: ReactIcon
+foreign import _mdBusinessCenter :: ReactIcon
 
 mdBusinessCenter :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdBusinessCenter = element (unsafeCoerce mdBusinessCenter_)
+mdBusinessCenter = element (unsafeCoerce _mdBusinessCenter)
 
-foreign import mdCabin_ :: ReactIcon
+foreign import _mdCabin :: ReactIcon
 
 mdCabin :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdCabin = element (unsafeCoerce mdCabin_)
+mdCabin = element (unsafeCoerce _mdCabin)
 
-foreign import mdCable_ :: ReactIcon
+foreign import _mdCable :: ReactIcon
 
 mdCable :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdCable = element (unsafeCoerce mdCable_)
+mdCable = element (unsafeCoerce _mdCable)
 
-foreign import mdCached_ :: ReactIcon
+foreign import _mdCached :: ReactIcon
 
 mdCached :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdCached = element (unsafeCoerce mdCached_)
+mdCached = element (unsafeCoerce _mdCached)
 
-foreign import mdCake_ :: ReactIcon
+foreign import _mdCake :: ReactIcon
 
 mdCake :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdCake = element (unsafeCoerce mdCake_)
+mdCake = element (unsafeCoerce _mdCake)
 
-foreign import mdCalculate_ :: ReactIcon
+foreign import _mdCalculate :: ReactIcon
 
 mdCalculate :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdCalculate = element (unsafeCoerce mdCalculate_)
+mdCalculate = element (unsafeCoerce _mdCalculate)
 
-foreign import mdCalendarToday_ :: ReactIcon
+foreign import _mdCalendarToday :: ReactIcon
 
 mdCalendarToday :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdCalendarToday = element (unsafeCoerce mdCalendarToday_)
+mdCalendarToday = element (unsafeCoerce _mdCalendarToday)
 
-foreign import mdCalendarViewDay_ :: ReactIcon
+foreign import _mdCalendarViewDay :: ReactIcon
 
 mdCalendarViewDay :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdCalendarViewDay = element (unsafeCoerce mdCalendarViewDay_)
+mdCalendarViewDay = element (unsafeCoerce _mdCalendarViewDay)
 
-foreign import mdCalendarViewMonth_ :: ReactIcon
+foreign import _mdCalendarViewMonth :: ReactIcon
 
 mdCalendarViewMonth :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdCalendarViewMonth = element (unsafeCoerce mdCalendarViewMonth_)
+mdCalendarViewMonth = element (unsafeCoerce _mdCalendarViewMonth)
 
-foreign import mdCalendarViewWeek_ :: ReactIcon
+foreign import _mdCalendarViewWeek :: ReactIcon
 
 mdCalendarViewWeek :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdCalendarViewWeek = element (unsafeCoerce mdCalendarViewWeek_)
+mdCalendarViewWeek = element (unsafeCoerce _mdCalendarViewWeek)
 
-foreign import mdCall_ :: ReactIcon
+foreign import _mdCall :: ReactIcon
 
 mdCall :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdCall = element (unsafeCoerce mdCall_)
+mdCall = element (unsafeCoerce _mdCall)
 
-foreign import mdCallEnd_ :: ReactIcon
+foreign import _mdCallEnd :: ReactIcon
 
 mdCallEnd :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdCallEnd = element (unsafeCoerce mdCallEnd_)
+mdCallEnd = element (unsafeCoerce _mdCallEnd)
 
-foreign import mdCallMade_ :: ReactIcon
+foreign import _mdCallMade :: ReactIcon
 
 mdCallMade :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdCallMade = element (unsafeCoerce mdCallMade_)
+mdCallMade = element (unsafeCoerce _mdCallMade)
 
-foreign import mdCallMerge_ :: ReactIcon
+foreign import _mdCallMerge :: ReactIcon
 
 mdCallMerge :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdCallMerge = element (unsafeCoerce mdCallMerge_)
+mdCallMerge = element (unsafeCoerce _mdCallMerge)
 
-foreign import mdCallMissed_ :: ReactIcon
+foreign import _mdCallMissed :: ReactIcon
 
 mdCallMissed :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdCallMissed = element (unsafeCoerce mdCallMissed_)
+mdCallMissed = element (unsafeCoerce _mdCallMissed)
 
-foreign import mdCallMissedOutgoing_ :: ReactIcon
+foreign import _mdCallMissedOutgoing :: ReactIcon
 
 mdCallMissedOutgoing :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdCallMissedOutgoing = element (unsafeCoerce mdCallMissedOutgoing_)
+mdCallMissedOutgoing = element (unsafeCoerce _mdCallMissedOutgoing)
 
-foreign import mdCallReceived_ :: ReactIcon
+foreign import _mdCallReceived :: ReactIcon
 
 mdCallReceived :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdCallReceived = element (unsafeCoerce mdCallReceived_)
+mdCallReceived = element (unsafeCoerce _mdCallReceived)
 
-foreign import mdCallSplit_ :: ReactIcon
+foreign import _mdCallSplit :: ReactIcon
 
 mdCallSplit :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdCallSplit = element (unsafeCoerce mdCallSplit_)
+mdCallSplit = element (unsafeCoerce _mdCallSplit)
 
-foreign import mdCallToAction_ :: ReactIcon
+foreign import _mdCallToAction :: ReactIcon
 
 mdCallToAction :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdCallToAction = element (unsafeCoerce mdCallToAction_)
+mdCallToAction = element (unsafeCoerce _mdCallToAction)
 
-foreign import mdCamera_ :: ReactIcon
+foreign import _mdCamera :: ReactIcon
 
 mdCamera :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdCamera = element (unsafeCoerce mdCamera_)
+mdCamera = element (unsafeCoerce _mdCamera)
 
-foreign import mdCameraAlt_ :: ReactIcon
+foreign import _mdCameraAlt :: ReactIcon
 
 mdCameraAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdCameraAlt = element (unsafeCoerce mdCameraAlt_)
+mdCameraAlt = element (unsafeCoerce _mdCameraAlt)
 
-foreign import mdCameraEnhance_ :: ReactIcon
+foreign import _mdCameraEnhance :: ReactIcon
 
 mdCameraEnhance :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdCameraEnhance = element (unsafeCoerce mdCameraEnhance_)
+mdCameraEnhance = element (unsafeCoerce _mdCameraEnhance)
 
-foreign import mdCameraFront_ :: ReactIcon
+foreign import _mdCameraFront :: ReactIcon
 
 mdCameraFront :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdCameraFront = element (unsafeCoerce mdCameraFront_)
+mdCameraFront = element (unsafeCoerce _mdCameraFront)
 
-foreign import mdCameraIndoor_ :: ReactIcon
+foreign import _mdCameraIndoor :: ReactIcon
 
 mdCameraIndoor :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdCameraIndoor = element (unsafeCoerce mdCameraIndoor_)
+mdCameraIndoor = element (unsafeCoerce _mdCameraIndoor)
 
-foreign import mdCameraOutdoor_ :: ReactIcon
+foreign import _mdCameraOutdoor :: ReactIcon
 
 mdCameraOutdoor :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdCameraOutdoor = element (unsafeCoerce mdCameraOutdoor_)
+mdCameraOutdoor = element (unsafeCoerce _mdCameraOutdoor)
 
-foreign import mdCameraRear_ :: ReactIcon
+foreign import _mdCameraRear :: ReactIcon
 
 mdCameraRear :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdCameraRear = element (unsafeCoerce mdCameraRear_)
+mdCameraRear = element (unsafeCoerce _mdCameraRear)
 
-foreign import mdCameraRoll_ :: ReactIcon
+foreign import _mdCameraRoll :: ReactIcon
 
 mdCameraRoll :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdCameraRoll = element (unsafeCoerce mdCameraRoll_)
+mdCameraRoll = element (unsafeCoerce _mdCameraRoll)
 
-foreign import mdCameraswitch_ :: ReactIcon
+foreign import _mdCameraswitch :: ReactIcon
 
 mdCameraswitch :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdCameraswitch = element (unsafeCoerce mdCameraswitch_)
+mdCameraswitch = element (unsafeCoerce _mdCameraswitch)
 
-foreign import mdCampaign_ :: ReactIcon
+foreign import _mdCampaign :: ReactIcon
 
 mdCampaign :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdCampaign = element (unsafeCoerce mdCampaign_)
+mdCampaign = element (unsafeCoerce _mdCampaign)
 
-foreign import mdCancel_ :: ReactIcon
+foreign import _mdCancel :: ReactIcon
 
 mdCancel :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdCancel = element (unsafeCoerce mdCancel_)
+mdCancel = element (unsafeCoerce _mdCancel)
 
-foreign import mdCancelPresentation_ :: ReactIcon
+foreign import _mdCancelPresentation :: ReactIcon
 
 mdCancelPresentation :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdCancelPresentation = element (unsafeCoerce mdCancelPresentation_)
+mdCancelPresentation = element (unsafeCoerce _mdCancelPresentation)
 
-foreign import mdCancelScheduleSend_ :: ReactIcon
+foreign import _mdCancelScheduleSend :: ReactIcon
 
 mdCancelScheduleSend :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdCancelScheduleSend = element (unsafeCoerce mdCancelScheduleSend_)
+mdCancelScheduleSend = element (unsafeCoerce _mdCancelScheduleSend)
 
-foreign import mdCardGiftcard_ :: ReactIcon
+foreign import _mdCardGiftcard :: ReactIcon
 
 mdCardGiftcard :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdCardGiftcard = element (unsafeCoerce mdCardGiftcard_)
+mdCardGiftcard = element (unsafeCoerce _mdCardGiftcard)
 
-foreign import mdCardMembership_ :: ReactIcon
+foreign import _mdCardMembership :: ReactIcon
 
 mdCardMembership :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdCardMembership = element (unsafeCoerce mdCardMembership_)
+mdCardMembership = element (unsafeCoerce _mdCardMembership)
 
-foreign import mdCardTravel_ :: ReactIcon
+foreign import _mdCardTravel :: ReactIcon
 
 mdCardTravel :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdCardTravel = element (unsafeCoerce mdCardTravel_)
+mdCardTravel = element (unsafeCoerce _mdCardTravel)
 
-foreign import mdCarpenter_ :: ReactIcon
+foreign import _mdCarpenter :: ReactIcon
 
 mdCarpenter :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdCarpenter = element (unsafeCoerce mdCarpenter_)
+mdCarpenter = element (unsafeCoerce _mdCarpenter)
 
-foreign import mdCarRental_ :: ReactIcon
+foreign import _mdCarRental :: ReactIcon
 
 mdCarRental :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdCarRental = element (unsafeCoerce mdCarRental_)
+mdCarRental = element (unsafeCoerce _mdCarRental)
 
-foreign import mdCarRepair_ :: ReactIcon
+foreign import _mdCarRepair :: ReactIcon
 
 mdCarRepair :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdCarRepair = element (unsafeCoerce mdCarRepair_)
+mdCarRepair = element (unsafeCoerce _mdCarRepair)
 
-foreign import mdCases_ :: ReactIcon
+foreign import _mdCases :: ReactIcon
 
 mdCases :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdCases = element (unsafeCoerce mdCases_)
+mdCases = element (unsafeCoerce _mdCases)
 
-foreign import mdCasino_ :: ReactIcon
+foreign import _mdCasino :: ReactIcon
 
 mdCasino :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdCasino = element (unsafeCoerce mdCasino_)
+mdCasino = element (unsafeCoerce _mdCasino)
 
-foreign import mdCast_ :: ReactIcon
+foreign import _mdCast :: ReactIcon
 
 mdCast :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdCast = element (unsafeCoerce mdCast_)
+mdCast = element (unsafeCoerce _mdCast)
 
-foreign import mdCastConnected_ :: ReactIcon
+foreign import _mdCastConnected :: ReactIcon
 
 mdCastConnected :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdCastConnected = element (unsafeCoerce mdCastConnected_)
+mdCastConnected = element (unsafeCoerce _mdCastConnected)
 
-foreign import mdCastForEducation_ :: ReactIcon
+foreign import _mdCastForEducation :: ReactIcon
 
 mdCastForEducation :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdCastForEducation = element (unsafeCoerce mdCastForEducation_)
+mdCastForEducation = element (unsafeCoerce _mdCastForEducation)
 
-foreign import mdCatchingPokemon_ :: ReactIcon
+foreign import _mdCatchingPokemon :: ReactIcon
 
 mdCatchingPokemon :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdCatchingPokemon = element (unsafeCoerce mdCatchingPokemon_)
+mdCatchingPokemon = element (unsafeCoerce _mdCatchingPokemon)
 
-foreign import mdCategory_ :: ReactIcon
+foreign import _mdCategory :: ReactIcon
 
 mdCategory :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdCategory = element (unsafeCoerce mdCategory_)
+mdCategory = element (unsafeCoerce _mdCategory)
 
-foreign import mdCelebration_ :: ReactIcon
+foreign import _mdCelebration :: ReactIcon
 
 mdCelebration :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdCelebration = element (unsafeCoerce mdCelebration_)
+mdCelebration = element (unsafeCoerce _mdCelebration)
 
-foreign import mdCellWifi_ :: ReactIcon
+foreign import _mdCellWifi :: ReactIcon
 
 mdCellWifi :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdCellWifi = element (unsafeCoerce mdCellWifi_)
+mdCellWifi = element (unsafeCoerce _mdCellWifi)
 
-foreign import mdCenterFocusStrong_ :: ReactIcon
+foreign import _mdCenterFocusStrong :: ReactIcon
 
 mdCenterFocusStrong :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdCenterFocusStrong = element (unsafeCoerce mdCenterFocusStrong_)
+mdCenterFocusStrong = element (unsafeCoerce _mdCenterFocusStrong)
 
-foreign import mdCenterFocusWeak_ :: ReactIcon
+foreign import _mdCenterFocusWeak :: ReactIcon
 
 mdCenterFocusWeak :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdCenterFocusWeak = element (unsafeCoerce mdCenterFocusWeak_)
+mdCenterFocusWeak = element (unsafeCoerce _mdCenterFocusWeak)
 
-foreign import mdChair_ :: ReactIcon
+foreign import _mdChair :: ReactIcon
 
 mdChair :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdChair = element (unsafeCoerce mdChair_)
+mdChair = element (unsafeCoerce _mdChair)
 
-foreign import mdChairAlt_ :: ReactIcon
+foreign import _mdChairAlt :: ReactIcon
 
 mdChairAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdChairAlt = element (unsafeCoerce mdChairAlt_)
+mdChairAlt = element (unsafeCoerce _mdChairAlt)
 
-foreign import mdChalet_ :: ReactIcon
+foreign import _mdChalet :: ReactIcon
 
 mdChalet :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdChalet = element (unsafeCoerce mdChalet_)
+mdChalet = element (unsafeCoerce _mdChalet)
 
-foreign import mdChangeCircle_ :: ReactIcon
+foreign import _mdChangeCircle :: ReactIcon
 
 mdChangeCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdChangeCircle = element (unsafeCoerce mdChangeCircle_)
+mdChangeCircle = element (unsafeCoerce _mdChangeCircle)
 
-foreign import mdChangeHistory_ :: ReactIcon
+foreign import _mdChangeHistory :: ReactIcon
 
 mdChangeHistory :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdChangeHistory = element (unsafeCoerce mdChangeHistory_)
+mdChangeHistory = element (unsafeCoerce _mdChangeHistory)
 
-foreign import mdChargingStation_ :: ReactIcon
+foreign import _mdChargingStation :: ReactIcon
 
 mdChargingStation :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdChargingStation = element (unsafeCoerce mdChargingStation_)
+mdChargingStation = element (unsafeCoerce _mdChargingStation)
 
-foreign import mdChat_ :: ReactIcon
+foreign import _mdChat :: ReactIcon
 
 mdChat :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdChat = element (unsafeCoerce mdChat_)
+mdChat = element (unsafeCoerce _mdChat)
 
-foreign import mdChatBubble_ :: ReactIcon
+foreign import _mdChatBubble :: ReactIcon
 
 mdChatBubble :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdChatBubble = element (unsafeCoerce mdChatBubble_)
+mdChatBubble = element (unsafeCoerce _mdChatBubble)
 
-foreign import mdChatBubbleOutline_ :: ReactIcon
+foreign import _mdChatBubbleOutline :: ReactIcon
 
 mdChatBubbleOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdChatBubbleOutline = element (unsafeCoerce mdChatBubbleOutline_)
+mdChatBubbleOutline = element (unsafeCoerce _mdChatBubbleOutline)
 
-foreign import mdCheck_ :: ReactIcon
+foreign import _mdCheck :: ReactIcon
 
 mdCheck :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdCheck = element (unsafeCoerce mdCheck_)
+mdCheck = element (unsafeCoerce _mdCheck)
 
-foreign import mdCheckBox_ :: ReactIcon
+foreign import _mdCheckBox :: ReactIcon
 
 mdCheckBox :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdCheckBox = element (unsafeCoerce mdCheckBox_)
+mdCheckBox = element (unsafeCoerce _mdCheckBox)
 
-foreign import mdCheckBoxOutlineBlank_ :: ReactIcon
+foreign import _mdCheckBoxOutlineBlank :: ReactIcon
 
 mdCheckBoxOutlineBlank :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdCheckBoxOutlineBlank = element (unsafeCoerce mdCheckBoxOutlineBlank_)
+mdCheckBoxOutlineBlank = element (unsafeCoerce _mdCheckBoxOutlineBlank)
 
-foreign import mdCheckCircle_ :: ReactIcon
+foreign import _mdCheckCircle :: ReactIcon
 
 mdCheckCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdCheckCircle = element (unsafeCoerce mdCheckCircle_)
+mdCheckCircle = element (unsafeCoerce _mdCheckCircle)
 
-foreign import mdCheckCircleOutline_ :: ReactIcon
+foreign import _mdCheckCircleOutline :: ReactIcon
 
 mdCheckCircleOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdCheckCircleOutline = element (unsafeCoerce mdCheckCircleOutline_)
+mdCheckCircleOutline = element (unsafeCoerce _mdCheckCircleOutline)
 
-foreign import mdChecklist_ :: ReactIcon
+foreign import _mdChecklist :: ReactIcon
 
 mdChecklist :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdChecklist = element (unsafeCoerce mdChecklist_)
+mdChecklist = element (unsafeCoerce _mdChecklist)
 
-foreign import mdChecklistRtl_ :: ReactIcon
+foreign import _mdChecklistRtl :: ReactIcon
 
 mdChecklistRtl :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdChecklistRtl = element (unsafeCoerce mdChecklistRtl_)
+mdChecklistRtl = element (unsafeCoerce _mdChecklistRtl)
 
-foreign import mdCheckroom_ :: ReactIcon
+foreign import _mdCheckroom :: ReactIcon
 
 mdCheckroom :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdCheckroom = element (unsafeCoerce mdCheckroom_)
+mdCheckroom = element (unsafeCoerce _mdCheckroom)
 
-foreign import mdChevronLeft_ :: ReactIcon
+foreign import _mdChevronLeft :: ReactIcon
 
 mdChevronLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdChevronLeft = element (unsafeCoerce mdChevronLeft_)
+mdChevronLeft = element (unsafeCoerce _mdChevronLeft)
 
-foreign import mdChevronRight_ :: ReactIcon
+foreign import _mdChevronRight :: ReactIcon
 
 mdChevronRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdChevronRight = element (unsafeCoerce mdChevronRight_)
+mdChevronRight = element (unsafeCoerce _mdChevronRight)
 
-foreign import mdChildCare_ :: ReactIcon
+foreign import _mdChildCare :: ReactIcon
 
 mdChildCare :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdChildCare = element (unsafeCoerce mdChildCare_)
+mdChildCare = element (unsafeCoerce _mdChildCare)
 
-foreign import mdChildFriendly_ :: ReactIcon
+foreign import _mdChildFriendly :: ReactIcon
 
 mdChildFriendly :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdChildFriendly = element (unsafeCoerce mdChildFriendly_)
+mdChildFriendly = element (unsafeCoerce _mdChildFriendly)
 
-foreign import mdChromeReaderMode_ :: ReactIcon
+foreign import _mdChromeReaderMode :: ReactIcon
 
 mdChromeReaderMode :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdChromeReaderMode = element (unsafeCoerce mdChromeReaderMode_)
+mdChromeReaderMode = element (unsafeCoerce _mdChromeReaderMode)
 
-foreign import mdCircle_ :: ReactIcon
+foreign import _mdCircle :: ReactIcon
 
 mdCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdCircle = element (unsafeCoerce mdCircle_)
+mdCircle = element (unsafeCoerce _mdCircle)
 
-foreign import mdCircleNotifications_ :: ReactIcon
+foreign import _mdCircleNotifications :: ReactIcon
 
 mdCircleNotifications :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdCircleNotifications = element (unsafeCoerce mdCircleNotifications_)
+mdCircleNotifications = element (unsafeCoerce _mdCircleNotifications)
 
-foreign import mdClass_ :: ReactIcon
+foreign import _mdClass :: ReactIcon
 
 mdClass :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdClass = element (unsafeCoerce mdClass_)
+mdClass = element (unsafeCoerce _mdClass)
 
-foreign import mdCleanHands_ :: ReactIcon
+foreign import _mdCleanHands :: ReactIcon
 
 mdCleanHands :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdCleanHands = element (unsafeCoerce mdCleanHands_)
+mdCleanHands = element (unsafeCoerce _mdCleanHands)
 
-foreign import mdCleaningServices_ :: ReactIcon
+foreign import _mdCleaningServices :: ReactIcon
 
 mdCleaningServices :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdCleaningServices = element (unsafeCoerce mdCleaningServices_)
+mdCleaningServices = element (unsafeCoerce _mdCleaningServices)
 
-foreign import mdClear_ :: ReactIcon
+foreign import _mdClear :: ReactIcon
 
 mdClear :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdClear = element (unsafeCoerce mdClear_)
+mdClear = element (unsafeCoerce _mdClear)
 
-foreign import mdClearAll_ :: ReactIcon
+foreign import _mdClearAll :: ReactIcon
 
 mdClearAll :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdClearAll = element (unsafeCoerce mdClearAll_)
+mdClearAll = element (unsafeCoerce _mdClearAll)
 
-foreign import mdClose_ :: ReactIcon
+foreign import _mdClose :: ReactIcon
 
 mdClose :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdClose = element (unsafeCoerce mdClose_)
+mdClose = element (unsafeCoerce _mdClose)
 
-foreign import mdClosedCaption_ :: ReactIcon
+foreign import _mdClosedCaption :: ReactIcon
 
 mdClosedCaption :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdClosedCaption = element (unsafeCoerce mdClosedCaption_)
+mdClosedCaption = element (unsafeCoerce _mdClosedCaption)
 
-foreign import mdClosedCaptionDisabled_ :: ReactIcon
+foreign import _mdClosedCaptionDisabled :: ReactIcon
 
 mdClosedCaptionDisabled :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdClosedCaptionDisabled = element (unsafeCoerce mdClosedCaptionDisabled_)
+mdClosedCaptionDisabled = element (unsafeCoerce _mdClosedCaptionDisabled)
 
-foreign import mdClosedCaptionOff_ :: ReactIcon
+foreign import _mdClosedCaptionOff :: ReactIcon
 
 mdClosedCaptionOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdClosedCaptionOff = element (unsafeCoerce mdClosedCaptionOff_)
+mdClosedCaptionOff = element (unsafeCoerce _mdClosedCaptionOff)
 
-foreign import mdCloseFullscreen_ :: ReactIcon
+foreign import _mdCloseFullscreen :: ReactIcon
 
 mdCloseFullscreen :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdCloseFullscreen = element (unsafeCoerce mdCloseFullscreen_)
+mdCloseFullscreen = element (unsafeCoerce _mdCloseFullscreen)
 
-foreign import mdCloud_ :: ReactIcon
+foreign import _mdCloud :: ReactIcon
 
 mdCloud :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdCloud = element (unsafeCoerce mdCloud_)
+mdCloud = element (unsafeCoerce _mdCloud)
 
-foreign import mdCloudCircle_ :: ReactIcon
+foreign import _mdCloudCircle :: ReactIcon
 
 mdCloudCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdCloudCircle = element (unsafeCoerce mdCloudCircle_)
+mdCloudCircle = element (unsafeCoerce _mdCloudCircle)
 
-foreign import mdCloudDone_ :: ReactIcon
+foreign import _mdCloudDone :: ReactIcon
 
 mdCloudDone :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdCloudDone = element (unsafeCoerce mdCloudDone_)
+mdCloudDone = element (unsafeCoerce _mdCloudDone)
 
-foreign import mdCloudDownload_ :: ReactIcon
+foreign import _mdCloudDownload :: ReactIcon
 
 mdCloudDownload :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdCloudDownload = element (unsafeCoerce mdCloudDownload_)
+mdCloudDownload = element (unsafeCoerce _mdCloudDownload)
 
-foreign import mdCloudOff_ :: ReactIcon
+foreign import _mdCloudOff :: ReactIcon
 
 mdCloudOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdCloudOff = element (unsafeCoerce mdCloudOff_)
+mdCloudOff = element (unsafeCoerce _mdCloudOff)
 
-foreign import mdCloudQueue_ :: ReactIcon
+foreign import _mdCloudQueue :: ReactIcon
 
 mdCloudQueue :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdCloudQueue = element (unsafeCoerce mdCloudQueue_)
+mdCloudQueue = element (unsafeCoerce _mdCloudQueue)
 
-foreign import mdCloudUpload_ :: ReactIcon
+foreign import _mdCloudUpload :: ReactIcon
 
 mdCloudUpload :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdCloudUpload = element (unsafeCoerce mdCloudUpload_)
+mdCloudUpload = element (unsafeCoerce _mdCloudUpload)
 
-foreign import mdCode_ :: ReactIcon
+foreign import _mdCode :: ReactIcon
 
 mdCode :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdCode = element (unsafeCoerce mdCode_)
+mdCode = element (unsafeCoerce _mdCode)
 
-foreign import mdCodeOff_ :: ReactIcon
+foreign import _mdCodeOff :: ReactIcon
 
 mdCodeOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdCodeOff = element (unsafeCoerce mdCodeOff_)
+mdCodeOff = element (unsafeCoerce _mdCodeOff)
 
-foreign import mdCoffee_ :: ReactIcon
+foreign import _mdCoffee :: ReactIcon
 
 mdCoffee :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdCoffee = element (unsafeCoerce mdCoffee_)
+mdCoffee = element (unsafeCoerce _mdCoffee)
 
-foreign import mdCoffeeMaker_ :: ReactIcon
+foreign import _mdCoffeeMaker :: ReactIcon
 
 mdCoffeeMaker :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdCoffeeMaker = element (unsafeCoerce mdCoffeeMaker_)
+mdCoffeeMaker = element (unsafeCoerce _mdCoffeeMaker)
 
-foreign import mdCollections_ :: ReactIcon
+foreign import _mdCollections :: ReactIcon
 
 mdCollections :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdCollections = element (unsafeCoerce mdCollections_)
+mdCollections = element (unsafeCoerce _mdCollections)
 
-foreign import mdCollectionsBookmark_ :: ReactIcon
+foreign import _mdCollectionsBookmark :: ReactIcon
 
 mdCollectionsBookmark :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdCollectionsBookmark = element (unsafeCoerce mdCollectionsBookmark_)
+mdCollectionsBookmark = element (unsafeCoerce _mdCollectionsBookmark)
 
-foreign import mdColorize_ :: ReactIcon
+foreign import _mdColorize :: ReactIcon
 
 mdColorize :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdColorize = element (unsafeCoerce mdColorize_)
+mdColorize = element (unsafeCoerce _mdColorize)
 
-foreign import mdColorLens_ :: ReactIcon
+foreign import _mdColorLens :: ReactIcon
 
 mdColorLens :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdColorLens = element (unsafeCoerce mdColorLens_)
+mdColorLens = element (unsafeCoerce _mdColorLens)
 
-foreign import mdComment_ :: ReactIcon
+foreign import _mdComment :: ReactIcon
 
 mdComment :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdComment = element (unsafeCoerce mdComment_)
+mdComment = element (unsafeCoerce _mdComment)
 
-foreign import mdCommentBank_ :: ReactIcon
+foreign import _mdCommentBank :: ReactIcon
 
 mdCommentBank :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdCommentBank = element (unsafeCoerce mdCommentBank_)
+mdCommentBank = element (unsafeCoerce _mdCommentBank)
 
-foreign import mdCommute_ :: ReactIcon
+foreign import _mdCommute :: ReactIcon
 
 mdCommute :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdCommute = element (unsafeCoerce mdCommute_)
+mdCommute = element (unsafeCoerce _mdCommute)
 
-foreign import mdCompare_ :: ReactIcon
+foreign import _mdCompare :: ReactIcon
 
 mdCompare :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdCompare = element (unsafeCoerce mdCompare_)
+mdCompare = element (unsafeCoerce _mdCompare)
 
-foreign import mdCompareArrows_ :: ReactIcon
+foreign import _mdCompareArrows :: ReactIcon
 
 mdCompareArrows :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdCompareArrows = element (unsafeCoerce mdCompareArrows_)
+mdCompareArrows = element (unsafeCoerce _mdCompareArrows)
 
-foreign import mdCompassCalibration_ :: ReactIcon
+foreign import _mdCompassCalibration :: ReactIcon
 
 mdCompassCalibration :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdCompassCalibration = element (unsafeCoerce mdCompassCalibration_)
+mdCompassCalibration = element (unsafeCoerce _mdCompassCalibration)
 
-foreign import mdCompost_ :: ReactIcon
+foreign import _mdCompost :: ReactIcon
 
 mdCompost :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdCompost = element (unsafeCoerce mdCompost_)
+mdCompost = element (unsafeCoerce _mdCompost)
 
-foreign import mdCompress_ :: ReactIcon
+foreign import _mdCompress :: ReactIcon
 
 mdCompress :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdCompress = element (unsafeCoerce mdCompress_)
+mdCompress = element (unsafeCoerce _mdCompress)
 
-foreign import mdComputer_ :: ReactIcon
+foreign import _mdComputer :: ReactIcon
 
 mdComputer :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdComputer = element (unsafeCoerce mdComputer_)
+mdComputer = element (unsafeCoerce _mdComputer)
 
-foreign import mdConfirmationNumber_ :: ReactIcon
+foreign import _mdConfirmationNumber :: ReactIcon
 
 mdConfirmationNumber :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdConfirmationNumber = element (unsafeCoerce mdConfirmationNumber_)
+mdConfirmationNumber = element (unsafeCoerce _mdConfirmationNumber)
 
-foreign import mdConnectedTv_ :: ReactIcon
+foreign import _mdConnectedTv :: ReactIcon
 
 mdConnectedTv :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdConnectedTv = element (unsafeCoerce mdConnectedTv_)
+mdConnectedTv = element (unsafeCoerce _mdConnectedTv)
 
-foreign import mdConnectWithoutContact_ :: ReactIcon
+foreign import _mdConnectWithoutContact :: ReactIcon
 
 mdConnectWithoutContact :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdConnectWithoutContact = element (unsafeCoerce mdConnectWithoutContact_)
+mdConnectWithoutContact = element (unsafeCoerce _mdConnectWithoutContact)
 
-foreign import mdConstruction_ :: ReactIcon
+foreign import _mdConstruction :: ReactIcon
 
 mdConstruction :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdConstruction = element (unsafeCoerce mdConstruction_)
+mdConstruction = element (unsafeCoerce _mdConstruction)
 
-foreign import mdContactless_ :: ReactIcon
+foreign import _mdContactless :: ReactIcon
 
 mdContactless :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdContactless = element (unsafeCoerce mdContactless_)
+mdContactless = element (unsafeCoerce _mdContactless)
 
-foreign import mdContactMail_ :: ReactIcon
+foreign import _mdContactMail :: ReactIcon
 
 mdContactMail :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdContactMail = element (unsafeCoerce mdContactMail_)
+mdContactMail = element (unsafeCoerce _mdContactMail)
 
-foreign import mdContactPage_ :: ReactIcon
+foreign import _mdContactPage :: ReactIcon
 
 mdContactPage :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdContactPage = element (unsafeCoerce mdContactPage_)
+mdContactPage = element (unsafeCoerce _mdContactPage)
 
-foreign import mdContactPhone_ :: ReactIcon
+foreign import _mdContactPhone :: ReactIcon
 
 mdContactPhone :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdContactPhone = element (unsafeCoerce mdContactPhone_)
+mdContactPhone = element (unsafeCoerce _mdContactPhone)
 
-foreign import mdContacts_ :: ReactIcon
+foreign import _mdContacts :: ReactIcon
 
 mdContacts :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdContacts = element (unsafeCoerce mdContacts_)
+mdContacts = element (unsafeCoerce _mdContacts)
 
-foreign import mdContactSupport_ :: ReactIcon
+foreign import _mdContactSupport :: ReactIcon
 
 mdContactSupport :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdContactSupport = element (unsafeCoerce mdContactSupport_)
+mdContactSupport = element (unsafeCoerce _mdContactSupport)
 
-foreign import mdContentCopy_ :: ReactIcon
+foreign import _mdContentCopy :: ReactIcon
 
 mdContentCopy :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdContentCopy = element (unsafeCoerce mdContentCopy_)
+mdContentCopy = element (unsafeCoerce _mdContentCopy)
 
-foreign import mdContentCut_ :: ReactIcon
+foreign import _mdContentCut :: ReactIcon
 
 mdContentCut :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdContentCut = element (unsafeCoerce mdContentCut_)
+mdContentCut = element (unsafeCoerce _mdContentCut)
 
-foreign import mdContentPaste_ :: ReactIcon
+foreign import _mdContentPaste :: ReactIcon
 
 mdContentPaste :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdContentPaste = element (unsafeCoerce mdContentPaste_)
+mdContentPaste = element (unsafeCoerce _mdContentPaste)
 
-foreign import mdContentPasteOff_ :: ReactIcon
+foreign import _mdContentPasteOff :: ReactIcon
 
 mdContentPasteOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdContentPasteOff = element (unsafeCoerce mdContentPasteOff_)
+mdContentPasteOff = element (unsafeCoerce _mdContentPasteOff)
 
-foreign import mdControlCamera_ :: ReactIcon
+foreign import _mdControlCamera :: ReactIcon
 
 mdControlCamera :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdControlCamera = element (unsafeCoerce mdControlCamera_)
+mdControlCamera = element (unsafeCoerce _mdControlCamera)
 
-foreign import mdControlPoint_ :: ReactIcon
+foreign import _mdControlPoint :: ReactIcon
 
 mdControlPoint :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdControlPoint = element (unsafeCoerce mdControlPoint_)
+mdControlPoint = element (unsafeCoerce _mdControlPoint)
 
-foreign import mdControlPointDuplicate_ :: ReactIcon
+foreign import _mdControlPointDuplicate :: ReactIcon
 
 mdControlPointDuplicate :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdControlPointDuplicate = element (unsafeCoerce mdControlPointDuplicate_)
+mdControlPointDuplicate = element (unsafeCoerce _mdControlPointDuplicate)
 
-foreign import mdCopyAll_ :: ReactIcon
+foreign import _mdCopyAll :: ReactIcon
 
 mdCopyAll :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdCopyAll = element (unsafeCoerce mdCopyAll_)
+mdCopyAll = element (unsafeCoerce _mdCopyAll)
 
-foreign import mdCopyright_ :: ReactIcon
+foreign import _mdCopyright :: ReactIcon
 
 mdCopyright :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdCopyright = element (unsafeCoerce mdCopyright_)
+mdCopyright = element (unsafeCoerce _mdCopyright)
 
-foreign import mdCoronavirus_ :: ReactIcon
+foreign import _mdCoronavirus :: ReactIcon
 
 mdCoronavirus :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdCoronavirus = element (unsafeCoerce mdCoronavirus_)
+mdCoronavirus = element (unsafeCoerce _mdCoronavirus)
 
-foreign import mdCorporateFare_ :: ReactIcon
+foreign import _mdCorporateFare :: ReactIcon
 
 mdCorporateFare :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdCorporateFare = element (unsafeCoerce mdCorporateFare_)
+mdCorporateFare = element (unsafeCoerce _mdCorporateFare)
 
-foreign import mdCottage_ :: ReactIcon
+foreign import _mdCottage :: ReactIcon
 
 mdCottage :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdCottage = element (unsafeCoerce mdCottage_)
+mdCottage = element (unsafeCoerce _mdCottage)
 
-foreign import mdCountertops_ :: ReactIcon
+foreign import _mdCountertops :: ReactIcon
 
 mdCountertops :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdCountertops = element (unsafeCoerce mdCountertops_)
+mdCountertops = element (unsafeCoerce _mdCountertops)
 
-foreign import mdCreate_ :: ReactIcon
+foreign import _mdCreate :: ReactIcon
 
 mdCreate :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdCreate = element (unsafeCoerce mdCreate_)
+mdCreate = element (unsafeCoerce _mdCreate)
 
-foreign import mdCreateNewFolder_ :: ReactIcon
+foreign import _mdCreateNewFolder :: ReactIcon
 
 mdCreateNewFolder :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdCreateNewFolder = element (unsafeCoerce mdCreateNewFolder_)
+mdCreateNewFolder = element (unsafeCoerce _mdCreateNewFolder)
 
-foreign import mdCreditCard_ :: ReactIcon
+foreign import _mdCreditCard :: ReactIcon
 
 mdCreditCard :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdCreditCard = element (unsafeCoerce mdCreditCard_)
+mdCreditCard = element (unsafeCoerce _mdCreditCard)
 
-foreign import mdCreditCardOff_ :: ReactIcon
+foreign import _mdCreditCardOff :: ReactIcon
 
 mdCreditCardOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdCreditCardOff = element (unsafeCoerce mdCreditCardOff_)
+mdCreditCardOff = element (unsafeCoerce _mdCreditCardOff)
 
-foreign import mdCreditScore_ :: ReactIcon
+foreign import _mdCreditScore :: ReactIcon
 
 mdCreditScore :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdCreditScore = element (unsafeCoerce mdCreditScore_)
+mdCreditScore = element (unsafeCoerce _mdCreditScore)
 
-foreign import mdCrib_ :: ReactIcon
+foreign import _mdCrib :: ReactIcon
 
 mdCrib :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdCrib = element (unsafeCoerce mdCrib_)
+mdCrib = element (unsafeCoerce _mdCrib)
 
-foreign import mdCrop_ :: ReactIcon
+foreign import _mdCrop :: ReactIcon
 
 mdCrop :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdCrop = element (unsafeCoerce mdCrop_)
+mdCrop = element (unsafeCoerce _mdCrop)
 
-foreign import mdCropDin_ :: ReactIcon
+foreign import _mdCropDin :: ReactIcon
 
 mdCropDin :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdCropDin = element (unsafeCoerce mdCropDin_)
+mdCropDin = element (unsafeCoerce _mdCropDin)
 
-foreign import mdCropFree_ :: ReactIcon
+foreign import _mdCropFree :: ReactIcon
 
 mdCropFree :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdCropFree = element (unsafeCoerce mdCropFree_)
+mdCropFree = element (unsafeCoerce _mdCropFree)
 
-foreign import mdCropLandscape_ :: ReactIcon
+foreign import _mdCropLandscape :: ReactIcon
 
 mdCropLandscape :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdCropLandscape = element (unsafeCoerce mdCropLandscape_)
+mdCropLandscape = element (unsafeCoerce _mdCropLandscape)
 
-foreign import mdCropOriginal_ :: ReactIcon
+foreign import _mdCropOriginal :: ReactIcon
 
 mdCropOriginal :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdCropOriginal = element (unsafeCoerce mdCropOriginal_)
+mdCropOriginal = element (unsafeCoerce _mdCropOriginal)
 
-foreign import mdCropPortrait_ :: ReactIcon
+foreign import _mdCropPortrait :: ReactIcon
 
 mdCropPortrait :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdCropPortrait = element (unsafeCoerce mdCropPortrait_)
+mdCropPortrait = element (unsafeCoerce _mdCropPortrait)
 
-foreign import mdCropRotate_ :: ReactIcon
+foreign import _mdCropRotate :: ReactIcon
 
 mdCropRotate :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdCropRotate = element (unsafeCoerce mdCropRotate_)
+mdCropRotate = element (unsafeCoerce _mdCropRotate)
 
-foreign import mdCropSquare_ :: ReactIcon
+foreign import _mdCropSquare :: ReactIcon
 
 mdCropSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdCropSquare = element (unsafeCoerce mdCropSquare_)
+mdCropSquare = element (unsafeCoerce _mdCropSquare)
 
-foreign import mdCrueltyFree_ :: ReactIcon
+foreign import _mdCrueltyFree :: ReactIcon
 
 mdCrueltyFree :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdCrueltyFree = element (unsafeCoerce mdCrueltyFree_)
+mdCrueltyFree = element (unsafeCoerce _mdCrueltyFree)
 
-foreign import mdDangerous_ :: ReactIcon
+foreign import _mdDangerous :: ReactIcon
 
 mdDangerous :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdDangerous = element (unsafeCoerce mdDangerous_)
+mdDangerous = element (unsafeCoerce _mdDangerous)
 
-foreign import mdDarkMode_ :: ReactIcon
+foreign import _mdDarkMode :: ReactIcon
 
 mdDarkMode :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdDarkMode = element (unsafeCoerce mdDarkMode_)
+mdDarkMode = element (unsafeCoerce _mdDarkMode)
 
-foreign import mdDashboard_ :: ReactIcon
+foreign import _mdDashboard :: ReactIcon
 
 mdDashboard :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdDashboard = element (unsafeCoerce mdDashboard_)
+mdDashboard = element (unsafeCoerce _mdDashboard)
 
-foreign import mdDashboardCustomize_ :: ReactIcon
+foreign import _mdDashboardCustomize :: ReactIcon
 
 mdDashboardCustomize :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdDashboardCustomize = element (unsafeCoerce mdDashboardCustomize_)
+mdDashboardCustomize = element (unsafeCoerce _mdDashboardCustomize)
 
-foreign import mdDataExploration_ :: ReactIcon
+foreign import _mdDataExploration :: ReactIcon
 
 mdDataExploration :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdDataExploration = element (unsafeCoerce mdDataExploration_)
+mdDataExploration = element (unsafeCoerce _mdDataExploration)
 
-foreign import mdDataSaverOff_ :: ReactIcon
+foreign import _mdDataSaverOff :: ReactIcon
 
 mdDataSaverOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdDataSaverOff = element (unsafeCoerce mdDataSaverOff_)
+mdDataSaverOff = element (unsafeCoerce _mdDataSaverOff)
 
-foreign import mdDataSaverOn_ :: ReactIcon
+foreign import _mdDataSaverOn :: ReactIcon
 
 mdDataSaverOn :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdDataSaverOn = element (unsafeCoerce mdDataSaverOn_)
+mdDataSaverOn = element (unsafeCoerce _mdDataSaverOn)
 
-foreign import mdDataUsage_ :: ReactIcon
+foreign import _mdDataUsage :: ReactIcon
 
 mdDataUsage :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdDataUsage = element (unsafeCoerce mdDataUsage_)
+mdDataUsage = element (unsafeCoerce _mdDataUsage)
 
-foreign import mdDateRange_ :: ReactIcon
+foreign import _mdDateRange :: ReactIcon
 
 mdDateRange :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdDateRange = element (unsafeCoerce mdDateRange_)
+mdDateRange = element (unsafeCoerce _mdDateRange)
 
-foreign import mdDeck_ :: ReactIcon
+foreign import _mdDeck :: ReactIcon
 
 mdDeck :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdDeck = element (unsafeCoerce mdDeck_)
+mdDeck = element (unsafeCoerce _mdDeck)
 
-foreign import mdDehaze_ :: ReactIcon
+foreign import _mdDehaze :: ReactIcon
 
 mdDehaze :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdDehaze = element (unsafeCoerce mdDehaze_)
+mdDehaze = element (unsafeCoerce _mdDehaze)
 
-foreign import mdDelete_ :: ReactIcon
+foreign import _mdDelete :: ReactIcon
 
 mdDelete :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdDelete = element (unsafeCoerce mdDelete_)
+mdDelete = element (unsafeCoerce _mdDelete)
 
-foreign import mdDeleteForever_ :: ReactIcon
+foreign import _mdDeleteForever :: ReactIcon
 
 mdDeleteForever :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdDeleteForever = element (unsafeCoerce mdDeleteForever_)
+mdDeleteForever = element (unsafeCoerce _mdDeleteForever)
 
-foreign import mdDeleteOutline_ :: ReactIcon
+foreign import _mdDeleteOutline :: ReactIcon
 
 mdDeleteOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdDeleteOutline = element (unsafeCoerce mdDeleteOutline_)
+mdDeleteOutline = element (unsafeCoerce _mdDeleteOutline)
 
-foreign import mdDeleteSweep_ :: ReactIcon
+foreign import _mdDeleteSweep :: ReactIcon
 
 mdDeleteSweep :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdDeleteSweep = element (unsafeCoerce mdDeleteSweep_)
+mdDeleteSweep = element (unsafeCoerce _mdDeleteSweep)
 
-foreign import mdDeliveryDining_ :: ReactIcon
+foreign import _mdDeliveryDining :: ReactIcon
 
 mdDeliveryDining :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdDeliveryDining = element (unsafeCoerce mdDeliveryDining_)
+mdDeliveryDining = element (unsafeCoerce _mdDeliveryDining)
 
-foreign import mdDepartureBoard_ :: ReactIcon
+foreign import _mdDepartureBoard :: ReactIcon
 
 mdDepartureBoard :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdDepartureBoard = element (unsafeCoerce mdDepartureBoard_)
+mdDepartureBoard = element (unsafeCoerce _mdDepartureBoard)
 
-foreign import mdDescription_ :: ReactIcon
+foreign import _mdDescription :: ReactIcon
 
 mdDescription :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdDescription = element (unsafeCoerce mdDescription_)
+mdDescription = element (unsafeCoerce _mdDescription)
 
-foreign import mdDesignServices_ :: ReactIcon
+foreign import _mdDesignServices :: ReactIcon
 
 mdDesignServices :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdDesignServices = element (unsafeCoerce mdDesignServices_)
+mdDesignServices = element (unsafeCoerce _mdDesignServices)
 
-foreign import mdDesktopAccessDisabled_ :: ReactIcon
+foreign import _mdDesktopAccessDisabled :: ReactIcon
 
 mdDesktopAccessDisabled :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdDesktopAccessDisabled = element (unsafeCoerce mdDesktopAccessDisabled_)
+mdDesktopAccessDisabled = element (unsafeCoerce _mdDesktopAccessDisabled)
 
-foreign import mdDesktopMac_ :: ReactIcon
+foreign import _mdDesktopMac :: ReactIcon
 
 mdDesktopMac :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdDesktopMac = element (unsafeCoerce mdDesktopMac_)
+mdDesktopMac = element (unsafeCoerce _mdDesktopMac)
 
-foreign import mdDesktopWindows_ :: ReactIcon
+foreign import _mdDesktopWindows :: ReactIcon
 
 mdDesktopWindows :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdDesktopWindows = element (unsafeCoerce mdDesktopWindows_)
+mdDesktopWindows = element (unsafeCoerce _mdDesktopWindows)
 
-foreign import mdDetails_ :: ReactIcon
+foreign import _mdDetails :: ReactIcon
 
 mdDetails :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdDetails = element (unsafeCoerce mdDetails_)
+mdDetails = element (unsafeCoerce _mdDetails)
 
-foreign import mdDeveloperBoard_ :: ReactIcon
+foreign import _mdDeveloperBoard :: ReactIcon
 
 mdDeveloperBoard :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdDeveloperBoard = element (unsafeCoerce mdDeveloperBoard_)
+mdDeveloperBoard = element (unsafeCoerce _mdDeveloperBoard)
 
-foreign import mdDeveloperBoardOff_ :: ReactIcon
+foreign import _mdDeveloperBoardOff :: ReactIcon
 
 mdDeveloperBoardOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdDeveloperBoardOff = element (unsafeCoerce mdDeveloperBoardOff_)
+mdDeveloperBoardOff = element (unsafeCoerce _mdDeveloperBoardOff)
 
-foreign import mdDeveloperMode_ :: ReactIcon
+foreign import _mdDeveloperMode :: ReactIcon
 
 mdDeveloperMode :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdDeveloperMode = element (unsafeCoerce mdDeveloperMode_)
+mdDeveloperMode = element (unsafeCoerce _mdDeveloperMode)
 
-foreign import mdDeviceHub_ :: ReactIcon
+foreign import _mdDeviceHub :: ReactIcon
 
 mdDeviceHub :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdDeviceHub = element (unsafeCoerce mdDeviceHub_)
+mdDeviceHub = element (unsafeCoerce _mdDeviceHub)
 
-foreign import mdDevices_ :: ReactIcon
+foreign import _mdDevices :: ReactIcon
 
 mdDevices :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdDevices = element (unsafeCoerce mdDevices_)
+mdDevices = element (unsafeCoerce _mdDevices)
 
-foreign import mdDevicesOther_ :: ReactIcon
+foreign import _mdDevicesOther :: ReactIcon
 
 mdDevicesOther :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdDevicesOther = element (unsafeCoerce mdDevicesOther_)
+mdDevicesOther = element (unsafeCoerce _mdDevicesOther)
 
-foreign import mdDeviceThermostat_ :: ReactIcon
+foreign import _mdDeviceThermostat :: ReactIcon
 
 mdDeviceThermostat :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdDeviceThermostat = element (unsafeCoerce mdDeviceThermostat_)
+mdDeviceThermostat = element (unsafeCoerce _mdDeviceThermostat)
 
-foreign import mdDeviceUnknown_ :: ReactIcon
+foreign import _mdDeviceUnknown :: ReactIcon
 
 mdDeviceUnknown :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdDeviceUnknown = element (unsafeCoerce mdDeviceUnknown_)
+mdDeviceUnknown = element (unsafeCoerce _mdDeviceUnknown)
 
-foreign import mdDialerSip_ :: ReactIcon
+foreign import _mdDialerSip :: ReactIcon
 
 mdDialerSip :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdDialerSip = element (unsafeCoerce mdDialerSip_)
+mdDialerSip = element (unsafeCoerce _mdDialerSip)
 
-foreign import mdDialpad_ :: ReactIcon
+foreign import _mdDialpad :: ReactIcon
 
 mdDialpad :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdDialpad = element (unsafeCoerce mdDialpad_)
+mdDialpad = element (unsafeCoerce _mdDialpad)
 
-foreign import mdDining_ :: ReactIcon
+foreign import _mdDining :: ReactIcon
 
 mdDining :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdDining = element (unsafeCoerce mdDining_)
+mdDining = element (unsafeCoerce _mdDining)
 
-foreign import mdDinnerDining_ :: ReactIcon
+foreign import _mdDinnerDining :: ReactIcon
 
 mdDinnerDining :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdDinnerDining = element (unsafeCoerce mdDinnerDining_)
+mdDinnerDining = element (unsafeCoerce _mdDinnerDining)
 
-foreign import mdDirections_ :: ReactIcon
+foreign import _mdDirections :: ReactIcon
 
 mdDirections :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdDirections = element (unsafeCoerce mdDirections_)
+mdDirections = element (unsafeCoerce _mdDirections)
 
-foreign import mdDirectionsBike_ :: ReactIcon
+foreign import _mdDirectionsBike :: ReactIcon
 
 mdDirectionsBike :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdDirectionsBike = element (unsafeCoerce mdDirectionsBike_)
+mdDirectionsBike = element (unsafeCoerce _mdDirectionsBike)
 
-foreign import mdDirectionsBoat_ :: ReactIcon
+foreign import _mdDirectionsBoat :: ReactIcon
 
 mdDirectionsBoat :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdDirectionsBoat = element (unsafeCoerce mdDirectionsBoat_)
+mdDirectionsBoat = element (unsafeCoerce _mdDirectionsBoat)
 
-foreign import mdDirectionsBoatFilled_ :: ReactIcon
+foreign import _mdDirectionsBoatFilled :: ReactIcon
 
 mdDirectionsBoatFilled :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdDirectionsBoatFilled = element (unsafeCoerce mdDirectionsBoatFilled_)
+mdDirectionsBoatFilled = element (unsafeCoerce _mdDirectionsBoatFilled)
 
-foreign import mdDirectionsBus_ :: ReactIcon
+foreign import _mdDirectionsBus :: ReactIcon
 
 mdDirectionsBus :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdDirectionsBus = element (unsafeCoerce mdDirectionsBus_)
+mdDirectionsBus = element (unsafeCoerce _mdDirectionsBus)
 
-foreign import mdDirectionsBusFilled_ :: ReactIcon
+foreign import _mdDirectionsBusFilled :: ReactIcon
 
 mdDirectionsBusFilled :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdDirectionsBusFilled = element (unsafeCoerce mdDirectionsBusFilled_)
+mdDirectionsBusFilled = element (unsafeCoerce _mdDirectionsBusFilled)
 
-foreign import mdDirectionsCar_ :: ReactIcon
+foreign import _mdDirectionsCar :: ReactIcon
 
 mdDirectionsCar :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdDirectionsCar = element (unsafeCoerce mdDirectionsCar_)
+mdDirectionsCar = element (unsafeCoerce _mdDirectionsCar)
 
-foreign import mdDirectionsCarFilled_ :: ReactIcon
+foreign import _mdDirectionsCarFilled :: ReactIcon
 
 mdDirectionsCarFilled :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdDirectionsCarFilled = element (unsafeCoerce mdDirectionsCarFilled_)
+mdDirectionsCarFilled = element (unsafeCoerce _mdDirectionsCarFilled)
 
-foreign import mdDirectionsOff_ :: ReactIcon
+foreign import _mdDirectionsOff :: ReactIcon
 
 mdDirectionsOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdDirectionsOff = element (unsafeCoerce mdDirectionsOff_)
+mdDirectionsOff = element (unsafeCoerce _mdDirectionsOff)
 
-foreign import mdDirectionsRailway_ :: ReactIcon
+foreign import _mdDirectionsRailway :: ReactIcon
 
 mdDirectionsRailway :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdDirectionsRailway = element (unsafeCoerce mdDirectionsRailway_)
+mdDirectionsRailway = element (unsafeCoerce _mdDirectionsRailway)
 
-foreign import mdDirectionsRailwayFilled_ :: ReactIcon
+foreign import _mdDirectionsRailwayFilled :: ReactIcon
 
 mdDirectionsRailwayFilled :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdDirectionsRailwayFilled = element (unsafeCoerce mdDirectionsRailwayFilled_)
+mdDirectionsRailwayFilled = element (unsafeCoerce _mdDirectionsRailwayFilled)
 
-foreign import mdDirectionsRun_ :: ReactIcon
+foreign import _mdDirectionsRun :: ReactIcon
 
 mdDirectionsRun :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdDirectionsRun = element (unsafeCoerce mdDirectionsRun_)
+mdDirectionsRun = element (unsafeCoerce _mdDirectionsRun)
 
-foreign import mdDirectionsSubway_ :: ReactIcon
+foreign import _mdDirectionsSubway :: ReactIcon
 
 mdDirectionsSubway :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdDirectionsSubway = element (unsafeCoerce mdDirectionsSubway_)
+mdDirectionsSubway = element (unsafeCoerce _mdDirectionsSubway)
 
-foreign import mdDirectionsSubwayFilled_ :: ReactIcon
+foreign import _mdDirectionsSubwayFilled :: ReactIcon
 
 mdDirectionsSubwayFilled :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdDirectionsSubwayFilled = element (unsafeCoerce mdDirectionsSubwayFilled_)
+mdDirectionsSubwayFilled = element (unsafeCoerce _mdDirectionsSubwayFilled)
 
-foreign import mdDirectionsTransit_ :: ReactIcon
+foreign import _mdDirectionsTransit :: ReactIcon
 
 mdDirectionsTransit :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdDirectionsTransit = element (unsafeCoerce mdDirectionsTransit_)
+mdDirectionsTransit = element (unsafeCoerce _mdDirectionsTransit)
 
-foreign import mdDirectionsTransitFilled_ :: ReactIcon
+foreign import _mdDirectionsTransitFilled :: ReactIcon
 
 mdDirectionsTransitFilled :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdDirectionsTransitFilled = element (unsafeCoerce mdDirectionsTransitFilled_)
+mdDirectionsTransitFilled = element (unsafeCoerce _mdDirectionsTransitFilled)
 
-foreign import mdDirectionsWalk_ :: ReactIcon
+foreign import _mdDirectionsWalk :: ReactIcon
 
 mdDirectionsWalk :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdDirectionsWalk = element (unsafeCoerce mdDirectionsWalk_)
+mdDirectionsWalk = element (unsafeCoerce _mdDirectionsWalk)
 
-foreign import mdDirtyLens_ :: ReactIcon
+foreign import _mdDirtyLens :: ReactIcon
 
 mdDirtyLens :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdDirtyLens = element (unsafeCoerce mdDirtyLens_)
+mdDirtyLens = element (unsafeCoerce _mdDirtyLens)
 
-foreign import mdDisabledByDefault_ :: ReactIcon
+foreign import _mdDisabledByDefault :: ReactIcon
 
 mdDisabledByDefault :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdDisabledByDefault = element (unsafeCoerce mdDisabledByDefault_)
+mdDisabledByDefault = element (unsafeCoerce _mdDisabledByDefault)
 
-foreign import mdDisabledVisible_ :: ReactIcon
+foreign import _mdDisabledVisible :: ReactIcon
 
 mdDisabledVisible :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdDisabledVisible = element (unsafeCoerce mdDisabledVisible_)
+mdDisabledVisible = element (unsafeCoerce _mdDisabledVisible)
 
-foreign import mdDiscFull_ :: ReactIcon
+foreign import _mdDiscFull :: ReactIcon
 
 mdDiscFull :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdDiscFull = element (unsafeCoerce mdDiscFull_)
+mdDiscFull = element (unsafeCoerce _mdDiscFull)
 
-foreign import mdDns_ :: ReactIcon
+foreign import _mdDns :: ReactIcon
 
 mdDns :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdDns = element (unsafeCoerce mdDns_)
+mdDns = element (unsafeCoerce _mdDns)
 
-foreign import mdDock_ :: ReactIcon
+foreign import _mdDock :: ReactIcon
 
 mdDock :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdDock = element (unsafeCoerce mdDock_)
+mdDock = element (unsafeCoerce _mdDock)
 
-foreign import mdDocumentScanner_ :: ReactIcon
+foreign import _mdDocumentScanner :: ReactIcon
 
 mdDocumentScanner :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdDocumentScanner = element (unsafeCoerce mdDocumentScanner_)
+mdDocumentScanner = element (unsafeCoerce _mdDocumentScanner)
 
-foreign import mdDoDisturb_ :: ReactIcon
+foreign import _mdDoDisturb :: ReactIcon
 
 mdDoDisturb :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdDoDisturb = element (unsafeCoerce mdDoDisturb_)
+mdDoDisturb = element (unsafeCoerce _mdDoDisturb)
 
-foreign import mdDoDisturbAlt_ :: ReactIcon
+foreign import _mdDoDisturbAlt :: ReactIcon
 
 mdDoDisturbAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdDoDisturbAlt = element (unsafeCoerce mdDoDisturbAlt_)
+mdDoDisturbAlt = element (unsafeCoerce _mdDoDisturbAlt)
 
-foreign import mdDoDisturbOff_ :: ReactIcon
+foreign import _mdDoDisturbOff :: ReactIcon
 
 mdDoDisturbOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdDoDisturbOff = element (unsafeCoerce mdDoDisturbOff_)
+mdDoDisturbOff = element (unsafeCoerce _mdDoDisturbOff)
 
-foreign import mdDoDisturbOn_ :: ReactIcon
+foreign import _mdDoDisturbOn :: ReactIcon
 
 mdDoDisturbOn :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdDoDisturbOn = element (unsafeCoerce mdDoDisturbOn_)
+mdDoDisturbOn = element (unsafeCoerce _mdDoDisturbOn)
 
-foreign import mdDomain_ :: ReactIcon
+foreign import _mdDomain :: ReactIcon
 
 mdDomain :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdDomain = element (unsafeCoerce mdDomain_)
+mdDomain = element (unsafeCoerce _mdDomain)
 
-foreign import mdDomainDisabled_ :: ReactIcon
+foreign import _mdDomainDisabled :: ReactIcon
 
 mdDomainDisabled :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdDomainDisabled = element (unsafeCoerce mdDomainDisabled_)
+mdDomainDisabled = element (unsafeCoerce _mdDomainDisabled)
 
-foreign import mdDomainVerification_ :: ReactIcon
+foreign import _mdDomainVerification :: ReactIcon
 
 mdDomainVerification :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdDomainVerification = element (unsafeCoerce mdDomainVerification_)
+mdDomainVerification = element (unsafeCoerce _mdDomainVerification)
 
-foreign import mdDone_ :: ReactIcon
+foreign import _mdDone :: ReactIcon
 
 mdDone :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdDone = element (unsafeCoerce mdDone_)
+mdDone = element (unsafeCoerce _mdDone)
 
-foreign import mdDoneAll_ :: ReactIcon
+foreign import _mdDoneAll :: ReactIcon
 
 mdDoneAll :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdDoneAll = element (unsafeCoerce mdDoneAll_)
+mdDoneAll = element (unsafeCoerce _mdDoneAll)
 
-foreign import mdDoneOutline_ :: ReactIcon
+foreign import _mdDoneOutline :: ReactIcon
 
 mdDoneOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdDoneOutline = element (unsafeCoerce mdDoneOutline_)
+mdDoneOutline = element (unsafeCoerce _mdDoneOutline)
 
-foreign import mdDoNotDisturb_ :: ReactIcon
+foreign import _mdDoNotDisturb :: ReactIcon
 
 mdDoNotDisturb :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdDoNotDisturb = element (unsafeCoerce mdDoNotDisturb_)
+mdDoNotDisturb = element (unsafeCoerce _mdDoNotDisturb)
 
-foreign import mdDoNotDisturbAlt_ :: ReactIcon
+foreign import _mdDoNotDisturbAlt :: ReactIcon
 
 mdDoNotDisturbAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdDoNotDisturbAlt = element (unsafeCoerce mdDoNotDisturbAlt_)
+mdDoNotDisturbAlt = element (unsafeCoerce _mdDoNotDisturbAlt)
 
-foreign import mdDoNotDisturbOff_ :: ReactIcon
+foreign import _mdDoNotDisturbOff :: ReactIcon
 
 mdDoNotDisturbOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdDoNotDisturbOff = element (unsafeCoerce mdDoNotDisturbOff_)
+mdDoNotDisturbOff = element (unsafeCoerce _mdDoNotDisturbOff)
 
-foreign import mdDoNotDisturbOn_ :: ReactIcon
+foreign import _mdDoNotDisturbOn :: ReactIcon
 
 mdDoNotDisturbOn :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdDoNotDisturbOn = element (unsafeCoerce mdDoNotDisturbOn_)
+mdDoNotDisturbOn = element (unsafeCoerce _mdDoNotDisturbOn)
 
-foreign import mdDoNotDisturbOnTotalSilence_ :: ReactIcon
+foreign import _mdDoNotDisturbOnTotalSilence :: ReactIcon
 
 mdDoNotDisturbOnTotalSilence :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdDoNotDisturbOnTotalSilence = element (unsafeCoerce mdDoNotDisturbOnTotalSilence_)
+mdDoNotDisturbOnTotalSilence = element (unsafeCoerce _mdDoNotDisturbOnTotalSilence)
 
-foreign import mdDoNotStep_ :: ReactIcon
+foreign import _mdDoNotStep :: ReactIcon
 
 mdDoNotStep :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdDoNotStep = element (unsafeCoerce mdDoNotStep_)
+mdDoNotStep = element (unsafeCoerce _mdDoNotStep)
 
-foreign import mdDoNotTouch_ :: ReactIcon
+foreign import _mdDoNotTouch :: ReactIcon
 
 mdDoNotTouch :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdDoNotTouch = element (unsafeCoerce mdDoNotTouch_)
+mdDoNotTouch = element (unsafeCoerce _mdDoNotTouch)
 
-foreign import mdDonutLarge_ :: ReactIcon
+foreign import _mdDonutLarge :: ReactIcon
 
 mdDonutLarge :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdDonutLarge = element (unsafeCoerce mdDonutLarge_)
+mdDonutLarge = element (unsafeCoerce _mdDonutLarge)
 
-foreign import mdDonutSmall_ :: ReactIcon
+foreign import _mdDonutSmall :: ReactIcon
 
 mdDonutSmall :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdDonutSmall = element (unsafeCoerce mdDonutSmall_)
+mdDonutSmall = element (unsafeCoerce _mdDonutSmall)
 
-foreign import mdDoorBack_ :: ReactIcon
+foreign import _mdDoorBack :: ReactIcon
 
 mdDoorBack :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdDoorBack = element (unsafeCoerce mdDoorBack_)
+mdDoorBack = element (unsafeCoerce _mdDoorBack)
 
-foreign import mdDoorbell_ :: ReactIcon
+foreign import _mdDoorbell :: ReactIcon
 
 mdDoorbell :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdDoorbell = element (unsafeCoerce mdDoorbell_)
+mdDoorbell = element (unsafeCoerce _mdDoorbell)
 
-foreign import mdDoorFront_ :: ReactIcon
+foreign import _mdDoorFront :: ReactIcon
 
 mdDoorFront :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdDoorFront = element (unsafeCoerce mdDoorFront_)
+mdDoorFront = element (unsafeCoerce _mdDoorFront)
 
-foreign import mdDoorSliding_ :: ReactIcon
+foreign import _mdDoorSliding :: ReactIcon
 
 mdDoorSliding :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdDoorSliding = element (unsafeCoerce mdDoorSliding_)
+mdDoorSliding = element (unsafeCoerce _mdDoorSliding)
 
-foreign import mdDoubleArrow_ :: ReactIcon
+foreign import _mdDoubleArrow :: ReactIcon
 
 mdDoubleArrow :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdDoubleArrow = element (unsafeCoerce mdDoubleArrow_)
+mdDoubleArrow = element (unsafeCoerce _mdDoubleArrow)
 
-foreign import mdDownhillSkiing_ :: ReactIcon
+foreign import _mdDownhillSkiing :: ReactIcon
 
 mdDownhillSkiing :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdDownhillSkiing = element (unsafeCoerce mdDownhillSkiing_)
+mdDownhillSkiing = element (unsafeCoerce _mdDownhillSkiing)
 
-foreign import mdDownload_ :: ReactIcon
+foreign import _mdDownload :: ReactIcon
 
 mdDownload :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdDownload = element (unsafeCoerce mdDownload_)
+mdDownload = element (unsafeCoerce _mdDownload)
 
-foreign import mdDownloadDone_ :: ReactIcon
+foreign import _mdDownloadDone :: ReactIcon
 
 mdDownloadDone :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdDownloadDone = element (unsafeCoerce mdDownloadDone_)
+mdDownloadDone = element (unsafeCoerce _mdDownloadDone)
 
-foreign import mdDownloadForOffline_ :: ReactIcon
+foreign import _mdDownloadForOffline :: ReactIcon
 
 mdDownloadForOffline :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdDownloadForOffline = element (unsafeCoerce mdDownloadForOffline_)
+mdDownloadForOffline = element (unsafeCoerce _mdDownloadForOffline)
 
-foreign import mdDownloading_ :: ReactIcon
+foreign import _mdDownloading :: ReactIcon
 
 mdDownloading :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdDownloading = element (unsafeCoerce mdDownloading_)
+mdDownloading = element (unsafeCoerce _mdDownloading)
 
-foreign import mdDrafts_ :: ReactIcon
+foreign import _mdDrafts :: ReactIcon
 
 mdDrafts :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdDrafts = element (unsafeCoerce mdDrafts_)
+mdDrafts = element (unsafeCoerce _mdDrafts)
 
-foreign import mdDragHandle_ :: ReactIcon
+foreign import _mdDragHandle :: ReactIcon
 
 mdDragHandle :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdDragHandle = element (unsafeCoerce mdDragHandle_)
+mdDragHandle = element (unsafeCoerce _mdDragHandle)
 
-foreign import mdDragIndicator_ :: ReactIcon
+foreign import _mdDragIndicator :: ReactIcon
 
 mdDragIndicator :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdDragIndicator = element (unsafeCoerce mdDragIndicator_)
+mdDragIndicator = element (unsafeCoerce _mdDragIndicator)
 
-foreign import mdDraw_ :: ReactIcon
+foreign import _mdDraw :: ReactIcon
 
 mdDraw :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdDraw = element (unsafeCoerce mdDraw_)
+mdDraw = element (unsafeCoerce _mdDraw)
 
-foreign import mdDriveEta_ :: ReactIcon
+foreign import _mdDriveEta :: ReactIcon
 
 mdDriveEta :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdDriveEta = element (unsafeCoerce mdDriveEta_)
+mdDriveEta = element (unsafeCoerce _mdDriveEta)
 
-foreign import mdDriveFileMove_ :: ReactIcon
+foreign import _mdDriveFileMove :: ReactIcon
 
 mdDriveFileMove :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdDriveFileMove = element (unsafeCoerce mdDriveFileMove_)
+mdDriveFileMove = element (unsafeCoerce _mdDriveFileMove)
 
-foreign import mdDriveFileMoveOutline_ :: ReactIcon
+foreign import _mdDriveFileMoveOutline :: ReactIcon
 
 mdDriveFileMoveOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdDriveFileMoveOutline = element (unsafeCoerce mdDriveFileMoveOutline_)
+mdDriveFileMoveOutline = element (unsafeCoerce _mdDriveFileMoveOutline)
 
-foreign import mdDriveFileMoveRtl_ :: ReactIcon
+foreign import _mdDriveFileMoveRtl :: ReactIcon
 
 mdDriveFileMoveRtl :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdDriveFileMoveRtl = element (unsafeCoerce mdDriveFileMoveRtl_)
+mdDriveFileMoveRtl = element (unsafeCoerce _mdDriveFileMoveRtl)
 
-foreign import mdDriveFileRenameOutline_ :: ReactIcon
+foreign import _mdDriveFileRenameOutline :: ReactIcon
 
 mdDriveFileRenameOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdDriveFileRenameOutline = element (unsafeCoerce mdDriveFileRenameOutline_)
+mdDriveFileRenameOutline = element (unsafeCoerce _mdDriveFileRenameOutline)
 
-foreign import mdDriveFolderUpload_ :: ReactIcon
+foreign import _mdDriveFolderUpload :: ReactIcon
 
 mdDriveFolderUpload :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdDriveFolderUpload = element (unsafeCoerce mdDriveFolderUpload_)
+mdDriveFolderUpload = element (unsafeCoerce _mdDriveFolderUpload)
 
-foreign import mdDry_ :: ReactIcon
+foreign import _mdDry :: ReactIcon
 
 mdDry :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdDry = element (unsafeCoerce mdDry_)
+mdDry = element (unsafeCoerce _mdDry)
 
-foreign import mdDryCleaning_ :: ReactIcon
+foreign import _mdDryCleaning :: ReactIcon
 
 mdDryCleaning :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdDryCleaning = element (unsafeCoerce mdDryCleaning_)
+mdDryCleaning = element (unsafeCoerce _mdDryCleaning)
 
-foreign import mdDuo_ :: ReactIcon
+foreign import _mdDuo :: ReactIcon
 
 mdDuo :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdDuo = element (unsafeCoerce mdDuo_)
+mdDuo = element (unsafeCoerce _mdDuo)
 
-foreign import mdDvr_ :: ReactIcon
+foreign import _mdDvr :: ReactIcon
 
 mdDvr :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdDvr = element (unsafeCoerce mdDvr_)
+mdDvr = element (unsafeCoerce _mdDvr)
 
-foreign import mdDynamicFeed_ :: ReactIcon
+foreign import _mdDynamicFeed :: ReactIcon
 
 mdDynamicFeed :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdDynamicFeed = element (unsafeCoerce mdDynamicFeed_)
+mdDynamicFeed = element (unsafeCoerce _mdDynamicFeed)
 
-foreign import mdDynamicForm_ :: ReactIcon
+foreign import _mdDynamicForm :: ReactIcon
 
 mdDynamicForm :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdDynamicForm = element (unsafeCoerce mdDynamicForm_)
+mdDynamicForm = element (unsafeCoerce _mdDynamicForm)
 
-foreign import mdEarbuds_ :: ReactIcon
+foreign import _mdEarbuds :: ReactIcon
 
 mdEarbuds :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdEarbuds = element (unsafeCoerce mdEarbuds_)
+mdEarbuds = element (unsafeCoerce _mdEarbuds)
 
-foreign import mdEarbudsBattery_ :: ReactIcon
+foreign import _mdEarbudsBattery :: ReactIcon
 
 mdEarbudsBattery :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdEarbudsBattery = element (unsafeCoerce mdEarbudsBattery_)
+mdEarbudsBattery = element (unsafeCoerce _mdEarbudsBattery)
 
-foreign import mdEast_ :: ReactIcon
+foreign import _mdEast :: ReactIcon
 
 mdEast :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdEast = element (unsafeCoerce mdEast_)
+mdEast = element (unsafeCoerce _mdEast)
 
-foreign import mdEco_ :: ReactIcon
+foreign import _mdEco :: ReactIcon
 
 mdEco :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdEco = element (unsafeCoerce mdEco_)
+mdEco = element (unsafeCoerce _mdEco)
 
-foreign import mdEdgesensorHigh_ :: ReactIcon
+foreign import _mdEdgesensorHigh :: ReactIcon
 
 mdEdgesensorHigh :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdEdgesensorHigh = element (unsafeCoerce mdEdgesensorHigh_)
+mdEdgesensorHigh = element (unsafeCoerce _mdEdgesensorHigh)
 
-foreign import mdEdgesensorLow_ :: ReactIcon
+foreign import _mdEdgesensorLow :: ReactIcon
 
 mdEdgesensorLow :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdEdgesensorLow = element (unsafeCoerce mdEdgesensorLow_)
+mdEdgesensorLow = element (unsafeCoerce _mdEdgesensorLow)
 
-foreign import mdEdit_ :: ReactIcon
+foreign import _mdEdit :: ReactIcon
 
 mdEdit :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdEdit = element (unsafeCoerce mdEdit_)
+mdEdit = element (unsafeCoerce _mdEdit)
 
-foreign import mdEditAttributes_ :: ReactIcon
+foreign import _mdEditAttributes :: ReactIcon
 
 mdEditAttributes :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdEditAttributes = element (unsafeCoerce mdEditAttributes_)
+mdEditAttributes = element (unsafeCoerce _mdEditAttributes)
 
-foreign import mdEditCalendar_ :: ReactIcon
+foreign import _mdEditCalendar :: ReactIcon
 
 mdEditCalendar :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdEditCalendar = element (unsafeCoerce mdEditCalendar_)
+mdEditCalendar = element (unsafeCoerce _mdEditCalendar)
 
-foreign import mdEditLocation_ :: ReactIcon
+foreign import _mdEditLocation :: ReactIcon
 
 mdEditLocation :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdEditLocation = element (unsafeCoerce mdEditLocation_)
+mdEditLocation = element (unsafeCoerce _mdEditLocation)
 
-foreign import mdEditLocationAlt_ :: ReactIcon
+foreign import _mdEditLocationAlt :: ReactIcon
 
 mdEditLocationAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdEditLocationAlt = element (unsafeCoerce mdEditLocationAlt_)
+mdEditLocationAlt = element (unsafeCoerce _mdEditLocationAlt)
 
-foreign import mdEditNote_ :: ReactIcon
+foreign import _mdEditNote :: ReactIcon
 
 mdEditNote :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdEditNote = element (unsafeCoerce mdEditNote_)
+mdEditNote = element (unsafeCoerce _mdEditNote)
 
-foreign import mdEditNotifications_ :: ReactIcon
+foreign import _mdEditNotifications :: ReactIcon
 
 mdEditNotifications :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdEditNotifications = element (unsafeCoerce mdEditNotifications_)
+mdEditNotifications = element (unsafeCoerce _mdEditNotifications)
 
-foreign import mdEditOff_ :: ReactIcon
+foreign import _mdEditOff :: ReactIcon
 
 mdEditOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdEditOff = element (unsafeCoerce mdEditOff_)
+mdEditOff = element (unsafeCoerce _mdEditOff)
 
-foreign import mdEditRoad_ :: ReactIcon
+foreign import _mdEditRoad :: ReactIcon
 
 mdEditRoad :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdEditRoad = element (unsafeCoerce mdEditRoad_)
+mdEditRoad = element (unsafeCoerce _mdEditRoad)
 
-foreign import mdEject_ :: ReactIcon
+foreign import _mdEject :: ReactIcon
 
 mdEject :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdEject = element (unsafeCoerce mdEject_)
+mdEject = element (unsafeCoerce _mdEject)
 
-foreign import mdElderly_ :: ReactIcon
+foreign import _mdElderly :: ReactIcon
 
 mdElderly :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdElderly = element (unsafeCoerce mdElderly_)
+mdElderly = element (unsafeCoerce _mdElderly)
 
-foreign import mdElectricalServices_ :: ReactIcon
+foreign import _mdElectricalServices :: ReactIcon
 
 mdElectricalServices :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdElectricalServices = element (unsafeCoerce mdElectricalServices_)
+mdElectricalServices = element (unsafeCoerce _mdElectricalServices)
 
-foreign import mdElectricBike_ :: ReactIcon
+foreign import _mdElectricBike :: ReactIcon
 
 mdElectricBike :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdElectricBike = element (unsafeCoerce mdElectricBike_)
+mdElectricBike = element (unsafeCoerce _mdElectricBike)
 
-foreign import mdElectricCar_ :: ReactIcon
+foreign import _mdElectricCar :: ReactIcon
 
 mdElectricCar :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdElectricCar = element (unsafeCoerce mdElectricCar_)
+mdElectricCar = element (unsafeCoerce _mdElectricCar)
 
-foreign import mdElectricMoped_ :: ReactIcon
+foreign import _mdElectricMoped :: ReactIcon
 
 mdElectricMoped :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdElectricMoped = element (unsafeCoerce mdElectricMoped_)
+mdElectricMoped = element (unsafeCoerce _mdElectricMoped)
 
-foreign import mdElectricRickshaw_ :: ReactIcon
+foreign import _mdElectricRickshaw :: ReactIcon
 
 mdElectricRickshaw :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdElectricRickshaw = element (unsafeCoerce mdElectricRickshaw_)
+mdElectricRickshaw = element (unsafeCoerce _mdElectricRickshaw)
 
-foreign import mdElectricScooter_ :: ReactIcon
+foreign import _mdElectricScooter :: ReactIcon
 
 mdElectricScooter :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdElectricScooter = element (unsafeCoerce mdElectricScooter_)
+mdElectricScooter = element (unsafeCoerce _mdElectricScooter)
 
-foreign import mdElevator_ :: ReactIcon
+foreign import _mdElevator :: ReactIcon
 
 mdElevator :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdElevator = element (unsafeCoerce mdElevator_)
+mdElevator = element (unsafeCoerce _mdElevator)
 
-foreign import mdEmail_ :: ReactIcon
+foreign import _mdEmail :: ReactIcon
 
 mdEmail :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdEmail = element (unsafeCoerce mdEmail_)
+mdEmail = element (unsafeCoerce _mdEmail)
 
-foreign import mdEmergency_ :: ReactIcon
+foreign import _mdEmergency :: ReactIcon
 
 mdEmergency :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdEmergency = element (unsafeCoerce mdEmergency_)
+mdEmergency = element (unsafeCoerce _mdEmergency)
 
-foreign import mdEMobiledata_ :: ReactIcon
+foreign import _mdEMobiledata :: ReactIcon
 
 mdEMobiledata :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdEMobiledata = element (unsafeCoerce mdEMobiledata_)
+mdEMobiledata = element (unsafeCoerce _mdEMobiledata)
 
-foreign import mdEmojiEmotions_ :: ReactIcon
+foreign import _mdEmojiEmotions :: ReactIcon
 
 mdEmojiEmotions :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdEmojiEmotions = element (unsafeCoerce mdEmojiEmotions_)
+mdEmojiEmotions = element (unsafeCoerce _mdEmojiEmotions)
 
-foreign import mdEmojiEvents_ :: ReactIcon
+foreign import _mdEmojiEvents :: ReactIcon
 
 mdEmojiEvents :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdEmojiEvents = element (unsafeCoerce mdEmojiEvents_)
+mdEmojiEvents = element (unsafeCoerce _mdEmojiEvents)
 
-foreign import mdEmojiFlags_ :: ReactIcon
+foreign import _mdEmojiFlags :: ReactIcon
 
 mdEmojiFlags :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdEmojiFlags = element (unsafeCoerce mdEmojiFlags_)
+mdEmojiFlags = element (unsafeCoerce _mdEmojiFlags)
 
-foreign import mdEmojiFoodBeverage_ :: ReactIcon
+foreign import _mdEmojiFoodBeverage :: ReactIcon
 
 mdEmojiFoodBeverage :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdEmojiFoodBeverage = element (unsafeCoerce mdEmojiFoodBeverage_)
+mdEmojiFoodBeverage = element (unsafeCoerce _mdEmojiFoodBeverage)
 
-foreign import mdEmojiNature_ :: ReactIcon
+foreign import _mdEmojiNature :: ReactIcon
 
 mdEmojiNature :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdEmojiNature = element (unsafeCoerce mdEmojiNature_)
+mdEmojiNature = element (unsafeCoerce _mdEmojiNature)
 
-foreign import mdEmojiObjects_ :: ReactIcon
+foreign import _mdEmojiObjects :: ReactIcon
 
 mdEmojiObjects :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdEmojiObjects = element (unsafeCoerce mdEmojiObjects_)
+mdEmojiObjects = element (unsafeCoerce _mdEmojiObjects)
 
-foreign import mdEmojiPeople_ :: ReactIcon
+foreign import _mdEmojiPeople :: ReactIcon
 
 mdEmojiPeople :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdEmojiPeople = element (unsafeCoerce mdEmojiPeople_)
+mdEmojiPeople = element (unsafeCoerce _mdEmojiPeople)
 
-foreign import mdEmojiSymbols_ :: ReactIcon
+foreign import _mdEmojiSymbols :: ReactIcon
 
 mdEmojiSymbols :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdEmojiSymbols = element (unsafeCoerce mdEmojiSymbols_)
+mdEmojiSymbols = element (unsafeCoerce _mdEmojiSymbols)
 
-foreign import mdEmojiTransportation_ :: ReactIcon
+foreign import _mdEmojiTransportation :: ReactIcon
 
 mdEmojiTransportation :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdEmojiTransportation = element (unsafeCoerce mdEmojiTransportation_)
+mdEmojiTransportation = element (unsafeCoerce _mdEmojiTransportation)
 
-foreign import mdEngineering_ :: ReactIcon
+foreign import _mdEngineering :: ReactIcon
 
 mdEngineering :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdEngineering = element (unsafeCoerce mdEngineering_)
+mdEngineering = element (unsafeCoerce _mdEngineering)
 
-foreign import mdEnhancedEncryption_ :: ReactIcon
+foreign import _mdEnhancedEncryption :: ReactIcon
 
 mdEnhancedEncryption :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdEnhancedEncryption = element (unsafeCoerce mdEnhancedEncryption_)
+mdEnhancedEncryption = element (unsafeCoerce _mdEnhancedEncryption)
 
-foreign import mdEqualizer_ :: ReactIcon
+foreign import _mdEqualizer :: ReactIcon
 
 mdEqualizer :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdEqualizer = element (unsafeCoerce mdEqualizer_)
+mdEqualizer = element (unsafeCoerce _mdEqualizer)
 
-foreign import mdError_ :: ReactIcon
+foreign import _mdError :: ReactIcon
 
 mdError :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdError = element (unsafeCoerce mdError_)
+mdError = element (unsafeCoerce _mdError)
 
-foreign import mdErrorOutline_ :: ReactIcon
+foreign import _mdErrorOutline :: ReactIcon
 
 mdErrorOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdErrorOutline = element (unsafeCoerce mdErrorOutline_)
+mdErrorOutline = element (unsafeCoerce _mdErrorOutline)
 
-foreign import mdEscalator_ :: ReactIcon
+foreign import _mdEscalator :: ReactIcon
 
 mdEscalator :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdEscalator = element (unsafeCoerce mdEscalator_)
+mdEscalator = element (unsafeCoerce _mdEscalator)
 
-foreign import mdEscalatorWarning_ :: ReactIcon
+foreign import _mdEscalatorWarning :: ReactIcon
 
 mdEscalatorWarning :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdEscalatorWarning = element (unsafeCoerce mdEscalatorWarning_)
+mdEscalatorWarning = element (unsafeCoerce _mdEscalatorWarning)
 
-foreign import mdEuro_ :: ReactIcon
+foreign import _mdEuro :: ReactIcon
 
 mdEuro :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdEuro = element (unsafeCoerce mdEuro_)
+mdEuro = element (unsafeCoerce _mdEuro)
 
-foreign import mdEuroSymbol_ :: ReactIcon
+foreign import _mdEuroSymbol :: ReactIcon
 
 mdEuroSymbol :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdEuroSymbol = element (unsafeCoerce mdEuroSymbol_)
+mdEuroSymbol = element (unsafeCoerce _mdEuroSymbol)
 
-foreign import mdEvent_ :: ReactIcon
+foreign import _mdEvent :: ReactIcon
 
 mdEvent :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdEvent = element (unsafeCoerce mdEvent_)
+mdEvent = element (unsafeCoerce _mdEvent)
 
-foreign import mdEventAvailable_ :: ReactIcon
+foreign import _mdEventAvailable :: ReactIcon
 
 mdEventAvailable :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdEventAvailable = element (unsafeCoerce mdEventAvailable_)
+mdEventAvailable = element (unsafeCoerce _mdEventAvailable)
 
-foreign import mdEventBusy_ :: ReactIcon
+foreign import _mdEventBusy :: ReactIcon
 
 mdEventBusy :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdEventBusy = element (unsafeCoerce mdEventBusy_)
+mdEventBusy = element (unsafeCoerce _mdEventBusy)
 
-foreign import mdEventNote_ :: ReactIcon
+foreign import _mdEventNote :: ReactIcon
 
 mdEventNote :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdEventNote = element (unsafeCoerce mdEventNote_)
+mdEventNote = element (unsafeCoerce _mdEventNote)
 
-foreign import mdEventSeat_ :: ReactIcon
+foreign import _mdEventSeat :: ReactIcon
 
 mdEventSeat :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdEventSeat = element (unsafeCoerce mdEventSeat_)
+mdEventSeat = element (unsafeCoerce _mdEventSeat)
 
-foreign import mdEvStation_ :: ReactIcon
+foreign import _mdEvStation :: ReactIcon
 
 mdEvStation :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdEvStation = element (unsafeCoerce mdEvStation_)
+mdEvStation = element (unsafeCoerce _mdEvStation)
 
-foreign import mdExitToApp_ :: ReactIcon
+foreign import _mdExitToApp :: ReactIcon
 
 mdExitToApp :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdExitToApp = element (unsafeCoerce mdExitToApp_)
+mdExitToApp = element (unsafeCoerce _mdExitToApp)
 
-foreign import mdExpand_ :: ReactIcon
+foreign import _mdExpand :: ReactIcon
 
 mdExpand :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdExpand = element (unsafeCoerce mdExpand_)
+mdExpand = element (unsafeCoerce _mdExpand)
 
-foreign import mdExpandLess_ :: ReactIcon
+foreign import _mdExpandLess :: ReactIcon
 
 mdExpandLess :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdExpandLess = element (unsafeCoerce mdExpandLess_)
+mdExpandLess = element (unsafeCoerce _mdExpandLess)
 
-foreign import mdExpandMore_ :: ReactIcon
+foreign import _mdExpandMore :: ReactIcon
 
 mdExpandMore :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdExpandMore = element (unsafeCoerce mdExpandMore_)
+mdExpandMore = element (unsafeCoerce _mdExpandMore)
 
-foreign import mdExplicit_ :: ReactIcon
+foreign import _mdExplicit :: ReactIcon
 
 mdExplicit :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdExplicit = element (unsafeCoerce mdExplicit_)
+mdExplicit = element (unsafeCoerce _mdExplicit)
 
-foreign import mdExplore_ :: ReactIcon
+foreign import _mdExplore :: ReactIcon
 
 mdExplore :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdExplore = element (unsafeCoerce mdExplore_)
+mdExplore = element (unsafeCoerce _mdExplore)
 
-foreign import mdExploreOff_ :: ReactIcon
+foreign import _mdExploreOff :: ReactIcon
 
 mdExploreOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdExploreOff = element (unsafeCoerce mdExploreOff_)
+mdExploreOff = element (unsafeCoerce _mdExploreOff)
 
-foreign import mdExposure_ :: ReactIcon
+foreign import _mdExposure :: ReactIcon
 
 mdExposure :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdExposure = element (unsafeCoerce mdExposure_)
+mdExposure = element (unsafeCoerce _mdExposure)
 
-foreign import mdExposureZero_ :: ReactIcon
+foreign import _mdExposureZero :: ReactIcon
 
 mdExposureZero :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdExposureZero = element (unsafeCoerce mdExposureZero_)
+mdExposureZero = element (unsafeCoerce _mdExposureZero)
 
-foreign import mdExtension_ :: ReactIcon
+foreign import _mdExtension :: ReactIcon
 
 mdExtension :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdExtension = element (unsafeCoerce mdExtension_)
+mdExtension = element (unsafeCoerce _mdExtension)
 
-foreign import mdExtensionOff_ :: ReactIcon
+foreign import _mdExtensionOff :: ReactIcon
 
 mdExtensionOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdExtensionOff = element (unsafeCoerce mdExtensionOff_)
+mdExtensionOff = element (unsafeCoerce _mdExtensionOff)
 
-foreign import mdFace_ :: ReactIcon
+foreign import _mdFace :: ReactIcon
 
 mdFace :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdFace = element (unsafeCoerce mdFace_)
+mdFace = element (unsafeCoerce _mdFace)
 
-foreign import mdFacebook_ :: ReactIcon
+foreign import _mdFacebook :: ReactIcon
 
 mdFacebook :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdFacebook = element (unsafeCoerce mdFacebook_)
+mdFacebook = element (unsafeCoerce _mdFacebook)
 
-foreign import mdFaceRetouchingNatural_ :: ReactIcon
+foreign import _mdFaceRetouchingNatural :: ReactIcon
 
 mdFaceRetouchingNatural :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdFaceRetouchingNatural = element (unsafeCoerce mdFaceRetouchingNatural_)
+mdFaceRetouchingNatural = element (unsafeCoerce _mdFaceRetouchingNatural)
 
-foreign import mdFaceRetouchingOff_ :: ReactIcon
+foreign import _mdFaceRetouchingOff :: ReactIcon
 
 mdFaceRetouchingOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdFaceRetouchingOff = element (unsafeCoerce mdFaceRetouchingOff_)
+mdFaceRetouchingOff = element (unsafeCoerce _mdFaceRetouchingOff)
 
-foreign import mdFaceUnlock_ :: ReactIcon
+foreign import _mdFaceUnlock :: ReactIcon
 
 mdFaceUnlock :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdFaceUnlock = element (unsafeCoerce mdFaceUnlock_)
+mdFaceUnlock = element (unsafeCoerce _mdFaceUnlock)
 
-foreign import mdFactCheck_ :: ReactIcon
+foreign import _mdFactCheck :: ReactIcon
 
 mdFactCheck :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdFactCheck = element (unsafeCoerce mdFactCheck_)
+mdFactCheck = element (unsafeCoerce _mdFactCheck)
 
-foreign import mdFamilyRestroom_ :: ReactIcon
+foreign import _mdFamilyRestroom :: ReactIcon
 
 mdFamilyRestroom :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdFamilyRestroom = element (unsafeCoerce mdFamilyRestroom_)
+mdFamilyRestroom = element (unsafeCoerce _mdFamilyRestroom)
 
-foreign import mdFastfood_ :: ReactIcon
+foreign import _mdFastfood :: ReactIcon
 
 mdFastfood :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdFastfood = element (unsafeCoerce mdFastfood_)
+mdFastfood = element (unsafeCoerce _mdFastfood)
 
-foreign import mdFastForward_ :: ReactIcon
+foreign import _mdFastForward :: ReactIcon
 
 mdFastForward :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdFastForward = element (unsafeCoerce mdFastForward_)
+mdFastForward = element (unsafeCoerce _mdFastForward)
 
-foreign import mdFastRewind_ :: ReactIcon
+foreign import _mdFastRewind :: ReactIcon
 
 mdFastRewind :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdFastRewind = element (unsafeCoerce mdFastRewind_)
+mdFastRewind = element (unsafeCoerce _mdFastRewind)
 
-foreign import mdFavorite_ :: ReactIcon
+foreign import _mdFavorite :: ReactIcon
 
 mdFavorite :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdFavorite = element (unsafeCoerce mdFavorite_)
+mdFavorite = element (unsafeCoerce _mdFavorite)
 
-foreign import mdFavoriteBorder_ :: ReactIcon
+foreign import _mdFavoriteBorder :: ReactIcon
 
 mdFavoriteBorder :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdFavoriteBorder = element (unsafeCoerce mdFavoriteBorder_)
+mdFavoriteBorder = element (unsafeCoerce _mdFavoriteBorder)
 
-foreign import mdFeaturedPlayList_ :: ReactIcon
+foreign import _mdFeaturedPlayList :: ReactIcon
 
 mdFeaturedPlayList :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdFeaturedPlayList = element (unsafeCoerce mdFeaturedPlayList_)
+mdFeaturedPlayList = element (unsafeCoerce _mdFeaturedPlayList)
 
-foreign import mdFeaturedVideo_ :: ReactIcon
+foreign import _mdFeaturedVideo :: ReactIcon
 
 mdFeaturedVideo :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdFeaturedVideo = element (unsafeCoerce mdFeaturedVideo_)
+mdFeaturedVideo = element (unsafeCoerce _mdFeaturedVideo)
 
-foreign import mdFeed_ :: ReactIcon
+foreign import _mdFeed :: ReactIcon
 
 mdFeed :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdFeed = element (unsafeCoerce mdFeed_)
+mdFeed = element (unsafeCoerce _mdFeed)
 
-foreign import mdFeedback_ :: ReactIcon
+foreign import _mdFeedback :: ReactIcon
 
 mdFeedback :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdFeedback = element (unsafeCoerce mdFeedback_)
+mdFeedback = element (unsafeCoerce _mdFeedback)
 
-foreign import mdFemale_ :: ReactIcon
+foreign import _mdFemale :: ReactIcon
 
 mdFemale :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdFemale = element (unsafeCoerce mdFemale_)
+mdFemale = element (unsafeCoerce _mdFemale)
 
-foreign import mdFence_ :: ReactIcon
+foreign import _mdFence :: ReactIcon
 
 mdFence :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdFence = element (unsafeCoerce mdFence_)
+mdFence = element (unsafeCoerce _mdFence)
 
-foreign import mdFestival_ :: ReactIcon
+foreign import _mdFestival :: ReactIcon
 
 mdFestival :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdFestival = element (unsafeCoerce mdFestival_)
+mdFestival = element (unsafeCoerce _mdFestival)
 
-foreign import mdFiberDvr_ :: ReactIcon
+foreign import _mdFiberDvr :: ReactIcon
 
 mdFiberDvr :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdFiberDvr = element (unsafeCoerce mdFiberDvr_)
+mdFiberDvr = element (unsafeCoerce _mdFiberDvr)
 
-foreign import mdFiberManualRecord_ :: ReactIcon
+foreign import _mdFiberManualRecord :: ReactIcon
 
 mdFiberManualRecord :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdFiberManualRecord = element (unsafeCoerce mdFiberManualRecord_)
+mdFiberManualRecord = element (unsafeCoerce _mdFiberManualRecord)
 
-foreign import mdFiberNew_ :: ReactIcon
+foreign import _mdFiberNew :: ReactIcon
 
 mdFiberNew :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdFiberNew = element (unsafeCoerce mdFiberNew_)
+mdFiberNew = element (unsafeCoerce _mdFiberNew)
 
-foreign import mdFiberPin_ :: ReactIcon
+foreign import _mdFiberPin :: ReactIcon
 
 mdFiberPin :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdFiberPin = element (unsafeCoerce mdFiberPin_)
+mdFiberPin = element (unsafeCoerce _mdFiberPin)
 
-foreign import mdFiberSmartRecord_ :: ReactIcon
+foreign import _mdFiberSmartRecord :: ReactIcon
 
 mdFiberSmartRecord :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdFiberSmartRecord = element (unsafeCoerce mdFiberSmartRecord_)
+mdFiberSmartRecord = element (unsafeCoerce _mdFiberSmartRecord)
 
-foreign import mdFileCopy_ :: ReactIcon
+foreign import _mdFileCopy :: ReactIcon
 
 mdFileCopy :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdFileCopy = element (unsafeCoerce mdFileCopy_)
+mdFileCopy = element (unsafeCoerce _mdFileCopy)
 
-foreign import mdFileDownload_ :: ReactIcon
+foreign import _mdFileDownload :: ReactIcon
 
 mdFileDownload :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdFileDownload = element (unsafeCoerce mdFileDownload_)
+mdFileDownload = element (unsafeCoerce _mdFileDownload)
 
-foreign import mdFileDownloadDone_ :: ReactIcon
+foreign import _mdFileDownloadDone :: ReactIcon
 
 mdFileDownloadDone :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdFileDownloadDone = element (unsafeCoerce mdFileDownloadDone_)
+mdFileDownloadDone = element (unsafeCoerce _mdFileDownloadDone)
 
-foreign import mdFileDownloadOff_ :: ReactIcon
+foreign import _mdFileDownloadOff :: ReactIcon
 
 mdFileDownloadOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdFileDownloadOff = element (unsafeCoerce mdFileDownloadOff_)
+mdFileDownloadOff = element (unsafeCoerce _mdFileDownloadOff)
 
-foreign import mdFilePresent_ :: ReactIcon
+foreign import _mdFilePresent :: ReactIcon
 
 mdFilePresent :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdFilePresent = element (unsafeCoerce mdFilePresent_)
+mdFilePresent = element (unsafeCoerce _mdFilePresent)
 
-foreign import mdFileUpload_ :: ReactIcon
+foreign import _mdFileUpload :: ReactIcon
 
 mdFileUpload :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdFileUpload = element (unsafeCoerce mdFileUpload_)
+mdFileUpload = element (unsafeCoerce _mdFileUpload)
 
-foreign import mdFilter_ :: ReactIcon
+foreign import _mdFilter :: ReactIcon
 
 mdFilter :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdFilter = element (unsafeCoerce mdFilter_)
+mdFilter = element (unsafeCoerce _mdFilter)
 
-foreign import mdFilterAlt_ :: ReactIcon
+foreign import _mdFilterAlt :: ReactIcon
 
 mdFilterAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdFilterAlt = element (unsafeCoerce mdFilterAlt_)
+mdFilterAlt = element (unsafeCoerce _mdFilterAlt)
 
-foreign import mdFilterBAndW_ :: ReactIcon
+foreign import _mdFilterBAndW :: ReactIcon
 
 mdFilterBAndW :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdFilterBAndW = element (unsafeCoerce mdFilterBAndW_)
+mdFilterBAndW = element (unsafeCoerce _mdFilterBAndW)
 
-foreign import mdFilterCenterFocus_ :: ReactIcon
+foreign import _mdFilterCenterFocus :: ReactIcon
 
 mdFilterCenterFocus :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdFilterCenterFocus = element (unsafeCoerce mdFilterCenterFocus_)
+mdFilterCenterFocus = element (unsafeCoerce _mdFilterCenterFocus)
 
-foreign import mdFilterDrama_ :: ReactIcon
+foreign import _mdFilterDrama :: ReactIcon
 
 mdFilterDrama :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdFilterDrama = element (unsafeCoerce mdFilterDrama_)
+mdFilterDrama = element (unsafeCoerce _mdFilterDrama)
 
-foreign import mdFilterFrames_ :: ReactIcon
+foreign import _mdFilterFrames :: ReactIcon
 
 mdFilterFrames :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdFilterFrames = element (unsafeCoerce mdFilterFrames_)
+mdFilterFrames = element (unsafeCoerce _mdFilterFrames)
 
-foreign import mdFilterHdr_ :: ReactIcon
+foreign import _mdFilterHdr :: ReactIcon
 
 mdFilterHdr :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdFilterHdr = element (unsafeCoerce mdFilterHdr_)
+mdFilterHdr = element (unsafeCoerce _mdFilterHdr)
 
-foreign import mdFilterList_ :: ReactIcon
+foreign import _mdFilterList :: ReactIcon
 
 mdFilterList :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdFilterList = element (unsafeCoerce mdFilterList_)
+mdFilterList = element (unsafeCoerce _mdFilterList)
 
-foreign import mdFilterListAlt_ :: ReactIcon
+foreign import _mdFilterListAlt :: ReactIcon
 
 mdFilterListAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdFilterListAlt = element (unsafeCoerce mdFilterListAlt_)
+mdFilterListAlt = element (unsafeCoerce _mdFilterListAlt)
 
-foreign import mdFilterNone_ :: ReactIcon
+foreign import _mdFilterNone :: ReactIcon
 
 mdFilterNone :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdFilterNone = element (unsafeCoerce mdFilterNone_)
+mdFilterNone = element (unsafeCoerce _mdFilterNone)
 
-foreign import mdFilterTiltShift_ :: ReactIcon
+foreign import _mdFilterTiltShift :: ReactIcon
 
 mdFilterTiltShift :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdFilterTiltShift = element (unsafeCoerce mdFilterTiltShift_)
+mdFilterTiltShift = element (unsafeCoerce _mdFilterTiltShift)
 
-foreign import mdFilterVintage_ :: ReactIcon
+foreign import _mdFilterVintage :: ReactIcon
 
 mdFilterVintage :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdFilterVintage = element (unsafeCoerce mdFilterVintage_)
+mdFilterVintage = element (unsafeCoerce _mdFilterVintage)
 
-foreign import mdFindInPage_ :: ReactIcon
+foreign import _mdFindInPage :: ReactIcon
 
 mdFindInPage :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdFindInPage = element (unsafeCoerce mdFindInPage_)
+mdFindInPage = element (unsafeCoerce _mdFindInPage)
 
-foreign import mdFindReplace_ :: ReactIcon
+foreign import _mdFindReplace :: ReactIcon
 
 mdFindReplace :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdFindReplace = element (unsafeCoerce mdFindReplace_)
+mdFindReplace = element (unsafeCoerce _mdFindReplace)
 
-foreign import mdFingerprint_ :: ReactIcon
+foreign import _mdFingerprint :: ReactIcon
 
 mdFingerprint :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdFingerprint = element (unsafeCoerce mdFingerprint_)
+mdFingerprint = element (unsafeCoerce _mdFingerprint)
 
-foreign import mdFireExtinguisher_ :: ReactIcon
+foreign import _mdFireExtinguisher :: ReactIcon
 
 mdFireExtinguisher :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdFireExtinguisher = element (unsafeCoerce mdFireExtinguisher_)
+mdFireExtinguisher = element (unsafeCoerce _mdFireExtinguisher)
 
-foreign import mdFireplace_ :: ReactIcon
+foreign import _mdFireplace :: ReactIcon
 
 mdFireplace :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdFireplace = element (unsafeCoerce mdFireplace_)
+mdFireplace = element (unsafeCoerce _mdFireplace)
 
-foreign import mdFirstPage_ :: ReactIcon
+foreign import _mdFirstPage :: ReactIcon
 
 mdFirstPage :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdFirstPage = element (unsafeCoerce mdFirstPage_)
+mdFirstPage = element (unsafeCoerce _mdFirstPage)
 
-foreign import mdFitnessCenter_ :: ReactIcon
+foreign import _mdFitnessCenter :: ReactIcon
 
 mdFitnessCenter :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdFitnessCenter = element (unsafeCoerce mdFitnessCenter_)
+mdFitnessCenter = element (unsafeCoerce _mdFitnessCenter)
 
-foreign import mdFitScreen_ :: ReactIcon
+foreign import _mdFitScreen :: ReactIcon
 
 mdFitScreen :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdFitScreen = element (unsafeCoerce mdFitScreen_)
+mdFitScreen = element (unsafeCoerce _mdFitScreen)
 
-foreign import mdFlag_ :: ReactIcon
+foreign import _mdFlag :: ReactIcon
 
 mdFlag :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdFlag = element (unsafeCoerce mdFlag_)
+mdFlag = element (unsafeCoerce _mdFlag)
 
-foreign import mdFlaky_ :: ReactIcon
+foreign import _mdFlaky :: ReactIcon
 
 mdFlaky :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdFlaky = element (unsafeCoerce mdFlaky_)
+mdFlaky = element (unsafeCoerce _mdFlaky)
 
-foreign import mdFlare_ :: ReactIcon
+foreign import _mdFlare :: ReactIcon
 
 mdFlare :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdFlare = element (unsafeCoerce mdFlare_)
+mdFlare = element (unsafeCoerce _mdFlare)
 
-foreign import mdFlashAuto_ :: ReactIcon
+foreign import _mdFlashAuto :: ReactIcon
 
 mdFlashAuto :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdFlashAuto = element (unsafeCoerce mdFlashAuto_)
+mdFlashAuto = element (unsafeCoerce _mdFlashAuto)
 
-foreign import mdFlashlightOff_ :: ReactIcon
+foreign import _mdFlashlightOff :: ReactIcon
 
 mdFlashlightOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdFlashlightOff = element (unsafeCoerce mdFlashlightOff_)
+mdFlashlightOff = element (unsafeCoerce _mdFlashlightOff)
 
-foreign import mdFlashlightOn_ :: ReactIcon
+foreign import _mdFlashlightOn :: ReactIcon
 
 mdFlashlightOn :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdFlashlightOn = element (unsafeCoerce mdFlashlightOn_)
+mdFlashlightOn = element (unsafeCoerce _mdFlashlightOn)
 
-foreign import mdFlashOff_ :: ReactIcon
+foreign import _mdFlashOff :: ReactIcon
 
 mdFlashOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdFlashOff = element (unsafeCoerce mdFlashOff_)
+mdFlashOff = element (unsafeCoerce _mdFlashOff)
 
-foreign import mdFlashOn_ :: ReactIcon
+foreign import _mdFlashOn :: ReactIcon
 
 mdFlashOn :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdFlashOn = element (unsafeCoerce mdFlashOn_)
+mdFlashOn = element (unsafeCoerce _mdFlashOn)
 
-foreign import mdFlatware_ :: ReactIcon
+foreign import _mdFlatware :: ReactIcon
 
 mdFlatware :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdFlatware = element (unsafeCoerce mdFlatware_)
+mdFlatware = element (unsafeCoerce _mdFlatware)
 
-foreign import mdFlight_ :: ReactIcon
+foreign import _mdFlight :: ReactIcon
 
 mdFlight :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdFlight = element (unsafeCoerce mdFlight_)
+mdFlight = element (unsafeCoerce _mdFlight)
 
-foreign import mdFlightLand_ :: ReactIcon
+foreign import _mdFlightLand :: ReactIcon
 
 mdFlightLand :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdFlightLand = element (unsafeCoerce mdFlightLand_)
+mdFlightLand = element (unsafeCoerce _mdFlightLand)
 
-foreign import mdFlightTakeoff_ :: ReactIcon
+foreign import _mdFlightTakeoff :: ReactIcon
 
 mdFlightTakeoff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdFlightTakeoff = element (unsafeCoerce mdFlightTakeoff_)
+mdFlightTakeoff = element (unsafeCoerce _mdFlightTakeoff)
 
-foreign import mdFlip_ :: ReactIcon
+foreign import _mdFlip :: ReactIcon
 
 mdFlip :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdFlip = element (unsafeCoerce mdFlip_)
+mdFlip = element (unsafeCoerce _mdFlip)
 
-foreign import mdFlipCameraAndroid_ :: ReactIcon
+foreign import _mdFlipCameraAndroid :: ReactIcon
 
 mdFlipCameraAndroid :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdFlipCameraAndroid = element (unsafeCoerce mdFlipCameraAndroid_)
+mdFlipCameraAndroid = element (unsafeCoerce _mdFlipCameraAndroid)
 
-foreign import mdFlipCameraIos_ :: ReactIcon
+foreign import _mdFlipCameraIos :: ReactIcon
 
 mdFlipCameraIos :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdFlipCameraIos = element (unsafeCoerce mdFlipCameraIos_)
+mdFlipCameraIos = element (unsafeCoerce _mdFlipCameraIos)
 
-foreign import mdFlipToBack_ :: ReactIcon
+foreign import _mdFlipToBack :: ReactIcon
 
 mdFlipToBack :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdFlipToBack = element (unsafeCoerce mdFlipToBack_)
+mdFlipToBack = element (unsafeCoerce _mdFlipToBack)
 
-foreign import mdFlipToFront_ :: ReactIcon
+foreign import _mdFlipToFront :: ReactIcon
 
 mdFlipToFront :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdFlipToFront = element (unsafeCoerce mdFlipToFront_)
+mdFlipToFront = element (unsafeCoerce _mdFlipToFront)
 
-foreign import mdFlourescent_ :: ReactIcon
+foreign import _mdFlourescent :: ReactIcon
 
 mdFlourescent :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdFlourescent = element (unsafeCoerce mdFlourescent_)
+mdFlourescent = element (unsafeCoerce _mdFlourescent)
 
-foreign import mdFlutterDash_ :: ReactIcon
+foreign import _mdFlutterDash :: ReactIcon
 
 mdFlutterDash :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdFlutterDash = element (unsafeCoerce mdFlutterDash_)
+mdFlutterDash = element (unsafeCoerce _mdFlutterDash)
 
-foreign import mdFmdBad_ :: ReactIcon
+foreign import _mdFmdBad :: ReactIcon
 
 mdFmdBad :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdFmdBad = element (unsafeCoerce mdFmdBad_)
+mdFmdBad = element (unsafeCoerce _mdFmdBad)
 
-foreign import mdFmdGood_ :: ReactIcon
+foreign import _mdFmdGood :: ReactIcon
 
 mdFmdGood :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdFmdGood = element (unsafeCoerce mdFmdGood_)
+mdFmdGood = element (unsafeCoerce _mdFmdGood)
 
-foreign import mdFolder_ :: ReactIcon
+foreign import _mdFolder :: ReactIcon
 
 mdFolder :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdFolder = element (unsafeCoerce mdFolder_)
+mdFolder = element (unsafeCoerce _mdFolder)
 
-foreign import mdFolderOpen_ :: ReactIcon
+foreign import _mdFolderOpen :: ReactIcon
 
 mdFolderOpen :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdFolderOpen = element (unsafeCoerce mdFolderOpen_)
+mdFolderOpen = element (unsafeCoerce _mdFolderOpen)
 
-foreign import mdFolderShared_ :: ReactIcon
+foreign import _mdFolderShared :: ReactIcon
 
 mdFolderShared :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdFolderShared = element (unsafeCoerce mdFolderShared_)
+mdFolderShared = element (unsafeCoerce _mdFolderShared)
 
-foreign import mdFolderSpecial_ :: ReactIcon
+foreign import _mdFolderSpecial :: ReactIcon
 
 mdFolderSpecial :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdFolderSpecial = element (unsafeCoerce mdFolderSpecial_)
+mdFolderSpecial = element (unsafeCoerce _mdFolderSpecial)
 
-foreign import mdFollowTheSigns_ :: ReactIcon
+foreign import _mdFollowTheSigns :: ReactIcon
 
 mdFollowTheSigns :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdFollowTheSigns = element (unsafeCoerce mdFollowTheSigns_)
+mdFollowTheSigns = element (unsafeCoerce _mdFollowTheSigns)
 
-foreign import mdFontDownload_ :: ReactIcon
+foreign import _mdFontDownload :: ReactIcon
 
 mdFontDownload :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdFontDownload = element (unsafeCoerce mdFontDownload_)
+mdFontDownload = element (unsafeCoerce _mdFontDownload)
 
-foreign import mdFontDownloadOff_ :: ReactIcon
+foreign import _mdFontDownloadOff :: ReactIcon
 
 mdFontDownloadOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdFontDownloadOff = element (unsafeCoerce mdFontDownloadOff_)
+mdFontDownloadOff = element (unsafeCoerce _mdFontDownloadOff)
 
-foreign import mdFoodBank_ :: ReactIcon
+foreign import _mdFoodBank :: ReactIcon
 
 mdFoodBank :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdFoodBank = element (unsafeCoerce mdFoodBank_)
+mdFoodBank = element (unsafeCoerce _mdFoodBank)
 
-foreign import mdFormatAlignCenter_ :: ReactIcon
+foreign import _mdFormatAlignCenter :: ReactIcon
 
 mdFormatAlignCenter :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdFormatAlignCenter = element (unsafeCoerce mdFormatAlignCenter_)
+mdFormatAlignCenter = element (unsafeCoerce _mdFormatAlignCenter)
 
-foreign import mdFormatAlignJustify_ :: ReactIcon
+foreign import _mdFormatAlignJustify :: ReactIcon
 
 mdFormatAlignJustify :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdFormatAlignJustify = element (unsafeCoerce mdFormatAlignJustify_)
+mdFormatAlignJustify = element (unsafeCoerce _mdFormatAlignJustify)
 
-foreign import mdFormatAlignLeft_ :: ReactIcon
+foreign import _mdFormatAlignLeft :: ReactIcon
 
 mdFormatAlignLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdFormatAlignLeft = element (unsafeCoerce mdFormatAlignLeft_)
+mdFormatAlignLeft = element (unsafeCoerce _mdFormatAlignLeft)
 
-foreign import mdFormatAlignRight_ :: ReactIcon
+foreign import _mdFormatAlignRight :: ReactIcon
 
 mdFormatAlignRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdFormatAlignRight = element (unsafeCoerce mdFormatAlignRight_)
+mdFormatAlignRight = element (unsafeCoerce _mdFormatAlignRight)
 
-foreign import mdFormatBold_ :: ReactIcon
+foreign import _mdFormatBold :: ReactIcon
 
 mdFormatBold :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdFormatBold = element (unsafeCoerce mdFormatBold_)
+mdFormatBold = element (unsafeCoerce _mdFormatBold)
 
-foreign import mdFormatClear_ :: ReactIcon
+foreign import _mdFormatClear :: ReactIcon
 
 mdFormatClear :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdFormatClear = element (unsafeCoerce mdFormatClear_)
+mdFormatClear = element (unsafeCoerce _mdFormatClear)
 
-foreign import mdFormatColorFill_ :: ReactIcon
+foreign import _mdFormatColorFill :: ReactIcon
 
 mdFormatColorFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdFormatColorFill = element (unsafeCoerce mdFormatColorFill_)
+mdFormatColorFill = element (unsafeCoerce _mdFormatColorFill)
 
-foreign import mdFormatColorReset_ :: ReactIcon
+foreign import _mdFormatColorReset :: ReactIcon
 
 mdFormatColorReset :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdFormatColorReset = element (unsafeCoerce mdFormatColorReset_)
+mdFormatColorReset = element (unsafeCoerce _mdFormatColorReset)
 
-foreign import mdFormatColorText_ :: ReactIcon
+foreign import _mdFormatColorText :: ReactIcon
 
 mdFormatColorText :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdFormatColorText = element (unsafeCoerce mdFormatColorText_)
+mdFormatColorText = element (unsafeCoerce _mdFormatColorText)
 
-foreign import mdFormatIndentDecrease_ :: ReactIcon
+foreign import _mdFormatIndentDecrease :: ReactIcon
 
 mdFormatIndentDecrease :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdFormatIndentDecrease = element (unsafeCoerce mdFormatIndentDecrease_)
+mdFormatIndentDecrease = element (unsafeCoerce _mdFormatIndentDecrease)
 
-foreign import mdFormatIndentIncrease_ :: ReactIcon
+foreign import _mdFormatIndentIncrease :: ReactIcon
 
 mdFormatIndentIncrease :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdFormatIndentIncrease = element (unsafeCoerce mdFormatIndentIncrease_)
+mdFormatIndentIncrease = element (unsafeCoerce _mdFormatIndentIncrease)
 
-foreign import mdFormatItalic_ :: ReactIcon
+foreign import _mdFormatItalic :: ReactIcon
 
 mdFormatItalic :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdFormatItalic = element (unsafeCoerce mdFormatItalic_)
+mdFormatItalic = element (unsafeCoerce _mdFormatItalic)
 
-foreign import mdFormatLineSpacing_ :: ReactIcon
+foreign import _mdFormatLineSpacing :: ReactIcon
 
 mdFormatLineSpacing :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdFormatLineSpacing = element (unsafeCoerce mdFormatLineSpacing_)
+mdFormatLineSpacing = element (unsafeCoerce _mdFormatLineSpacing)
 
-foreign import mdFormatListBulleted_ :: ReactIcon
+foreign import _mdFormatListBulleted :: ReactIcon
 
 mdFormatListBulleted :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdFormatListBulleted = element (unsafeCoerce mdFormatListBulleted_)
+mdFormatListBulleted = element (unsafeCoerce _mdFormatListBulleted)
 
-foreign import mdFormatListNumbered_ :: ReactIcon
+foreign import _mdFormatListNumbered :: ReactIcon
 
 mdFormatListNumbered :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdFormatListNumbered = element (unsafeCoerce mdFormatListNumbered_)
+mdFormatListNumbered = element (unsafeCoerce _mdFormatListNumbered)
 
-foreign import mdFormatListNumberedRtl_ :: ReactIcon
+foreign import _mdFormatListNumberedRtl :: ReactIcon
 
 mdFormatListNumberedRtl :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdFormatListNumberedRtl = element (unsafeCoerce mdFormatListNumberedRtl_)
+mdFormatListNumberedRtl = element (unsafeCoerce _mdFormatListNumberedRtl)
 
-foreign import mdFormatPaint_ :: ReactIcon
+foreign import _mdFormatPaint :: ReactIcon
 
 mdFormatPaint :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdFormatPaint = element (unsafeCoerce mdFormatPaint_)
+mdFormatPaint = element (unsafeCoerce _mdFormatPaint)
 
-foreign import mdFormatQuote_ :: ReactIcon
+foreign import _mdFormatQuote :: ReactIcon
 
 mdFormatQuote :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdFormatQuote = element (unsafeCoerce mdFormatQuote_)
+mdFormatQuote = element (unsafeCoerce _mdFormatQuote)
 
-foreign import mdFormatShapes_ :: ReactIcon
+foreign import _mdFormatShapes :: ReactIcon
 
 mdFormatShapes :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdFormatShapes = element (unsafeCoerce mdFormatShapes_)
+mdFormatShapes = element (unsafeCoerce _mdFormatShapes)
 
-foreign import mdFormatSize_ :: ReactIcon
+foreign import _mdFormatSize :: ReactIcon
 
 mdFormatSize :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdFormatSize = element (unsafeCoerce mdFormatSize_)
+mdFormatSize = element (unsafeCoerce _mdFormatSize)
 
-foreign import mdFormatStrikethrough_ :: ReactIcon
+foreign import _mdFormatStrikethrough :: ReactIcon
 
 mdFormatStrikethrough :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdFormatStrikethrough = element (unsafeCoerce mdFormatStrikethrough_)
+mdFormatStrikethrough = element (unsafeCoerce _mdFormatStrikethrough)
 
-foreign import mdFormatTextdirectionLToR_ :: ReactIcon
+foreign import _mdFormatTextdirectionLToR :: ReactIcon
 
 mdFormatTextdirectionLToR :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdFormatTextdirectionLToR = element (unsafeCoerce mdFormatTextdirectionLToR_)
+mdFormatTextdirectionLToR = element (unsafeCoerce _mdFormatTextdirectionLToR)
 
-foreign import mdFormatTextdirectionRToL_ :: ReactIcon
+foreign import _mdFormatTextdirectionRToL :: ReactIcon
 
 mdFormatTextdirectionRToL :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdFormatTextdirectionRToL = element (unsafeCoerce mdFormatTextdirectionRToL_)
+mdFormatTextdirectionRToL = element (unsafeCoerce _mdFormatTextdirectionRToL)
 
-foreign import mdFormatUnderlined_ :: ReactIcon
+foreign import _mdFormatUnderlined :: ReactIcon
 
 mdFormatUnderlined :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdFormatUnderlined = element (unsafeCoerce mdFormatUnderlined_)
+mdFormatUnderlined = element (unsafeCoerce _mdFormatUnderlined)
 
-foreign import mdForum_ :: ReactIcon
+foreign import _mdForum :: ReactIcon
 
 mdForum :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdForum = element (unsafeCoerce mdForum_)
+mdForum = element (unsafeCoerce _mdForum)
 
-foreign import mdForward_ :: ReactIcon
+foreign import _mdForward :: ReactIcon
 
 mdForward :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdForward = element (unsafeCoerce mdForward_)
+mdForward = element (unsafeCoerce _mdForward)
 
-foreign import mdForwardToInbox_ :: ReactIcon
+foreign import _mdForwardToInbox :: ReactIcon
 
 mdForwardToInbox :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdForwardToInbox = element (unsafeCoerce mdForwardToInbox_)
+mdForwardToInbox = element (unsafeCoerce _mdForwardToInbox)
 
-foreign import mdFoundation_ :: ReactIcon
+foreign import _mdFoundation :: ReactIcon
 
 mdFoundation :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdFoundation = element (unsafeCoerce mdFoundation_)
+mdFoundation = element (unsafeCoerce _mdFoundation)
 
-foreign import mdFreeBreakfast_ :: ReactIcon
+foreign import _mdFreeBreakfast :: ReactIcon
 
 mdFreeBreakfast :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdFreeBreakfast = element (unsafeCoerce mdFreeBreakfast_)
+mdFreeBreakfast = element (unsafeCoerce _mdFreeBreakfast)
 
-foreign import mdFreeCancellation_ :: ReactIcon
+foreign import _mdFreeCancellation :: ReactIcon
 
 mdFreeCancellation :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdFreeCancellation = element (unsafeCoerce mdFreeCancellation_)
+mdFreeCancellation = element (unsafeCoerce _mdFreeCancellation)
 
-foreign import mdFrontHand_ :: ReactIcon
+foreign import _mdFrontHand :: ReactIcon
 
 mdFrontHand :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdFrontHand = element (unsafeCoerce mdFrontHand_)
+mdFrontHand = element (unsafeCoerce _mdFrontHand)
 
-foreign import mdFullscreen_ :: ReactIcon
+foreign import _mdFullscreen :: ReactIcon
 
 mdFullscreen :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdFullscreen = element (unsafeCoerce mdFullscreen_)
+mdFullscreen = element (unsafeCoerce _mdFullscreen)
 
-foreign import mdFullscreenExit_ :: ReactIcon
+foreign import _mdFullscreenExit :: ReactIcon
 
 mdFullscreenExit :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdFullscreenExit = element (unsafeCoerce mdFullscreenExit_)
+mdFullscreenExit = element (unsafeCoerce _mdFullscreenExit)
 
-foreign import mdFunctions_ :: ReactIcon
+foreign import _mdFunctions :: ReactIcon
 
 mdFunctions :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdFunctions = element (unsafeCoerce mdFunctions_)
+mdFunctions = element (unsafeCoerce _mdFunctions)
 
-foreign import mdGamepad_ :: ReactIcon
+foreign import _mdGamepad :: ReactIcon
 
 mdGamepad :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdGamepad = element (unsafeCoerce mdGamepad_)
+mdGamepad = element (unsafeCoerce _mdGamepad)
 
-foreign import mdGames_ :: ReactIcon
+foreign import _mdGames :: ReactIcon
 
 mdGames :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdGames = element (unsafeCoerce mdGames_)
+mdGames = element (unsafeCoerce _mdGames)
 
-foreign import mdGarage_ :: ReactIcon
+foreign import _mdGarage :: ReactIcon
 
 mdGarage :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdGarage = element (unsafeCoerce mdGarage_)
+mdGarage = element (unsafeCoerce _mdGarage)
 
-foreign import mdGavel_ :: ReactIcon
+foreign import _mdGavel :: ReactIcon
 
 mdGavel :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdGavel = element (unsafeCoerce mdGavel_)
+mdGavel = element (unsafeCoerce _mdGavel)
 
-foreign import mdGeneratingTokens_ :: ReactIcon
+foreign import _mdGeneratingTokens :: ReactIcon
 
 mdGeneratingTokens :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdGeneratingTokens = element (unsafeCoerce mdGeneratingTokens_)
+mdGeneratingTokens = element (unsafeCoerce _mdGeneratingTokens)
 
-foreign import mdGesture_ :: ReactIcon
+foreign import _mdGesture :: ReactIcon
 
 mdGesture :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdGesture = element (unsafeCoerce mdGesture_)
+mdGesture = element (unsafeCoerce _mdGesture)
 
-foreign import mdGetApp_ :: ReactIcon
+foreign import _mdGetApp :: ReactIcon
 
 mdGetApp :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdGetApp = element (unsafeCoerce mdGetApp_)
+mdGetApp = element (unsafeCoerce _mdGetApp)
 
-foreign import mdGif_ :: ReactIcon
+foreign import _mdGif :: ReactIcon
 
 mdGif :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdGif = element (unsafeCoerce mdGif_)
+mdGif = element (unsafeCoerce _mdGif)
 
-foreign import mdGite_ :: ReactIcon
+foreign import _mdGite :: ReactIcon
 
 mdGite :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdGite = element (unsafeCoerce mdGite_)
+mdGite = element (unsafeCoerce _mdGite)
 
-foreign import mdGMobiledata_ :: ReactIcon
+foreign import _mdGMobiledata :: ReactIcon
 
 mdGMobiledata :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdGMobiledata = element (unsafeCoerce mdGMobiledata_)
+mdGMobiledata = element (unsafeCoerce _mdGMobiledata)
 
-foreign import mdGolfCourse_ :: ReactIcon
+foreign import _mdGolfCourse :: ReactIcon
 
 mdGolfCourse :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdGolfCourse = element (unsafeCoerce mdGolfCourse_)
+mdGolfCourse = element (unsafeCoerce _mdGolfCourse)
 
-foreign import mdGppBad_ :: ReactIcon
+foreign import _mdGppBad :: ReactIcon
 
 mdGppBad :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdGppBad = element (unsafeCoerce mdGppBad_)
+mdGppBad = element (unsafeCoerce _mdGppBad)
 
-foreign import mdGppGood_ :: ReactIcon
+foreign import _mdGppGood :: ReactIcon
 
 mdGppGood :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdGppGood = element (unsafeCoerce mdGppGood_)
+mdGppGood = element (unsafeCoerce _mdGppGood)
 
-foreign import mdGppMaybe_ :: ReactIcon
+foreign import _mdGppMaybe :: ReactIcon
 
 mdGppMaybe :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdGppMaybe = element (unsafeCoerce mdGppMaybe_)
+mdGppMaybe = element (unsafeCoerce _mdGppMaybe)
 
-foreign import mdGpsFixed_ :: ReactIcon
+foreign import _mdGpsFixed :: ReactIcon
 
 mdGpsFixed :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdGpsFixed = element (unsafeCoerce mdGpsFixed_)
+mdGpsFixed = element (unsafeCoerce _mdGpsFixed)
 
-foreign import mdGpsNotFixed_ :: ReactIcon
+foreign import _mdGpsNotFixed :: ReactIcon
 
 mdGpsNotFixed :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdGpsNotFixed = element (unsafeCoerce mdGpsNotFixed_)
+mdGpsNotFixed = element (unsafeCoerce _mdGpsNotFixed)
 
-foreign import mdGpsOff_ :: ReactIcon
+foreign import _mdGpsOff :: ReactIcon
 
 mdGpsOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdGpsOff = element (unsafeCoerce mdGpsOff_)
+mdGpsOff = element (unsafeCoerce _mdGpsOff)
 
-foreign import mdGrade_ :: ReactIcon
+foreign import _mdGrade :: ReactIcon
 
 mdGrade :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdGrade = element (unsafeCoerce mdGrade_)
+mdGrade = element (unsafeCoerce _mdGrade)
 
-foreign import mdGradient_ :: ReactIcon
+foreign import _mdGradient :: ReactIcon
 
 mdGradient :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdGradient = element (unsafeCoerce mdGradient_)
+mdGradient = element (unsafeCoerce _mdGradient)
 
-foreign import mdGrading_ :: ReactIcon
+foreign import _mdGrading :: ReactIcon
 
 mdGrading :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdGrading = element (unsafeCoerce mdGrading_)
+mdGrading = element (unsafeCoerce _mdGrading)
 
-foreign import mdGrain_ :: ReactIcon
+foreign import _mdGrain :: ReactIcon
 
 mdGrain :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdGrain = element (unsafeCoerce mdGrain_)
+mdGrain = element (unsafeCoerce _mdGrain)
 
-foreign import mdGraphicEq_ :: ReactIcon
+foreign import _mdGraphicEq :: ReactIcon
 
 mdGraphicEq :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdGraphicEq = element (unsafeCoerce mdGraphicEq_)
+mdGraphicEq = element (unsafeCoerce _mdGraphicEq)
 
-foreign import mdGrass_ :: ReactIcon
+foreign import _mdGrass :: ReactIcon
 
 mdGrass :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdGrass = element (unsafeCoerce mdGrass_)
+mdGrass = element (unsafeCoerce _mdGrass)
 
-foreign import mdGridGoldenratio_ :: ReactIcon
+foreign import _mdGridGoldenratio :: ReactIcon
 
 mdGridGoldenratio :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdGridGoldenratio = element (unsafeCoerce mdGridGoldenratio_)
+mdGridGoldenratio = element (unsafeCoerce _mdGridGoldenratio)
 
-foreign import mdGridOff_ :: ReactIcon
+foreign import _mdGridOff :: ReactIcon
 
 mdGridOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdGridOff = element (unsafeCoerce mdGridOff_)
+mdGridOff = element (unsafeCoerce _mdGridOff)
 
-foreign import mdGridOn_ :: ReactIcon
+foreign import _mdGridOn :: ReactIcon
 
 mdGridOn :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdGridOn = element (unsafeCoerce mdGridOn_)
+mdGridOn = element (unsafeCoerce _mdGridOn)
 
-foreign import mdGridView_ :: ReactIcon
+foreign import _mdGridView :: ReactIcon
 
 mdGridView :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdGridView = element (unsafeCoerce mdGridView_)
+mdGridView = element (unsafeCoerce _mdGridView)
 
-foreign import mdGroup_ :: ReactIcon
+foreign import _mdGroup :: ReactIcon
 
 mdGroup :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdGroup = element (unsafeCoerce mdGroup_)
+mdGroup = element (unsafeCoerce _mdGroup)
 
-foreign import mdGroupAdd_ :: ReactIcon
+foreign import _mdGroupAdd :: ReactIcon
 
 mdGroupAdd :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdGroupAdd = element (unsafeCoerce mdGroupAdd_)
+mdGroupAdd = element (unsafeCoerce _mdGroupAdd)
 
-foreign import mdGroupOff_ :: ReactIcon
+foreign import _mdGroupOff :: ReactIcon
 
 mdGroupOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdGroupOff = element (unsafeCoerce mdGroupOff_)
+mdGroupOff = element (unsafeCoerce _mdGroupOff)
 
-foreign import mdGroups_ :: ReactIcon
+foreign import _mdGroups :: ReactIcon
 
 mdGroups :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdGroups = element (unsafeCoerce mdGroups_)
+mdGroups = element (unsafeCoerce _mdGroups)
 
-foreign import mdGroupWork_ :: ReactIcon
+foreign import _mdGroupWork :: ReactIcon
 
 mdGroupWork :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdGroupWork = element (unsafeCoerce mdGroupWork_)
+mdGroupWork = element (unsafeCoerce _mdGroupWork)
 
-foreign import mdGTranslate_ :: ReactIcon
+foreign import _mdGTranslate :: ReactIcon
 
 mdGTranslate :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdGTranslate = element (unsafeCoerce mdGTranslate_)
+mdGTranslate = element (unsafeCoerce _mdGTranslate)
 
-foreign import mdHail_ :: ReactIcon
+foreign import _mdHail :: ReactIcon
 
 mdHail :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdHail = element (unsafeCoerce mdHail_)
+mdHail = element (unsafeCoerce _mdHail)
 
-foreign import mdHandyman_ :: ReactIcon
+foreign import _mdHandyman :: ReactIcon
 
 mdHandyman :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdHandyman = element (unsafeCoerce mdHandyman_)
+mdHandyman = element (unsafeCoerce _mdHandyman)
 
-foreign import mdHardware_ :: ReactIcon
+foreign import _mdHardware :: ReactIcon
 
 mdHardware :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdHardware = element (unsafeCoerce mdHardware_)
+mdHardware = element (unsafeCoerce _mdHardware)
 
-foreign import mdHd_ :: ReactIcon
+foreign import _mdHd :: ReactIcon
 
 mdHd :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdHd = element (unsafeCoerce mdHd_)
+mdHd = element (unsafeCoerce _mdHd)
 
-foreign import mdHdrAuto_ :: ReactIcon
+foreign import _mdHdrAuto :: ReactIcon
 
 mdHdrAuto :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdHdrAuto = element (unsafeCoerce mdHdrAuto_)
+mdHdrAuto = element (unsafeCoerce _mdHdrAuto)
 
-foreign import mdHdrAutoSelect_ :: ReactIcon
+foreign import _mdHdrAutoSelect :: ReactIcon
 
 mdHdrAutoSelect :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdHdrAutoSelect = element (unsafeCoerce mdHdrAutoSelect_)
+mdHdrAutoSelect = element (unsafeCoerce _mdHdrAutoSelect)
 
-foreign import mdHdrEnhancedSelect_ :: ReactIcon
+foreign import _mdHdrEnhancedSelect :: ReactIcon
 
 mdHdrEnhancedSelect :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdHdrEnhancedSelect = element (unsafeCoerce mdHdrEnhancedSelect_)
+mdHdrEnhancedSelect = element (unsafeCoerce _mdHdrEnhancedSelect)
 
-foreign import mdHdrOff_ :: ReactIcon
+foreign import _mdHdrOff :: ReactIcon
 
 mdHdrOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdHdrOff = element (unsafeCoerce mdHdrOff_)
+mdHdrOff = element (unsafeCoerce _mdHdrOff)
 
-foreign import mdHdrOffSelect_ :: ReactIcon
+foreign import _mdHdrOffSelect :: ReactIcon
 
 mdHdrOffSelect :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdHdrOffSelect = element (unsafeCoerce mdHdrOffSelect_)
+mdHdrOffSelect = element (unsafeCoerce _mdHdrOffSelect)
 
-foreign import mdHdrOn_ :: ReactIcon
+foreign import _mdHdrOn :: ReactIcon
 
 mdHdrOn :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdHdrOn = element (unsafeCoerce mdHdrOn_)
+mdHdrOn = element (unsafeCoerce _mdHdrOn)
 
-foreign import mdHdrOnSelect_ :: ReactIcon
+foreign import _mdHdrOnSelect :: ReactIcon
 
 mdHdrOnSelect :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdHdrOnSelect = element (unsafeCoerce mdHdrOnSelect_)
+mdHdrOnSelect = element (unsafeCoerce _mdHdrOnSelect)
 
-foreign import mdHdrPlus_ :: ReactIcon
+foreign import _mdHdrPlus :: ReactIcon
 
 mdHdrPlus :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdHdrPlus = element (unsafeCoerce mdHdrPlus_)
+mdHdrPlus = element (unsafeCoerce _mdHdrPlus)
 
-foreign import mdHdrStrong_ :: ReactIcon
+foreign import _mdHdrStrong :: ReactIcon
 
 mdHdrStrong :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdHdrStrong = element (unsafeCoerce mdHdrStrong_)
+mdHdrStrong = element (unsafeCoerce _mdHdrStrong)
 
-foreign import mdHdrWeak_ :: ReactIcon
+foreign import _mdHdrWeak :: ReactIcon
 
 mdHdrWeak :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdHdrWeak = element (unsafeCoerce mdHdrWeak_)
+mdHdrWeak = element (unsafeCoerce _mdHdrWeak)
 
-foreign import mdHeadphones_ :: ReactIcon
+foreign import _mdHeadphones :: ReactIcon
 
 mdHeadphones :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdHeadphones = element (unsafeCoerce mdHeadphones_)
+mdHeadphones = element (unsafeCoerce _mdHeadphones)
 
-foreign import mdHeadphonesBattery_ :: ReactIcon
+foreign import _mdHeadphonesBattery :: ReactIcon
 
 mdHeadphonesBattery :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdHeadphonesBattery = element (unsafeCoerce mdHeadphonesBattery_)
+mdHeadphonesBattery = element (unsafeCoerce _mdHeadphonesBattery)
 
-foreign import mdHeadset_ :: ReactIcon
+foreign import _mdHeadset :: ReactIcon
 
 mdHeadset :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdHeadset = element (unsafeCoerce mdHeadset_)
+mdHeadset = element (unsafeCoerce _mdHeadset)
 
-foreign import mdHeadsetMic_ :: ReactIcon
+foreign import _mdHeadsetMic :: ReactIcon
 
 mdHeadsetMic :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdHeadsetMic = element (unsafeCoerce mdHeadsetMic_)
+mdHeadsetMic = element (unsafeCoerce _mdHeadsetMic)
 
-foreign import mdHeadsetOff_ :: ReactIcon
+foreign import _mdHeadsetOff :: ReactIcon
 
 mdHeadsetOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdHeadsetOff = element (unsafeCoerce mdHeadsetOff_)
+mdHeadsetOff = element (unsafeCoerce _mdHeadsetOff)
 
-foreign import mdHealing_ :: ReactIcon
+foreign import _mdHealing :: ReactIcon
 
 mdHealing :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdHealing = element (unsafeCoerce mdHealing_)
+mdHealing = element (unsafeCoerce _mdHealing)
 
-foreign import mdHealthAndSafety_ :: ReactIcon
+foreign import _mdHealthAndSafety :: ReactIcon
 
 mdHealthAndSafety :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdHealthAndSafety = element (unsafeCoerce mdHealthAndSafety_)
+mdHealthAndSafety = element (unsafeCoerce _mdHealthAndSafety)
 
-foreign import mdHearing_ :: ReactIcon
+foreign import _mdHearing :: ReactIcon
 
 mdHearing :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdHearing = element (unsafeCoerce mdHearing_)
+mdHearing = element (unsafeCoerce _mdHearing)
 
-foreign import mdHearingDisabled_ :: ReactIcon
+foreign import _mdHearingDisabled :: ReactIcon
 
 mdHearingDisabled :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdHearingDisabled = element (unsafeCoerce mdHearingDisabled_)
+mdHearingDisabled = element (unsafeCoerce _mdHearingDisabled)
 
-foreign import mdHeight_ :: ReactIcon
+foreign import _mdHeight :: ReactIcon
 
 mdHeight :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdHeight = element (unsafeCoerce mdHeight_)
+mdHeight = element (unsafeCoerce _mdHeight)
 
-foreign import mdHelp_ :: ReactIcon
+foreign import _mdHelp :: ReactIcon
 
 mdHelp :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdHelp = element (unsafeCoerce mdHelp_)
+mdHelp = element (unsafeCoerce _mdHelp)
 
-foreign import mdHelpCenter_ :: ReactIcon
+foreign import _mdHelpCenter :: ReactIcon
 
 mdHelpCenter :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdHelpCenter = element (unsafeCoerce mdHelpCenter_)
+mdHelpCenter = element (unsafeCoerce _mdHelpCenter)
 
-foreign import mdHelpOutline_ :: ReactIcon
+foreign import _mdHelpOutline :: ReactIcon
 
 mdHelpOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdHelpOutline = element (unsafeCoerce mdHelpOutline_)
+mdHelpOutline = element (unsafeCoerce _mdHelpOutline)
 
-foreign import mdHevc_ :: ReactIcon
+foreign import _mdHevc :: ReactIcon
 
 mdHevc :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdHevc = element (unsafeCoerce mdHevc_)
+mdHevc = element (unsafeCoerce _mdHevc)
 
-foreign import mdHideImage_ :: ReactIcon
+foreign import _mdHideImage :: ReactIcon
 
 mdHideImage :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdHideImage = element (unsafeCoerce mdHideImage_)
+mdHideImage = element (unsafeCoerce _mdHideImage)
 
-foreign import mdHideSource_ :: ReactIcon
+foreign import _mdHideSource :: ReactIcon
 
 mdHideSource :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdHideSource = element (unsafeCoerce mdHideSource_)
+mdHideSource = element (unsafeCoerce _mdHideSource)
 
-foreign import mdHighlight_ :: ReactIcon
+foreign import _mdHighlight :: ReactIcon
 
 mdHighlight :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdHighlight = element (unsafeCoerce mdHighlight_)
+mdHighlight = element (unsafeCoerce _mdHighlight)
 
-foreign import mdHighlightAlt_ :: ReactIcon
+foreign import _mdHighlightAlt :: ReactIcon
 
 mdHighlightAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdHighlightAlt = element (unsafeCoerce mdHighlightAlt_)
+mdHighlightAlt = element (unsafeCoerce _mdHighlightAlt)
 
-foreign import mdHighlightOff_ :: ReactIcon
+foreign import _mdHighlightOff :: ReactIcon
 
 mdHighlightOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdHighlightOff = element (unsafeCoerce mdHighlightOff_)
+mdHighlightOff = element (unsafeCoerce _mdHighlightOff)
 
-foreign import mdHighQuality_ :: ReactIcon
+foreign import _mdHighQuality :: ReactIcon
 
 mdHighQuality :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdHighQuality = element (unsafeCoerce mdHighQuality_)
+mdHighQuality = element (unsafeCoerce _mdHighQuality)
 
-foreign import mdHiking_ :: ReactIcon
+foreign import _mdHiking :: ReactIcon
 
 mdHiking :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdHiking = element (unsafeCoerce mdHiking_)
+mdHiking = element (unsafeCoerce _mdHiking)
 
-foreign import mdHistory_ :: ReactIcon
+foreign import _mdHistory :: ReactIcon
 
 mdHistory :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdHistory = element (unsafeCoerce mdHistory_)
+mdHistory = element (unsafeCoerce _mdHistory)
 
-foreign import mdHistoryEdu_ :: ReactIcon
+foreign import _mdHistoryEdu :: ReactIcon
 
 mdHistoryEdu :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdHistoryEdu = element (unsafeCoerce mdHistoryEdu_)
+mdHistoryEdu = element (unsafeCoerce _mdHistoryEdu)
 
-foreign import mdHistoryToggleOff_ :: ReactIcon
+foreign import _mdHistoryToggleOff :: ReactIcon
 
 mdHistoryToggleOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdHistoryToggleOff = element (unsafeCoerce mdHistoryToggleOff_)
+mdHistoryToggleOff = element (unsafeCoerce _mdHistoryToggleOff)
 
-foreign import mdHMobiledata_ :: ReactIcon
+foreign import _mdHMobiledata :: ReactIcon
 
 mdHMobiledata :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdHMobiledata = element (unsafeCoerce mdHMobiledata_)
+mdHMobiledata = element (unsafeCoerce _mdHMobiledata)
 
-foreign import mdHolidayVillage_ :: ReactIcon
+foreign import _mdHolidayVillage :: ReactIcon
 
 mdHolidayVillage :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdHolidayVillage = element (unsafeCoerce mdHolidayVillage_)
+mdHolidayVillage = element (unsafeCoerce _mdHolidayVillage)
 
-foreign import mdHome_ :: ReactIcon
+foreign import _mdHome :: ReactIcon
 
 mdHome :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdHome = element (unsafeCoerce mdHome_)
+mdHome = element (unsafeCoerce _mdHome)
 
-foreign import mdHomeFilled_ :: ReactIcon
+foreign import _mdHomeFilled :: ReactIcon
 
 mdHomeFilled :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdHomeFilled = element (unsafeCoerce mdHomeFilled_)
+mdHomeFilled = element (unsafeCoerce _mdHomeFilled)
 
-foreign import mdHomeMax_ :: ReactIcon
+foreign import _mdHomeMax :: ReactIcon
 
 mdHomeMax :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdHomeMax = element (unsafeCoerce mdHomeMax_)
+mdHomeMax = element (unsafeCoerce _mdHomeMax)
 
-foreign import mdHomeMini_ :: ReactIcon
+foreign import _mdHomeMini :: ReactIcon
 
 mdHomeMini :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdHomeMini = element (unsafeCoerce mdHomeMini_)
+mdHomeMini = element (unsafeCoerce _mdHomeMini)
 
-foreign import mdHomeRepairService_ :: ReactIcon
+foreign import _mdHomeRepairService :: ReactIcon
 
 mdHomeRepairService :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdHomeRepairService = element (unsafeCoerce mdHomeRepairService_)
+mdHomeRepairService = element (unsafeCoerce _mdHomeRepairService)
 
-foreign import mdHomeWork_ :: ReactIcon
+foreign import _mdHomeWork :: ReactIcon
 
 mdHomeWork :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdHomeWork = element (unsafeCoerce mdHomeWork_)
+mdHomeWork = element (unsafeCoerce _mdHomeWork)
 
-foreign import mdHorizontalDistribute_ :: ReactIcon
+foreign import _mdHorizontalDistribute :: ReactIcon
 
 mdHorizontalDistribute :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdHorizontalDistribute = element (unsafeCoerce mdHorizontalDistribute_)
+mdHorizontalDistribute = element (unsafeCoerce _mdHorizontalDistribute)
 
-foreign import mdHorizontalRule_ :: ReactIcon
+foreign import _mdHorizontalRule :: ReactIcon
 
 mdHorizontalRule :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdHorizontalRule = element (unsafeCoerce mdHorizontalRule_)
+mdHorizontalRule = element (unsafeCoerce _mdHorizontalRule)
 
-foreign import mdHorizontalSplit_ :: ReactIcon
+foreign import _mdHorizontalSplit :: ReactIcon
 
 mdHorizontalSplit :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdHorizontalSplit = element (unsafeCoerce mdHorizontalSplit_)
+mdHorizontalSplit = element (unsafeCoerce _mdHorizontalSplit)
 
-foreign import mdHotel_ :: ReactIcon
+foreign import _mdHotel :: ReactIcon
 
 mdHotel :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdHotel = element (unsafeCoerce mdHotel_)
+mdHotel = element (unsafeCoerce _mdHotel)
 
-foreign import mdHotelClass_ :: ReactIcon
+foreign import _mdHotelClass :: ReactIcon
 
 mdHotelClass :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdHotelClass = element (unsafeCoerce mdHotelClass_)
+mdHotelClass = element (unsafeCoerce _mdHotelClass)
 
-foreign import mdHotTub_ :: ReactIcon
+foreign import _mdHotTub :: ReactIcon
 
 mdHotTub :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdHotTub = element (unsafeCoerce mdHotTub_)
+mdHotTub = element (unsafeCoerce _mdHotTub)
 
-foreign import mdHourglassBottom_ :: ReactIcon
+foreign import _mdHourglassBottom :: ReactIcon
 
 mdHourglassBottom :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdHourglassBottom = element (unsafeCoerce mdHourglassBottom_)
+mdHourglassBottom = element (unsafeCoerce _mdHourglassBottom)
 
-foreign import mdHourglassDisabled_ :: ReactIcon
+foreign import _mdHourglassDisabled :: ReactIcon
 
 mdHourglassDisabled :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdHourglassDisabled = element (unsafeCoerce mdHourglassDisabled_)
+mdHourglassDisabled = element (unsafeCoerce _mdHourglassDisabled)
 
-foreign import mdHourglassEmpty_ :: ReactIcon
+foreign import _mdHourglassEmpty :: ReactIcon
 
 mdHourglassEmpty :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdHourglassEmpty = element (unsafeCoerce mdHourglassEmpty_)
+mdHourglassEmpty = element (unsafeCoerce _mdHourglassEmpty)
 
-foreign import mdHourglassFull_ :: ReactIcon
+foreign import _mdHourglassFull :: ReactIcon
 
 mdHourglassFull :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdHourglassFull = element (unsafeCoerce mdHourglassFull_)
+mdHourglassFull = element (unsafeCoerce _mdHourglassFull)
 
-foreign import mdHourglassTop_ :: ReactIcon
+foreign import _mdHourglassTop :: ReactIcon
 
 mdHourglassTop :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdHourglassTop = element (unsafeCoerce mdHourglassTop_)
+mdHourglassTop = element (unsafeCoerce _mdHourglassTop)
 
-foreign import mdHouse_ :: ReactIcon
+foreign import _mdHouse :: ReactIcon
 
 mdHouse :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdHouse = element (unsafeCoerce mdHouse_)
+mdHouse = element (unsafeCoerce _mdHouse)
 
-foreign import mdHouseboat_ :: ReactIcon
+foreign import _mdHouseboat :: ReactIcon
 
 mdHouseboat :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdHouseboat = element (unsafeCoerce mdHouseboat_)
+mdHouseboat = element (unsafeCoerce _mdHouseboat)
 
-foreign import mdHouseSiding_ :: ReactIcon
+foreign import _mdHouseSiding :: ReactIcon
 
 mdHouseSiding :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdHouseSiding = element (unsafeCoerce mdHouseSiding_)
+mdHouseSiding = element (unsafeCoerce _mdHouseSiding)
 
-foreign import mdHowToReg_ :: ReactIcon
+foreign import _mdHowToReg :: ReactIcon
 
 mdHowToReg :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdHowToReg = element (unsafeCoerce mdHowToReg_)
+mdHowToReg = element (unsafeCoerce _mdHowToReg)
 
-foreign import mdHowToVote_ :: ReactIcon
+foreign import _mdHowToVote :: ReactIcon
 
 mdHowToVote :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdHowToVote = element (unsafeCoerce mdHowToVote_)
+mdHowToVote = element (unsafeCoerce _mdHowToVote)
 
-foreign import mdHPlusMobiledata_ :: ReactIcon
+foreign import _mdHPlusMobiledata :: ReactIcon
 
 mdHPlusMobiledata :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdHPlusMobiledata = element (unsafeCoerce mdHPlusMobiledata_)
+mdHPlusMobiledata = element (unsafeCoerce _mdHPlusMobiledata)
 
-foreign import mdHttp_ :: ReactIcon
+foreign import _mdHttp :: ReactIcon
 
 mdHttp :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdHttp = element (unsafeCoerce mdHttp_)
+mdHttp = element (unsafeCoerce _mdHttp)
 
-foreign import mdHttps_ :: ReactIcon
+foreign import _mdHttps :: ReactIcon
 
 mdHttps :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdHttps = element (unsafeCoerce mdHttps_)
+mdHttps = element (unsafeCoerce _mdHttps)
 
-foreign import mdHvac_ :: ReactIcon
+foreign import _mdHvac :: ReactIcon
 
 mdHvac :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdHvac = element (unsafeCoerce mdHvac_)
+mdHvac = element (unsafeCoerce _mdHvac)
 
-foreign import mdIcecream_ :: ReactIcon
+foreign import _mdIcecream :: ReactIcon
 
 mdIcecream :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdIcecream = element (unsafeCoerce mdIcecream_)
+mdIcecream = element (unsafeCoerce _mdIcecream)
 
-foreign import mdIceSkating_ :: ReactIcon
+foreign import _mdIceSkating :: ReactIcon
 
 mdIceSkating :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdIceSkating = element (unsafeCoerce mdIceSkating_)
+mdIceSkating = element (unsafeCoerce _mdIceSkating)
 
-foreign import mdImage_ :: ReactIcon
+foreign import _mdImage :: ReactIcon
 
 mdImage :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdImage = element (unsafeCoerce mdImage_)
+mdImage = element (unsafeCoerce _mdImage)
 
-foreign import mdImageAspectRatio_ :: ReactIcon
+foreign import _mdImageAspectRatio :: ReactIcon
 
 mdImageAspectRatio :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdImageAspectRatio = element (unsafeCoerce mdImageAspectRatio_)
+mdImageAspectRatio = element (unsafeCoerce _mdImageAspectRatio)
 
-foreign import mdImageNotSupported_ :: ReactIcon
+foreign import _mdImageNotSupported :: ReactIcon
 
 mdImageNotSupported :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdImageNotSupported = element (unsafeCoerce mdImageNotSupported_)
+mdImageNotSupported = element (unsafeCoerce _mdImageNotSupported)
 
-foreign import mdImageSearch_ :: ReactIcon
+foreign import _mdImageSearch :: ReactIcon
 
 mdImageSearch :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdImageSearch = element (unsafeCoerce mdImageSearch_)
+mdImageSearch = element (unsafeCoerce _mdImageSearch)
 
-foreign import mdImagesearchRoller_ :: ReactIcon
+foreign import _mdImagesearchRoller :: ReactIcon
 
 mdImagesearchRoller :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdImagesearchRoller = element (unsafeCoerce mdImagesearchRoller_)
+mdImagesearchRoller = element (unsafeCoerce _mdImagesearchRoller)
 
-foreign import mdImportantDevices_ :: ReactIcon
+foreign import _mdImportantDevices :: ReactIcon
 
 mdImportantDevices :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdImportantDevices = element (unsafeCoerce mdImportantDevices_)
+mdImportantDevices = element (unsafeCoerce _mdImportantDevices)
 
-foreign import mdImportContacts_ :: ReactIcon
+foreign import _mdImportContacts :: ReactIcon
 
 mdImportContacts :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdImportContacts = element (unsafeCoerce mdImportContacts_)
+mdImportContacts = element (unsafeCoerce _mdImportContacts)
 
-foreign import mdImportExport_ :: ReactIcon
+foreign import _mdImportExport :: ReactIcon
 
 mdImportExport :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdImportExport = element (unsafeCoerce mdImportExport_)
+mdImportExport = element (unsafeCoerce _mdImportExport)
 
-foreign import mdInbox_ :: ReactIcon
+foreign import _mdInbox :: ReactIcon
 
 mdInbox :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdInbox = element (unsafeCoerce mdInbox_)
+mdInbox = element (unsafeCoerce _mdInbox)
 
-foreign import mdIncompleteCircle_ :: ReactIcon
+foreign import _mdIncompleteCircle :: ReactIcon
 
 mdIncompleteCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdIncompleteCircle = element (unsafeCoerce mdIncompleteCircle_)
+mdIncompleteCircle = element (unsafeCoerce _mdIncompleteCircle)
 
-foreign import mdIndeterminateCheckBox_ :: ReactIcon
+foreign import _mdIndeterminateCheckBox :: ReactIcon
 
 mdIndeterminateCheckBox :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdIndeterminateCheckBox = element (unsafeCoerce mdIndeterminateCheckBox_)
+mdIndeterminateCheckBox = element (unsafeCoerce _mdIndeterminateCheckBox)
 
-foreign import mdInfo_ :: ReactIcon
+foreign import _mdInfo :: ReactIcon
 
 mdInfo :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdInfo = element (unsafeCoerce mdInfo_)
+mdInfo = element (unsafeCoerce _mdInfo)
 
-foreign import mdInfoOutline_ :: ReactIcon
+foreign import _mdInfoOutline :: ReactIcon
 
 mdInfoOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdInfoOutline = element (unsafeCoerce mdInfoOutline_)
+mdInfoOutline = element (unsafeCoerce _mdInfoOutline)
 
-foreign import mdInput_ :: ReactIcon
+foreign import _mdInput :: ReactIcon
 
 mdInput :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdInput = element (unsafeCoerce mdInput_)
+mdInput = element (unsafeCoerce _mdInput)
 
-foreign import mdInsertChart_ :: ReactIcon
+foreign import _mdInsertChart :: ReactIcon
 
 mdInsertChart :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdInsertChart = element (unsafeCoerce mdInsertChart_)
+mdInsertChart = element (unsafeCoerce _mdInsertChart)
 
-foreign import mdInsertChartOutlined_ :: ReactIcon
+foreign import _mdInsertChartOutlined :: ReactIcon
 
 mdInsertChartOutlined :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdInsertChartOutlined = element (unsafeCoerce mdInsertChartOutlined_)
+mdInsertChartOutlined = element (unsafeCoerce _mdInsertChartOutlined)
 
-foreign import mdInsertComment_ :: ReactIcon
+foreign import _mdInsertComment :: ReactIcon
 
 mdInsertComment :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdInsertComment = element (unsafeCoerce mdInsertComment_)
+mdInsertComment = element (unsafeCoerce _mdInsertComment)
 
-foreign import mdInsertDriveFile_ :: ReactIcon
+foreign import _mdInsertDriveFile :: ReactIcon
 
 mdInsertDriveFile :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdInsertDriveFile = element (unsafeCoerce mdInsertDriveFile_)
+mdInsertDriveFile = element (unsafeCoerce _mdInsertDriveFile)
 
-foreign import mdInsertEmoticon_ :: ReactIcon
+foreign import _mdInsertEmoticon :: ReactIcon
 
 mdInsertEmoticon :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdInsertEmoticon = element (unsafeCoerce mdInsertEmoticon_)
+mdInsertEmoticon = element (unsafeCoerce _mdInsertEmoticon)
 
-foreign import mdInsertInvitation_ :: ReactIcon
+foreign import _mdInsertInvitation :: ReactIcon
 
 mdInsertInvitation :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdInsertInvitation = element (unsafeCoerce mdInsertInvitation_)
+mdInsertInvitation = element (unsafeCoerce _mdInsertInvitation)
 
-foreign import mdInsertLink_ :: ReactIcon
+foreign import _mdInsertLink :: ReactIcon
 
 mdInsertLink :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdInsertLink = element (unsafeCoerce mdInsertLink_)
+mdInsertLink = element (unsafeCoerce _mdInsertLink)
 
-foreign import mdInsertPhoto_ :: ReactIcon
+foreign import _mdInsertPhoto :: ReactIcon
 
 mdInsertPhoto :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdInsertPhoto = element (unsafeCoerce mdInsertPhoto_)
+mdInsertPhoto = element (unsafeCoerce _mdInsertPhoto)
 
-foreign import mdInsights_ :: ReactIcon
+foreign import _mdInsights :: ReactIcon
 
 mdInsights :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdInsights = element (unsafeCoerce mdInsights_)
+mdInsights = element (unsafeCoerce _mdInsights)
 
-foreign import mdIntegrationInstructions_ :: ReactIcon
+foreign import _mdIntegrationInstructions :: ReactIcon
 
 mdIntegrationInstructions :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdIntegrationInstructions = element (unsafeCoerce mdIntegrationInstructions_)
+mdIntegrationInstructions = element (unsafeCoerce _mdIntegrationInstructions)
 
-foreign import mdInventory_ :: ReactIcon
+foreign import _mdInventory :: ReactIcon
 
 mdInventory :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdInventory = element (unsafeCoerce mdInventory_)
+mdInventory = element (unsafeCoerce _mdInventory)
 
-foreign import mdInvertColors_ :: ReactIcon
+foreign import _mdInvertColors :: ReactIcon
 
 mdInvertColors :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdInvertColors = element (unsafeCoerce mdInvertColors_)
+mdInvertColors = element (unsafeCoerce _mdInvertColors)
 
-foreign import mdInvertColorsOff_ :: ReactIcon
+foreign import _mdInvertColorsOff :: ReactIcon
 
 mdInvertColorsOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdInvertColorsOff = element (unsafeCoerce mdInvertColorsOff_)
+mdInvertColorsOff = element (unsafeCoerce _mdInvertColorsOff)
 
-foreign import mdIosShare_ :: ReactIcon
+foreign import _mdIosShare :: ReactIcon
 
 mdIosShare :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdIosShare = element (unsafeCoerce mdIosShare_)
+mdIosShare = element (unsafeCoerce _mdIosShare)
 
-foreign import mdIron_ :: ReactIcon
+foreign import _mdIron :: ReactIcon
 
 mdIron :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdIron = element (unsafeCoerce mdIron_)
+mdIron = element (unsafeCoerce _mdIron)
 
-foreign import mdIso_ :: ReactIcon
+foreign import _mdIso :: ReactIcon
 
 mdIso :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdIso = element (unsafeCoerce mdIso_)
+mdIso = element (unsafeCoerce _mdIso)
 
-foreign import mdKayaking_ :: ReactIcon
+foreign import _mdKayaking :: ReactIcon
 
 mdKayaking :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdKayaking = element (unsafeCoerce mdKayaking_)
+mdKayaking = element (unsafeCoerce _mdKayaking)
 
-foreign import mdKeyboard_ :: ReactIcon
+foreign import _mdKeyboard :: ReactIcon
 
 mdKeyboard :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdKeyboard = element (unsafeCoerce mdKeyboard_)
+mdKeyboard = element (unsafeCoerce _mdKeyboard)
 
-foreign import mdKeyboardAlt_ :: ReactIcon
+foreign import _mdKeyboardAlt :: ReactIcon
 
 mdKeyboardAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdKeyboardAlt = element (unsafeCoerce mdKeyboardAlt_)
+mdKeyboardAlt = element (unsafeCoerce _mdKeyboardAlt)
 
-foreign import mdKeyboardArrowDown_ :: ReactIcon
+foreign import _mdKeyboardArrowDown :: ReactIcon
 
 mdKeyboardArrowDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdKeyboardArrowDown = element (unsafeCoerce mdKeyboardArrowDown_)
+mdKeyboardArrowDown = element (unsafeCoerce _mdKeyboardArrowDown)
 
-foreign import mdKeyboardArrowLeft_ :: ReactIcon
+foreign import _mdKeyboardArrowLeft :: ReactIcon
 
 mdKeyboardArrowLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdKeyboardArrowLeft = element (unsafeCoerce mdKeyboardArrowLeft_)
+mdKeyboardArrowLeft = element (unsafeCoerce _mdKeyboardArrowLeft)
 
-foreign import mdKeyboardArrowRight_ :: ReactIcon
+foreign import _mdKeyboardArrowRight :: ReactIcon
 
 mdKeyboardArrowRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdKeyboardArrowRight = element (unsafeCoerce mdKeyboardArrowRight_)
+mdKeyboardArrowRight = element (unsafeCoerce _mdKeyboardArrowRight)
 
-foreign import mdKeyboardArrowUp_ :: ReactIcon
+foreign import _mdKeyboardArrowUp :: ReactIcon
 
 mdKeyboardArrowUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdKeyboardArrowUp = element (unsafeCoerce mdKeyboardArrowUp_)
+mdKeyboardArrowUp = element (unsafeCoerce _mdKeyboardArrowUp)
 
-foreign import mdKeyboardBackspace_ :: ReactIcon
+foreign import _mdKeyboardBackspace :: ReactIcon
 
 mdKeyboardBackspace :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdKeyboardBackspace = element (unsafeCoerce mdKeyboardBackspace_)
+mdKeyboardBackspace = element (unsafeCoerce _mdKeyboardBackspace)
 
-foreign import mdKeyboardCapslock_ :: ReactIcon
+foreign import _mdKeyboardCapslock :: ReactIcon
 
 mdKeyboardCapslock :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdKeyboardCapslock = element (unsafeCoerce mdKeyboardCapslock_)
+mdKeyboardCapslock = element (unsafeCoerce _mdKeyboardCapslock)
 
-foreign import mdKeyboardHide_ :: ReactIcon
+foreign import _mdKeyboardHide :: ReactIcon
 
 mdKeyboardHide :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdKeyboardHide = element (unsafeCoerce mdKeyboardHide_)
+mdKeyboardHide = element (unsafeCoerce _mdKeyboardHide)
 
-foreign import mdKeyboardReturn_ :: ReactIcon
+foreign import _mdKeyboardReturn :: ReactIcon
 
 mdKeyboardReturn :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdKeyboardReturn = element (unsafeCoerce mdKeyboardReturn_)
+mdKeyboardReturn = element (unsafeCoerce _mdKeyboardReturn)
 
-foreign import mdKeyboardTab_ :: ReactIcon
+foreign import _mdKeyboardTab :: ReactIcon
 
 mdKeyboardTab :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdKeyboardTab = element (unsafeCoerce mdKeyboardTab_)
+mdKeyboardTab = element (unsafeCoerce _mdKeyboardTab)
 
-foreign import mdKeyboardVoice_ :: ReactIcon
+foreign import _mdKeyboardVoice :: ReactIcon
 
 mdKeyboardVoice :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdKeyboardVoice = element (unsafeCoerce mdKeyboardVoice_)
+mdKeyboardVoice = element (unsafeCoerce _mdKeyboardVoice)
 
-foreign import mdKingBed_ :: ReactIcon
+foreign import _mdKingBed :: ReactIcon
 
 mdKingBed :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdKingBed = element (unsafeCoerce mdKingBed_)
+mdKingBed = element (unsafeCoerce _mdKingBed)
 
-foreign import mdKitchen_ :: ReactIcon
+foreign import _mdKitchen :: ReactIcon
 
 mdKitchen :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdKitchen = element (unsafeCoerce mdKitchen_)
+mdKitchen = element (unsafeCoerce _mdKitchen)
 
-foreign import mdKitesurfing_ :: ReactIcon
+foreign import _mdKitesurfing :: ReactIcon
 
 mdKitesurfing :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdKitesurfing = element (unsafeCoerce mdKitesurfing_)
+mdKitesurfing = element (unsafeCoerce _mdKitesurfing)
 
-foreign import mdLabel_ :: ReactIcon
+foreign import _mdLabel :: ReactIcon
 
 mdLabel :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdLabel = element (unsafeCoerce mdLabel_)
+mdLabel = element (unsafeCoerce _mdLabel)
 
-foreign import mdLabelImportant_ :: ReactIcon
+foreign import _mdLabelImportant :: ReactIcon
 
 mdLabelImportant :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdLabelImportant = element (unsafeCoerce mdLabelImportant_)
+mdLabelImportant = element (unsafeCoerce _mdLabelImportant)
 
-foreign import mdLabelImportantOutline_ :: ReactIcon
+foreign import _mdLabelImportantOutline :: ReactIcon
 
 mdLabelImportantOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdLabelImportantOutline = element (unsafeCoerce mdLabelImportantOutline_)
+mdLabelImportantOutline = element (unsafeCoerce _mdLabelImportantOutline)
 
-foreign import mdLabelOff_ :: ReactIcon
+foreign import _mdLabelOff :: ReactIcon
 
 mdLabelOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdLabelOff = element (unsafeCoerce mdLabelOff_)
+mdLabelOff = element (unsafeCoerce _mdLabelOff)
 
-foreign import mdLabelOutline_ :: ReactIcon
+foreign import _mdLabelOutline :: ReactIcon
 
 mdLabelOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdLabelOutline = element (unsafeCoerce mdLabelOutline_)
+mdLabelOutline = element (unsafeCoerce _mdLabelOutline)
 
-foreign import mdLandscape_ :: ReactIcon
+foreign import _mdLandscape :: ReactIcon
 
 mdLandscape :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdLandscape = element (unsafeCoerce mdLandscape_)
+mdLandscape = element (unsafeCoerce _mdLandscape)
 
-foreign import mdLanguage_ :: ReactIcon
+foreign import _mdLanguage :: ReactIcon
 
 mdLanguage :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdLanguage = element (unsafeCoerce mdLanguage_)
+mdLanguage = element (unsafeCoerce _mdLanguage)
 
-foreign import mdLaptop_ :: ReactIcon
+foreign import _mdLaptop :: ReactIcon
 
 mdLaptop :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdLaptop = element (unsafeCoerce mdLaptop_)
+mdLaptop = element (unsafeCoerce _mdLaptop)
 
-foreign import mdLaptopChromebook_ :: ReactIcon
+foreign import _mdLaptopChromebook :: ReactIcon
 
 mdLaptopChromebook :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdLaptopChromebook = element (unsafeCoerce mdLaptopChromebook_)
+mdLaptopChromebook = element (unsafeCoerce _mdLaptopChromebook)
 
-foreign import mdLaptopMac_ :: ReactIcon
+foreign import _mdLaptopMac :: ReactIcon
 
 mdLaptopMac :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdLaptopMac = element (unsafeCoerce mdLaptopMac_)
+mdLaptopMac = element (unsafeCoerce _mdLaptopMac)
 
-foreign import mdLaptopWindows_ :: ReactIcon
+foreign import _mdLaptopWindows :: ReactIcon
 
 mdLaptopWindows :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdLaptopWindows = element (unsafeCoerce mdLaptopWindows_)
+mdLaptopWindows = element (unsafeCoerce _mdLaptopWindows)
 
-foreign import mdLastPage_ :: ReactIcon
+foreign import _mdLastPage :: ReactIcon
 
 mdLastPage :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdLastPage = element (unsafeCoerce mdLastPage_)
+mdLastPage = element (unsafeCoerce _mdLastPage)
 
-foreign import mdLaunch_ :: ReactIcon
+foreign import _mdLaunch :: ReactIcon
 
 mdLaunch :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdLaunch = element (unsafeCoerce mdLaunch_)
+mdLaunch = element (unsafeCoerce _mdLaunch)
 
-foreign import mdLayers_ :: ReactIcon
+foreign import _mdLayers :: ReactIcon
 
 mdLayers :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdLayers = element (unsafeCoerce mdLayers_)
+mdLayers = element (unsafeCoerce _mdLayers)
 
-foreign import mdLayersClear_ :: ReactIcon
+foreign import _mdLayersClear :: ReactIcon
 
 mdLayersClear :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdLayersClear = element (unsafeCoerce mdLayersClear_)
+mdLayersClear = element (unsafeCoerce _mdLayersClear)
 
-foreign import mdLeaderboard_ :: ReactIcon
+foreign import _mdLeaderboard :: ReactIcon
 
 mdLeaderboard :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdLeaderboard = element (unsafeCoerce mdLeaderboard_)
+mdLeaderboard = element (unsafeCoerce _mdLeaderboard)
 
-foreign import mdLeakAdd_ :: ReactIcon
+foreign import _mdLeakAdd :: ReactIcon
 
 mdLeakAdd :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdLeakAdd = element (unsafeCoerce mdLeakAdd_)
+mdLeakAdd = element (unsafeCoerce _mdLeakAdd)
 
-foreign import mdLeakRemove_ :: ReactIcon
+foreign import _mdLeakRemove :: ReactIcon
 
 mdLeakRemove :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdLeakRemove = element (unsafeCoerce mdLeakRemove_)
+mdLeakRemove = element (unsafeCoerce _mdLeakRemove)
 
-foreign import mdLegendToggle_ :: ReactIcon
+foreign import _mdLegendToggle :: ReactIcon
 
 mdLegendToggle :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdLegendToggle = element (unsafeCoerce mdLegendToggle_)
+mdLegendToggle = element (unsafeCoerce _mdLegendToggle)
 
-foreign import mdLens_ :: ReactIcon
+foreign import _mdLens :: ReactIcon
 
 mdLens :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdLens = element (unsafeCoerce mdLens_)
+mdLens = element (unsafeCoerce _mdLens)
 
-foreign import mdLensBlur_ :: ReactIcon
+foreign import _mdLensBlur :: ReactIcon
 
 mdLensBlur :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdLensBlur = element (unsafeCoerce mdLensBlur_)
+mdLensBlur = element (unsafeCoerce _mdLensBlur)
 
-foreign import mdLibraryAdd_ :: ReactIcon
+foreign import _mdLibraryAdd :: ReactIcon
 
 mdLibraryAdd :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdLibraryAdd = element (unsafeCoerce mdLibraryAdd_)
+mdLibraryAdd = element (unsafeCoerce _mdLibraryAdd)
 
-foreign import mdLibraryAddCheck_ :: ReactIcon
+foreign import _mdLibraryAddCheck :: ReactIcon
 
 mdLibraryAddCheck :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdLibraryAddCheck = element (unsafeCoerce mdLibraryAddCheck_)
+mdLibraryAddCheck = element (unsafeCoerce _mdLibraryAddCheck)
 
-foreign import mdLibraryBooks_ :: ReactIcon
+foreign import _mdLibraryBooks :: ReactIcon
 
 mdLibraryBooks :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdLibraryBooks = element (unsafeCoerce mdLibraryBooks_)
+mdLibraryBooks = element (unsafeCoerce _mdLibraryBooks)
 
-foreign import mdLibraryMusic_ :: ReactIcon
+foreign import _mdLibraryMusic :: ReactIcon
 
 mdLibraryMusic :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdLibraryMusic = element (unsafeCoerce mdLibraryMusic_)
+mdLibraryMusic = element (unsafeCoerce _mdLibraryMusic)
 
-foreign import mdLight_ :: ReactIcon
+foreign import _mdLight :: ReactIcon
 
 mdLight :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdLight = element (unsafeCoerce mdLight_)
+mdLight = element (unsafeCoerce _mdLight)
 
-foreign import mdLightbulb_ :: ReactIcon
+foreign import _mdLightbulb :: ReactIcon
 
 mdLightbulb :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdLightbulb = element (unsafeCoerce mdLightbulb_)
+mdLightbulb = element (unsafeCoerce _mdLightbulb)
 
-foreign import mdLightbulbOutline_ :: ReactIcon
+foreign import _mdLightbulbOutline :: ReactIcon
 
 mdLightbulbOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdLightbulbOutline = element (unsafeCoerce mdLightbulbOutline_)
+mdLightbulbOutline = element (unsafeCoerce _mdLightbulbOutline)
 
-foreign import mdLightMode_ :: ReactIcon
+foreign import _mdLightMode :: ReactIcon
 
 mdLightMode :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdLightMode = element (unsafeCoerce mdLightMode_)
+mdLightMode = element (unsafeCoerce _mdLightMode)
 
-foreign import mdLinearScale_ :: ReactIcon
+foreign import _mdLinearScale :: ReactIcon
 
 mdLinearScale :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdLinearScale = element (unsafeCoerce mdLinearScale_)
+mdLinearScale = element (unsafeCoerce _mdLinearScale)
 
-foreign import mdLineStyle_ :: ReactIcon
+foreign import _mdLineStyle :: ReactIcon
 
 mdLineStyle :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdLineStyle = element (unsafeCoerce mdLineStyle_)
+mdLineStyle = element (unsafeCoerce _mdLineStyle)
 
-foreign import mdLineWeight_ :: ReactIcon
+foreign import _mdLineWeight :: ReactIcon
 
 mdLineWeight :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdLineWeight = element (unsafeCoerce mdLineWeight_)
+mdLineWeight = element (unsafeCoerce _mdLineWeight)
 
-foreign import mdLink_ :: ReactIcon
+foreign import _mdLink :: ReactIcon
 
 mdLink :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdLink = element (unsafeCoerce mdLink_)
+mdLink = element (unsafeCoerce _mdLink)
 
-foreign import mdLinkedCamera_ :: ReactIcon
+foreign import _mdLinkedCamera :: ReactIcon
 
 mdLinkedCamera :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdLinkedCamera = element (unsafeCoerce mdLinkedCamera_)
+mdLinkedCamera = element (unsafeCoerce _mdLinkedCamera)
 
-foreign import mdLinkOff_ :: ReactIcon
+foreign import _mdLinkOff :: ReactIcon
 
 mdLinkOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdLinkOff = element (unsafeCoerce mdLinkOff_)
+mdLinkOff = element (unsafeCoerce _mdLinkOff)
 
-foreign import mdLiquor_ :: ReactIcon
+foreign import _mdLiquor :: ReactIcon
 
 mdLiquor :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdLiquor = element (unsafeCoerce mdLiquor_)
+mdLiquor = element (unsafeCoerce _mdLiquor)
 
-foreign import mdList_ :: ReactIcon
+foreign import _mdList :: ReactIcon
 
 mdList :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdList = element (unsafeCoerce mdList_)
+mdList = element (unsafeCoerce _mdList)
 
-foreign import mdListAlt_ :: ReactIcon
+foreign import _mdListAlt :: ReactIcon
 
 mdListAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdListAlt = element (unsafeCoerce mdListAlt_)
+mdListAlt = element (unsafeCoerce _mdListAlt)
 
-foreign import mdLiveHelp_ :: ReactIcon
+foreign import _mdLiveHelp :: ReactIcon
 
 mdLiveHelp :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdLiveHelp = element (unsafeCoerce mdLiveHelp_)
+mdLiveHelp = element (unsafeCoerce _mdLiveHelp)
 
-foreign import mdLiveTv_ :: ReactIcon
+foreign import _mdLiveTv :: ReactIcon
 
 mdLiveTv :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdLiveTv = element (unsafeCoerce mdLiveTv_)
+mdLiveTv = element (unsafeCoerce _mdLiveTv)
 
-foreign import mdLiving_ :: ReactIcon
+foreign import _mdLiving :: ReactIcon
 
 mdLiving :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdLiving = element (unsafeCoerce mdLiving_)
+mdLiving = element (unsafeCoerce _mdLiving)
 
-foreign import mdLocalActivity_ :: ReactIcon
+foreign import _mdLocalActivity :: ReactIcon
 
 mdLocalActivity :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdLocalActivity = element (unsafeCoerce mdLocalActivity_)
+mdLocalActivity = element (unsafeCoerce _mdLocalActivity)
 
-foreign import mdLocalAirport_ :: ReactIcon
+foreign import _mdLocalAirport :: ReactIcon
 
 mdLocalAirport :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdLocalAirport = element (unsafeCoerce mdLocalAirport_)
+mdLocalAirport = element (unsafeCoerce _mdLocalAirport)
 
-foreign import mdLocalAtm_ :: ReactIcon
+foreign import _mdLocalAtm :: ReactIcon
 
 mdLocalAtm :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdLocalAtm = element (unsafeCoerce mdLocalAtm_)
+mdLocalAtm = element (unsafeCoerce _mdLocalAtm)
 
-foreign import mdLocalBar_ :: ReactIcon
+foreign import _mdLocalBar :: ReactIcon
 
 mdLocalBar :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdLocalBar = element (unsafeCoerce mdLocalBar_)
+mdLocalBar = element (unsafeCoerce _mdLocalBar)
 
-foreign import mdLocalCafe_ :: ReactIcon
+foreign import _mdLocalCafe :: ReactIcon
 
 mdLocalCafe :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdLocalCafe = element (unsafeCoerce mdLocalCafe_)
+mdLocalCafe = element (unsafeCoerce _mdLocalCafe)
 
-foreign import mdLocalCarWash_ :: ReactIcon
+foreign import _mdLocalCarWash :: ReactIcon
 
 mdLocalCarWash :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdLocalCarWash = element (unsafeCoerce mdLocalCarWash_)
+mdLocalCarWash = element (unsafeCoerce _mdLocalCarWash)
 
-foreign import mdLocalConvenienceStore_ :: ReactIcon
+foreign import _mdLocalConvenienceStore :: ReactIcon
 
 mdLocalConvenienceStore :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdLocalConvenienceStore = element (unsafeCoerce mdLocalConvenienceStore_)
+mdLocalConvenienceStore = element (unsafeCoerce _mdLocalConvenienceStore)
 
-foreign import mdLocalDining_ :: ReactIcon
+foreign import _mdLocalDining :: ReactIcon
 
 mdLocalDining :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdLocalDining = element (unsafeCoerce mdLocalDining_)
+mdLocalDining = element (unsafeCoerce _mdLocalDining)
 
-foreign import mdLocalDrink_ :: ReactIcon
+foreign import _mdLocalDrink :: ReactIcon
 
 mdLocalDrink :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdLocalDrink = element (unsafeCoerce mdLocalDrink_)
+mdLocalDrink = element (unsafeCoerce _mdLocalDrink)
 
-foreign import mdLocalFireDepartment_ :: ReactIcon
+foreign import _mdLocalFireDepartment :: ReactIcon
 
 mdLocalFireDepartment :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdLocalFireDepartment = element (unsafeCoerce mdLocalFireDepartment_)
+mdLocalFireDepartment = element (unsafeCoerce _mdLocalFireDepartment)
 
-foreign import mdLocalFlorist_ :: ReactIcon
+foreign import _mdLocalFlorist :: ReactIcon
 
 mdLocalFlorist :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdLocalFlorist = element (unsafeCoerce mdLocalFlorist_)
+mdLocalFlorist = element (unsafeCoerce _mdLocalFlorist)
 
-foreign import mdLocalGasStation_ :: ReactIcon
+foreign import _mdLocalGasStation :: ReactIcon
 
 mdLocalGasStation :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdLocalGasStation = element (unsafeCoerce mdLocalGasStation_)
+mdLocalGasStation = element (unsafeCoerce _mdLocalGasStation)
 
-foreign import mdLocalGroceryStore_ :: ReactIcon
+foreign import _mdLocalGroceryStore :: ReactIcon
 
 mdLocalGroceryStore :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdLocalGroceryStore = element (unsafeCoerce mdLocalGroceryStore_)
+mdLocalGroceryStore = element (unsafeCoerce _mdLocalGroceryStore)
 
-foreign import mdLocalHospital_ :: ReactIcon
+foreign import _mdLocalHospital :: ReactIcon
 
 mdLocalHospital :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdLocalHospital = element (unsafeCoerce mdLocalHospital_)
+mdLocalHospital = element (unsafeCoerce _mdLocalHospital)
 
-foreign import mdLocalHotel_ :: ReactIcon
+foreign import _mdLocalHotel :: ReactIcon
 
 mdLocalHotel :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdLocalHotel = element (unsafeCoerce mdLocalHotel_)
+mdLocalHotel = element (unsafeCoerce _mdLocalHotel)
 
-foreign import mdLocalLaundryService_ :: ReactIcon
+foreign import _mdLocalLaundryService :: ReactIcon
 
 mdLocalLaundryService :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdLocalLaundryService = element (unsafeCoerce mdLocalLaundryService_)
+mdLocalLaundryService = element (unsafeCoerce _mdLocalLaundryService)
 
-foreign import mdLocalLibrary_ :: ReactIcon
+foreign import _mdLocalLibrary :: ReactIcon
 
 mdLocalLibrary :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdLocalLibrary = element (unsafeCoerce mdLocalLibrary_)
+mdLocalLibrary = element (unsafeCoerce _mdLocalLibrary)
 
-foreign import mdLocalMall_ :: ReactIcon
+foreign import _mdLocalMall :: ReactIcon
 
 mdLocalMall :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdLocalMall = element (unsafeCoerce mdLocalMall_)
+mdLocalMall = element (unsafeCoerce _mdLocalMall)
 
-foreign import mdLocalMovies_ :: ReactIcon
+foreign import _mdLocalMovies :: ReactIcon
 
 mdLocalMovies :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdLocalMovies = element (unsafeCoerce mdLocalMovies_)
+mdLocalMovies = element (unsafeCoerce _mdLocalMovies)
 
-foreign import mdLocalOffer_ :: ReactIcon
+foreign import _mdLocalOffer :: ReactIcon
 
 mdLocalOffer :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdLocalOffer = element (unsafeCoerce mdLocalOffer_)
+mdLocalOffer = element (unsafeCoerce _mdLocalOffer)
 
-foreign import mdLocalParking_ :: ReactIcon
+foreign import _mdLocalParking :: ReactIcon
 
 mdLocalParking :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdLocalParking = element (unsafeCoerce mdLocalParking_)
+mdLocalParking = element (unsafeCoerce _mdLocalParking)
 
-foreign import mdLocalPharmacy_ :: ReactIcon
+foreign import _mdLocalPharmacy :: ReactIcon
 
 mdLocalPharmacy :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdLocalPharmacy = element (unsafeCoerce mdLocalPharmacy_)
+mdLocalPharmacy = element (unsafeCoerce _mdLocalPharmacy)
 
-foreign import mdLocalPhone_ :: ReactIcon
+foreign import _mdLocalPhone :: ReactIcon
 
 mdLocalPhone :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdLocalPhone = element (unsafeCoerce mdLocalPhone_)
+mdLocalPhone = element (unsafeCoerce _mdLocalPhone)
 
-foreign import mdLocalPizza_ :: ReactIcon
+foreign import _mdLocalPizza :: ReactIcon
 
 mdLocalPizza :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdLocalPizza = element (unsafeCoerce mdLocalPizza_)
+mdLocalPizza = element (unsafeCoerce _mdLocalPizza)
 
-foreign import mdLocalPlay_ :: ReactIcon
+foreign import _mdLocalPlay :: ReactIcon
 
 mdLocalPlay :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdLocalPlay = element (unsafeCoerce mdLocalPlay_)
+mdLocalPlay = element (unsafeCoerce _mdLocalPlay)
 
-foreign import mdLocalPolice_ :: ReactIcon
+foreign import _mdLocalPolice :: ReactIcon
 
 mdLocalPolice :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdLocalPolice = element (unsafeCoerce mdLocalPolice_)
+mdLocalPolice = element (unsafeCoerce _mdLocalPolice)
 
-foreign import mdLocalPostOffice_ :: ReactIcon
+foreign import _mdLocalPostOffice :: ReactIcon
 
 mdLocalPostOffice :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdLocalPostOffice = element (unsafeCoerce mdLocalPostOffice_)
+mdLocalPostOffice = element (unsafeCoerce _mdLocalPostOffice)
 
-foreign import mdLocalPrintshop_ :: ReactIcon
+foreign import _mdLocalPrintshop :: ReactIcon
 
 mdLocalPrintshop :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdLocalPrintshop = element (unsafeCoerce mdLocalPrintshop_)
+mdLocalPrintshop = element (unsafeCoerce _mdLocalPrintshop)
 
-foreign import mdLocalSee_ :: ReactIcon
+foreign import _mdLocalSee :: ReactIcon
 
 mdLocalSee :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdLocalSee = element (unsafeCoerce mdLocalSee_)
+mdLocalSee = element (unsafeCoerce _mdLocalSee)
 
-foreign import mdLocalShipping_ :: ReactIcon
+foreign import _mdLocalShipping :: ReactIcon
 
 mdLocalShipping :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdLocalShipping = element (unsafeCoerce mdLocalShipping_)
+mdLocalShipping = element (unsafeCoerce _mdLocalShipping)
 
-foreign import mdLocalTaxi_ :: ReactIcon
+foreign import _mdLocalTaxi :: ReactIcon
 
 mdLocalTaxi :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdLocalTaxi = element (unsafeCoerce mdLocalTaxi_)
+mdLocalTaxi = element (unsafeCoerce _mdLocalTaxi)
 
-foreign import mdLocationCity_ :: ReactIcon
+foreign import _mdLocationCity :: ReactIcon
 
 mdLocationCity :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdLocationCity = element (unsafeCoerce mdLocationCity_)
+mdLocationCity = element (unsafeCoerce _mdLocationCity)
 
-foreign import mdLocationDisabled_ :: ReactIcon
+foreign import _mdLocationDisabled :: ReactIcon
 
 mdLocationDisabled :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdLocationDisabled = element (unsafeCoerce mdLocationDisabled_)
+mdLocationDisabled = element (unsafeCoerce _mdLocationDisabled)
 
-foreign import mdLocationOff_ :: ReactIcon
+foreign import _mdLocationOff :: ReactIcon
 
 mdLocationOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdLocationOff = element (unsafeCoerce mdLocationOff_)
+mdLocationOff = element (unsafeCoerce _mdLocationOff)
 
-foreign import mdLocationOn_ :: ReactIcon
+foreign import _mdLocationOn :: ReactIcon
 
 mdLocationOn :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdLocationOn = element (unsafeCoerce mdLocationOn_)
+mdLocationOn = element (unsafeCoerce _mdLocationOn)
 
-foreign import mdLocationPin_ :: ReactIcon
+foreign import _mdLocationPin :: ReactIcon
 
 mdLocationPin :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdLocationPin = element (unsafeCoerce mdLocationPin_)
+mdLocationPin = element (unsafeCoerce _mdLocationPin)
 
-foreign import mdLocationSearching_ :: ReactIcon
+foreign import _mdLocationSearching :: ReactIcon
 
 mdLocationSearching :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdLocationSearching = element (unsafeCoerce mdLocationSearching_)
+mdLocationSearching = element (unsafeCoerce _mdLocationSearching)
 
-foreign import mdLock_ :: ReactIcon
+foreign import _mdLock :: ReactIcon
 
 mdLock :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdLock = element (unsafeCoerce mdLock_)
+mdLock = element (unsafeCoerce _mdLock)
 
-foreign import mdLockClock_ :: ReactIcon
+foreign import _mdLockClock :: ReactIcon
 
 mdLockClock :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdLockClock = element (unsafeCoerce mdLockClock_)
+mdLockClock = element (unsafeCoerce _mdLockClock)
 
-foreign import mdLockOpen_ :: ReactIcon
+foreign import _mdLockOpen :: ReactIcon
 
 mdLockOpen :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdLockOpen = element (unsafeCoerce mdLockOpen_)
+mdLockOpen = element (unsafeCoerce _mdLockOpen)
 
-foreign import mdLockOutline_ :: ReactIcon
+foreign import _mdLockOutline :: ReactIcon
 
 mdLockOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdLockOutline = element (unsafeCoerce mdLockOutline_)
+mdLockOutline = element (unsafeCoerce _mdLockOutline)
 
-foreign import mdLogin_ :: ReactIcon
+foreign import _mdLogin :: ReactIcon
 
 mdLogin :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdLogin = element (unsafeCoerce mdLogin_)
+mdLogin = element (unsafeCoerce _mdLogin)
 
-foreign import mdLogout_ :: ReactIcon
+foreign import _mdLogout :: ReactIcon
 
 mdLogout :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdLogout = element (unsafeCoerce mdLogout_)
+mdLogout = element (unsafeCoerce _mdLogout)
 
-foreign import mdLooks_ :: ReactIcon
+foreign import _mdLooks :: ReactIcon
 
 mdLooks :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdLooks = element (unsafeCoerce mdLooks_)
+mdLooks = element (unsafeCoerce _mdLooks)
 
-foreign import mdLooksOne_ :: ReactIcon
+foreign import _mdLooksOne :: ReactIcon
 
 mdLooksOne :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdLooksOne = element (unsafeCoerce mdLooksOne_)
+mdLooksOne = element (unsafeCoerce _mdLooksOne)
 
-foreign import mdLooksTwo_ :: ReactIcon
+foreign import _mdLooksTwo :: ReactIcon
 
 mdLooksTwo :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdLooksTwo = element (unsafeCoerce mdLooksTwo_)
+mdLooksTwo = element (unsafeCoerce _mdLooksTwo)
 
-foreign import mdLoop_ :: ReactIcon
+foreign import _mdLoop :: ReactIcon
 
 mdLoop :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdLoop = element (unsafeCoerce mdLoop_)
+mdLoop = element (unsafeCoerce _mdLoop)
 
-foreign import mdLoupe_ :: ReactIcon
+foreign import _mdLoupe :: ReactIcon
 
 mdLoupe :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdLoupe = element (unsafeCoerce mdLoupe_)
+mdLoupe = element (unsafeCoerce _mdLoupe)
 
-foreign import mdLowPriority_ :: ReactIcon
+foreign import _mdLowPriority :: ReactIcon
 
 mdLowPriority :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdLowPriority = element (unsafeCoerce mdLowPriority_)
+mdLowPriority = element (unsafeCoerce _mdLowPriority)
 
-foreign import mdLoyalty_ :: ReactIcon
+foreign import _mdLoyalty :: ReactIcon
 
 mdLoyalty :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdLoyalty = element (unsafeCoerce mdLoyalty_)
+mdLoyalty = element (unsafeCoerce _mdLoyalty)
 
-foreign import mdLteMobiledata_ :: ReactIcon
+foreign import _mdLteMobiledata :: ReactIcon
 
 mdLteMobiledata :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdLteMobiledata = element (unsafeCoerce mdLteMobiledata_)
+mdLteMobiledata = element (unsafeCoerce _mdLteMobiledata)
 
-foreign import mdLtePlusMobiledata_ :: ReactIcon
+foreign import _mdLtePlusMobiledata :: ReactIcon
 
 mdLtePlusMobiledata :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdLtePlusMobiledata = element (unsafeCoerce mdLtePlusMobiledata_)
+mdLtePlusMobiledata = element (unsafeCoerce _mdLtePlusMobiledata)
 
-foreign import mdLuggage_ :: ReactIcon
+foreign import _mdLuggage :: ReactIcon
 
 mdLuggage :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdLuggage = element (unsafeCoerce mdLuggage_)
+mdLuggage = element (unsafeCoerce _mdLuggage)
 
-foreign import mdLunchDining_ :: ReactIcon
+foreign import _mdLunchDining :: ReactIcon
 
 mdLunchDining :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdLunchDining = element (unsafeCoerce mdLunchDining_)
+mdLunchDining = element (unsafeCoerce _mdLunchDining)
 
-foreign import mdMail_ :: ReactIcon
+foreign import _mdMail :: ReactIcon
 
 mdMail :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdMail = element (unsafeCoerce mdMail_)
+mdMail = element (unsafeCoerce _mdMail)
 
-foreign import mdMailOutline_ :: ReactIcon
+foreign import _mdMailOutline :: ReactIcon
 
 mdMailOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdMailOutline = element (unsafeCoerce mdMailOutline_)
+mdMailOutline = element (unsafeCoerce _mdMailOutline)
 
-foreign import mdMale_ :: ReactIcon
+foreign import _mdMale :: ReactIcon
 
 mdMale :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdMale = element (unsafeCoerce mdMale_)
+mdMale = element (unsafeCoerce _mdMale)
 
-foreign import mdManageAccounts_ :: ReactIcon
+foreign import _mdManageAccounts :: ReactIcon
 
 mdManageAccounts :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdManageAccounts = element (unsafeCoerce mdManageAccounts_)
+mdManageAccounts = element (unsafeCoerce _mdManageAccounts)
 
-foreign import mdManageSearch_ :: ReactIcon
+foreign import _mdManageSearch :: ReactIcon
 
 mdManageSearch :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdManageSearch = element (unsafeCoerce mdManageSearch_)
+mdManageSearch = element (unsafeCoerce _mdManageSearch)
 
-foreign import mdMap_ :: ReactIcon
+foreign import _mdMap :: ReactIcon
 
 mdMap :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdMap = element (unsafeCoerce mdMap_)
+mdMap = element (unsafeCoerce _mdMap)
 
-foreign import mdMapsHomeWork_ :: ReactIcon
+foreign import _mdMapsHomeWork :: ReactIcon
 
 mdMapsHomeWork :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdMapsHomeWork = element (unsafeCoerce mdMapsHomeWork_)
+mdMapsHomeWork = element (unsafeCoerce _mdMapsHomeWork)
 
-foreign import mdMapsUgc_ :: ReactIcon
+foreign import _mdMapsUgc :: ReactIcon
 
 mdMapsUgc :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdMapsUgc = element (unsafeCoerce mdMapsUgc_)
+mdMapsUgc = element (unsafeCoerce _mdMapsUgc)
 
-foreign import mdMargin_ :: ReactIcon
+foreign import _mdMargin :: ReactIcon
 
 mdMargin :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdMargin = element (unsafeCoerce mdMargin_)
+mdMargin = element (unsafeCoerce _mdMargin)
 
-foreign import mdMarkAsUnread_ :: ReactIcon
+foreign import _mdMarkAsUnread :: ReactIcon
 
 mdMarkAsUnread :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdMarkAsUnread = element (unsafeCoerce mdMarkAsUnread_)
+mdMarkAsUnread = element (unsafeCoerce _mdMarkAsUnread)
 
-foreign import mdMarkChatRead_ :: ReactIcon
+foreign import _mdMarkChatRead :: ReactIcon
 
 mdMarkChatRead :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdMarkChatRead = element (unsafeCoerce mdMarkChatRead_)
+mdMarkChatRead = element (unsafeCoerce _mdMarkChatRead)
 
-foreign import mdMarkChatUnread_ :: ReactIcon
+foreign import _mdMarkChatUnread :: ReactIcon
 
 mdMarkChatUnread :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdMarkChatUnread = element (unsafeCoerce mdMarkChatUnread_)
+mdMarkChatUnread = element (unsafeCoerce _mdMarkChatUnread)
 
-foreign import mdMarkEmailRead_ :: ReactIcon
+foreign import _mdMarkEmailRead :: ReactIcon
 
 mdMarkEmailRead :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdMarkEmailRead = element (unsafeCoerce mdMarkEmailRead_)
+mdMarkEmailRead = element (unsafeCoerce _mdMarkEmailRead)
 
-foreign import mdMarkEmailUnread_ :: ReactIcon
+foreign import _mdMarkEmailUnread :: ReactIcon
 
 mdMarkEmailUnread :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdMarkEmailUnread = element (unsafeCoerce mdMarkEmailUnread_)
+mdMarkEmailUnread = element (unsafeCoerce _mdMarkEmailUnread)
 
-foreign import mdMarkunread_ :: ReactIcon
+foreign import _mdMarkunread :: ReactIcon
 
 mdMarkunread :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdMarkunread = element (unsafeCoerce mdMarkunread_)
+mdMarkunread = element (unsafeCoerce _mdMarkunread)
 
-foreign import mdMarkunreadMailbox_ :: ReactIcon
+foreign import _mdMarkunreadMailbox :: ReactIcon
 
 mdMarkunreadMailbox :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdMarkunreadMailbox = element (unsafeCoerce mdMarkunreadMailbox_)
+mdMarkunreadMailbox = element (unsafeCoerce _mdMarkunreadMailbox)
 
-foreign import mdMasks_ :: ReactIcon
+foreign import _mdMasks :: ReactIcon
 
 mdMasks :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdMasks = element (unsafeCoerce mdMasks_)
+mdMasks = element (unsafeCoerce _mdMasks)
 
-foreign import mdMaximize_ :: ReactIcon
+foreign import _mdMaximize :: ReactIcon
 
 mdMaximize :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdMaximize = element (unsafeCoerce mdMaximize_)
+mdMaximize = element (unsafeCoerce _mdMaximize)
 
-foreign import mdMediaBluetoothOff_ :: ReactIcon
+foreign import _mdMediaBluetoothOff :: ReactIcon
 
 mdMediaBluetoothOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdMediaBluetoothOff = element (unsafeCoerce mdMediaBluetoothOff_)
+mdMediaBluetoothOff = element (unsafeCoerce _mdMediaBluetoothOff)
 
-foreign import mdMediaBluetoothOn_ :: ReactIcon
+foreign import _mdMediaBluetoothOn :: ReactIcon
 
 mdMediaBluetoothOn :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdMediaBluetoothOn = element (unsafeCoerce mdMediaBluetoothOn_)
+mdMediaBluetoothOn = element (unsafeCoerce _mdMediaBluetoothOn)
 
-foreign import mdMediation_ :: ReactIcon
+foreign import _mdMediation :: ReactIcon
 
 mdMediation :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdMediation = element (unsafeCoerce mdMediation_)
+mdMediation = element (unsafeCoerce _mdMediation)
 
-foreign import mdMedicalServices_ :: ReactIcon
+foreign import _mdMedicalServices :: ReactIcon
 
 mdMedicalServices :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdMedicalServices = element (unsafeCoerce mdMedicalServices_)
+mdMedicalServices = element (unsafeCoerce _mdMedicalServices)
 
-foreign import mdMedication_ :: ReactIcon
+foreign import _mdMedication :: ReactIcon
 
 mdMedication :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdMedication = element (unsafeCoerce mdMedication_)
+mdMedication = element (unsafeCoerce _mdMedication)
 
-foreign import mdMeetingRoom_ :: ReactIcon
+foreign import _mdMeetingRoom :: ReactIcon
 
 mdMeetingRoom :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdMeetingRoom = element (unsafeCoerce mdMeetingRoom_)
+mdMeetingRoom = element (unsafeCoerce _mdMeetingRoom)
 
-foreign import mdMemory_ :: ReactIcon
+foreign import _mdMemory :: ReactIcon
 
 mdMemory :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdMemory = element (unsafeCoerce mdMemory_)
+mdMemory = element (unsafeCoerce _mdMemory)
 
-foreign import mdMenu_ :: ReactIcon
+foreign import _mdMenu :: ReactIcon
 
 mdMenu :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdMenu = element (unsafeCoerce mdMenu_)
+mdMenu = element (unsafeCoerce _mdMenu)
 
-foreign import mdMenuBook_ :: ReactIcon
+foreign import _mdMenuBook :: ReactIcon
 
 mdMenuBook :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdMenuBook = element (unsafeCoerce mdMenuBook_)
+mdMenuBook = element (unsafeCoerce _mdMenuBook)
 
-foreign import mdMenuOpen_ :: ReactIcon
+foreign import _mdMenuOpen :: ReactIcon
 
 mdMenuOpen :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdMenuOpen = element (unsafeCoerce mdMenuOpen_)
+mdMenuOpen = element (unsafeCoerce _mdMenuOpen)
 
-foreign import mdMergeType_ :: ReactIcon
+foreign import _mdMergeType :: ReactIcon
 
 mdMergeType :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdMergeType = element (unsafeCoerce mdMergeType_)
+mdMergeType = element (unsafeCoerce _mdMergeType)
 
-foreign import mdMessage_ :: ReactIcon
+foreign import _mdMessage :: ReactIcon
 
 mdMessage :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdMessage = element (unsafeCoerce mdMessage_)
+mdMessage = element (unsafeCoerce _mdMessage)
 
-foreign import mdMic_ :: ReactIcon
+foreign import _mdMic :: ReactIcon
 
 mdMic :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdMic = element (unsafeCoerce mdMic_)
+mdMic = element (unsafeCoerce _mdMic)
 
-foreign import mdMicExternalOff_ :: ReactIcon
+foreign import _mdMicExternalOff :: ReactIcon
 
 mdMicExternalOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdMicExternalOff = element (unsafeCoerce mdMicExternalOff_)
+mdMicExternalOff = element (unsafeCoerce _mdMicExternalOff)
 
-foreign import mdMicExternalOn_ :: ReactIcon
+foreign import _mdMicExternalOn :: ReactIcon
 
 mdMicExternalOn :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdMicExternalOn = element (unsafeCoerce mdMicExternalOn_)
+mdMicExternalOn = element (unsafeCoerce _mdMicExternalOn)
 
-foreign import mdMicNone_ :: ReactIcon
+foreign import _mdMicNone :: ReactIcon
 
 mdMicNone :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdMicNone = element (unsafeCoerce mdMicNone_)
+mdMicNone = element (unsafeCoerce _mdMicNone)
 
-foreign import mdMicOff_ :: ReactIcon
+foreign import _mdMicOff :: ReactIcon
 
 mdMicOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdMicOff = element (unsafeCoerce mdMicOff_)
+mdMicOff = element (unsafeCoerce _mdMicOff)
 
-foreign import mdMicrowave_ :: ReactIcon
+foreign import _mdMicrowave :: ReactIcon
 
 mdMicrowave :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdMicrowave = element (unsafeCoerce mdMicrowave_)
+mdMicrowave = element (unsafeCoerce _mdMicrowave)
 
-foreign import mdMilitaryTech_ :: ReactIcon
+foreign import _mdMilitaryTech :: ReactIcon
 
 mdMilitaryTech :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdMilitaryTech = element (unsafeCoerce mdMilitaryTech_)
+mdMilitaryTech = element (unsafeCoerce _mdMilitaryTech)
 
-foreign import mdMinimize_ :: ReactIcon
+foreign import _mdMinimize :: ReactIcon
 
 mdMinimize :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdMinimize = element (unsafeCoerce mdMinimize_)
+mdMinimize = element (unsafeCoerce _mdMinimize)
 
-foreign import mdMiscellaneousServices_ :: ReactIcon
+foreign import _mdMiscellaneousServices :: ReactIcon
 
 mdMiscellaneousServices :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdMiscellaneousServices = element (unsafeCoerce mdMiscellaneousServices_)
+mdMiscellaneousServices = element (unsafeCoerce _mdMiscellaneousServices)
 
-foreign import mdMissedVideoCall_ :: ReactIcon
+foreign import _mdMissedVideoCall :: ReactIcon
 
 mdMissedVideoCall :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdMissedVideoCall = element (unsafeCoerce mdMissedVideoCall_)
+mdMissedVideoCall = element (unsafeCoerce _mdMissedVideoCall)
 
-foreign import mdMms_ :: ReactIcon
+foreign import _mdMms :: ReactIcon
 
 mdMms :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdMms = element (unsafeCoerce mdMms_)
+mdMms = element (unsafeCoerce _mdMms)
 
-foreign import mdMobiledataOff_ :: ReactIcon
+foreign import _mdMobiledataOff :: ReactIcon
 
 mdMobiledataOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdMobiledataOff = element (unsafeCoerce mdMobiledataOff_)
+mdMobiledataOff = element (unsafeCoerce _mdMobiledataOff)
 
-foreign import mdMobileFriendly_ :: ReactIcon
+foreign import _mdMobileFriendly :: ReactIcon
 
 mdMobileFriendly :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdMobileFriendly = element (unsafeCoerce mdMobileFriendly_)
+mdMobileFriendly = element (unsafeCoerce _mdMobileFriendly)
 
-foreign import mdMobileOff_ :: ReactIcon
+foreign import _mdMobileOff :: ReactIcon
 
 mdMobileOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdMobileOff = element (unsafeCoerce mdMobileOff_)
+mdMobileOff = element (unsafeCoerce _mdMobileOff)
 
-foreign import mdMobileScreenShare_ :: ReactIcon
+foreign import _mdMobileScreenShare :: ReactIcon
 
 mdMobileScreenShare :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdMobileScreenShare = element (unsafeCoerce mdMobileScreenShare_)
+mdMobileScreenShare = element (unsafeCoerce _mdMobileScreenShare)
 
-foreign import mdMode_ :: ReactIcon
+foreign import _mdMode :: ReactIcon
 
 mdMode :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdMode = element (unsafeCoerce mdMode_)
+mdMode = element (unsafeCoerce _mdMode)
 
-foreign import mdModeComment_ :: ReactIcon
+foreign import _mdModeComment :: ReactIcon
 
 mdModeComment :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdModeComment = element (unsafeCoerce mdModeComment_)
+mdModeComment = element (unsafeCoerce _mdModeComment)
 
-foreign import mdModeEdit_ :: ReactIcon
+foreign import _mdModeEdit :: ReactIcon
 
 mdModeEdit :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdModeEdit = element (unsafeCoerce mdModeEdit_)
+mdModeEdit = element (unsafeCoerce _mdModeEdit)
 
-foreign import mdModeEditOutline_ :: ReactIcon
+foreign import _mdModeEditOutline :: ReactIcon
 
 mdModeEditOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdModeEditOutline = element (unsafeCoerce mdModeEditOutline_)
+mdModeEditOutline = element (unsafeCoerce _mdModeEditOutline)
 
-foreign import mdModelTraining_ :: ReactIcon
+foreign import _mdModelTraining :: ReactIcon
 
 mdModelTraining :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdModelTraining = element (unsafeCoerce mdModelTraining_)
+mdModelTraining = element (unsafeCoerce _mdModelTraining)
 
-foreign import mdModeNight_ :: ReactIcon
+foreign import _mdModeNight :: ReactIcon
 
 mdModeNight :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdModeNight = element (unsafeCoerce mdModeNight_)
+mdModeNight = element (unsafeCoerce _mdModeNight)
 
-foreign import mdModeStandby_ :: ReactIcon
+foreign import _mdModeStandby :: ReactIcon
 
 mdModeStandby :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdModeStandby = element (unsafeCoerce mdModeStandby_)
+mdModeStandby = element (unsafeCoerce _mdModeStandby)
 
-foreign import mdMonetizationOn_ :: ReactIcon
+foreign import _mdMonetizationOn :: ReactIcon
 
 mdMonetizationOn :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdMonetizationOn = element (unsafeCoerce mdMonetizationOn_)
+mdMonetizationOn = element (unsafeCoerce _mdMonetizationOn)
 
-foreign import mdMoney_ :: ReactIcon
+foreign import _mdMoney :: ReactIcon
 
 mdMoney :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdMoney = element (unsafeCoerce mdMoney_)
+mdMoney = element (unsafeCoerce _mdMoney)
 
-foreign import mdMoneyOff_ :: ReactIcon
+foreign import _mdMoneyOff :: ReactIcon
 
 mdMoneyOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdMoneyOff = element (unsafeCoerce mdMoneyOff_)
+mdMoneyOff = element (unsafeCoerce _mdMoneyOff)
 
-foreign import mdMoneyOffCsred_ :: ReactIcon
+foreign import _mdMoneyOffCsred :: ReactIcon
 
 mdMoneyOffCsred :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdMoneyOffCsred = element (unsafeCoerce mdMoneyOffCsred_)
+mdMoneyOffCsred = element (unsafeCoerce _mdMoneyOffCsred)
 
-foreign import mdMonitor_ :: ReactIcon
+foreign import _mdMonitor :: ReactIcon
 
 mdMonitor :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdMonitor = element (unsafeCoerce mdMonitor_)
+mdMonitor = element (unsafeCoerce _mdMonitor)
 
-foreign import mdMonitorWeight_ :: ReactIcon
+foreign import _mdMonitorWeight :: ReactIcon
 
 mdMonitorWeight :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdMonitorWeight = element (unsafeCoerce mdMonitorWeight_)
+mdMonitorWeight = element (unsafeCoerce _mdMonitorWeight)
 
-foreign import mdMonochromePhotos_ :: ReactIcon
+foreign import _mdMonochromePhotos :: ReactIcon
 
 mdMonochromePhotos :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdMonochromePhotos = element (unsafeCoerce mdMonochromePhotos_)
+mdMonochromePhotos = element (unsafeCoerce _mdMonochromePhotos)
 
-foreign import mdMood_ :: ReactIcon
+foreign import _mdMood :: ReactIcon
 
 mdMood :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdMood = element (unsafeCoerce mdMood_)
+mdMood = element (unsafeCoerce _mdMood)
 
-foreign import mdMoodBad_ :: ReactIcon
+foreign import _mdMoodBad :: ReactIcon
 
 mdMoodBad :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdMoodBad = element (unsafeCoerce mdMoodBad_)
+mdMoodBad = element (unsafeCoerce _mdMoodBad)
 
-foreign import mdMoped_ :: ReactIcon
+foreign import _mdMoped :: ReactIcon
 
 mdMoped :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdMoped = element (unsafeCoerce mdMoped_)
+mdMoped = element (unsafeCoerce _mdMoped)
 
-foreign import mdMore_ :: ReactIcon
+foreign import _mdMore :: ReactIcon
 
 mdMore :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdMore = element (unsafeCoerce mdMore_)
+mdMore = element (unsafeCoerce _mdMore)
 
-foreign import mdMoreHoriz_ :: ReactIcon
+foreign import _mdMoreHoriz :: ReactIcon
 
 mdMoreHoriz :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdMoreHoriz = element (unsafeCoerce mdMoreHoriz_)
+mdMoreHoriz = element (unsafeCoerce _mdMoreHoriz)
 
-foreign import mdMoreTime_ :: ReactIcon
+foreign import _mdMoreTime :: ReactIcon
 
 mdMoreTime :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdMoreTime = element (unsafeCoerce mdMoreTime_)
+mdMoreTime = element (unsafeCoerce _mdMoreTime)
 
-foreign import mdMoreVert_ :: ReactIcon
+foreign import _mdMoreVert :: ReactIcon
 
 mdMoreVert :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdMoreVert = element (unsafeCoerce mdMoreVert_)
+mdMoreVert = element (unsafeCoerce _mdMoreVert)
 
-foreign import mdMotionPhotosAuto_ :: ReactIcon
+foreign import _mdMotionPhotosAuto :: ReactIcon
 
 mdMotionPhotosAuto :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdMotionPhotosAuto = element (unsafeCoerce mdMotionPhotosAuto_)
+mdMotionPhotosAuto = element (unsafeCoerce _mdMotionPhotosAuto)
 
-foreign import mdMotionPhotosOff_ :: ReactIcon
+foreign import _mdMotionPhotosOff :: ReactIcon
 
 mdMotionPhotosOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdMotionPhotosOff = element (unsafeCoerce mdMotionPhotosOff_)
+mdMotionPhotosOff = element (unsafeCoerce _mdMotionPhotosOff)
 
-foreign import mdMotionPhotosOn_ :: ReactIcon
+foreign import _mdMotionPhotosOn :: ReactIcon
 
 mdMotionPhotosOn :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdMotionPhotosOn = element (unsafeCoerce mdMotionPhotosOn_)
+mdMotionPhotosOn = element (unsafeCoerce _mdMotionPhotosOn)
 
-foreign import mdMotionPhotosPause_ :: ReactIcon
+foreign import _mdMotionPhotosPause :: ReactIcon
 
 mdMotionPhotosPause :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdMotionPhotosPause = element (unsafeCoerce mdMotionPhotosPause_)
+mdMotionPhotosPause = element (unsafeCoerce _mdMotionPhotosPause)
 
-foreign import mdMotionPhotosPaused_ :: ReactIcon
+foreign import _mdMotionPhotosPaused :: ReactIcon
 
 mdMotionPhotosPaused :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdMotionPhotosPaused = element (unsafeCoerce mdMotionPhotosPaused_)
+mdMotionPhotosPaused = element (unsafeCoerce _mdMotionPhotosPaused)
 
-foreign import mdMouse_ :: ReactIcon
+foreign import _mdMouse :: ReactIcon
 
 mdMouse :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdMouse = element (unsafeCoerce mdMouse_)
+mdMouse = element (unsafeCoerce _mdMouse)
 
-foreign import mdMoveToInbox_ :: ReactIcon
+foreign import _mdMoveToInbox :: ReactIcon
 
 mdMoveToInbox :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdMoveToInbox = element (unsafeCoerce mdMoveToInbox_)
+mdMoveToInbox = element (unsafeCoerce _mdMoveToInbox)
 
-foreign import mdMovie_ :: ReactIcon
+foreign import _mdMovie :: ReactIcon
 
 mdMovie :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdMovie = element (unsafeCoerce mdMovie_)
+mdMovie = element (unsafeCoerce _mdMovie)
 
-foreign import mdMovieCreation_ :: ReactIcon
+foreign import _mdMovieCreation :: ReactIcon
 
 mdMovieCreation :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdMovieCreation = element (unsafeCoerce mdMovieCreation_)
+mdMovieCreation = element (unsafeCoerce _mdMovieCreation)
 
-foreign import mdMovieFilter_ :: ReactIcon
+foreign import _mdMovieFilter :: ReactIcon
 
 mdMovieFilter :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdMovieFilter = element (unsafeCoerce mdMovieFilter_)
+mdMovieFilter = element (unsafeCoerce _mdMovieFilter)
 
-foreign import mdMoving_ :: ReactIcon
+foreign import _mdMoving :: ReactIcon
 
 mdMoving :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdMoving = element (unsafeCoerce mdMoving_)
+mdMoving = element (unsafeCoerce _mdMoving)
 
-foreign import mdMp_ :: ReactIcon
+foreign import _mdMp :: ReactIcon
 
 mdMp :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdMp = element (unsafeCoerce mdMp_)
+mdMp = element (unsafeCoerce _mdMp)
 
-foreign import mdMultilineChart_ :: ReactIcon
+foreign import _mdMultilineChart :: ReactIcon
 
 mdMultilineChart :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdMultilineChart = element (unsafeCoerce mdMultilineChart_)
+mdMultilineChart = element (unsafeCoerce _mdMultilineChart)
 
-foreign import mdMultipleStop_ :: ReactIcon
+foreign import _mdMultipleStop :: ReactIcon
 
 mdMultipleStop :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdMultipleStop = element (unsafeCoerce mdMultipleStop_)
+mdMultipleStop = element (unsafeCoerce _mdMultipleStop)
 
-foreign import mdMuseum_ :: ReactIcon
+foreign import _mdMuseum :: ReactIcon
 
 mdMuseum :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdMuseum = element (unsafeCoerce mdMuseum_)
+mdMuseum = element (unsafeCoerce _mdMuseum)
 
-foreign import mdMusicNote_ :: ReactIcon
+foreign import _mdMusicNote :: ReactIcon
 
 mdMusicNote :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdMusicNote = element (unsafeCoerce mdMusicNote_)
+mdMusicNote = element (unsafeCoerce _mdMusicNote)
 
-foreign import mdMusicOff_ :: ReactIcon
+foreign import _mdMusicOff :: ReactIcon
 
 mdMusicOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdMusicOff = element (unsafeCoerce mdMusicOff_)
+mdMusicOff = element (unsafeCoerce _mdMusicOff)
 
-foreign import mdMusicVideo_ :: ReactIcon
+foreign import _mdMusicVideo :: ReactIcon
 
 mdMusicVideo :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdMusicVideo = element (unsafeCoerce mdMusicVideo_)
+mdMusicVideo = element (unsafeCoerce _mdMusicVideo)
 
-foreign import mdMyLocation_ :: ReactIcon
+foreign import _mdMyLocation :: ReactIcon
 
 mdMyLocation :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdMyLocation = element (unsafeCoerce mdMyLocation_)
+mdMyLocation = element (unsafeCoerce _mdMyLocation)
 
-foreign import mdNat_ :: ReactIcon
+foreign import _mdNat :: ReactIcon
 
 mdNat :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdNat = element (unsafeCoerce mdNat_)
+mdNat = element (unsafeCoerce _mdNat)
 
-foreign import mdNature_ :: ReactIcon
+foreign import _mdNature :: ReactIcon
 
 mdNature :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdNature = element (unsafeCoerce mdNature_)
+mdNature = element (unsafeCoerce _mdNature)
 
-foreign import mdNaturePeople_ :: ReactIcon
+foreign import _mdNaturePeople :: ReactIcon
 
 mdNaturePeople :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdNaturePeople = element (unsafeCoerce mdNaturePeople_)
+mdNaturePeople = element (unsafeCoerce _mdNaturePeople)
 
-foreign import mdNavigateBefore_ :: ReactIcon
+foreign import _mdNavigateBefore :: ReactIcon
 
 mdNavigateBefore :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdNavigateBefore = element (unsafeCoerce mdNavigateBefore_)
+mdNavigateBefore = element (unsafeCoerce _mdNavigateBefore)
 
-foreign import mdNavigateNext_ :: ReactIcon
+foreign import _mdNavigateNext :: ReactIcon
 
 mdNavigateNext :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdNavigateNext = element (unsafeCoerce mdNavigateNext_)
+mdNavigateNext = element (unsafeCoerce _mdNavigateNext)
 
-foreign import mdNavigation_ :: ReactIcon
+foreign import _mdNavigation :: ReactIcon
 
 mdNavigation :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdNavigation = element (unsafeCoerce mdNavigation_)
+mdNavigation = element (unsafeCoerce _mdNavigation)
 
-foreign import mdNearbyError_ :: ReactIcon
+foreign import _mdNearbyError :: ReactIcon
 
 mdNearbyError :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdNearbyError = element (unsafeCoerce mdNearbyError_)
+mdNearbyError = element (unsafeCoerce _mdNearbyError)
 
-foreign import mdNearbyOff_ :: ReactIcon
+foreign import _mdNearbyOff :: ReactIcon
 
 mdNearbyOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdNearbyOff = element (unsafeCoerce mdNearbyOff_)
+mdNearbyOff = element (unsafeCoerce _mdNearbyOff)
 
-foreign import mdNearMe_ :: ReactIcon
+foreign import _mdNearMe :: ReactIcon
 
 mdNearMe :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdNearMe = element (unsafeCoerce mdNearMe_)
+mdNearMe = element (unsafeCoerce _mdNearMe)
 
-foreign import mdNearMeDisabled_ :: ReactIcon
+foreign import _mdNearMeDisabled :: ReactIcon
 
 mdNearMeDisabled :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdNearMeDisabled = element (unsafeCoerce mdNearMeDisabled_)
+mdNearMeDisabled = element (unsafeCoerce _mdNearMeDisabled)
 
-foreign import mdNetworkCell_ :: ReactIcon
+foreign import _mdNetworkCell :: ReactIcon
 
 mdNetworkCell :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdNetworkCell = element (unsafeCoerce mdNetworkCell_)
+mdNetworkCell = element (unsafeCoerce _mdNetworkCell)
 
-foreign import mdNetworkCheck_ :: ReactIcon
+foreign import _mdNetworkCheck :: ReactIcon
 
 mdNetworkCheck :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdNetworkCheck = element (unsafeCoerce mdNetworkCheck_)
+mdNetworkCheck = element (unsafeCoerce _mdNetworkCheck)
 
-foreign import mdNetworkLocked_ :: ReactIcon
+foreign import _mdNetworkLocked :: ReactIcon
 
 mdNetworkLocked :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdNetworkLocked = element (unsafeCoerce mdNetworkLocked_)
+mdNetworkLocked = element (unsafeCoerce _mdNetworkLocked)
 
-foreign import mdNetworkWifi_ :: ReactIcon
+foreign import _mdNetworkWifi :: ReactIcon
 
 mdNetworkWifi :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdNetworkWifi = element (unsafeCoerce mdNetworkWifi_)
+mdNetworkWifi = element (unsafeCoerce _mdNetworkWifi)
 
-foreign import mdNewLabel_ :: ReactIcon
+foreign import _mdNewLabel :: ReactIcon
 
 mdNewLabel :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdNewLabel = element (unsafeCoerce mdNewLabel_)
+mdNewLabel = element (unsafeCoerce _mdNewLabel)
 
-foreign import mdNewReleases_ :: ReactIcon
+foreign import _mdNewReleases :: ReactIcon
 
 mdNewReleases :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdNewReleases = element (unsafeCoerce mdNewReleases_)
+mdNewReleases = element (unsafeCoerce _mdNewReleases)
 
-foreign import mdNextPlan_ :: ReactIcon
+foreign import _mdNextPlan :: ReactIcon
 
 mdNextPlan :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdNextPlan = element (unsafeCoerce mdNextPlan_)
+mdNextPlan = element (unsafeCoerce _mdNextPlan)
 
-foreign import mdNextWeek_ :: ReactIcon
+foreign import _mdNextWeek :: ReactIcon
 
 mdNextWeek :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdNextWeek = element (unsafeCoerce mdNextWeek_)
+mdNextWeek = element (unsafeCoerce _mdNextWeek)
 
-foreign import mdNfc_ :: ReactIcon
+foreign import _mdNfc :: ReactIcon
 
 mdNfc :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdNfc = element (unsafeCoerce mdNfc_)
+mdNfc = element (unsafeCoerce _mdNfc)
 
-foreign import mdNightlife_ :: ReactIcon
+foreign import _mdNightlife :: ReactIcon
 
 mdNightlife :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdNightlife = element (unsafeCoerce mdNightlife_)
+mdNightlife = element (unsafeCoerce _mdNightlife)
 
-foreign import mdNightlight_ :: ReactIcon
+foreign import _mdNightlight :: ReactIcon
 
 mdNightlight :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdNightlight = element (unsafeCoerce mdNightlight_)
+mdNightlight = element (unsafeCoerce _mdNightlight)
 
-foreign import mdNightlightRound_ :: ReactIcon
+foreign import _mdNightlightRound :: ReactIcon
 
 mdNightlightRound :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdNightlightRound = element (unsafeCoerce mdNightlightRound_)
+mdNightlightRound = element (unsafeCoerce _mdNightlightRound)
 
-foreign import mdNightShelter_ :: ReactIcon
+foreign import _mdNightShelter :: ReactIcon
 
 mdNightShelter :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdNightShelter = element (unsafeCoerce mdNightShelter_)
+mdNightShelter = element (unsafeCoerce _mdNightShelter)
 
-foreign import mdNightsStay_ :: ReactIcon
+foreign import _mdNightsStay :: ReactIcon
 
 mdNightsStay :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdNightsStay = element (unsafeCoerce mdNightsStay_)
+mdNightsStay = element (unsafeCoerce _mdNightsStay)
 
-foreign import mdNoAccounts_ :: ReactIcon
+foreign import _mdNoAccounts :: ReactIcon
 
 mdNoAccounts :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdNoAccounts = element (unsafeCoerce mdNoAccounts_)
+mdNoAccounts = element (unsafeCoerce _mdNoAccounts)
 
-foreign import mdNoBackpack_ :: ReactIcon
+foreign import _mdNoBackpack :: ReactIcon
 
 mdNoBackpack :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdNoBackpack = element (unsafeCoerce mdNoBackpack_)
+mdNoBackpack = element (unsafeCoerce _mdNoBackpack)
 
-foreign import mdNoCell_ :: ReactIcon
+foreign import _mdNoCell :: ReactIcon
 
 mdNoCell :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdNoCell = element (unsafeCoerce mdNoCell_)
+mdNoCell = element (unsafeCoerce _mdNoCell)
 
-foreign import mdNoDrinks_ :: ReactIcon
+foreign import _mdNoDrinks :: ReactIcon
 
 mdNoDrinks :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdNoDrinks = element (unsafeCoerce mdNoDrinks_)
+mdNoDrinks = element (unsafeCoerce _mdNoDrinks)
 
-foreign import mdNoEncryption_ :: ReactIcon
+foreign import _mdNoEncryption :: ReactIcon
 
 mdNoEncryption :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdNoEncryption = element (unsafeCoerce mdNoEncryption_)
+mdNoEncryption = element (unsafeCoerce _mdNoEncryption)
 
-foreign import mdNoEncryptionGmailerrorred_ :: ReactIcon
+foreign import _mdNoEncryptionGmailerrorred :: ReactIcon
 
 mdNoEncryptionGmailerrorred :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdNoEncryptionGmailerrorred = element (unsafeCoerce mdNoEncryptionGmailerrorred_)
+mdNoEncryptionGmailerrorred = element (unsafeCoerce _mdNoEncryptionGmailerrorred)
 
-foreign import mdNoFlash_ :: ReactIcon
+foreign import _mdNoFlash :: ReactIcon
 
 mdNoFlash :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdNoFlash = element (unsafeCoerce mdNoFlash_)
+mdNoFlash = element (unsafeCoerce _mdNoFlash)
 
-foreign import mdNoFood_ :: ReactIcon
+foreign import _mdNoFood :: ReactIcon
 
 mdNoFood :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdNoFood = element (unsafeCoerce mdNoFood_)
+mdNoFood = element (unsafeCoerce _mdNoFood)
 
-foreign import mdNoLuggage_ :: ReactIcon
+foreign import _mdNoLuggage :: ReactIcon
 
 mdNoLuggage :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdNoLuggage = element (unsafeCoerce mdNoLuggage_)
+mdNoLuggage = element (unsafeCoerce _mdNoLuggage)
 
-foreign import mdNoMeals_ :: ReactIcon
+foreign import _mdNoMeals :: ReactIcon
 
 mdNoMeals :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdNoMeals = element (unsafeCoerce mdNoMeals_)
+mdNoMeals = element (unsafeCoerce _mdNoMeals)
 
-foreign import mdNoMealsOuline_ :: ReactIcon
+foreign import _mdNoMealsOuline :: ReactIcon
 
 mdNoMealsOuline :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdNoMealsOuline = element (unsafeCoerce mdNoMealsOuline_)
+mdNoMealsOuline = element (unsafeCoerce _mdNoMealsOuline)
 
-foreign import mdNoMeetingRoom_ :: ReactIcon
+foreign import _mdNoMeetingRoom :: ReactIcon
 
 mdNoMeetingRoom :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdNoMeetingRoom = element (unsafeCoerce mdNoMeetingRoom_)
+mdNoMeetingRoom = element (unsafeCoerce _mdNoMeetingRoom)
 
-foreign import mdNoPhotography_ :: ReactIcon
+foreign import _mdNoPhotography :: ReactIcon
 
 mdNoPhotography :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdNoPhotography = element (unsafeCoerce mdNoPhotography_)
+mdNoPhotography = element (unsafeCoerce _mdNoPhotography)
 
-foreign import mdNordicWalking_ :: ReactIcon
+foreign import _mdNordicWalking :: ReactIcon
 
 mdNordicWalking :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdNordicWalking = element (unsafeCoerce mdNordicWalking_)
+mdNordicWalking = element (unsafeCoerce _mdNordicWalking)
 
-foreign import mdNorth_ :: ReactIcon
+foreign import _mdNorth :: ReactIcon
 
 mdNorth :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdNorth = element (unsafeCoerce mdNorth_)
+mdNorth = element (unsafeCoerce _mdNorth)
 
-foreign import mdNorthEast_ :: ReactIcon
+foreign import _mdNorthEast :: ReactIcon
 
 mdNorthEast :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdNorthEast = element (unsafeCoerce mdNorthEast_)
+mdNorthEast = element (unsafeCoerce _mdNorthEast)
 
-foreign import mdNorthWest_ :: ReactIcon
+foreign import _mdNorthWest :: ReactIcon
 
 mdNorthWest :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdNorthWest = element (unsafeCoerce mdNorthWest_)
+mdNorthWest = element (unsafeCoerce _mdNorthWest)
 
-foreign import mdNoSim_ :: ReactIcon
+foreign import _mdNoSim :: ReactIcon
 
 mdNoSim :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdNoSim = element (unsafeCoerce mdNoSim_)
+mdNoSim = element (unsafeCoerce _mdNoSim)
 
-foreign import mdNoStroller_ :: ReactIcon
+foreign import _mdNoStroller :: ReactIcon
 
 mdNoStroller :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdNoStroller = element (unsafeCoerce mdNoStroller_)
+mdNoStroller = element (unsafeCoerce _mdNoStroller)
 
-foreign import mdNotAccessible_ :: ReactIcon
+foreign import _mdNotAccessible :: ReactIcon
 
 mdNotAccessible :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdNotAccessible = element (unsafeCoerce mdNotAccessible_)
+mdNotAccessible = element (unsafeCoerce _mdNotAccessible)
 
-foreign import mdNote_ :: ReactIcon
+foreign import _mdNote :: ReactIcon
 
 mdNote :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdNote = element (unsafeCoerce mdNote_)
+mdNote = element (unsafeCoerce _mdNote)
 
-foreign import mdNoteAdd_ :: ReactIcon
+foreign import _mdNoteAdd :: ReactIcon
 
 mdNoteAdd :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdNoteAdd = element (unsafeCoerce mdNoteAdd_)
+mdNoteAdd = element (unsafeCoerce _mdNoteAdd)
 
-foreign import mdNoteAlt_ :: ReactIcon
+foreign import _mdNoteAlt :: ReactIcon
 
 mdNoteAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdNoteAlt = element (unsafeCoerce mdNoteAlt_)
+mdNoteAlt = element (unsafeCoerce _mdNoteAlt)
 
-foreign import mdNotes_ :: ReactIcon
+foreign import _mdNotes :: ReactIcon
 
 mdNotes :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdNotes = element (unsafeCoerce mdNotes_)
+mdNotes = element (unsafeCoerce _mdNotes)
 
-foreign import mdNotificationAdd_ :: ReactIcon
+foreign import _mdNotificationAdd :: ReactIcon
 
 mdNotificationAdd :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdNotificationAdd = element (unsafeCoerce mdNotificationAdd_)
+mdNotificationAdd = element (unsafeCoerce _mdNotificationAdd)
 
-foreign import mdNotificationImportant_ :: ReactIcon
+foreign import _mdNotificationImportant :: ReactIcon
 
 mdNotificationImportant :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdNotificationImportant = element (unsafeCoerce mdNotificationImportant_)
+mdNotificationImportant = element (unsafeCoerce _mdNotificationImportant)
 
-foreign import mdNotifications_ :: ReactIcon
+foreign import _mdNotifications :: ReactIcon
 
 mdNotifications :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdNotifications = element (unsafeCoerce mdNotifications_)
+mdNotifications = element (unsafeCoerce _mdNotifications)
 
-foreign import mdNotificationsActive_ :: ReactIcon
+foreign import _mdNotificationsActive :: ReactIcon
 
 mdNotificationsActive :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdNotificationsActive = element (unsafeCoerce mdNotificationsActive_)
+mdNotificationsActive = element (unsafeCoerce _mdNotificationsActive)
 
-foreign import mdNotificationsNone_ :: ReactIcon
+foreign import _mdNotificationsNone :: ReactIcon
 
 mdNotificationsNone :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdNotificationsNone = element (unsafeCoerce mdNotificationsNone_)
+mdNotificationsNone = element (unsafeCoerce _mdNotificationsNone)
 
-foreign import mdNotificationsOff_ :: ReactIcon
+foreign import _mdNotificationsOff :: ReactIcon
 
 mdNotificationsOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdNotificationsOff = element (unsafeCoerce mdNotificationsOff_)
+mdNotificationsOff = element (unsafeCoerce _mdNotificationsOff)
 
-foreign import mdNotificationsPaused_ :: ReactIcon
+foreign import _mdNotificationsPaused :: ReactIcon
 
 mdNotificationsPaused :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdNotificationsPaused = element (unsafeCoerce mdNotificationsPaused_)
+mdNotificationsPaused = element (unsafeCoerce _mdNotificationsPaused)
 
-foreign import mdNotInterested_ :: ReactIcon
+foreign import _mdNotInterested :: ReactIcon
 
 mdNotInterested :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdNotInterested = element (unsafeCoerce mdNotInterested_)
+mdNotInterested = element (unsafeCoerce _mdNotInterested)
 
-foreign import mdNotListedLocation_ :: ReactIcon
+foreign import _mdNotListedLocation :: ReactIcon
 
 mdNotListedLocation :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdNotListedLocation = element (unsafeCoerce mdNotListedLocation_)
+mdNotListedLocation = element (unsafeCoerce _mdNotListedLocation)
 
-foreign import mdNoTransfer_ :: ReactIcon
+foreign import _mdNoTransfer :: ReactIcon
 
 mdNoTransfer :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdNoTransfer = element (unsafeCoerce mdNoTransfer_)
+mdNoTransfer = element (unsafeCoerce _mdNoTransfer)
 
-foreign import mdNotStarted_ :: ReactIcon
+foreign import _mdNotStarted :: ReactIcon
 
 mdNotStarted :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdNotStarted = element (unsafeCoerce mdNotStarted_)
+mdNotStarted = element (unsafeCoerce _mdNotStarted)
 
-foreign import mdOfflineBolt_ :: ReactIcon
+foreign import _mdOfflineBolt :: ReactIcon
 
 mdOfflineBolt :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOfflineBolt = element (unsafeCoerce mdOfflineBolt_)
+mdOfflineBolt = element (unsafeCoerce _mdOfflineBolt)
 
-foreign import mdOfflinePin_ :: ReactIcon
+foreign import _mdOfflinePin :: ReactIcon
 
 mdOfflinePin :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOfflinePin = element (unsafeCoerce mdOfflinePin_)
+mdOfflinePin = element (unsafeCoerce _mdOfflinePin)
 
-foreign import mdOfflineShare_ :: ReactIcon
+foreign import _mdOfflineShare :: ReactIcon
 
 mdOfflineShare :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOfflineShare = element (unsafeCoerce mdOfflineShare_)
+mdOfflineShare = element (unsafeCoerce _mdOfflineShare)
 
-foreign import mdOndemandVideo_ :: ReactIcon
+foreign import _mdOndemandVideo :: ReactIcon
 
 mdOndemandVideo :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOndemandVideo = element (unsafeCoerce mdOndemandVideo_)
+mdOndemandVideo = element (unsafeCoerce _mdOndemandVideo)
 
-foreign import mdOnlinePrediction_ :: ReactIcon
+foreign import _mdOnlinePrediction :: ReactIcon
 
 mdOnlinePrediction :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOnlinePrediction = element (unsafeCoerce mdOnlinePrediction_)
+mdOnlinePrediction = element (unsafeCoerce _mdOnlinePrediction)
 
-foreign import mdOpacity_ :: ReactIcon
+foreign import _mdOpacity :: ReactIcon
 
 mdOpacity :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOpacity = element (unsafeCoerce mdOpacity_)
+mdOpacity = element (unsafeCoerce _mdOpacity)
 
-foreign import mdOpenInBrowser_ :: ReactIcon
+foreign import _mdOpenInBrowser :: ReactIcon
 
 mdOpenInBrowser :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOpenInBrowser = element (unsafeCoerce mdOpenInBrowser_)
+mdOpenInBrowser = element (unsafeCoerce _mdOpenInBrowser)
 
-foreign import mdOpenInFull_ :: ReactIcon
+foreign import _mdOpenInFull :: ReactIcon
 
 mdOpenInFull :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOpenInFull = element (unsafeCoerce mdOpenInFull_)
+mdOpenInFull = element (unsafeCoerce _mdOpenInFull)
 
-foreign import mdOpenInNew_ :: ReactIcon
+foreign import _mdOpenInNew :: ReactIcon
 
 mdOpenInNew :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOpenInNew = element (unsafeCoerce mdOpenInNew_)
+mdOpenInNew = element (unsafeCoerce _mdOpenInNew)
 
-foreign import mdOpenInNewOff_ :: ReactIcon
+foreign import _mdOpenInNewOff :: ReactIcon
 
 mdOpenInNewOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOpenInNewOff = element (unsafeCoerce mdOpenInNewOff_)
+mdOpenInNewOff = element (unsafeCoerce _mdOpenInNewOff)
 
-foreign import mdOpenWith_ :: ReactIcon
+foreign import _mdOpenWith :: ReactIcon
 
 mdOpenWith :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOpenWith = element (unsafeCoerce mdOpenWith_)
+mdOpenWith = element (unsafeCoerce _mdOpenWith)
 
-foreign import mdOtherHouses_ :: ReactIcon
+foreign import _mdOtherHouses :: ReactIcon
 
 mdOtherHouses :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOtherHouses = element (unsafeCoerce mdOtherHouses_)
+mdOtherHouses = element (unsafeCoerce _mdOtherHouses)
 
-foreign import mdOutbond_ :: ReactIcon
+foreign import _mdOutbond :: ReactIcon
 
 mdOutbond :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutbond = element (unsafeCoerce mdOutbond_)
+mdOutbond = element (unsafeCoerce _mdOutbond)
 
-foreign import mdOutbound_ :: ReactIcon
+foreign import _mdOutbound :: ReactIcon
 
 mdOutbound :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutbound = element (unsafeCoerce mdOutbound_)
+mdOutbound = element (unsafeCoerce _mdOutbound)
 
-foreign import mdOutbox_ :: ReactIcon
+foreign import _mdOutbox :: ReactIcon
 
 mdOutbox :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutbox = element (unsafeCoerce mdOutbox_)
+mdOutbox = element (unsafeCoerce _mdOutbox)
 
-foreign import mdOutdoorGrill_ :: ReactIcon
+foreign import _mdOutdoorGrill :: ReactIcon
 
 mdOutdoorGrill :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutdoorGrill = element (unsafeCoerce mdOutdoorGrill_)
+mdOutdoorGrill = element (unsafeCoerce _mdOutdoorGrill)
 
-foreign import mdOutgoingMail_ :: ReactIcon
+foreign import _mdOutgoingMail :: ReactIcon
 
 mdOutgoingMail :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutgoingMail = element (unsafeCoerce mdOutgoingMail_)
+mdOutgoingMail = element (unsafeCoerce _mdOutgoingMail)
 
-foreign import mdOutlet_ :: ReactIcon
+foreign import _mdOutlet :: ReactIcon
 
 mdOutlet :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlet = element (unsafeCoerce mdOutlet_)
+mdOutlet = element (unsafeCoerce _mdOutlet)
 
-foreign import mdOutlineAccessAlarm_ :: ReactIcon
+foreign import _mdOutlineAccessAlarm :: ReactIcon
 
 mdOutlineAccessAlarm :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAccessAlarm = element (unsafeCoerce mdOutlineAccessAlarm_)
+mdOutlineAccessAlarm = element (unsafeCoerce _mdOutlineAccessAlarm)
 
-foreign import mdOutlineAccessAlarms_ :: ReactIcon
+foreign import _mdOutlineAccessAlarms :: ReactIcon
 
 mdOutlineAccessAlarms :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAccessAlarms = element (unsafeCoerce mdOutlineAccessAlarms_)
+mdOutlineAccessAlarms = element (unsafeCoerce _mdOutlineAccessAlarms)
 
-foreign import mdOutlineAccessibility_ :: ReactIcon
+foreign import _mdOutlineAccessibility :: ReactIcon
 
 mdOutlineAccessibility :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAccessibility = element (unsafeCoerce mdOutlineAccessibility_)
+mdOutlineAccessibility = element (unsafeCoerce _mdOutlineAccessibility)
 
-foreign import mdOutlineAccessibilityNew_ :: ReactIcon
+foreign import _mdOutlineAccessibilityNew :: ReactIcon
 
 mdOutlineAccessibilityNew :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAccessibilityNew = element (unsafeCoerce mdOutlineAccessibilityNew_)
+mdOutlineAccessibilityNew = element (unsafeCoerce _mdOutlineAccessibilityNew)
 
-foreign import mdOutlineAccessible_ :: ReactIcon
+foreign import _mdOutlineAccessible :: ReactIcon
 
 mdOutlineAccessible :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAccessible = element (unsafeCoerce mdOutlineAccessible_)
+mdOutlineAccessible = element (unsafeCoerce _mdOutlineAccessible)
 
-foreign import mdOutlineAccessibleForward_ :: ReactIcon
+foreign import _mdOutlineAccessibleForward :: ReactIcon
 
 mdOutlineAccessibleForward :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAccessibleForward = element (unsafeCoerce mdOutlineAccessibleForward_)
+mdOutlineAccessibleForward = element (unsafeCoerce _mdOutlineAccessibleForward)
 
-foreign import mdOutlineAccessTime_ :: ReactIcon
+foreign import _mdOutlineAccessTime :: ReactIcon
 
 mdOutlineAccessTime :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAccessTime = element (unsafeCoerce mdOutlineAccessTime_)
+mdOutlineAccessTime = element (unsafeCoerce _mdOutlineAccessTime)
 
-foreign import mdOutlineAccessTimeFilled_ :: ReactIcon
+foreign import _mdOutlineAccessTimeFilled :: ReactIcon
 
 mdOutlineAccessTimeFilled :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAccessTimeFilled = element (unsafeCoerce mdOutlineAccessTimeFilled_)
+mdOutlineAccessTimeFilled = element (unsafeCoerce _mdOutlineAccessTimeFilled)
 
-foreign import mdOutlineAccountBalance_ :: ReactIcon
+foreign import _mdOutlineAccountBalance :: ReactIcon
 
 mdOutlineAccountBalance :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAccountBalance = element (unsafeCoerce mdOutlineAccountBalance_)
+mdOutlineAccountBalance = element (unsafeCoerce _mdOutlineAccountBalance)
 
-foreign import mdOutlineAccountBalanceWallet_ :: ReactIcon
+foreign import _mdOutlineAccountBalanceWallet :: ReactIcon
 
 mdOutlineAccountBalanceWallet :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAccountBalanceWallet = element (unsafeCoerce mdOutlineAccountBalanceWallet_)
+mdOutlineAccountBalanceWallet = element (unsafeCoerce _mdOutlineAccountBalanceWallet)
 
-foreign import mdOutlineAccountBox_ :: ReactIcon
+foreign import _mdOutlineAccountBox :: ReactIcon
 
 mdOutlineAccountBox :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAccountBox = element (unsafeCoerce mdOutlineAccountBox_)
+mdOutlineAccountBox = element (unsafeCoerce _mdOutlineAccountBox)
 
-foreign import mdOutlineAccountCircle_ :: ReactIcon
+foreign import _mdOutlineAccountCircle :: ReactIcon
 
 mdOutlineAccountCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAccountCircle = element (unsafeCoerce mdOutlineAccountCircle_)
+mdOutlineAccountCircle = element (unsafeCoerce _mdOutlineAccountCircle)
 
-foreign import mdOutlineAccountTree_ :: ReactIcon
+foreign import _mdOutlineAccountTree :: ReactIcon
 
 mdOutlineAccountTree :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAccountTree = element (unsafeCoerce mdOutlineAccountTree_)
+mdOutlineAccountTree = element (unsafeCoerce _mdOutlineAccountTree)
 
-foreign import mdOutlineAcUnit_ :: ReactIcon
+foreign import _mdOutlineAcUnit :: ReactIcon
 
 mdOutlineAcUnit :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAcUnit = element (unsafeCoerce mdOutlineAcUnit_)
+mdOutlineAcUnit = element (unsafeCoerce _mdOutlineAcUnit)
 
-foreign import mdOutlineAdb_ :: ReactIcon
+foreign import _mdOutlineAdb :: ReactIcon
 
 mdOutlineAdb :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAdb = element (unsafeCoerce mdOutlineAdb_)
+mdOutlineAdb = element (unsafeCoerce _mdOutlineAdb)
 
-foreign import mdOutlineAdd_ :: ReactIcon
+foreign import _mdOutlineAdd :: ReactIcon
 
 mdOutlineAdd :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAdd = element (unsafeCoerce mdOutlineAdd_)
+mdOutlineAdd = element (unsafeCoerce _mdOutlineAdd)
 
-foreign import mdOutlineAddAlarm_ :: ReactIcon
+foreign import _mdOutlineAddAlarm :: ReactIcon
 
 mdOutlineAddAlarm :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAddAlarm = element (unsafeCoerce mdOutlineAddAlarm_)
+mdOutlineAddAlarm = element (unsafeCoerce _mdOutlineAddAlarm)
 
-foreign import mdOutlineAddAlert_ :: ReactIcon
+foreign import _mdOutlineAddAlert :: ReactIcon
 
 mdOutlineAddAlert :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAddAlert = element (unsafeCoerce mdOutlineAddAlert_)
+mdOutlineAddAlert = element (unsafeCoerce _mdOutlineAddAlert)
 
-foreign import mdOutlineAddAPhoto_ :: ReactIcon
+foreign import _mdOutlineAddAPhoto :: ReactIcon
 
 mdOutlineAddAPhoto :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAddAPhoto = element (unsafeCoerce mdOutlineAddAPhoto_)
+mdOutlineAddAPhoto = element (unsafeCoerce _mdOutlineAddAPhoto)
 
-foreign import mdOutlineAddBox_ :: ReactIcon
+foreign import _mdOutlineAddBox :: ReactIcon
 
 mdOutlineAddBox :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAddBox = element (unsafeCoerce mdOutlineAddBox_)
+mdOutlineAddBox = element (unsafeCoerce _mdOutlineAddBox)
 
-foreign import mdOutlineAddBusiness_ :: ReactIcon
+foreign import _mdOutlineAddBusiness :: ReactIcon
 
 mdOutlineAddBusiness :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAddBusiness = element (unsafeCoerce mdOutlineAddBusiness_)
+mdOutlineAddBusiness = element (unsafeCoerce _mdOutlineAddBusiness)
 
-foreign import mdOutlineAddchart_ :: ReactIcon
+foreign import _mdOutlineAddchart :: ReactIcon
 
 mdOutlineAddchart :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAddchart = element (unsafeCoerce mdOutlineAddchart_)
+mdOutlineAddchart = element (unsafeCoerce _mdOutlineAddchart)
 
-foreign import mdOutlineAddChart_ :: ReactIcon
+foreign import _mdOutlineAddChart :: ReactIcon
 
 mdOutlineAddChart :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAddChart = element (unsafeCoerce mdOutlineAddChart_)
+mdOutlineAddChart = element (unsafeCoerce _mdOutlineAddChart)
 
-foreign import mdOutlineAddCircle_ :: ReactIcon
+foreign import _mdOutlineAddCircle :: ReactIcon
 
 mdOutlineAddCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAddCircle = element (unsafeCoerce mdOutlineAddCircle_)
+mdOutlineAddCircle = element (unsafeCoerce _mdOutlineAddCircle)
 
-foreign import mdOutlineAddCircleOutline_ :: ReactIcon
+foreign import _mdOutlineAddCircleOutline :: ReactIcon
 
 mdOutlineAddCircleOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAddCircleOutline = element (unsafeCoerce mdOutlineAddCircleOutline_)
+mdOutlineAddCircleOutline = element (unsafeCoerce _mdOutlineAddCircleOutline)
 
-foreign import mdOutlineAddComment_ :: ReactIcon
+foreign import _mdOutlineAddComment :: ReactIcon
 
 mdOutlineAddComment :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAddComment = element (unsafeCoerce mdOutlineAddComment_)
+mdOutlineAddComment = element (unsafeCoerce _mdOutlineAddComment)
 
-foreign import mdOutlineAddIcCall_ :: ReactIcon
+foreign import _mdOutlineAddIcCall :: ReactIcon
 
 mdOutlineAddIcCall :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAddIcCall = element (unsafeCoerce mdOutlineAddIcCall_)
+mdOutlineAddIcCall = element (unsafeCoerce _mdOutlineAddIcCall)
 
-foreign import mdOutlineAddLink_ :: ReactIcon
+foreign import _mdOutlineAddLink :: ReactIcon
 
 mdOutlineAddLink :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAddLink = element (unsafeCoerce mdOutlineAddLink_)
+mdOutlineAddLink = element (unsafeCoerce _mdOutlineAddLink)
 
-foreign import mdOutlineAddLocation_ :: ReactIcon
+foreign import _mdOutlineAddLocation :: ReactIcon
 
 mdOutlineAddLocation :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAddLocation = element (unsafeCoerce mdOutlineAddLocation_)
+mdOutlineAddLocation = element (unsafeCoerce _mdOutlineAddLocation)
 
-foreign import mdOutlineAddLocationAlt_ :: ReactIcon
+foreign import _mdOutlineAddLocationAlt :: ReactIcon
 
 mdOutlineAddLocationAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAddLocationAlt = element (unsafeCoerce mdOutlineAddLocationAlt_)
+mdOutlineAddLocationAlt = element (unsafeCoerce _mdOutlineAddLocationAlt)
 
-foreign import mdOutlineAddModerator_ :: ReactIcon
+foreign import _mdOutlineAddModerator :: ReactIcon
 
 mdOutlineAddModerator :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAddModerator = element (unsafeCoerce mdOutlineAddModerator_)
+mdOutlineAddModerator = element (unsafeCoerce _mdOutlineAddModerator)
 
-foreign import mdOutlineAddPhotoAlternate_ :: ReactIcon
+foreign import _mdOutlineAddPhotoAlternate :: ReactIcon
 
 mdOutlineAddPhotoAlternate :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAddPhotoAlternate = element (unsafeCoerce mdOutlineAddPhotoAlternate_)
+mdOutlineAddPhotoAlternate = element (unsafeCoerce _mdOutlineAddPhotoAlternate)
 
-foreign import mdOutlineAddReaction_ :: ReactIcon
+foreign import _mdOutlineAddReaction :: ReactIcon
 
 mdOutlineAddReaction :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAddReaction = element (unsafeCoerce mdOutlineAddReaction_)
+mdOutlineAddReaction = element (unsafeCoerce _mdOutlineAddReaction)
 
-foreign import mdOutlineAddRoad_ :: ReactIcon
+foreign import _mdOutlineAddRoad :: ReactIcon
 
 mdOutlineAddRoad :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAddRoad = element (unsafeCoerce mdOutlineAddRoad_)
+mdOutlineAddRoad = element (unsafeCoerce _mdOutlineAddRoad)
 
-foreign import mdOutlineAddShoppingCart_ :: ReactIcon
+foreign import _mdOutlineAddShoppingCart :: ReactIcon
 
 mdOutlineAddShoppingCart :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAddShoppingCart = element (unsafeCoerce mdOutlineAddShoppingCart_)
+mdOutlineAddShoppingCart = element (unsafeCoerce _mdOutlineAddShoppingCart)
 
-foreign import mdOutlineAddTask_ :: ReactIcon
+foreign import _mdOutlineAddTask :: ReactIcon
 
 mdOutlineAddTask :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAddTask = element (unsafeCoerce mdOutlineAddTask_)
+mdOutlineAddTask = element (unsafeCoerce _mdOutlineAddTask)
 
-foreign import mdOutlineAddToDrive_ :: ReactIcon
+foreign import _mdOutlineAddToDrive :: ReactIcon
 
 mdOutlineAddToDrive :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAddToDrive = element (unsafeCoerce mdOutlineAddToDrive_)
+mdOutlineAddToDrive = element (unsafeCoerce _mdOutlineAddToDrive)
 
-foreign import mdOutlineAddToHomeScreen_ :: ReactIcon
+foreign import _mdOutlineAddToHomeScreen :: ReactIcon
 
 mdOutlineAddToHomeScreen :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAddToHomeScreen = element (unsafeCoerce mdOutlineAddToHomeScreen_)
+mdOutlineAddToHomeScreen = element (unsafeCoerce _mdOutlineAddToHomeScreen)
 
-foreign import mdOutlineAddToPhotos_ :: ReactIcon
+foreign import _mdOutlineAddToPhotos :: ReactIcon
 
 mdOutlineAddToPhotos :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAddToPhotos = element (unsafeCoerce mdOutlineAddToPhotos_)
+mdOutlineAddToPhotos = element (unsafeCoerce _mdOutlineAddToPhotos)
 
-foreign import mdOutlineAddToQueue_ :: ReactIcon
+foreign import _mdOutlineAddToQueue :: ReactIcon
 
 mdOutlineAddToQueue :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAddToQueue = element (unsafeCoerce mdOutlineAddToQueue_)
+mdOutlineAddToQueue = element (unsafeCoerce _mdOutlineAddToQueue)
 
-foreign import mdOutlineAdjust_ :: ReactIcon
+foreign import _mdOutlineAdjust :: ReactIcon
 
 mdOutlineAdjust :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAdjust = element (unsafeCoerce mdOutlineAdjust_)
+mdOutlineAdjust = element (unsafeCoerce _mdOutlineAdjust)
 
-foreign import mdOutlineAdminPanelSettings_ :: ReactIcon
+foreign import _mdOutlineAdminPanelSettings :: ReactIcon
 
 mdOutlineAdminPanelSettings :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAdminPanelSettings = element (unsafeCoerce mdOutlineAdminPanelSettings_)
+mdOutlineAdminPanelSettings = element (unsafeCoerce _mdOutlineAdminPanelSettings)
 
-foreign import mdOutlineAdsClick_ :: ReactIcon
+foreign import _mdOutlineAdsClick :: ReactIcon
 
 mdOutlineAdsClick :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAdsClick = element (unsafeCoerce mdOutlineAdsClick_)
+mdOutlineAdsClick = element (unsafeCoerce _mdOutlineAdsClick)
 
-foreign import mdOutlineAdUnits_ :: ReactIcon
+foreign import _mdOutlineAdUnits :: ReactIcon
 
 mdOutlineAdUnits :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAdUnits = element (unsafeCoerce mdOutlineAdUnits_)
+mdOutlineAdUnits = element (unsafeCoerce _mdOutlineAdUnits)
 
-foreign import mdOutlineAgriculture_ :: ReactIcon
+foreign import _mdOutlineAgriculture :: ReactIcon
 
 mdOutlineAgriculture :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAgriculture = element (unsafeCoerce mdOutlineAgriculture_)
+mdOutlineAgriculture = element (unsafeCoerce _mdOutlineAgriculture)
 
-foreign import mdOutlineAir_ :: ReactIcon
+foreign import _mdOutlineAir :: ReactIcon
 
 mdOutlineAir :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAir = element (unsafeCoerce mdOutlineAir_)
+mdOutlineAir = element (unsafeCoerce _mdOutlineAir)
 
-foreign import mdOutlineAirlineSeatFlat_ :: ReactIcon
+foreign import _mdOutlineAirlineSeatFlat :: ReactIcon
 
 mdOutlineAirlineSeatFlat :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAirlineSeatFlat = element (unsafeCoerce mdOutlineAirlineSeatFlat_)
+mdOutlineAirlineSeatFlat = element (unsafeCoerce _mdOutlineAirlineSeatFlat)
 
-foreign import mdOutlineAirlineSeatFlatAngled_ :: ReactIcon
+foreign import _mdOutlineAirlineSeatFlatAngled :: ReactIcon
 
 mdOutlineAirlineSeatFlatAngled :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAirlineSeatFlatAngled = element (unsafeCoerce mdOutlineAirlineSeatFlatAngled_)
+mdOutlineAirlineSeatFlatAngled = element (unsafeCoerce _mdOutlineAirlineSeatFlatAngled)
 
-foreign import mdOutlineAirlineSeatIndividualSuite_ :: ReactIcon
+foreign import _mdOutlineAirlineSeatIndividualSuite :: ReactIcon
 
 mdOutlineAirlineSeatIndividualSuite :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAirlineSeatIndividualSuite = element (unsafeCoerce mdOutlineAirlineSeatIndividualSuite_)
+mdOutlineAirlineSeatIndividualSuite = element (unsafeCoerce _mdOutlineAirlineSeatIndividualSuite)
 
-foreign import mdOutlineAirlineSeatLegroomExtra_ :: ReactIcon
+foreign import _mdOutlineAirlineSeatLegroomExtra :: ReactIcon
 
 mdOutlineAirlineSeatLegroomExtra :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAirlineSeatLegroomExtra = element (unsafeCoerce mdOutlineAirlineSeatLegroomExtra_)
+mdOutlineAirlineSeatLegroomExtra = element (unsafeCoerce _mdOutlineAirlineSeatLegroomExtra)
 
-foreign import mdOutlineAirlineSeatLegroomNormal_ :: ReactIcon
+foreign import _mdOutlineAirlineSeatLegroomNormal :: ReactIcon
 
 mdOutlineAirlineSeatLegroomNormal :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAirlineSeatLegroomNormal = element (unsafeCoerce mdOutlineAirlineSeatLegroomNormal_)
+mdOutlineAirlineSeatLegroomNormal = element (unsafeCoerce _mdOutlineAirlineSeatLegroomNormal)
 
-foreign import mdOutlineAirlineSeatLegroomReduced_ :: ReactIcon
+foreign import _mdOutlineAirlineSeatLegroomReduced :: ReactIcon
 
 mdOutlineAirlineSeatLegroomReduced :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAirlineSeatLegroomReduced = element (unsafeCoerce mdOutlineAirlineSeatLegroomReduced_)
+mdOutlineAirlineSeatLegroomReduced = element (unsafeCoerce _mdOutlineAirlineSeatLegroomReduced)
 
-foreign import mdOutlineAirlineSeatReclineExtra_ :: ReactIcon
+foreign import _mdOutlineAirlineSeatReclineExtra :: ReactIcon
 
 mdOutlineAirlineSeatReclineExtra :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAirlineSeatReclineExtra = element (unsafeCoerce mdOutlineAirlineSeatReclineExtra_)
+mdOutlineAirlineSeatReclineExtra = element (unsafeCoerce _mdOutlineAirlineSeatReclineExtra)
 
-foreign import mdOutlineAirlineSeatReclineNormal_ :: ReactIcon
+foreign import _mdOutlineAirlineSeatReclineNormal :: ReactIcon
 
 mdOutlineAirlineSeatReclineNormal :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAirlineSeatReclineNormal = element (unsafeCoerce mdOutlineAirlineSeatReclineNormal_)
+mdOutlineAirlineSeatReclineNormal = element (unsafeCoerce _mdOutlineAirlineSeatReclineNormal)
 
-foreign import mdOutlineAirplanemodeActive_ :: ReactIcon
+foreign import _mdOutlineAirplanemodeActive :: ReactIcon
 
 mdOutlineAirplanemodeActive :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAirplanemodeActive = element (unsafeCoerce mdOutlineAirplanemodeActive_)
+mdOutlineAirplanemodeActive = element (unsafeCoerce _mdOutlineAirplanemodeActive)
 
-foreign import mdOutlineAirplanemodeInactive_ :: ReactIcon
+foreign import _mdOutlineAirplanemodeInactive :: ReactIcon
 
 mdOutlineAirplanemodeInactive :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAirplanemodeInactive = element (unsafeCoerce mdOutlineAirplanemodeInactive_)
+mdOutlineAirplanemodeInactive = element (unsafeCoerce _mdOutlineAirplanemodeInactive)
 
-foreign import mdOutlineAirplaneTicket_ :: ReactIcon
+foreign import _mdOutlineAirplaneTicket :: ReactIcon
 
 mdOutlineAirplaneTicket :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAirplaneTicket = element (unsafeCoerce mdOutlineAirplaneTicket_)
+mdOutlineAirplaneTicket = element (unsafeCoerce _mdOutlineAirplaneTicket)
 
-foreign import mdOutlineAirplay_ :: ReactIcon
+foreign import _mdOutlineAirplay :: ReactIcon
 
 mdOutlineAirplay :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAirplay = element (unsafeCoerce mdOutlineAirplay_)
+mdOutlineAirplay = element (unsafeCoerce _mdOutlineAirplay)
 
-foreign import mdOutlineAirportShuttle_ :: ReactIcon
+foreign import _mdOutlineAirportShuttle :: ReactIcon
 
 mdOutlineAirportShuttle :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAirportShuttle = element (unsafeCoerce mdOutlineAirportShuttle_)
+mdOutlineAirportShuttle = element (unsafeCoerce _mdOutlineAirportShuttle)
 
-foreign import mdOutlineAlarm_ :: ReactIcon
+foreign import _mdOutlineAlarm :: ReactIcon
 
 mdOutlineAlarm :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAlarm = element (unsafeCoerce mdOutlineAlarm_)
+mdOutlineAlarm = element (unsafeCoerce _mdOutlineAlarm)
 
-foreign import mdOutlineAlarmAdd_ :: ReactIcon
+foreign import _mdOutlineAlarmAdd :: ReactIcon
 
 mdOutlineAlarmAdd :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAlarmAdd = element (unsafeCoerce mdOutlineAlarmAdd_)
+mdOutlineAlarmAdd = element (unsafeCoerce _mdOutlineAlarmAdd)
 
-foreign import mdOutlineAlarmOff_ :: ReactIcon
+foreign import _mdOutlineAlarmOff :: ReactIcon
 
 mdOutlineAlarmOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAlarmOff = element (unsafeCoerce mdOutlineAlarmOff_)
+mdOutlineAlarmOff = element (unsafeCoerce _mdOutlineAlarmOff)
 
-foreign import mdOutlineAlarmOn_ :: ReactIcon
+foreign import _mdOutlineAlarmOn :: ReactIcon
 
 mdOutlineAlarmOn :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAlarmOn = element (unsafeCoerce mdOutlineAlarmOn_)
+mdOutlineAlarmOn = element (unsafeCoerce _mdOutlineAlarmOn)
 
-foreign import mdOutlineAlbum_ :: ReactIcon
+foreign import _mdOutlineAlbum :: ReactIcon
 
 mdOutlineAlbum :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAlbum = element (unsafeCoerce mdOutlineAlbum_)
+mdOutlineAlbum = element (unsafeCoerce _mdOutlineAlbum)
 
-foreign import mdOutlineAlignHorizontalCenter_ :: ReactIcon
+foreign import _mdOutlineAlignHorizontalCenter :: ReactIcon
 
 mdOutlineAlignHorizontalCenter :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAlignHorizontalCenter = element (unsafeCoerce mdOutlineAlignHorizontalCenter_)
+mdOutlineAlignHorizontalCenter = element (unsafeCoerce _mdOutlineAlignHorizontalCenter)
 
-foreign import mdOutlineAlignHorizontalLeft_ :: ReactIcon
+foreign import _mdOutlineAlignHorizontalLeft :: ReactIcon
 
 mdOutlineAlignHorizontalLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAlignHorizontalLeft = element (unsafeCoerce mdOutlineAlignHorizontalLeft_)
+mdOutlineAlignHorizontalLeft = element (unsafeCoerce _mdOutlineAlignHorizontalLeft)
 
-foreign import mdOutlineAlignHorizontalRight_ :: ReactIcon
+foreign import _mdOutlineAlignHorizontalRight :: ReactIcon
 
 mdOutlineAlignHorizontalRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAlignHorizontalRight = element (unsafeCoerce mdOutlineAlignHorizontalRight_)
+mdOutlineAlignHorizontalRight = element (unsafeCoerce _mdOutlineAlignHorizontalRight)
 
-foreign import mdOutlineAlignVerticalBottom_ :: ReactIcon
+foreign import _mdOutlineAlignVerticalBottom :: ReactIcon
 
 mdOutlineAlignVerticalBottom :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAlignVerticalBottom = element (unsafeCoerce mdOutlineAlignVerticalBottom_)
+mdOutlineAlignVerticalBottom = element (unsafeCoerce _mdOutlineAlignVerticalBottom)
 
-foreign import mdOutlineAlignVerticalCenter_ :: ReactIcon
+foreign import _mdOutlineAlignVerticalCenter :: ReactIcon
 
 mdOutlineAlignVerticalCenter :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAlignVerticalCenter = element (unsafeCoerce mdOutlineAlignVerticalCenter_)
+mdOutlineAlignVerticalCenter = element (unsafeCoerce _mdOutlineAlignVerticalCenter)
 
-foreign import mdOutlineAlignVerticalTop_ :: ReactIcon
+foreign import _mdOutlineAlignVerticalTop :: ReactIcon
 
 mdOutlineAlignVerticalTop :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAlignVerticalTop = element (unsafeCoerce mdOutlineAlignVerticalTop_)
+mdOutlineAlignVerticalTop = element (unsafeCoerce _mdOutlineAlignVerticalTop)
 
-foreign import mdOutlineAllInbox_ :: ReactIcon
+foreign import _mdOutlineAllInbox :: ReactIcon
 
 mdOutlineAllInbox :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAllInbox = element (unsafeCoerce mdOutlineAllInbox_)
+mdOutlineAllInbox = element (unsafeCoerce _mdOutlineAllInbox)
 
-foreign import mdOutlineAllInclusive_ :: ReactIcon
+foreign import _mdOutlineAllInclusive :: ReactIcon
 
 mdOutlineAllInclusive :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAllInclusive = element (unsafeCoerce mdOutlineAllInclusive_)
+mdOutlineAllInclusive = element (unsafeCoerce _mdOutlineAllInclusive)
 
-foreign import mdOutlineAllOut_ :: ReactIcon
+foreign import _mdOutlineAllOut :: ReactIcon
 
 mdOutlineAllOut :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAllOut = element (unsafeCoerce mdOutlineAllOut_)
+mdOutlineAllOut = element (unsafeCoerce _mdOutlineAllOut)
 
-foreign import mdOutlineAlternateEmail_ :: ReactIcon
+foreign import _mdOutlineAlternateEmail :: ReactIcon
 
 mdOutlineAlternateEmail :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAlternateEmail = element (unsafeCoerce mdOutlineAlternateEmail_)
+mdOutlineAlternateEmail = element (unsafeCoerce _mdOutlineAlternateEmail)
 
-foreign import mdOutlineAltRoute_ :: ReactIcon
+foreign import _mdOutlineAltRoute :: ReactIcon
 
 mdOutlineAltRoute :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAltRoute = element (unsafeCoerce mdOutlineAltRoute_)
+mdOutlineAltRoute = element (unsafeCoerce _mdOutlineAltRoute)
 
-foreign import mdOutlineAmpStories_ :: ReactIcon
+foreign import _mdOutlineAmpStories :: ReactIcon
 
 mdOutlineAmpStories :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAmpStories = element (unsafeCoerce mdOutlineAmpStories_)
+mdOutlineAmpStories = element (unsafeCoerce _mdOutlineAmpStories)
 
-foreign import mdOutlineAnalytics_ :: ReactIcon
+foreign import _mdOutlineAnalytics :: ReactIcon
 
 mdOutlineAnalytics :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAnalytics = element (unsafeCoerce mdOutlineAnalytics_)
+mdOutlineAnalytics = element (unsafeCoerce _mdOutlineAnalytics)
 
-foreign import mdOutlineAnchor_ :: ReactIcon
+foreign import _mdOutlineAnchor :: ReactIcon
 
 mdOutlineAnchor :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAnchor = element (unsafeCoerce mdOutlineAnchor_)
+mdOutlineAnchor = element (unsafeCoerce _mdOutlineAnchor)
 
-foreign import mdOutlineAndroid_ :: ReactIcon
+foreign import _mdOutlineAndroid :: ReactIcon
 
 mdOutlineAndroid :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAndroid = element (unsafeCoerce mdOutlineAndroid_)
+mdOutlineAndroid = element (unsafeCoerce _mdOutlineAndroid)
 
-foreign import mdOutlineAnimation_ :: ReactIcon
+foreign import _mdOutlineAnimation :: ReactIcon
 
 mdOutlineAnimation :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAnimation = element (unsafeCoerce mdOutlineAnimation_)
+mdOutlineAnimation = element (unsafeCoerce _mdOutlineAnimation)
 
-foreign import mdOutlineAnnouncement_ :: ReactIcon
+foreign import _mdOutlineAnnouncement :: ReactIcon
 
 mdOutlineAnnouncement :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAnnouncement = element (unsafeCoerce mdOutlineAnnouncement_)
+mdOutlineAnnouncement = element (unsafeCoerce _mdOutlineAnnouncement)
 
-foreign import mdOutlineAod_ :: ReactIcon
+foreign import _mdOutlineAod :: ReactIcon
 
 mdOutlineAod :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAod = element (unsafeCoerce mdOutlineAod_)
+mdOutlineAod = element (unsafeCoerce _mdOutlineAod)
 
-foreign import mdOutlineApartment_ :: ReactIcon
+foreign import _mdOutlineApartment :: ReactIcon
 
 mdOutlineApartment :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineApartment = element (unsafeCoerce mdOutlineApartment_)
+mdOutlineApartment = element (unsafeCoerce _mdOutlineApartment)
 
-foreign import mdOutlineApi_ :: ReactIcon
+foreign import _mdOutlineApi :: ReactIcon
 
 mdOutlineApi :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineApi = element (unsafeCoerce mdOutlineApi_)
+mdOutlineApi = element (unsafeCoerce _mdOutlineApi)
 
-foreign import mdOutlineAppBlocking_ :: ReactIcon
+foreign import _mdOutlineAppBlocking :: ReactIcon
 
 mdOutlineAppBlocking :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAppBlocking = element (unsafeCoerce mdOutlineAppBlocking_)
+mdOutlineAppBlocking = element (unsafeCoerce _mdOutlineAppBlocking)
 
-foreign import mdOutlineAppRegistration_ :: ReactIcon
+foreign import _mdOutlineAppRegistration :: ReactIcon
 
 mdOutlineAppRegistration :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAppRegistration = element (unsafeCoerce mdOutlineAppRegistration_)
+mdOutlineAppRegistration = element (unsafeCoerce _mdOutlineAppRegistration)
 
-foreign import mdOutlineApproval_ :: ReactIcon
+foreign import _mdOutlineApproval :: ReactIcon
 
 mdOutlineApproval :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineApproval = element (unsafeCoerce mdOutlineApproval_)
+mdOutlineApproval = element (unsafeCoerce _mdOutlineApproval)
 
-foreign import mdOutlineApps_ :: ReactIcon
+foreign import _mdOutlineApps :: ReactIcon
 
 mdOutlineApps :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineApps = element (unsafeCoerce mdOutlineApps_)
+mdOutlineApps = element (unsafeCoerce _mdOutlineApps)
 
-foreign import mdOutlineAppSettingsAlt_ :: ReactIcon
+foreign import _mdOutlineAppSettingsAlt :: ReactIcon
 
 mdOutlineAppSettingsAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAppSettingsAlt = element (unsafeCoerce mdOutlineAppSettingsAlt_)
+mdOutlineAppSettingsAlt = element (unsafeCoerce _mdOutlineAppSettingsAlt)
 
-foreign import mdOutlineArchitecture_ :: ReactIcon
+foreign import _mdOutlineArchitecture :: ReactIcon
 
 mdOutlineArchitecture :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineArchitecture = element (unsafeCoerce mdOutlineArchitecture_)
+mdOutlineArchitecture = element (unsafeCoerce _mdOutlineArchitecture)
 
-foreign import mdOutlineArchive_ :: ReactIcon
+foreign import _mdOutlineArchive :: ReactIcon
 
 mdOutlineArchive :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineArchive = element (unsafeCoerce mdOutlineArchive_)
+mdOutlineArchive = element (unsafeCoerce _mdOutlineArchive)
 
-foreign import mdOutlineAreaChart_ :: ReactIcon
+foreign import _mdOutlineAreaChart :: ReactIcon
 
 mdOutlineAreaChart :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAreaChart = element (unsafeCoerce mdOutlineAreaChart_)
+mdOutlineAreaChart = element (unsafeCoerce _mdOutlineAreaChart)
 
-foreign import mdOutlineArrowBack_ :: ReactIcon
+foreign import _mdOutlineArrowBack :: ReactIcon
 
 mdOutlineArrowBack :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineArrowBack = element (unsafeCoerce mdOutlineArrowBack_)
+mdOutlineArrowBack = element (unsafeCoerce _mdOutlineArrowBack)
 
-foreign import mdOutlineArrowBackIos_ :: ReactIcon
+foreign import _mdOutlineArrowBackIos :: ReactIcon
 
 mdOutlineArrowBackIos :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineArrowBackIos = element (unsafeCoerce mdOutlineArrowBackIos_)
+mdOutlineArrowBackIos = element (unsafeCoerce _mdOutlineArrowBackIos)
 
-foreign import mdOutlineArrowBackIosNew_ :: ReactIcon
+foreign import _mdOutlineArrowBackIosNew :: ReactIcon
 
 mdOutlineArrowBackIosNew :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineArrowBackIosNew = element (unsafeCoerce mdOutlineArrowBackIosNew_)
+mdOutlineArrowBackIosNew = element (unsafeCoerce _mdOutlineArrowBackIosNew)
 
-foreign import mdOutlineArrowCircleDown_ :: ReactIcon
+foreign import _mdOutlineArrowCircleDown :: ReactIcon
 
 mdOutlineArrowCircleDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineArrowCircleDown = element (unsafeCoerce mdOutlineArrowCircleDown_)
+mdOutlineArrowCircleDown = element (unsafeCoerce _mdOutlineArrowCircleDown)
 
-foreign import mdOutlineArrowCircleUp_ :: ReactIcon
+foreign import _mdOutlineArrowCircleUp :: ReactIcon
 
 mdOutlineArrowCircleUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineArrowCircleUp = element (unsafeCoerce mdOutlineArrowCircleUp_)
+mdOutlineArrowCircleUp = element (unsafeCoerce _mdOutlineArrowCircleUp)
 
-foreign import mdOutlineArrowDownward_ :: ReactIcon
+foreign import _mdOutlineArrowDownward :: ReactIcon
 
 mdOutlineArrowDownward :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineArrowDownward = element (unsafeCoerce mdOutlineArrowDownward_)
+mdOutlineArrowDownward = element (unsafeCoerce _mdOutlineArrowDownward)
 
-foreign import mdOutlineArrowDropDown_ :: ReactIcon
+foreign import _mdOutlineArrowDropDown :: ReactIcon
 
 mdOutlineArrowDropDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineArrowDropDown = element (unsafeCoerce mdOutlineArrowDropDown_)
+mdOutlineArrowDropDown = element (unsafeCoerce _mdOutlineArrowDropDown)
 
-foreign import mdOutlineArrowDropDownCircle_ :: ReactIcon
+foreign import _mdOutlineArrowDropDownCircle :: ReactIcon
 
 mdOutlineArrowDropDownCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineArrowDropDownCircle = element (unsafeCoerce mdOutlineArrowDropDownCircle_)
+mdOutlineArrowDropDownCircle = element (unsafeCoerce _mdOutlineArrowDropDownCircle)
 
-foreign import mdOutlineArrowDropUp_ :: ReactIcon
+foreign import _mdOutlineArrowDropUp :: ReactIcon
 
 mdOutlineArrowDropUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineArrowDropUp = element (unsafeCoerce mdOutlineArrowDropUp_)
+mdOutlineArrowDropUp = element (unsafeCoerce _mdOutlineArrowDropUp)
 
-foreign import mdOutlineArrowForward_ :: ReactIcon
+foreign import _mdOutlineArrowForward :: ReactIcon
 
 mdOutlineArrowForward :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineArrowForward = element (unsafeCoerce mdOutlineArrowForward_)
+mdOutlineArrowForward = element (unsafeCoerce _mdOutlineArrowForward)
 
-foreign import mdOutlineArrowForwardIos_ :: ReactIcon
+foreign import _mdOutlineArrowForwardIos :: ReactIcon
 
 mdOutlineArrowForwardIos :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineArrowForwardIos = element (unsafeCoerce mdOutlineArrowForwardIos_)
+mdOutlineArrowForwardIos = element (unsafeCoerce _mdOutlineArrowForwardIos)
 
-foreign import mdOutlineArrowLeft_ :: ReactIcon
+foreign import _mdOutlineArrowLeft :: ReactIcon
 
 mdOutlineArrowLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineArrowLeft = element (unsafeCoerce mdOutlineArrowLeft_)
+mdOutlineArrowLeft = element (unsafeCoerce _mdOutlineArrowLeft)
 
-foreign import mdOutlineArrowRight_ :: ReactIcon
+foreign import _mdOutlineArrowRight :: ReactIcon
 
 mdOutlineArrowRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineArrowRight = element (unsafeCoerce mdOutlineArrowRight_)
+mdOutlineArrowRight = element (unsafeCoerce _mdOutlineArrowRight)
 
-foreign import mdOutlineArrowRightAlt_ :: ReactIcon
+foreign import _mdOutlineArrowRightAlt :: ReactIcon
 
 mdOutlineArrowRightAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineArrowRightAlt = element (unsafeCoerce mdOutlineArrowRightAlt_)
+mdOutlineArrowRightAlt = element (unsafeCoerce _mdOutlineArrowRightAlt)
 
-foreign import mdOutlineArrowUpward_ :: ReactIcon
+foreign import _mdOutlineArrowUpward :: ReactIcon
 
 mdOutlineArrowUpward :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineArrowUpward = element (unsafeCoerce mdOutlineArrowUpward_)
+mdOutlineArrowUpward = element (unsafeCoerce _mdOutlineArrowUpward)
 
-foreign import mdOutlineArticle_ :: ReactIcon
+foreign import _mdOutlineArticle :: ReactIcon
 
 mdOutlineArticle :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineArticle = element (unsafeCoerce mdOutlineArticle_)
+mdOutlineArticle = element (unsafeCoerce _mdOutlineArticle)
 
-foreign import mdOutlineArtTrack_ :: ReactIcon
+foreign import _mdOutlineArtTrack :: ReactIcon
 
 mdOutlineArtTrack :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineArtTrack = element (unsafeCoerce mdOutlineArtTrack_)
+mdOutlineArtTrack = element (unsafeCoerce _mdOutlineArtTrack)
 
-foreign import mdOutlineAspectRatio_ :: ReactIcon
+foreign import _mdOutlineAspectRatio :: ReactIcon
 
 mdOutlineAspectRatio :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAspectRatio = element (unsafeCoerce mdOutlineAspectRatio_)
+mdOutlineAspectRatio = element (unsafeCoerce _mdOutlineAspectRatio)
 
-foreign import mdOutlineAssessment_ :: ReactIcon
+foreign import _mdOutlineAssessment :: ReactIcon
 
 mdOutlineAssessment :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAssessment = element (unsafeCoerce mdOutlineAssessment_)
+mdOutlineAssessment = element (unsafeCoerce _mdOutlineAssessment)
 
-foreign import mdOutlineAssignment_ :: ReactIcon
+foreign import _mdOutlineAssignment :: ReactIcon
 
 mdOutlineAssignment :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAssignment = element (unsafeCoerce mdOutlineAssignment_)
+mdOutlineAssignment = element (unsafeCoerce _mdOutlineAssignment)
 
-foreign import mdOutlineAssignmentInd_ :: ReactIcon
+foreign import _mdOutlineAssignmentInd :: ReactIcon
 
 mdOutlineAssignmentInd :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAssignmentInd = element (unsafeCoerce mdOutlineAssignmentInd_)
+mdOutlineAssignmentInd = element (unsafeCoerce _mdOutlineAssignmentInd)
 
-foreign import mdOutlineAssignmentLate_ :: ReactIcon
+foreign import _mdOutlineAssignmentLate :: ReactIcon
 
 mdOutlineAssignmentLate :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAssignmentLate = element (unsafeCoerce mdOutlineAssignmentLate_)
+mdOutlineAssignmentLate = element (unsafeCoerce _mdOutlineAssignmentLate)
 
-foreign import mdOutlineAssignmentReturn_ :: ReactIcon
+foreign import _mdOutlineAssignmentReturn :: ReactIcon
 
 mdOutlineAssignmentReturn :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAssignmentReturn = element (unsafeCoerce mdOutlineAssignmentReturn_)
+mdOutlineAssignmentReturn = element (unsafeCoerce _mdOutlineAssignmentReturn)
 
-foreign import mdOutlineAssignmentReturned_ :: ReactIcon
+foreign import _mdOutlineAssignmentReturned :: ReactIcon
 
 mdOutlineAssignmentReturned :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAssignmentReturned = element (unsafeCoerce mdOutlineAssignmentReturned_)
+mdOutlineAssignmentReturned = element (unsafeCoerce _mdOutlineAssignmentReturned)
 
-foreign import mdOutlineAssignmentTurnedIn_ :: ReactIcon
+foreign import _mdOutlineAssignmentTurnedIn :: ReactIcon
 
 mdOutlineAssignmentTurnedIn :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAssignmentTurnedIn = element (unsafeCoerce mdOutlineAssignmentTurnedIn_)
+mdOutlineAssignmentTurnedIn = element (unsafeCoerce _mdOutlineAssignmentTurnedIn)
 
-foreign import mdOutlineAssistant_ :: ReactIcon
+foreign import _mdOutlineAssistant :: ReactIcon
 
 mdOutlineAssistant :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAssistant = element (unsafeCoerce mdOutlineAssistant_)
+mdOutlineAssistant = element (unsafeCoerce _mdOutlineAssistant)
 
-foreign import mdOutlineAssistantDirection_ :: ReactIcon
+foreign import _mdOutlineAssistantDirection :: ReactIcon
 
 mdOutlineAssistantDirection :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAssistantDirection = element (unsafeCoerce mdOutlineAssistantDirection_)
+mdOutlineAssistantDirection = element (unsafeCoerce _mdOutlineAssistantDirection)
 
-foreign import mdOutlineAssistantPhoto_ :: ReactIcon
+foreign import _mdOutlineAssistantPhoto :: ReactIcon
 
 mdOutlineAssistantPhoto :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAssistantPhoto = element (unsafeCoerce mdOutlineAssistantPhoto_)
+mdOutlineAssistantPhoto = element (unsafeCoerce _mdOutlineAssistantPhoto)
 
-foreign import mdOutlineAtm_ :: ReactIcon
+foreign import _mdOutlineAtm :: ReactIcon
 
 mdOutlineAtm :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAtm = element (unsafeCoerce mdOutlineAtm_)
+mdOutlineAtm = element (unsafeCoerce _mdOutlineAtm)
 
-foreign import mdOutlineAttachEmail_ :: ReactIcon
+foreign import _mdOutlineAttachEmail :: ReactIcon
 
 mdOutlineAttachEmail :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAttachEmail = element (unsafeCoerce mdOutlineAttachEmail_)
+mdOutlineAttachEmail = element (unsafeCoerce _mdOutlineAttachEmail)
 
-foreign import mdOutlineAttachFile_ :: ReactIcon
+foreign import _mdOutlineAttachFile :: ReactIcon
 
 mdOutlineAttachFile :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAttachFile = element (unsafeCoerce mdOutlineAttachFile_)
+mdOutlineAttachFile = element (unsafeCoerce _mdOutlineAttachFile)
 
-foreign import mdOutlineAttachment_ :: ReactIcon
+foreign import _mdOutlineAttachment :: ReactIcon
 
 mdOutlineAttachment :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAttachment = element (unsafeCoerce mdOutlineAttachment_)
+mdOutlineAttachment = element (unsafeCoerce _mdOutlineAttachment)
 
-foreign import mdOutlineAttachMoney_ :: ReactIcon
+foreign import _mdOutlineAttachMoney :: ReactIcon
 
 mdOutlineAttachMoney :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAttachMoney = element (unsafeCoerce mdOutlineAttachMoney_)
+mdOutlineAttachMoney = element (unsafeCoerce _mdOutlineAttachMoney)
 
-foreign import mdOutlineAttractions_ :: ReactIcon
+foreign import _mdOutlineAttractions :: ReactIcon
 
 mdOutlineAttractions :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAttractions = element (unsafeCoerce mdOutlineAttractions_)
+mdOutlineAttractions = element (unsafeCoerce _mdOutlineAttractions)
 
-foreign import mdOutlineAttribution_ :: ReactIcon
+foreign import _mdOutlineAttribution :: ReactIcon
 
 mdOutlineAttribution :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAttribution = element (unsafeCoerce mdOutlineAttribution_)
+mdOutlineAttribution = element (unsafeCoerce _mdOutlineAttribution)
 
-foreign import mdOutlineAudiotrack_ :: ReactIcon
+foreign import _mdOutlineAudiotrack :: ReactIcon
 
 mdOutlineAudiotrack :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAudiotrack = element (unsafeCoerce mdOutlineAudiotrack_)
+mdOutlineAudiotrack = element (unsafeCoerce _mdOutlineAudiotrack)
 
-foreign import mdOutlineAutoAwesome_ :: ReactIcon
+foreign import _mdOutlineAutoAwesome :: ReactIcon
 
 mdOutlineAutoAwesome :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAutoAwesome = element (unsafeCoerce mdOutlineAutoAwesome_)
+mdOutlineAutoAwesome = element (unsafeCoerce _mdOutlineAutoAwesome)
 
-foreign import mdOutlineAutoAwesomeMosaic_ :: ReactIcon
+foreign import _mdOutlineAutoAwesomeMosaic :: ReactIcon
 
 mdOutlineAutoAwesomeMosaic :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAutoAwesomeMosaic = element (unsafeCoerce mdOutlineAutoAwesomeMosaic_)
+mdOutlineAutoAwesomeMosaic = element (unsafeCoerce _mdOutlineAutoAwesomeMosaic)
 
-foreign import mdOutlineAutoAwesomeMotion_ :: ReactIcon
+foreign import _mdOutlineAutoAwesomeMotion :: ReactIcon
 
 mdOutlineAutoAwesomeMotion :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAutoAwesomeMotion = element (unsafeCoerce mdOutlineAutoAwesomeMotion_)
+mdOutlineAutoAwesomeMotion = element (unsafeCoerce _mdOutlineAutoAwesomeMotion)
 
-foreign import mdOutlineAutoDelete_ :: ReactIcon
+foreign import _mdOutlineAutoDelete :: ReactIcon
 
 mdOutlineAutoDelete :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAutoDelete = element (unsafeCoerce mdOutlineAutoDelete_)
+mdOutlineAutoDelete = element (unsafeCoerce _mdOutlineAutoDelete)
 
-foreign import mdOutlineAutoFixHigh_ :: ReactIcon
+foreign import _mdOutlineAutoFixHigh :: ReactIcon
 
 mdOutlineAutoFixHigh :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAutoFixHigh = element (unsafeCoerce mdOutlineAutoFixHigh_)
+mdOutlineAutoFixHigh = element (unsafeCoerce _mdOutlineAutoFixHigh)
 
-foreign import mdOutlineAutoFixNormal_ :: ReactIcon
+foreign import _mdOutlineAutoFixNormal :: ReactIcon
 
 mdOutlineAutoFixNormal :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAutoFixNormal = element (unsafeCoerce mdOutlineAutoFixNormal_)
+mdOutlineAutoFixNormal = element (unsafeCoerce _mdOutlineAutoFixNormal)
 
-foreign import mdOutlineAutoFixOff_ :: ReactIcon
+foreign import _mdOutlineAutoFixOff :: ReactIcon
 
 mdOutlineAutoFixOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAutoFixOff = element (unsafeCoerce mdOutlineAutoFixOff_)
+mdOutlineAutoFixOff = element (unsafeCoerce _mdOutlineAutoFixOff)
 
-foreign import mdOutlineAutofpsSelect_ :: ReactIcon
+foreign import _mdOutlineAutofpsSelect :: ReactIcon
 
 mdOutlineAutofpsSelect :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAutofpsSelect = element (unsafeCoerce mdOutlineAutofpsSelect_)
+mdOutlineAutofpsSelect = element (unsafeCoerce _mdOutlineAutofpsSelect)
 
-foreign import mdOutlineAutoGraph_ :: ReactIcon
+foreign import _mdOutlineAutoGraph :: ReactIcon
 
 mdOutlineAutoGraph :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAutoGraph = element (unsafeCoerce mdOutlineAutoGraph_)
+mdOutlineAutoGraph = element (unsafeCoerce _mdOutlineAutoGraph)
 
-foreign import mdOutlineAutorenew_ :: ReactIcon
+foreign import _mdOutlineAutorenew :: ReactIcon
 
 mdOutlineAutorenew :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAutorenew = element (unsafeCoerce mdOutlineAutorenew_)
+mdOutlineAutorenew = element (unsafeCoerce _mdOutlineAutorenew)
 
-foreign import mdOutlineAutoStories_ :: ReactIcon
+foreign import _mdOutlineAutoStories :: ReactIcon
 
 mdOutlineAutoStories :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAutoStories = element (unsafeCoerce mdOutlineAutoStories_)
+mdOutlineAutoStories = element (unsafeCoerce _mdOutlineAutoStories)
 
-foreign import mdOutlineAvTimer_ :: ReactIcon
+foreign import _mdOutlineAvTimer :: ReactIcon
 
 mdOutlineAvTimer :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineAvTimer = element (unsafeCoerce mdOutlineAvTimer_)
+mdOutlineAvTimer = element (unsafeCoerce _mdOutlineAvTimer)
 
-foreign import mdOutlineBabyChangingStation_ :: ReactIcon
+foreign import _mdOutlineBabyChangingStation :: ReactIcon
 
 mdOutlineBabyChangingStation :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineBabyChangingStation = element (unsafeCoerce mdOutlineBabyChangingStation_)
+mdOutlineBabyChangingStation = element (unsafeCoerce _mdOutlineBabyChangingStation)
 
-foreign import mdOutlineBackHand_ :: ReactIcon
+foreign import _mdOutlineBackHand :: ReactIcon
 
 mdOutlineBackHand :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineBackHand = element (unsafeCoerce mdOutlineBackHand_)
+mdOutlineBackHand = element (unsafeCoerce _mdOutlineBackHand)
 
-foreign import mdOutlineBackpack_ :: ReactIcon
+foreign import _mdOutlineBackpack :: ReactIcon
 
 mdOutlineBackpack :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineBackpack = element (unsafeCoerce mdOutlineBackpack_)
+mdOutlineBackpack = element (unsafeCoerce _mdOutlineBackpack)
 
-foreign import mdOutlineBackspace_ :: ReactIcon
+foreign import _mdOutlineBackspace :: ReactIcon
 
 mdOutlineBackspace :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineBackspace = element (unsafeCoerce mdOutlineBackspace_)
+mdOutlineBackspace = element (unsafeCoerce _mdOutlineBackspace)
 
-foreign import mdOutlineBackup_ :: ReactIcon
+foreign import _mdOutlineBackup :: ReactIcon
 
 mdOutlineBackup :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineBackup = element (unsafeCoerce mdOutlineBackup_)
+mdOutlineBackup = element (unsafeCoerce _mdOutlineBackup)
 
-foreign import mdOutlineBackupTable_ :: ReactIcon
+foreign import _mdOutlineBackupTable :: ReactIcon
 
 mdOutlineBackupTable :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineBackupTable = element (unsafeCoerce mdOutlineBackupTable_)
+mdOutlineBackupTable = element (unsafeCoerce _mdOutlineBackupTable)
 
-foreign import mdOutlineBadge_ :: ReactIcon
+foreign import _mdOutlineBadge :: ReactIcon
 
 mdOutlineBadge :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineBadge = element (unsafeCoerce mdOutlineBadge_)
+mdOutlineBadge = element (unsafeCoerce _mdOutlineBadge)
 
-foreign import mdOutlineBakeryDining_ :: ReactIcon
+foreign import _mdOutlineBakeryDining :: ReactIcon
 
 mdOutlineBakeryDining :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineBakeryDining = element (unsafeCoerce mdOutlineBakeryDining_)
+mdOutlineBakeryDining = element (unsafeCoerce _mdOutlineBakeryDining)
 
-foreign import mdOutlineBalcony_ :: ReactIcon
+foreign import _mdOutlineBalcony :: ReactIcon
 
 mdOutlineBalcony :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineBalcony = element (unsafeCoerce mdOutlineBalcony_)
+mdOutlineBalcony = element (unsafeCoerce _mdOutlineBalcony)
 
-foreign import mdOutlineBallot_ :: ReactIcon
+foreign import _mdOutlineBallot :: ReactIcon
 
 mdOutlineBallot :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineBallot = element (unsafeCoerce mdOutlineBallot_)
+mdOutlineBallot = element (unsafeCoerce _mdOutlineBallot)
 
-foreign import mdOutlineBarChart_ :: ReactIcon
+foreign import _mdOutlineBarChart :: ReactIcon
 
 mdOutlineBarChart :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineBarChart = element (unsafeCoerce mdOutlineBarChart_)
+mdOutlineBarChart = element (unsafeCoerce _mdOutlineBarChart)
 
-foreign import mdOutlineBatchPrediction_ :: ReactIcon
+foreign import _mdOutlineBatchPrediction :: ReactIcon
 
 mdOutlineBatchPrediction :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineBatchPrediction = element (unsafeCoerce mdOutlineBatchPrediction_)
+mdOutlineBatchPrediction = element (unsafeCoerce _mdOutlineBatchPrediction)
 
-foreign import mdOutlineBathroom_ :: ReactIcon
+foreign import _mdOutlineBathroom :: ReactIcon
 
 mdOutlineBathroom :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineBathroom = element (unsafeCoerce mdOutlineBathroom_)
+mdOutlineBathroom = element (unsafeCoerce _mdOutlineBathroom)
 
-foreign import mdOutlineBathtub_ :: ReactIcon
+foreign import _mdOutlineBathtub :: ReactIcon
 
 mdOutlineBathtub :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineBathtub = element (unsafeCoerce mdOutlineBathtub_)
+mdOutlineBathtub = element (unsafeCoerce _mdOutlineBathtub)
 
-foreign import mdOutlineBatteryAlert_ :: ReactIcon
+foreign import _mdOutlineBatteryAlert :: ReactIcon
 
 mdOutlineBatteryAlert :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineBatteryAlert = element (unsafeCoerce mdOutlineBatteryAlert_)
+mdOutlineBatteryAlert = element (unsafeCoerce _mdOutlineBatteryAlert)
 
-foreign import mdOutlineBatteryChargingFull_ :: ReactIcon
+foreign import _mdOutlineBatteryChargingFull :: ReactIcon
 
 mdOutlineBatteryChargingFull :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineBatteryChargingFull = element (unsafeCoerce mdOutlineBatteryChargingFull_)
+mdOutlineBatteryChargingFull = element (unsafeCoerce _mdOutlineBatteryChargingFull)
 
-foreign import mdOutlineBatteryFull_ :: ReactIcon
+foreign import _mdOutlineBatteryFull :: ReactIcon
 
 mdOutlineBatteryFull :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineBatteryFull = element (unsafeCoerce mdOutlineBatteryFull_)
+mdOutlineBatteryFull = element (unsafeCoerce _mdOutlineBatteryFull)
 
-foreign import mdOutlineBatterySaver_ :: ReactIcon
+foreign import _mdOutlineBatterySaver :: ReactIcon
 
 mdOutlineBatterySaver :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineBatterySaver = element (unsafeCoerce mdOutlineBatterySaver_)
+mdOutlineBatterySaver = element (unsafeCoerce _mdOutlineBatterySaver)
 
-foreign import mdOutlineBatteryStd_ :: ReactIcon
+foreign import _mdOutlineBatteryStd :: ReactIcon
 
 mdOutlineBatteryStd :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineBatteryStd = element (unsafeCoerce mdOutlineBatteryStd_)
+mdOutlineBatteryStd = element (unsafeCoerce _mdOutlineBatteryStd)
 
-foreign import mdOutlineBatteryUnknown_ :: ReactIcon
+foreign import _mdOutlineBatteryUnknown :: ReactIcon
 
 mdOutlineBatteryUnknown :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineBatteryUnknown = element (unsafeCoerce mdOutlineBatteryUnknown_)
+mdOutlineBatteryUnknown = element (unsafeCoerce _mdOutlineBatteryUnknown)
 
-foreign import mdOutlineBeachAccess_ :: ReactIcon
+foreign import _mdOutlineBeachAccess :: ReactIcon
 
 mdOutlineBeachAccess :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineBeachAccess = element (unsafeCoerce mdOutlineBeachAccess_)
+mdOutlineBeachAccess = element (unsafeCoerce _mdOutlineBeachAccess)
 
-foreign import mdOutlineBed_ :: ReactIcon
+foreign import _mdOutlineBed :: ReactIcon
 
 mdOutlineBed :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineBed = element (unsafeCoerce mdOutlineBed_)
+mdOutlineBed = element (unsafeCoerce _mdOutlineBed)
 
-foreign import mdOutlineBedroomBaby_ :: ReactIcon
+foreign import _mdOutlineBedroomBaby :: ReactIcon
 
 mdOutlineBedroomBaby :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineBedroomBaby = element (unsafeCoerce mdOutlineBedroomBaby_)
+mdOutlineBedroomBaby = element (unsafeCoerce _mdOutlineBedroomBaby)
 
-foreign import mdOutlineBedroomChild_ :: ReactIcon
+foreign import _mdOutlineBedroomChild :: ReactIcon
 
 mdOutlineBedroomChild :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineBedroomChild = element (unsafeCoerce mdOutlineBedroomChild_)
+mdOutlineBedroomChild = element (unsafeCoerce _mdOutlineBedroomChild)
 
-foreign import mdOutlineBedroomParent_ :: ReactIcon
+foreign import _mdOutlineBedroomParent :: ReactIcon
 
 mdOutlineBedroomParent :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineBedroomParent = element (unsafeCoerce mdOutlineBedroomParent_)
+mdOutlineBedroomParent = element (unsafeCoerce _mdOutlineBedroomParent)
 
-foreign import mdOutlineBedtime_ :: ReactIcon
+foreign import _mdOutlineBedtime :: ReactIcon
 
 mdOutlineBedtime :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineBedtime = element (unsafeCoerce mdOutlineBedtime_)
+mdOutlineBedtime = element (unsafeCoerce _mdOutlineBedtime)
 
-foreign import mdOutlineBeenhere_ :: ReactIcon
+foreign import _mdOutlineBeenhere :: ReactIcon
 
 mdOutlineBeenhere :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineBeenhere = element (unsafeCoerce mdOutlineBeenhere_)
+mdOutlineBeenhere = element (unsafeCoerce _mdOutlineBeenhere)
 
-foreign import mdOutlineBento_ :: ReactIcon
+foreign import _mdOutlineBento :: ReactIcon
 
 mdOutlineBento :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineBento = element (unsafeCoerce mdOutlineBento_)
+mdOutlineBento = element (unsafeCoerce _mdOutlineBento)
 
-foreign import mdOutlineBikeScooter_ :: ReactIcon
+foreign import _mdOutlineBikeScooter :: ReactIcon
 
 mdOutlineBikeScooter :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineBikeScooter = element (unsafeCoerce mdOutlineBikeScooter_)
+mdOutlineBikeScooter = element (unsafeCoerce _mdOutlineBikeScooter)
 
-foreign import mdOutlineBiotech_ :: ReactIcon
+foreign import _mdOutlineBiotech :: ReactIcon
 
 mdOutlineBiotech :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineBiotech = element (unsafeCoerce mdOutlineBiotech_)
+mdOutlineBiotech = element (unsafeCoerce _mdOutlineBiotech)
 
-foreign import mdOutlineBlender_ :: ReactIcon
+foreign import _mdOutlineBlender :: ReactIcon
 
 mdOutlineBlender :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineBlender = element (unsafeCoerce mdOutlineBlender_)
+mdOutlineBlender = element (unsafeCoerce _mdOutlineBlender)
 
-foreign import mdOutlineBlock_ :: ReactIcon
+foreign import _mdOutlineBlock :: ReactIcon
 
 mdOutlineBlock :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineBlock = element (unsafeCoerce mdOutlineBlock_)
+mdOutlineBlock = element (unsafeCoerce _mdOutlineBlock)
 
-foreign import mdOutlineBloodtype_ :: ReactIcon
+foreign import _mdOutlineBloodtype :: ReactIcon
 
 mdOutlineBloodtype :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineBloodtype = element (unsafeCoerce mdOutlineBloodtype_)
+mdOutlineBloodtype = element (unsafeCoerce _mdOutlineBloodtype)
 
-foreign import mdOutlineBluetooth_ :: ReactIcon
+foreign import _mdOutlineBluetooth :: ReactIcon
 
 mdOutlineBluetooth :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineBluetooth = element (unsafeCoerce mdOutlineBluetooth_)
+mdOutlineBluetooth = element (unsafeCoerce _mdOutlineBluetooth)
 
-foreign import mdOutlineBluetoothAudio_ :: ReactIcon
+foreign import _mdOutlineBluetoothAudio :: ReactIcon
 
 mdOutlineBluetoothAudio :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineBluetoothAudio = element (unsafeCoerce mdOutlineBluetoothAudio_)
+mdOutlineBluetoothAudio = element (unsafeCoerce _mdOutlineBluetoothAudio)
 
-foreign import mdOutlineBluetoothConnected_ :: ReactIcon
+foreign import _mdOutlineBluetoothConnected :: ReactIcon
 
 mdOutlineBluetoothConnected :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineBluetoothConnected = element (unsafeCoerce mdOutlineBluetoothConnected_)
+mdOutlineBluetoothConnected = element (unsafeCoerce _mdOutlineBluetoothConnected)
 
-foreign import mdOutlineBluetoothDisabled_ :: ReactIcon
+foreign import _mdOutlineBluetoothDisabled :: ReactIcon
 
 mdOutlineBluetoothDisabled :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineBluetoothDisabled = element (unsafeCoerce mdOutlineBluetoothDisabled_)
+mdOutlineBluetoothDisabled = element (unsafeCoerce _mdOutlineBluetoothDisabled)
 
-foreign import mdOutlineBluetoothDrive_ :: ReactIcon
+foreign import _mdOutlineBluetoothDrive :: ReactIcon
 
 mdOutlineBluetoothDrive :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineBluetoothDrive = element (unsafeCoerce mdOutlineBluetoothDrive_)
+mdOutlineBluetoothDrive = element (unsafeCoerce _mdOutlineBluetoothDrive)
 
-foreign import mdOutlineBluetoothSearching_ :: ReactIcon
+foreign import _mdOutlineBluetoothSearching :: ReactIcon
 
 mdOutlineBluetoothSearching :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineBluetoothSearching = element (unsafeCoerce mdOutlineBluetoothSearching_)
+mdOutlineBluetoothSearching = element (unsafeCoerce _mdOutlineBluetoothSearching)
 
-foreign import mdOutlineBlurCircular_ :: ReactIcon
+foreign import _mdOutlineBlurCircular :: ReactIcon
 
 mdOutlineBlurCircular :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineBlurCircular = element (unsafeCoerce mdOutlineBlurCircular_)
+mdOutlineBlurCircular = element (unsafeCoerce _mdOutlineBlurCircular)
 
-foreign import mdOutlineBlurLinear_ :: ReactIcon
+foreign import _mdOutlineBlurLinear :: ReactIcon
 
 mdOutlineBlurLinear :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineBlurLinear = element (unsafeCoerce mdOutlineBlurLinear_)
+mdOutlineBlurLinear = element (unsafeCoerce _mdOutlineBlurLinear)
 
-foreign import mdOutlineBlurOff_ :: ReactIcon
+foreign import _mdOutlineBlurOff :: ReactIcon
 
 mdOutlineBlurOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineBlurOff = element (unsafeCoerce mdOutlineBlurOff_)
+mdOutlineBlurOff = element (unsafeCoerce _mdOutlineBlurOff)
 
-foreign import mdOutlineBlurOn_ :: ReactIcon
+foreign import _mdOutlineBlurOn :: ReactIcon
 
 mdOutlineBlurOn :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineBlurOn = element (unsafeCoerce mdOutlineBlurOn_)
+mdOutlineBlurOn = element (unsafeCoerce _mdOutlineBlurOn)
 
-foreign import mdOutlineBolt_ :: ReactIcon
+foreign import _mdOutlineBolt :: ReactIcon
 
 mdOutlineBolt :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineBolt = element (unsafeCoerce mdOutlineBolt_)
+mdOutlineBolt = element (unsafeCoerce _mdOutlineBolt)
 
-foreign import mdOutlineBook_ :: ReactIcon
+foreign import _mdOutlineBook :: ReactIcon
 
 mdOutlineBook :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineBook = element (unsafeCoerce mdOutlineBook_)
+mdOutlineBook = element (unsafeCoerce _mdOutlineBook)
 
-foreign import mdOutlineBookmark_ :: ReactIcon
+foreign import _mdOutlineBookmark :: ReactIcon
 
 mdOutlineBookmark :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineBookmark = element (unsafeCoerce mdOutlineBookmark_)
+mdOutlineBookmark = element (unsafeCoerce _mdOutlineBookmark)
 
-foreign import mdOutlineBookmarkAdd_ :: ReactIcon
+foreign import _mdOutlineBookmarkAdd :: ReactIcon
 
 mdOutlineBookmarkAdd :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineBookmarkAdd = element (unsafeCoerce mdOutlineBookmarkAdd_)
+mdOutlineBookmarkAdd = element (unsafeCoerce _mdOutlineBookmarkAdd)
 
-foreign import mdOutlineBookmarkAdded_ :: ReactIcon
+foreign import _mdOutlineBookmarkAdded :: ReactIcon
 
 mdOutlineBookmarkAdded :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineBookmarkAdded = element (unsafeCoerce mdOutlineBookmarkAdded_)
+mdOutlineBookmarkAdded = element (unsafeCoerce _mdOutlineBookmarkAdded)
 
-foreign import mdOutlineBookmarkBorder_ :: ReactIcon
+foreign import _mdOutlineBookmarkBorder :: ReactIcon
 
 mdOutlineBookmarkBorder :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineBookmarkBorder = element (unsafeCoerce mdOutlineBookmarkBorder_)
+mdOutlineBookmarkBorder = element (unsafeCoerce _mdOutlineBookmarkBorder)
 
-foreign import mdOutlineBookmarkRemove_ :: ReactIcon
+foreign import _mdOutlineBookmarkRemove :: ReactIcon
 
 mdOutlineBookmarkRemove :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineBookmarkRemove = element (unsafeCoerce mdOutlineBookmarkRemove_)
+mdOutlineBookmarkRemove = element (unsafeCoerce _mdOutlineBookmarkRemove)
 
-foreign import mdOutlineBookmarks_ :: ReactIcon
+foreign import _mdOutlineBookmarks :: ReactIcon
 
 mdOutlineBookmarks :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineBookmarks = element (unsafeCoerce mdOutlineBookmarks_)
+mdOutlineBookmarks = element (unsafeCoerce _mdOutlineBookmarks)
 
-foreign import mdOutlineBookOnline_ :: ReactIcon
+foreign import _mdOutlineBookOnline :: ReactIcon
 
 mdOutlineBookOnline :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineBookOnline = element (unsafeCoerce mdOutlineBookOnline_)
+mdOutlineBookOnline = element (unsafeCoerce _mdOutlineBookOnline)
 
-foreign import mdOutlineBorderAll_ :: ReactIcon
+foreign import _mdOutlineBorderAll :: ReactIcon
 
 mdOutlineBorderAll :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineBorderAll = element (unsafeCoerce mdOutlineBorderAll_)
+mdOutlineBorderAll = element (unsafeCoerce _mdOutlineBorderAll)
 
-foreign import mdOutlineBorderBottom_ :: ReactIcon
+foreign import _mdOutlineBorderBottom :: ReactIcon
 
 mdOutlineBorderBottom :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineBorderBottom = element (unsafeCoerce mdOutlineBorderBottom_)
+mdOutlineBorderBottom = element (unsafeCoerce _mdOutlineBorderBottom)
 
-foreign import mdOutlineBorderClear_ :: ReactIcon
+foreign import _mdOutlineBorderClear :: ReactIcon
 
 mdOutlineBorderClear :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineBorderClear = element (unsafeCoerce mdOutlineBorderClear_)
+mdOutlineBorderClear = element (unsafeCoerce _mdOutlineBorderClear)
 
-foreign import mdOutlineBorderColor_ :: ReactIcon
+foreign import _mdOutlineBorderColor :: ReactIcon
 
 mdOutlineBorderColor :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineBorderColor = element (unsafeCoerce mdOutlineBorderColor_)
+mdOutlineBorderColor = element (unsafeCoerce _mdOutlineBorderColor)
 
-foreign import mdOutlineBorderHorizontal_ :: ReactIcon
+foreign import _mdOutlineBorderHorizontal :: ReactIcon
 
 mdOutlineBorderHorizontal :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineBorderHorizontal = element (unsafeCoerce mdOutlineBorderHorizontal_)
+mdOutlineBorderHorizontal = element (unsafeCoerce _mdOutlineBorderHorizontal)
 
-foreign import mdOutlineBorderInner_ :: ReactIcon
+foreign import _mdOutlineBorderInner :: ReactIcon
 
 mdOutlineBorderInner :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineBorderInner = element (unsafeCoerce mdOutlineBorderInner_)
+mdOutlineBorderInner = element (unsafeCoerce _mdOutlineBorderInner)
 
-foreign import mdOutlineBorderLeft_ :: ReactIcon
+foreign import _mdOutlineBorderLeft :: ReactIcon
 
 mdOutlineBorderLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineBorderLeft = element (unsafeCoerce mdOutlineBorderLeft_)
+mdOutlineBorderLeft = element (unsafeCoerce _mdOutlineBorderLeft)
 
-foreign import mdOutlineBorderOuter_ :: ReactIcon
+foreign import _mdOutlineBorderOuter :: ReactIcon
 
 mdOutlineBorderOuter :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineBorderOuter = element (unsafeCoerce mdOutlineBorderOuter_)
+mdOutlineBorderOuter = element (unsafeCoerce _mdOutlineBorderOuter)
 
-foreign import mdOutlineBorderRight_ :: ReactIcon
+foreign import _mdOutlineBorderRight :: ReactIcon
 
 mdOutlineBorderRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineBorderRight = element (unsafeCoerce mdOutlineBorderRight_)
+mdOutlineBorderRight = element (unsafeCoerce _mdOutlineBorderRight)
 
-foreign import mdOutlineBorderStyle_ :: ReactIcon
+foreign import _mdOutlineBorderStyle :: ReactIcon
 
 mdOutlineBorderStyle :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineBorderStyle = element (unsafeCoerce mdOutlineBorderStyle_)
+mdOutlineBorderStyle = element (unsafeCoerce _mdOutlineBorderStyle)
 
-foreign import mdOutlineBorderTop_ :: ReactIcon
+foreign import _mdOutlineBorderTop :: ReactIcon
 
 mdOutlineBorderTop :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineBorderTop = element (unsafeCoerce mdOutlineBorderTop_)
+mdOutlineBorderTop = element (unsafeCoerce _mdOutlineBorderTop)
 
-foreign import mdOutlineBorderVertical_ :: ReactIcon
+foreign import _mdOutlineBorderVertical :: ReactIcon
 
 mdOutlineBorderVertical :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineBorderVertical = element (unsafeCoerce mdOutlineBorderVertical_)
+mdOutlineBorderVertical = element (unsafeCoerce _mdOutlineBorderVertical)
 
-foreign import mdOutlineBrandingWatermark_ :: ReactIcon
+foreign import _mdOutlineBrandingWatermark :: ReactIcon
 
 mdOutlineBrandingWatermark :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineBrandingWatermark = element (unsafeCoerce mdOutlineBrandingWatermark_)
+mdOutlineBrandingWatermark = element (unsafeCoerce _mdOutlineBrandingWatermark)
 
-foreign import mdOutlineBreakfastDining_ :: ReactIcon
+foreign import _mdOutlineBreakfastDining :: ReactIcon
 
 mdOutlineBreakfastDining :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineBreakfastDining = element (unsafeCoerce mdOutlineBreakfastDining_)
+mdOutlineBreakfastDining = element (unsafeCoerce _mdOutlineBreakfastDining)
 
-foreign import mdOutlineBrightnessAuto_ :: ReactIcon
+foreign import _mdOutlineBrightnessAuto :: ReactIcon
 
 mdOutlineBrightnessAuto :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineBrightnessAuto = element (unsafeCoerce mdOutlineBrightnessAuto_)
+mdOutlineBrightnessAuto = element (unsafeCoerce _mdOutlineBrightnessAuto)
 
-foreign import mdOutlineBrightnessHigh_ :: ReactIcon
+foreign import _mdOutlineBrightnessHigh :: ReactIcon
 
 mdOutlineBrightnessHigh :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineBrightnessHigh = element (unsafeCoerce mdOutlineBrightnessHigh_)
+mdOutlineBrightnessHigh = element (unsafeCoerce _mdOutlineBrightnessHigh)
 
-foreign import mdOutlineBrightnessLow_ :: ReactIcon
+foreign import _mdOutlineBrightnessLow :: ReactIcon
 
 mdOutlineBrightnessLow :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineBrightnessLow = element (unsafeCoerce mdOutlineBrightnessLow_)
+mdOutlineBrightnessLow = element (unsafeCoerce _mdOutlineBrightnessLow)
 
-foreign import mdOutlineBrightnessMedium_ :: ReactIcon
+foreign import _mdOutlineBrightnessMedium :: ReactIcon
 
 mdOutlineBrightnessMedium :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineBrightnessMedium = element (unsafeCoerce mdOutlineBrightnessMedium_)
+mdOutlineBrightnessMedium = element (unsafeCoerce _mdOutlineBrightnessMedium)
 
-foreign import mdOutlineBrokenImage_ :: ReactIcon
+foreign import _mdOutlineBrokenImage :: ReactIcon
 
 mdOutlineBrokenImage :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineBrokenImage = element (unsafeCoerce mdOutlineBrokenImage_)
+mdOutlineBrokenImage = element (unsafeCoerce _mdOutlineBrokenImage)
 
-foreign import mdOutlineBrowserNotSupported_ :: ReactIcon
+foreign import _mdOutlineBrowserNotSupported :: ReactIcon
 
 mdOutlineBrowserNotSupported :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineBrowserNotSupported = element (unsafeCoerce mdOutlineBrowserNotSupported_)
+mdOutlineBrowserNotSupported = element (unsafeCoerce _mdOutlineBrowserNotSupported)
 
-foreign import mdOutlineBrunchDining_ :: ReactIcon
+foreign import _mdOutlineBrunchDining :: ReactIcon
 
 mdOutlineBrunchDining :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineBrunchDining = element (unsafeCoerce mdOutlineBrunchDining_)
+mdOutlineBrunchDining = element (unsafeCoerce _mdOutlineBrunchDining)
 
-foreign import mdOutlineBrush_ :: ReactIcon
+foreign import _mdOutlineBrush :: ReactIcon
 
 mdOutlineBrush :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineBrush = element (unsafeCoerce mdOutlineBrush_)
+mdOutlineBrush = element (unsafeCoerce _mdOutlineBrush)
 
-foreign import mdOutlineBubbleChart_ :: ReactIcon
+foreign import _mdOutlineBubbleChart :: ReactIcon
 
 mdOutlineBubbleChart :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineBubbleChart = element (unsafeCoerce mdOutlineBubbleChart_)
+mdOutlineBubbleChart = element (unsafeCoerce _mdOutlineBubbleChart)
 
-foreign import mdOutlineBugReport_ :: ReactIcon
+foreign import _mdOutlineBugReport :: ReactIcon
 
 mdOutlineBugReport :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineBugReport = element (unsafeCoerce mdOutlineBugReport_)
+mdOutlineBugReport = element (unsafeCoerce _mdOutlineBugReport)
 
-foreign import mdOutlineBuild_ :: ReactIcon
+foreign import _mdOutlineBuild :: ReactIcon
 
 mdOutlineBuild :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineBuild = element (unsafeCoerce mdOutlineBuild_)
+mdOutlineBuild = element (unsafeCoerce _mdOutlineBuild)
 
-foreign import mdOutlineBuildCircle_ :: ReactIcon
+foreign import _mdOutlineBuildCircle :: ReactIcon
 
 mdOutlineBuildCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineBuildCircle = element (unsafeCoerce mdOutlineBuildCircle_)
+mdOutlineBuildCircle = element (unsafeCoerce _mdOutlineBuildCircle)
 
-foreign import mdOutlineBungalow_ :: ReactIcon
+foreign import _mdOutlineBungalow :: ReactIcon
 
 mdOutlineBungalow :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineBungalow = element (unsafeCoerce mdOutlineBungalow_)
+mdOutlineBungalow = element (unsafeCoerce _mdOutlineBungalow)
 
-foreign import mdOutlineBurstMode_ :: ReactIcon
+foreign import _mdOutlineBurstMode :: ReactIcon
 
 mdOutlineBurstMode :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineBurstMode = element (unsafeCoerce mdOutlineBurstMode_)
+mdOutlineBurstMode = element (unsafeCoerce _mdOutlineBurstMode)
 
-foreign import mdOutlineBusAlert_ :: ReactIcon
+foreign import _mdOutlineBusAlert :: ReactIcon
 
 mdOutlineBusAlert :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineBusAlert = element (unsafeCoerce mdOutlineBusAlert_)
+mdOutlineBusAlert = element (unsafeCoerce _mdOutlineBusAlert)
 
-foreign import mdOutlineBusiness_ :: ReactIcon
+foreign import _mdOutlineBusiness :: ReactIcon
 
 mdOutlineBusiness :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineBusiness = element (unsafeCoerce mdOutlineBusiness_)
+mdOutlineBusiness = element (unsafeCoerce _mdOutlineBusiness)
 
-foreign import mdOutlineBusinessCenter_ :: ReactIcon
+foreign import _mdOutlineBusinessCenter :: ReactIcon
 
 mdOutlineBusinessCenter :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineBusinessCenter = element (unsafeCoerce mdOutlineBusinessCenter_)
+mdOutlineBusinessCenter = element (unsafeCoerce _mdOutlineBusinessCenter)
 
-foreign import mdOutlineCabin_ :: ReactIcon
+foreign import _mdOutlineCabin :: ReactIcon
 
 mdOutlineCabin :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineCabin = element (unsafeCoerce mdOutlineCabin_)
+mdOutlineCabin = element (unsafeCoerce _mdOutlineCabin)
 
-foreign import mdOutlineCable_ :: ReactIcon
+foreign import _mdOutlineCable :: ReactIcon
 
 mdOutlineCable :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineCable = element (unsafeCoerce mdOutlineCable_)
+mdOutlineCable = element (unsafeCoerce _mdOutlineCable)
 
-foreign import mdOutlineCached_ :: ReactIcon
+foreign import _mdOutlineCached :: ReactIcon
 
 mdOutlineCached :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineCached = element (unsafeCoerce mdOutlineCached_)
+mdOutlineCached = element (unsafeCoerce _mdOutlineCached)
 
-foreign import mdOutlineCake_ :: ReactIcon
+foreign import _mdOutlineCake :: ReactIcon
 
 mdOutlineCake :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineCake = element (unsafeCoerce mdOutlineCake_)
+mdOutlineCake = element (unsafeCoerce _mdOutlineCake)
 
-foreign import mdOutlineCalculate_ :: ReactIcon
+foreign import _mdOutlineCalculate :: ReactIcon
 
 mdOutlineCalculate :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineCalculate = element (unsafeCoerce mdOutlineCalculate_)
+mdOutlineCalculate = element (unsafeCoerce _mdOutlineCalculate)
 
-foreign import mdOutlineCalendarToday_ :: ReactIcon
+foreign import _mdOutlineCalendarToday :: ReactIcon
 
 mdOutlineCalendarToday :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineCalendarToday = element (unsafeCoerce mdOutlineCalendarToday_)
+mdOutlineCalendarToday = element (unsafeCoerce _mdOutlineCalendarToday)
 
-foreign import mdOutlineCalendarViewDay_ :: ReactIcon
+foreign import _mdOutlineCalendarViewDay :: ReactIcon
 
 mdOutlineCalendarViewDay :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineCalendarViewDay = element (unsafeCoerce mdOutlineCalendarViewDay_)
+mdOutlineCalendarViewDay = element (unsafeCoerce _mdOutlineCalendarViewDay)
 
-foreign import mdOutlineCalendarViewMonth_ :: ReactIcon
+foreign import _mdOutlineCalendarViewMonth :: ReactIcon
 
 mdOutlineCalendarViewMonth :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineCalendarViewMonth = element (unsafeCoerce mdOutlineCalendarViewMonth_)
+mdOutlineCalendarViewMonth = element (unsafeCoerce _mdOutlineCalendarViewMonth)
 
-foreign import mdOutlineCalendarViewWeek_ :: ReactIcon
+foreign import _mdOutlineCalendarViewWeek :: ReactIcon
 
 mdOutlineCalendarViewWeek :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineCalendarViewWeek = element (unsafeCoerce mdOutlineCalendarViewWeek_)
+mdOutlineCalendarViewWeek = element (unsafeCoerce _mdOutlineCalendarViewWeek)
 
-foreign import mdOutlineCall_ :: ReactIcon
+foreign import _mdOutlineCall :: ReactIcon
 
 mdOutlineCall :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineCall = element (unsafeCoerce mdOutlineCall_)
+mdOutlineCall = element (unsafeCoerce _mdOutlineCall)
 
-foreign import mdOutlineCallEnd_ :: ReactIcon
+foreign import _mdOutlineCallEnd :: ReactIcon
 
 mdOutlineCallEnd :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineCallEnd = element (unsafeCoerce mdOutlineCallEnd_)
+mdOutlineCallEnd = element (unsafeCoerce _mdOutlineCallEnd)
 
-foreign import mdOutlineCallMade_ :: ReactIcon
+foreign import _mdOutlineCallMade :: ReactIcon
 
 mdOutlineCallMade :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineCallMade = element (unsafeCoerce mdOutlineCallMade_)
+mdOutlineCallMade = element (unsafeCoerce _mdOutlineCallMade)
 
-foreign import mdOutlineCallMerge_ :: ReactIcon
+foreign import _mdOutlineCallMerge :: ReactIcon
 
 mdOutlineCallMerge :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineCallMerge = element (unsafeCoerce mdOutlineCallMerge_)
+mdOutlineCallMerge = element (unsafeCoerce _mdOutlineCallMerge)
 
-foreign import mdOutlineCallMissed_ :: ReactIcon
+foreign import _mdOutlineCallMissed :: ReactIcon
 
 mdOutlineCallMissed :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineCallMissed = element (unsafeCoerce mdOutlineCallMissed_)
+mdOutlineCallMissed = element (unsafeCoerce _mdOutlineCallMissed)
 
-foreign import mdOutlineCallMissedOutgoing_ :: ReactIcon
+foreign import _mdOutlineCallMissedOutgoing :: ReactIcon
 
 mdOutlineCallMissedOutgoing :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineCallMissedOutgoing = element (unsafeCoerce mdOutlineCallMissedOutgoing_)
+mdOutlineCallMissedOutgoing = element (unsafeCoerce _mdOutlineCallMissedOutgoing)
 
-foreign import mdOutlineCallReceived_ :: ReactIcon
+foreign import _mdOutlineCallReceived :: ReactIcon
 
 mdOutlineCallReceived :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineCallReceived = element (unsafeCoerce mdOutlineCallReceived_)
+mdOutlineCallReceived = element (unsafeCoerce _mdOutlineCallReceived)
 
-foreign import mdOutlineCallSplit_ :: ReactIcon
+foreign import _mdOutlineCallSplit :: ReactIcon
 
 mdOutlineCallSplit :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineCallSplit = element (unsafeCoerce mdOutlineCallSplit_)
+mdOutlineCallSplit = element (unsafeCoerce _mdOutlineCallSplit)
 
-foreign import mdOutlineCallToAction_ :: ReactIcon
+foreign import _mdOutlineCallToAction :: ReactIcon
 
 mdOutlineCallToAction :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineCallToAction = element (unsafeCoerce mdOutlineCallToAction_)
+mdOutlineCallToAction = element (unsafeCoerce _mdOutlineCallToAction)
 
-foreign import mdOutlineCamera_ :: ReactIcon
+foreign import _mdOutlineCamera :: ReactIcon
 
 mdOutlineCamera :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineCamera = element (unsafeCoerce mdOutlineCamera_)
+mdOutlineCamera = element (unsafeCoerce _mdOutlineCamera)
 
-foreign import mdOutlineCameraAlt_ :: ReactIcon
+foreign import _mdOutlineCameraAlt :: ReactIcon
 
 mdOutlineCameraAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineCameraAlt = element (unsafeCoerce mdOutlineCameraAlt_)
+mdOutlineCameraAlt = element (unsafeCoerce _mdOutlineCameraAlt)
 
-foreign import mdOutlineCameraEnhance_ :: ReactIcon
+foreign import _mdOutlineCameraEnhance :: ReactIcon
 
 mdOutlineCameraEnhance :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineCameraEnhance = element (unsafeCoerce mdOutlineCameraEnhance_)
+mdOutlineCameraEnhance = element (unsafeCoerce _mdOutlineCameraEnhance)
 
-foreign import mdOutlineCameraFront_ :: ReactIcon
+foreign import _mdOutlineCameraFront :: ReactIcon
 
 mdOutlineCameraFront :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineCameraFront = element (unsafeCoerce mdOutlineCameraFront_)
+mdOutlineCameraFront = element (unsafeCoerce _mdOutlineCameraFront)
 
-foreign import mdOutlineCameraIndoor_ :: ReactIcon
+foreign import _mdOutlineCameraIndoor :: ReactIcon
 
 mdOutlineCameraIndoor :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineCameraIndoor = element (unsafeCoerce mdOutlineCameraIndoor_)
+mdOutlineCameraIndoor = element (unsafeCoerce _mdOutlineCameraIndoor)
 
-foreign import mdOutlineCameraOutdoor_ :: ReactIcon
+foreign import _mdOutlineCameraOutdoor :: ReactIcon
 
 mdOutlineCameraOutdoor :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineCameraOutdoor = element (unsafeCoerce mdOutlineCameraOutdoor_)
+mdOutlineCameraOutdoor = element (unsafeCoerce _mdOutlineCameraOutdoor)
 
-foreign import mdOutlineCameraRear_ :: ReactIcon
+foreign import _mdOutlineCameraRear :: ReactIcon
 
 mdOutlineCameraRear :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineCameraRear = element (unsafeCoerce mdOutlineCameraRear_)
+mdOutlineCameraRear = element (unsafeCoerce _mdOutlineCameraRear)
 
-foreign import mdOutlineCameraRoll_ :: ReactIcon
+foreign import _mdOutlineCameraRoll :: ReactIcon
 
 mdOutlineCameraRoll :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineCameraRoll = element (unsafeCoerce mdOutlineCameraRoll_)
+mdOutlineCameraRoll = element (unsafeCoerce _mdOutlineCameraRoll)
 
-foreign import mdOutlineCameraswitch_ :: ReactIcon
+foreign import _mdOutlineCameraswitch :: ReactIcon
 
 mdOutlineCameraswitch :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineCameraswitch = element (unsafeCoerce mdOutlineCameraswitch_)
+mdOutlineCameraswitch = element (unsafeCoerce _mdOutlineCameraswitch)
 
-foreign import mdOutlineCampaign_ :: ReactIcon
+foreign import _mdOutlineCampaign :: ReactIcon
 
 mdOutlineCampaign :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineCampaign = element (unsafeCoerce mdOutlineCampaign_)
+mdOutlineCampaign = element (unsafeCoerce _mdOutlineCampaign)
 
-foreign import mdOutlineCancel_ :: ReactIcon
+foreign import _mdOutlineCancel :: ReactIcon
 
 mdOutlineCancel :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineCancel = element (unsafeCoerce mdOutlineCancel_)
+mdOutlineCancel = element (unsafeCoerce _mdOutlineCancel)
 
-foreign import mdOutlineCancelPresentation_ :: ReactIcon
+foreign import _mdOutlineCancelPresentation :: ReactIcon
 
 mdOutlineCancelPresentation :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineCancelPresentation = element (unsafeCoerce mdOutlineCancelPresentation_)
+mdOutlineCancelPresentation = element (unsafeCoerce _mdOutlineCancelPresentation)
 
-foreign import mdOutlineCancelScheduleSend_ :: ReactIcon
+foreign import _mdOutlineCancelScheduleSend :: ReactIcon
 
 mdOutlineCancelScheduleSend :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineCancelScheduleSend = element (unsafeCoerce mdOutlineCancelScheduleSend_)
+mdOutlineCancelScheduleSend = element (unsafeCoerce _mdOutlineCancelScheduleSend)
 
-foreign import mdOutlineCardGiftcard_ :: ReactIcon
+foreign import _mdOutlineCardGiftcard :: ReactIcon
 
 mdOutlineCardGiftcard :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineCardGiftcard = element (unsafeCoerce mdOutlineCardGiftcard_)
+mdOutlineCardGiftcard = element (unsafeCoerce _mdOutlineCardGiftcard)
 
-foreign import mdOutlineCardMembership_ :: ReactIcon
+foreign import _mdOutlineCardMembership :: ReactIcon
 
 mdOutlineCardMembership :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineCardMembership = element (unsafeCoerce mdOutlineCardMembership_)
+mdOutlineCardMembership = element (unsafeCoerce _mdOutlineCardMembership)
 
-foreign import mdOutlineCardTravel_ :: ReactIcon
+foreign import _mdOutlineCardTravel :: ReactIcon
 
 mdOutlineCardTravel :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineCardTravel = element (unsafeCoerce mdOutlineCardTravel_)
+mdOutlineCardTravel = element (unsafeCoerce _mdOutlineCardTravel)
 
-foreign import mdOutlineCarpenter_ :: ReactIcon
+foreign import _mdOutlineCarpenter :: ReactIcon
 
 mdOutlineCarpenter :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineCarpenter = element (unsafeCoerce mdOutlineCarpenter_)
+mdOutlineCarpenter = element (unsafeCoerce _mdOutlineCarpenter)
 
-foreign import mdOutlineCarRental_ :: ReactIcon
+foreign import _mdOutlineCarRental :: ReactIcon
 
 mdOutlineCarRental :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineCarRental = element (unsafeCoerce mdOutlineCarRental_)
+mdOutlineCarRental = element (unsafeCoerce _mdOutlineCarRental)
 
-foreign import mdOutlineCarRepair_ :: ReactIcon
+foreign import _mdOutlineCarRepair :: ReactIcon
 
 mdOutlineCarRepair :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineCarRepair = element (unsafeCoerce mdOutlineCarRepair_)
+mdOutlineCarRepair = element (unsafeCoerce _mdOutlineCarRepair)
 
-foreign import mdOutlineCases_ :: ReactIcon
+foreign import _mdOutlineCases :: ReactIcon
 
 mdOutlineCases :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineCases = element (unsafeCoerce mdOutlineCases_)
+mdOutlineCases = element (unsafeCoerce _mdOutlineCases)
 
-foreign import mdOutlineCasino_ :: ReactIcon
+foreign import _mdOutlineCasino :: ReactIcon
 
 mdOutlineCasino :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineCasino = element (unsafeCoerce mdOutlineCasino_)
+mdOutlineCasino = element (unsafeCoerce _mdOutlineCasino)
 
-foreign import mdOutlineCast_ :: ReactIcon
+foreign import _mdOutlineCast :: ReactIcon
 
 mdOutlineCast :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineCast = element (unsafeCoerce mdOutlineCast_)
+mdOutlineCast = element (unsafeCoerce _mdOutlineCast)
 
-foreign import mdOutlineCastConnected_ :: ReactIcon
+foreign import _mdOutlineCastConnected :: ReactIcon
 
 mdOutlineCastConnected :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineCastConnected = element (unsafeCoerce mdOutlineCastConnected_)
+mdOutlineCastConnected = element (unsafeCoerce _mdOutlineCastConnected)
 
-foreign import mdOutlineCastForEducation_ :: ReactIcon
+foreign import _mdOutlineCastForEducation :: ReactIcon
 
 mdOutlineCastForEducation :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineCastForEducation = element (unsafeCoerce mdOutlineCastForEducation_)
+mdOutlineCastForEducation = element (unsafeCoerce _mdOutlineCastForEducation)
 
-foreign import mdOutlineCatchingPokemon_ :: ReactIcon
+foreign import _mdOutlineCatchingPokemon :: ReactIcon
 
 mdOutlineCatchingPokemon :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineCatchingPokemon = element (unsafeCoerce mdOutlineCatchingPokemon_)
+mdOutlineCatchingPokemon = element (unsafeCoerce _mdOutlineCatchingPokemon)
 
-foreign import mdOutlineCategory_ :: ReactIcon
+foreign import _mdOutlineCategory :: ReactIcon
 
 mdOutlineCategory :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineCategory = element (unsafeCoerce mdOutlineCategory_)
+mdOutlineCategory = element (unsafeCoerce _mdOutlineCategory)
 
-foreign import mdOutlineCelebration_ :: ReactIcon
+foreign import _mdOutlineCelebration :: ReactIcon
 
 mdOutlineCelebration :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineCelebration = element (unsafeCoerce mdOutlineCelebration_)
+mdOutlineCelebration = element (unsafeCoerce _mdOutlineCelebration)
 
-foreign import mdOutlineCellWifi_ :: ReactIcon
+foreign import _mdOutlineCellWifi :: ReactIcon
 
 mdOutlineCellWifi :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineCellWifi = element (unsafeCoerce mdOutlineCellWifi_)
+mdOutlineCellWifi = element (unsafeCoerce _mdOutlineCellWifi)
 
-foreign import mdOutlineCenterFocusStrong_ :: ReactIcon
+foreign import _mdOutlineCenterFocusStrong :: ReactIcon
 
 mdOutlineCenterFocusStrong :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineCenterFocusStrong = element (unsafeCoerce mdOutlineCenterFocusStrong_)
+mdOutlineCenterFocusStrong = element (unsafeCoerce _mdOutlineCenterFocusStrong)
 
-foreign import mdOutlineCenterFocusWeak_ :: ReactIcon
+foreign import _mdOutlineCenterFocusWeak :: ReactIcon
 
 mdOutlineCenterFocusWeak :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineCenterFocusWeak = element (unsafeCoerce mdOutlineCenterFocusWeak_)
+mdOutlineCenterFocusWeak = element (unsafeCoerce _mdOutlineCenterFocusWeak)
 
-foreign import mdOutlineChair_ :: ReactIcon
+foreign import _mdOutlineChair :: ReactIcon
 
 mdOutlineChair :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineChair = element (unsafeCoerce mdOutlineChair_)
+mdOutlineChair = element (unsafeCoerce _mdOutlineChair)
 
-foreign import mdOutlineChairAlt_ :: ReactIcon
+foreign import _mdOutlineChairAlt :: ReactIcon
 
 mdOutlineChairAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineChairAlt = element (unsafeCoerce mdOutlineChairAlt_)
+mdOutlineChairAlt = element (unsafeCoerce _mdOutlineChairAlt)
 
-foreign import mdOutlineChalet_ :: ReactIcon
+foreign import _mdOutlineChalet :: ReactIcon
 
 mdOutlineChalet :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineChalet = element (unsafeCoerce mdOutlineChalet_)
+mdOutlineChalet = element (unsafeCoerce _mdOutlineChalet)
 
-foreign import mdOutlineChangeCircle_ :: ReactIcon
+foreign import _mdOutlineChangeCircle :: ReactIcon
 
 mdOutlineChangeCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineChangeCircle = element (unsafeCoerce mdOutlineChangeCircle_)
+mdOutlineChangeCircle = element (unsafeCoerce _mdOutlineChangeCircle)
 
-foreign import mdOutlineChangeHistory_ :: ReactIcon
+foreign import _mdOutlineChangeHistory :: ReactIcon
 
 mdOutlineChangeHistory :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineChangeHistory = element (unsafeCoerce mdOutlineChangeHistory_)
+mdOutlineChangeHistory = element (unsafeCoerce _mdOutlineChangeHistory)
 
-foreign import mdOutlineChargingStation_ :: ReactIcon
+foreign import _mdOutlineChargingStation :: ReactIcon
 
 mdOutlineChargingStation :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineChargingStation = element (unsafeCoerce mdOutlineChargingStation_)
+mdOutlineChargingStation = element (unsafeCoerce _mdOutlineChargingStation)
 
-foreign import mdOutlineChat_ :: ReactIcon
+foreign import _mdOutlineChat :: ReactIcon
 
 mdOutlineChat :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineChat = element (unsafeCoerce mdOutlineChat_)
+mdOutlineChat = element (unsafeCoerce _mdOutlineChat)
 
-foreign import mdOutlineChatBubble_ :: ReactIcon
+foreign import _mdOutlineChatBubble :: ReactIcon
 
 mdOutlineChatBubble :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineChatBubble = element (unsafeCoerce mdOutlineChatBubble_)
+mdOutlineChatBubble = element (unsafeCoerce _mdOutlineChatBubble)
 
-foreign import mdOutlineChatBubbleOutline_ :: ReactIcon
+foreign import _mdOutlineChatBubbleOutline :: ReactIcon
 
 mdOutlineChatBubbleOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineChatBubbleOutline = element (unsafeCoerce mdOutlineChatBubbleOutline_)
+mdOutlineChatBubbleOutline = element (unsafeCoerce _mdOutlineChatBubbleOutline)
 
-foreign import mdOutlineCheck_ :: ReactIcon
+foreign import _mdOutlineCheck :: ReactIcon
 
 mdOutlineCheck :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineCheck = element (unsafeCoerce mdOutlineCheck_)
+mdOutlineCheck = element (unsafeCoerce _mdOutlineCheck)
 
-foreign import mdOutlineCheckBox_ :: ReactIcon
+foreign import _mdOutlineCheckBox :: ReactIcon
 
 mdOutlineCheckBox :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineCheckBox = element (unsafeCoerce mdOutlineCheckBox_)
+mdOutlineCheckBox = element (unsafeCoerce _mdOutlineCheckBox)
 
-foreign import mdOutlineCheckBoxOutlineBlank_ :: ReactIcon
+foreign import _mdOutlineCheckBoxOutlineBlank :: ReactIcon
 
 mdOutlineCheckBoxOutlineBlank :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineCheckBoxOutlineBlank = element (unsafeCoerce mdOutlineCheckBoxOutlineBlank_)
+mdOutlineCheckBoxOutlineBlank = element (unsafeCoerce _mdOutlineCheckBoxOutlineBlank)
 
-foreign import mdOutlineCheckCircle_ :: ReactIcon
+foreign import _mdOutlineCheckCircle :: ReactIcon
 
 mdOutlineCheckCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineCheckCircle = element (unsafeCoerce mdOutlineCheckCircle_)
+mdOutlineCheckCircle = element (unsafeCoerce _mdOutlineCheckCircle)
 
-foreign import mdOutlineCheckCircleOutline_ :: ReactIcon
+foreign import _mdOutlineCheckCircleOutline :: ReactIcon
 
 mdOutlineCheckCircleOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineCheckCircleOutline = element (unsafeCoerce mdOutlineCheckCircleOutline_)
+mdOutlineCheckCircleOutline = element (unsafeCoerce _mdOutlineCheckCircleOutline)
 
-foreign import mdOutlineChecklist_ :: ReactIcon
+foreign import _mdOutlineChecklist :: ReactIcon
 
 mdOutlineChecklist :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineChecklist = element (unsafeCoerce mdOutlineChecklist_)
+mdOutlineChecklist = element (unsafeCoerce _mdOutlineChecklist)
 
-foreign import mdOutlineChecklistRtl_ :: ReactIcon
+foreign import _mdOutlineChecklistRtl :: ReactIcon
 
 mdOutlineChecklistRtl :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineChecklistRtl = element (unsafeCoerce mdOutlineChecklistRtl_)
+mdOutlineChecklistRtl = element (unsafeCoerce _mdOutlineChecklistRtl)
 
-foreign import mdOutlineCheckroom_ :: ReactIcon
+foreign import _mdOutlineCheckroom :: ReactIcon
 
 mdOutlineCheckroom :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineCheckroom = element (unsafeCoerce mdOutlineCheckroom_)
+mdOutlineCheckroom = element (unsafeCoerce _mdOutlineCheckroom)
 
-foreign import mdOutlineChevronLeft_ :: ReactIcon
+foreign import _mdOutlineChevronLeft :: ReactIcon
 
 mdOutlineChevronLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineChevronLeft = element (unsafeCoerce mdOutlineChevronLeft_)
+mdOutlineChevronLeft = element (unsafeCoerce _mdOutlineChevronLeft)
 
-foreign import mdOutlineChevronRight_ :: ReactIcon
+foreign import _mdOutlineChevronRight :: ReactIcon
 
 mdOutlineChevronRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineChevronRight = element (unsafeCoerce mdOutlineChevronRight_)
+mdOutlineChevronRight = element (unsafeCoerce _mdOutlineChevronRight)
 
-foreign import mdOutlineChildCare_ :: ReactIcon
+foreign import _mdOutlineChildCare :: ReactIcon
 
 mdOutlineChildCare :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineChildCare = element (unsafeCoerce mdOutlineChildCare_)
+mdOutlineChildCare = element (unsafeCoerce _mdOutlineChildCare)
 
-foreign import mdOutlineChildFriendly_ :: ReactIcon
+foreign import _mdOutlineChildFriendly :: ReactIcon
 
 mdOutlineChildFriendly :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineChildFriendly = element (unsafeCoerce mdOutlineChildFriendly_)
+mdOutlineChildFriendly = element (unsafeCoerce _mdOutlineChildFriendly)
 
-foreign import mdOutlineChromeReaderMode_ :: ReactIcon
+foreign import _mdOutlineChromeReaderMode :: ReactIcon
 
 mdOutlineChromeReaderMode :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineChromeReaderMode = element (unsafeCoerce mdOutlineChromeReaderMode_)
+mdOutlineChromeReaderMode = element (unsafeCoerce _mdOutlineChromeReaderMode)
 
-foreign import mdOutlineCircle_ :: ReactIcon
+foreign import _mdOutlineCircle :: ReactIcon
 
 mdOutlineCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineCircle = element (unsafeCoerce mdOutlineCircle_)
+mdOutlineCircle = element (unsafeCoerce _mdOutlineCircle)
 
-foreign import mdOutlineCircleNotifications_ :: ReactIcon
+foreign import _mdOutlineCircleNotifications :: ReactIcon
 
 mdOutlineCircleNotifications :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineCircleNotifications = element (unsafeCoerce mdOutlineCircleNotifications_)
+mdOutlineCircleNotifications = element (unsafeCoerce _mdOutlineCircleNotifications)
 
-foreign import mdOutlineClass_ :: ReactIcon
+foreign import _mdOutlineClass :: ReactIcon
 
 mdOutlineClass :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineClass = element (unsafeCoerce mdOutlineClass_)
+mdOutlineClass = element (unsafeCoerce _mdOutlineClass)
 
-foreign import mdOutlineCleanHands_ :: ReactIcon
+foreign import _mdOutlineCleanHands :: ReactIcon
 
 mdOutlineCleanHands :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineCleanHands = element (unsafeCoerce mdOutlineCleanHands_)
+mdOutlineCleanHands = element (unsafeCoerce _mdOutlineCleanHands)
 
-foreign import mdOutlineCleaningServices_ :: ReactIcon
+foreign import _mdOutlineCleaningServices :: ReactIcon
 
 mdOutlineCleaningServices :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineCleaningServices = element (unsafeCoerce mdOutlineCleaningServices_)
+mdOutlineCleaningServices = element (unsafeCoerce _mdOutlineCleaningServices)
 
-foreign import mdOutlineClear_ :: ReactIcon
+foreign import _mdOutlineClear :: ReactIcon
 
 mdOutlineClear :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineClear = element (unsafeCoerce mdOutlineClear_)
+mdOutlineClear = element (unsafeCoerce _mdOutlineClear)
 
-foreign import mdOutlineClearAll_ :: ReactIcon
+foreign import _mdOutlineClearAll :: ReactIcon
 
 mdOutlineClearAll :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineClearAll = element (unsafeCoerce mdOutlineClearAll_)
+mdOutlineClearAll = element (unsafeCoerce _mdOutlineClearAll)
 
-foreign import mdOutlineClose_ :: ReactIcon
+foreign import _mdOutlineClose :: ReactIcon
 
 mdOutlineClose :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineClose = element (unsafeCoerce mdOutlineClose_)
+mdOutlineClose = element (unsafeCoerce _mdOutlineClose)
 
-foreign import mdOutlineClosedCaption_ :: ReactIcon
+foreign import _mdOutlineClosedCaption :: ReactIcon
 
 mdOutlineClosedCaption :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineClosedCaption = element (unsafeCoerce mdOutlineClosedCaption_)
+mdOutlineClosedCaption = element (unsafeCoerce _mdOutlineClosedCaption)
 
-foreign import mdOutlineClosedCaptionDisabled_ :: ReactIcon
+foreign import _mdOutlineClosedCaptionDisabled :: ReactIcon
 
 mdOutlineClosedCaptionDisabled :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineClosedCaptionDisabled = element (unsafeCoerce mdOutlineClosedCaptionDisabled_)
+mdOutlineClosedCaptionDisabled = element (unsafeCoerce _mdOutlineClosedCaptionDisabled)
 
-foreign import mdOutlineClosedCaptionOff_ :: ReactIcon
+foreign import _mdOutlineClosedCaptionOff :: ReactIcon
 
 mdOutlineClosedCaptionOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineClosedCaptionOff = element (unsafeCoerce mdOutlineClosedCaptionOff_)
+mdOutlineClosedCaptionOff = element (unsafeCoerce _mdOutlineClosedCaptionOff)
 
-foreign import mdOutlineCloseFullscreen_ :: ReactIcon
+foreign import _mdOutlineCloseFullscreen :: ReactIcon
 
 mdOutlineCloseFullscreen :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineCloseFullscreen = element (unsafeCoerce mdOutlineCloseFullscreen_)
+mdOutlineCloseFullscreen = element (unsafeCoerce _mdOutlineCloseFullscreen)
 
-foreign import mdOutlineCloud_ :: ReactIcon
+foreign import _mdOutlineCloud :: ReactIcon
 
 mdOutlineCloud :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineCloud = element (unsafeCoerce mdOutlineCloud_)
+mdOutlineCloud = element (unsafeCoerce _mdOutlineCloud)
 
-foreign import mdOutlineCloudCircle_ :: ReactIcon
+foreign import _mdOutlineCloudCircle :: ReactIcon
 
 mdOutlineCloudCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineCloudCircle = element (unsafeCoerce mdOutlineCloudCircle_)
+mdOutlineCloudCircle = element (unsafeCoerce _mdOutlineCloudCircle)
 
-foreign import mdOutlineCloudDone_ :: ReactIcon
+foreign import _mdOutlineCloudDone :: ReactIcon
 
 mdOutlineCloudDone :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineCloudDone = element (unsafeCoerce mdOutlineCloudDone_)
+mdOutlineCloudDone = element (unsafeCoerce _mdOutlineCloudDone)
 
-foreign import mdOutlineCloudDownload_ :: ReactIcon
+foreign import _mdOutlineCloudDownload :: ReactIcon
 
 mdOutlineCloudDownload :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineCloudDownload = element (unsafeCoerce mdOutlineCloudDownload_)
+mdOutlineCloudDownload = element (unsafeCoerce _mdOutlineCloudDownload)
 
-foreign import mdOutlineCloudOff_ :: ReactIcon
+foreign import _mdOutlineCloudOff :: ReactIcon
 
 mdOutlineCloudOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineCloudOff = element (unsafeCoerce mdOutlineCloudOff_)
+mdOutlineCloudOff = element (unsafeCoerce _mdOutlineCloudOff)
 
-foreign import mdOutlineCloudQueue_ :: ReactIcon
+foreign import _mdOutlineCloudQueue :: ReactIcon
 
 mdOutlineCloudQueue :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineCloudQueue = element (unsafeCoerce mdOutlineCloudQueue_)
+mdOutlineCloudQueue = element (unsafeCoerce _mdOutlineCloudQueue)
 
-foreign import mdOutlineCloudUpload_ :: ReactIcon
+foreign import _mdOutlineCloudUpload :: ReactIcon
 
 mdOutlineCloudUpload :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineCloudUpload = element (unsafeCoerce mdOutlineCloudUpload_)
+mdOutlineCloudUpload = element (unsafeCoerce _mdOutlineCloudUpload)
 
-foreign import mdOutlineCode_ :: ReactIcon
+foreign import _mdOutlineCode :: ReactIcon
 
 mdOutlineCode :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineCode = element (unsafeCoerce mdOutlineCode_)
+mdOutlineCode = element (unsafeCoerce _mdOutlineCode)
 
-foreign import mdOutlineCodeOff_ :: ReactIcon
+foreign import _mdOutlineCodeOff :: ReactIcon
 
 mdOutlineCodeOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineCodeOff = element (unsafeCoerce mdOutlineCodeOff_)
+mdOutlineCodeOff = element (unsafeCoerce _mdOutlineCodeOff)
 
-foreign import mdOutlineCoffee_ :: ReactIcon
+foreign import _mdOutlineCoffee :: ReactIcon
 
 mdOutlineCoffee :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineCoffee = element (unsafeCoerce mdOutlineCoffee_)
+mdOutlineCoffee = element (unsafeCoerce _mdOutlineCoffee)
 
-foreign import mdOutlineCoffeeMaker_ :: ReactIcon
+foreign import _mdOutlineCoffeeMaker :: ReactIcon
 
 mdOutlineCoffeeMaker :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineCoffeeMaker = element (unsafeCoerce mdOutlineCoffeeMaker_)
+mdOutlineCoffeeMaker = element (unsafeCoerce _mdOutlineCoffeeMaker)
 
-foreign import mdOutlineCollections_ :: ReactIcon
+foreign import _mdOutlineCollections :: ReactIcon
 
 mdOutlineCollections :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineCollections = element (unsafeCoerce mdOutlineCollections_)
+mdOutlineCollections = element (unsafeCoerce _mdOutlineCollections)
 
-foreign import mdOutlineCollectionsBookmark_ :: ReactIcon
+foreign import _mdOutlineCollectionsBookmark :: ReactIcon
 
 mdOutlineCollectionsBookmark :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineCollectionsBookmark = element (unsafeCoerce mdOutlineCollectionsBookmark_)
+mdOutlineCollectionsBookmark = element (unsafeCoerce _mdOutlineCollectionsBookmark)
 
-foreign import mdOutlineColorize_ :: ReactIcon
+foreign import _mdOutlineColorize :: ReactIcon
 
 mdOutlineColorize :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineColorize = element (unsafeCoerce mdOutlineColorize_)
+mdOutlineColorize = element (unsafeCoerce _mdOutlineColorize)
 
-foreign import mdOutlineColorLens_ :: ReactIcon
+foreign import _mdOutlineColorLens :: ReactIcon
 
 mdOutlineColorLens :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineColorLens = element (unsafeCoerce mdOutlineColorLens_)
+mdOutlineColorLens = element (unsafeCoerce _mdOutlineColorLens)
 
-foreign import mdOutlineComment_ :: ReactIcon
+foreign import _mdOutlineComment :: ReactIcon
 
 mdOutlineComment :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineComment = element (unsafeCoerce mdOutlineComment_)
+mdOutlineComment = element (unsafeCoerce _mdOutlineComment)
 
-foreign import mdOutlineCommentBank_ :: ReactIcon
+foreign import _mdOutlineCommentBank :: ReactIcon
 
 mdOutlineCommentBank :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineCommentBank = element (unsafeCoerce mdOutlineCommentBank_)
+mdOutlineCommentBank = element (unsafeCoerce _mdOutlineCommentBank)
 
-foreign import mdOutlineCommute_ :: ReactIcon
+foreign import _mdOutlineCommute :: ReactIcon
 
 mdOutlineCommute :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineCommute = element (unsafeCoerce mdOutlineCommute_)
+mdOutlineCommute = element (unsafeCoerce _mdOutlineCommute)
 
-foreign import mdOutlineCompare_ :: ReactIcon
+foreign import _mdOutlineCompare :: ReactIcon
 
 mdOutlineCompare :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineCompare = element (unsafeCoerce mdOutlineCompare_)
+mdOutlineCompare = element (unsafeCoerce _mdOutlineCompare)
 
-foreign import mdOutlineCompareArrows_ :: ReactIcon
+foreign import _mdOutlineCompareArrows :: ReactIcon
 
 mdOutlineCompareArrows :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineCompareArrows = element (unsafeCoerce mdOutlineCompareArrows_)
+mdOutlineCompareArrows = element (unsafeCoerce _mdOutlineCompareArrows)
 
-foreign import mdOutlineCompassCalibration_ :: ReactIcon
+foreign import _mdOutlineCompassCalibration :: ReactIcon
 
 mdOutlineCompassCalibration :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineCompassCalibration = element (unsafeCoerce mdOutlineCompassCalibration_)
+mdOutlineCompassCalibration = element (unsafeCoerce _mdOutlineCompassCalibration)
 
-foreign import mdOutlineCompost_ :: ReactIcon
+foreign import _mdOutlineCompost :: ReactIcon
 
 mdOutlineCompost :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineCompost = element (unsafeCoerce mdOutlineCompost_)
+mdOutlineCompost = element (unsafeCoerce _mdOutlineCompost)
 
-foreign import mdOutlineCompress_ :: ReactIcon
+foreign import _mdOutlineCompress :: ReactIcon
 
 mdOutlineCompress :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineCompress = element (unsafeCoerce mdOutlineCompress_)
+mdOutlineCompress = element (unsafeCoerce _mdOutlineCompress)
 
-foreign import mdOutlineComputer_ :: ReactIcon
+foreign import _mdOutlineComputer :: ReactIcon
 
 mdOutlineComputer :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineComputer = element (unsafeCoerce mdOutlineComputer_)
+mdOutlineComputer = element (unsafeCoerce _mdOutlineComputer)
 
-foreign import mdOutlineConfirmationNumber_ :: ReactIcon
+foreign import _mdOutlineConfirmationNumber :: ReactIcon
 
 mdOutlineConfirmationNumber :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineConfirmationNumber = element (unsafeCoerce mdOutlineConfirmationNumber_)
+mdOutlineConfirmationNumber = element (unsafeCoerce _mdOutlineConfirmationNumber)
 
-foreign import mdOutlineConnectedTv_ :: ReactIcon
+foreign import _mdOutlineConnectedTv :: ReactIcon
 
 mdOutlineConnectedTv :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineConnectedTv = element (unsafeCoerce mdOutlineConnectedTv_)
+mdOutlineConnectedTv = element (unsafeCoerce _mdOutlineConnectedTv)
 
-foreign import mdOutlineConnectWithoutContact_ :: ReactIcon
+foreign import _mdOutlineConnectWithoutContact :: ReactIcon
 
 mdOutlineConnectWithoutContact :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineConnectWithoutContact = element (unsafeCoerce mdOutlineConnectWithoutContact_)
+mdOutlineConnectWithoutContact = element (unsafeCoerce _mdOutlineConnectWithoutContact)
 
-foreign import mdOutlineConstruction_ :: ReactIcon
+foreign import _mdOutlineConstruction :: ReactIcon
 
 mdOutlineConstruction :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineConstruction = element (unsafeCoerce mdOutlineConstruction_)
+mdOutlineConstruction = element (unsafeCoerce _mdOutlineConstruction)
 
-foreign import mdOutlineContactless_ :: ReactIcon
+foreign import _mdOutlineContactless :: ReactIcon
 
 mdOutlineContactless :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineContactless = element (unsafeCoerce mdOutlineContactless_)
+mdOutlineContactless = element (unsafeCoerce _mdOutlineContactless)
 
-foreign import mdOutlineContactMail_ :: ReactIcon
+foreign import _mdOutlineContactMail :: ReactIcon
 
 mdOutlineContactMail :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineContactMail = element (unsafeCoerce mdOutlineContactMail_)
+mdOutlineContactMail = element (unsafeCoerce _mdOutlineContactMail)
 
-foreign import mdOutlineContactPage_ :: ReactIcon
+foreign import _mdOutlineContactPage :: ReactIcon
 
 mdOutlineContactPage :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineContactPage = element (unsafeCoerce mdOutlineContactPage_)
+mdOutlineContactPage = element (unsafeCoerce _mdOutlineContactPage)
 
-foreign import mdOutlineContactPhone_ :: ReactIcon
+foreign import _mdOutlineContactPhone :: ReactIcon
 
 mdOutlineContactPhone :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineContactPhone = element (unsafeCoerce mdOutlineContactPhone_)
+mdOutlineContactPhone = element (unsafeCoerce _mdOutlineContactPhone)
 
-foreign import mdOutlineContacts_ :: ReactIcon
+foreign import _mdOutlineContacts :: ReactIcon
 
 mdOutlineContacts :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineContacts = element (unsafeCoerce mdOutlineContacts_)
+mdOutlineContacts = element (unsafeCoerce _mdOutlineContacts)
 
-foreign import mdOutlineContactSupport_ :: ReactIcon
+foreign import _mdOutlineContactSupport :: ReactIcon
 
 mdOutlineContactSupport :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineContactSupport = element (unsafeCoerce mdOutlineContactSupport_)
+mdOutlineContactSupport = element (unsafeCoerce _mdOutlineContactSupport)
 
-foreign import mdOutlineContentCopy_ :: ReactIcon
+foreign import _mdOutlineContentCopy :: ReactIcon
 
 mdOutlineContentCopy :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineContentCopy = element (unsafeCoerce mdOutlineContentCopy_)
+mdOutlineContentCopy = element (unsafeCoerce _mdOutlineContentCopy)
 
-foreign import mdOutlineContentCut_ :: ReactIcon
+foreign import _mdOutlineContentCut :: ReactIcon
 
 mdOutlineContentCut :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineContentCut = element (unsafeCoerce mdOutlineContentCut_)
+mdOutlineContentCut = element (unsafeCoerce _mdOutlineContentCut)
 
-foreign import mdOutlineContentPaste_ :: ReactIcon
+foreign import _mdOutlineContentPaste :: ReactIcon
 
 mdOutlineContentPaste :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineContentPaste = element (unsafeCoerce mdOutlineContentPaste_)
+mdOutlineContentPaste = element (unsafeCoerce _mdOutlineContentPaste)
 
-foreign import mdOutlineContentPasteOff_ :: ReactIcon
+foreign import _mdOutlineContentPasteOff :: ReactIcon
 
 mdOutlineContentPasteOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineContentPasteOff = element (unsafeCoerce mdOutlineContentPasteOff_)
+mdOutlineContentPasteOff = element (unsafeCoerce _mdOutlineContentPasteOff)
 
-foreign import mdOutlineControlCamera_ :: ReactIcon
+foreign import _mdOutlineControlCamera :: ReactIcon
 
 mdOutlineControlCamera :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineControlCamera = element (unsafeCoerce mdOutlineControlCamera_)
+mdOutlineControlCamera = element (unsafeCoerce _mdOutlineControlCamera)
 
-foreign import mdOutlineControlPoint_ :: ReactIcon
+foreign import _mdOutlineControlPoint :: ReactIcon
 
 mdOutlineControlPoint :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineControlPoint = element (unsafeCoerce mdOutlineControlPoint_)
+mdOutlineControlPoint = element (unsafeCoerce _mdOutlineControlPoint)
 
-foreign import mdOutlineControlPointDuplicate_ :: ReactIcon
+foreign import _mdOutlineControlPointDuplicate :: ReactIcon
 
 mdOutlineControlPointDuplicate :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineControlPointDuplicate = element (unsafeCoerce mdOutlineControlPointDuplicate_)
+mdOutlineControlPointDuplicate = element (unsafeCoerce _mdOutlineControlPointDuplicate)
 
-foreign import mdOutlineCopyAll_ :: ReactIcon
+foreign import _mdOutlineCopyAll :: ReactIcon
 
 mdOutlineCopyAll :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineCopyAll = element (unsafeCoerce mdOutlineCopyAll_)
+mdOutlineCopyAll = element (unsafeCoerce _mdOutlineCopyAll)
 
-foreign import mdOutlineCopyright_ :: ReactIcon
+foreign import _mdOutlineCopyright :: ReactIcon
 
 mdOutlineCopyright :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineCopyright = element (unsafeCoerce mdOutlineCopyright_)
+mdOutlineCopyright = element (unsafeCoerce _mdOutlineCopyright)
 
-foreign import mdOutlineCoronavirus_ :: ReactIcon
+foreign import _mdOutlineCoronavirus :: ReactIcon
 
 mdOutlineCoronavirus :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineCoronavirus = element (unsafeCoerce mdOutlineCoronavirus_)
+mdOutlineCoronavirus = element (unsafeCoerce _mdOutlineCoronavirus)
 
-foreign import mdOutlineCorporateFare_ :: ReactIcon
+foreign import _mdOutlineCorporateFare :: ReactIcon
 
 mdOutlineCorporateFare :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineCorporateFare = element (unsafeCoerce mdOutlineCorporateFare_)
+mdOutlineCorporateFare = element (unsafeCoerce _mdOutlineCorporateFare)
 
-foreign import mdOutlineCottage_ :: ReactIcon
+foreign import _mdOutlineCottage :: ReactIcon
 
 mdOutlineCottage :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineCottage = element (unsafeCoerce mdOutlineCottage_)
+mdOutlineCottage = element (unsafeCoerce _mdOutlineCottage)
 
-foreign import mdOutlineCountertops_ :: ReactIcon
+foreign import _mdOutlineCountertops :: ReactIcon
 
 mdOutlineCountertops :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineCountertops = element (unsafeCoerce mdOutlineCountertops_)
+mdOutlineCountertops = element (unsafeCoerce _mdOutlineCountertops)
 
-foreign import mdOutlineCreate_ :: ReactIcon
+foreign import _mdOutlineCreate :: ReactIcon
 
 mdOutlineCreate :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineCreate = element (unsafeCoerce mdOutlineCreate_)
+mdOutlineCreate = element (unsafeCoerce _mdOutlineCreate)
 
-foreign import mdOutlineCreateNewFolder_ :: ReactIcon
+foreign import _mdOutlineCreateNewFolder :: ReactIcon
 
 mdOutlineCreateNewFolder :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineCreateNewFolder = element (unsafeCoerce mdOutlineCreateNewFolder_)
+mdOutlineCreateNewFolder = element (unsafeCoerce _mdOutlineCreateNewFolder)
 
-foreign import mdOutlineCreditCard_ :: ReactIcon
+foreign import _mdOutlineCreditCard :: ReactIcon
 
 mdOutlineCreditCard :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineCreditCard = element (unsafeCoerce mdOutlineCreditCard_)
+mdOutlineCreditCard = element (unsafeCoerce _mdOutlineCreditCard)
 
-foreign import mdOutlineCreditCardOff_ :: ReactIcon
+foreign import _mdOutlineCreditCardOff :: ReactIcon
 
 mdOutlineCreditCardOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineCreditCardOff = element (unsafeCoerce mdOutlineCreditCardOff_)
+mdOutlineCreditCardOff = element (unsafeCoerce _mdOutlineCreditCardOff)
 
-foreign import mdOutlineCreditScore_ :: ReactIcon
+foreign import _mdOutlineCreditScore :: ReactIcon
 
 mdOutlineCreditScore :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineCreditScore = element (unsafeCoerce mdOutlineCreditScore_)
+mdOutlineCreditScore = element (unsafeCoerce _mdOutlineCreditScore)
 
-foreign import mdOutlineCrib_ :: ReactIcon
+foreign import _mdOutlineCrib :: ReactIcon
 
 mdOutlineCrib :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineCrib = element (unsafeCoerce mdOutlineCrib_)
+mdOutlineCrib = element (unsafeCoerce _mdOutlineCrib)
 
-foreign import mdOutlineCrop_ :: ReactIcon
+foreign import _mdOutlineCrop :: ReactIcon
 
 mdOutlineCrop :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineCrop = element (unsafeCoerce mdOutlineCrop_)
+mdOutlineCrop = element (unsafeCoerce _mdOutlineCrop)
 
-foreign import mdOutlineCropDin_ :: ReactIcon
+foreign import _mdOutlineCropDin :: ReactIcon
 
 mdOutlineCropDin :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineCropDin = element (unsafeCoerce mdOutlineCropDin_)
+mdOutlineCropDin = element (unsafeCoerce _mdOutlineCropDin)
 
-foreign import mdOutlineCropFree_ :: ReactIcon
+foreign import _mdOutlineCropFree :: ReactIcon
 
 mdOutlineCropFree :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineCropFree = element (unsafeCoerce mdOutlineCropFree_)
+mdOutlineCropFree = element (unsafeCoerce _mdOutlineCropFree)
 
-foreign import mdOutlineCropLandscape_ :: ReactIcon
+foreign import _mdOutlineCropLandscape :: ReactIcon
 
 mdOutlineCropLandscape :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineCropLandscape = element (unsafeCoerce mdOutlineCropLandscape_)
+mdOutlineCropLandscape = element (unsafeCoerce _mdOutlineCropLandscape)
 
-foreign import mdOutlineCropOriginal_ :: ReactIcon
+foreign import _mdOutlineCropOriginal :: ReactIcon
 
 mdOutlineCropOriginal :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineCropOriginal = element (unsafeCoerce mdOutlineCropOriginal_)
+mdOutlineCropOriginal = element (unsafeCoerce _mdOutlineCropOriginal)
 
-foreign import mdOutlineCropPortrait_ :: ReactIcon
+foreign import _mdOutlineCropPortrait :: ReactIcon
 
 mdOutlineCropPortrait :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineCropPortrait = element (unsafeCoerce mdOutlineCropPortrait_)
+mdOutlineCropPortrait = element (unsafeCoerce _mdOutlineCropPortrait)
 
-foreign import mdOutlineCropRotate_ :: ReactIcon
+foreign import _mdOutlineCropRotate :: ReactIcon
 
 mdOutlineCropRotate :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineCropRotate = element (unsafeCoerce mdOutlineCropRotate_)
+mdOutlineCropRotate = element (unsafeCoerce _mdOutlineCropRotate)
 
-foreign import mdOutlineCropSquare_ :: ReactIcon
+foreign import _mdOutlineCropSquare :: ReactIcon
 
 mdOutlineCropSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineCropSquare = element (unsafeCoerce mdOutlineCropSquare_)
+mdOutlineCropSquare = element (unsafeCoerce _mdOutlineCropSquare)
 
-foreign import mdOutlineCrueltyFree_ :: ReactIcon
+foreign import _mdOutlineCrueltyFree :: ReactIcon
 
 mdOutlineCrueltyFree :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineCrueltyFree = element (unsafeCoerce mdOutlineCrueltyFree_)
+mdOutlineCrueltyFree = element (unsafeCoerce _mdOutlineCrueltyFree)
 
-foreign import mdOutlineDangerous_ :: ReactIcon
+foreign import _mdOutlineDangerous :: ReactIcon
 
 mdOutlineDangerous :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineDangerous = element (unsafeCoerce mdOutlineDangerous_)
+mdOutlineDangerous = element (unsafeCoerce _mdOutlineDangerous)
 
-foreign import mdOutlineDarkMode_ :: ReactIcon
+foreign import _mdOutlineDarkMode :: ReactIcon
 
 mdOutlineDarkMode :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineDarkMode = element (unsafeCoerce mdOutlineDarkMode_)
+mdOutlineDarkMode = element (unsafeCoerce _mdOutlineDarkMode)
 
-foreign import mdOutlineDashboard_ :: ReactIcon
+foreign import _mdOutlineDashboard :: ReactIcon
 
 mdOutlineDashboard :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineDashboard = element (unsafeCoerce mdOutlineDashboard_)
+mdOutlineDashboard = element (unsafeCoerce _mdOutlineDashboard)
 
-foreign import mdOutlineDashboardCustomize_ :: ReactIcon
+foreign import _mdOutlineDashboardCustomize :: ReactIcon
 
 mdOutlineDashboardCustomize :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineDashboardCustomize = element (unsafeCoerce mdOutlineDashboardCustomize_)
+mdOutlineDashboardCustomize = element (unsafeCoerce _mdOutlineDashboardCustomize)
 
-foreign import mdOutlineDataExploration_ :: ReactIcon
+foreign import _mdOutlineDataExploration :: ReactIcon
 
 mdOutlineDataExploration :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineDataExploration = element (unsafeCoerce mdOutlineDataExploration_)
+mdOutlineDataExploration = element (unsafeCoerce _mdOutlineDataExploration)
 
-foreign import mdOutlineDataSaverOff_ :: ReactIcon
+foreign import _mdOutlineDataSaverOff :: ReactIcon
 
 mdOutlineDataSaverOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineDataSaverOff = element (unsafeCoerce mdOutlineDataSaverOff_)
+mdOutlineDataSaverOff = element (unsafeCoerce _mdOutlineDataSaverOff)
 
-foreign import mdOutlineDataSaverOn_ :: ReactIcon
+foreign import _mdOutlineDataSaverOn :: ReactIcon
 
 mdOutlineDataSaverOn :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineDataSaverOn = element (unsafeCoerce mdOutlineDataSaverOn_)
+mdOutlineDataSaverOn = element (unsafeCoerce _mdOutlineDataSaverOn)
 
-foreign import mdOutlineDataUsage_ :: ReactIcon
+foreign import _mdOutlineDataUsage :: ReactIcon
 
 mdOutlineDataUsage :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineDataUsage = element (unsafeCoerce mdOutlineDataUsage_)
+mdOutlineDataUsage = element (unsafeCoerce _mdOutlineDataUsage)
 
-foreign import mdOutlineDateRange_ :: ReactIcon
+foreign import _mdOutlineDateRange :: ReactIcon
 
 mdOutlineDateRange :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineDateRange = element (unsafeCoerce mdOutlineDateRange_)
+mdOutlineDateRange = element (unsafeCoerce _mdOutlineDateRange)
 
-foreign import mdOutlineDeck_ :: ReactIcon
+foreign import _mdOutlineDeck :: ReactIcon
 
 mdOutlineDeck :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineDeck = element (unsafeCoerce mdOutlineDeck_)
+mdOutlineDeck = element (unsafeCoerce _mdOutlineDeck)
 
-foreign import mdOutlineDehaze_ :: ReactIcon
+foreign import _mdOutlineDehaze :: ReactIcon
 
 mdOutlineDehaze :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineDehaze = element (unsafeCoerce mdOutlineDehaze_)
+mdOutlineDehaze = element (unsafeCoerce _mdOutlineDehaze)
 
-foreign import mdOutlineDelete_ :: ReactIcon
+foreign import _mdOutlineDelete :: ReactIcon
 
 mdOutlineDelete :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineDelete = element (unsafeCoerce mdOutlineDelete_)
+mdOutlineDelete = element (unsafeCoerce _mdOutlineDelete)
 
-foreign import mdOutlineDeleteForever_ :: ReactIcon
+foreign import _mdOutlineDeleteForever :: ReactIcon
 
 mdOutlineDeleteForever :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineDeleteForever = element (unsafeCoerce mdOutlineDeleteForever_)
+mdOutlineDeleteForever = element (unsafeCoerce _mdOutlineDeleteForever)
 
-foreign import mdOutlineDeleteOutline_ :: ReactIcon
+foreign import _mdOutlineDeleteOutline :: ReactIcon
 
 mdOutlineDeleteOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineDeleteOutline = element (unsafeCoerce mdOutlineDeleteOutline_)
+mdOutlineDeleteOutline = element (unsafeCoerce _mdOutlineDeleteOutline)
 
-foreign import mdOutlineDeleteSweep_ :: ReactIcon
+foreign import _mdOutlineDeleteSweep :: ReactIcon
 
 mdOutlineDeleteSweep :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineDeleteSweep = element (unsafeCoerce mdOutlineDeleteSweep_)
+mdOutlineDeleteSweep = element (unsafeCoerce _mdOutlineDeleteSweep)
 
-foreign import mdOutlineDeliveryDining_ :: ReactIcon
+foreign import _mdOutlineDeliveryDining :: ReactIcon
 
 mdOutlineDeliveryDining :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineDeliveryDining = element (unsafeCoerce mdOutlineDeliveryDining_)
+mdOutlineDeliveryDining = element (unsafeCoerce _mdOutlineDeliveryDining)
 
-foreign import mdOutlineDepartureBoard_ :: ReactIcon
+foreign import _mdOutlineDepartureBoard :: ReactIcon
 
 mdOutlineDepartureBoard :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineDepartureBoard = element (unsafeCoerce mdOutlineDepartureBoard_)
+mdOutlineDepartureBoard = element (unsafeCoerce _mdOutlineDepartureBoard)
 
-foreign import mdOutlineDescription_ :: ReactIcon
+foreign import _mdOutlineDescription :: ReactIcon
 
 mdOutlineDescription :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineDescription = element (unsafeCoerce mdOutlineDescription_)
+mdOutlineDescription = element (unsafeCoerce _mdOutlineDescription)
 
-foreign import mdOutlineDesignServices_ :: ReactIcon
+foreign import _mdOutlineDesignServices :: ReactIcon
 
 mdOutlineDesignServices :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineDesignServices = element (unsafeCoerce mdOutlineDesignServices_)
+mdOutlineDesignServices = element (unsafeCoerce _mdOutlineDesignServices)
 
-foreign import mdOutlineDesktopAccessDisabled_ :: ReactIcon
+foreign import _mdOutlineDesktopAccessDisabled :: ReactIcon
 
 mdOutlineDesktopAccessDisabled :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineDesktopAccessDisabled = element (unsafeCoerce mdOutlineDesktopAccessDisabled_)
+mdOutlineDesktopAccessDisabled = element (unsafeCoerce _mdOutlineDesktopAccessDisabled)
 
-foreign import mdOutlineDesktopMac_ :: ReactIcon
+foreign import _mdOutlineDesktopMac :: ReactIcon
 
 mdOutlineDesktopMac :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineDesktopMac = element (unsafeCoerce mdOutlineDesktopMac_)
+mdOutlineDesktopMac = element (unsafeCoerce _mdOutlineDesktopMac)
 
-foreign import mdOutlineDesktopWindows_ :: ReactIcon
+foreign import _mdOutlineDesktopWindows :: ReactIcon
 
 mdOutlineDesktopWindows :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineDesktopWindows = element (unsafeCoerce mdOutlineDesktopWindows_)
+mdOutlineDesktopWindows = element (unsafeCoerce _mdOutlineDesktopWindows)
 
-foreign import mdOutlineDetails_ :: ReactIcon
+foreign import _mdOutlineDetails :: ReactIcon
 
 mdOutlineDetails :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineDetails = element (unsafeCoerce mdOutlineDetails_)
+mdOutlineDetails = element (unsafeCoerce _mdOutlineDetails)
 
-foreign import mdOutlineDeveloperBoard_ :: ReactIcon
+foreign import _mdOutlineDeveloperBoard :: ReactIcon
 
 mdOutlineDeveloperBoard :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineDeveloperBoard = element (unsafeCoerce mdOutlineDeveloperBoard_)
+mdOutlineDeveloperBoard = element (unsafeCoerce _mdOutlineDeveloperBoard)
 
-foreign import mdOutlineDeveloperBoardOff_ :: ReactIcon
+foreign import _mdOutlineDeveloperBoardOff :: ReactIcon
 
 mdOutlineDeveloperBoardOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineDeveloperBoardOff = element (unsafeCoerce mdOutlineDeveloperBoardOff_)
+mdOutlineDeveloperBoardOff = element (unsafeCoerce _mdOutlineDeveloperBoardOff)
 
-foreign import mdOutlineDeveloperMode_ :: ReactIcon
+foreign import _mdOutlineDeveloperMode :: ReactIcon
 
 mdOutlineDeveloperMode :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineDeveloperMode = element (unsafeCoerce mdOutlineDeveloperMode_)
+mdOutlineDeveloperMode = element (unsafeCoerce _mdOutlineDeveloperMode)
 
-foreign import mdOutlineDeviceHub_ :: ReactIcon
+foreign import _mdOutlineDeviceHub :: ReactIcon
 
 mdOutlineDeviceHub :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineDeviceHub = element (unsafeCoerce mdOutlineDeviceHub_)
+mdOutlineDeviceHub = element (unsafeCoerce _mdOutlineDeviceHub)
 
-foreign import mdOutlineDevices_ :: ReactIcon
+foreign import _mdOutlineDevices :: ReactIcon
 
 mdOutlineDevices :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineDevices = element (unsafeCoerce mdOutlineDevices_)
+mdOutlineDevices = element (unsafeCoerce _mdOutlineDevices)
 
-foreign import mdOutlineDevicesOther_ :: ReactIcon
+foreign import _mdOutlineDevicesOther :: ReactIcon
 
 mdOutlineDevicesOther :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineDevicesOther = element (unsafeCoerce mdOutlineDevicesOther_)
+mdOutlineDevicesOther = element (unsafeCoerce _mdOutlineDevicesOther)
 
-foreign import mdOutlineDeviceThermostat_ :: ReactIcon
+foreign import _mdOutlineDeviceThermostat :: ReactIcon
 
 mdOutlineDeviceThermostat :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineDeviceThermostat = element (unsafeCoerce mdOutlineDeviceThermostat_)
+mdOutlineDeviceThermostat = element (unsafeCoerce _mdOutlineDeviceThermostat)
 
-foreign import mdOutlineDeviceUnknown_ :: ReactIcon
+foreign import _mdOutlineDeviceUnknown :: ReactIcon
 
 mdOutlineDeviceUnknown :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineDeviceUnknown = element (unsafeCoerce mdOutlineDeviceUnknown_)
+mdOutlineDeviceUnknown = element (unsafeCoerce _mdOutlineDeviceUnknown)
 
-foreign import mdOutlinedFlag_ :: ReactIcon
+foreign import _mdOutlinedFlag :: ReactIcon
 
 mdOutlinedFlag :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinedFlag = element (unsafeCoerce mdOutlinedFlag_)
+mdOutlinedFlag = element (unsafeCoerce _mdOutlinedFlag)
 
-foreign import mdOutlineDialerSip_ :: ReactIcon
+foreign import _mdOutlineDialerSip :: ReactIcon
 
 mdOutlineDialerSip :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineDialerSip = element (unsafeCoerce mdOutlineDialerSip_)
+mdOutlineDialerSip = element (unsafeCoerce _mdOutlineDialerSip)
 
-foreign import mdOutlineDialpad_ :: ReactIcon
+foreign import _mdOutlineDialpad :: ReactIcon
 
 mdOutlineDialpad :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineDialpad = element (unsafeCoerce mdOutlineDialpad_)
+mdOutlineDialpad = element (unsafeCoerce _mdOutlineDialpad)
 
-foreign import mdOutlineDining_ :: ReactIcon
+foreign import _mdOutlineDining :: ReactIcon
 
 mdOutlineDining :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineDining = element (unsafeCoerce mdOutlineDining_)
+mdOutlineDining = element (unsafeCoerce _mdOutlineDining)
 
-foreign import mdOutlineDinnerDining_ :: ReactIcon
+foreign import _mdOutlineDinnerDining :: ReactIcon
 
 mdOutlineDinnerDining :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineDinnerDining = element (unsafeCoerce mdOutlineDinnerDining_)
+mdOutlineDinnerDining = element (unsafeCoerce _mdOutlineDinnerDining)
 
-foreign import mdOutlineDirections_ :: ReactIcon
+foreign import _mdOutlineDirections :: ReactIcon
 
 mdOutlineDirections :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineDirections = element (unsafeCoerce mdOutlineDirections_)
+mdOutlineDirections = element (unsafeCoerce _mdOutlineDirections)
 
-foreign import mdOutlineDirectionsBike_ :: ReactIcon
+foreign import _mdOutlineDirectionsBike :: ReactIcon
 
 mdOutlineDirectionsBike :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineDirectionsBike = element (unsafeCoerce mdOutlineDirectionsBike_)
+mdOutlineDirectionsBike = element (unsafeCoerce _mdOutlineDirectionsBike)
 
-foreign import mdOutlineDirectionsBoat_ :: ReactIcon
+foreign import _mdOutlineDirectionsBoat :: ReactIcon
 
 mdOutlineDirectionsBoat :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineDirectionsBoat = element (unsafeCoerce mdOutlineDirectionsBoat_)
+mdOutlineDirectionsBoat = element (unsafeCoerce _mdOutlineDirectionsBoat)
 
-foreign import mdOutlineDirectionsBoatFilled_ :: ReactIcon
+foreign import _mdOutlineDirectionsBoatFilled :: ReactIcon
 
 mdOutlineDirectionsBoatFilled :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineDirectionsBoatFilled = element (unsafeCoerce mdOutlineDirectionsBoatFilled_)
+mdOutlineDirectionsBoatFilled = element (unsafeCoerce _mdOutlineDirectionsBoatFilled)
 
-foreign import mdOutlineDirectionsBus_ :: ReactIcon
+foreign import _mdOutlineDirectionsBus :: ReactIcon
 
 mdOutlineDirectionsBus :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineDirectionsBus = element (unsafeCoerce mdOutlineDirectionsBus_)
+mdOutlineDirectionsBus = element (unsafeCoerce _mdOutlineDirectionsBus)
 
-foreign import mdOutlineDirectionsBusFilled_ :: ReactIcon
+foreign import _mdOutlineDirectionsBusFilled :: ReactIcon
 
 mdOutlineDirectionsBusFilled :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineDirectionsBusFilled = element (unsafeCoerce mdOutlineDirectionsBusFilled_)
+mdOutlineDirectionsBusFilled = element (unsafeCoerce _mdOutlineDirectionsBusFilled)
 
-foreign import mdOutlineDirectionsCar_ :: ReactIcon
+foreign import _mdOutlineDirectionsCar :: ReactIcon
 
 mdOutlineDirectionsCar :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineDirectionsCar = element (unsafeCoerce mdOutlineDirectionsCar_)
+mdOutlineDirectionsCar = element (unsafeCoerce _mdOutlineDirectionsCar)
 
-foreign import mdOutlineDirectionsCarFilled_ :: ReactIcon
+foreign import _mdOutlineDirectionsCarFilled :: ReactIcon
 
 mdOutlineDirectionsCarFilled :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineDirectionsCarFilled = element (unsafeCoerce mdOutlineDirectionsCarFilled_)
+mdOutlineDirectionsCarFilled = element (unsafeCoerce _mdOutlineDirectionsCarFilled)
 
-foreign import mdOutlineDirectionsOff_ :: ReactIcon
+foreign import _mdOutlineDirectionsOff :: ReactIcon
 
 mdOutlineDirectionsOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineDirectionsOff = element (unsafeCoerce mdOutlineDirectionsOff_)
+mdOutlineDirectionsOff = element (unsafeCoerce _mdOutlineDirectionsOff)
 
-foreign import mdOutlineDirectionsRailway_ :: ReactIcon
+foreign import _mdOutlineDirectionsRailway :: ReactIcon
 
 mdOutlineDirectionsRailway :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineDirectionsRailway = element (unsafeCoerce mdOutlineDirectionsRailway_)
+mdOutlineDirectionsRailway = element (unsafeCoerce _mdOutlineDirectionsRailway)
 
-foreign import mdOutlineDirectionsRailwayFilled_ :: ReactIcon
+foreign import _mdOutlineDirectionsRailwayFilled :: ReactIcon
 
 mdOutlineDirectionsRailwayFilled :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineDirectionsRailwayFilled = element (unsafeCoerce mdOutlineDirectionsRailwayFilled_)
+mdOutlineDirectionsRailwayFilled = element (unsafeCoerce _mdOutlineDirectionsRailwayFilled)
 
-foreign import mdOutlineDirectionsRun_ :: ReactIcon
+foreign import _mdOutlineDirectionsRun :: ReactIcon
 
 mdOutlineDirectionsRun :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineDirectionsRun = element (unsafeCoerce mdOutlineDirectionsRun_)
+mdOutlineDirectionsRun = element (unsafeCoerce _mdOutlineDirectionsRun)
 
-foreign import mdOutlineDirectionsSubway_ :: ReactIcon
+foreign import _mdOutlineDirectionsSubway :: ReactIcon
 
 mdOutlineDirectionsSubway :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineDirectionsSubway = element (unsafeCoerce mdOutlineDirectionsSubway_)
+mdOutlineDirectionsSubway = element (unsafeCoerce _mdOutlineDirectionsSubway)
 
-foreign import mdOutlineDirectionsSubwayFilled_ :: ReactIcon
+foreign import _mdOutlineDirectionsSubwayFilled :: ReactIcon
 
 mdOutlineDirectionsSubwayFilled :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineDirectionsSubwayFilled = element (unsafeCoerce mdOutlineDirectionsSubwayFilled_)
+mdOutlineDirectionsSubwayFilled = element (unsafeCoerce _mdOutlineDirectionsSubwayFilled)
 
-foreign import mdOutlineDirectionsTransit_ :: ReactIcon
+foreign import _mdOutlineDirectionsTransit :: ReactIcon
 
 mdOutlineDirectionsTransit :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineDirectionsTransit = element (unsafeCoerce mdOutlineDirectionsTransit_)
+mdOutlineDirectionsTransit = element (unsafeCoerce _mdOutlineDirectionsTransit)
 
-foreign import mdOutlineDirectionsTransitFilled_ :: ReactIcon
+foreign import _mdOutlineDirectionsTransitFilled :: ReactIcon
 
 mdOutlineDirectionsTransitFilled :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineDirectionsTransitFilled = element (unsafeCoerce mdOutlineDirectionsTransitFilled_)
+mdOutlineDirectionsTransitFilled = element (unsafeCoerce _mdOutlineDirectionsTransitFilled)
 
-foreign import mdOutlineDirectionsWalk_ :: ReactIcon
+foreign import _mdOutlineDirectionsWalk :: ReactIcon
 
 mdOutlineDirectionsWalk :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineDirectionsWalk = element (unsafeCoerce mdOutlineDirectionsWalk_)
+mdOutlineDirectionsWalk = element (unsafeCoerce _mdOutlineDirectionsWalk)
 
-foreign import mdOutlineDirtyLens_ :: ReactIcon
+foreign import _mdOutlineDirtyLens :: ReactIcon
 
 mdOutlineDirtyLens :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineDirtyLens = element (unsafeCoerce mdOutlineDirtyLens_)
+mdOutlineDirtyLens = element (unsafeCoerce _mdOutlineDirtyLens)
 
-foreign import mdOutlineDisabledByDefault_ :: ReactIcon
+foreign import _mdOutlineDisabledByDefault :: ReactIcon
 
 mdOutlineDisabledByDefault :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineDisabledByDefault = element (unsafeCoerce mdOutlineDisabledByDefault_)
+mdOutlineDisabledByDefault = element (unsafeCoerce _mdOutlineDisabledByDefault)
 
-foreign import mdOutlineDisabledVisible_ :: ReactIcon
+foreign import _mdOutlineDisabledVisible :: ReactIcon
 
 mdOutlineDisabledVisible :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineDisabledVisible = element (unsafeCoerce mdOutlineDisabledVisible_)
+mdOutlineDisabledVisible = element (unsafeCoerce _mdOutlineDisabledVisible)
 
-foreign import mdOutlineDiscFull_ :: ReactIcon
+foreign import _mdOutlineDiscFull :: ReactIcon
 
 mdOutlineDiscFull :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineDiscFull = element (unsafeCoerce mdOutlineDiscFull_)
+mdOutlineDiscFull = element (unsafeCoerce _mdOutlineDiscFull)
 
-foreign import mdOutlineDns_ :: ReactIcon
+foreign import _mdOutlineDns :: ReactIcon
 
 mdOutlineDns :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineDns = element (unsafeCoerce mdOutlineDns_)
+mdOutlineDns = element (unsafeCoerce _mdOutlineDns)
 
-foreign import mdOutlineDock_ :: ReactIcon
+foreign import _mdOutlineDock :: ReactIcon
 
 mdOutlineDock :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineDock = element (unsafeCoerce mdOutlineDock_)
+mdOutlineDock = element (unsafeCoerce _mdOutlineDock)
 
-foreign import mdOutlineDocumentScanner_ :: ReactIcon
+foreign import _mdOutlineDocumentScanner :: ReactIcon
 
 mdOutlineDocumentScanner :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineDocumentScanner = element (unsafeCoerce mdOutlineDocumentScanner_)
+mdOutlineDocumentScanner = element (unsafeCoerce _mdOutlineDocumentScanner)
 
-foreign import mdOutlineDoDisturb_ :: ReactIcon
+foreign import _mdOutlineDoDisturb :: ReactIcon
 
 mdOutlineDoDisturb :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineDoDisturb = element (unsafeCoerce mdOutlineDoDisturb_)
+mdOutlineDoDisturb = element (unsafeCoerce _mdOutlineDoDisturb)
 
-foreign import mdOutlineDoDisturbAlt_ :: ReactIcon
+foreign import _mdOutlineDoDisturbAlt :: ReactIcon
 
 mdOutlineDoDisturbAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineDoDisturbAlt = element (unsafeCoerce mdOutlineDoDisturbAlt_)
+mdOutlineDoDisturbAlt = element (unsafeCoerce _mdOutlineDoDisturbAlt)
 
-foreign import mdOutlineDoDisturbOff_ :: ReactIcon
+foreign import _mdOutlineDoDisturbOff :: ReactIcon
 
 mdOutlineDoDisturbOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineDoDisturbOff = element (unsafeCoerce mdOutlineDoDisturbOff_)
+mdOutlineDoDisturbOff = element (unsafeCoerce _mdOutlineDoDisturbOff)
 
-foreign import mdOutlineDoDisturbOn_ :: ReactIcon
+foreign import _mdOutlineDoDisturbOn :: ReactIcon
 
 mdOutlineDoDisturbOn :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineDoDisturbOn = element (unsafeCoerce mdOutlineDoDisturbOn_)
+mdOutlineDoDisturbOn = element (unsafeCoerce _mdOutlineDoDisturbOn)
 
-foreign import mdOutlineDomain_ :: ReactIcon
+foreign import _mdOutlineDomain :: ReactIcon
 
 mdOutlineDomain :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineDomain = element (unsafeCoerce mdOutlineDomain_)
+mdOutlineDomain = element (unsafeCoerce _mdOutlineDomain)
 
-foreign import mdOutlineDomainDisabled_ :: ReactIcon
+foreign import _mdOutlineDomainDisabled :: ReactIcon
 
 mdOutlineDomainDisabled :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineDomainDisabled = element (unsafeCoerce mdOutlineDomainDisabled_)
+mdOutlineDomainDisabled = element (unsafeCoerce _mdOutlineDomainDisabled)
 
-foreign import mdOutlineDomainVerification_ :: ReactIcon
+foreign import _mdOutlineDomainVerification :: ReactIcon
 
 mdOutlineDomainVerification :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineDomainVerification = element (unsafeCoerce mdOutlineDomainVerification_)
+mdOutlineDomainVerification = element (unsafeCoerce _mdOutlineDomainVerification)
 
-foreign import mdOutlineDone_ :: ReactIcon
+foreign import _mdOutlineDone :: ReactIcon
 
 mdOutlineDone :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineDone = element (unsafeCoerce mdOutlineDone_)
+mdOutlineDone = element (unsafeCoerce _mdOutlineDone)
 
-foreign import mdOutlineDoneAll_ :: ReactIcon
+foreign import _mdOutlineDoneAll :: ReactIcon
 
 mdOutlineDoneAll :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineDoneAll = element (unsafeCoerce mdOutlineDoneAll_)
+mdOutlineDoneAll = element (unsafeCoerce _mdOutlineDoneAll)
 
-foreign import mdOutlineDoneOutline_ :: ReactIcon
+foreign import _mdOutlineDoneOutline :: ReactIcon
 
 mdOutlineDoneOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineDoneOutline = element (unsafeCoerce mdOutlineDoneOutline_)
+mdOutlineDoneOutline = element (unsafeCoerce _mdOutlineDoneOutline)
 
-foreign import mdOutlineDoNotDisturb_ :: ReactIcon
+foreign import _mdOutlineDoNotDisturb :: ReactIcon
 
 mdOutlineDoNotDisturb :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineDoNotDisturb = element (unsafeCoerce mdOutlineDoNotDisturb_)
+mdOutlineDoNotDisturb = element (unsafeCoerce _mdOutlineDoNotDisturb)
 
-foreign import mdOutlineDoNotDisturbAlt_ :: ReactIcon
+foreign import _mdOutlineDoNotDisturbAlt :: ReactIcon
 
 mdOutlineDoNotDisturbAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineDoNotDisturbAlt = element (unsafeCoerce mdOutlineDoNotDisturbAlt_)
+mdOutlineDoNotDisturbAlt = element (unsafeCoerce _mdOutlineDoNotDisturbAlt)
 
-foreign import mdOutlineDoNotDisturbOff_ :: ReactIcon
+foreign import _mdOutlineDoNotDisturbOff :: ReactIcon
 
 mdOutlineDoNotDisturbOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineDoNotDisturbOff = element (unsafeCoerce mdOutlineDoNotDisturbOff_)
+mdOutlineDoNotDisturbOff = element (unsafeCoerce _mdOutlineDoNotDisturbOff)
 
-foreign import mdOutlineDoNotDisturbOn_ :: ReactIcon
+foreign import _mdOutlineDoNotDisturbOn :: ReactIcon
 
 mdOutlineDoNotDisturbOn :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineDoNotDisturbOn = element (unsafeCoerce mdOutlineDoNotDisturbOn_)
+mdOutlineDoNotDisturbOn = element (unsafeCoerce _mdOutlineDoNotDisturbOn)
 
-foreign import mdOutlineDoNotDisturbOnTotalSilence_ :: ReactIcon
+foreign import _mdOutlineDoNotDisturbOnTotalSilence :: ReactIcon
 
 mdOutlineDoNotDisturbOnTotalSilence :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineDoNotDisturbOnTotalSilence = element (unsafeCoerce mdOutlineDoNotDisturbOnTotalSilence_)
+mdOutlineDoNotDisturbOnTotalSilence = element (unsafeCoerce _mdOutlineDoNotDisturbOnTotalSilence)
 
-foreign import mdOutlineDoNotStep_ :: ReactIcon
+foreign import _mdOutlineDoNotStep :: ReactIcon
 
 mdOutlineDoNotStep :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineDoNotStep = element (unsafeCoerce mdOutlineDoNotStep_)
+mdOutlineDoNotStep = element (unsafeCoerce _mdOutlineDoNotStep)
 
-foreign import mdOutlineDoNotTouch_ :: ReactIcon
+foreign import _mdOutlineDoNotTouch :: ReactIcon
 
 mdOutlineDoNotTouch :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineDoNotTouch = element (unsafeCoerce mdOutlineDoNotTouch_)
+mdOutlineDoNotTouch = element (unsafeCoerce _mdOutlineDoNotTouch)
 
-foreign import mdOutlineDonutLarge_ :: ReactIcon
+foreign import _mdOutlineDonutLarge :: ReactIcon
 
 mdOutlineDonutLarge :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineDonutLarge = element (unsafeCoerce mdOutlineDonutLarge_)
+mdOutlineDonutLarge = element (unsafeCoerce _mdOutlineDonutLarge)
 
-foreign import mdOutlineDonutSmall_ :: ReactIcon
+foreign import _mdOutlineDonutSmall :: ReactIcon
 
 mdOutlineDonutSmall :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineDonutSmall = element (unsafeCoerce mdOutlineDonutSmall_)
+mdOutlineDonutSmall = element (unsafeCoerce _mdOutlineDonutSmall)
 
-foreign import mdOutlineDoorBack_ :: ReactIcon
+foreign import _mdOutlineDoorBack :: ReactIcon
 
 mdOutlineDoorBack :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineDoorBack = element (unsafeCoerce mdOutlineDoorBack_)
+mdOutlineDoorBack = element (unsafeCoerce _mdOutlineDoorBack)
 
-foreign import mdOutlineDoorbell_ :: ReactIcon
+foreign import _mdOutlineDoorbell :: ReactIcon
 
 mdOutlineDoorbell :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineDoorbell = element (unsafeCoerce mdOutlineDoorbell_)
+mdOutlineDoorbell = element (unsafeCoerce _mdOutlineDoorbell)
 
-foreign import mdOutlineDoorFront_ :: ReactIcon
+foreign import _mdOutlineDoorFront :: ReactIcon
 
 mdOutlineDoorFront :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineDoorFront = element (unsafeCoerce mdOutlineDoorFront_)
+mdOutlineDoorFront = element (unsafeCoerce _mdOutlineDoorFront)
 
-foreign import mdOutlineDoorSliding_ :: ReactIcon
+foreign import _mdOutlineDoorSliding :: ReactIcon
 
 mdOutlineDoorSliding :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineDoorSliding = element (unsafeCoerce mdOutlineDoorSliding_)
+mdOutlineDoorSliding = element (unsafeCoerce _mdOutlineDoorSliding)
 
-foreign import mdOutlineDoubleArrow_ :: ReactIcon
+foreign import _mdOutlineDoubleArrow :: ReactIcon
 
 mdOutlineDoubleArrow :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineDoubleArrow = element (unsafeCoerce mdOutlineDoubleArrow_)
+mdOutlineDoubleArrow = element (unsafeCoerce _mdOutlineDoubleArrow)
 
-foreign import mdOutlineDownhillSkiing_ :: ReactIcon
+foreign import _mdOutlineDownhillSkiing :: ReactIcon
 
 mdOutlineDownhillSkiing :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineDownhillSkiing = element (unsafeCoerce mdOutlineDownhillSkiing_)
+mdOutlineDownhillSkiing = element (unsafeCoerce _mdOutlineDownhillSkiing)
 
-foreign import mdOutlineDownload_ :: ReactIcon
+foreign import _mdOutlineDownload :: ReactIcon
 
 mdOutlineDownload :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineDownload = element (unsafeCoerce mdOutlineDownload_)
+mdOutlineDownload = element (unsafeCoerce _mdOutlineDownload)
 
-foreign import mdOutlineDownloadDone_ :: ReactIcon
+foreign import _mdOutlineDownloadDone :: ReactIcon
 
 mdOutlineDownloadDone :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineDownloadDone = element (unsafeCoerce mdOutlineDownloadDone_)
+mdOutlineDownloadDone = element (unsafeCoerce _mdOutlineDownloadDone)
 
-foreign import mdOutlineDownloadForOffline_ :: ReactIcon
+foreign import _mdOutlineDownloadForOffline :: ReactIcon
 
 mdOutlineDownloadForOffline :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineDownloadForOffline = element (unsafeCoerce mdOutlineDownloadForOffline_)
+mdOutlineDownloadForOffline = element (unsafeCoerce _mdOutlineDownloadForOffline)
 
-foreign import mdOutlineDownloading_ :: ReactIcon
+foreign import _mdOutlineDownloading :: ReactIcon
 
 mdOutlineDownloading :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineDownloading = element (unsafeCoerce mdOutlineDownloading_)
+mdOutlineDownloading = element (unsafeCoerce _mdOutlineDownloading)
 
-foreign import mdOutlineDrafts_ :: ReactIcon
+foreign import _mdOutlineDrafts :: ReactIcon
 
 mdOutlineDrafts :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineDrafts = element (unsafeCoerce mdOutlineDrafts_)
+mdOutlineDrafts = element (unsafeCoerce _mdOutlineDrafts)
 
-foreign import mdOutlineDragHandle_ :: ReactIcon
+foreign import _mdOutlineDragHandle :: ReactIcon
 
 mdOutlineDragHandle :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineDragHandle = element (unsafeCoerce mdOutlineDragHandle_)
+mdOutlineDragHandle = element (unsafeCoerce _mdOutlineDragHandle)
 
-foreign import mdOutlineDragIndicator_ :: ReactIcon
+foreign import _mdOutlineDragIndicator :: ReactIcon
 
 mdOutlineDragIndicator :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineDragIndicator = element (unsafeCoerce mdOutlineDragIndicator_)
+mdOutlineDragIndicator = element (unsafeCoerce _mdOutlineDragIndicator)
 
-foreign import mdOutlineDraw_ :: ReactIcon
+foreign import _mdOutlineDraw :: ReactIcon
 
 mdOutlineDraw :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineDraw = element (unsafeCoerce mdOutlineDraw_)
+mdOutlineDraw = element (unsafeCoerce _mdOutlineDraw)
 
-foreign import mdOutlineDriveEta_ :: ReactIcon
+foreign import _mdOutlineDriveEta :: ReactIcon
 
 mdOutlineDriveEta :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineDriveEta = element (unsafeCoerce mdOutlineDriveEta_)
+mdOutlineDriveEta = element (unsafeCoerce _mdOutlineDriveEta)
 
-foreign import mdOutlineDriveFileMove_ :: ReactIcon
+foreign import _mdOutlineDriveFileMove :: ReactIcon
 
 mdOutlineDriveFileMove :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineDriveFileMove = element (unsafeCoerce mdOutlineDriveFileMove_)
+mdOutlineDriveFileMove = element (unsafeCoerce _mdOutlineDriveFileMove)
 
-foreign import mdOutlineDriveFileMoveRtl_ :: ReactIcon
+foreign import _mdOutlineDriveFileMoveRtl :: ReactIcon
 
 mdOutlineDriveFileMoveRtl :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineDriveFileMoveRtl = element (unsafeCoerce mdOutlineDriveFileMoveRtl_)
+mdOutlineDriveFileMoveRtl = element (unsafeCoerce _mdOutlineDriveFileMoveRtl)
 
-foreign import mdOutlineDriveFileRenameOutline_ :: ReactIcon
+foreign import _mdOutlineDriveFileRenameOutline :: ReactIcon
 
 mdOutlineDriveFileRenameOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineDriveFileRenameOutline = element (unsafeCoerce mdOutlineDriveFileRenameOutline_)
+mdOutlineDriveFileRenameOutline = element (unsafeCoerce _mdOutlineDriveFileRenameOutline)
 
-foreign import mdOutlineDriveFolderUpload_ :: ReactIcon
+foreign import _mdOutlineDriveFolderUpload :: ReactIcon
 
 mdOutlineDriveFolderUpload :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineDriveFolderUpload = element (unsafeCoerce mdOutlineDriveFolderUpload_)
+mdOutlineDriveFolderUpload = element (unsafeCoerce _mdOutlineDriveFolderUpload)
 
-foreign import mdOutlineDry_ :: ReactIcon
+foreign import _mdOutlineDry :: ReactIcon
 
 mdOutlineDry :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineDry = element (unsafeCoerce mdOutlineDry_)
+mdOutlineDry = element (unsafeCoerce _mdOutlineDry)
 
-foreign import mdOutlineDryCleaning_ :: ReactIcon
+foreign import _mdOutlineDryCleaning :: ReactIcon
 
 mdOutlineDryCleaning :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineDryCleaning = element (unsafeCoerce mdOutlineDryCleaning_)
+mdOutlineDryCleaning = element (unsafeCoerce _mdOutlineDryCleaning)
 
-foreign import mdOutlineDuo_ :: ReactIcon
+foreign import _mdOutlineDuo :: ReactIcon
 
 mdOutlineDuo :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineDuo = element (unsafeCoerce mdOutlineDuo_)
+mdOutlineDuo = element (unsafeCoerce _mdOutlineDuo)
 
-foreign import mdOutlineDvr_ :: ReactIcon
+foreign import _mdOutlineDvr :: ReactIcon
 
 mdOutlineDvr :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineDvr = element (unsafeCoerce mdOutlineDvr_)
+mdOutlineDvr = element (unsafeCoerce _mdOutlineDvr)
 
-foreign import mdOutlineDynamicFeed_ :: ReactIcon
+foreign import _mdOutlineDynamicFeed :: ReactIcon
 
 mdOutlineDynamicFeed :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineDynamicFeed = element (unsafeCoerce mdOutlineDynamicFeed_)
+mdOutlineDynamicFeed = element (unsafeCoerce _mdOutlineDynamicFeed)
 
-foreign import mdOutlineDynamicForm_ :: ReactIcon
+foreign import _mdOutlineDynamicForm :: ReactIcon
 
 mdOutlineDynamicForm :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineDynamicForm = element (unsafeCoerce mdOutlineDynamicForm_)
+mdOutlineDynamicForm = element (unsafeCoerce _mdOutlineDynamicForm)
 
-foreign import mdOutlineEarbuds_ :: ReactIcon
+foreign import _mdOutlineEarbuds :: ReactIcon
 
 mdOutlineEarbuds :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineEarbuds = element (unsafeCoerce mdOutlineEarbuds_)
+mdOutlineEarbuds = element (unsafeCoerce _mdOutlineEarbuds)
 
-foreign import mdOutlineEarbudsBattery_ :: ReactIcon
+foreign import _mdOutlineEarbudsBattery :: ReactIcon
 
 mdOutlineEarbudsBattery :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineEarbudsBattery = element (unsafeCoerce mdOutlineEarbudsBattery_)
+mdOutlineEarbudsBattery = element (unsafeCoerce _mdOutlineEarbudsBattery)
 
-foreign import mdOutlineEast_ :: ReactIcon
+foreign import _mdOutlineEast :: ReactIcon
 
 mdOutlineEast :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineEast = element (unsafeCoerce mdOutlineEast_)
+mdOutlineEast = element (unsafeCoerce _mdOutlineEast)
 
-foreign import mdOutlineEco_ :: ReactIcon
+foreign import _mdOutlineEco :: ReactIcon
 
 mdOutlineEco :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineEco = element (unsafeCoerce mdOutlineEco_)
+mdOutlineEco = element (unsafeCoerce _mdOutlineEco)
 
-foreign import mdOutlineEdgesensorHigh_ :: ReactIcon
+foreign import _mdOutlineEdgesensorHigh :: ReactIcon
 
 mdOutlineEdgesensorHigh :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineEdgesensorHigh = element (unsafeCoerce mdOutlineEdgesensorHigh_)
+mdOutlineEdgesensorHigh = element (unsafeCoerce _mdOutlineEdgesensorHigh)
 
-foreign import mdOutlineEdgesensorLow_ :: ReactIcon
+foreign import _mdOutlineEdgesensorLow :: ReactIcon
 
 mdOutlineEdgesensorLow :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineEdgesensorLow = element (unsafeCoerce mdOutlineEdgesensorLow_)
+mdOutlineEdgesensorLow = element (unsafeCoerce _mdOutlineEdgesensorLow)
 
-foreign import mdOutlineEdit_ :: ReactIcon
+foreign import _mdOutlineEdit :: ReactIcon
 
 mdOutlineEdit :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineEdit = element (unsafeCoerce mdOutlineEdit_)
+mdOutlineEdit = element (unsafeCoerce _mdOutlineEdit)
 
-foreign import mdOutlineEditAttributes_ :: ReactIcon
+foreign import _mdOutlineEditAttributes :: ReactIcon
 
 mdOutlineEditAttributes :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineEditAttributes = element (unsafeCoerce mdOutlineEditAttributes_)
+mdOutlineEditAttributes = element (unsafeCoerce _mdOutlineEditAttributes)
 
-foreign import mdOutlineEditCalendar_ :: ReactIcon
+foreign import _mdOutlineEditCalendar :: ReactIcon
 
 mdOutlineEditCalendar :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineEditCalendar = element (unsafeCoerce mdOutlineEditCalendar_)
+mdOutlineEditCalendar = element (unsafeCoerce _mdOutlineEditCalendar)
 
-foreign import mdOutlineEditLocation_ :: ReactIcon
+foreign import _mdOutlineEditLocation :: ReactIcon
 
 mdOutlineEditLocation :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineEditLocation = element (unsafeCoerce mdOutlineEditLocation_)
+mdOutlineEditLocation = element (unsafeCoerce _mdOutlineEditLocation)
 
-foreign import mdOutlineEditLocationAlt_ :: ReactIcon
+foreign import _mdOutlineEditLocationAlt :: ReactIcon
 
 mdOutlineEditLocationAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineEditLocationAlt = element (unsafeCoerce mdOutlineEditLocationAlt_)
+mdOutlineEditLocationAlt = element (unsafeCoerce _mdOutlineEditLocationAlt)
 
-foreign import mdOutlineEditNote_ :: ReactIcon
+foreign import _mdOutlineEditNote :: ReactIcon
 
 mdOutlineEditNote :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineEditNote = element (unsafeCoerce mdOutlineEditNote_)
+mdOutlineEditNote = element (unsafeCoerce _mdOutlineEditNote)
 
-foreign import mdOutlineEditNotifications_ :: ReactIcon
+foreign import _mdOutlineEditNotifications :: ReactIcon
 
 mdOutlineEditNotifications :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineEditNotifications = element (unsafeCoerce mdOutlineEditNotifications_)
+mdOutlineEditNotifications = element (unsafeCoerce _mdOutlineEditNotifications)
 
-foreign import mdOutlineEditOff_ :: ReactIcon
+foreign import _mdOutlineEditOff :: ReactIcon
 
 mdOutlineEditOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineEditOff = element (unsafeCoerce mdOutlineEditOff_)
+mdOutlineEditOff = element (unsafeCoerce _mdOutlineEditOff)
 
-foreign import mdOutlineEditRoad_ :: ReactIcon
+foreign import _mdOutlineEditRoad :: ReactIcon
 
 mdOutlineEditRoad :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineEditRoad = element (unsafeCoerce mdOutlineEditRoad_)
+mdOutlineEditRoad = element (unsafeCoerce _mdOutlineEditRoad)
 
-foreign import mdOutlineEject_ :: ReactIcon
+foreign import _mdOutlineEject :: ReactIcon
 
 mdOutlineEject :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineEject = element (unsafeCoerce mdOutlineEject_)
+mdOutlineEject = element (unsafeCoerce _mdOutlineEject)
 
-foreign import mdOutlineElderly_ :: ReactIcon
+foreign import _mdOutlineElderly :: ReactIcon
 
 mdOutlineElderly :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineElderly = element (unsafeCoerce mdOutlineElderly_)
+mdOutlineElderly = element (unsafeCoerce _mdOutlineElderly)
 
-foreign import mdOutlineElectricalServices_ :: ReactIcon
+foreign import _mdOutlineElectricalServices :: ReactIcon
 
 mdOutlineElectricalServices :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineElectricalServices = element (unsafeCoerce mdOutlineElectricalServices_)
+mdOutlineElectricalServices = element (unsafeCoerce _mdOutlineElectricalServices)
 
-foreign import mdOutlineElectricBike_ :: ReactIcon
+foreign import _mdOutlineElectricBike :: ReactIcon
 
 mdOutlineElectricBike :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineElectricBike = element (unsafeCoerce mdOutlineElectricBike_)
+mdOutlineElectricBike = element (unsafeCoerce _mdOutlineElectricBike)
 
-foreign import mdOutlineElectricCar_ :: ReactIcon
+foreign import _mdOutlineElectricCar :: ReactIcon
 
 mdOutlineElectricCar :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineElectricCar = element (unsafeCoerce mdOutlineElectricCar_)
+mdOutlineElectricCar = element (unsafeCoerce _mdOutlineElectricCar)
 
-foreign import mdOutlineElectricMoped_ :: ReactIcon
+foreign import _mdOutlineElectricMoped :: ReactIcon
 
 mdOutlineElectricMoped :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineElectricMoped = element (unsafeCoerce mdOutlineElectricMoped_)
+mdOutlineElectricMoped = element (unsafeCoerce _mdOutlineElectricMoped)
 
-foreign import mdOutlineElectricRickshaw_ :: ReactIcon
+foreign import _mdOutlineElectricRickshaw :: ReactIcon
 
 mdOutlineElectricRickshaw :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineElectricRickshaw = element (unsafeCoerce mdOutlineElectricRickshaw_)
+mdOutlineElectricRickshaw = element (unsafeCoerce _mdOutlineElectricRickshaw)
 
-foreign import mdOutlineElectricScooter_ :: ReactIcon
+foreign import _mdOutlineElectricScooter :: ReactIcon
 
 mdOutlineElectricScooter :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineElectricScooter = element (unsafeCoerce mdOutlineElectricScooter_)
+mdOutlineElectricScooter = element (unsafeCoerce _mdOutlineElectricScooter)
 
-foreign import mdOutlineElevator_ :: ReactIcon
+foreign import _mdOutlineElevator :: ReactIcon
 
 mdOutlineElevator :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineElevator = element (unsafeCoerce mdOutlineElevator_)
+mdOutlineElevator = element (unsafeCoerce _mdOutlineElevator)
 
-foreign import mdOutlineEmail_ :: ReactIcon
+foreign import _mdOutlineEmail :: ReactIcon
 
 mdOutlineEmail :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineEmail = element (unsafeCoerce mdOutlineEmail_)
+mdOutlineEmail = element (unsafeCoerce _mdOutlineEmail)
 
-foreign import mdOutlineEmergency_ :: ReactIcon
+foreign import _mdOutlineEmergency :: ReactIcon
 
 mdOutlineEmergency :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineEmergency = element (unsafeCoerce mdOutlineEmergency_)
+mdOutlineEmergency = element (unsafeCoerce _mdOutlineEmergency)
 
-foreign import mdOutlineEMobiledata_ :: ReactIcon
+foreign import _mdOutlineEMobiledata :: ReactIcon
 
 mdOutlineEMobiledata :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineEMobiledata = element (unsafeCoerce mdOutlineEMobiledata_)
+mdOutlineEMobiledata = element (unsafeCoerce _mdOutlineEMobiledata)
 
-foreign import mdOutlineEmojiEmotions_ :: ReactIcon
+foreign import _mdOutlineEmojiEmotions :: ReactIcon
 
 mdOutlineEmojiEmotions :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineEmojiEmotions = element (unsafeCoerce mdOutlineEmojiEmotions_)
+mdOutlineEmojiEmotions = element (unsafeCoerce _mdOutlineEmojiEmotions)
 
-foreign import mdOutlineEmojiEvents_ :: ReactIcon
+foreign import _mdOutlineEmojiEvents :: ReactIcon
 
 mdOutlineEmojiEvents :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineEmojiEvents = element (unsafeCoerce mdOutlineEmojiEvents_)
+mdOutlineEmojiEvents = element (unsafeCoerce _mdOutlineEmojiEvents)
 
-foreign import mdOutlineEmojiFlags_ :: ReactIcon
+foreign import _mdOutlineEmojiFlags :: ReactIcon
 
 mdOutlineEmojiFlags :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineEmojiFlags = element (unsafeCoerce mdOutlineEmojiFlags_)
+mdOutlineEmojiFlags = element (unsafeCoerce _mdOutlineEmojiFlags)
 
-foreign import mdOutlineEmojiFoodBeverage_ :: ReactIcon
+foreign import _mdOutlineEmojiFoodBeverage :: ReactIcon
 
 mdOutlineEmojiFoodBeverage :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineEmojiFoodBeverage = element (unsafeCoerce mdOutlineEmojiFoodBeverage_)
+mdOutlineEmojiFoodBeverage = element (unsafeCoerce _mdOutlineEmojiFoodBeverage)
 
-foreign import mdOutlineEmojiNature_ :: ReactIcon
+foreign import _mdOutlineEmojiNature :: ReactIcon
 
 mdOutlineEmojiNature :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineEmojiNature = element (unsafeCoerce mdOutlineEmojiNature_)
+mdOutlineEmojiNature = element (unsafeCoerce _mdOutlineEmojiNature)
 
-foreign import mdOutlineEmojiObjects_ :: ReactIcon
+foreign import _mdOutlineEmojiObjects :: ReactIcon
 
 mdOutlineEmojiObjects :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineEmojiObjects = element (unsafeCoerce mdOutlineEmojiObjects_)
+mdOutlineEmojiObjects = element (unsafeCoerce _mdOutlineEmojiObjects)
 
-foreign import mdOutlineEmojiPeople_ :: ReactIcon
+foreign import _mdOutlineEmojiPeople :: ReactIcon
 
 mdOutlineEmojiPeople :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineEmojiPeople = element (unsafeCoerce mdOutlineEmojiPeople_)
+mdOutlineEmojiPeople = element (unsafeCoerce _mdOutlineEmojiPeople)
 
-foreign import mdOutlineEmojiSymbols_ :: ReactIcon
+foreign import _mdOutlineEmojiSymbols :: ReactIcon
 
 mdOutlineEmojiSymbols :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineEmojiSymbols = element (unsafeCoerce mdOutlineEmojiSymbols_)
+mdOutlineEmojiSymbols = element (unsafeCoerce _mdOutlineEmojiSymbols)
 
-foreign import mdOutlineEmojiTransportation_ :: ReactIcon
+foreign import _mdOutlineEmojiTransportation :: ReactIcon
 
 mdOutlineEmojiTransportation :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineEmojiTransportation = element (unsafeCoerce mdOutlineEmojiTransportation_)
+mdOutlineEmojiTransportation = element (unsafeCoerce _mdOutlineEmojiTransportation)
 
-foreign import mdOutlineEngineering_ :: ReactIcon
+foreign import _mdOutlineEngineering :: ReactIcon
 
 mdOutlineEngineering :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineEngineering = element (unsafeCoerce mdOutlineEngineering_)
+mdOutlineEngineering = element (unsafeCoerce _mdOutlineEngineering)
 
-foreign import mdOutlineEnhancedEncryption_ :: ReactIcon
+foreign import _mdOutlineEnhancedEncryption :: ReactIcon
 
 mdOutlineEnhancedEncryption :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineEnhancedEncryption = element (unsafeCoerce mdOutlineEnhancedEncryption_)
+mdOutlineEnhancedEncryption = element (unsafeCoerce _mdOutlineEnhancedEncryption)
 
-foreign import mdOutlineEqualizer_ :: ReactIcon
+foreign import _mdOutlineEqualizer :: ReactIcon
 
 mdOutlineEqualizer :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineEqualizer = element (unsafeCoerce mdOutlineEqualizer_)
+mdOutlineEqualizer = element (unsafeCoerce _mdOutlineEqualizer)
 
-foreign import mdOutlineError_ :: ReactIcon
+foreign import _mdOutlineError :: ReactIcon
 
 mdOutlineError :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineError = element (unsafeCoerce mdOutlineError_)
+mdOutlineError = element (unsafeCoerce _mdOutlineError)
 
-foreign import mdOutlineErrorOutline_ :: ReactIcon
+foreign import _mdOutlineErrorOutline :: ReactIcon
 
 mdOutlineErrorOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineErrorOutline = element (unsafeCoerce mdOutlineErrorOutline_)
+mdOutlineErrorOutline = element (unsafeCoerce _mdOutlineErrorOutline)
 
-foreign import mdOutlineEscalator_ :: ReactIcon
+foreign import _mdOutlineEscalator :: ReactIcon
 
 mdOutlineEscalator :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineEscalator = element (unsafeCoerce mdOutlineEscalator_)
+mdOutlineEscalator = element (unsafeCoerce _mdOutlineEscalator)
 
-foreign import mdOutlineEscalatorWarning_ :: ReactIcon
+foreign import _mdOutlineEscalatorWarning :: ReactIcon
 
 mdOutlineEscalatorWarning :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineEscalatorWarning = element (unsafeCoerce mdOutlineEscalatorWarning_)
+mdOutlineEscalatorWarning = element (unsafeCoerce _mdOutlineEscalatorWarning)
 
-foreign import mdOutlineEuro_ :: ReactIcon
+foreign import _mdOutlineEuro :: ReactIcon
 
 mdOutlineEuro :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineEuro = element (unsafeCoerce mdOutlineEuro_)
+mdOutlineEuro = element (unsafeCoerce _mdOutlineEuro)
 
-foreign import mdOutlineEuroSymbol_ :: ReactIcon
+foreign import _mdOutlineEuroSymbol :: ReactIcon
 
 mdOutlineEuroSymbol :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineEuroSymbol = element (unsafeCoerce mdOutlineEuroSymbol_)
+mdOutlineEuroSymbol = element (unsafeCoerce _mdOutlineEuroSymbol)
 
-foreign import mdOutlineEvent_ :: ReactIcon
+foreign import _mdOutlineEvent :: ReactIcon
 
 mdOutlineEvent :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineEvent = element (unsafeCoerce mdOutlineEvent_)
+mdOutlineEvent = element (unsafeCoerce _mdOutlineEvent)
 
-foreign import mdOutlineEventAvailable_ :: ReactIcon
+foreign import _mdOutlineEventAvailable :: ReactIcon
 
 mdOutlineEventAvailable :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineEventAvailable = element (unsafeCoerce mdOutlineEventAvailable_)
+mdOutlineEventAvailable = element (unsafeCoerce _mdOutlineEventAvailable)
 
-foreign import mdOutlineEventBusy_ :: ReactIcon
+foreign import _mdOutlineEventBusy :: ReactIcon
 
 mdOutlineEventBusy :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineEventBusy = element (unsafeCoerce mdOutlineEventBusy_)
+mdOutlineEventBusy = element (unsafeCoerce _mdOutlineEventBusy)
 
-foreign import mdOutlineEventNote_ :: ReactIcon
+foreign import _mdOutlineEventNote :: ReactIcon
 
 mdOutlineEventNote :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineEventNote = element (unsafeCoerce mdOutlineEventNote_)
+mdOutlineEventNote = element (unsafeCoerce _mdOutlineEventNote)
 
-foreign import mdOutlineEventSeat_ :: ReactIcon
+foreign import _mdOutlineEventSeat :: ReactIcon
 
 mdOutlineEventSeat :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineEventSeat = element (unsafeCoerce mdOutlineEventSeat_)
+mdOutlineEventSeat = element (unsafeCoerce _mdOutlineEventSeat)
 
-foreign import mdOutlineEvStation_ :: ReactIcon
+foreign import _mdOutlineEvStation :: ReactIcon
 
 mdOutlineEvStation :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineEvStation = element (unsafeCoerce mdOutlineEvStation_)
+mdOutlineEvStation = element (unsafeCoerce _mdOutlineEvStation)
 
-foreign import mdOutlineExitToApp_ :: ReactIcon
+foreign import _mdOutlineExitToApp :: ReactIcon
 
 mdOutlineExitToApp :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineExitToApp = element (unsafeCoerce mdOutlineExitToApp_)
+mdOutlineExitToApp = element (unsafeCoerce _mdOutlineExitToApp)
 
-foreign import mdOutlineExpand_ :: ReactIcon
+foreign import _mdOutlineExpand :: ReactIcon
 
 mdOutlineExpand :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineExpand = element (unsafeCoerce mdOutlineExpand_)
+mdOutlineExpand = element (unsafeCoerce _mdOutlineExpand)
 
-foreign import mdOutlineExpandLess_ :: ReactIcon
+foreign import _mdOutlineExpandLess :: ReactIcon
 
 mdOutlineExpandLess :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineExpandLess = element (unsafeCoerce mdOutlineExpandLess_)
+mdOutlineExpandLess = element (unsafeCoerce _mdOutlineExpandLess)
 
-foreign import mdOutlineExpandMore_ :: ReactIcon
+foreign import _mdOutlineExpandMore :: ReactIcon
 
 mdOutlineExpandMore :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineExpandMore = element (unsafeCoerce mdOutlineExpandMore_)
+mdOutlineExpandMore = element (unsafeCoerce _mdOutlineExpandMore)
 
-foreign import mdOutlineExplicit_ :: ReactIcon
+foreign import _mdOutlineExplicit :: ReactIcon
 
 mdOutlineExplicit :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineExplicit = element (unsafeCoerce mdOutlineExplicit_)
+mdOutlineExplicit = element (unsafeCoerce _mdOutlineExplicit)
 
-foreign import mdOutlineExplore_ :: ReactIcon
+foreign import _mdOutlineExplore :: ReactIcon
 
 mdOutlineExplore :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineExplore = element (unsafeCoerce mdOutlineExplore_)
+mdOutlineExplore = element (unsafeCoerce _mdOutlineExplore)
 
-foreign import mdOutlineExploreOff_ :: ReactIcon
+foreign import _mdOutlineExploreOff :: ReactIcon
 
 mdOutlineExploreOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineExploreOff = element (unsafeCoerce mdOutlineExploreOff_)
+mdOutlineExploreOff = element (unsafeCoerce _mdOutlineExploreOff)
 
-foreign import mdOutlineExposure_ :: ReactIcon
+foreign import _mdOutlineExposure :: ReactIcon
 
 mdOutlineExposure :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineExposure = element (unsafeCoerce mdOutlineExposure_)
+mdOutlineExposure = element (unsafeCoerce _mdOutlineExposure)
 
-foreign import mdOutlineExposureZero_ :: ReactIcon
+foreign import _mdOutlineExposureZero :: ReactIcon
 
 mdOutlineExposureZero :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineExposureZero = element (unsafeCoerce mdOutlineExposureZero_)
+mdOutlineExposureZero = element (unsafeCoerce _mdOutlineExposureZero)
 
-foreign import mdOutlineExtension_ :: ReactIcon
+foreign import _mdOutlineExtension :: ReactIcon
 
 mdOutlineExtension :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineExtension = element (unsafeCoerce mdOutlineExtension_)
+mdOutlineExtension = element (unsafeCoerce _mdOutlineExtension)
 
-foreign import mdOutlineExtensionOff_ :: ReactIcon
+foreign import _mdOutlineExtensionOff :: ReactIcon
 
 mdOutlineExtensionOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineExtensionOff = element (unsafeCoerce mdOutlineExtensionOff_)
+mdOutlineExtensionOff = element (unsafeCoerce _mdOutlineExtensionOff)
 
-foreign import mdOutlineFace_ :: ReactIcon
+foreign import _mdOutlineFace :: ReactIcon
 
 mdOutlineFace :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineFace = element (unsafeCoerce mdOutlineFace_)
+mdOutlineFace = element (unsafeCoerce _mdOutlineFace)
 
-foreign import mdOutlineFacebook_ :: ReactIcon
+foreign import _mdOutlineFacebook :: ReactIcon
 
 mdOutlineFacebook :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineFacebook = element (unsafeCoerce mdOutlineFacebook_)
+mdOutlineFacebook = element (unsafeCoerce _mdOutlineFacebook)
 
-foreign import mdOutlineFaceRetouchingNatural_ :: ReactIcon
+foreign import _mdOutlineFaceRetouchingNatural :: ReactIcon
 
 mdOutlineFaceRetouchingNatural :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineFaceRetouchingNatural = element (unsafeCoerce mdOutlineFaceRetouchingNatural_)
+mdOutlineFaceRetouchingNatural = element (unsafeCoerce _mdOutlineFaceRetouchingNatural)
 
-foreign import mdOutlineFaceRetouchingOff_ :: ReactIcon
+foreign import _mdOutlineFaceRetouchingOff :: ReactIcon
 
 mdOutlineFaceRetouchingOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineFaceRetouchingOff = element (unsafeCoerce mdOutlineFaceRetouchingOff_)
+mdOutlineFaceRetouchingOff = element (unsafeCoerce _mdOutlineFaceRetouchingOff)
 
-foreign import mdOutlineFaceUnlock_ :: ReactIcon
+foreign import _mdOutlineFaceUnlock :: ReactIcon
 
 mdOutlineFaceUnlock :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineFaceUnlock = element (unsafeCoerce mdOutlineFaceUnlock_)
+mdOutlineFaceUnlock = element (unsafeCoerce _mdOutlineFaceUnlock)
 
-foreign import mdOutlineFactCheck_ :: ReactIcon
+foreign import _mdOutlineFactCheck :: ReactIcon
 
 mdOutlineFactCheck :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineFactCheck = element (unsafeCoerce mdOutlineFactCheck_)
+mdOutlineFactCheck = element (unsafeCoerce _mdOutlineFactCheck)
 
-foreign import mdOutlineFamilyRestroom_ :: ReactIcon
+foreign import _mdOutlineFamilyRestroom :: ReactIcon
 
 mdOutlineFamilyRestroom :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineFamilyRestroom = element (unsafeCoerce mdOutlineFamilyRestroom_)
+mdOutlineFamilyRestroom = element (unsafeCoerce _mdOutlineFamilyRestroom)
 
-foreign import mdOutlineFastfood_ :: ReactIcon
+foreign import _mdOutlineFastfood :: ReactIcon
 
 mdOutlineFastfood :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineFastfood = element (unsafeCoerce mdOutlineFastfood_)
+mdOutlineFastfood = element (unsafeCoerce _mdOutlineFastfood)
 
-foreign import mdOutlineFastForward_ :: ReactIcon
+foreign import _mdOutlineFastForward :: ReactIcon
 
 mdOutlineFastForward :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineFastForward = element (unsafeCoerce mdOutlineFastForward_)
+mdOutlineFastForward = element (unsafeCoerce _mdOutlineFastForward)
 
-foreign import mdOutlineFastRewind_ :: ReactIcon
+foreign import _mdOutlineFastRewind :: ReactIcon
 
 mdOutlineFastRewind :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineFastRewind = element (unsafeCoerce mdOutlineFastRewind_)
+mdOutlineFastRewind = element (unsafeCoerce _mdOutlineFastRewind)
 
-foreign import mdOutlineFavorite_ :: ReactIcon
+foreign import _mdOutlineFavorite :: ReactIcon
 
 mdOutlineFavorite :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineFavorite = element (unsafeCoerce mdOutlineFavorite_)
+mdOutlineFavorite = element (unsafeCoerce _mdOutlineFavorite)
 
-foreign import mdOutlineFavoriteBorder_ :: ReactIcon
+foreign import _mdOutlineFavoriteBorder :: ReactIcon
 
 mdOutlineFavoriteBorder :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineFavoriteBorder = element (unsafeCoerce mdOutlineFavoriteBorder_)
+mdOutlineFavoriteBorder = element (unsafeCoerce _mdOutlineFavoriteBorder)
 
-foreign import mdOutlineFeaturedPlayList_ :: ReactIcon
+foreign import _mdOutlineFeaturedPlayList :: ReactIcon
 
 mdOutlineFeaturedPlayList :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineFeaturedPlayList = element (unsafeCoerce mdOutlineFeaturedPlayList_)
+mdOutlineFeaturedPlayList = element (unsafeCoerce _mdOutlineFeaturedPlayList)
 
-foreign import mdOutlineFeaturedVideo_ :: ReactIcon
+foreign import _mdOutlineFeaturedVideo :: ReactIcon
 
 mdOutlineFeaturedVideo :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineFeaturedVideo = element (unsafeCoerce mdOutlineFeaturedVideo_)
+mdOutlineFeaturedVideo = element (unsafeCoerce _mdOutlineFeaturedVideo)
 
-foreign import mdOutlineFeed_ :: ReactIcon
+foreign import _mdOutlineFeed :: ReactIcon
 
 mdOutlineFeed :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineFeed = element (unsafeCoerce mdOutlineFeed_)
+mdOutlineFeed = element (unsafeCoerce _mdOutlineFeed)
 
-foreign import mdOutlineFeedback_ :: ReactIcon
+foreign import _mdOutlineFeedback :: ReactIcon
 
 mdOutlineFeedback :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineFeedback = element (unsafeCoerce mdOutlineFeedback_)
+mdOutlineFeedback = element (unsafeCoerce _mdOutlineFeedback)
 
-foreign import mdOutlineFemale_ :: ReactIcon
+foreign import _mdOutlineFemale :: ReactIcon
 
 mdOutlineFemale :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineFemale = element (unsafeCoerce mdOutlineFemale_)
+mdOutlineFemale = element (unsafeCoerce _mdOutlineFemale)
 
-foreign import mdOutlineFence_ :: ReactIcon
+foreign import _mdOutlineFence :: ReactIcon
 
 mdOutlineFence :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineFence = element (unsafeCoerce mdOutlineFence_)
+mdOutlineFence = element (unsafeCoerce _mdOutlineFence)
 
-foreign import mdOutlineFestival_ :: ReactIcon
+foreign import _mdOutlineFestival :: ReactIcon
 
 mdOutlineFestival :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineFestival = element (unsafeCoerce mdOutlineFestival_)
+mdOutlineFestival = element (unsafeCoerce _mdOutlineFestival)
 
-foreign import mdOutlineFiberDvr_ :: ReactIcon
+foreign import _mdOutlineFiberDvr :: ReactIcon
 
 mdOutlineFiberDvr :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineFiberDvr = element (unsafeCoerce mdOutlineFiberDvr_)
+mdOutlineFiberDvr = element (unsafeCoerce _mdOutlineFiberDvr)
 
-foreign import mdOutlineFiberManualRecord_ :: ReactIcon
+foreign import _mdOutlineFiberManualRecord :: ReactIcon
 
 mdOutlineFiberManualRecord :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineFiberManualRecord = element (unsafeCoerce mdOutlineFiberManualRecord_)
+mdOutlineFiberManualRecord = element (unsafeCoerce _mdOutlineFiberManualRecord)
 
-foreign import mdOutlineFiberNew_ :: ReactIcon
+foreign import _mdOutlineFiberNew :: ReactIcon
 
 mdOutlineFiberNew :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineFiberNew = element (unsafeCoerce mdOutlineFiberNew_)
+mdOutlineFiberNew = element (unsafeCoerce _mdOutlineFiberNew)
 
-foreign import mdOutlineFiberPin_ :: ReactIcon
+foreign import _mdOutlineFiberPin :: ReactIcon
 
 mdOutlineFiberPin :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineFiberPin = element (unsafeCoerce mdOutlineFiberPin_)
+mdOutlineFiberPin = element (unsafeCoerce _mdOutlineFiberPin)
 
-foreign import mdOutlineFiberSmartRecord_ :: ReactIcon
+foreign import _mdOutlineFiberSmartRecord :: ReactIcon
 
 mdOutlineFiberSmartRecord :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineFiberSmartRecord = element (unsafeCoerce mdOutlineFiberSmartRecord_)
+mdOutlineFiberSmartRecord = element (unsafeCoerce _mdOutlineFiberSmartRecord)
 
-foreign import mdOutlineFileCopy_ :: ReactIcon
+foreign import _mdOutlineFileCopy :: ReactIcon
 
 mdOutlineFileCopy :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineFileCopy = element (unsafeCoerce mdOutlineFileCopy_)
+mdOutlineFileCopy = element (unsafeCoerce _mdOutlineFileCopy)
 
-foreign import mdOutlineFileDownload_ :: ReactIcon
+foreign import _mdOutlineFileDownload :: ReactIcon
 
 mdOutlineFileDownload :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineFileDownload = element (unsafeCoerce mdOutlineFileDownload_)
+mdOutlineFileDownload = element (unsafeCoerce _mdOutlineFileDownload)
 
-foreign import mdOutlineFileDownloadDone_ :: ReactIcon
+foreign import _mdOutlineFileDownloadDone :: ReactIcon
 
 mdOutlineFileDownloadDone :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineFileDownloadDone = element (unsafeCoerce mdOutlineFileDownloadDone_)
+mdOutlineFileDownloadDone = element (unsafeCoerce _mdOutlineFileDownloadDone)
 
-foreign import mdOutlineFileDownloadOff_ :: ReactIcon
+foreign import _mdOutlineFileDownloadOff :: ReactIcon
 
 mdOutlineFileDownloadOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineFileDownloadOff = element (unsafeCoerce mdOutlineFileDownloadOff_)
+mdOutlineFileDownloadOff = element (unsafeCoerce _mdOutlineFileDownloadOff)
 
-foreign import mdOutlineFilePresent_ :: ReactIcon
+foreign import _mdOutlineFilePresent :: ReactIcon
 
 mdOutlineFilePresent :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineFilePresent = element (unsafeCoerce mdOutlineFilePresent_)
+mdOutlineFilePresent = element (unsafeCoerce _mdOutlineFilePresent)
 
-foreign import mdOutlineFileUpload_ :: ReactIcon
+foreign import _mdOutlineFileUpload :: ReactIcon
 
 mdOutlineFileUpload :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineFileUpload = element (unsafeCoerce mdOutlineFileUpload_)
+mdOutlineFileUpload = element (unsafeCoerce _mdOutlineFileUpload)
 
-foreign import mdOutlineFilter_ :: ReactIcon
+foreign import _mdOutlineFilter :: ReactIcon
 
 mdOutlineFilter :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineFilter = element (unsafeCoerce mdOutlineFilter_)
+mdOutlineFilter = element (unsafeCoerce _mdOutlineFilter)
 
-foreign import mdOutlineFilterAlt_ :: ReactIcon
+foreign import _mdOutlineFilterAlt :: ReactIcon
 
 mdOutlineFilterAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineFilterAlt = element (unsafeCoerce mdOutlineFilterAlt_)
+mdOutlineFilterAlt = element (unsafeCoerce _mdOutlineFilterAlt)
 
-foreign import mdOutlineFilterBAndW_ :: ReactIcon
+foreign import _mdOutlineFilterBAndW :: ReactIcon
 
 mdOutlineFilterBAndW :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineFilterBAndW = element (unsafeCoerce mdOutlineFilterBAndW_)
+mdOutlineFilterBAndW = element (unsafeCoerce _mdOutlineFilterBAndW)
 
-foreign import mdOutlineFilterCenterFocus_ :: ReactIcon
+foreign import _mdOutlineFilterCenterFocus :: ReactIcon
 
 mdOutlineFilterCenterFocus :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineFilterCenterFocus = element (unsafeCoerce mdOutlineFilterCenterFocus_)
+mdOutlineFilterCenterFocus = element (unsafeCoerce _mdOutlineFilterCenterFocus)
 
-foreign import mdOutlineFilterDrama_ :: ReactIcon
+foreign import _mdOutlineFilterDrama :: ReactIcon
 
 mdOutlineFilterDrama :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineFilterDrama = element (unsafeCoerce mdOutlineFilterDrama_)
+mdOutlineFilterDrama = element (unsafeCoerce _mdOutlineFilterDrama)
 
-foreign import mdOutlineFilterFrames_ :: ReactIcon
+foreign import _mdOutlineFilterFrames :: ReactIcon
 
 mdOutlineFilterFrames :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineFilterFrames = element (unsafeCoerce mdOutlineFilterFrames_)
+mdOutlineFilterFrames = element (unsafeCoerce _mdOutlineFilterFrames)
 
-foreign import mdOutlineFilterHdr_ :: ReactIcon
+foreign import _mdOutlineFilterHdr :: ReactIcon
 
 mdOutlineFilterHdr :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineFilterHdr = element (unsafeCoerce mdOutlineFilterHdr_)
+mdOutlineFilterHdr = element (unsafeCoerce _mdOutlineFilterHdr)
 
-foreign import mdOutlineFilterList_ :: ReactIcon
+foreign import _mdOutlineFilterList :: ReactIcon
 
 mdOutlineFilterList :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineFilterList = element (unsafeCoerce mdOutlineFilterList_)
+mdOutlineFilterList = element (unsafeCoerce _mdOutlineFilterList)
 
-foreign import mdOutlineFilterNone_ :: ReactIcon
+foreign import _mdOutlineFilterNone :: ReactIcon
 
 mdOutlineFilterNone :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineFilterNone = element (unsafeCoerce mdOutlineFilterNone_)
+mdOutlineFilterNone = element (unsafeCoerce _mdOutlineFilterNone)
 
-foreign import mdOutlineFilterTiltShift_ :: ReactIcon
+foreign import _mdOutlineFilterTiltShift :: ReactIcon
 
 mdOutlineFilterTiltShift :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineFilterTiltShift = element (unsafeCoerce mdOutlineFilterTiltShift_)
+mdOutlineFilterTiltShift = element (unsafeCoerce _mdOutlineFilterTiltShift)
 
-foreign import mdOutlineFilterVintage_ :: ReactIcon
+foreign import _mdOutlineFilterVintage :: ReactIcon
 
 mdOutlineFilterVintage :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineFilterVintage = element (unsafeCoerce mdOutlineFilterVintage_)
+mdOutlineFilterVintage = element (unsafeCoerce _mdOutlineFilterVintage)
 
-foreign import mdOutlineFindInPage_ :: ReactIcon
+foreign import _mdOutlineFindInPage :: ReactIcon
 
 mdOutlineFindInPage :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineFindInPage = element (unsafeCoerce mdOutlineFindInPage_)
+mdOutlineFindInPage = element (unsafeCoerce _mdOutlineFindInPage)
 
-foreign import mdOutlineFindReplace_ :: ReactIcon
+foreign import _mdOutlineFindReplace :: ReactIcon
 
 mdOutlineFindReplace :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineFindReplace = element (unsafeCoerce mdOutlineFindReplace_)
+mdOutlineFindReplace = element (unsafeCoerce _mdOutlineFindReplace)
 
-foreign import mdOutlineFingerprint_ :: ReactIcon
+foreign import _mdOutlineFingerprint :: ReactIcon
 
 mdOutlineFingerprint :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineFingerprint = element (unsafeCoerce mdOutlineFingerprint_)
+mdOutlineFingerprint = element (unsafeCoerce _mdOutlineFingerprint)
 
-foreign import mdOutlineFireExtinguisher_ :: ReactIcon
+foreign import _mdOutlineFireExtinguisher :: ReactIcon
 
 mdOutlineFireExtinguisher :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineFireExtinguisher = element (unsafeCoerce mdOutlineFireExtinguisher_)
+mdOutlineFireExtinguisher = element (unsafeCoerce _mdOutlineFireExtinguisher)
 
-foreign import mdOutlineFireplace_ :: ReactIcon
+foreign import _mdOutlineFireplace :: ReactIcon
 
 mdOutlineFireplace :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineFireplace = element (unsafeCoerce mdOutlineFireplace_)
+mdOutlineFireplace = element (unsafeCoerce _mdOutlineFireplace)
 
-foreign import mdOutlineFirstPage_ :: ReactIcon
+foreign import _mdOutlineFirstPage :: ReactIcon
 
 mdOutlineFirstPage :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineFirstPage = element (unsafeCoerce mdOutlineFirstPage_)
+mdOutlineFirstPage = element (unsafeCoerce _mdOutlineFirstPage)
 
-foreign import mdOutlineFitnessCenter_ :: ReactIcon
+foreign import _mdOutlineFitnessCenter :: ReactIcon
 
 mdOutlineFitnessCenter :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineFitnessCenter = element (unsafeCoerce mdOutlineFitnessCenter_)
+mdOutlineFitnessCenter = element (unsafeCoerce _mdOutlineFitnessCenter)
 
-foreign import mdOutlineFitScreen_ :: ReactIcon
+foreign import _mdOutlineFitScreen :: ReactIcon
 
 mdOutlineFitScreen :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineFitScreen = element (unsafeCoerce mdOutlineFitScreen_)
+mdOutlineFitScreen = element (unsafeCoerce _mdOutlineFitScreen)
 
-foreign import mdOutlineFlag_ :: ReactIcon
+foreign import _mdOutlineFlag :: ReactIcon
 
 mdOutlineFlag :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineFlag = element (unsafeCoerce mdOutlineFlag_)
+mdOutlineFlag = element (unsafeCoerce _mdOutlineFlag)
 
-foreign import mdOutlineFlaky_ :: ReactIcon
+foreign import _mdOutlineFlaky :: ReactIcon
 
 mdOutlineFlaky :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineFlaky = element (unsafeCoerce mdOutlineFlaky_)
+mdOutlineFlaky = element (unsafeCoerce _mdOutlineFlaky)
 
-foreign import mdOutlineFlare_ :: ReactIcon
+foreign import _mdOutlineFlare :: ReactIcon
 
 mdOutlineFlare :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineFlare = element (unsafeCoerce mdOutlineFlare_)
+mdOutlineFlare = element (unsafeCoerce _mdOutlineFlare)
 
-foreign import mdOutlineFlashAuto_ :: ReactIcon
+foreign import _mdOutlineFlashAuto :: ReactIcon
 
 mdOutlineFlashAuto :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineFlashAuto = element (unsafeCoerce mdOutlineFlashAuto_)
+mdOutlineFlashAuto = element (unsafeCoerce _mdOutlineFlashAuto)
 
-foreign import mdOutlineFlashlightOff_ :: ReactIcon
+foreign import _mdOutlineFlashlightOff :: ReactIcon
 
 mdOutlineFlashlightOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineFlashlightOff = element (unsafeCoerce mdOutlineFlashlightOff_)
+mdOutlineFlashlightOff = element (unsafeCoerce _mdOutlineFlashlightOff)
 
-foreign import mdOutlineFlashlightOn_ :: ReactIcon
+foreign import _mdOutlineFlashlightOn :: ReactIcon
 
 mdOutlineFlashlightOn :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineFlashlightOn = element (unsafeCoerce mdOutlineFlashlightOn_)
+mdOutlineFlashlightOn = element (unsafeCoerce _mdOutlineFlashlightOn)
 
-foreign import mdOutlineFlashOff_ :: ReactIcon
+foreign import _mdOutlineFlashOff :: ReactIcon
 
 mdOutlineFlashOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineFlashOff = element (unsafeCoerce mdOutlineFlashOff_)
+mdOutlineFlashOff = element (unsafeCoerce _mdOutlineFlashOff)
 
-foreign import mdOutlineFlashOn_ :: ReactIcon
+foreign import _mdOutlineFlashOn :: ReactIcon
 
 mdOutlineFlashOn :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineFlashOn = element (unsafeCoerce mdOutlineFlashOn_)
+mdOutlineFlashOn = element (unsafeCoerce _mdOutlineFlashOn)
 
-foreign import mdOutlineFlatware_ :: ReactIcon
+foreign import _mdOutlineFlatware :: ReactIcon
 
 mdOutlineFlatware :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineFlatware = element (unsafeCoerce mdOutlineFlatware_)
+mdOutlineFlatware = element (unsafeCoerce _mdOutlineFlatware)
 
-foreign import mdOutlineFlight_ :: ReactIcon
+foreign import _mdOutlineFlight :: ReactIcon
 
 mdOutlineFlight :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineFlight = element (unsafeCoerce mdOutlineFlight_)
+mdOutlineFlight = element (unsafeCoerce _mdOutlineFlight)
 
-foreign import mdOutlineFlightLand_ :: ReactIcon
+foreign import _mdOutlineFlightLand :: ReactIcon
 
 mdOutlineFlightLand :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineFlightLand = element (unsafeCoerce mdOutlineFlightLand_)
+mdOutlineFlightLand = element (unsafeCoerce _mdOutlineFlightLand)
 
-foreign import mdOutlineFlightTakeoff_ :: ReactIcon
+foreign import _mdOutlineFlightTakeoff :: ReactIcon
 
 mdOutlineFlightTakeoff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineFlightTakeoff = element (unsafeCoerce mdOutlineFlightTakeoff_)
+mdOutlineFlightTakeoff = element (unsafeCoerce _mdOutlineFlightTakeoff)
 
-foreign import mdOutlineFlip_ :: ReactIcon
+foreign import _mdOutlineFlip :: ReactIcon
 
 mdOutlineFlip :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineFlip = element (unsafeCoerce mdOutlineFlip_)
+mdOutlineFlip = element (unsafeCoerce _mdOutlineFlip)
 
-foreign import mdOutlineFlipCameraAndroid_ :: ReactIcon
+foreign import _mdOutlineFlipCameraAndroid :: ReactIcon
 
 mdOutlineFlipCameraAndroid :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineFlipCameraAndroid = element (unsafeCoerce mdOutlineFlipCameraAndroid_)
+mdOutlineFlipCameraAndroid = element (unsafeCoerce _mdOutlineFlipCameraAndroid)
 
-foreign import mdOutlineFlipCameraIos_ :: ReactIcon
+foreign import _mdOutlineFlipCameraIos :: ReactIcon
 
 mdOutlineFlipCameraIos :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineFlipCameraIos = element (unsafeCoerce mdOutlineFlipCameraIos_)
+mdOutlineFlipCameraIos = element (unsafeCoerce _mdOutlineFlipCameraIos)
 
-foreign import mdOutlineFlipToBack_ :: ReactIcon
+foreign import _mdOutlineFlipToBack :: ReactIcon
 
 mdOutlineFlipToBack :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineFlipToBack = element (unsafeCoerce mdOutlineFlipToBack_)
+mdOutlineFlipToBack = element (unsafeCoerce _mdOutlineFlipToBack)
 
-foreign import mdOutlineFlipToFront_ :: ReactIcon
+foreign import _mdOutlineFlipToFront :: ReactIcon
 
 mdOutlineFlipToFront :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineFlipToFront = element (unsafeCoerce mdOutlineFlipToFront_)
+mdOutlineFlipToFront = element (unsafeCoerce _mdOutlineFlipToFront)
 
-foreign import mdOutlineFlourescent_ :: ReactIcon
+foreign import _mdOutlineFlourescent :: ReactIcon
 
 mdOutlineFlourescent :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineFlourescent = element (unsafeCoerce mdOutlineFlourescent_)
+mdOutlineFlourescent = element (unsafeCoerce _mdOutlineFlourescent)
 
-foreign import mdOutlineFlutterDash_ :: ReactIcon
+foreign import _mdOutlineFlutterDash :: ReactIcon
 
 mdOutlineFlutterDash :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineFlutterDash = element (unsafeCoerce mdOutlineFlutterDash_)
+mdOutlineFlutterDash = element (unsafeCoerce _mdOutlineFlutterDash)
 
-foreign import mdOutlineFmdBad_ :: ReactIcon
+foreign import _mdOutlineFmdBad :: ReactIcon
 
 mdOutlineFmdBad :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineFmdBad = element (unsafeCoerce mdOutlineFmdBad_)
+mdOutlineFmdBad = element (unsafeCoerce _mdOutlineFmdBad)
 
-foreign import mdOutlineFmdGood_ :: ReactIcon
+foreign import _mdOutlineFmdGood :: ReactIcon
 
 mdOutlineFmdGood :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineFmdGood = element (unsafeCoerce mdOutlineFmdGood_)
+mdOutlineFmdGood = element (unsafeCoerce _mdOutlineFmdGood)
 
-foreign import mdOutlineFolder_ :: ReactIcon
+foreign import _mdOutlineFolder :: ReactIcon
 
 mdOutlineFolder :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineFolder = element (unsafeCoerce mdOutlineFolder_)
+mdOutlineFolder = element (unsafeCoerce _mdOutlineFolder)
 
-foreign import mdOutlineFolderOpen_ :: ReactIcon
+foreign import _mdOutlineFolderOpen :: ReactIcon
 
 mdOutlineFolderOpen :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineFolderOpen = element (unsafeCoerce mdOutlineFolderOpen_)
+mdOutlineFolderOpen = element (unsafeCoerce _mdOutlineFolderOpen)
 
-foreign import mdOutlineFolderShared_ :: ReactIcon
+foreign import _mdOutlineFolderShared :: ReactIcon
 
 mdOutlineFolderShared :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineFolderShared = element (unsafeCoerce mdOutlineFolderShared_)
+mdOutlineFolderShared = element (unsafeCoerce _mdOutlineFolderShared)
 
-foreign import mdOutlineFolderSpecial_ :: ReactIcon
+foreign import _mdOutlineFolderSpecial :: ReactIcon
 
 mdOutlineFolderSpecial :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineFolderSpecial = element (unsafeCoerce mdOutlineFolderSpecial_)
+mdOutlineFolderSpecial = element (unsafeCoerce _mdOutlineFolderSpecial)
 
-foreign import mdOutlineFollowTheSigns_ :: ReactIcon
+foreign import _mdOutlineFollowTheSigns :: ReactIcon
 
 mdOutlineFollowTheSigns :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineFollowTheSigns = element (unsafeCoerce mdOutlineFollowTheSigns_)
+mdOutlineFollowTheSigns = element (unsafeCoerce _mdOutlineFollowTheSigns)
 
-foreign import mdOutlineFontDownload_ :: ReactIcon
+foreign import _mdOutlineFontDownload :: ReactIcon
 
 mdOutlineFontDownload :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineFontDownload = element (unsafeCoerce mdOutlineFontDownload_)
+mdOutlineFontDownload = element (unsafeCoerce _mdOutlineFontDownload)
 
-foreign import mdOutlineFontDownloadOff_ :: ReactIcon
+foreign import _mdOutlineFontDownloadOff :: ReactIcon
 
 mdOutlineFontDownloadOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineFontDownloadOff = element (unsafeCoerce mdOutlineFontDownloadOff_)
+mdOutlineFontDownloadOff = element (unsafeCoerce _mdOutlineFontDownloadOff)
 
-foreign import mdOutlineFoodBank_ :: ReactIcon
+foreign import _mdOutlineFoodBank :: ReactIcon
 
 mdOutlineFoodBank :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineFoodBank = element (unsafeCoerce mdOutlineFoodBank_)
+mdOutlineFoodBank = element (unsafeCoerce _mdOutlineFoodBank)
 
-foreign import mdOutlineFormatAlignCenter_ :: ReactIcon
+foreign import _mdOutlineFormatAlignCenter :: ReactIcon
 
 mdOutlineFormatAlignCenter :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineFormatAlignCenter = element (unsafeCoerce mdOutlineFormatAlignCenter_)
+mdOutlineFormatAlignCenter = element (unsafeCoerce _mdOutlineFormatAlignCenter)
 
-foreign import mdOutlineFormatAlignJustify_ :: ReactIcon
+foreign import _mdOutlineFormatAlignJustify :: ReactIcon
 
 mdOutlineFormatAlignJustify :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineFormatAlignJustify = element (unsafeCoerce mdOutlineFormatAlignJustify_)
+mdOutlineFormatAlignJustify = element (unsafeCoerce _mdOutlineFormatAlignJustify)
 
-foreign import mdOutlineFormatAlignLeft_ :: ReactIcon
+foreign import _mdOutlineFormatAlignLeft :: ReactIcon
 
 mdOutlineFormatAlignLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineFormatAlignLeft = element (unsafeCoerce mdOutlineFormatAlignLeft_)
+mdOutlineFormatAlignLeft = element (unsafeCoerce _mdOutlineFormatAlignLeft)
 
-foreign import mdOutlineFormatAlignRight_ :: ReactIcon
+foreign import _mdOutlineFormatAlignRight :: ReactIcon
 
 mdOutlineFormatAlignRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineFormatAlignRight = element (unsafeCoerce mdOutlineFormatAlignRight_)
+mdOutlineFormatAlignRight = element (unsafeCoerce _mdOutlineFormatAlignRight)
 
-foreign import mdOutlineFormatBold_ :: ReactIcon
+foreign import _mdOutlineFormatBold :: ReactIcon
 
 mdOutlineFormatBold :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineFormatBold = element (unsafeCoerce mdOutlineFormatBold_)
+mdOutlineFormatBold = element (unsafeCoerce _mdOutlineFormatBold)
 
-foreign import mdOutlineFormatClear_ :: ReactIcon
+foreign import _mdOutlineFormatClear :: ReactIcon
 
 mdOutlineFormatClear :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineFormatClear = element (unsafeCoerce mdOutlineFormatClear_)
+mdOutlineFormatClear = element (unsafeCoerce _mdOutlineFormatClear)
 
-foreign import mdOutlineFormatColorFill_ :: ReactIcon
+foreign import _mdOutlineFormatColorFill :: ReactIcon
 
 mdOutlineFormatColorFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineFormatColorFill = element (unsafeCoerce mdOutlineFormatColorFill_)
+mdOutlineFormatColorFill = element (unsafeCoerce _mdOutlineFormatColorFill)
 
-foreign import mdOutlineFormatColorReset_ :: ReactIcon
+foreign import _mdOutlineFormatColorReset :: ReactIcon
 
 mdOutlineFormatColorReset :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineFormatColorReset = element (unsafeCoerce mdOutlineFormatColorReset_)
+mdOutlineFormatColorReset = element (unsafeCoerce _mdOutlineFormatColorReset)
 
-foreign import mdOutlineFormatColorText_ :: ReactIcon
+foreign import _mdOutlineFormatColorText :: ReactIcon
 
 mdOutlineFormatColorText :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineFormatColorText = element (unsafeCoerce mdOutlineFormatColorText_)
+mdOutlineFormatColorText = element (unsafeCoerce _mdOutlineFormatColorText)
 
-foreign import mdOutlineFormatIndentDecrease_ :: ReactIcon
+foreign import _mdOutlineFormatIndentDecrease :: ReactIcon
 
 mdOutlineFormatIndentDecrease :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineFormatIndentDecrease = element (unsafeCoerce mdOutlineFormatIndentDecrease_)
+mdOutlineFormatIndentDecrease = element (unsafeCoerce _mdOutlineFormatIndentDecrease)
 
-foreign import mdOutlineFormatIndentIncrease_ :: ReactIcon
+foreign import _mdOutlineFormatIndentIncrease :: ReactIcon
 
 mdOutlineFormatIndentIncrease :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineFormatIndentIncrease = element (unsafeCoerce mdOutlineFormatIndentIncrease_)
+mdOutlineFormatIndentIncrease = element (unsafeCoerce _mdOutlineFormatIndentIncrease)
 
-foreign import mdOutlineFormatItalic_ :: ReactIcon
+foreign import _mdOutlineFormatItalic :: ReactIcon
 
 mdOutlineFormatItalic :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineFormatItalic = element (unsafeCoerce mdOutlineFormatItalic_)
+mdOutlineFormatItalic = element (unsafeCoerce _mdOutlineFormatItalic)
 
-foreign import mdOutlineFormatLineSpacing_ :: ReactIcon
+foreign import _mdOutlineFormatLineSpacing :: ReactIcon
 
 mdOutlineFormatLineSpacing :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineFormatLineSpacing = element (unsafeCoerce mdOutlineFormatLineSpacing_)
+mdOutlineFormatLineSpacing = element (unsafeCoerce _mdOutlineFormatLineSpacing)
 
-foreign import mdOutlineFormatListBulleted_ :: ReactIcon
+foreign import _mdOutlineFormatListBulleted :: ReactIcon
 
 mdOutlineFormatListBulleted :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineFormatListBulleted = element (unsafeCoerce mdOutlineFormatListBulleted_)
+mdOutlineFormatListBulleted = element (unsafeCoerce _mdOutlineFormatListBulleted)
 
-foreign import mdOutlineFormatListNumbered_ :: ReactIcon
+foreign import _mdOutlineFormatListNumbered :: ReactIcon
 
 mdOutlineFormatListNumbered :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineFormatListNumbered = element (unsafeCoerce mdOutlineFormatListNumbered_)
+mdOutlineFormatListNumbered = element (unsafeCoerce _mdOutlineFormatListNumbered)
 
-foreign import mdOutlineFormatListNumberedRtl_ :: ReactIcon
+foreign import _mdOutlineFormatListNumberedRtl :: ReactIcon
 
 mdOutlineFormatListNumberedRtl :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineFormatListNumberedRtl = element (unsafeCoerce mdOutlineFormatListNumberedRtl_)
+mdOutlineFormatListNumberedRtl = element (unsafeCoerce _mdOutlineFormatListNumberedRtl)
 
-foreign import mdOutlineFormatPaint_ :: ReactIcon
+foreign import _mdOutlineFormatPaint :: ReactIcon
 
 mdOutlineFormatPaint :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineFormatPaint = element (unsafeCoerce mdOutlineFormatPaint_)
+mdOutlineFormatPaint = element (unsafeCoerce _mdOutlineFormatPaint)
 
-foreign import mdOutlineFormatQuote_ :: ReactIcon
+foreign import _mdOutlineFormatQuote :: ReactIcon
 
 mdOutlineFormatQuote :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineFormatQuote = element (unsafeCoerce mdOutlineFormatQuote_)
+mdOutlineFormatQuote = element (unsafeCoerce _mdOutlineFormatQuote)
 
-foreign import mdOutlineFormatShapes_ :: ReactIcon
+foreign import _mdOutlineFormatShapes :: ReactIcon
 
 mdOutlineFormatShapes :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineFormatShapes = element (unsafeCoerce mdOutlineFormatShapes_)
+mdOutlineFormatShapes = element (unsafeCoerce _mdOutlineFormatShapes)
 
-foreign import mdOutlineFormatSize_ :: ReactIcon
+foreign import _mdOutlineFormatSize :: ReactIcon
 
 mdOutlineFormatSize :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineFormatSize = element (unsafeCoerce mdOutlineFormatSize_)
+mdOutlineFormatSize = element (unsafeCoerce _mdOutlineFormatSize)
 
-foreign import mdOutlineFormatStrikethrough_ :: ReactIcon
+foreign import _mdOutlineFormatStrikethrough :: ReactIcon
 
 mdOutlineFormatStrikethrough :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineFormatStrikethrough = element (unsafeCoerce mdOutlineFormatStrikethrough_)
+mdOutlineFormatStrikethrough = element (unsafeCoerce _mdOutlineFormatStrikethrough)
 
-foreign import mdOutlineFormatTextdirectionLToR_ :: ReactIcon
+foreign import _mdOutlineFormatTextdirectionLToR :: ReactIcon
 
 mdOutlineFormatTextdirectionLToR :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineFormatTextdirectionLToR = element (unsafeCoerce mdOutlineFormatTextdirectionLToR_)
+mdOutlineFormatTextdirectionLToR = element (unsafeCoerce _mdOutlineFormatTextdirectionLToR)
 
-foreign import mdOutlineFormatTextdirectionRToL_ :: ReactIcon
+foreign import _mdOutlineFormatTextdirectionRToL :: ReactIcon
 
 mdOutlineFormatTextdirectionRToL :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineFormatTextdirectionRToL = element (unsafeCoerce mdOutlineFormatTextdirectionRToL_)
+mdOutlineFormatTextdirectionRToL = element (unsafeCoerce _mdOutlineFormatTextdirectionRToL)
 
-foreign import mdOutlineFormatUnderlined_ :: ReactIcon
+foreign import _mdOutlineFormatUnderlined :: ReactIcon
 
 mdOutlineFormatUnderlined :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineFormatUnderlined = element (unsafeCoerce mdOutlineFormatUnderlined_)
+mdOutlineFormatUnderlined = element (unsafeCoerce _mdOutlineFormatUnderlined)
 
-foreign import mdOutlineForum_ :: ReactIcon
+foreign import _mdOutlineForum :: ReactIcon
 
 mdOutlineForum :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineForum = element (unsafeCoerce mdOutlineForum_)
+mdOutlineForum = element (unsafeCoerce _mdOutlineForum)
 
-foreign import mdOutlineForward_ :: ReactIcon
+foreign import _mdOutlineForward :: ReactIcon
 
 mdOutlineForward :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineForward = element (unsafeCoerce mdOutlineForward_)
+mdOutlineForward = element (unsafeCoerce _mdOutlineForward)
 
-foreign import mdOutlineForwardToInbox_ :: ReactIcon
+foreign import _mdOutlineForwardToInbox :: ReactIcon
 
 mdOutlineForwardToInbox :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineForwardToInbox = element (unsafeCoerce mdOutlineForwardToInbox_)
+mdOutlineForwardToInbox = element (unsafeCoerce _mdOutlineForwardToInbox)
 
-foreign import mdOutlineFoundation_ :: ReactIcon
+foreign import _mdOutlineFoundation :: ReactIcon
 
 mdOutlineFoundation :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineFoundation = element (unsafeCoerce mdOutlineFoundation_)
+mdOutlineFoundation = element (unsafeCoerce _mdOutlineFoundation)
 
-foreign import mdOutlineFreeBreakfast_ :: ReactIcon
+foreign import _mdOutlineFreeBreakfast :: ReactIcon
 
 mdOutlineFreeBreakfast :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineFreeBreakfast = element (unsafeCoerce mdOutlineFreeBreakfast_)
+mdOutlineFreeBreakfast = element (unsafeCoerce _mdOutlineFreeBreakfast)
 
-foreign import mdOutlineFreeCancellation_ :: ReactIcon
+foreign import _mdOutlineFreeCancellation :: ReactIcon
 
 mdOutlineFreeCancellation :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineFreeCancellation = element (unsafeCoerce mdOutlineFreeCancellation_)
+mdOutlineFreeCancellation = element (unsafeCoerce _mdOutlineFreeCancellation)
 
-foreign import mdOutlineFrontHand_ :: ReactIcon
+foreign import _mdOutlineFrontHand :: ReactIcon
 
 mdOutlineFrontHand :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineFrontHand = element (unsafeCoerce mdOutlineFrontHand_)
+mdOutlineFrontHand = element (unsafeCoerce _mdOutlineFrontHand)
 
-foreign import mdOutlineFullscreen_ :: ReactIcon
+foreign import _mdOutlineFullscreen :: ReactIcon
 
 mdOutlineFullscreen :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineFullscreen = element (unsafeCoerce mdOutlineFullscreen_)
+mdOutlineFullscreen = element (unsafeCoerce _mdOutlineFullscreen)
 
-foreign import mdOutlineFullscreenExit_ :: ReactIcon
+foreign import _mdOutlineFullscreenExit :: ReactIcon
 
 mdOutlineFullscreenExit :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineFullscreenExit = element (unsafeCoerce mdOutlineFullscreenExit_)
+mdOutlineFullscreenExit = element (unsafeCoerce _mdOutlineFullscreenExit)
 
-foreign import mdOutlineFunctions_ :: ReactIcon
+foreign import _mdOutlineFunctions :: ReactIcon
 
 mdOutlineFunctions :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineFunctions = element (unsafeCoerce mdOutlineFunctions_)
+mdOutlineFunctions = element (unsafeCoerce _mdOutlineFunctions)
 
-foreign import mdOutlineGamepad_ :: ReactIcon
+foreign import _mdOutlineGamepad :: ReactIcon
 
 mdOutlineGamepad :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineGamepad = element (unsafeCoerce mdOutlineGamepad_)
+mdOutlineGamepad = element (unsafeCoerce _mdOutlineGamepad)
 
-foreign import mdOutlineGames_ :: ReactIcon
+foreign import _mdOutlineGames :: ReactIcon
 
 mdOutlineGames :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineGames = element (unsafeCoerce mdOutlineGames_)
+mdOutlineGames = element (unsafeCoerce _mdOutlineGames)
 
-foreign import mdOutlineGarage_ :: ReactIcon
+foreign import _mdOutlineGarage :: ReactIcon
 
 mdOutlineGarage :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineGarage = element (unsafeCoerce mdOutlineGarage_)
+mdOutlineGarage = element (unsafeCoerce _mdOutlineGarage)
 
-foreign import mdOutlineGavel_ :: ReactIcon
+foreign import _mdOutlineGavel :: ReactIcon
 
 mdOutlineGavel :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineGavel = element (unsafeCoerce mdOutlineGavel_)
+mdOutlineGavel = element (unsafeCoerce _mdOutlineGavel)
 
-foreign import mdOutlineGeneratingTokens_ :: ReactIcon
+foreign import _mdOutlineGeneratingTokens :: ReactIcon
 
 mdOutlineGeneratingTokens :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineGeneratingTokens = element (unsafeCoerce mdOutlineGeneratingTokens_)
+mdOutlineGeneratingTokens = element (unsafeCoerce _mdOutlineGeneratingTokens)
 
-foreign import mdOutlineGesture_ :: ReactIcon
+foreign import _mdOutlineGesture :: ReactIcon
 
 mdOutlineGesture :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineGesture = element (unsafeCoerce mdOutlineGesture_)
+mdOutlineGesture = element (unsafeCoerce _mdOutlineGesture)
 
-foreign import mdOutlineGetApp_ :: ReactIcon
+foreign import _mdOutlineGetApp :: ReactIcon
 
 mdOutlineGetApp :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineGetApp = element (unsafeCoerce mdOutlineGetApp_)
+mdOutlineGetApp = element (unsafeCoerce _mdOutlineGetApp)
 
-foreign import mdOutlineGif_ :: ReactIcon
+foreign import _mdOutlineGif :: ReactIcon
 
 mdOutlineGif :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineGif = element (unsafeCoerce mdOutlineGif_)
+mdOutlineGif = element (unsafeCoerce _mdOutlineGif)
 
-foreign import mdOutlineGite_ :: ReactIcon
+foreign import _mdOutlineGite :: ReactIcon
 
 mdOutlineGite :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineGite = element (unsafeCoerce mdOutlineGite_)
+mdOutlineGite = element (unsafeCoerce _mdOutlineGite)
 
-foreign import mdOutlineGMobiledata_ :: ReactIcon
+foreign import _mdOutlineGMobiledata :: ReactIcon
 
 mdOutlineGMobiledata :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineGMobiledata = element (unsafeCoerce mdOutlineGMobiledata_)
+mdOutlineGMobiledata = element (unsafeCoerce _mdOutlineGMobiledata)
 
-foreign import mdOutlineGolfCourse_ :: ReactIcon
+foreign import _mdOutlineGolfCourse :: ReactIcon
 
 mdOutlineGolfCourse :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineGolfCourse = element (unsafeCoerce mdOutlineGolfCourse_)
+mdOutlineGolfCourse = element (unsafeCoerce _mdOutlineGolfCourse)
 
-foreign import mdOutlineGppBad_ :: ReactIcon
+foreign import _mdOutlineGppBad :: ReactIcon
 
 mdOutlineGppBad :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineGppBad = element (unsafeCoerce mdOutlineGppBad_)
+mdOutlineGppBad = element (unsafeCoerce _mdOutlineGppBad)
 
-foreign import mdOutlineGppGood_ :: ReactIcon
+foreign import _mdOutlineGppGood :: ReactIcon
 
 mdOutlineGppGood :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineGppGood = element (unsafeCoerce mdOutlineGppGood_)
+mdOutlineGppGood = element (unsafeCoerce _mdOutlineGppGood)
 
-foreign import mdOutlineGppMaybe_ :: ReactIcon
+foreign import _mdOutlineGppMaybe :: ReactIcon
 
 mdOutlineGppMaybe :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineGppMaybe = element (unsafeCoerce mdOutlineGppMaybe_)
+mdOutlineGppMaybe = element (unsafeCoerce _mdOutlineGppMaybe)
 
-foreign import mdOutlineGpsFixed_ :: ReactIcon
+foreign import _mdOutlineGpsFixed :: ReactIcon
 
 mdOutlineGpsFixed :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineGpsFixed = element (unsafeCoerce mdOutlineGpsFixed_)
+mdOutlineGpsFixed = element (unsafeCoerce _mdOutlineGpsFixed)
 
-foreign import mdOutlineGpsNotFixed_ :: ReactIcon
+foreign import _mdOutlineGpsNotFixed :: ReactIcon
 
 mdOutlineGpsNotFixed :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineGpsNotFixed = element (unsafeCoerce mdOutlineGpsNotFixed_)
+mdOutlineGpsNotFixed = element (unsafeCoerce _mdOutlineGpsNotFixed)
 
-foreign import mdOutlineGpsOff_ :: ReactIcon
+foreign import _mdOutlineGpsOff :: ReactIcon
 
 mdOutlineGpsOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineGpsOff = element (unsafeCoerce mdOutlineGpsOff_)
+mdOutlineGpsOff = element (unsafeCoerce _mdOutlineGpsOff)
 
-foreign import mdOutlineGrade_ :: ReactIcon
+foreign import _mdOutlineGrade :: ReactIcon
 
 mdOutlineGrade :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineGrade = element (unsafeCoerce mdOutlineGrade_)
+mdOutlineGrade = element (unsafeCoerce _mdOutlineGrade)
 
-foreign import mdOutlineGradient_ :: ReactIcon
+foreign import _mdOutlineGradient :: ReactIcon
 
 mdOutlineGradient :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineGradient = element (unsafeCoerce mdOutlineGradient_)
+mdOutlineGradient = element (unsafeCoerce _mdOutlineGradient)
 
-foreign import mdOutlineGrading_ :: ReactIcon
+foreign import _mdOutlineGrading :: ReactIcon
 
 mdOutlineGrading :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineGrading = element (unsafeCoerce mdOutlineGrading_)
+mdOutlineGrading = element (unsafeCoerce _mdOutlineGrading)
 
-foreign import mdOutlineGrain_ :: ReactIcon
+foreign import _mdOutlineGrain :: ReactIcon
 
 mdOutlineGrain :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineGrain = element (unsafeCoerce mdOutlineGrain_)
+mdOutlineGrain = element (unsafeCoerce _mdOutlineGrain)
 
-foreign import mdOutlineGraphicEq_ :: ReactIcon
+foreign import _mdOutlineGraphicEq :: ReactIcon
 
 mdOutlineGraphicEq :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineGraphicEq = element (unsafeCoerce mdOutlineGraphicEq_)
+mdOutlineGraphicEq = element (unsafeCoerce _mdOutlineGraphicEq)
 
-foreign import mdOutlineGrass_ :: ReactIcon
+foreign import _mdOutlineGrass :: ReactIcon
 
 mdOutlineGrass :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineGrass = element (unsafeCoerce mdOutlineGrass_)
+mdOutlineGrass = element (unsafeCoerce _mdOutlineGrass)
 
-foreign import mdOutlineGridGoldenratio_ :: ReactIcon
+foreign import _mdOutlineGridGoldenratio :: ReactIcon
 
 mdOutlineGridGoldenratio :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineGridGoldenratio = element (unsafeCoerce mdOutlineGridGoldenratio_)
+mdOutlineGridGoldenratio = element (unsafeCoerce _mdOutlineGridGoldenratio)
 
-foreign import mdOutlineGridOff_ :: ReactIcon
+foreign import _mdOutlineGridOff :: ReactIcon
 
 mdOutlineGridOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineGridOff = element (unsafeCoerce mdOutlineGridOff_)
+mdOutlineGridOff = element (unsafeCoerce _mdOutlineGridOff)
 
-foreign import mdOutlineGridOn_ :: ReactIcon
+foreign import _mdOutlineGridOn :: ReactIcon
 
 mdOutlineGridOn :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineGridOn = element (unsafeCoerce mdOutlineGridOn_)
+mdOutlineGridOn = element (unsafeCoerce _mdOutlineGridOn)
 
-foreign import mdOutlineGridView_ :: ReactIcon
+foreign import _mdOutlineGridView :: ReactIcon
 
 mdOutlineGridView :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineGridView = element (unsafeCoerce mdOutlineGridView_)
+mdOutlineGridView = element (unsafeCoerce _mdOutlineGridView)
 
-foreign import mdOutlineGroup_ :: ReactIcon
+foreign import _mdOutlineGroup :: ReactIcon
 
 mdOutlineGroup :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineGroup = element (unsafeCoerce mdOutlineGroup_)
+mdOutlineGroup = element (unsafeCoerce _mdOutlineGroup)
 
-foreign import mdOutlineGroupAdd_ :: ReactIcon
+foreign import _mdOutlineGroupAdd :: ReactIcon
 
 mdOutlineGroupAdd :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineGroupAdd = element (unsafeCoerce mdOutlineGroupAdd_)
+mdOutlineGroupAdd = element (unsafeCoerce _mdOutlineGroupAdd)
 
-foreign import mdOutlineGroupOff_ :: ReactIcon
+foreign import _mdOutlineGroupOff :: ReactIcon
 
 mdOutlineGroupOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineGroupOff = element (unsafeCoerce mdOutlineGroupOff_)
+mdOutlineGroupOff = element (unsafeCoerce _mdOutlineGroupOff)
 
-foreign import mdOutlineGroups_ :: ReactIcon
+foreign import _mdOutlineGroups :: ReactIcon
 
 mdOutlineGroups :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineGroups = element (unsafeCoerce mdOutlineGroups_)
+mdOutlineGroups = element (unsafeCoerce _mdOutlineGroups)
 
-foreign import mdOutlineGroupWork_ :: ReactIcon
+foreign import _mdOutlineGroupWork :: ReactIcon
 
 mdOutlineGroupWork :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineGroupWork = element (unsafeCoerce mdOutlineGroupWork_)
+mdOutlineGroupWork = element (unsafeCoerce _mdOutlineGroupWork)
 
-foreign import mdOutlineGTranslate_ :: ReactIcon
+foreign import _mdOutlineGTranslate :: ReactIcon
 
 mdOutlineGTranslate :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineGTranslate = element (unsafeCoerce mdOutlineGTranslate_)
+mdOutlineGTranslate = element (unsafeCoerce _mdOutlineGTranslate)
 
-foreign import mdOutlineHail_ :: ReactIcon
+foreign import _mdOutlineHail :: ReactIcon
 
 mdOutlineHail :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineHail = element (unsafeCoerce mdOutlineHail_)
+mdOutlineHail = element (unsafeCoerce _mdOutlineHail)
 
-foreign import mdOutlineHandyman_ :: ReactIcon
+foreign import _mdOutlineHandyman :: ReactIcon
 
 mdOutlineHandyman :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineHandyman = element (unsafeCoerce mdOutlineHandyman_)
+mdOutlineHandyman = element (unsafeCoerce _mdOutlineHandyman)
 
-foreign import mdOutlineHardware_ :: ReactIcon
+foreign import _mdOutlineHardware :: ReactIcon
 
 mdOutlineHardware :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineHardware = element (unsafeCoerce mdOutlineHardware_)
+mdOutlineHardware = element (unsafeCoerce _mdOutlineHardware)
 
-foreign import mdOutlineHd_ :: ReactIcon
+foreign import _mdOutlineHd :: ReactIcon
 
 mdOutlineHd :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineHd = element (unsafeCoerce mdOutlineHd_)
+mdOutlineHd = element (unsafeCoerce _mdOutlineHd)
 
-foreign import mdOutlineHdrAuto_ :: ReactIcon
+foreign import _mdOutlineHdrAuto :: ReactIcon
 
 mdOutlineHdrAuto :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineHdrAuto = element (unsafeCoerce mdOutlineHdrAuto_)
+mdOutlineHdrAuto = element (unsafeCoerce _mdOutlineHdrAuto)
 
-foreign import mdOutlineHdrAutoSelect_ :: ReactIcon
+foreign import _mdOutlineHdrAutoSelect :: ReactIcon
 
 mdOutlineHdrAutoSelect :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineHdrAutoSelect = element (unsafeCoerce mdOutlineHdrAutoSelect_)
+mdOutlineHdrAutoSelect = element (unsafeCoerce _mdOutlineHdrAutoSelect)
 
-foreign import mdOutlineHdrEnhancedSelect_ :: ReactIcon
+foreign import _mdOutlineHdrEnhancedSelect :: ReactIcon
 
 mdOutlineHdrEnhancedSelect :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineHdrEnhancedSelect = element (unsafeCoerce mdOutlineHdrEnhancedSelect_)
+mdOutlineHdrEnhancedSelect = element (unsafeCoerce _mdOutlineHdrEnhancedSelect)
 
-foreign import mdOutlineHdrOff_ :: ReactIcon
+foreign import _mdOutlineHdrOff :: ReactIcon
 
 mdOutlineHdrOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineHdrOff = element (unsafeCoerce mdOutlineHdrOff_)
+mdOutlineHdrOff = element (unsafeCoerce _mdOutlineHdrOff)
 
-foreign import mdOutlineHdrOffSelect_ :: ReactIcon
+foreign import _mdOutlineHdrOffSelect :: ReactIcon
 
 mdOutlineHdrOffSelect :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineHdrOffSelect = element (unsafeCoerce mdOutlineHdrOffSelect_)
+mdOutlineHdrOffSelect = element (unsafeCoerce _mdOutlineHdrOffSelect)
 
-foreign import mdOutlineHdrOn_ :: ReactIcon
+foreign import _mdOutlineHdrOn :: ReactIcon
 
 mdOutlineHdrOn :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineHdrOn = element (unsafeCoerce mdOutlineHdrOn_)
+mdOutlineHdrOn = element (unsafeCoerce _mdOutlineHdrOn)
 
-foreign import mdOutlineHdrOnSelect_ :: ReactIcon
+foreign import _mdOutlineHdrOnSelect :: ReactIcon
 
 mdOutlineHdrOnSelect :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineHdrOnSelect = element (unsafeCoerce mdOutlineHdrOnSelect_)
+mdOutlineHdrOnSelect = element (unsafeCoerce _mdOutlineHdrOnSelect)
 
-foreign import mdOutlineHdrPlus_ :: ReactIcon
+foreign import _mdOutlineHdrPlus :: ReactIcon
 
 mdOutlineHdrPlus :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineHdrPlus = element (unsafeCoerce mdOutlineHdrPlus_)
+mdOutlineHdrPlus = element (unsafeCoerce _mdOutlineHdrPlus)
 
-foreign import mdOutlineHdrStrong_ :: ReactIcon
+foreign import _mdOutlineHdrStrong :: ReactIcon
 
 mdOutlineHdrStrong :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineHdrStrong = element (unsafeCoerce mdOutlineHdrStrong_)
+mdOutlineHdrStrong = element (unsafeCoerce _mdOutlineHdrStrong)
 
-foreign import mdOutlineHdrWeak_ :: ReactIcon
+foreign import _mdOutlineHdrWeak :: ReactIcon
 
 mdOutlineHdrWeak :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineHdrWeak = element (unsafeCoerce mdOutlineHdrWeak_)
+mdOutlineHdrWeak = element (unsafeCoerce _mdOutlineHdrWeak)
 
-foreign import mdOutlineHeadphones_ :: ReactIcon
+foreign import _mdOutlineHeadphones :: ReactIcon
 
 mdOutlineHeadphones :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineHeadphones = element (unsafeCoerce mdOutlineHeadphones_)
+mdOutlineHeadphones = element (unsafeCoerce _mdOutlineHeadphones)
 
-foreign import mdOutlineHeadphonesBattery_ :: ReactIcon
+foreign import _mdOutlineHeadphonesBattery :: ReactIcon
 
 mdOutlineHeadphonesBattery :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineHeadphonesBattery = element (unsafeCoerce mdOutlineHeadphonesBattery_)
+mdOutlineHeadphonesBattery = element (unsafeCoerce _mdOutlineHeadphonesBattery)
 
-foreign import mdOutlineHeadset_ :: ReactIcon
+foreign import _mdOutlineHeadset :: ReactIcon
 
 mdOutlineHeadset :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineHeadset = element (unsafeCoerce mdOutlineHeadset_)
+mdOutlineHeadset = element (unsafeCoerce _mdOutlineHeadset)
 
-foreign import mdOutlineHeadsetMic_ :: ReactIcon
+foreign import _mdOutlineHeadsetMic :: ReactIcon
 
 mdOutlineHeadsetMic :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineHeadsetMic = element (unsafeCoerce mdOutlineHeadsetMic_)
+mdOutlineHeadsetMic = element (unsafeCoerce _mdOutlineHeadsetMic)
 
-foreign import mdOutlineHeadsetOff_ :: ReactIcon
+foreign import _mdOutlineHeadsetOff :: ReactIcon
 
 mdOutlineHeadsetOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineHeadsetOff = element (unsafeCoerce mdOutlineHeadsetOff_)
+mdOutlineHeadsetOff = element (unsafeCoerce _mdOutlineHeadsetOff)
 
-foreign import mdOutlineHealing_ :: ReactIcon
+foreign import _mdOutlineHealing :: ReactIcon
 
 mdOutlineHealing :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineHealing = element (unsafeCoerce mdOutlineHealing_)
+mdOutlineHealing = element (unsafeCoerce _mdOutlineHealing)
 
-foreign import mdOutlineHealthAndSafety_ :: ReactIcon
+foreign import _mdOutlineHealthAndSafety :: ReactIcon
 
 mdOutlineHealthAndSafety :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineHealthAndSafety = element (unsafeCoerce mdOutlineHealthAndSafety_)
+mdOutlineHealthAndSafety = element (unsafeCoerce _mdOutlineHealthAndSafety)
 
-foreign import mdOutlineHearing_ :: ReactIcon
+foreign import _mdOutlineHearing :: ReactIcon
 
 mdOutlineHearing :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineHearing = element (unsafeCoerce mdOutlineHearing_)
+mdOutlineHearing = element (unsafeCoerce _mdOutlineHearing)
 
-foreign import mdOutlineHearingDisabled_ :: ReactIcon
+foreign import _mdOutlineHearingDisabled :: ReactIcon
 
 mdOutlineHearingDisabled :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineHearingDisabled = element (unsafeCoerce mdOutlineHearingDisabled_)
+mdOutlineHearingDisabled = element (unsafeCoerce _mdOutlineHearingDisabled)
 
-foreign import mdOutlineHeight_ :: ReactIcon
+foreign import _mdOutlineHeight :: ReactIcon
 
 mdOutlineHeight :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineHeight = element (unsafeCoerce mdOutlineHeight_)
+mdOutlineHeight = element (unsafeCoerce _mdOutlineHeight)
 
-foreign import mdOutlineHelp_ :: ReactIcon
+foreign import _mdOutlineHelp :: ReactIcon
 
 mdOutlineHelp :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineHelp = element (unsafeCoerce mdOutlineHelp_)
+mdOutlineHelp = element (unsafeCoerce _mdOutlineHelp)
 
-foreign import mdOutlineHelpCenter_ :: ReactIcon
+foreign import _mdOutlineHelpCenter :: ReactIcon
 
 mdOutlineHelpCenter :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineHelpCenter = element (unsafeCoerce mdOutlineHelpCenter_)
+mdOutlineHelpCenter = element (unsafeCoerce _mdOutlineHelpCenter)
 
-foreign import mdOutlineHelpOutline_ :: ReactIcon
+foreign import _mdOutlineHelpOutline :: ReactIcon
 
 mdOutlineHelpOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineHelpOutline = element (unsafeCoerce mdOutlineHelpOutline_)
+mdOutlineHelpOutline = element (unsafeCoerce _mdOutlineHelpOutline)
 
-foreign import mdOutlineHevc_ :: ReactIcon
+foreign import _mdOutlineHevc :: ReactIcon
 
 mdOutlineHevc :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineHevc = element (unsafeCoerce mdOutlineHevc_)
+mdOutlineHevc = element (unsafeCoerce _mdOutlineHevc)
 
-foreign import mdOutlineHideImage_ :: ReactIcon
+foreign import _mdOutlineHideImage :: ReactIcon
 
 mdOutlineHideImage :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineHideImage = element (unsafeCoerce mdOutlineHideImage_)
+mdOutlineHideImage = element (unsafeCoerce _mdOutlineHideImage)
 
-foreign import mdOutlineHideSource_ :: ReactIcon
+foreign import _mdOutlineHideSource :: ReactIcon
 
 mdOutlineHideSource :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineHideSource = element (unsafeCoerce mdOutlineHideSource_)
+mdOutlineHideSource = element (unsafeCoerce _mdOutlineHideSource)
 
-foreign import mdOutlineHighlight_ :: ReactIcon
+foreign import _mdOutlineHighlight :: ReactIcon
 
 mdOutlineHighlight :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineHighlight = element (unsafeCoerce mdOutlineHighlight_)
+mdOutlineHighlight = element (unsafeCoerce _mdOutlineHighlight)
 
-foreign import mdOutlineHighlightAlt_ :: ReactIcon
+foreign import _mdOutlineHighlightAlt :: ReactIcon
 
 mdOutlineHighlightAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineHighlightAlt = element (unsafeCoerce mdOutlineHighlightAlt_)
+mdOutlineHighlightAlt = element (unsafeCoerce _mdOutlineHighlightAlt)
 
-foreign import mdOutlineHighlightOff_ :: ReactIcon
+foreign import _mdOutlineHighlightOff :: ReactIcon
 
 mdOutlineHighlightOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineHighlightOff = element (unsafeCoerce mdOutlineHighlightOff_)
+mdOutlineHighlightOff = element (unsafeCoerce _mdOutlineHighlightOff)
 
-foreign import mdOutlineHighQuality_ :: ReactIcon
+foreign import _mdOutlineHighQuality :: ReactIcon
 
 mdOutlineHighQuality :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineHighQuality = element (unsafeCoerce mdOutlineHighQuality_)
+mdOutlineHighQuality = element (unsafeCoerce _mdOutlineHighQuality)
 
-foreign import mdOutlineHiking_ :: ReactIcon
+foreign import _mdOutlineHiking :: ReactIcon
 
 mdOutlineHiking :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineHiking = element (unsafeCoerce mdOutlineHiking_)
+mdOutlineHiking = element (unsafeCoerce _mdOutlineHiking)
 
-foreign import mdOutlineHistory_ :: ReactIcon
+foreign import _mdOutlineHistory :: ReactIcon
 
 mdOutlineHistory :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineHistory = element (unsafeCoerce mdOutlineHistory_)
+mdOutlineHistory = element (unsafeCoerce _mdOutlineHistory)
 
-foreign import mdOutlineHistoryEdu_ :: ReactIcon
+foreign import _mdOutlineHistoryEdu :: ReactIcon
 
 mdOutlineHistoryEdu :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineHistoryEdu = element (unsafeCoerce mdOutlineHistoryEdu_)
+mdOutlineHistoryEdu = element (unsafeCoerce _mdOutlineHistoryEdu)
 
-foreign import mdOutlineHistoryToggleOff_ :: ReactIcon
+foreign import _mdOutlineHistoryToggleOff :: ReactIcon
 
 mdOutlineHistoryToggleOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineHistoryToggleOff = element (unsafeCoerce mdOutlineHistoryToggleOff_)
+mdOutlineHistoryToggleOff = element (unsafeCoerce _mdOutlineHistoryToggleOff)
 
-foreign import mdOutlineHMobiledata_ :: ReactIcon
+foreign import _mdOutlineHMobiledata :: ReactIcon
 
 mdOutlineHMobiledata :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineHMobiledata = element (unsafeCoerce mdOutlineHMobiledata_)
+mdOutlineHMobiledata = element (unsafeCoerce _mdOutlineHMobiledata)
 
-foreign import mdOutlineHolidayVillage_ :: ReactIcon
+foreign import _mdOutlineHolidayVillage :: ReactIcon
 
 mdOutlineHolidayVillage :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineHolidayVillage = element (unsafeCoerce mdOutlineHolidayVillage_)
+mdOutlineHolidayVillage = element (unsafeCoerce _mdOutlineHolidayVillage)
 
-foreign import mdOutlineHome_ :: ReactIcon
+foreign import _mdOutlineHome :: ReactIcon
 
 mdOutlineHome :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineHome = element (unsafeCoerce mdOutlineHome_)
+mdOutlineHome = element (unsafeCoerce _mdOutlineHome)
 
-foreign import mdOutlineHomeMax_ :: ReactIcon
+foreign import _mdOutlineHomeMax :: ReactIcon
 
 mdOutlineHomeMax :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineHomeMax = element (unsafeCoerce mdOutlineHomeMax_)
+mdOutlineHomeMax = element (unsafeCoerce _mdOutlineHomeMax)
 
-foreign import mdOutlineHomeMini_ :: ReactIcon
+foreign import _mdOutlineHomeMini :: ReactIcon
 
 mdOutlineHomeMini :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineHomeMini = element (unsafeCoerce mdOutlineHomeMini_)
+mdOutlineHomeMini = element (unsafeCoerce _mdOutlineHomeMini)
 
-foreign import mdOutlineHomeRepairService_ :: ReactIcon
+foreign import _mdOutlineHomeRepairService :: ReactIcon
 
 mdOutlineHomeRepairService :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineHomeRepairService = element (unsafeCoerce mdOutlineHomeRepairService_)
+mdOutlineHomeRepairService = element (unsafeCoerce _mdOutlineHomeRepairService)
 
-foreign import mdOutlineHomeWork_ :: ReactIcon
+foreign import _mdOutlineHomeWork :: ReactIcon
 
 mdOutlineHomeWork :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineHomeWork = element (unsafeCoerce mdOutlineHomeWork_)
+mdOutlineHomeWork = element (unsafeCoerce _mdOutlineHomeWork)
 
-foreign import mdOutlineHorizontalDistribute_ :: ReactIcon
+foreign import _mdOutlineHorizontalDistribute :: ReactIcon
 
 mdOutlineHorizontalDistribute :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineHorizontalDistribute = element (unsafeCoerce mdOutlineHorizontalDistribute_)
+mdOutlineHorizontalDistribute = element (unsafeCoerce _mdOutlineHorizontalDistribute)
 
-foreign import mdOutlineHorizontalRule_ :: ReactIcon
+foreign import _mdOutlineHorizontalRule :: ReactIcon
 
 mdOutlineHorizontalRule :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineHorizontalRule = element (unsafeCoerce mdOutlineHorizontalRule_)
+mdOutlineHorizontalRule = element (unsafeCoerce _mdOutlineHorizontalRule)
 
-foreign import mdOutlineHorizontalSplit_ :: ReactIcon
+foreign import _mdOutlineHorizontalSplit :: ReactIcon
 
 mdOutlineHorizontalSplit :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineHorizontalSplit = element (unsafeCoerce mdOutlineHorizontalSplit_)
+mdOutlineHorizontalSplit = element (unsafeCoerce _mdOutlineHorizontalSplit)
 
-foreign import mdOutlineHotel_ :: ReactIcon
+foreign import _mdOutlineHotel :: ReactIcon
 
 mdOutlineHotel :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineHotel = element (unsafeCoerce mdOutlineHotel_)
+mdOutlineHotel = element (unsafeCoerce _mdOutlineHotel)
 
-foreign import mdOutlineHotelClass_ :: ReactIcon
+foreign import _mdOutlineHotelClass :: ReactIcon
 
 mdOutlineHotelClass :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineHotelClass = element (unsafeCoerce mdOutlineHotelClass_)
+mdOutlineHotelClass = element (unsafeCoerce _mdOutlineHotelClass)
 
-foreign import mdOutlineHotTub_ :: ReactIcon
+foreign import _mdOutlineHotTub :: ReactIcon
 
 mdOutlineHotTub :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineHotTub = element (unsafeCoerce mdOutlineHotTub_)
+mdOutlineHotTub = element (unsafeCoerce _mdOutlineHotTub)
 
-foreign import mdOutlineHourglassBottom_ :: ReactIcon
+foreign import _mdOutlineHourglassBottom :: ReactIcon
 
 mdOutlineHourglassBottom :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineHourglassBottom = element (unsafeCoerce mdOutlineHourglassBottom_)
+mdOutlineHourglassBottom = element (unsafeCoerce _mdOutlineHourglassBottom)
 
-foreign import mdOutlineHourglassDisabled_ :: ReactIcon
+foreign import _mdOutlineHourglassDisabled :: ReactIcon
 
 mdOutlineHourglassDisabled :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineHourglassDisabled = element (unsafeCoerce mdOutlineHourglassDisabled_)
+mdOutlineHourglassDisabled = element (unsafeCoerce _mdOutlineHourglassDisabled)
 
-foreign import mdOutlineHourglassEmpty_ :: ReactIcon
+foreign import _mdOutlineHourglassEmpty :: ReactIcon
 
 mdOutlineHourglassEmpty :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineHourglassEmpty = element (unsafeCoerce mdOutlineHourglassEmpty_)
+mdOutlineHourglassEmpty = element (unsafeCoerce _mdOutlineHourglassEmpty)
 
-foreign import mdOutlineHourglassFull_ :: ReactIcon
+foreign import _mdOutlineHourglassFull :: ReactIcon
 
 mdOutlineHourglassFull :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineHourglassFull = element (unsafeCoerce mdOutlineHourglassFull_)
+mdOutlineHourglassFull = element (unsafeCoerce _mdOutlineHourglassFull)
 
-foreign import mdOutlineHourglassTop_ :: ReactIcon
+foreign import _mdOutlineHourglassTop :: ReactIcon
 
 mdOutlineHourglassTop :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineHourglassTop = element (unsafeCoerce mdOutlineHourglassTop_)
+mdOutlineHourglassTop = element (unsafeCoerce _mdOutlineHourglassTop)
 
-foreign import mdOutlineHouse_ :: ReactIcon
+foreign import _mdOutlineHouse :: ReactIcon
 
 mdOutlineHouse :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineHouse = element (unsafeCoerce mdOutlineHouse_)
+mdOutlineHouse = element (unsafeCoerce _mdOutlineHouse)
 
-foreign import mdOutlineHouseboat_ :: ReactIcon
+foreign import _mdOutlineHouseboat :: ReactIcon
 
 mdOutlineHouseboat :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineHouseboat = element (unsafeCoerce mdOutlineHouseboat_)
+mdOutlineHouseboat = element (unsafeCoerce _mdOutlineHouseboat)
 
-foreign import mdOutlineHouseSiding_ :: ReactIcon
+foreign import _mdOutlineHouseSiding :: ReactIcon
 
 mdOutlineHouseSiding :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineHouseSiding = element (unsafeCoerce mdOutlineHouseSiding_)
+mdOutlineHouseSiding = element (unsafeCoerce _mdOutlineHouseSiding)
 
-foreign import mdOutlineHowToReg_ :: ReactIcon
+foreign import _mdOutlineHowToReg :: ReactIcon
 
 mdOutlineHowToReg :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineHowToReg = element (unsafeCoerce mdOutlineHowToReg_)
+mdOutlineHowToReg = element (unsafeCoerce _mdOutlineHowToReg)
 
-foreign import mdOutlineHowToVote_ :: ReactIcon
+foreign import _mdOutlineHowToVote :: ReactIcon
 
 mdOutlineHowToVote :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineHowToVote = element (unsafeCoerce mdOutlineHowToVote_)
+mdOutlineHowToVote = element (unsafeCoerce _mdOutlineHowToVote)
 
-foreign import mdOutlineHPlusMobiledata_ :: ReactIcon
+foreign import _mdOutlineHPlusMobiledata :: ReactIcon
 
 mdOutlineHPlusMobiledata :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineHPlusMobiledata = element (unsafeCoerce mdOutlineHPlusMobiledata_)
+mdOutlineHPlusMobiledata = element (unsafeCoerce _mdOutlineHPlusMobiledata)
 
-foreign import mdOutlineHttp_ :: ReactIcon
+foreign import _mdOutlineHttp :: ReactIcon
 
 mdOutlineHttp :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineHttp = element (unsafeCoerce mdOutlineHttp_)
+mdOutlineHttp = element (unsafeCoerce _mdOutlineHttp)
 
-foreign import mdOutlineHttps_ :: ReactIcon
+foreign import _mdOutlineHttps :: ReactIcon
 
 mdOutlineHttps :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineHttps = element (unsafeCoerce mdOutlineHttps_)
+mdOutlineHttps = element (unsafeCoerce _mdOutlineHttps)
 
-foreign import mdOutlineHvac_ :: ReactIcon
+foreign import _mdOutlineHvac :: ReactIcon
 
 mdOutlineHvac :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineHvac = element (unsafeCoerce mdOutlineHvac_)
+mdOutlineHvac = element (unsafeCoerce _mdOutlineHvac)
 
-foreign import mdOutlineIcecream_ :: ReactIcon
+foreign import _mdOutlineIcecream :: ReactIcon
 
 mdOutlineIcecream :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineIcecream = element (unsafeCoerce mdOutlineIcecream_)
+mdOutlineIcecream = element (unsafeCoerce _mdOutlineIcecream)
 
-foreign import mdOutlineIceSkating_ :: ReactIcon
+foreign import _mdOutlineIceSkating :: ReactIcon
 
 mdOutlineIceSkating :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineIceSkating = element (unsafeCoerce mdOutlineIceSkating_)
+mdOutlineIceSkating = element (unsafeCoerce _mdOutlineIceSkating)
 
-foreign import mdOutlineImage_ :: ReactIcon
+foreign import _mdOutlineImage :: ReactIcon
 
 mdOutlineImage :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineImage = element (unsafeCoerce mdOutlineImage_)
+mdOutlineImage = element (unsafeCoerce _mdOutlineImage)
 
-foreign import mdOutlineImageAspectRatio_ :: ReactIcon
+foreign import _mdOutlineImageAspectRatio :: ReactIcon
 
 mdOutlineImageAspectRatio :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineImageAspectRatio = element (unsafeCoerce mdOutlineImageAspectRatio_)
+mdOutlineImageAspectRatio = element (unsafeCoerce _mdOutlineImageAspectRatio)
 
-foreign import mdOutlineImageNotSupported_ :: ReactIcon
+foreign import _mdOutlineImageNotSupported :: ReactIcon
 
 mdOutlineImageNotSupported :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineImageNotSupported = element (unsafeCoerce mdOutlineImageNotSupported_)
+mdOutlineImageNotSupported = element (unsafeCoerce _mdOutlineImageNotSupported)
 
-foreign import mdOutlineImageSearch_ :: ReactIcon
+foreign import _mdOutlineImageSearch :: ReactIcon
 
 mdOutlineImageSearch :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineImageSearch = element (unsafeCoerce mdOutlineImageSearch_)
+mdOutlineImageSearch = element (unsafeCoerce _mdOutlineImageSearch)
 
-foreign import mdOutlineImagesearchRoller_ :: ReactIcon
+foreign import _mdOutlineImagesearchRoller :: ReactIcon
 
 mdOutlineImagesearchRoller :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineImagesearchRoller = element (unsafeCoerce mdOutlineImagesearchRoller_)
+mdOutlineImagesearchRoller = element (unsafeCoerce _mdOutlineImagesearchRoller)
 
-foreign import mdOutlineImportantDevices_ :: ReactIcon
+foreign import _mdOutlineImportantDevices :: ReactIcon
 
 mdOutlineImportantDevices :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineImportantDevices = element (unsafeCoerce mdOutlineImportantDevices_)
+mdOutlineImportantDevices = element (unsafeCoerce _mdOutlineImportantDevices)
 
-foreign import mdOutlineImportContacts_ :: ReactIcon
+foreign import _mdOutlineImportContacts :: ReactIcon
 
 mdOutlineImportContacts :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineImportContacts = element (unsafeCoerce mdOutlineImportContacts_)
+mdOutlineImportContacts = element (unsafeCoerce _mdOutlineImportContacts)
 
-foreign import mdOutlineImportExport_ :: ReactIcon
+foreign import _mdOutlineImportExport :: ReactIcon
 
 mdOutlineImportExport :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineImportExport = element (unsafeCoerce mdOutlineImportExport_)
+mdOutlineImportExport = element (unsafeCoerce _mdOutlineImportExport)
 
-foreign import mdOutlineInbox_ :: ReactIcon
+foreign import _mdOutlineInbox :: ReactIcon
 
 mdOutlineInbox :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineInbox = element (unsafeCoerce mdOutlineInbox_)
+mdOutlineInbox = element (unsafeCoerce _mdOutlineInbox)
 
-foreign import mdOutlineIncompleteCircle_ :: ReactIcon
+foreign import _mdOutlineIncompleteCircle :: ReactIcon
 
 mdOutlineIncompleteCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineIncompleteCircle = element (unsafeCoerce mdOutlineIncompleteCircle_)
+mdOutlineIncompleteCircle = element (unsafeCoerce _mdOutlineIncompleteCircle)
 
-foreign import mdOutlineIndeterminateCheckBox_ :: ReactIcon
+foreign import _mdOutlineIndeterminateCheckBox :: ReactIcon
 
 mdOutlineIndeterminateCheckBox :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineIndeterminateCheckBox = element (unsafeCoerce mdOutlineIndeterminateCheckBox_)
+mdOutlineIndeterminateCheckBox = element (unsafeCoerce _mdOutlineIndeterminateCheckBox)
 
-foreign import mdOutlineInfo_ :: ReactIcon
+foreign import _mdOutlineInfo :: ReactIcon
 
 mdOutlineInfo :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineInfo = element (unsafeCoerce mdOutlineInfo_)
+mdOutlineInfo = element (unsafeCoerce _mdOutlineInfo)
 
-foreign import mdOutlineInput_ :: ReactIcon
+foreign import _mdOutlineInput :: ReactIcon
 
 mdOutlineInput :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineInput = element (unsafeCoerce mdOutlineInput_)
+mdOutlineInput = element (unsafeCoerce _mdOutlineInput)
 
-foreign import mdOutlineInsertChart_ :: ReactIcon
+foreign import _mdOutlineInsertChart :: ReactIcon
 
 mdOutlineInsertChart :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineInsertChart = element (unsafeCoerce mdOutlineInsertChart_)
+mdOutlineInsertChart = element (unsafeCoerce _mdOutlineInsertChart)
 
-foreign import mdOutlineInsertChartOutlined_ :: ReactIcon
+foreign import _mdOutlineInsertChartOutlined :: ReactIcon
 
 mdOutlineInsertChartOutlined :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineInsertChartOutlined = element (unsafeCoerce mdOutlineInsertChartOutlined_)
+mdOutlineInsertChartOutlined = element (unsafeCoerce _mdOutlineInsertChartOutlined)
 
-foreign import mdOutlineInsertComment_ :: ReactIcon
+foreign import _mdOutlineInsertComment :: ReactIcon
 
 mdOutlineInsertComment :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineInsertComment = element (unsafeCoerce mdOutlineInsertComment_)
+mdOutlineInsertComment = element (unsafeCoerce _mdOutlineInsertComment)
 
-foreign import mdOutlineInsertDriveFile_ :: ReactIcon
+foreign import _mdOutlineInsertDriveFile :: ReactIcon
 
 mdOutlineInsertDriveFile :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineInsertDriveFile = element (unsafeCoerce mdOutlineInsertDriveFile_)
+mdOutlineInsertDriveFile = element (unsafeCoerce _mdOutlineInsertDriveFile)
 
-foreign import mdOutlineInsertEmoticon_ :: ReactIcon
+foreign import _mdOutlineInsertEmoticon :: ReactIcon
 
 mdOutlineInsertEmoticon :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineInsertEmoticon = element (unsafeCoerce mdOutlineInsertEmoticon_)
+mdOutlineInsertEmoticon = element (unsafeCoerce _mdOutlineInsertEmoticon)
 
-foreign import mdOutlineInsertInvitation_ :: ReactIcon
+foreign import _mdOutlineInsertInvitation :: ReactIcon
 
 mdOutlineInsertInvitation :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineInsertInvitation = element (unsafeCoerce mdOutlineInsertInvitation_)
+mdOutlineInsertInvitation = element (unsafeCoerce _mdOutlineInsertInvitation)
 
-foreign import mdOutlineInsertLink_ :: ReactIcon
+foreign import _mdOutlineInsertLink :: ReactIcon
 
 mdOutlineInsertLink :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineInsertLink = element (unsafeCoerce mdOutlineInsertLink_)
+mdOutlineInsertLink = element (unsafeCoerce _mdOutlineInsertLink)
 
-foreign import mdOutlineInsertPhoto_ :: ReactIcon
+foreign import _mdOutlineInsertPhoto :: ReactIcon
 
 mdOutlineInsertPhoto :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineInsertPhoto = element (unsafeCoerce mdOutlineInsertPhoto_)
+mdOutlineInsertPhoto = element (unsafeCoerce _mdOutlineInsertPhoto)
 
-foreign import mdOutlineInsights_ :: ReactIcon
+foreign import _mdOutlineInsights :: ReactIcon
 
 mdOutlineInsights :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineInsights = element (unsafeCoerce mdOutlineInsights_)
+mdOutlineInsights = element (unsafeCoerce _mdOutlineInsights)
 
-foreign import mdOutlineIntegrationInstructions_ :: ReactIcon
+foreign import _mdOutlineIntegrationInstructions :: ReactIcon
 
 mdOutlineIntegrationInstructions :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineIntegrationInstructions = element (unsafeCoerce mdOutlineIntegrationInstructions_)
+mdOutlineIntegrationInstructions = element (unsafeCoerce _mdOutlineIntegrationInstructions)
 
-foreign import mdOutlineInventory_ :: ReactIcon
+foreign import _mdOutlineInventory :: ReactIcon
 
 mdOutlineInventory :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineInventory = element (unsafeCoerce mdOutlineInventory_)
+mdOutlineInventory = element (unsafeCoerce _mdOutlineInventory)
 
-foreign import mdOutlineInvertColors_ :: ReactIcon
+foreign import _mdOutlineInvertColors :: ReactIcon
 
 mdOutlineInvertColors :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineInvertColors = element (unsafeCoerce mdOutlineInvertColors_)
+mdOutlineInvertColors = element (unsafeCoerce _mdOutlineInvertColors)
 
-foreign import mdOutlineInvertColorsOff_ :: ReactIcon
+foreign import _mdOutlineInvertColorsOff :: ReactIcon
 
 mdOutlineInvertColorsOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineInvertColorsOff = element (unsafeCoerce mdOutlineInvertColorsOff_)
+mdOutlineInvertColorsOff = element (unsafeCoerce _mdOutlineInvertColorsOff)
 
-foreign import mdOutlineIosShare_ :: ReactIcon
+foreign import _mdOutlineIosShare :: ReactIcon
 
 mdOutlineIosShare :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineIosShare = element (unsafeCoerce mdOutlineIosShare_)
+mdOutlineIosShare = element (unsafeCoerce _mdOutlineIosShare)
 
-foreign import mdOutlineIron_ :: ReactIcon
+foreign import _mdOutlineIron :: ReactIcon
 
 mdOutlineIron :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineIron = element (unsafeCoerce mdOutlineIron_)
+mdOutlineIron = element (unsafeCoerce _mdOutlineIron)
 
-foreign import mdOutlineIso_ :: ReactIcon
+foreign import _mdOutlineIso :: ReactIcon
 
 mdOutlineIso :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineIso = element (unsafeCoerce mdOutlineIso_)
+mdOutlineIso = element (unsafeCoerce _mdOutlineIso)
 
-foreign import mdOutlineKayaking_ :: ReactIcon
+foreign import _mdOutlineKayaking :: ReactIcon
 
 mdOutlineKayaking :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineKayaking = element (unsafeCoerce mdOutlineKayaking_)
+mdOutlineKayaking = element (unsafeCoerce _mdOutlineKayaking)
 
-foreign import mdOutlineKeyboard_ :: ReactIcon
+foreign import _mdOutlineKeyboard :: ReactIcon
 
 mdOutlineKeyboard :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineKeyboard = element (unsafeCoerce mdOutlineKeyboard_)
+mdOutlineKeyboard = element (unsafeCoerce _mdOutlineKeyboard)
 
-foreign import mdOutlineKeyboardAlt_ :: ReactIcon
+foreign import _mdOutlineKeyboardAlt :: ReactIcon
 
 mdOutlineKeyboardAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineKeyboardAlt = element (unsafeCoerce mdOutlineKeyboardAlt_)
+mdOutlineKeyboardAlt = element (unsafeCoerce _mdOutlineKeyboardAlt)
 
-foreign import mdOutlineKeyboardArrowDown_ :: ReactIcon
+foreign import _mdOutlineKeyboardArrowDown :: ReactIcon
 
 mdOutlineKeyboardArrowDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineKeyboardArrowDown = element (unsafeCoerce mdOutlineKeyboardArrowDown_)
+mdOutlineKeyboardArrowDown = element (unsafeCoerce _mdOutlineKeyboardArrowDown)
 
-foreign import mdOutlineKeyboardArrowLeft_ :: ReactIcon
+foreign import _mdOutlineKeyboardArrowLeft :: ReactIcon
 
 mdOutlineKeyboardArrowLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineKeyboardArrowLeft = element (unsafeCoerce mdOutlineKeyboardArrowLeft_)
+mdOutlineKeyboardArrowLeft = element (unsafeCoerce _mdOutlineKeyboardArrowLeft)
 
-foreign import mdOutlineKeyboardArrowRight_ :: ReactIcon
+foreign import _mdOutlineKeyboardArrowRight :: ReactIcon
 
 mdOutlineKeyboardArrowRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineKeyboardArrowRight = element (unsafeCoerce mdOutlineKeyboardArrowRight_)
+mdOutlineKeyboardArrowRight = element (unsafeCoerce _mdOutlineKeyboardArrowRight)
 
-foreign import mdOutlineKeyboardArrowUp_ :: ReactIcon
+foreign import _mdOutlineKeyboardArrowUp :: ReactIcon
 
 mdOutlineKeyboardArrowUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineKeyboardArrowUp = element (unsafeCoerce mdOutlineKeyboardArrowUp_)
+mdOutlineKeyboardArrowUp = element (unsafeCoerce _mdOutlineKeyboardArrowUp)
 
-foreign import mdOutlineKeyboardBackspace_ :: ReactIcon
+foreign import _mdOutlineKeyboardBackspace :: ReactIcon
 
 mdOutlineKeyboardBackspace :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineKeyboardBackspace = element (unsafeCoerce mdOutlineKeyboardBackspace_)
+mdOutlineKeyboardBackspace = element (unsafeCoerce _mdOutlineKeyboardBackspace)
 
-foreign import mdOutlineKeyboardCapslock_ :: ReactIcon
+foreign import _mdOutlineKeyboardCapslock :: ReactIcon
 
 mdOutlineKeyboardCapslock :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineKeyboardCapslock = element (unsafeCoerce mdOutlineKeyboardCapslock_)
+mdOutlineKeyboardCapslock = element (unsafeCoerce _mdOutlineKeyboardCapslock)
 
-foreign import mdOutlineKeyboardHide_ :: ReactIcon
+foreign import _mdOutlineKeyboardHide :: ReactIcon
 
 mdOutlineKeyboardHide :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineKeyboardHide = element (unsafeCoerce mdOutlineKeyboardHide_)
+mdOutlineKeyboardHide = element (unsafeCoerce _mdOutlineKeyboardHide)
 
-foreign import mdOutlineKeyboardReturn_ :: ReactIcon
+foreign import _mdOutlineKeyboardReturn :: ReactIcon
 
 mdOutlineKeyboardReturn :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineKeyboardReturn = element (unsafeCoerce mdOutlineKeyboardReturn_)
+mdOutlineKeyboardReturn = element (unsafeCoerce _mdOutlineKeyboardReturn)
 
-foreign import mdOutlineKeyboardTab_ :: ReactIcon
+foreign import _mdOutlineKeyboardTab :: ReactIcon
 
 mdOutlineKeyboardTab :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineKeyboardTab = element (unsafeCoerce mdOutlineKeyboardTab_)
+mdOutlineKeyboardTab = element (unsafeCoerce _mdOutlineKeyboardTab)
 
-foreign import mdOutlineKeyboardVoice_ :: ReactIcon
+foreign import _mdOutlineKeyboardVoice :: ReactIcon
 
 mdOutlineKeyboardVoice :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineKeyboardVoice = element (unsafeCoerce mdOutlineKeyboardVoice_)
+mdOutlineKeyboardVoice = element (unsafeCoerce _mdOutlineKeyboardVoice)
 
-foreign import mdOutlineKingBed_ :: ReactIcon
+foreign import _mdOutlineKingBed :: ReactIcon
 
 mdOutlineKingBed :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineKingBed = element (unsafeCoerce mdOutlineKingBed_)
+mdOutlineKingBed = element (unsafeCoerce _mdOutlineKingBed)
 
-foreign import mdOutlineKitchen_ :: ReactIcon
+foreign import _mdOutlineKitchen :: ReactIcon
 
 mdOutlineKitchen :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineKitchen = element (unsafeCoerce mdOutlineKitchen_)
+mdOutlineKitchen = element (unsafeCoerce _mdOutlineKitchen)
 
-foreign import mdOutlineKitesurfing_ :: ReactIcon
+foreign import _mdOutlineKitesurfing :: ReactIcon
 
 mdOutlineKitesurfing :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineKitesurfing = element (unsafeCoerce mdOutlineKitesurfing_)
+mdOutlineKitesurfing = element (unsafeCoerce _mdOutlineKitesurfing)
 
-foreign import mdOutlineLabel_ :: ReactIcon
+foreign import _mdOutlineLabel :: ReactIcon
 
 mdOutlineLabel :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineLabel = element (unsafeCoerce mdOutlineLabel_)
+mdOutlineLabel = element (unsafeCoerce _mdOutlineLabel)
 
-foreign import mdOutlineLabelImportant_ :: ReactIcon
+foreign import _mdOutlineLabelImportant :: ReactIcon
 
 mdOutlineLabelImportant :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineLabelImportant = element (unsafeCoerce mdOutlineLabelImportant_)
+mdOutlineLabelImportant = element (unsafeCoerce _mdOutlineLabelImportant)
 
-foreign import mdOutlineLabelOff_ :: ReactIcon
+foreign import _mdOutlineLabelOff :: ReactIcon
 
 mdOutlineLabelOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineLabelOff = element (unsafeCoerce mdOutlineLabelOff_)
+mdOutlineLabelOff = element (unsafeCoerce _mdOutlineLabelOff)
 
-foreign import mdOutlineLandscape_ :: ReactIcon
+foreign import _mdOutlineLandscape :: ReactIcon
 
 mdOutlineLandscape :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineLandscape = element (unsafeCoerce mdOutlineLandscape_)
+mdOutlineLandscape = element (unsafeCoerce _mdOutlineLandscape)
 
-foreign import mdOutlineLanguage_ :: ReactIcon
+foreign import _mdOutlineLanguage :: ReactIcon
 
 mdOutlineLanguage :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineLanguage = element (unsafeCoerce mdOutlineLanguage_)
+mdOutlineLanguage = element (unsafeCoerce _mdOutlineLanguage)
 
-foreign import mdOutlineLaptop_ :: ReactIcon
+foreign import _mdOutlineLaptop :: ReactIcon
 
 mdOutlineLaptop :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineLaptop = element (unsafeCoerce mdOutlineLaptop_)
+mdOutlineLaptop = element (unsafeCoerce _mdOutlineLaptop)
 
-foreign import mdOutlineLaptopChromebook_ :: ReactIcon
+foreign import _mdOutlineLaptopChromebook :: ReactIcon
 
 mdOutlineLaptopChromebook :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineLaptopChromebook = element (unsafeCoerce mdOutlineLaptopChromebook_)
+mdOutlineLaptopChromebook = element (unsafeCoerce _mdOutlineLaptopChromebook)
 
-foreign import mdOutlineLaptopMac_ :: ReactIcon
+foreign import _mdOutlineLaptopMac :: ReactIcon
 
 mdOutlineLaptopMac :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineLaptopMac = element (unsafeCoerce mdOutlineLaptopMac_)
+mdOutlineLaptopMac = element (unsafeCoerce _mdOutlineLaptopMac)
 
-foreign import mdOutlineLaptopWindows_ :: ReactIcon
+foreign import _mdOutlineLaptopWindows :: ReactIcon
 
 mdOutlineLaptopWindows :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineLaptopWindows = element (unsafeCoerce mdOutlineLaptopWindows_)
+mdOutlineLaptopWindows = element (unsafeCoerce _mdOutlineLaptopWindows)
 
-foreign import mdOutlineLastPage_ :: ReactIcon
+foreign import _mdOutlineLastPage :: ReactIcon
 
 mdOutlineLastPage :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineLastPage = element (unsafeCoerce mdOutlineLastPage_)
+mdOutlineLastPage = element (unsafeCoerce _mdOutlineLastPage)
 
-foreign import mdOutlineLaunch_ :: ReactIcon
+foreign import _mdOutlineLaunch :: ReactIcon
 
 mdOutlineLaunch :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineLaunch = element (unsafeCoerce mdOutlineLaunch_)
+mdOutlineLaunch = element (unsafeCoerce _mdOutlineLaunch)
 
-foreign import mdOutlineLayers_ :: ReactIcon
+foreign import _mdOutlineLayers :: ReactIcon
 
 mdOutlineLayers :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineLayers = element (unsafeCoerce mdOutlineLayers_)
+mdOutlineLayers = element (unsafeCoerce _mdOutlineLayers)
 
-foreign import mdOutlineLayersClear_ :: ReactIcon
+foreign import _mdOutlineLayersClear :: ReactIcon
 
 mdOutlineLayersClear :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineLayersClear = element (unsafeCoerce mdOutlineLayersClear_)
+mdOutlineLayersClear = element (unsafeCoerce _mdOutlineLayersClear)
 
-foreign import mdOutlineLeaderboard_ :: ReactIcon
+foreign import _mdOutlineLeaderboard :: ReactIcon
 
 mdOutlineLeaderboard :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineLeaderboard = element (unsafeCoerce mdOutlineLeaderboard_)
+mdOutlineLeaderboard = element (unsafeCoerce _mdOutlineLeaderboard)
 
-foreign import mdOutlineLeakAdd_ :: ReactIcon
+foreign import _mdOutlineLeakAdd :: ReactIcon
 
 mdOutlineLeakAdd :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineLeakAdd = element (unsafeCoerce mdOutlineLeakAdd_)
+mdOutlineLeakAdd = element (unsafeCoerce _mdOutlineLeakAdd)
 
-foreign import mdOutlineLeakRemove_ :: ReactIcon
+foreign import _mdOutlineLeakRemove :: ReactIcon
 
 mdOutlineLeakRemove :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineLeakRemove = element (unsafeCoerce mdOutlineLeakRemove_)
+mdOutlineLeakRemove = element (unsafeCoerce _mdOutlineLeakRemove)
 
-foreign import mdOutlineLegendToggle_ :: ReactIcon
+foreign import _mdOutlineLegendToggle :: ReactIcon
 
 mdOutlineLegendToggle :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineLegendToggle = element (unsafeCoerce mdOutlineLegendToggle_)
+mdOutlineLegendToggle = element (unsafeCoerce _mdOutlineLegendToggle)
 
-foreign import mdOutlineLens_ :: ReactIcon
+foreign import _mdOutlineLens :: ReactIcon
 
 mdOutlineLens :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineLens = element (unsafeCoerce mdOutlineLens_)
+mdOutlineLens = element (unsafeCoerce _mdOutlineLens)
 
-foreign import mdOutlineLensBlur_ :: ReactIcon
+foreign import _mdOutlineLensBlur :: ReactIcon
 
 mdOutlineLensBlur :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineLensBlur = element (unsafeCoerce mdOutlineLensBlur_)
+mdOutlineLensBlur = element (unsafeCoerce _mdOutlineLensBlur)
 
-foreign import mdOutlineLibraryAdd_ :: ReactIcon
+foreign import _mdOutlineLibraryAdd :: ReactIcon
 
 mdOutlineLibraryAdd :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineLibraryAdd = element (unsafeCoerce mdOutlineLibraryAdd_)
+mdOutlineLibraryAdd = element (unsafeCoerce _mdOutlineLibraryAdd)
 
-foreign import mdOutlineLibraryAddCheck_ :: ReactIcon
+foreign import _mdOutlineLibraryAddCheck :: ReactIcon
 
 mdOutlineLibraryAddCheck :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineLibraryAddCheck = element (unsafeCoerce mdOutlineLibraryAddCheck_)
+mdOutlineLibraryAddCheck = element (unsafeCoerce _mdOutlineLibraryAddCheck)
 
-foreign import mdOutlineLibraryBooks_ :: ReactIcon
+foreign import _mdOutlineLibraryBooks :: ReactIcon
 
 mdOutlineLibraryBooks :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineLibraryBooks = element (unsafeCoerce mdOutlineLibraryBooks_)
+mdOutlineLibraryBooks = element (unsafeCoerce _mdOutlineLibraryBooks)
 
-foreign import mdOutlineLibraryMusic_ :: ReactIcon
+foreign import _mdOutlineLibraryMusic :: ReactIcon
 
 mdOutlineLibraryMusic :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineLibraryMusic = element (unsafeCoerce mdOutlineLibraryMusic_)
+mdOutlineLibraryMusic = element (unsafeCoerce _mdOutlineLibraryMusic)
 
-foreign import mdOutlineLight_ :: ReactIcon
+foreign import _mdOutlineLight :: ReactIcon
 
 mdOutlineLight :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineLight = element (unsafeCoerce mdOutlineLight_)
+mdOutlineLight = element (unsafeCoerce _mdOutlineLight)
 
-foreign import mdOutlineLightbulb_ :: ReactIcon
+foreign import _mdOutlineLightbulb :: ReactIcon
 
 mdOutlineLightbulb :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineLightbulb = element (unsafeCoerce mdOutlineLightbulb_)
+mdOutlineLightbulb = element (unsafeCoerce _mdOutlineLightbulb)
 
-foreign import mdOutlineLightMode_ :: ReactIcon
+foreign import _mdOutlineLightMode :: ReactIcon
 
 mdOutlineLightMode :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineLightMode = element (unsafeCoerce mdOutlineLightMode_)
+mdOutlineLightMode = element (unsafeCoerce _mdOutlineLightMode)
 
-foreign import mdOutlineLinearScale_ :: ReactIcon
+foreign import _mdOutlineLinearScale :: ReactIcon
 
 mdOutlineLinearScale :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineLinearScale = element (unsafeCoerce mdOutlineLinearScale_)
+mdOutlineLinearScale = element (unsafeCoerce _mdOutlineLinearScale)
 
-foreign import mdOutlineLineStyle_ :: ReactIcon
+foreign import _mdOutlineLineStyle :: ReactIcon
 
 mdOutlineLineStyle :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineLineStyle = element (unsafeCoerce mdOutlineLineStyle_)
+mdOutlineLineStyle = element (unsafeCoerce _mdOutlineLineStyle)
 
-foreign import mdOutlineLineWeight_ :: ReactIcon
+foreign import _mdOutlineLineWeight :: ReactIcon
 
 mdOutlineLineWeight :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineLineWeight = element (unsafeCoerce mdOutlineLineWeight_)
+mdOutlineLineWeight = element (unsafeCoerce _mdOutlineLineWeight)
 
-foreign import mdOutlineLink_ :: ReactIcon
+foreign import _mdOutlineLink :: ReactIcon
 
 mdOutlineLink :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineLink = element (unsafeCoerce mdOutlineLink_)
+mdOutlineLink = element (unsafeCoerce _mdOutlineLink)
 
-foreign import mdOutlineLinkedCamera_ :: ReactIcon
+foreign import _mdOutlineLinkedCamera :: ReactIcon
 
 mdOutlineLinkedCamera :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineLinkedCamera = element (unsafeCoerce mdOutlineLinkedCamera_)
+mdOutlineLinkedCamera = element (unsafeCoerce _mdOutlineLinkedCamera)
 
-foreign import mdOutlineLinkOff_ :: ReactIcon
+foreign import _mdOutlineLinkOff :: ReactIcon
 
 mdOutlineLinkOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineLinkOff = element (unsafeCoerce mdOutlineLinkOff_)
+mdOutlineLinkOff = element (unsafeCoerce _mdOutlineLinkOff)
 
-foreign import mdOutlineLiquor_ :: ReactIcon
+foreign import _mdOutlineLiquor :: ReactIcon
 
 mdOutlineLiquor :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineLiquor = element (unsafeCoerce mdOutlineLiquor_)
+mdOutlineLiquor = element (unsafeCoerce _mdOutlineLiquor)
 
-foreign import mdOutlineList_ :: ReactIcon
+foreign import _mdOutlineList :: ReactIcon
 
 mdOutlineList :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineList = element (unsafeCoerce mdOutlineList_)
+mdOutlineList = element (unsafeCoerce _mdOutlineList)
 
-foreign import mdOutlineListAlt_ :: ReactIcon
+foreign import _mdOutlineListAlt :: ReactIcon
 
 mdOutlineListAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineListAlt = element (unsafeCoerce mdOutlineListAlt_)
+mdOutlineListAlt = element (unsafeCoerce _mdOutlineListAlt)
 
-foreign import mdOutlineLiveHelp_ :: ReactIcon
+foreign import _mdOutlineLiveHelp :: ReactIcon
 
 mdOutlineLiveHelp :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineLiveHelp = element (unsafeCoerce mdOutlineLiveHelp_)
+mdOutlineLiveHelp = element (unsafeCoerce _mdOutlineLiveHelp)
 
-foreign import mdOutlineLiveTv_ :: ReactIcon
+foreign import _mdOutlineLiveTv :: ReactIcon
 
 mdOutlineLiveTv :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineLiveTv = element (unsafeCoerce mdOutlineLiveTv_)
+mdOutlineLiveTv = element (unsafeCoerce _mdOutlineLiveTv)
 
-foreign import mdOutlineLiving_ :: ReactIcon
+foreign import _mdOutlineLiving :: ReactIcon
 
 mdOutlineLiving :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineLiving = element (unsafeCoerce mdOutlineLiving_)
+mdOutlineLiving = element (unsafeCoerce _mdOutlineLiving)
 
-foreign import mdOutlineLocalActivity_ :: ReactIcon
+foreign import _mdOutlineLocalActivity :: ReactIcon
 
 mdOutlineLocalActivity :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineLocalActivity = element (unsafeCoerce mdOutlineLocalActivity_)
+mdOutlineLocalActivity = element (unsafeCoerce _mdOutlineLocalActivity)
 
-foreign import mdOutlineLocalAirport_ :: ReactIcon
+foreign import _mdOutlineLocalAirport :: ReactIcon
 
 mdOutlineLocalAirport :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineLocalAirport = element (unsafeCoerce mdOutlineLocalAirport_)
+mdOutlineLocalAirport = element (unsafeCoerce _mdOutlineLocalAirport)
 
-foreign import mdOutlineLocalAtm_ :: ReactIcon
+foreign import _mdOutlineLocalAtm :: ReactIcon
 
 mdOutlineLocalAtm :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineLocalAtm = element (unsafeCoerce mdOutlineLocalAtm_)
+mdOutlineLocalAtm = element (unsafeCoerce _mdOutlineLocalAtm)
 
-foreign import mdOutlineLocalBar_ :: ReactIcon
+foreign import _mdOutlineLocalBar :: ReactIcon
 
 mdOutlineLocalBar :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineLocalBar = element (unsafeCoerce mdOutlineLocalBar_)
+mdOutlineLocalBar = element (unsafeCoerce _mdOutlineLocalBar)
 
-foreign import mdOutlineLocalCafe_ :: ReactIcon
+foreign import _mdOutlineLocalCafe :: ReactIcon
 
 mdOutlineLocalCafe :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineLocalCafe = element (unsafeCoerce mdOutlineLocalCafe_)
+mdOutlineLocalCafe = element (unsafeCoerce _mdOutlineLocalCafe)
 
-foreign import mdOutlineLocalCarWash_ :: ReactIcon
+foreign import _mdOutlineLocalCarWash :: ReactIcon
 
 mdOutlineLocalCarWash :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineLocalCarWash = element (unsafeCoerce mdOutlineLocalCarWash_)
+mdOutlineLocalCarWash = element (unsafeCoerce _mdOutlineLocalCarWash)
 
-foreign import mdOutlineLocalConvenienceStore_ :: ReactIcon
+foreign import _mdOutlineLocalConvenienceStore :: ReactIcon
 
 mdOutlineLocalConvenienceStore :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineLocalConvenienceStore = element (unsafeCoerce mdOutlineLocalConvenienceStore_)
+mdOutlineLocalConvenienceStore = element (unsafeCoerce _mdOutlineLocalConvenienceStore)
 
-foreign import mdOutlineLocalDining_ :: ReactIcon
+foreign import _mdOutlineLocalDining :: ReactIcon
 
 mdOutlineLocalDining :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineLocalDining = element (unsafeCoerce mdOutlineLocalDining_)
+mdOutlineLocalDining = element (unsafeCoerce _mdOutlineLocalDining)
 
-foreign import mdOutlineLocalDrink_ :: ReactIcon
+foreign import _mdOutlineLocalDrink :: ReactIcon
 
 mdOutlineLocalDrink :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineLocalDrink = element (unsafeCoerce mdOutlineLocalDrink_)
+mdOutlineLocalDrink = element (unsafeCoerce _mdOutlineLocalDrink)
 
-foreign import mdOutlineLocalFireDepartment_ :: ReactIcon
+foreign import _mdOutlineLocalFireDepartment :: ReactIcon
 
 mdOutlineLocalFireDepartment :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineLocalFireDepartment = element (unsafeCoerce mdOutlineLocalFireDepartment_)
+mdOutlineLocalFireDepartment = element (unsafeCoerce _mdOutlineLocalFireDepartment)
 
-foreign import mdOutlineLocalFlorist_ :: ReactIcon
+foreign import _mdOutlineLocalFlorist :: ReactIcon
 
 mdOutlineLocalFlorist :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineLocalFlorist = element (unsafeCoerce mdOutlineLocalFlorist_)
+mdOutlineLocalFlorist = element (unsafeCoerce _mdOutlineLocalFlorist)
 
-foreign import mdOutlineLocalGasStation_ :: ReactIcon
+foreign import _mdOutlineLocalGasStation :: ReactIcon
 
 mdOutlineLocalGasStation :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineLocalGasStation = element (unsafeCoerce mdOutlineLocalGasStation_)
+mdOutlineLocalGasStation = element (unsafeCoerce _mdOutlineLocalGasStation)
 
-foreign import mdOutlineLocalGroceryStore_ :: ReactIcon
+foreign import _mdOutlineLocalGroceryStore :: ReactIcon
 
 mdOutlineLocalGroceryStore :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineLocalGroceryStore = element (unsafeCoerce mdOutlineLocalGroceryStore_)
+mdOutlineLocalGroceryStore = element (unsafeCoerce _mdOutlineLocalGroceryStore)
 
-foreign import mdOutlineLocalHospital_ :: ReactIcon
+foreign import _mdOutlineLocalHospital :: ReactIcon
 
 mdOutlineLocalHospital :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineLocalHospital = element (unsafeCoerce mdOutlineLocalHospital_)
+mdOutlineLocalHospital = element (unsafeCoerce _mdOutlineLocalHospital)
 
-foreign import mdOutlineLocalHotel_ :: ReactIcon
+foreign import _mdOutlineLocalHotel :: ReactIcon
 
 mdOutlineLocalHotel :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineLocalHotel = element (unsafeCoerce mdOutlineLocalHotel_)
+mdOutlineLocalHotel = element (unsafeCoerce _mdOutlineLocalHotel)
 
-foreign import mdOutlineLocalLaundryService_ :: ReactIcon
+foreign import _mdOutlineLocalLaundryService :: ReactIcon
 
 mdOutlineLocalLaundryService :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineLocalLaundryService = element (unsafeCoerce mdOutlineLocalLaundryService_)
+mdOutlineLocalLaundryService = element (unsafeCoerce _mdOutlineLocalLaundryService)
 
-foreign import mdOutlineLocalLibrary_ :: ReactIcon
+foreign import _mdOutlineLocalLibrary :: ReactIcon
 
 mdOutlineLocalLibrary :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineLocalLibrary = element (unsafeCoerce mdOutlineLocalLibrary_)
+mdOutlineLocalLibrary = element (unsafeCoerce _mdOutlineLocalLibrary)
 
-foreign import mdOutlineLocalMall_ :: ReactIcon
+foreign import _mdOutlineLocalMall :: ReactIcon
 
 mdOutlineLocalMall :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineLocalMall = element (unsafeCoerce mdOutlineLocalMall_)
+mdOutlineLocalMall = element (unsafeCoerce _mdOutlineLocalMall)
 
-foreign import mdOutlineLocalMovies_ :: ReactIcon
+foreign import _mdOutlineLocalMovies :: ReactIcon
 
 mdOutlineLocalMovies :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineLocalMovies = element (unsafeCoerce mdOutlineLocalMovies_)
+mdOutlineLocalMovies = element (unsafeCoerce _mdOutlineLocalMovies)
 
-foreign import mdOutlineLocalOffer_ :: ReactIcon
+foreign import _mdOutlineLocalOffer :: ReactIcon
 
 mdOutlineLocalOffer :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineLocalOffer = element (unsafeCoerce mdOutlineLocalOffer_)
+mdOutlineLocalOffer = element (unsafeCoerce _mdOutlineLocalOffer)
 
-foreign import mdOutlineLocalParking_ :: ReactIcon
+foreign import _mdOutlineLocalParking :: ReactIcon
 
 mdOutlineLocalParking :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineLocalParking = element (unsafeCoerce mdOutlineLocalParking_)
+mdOutlineLocalParking = element (unsafeCoerce _mdOutlineLocalParking)
 
-foreign import mdOutlineLocalPharmacy_ :: ReactIcon
+foreign import _mdOutlineLocalPharmacy :: ReactIcon
 
 mdOutlineLocalPharmacy :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineLocalPharmacy = element (unsafeCoerce mdOutlineLocalPharmacy_)
+mdOutlineLocalPharmacy = element (unsafeCoerce _mdOutlineLocalPharmacy)
 
-foreign import mdOutlineLocalPhone_ :: ReactIcon
+foreign import _mdOutlineLocalPhone :: ReactIcon
 
 mdOutlineLocalPhone :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineLocalPhone = element (unsafeCoerce mdOutlineLocalPhone_)
+mdOutlineLocalPhone = element (unsafeCoerce _mdOutlineLocalPhone)
 
-foreign import mdOutlineLocalPizza_ :: ReactIcon
+foreign import _mdOutlineLocalPizza :: ReactIcon
 
 mdOutlineLocalPizza :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineLocalPizza = element (unsafeCoerce mdOutlineLocalPizza_)
+mdOutlineLocalPizza = element (unsafeCoerce _mdOutlineLocalPizza)
 
-foreign import mdOutlineLocalPlay_ :: ReactIcon
+foreign import _mdOutlineLocalPlay :: ReactIcon
 
 mdOutlineLocalPlay :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineLocalPlay = element (unsafeCoerce mdOutlineLocalPlay_)
+mdOutlineLocalPlay = element (unsafeCoerce _mdOutlineLocalPlay)
 
-foreign import mdOutlineLocalPolice_ :: ReactIcon
+foreign import _mdOutlineLocalPolice :: ReactIcon
 
 mdOutlineLocalPolice :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineLocalPolice = element (unsafeCoerce mdOutlineLocalPolice_)
+mdOutlineLocalPolice = element (unsafeCoerce _mdOutlineLocalPolice)
 
-foreign import mdOutlineLocalPostOffice_ :: ReactIcon
+foreign import _mdOutlineLocalPostOffice :: ReactIcon
 
 mdOutlineLocalPostOffice :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineLocalPostOffice = element (unsafeCoerce mdOutlineLocalPostOffice_)
+mdOutlineLocalPostOffice = element (unsafeCoerce _mdOutlineLocalPostOffice)
 
-foreign import mdOutlineLocalPrintshop_ :: ReactIcon
+foreign import _mdOutlineLocalPrintshop :: ReactIcon
 
 mdOutlineLocalPrintshop :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineLocalPrintshop = element (unsafeCoerce mdOutlineLocalPrintshop_)
+mdOutlineLocalPrintshop = element (unsafeCoerce _mdOutlineLocalPrintshop)
 
-foreign import mdOutlineLocalSee_ :: ReactIcon
+foreign import _mdOutlineLocalSee :: ReactIcon
 
 mdOutlineLocalSee :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineLocalSee = element (unsafeCoerce mdOutlineLocalSee_)
+mdOutlineLocalSee = element (unsafeCoerce _mdOutlineLocalSee)
 
-foreign import mdOutlineLocalShipping_ :: ReactIcon
+foreign import _mdOutlineLocalShipping :: ReactIcon
 
 mdOutlineLocalShipping :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineLocalShipping = element (unsafeCoerce mdOutlineLocalShipping_)
+mdOutlineLocalShipping = element (unsafeCoerce _mdOutlineLocalShipping)
 
-foreign import mdOutlineLocalTaxi_ :: ReactIcon
+foreign import _mdOutlineLocalTaxi :: ReactIcon
 
 mdOutlineLocalTaxi :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineLocalTaxi = element (unsafeCoerce mdOutlineLocalTaxi_)
+mdOutlineLocalTaxi = element (unsafeCoerce _mdOutlineLocalTaxi)
 
-foreign import mdOutlineLocationCity_ :: ReactIcon
+foreign import _mdOutlineLocationCity :: ReactIcon
 
 mdOutlineLocationCity :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineLocationCity = element (unsafeCoerce mdOutlineLocationCity_)
+mdOutlineLocationCity = element (unsafeCoerce _mdOutlineLocationCity)
 
-foreign import mdOutlineLocationDisabled_ :: ReactIcon
+foreign import _mdOutlineLocationDisabled :: ReactIcon
 
 mdOutlineLocationDisabled :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineLocationDisabled = element (unsafeCoerce mdOutlineLocationDisabled_)
+mdOutlineLocationDisabled = element (unsafeCoerce _mdOutlineLocationDisabled)
 
-foreign import mdOutlineLocationOff_ :: ReactIcon
+foreign import _mdOutlineLocationOff :: ReactIcon
 
 mdOutlineLocationOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineLocationOff = element (unsafeCoerce mdOutlineLocationOff_)
+mdOutlineLocationOff = element (unsafeCoerce _mdOutlineLocationOff)
 
-foreign import mdOutlineLocationOn_ :: ReactIcon
+foreign import _mdOutlineLocationOn :: ReactIcon
 
 mdOutlineLocationOn :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineLocationOn = element (unsafeCoerce mdOutlineLocationOn_)
+mdOutlineLocationOn = element (unsafeCoerce _mdOutlineLocationOn)
 
-foreign import mdOutlineLocationSearching_ :: ReactIcon
+foreign import _mdOutlineLocationSearching :: ReactIcon
 
 mdOutlineLocationSearching :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineLocationSearching = element (unsafeCoerce mdOutlineLocationSearching_)
+mdOutlineLocationSearching = element (unsafeCoerce _mdOutlineLocationSearching)
 
-foreign import mdOutlineLock_ :: ReactIcon
+foreign import _mdOutlineLock :: ReactIcon
 
 mdOutlineLock :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineLock = element (unsafeCoerce mdOutlineLock_)
+mdOutlineLock = element (unsafeCoerce _mdOutlineLock)
 
-foreign import mdOutlineLockClock_ :: ReactIcon
+foreign import _mdOutlineLockClock :: ReactIcon
 
 mdOutlineLockClock :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineLockClock = element (unsafeCoerce mdOutlineLockClock_)
+mdOutlineLockClock = element (unsafeCoerce _mdOutlineLockClock)
 
-foreign import mdOutlineLockOpen_ :: ReactIcon
+foreign import _mdOutlineLockOpen :: ReactIcon
 
 mdOutlineLockOpen :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineLockOpen = element (unsafeCoerce mdOutlineLockOpen_)
+mdOutlineLockOpen = element (unsafeCoerce _mdOutlineLockOpen)
 
-foreign import mdOutlineLogin_ :: ReactIcon
+foreign import _mdOutlineLogin :: ReactIcon
 
 mdOutlineLogin :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineLogin = element (unsafeCoerce mdOutlineLogin_)
+mdOutlineLogin = element (unsafeCoerce _mdOutlineLogin)
 
-foreign import mdOutlineLogout_ :: ReactIcon
+foreign import _mdOutlineLogout :: ReactIcon
 
 mdOutlineLogout :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineLogout = element (unsafeCoerce mdOutlineLogout_)
+mdOutlineLogout = element (unsafeCoerce _mdOutlineLogout)
 
-foreign import mdOutlineLooks_ :: ReactIcon
+foreign import _mdOutlineLooks :: ReactIcon
 
 mdOutlineLooks :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineLooks = element (unsafeCoerce mdOutlineLooks_)
+mdOutlineLooks = element (unsafeCoerce _mdOutlineLooks)
 
-foreign import mdOutlineLooksOne_ :: ReactIcon
+foreign import _mdOutlineLooksOne :: ReactIcon
 
 mdOutlineLooksOne :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineLooksOne = element (unsafeCoerce mdOutlineLooksOne_)
+mdOutlineLooksOne = element (unsafeCoerce _mdOutlineLooksOne)
 
-foreign import mdOutlineLooksTwo_ :: ReactIcon
+foreign import _mdOutlineLooksTwo :: ReactIcon
 
 mdOutlineLooksTwo :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineLooksTwo = element (unsafeCoerce mdOutlineLooksTwo_)
+mdOutlineLooksTwo = element (unsafeCoerce _mdOutlineLooksTwo)
 
-foreign import mdOutlineLoop_ :: ReactIcon
+foreign import _mdOutlineLoop :: ReactIcon
 
 mdOutlineLoop :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineLoop = element (unsafeCoerce mdOutlineLoop_)
+mdOutlineLoop = element (unsafeCoerce _mdOutlineLoop)
 
-foreign import mdOutlineLoupe_ :: ReactIcon
+foreign import _mdOutlineLoupe :: ReactIcon
 
 mdOutlineLoupe :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineLoupe = element (unsafeCoerce mdOutlineLoupe_)
+mdOutlineLoupe = element (unsafeCoerce _mdOutlineLoupe)
 
-foreign import mdOutlineLowPriority_ :: ReactIcon
+foreign import _mdOutlineLowPriority :: ReactIcon
 
 mdOutlineLowPriority :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineLowPriority = element (unsafeCoerce mdOutlineLowPriority_)
+mdOutlineLowPriority = element (unsafeCoerce _mdOutlineLowPriority)
 
-foreign import mdOutlineLoyalty_ :: ReactIcon
+foreign import _mdOutlineLoyalty :: ReactIcon
 
 mdOutlineLoyalty :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineLoyalty = element (unsafeCoerce mdOutlineLoyalty_)
+mdOutlineLoyalty = element (unsafeCoerce _mdOutlineLoyalty)
 
-foreign import mdOutlineLteMobiledata_ :: ReactIcon
+foreign import _mdOutlineLteMobiledata :: ReactIcon
 
 mdOutlineLteMobiledata :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineLteMobiledata = element (unsafeCoerce mdOutlineLteMobiledata_)
+mdOutlineLteMobiledata = element (unsafeCoerce _mdOutlineLteMobiledata)
 
-foreign import mdOutlineLtePlusMobiledata_ :: ReactIcon
+foreign import _mdOutlineLtePlusMobiledata :: ReactIcon
 
 mdOutlineLtePlusMobiledata :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineLtePlusMobiledata = element (unsafeCoerce mdOutlineLtePlusMobiledata_)
+mdOutlineLtePlusMobiledata = element (unsafeCoerce _mdOutlineLtePlusMobiledata)
 
-foreign import mdOutlineLuggage_ :: ReactIcon
+foreign import _mdOutlineLuggage :: ReactIcon
 
 mdOutlineLuggage :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineLuggage = element (unsafeCoerce mdOutlineLuggage_)
+mdOutlineLuggage = element (unsafeCoerce _mdOutlineLuggage)
 
-foreign import mdOutlineLunchDining_ :: ReactIcon
+foreign import _mdOutlineLunchDining :: ReactIcon
 
 mdOutlineLunchDining :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineLunchDining = element (unsafeCoerce mdOutlineLunchDining_)
+mdOutlineLunchDining = element (unsafeCoerce _mdOutlineLunchDining)
 
-foreign import mdOutlineMail_ :: ReactIcon
+foreign import _mdOutlineMail :: ReactIcon
 
 mdOutlineMail :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineMail = element (unsafeCoerce mdOutlineMail_)
+mdOutlineMail = element (unsafeCoerce _mdOutlineMail)
 
-foreign import mdOutlineMailOutline_ :: ReactIcon
+foreign import _mdOutlineMailOutline :: ReactIcon
 
 mdOutlineMailOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineMailOutline = element (unsafeCoerce mdOutlineMailOutline_)
+mdOutlineMailOutline = element (unsafeCoerce _mdOutlineMailOutline)
 
-foreign import mdOutlineMale_ :: ReactIcon
+foreign import _mdOutlineMale :: ReactIcon
 
 mdOutlineMale :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineMale = element (unsafeCoerce mdOutlineMale_)
+mdOutlineMale = element (unsafeCoerce _mdOutlineMale)
 
-foreign import mdOutlineManageAccounts_ :: ReactIcon
+foreign import _mdOutlineManageAccounts :: ReactIcon
 
 mdOutlineManageAccounts :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineManageAccounts = element (unsafeCoerce mdOutlineManageAccounts_)
+mdOutlineManageAccounts = element (unsafeCoerce _mdOutlineManageAccounts)
 
-foreign import mdOutlineManageSearch_ :: ReactIcon
+foreign import _mdOutlineManageSearch :: ReactIcon
 
 mdOutlineManageSearch :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineManageSearch = element (unsafeCoerce mdOutlineManageSearch_)
+mdOutlineManageSearch = element (unsafeCoerce _mdOutlineManageSearch)
 
-foreign import mdOutlineMap_ :: ReactIcon
+foreign import _mdOutlineMap :: ReactIcon
 
 mdOutlineMap :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineMap = element (unsafeCoerce mdOutlineMap_)
+mdOutlineMap = element (unsafeCoerce _mdOutlineMap)
 
-foreign import mdOutlineMapsHomeWork_ :: ReactIcon
+foreign import _mdOutlineMapsHomeWork :: ReactIcon
 
 mdOutlineMapsHomeWork :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineMapsHomeWork = element (unsafeCoerce mdOutlineMapsHomeWork_)
+mdOutlineMapsHomeWork = element (unsafeCoerce _mdOutlineMapsHomeWork)
 
-foreign import mdOutlineMapsUgc_ :: ReactIcon
+foreign import _mdOutlineMapsUgc :: ReactIcon
 
 mdOutlineMapsUgc :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineMapsUgc = element (unsafeCoerce mdOutlineMapsUgc_)
+mdOutlineMapsUgc = element (unsafeCoerce _mdOutlineMapsUgc)
 
-foreign import mdOutlineMargin_ :: ReactIcon
+foreign import _mdOutlineMargin :: ReactIcon
 
 mdOutlineMargin :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineMargin = element (unsafeCoerce mdOutlineMargin_)
+mdOutlineMargin = element (unsafeCoerce _mdOutlineMargin)
 
-foreign import mdOutlineMarkAsUnread_ :: ReactIcon
+foreign import _mdOutlineMarkAsUnread :: ReactIcon
 
 mdOutlineMarkAsUnread :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineMarkAsUnread = element (unsafeCoerce mdOutlineMarkAsUnread_)
+mdOutlineMarkAsUnread = element (unsafeCoerce _mdOutlineMarkAsUnread)
 
-foreign import mdOutlineMarkChatRead_ :: ReactIcon
+foreign import _mdOutlineMarkChatRead :: ReactIcon
 
 mdOutlineMarkChatRead :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineMarkChatRead = element (unsafeCoerce mdOutlineMarkChatRead_)
+mdOutlineMarkChatRead = element (unsafeCoerce _mdOutlineMarkChatRead)
 
-foreign import mdOutlineMarkChatUnread_ :: ReactIcon
+foreign import _mdOutlineMarkChatUnread :: ReactIcon
 
 mdOutlineMarkChatUnread :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineMarkChatUnread = element (unsafeCoerce mdOutlineMarkChatUnread_)
+mdOutlineMarkChatUnread = element (unsafeCoerce _mdOutlineMarkChatUnread)
 
-foreign import mdOutlineMarkEmailRead_ :: ReactIcon
+foreign import _mdOutlineMarkEmailRead :: ReactIcon
 
 mdOutlineMarkEmailRead :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineMarkEmailRead = element (unsafeCoerce mdOutlineMarkEmailRead_)
+mdOutlineMarkEmailRead = element (unsafeCoerce _mdOutlineMarkEmailRead)
 
-foreign import mdOutlineMarkEmailUnread_ :: ReactIcon
+foreign import _mdOutlineMarkEmailUnread :: ReactIcon
 
 mdOutlineMarkEmailUnread :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineMarkEmailUnread = element (unsafeCoerce mdOutlineMarkEmailUnread_)
+mdOutlineMarkEmailUnread = element (unsafeCoerce _mdOutlineMarkEmailUnread)
 
-foreign import mdOutlineMarkunread_ :: ReactIcon
+foreign import _mdOutlineMarkunread :: ReactIcon
 
 mdOutlineMarkunread :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineMarkunread = element (unsafeCoerce mdOutlineMarkunread_)
+mdOutlineMarkunread = element (unsafeCoerce _mdOutlineMarkunread)
 
-foreign import mdOutlineMarkunreadMailbox_ :: ReactIcon
+foreign import _mdOutlineMarkunreadMailbox :: ReactIcon
 
 mdOutlineMarkunreadMailbox :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineMarkunreadMailbox = element (unsafeCoerce mdOutlineMarkunreadMailbox_)
+mdOutlineMarkunreadMailbox = element (unsafeCoerce _mdOutlineMarkunreadMailbox)
 
-foreign import mdOutlineMasks_ :: ReactIcon
+foreign import _mdOutlineMasks :: ReactIcon
 
 mdOutlineMasks :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineMasks = element (unsafeCoerce mdOutlineMasks_)
+mdOutlineMasks = element (unsafeCoerce _mdOutlineMasks)
 
-foreign import mdOutlineMaximize_ :: ReactIcon
+foreign import _mdOutlineMaximize :: ReactIcon
 
 mdOutlineMaximize :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineMaximize = element (unsafeCoerce mdOutlineMaximize_)
+mdOutlineMaximize = element (unsafeCoerce _mdOutlineMaximize)
 
-foreign import mdOutlineMediaBluetoothOff_ :: ReactIcon
+foreign import _mdOutlineMediaBluetoothOff :: ReactIcon
 
 mdOutlineMediaBluetoothOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineMediaBluetoothOff = element (unsafeCoerce mdOutlineMediaBluetoothOff_)
+mdOutlineMediaBluetoothOff = element (unsafeCoerce _mdOutlineMediaBluetoothOff)
 
-foreign import mdOutlineMediaBluetoothOn_ :: ReactIcon
+foreign import _mdOutlineMediaBluetoothOn :: ReactIcon
 
 mdOutlineMediaBluetoothOn :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineMediaBluetoothOn = element (unsafeCoerce mdOutlineMediaBluetoothOn_)
+mdOutlineMediaBluetoothOn = element (unsafeCoerce _mdOutlineMediaBluetoothOn)
 
-foreign import mdOutlineMediation_ :: ReactIcon
+foreign import _mdOutlineMediation :: ReactIcon
 
 mdOutlineMediation :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineMediation = element (unsafeCoerce mdOutlineMediation_)
+mdOutlineMediation = element (unsafeCoerce _mdOutlineMediation)
 
-foreign import mdOutlineMedicalServices_ :: ReactIcon
+foreign import _mdOutlineMedicalServices :: ReactIcon
 
 mdOutlineMedicalServices :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineMedicalServices = element (unsafeCoerce mdOutlineMedicalServices_)
+mdOutlineMedicalServices = element (unsafeCoerce _mdOutlineMedicalServices)
 
-foreign import mdOutlineMedication_ :: ReactIcon
+foreign import _mdOutlineMedication :: ReactIcon
 
 mdOutlineMedication :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineMedication = element (unsafeCoerce mdOutlineMedication_)
+mdOutlineMedication = element (unsafeCoerce _mdOutlineMedication)
 
-foreign import mdOutlineMeetingRoom_ :: ReactIcon
+foreign import _mdOutlineMeetingRoom :: ReactIcon
 
 mdOutlineMeetingRoom :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineMeetingRoom = element (unsafeCoerce mdOutlineMeetingRoom_)
+mdOutlineMeetingRoom = element (unsafeCoerce _mdOutlineMeetingRoom)
 
-foreign import mdOutlineMemory_ :: ReactIcon
+foreign import _mdOutlineMemory :: ReactIcon
 
 mdOutlineMemory :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineMemory = element (unsafeCoerce mdOutlineMemory_)
+mdOutlineMemory = element (unsafeCoerce _mdOutlineMemory)
 
-foreign import mdOutlineMenu_ :: ReactIcon
+foreign import _mdOutlineMenu :: ReactIcon
 
 mdOutlineMenu :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineMenu = element (unsafeCoerce mdOutlineMenu_)
+mdOutlineMenu = element (unsafeCoerce _mdOutlineMenu)
 
-foreign import mdOutlineMenuBook_ :: ReactIcon
+foreign import _mdOutlineMenuBook :: ReactIcon
 
 mdOutlineMenuBook :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineMenuBook = element (unsafeCoerce mdOutlineMenuBook_)
+mdOutlineMenuBook = element (unsafeCoerce _mdOutlineMenuBook)
 
-foreign import mdOutlineMenuOpen_ :: ReactIcon
+foreign import _mdOutlineMenuOpen :: ReactIcon
 
 mdOutlineMenuOpen :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineMenuOpen = element (unsafeCoerce mdOutlineMenuOpen_)
+mdOutlineMenuOpen = element (unsafeCoerce _mdOutlineMenuOpen)
 
-foreign import mdOutlineMergeType_ :: ReactIcon
+foreign import _mdOutlineMergeType :: ReactIcon
 
 mdOutlineMergeType :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineMergeType = element (unsafeCoerce mdOutlineMergeType_)
+mdOutlineMergeType = element (unsafeCoerce _mdOutlineMergeType)
 
-foreign import mdOutlineMessage_ :: ReactIcon
+foreign import _mdOutlineMessage :: ReactIcon
 
 mdOutlineMessage :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineMessage = element (unsafeCoerce mdOutlineMessage_)
+mdOutlineMessage = element (unsafeCoerce _mdOutlineMessage)
 
-foreign import mdOutlineMic_ :: ReactIcon
+foreign import _mdOutlineMic :: ReactIcon
 
 mdOutlineMic :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineMic = element (unsafeCoerce mdOutlineMic_)
+mdOutlineMic = element (unsafeCoerce _mdOutlineMic)
 
-foreign import mdOutlineMicExternalOff_ :: ReactIcon
+foreign import _mdOutlineMicExternalOff :: ReactIcon
 
 mdOutlineMicExternalOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineMicExternalOff = element (unsafeCoerce mdOutlineMicExternalOff_)
+mdOutlineMicExternalOff = element (unsafeCoerce _mdOutlineMicExternalOff)
 
-foreign import mdOutlineMicExternalOn_ :: ReactIcon
+foreign import _mdOutlineMicExternalOn :: ReactIcon
 
 mdOutlineMicExternalOn :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineMicExternalOn = element (unsafeCoerce mdOutlineMicExternalOn_)
+mdOutlineMicExternalOn = element (unsafeCoerce _mdOutlineMicExternalOn)
 
-foreign import mdOutlineMicNone_ :: ReactIcon
+foreign import _mdOutlineMicNone :: ReactIcon
 
 mdOutlineMicNone :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineMicNone = element (unsafeCoerce mdOutlineMicNone_)
+mdOutlineMicNone = element (unsafeCoerce _mdOutlineMicNone)
 
-foreign import mdOutlineMicOff_ :: ReactIcon
+foreign import _mdOutlineMicOff :: ReactIcon
 
 mdOutlineMicOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineMicOff = element (unsafeCoerce mdOutlineMicOff_)
+mdOutlineMicOff = element (unsafeCoerce _mdOutlineMicOff)
 
-foreign import mdOutlineMicrowave_ :: ReactIcon
+foreign import _mdOutlineMicrowave :: ReactIcon
 
 mdOutlineMicrowave :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineMicrowave = element (unsafeCoerce mdOutlineMicrowave_)
+mdOutlineMicrowave = element (unsafeCoerce _mdOutlineMicrowave)
 
-foreign import mdOutlineMilitaryTech_ :: ReactIcon
+foreign import _mdOutlineMilitaryTech :: ReactIcon
 
 mdOutlineMilitaryTech :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineMilitaryTech = element (unsafeCoerce mdOutlineMilitaryTech_)
+mdOutlineMilitaryTech = element (unsafeCoerce _mdOutlineMilitaryTech)
 
-foreign import mdOutlineMinimize_ :: ReactIcon
+foreign import _mdOutlineMinimize :: ReactIcon
 
 mdOutlineMinimize :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineMinimize = element (unsafeCoerce mdOutlineMinimize_)
+mdOutlineMinimize = element (unsafeCoerce _mdOutlineMinimize)
 
-foreign import mdOutlineMiscellaneousServices_ :: ReactIcon
+foreign import _mdOutlineMiscellaneousServices :: ReactIcon
 
 mdOutlineMiscellaneousServices :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineMiscellaneousServices = element (unsafeCoerce mdOutlineMiscellaneousServices_)
+mdOutlineMiscellaneousServices = element (unsafeCoerce _mdOutlineMiscellaneousServices)
 
-foreign import mdOutlineMissedVideoCall_ :: ReactIcon
+foreign import _mdOutlineMissedVideoCall :: ReactIcon
 
 mdOutlineMissedVideoCall :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineMissedVideoCall = element (unsafeCoerce mdOutlineMissedVideoCall_)
+mdOutlineMissedVideoCall = element (unsafeCoerce _mdOutlineMissedVideoCall)
 
-foreign import mdOutlineMms_ :: ReactIcon
+foreign import _mdOutlineMms :: ReactIcon
 
 mdOutlineMms :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineMms = element (unsafeCoerce mdOutlineMms_)
+mdOutlineMms = element (unsafeCoerce _mdOutlineMms)
 
-foreign import mdOutlineMobiledataOff_ :: ReactIcon
+foreign import _mdOutlineMobiledataOff :: ReactIcon
 
 mdOutlineMobiledataOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineMobiledataOff = element (unsafeCoerce mdOutlineMobiledataOff_)
+mdOutlineMobiledataOff = element (unsafeCoerce _mdOutlineMobiledataOff)
 
-foreign import mdOutlineMobileFriendly_ :: ReactIcon
+foreign import _mdOutlineMobileFriendly :: ReactIcon
 
 mdOutlineMobileFriendly :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineMobileFriendly = element (unsafeCoerce mdOutlineMobileFriendly_)
+mdOutlineMobileFriendly = element (unsafeCoerce _mdOutlineMobileFriendly)
 
-foreign import mdOutlineMobileOff_ :: ReactIcon
+foreign import _mdOutlineMobileOff :: ReactIcon
 
 mdOutlineMobileOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineMobileOff = element (unsafeCoerce mdOutlineMobileOff_)
+mdOutlineMobileOff = element (unsafeCoerce _mdOutlineMobileOff)
 
-foreign import mdOutlineMobileScreenShare_ :: ReactIcon
+foreign import _mdOutlineMobileScreenShare :: ReactIcon
 
 mdOutlineMobileScreenShare :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineMobileScreenShare = element (unsafeCoerce mdOutlineMobileScreenShare_)
+mdOutlineMobileScreenShare = element (unsafeCoerce _mdOutlineMobileScreenShare)
 
-foreign import mdOutlineMode_ :: ReactIcon
+foreign import _mdOutlineMode :: ReactIcon
 
 mdOutlineMode :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineMode = element (unsafeCoerce mdOutlineMode_)
+mdOutlineMode = element (unsafeCoerce _mdOutlineMode)
 
-foreign import mdOutlineModeComment_ :: ReactIcon
+foreign import _mdOutlineModeComment :: ReactIcon
 
 mdOutlineModeComment :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineModeComment = element (unsafeCoerce mdOutlineModeComment_)
+mdOutlineModeComment = element (unsafeCoerce _mdOutlineModeComment)
 
-foreign import mdOutlineModeEdit_ :: ReactIcon
+foreign import _mdOutlineModeEdit :: ReactIcon
 
 mdOutlineModeEdit :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineModeEdit = element (unsafeCoerce mdOutlineModeEdit_)
+mdOutlineModeEdit = element (unsafeCoerce _mdOutlineModeEdit)
 
-foreign import mdOutlineModeEditOutline_ :: ReactIcon
+foreign import _mdOutlineModeEditOutline :: ReactIcon
 
 mdOutlineModeEditOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineModeEditOutline = element (unsafeCoerce mdOutlineModeEditOutline_)
+mdOutlineModeEditOutline = element (unsafeCoerce _mdOutlineModeEditOutline)
 
-foreign import mdOutlineModelTraining_ :: ReactIcon
+foreign import _mdOutlineModelTraining :: ReactIcon
 
 mdOutlineModelTraining :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineModelTraining = element (unsafeCoerce mdOutlineModelTraining_)
+mdOutlineModelTraining = element (unsafeCoerce _mdOutlineModelTraining)
 
-foreign import mdOutlineModeNight_ :: ReactIcon
+foreign import _mdOutlineModeNight :: ReactIcon
 
 mdOutlineModeNight :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineModeNight = element (unsafeCoerce mdOutlineModeNight_)
+mdOutlineModeNight = element (unsafeCoerce _mdOutlineModeNight)
 
-foreign import mdOutlineModeStandby_ :: ReactIcon
+foreign import _mdOutlineModeStandby :: ReactIcon
 
 mdOutlineModeStandby :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineModeStandby = element (unsafeCoerce mdOutlineModeStandby_)
+mdOutlineModeStandby = element (unsafeCoerce _mdOutlineModeStandby)
 
-foreign import mdOutlineMonetizationOn_ :: ReactIcon
+foreign import _mdOutlineMonetizationOn :: ReactIcon
 
 mdOutlineMonetizationOn :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineMonetizationOn = element (unsafeCoerce mdOutlineMonetizationOn_)
+mdOutlineMonetizationOn = element (unsafeCoerce _mdOutlineMonetizationOn)
 
-foreign import mdOutlineMoney_ :: ReactIcon
+foreign import _mdOutlineMoney :: ReactIcon
 
 mdOutlineMoney :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineMoney = element (unsafeCoerce mdOutlineMoney_)
+mdOutlineMoney = element (unsafeCoerce _mdOutlineMoney)
 
-foreign import mdOutlineMoneyOff_ :: ReactIcon
+foreign import _mdOutlineMoneyOff :: ReactIcon
 
 mdOutlineMoneyOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineMoneyOff = element (unsafeCoerce mdOutlineMoneyOff_)
+mdOutlineMoneyOff = element (unsafeCoerce _mdOutlineMoneyOff)
 
-foreign import mdOutlineMoneyOffCsred_ :: ReactIcon
+foreign import _mdOutlineMoneyOffCsred :: ReactIcon
 
 mdOutlineMoneyOffCsred :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineMoneyOffCsred = element (unsafeCoerce mdOutlineMoneyOffCsred_)
+mdOutlineMoneyOffCsred = element (unsafeCoerce _mdOutlineMoneyOffCsred)
 
-foreign import mdOutlineMonitor_ :: ReactIcon
+foreign import _mdOutlineMonitor :: ReactIcon
 
 mdOutlineMonitor :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineMonitor = element (unsafeCoerce mdOutlineMonitor_)
+mdOutlineMonitor = element (unsafeCoerce _mdOutlineMonitor)
 
-foreign import mdOutlineMonitorWeight_ :: ReactIcon
+foreign import _mdOutlineMonitorWeight :: ReactIcon
 
 mdOutlineMonitorWeight :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineMonitorWeight = element (unsafeCoerce mdOutlineMonitorWeight_)
+mdOutlineMonitorWeight = element (unsafeCoerce _mdOutlineMonitorWeight)
 
-foreign import mdOutlineMonochromePhotos_ :: ReactIcon
+foreign import _mdOutlineMonochromePhotos :: ReactIcon
 
 mdOutlineMonochromePhotos :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineMonochromePhotos = element (unsafeCoerce mdOutlineMonochromePhotos_)
+mdOutlineMonochromePhotos = element (unsafeCoerce _mdOutlineMonochromePhotos)
 
-foreign import mdOutlineMood_ :: ReactIcon
+foreign import _mdOutlineMood :: ReactIcon
 
 mdOutlineMood :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineMood = element (unsafeCoerce mdOutlineMood_)
+mdOutlineMood = element (unsafeCoerce _mdOutlineMood)
 
-foreign import mdOutlineMoodBad_ :: ReactIcon
+foreign import _mdOutlineMoodBad :: ReactIcon
 
 mdOutlineMoodBad :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineMoodBad = element (unsafeCoerce mdOutlineMoodBad_)
+mdOutlineMoodBad = element (unsafeCoerce _mdOutlineMoodBad)
 
-foreign import mdOutlineMoped_ :: ReactIcon
+foreign import _mdOutlineMoped :: ReactIcon
 
 mdOutlineMoped :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineMoped = element (unsafeCoerce mdOutlineMoped_)
+mdOutlineMoped = element (unsafeCoerce _mdOutlineMoped)
 
-foreign import mdOutlineMore_ :: ReactIcon
+foreign import _mdOutlineMore :: ReactIcon
 
 mdOutlineMore :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineMore = element (unsafeCoerce mdOutlineMore_)
+mdOutlineMore = element (unsafeCoerce _mdOutlineMore)
 
-foreign import mdOutlineMoreHoriz_ :: ReactIcon
+foreign import _mdOutlineMoreHoriz :: ReactIcon
 
 mdOutlineMoreHoriz :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineMoreHoriz = element (unsafeCoerce mdOutlineMoreHoriz_)
+mdOutlineMoreHoriz = element (unsafeCoerce _mdOutlineMoreHoriz)
 
-foreign import mdOutlineMoreTime_ :: ReactIcon
+foreign import _mdOutlineMoreTime :: ReactIcon
 
 mdOutlineMoreTime :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineMoreTime = element (unsafeCoerce mdOutlineMoreTime_)
+mdOutlineMoreTime = element (unsafeCoerce _mdOutlineMoreTime)
 
-foreign import mdOutlineMoreVert_ :: ReactIcon
+foreign import _mdOutlineMoreVert :: ReactIcon
 
 mdOutlineMoreVert :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineMoreVert = element (unsafeCoerce mdOutlineMoreVert_)
+mdOutlineMoreVert = element (unsafeCoerce _mdOutlineMoreVert)
 
-foreign import mdOutlineMotionPhotosAuto_ :: ReactIcon
+foreign import _mdOutlineMotionPhotosAuto :: ReactIcon
 
 mdOutlineMotionPhotosAuto :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineMotionPhotosAuto = element (unsafeCoerce mdOutlineMotionPhotosAuto_)
+mdOutlineMotionPhotosAuto = element (unsafeCoerce _mdOutlineMotionPhotosAuto)
 
-foreign import mdOutlineMotionPhotosOff_ :: ReactIcon
+foreign import _mdOutlineMotionPhotosOff :: ReactIcon
 
 mdOutlineMotionPhotosOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineMotionPhotosOff = element (unsafeCoerce mdOutlineMotionPhotosOff_)
+mdOutlineMotionPhotosOff = element (unsafeCoerce _mdOutlineMotionPhotosOff)
 
-foreign import mdOutlineMotionPhotosOn_ :: ReactIcon
+foreign import _mdOutlineMotionPhotosOn :: ReactIcon
 
 mdOutlineMotionPhotosOn :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineMotionPhotosOn = element (unsafeCoerce mdOutlineMotionPhotosOn_)
+mdOutlineMotionPhotosOn = element (unsafeCoerce _mdOutlineMotionPhotosOn)
 
-foreign import mdOutlineMotionPhotosPause_ :: ReactIcon
+foreign import _mdOutlineMotionPhotosPause :: ReactIcon
 
 mdOutlineMotionPhotosPause :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineMotionPhotosPause = element (unsafeCoerce mdOutlineMotionPhotosPause_)
+mdOutlineMotionPhotosPause = element (unsafeCoerce _mdOutlineMotionPhotosPause)
 
-foreign import mdOutlineMotionPhotosPaused_ :: ReactIcon
+foreign import _mdOutlineMotionPhotosPaused :: ReactIcon
 
 mdOutlineMotionPhotosPaused :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineMotionPhotosPaused = element (unsafeCoerce mdOutlineMotionPhotosPaused_)
+mdOutlineMotionPhotosPaused = element (unsafeCoerce _mdOutlineMotionPhotosPaused)
 
-foreign import mdOutlineMouse_ :: ReactIcon
+foreign import _mdOutlineMouse :: ReactIcon
 
 mdOutlineMouse :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineMouse = element (unsafeCoerce mdOutlineMouse_)
+mdOutlineMouse = element (unsafeCoerce _mdOutlineMouse)
 
-foreign import mdOutlineMoveToInbox_ :: ReactIcon
+foreign import _mdOutlineMoveToInbox :: ReactIcon
 
 mdOutlineMoveToInbox :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineMoveToInbox = element (unsafeCoerce mdOutlineMoveToInbox_)
+mdOutlineMoveToInbox = element (unsafeCoerce _mdOutlineMoveToInbox)
 
-foreign import mdOutlineMovie_ :: ReactIcon
+foreign import _mdOutlineMovie :: ReactIcon
 
 mdOutlineMovie :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineMovie = element (unsafeCoerce mdOutlineMovie_)
+mdOutlineMovie = element (unsafeCoerce _mdOutlineMovie)
 
-foreign import mdOutlineMovieCreation_ :: ReactIcon
+foreign import _mdOutlineMovieCreation :: ReactIcon
 
 mdOutlineMovieCreation :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineMovieCreation = element (unsafeCoerce mdOutlineMovieCreation_)
+mdOutlineMovieCreation = element (unsafeCoerce _mdOutlineMovieCreation)
 
-foreign import mdOutlineMovieFilter_ :: ReactIcon
+foreign import _mdOutlineMovieFilter :: ReactIcon
 
 mdOutlineMovieFilter :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineMovieFilter = element (unsafeCoerce mdOutlineMovieFilter_)
+mdOutlineMovieFilter = element (unsafeCoerce _mdOutlineMovieFilter)
 
-foreign import mdOutlineMoving_ :: ReactIcon
+foreign import _mdOutlineMoving :: ReactIcon
 
 mdOutlineMoving :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineMoving = element (unsafeCoerce mdOutlineMoving_)
+mdOutlineMoving = element (unsafeCoerce _mdOutlineMoving)
 
-foreign import mdOutlineMp_ :: ReactIcon
+foreign import _mdOutlineMp :: ReactIcon
 
 mdOutlineMp :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineMp = element (unsafeCoerce mdOutlineMp_)
+mdOutlineMp = element (unsafeCoerce _mdOutlineMp)
 
-foreign import mdOutlineMultilineChart_ :: ReactIcon
+foreign import _mdOutlineMultilineChart :: ReactIcon
 
 mdOutlineMultilineChart :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineMultilineChart = element (unsafeCoerce mdOutlineMultilineChart_)
+mdOutlineMultilineChart = element (unsafeCoerce _mdOutlineMultilineChart)
 
-foreign import mdOutlineMultipleStop_ :: ReactIcon
+foreign import _mdOutlineMultipleStop :: ReactIcon
 
 mdOutlineMultipleStop :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineMultipleStop = element (unsafeCoerce mdOutlineMultipleStop_)
+mdOutlineMultipleStop = element (unsafeCoerce _mdOutlineMultipleStop)
 
-foreign import mdOutlineMuseum_ :: ReactIcon
+foreign import _mdOutlineMuseum :: ReactIcon
 
 mdOutlineMuseum :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineMuseum = element (unsafeCoerce mdOutlineMuseum_)
+mdOutlineMuseum = element (unsafeCoerce _mdOutlineMuseum)
 
-foreign import mdOutlineMusicNote_ :: ReactIcon
+foreign import _mdOutlineMusicNote :: ReactIcon
 
 mdOutlineMusicNote :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineMusicNote = element (unsafeCoerce mdOutlineMusicNote_)
+mdOutlineMusicNote = element (unsafeCoerce _mdOutlineMusicNote)
 
-foreign import mdOutlineMusicOff_ :: ReactIcon
+foreign import _mdOutlineMusicOff :: ReactIcon
 
 mdOutlineMusicOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineMusicOff = element (unsafeCoerce mdOutlineMusicOff_)
+mdOutlineMusicOff = element (unsafeCoerce _mdOutlineMusicOff)
 
-foreign import mdOutlineMusicVideo_ :: ReactIcon
+foreign import _mdOutlineMusicVideo :: ReactIcon
 
 mdOutlineMusicVideo :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineMusicVideo = element (unsafeCoerce mdOutlineMusicVideo_)
+mdOutlineMusicVideo = element (unsafeCoerce _mdOutlineMusicVideo)
 
-foreign import mdOutlineMyLocation_ :: ReactIcon
+foreign import _mdOutlineMyLocation :: ReactIcon
 
 mdOutlineMyLocation :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineMyLocation = element (unsafeCoerce mdOutlineMyLocation_)
+mdOutlineMyLocation = element (unsafeCoerce _mdOutlineMyLocation)
 
-foreign import mdOutlineNat_ :: ReactIcon
+foreign import _mdOutlineNat :: ReactIcon
 
 mdOutlineNat :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineNat = element (unsafeCoerce mdOutlineNat_)
+mdOutlineNat = element (unsafeCoerce _mdOutlineNat)
 
-foreign import mdOutlineNature_ :: ReactIcon
+foreign import _mdOutlineNature :: ReactIcon
 
 mdOutlineNature :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineNature = element (unsafeCoerce mdOutlineNature_)
+mdOutlineNature = element (unsafeCoerce _mdOutlineNature)
 
-foreign import mdOutlineNaturePeople_ :: ReactIcon
+foreign import _mdOutlineNaturePeople :: ReactIcon
 
 mdOutlineNaturePeople :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineNaturePeople = element (unsafeCoerce mdOutlineNaturePeople_)
+mdOutlineNaturePeople = element (unsafeCoerce _mdOutlineNaturePeople)
 
-foreign import mdOutlineNavigateBefore_ :: ReactIcon
+foreign import _mdOutlineNavigateBefore :: ReactIcon
 
 mdOutlineNavigateBefore :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineNavigateBefore = element (unsafeCoerce mdOutlineNavigateBefore_)
+mdOutlineNavigateBefore = element (unsafeCoerce _mdOutlineNavigateBefore)
 
-foreign import mdOutlineNavigateNext_ :: ReactIcon
+foreign import _mdOutlineNavigateNext :: ReactIcon
 
 mdOutlineNavigateNext :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineNavigateNext = element (unsafeCoerce mdOutlineNavigateNext_)
+mdOutlineNavigateNext = element (unsafeCoerce _mdOutlineNavigateNext)
 
-foreign import mdOutlineNavigation_ :: ReactIcon
+foreign import _mdOutlineNavigation :: ReactIcon
 
 mdOutlineNavigation :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineNavigation = element (unsafeCoerce mdOutlineNavigation_)
+mdOutlineNavigation = element (unsafeCoerce _mdOutlineNavigation)
 
-foreign import mdOutlineNearbyError_ :: ReactIcon
+foreign import _mdOutlineNearbyError :: ReactIcon
 
 mdOutlineNearbyError :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineNearbyError = element (unsafeCoerce mdOutlineNearbyError_)
+mdOutlineNearbyError = element (unsafeCoerce _mdOutlineNearbyError)
 
-foreign import mdOutlineNearbyOff_ :: ReactIcon
+foreign import _mdOutlineNearbyOff :: ReactIcon
 
 mdOutlineNearbyOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineNearbyOff = element (unsafeCoerce mdOutlineNearbyOff_)
+mdOutlineNearbyOff = element (unsafeCoerce _mdOutlineNearbyOff)
 
-foreign import mdOutlineNearMe_ :: ReactIcon
+foreign import _mdOutlineNearMe :: ReactIcon
 
 mdOutlineNearMe :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineNearMe = element (unsafeCoerce mdOutlineNearMe_)
+mdOutlineNearMe = element (unsafeCoerce _mdOutlineNearMe)
 
-foreign import mdOutlineNearMeDisabled_ :: ReactIcon
+foreign import _mdOutlineNearMeDisabled :: ReactIcon
 
 mdOutlineNearMeDisabled :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineNearMeDisabled = element (unsafeCoerce mdOutlineNearMeDisabled_)
+mdOutlineNearMeDisabled = element (unsafeCoerce _mdOutlineNearMeDisabled)
 
-foreign import mdOutlineNetworkCell_ :: ReactIcon
+foreign import _mdOutlineNetworkCell :: ReactIcon
 
 mdOutlineNetworkCell :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineNetworkCell = element (unsafeCoerce mdOutlineNetworkCell_)
+mdOutlineNetworkCell = element (unsafeCoerce _mdOutlineNetworkCell)
 
-foreign import mdOutlineNetworkCheck_ :: ReactIcon
+foreign import _mdOutlineNetworkCheck :: ReactIcon
 
 mdOutlineNetworkCheck :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineNetworkCheck = element (unsafeCoerce mdOutlineNetworkCheck_)
+mdOutlineNetworkCheck = element (unsafeCoerce _mdOutlineNetworkCheck)
 
-foreign import mdOutlineNetworkLocked_ :: ReactIcon
+foreign import _mdOutlineNetworkLocked :: ReactIcon
 
 mdOutlineNetworkLocked :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineNetworkLocked = element (unsafeCoerce mdOutlineNetworkLocked_)
+mdOutlineNetworkLocked = element (unsafeCoerce _mdOutlineNetworkLocked)
 
-foreign import mdOutlineNetworkWifi_ :: ReactIcon
+foreign import _mdOutlineNetworkWifi :: ReactIcon
 
 mdOutlineNetworkWifi :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineNetworkWifi = element (unsafeCoerce mdOutlineNetworkWifi_)
+mdOutlineNetworkWifi = element (unsafeCoerce _mdOutlineNetworkWifi)
 
-foreign import mdOutlineNewLabel_ :: ReactIcon
+foreign import _mdOutlineNewLabel :: ReactIcon
 
 mdOutlineNewLabel :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineNewLabel = element (unsafeCoerce mdOutlineNewLabel_)
+mdOutlineNewLabel = element (unsafeCoerce _mdOutlineNewLabel)
 
-foreign import mdOutlineNewReleases_ :: ReactIcon
+foreign import _mdOutlineNewReleases :: ReactIcon
 
 mdOutlineNewReleases :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineNewReleases = element (unsafeCoerce mdOutlineNewReleases_)
+mdOutlineNewReleases = element (unsafeCoerce _mdOutlineNewReleases)
 
-foreign import mdOutlineNextPlan_ :: ReactIcon
+foreign import _mdOutlineNextPlan :: ReactIcon
 
 mdOutlineNextPlan :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineNextPlan = element (unsafeCoerce mdOutlineNextPlan_)
+mdOutlineNextPlan = element (unsafeCoerce _mdOutlineNextPlan)
 
-foreign import mdOutlineNextWeek_ :: ReactIcon
+foreign import _mdOutlineNextWeek :: ReactIcon
 
 mdOutlineNextWeek :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineNextWeek = element (unsafeCoerce mdOutlineNextWeek_)
+mdOutlineNextWeek = element (unsafeCoerce _mdOutlineNextWeek)
 
-foreign import mdOutlineNfc_ :: ReactIcon
+foreign import _mdOutlineNfc :: ReactIcon
 
 mdOutlineNfc :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineNfc = element (unsafeCoerce mdOutlineNfc_)
+mdOutlineNfc = element (unsafeCoerce _mdOutlineNfc)
 
-foreign import mdOutlineNightlife_ :: ReactIcon
+foreign import _mdOutlineNightlife :: ReactIcon
 
 mdOutlineNightlife :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineNightlife = element (unsafeCoerce mdOutlineNightlife_)
+mdOutlineNightlife = element (unsafeCoerce _mdOutlineNightlife)
 
-foreign import mdOutlineNightlight_ :: ReactIcon
+foreign import _mdOutlineNightlight :: ReactIcon
 
 mdOutlineNightlight :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineNightlight = element (unsafeCoerce mdOutlineNightlight_)
+mdOutlineNightlight = element (unsafeCoerce _mdOutlineNightlight)
 
-foreign import mdOutlineNightlightRound_ :: ReactIcon
+foreign import _mdOutlineNightlightRound :: ReactIcon
 
 mdOutlineNightlightRound :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineNightlightRound = element (unsafeCoerce mdOutlineNightlightRound_)
+mdOutlineNightlightRound = element (unsafeCoerce _mdOutlineNightlightRound)
 
-foreign import mdOutlineNightShelter_ :: ReactIcon
+foreign import _mdOutlineNightShelter :: ReactIcon
 
 mdOutlineNightShelter :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineNightShelter = element (unsafeCoerce mdOutlineNightShelter_)
+mdOutlineNightShelter = element (unsafeCoerce _mdOutlineNightShelter)
 
-foreign import mdOutlineNightsStay_ :: ReactIcon
+foreign import _mdOutlineNightsStay :: ReactIcon
 
 mdOutlineNightsStay :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineNightsStay = element (unsafeCoerce mdOutlineNightsStay_)
+mdOutlineNightsStay = element (unsafeCoerce _mdOutlineNightsStay)
 
-foreign import mdOutlineNoAccounts_ :: ReactIcon
+foreign import _mdOutlineNoAccounts :: ReactIcon
 
 mdOutlineNoAccounts :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineNoAccounts = element (unsafeCoerce mdOutlineNoAccounts_)
+mdOutlineNoAccounts = element (unsafeCoerce _mdOutlineNoAccounts)
 
-foreign import mdOutlineNoBackpack_ :: ReactIcon
+foreign import _mdOutlineNoBackpack :: ReactIcon
 
 mdOutlineNoBackpack :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineNoBackpack = element (unsafeCoerce mdOutlineNoBackpack_)
+mdOutlineNoBackpack = element (unsafeCoerce _mdOutlineNoBackpack)
 
-foreign import mdOutlineNoCell_ :: ReactIcon
+foreign import _mdOutlineNoCell :: ReactIcon
 
 mdOutlineNoCell :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineNoCell = element (unsafeCoerce mdOutlineNoCell_)
+mdOutlineNoCell = element (unsafeCoerce _mdOutlineNoCell)
 
-foreign import mdOutlineNoDrinks_ :: ReactIcon
+foreign import _mdOutlineNoDrinks :: ReactIcon
 
 mdOutlineNoDrinks :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineNoDrinks = element (unsafeCoerce mdOutlineNoDrinks_)
+mdOutlineNoDrinks = element (unsafeCoerce _mdOutlineNoDrinks)
 
-foreign import mdOutlineNoEncryption_ :: ReactIcon
+foreign import _mdOutlineNoEncryption :: ReactIcon
 
 mdOutlineNoEncryption :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineNoEncryption = element (unsafeCoerce mdOutlineNoEncryption_)
+mdOutlineNoEncryption = element (unsafeCoerce _mdOutlineNoEncryption)
 
-foreign import mdOutlineNoEncryptionGmailerrorred_ :: ReactIcon
+foreign import _mdOutlineNoEncryptionGmailerrorred :: ReactIcon
 
 mdOutlineNoEncryptionGmailerrorred :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineNoEncryptionGmailerrorred = element (unsafeCoerce mdOutlineNoEncryptionGmailerrorred_)
+mdOutlineNoEncryptionGmailerrorred = element (unsafeCoerce _mdOutlineNoEncryptionGmailerrorred)
 
-foreign import mdOutlineNoFlash_ :: ReactIcon
+foreign import _mdOutlineNoFlash :: ReactIcon
 
 mdOutlineNoFlash :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineNoFlash = element (unsafeCoerce mdOutlineNoFlash_)
+mdOutlineNoFlash = element (unsafeCoerce _mdOutlineNoFlash)
 
-foreign import mdOutlineNoFood_ :: ReactIcon
+foreign import _mdOutlineNoFood :: ReactIcon
 
 mdOutlineNoFood :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineNoFood = element (unsafeCoerce mdOutlineNoFood_)
+mdOutlineNoFood = element (unsafeCoerce _mdOutlineNoFood)
 
-foreign import mdOutlineNoLuggage_ :: ReactIcon
+foreign import _mdOutlineNoLuggage :: ReactIcon
 
 mdOutlineNoLuggage :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineNoLuggage = element (unsafeCoerce mdOutlineNoLuggage_)
+mdOutlineNoLuggage = element (unsafeCoerce _mdOutlineNoLuggage)
 
-foreign import mdOutlineNoMeals_ :: ReactIcon
+foreign import _mdOutlineNoMeals :: ReactIcon
 
 mdOutlineNoMeals :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineNoMeals = element (unsafeCoerce mdOutlineNoMeals_)
+mdOutlineNoMeals = element (unsafeCoerce _mdOutlineNoMeals)
 
-foreign import mdOutlineNoMeetingRoom_ :: ReactIcon
+foreign import _mdOutlineNoMeetingRoom :: ReactIcon
 
 mdOutlineNoMeetingRoom :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineNoMeetingRoom = element (unsafeCoerce mdOutlineNoMeetingRoom_)
+mdOutlineNoMeetingRoom = element (unsafeCoerce _mdOutlineNoMeetingRoom)
 
-foreign import mdOutlineNoPhotography_ :: ReactIcon
+foreign import _mdOutlineNoPhotography :: ReactIcon
 
 mdOutlineNoPhotography :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineNoPhotography = element (unsafeCoerce mdOutlineNoPhotography_)
+mdOutlineNoPhotography = element (unsafeCoerce _mdOutlineNoPhotography)
 
-foreign import mdOutlineNordicWalking_ :: ReactIcon
+foreign import _mdOutlineNordicWalking :: ReactIcon
 
 mdOutlineNordicWalking :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineNordicWalking = element (unsafeCoerce mdOutlineNordicWalking_)
+mdOutlineNordicWalking = element (unsafeCoerce _mdOutlineNordicWalking)
 
-foreign import mdOutlineNorth_ :: ReactIcon
+foreign import _mdOutlineNorth :: ReactIcon
 
 mdOutlineNorth :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineNorth = element (unsafeCoerce mdOutlineNorth_)
+mdOutlineNorth = element (unsafeCoerce _mdOutlineNorth)
 
-foreign import mdOutlineNorthEast_ :: ReactIcon
+foreign import _mdOutlineNorthEast :: ReactIcon
 
 mdOutlineNorthEast :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineNorthEast = element (unsafeCoerce mdOutlineNorthEast_)
+mdOutlineNorthEast = element (unsafeCoerce _mdOutlineNorthEast)
 
-foreign import mdOutlineNorthWest_ :: ReactIcon
+foreign import _mdOutlineNorthWest :: ReactIcon
 
 mdOutlineNorthWest :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineNorthWest = element (unsafeCoerce mdOutlineNorthWest_)
+mdOutlineNorthWest = element (unsafeCoerce _mdOutlineNorthWest)
 
-foreign import mdOutlineNoSim_ :: ReactIcon
+foreign import _mdOutlineNoSim :: ReactIcon
 
 mdOutlineNoSim :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineNoSim = element (unsafeCoerce mdOutlineNoSim_)
+mdOutlineNoSim = element (unsafeCoerce _mdOutlineNoSim)
 
-foreign import mdOutlineNoStroller_ :: ReactIcon
+foreign import _mdOutlineNoStroller :: ReactIcon
 
 mdOutlineNoStroller :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineNoStroller = element (unsafeCoerce mdOutlineNoStroller_)
+mdOutlineNoStroller = element (unsafeCoerce _mdOutlineNoStroller)
 
-foreign import mdOutlineNotAccessible_ :: ReactIcon
+foreign import _mdOutlineNotAccessible :: ReactIcon
 
 mdOutlineNotAccessible :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineNotAccessible = element (unsafeCoerce mdOutlineNotAccessible_)
+mdOutlineNotAccessible = element (unsafeCoerce _mdOutlineNotAccessible)
 
-foreign import mdOutlineNote_ :: ReactIcon
+foreign import _mdOutlineNote :: ReactIcon
 
 mdOutlineNote :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineNote = element (unsafeCoerce mdOutlineNote_)
+mdOutlineNote = element (unsafeCoerce _mdOutlineNote)
 
-foreign import mdOutlineNoteAdd_ :: ReactIcon
+foreign import _mdOutlineNoteAdd :: ReactIcon
 
 mdOutlineNoteAdd :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineNoteAdd = element (unsafeCoerce mdOutlineNoteAdd_)
+mdOutlineNoteAdd = element (unsafeCoerce _mdOutlineNoteAdd)
 
-foreign import mdOutlineNoteAlt_ :: ReactIcon
+foreign import _mdOutlineNoteAlt :: ReactIcon
 
 mdOutlineNoteAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineNoteAlt = element (unsafeCoerce mdOutlineNoteAlt_)
+mdOutlineNoteAlt = element (unsafeCoerce _mdOutlineNoteAlt)
 
-foreign import mdOutlineNotes_ :: ReactIcon
+foreign import _mdOutlineNotes :: ReactIcon
 
 mdOutlineNotes :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineNotes = element (unsafeCoerce mdOutlineNotes_)
+mdOutlineNotes = element (unsafeCoerce _mdOutlineNotes)
 
-foreign import mdOutlineNotificationAdd_ :: ReactIcon
+foreign import _mdOutlineNotificationAdd :: ReactIcon
 
 mdOutlineNotificationAdd :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineNotificationAdd = element (unsafeCoerce mdOutlineNotificationAdd_)
+mdOutlineNotificationAdd = element (unsafeCoerce _mdOutlineNotificationAdd)
 
-foreign import mdOutlineNotificationImportant_ :: ReactIcon
+foreign import _mdOutlineNotificationImportant :: ReactIcon
 
 mdOutlineNotificationImportant :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineNotificationImportant = element (unsafeCoerce mdOutlineNotificationImportant_)
+mdOutlineNotificationImportant = element (unsafeCoerce _mdOutlineNotificationImportant)
 
-foreign import mdOutlineNotifications_ :: ReactIcon
+foreign import _mdOutlineNotifications :: ReactIcon
 
 mdOutlineNotifications :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineNotifications = element (unsafeCoerce mdOutlineNotifications_)
+mdOutlineNotifications = element (unsafeCoerce _mdOutlineNotifications)
 
-foreign import mdOutlineNotificationsActive_ :: ReactIcon
+foreign import _mdOutlineNotificationsActive :: ReactIcon
 
 mdOutlineNotificationsActive :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineNotificationsActive = element (unsafeCoerce mdOutlineNotificationsActive_)
+mdOutlineNotificationsActive = element (unsafeCoerce _mdOutlineNotificationsActive)
 
-foreign import mdOutlineNotificationsNone_ :: ReactIcon
+foreign import _mdOutlineNotificationsNone :: ReactIcon
 
 mdOutlineNotificationsNone :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineNotificationsNone = element (unsafeCoerce mdOutlineNotificationsNone_)
+mdOutlineNotificationsNone = element (unsafeCoerce _mdOutlineNotificationsNone)
 
-foreign import mdOutlineNotificationsOff_ :: ReactIcon
+foreign import _mdOutlineNotificationsOff :: ReactIcon
 
 mdOutlineNotificationsOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineNotificationsOff = element (unsafeCoerce mdOutlineNotificationsOff_)
+mdOutlineNotificationsOff = element (unsafeCoerce _mdOutlineNotificationsOff)
 
-foreign import mdOutlineNotificationsPaused_ :: ReactIcon
+foreign import _mdOutlineNotificationsPaused :: ReactIcon
 
 mdOutlineNotificationsPaused :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineNotificationsPaused = element (unsafeCoerce mdOutlineNotificationsPaused_)
+mdOutlineNotificationsPaused = element (unsafeCoerce _mdOutlineNotificationsPaused)
 
-foreign import mdOutlineNotInterested_ :: ReactIcon
+foreign import _mdOutlineNotInterested :: ReactIcon
 
 mdOutlineNotInterested :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineNotInterested = element (unsafeCoerce mdOutlineNotInterested_)
+mdOutlineNotInterested = element (unsafeCoerce _mdOutlineNotInterested)
 
-foreign import mdOutlineNotListedLocation_ :: ReactIcon
+foreign import _mdOutlineNotListedLocation :: ReactIcon
 
 mdOutlineNotListedLocation :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineNotListedLocation = element (unsafeCoerce mdOutlineNotListedLocation_)
+mdOutlineNotListedLocation = element (unsafeCoerce _mdOutlineNotListedLocation)
 
-foreign import mdOutlineNoTransfer_ :: ReactIcon
+foreign import _mdOutlineNoTransfer :: ReactIcon
 
 mdOutlineNoTransfer :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineNoTransfer = element (unsafeCoerce mdOutlineNoTransfer_)
+mdOutlineNoTransfer = element (unsafeCoerce _mdOutlineNoTransfer)
 
-foreign import mdOutlineNotStarted_ :: ReactIcon
+foreign import _mdOutlineNotStarted :: ReactIcon
 
 mdOutlineNotStarted :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineNotStarted = element (unsafeCoerce mdOutlineNotStarted_)
+mdOutlineNotStarted = element (unsafeCoerce _mdOutlineNotStarted)
 
-foreign import mdOutlineOfflineBolt_ :: ReactIcon
+foreign import _mdOutlineOfflineBolt :: ReactIcon
 
 mdOutlineOfflineBolt :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineOfflineBolt = element (unsafeCoerce mdOutlineOfflineBolt_)
+mdOutlineOfflineBolt = element (unsafeCoerce _mdOutlineOfflineBolt)
 
-foreign import mdOutlineOfflinePin_ :: ReactIcon
+foreign import _mdOutlineOfflinePin :: ReactIcon
 
 mdOutlineOfflinePin :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineOfflinePin = element (unsafeCoerce mdOutlineOfflinePin_)
+mdOutlineOfflinePin = element (unsafeCoerce _mdOutlineOfflinePin)
 
-foreign import mdOutlineOfflineShare_ :: ReactIcon
+foreign import _mdOutlineOfflineShare :: ReactIcon
 
 mdOutlineOfflineShare :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineOfflineShare = element (unsafeCoerce mdOutlineOfflineShare_)
+mdOutlineOfflineShare = element (unsafeCoerce _mdOutlineOfflineShare)
 
-foreign import mdOutlineOndemandVideo_ :: ReactIcon
+foreign import _mdOutlineOndemandVideo :: ReactIcon
 
 mdOutlineOndemandVideo :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineOndemandVideo = element (unsafeCoerce mdOutlineOndemandVideo_)
+mdOutlineOndemandVideo = element (unsafeCoerce _mdOutlineOndemandVideo)
 
-foreign import mdOutlineOnlinePrediction_ :: ReactIcon
+foreign import _mdOutlineOnlinePrediction :: ReactIcon
 
 mdOutlineOnlinePrediction :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineOnlinePrediction = element (unsafeCoerce mdOutlineOnlinePrediction_)
+mdOutlineOnlinePrediction = element (unsafeCoerce _mdOutlineOnlinePrediction)
 
-foreign import mdOutlineOpacity_ :: ReactIcon
+foreign import _mdOutlineOpacity :: ReactIcon
 
 mdOutlineOpacity :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineOpacity = element (unsafeCoerce mdOutlineOpacity_)
+mdOutlineOpacity = element (unsafeCoerce _mdOutlineOpacity)
 
-foreign import mdOutlineOpenInBrowser_ :: ReactIcon
+foreign import _mdOutlineOpenInBrowser :: ReactIcon
 
 mdOutlineOpenInBrowser :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineOpenInBrowser = element (unsafeCoerce mdOutlineOpenInBrowser_)
+mdOutlineOpenInBrowser = element (unsafeCoerce _mdOutlineOpenInBrowser)
 
-foreign import mdOutlineOpenInFull_ :: ReactIcon
+foreign import _mdOutlineOpenInFull :: ReactIcon
 
 mdOutlineOpenInFull :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineOpenInFull = element (unsafeCoerce mdOutlineOpenInFull_)
+mdOutlineOpenInFull = element (unsafeCoerce _mdOutlineOpenInFull)
 
-foreign import mdOutlineOpenInNew_ :: ReactIcon
+foreign import _mdOutlineOpenInNew :: ReactIcon
 
 mdOutlineOpenInNew :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineOpenInNew = element (unsafeCoerce mdOutlineOpenInNew_)
+mdOutlineOpenInNew = element (unsafeCoerce _mdOutlineOpenInNew)
 
-foreign import mdOutlineOpenInNewOff_ :: ReactIcon
+foreign import _mdOutlineOpenInNewOff :: ReactIcon
 
 mdOutlineOpenInNewOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineOpenInNewOff = element (unsafeCoerce mdOutlineOpenInNewOff_)
+mdOutlineOpenInNewOff = element (unsafeCoerce _mdOutlineOpenInNewOff)
 
-foreign import mdOutlineOpenWith_ :: ReactIcon
+foreign import _mdOutlineOpenWith :: ReactIcon
 
 mdOutlineOpenWith :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineOpenWith = element (unsafeCoerce mdOutlineOpenWith_)
+mdOutlineOpenWith = element (unsafeCoerce _mdOutlineOpenWith)
 
-foreign import mdOutlineOtherHouses_ :: ReactIcon
+foreign import _mdOutlineOtherHouses :: ReactIcon
 
 mdOutlineOtherHouses :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineOtherHouses = element (unsafeCoerce mdOutlineOtherHouses_)
+mdOutlineOtherHouses = element (unsafeCoerce _mdOutlineOtherHouses)
 
-foreign import mdOutlineOutbond_ :: ReactIcon
+foreign import _mdOutlineOutbond :: ReactIcon
 
 mdOutlineOutbond :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineOutbond = element (unsafeCoerce mdOutlineOutbond_)
+mdOutlineOutbond = element (unsafeCoerce _mdOutlineOutbond)
 
-foreign import mdOutlineOutbound_ :: ReactIcon
+foreign import _mdOutlineOutbound :: ReactIcon
 
 mdOutlineOutbound :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineOutbound = element (unsafeCoerce mdOutlineOutbound_)
+mdOutlineOutbound = element (unsafeCoerce _mdOutlineOutbound)
 
-foreign import mdOutlineOutbox_ :: ReactIcon
+foreign import _mdOutlineOutbox :: ReactIcon
 
 mdOutlineOutbox :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineOutbox = element (unsafeCoerce mdOutlineOutbox_)
+mdOutlineOutbox = element (unsafeCoerce _mdOutlineOutbox)
 
-foreign import mdOutlineOutdoorGrill_ :: ReactIcon
+foreign import _mdOutlineOutdoorGrill :: ReactIcon
 
 mdOutlineOutdoorGrill :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineOutdoorGrill = element (unsafeCoerce mdOutlineOutdoorGrill_)
+mdOutlineOutdoorGrill = element (unsafeCoerce _mdOutlineOutdoorGrill)
 
-foreign import mdOutlineOutlet_ :: ReactIcon
+foreign import _mdOutlineOutlet :: ReactIcon
 
 mdOutlineOutlet :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineOutlet = element (unsafeCoerce mdOutlineOutlet_)
+mdOutlineOutlet = element (unsafeCoerce _mdOutlineOutlet)
 
-foreign import mdOutlineOutlinedFlag_ :: ReactIcon
+foreign import _mdOutlineOutlinedFlag :: ReactIcon
 
 mdOutlineOutlinedFlag :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineOutlinedFlag = element (unsafeCoerce mdOutlineOutlinedFlag_)
+mdOutlineOutlinedFlag = element (unsafeCoerce _mdOutlineOutlinedFlag)
 
-foreign import mdOutlinePadding_ :: ReactIcon
+foreign import _mdOutlinePadding :: ReactIcon
 
 mdOutlinePadding :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePadding = element (unsafeCoerce mdOutlinePadding_)
+mdOutlinePadding = element (unsafeCoerce _mdOutlinePadding)
 
-foreign import mdOutlinePages_ :: ReactIcon
+foreign import _mdOutlinePages :: ReactIcon
 
 mdOutlinePages :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePages = element (unsafeCoerce mdOutlinePages_)
+mdOutlinePages = element (unsafeCoerce _mdOutlinePages)
 
-foreign import mdOutlinePageview_ :: ReactIcon
+foreign import _mdOutlinePageview :: ReactIcon
 
 mdOutlinePageview :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePageview = element (unsafeCoerce mdOutlinePageview_)
+mdOutlinePageview = element (unsafeCoerce _mdOutlinePageview)
 
-foreign import mdOutlinePaid_ :: ReactIcon
+foreign import _mdOutlinePaid :: ReactIcon
 
 mdOutlinePaid :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePaid = element (unsafeCoerce mdOutlinePaid_)
+mdOutlinePaid = element (unsafeCoerce _mdOutlinePaid)
 
-foreign import mdOutlinePalette_ :: ReactIcon
+foreign import _mdOutlinePalette :: ReactIcon
 
 mdOutlinePalette :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePalette = element (unsafeCoerce mdOutlinePalette_)
+mdOutlinePalette = element (unsafeCoerce _mdOutlinePalette)
 
-foreign import mdOutlinePanorama_ :: ReactIcon
+foreign import _mdOutlinePanorama :: ReactIcon
 
 mdOutlinePanorama :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePanorama = element (unsafeCoerce mdOutlinePanorama_)
+mdOutlinePanorama = element (unsafeCoerce _mdOutlinePanorama)
 
-foreign import mdOutlinePanoramaFishEye_ :: ReactIcon
+foreign import _mdOutlinePanoramaFishEye :: ReactIcon
 
 mdOutlinePanoramaFishEye :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePanoramaFishEye = element (unsafeCoerce mdOutlinePanoramaFishEye_)
+mdOutlinePanoramaFishEye = element (unsafeCoerce _mdOutlinePanoramaFishEye)
 
-foreign import mdOutlinePanoramaHorizontal_ :: ReactIcon
+foreign import _mdOutlinePanoramaHorizontal :: ReactIcon
 
 mdOutlinePanoramaHorizontal :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePanoramaHorizontal = element (unsafeCoerce mdOutlinePanoramaHorizontal_)
+mdOutlinePanoramaHorizontal = element (unsafeCoerce _mdOutlinePanoramaHorizontal)
 
-foreign import mdOutlinePanoramaHorizontalSelect_ :: ReactIcon
+foreign import _mdOutlinePanoramaHorizontalSelect :: ReactIcon
 
 mdOutlinePanoramaHorizontalSelect :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePanoramaHorizontalSelect = element (unsafeCoerce mdOutlinePanoramaHorizontalSelect_)
+mdOutlinePanoramaHorizontalSelect = element (unsafeCoerce _mdOutlinePanoramaHorizontalSelect)
 
-foreign import mdOutlinePanoramaPhotosphere_ :: ReactIcon
+foreign import _mdOutlinePanoramaPhotosphere :: ReactIcon
 
 mdOutlinePanoramaPhotosphere :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePanoramaPhotosphere = element (unsafeCoerce mdOutlinePanoramaPhotosphere_)
+mdOutlinePanoramaPhotosphere = element (unsafeCoerce _mdOutlinePanoramaPhotosphere)
 
-foreign import mdOutlinePanoramaPhotosphereSelect_ :: ReactIcon
+foreign import _mdOutlinePanoramaPhotosphereSelect :: ReactIcon
 
 mdOutlinePanoramaPhotosphereSelect :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePanoramaPhotosphereSelect = element (unsafeCoerce mdOutlinePanoramaPhotosphereSelect_)
+mdOutlinePanoramaPhotosphereSelect = element (unsafeCoerce _mdOutlinePanoramaPhotosphereSelect)
 
-foreign import mdOutlinePanoramaVertical_ :: ReactIcon
+foreign import _mdOutlinePanoramaVertical :: ReactIcon
 
 mdOutlinePanoramaVertical :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePanoramaVertical = element (unsafeCoerce mdOutlinePanoramaVertical_)
+mdOutlinePanoramaVertical = element (unsafeCoerce _mdOutlinePanoramaVertical)
 
-foreign import mdOutlinePanoramaVerticalSelect_ :: ReactIcon
+foreign import _mdOutlinePanoramaVerticalSelect :: ReactIcon
 
 mdOutlinePanoramaVerticalSelect :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePanoramaVerticalSelect = element (unsafeCoerce mdOutlinePanoramaVerticalSelect_)
+mdOutlinePanoramaVerticalSelect = element (unsafeCoerce _mdOutlinePanoramaVerticalSelect)
 
-foreign import mdOutlinePanoramaWideAngle_ :: ReactIcon
+foreign import _mdOutlinePanoramaWideAngle :: ReactIcon
 
 mdOutlinePanoramaWideAngle :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePanoramaWideAngle = element (unsafeCoerce mdOutlinePanoramaWideAngle_)
+mdOutlinePanoramaWideAngle = element (unsafeCoerce _mdOutlinePanoramaWideAngle)
 
-foreign import mdOutlinePanoramaWideAngleSelect_ :: ReactIcon
+foreign import _mdOutlinePanoramaWideAngleSelect :: ReactIcon
 
 mdOutlinePanoramaWideAngleSelect :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePanoramaWideAngleSelect = element (unsafeCoerce mdOutlinePanoramaWideAngleSelect_)
+mdOutlinePanoramaWideAngleSelect = element (unsafeCoerce _mdOutlinePanoramaWideAngleSelect)
 
-foreign import mdOutlinePanTool_ :: ReactIcon
+foreign import _mdOutlinePanTool :: ReactIcon
 
 mdOutlinePanTool :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePanTool = element (unsafeCoerce mdOutlinePanTool_)
+mdOutlinePanTool = element (unsafeCoerce _mdOutlinePanTool)
 
-foreign import mdOutlineParagliding_ :: ReactIcon
+foreign import _mdOutlineParagliding :: ReactIcon
 
 mdOutlineParagliding :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineParagliding = element (unsafeCoerce mdOutlineParagliding_)
+mdOutlineParagliding = element (unsafeCoerce _mdOutlineParagliding)
 
-foreign import mdOutlinePark_ :: ReactIcon
+foreign import _mdOutlinePark :: ReactIcon
 
 mdOutlinePark :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePark = element (unsafeCoerce mdOutlinePark_)
+mdOutlinePark = element (unsafeCoerce _mdOutlinePark)
 
-foreign import mdOutlinePartyMode_ :: ReactIcon
+foreign import _mdOutlinePartyMode :: ReactIcon
 
 mdOutlinePartyMode :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePartyMode = element (unsafeCoerce mdOutlinePartyMode_)
+mdOutlinePartyMode = element (unsafeCoerce _mdOutlinePartyMode)
 
-foreign import mdOutlinePassword_ :: ReactIcon
+foreign import _mdOutlinePassword :: ReactIcon
 
 mdOutlinePassword :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePassword = element (unsafeCoerce mdOutlinePassword_)
+mdOutlinePassword = element (unsafeCoerce _mdOutlinePassword)
 
-foreign import mdOutlinePattern_ :: ReactIcon
+foreign import _mdOutlinePattern :: ReactIcon
 
 mdOutlinePattern :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePattern = element (unsafeCoerce mdOutlinePattern_)
+mdOutlinePattern = element (unsafeCoerce _mdOutlinePattern)
 
-foreign import mdOutlinePause_ :: ReactIcon
+foreign import _mdOutlinePause :: ReactIcon
 
 mdOutlinePause :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePause = element (unsafeCoerce mdOutlinePause_)
+mdOutlinePause = element (unsafeCoerce _mdOutlinePause)
 
-foreign import mdOutlinePauseCircle_ :: ReactIcon
+foreign import _mdOutlinePauseCircle :: ReactIcon
 
 mdOutlinePauseCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePauseCircle = element (unsafeCoerce mdOutlinePauseCircle_)
+mdOutlinePauseCircle = element (unsafeCoerce _mdOutlinePauseCircle)
 
-foreign import mdOutlinePauseCircleFilled_ :: ReactIcon
+foreign import _mdOutlinePauseCircleFilled :: ReactIcon
 
 mdOutlinePauseCircleFilled :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePauseCircleFilled = element (unsafeCoerce mdOutlinePauseCircleFilled_)
+mdOutlinePauseCircleFilled = element (unsafeCoerce _mdOutlinePauseCircleFilled)
 
-foreign import mdOutlinePauseCircleOutline_ :: ReactIcon
+foreign import _mdOutlinePauseCircleOutline :: ReactIcon
 
 mdOutlinePauseCircleOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePauseCircleOutline = element (unsafeCoerce mdOutlinePauseCircleOutline_)
+mdOutlinePauseCircleOutline = element (unsafeCoerce _mdOutlinePauseCircleOutline)
 
-foreign import mdOutlinePausePresentation_ :: ReactIcon
+foreign import _mdOutlinePausePresentation :: ReactIcon
 
 mdOutlinePausePresentation :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePausePresentation = element (unsafeCoerce mdOutlinePausePresentation_)
+mdOutlinePausePresentation = element (unsafeCoerce _mdOutlinePausePresentation)
 
-foreign import mdOutlinePayment_ :: ReactIcon
+foreign import _mdOutlinePayment :: ReactIcon
 
 mdOutlinePayment :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePayment = element (unsafeCoerce mdOutlinePayment_)
+mdOutlinePayment = element (unsafeCoerce _mdOutlinePayment)
 
-foreign import mdOutlinePayments_ :: ReactIcon
+foreign import _mdOutlinePayments :: ReactIcon
 
 mdOutlinePayments :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePayments = element (unsafeCoerce mdOutlinePayments_)
+mdOutlinePayments = element (unsafeCoerce _mdOutlinePayments)
 
-foreign import mdOutlinePedalBike_ :: ReactIcon
+foreign import _mdOutlinePedalBike :: ReactIcon
 
 mdOutlinePedalBike :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePedalBike = element (unsafeCoerce mdOutlinePedalBike_)
+mdOutlinePedalBike = element (unsafeCoerce _mdOutlinePedalBike)
 
-foreign import mdOutlinePending_ :: ReactIcon
+foreign import _mdOutlinePending :: ReactIcon
 
 mdOutlinePending :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePending = element (unsafeCoerce mdOutlinePending_)
+mdOutlinePending = element (unsafeCoerce _mdOutlinePending)
 
-foreign import mdOutlinePendingActions_ :: ReactIcon
+foreign import _mdOutlinePendingActions :: ReactIcon
 
 mdOutlinePendingActions :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePendingActions = element (unsafeCoerce mdOutlinePendingActions_)
+mdOutlinePendingActions = element (unsafeCoerce _mdOutlinePendingActions)
 
-foreign import mdOutlinePeople_ :: ReactIcon
+foreign import _mdOutlinePeople :: ReactIcon
 
 mdOutlinePeople :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePeople = element (unsafeCoerce mdOutlinePeople_)
+mdOutlinePeople = element (unsafeCoerce _mdOutlinePeople)
 
-foreign import mdOutlinePeopleAlt_ :: ReactIcon
+foreign import _mdOutlinePeopleAlt :: ReactIcon
 
 mdOutlinePeopleAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePeopleAlt = element (unsafeCoerce mdOutlinePeopleAlt_)
+mdOutlinePeopleAlt = element (unsafeCoerce _mdOutlinePeopleAlt)
 
-foreign import mdOutlinePeopleOutline_ :: ReactIcon
+foreign import _mdOutlinePeopleOutline :: ReactIcon
 
 mdOutlinePeopleOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePeopleOutline = element (unsafeCoerce mdOutlinePeopleOutline_)
+mdOutlinePeopleOutline = element (unsafeCoerce _mdOutlinePeopleOutline)
 
-foreign import mdOutlinePermCameraMic_ :: ReactIcon
+foreign import _mdOutlinePermCameraMic :: ReactIcon
 
 mdOutlinePermCameraMic :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePermCameraMic = element (unsafeCoerce mdOutlinePermCameraMic_)
+mdOutlinePermCameraMic = element (unsafeCoerce _mdOutlinePermCameraMic)
 
-foreign import mdOutlinePermContactCalendar_ :: ReactIcon
+foreign import _mdOutlinePermContactCalendar :: ReactIcon
 
 mdOutlinePermContactCalendar :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePermContactCalendar = element (unsafeCoerce mdOutlinePermContactCalendar_)
+mdOutlinePermContactCalendar = element (unsafeCoerce _mdOutlinePermContactCalendar)
 
-foreign import mdOutlinePermDataSetting_ :: ReactIcon
+foreign import _mdOutlinePermDataSetting :: ReactIcon
 
 mdOutlinePermDataSetting :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePermDataSetting = element (unsafeCoerce mdOutlinePermDataSetting_)
+mdOutlinePermDataSetting = element (unsafeCoerce _mdOutlinePermDataSetting)
 
-foreign import mdOutlinePermDeviceInformation_ :: ReactIcon
+foreign import _mdOutlinePermDeviceInformation :: ReactIcon
 
 mdOutlinePermDeviceInformation :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePermDeviceInformation = element (unsafeCoerce mdOutlinePermDeviceInformation_)
+mdOutlinePermDeviceInformation = element (unsafeCoerce _mdOutlinePermDeviceInformation)
 
-foreign import mdOutlinePermIdentity_ :: ReactIcon
+foreign import _mdOutlinePermIdentity :: ReactIcon
 
 mdOutlinePermIdentity :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePermIdentity = element (unsafeCoerce mdOutlinePermIdentity_)
+mdOutlinePermIdentity = element (unsafeCoerce _mdOutlinePermIdentity)
 
-foreign import mdOutlinePermMedia_ :: ReactIcon
+foreign import _mdOutlinePermMedia :: ReactIcon
 
 mdOutlinePermMedia :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePermMedia = element (unsafeCoerce mdOutlinePermMedia_)
+mdOutlinePermMedia = element (unsafeCoerce _mdOutlinePermMedia)
 
-foreign import mdOutlinePermPhoneMsg_ :: ReactIcon
+foreign import _mdOutlinePermPhoneMsg :: ReactIcon
 
 mdOutlinePermPhoneMsg :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePermPhoneMsg = element (unsafeCoerce mdOutlinePermPhoneMsg_)
+mdOutlinePermPhoneMsg = element (unsafeCoerce _mdOutlinePermPhoneMsg)
 
-foreign import mdOutlinePermScanWifi_ :: ReactIcon
+foreign import _mdOutlinePermScanWifi :: ReactIcon
 
 mdOutlinePermScanWifi :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePermScanWifi = element (unsafeCoerce mdOutlinePermScanWifi_)
+mdOutlinePermScanWifi = element (unsafeCoerce _mdOutlinePermScanWifi)
 
-foreign import mdOutlinePerson_ :: ReactIcon
+foreign import _mdOutlinePerson :: ReactIcon
 
 mdOutlinePerson :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePerson = element (unsafeCoerce mdOutlinePerson_)
+mdOutlinePerson = element (unsafeCoerce _mdOutlinePerson)
 
-foreign import mdOutlinePersonAdd_ :: ReactIcon
+foreign import _mdOutlinePersonAdd :: ReactIcon
 
 mdOutlinePersonAdd :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePersonAdd = element (unsafeCoerce mdOutlinePersonAdd_)
+mdOutlinePersonAdd = element (unsafeCoerce _mdOutlinePersonAdd)
 
-foreign import mdOutlinePersonAddAlt_ :: ReactIcon
+foreign import _mdOutlinePersonAddAlt :: ReactIcon
 
 mdOutlinePersonAddAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePersonAddAlt = element (unsafeCoerce mdOutlinePersonAddAlt_)
+mdOutlinePersonAddAlt = element (unsafeCoerce _mdOutlinePersonAddAlt)
 
-foreign import mdOutlinePersonAddDisabled_ :: ReactIcon
+foreign import _mdOutlinePersonAddDisabled :: ReactIcon
 
 mdOutlinePersonAddDisabled :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePersonAddDisabled = element (unsafeCoerce mdOutlinePersonAddDisabled_)
+mdOutlinePersonAddDisabled = element (unsafeCoerce _mdOutlinePersonAddDisabled)
 
-foreign import mdOutlinePersonalInjury_ :: ReactIcon
+foreign import _mdOutlinePersonalInjury :: ReactIcon
 
 mdOutlinePersonalInjury :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePersonalInjury = element (unsafeCoerce mdOutlinePersonalInjury_)
+mdOutlinePersonalInjury = element (unsafeCoerce _mdOutlinePersonalInjury)
 
-foreign import mdOutlinePersonalVideo_ :: ReactIcon
+foreign import _mdOutlinePersonalVideo :: ReactIcon
 
 mdOutlinePersonalVideo :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePersonalVideo = element (unsafeCoerce mdOutlinePersonalVideo_)
+mdOutlinePersonalVideo = element (unsafeCoerce _mdOutlinePersonalVideo)
 
-foreign import mdOutlinePersonOff_ :: ReactIcon
+foreign import _mdOutlinePersonOff :: ReactIcon
 
 mdOutlinePersonOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePersonOff = element (unsafeCoerce mdOutlinePersonOff_)
+mdOutlinePersonOff = element (unsafeCoerce _mdOutlinePersonOff)
 
-foreign import mdOutlinePersonOutline_ :: ReactIcon
+foreign import _mdOutlinePersonOutline :: ReactIcon
 
 mdOutlinePersonOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePersonOutline = element (unsafeCoerce mdOutlinePersonOutline_)
+mdOutlinePersonOutline = element (unsafeCoerce _mdOutlinePersonOutline)
 
-foreign import mdOutlinePersonPin_ :: ReactIcon
+foreign import _mdOutlinePersonPin :: ReactIcon
 
 mdOutlinePersonPin :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePersonPin = element (unsafeCoerce mdOutlinePersonPin_)
+mdOutlinePersonPin = element (unsafeCoerce _mdOutlinePersonPin)
 
-foreign import mdOutlinePersonPinCircle_ :: ReactIcon
+foreign import _mdOutlinePersonPinCircle :: ReactIcon
 
 mdOutlinePersonPinCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePersonPinCircle = element (unsafeCoerce mdOutlinePersonPinCircle_)
+mdOutlinePersonPinCircle = element (unsafeCoerce _mdOutlinePersonPinCircle)
 
-foreign import mdOutlinePersonRemove_ :: ReactIcon
+foreign import _mdOutlinePersonRemove :: ReactIcon
 
 mdOutlinePersonRemove :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePersonRemove = element (unsafeCoerce mdOutlinePersonRemove_)
+mdOutlinePersonRemove = element (unsafeCoerce _mdOutlinePersonRemove)
 
-foreign import mdOutlinePersonSearch_ :: ReactIcon
+foreign import _mdOutlinePersonSearch :: ReactIcon
 
 mdOutlinePersonSearch :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePersonSearch = element (unsafeCoerce mdOutlinePersonSearch_)
+mdOutlinePersonSearch = element (unsafeCoerce _mdOutlinePersonSearch)
 
-foreign import mdOutlinePestControl_ :: ReactIcon
+foreign import _mdOutlinePestControl :: ReactIcon
 
 mdOutlinePestControl :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePestControl = element (unsafeCoerce mdOutlinePestControl_)
+mdOutlinePestControl = element (unsafeCoerce _mdOutlinePestControl)
 
-foreign import mdOutlinePestControlRodent_ :: ReactIcon
+foreign import _mdOutlinePestControlRodent :: ReactIcon
 
 mdOutlinePestControlRodent :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePestControlRodent = element (unsafeCoerce mdOutlinePestControlRodent_)
+mdOutlinePestControlRodent = element (unsafeCoerce _mdOutlinePestControlRodent)
 
-foreign import mdOutlinePets_ :: ReactIcon
+foreign import _mdOutlinePets :: ReactIcon
 
 mdOutlinePets :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePets = element (unsafeCoerce mdOutlinePets_)
+mdOutlinePets = element (unsafeCoerce _mdOutlinePets)
 
-foreign import mdOutlinePhone_ :: ReactIcon
+foreign import _mdOutlinePhone :: ReactIcon
 
 mdOutlinePhone :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePhone = element (unsafeCoerce mdOutlinePhone_)
+mdOutlinePhone = element (unsafeCoerce _mdOutlinePhone)
 
-foreign import mdOutlinePhoneAndroid_ :: ReactIcon
+foreign import _mdOutlinePhoneAndroid :: ReactIcon
 
 mdOutlinePhoneAndroid :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePhoneAndroid = element (unsafeCoerce mdOutlinePhoneAndroid_)
+mdOutlinePhoneAndroid = element (unsafeCoerce _mdOutlinePhoneAndroid)
 
-foreign import mdOutlinePhoneBluetoothSpeaker_ :: ReactIcon
+foreign import _mdOutlinePhoneBluetoothSpeaker :: ReactIcon
 
 mdOutlinePhoneBluetoothSpeaker :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePhoneBluetoothSpeaker = element (unsafeCoerce mdOutlinePhoneBluetoothSpeaker_)
+mdOutlinePhoneBluetoothSpeaker = element (unsafeCoerce _mdOutlinePhoneBluetoothSpeaker)
 
-foreign import mdOutlinePhoneCallback_ :: ReactIcon
+foreign import _mdOutlinePhoneCallback :: ReactIcon
 
 mdOutlinePhoneCallback :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePhoneCallback = element (unsafeCoerce mdOutlinePhoneCallback_)
+mdOutlinePhoneCallback = element (unsafeCoerce _mdOutlinePhoneCallback)
 
-foreign import mdOutlinePhoneDisabled_ :: ReactIcon
+foreign import _mdOutlinePhoneDisabled :: ReactIcon
 
 mdOutlinePhoneDisabled :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePhoneDisabled = element (unsafeCoerce mdOutlinePhoneDisabled_)
+mdOutlinePhoneDisabled = element (unsafeCoerce _mdOutlinePhoneDisabled)
 
-foreign import mdOutlinePhoneEnabled_ :: ReactIcon
+foreign import _mdOutlinePhoneEnabled :: ReactIcon
 
 mdOutlinePhoneEnabled :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePhoneEnabled = element (unsafeCoerce mdOutlinePhoneEnabled_)
+mdOutlinePhoneEnabled = element (unsafeCoerce _mdOutlinePhoneEnabled)
 
-foreign import mdOutlinePhoneForwarded_ :: ReactIcon
+foreign import _mdOutlinePhoneForwarded :: ReactIcon
 
 mdOutlinePhoneForwarded :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePhoneForwarded = element (unsafeCoerce mdOutlinePhoneForwarded_)
+mdOutlinePhoneForwarded = element (unsafeCoerce _mdOutlinePhoneForwarded)
 
-foreign import mdOutlinePhoneInTalk_ :: ReactIcon
+foreign import _mdOutlinePhoneInTalk :: ReactIcon
 
 mdOutlinePhoneInTalk :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePhoneInTalk = element (unsafeCoerce mdOutlinePhoneInTalk_)
+mdOutlinePhoneInTalk = element (unsafeCoerce _mdOutlinePhoneInTalk)
 
-foreign import mdOutlinePhoneIphone_ :: ReactIcon
+foreign import _mdOutlinePhoneIphone :: ReactIcon
 
 mdOutlinePhoneIphone :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePhoneIphone = element (unsafeCoerce mdOutlinePhoneIphone_)
+mdOutlinePhoneIphone = element (unsafeCoerce _mdOutlinePhoneIphone)
 
-foreign import mdOutlinePhonelink_ :: ReactIcon
+foreign import _mdOutlinePhonelink :: ReactIcon
 
 mdOutlinePhonelink :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePhonelink = element (unsafeCoerce mdOutlinePhonelink_)
+mdOutlinePhonelink = element (unsafeCoerce _mdOutlinePhonelink)
 
-foreign import mdOutlinePhonelinkErase_ :: ReactIcon
+foreign import _mdOutlinePhonelinkErase :: ReactIcon
 
 mdOutlinePhonelinkErase :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePhonelinkErase = element (unsafeCoerce mdOutlinePhonelinkErase_)
+mdOutlinePhonelinkErase = element (unsafeCoerce _mdOutlinePhonelinkErase)
 
-foreign import mdOutlinePhonelinkLock_ :: ReactIcon
+foreign import _mdOutlinePhonelinkLock :: ReactIcon
 
 mdOutlinePhonelinkLock :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePhonelinkLock = element (unsafeCoerce mdOutlinePhonelinkLock_)
+mdOutlinePhonelinkLock = element (unsafeCoerce _mdOutlinePhonelinkLock)
 
-foreign import mdOutlinePhonelinkOff_ :: ReactIcon
+foreign import _mdOutlinePhonelinkOff :: ReactIcon
 
 mdOutlinePhonelinkOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePhonelinkOff = element (unsafeCoerce mdOutlinePhonelinkOff_)
+mdOutlinePhonelinkOff = element (unsafeCoerce _mdOutlinePhonelinkOff)
 
-foreign import mdOutlinePhonelinkRing_ :: ReactIcon
+foreign import _mdOutlinePhonelinkRing :: ReactIcon
 
 mdOutlinePhonelinkRing :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePhonelinkRing = element (unsafeCoerce mdOutlinePhonelinkRing_)
+mdOutlinePhonelinkRing = element (unsafeCoerce _mdOutlinePhonelinkRing)
 
-foreign import mdOutlinePhonelinkSetup_ :: ReactIcon
+foreign import _mdOutlinePhonelinkSetup :: ReactIcon
 
 mdOutlinePhonelinkSetup :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePhonelinkSetup = element (unsafeCoerce mdOutlinePhonelinkSetup_)
+mdOutlinePhonelinkSetup = element (unsafeCoerce _mdOutlinePhonelinkSetup)
 
-foreign import mdOutlinePhoneLocked_ :: ReactIcon
+foreign import _mdOutlinePhoneLocked :: ReactIcon
 
 mdOutlinePhoneLocked :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePhoneLocked = element (unsafeCoerce mdOutlinePhoneLocked_)
+mdOutlinePhoneLocked = element (unsafeCoerce _mdOutlinePhoneLocked)
 
-foreign import mdOutlinePhoneMissed_ :: ReactIcon
+foreign import _mdOutlinePhoneMissed :: ReactIcon
 
 mdOutlinePhoneMissed :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePhoneMissed = element (unsafeCoerce mdOutlinePhoneMissed_)
+mdOutlinePhoneMissed = element (unsafeCoerce _mdOutlinePhoneMissed)
 
-foreign import mdOutlinePhonePaused_ :: ReactIcon
+foreign import _mdOutlinePhonePaused :: ReactIcon
 
 mdOutlinePhonePaused :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePhonePaused = element (unsafeCoerce mdOutlinePhonePaused_)
+mdOutlinePhonePaused = element (unsafeCoerce _mdOutlinePhonePaused)
 
-foreign import mdOutlinePhoto_ :: ReactIcon
+foreign import _mdOutlinePhoto :: ReactIcon
 
 mdOutlinePhoto :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePhoto = element (unsafeCoerce mdOutlinePhoto_)
+mdOutlinePhoto = element (unsafeCoerce _mdOutlinePhoto)
 
-foreign import mdOutlinePhotoAlbum_ :: ReactIcon
+foreign import _mdOutlinePhotoAlbum :: ReactIcon
 
 mdOutlinePhotoAlbum :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePhotoAlbum = element (unsafeCoerce mdOutlinePhotoAlbum_)
+mdOutlinePhotoAlbum = element (unsafeCoerce _mdOutlinePhotoAlbum)
 
-foreign import mdOutlinePhotoCamera_ :: ReactIcon
+foreign import _mdOutlinePhotoCamera :: ReactIcon
 
 mdOutlinePhotoCamera :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePhotoCamera = element (unsafeCoerce mdOutlinePhotoCamera_)
+mdOutlinePhotoCamera = element (unsafeCoerce _mdOutlinePhotoCamera)
 
-foreign import mdOutlinePhotoCameraBack_ :: ReactIcon
+foreign import _mdOutlinePhotoCameraBack :: ReactIcon
 
 mdOutlinePhotoCameraBack :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePhotoCameraBack = element (unsafeCoerce mdOutlinePhotoCameraBack_)
+mdOutlinePhotoCameraBack = element (unsafeCoerce _mdOutlinePhotoCameraBack)
 
-foreign import mdOutlinePhotoCameraFront_ :: ReactIcon
+foreign import _mdOutlinePhotoCameraFront :: ReactIcon
 
 mdOutlinePhotoCameraFront :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePhotoCameraFront = element (unsafeCoerce mdOutlinePhotoCameraFront_)
+mdOutlinePhotoCameraFront = element (unsafeCoerce _mdOutlinePhotoCameraFront)
 
-foreign import mdOutlinePhotoFilter_ :: ReactIcon
+foreign import _mdOutlinePhotoFilter :: ReactIcon
 
 mdOutlinePhotoFilter :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePhotoFilter = element (unsafeCoerce mdOutlinePhotoFilter_)
+mdOutlinePhotoFilter = element (unsafeCoerce _mdOutlinePhotoFilter)
 
-foreign import mdOutlinePhotoLibrary_ :: ReactIcon
+foreign import _mdOutlinePhotoLibrary :: ReactIcon
 
 mdOutlinePhotoLibrary :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePhotoLibrary = element (unsafeCoerce mdOutlinePhotoLibrary_)
+mdOutlinePhotoLibrary = element (unsafeCoerce _mdOutlinePhotoLibrary)
 
-foreign import mdOutlinePhotoSizeSelectActual_ :: ReactIcon
+foreign import _mdOutlinePhotoSizeSelectActual :: ReactIcon
 
 mdOutlinePhotoSizeSelectActual :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePhotoSizeSelectActual = element (unsafeCoerce mdOutlinePhotoSizeSelectActual_)
+mdOutlinePhotoSizeSelectActual = element (unsafeCoerce _mdOutlinePhotoSizeSelectActual)
 
-foreign import mdOutlinePhotoSizeSelectLarge_ :: ReactIcon
+foreign import _mdOutlinePhotoSizeSelectLarge :: ReactIcon
 
 mdOutlinePhotoSizeSelectLarge :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePhotoSizeSelectLarge = element (unsafeCoerce mdOutlinePhotoSizeSelectLarge_)
+mdOutlinePhotoSizeSelectLarge = element (unsafeCoerce _mdOutlinePhotoSizeSelectLarge)
 
-foreign import mdOutlinePhotoSizeSelectSmall_ :: ReactIcon
+foreign import _mdOutlinePhotoSizeSelectSmall :: ReactIcon
 
 mdOutlinePhotoSizeSelectSmall :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePhotoSizeSelectSmall = element (unsafeCoerce mdOutlinePhotoSizeSelectSmall_)
+mdOutlinePhotoSizeSelectSmall = element (unsafeCoerce _mdOutlinePhotoSizeSelectSmall)
 
-foreign import mdOutlinePiano_ :: ReactIcon
+foreign import _mdOutlinePiano :: ReactIcon
 
 mdOutlinePiano :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePiano = element (unsafeCoerce mdOutlinePiano_)
+mdOutlinePiano = element (unsafeCoerce _mdOutlinePiano)
 
-foreign import mdOutlinePianoOff_ :: ReactIcon
+foreign import _mdOutlinePianoOff :: ReactIcon
 
 mdOutlinePianoOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePianoOff = element (unsafeCoerce mdOutlinePianoOff_)
+mdOutlinePianoOff = element (unsafeCoerce _mdOutlinePianoOff)
 
-foreign import mdOutlinePictureAsPdf_ :: ReactIcon
+foreign import _mdOutlinePictureAsPdf :: ReactIcon
 
 mdOutlinePictureAsPdf :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePictureAsPdf = element (unsafeCoerce mdOutlinePictureAsPdf_)
+mdOutlinePictureAsPdf = element (unsafeCoerce _mdOutlinePictureAsPdf)
 
-foreign import mdOutlinePictureInPicture_ :: ReactIcon
+foreign import _mdOutlinePictureInPicture :: ReactIcon
 
 mdOutlinePictureInPicture :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePictureInPicture = element (unsafeCoerce mdOutlinePictureInPicture_)
+mdOutlinePictureInPicture = element (unsafeCoerce _mdOutlinePictureInPicture)
 
-foreign import mdOutlinePictureInPictureAlt_ :: ReactIcon
+foreign import _mdOutlinePictureInPictureAlt :: ReactIcon
 
 mdOutlinePictureInPictureAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePictureInPictureAlt = element (unsafeCoerce mdOutlinePictureInPictureAlt_)
+mdOutlinePictureInPictureAlt = element (unsafeCoerce _mdOutlinePictureInPictureAlt)
 
-foreign import mdOutlinePieChart_ :: ReactIcon
+foreign import _mdOutlinePieChart :: ReactIcon
 
 mdOutlinePieChart :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePieChart = element (unsafeCoerce mdOutlinePieChart_)
+mdOutlinePieChart = element (unsafeCoerce _mdOutlinePieChart)
 
-foreign import mdOutlinePieChartOutline_ :: ReactIcon
+foreign import _mdOutlinePieChartOutline :: ReactIcon
 
 mdOutlinePieChartOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePieChartOutline = element (unsafeCoerce mdOutlinePieChartOutline_)
+mdOutlinePieChartOutline = element (unsafeCoerce _mdOutlinePieChartOutline)
 
-foreign import mdOutlinePin_ :: ReactIcon
+foreign import _mdOutlinePin :: ReactIcon
 
 mdOutlinePin :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePin = element (unsafeCoerce mdOutlinePin_)
+mdOutlinePin = element (unsafeCoerce _mdOutlinePin)
 
-foreign import mdOutlinePinDrop_ :: ReactIcon
+foreign import _mdOutlinePinDrop :: ReactIcon
 
 mdOutlinePinDrop :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePinDrop = element (unsafeCoerce mdOutlinePinDrop_)
+mdOutlinePinDrop = element (unsafeCoerce _mdOutlinePinDrop)
 
-foreign import mdOutlinePinEnd_ :: ReactIcon
+foreign import _mdOutlinePinEnd :: ReactIcon
 
 mdOutlinePinEnd :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePinEnd = element (unsafeCoerce mdOutlinePinEnd_)
+mdOutlinePinEnd = element (unsafeCoerce _mdOutlinePinEnd)
 
-foreign import mdOutlinePinInvoke_ :: ReactIcon
+foreign import _mdOutlinePinInvoke :: ReactIcon
 
 mdOutlinePinInvoke :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePinInvoke = element (unsafeCoerce mdOutlinePinInvoke_)
+mdOutlinePinInvoke = element (unsafeCoerce _mdOutlinePinInvoke)
 
-foreign import mdOutlinePivotTableChart_ :: ReactIcon
+foreign import _mdOutlinePivotTableChart :: ReactIcon
 
 mdOutlinePivotTableChart :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePivotTableChart = element (unsafeCoerce mdOutlinePivotTableChart_)
+mdOutlinePivotTableChart = element (unsafeCoerce _mdOutlinePivotTableChart)
 
-foreign import mdOutlinePlace_ :: ReactIcon
+foreign import _mdOutlinePlace :: ReactIcon
 
 mdOutlinePlace :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePlace = element (unsafeCoerce mdOutlinePlace_)
+mdOutlinePlace = element (unsafeCoerce _mdOutlinePlace)
 
-foreign import mdOutlinePlagiarism_ :: ReactIcon
+foreign import _mdOutlinePlagiarism :: ReactIcon
 
 mdOutlinePlagiarism :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePlagiarism = element (unsafeCoerce mdOutlinePlagiarism_)
+mdOutlinePlagiarism = element (unsafeCoerce _mdOutlinePlagiarism)
 
-foreign import mdOutlinePlayArrow_ :: ReactIcon
+foreign import _mdOutlinePlayArrow :: ReactIcon
 
 mdOutlinePlayArrow :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePlayArrow = element (unsafeCoerce mdOutlinePlayArrow_)
+mdOutlinePlayArrow = element (unsafeCoerce _mdOutlinePlayArrow)
 
-foreign import mdOutlinePlayCircle_ :: ReactIcon
+foreign import _mdOutlinePlayCircle :: ReactIcon
 
 mdOutlinePlayCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePlayCircle = element (unsafeCoerce mdOutlinePlayCircle_)
+mdOutlinePlayCircle = element (unsafeCoerce _mdOutlinePlayCircle)
 
-foreign import mdOutlinePlayCircleFilled_ :: ReactIcon
+foreign import _mdOutlinePlayCircleFilled :: ReactIcon
 
 mdOutlinePlayCircleFilled :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePlayCircleFilled = element (unsafeCoerce mdOutlinePlayCircleFilled_)
+mdOutlinePlayCircleFilled = element (unsafeCoerce _mdOutlinePlayCircleFilled)
 
-foreign import mdOutlinePlayCircleOutline_ :: ReactIcon
+foreign import _mdOutlinePlayCircleOutline :: ReactIcon
 
 mdOutlinePlayCircleOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePlayCircleOutline = element (unsafeCoerce mdOutlinePlayCircleOutline_)
+mdOutlinePlayCircleOutline = element (unsafeCoerce _mdOutlinePlayCircleOutline)
 
-foreign import mdOutlinePlayDisabled_ :: ReactIcon
+foreign import _mdOutlinePlayDisabled :: ReactIcon
 
 mdOutlinePlayDisabled :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePlayDisabled = element (unsafeCoerce mdOutlinePlayDisabled_)
+mdOutlinePlayDisabled = element (unsafeCoerce _mdOutlinePlayDisabled)
 
-foreign import mdOutlinePlayForWork_ :: ReactIcon
+foreign import _mdOutlinePlayForWork :: ReactIcon
 
 mdOutlinePlayForWork :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePlayForWork = element (unsafeCoerce mdOutlinePlayForWork_)
+mdOutlinePlayForWork = element (unsafeCoerce _mdOutlinePlayForWork)
 
-foreign import mdOutlinePlayLesson_ :: ReactIcon
+foreign import _mdOutlinePlayLesson :: ReactIcon
 
 mdOutlinePlayLesson :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePlayLesson = element (unsafeCoerce mdOutlinePlayLesson_)
+mdOutlinePlayLesson = element (unsafeCoerce _mdOutlinePlayLesson)
 
-foreign import mdOutlinePlaylistAdd_ :: ReactIcon
+foreign import _mdOutlinePlaylistAdd :: ReactIcon
 
 mdOutlinePlaylistAdd :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePlaylistAdd = element (unsafeCoerce mdOutlinePlaylistAdd_)
+mdOutlinePlaylistAdd = element (unsafeCoerce _mdOutlinePlaylistAdd)
 
-foreign import mdOutlinePlaylistAddCheck_ :: ReactIcon
+foreign import _mdOutlinePlaylistAddCheck :: ReactIcon
 
 mdOutlinePlaylistAddCheck :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePlaylistAddCheck = element (unsafeCoerce mdOutlinePlaylistAddCheck_)
+mdOutlinePlaylistAddCheck = element (unsafeCoerce _mdOutlinePlaylistAddCheck)
 
-foreign import mdOutlinePlaylistPlay_ :: ReactIcon
+foreign import _mdOutlinePlaylistPlay :: ReactIcon
 
 mdOutlinePlaylistPlay :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePlaylistPlay = element (unsafeCoerce mdOutlinePlaylistPlay_)
+mdOutlinePlaylistPlay = element (unsafeCoerce _mdOutlinePlaylistPlay)
 
-foreign import mdOutlinePlumbing_ :: ReactIcon
+foreign import _mdOutlinePlumbing :: ReactIcon
 
 mdOutlinePlumbing :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePlumbing = element (unsafeCoerce mdOutlinePlumbing_)
+mdOutlinePlumbing = element (unsafeCoerce _mdOutlinePlumbing)
 
-foreign import mdOutlinePlusOne_ :: ReactIcon
+foreign import _mdOutlinePlusOne :: ReactIcon
 
 mdOutlinePlusOne :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePlusOne = element (unsafeCoerce mdOutlinePlusOne_)
+mdOutlinePlusOne = element (unsafeCoerce _mdOutlinePlusOne)
 
-foreign import mdOutlinePodcasts_ :: ReactIcon
+foreign import _mdOutlinePodcasts :: ReactIcon
 
 mdOutlinePodcasts :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePodcasts = element (unsafeCoerce mdOutlinePodcasts_)
+mdOutlinePodcasts = element (unsafeCoerce _mdOutlinePodcasts)
 
-foreign import mdOutlinePointOfSale_ :: ReactIcon
+foreign import _mdOutlinePointOfSale :: ReactIcon
 
 mdOutlinePointOfSale :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePointOfSale = element (unsafeCoerce mdOutlinePointOfSale_)
+mdOutlinePointOfSale = element (unsafeCoerce _mdOutlinePointOfSale)
 
-foreign import mdOutlinePolicy_ :: ReactIcon
+foreign import _mdOutlinePolicy :: ReactIcon
 
 mdOutlinePolicy :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePolicy = element (unsafeCoerce mdOutlinePolicy_)
+mdOutlinePolicy = element (unsafeCoerce _mdOutlinePolicy)
 
-foreign import mdOutlinePoll_ :: ReactIcon
+foreign import _mdOutlinePoll :: ReactIcon
 
 mdOutlinePoll :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePoll = element (unsafeCoerce mdOutlinePoll_)
+mdOutlinePoll = element (unsafeCoerce _mdOutlinePoll)
 
-foreign import mdOutlinePolymer_ :: ReactIcon
+foreign import _mdOutlinePolymer :: ReactIcon
 
 mdOutlinePolymer :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePolymer = element (unsafeCoerce mdOutlinePolymer_)
+mdOutlinePolymer = element (unsafeCoerce _mdOutlinePolymer)
 
-foreign import mdOutlinePool_ :: ReactIcon
+foreign import _mdOutlinePool :: ReactIcon
 
 mdOutlinePool :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePool = element (unsafeCoerce mdOutlinePool_)
+mdOutlinePool = element (unsafeCoerce _mdOutlinePool)
 
-foreign import mdOutlinePortableWifiOff_ :: ReactIcon
+foreign import _mdOutlinePortableWifiOff :: ReactIcon
 
 mdOutlinePortableWifiOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePortableWifiOff = element (unsafeCoerce mdOutlinePortableWifiOff_)
+mdOutlinePortableWifiOff = element (unsafeCoerce _mdOutlinePortableWifiOff)
 
-foreign import mdOutlinePortrait_ :: ReactIcon
+foreign import _mdOutlinePortrait :: ReactIcon
 
 mdOutlinePortrait :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePortrait = element (unsafeCoerce mdOutlinePortrait_)
+mdOutlinePortrait = element (unsafeCoerce _mdOutlinePortrait)
 
-foreign import mdOutlinePostAdd_ :: ReactIcon
+foreign import _mdOutlinePostAdd :: ReactIcon
 
 mdOutlinePostAdd :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePostAdd = element (unsafeCoerce mdOutlinePostAdd_)
+mdOutlinePostAdd = element (unsafeCoerce _mdOutlinePostAdd)
 
-foreign import mdOutlinePower_ :: ReactIcon
+foreign import _mdOutlinePower :: ReactIcon
 
 mdOutlinePower :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePower = element (unsafeCoerce mdOutlinePower_)
+mdOutlinePower = element (unsafeCoerce _mdOutlinePower)
 
-foreign import mdOutlinePowerInput_ :: ReactIcon
+foreign import _mdOutlinePowerInput :: ReactIcon
 
 mdOutlinePowerInput :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePowerInput = element (unsafeCoerce mdOutlinePowerInput_)
+mdOutlinePowerInput = element (unsafeCoerce _mdOutlinePowerInput)
 
-foreign import mdOutlinePowerOff_ :: ReactIcon
+foreign import _mdOutlinePowerOff :: ReactIcon
 
 mdOutlinePowerOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePowerOff = element (unsafeCoerce mdOutlinePowerOff_)
+mdOutlinePowerOff = element (unsafeCoerce _mdOutlinePowerOff)
 
-foreign import mdOutlinePowerSettingsNew_ :: ReactIcon
+foreign import _mdOutlinePowerSettingsNew :: ReactIcon
 
 mdOutlinePowerSettingsNew :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePowerSettingsNew = element (unsafeCoerce mdOutlinePowerSettingsNew_)
+mdOutlinePowerSettingsNew = element (unsafeCoerce _mdOutlinePowerSettingsNew)
 
-foreign import mdOutlinePrecisionManufacturing_ :: ReactIcon
+foreign import _mdOutlinePrecisionManufacturing :: ReactIcon
 
 mdOutlinePrecisionManufacturing :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePrecisionManufacturing = element (unsafeCoerce mdOutlinePrecisionManufacturing_)
+mdOutlinePrecisionManufacturing = element (unsafeCoerce _mdOutlinePrecisionManufacturing)
 
-foreign import mdOutlinePregnantWoman_ :: ReactIcon
+foreign import _mdOutlinePregnantWoman :: ReactIcon
 
 mdOutlinePregnantWoman :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePregnantWoman = element (unsafeCoerce mdOutlinePregnantWoman_)
+mdOutlinePregnantWoman = element (unsafeCoerce _mdOutlinePregnantWoman)
 
-foreign import mdOutlinePresentToAll_ :: ReactIcon
+foreign import _mdOutlinePresentToAll :: ReactIcon
 
 mdOutlinePresentToAll :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePresentToAll = element (unsafeCoerce mdOutlinePresentToAll_)
+mdOutlinePresentToAll = element (unsafeCoerce _mdOutlinePresentToAll)
 
-foreign import mdOutlinePreview_ :: ReactIcon
+foreign import _mdOutlinePreview :: ReactIcon
 
 mdOutlinePreview :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePreview = element (unsafeCoerce mdOutlinePreview_)
+mdOutlinePreview = element (unsafeCoerce _mdOutlinePreview)
 
-foreign import mdOutlinePriceChange_ :: ReactIcon
+foreign import _mdOutlinePriceChange :: ReactIcon
 
 mdOutlinePriceChange :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePriceChange = element (unsafeCoerce mdOutlinePriceChange_)
+mdOutlinePriceChange = element (unsafeCoerce _mdOutlinePriceChange)
 
-foreign import mdOutlinePriceCheck_ :: ReactIcon
+foreign import _mdOutlinePriceCheck :: ReactIcon
 
 mdOutlinePriceCheck :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePriceCheck = element (unsafeCoerce mdOutlinePriceCheck_)
+mdOutlinePriceCheck = element (unsafeCoerce _mdOutlinePriceCheck)
 
-foreign import mdOutlinePrint_ :: ReactIcon
+foreign import _mdOutlinePrint :: ReactIcon
 
 mdOutlinePrint :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePrint = element (unsafeCoerce mdOutlinePrint_)
+mdOutlinePrint = element (unsafeCoerce _mdOutlinePrint)
 
-foreign import mdOutlinePrintDisabled_ :: ReactIcon
+foreign import _mdOutlinePrintDisabled :: ReactIcon
 
 mdOutlinePrintDisabled :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePrintDisabled = element (unsafeCoerce mdOutlinePrintDisabled_)
+mdOutlinePrintDisabled = element (unsafeCoerce _mdOutlinePrintDisabled)
 
-foreign import mdOutlinePriorityHigh_ :: ReactIcon
+foreign import _mdOutlinePriorityHigh :: ReactIcon
 
 mdOutlinePriorityHigh :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePriorityHigh = element (unsafeCoerce mdOutlinePriorityHigh_)
+mdOutlinePriorityHigh = element (unsafeCoerce _mdOutlinePriorityHigh)
 
-foreign import mdOutlinePrivacyTip_ :: ReactIcon
+foreign import _mdOutlinePrivacyTip :: ReactIcon
 
 mdOutlinePrivacyTip :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePrivacyTip = element (unsafeCoerce mdOutlinePrivacyTip_)
+mdOutlinePrivacyTip = element (unsafeCoerce _mdOutlinePrivacyTip)
 
-foreign import mdOutlinePrivateConnectivity_ :: ReactIcon
+foreign import _mdOutlinePrivateConnectivity :: ReactIcon
 
 mdOutlinePrivateConnectivity :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePrivateConnectivity = element (unsafeCoerce mdOutlinePrivateConnectivity_)
+mdOutlinePrivateConnectivity = element (unsafeCoerce _mdOutlinePrivateConnectivity)
 
-foreign import mdOutlineProductionQuantityLimits_ :: ReactIcon
+foreign import _mdOutlineProductionQuantityLimits :: ReactIcon
 
 mdOutlineProductionQuantityLimits :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineProductionQuantityLimits = element (unsafeCoerce mdOutlineProductionQuantityLimits_)
+mdOutlineProductionQuantityLimits = element (unsafeCoerce _mdOutlineProductionQuantityLimits)
 
-foreign import mdOutlinePsychology_ :: ReactIcon
+foreign import _mdOutlinePsychology :: ReactIcon
 
 mdOutlinePsychology :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePsychology = element (unsafeCoerce mdOutlinePsychology_)
+mdOutlinePsychology = element (unsafeCoerce _mdOutlinePsychology)
 
-foreign import mdOutlinePublic_ :: ReactIcon
+foreign import _mdOutlinePublic :: ReactIcon
 
 mdOutlinePublic :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePublic = element (unsafeCoerce mdOutlinePublic_)
+mdOutlinePublic = element (unsafeCoerce _mdOutlinePublic)
 
-foreign import mdOutlinePublicOff_ :: ReactIcon
+foreign import _mdOutlinePublicOff :: ReactIcon
 
 mdOutlinePublicOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePublicOff = element (unsafeCoerce mdOutlinePublicOff_)
+mdOutlinePublicOff = element (unsafeCoerce _mdOutlinePublicOff)
 
-foreign import mdOutlinePublish_ :: ReactIcon
+foreign import _mdOutlinePublish :: ReactIcon
 
 mdOutlinePublish :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePublish = element (unsafeCoerce mdOutlinePublish_)
+mdOutlinePublish = element (unsafeCoerce _mdOutlinePublish)
 
-foreign import mdOutlinePublishedWithChanges_ :: ReactIcon
+foreign import _mdOutlinePublishedWithChanges :: ReactIcon
 
 mdOutlinePublishedWithChanges :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePublishedWithChanges = element (unsafeCoerce mdOutlinePublishedWithChanges_)
+mdOutlinePublishedWithChanges = element (unsafeCoerce _mdOutlinePublishedWithChanges)
 
-foreign import mdOutlinePushPin_ :: ReactIcon
+foreign import _mdOutlinePushPin :: ReactIcon
 
 mdOutlinePushPin :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlinePushPin = element (unsafeCoerce mdOutlinePushPin_)
+mdOutlinePushPin = element (unsafeCoerce _mdOutlinePushPin)
 
-foreign import mdOutlineQrCode_ :: ReactIcon
+foreign import _mdOutlineQrCode :: ReactIcon
 
 mdOutlineQrCode :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineQrCode = element (unsafeCoerce mdOutlineQrCode_)
+mdOutlineQrCode = element (unsafeCoerce _mdOutlineQrCode)
 
-foreign import mdOutlineQrCodeScanner_ :: ReactIcon
+foreign import _mdOutlineQrCodeScanner :: ReactIcon
 
 mdOutlineQrCodeScanner :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineQrCodeScanner = element (unsafeCoerce mdOutlineQrCodeScanner_)
+mdOutlineQrCodeScanner = element (unsafeCoerce _mdOutlineQrCodeScanner)
 
-foreign import mdOutlineQueryBuilder_ :: ReactIcon
+foreign import _mdOutlineQueryBuilder :: ReactIcon
 
 mdOutlineQueryBuilder :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineQueryBuilder = element (unsafeCoerce mdOutlineQueryBuilder_)
+mdOutlineQueryBuilder = element (unsafeCoerce _mdOutlineQueryBuilder)
 
-foreign import mdOutlineQueryStats_ :: ReactIcon
+foreign import _mdOutlineQueryStats :: ReactIcon
 
 mdOutlineQueryStats :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineQueryStats = element (unsafeCoerce mdOutlineQueryStats_)
+mdOutlineQueryStats = element (unsafeCoerce _mdOutlineQueryStats)
 
-foreign import mdOutlineQuestionAnswer_ :: ReactIcon
+foreign import _mdOutlineQuestionAnswer :: ReactIcon
 
 mdOutlineQuestionAnswer :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineQuestionAnswer = element (unsafeCoerce mdOutlineQuestionAnswer_)
+mdOutlineQuestionAnswer = element (unsafeCoerce _mdOutlineQuestionAnswer)
 
-foreign import mdOutlineQueue_ :: ReactIcon
+foreign import _mdOutlineQueue :: ReactIcon
 
 mdOutlineQueue :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineQueue = element (unsafeCoerce mdOutlineQueue_)
+mdOutlineQueue = element (unsafeCoerce _mdOutlineQueue)
 
-foreign import mdOutlineQueueMusic_ :: ReactIcon
+foreign import _mdOutlineQueueMusic :: ReactIcon
 
 mdOutlineQueueMusic :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineQueueMusic = element (unsafeCoerce mdOutlineQueueMusic_)
+mdOutlineQueueMusic = element (unsafeCoerce _mdOutlineQueueMusic)
 
-foreign import mdOutlineQueuePlayNext_ :: ReactIcon
+foreign import _mdOutlineQueuePlayNext :: ReactIcon
 
 mdOutlineQueuePlayNext :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineQueuePlayNext = element (unsafeCoerce mdOutlineQueuePlayNext_)
+mdOutlineQueuePlayNext = element (unsafeCoerce _mdOutlineQueuePlayNext)
 
-foreign import mdOutlineQuickreply_ :: ReactIcon
+foreign import _mdOutlineQuickreply :: ReactIcon
 
 mdOutlineQuickreply :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineQuickreply = element (unsafeCoerce mdOutlineQuickreply_)
+mdOutlineQuickreply = element (unsafeCoerce _mdOutlineQuickreply)
 
-foreign import mdOutlineQuiz_ :: ReactIcon
+foreign import _mdOutlineQuiz :: ReactIcon
 
 mdOutlineQuiz :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineQuiz = element (unsafeCoerce mdOutlineQuiz_)
+mdOutlineQuiz = element (unsafeCoerce _mdOutlineQuiz)
 
-foreign import mdOutlineRadar_ :: ReactIcon
+foreign import _mdOutlineRadar :: ReactIcon
 
 mdOutlineRadar :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineRadar = element (unsafeCoerce mdOutlineRadar_)
+mdOutlineRadar = element (unsafeCoerce _mdOutlineRadar)
 
-foreign import mdOutlineRadio_ :: ReactIcon
+foreign import _mdOutlineRadio :: ReactIcon
 
 mdOutlineRadio :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineRadio = element (unsafeCoerce mdOutlineRadio_)
+mdOutlineRadio = element (unsafeCoerce _mdOutlineRadio)
 
-foreign import mdOutlineRadioButtonChecked_ :: ReactIcon
+foreign import _mdOutlineRadioButtonChecked :: ReactIcon
 
 mdOutlineRadioButtonChecked :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineRadioButtonChecked = element (unsafeCoerce mdOutlineRadioButtonChecked_)
+mdOutlineRadioButtonChecked = element (unsafeCoerce _mdOutlineRadioButtonChecked)
 
-foreign import mdOutlineRadioButtonUnchecked_ :: ReactIcon
+foreign import _mdOutlineRadioButtonUnchecked :: ReactIcon
 
 mdOutlineRadioButtonUnchecked :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineRadioButtonUnchecked = element (unsafeCoerce mdOutlineRadioButtonUnchecked_)
+mdOutlineRadioButtonUnchecked = element (unsafeCoerce _mdOutlineRadioButtonUnchecked)
 
-foreign import mdOutlineRailwayAlert_ :: ReactIcon
+foreign import _mdOutlineRailwayAlert :: ReactIcon
 
 mdOutlineRailwayAlert :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineRailwayAlert = element (unsafeCoerce mdOutlineRailwayAlert_)
+mdOutlineRailwayAlert = element (unsafeCoerce _mdOutlineRailwayAlert)
 
-foreign import mdOutlineRamenDining_ :: ReactIcon
+foreign import _mdOutlineRamenDining :: ReactIcon
 
 mdOutlineRamenDining :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineRamenDining = element (unsafeCoerce mdOutlineRamenDining_)
+mdOutlineRamenDining = element (unsafeCoerce _mdOutlineRamenDining)
 
-foreign import mdOutlineRateReview_ :: ReactIcon
+foreign import _mdOutlineRateReview :: ReactIcon
 
 mdOutlineRateReview :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineRateReview = element (unsafeCoerce mdOutlineRateReview_)
+mdOutlineRateReview = element (unsafeCoerce _mdOutlineRateReview)
 
-foreign import mdOutlineRawOff_ :: ReactIcon
+foreign import _mdOutlineRawOff :: ReactIcon
 
 mdOutlineRawOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineRawOff = element (unsafeCoerce mdOutlineRawOff_)
+mdOutlineRawOff = element (unsafeCoerce _mdOutlineRawOff)
 
-foreign import mdOutlineRawOn_ :: ReactIcon
+foreign import _mdOutlineRawOn :: ReactIcon
 
 mdOutlineRawOn :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineRawOn = element (unsafeCoerce mdOutlineRawOn_)
+mdOutlineRawOn = element (unsafeCoerce _mdOutlineRawOn)
 
-foreign import mdOutlineReadMore_ :: ReactIcon
+foreign import _mdOutlineReadMore :: ReactIcon
 
 mdOutlineReadMore :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineReadMore = element (unsafeCoerce mdOutlineReadMore_)
+mdOutlineReadMore = element (unsafeCoerce _mdOutlineReadMore)
 
-foreign import mdOutlineRealEstateAgent_ :: ReactIcon
+foreign import _mdOutlineRealEstateAgent :: ReactIcon
 
 mdOutlineRealEstateAgent :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineRealEstateAgent = element (unsafeCoerce mdOutlineRealEstateAgent_)
+mdOutlineRealEstateAgent = element (unsafeCoerce _mdOutlineRealEstateAgent)
 
-foreign import mdOutlineReceipt_ :: ReactIcon
+foreign import _mdOutlineReceipt :: ReactIcon
 
 mdOutlineReceipt :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineReceipt = element (unsafeCoerce mdOutlineReceipt_)
+mdOutlineReceipt = element (unsafeCoerce _mdOutlineReceipt)
 
-foreign import mdOutlineReceiptLong_ :: ReactIcon
+foreign import _mdOutlineReceiptLong :: ReactIcon
 
 mdOutlineReceiptLong :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineReceiptLong = element (unsafeCoerce mdOutlineReceiptLong_)
+mdOutlineReceiptLong = element (unsafeCoerce _mdOutlineReceiptLong)
 
-foreign import mdOutlineRecentActors_ :: ReactIcon
+foreign import _mdOutlineRecentActors :: ReactIcon
 
 mdOutlineRecentActors :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineRecentActors = element (unsafeCoerce mdOutlineRecentActors_)
+mdOutlineRecentActors = element (unsafeCoerce _mdOutlineRecentActors)
 
-foreign import mdOutlineRecommend_ :: ReactIcon
+foreign import _mdOutlineRecommend :: ReactIcon
 
 mdOutlineRecommend :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineRecommend = element (unsafeCoerce mdOutlineRecommend_)
+mdOutlineRecommend = element (unsafeCoerce _mdOutlineRecommend)
 
-foreign import mdOutlineRecordVoiceOver_ :: ReactIcon
+foreign import _mdOutlineRecordVoiceOver :: ReactIcon
 
 mdOutlineRecordVoiceOver :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineRecordVoiceOver = element (unsafeCoerce mdOutlineRecordVoiceOver_)
+mdOutlineRecordVoiceOver = element (unsafeCoerce _mdOutlineRecordVoiceOver)
 
-foreign import mdOutlineRecycling_ :: ReactIcon
+foreign import _mdOutlineRecycling :: ReactIcon
 
 mdOutlineRecycling :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineRecycling = element (unsafeCoerce mdOutlineRecycling_)
+mdOutlineRecycling = element (unsafeCoerce _mdOutlineRecycling)
 
-foreign import mdOutlineRedeem_ :: ReactIcon
+foreign import _mdOutlineRedeem :: ReactIcon
 
 mdOutlineRedeem :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineRedeem = element (unsafeCoerce mdOutlineRedeem_)
+mdOutlineRedeem = element (unsafeCoerce _mdOutlineRedeem)
 
-foreign import mdOutlineRedo_ :: ReactIcon
+foreign import _mdOutlineRedo :: ReactIcon
 
 mdOutlineRedo :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineRedo = element (unsafeCoerce mdOutlineRedo_)
+mdOutlineRedo = element (unsafeCoerce _mdOutlineRedo)
 
-foreign import mdOutlineReduceCapacity_ :: ReactIcon
+foreign import _mdOutlineReduceCapacity :: ReactIcon
 
 mdOutlineReduceCapacity :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineReduceCapacity = element (unsafeCoerce mdOutlineReduceCapacity_)
+mdOutlineReduceCapacity = element (unsafeCoerce _mdOutlineReduceCapacity)
 
-foreign import mdOutlineRefresh_ :: ReactIcon
+foreign import _mdOutlineRefresh :: ReactIcon
 
 mdOutlineRefresh :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineRefresh = element (unsafeCoerce mdOutlineRefresh_)
+mdOutlineRefresh = element (unsafeCoerce _mdOutlineRefresh)
 
-foreign import mdOutlineRememberMe_ :: ReactIcon
+foreign import _mdOutlineRememberMe :: ReactIcon
 
 mdOutlineRememberMe :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineRememberMe = element (unsafeCoerce mdOutlineRememberMe_)
+mdOutlineRememberMe = element (unsafeCoerce _mdOutlineRememberMe)
 
-foreign import mdOutlineRemove_ :: ReactIcon
+foreign import _mdOutlineRemove :: ReactIcon
 
 mdOutlineRemove :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineRemove = element (unsafeCoerce mdOutlineRemove_)
+mdOutlineRemove = element (unsafeCoerce _mdOutlineRemove)
 
-foreign import mdOutlineRemoveCircle_ :: ReactIcon
+foreign import _mdOutlineRemoveCircle :: ReactIcon
 
 mdOutlineRemoveCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineRemoveCircle = element (unsafeCoerce mdOutlineRemoveCircle_)
+mdOutlineRemoveCircle = element (unsafeCoerce _mdOutlineRemoveCircle)
 
-foreign import mdOutlineRemoveCircleOutline_ :: ReactIcon
+foreign import _mdOutlineRemoveCircleOutline :: ReactIcon
 
 mdOutlineRemoveCircleOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineRemoveCircleOutline = element (unsafeCoerce mdOutlineRemoveCircleOutline_)
+mdOutlineRemoveCircleOutline = element (unsafeCoerce _mdOutlineRemoveCircleOutline)
 
-foreign import mdOutlineRemoveDone_ :: ReactIcon
+foreign import _mdOutlineRemoveDone :: ReactIcon
 
 mdOutlineRemoveDone :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineRemoveDone = element (unsafeCoerce mdOutlineRemoveDone_)
+mdOutlineRemoveDone = element (unsafeCoerce _mdOutlineRemoveDone)
 
-foreign import mdOutlineRemoveFromQueue_ :: ReactIcon
+foreign import _mdOutlineRemoveFromQueue :: ReactIcon
 
 mdOutlineRemoveFromQueue :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineRemoveFromQueue = element (unsafeCoerce mdOutlineRemoveFromQueue_)
+mdOutlineRemoveFromQueue = element (unsafeCoerce _mdOutlineRemoveFromQueue)
 
-foreign import mdOutlineRemoveModerator_ :: ReactIcon
+foreign import _mdOutlineRemoveModerator :: ReactIcon
 
 mdOutlineRemoveModerator :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineRemoveModerator = element (unsafeCoerce mdOutlineRemoveModerator_)
+mdOutlineRemoveModerator = element (unsafeCoerce _mdOutlineRemoveModerator)
 
-foreign import mdOutlineRemoveRedEye_ :: ReactIcon
+foreign import _mdOutlineRemoveRedEye :: ReactIcon
 
 mdOutlineRemoveRedEye :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineRemoveRedEye = element (unsafeCoerce mdOutlineRemoveRedEye_)
+mdOutlineRemoveRedEye = element (unsafeCoerce _mdOutlineRemoveRedEye)
 
-foreign import mdOutlineRemoveShoppingCart_ :: ReactIcon
+foreign import _mdOutlineRemoveShoppingCart :: ReactIcon
 
 mdOutlineRemoveShoppingCart :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineRemoveShoppingCart = element (unsafeCoerce mdOutlineRemoveShoppingCart_)
+mdOutlineRemoveShoppingCart = element (unsafeCoerce _mdOutlineRemoveShoppingCart)
 
-foreign import mdOutlineReorder_ :: ReactIcon
+foreign import _mdOutlineReorder :: ReactIcon
 
 mdOutlineReorder :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineReorder = element (unsafeCoerce mdOutlineReorder_)
+mdOutlineReorder = element (unsafeCoerce _mdOutlineReorder)
 
-foreign import mdOutlineRepeat_ :: ReactIcon
+foreign import _mdOutlineRepeat :: ReactIcon
 
 mdOutlineRepeat :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineRepeat = element (unsafeCoerce mdOutlineRepeat_)
+mdOutlineRepeat = element (unsafeCoerce _mdOutlineRepeat)
 
-foreign import mdOutlineRepeatOn_ :: ReactIcon
+foreign import _mdOutlineRepeatOn :: ReactIcon
 
 mdOutlineRepeatOn :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineRepeatOn = element (unsafeCoerce mdOutlineRepeatOn_)
+mdOutlineRepeatOn = element (unsafeCoerce _mdOutlineRepeatOn)
 
-foreign import mdOutlineRepeatOne_ :: ReactIcon
+foreign import _mdOutlineRepeatOne :: ReactIcon
 
 mdOutlineRepeatOne :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineRepeatOne = element (unsafeCoerce mdOutlineRepeatOne_)
+mdOutlineRepeatOne = element (unsafeCoerce _mdOutlineRepeatOne)
 
-foreign import mdOutlineRepeatOneOn_ :: ReactIcon
+foreign import _mdOutlineRepeatOneOn :: ReactIcon
 
 mdOutlineRepeatOneOn :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineRepeatOneOn = element (unsafeCoerce mdOutlineRepeatOneOn_)
+mdOutlineRepeatOneOn = element (unsafeCoerce _mdOutlineRepeatOneOn)
 
-foreign import mdOutlineReplay_ :: ReactIcon
+foreign import _mdOutlineReplay :: ReactIcon
 
 mdOutlineReplay :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineReplay = element (unsafeCoerce mdOutlineReplay_)
+mdOutlineReplay = element (unsafeCoerce _mdOutlineReplay)
 
-foreign import mdOutlineReplayCircleFilled_ :: ReactIcon
+foreign import _mdOutlineReplayCircleFilled :: ReactIcon
 
 mdOutlineReplayCircleFilled :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineReplayCircleFilled = element (unsafeCoerce mdOutlineReplayCircleFilled_)
+mdOutlineReplayCircleFilled = element (unsafeCoerce _mdOutlineReplayCircleFilled)
 
-foreign import mdOutlineReply_ :: ReactIcon
+foreign import _mdOutlineReply :: ReactIcon
 
 mdOutlineReply :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineReply = element (unsafeCoerce mdOutlineReply_)
+mdOutlineReply = element (unsafeCoerce _mdOutlineReply)
 
-foreign import mdOutlineReplyAll_ :: ReactIcon
+foreign import _mdOutlineReplyAll :: ReactIcon
 
 mdOutlineReplyAll :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineReplyAll = element (unsafeCoerce mdOutlineReplyAll_)
+mdOutlineReplyAll = element (unsafeCoerce _mdOutlineReplyAll)
 
-foreign import mdOutlineReport_ :: ReactIcon
+foreign import _mdOutlineReport :: ReactIcon
 
 mdOutlineReport :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineReport = element (unsafeCoerce mdOutlineReport_)
+mdOutlineReport = element (unsafeCoerce _mdOutlineReport)
 
-foreign import mdOutlineReportGmailerrorred_ :: ReactIcon
+foreign import _mdOutlineReportGmailerrorred :: ReactIcon
 
 mdOutlineReportGmailerrorred :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineReportGmailerrorred = element (unsafeCoerce mdOutlineReportGmailerrorred_)
+mdOutlineReportGmailerrorred = element (unsafeCoerce _mdOutlineReportGmailerrorred)
 
-foreign import mdOutlineReportOff_ :: ReactIcon
+foreign import _mdOutlineReportOff :: ReactIcon
 
 mdOutlineReportOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineReportOff = element (unsafeCoerce mdOutlineReportOff_)
+mdOutlineReportOff = element (unsafeCoerce _mdOutlineReportOff)
 
-foreign import mdOutlineReportProblem_ :: ReactIcon
+foreign import _mdOutlineReportProblem :: ReactIcon
 
 mdOutlineReportProblem :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineReportProblem = element (unsafeCoerce mdOutlineReportProblem_)
+mdOutlineReportProblem = element (unsafeCoerce _mdOutlineReportProblem)
 
-foreign import mdOutlineRequestPage_ :: ReactIcon
+foreign import _mdOutlineRequestPage :: ReactIcon
 
 mdOutlineRequestPage :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineRequestPage = element (unsafeCoerce mdOutlineRequestPage_)
+mdOutlineRequestPage = element (unsafeCoerce _mdOutlineRequestPage)
 
-foreign import mdOutlineRequestQuote_ :: ReactIcon
+foreign import _mdOutlineRequestQuote :: ReactIcon
 
 mdOutlineRequestQuote :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineRequestQuote = element (unsafeCoerce mdOutlineRequestQuote_)
+mdOutlineRequestQuote = element (unsafeCoerce _mdOutlineRequestQuote)
 
-foreign import mdOutlineResetTv_ :: ReactIcon
+foreign import _mdOutlineResetTv :: ReactIcon
 
 mdOutlineResetTv :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineResetTv = element (unsafeCoerce mdOutlineResetTv_)
+mdOutlineResetTv = element (unsafeCoerce _mdOutlineResetTv)
 
-foreign import mdOutlineRestartAlt_ :: ReactIcon
+foreign import _mdOutlineRestartAlt :: ReactIcon
 
 mdOutlineRestartAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineRestartAlt = element (unsafeCoerce mdOutlineRestartAlt_)
+mdOutlineRestartAlt = element (unsafeCoerce _mdOutlineRestartAlt)
 
-foreign import mdOutlineRestaurant_ :: ReactIcon
+foreign import _mdOutlineRestaurant :: ReactIcon
 
 mdOutlineRestaurant :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineRestaurant = element (unsafeCoerce mdOutlineRestaurant_)
+mdOutlineRestaurant = element (unsafeCoerce _mdOutlineRestaurant)
 
-foreign import mdOutlineRestaurantMenu_ :: ReactIcon
+foreign import _mdOutlineRestaurantMenu :: ReactIcon
 
 mdOutlineRestaurantMenu :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineRestaurantMenu = element (unsafeCoerce mdOutlineRestaurantMenu_)
+mdOutlineRestaurantMenu = element (unsafeCoerce _mdOutlineRestaurantMenu)
 
-foreign import mdOutlineRestore_ :: ReactIcon
+foreign import _mdOutlineRestore :: ReactIcon
 
 mdOutlineRestore :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineRestore = element (unsafeCoerce mdOutlineRestore_)
+mdOutlineRestore = element (unsafeCoerce _mdOutlineRestore)
 
-foreign import mdOutlineRestoreFromTrash_ :: ReactIcon
+foreign import _mdOutlineRestoreFromTrash :: ReactIcon
 
 mdOutlineRestoreFromTrash :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineRestoreFromTrash = element (unsafeCoerce mdOutlineRestoreFromTrash_)
+mdOutlineRestoreFromTrash = element (unsafeCoerce _mdOutlineRestoreFromTrash)
 
-foreign import mdOutlineRestorePage_ :: ReactIcon
+foreign import _mdOutlineRestorePage :: ReactIcon
 
 mdOutlineRestorePage :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineRestorePage = element (unsafeCoerce mdOutlineRestorePage_)
+mdOutlineRestorePage = element (unsafeCoerce _mdOutlineRestorePage)
 
-foreign import mdOutlineReviews_ :: ReactIcon
+foreign import _mdOutlineReviews :: ReactIcon
 
 mdOutlineReviews :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineReviews = element (unsafeCoerce mdOutlineReviews_)
+mdOutlineReviews = element (unsafeCoerce _mdOutlineReviews)
 
-foreign import mdOutlineRiceBowl_ :: ReactIcon
+foreign import _mdOutlineRiceBowl :: ReactIcon
 
 mdOutlineRiceBowl :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineRiceBowl = element (unsafeCoerce mdOutlineRiceBowl_)
+mdOutlineRiceBowl = element (unsafeCoerce _mdOutlineRiceBowl)
 
-foreign import mdOutlineRingVolume_ :: ReactIcon
+foreign import _mdOutlineRingVolume :: ReactIcon
 
 mdOutlineRingVolume :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineRingVolume = element (unsafeCoerce mdOutlineRingVolume_)
+mdOutlineRingVolume = element (unsafeCoerce _mdOutlineRingVolume)
 
-foreign import mdOutlineRMobiledata_ :: ReactIcon
+foreign import _mdOutlineRMobiledata :: ReactIcon
 
 mdOutlineRMobiledata :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineRMobiledata = element (unsafeCoerce mdOutlineRMobiledata_)
+mdOutlineRMobiledata = element (unsafeCoerce _mdOutlineRMobiledata)
 
-foreign import mdOutlineRoofing_ :: ReactIcon
+foreign import _mdOutlineRoofing :: ReactIcon
 
 mdOutlineRoofing :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineRoofing = element (unsafeCoerce mdOutlineRoofing_)
+mdOutlineRoofing = element (unsafeCoerce _mdOutlineRoofing)
 
-foreign import mdOutlineRoom_ :: ReactIcon
+foreign import _mdOutlineRoom :: ReactIcon
 
 mdOutlineRoom :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineRoom = element (unsafeCoerce mdOutlineRoom_)
+mdOutlineRoom = element (unsafeCoerce _mdOutlineRoom)
 
-foreign import mdOutlineRoomPreferences_ :: ReactIcon
+foreign import _mdOutlineRoomPreferences :: ReactIcon
 
 mdOutlineRoomPreferences :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineRoomPreferences = element (unsafeCoerce mdOutlineRoomPreferences_)
+mdOutlineRoomPreferences = element (unsafeCoerce _mdOutlineRoomPreferences)
 
-foreign import mdOutlineRoomService_ :: ReactIcon
+foreign import _mdOutlineRoomService :: ReactIcon
 
 mdOutlineRoomService :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineRoomService = element (unsafeCoerce mdOutlineRoomService_)
+mdOutlineRoomService = element (unsafeCoerce _mdOutlineRoomService)
 
-foreign import mdOutlineRotateLeft_ :: ReactIcon
+foreign import _mdOutlineRotateLeft :: ReactIcon
 
 mdOutlineRotateLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineRotateLeft = element (unsafeCoerce mdOutlineRotateLeft_)
+mdOutlineRotateLeft = element (unsafeCoerce _mdOutlineRotateLeft)
 
-foreign import mdOutlineRotateRight_ :: ReactIcon
+foreign import _mdOutlineRotateRight :: ReactIcon
 
 mdOutlineRotateRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineRotateRight = element (unsafeCoerce mdOutlineRotateRight_)
+mdOutlineRotateRight = element (unsafeCoerce _mdOutlineRotateRight)
 
-foreign import mdOutlineRoundedCorner_ :: ReactIcon
+foreign import _mdOutlineRoundedCorner :: ReactIcon
 
 mdOutlineRoundedCorner :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineRoundedCorner = element (unsafeCoerce mdOutlineRoundedCorner_)
+mdOutlineRoundedCorner = element (unsafeCoerce _mdOutlineRoundedCorner)
 
-foreign import mdOutlineRouter_ :: ReactIcon
+foreign import _mdOutlineRouter :: ReactIcon
 
 mdOutlineRouter :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineRouter = element (unsafeCoerce mdOutlineRouter_)
+mdOutlineRouter = element (unsafeCoerce _mdOutlineRouter)
 
-foreign import mdOutlineRowing_ :: ReactIcon
+foreign import _mdOutlineRowing :: ReactIcon
 
 mdOutlineRowing :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineRowing = element (unsafeCoerce mdOutlineRowing_)
+mdOutlineRowing = element (unsafeCoerce _mdOutlineRowing)
 
-foreign import mdOutlineRssFeed_ :: ReactIcon
+foreign import _mdOutlineRssFeed :: ReactIcon
 
 mdOutlineRssFeed :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineRssFeed = element (unsafeCoerce mdOutlineRssFeed_)
+mdOutlineRssFeed = element (unsafeCoerce _mdOutlineRssFeed)
 
-foreign import mdOutlineRsvp_ :: ReactIcon
+foreign import _mdOutlineRsvp :: ReactIcon
 
 mdOutlineRsvp :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineRsvp = element (unsafeCoerce mdOutlineRsvp_)
+mdOutlineRsvp = element (unsafeCoerce _mdOutlineRsvp)
 
-foreign import mdOutlineRtt_ :: ReactIcon
+foreign import _mdOutlineRtt :: ReactIcon
 
 mdOutlineRtt :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineRtt = element (unsafeCoerce mdOutlineRtt_)
+mdOutlineRtt = element (unsafeCoerce _mdOutlineRtt)
 
-foreign import mdOutlineRule_ :: ReactIcon
+foreign import _mdOutlineRule :: ReactIcon
 
 mdOutlineRule :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineRule = element (unsafeCoerce mdOutlineRule_)
+mdOutlineRule = element (unsafeCoerce _mdOutlineRule)
 
-foreign import mdOutlineRuleFolder_ :: ReactIcon
+foreign import _mdOutlineRuleFolder :: ReactIcon
 
 mdOutlineRuleFolder :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineRuleFolder = element (unsafeCoerce mdOutlineRuleFolder_)
+mdOutlineRuleFolder = element (unsafeCoerce _mdOutlineRuleFolder)
 
-foreign import mdOutlineRunCircle_ :: ReactIcon
+foreign import _mdOutlineRunCircle :: ReactIcon
 
 mdOutlineRunCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineRunCircle = element (unsafeCoerce mdOutlineRunCircle_)
+mdOutlineRunCircle = element (unsafeCoerce _mdOutlineRunCircle)
 
-foreign import mdOutlineRunningWithErrors_ :: ReactIcon
+foreign import _mdOutlineRunningWithErrors :: ReactIcon
 
 mdOutlineRunningWithErrors :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineRunningWithErrors = element (unsafeCoerce mdOutlineRunningWithErrors_)
+mdOutlineRunningWithErrors = element (unsafeCoerce _mdOutlineRunningWithErrors)
 
-foreign import mdOutlineRvHookup_ :: ReactIcon
+foreign import _mdOutlineRvHookup :: ReactIcon
 
 mdOutlineRvHookup :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineRvHookup = element (unsafeCoerce mdOutlineRvHookup_)
+mdOutlineRvHookup = element (unsafeCoerce _mdOutlineRvHookup)
 
-foreign import mdOutlineSafetyDivider_ :: ReactIcon
+foreign import _mdOutlineSafetyDivider :: ReactIcon
 
 mdOutlineSafetyDivider :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSafetyDivider = element (unsafeCoerce mdOutlineSafetyDivider_)
+mdOutlineSafetyDivider = element (unsafeCoerce _mdOutlineSafetyDivider)
 
-foreign import mdOutlineSailing_ :: ReactIcon
+foreign import _mdOutlineSailing :: ReactIcon
 
 mdOutlineSailing :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSailing = element (unsafeCoerce mdOutlineSailing_)
+mdOutlineSailing = element (unsafeCoerce _mdOutlineSailing)
 
-foreign import mdOutlineSanitizer_ :: ReactIcon
+foreign import _mdOutlineSanitizer :: ReactIcon
 
 mdOutlineSanitizer :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSanitizer = element (unsafeCoerce mdOutlineSanitizer_)
+mdOutlineSanitizer = element (unsafeCoerce _mdOutlineSanitizer)
 
-foreign import mdOutlineSatellite_ :: ReactIcon
+foreign import _mdOutlineSatellite :: ReactIcon
 
 mdOutlineSatellite :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSatellite = element (unsafeCoerce mdOutlineSatellite_)
+mdOutlineSatellite = element (unsafeCoerce _mdOutlineSatellite)
 
-foreign import mdOutlineSave_ :: ReactIcon
+foreign import _mdOutlineSave :: ReactIcon
 
 mdOutlineSave :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSave = element (unsafeCoerce mdOutlineSave_)
+mdOutlineSave = element (unsafeCoerce _mdOutlineSave)
 
-foreign import mdOutlineSaveAlt_ :: ReactIcon
+foreign import _mdOutlineSaveAlt :: ReactIcon
 
 mdOutlineSaveAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSaveAlt = element (unsafeCoerce mdOutlineSaveAlt_)
+mdOutlineSaveAlt = element (unsafeCoerce _mdOutlineSaveAlt)
 
-foreign import mdOutlineSavedSearch_ :: ReactIcon
+foreign import _mdOutlineSavedSearch :: ReactIcon
 
 mdOutlineSavedSearch :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSavedSearch = element (unsafeCoerce mdOutlineSavedSearch_)
+mdOutlineSavedSearch = element (unsafeCoerce _mdOutlineSavedSearch)
 
-foreign import mdOutlineSavings_ :: ReactIcon
+foreign import _mdOutlineSavings :: ReactIcon
 
 mdOutlineSavings :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSavings = element (unsafeCoerce mdOutlineSavings_)
+mdOutlineSavings = element (unsafeCoerce _mdOutlineSavings)
 
-foreign import mdOutlineScanner_ :: ReactIcon
+foreign import _mdOutlineScanner :: ReactIcon
 
 mdOutlineScanner :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineScanner = element (unsafeCoerce mdOutlineScanner_)
+mdOutlineScanner = element (unsafeCoerce _mdOutlineScanner)
 
-foreign import mdOutlineScatterPlot_ :: ReactIcon
+foreign import _mdOutlineScatterPlot :: ReactIcon
 
 mdOutlineScatterPlot :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineScatterPlot = element (unsafeCoerce mdOutlineScatterPlot_)
+mdOutlineScatterPlot = element (unsafeCoerce _mdOutlineScatterPlot)
 
-foreign import mdOutlineSchedule_ :: ReactIcon
+foreign import _mdOutlineSchedule :: ReactIcon
 
 mdOutlineSchedule :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSchedule = element (unsafeCoerce mdOutlineSchedule_)
+mdOutlineSchedule = element (unsafeCoerce _mdOutlineSchedule)
 
-foreign import mdOutlineScheduleSend_ :: ReactIcon
+foreign import _mdOutlineScheduleSend :: ReactIcon
 
 mdOutlineScheduleSend :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineScheduleSend = element (unsafeCoerce mdOutlineScheduleSend_)
+mdOutlineScheduleSend = element (unsafeCoerce _mdOutlineScheduleSend)
 
-foreign import mdOutlineSchema_ :: ReactIcon
+foreign import _mdOutlineSchema :: ReactIcon
 
 mdOutlineSchema :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSchema = element (unsafeCoerce mdOutlineSchema_)
+mdOutlineSchema = element (unsafeCoerce _mdOutlineSchema)
 
-foreign import mdOutlineSchool_ :: ReactIcon
+foreign import _mdOutlineSchool :: ReactIcon
 
 mdOutlineSchool :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSchool = element (unsafeCoerce mdOutlineSchool_)
+mdOutlineSchool = element (unsafeCoerce _mdOutlineSchool)
 
-foreign import mdOutlineScience_ :: ReactIcon
+foreign import _mdOutlineScience :: ReactIcon
 
 mdOutlineScience :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineScience = element (unsafeCoerce mdOutlineScience_)
+mdOutlineScience = element (unsafeCoerce _mdOutlineScience)
 
-foreign import mdOutlineScore_ :: ReactIcon
+foreign import _mdOutlineScore :: ReactIcon
 
 mdOutlineScore :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineScore = element (unsafeCoerce mdOutlineScore_)
+mdOutlineScore = element (unsafeCoerce _mdOutlineScore)
 
-foreign import mdOutlineScreenLockLandscape_ :: ReactIcon
+foreign import _mdOutlineScreenLockLandscape :: ReactIcon
 
 mdOutlineScreenLockLandscape :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineScreenLockLandscape = element (unsafeCoerce mdOutlineScreenLockLandscape_)
+mdOutlineScreenLockLandscape = element (unsafeCoerce _mdOutlineScreenLockLandscape)
 
-foreign import mdOutlineScreenLockPortrait_ :: ReactIcon
+foreign import _mdOutlineScreenLockPortrait :: ReactIcon
 
 mdOutlineScreenLockPortrait :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineScreenLockPortrait = element (unsafeCoerce mdOutlineScreenLockPortrait_)
+mdOutlineScreenLockPortrait = element (unsafeCoerce _mdOutlineScreenLockPortrait)
 
-foreign import mdOutlineScreenLockRotation_ :: ReactIcon
+foreign import _mdOutlineScreenLockRotation :: ReactIcon
 
 mdOutlineScreenLockRotation :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineScreenLockRotation = element (unsafeCoerce mdOutlineScreenLockRotation_)
+mdOutlineScreenLockRotation = element (unsafeCoerce _mdOutlineScreenLockRotation)
 
-foreign import mdOutlineScreenRotation_ :: ReactIcon
+foreign import _mdOutlineScreenRotation :: ReactIcon
 
 mdOutlineScreenRotation :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineScreenRotation = element (unsafeCoerce mdOutlineScreenRotation_)
+mdOutlineScreenRotation = element (unsafeCoerce _mdOutlineScreenRotation)
 
-foreign import mdOutlineScreenSearchDesktop_ :: ReactIcon
+foreign import _mdOutlineScreenSearchDesktop :: ReactIcon
 
 mdOutlineScreenSearchDesktop :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineScreenSearchDesktop = element (unsafeCoerce mdOutlineScreenSearchDesktop_)
+mdOutlineScreenSearchDesktop = element (unsafeCoerce _mdOutlineScreenSearchDesktop)
 
-foreign import mdOutlineScreenShare_ :: ReactIcon
+foreign import _mdOutlineScreenShare :: ReactIcon
 
 mdOutlineScreenShare :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineScreenShare = element (unsafeCoerce mdOutlineScreenShare_)
+mdOutlineScreenShare = element (unsafeCoerce _mdOutlineScreenShare)
 
-foreign import mdOutlineScreenshot_ :: ReactIcon
+foreign import _mdOutlineScreenshot :: ReactIcon
 
 mdOutlineScreenshot :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineScreenshot = element (unsafeCoerce mdOutlineScreenshot_)
+mdOutlineScreenshot = element (unsafeCoerce _mdOutlineScreenshot)
 
-foreign import mdOutlineSd_ :: ReactIcon
+foreign import _mdOutlineSd :: ReactIcon
 
 mdOutlineSd :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSd = element (unsafeCoerce mdOutlineSd_)
+mdOutlineSd = element (unsafeCoerce _mdOutlineSd)
 
-foreign import mdOutlineSdCard_ :: ReactIcon
+foreign import _mdOutlineSdCard :: ReactIcon
 
 mdOutlineSdCard :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSdCard = element (unsafeCoerce mdOutlineSdCard_)
+mdOutlineSdCard = element (unsafeCoerce _mdOutlineSdCard)
 
-foreign import mdOutlineSdCardAlert_ :: ReactIcon
+foreign import _mdOutlineSdCardAlert :: ReactIcon
 
 mdOutlineSdCardAlert :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSdCardAlert = element (unsafeCoerce mdOutlineSdCardAlert_)
+mdOutlineSdCardAlert = element (unsafeCoerce _mdOutlineSdCardAlert)
 
-foreign import mdOutlineSdStorage_ :: ReactIcon
+foreign import _mdOutlineSdStorage :: ReactIcon
 
 mdOutlineSdStorage :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSdStorage = element (unsafeCoerce mdOutlineSdStorage_)
+mdOutlineSdStorage = element (unsafeCoerce _mdOutlineSdStorage)
 
-foreign import mdOutlineSearch_ :: ReactIcon
+foreign import _mdOutlineSearch :: ReactIcon
 
 mdOutlineSearch :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSearch = element (unsafeCoerce mdOutlineSearch_)
+mdOutlineSearch = element (unsafeCoerce _mdOutlineSearch)
 
-foreign import mdOutlineSearchOff_ :: ReactIcon
+foreign import _mdOutlineSearchOff :: ReactIcon
 
 mdOutlineSearchOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSearchOff = element (unsafeCoerce mdOutlineSearchOff_)
+mdOutlineSearchOff = element (unsafeCoerce _mdOutlineSearchOff)
 
-foreign import mdOutlineSecurity_ :: ReactIcon
+foreign import _mdOutlineSecurity :: ReactIcon
 
 mdOutlineSecurity :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSecurity = element (unsafeCoerce mdOutlineSecurity_)
+mdOutlineSecurity = element (unsafeCoerce _mdOutlineSecurity)
 
-foreign import mdOutlineSecurityUpdate_ :: ReactIcon
+foreign import _mdOutlineSecurityUpdate :: ReactIcon
 
 mdOutlineSecurityUpdate :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSecurityUpdate = element (unsafeCoerce mdOutlineSecurityUpdate_)
+mdOutlineSecurityUpdate = element (unsafeCoerce _mdOutlineSecurityUpdate)
 
-foreign import mdOutlineSecurityUpdateGood_ :: ReactIcon
+foreign import _mdOutlineSecurityUpdateGood :: ReactIcon
 
 mdOutlineSecurityUpdateGood :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSecurityUpdateGood = element (unsafeCoerce mdOutlineSecurityUpdateGood_)
+mdOutlineSecurityUpdateGood = element (unsafeCoerce _mdOutlineSecurityUpdateGood)
 
-foreign import mdOutlineSecurityUpdateWarning_ :: ReactIcon
+foreign import _mdOutlineSecurityUpdateWarning :: ReactIcon
 
 mdOutlineSecurityUpdateWarning :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSecurityUpdateWarning = element (unsafeCoerce mdOutlineSecurityUpdateWarning_)
+mdOutlineSecurityUpdateWarning = element (unsafeCoerce _mdOutlineSecurityUpdateWarning)
 
-foreign import mdOutlineSegment_ :: ReactIcon
+foreign import _mdOutlineSegment :: ReactIcon
 
 mdOutlineSegment :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSegment = element (unsafeCoerce mdOutlineSegment_)
+mdOutlineSegment = element (unsafeCoerce _mdOutlineSegment)
 
-foreign import mdOutlineSelectAll_ :: ReactIcon
+foreign import _mdOutlineSelectAll :: ReactIcon
 
 mdOutlineSelectAll :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSelectAll = element (unsafeCoerce mdOutlineSelectAll_)
+mdOutlineSelectAll = element (unsafeCoerce _mdOutlineSelectAll)
 
-foreign import mdOutlineSelfImprovement_ :: ReactIcon
+foreign import _mdOutlineSelfImprovement :: ReactIcon
 
 mdOutlineSelfImprovement :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSelfImprovement = element (unsafeCoerce mdOutlineSelfImprovement_)
+mdOutlineSelfImprovement = element (unsafeCoerce _mdOutlineSelfImprovement)
 
-foreign import mdOutlineSell_ :: ReactIcon
+foreign import _mdOutlineSell :: ReactIcon
 
 mdOutlineSell :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSell = element (unsafeCoerce mdOutlineSell_)
+mdOutlineSell = element (unsafeCoerce _mdOutlineSell)
 
-foreign import mdOutlineSend_ :: ReactIcon
+foreign import _mdOutlineSend :: ReactIcon
 
 mdOutlineSend :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSend = element (unsafeCoerce mdOutlineSend_)
+mdOutlineSend = element (unsafeCoerce _mdOutlineSend)
 
-foreign import mdOutlineSendAndArchive_ :: ReactIcon
+foreign import _mdOutlineSendAndArchive :: ReactIcon
 
 mdOutlineSendAndArchive :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSendAndArchive = element (unsafeCoerce mdOutlineSendAndArchive_)
+mdOutlineSendAndArchive = element (unsafeCoerce _mdOutlineSendAndArchive)
 
-foreign import mdOutlineSendToMobile_ :: ReactIcon
+foreign import _mdOutlineSendToMobile :: ReactIcon
 
 mdOutlineSendToMobile :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSendToMobile = element (unsafeCoerce mdOutlineSendToMobile_)
+mdOutlineSendToMobile = element (unsafeCoerce _mdOutlineSendToMobile)
 
-foreign import mdOutlineSensorDoor_ :: ReactIcon
+foreign import _mdOutlineSensorDoor :: ReactIcon
 
 mdOutlineSensorDoor :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSensorDoor = element (unsafeCoerce mdOutlineSensorDoor_)
+mdOutlineSensorDoor = element (unsafeCoerce _mdOutlineSensorDoor)
 
-foreign import mdOutlineSensors_ :: ReactIcon
+foreign import _mdOutlineSensors :: ReactIcon
 
 mdOutlineSensors :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSensors = element (unsafeCoerce mdOutlineSensors_)
+mdOutlineSensors = element (unsafeCoerce _mdOutlineSensors)
 
-foreign import mdOutlineSensorsOff_ :: ReactIcon
+foreign import _mdOutlineSensorsOff :: ReactIcon
 
 mdOutlineSensorsOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSensorsOff = element (unsafeCoerce mdOutlineSensorsOff_)
+mdOutlineSensorsOff = element (unsafeCoerce _mdOutlineSensorsOff)
 
-foreign import mdOutlineSensorWindow_ :: ReactIcon
+foreign import _mdOutlineSensorWindow :: ReactIcon
 
 mdOutlineSensorWindow :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSensorWindow = element (unsafeCoerce mdOutlineSensorWindow_)
+mdOutlineSensorWindow = element (unsafeCoerce _mdOutlineSensorWindow)
 
-foreign import mdOutlineSentimentDissatisfied_ :: ReactIcon
+foreign import _mdOutlineSentimentDissatisfied :: ReactIcon
 
 mdOutlineSentimentDissatisfied :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSentimentDissatisfied = element (unsafeCoerce mdOutlineSentimentDissatisfied_)
+mdOutlineSentimentDissatisfied = element (unsafeCoerce _mdOutlineSentimentDissatisfied)
 
-foreign import mdOutlineSentimentNeutral_ :: ReactIcon
+foreign import _mdOutlineSentimentNeutral :: ReactIcon
 
 mdOutlineSentimentNeutral :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSentimentNeutral = element (unsafeCoerce mdOutlineSentimentNeutral_)
+mdOutlineSentimentNeutral = element (unsafeCoerce _mdOutlineSentimentNeutral)
 
-foreign import mdOutlineSentimentSatisfied_ :: ReactIcon
+foreign import _mdOutlineSentimentSatisfied :: ReactIcon
 
 mdOutlineSentimentSatisfied :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSentimentSatisfied = element (unsafeCoerce mdOutlineSentimentSatisfied_)
+mdOutlineSentimentSatisfied = element (unsafeCoerce _mdOutlineSentimentSatisfied)
 
-foreign import mdOutlineSentimentSatisfiedAlt_ :: ReactIcon
+foreign import _mdOutlineSentimentSatisfiedAlt :: ReactIcon
 
 mdOutlineSentimentSatisfiedAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSentimentSatisfiedAlt = element (unsafeCoerce mdOutlineSentimentSatisfiedAlt_)
+mdOutlineSentimentSatisfiedAlt = element (unsafeCoerce _mdOutlineSentimentSatisfiedAlt)
 
-foreign import mdOutlineSentimentVeryDissatisfied_ :: ReactIcon
+foreign import _mdOutlineSentimentVeryDissatisfied :: ReactIcon
 
 mdOutlineSentimentVeryDissatisfied :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSentimentVeryDissatisfied = element (unsafeCoerce mdOutlineSentimentVeryDissatisfied_)
+mdOutlineSentimentVeryDissatisfied = element (unsafeCoerce _mdOutlineSentimentVeryDissatisfied)
 
-foreign import mdOutlineSentimentVerySatisfied_ :: ReactIcon
+foreign import _mdOutlineSentimentVerySatisfied :: ReactIcon
 
 mdOutlineSentimentVerySatisfied :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSentimentVerySatisfied = element (unsafeCoerce mdOutlineSentimentVerySatisfied_)
+mdOutlineSentimentVerySatisfied = element (unsafeCoerce _mdOutlineSentimentVerySatisfied)
 
-foreign import mdOutlineSetMeal_ :: ReactIcon
+foreign import _mdOutlineSetMeal :: ReactIcon
 
 mdOutlineSetMeal :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSetMeal = element (unsafeCoerce mdOutlineSetMeal_)
+mdOutlineSetMeal = element (unsafeCoerce _mdOutlineSetMeal)
 
-foreign import mdOutlineSettings_ :: ReactIcon
+foreign import _mdOutlineSettings :: ReactIcon
 
 mdOutlineSettings :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSettings = element (unsafeCoerce mdOutlineSettings_)
+mdOutlineSettings = element (unsafeCoerce _mdOutlineSettings)
 
-foreign import mdOutlineSettingsAccessibility_ :: ReactIcon
+foreign import _mdOutlineSettingsAccessibility :: ReactIcon
 
 mdOutlineSettingsAccessibility :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSettingsAccessibility = element (unsafeCoerce mdOutlineSettingsAccessibility_)
+mdOutlineSettingsAccessibility = element (unsafeCoerce _mdOutlineSettingsAccessibility)
 
-foreign import mdOutlineSettingsApplications_ :: ReactIcon
+foreign import _mdOutlineSettingsApplications :: ReactIcon
 
 mdOutlineSettingsApplications :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSettingsApplications = element (unsafeCoerce mdOutlineSettingsApplications_)
+mdOutlineSettingsApplications = element (unsafeCoerce _mdOutlineSettingsApplications)
 
-foreign import mdOutlineSettingsBackupRestore_ :: ReactIcon
+foreign import _mdOutlineSettingsBackupRestore :: ReactIcon
 
 mdOutlineSettingsBackupRestore :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSettingsBackupRestore = element (unsafeCoerce mdOutlineSettingsBackupRestore_)
+mdOutlineSettingsBackupRestore = element (unsafeCoerce _mdOutlineSettingsBackupRestore)
 
-foreign import mdOutlineSettingsBluetooth_ :: ReactIcon
+foreign import _mdOutlineSettingsBluetooth :: ReactIcon
 
 mdOutlineSettingsBluetooth :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSettingsBluetooth = element (unsafeCoerce mdOutlineSettingsBluetooth_)
+mdOutlineSettingsBluetooth = element (unsafeCoerce _mdOutlineSettingsBluetooth)
 
-foreign import mdOutlineSettingsBrightness_ :: ReactIcon
+foreign import _mdOutlineSettingsBrightness :: ReactIcon
 
 mdOutlineSettingsBrightness :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSettingsBrightness = element (unsafeCoerce mdOutlineSettingsBrightness_)
+mdOutlineSettingsBrightness = element (unsafeCoerce _mdOutlineSettingsBrightness)
 
-foreign import mdOutlineSettingsCell_ :: ReactIcon
+foreign import _mdOutlineSettingsCell :: ReactIcon
 
 mdOutlineSettingsCell :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSettingsCell = element (unsafeCoerce mdOutlineSettingsCell_)
+mdOutlineSettingsCell = element (unsafeCoerce _mdOutlineSettingsCell)
 
-foreign import mdOutlineSettingsEthernet_ :: ReactIcon
+foreign import _mdOutlineSettingsEthernet :: ReactIcon
 
 mdOutlineSettingsEthernet :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSettingsEthernet = element (unsafeCoerce mdOutlineSettingsEthernet_)
+mdOutlineSettingsEthernet = element (unsafeCoerce _mdOutlineSettingsEthernet)
 
-foreign import mdOutlineSettingsInputAntenna_ :: ReactIcon
+foreign import _mdOutlineSettingsInputAntenna :: ReactIcon
 
 mdOutlineSettingsInputAntenna :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSettingsInputAntenna = element (unsafeCoerce mdOutlineSettingsInputAntenna_)
+mdOutlineSettingsInputAntenna = element (unsafeCoerce _mdOutlineSettingsInputAntenna)
 
-foreign import mdOutlineSettingsInputComponent_ :: ReactIcon
+foreign import _mdOutlineSettingsInputComponent :: ReactIcon
 
 mdOutlineSettingsInputComponent :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSettingsInputComponent = element (unsafeCoerce mdOutlineSettingsInputComponent_)
+mdOutlineSettingsInputComponent = element (unsafeCoerce _mdOutlineSettingsInputComponent)
 
-foreign import mdOutlineSettingsInputComposite_ :: ReactIcon
+foreign import _mdOutlineSettingsInputComposite :: ReactIcon
 
 mdOutlineSettingsInputComposite :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSettingsInputComposite = element (unsafeCoerce mdOutlineSettingsInputComposite_)
+mdOutlineSettingsInputComposite = element (unsafeCoerce _mdOutlineSettingsInputComposite)
 
-foreign import mdOutlineSettingsInputHdmi_ :: ReactIcon
+foreign import _mdOutlineSettingsInputHdmi :: ReactIcon
 
 mdOutlineSettingsInputHdmi :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSettingsInputHdmi = element (unsafeCoerce mdOutlineSettingsInputHdmi_)
+mdOutlineSettingsInputHdmi = element (unsafeCoerce _mdOutlineSettingsInputHdmi)
 
-foreign import mdOutlineSettingsInputSvideo_ :: ReactIcon
+foreign import _mdOutlineSettingsInputSvideo :: ReactIcon
 
 mdOutlineSettingsInputSvideo :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSettingsInputSvideo = element (unsafeCoerce mdOutlineSettingsInputSvideo_)
+mdOutlineSettingsInputSvideo = element (unsafeCoerce _mdOutlineSettingsInputSvideo)
 
-foreign import mdOutlineSettingsOverscan_ :: ReactIcon
+foreign import _mdOutlineSettingsOverscan :: ReactIcon
 
 mdOutlineSettingsOverscan :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSettingsOverscan = element (unsafeCoerce mdOutlineSettingsOverscan_)
+mdOutlineSettingsOverscan = element (unsafeCoerce _mdOutlineSettingsOverscan)
 
-foreign import mdOutlineSettingsPhone_ :: ReactIcon
+foreign import _mdOutlineSettingsPhone :: ReactIcon
 
 mdOutlineSettingsPhone :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSettingsPhone = element (unsafeCoerce mdOutlineSettingsPhone_)
+mdOutlineSettingsPhone = element (unsafeCoerce _mdOutlineSettingsPhone)
 
-foreign import mdOutlineSettingsPower_ :: ReactIcon
+foreign import _mdOutlineSettingsPower :: ReactIcon
 
 mdOutlineSettingsPower :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSettingsPower = element (unsafeCoerce mdOutlineSettingsPower_)
+mdOutlineSettingsPower = element (unsafeCoerce _mdOutlineSettingsPower)
 
-foreign import mdOutlineSettingsRemote_ :: ReactIcon
+foreign import _mdOutlineSettingsRemote :: ReactIcon
 
 mdOutlineSettingsRemote :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSettingsRemote = element (unsafeCoerce mdOutlineSettingsRemote_)
+mdOutlineSettingsRemote = element (unsafeCoerce _mdOutlineSettingsRemote)
 
-foreign import mdOutlineSettingsSuggest_ :: ReactIcon
+foreign import _mdOutlineSettingsSuggest :: ReactIcon
 
 mdOutlineSettingsSuggest :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSettingsSuggest = element (unsafeCoerce mdOutlineSettingsSuggest_)
+mdOutlineSettingsSuggest = element (unsafeCoerce _mdOutlineSettingsSuggest)
 
-foreign import mdOutlineSettingsSystemDaydream_ :: ReactIcon
+foreign import _mdOutlineSettingsSystemDaydream :: ReactIcon
 
 mdOutlineSettingsSystemDaydream :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSettingsSystemDaydream = element (unsafeCoerce mdOutlineSettingsSystemDaydream_)
+mdOutlineSettingsSystemDaydream = element (unsafeCoerce _mdOutlineSettingsSystemDaydream)
 
-foreign import mdOutlineSettingsVoice_ :: ReactIcon
+foreign import _mdOutlineSettingsVoice :: ReactIcon
 
 mdOutlineSettingsVoice :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSettingsVoice = element (unsafeCoerce mdOutlineSettingsVoice_)
+mdOutlineSettingsVoice = element (unsafeCoerce _mdOutlineSettingsVoice)
 
-foreign import mdOutlineShare_ :: ReactIcon
+foreign import _mdOutlineShare :: ReactIcon
 
 mdOutlineShare :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineShare = element (unsafeCoerce mdOutlineShare_)
+mdOutlineShare = element (unsafeCoerce _mdOutlineShare)
 
-foreign import mdOutlineShareLocation_ :: ReactIcon
+foreign import _mdOutlineShareLocation :: ReactIcon
 
 mdOutlineShareLocation :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineShareLocation = element (unsafeCoerce mdOutlineShareLocation_)
+mdOutlineShareLocation = element (unsafeCoerce _mdOutlineShareLocation)
 
-foreign import mdOutlineShield_ :: ReactIcon
+foreign import _mdOutlineShield :: ReactIcon
 
 mdOutlineShield :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineShield = element (unsafeCoerce mdOutlineShield_)
+mdOutlineShield = element (unsafeCoerce _mdOutlineShield)
 
-foreign import mdOutlineShop_ :: ReactIcon
+foreign import _mdOutlineShop :: ReactIcon
 
 mdOutlineShop :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineShop = element (unsafeCoerce mdOutlineShop_)
+mdOutlineShop = element (unsafeCoerce _mdOutlineShop)
 
-foreign import mdOutlineShoppingBag_ :: ReactIcon
+foreign import _mdOutlineShoppingBag :: ReactIcon
 
 mdOutlineShoppingBag :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineShoppingBag = element (unsafeCoerce mdOutlineShoppingBag_)
+mdOutlineShoppingBag = element (unsafeCoerce _mdOutlineShoppingBag)
 
-foreign import mdOutlineShoppingBasket_ :: ReactIcon
+foreign import _mdOutlineShoppingBasket :: ReactIcon
 
 mdOutlineShoppingBasket :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineShoppingBasket = element (unsafeCoerce mdOutlineShoppingBasket_)
+mdOutlineShoppingBasket = element (unsafeCoerce _mdOutlineShoppingBasket)
 
-foreign import mdOutlineShoppingCart_ :: ReactIcon
+foreign import _mdOutlineShoppingCart :: ReactIcon
 
 mdOutlineShoppingCart :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineShoppingCart = element (unsafeCoerce mdOutlineShoppingCart_)
+mdOutlineShoppingCart = element (unsafeCoerce _mdOutlineShoppingCart)
 
-foreign import mdOutlineShopTwo_ :: ReactIcon
+foreign import _mdOutlineShopTwo :: ReactIcon
 
 mdOutlineShopTwo :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineShopTwo = element (unsafeCoerce mdOutlineShopTwo_)
+mdOutlineShopTwo = element (unsafeCoerce _mdOutlineShopTwo)
 
-foreign import mdOutlineShortcut_ :: ReactIcon
+foreign import _mdOutlineShortcut :: ReactIcon
 
 mdOutlineShortcut :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineShortcut = element (unsafeCoerce mdOutlineShortcut_)
+mdOutlineShortcut = element (unsafeCoerce _mdOutlineShortcut)
 
-foreign import mdOutlineShortText_ :: ReactIcon
+foreign import _mdOutlineShortText :: ReactIcon
 
 mdOutlineShortText :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineShortText = element (unsafeCoerce mdOutlineShortText_)
+mdOutlineShortText = element (unsafeCoerce _mdOutlineShortText)
 
-foreign import mdOutlineShowChart_ :: ReactIcon
+foreign import _mdOutlineShowChart :: ReactIcon
 
 mdOutlineShowChart :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineShowChart = element (unsafeCoerce mdOutlineShowChart_)
+mdOutlineShowChart = element (unsafeCoerce _mdOutlineShowChart)
 
-foreign import mdOutlineShower_ :: ReactIcon
+foreign import _mdOutlineShower :: ReactIcon
 
 mdOutlineShower :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineShower = element (unsafeCoerce mdOutlineShower_)
+mdOutlineShower = element (unsafeCoerce _mdOutlineShower)
 
-foreign import mdOutlineShuffle_ :: ReactIcon
+foreign import _mdOutlineShuffle :: ReactIcon
 
 mdOutlineShuffle :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineShuffle = element (unsafeCoerce mdOutlineShuffle_)
+mdOutlineShuffle = element (unsafeCoerce _mdOutlineShuffle)
 
-foreign import mdOutlineShuffleOn_ :: ReactIcon
+foreign import _mdOutlineShuffleOn :: ReactIcon
 
 mdOutlineShuffleOn :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineShuffleOn = element (unsafeCoerce mdOutlineShuffleOn_)
+mdOutlineShuffleOn = element (unsafeCoerce _mdOutlineShuffleOn)
 
-foreign import mdOutlineShutterSpeed_ :: ReactIcon
+foreign import _mdOutlineShutterSpeed :: ReactIcon
 
 mdOutlineShutterSpeed :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineShutterSpeed = element (unsafeCoerce mdOutlineShutterSpeed_)
+mdOutlineShutterSpeed = element (unsafeCoerce _mdOutlineShutterSpeed)
 
-foreign import mdOutlineSick_ :: ReactIcon
+foreign import _mdOutlineSick :: ReactIcon
 
 mdOutlineSick :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSick = element (unsafeCoerce mdOutlineSick_)
+mdOutlineSick = element (unsafeCoerce _mdOutlineSick)
 
-foreign import mdOutlineSignalCellularAlt_ :: ReactIcon
+foreign import _mdOutlineSignalCellularAlt :: ReactIcon
 
 mdOutlineSignalCellularAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSignalCellularAlt = element (unsafeCoerce mdOutlineSignalCellularAlt_)
+mdOutlineSignalCellularAlt = element (unsafeCoerce _mdOutlineSignalCellularAlt)
 
-foreign import mdOutlineSignalCellularNodata_ :: ReactIcon
+foreign import _mdOutlineSignalCellularNodata :: ReactIcon
 
 mdOutlineSignalCellularNodata :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSignalCellularNodata = element (unsafeCoerce mdOutlineSignalCellularNodata_)
+mdOutlineSignalCellularNodata = element (unsafeCoerce _mdOutlineSignalCellularNodata)
 
-foreign import mdOutlineSignalCellularNoSim_ :: ReactIcon
+foreign import _mdOutlineSignalCellularNoSim :: ReactIcon
 
 mdOutlineSignalCellularNoSim :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSignalCellularNoSim = element (unsafeCoerce mdOutlineSignalCellularNoSim_)
+mdOutlineSignalCellularNoSim = element (unsafeCoerce _mdOutlineSignalCellularNoSim)
 
-foreign import mdOutlineSignalCellularNull_ :: ReactIcon
+foreign import _mdOutlineSignalCellularNull :: ReactIcon
 
 mdOutlineSignalCellularNull :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSignalCellularNull = element (unsafeCoerce mdOutlineSignalCellularNull_)
+mdOutlineSignalCellularNull = element (unsafeCoerce _mdOutlineSignalCellularNull)
 
-foreign import mdOutlineSignalCellularOff_ :: ReactIcon
+foreign import _mdOutlineSignalCellularOff :: ReactIcon
 
 mdOutlineSignalCellularOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSignalCellularOff = element (unsafeCoerce mdOutlineSignalCellularOff_)
+mdOutlineSignalCellularOff = element (unsafeCoerce _mdOutlineSignalCellularOff)
 
-foreign import mdOutlineSignalWifiBad_ :: ReactIcon
+foreign import _mdOutlineSignalWifiBad :: ReactIcon
 
 mdOutlineSignalWifiBad :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSignalWifiBad = element (unsafeCoerce mdOutlineSignalWifiBad_)
+mdOutlineSignalWifiBad = element (unsafeCoerce _mdOutlineSignalWifiBad)
 
-foreign import mdOutlineSignalWifiOff_ :: ReactIcon
+foreign import _mdOutlineSignalWifiOff :: ReactIcon
 
 mdOutlineSignalWifiOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSignalWifiOff = element (unsafeCoerce mdOutlineSignalWifiOff_)
+mdOutlineSignalWifiOff = element (unsafeCoerce _mdOutlineSignalWifiOff)
 
-foreign import mdOutlineSignalWifiStatusbarNull_ :: ReactIcon
+foreign import _mdOutlineSignalWifiStatusbarNull :: ReactIcon
 
 mdOutlineSignalWifiStatusbarNull :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSignalWifiStatusbarNull = element (unsafeCoerce mdOutlineSignalWifiStatusbarNull_)
+mdOutlineSignalWifiStatusbarNull = element (unsafeCoerce _mdOutlineSignalWifiStatusbarNull)
 
-foreign import mdOutlineSimCard_ :: ReactIcon
+foreign import _mdOutlineSimCard :: ReactIcon
 
 mdOutlineSimCard :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSimCard = element (unsafeCoerce mdOutlineSimCard_)
+mdOutlineSimCard = element (unsafeCoerce _mdOutlineSimCard)
 
-foreign import mdOutlineSimCardAlert_ :: ReactIcon
+foreign import _mdOutlineSimCardAlert :: ReactIcon
 
 mdOutlineSimCardAlert :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSimCardAlert = element (unsafeCoerce mdOutlineSimCardAlert_)
+mdOutlineSimCardAlert = element (unsafeCoerce _mdOutlineSimCardAlert)
 
-foreign import mdOutlineSimCardDownload_ :: ReactIcon
+foreign import _mdOutlineSimCardDownload :: ReactIcon
 
 mdOutlineSimCardDownload :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSimCardDownload = element (unsafeCoerce mdOutlineSimCardDownload_)
+mdOutlineSimCardDownload = element (unsafeCoerce _mdOutlineSimCardDownload)
 
-foreign import mdOutlineSingleBed_ :: ReactIcon
+foreign import _mdOutlineSingleBed :: ReactIcon
 
 mdOutlineSingleBed :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSingleBed = element (unsafeCoerce mdOutlineSingleBed_)
+mdOutlineSingleBed = element (unsafeCoerce _mdOutlineSingleBed)
 
-foreign import mdOutlineSip_ :: ReactIcon
+foreign import _mdOutlineSip :: ReactIcon
 
 mdOutlineSip :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSip = element (unsafeCoerce mdOutlineSip_)
+mdOutlineSip = element (unsafeCoerce _mdOutlineSip)
 
-foreign import mdOutlineSkateboarding_ :: ReactIcon
+foreign import _mdOutlineSkateboarding :: ReactIcon
 
 mdOutlineSkateboarding :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSkateboarding = element (unsafeCoerce mdOutlineSkateboarding_)
+mdOutlineSkateboarding = element (unsafeCoerce _mdOutlineSkateboarding)
 
-foreign import mdOutlineSkipNext_ :: ReactIcon
+foreign import _mdOutlineSkipNext :: ReactIcon
 
 mdOutlineSkipNext :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSkipNext = element (unsafeCoerce mdOutlineSkipNext_)
+mdOutlineSkipNext = element (unsafeCoerce _mdOutlineSkipNext)
 
-foreign import mdOutlineSkipPrevious_ :: ReactIcon
+foreign import _mdOutlineSkipPrevious :: ReactIcon
 
 mdOutlineSkipPrevious :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSkipPrevious = element (unsafeCoerce mdOutlineSkipPrevious_)
+mdOutlineSkipPrevious = element (unsafeCoerce _mdOutlineSkipPrevious)
 
-foreign import mdOutlineSledding_ :: ReactIcon
+foreign import _mdOutlineSledding :: ReactIcon
 
 mdOutlineSledding :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSledding = element (unsafeCoerce mdOutlineSledding_)
+mdOutlineSledding = element (unsafeCoerce _mdOutlineSledding)
 
-foreign import mdOutlineSlideshow_ :: ReactIcon
+foreign import _mdOutlineSlideshow :: ReactIcon
 
 mdOutlineSlideshow :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSlideshow = element (unsafeCoerce mdOutlineSlideshow_)
+mdOutlineSlideshow = element (unsafeCoerce _mdOutlineSlideshow)
 
-foreign import mdOutlineSlowMotionVideo_ :: ReactIcon
+foreign import _mdOutlineSlowMotionVideo :: ReactIcon
 
 mdOutlineSlowMotionVideo :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSlowMotionVideo = element (unsafeCoerce mdOutlineSlowMotionVideo_)
+mdOutlineSlowMotionVideo = element (unsafeCoerce _mdOutlineSlowMotionVideo)
 
-foreign import mdOutlineSmartButton_ :: ReactIcon
+foreign import _mdOutlineSmartButton :: ReactIcon
 
 mdOutlineSmartButton :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSmartButton = element (unsafeCoerce mdOutlineSmartButton_)
+mdOutlineSmartButton = element (unsafeCoerce _mdOutlineSmartButton)
 
-foreign import mdOutlineSmartDisplay_ :: ReactIcon
+foreign import _mdOutlineSmartDisplay :: ReactIcon
 
 mdOutlineSmartDisplay :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSmartDisplay = element (unsafeCoerce mdOutlineSmartDisplay_)
+mdOutlineSmartDisplay = element (unsafeCoerce _mdOutlineSmartDisplay)
 
-foreign import mdOutlineSmartphone_ :: ReactIcon
+foreign import _mdOutlineSmartphone :: ReactIcon
 
 mdOutlineSmartphone :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSmartphone = element (unsafeCoerce mdOutlineSmartphone_)
+mdOutlineSmartphone = element (unsafeCoerce _mdOutlineSmartphone)
 
-foreign import mdOutlineSmartScreen_ :: ReactIcon
+foreign import _mdOutlineSmartScreen :: ReactIcon
 
 mdOutlineSmartScreen :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSmartScreen = element (unsafeCoerce mdOutlineSmartScreen_)
+mdOutlineSmartScreen = element (unsafeCoerce _mdOutlineSmartScreen)
 
-foreign import mdOutlineSmartToy_ :: ReactIcon
+foreign import _mdOutlineSmartToy :: ReactIcon
 
 mdOutlineSmartToy :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSmartToy = element (unsafeCoerce mdOutlineSmartToy_)
+mdOutlineSmartToy = element (unsafeCoerce _mdOutlineSmartToy)
 
-foreign import mdOutlineSmokeFree_ :: ReactIcon
+foreign import _mdOutlineSmokeFree :: ReactIcon
 
 mdOutlineSmokeFree :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSmokeFree = element (unsafeCoerce mdOutlineSmokeFree_)
+mdOutlineSmokeFree = element (unsafeCoerce _mdOutlineSmokeFree)
 
-foreign import mdOutlineSmokingRooms_ :: ReactIcon
+foreign import _mdOutlineSmokingRooms :: ReactIcon
 
 mdOutlineSmokingRooms :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSmokingRooms = element (unsafeCoerce mdOutlineSmokingRooms_)
+mdOutlineSmokingRooms = element (unsafeCoerce _mdOutlineSmokingRooms)
 
-foreign import mdOutlineSms_ :: ReactIcon
+foreign import _mdOutlineSms :: ReactIcon
 
 mdOutlineSms :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSms = element (unsafeCoerce mdOutlineSms_)
+mdOutlineSms = element (unsafeCoerce _mdOutlineSms)
 
-foreign import mdOutlineSmsFailed_ :: ReactIcon
+foreign import _mdOutlineSmsFailed :: ReactIcon
 
 mdOutlineSmsFailed :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSmsFailed = element (unsafeCoerce mdOutlineSmsFailed_)
+mdOutlineSmsFailed = element (unsafeCoerce _mdOutlineSmsFailed)
 
-foreign import mdOutlineSnippetFolder_ :: ReactIcon
+foreign import _mdOutlineSnippetFolder :: ReactIcon
 
 mdOutlineSnippetFolder :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSnippetFolder = element (unsafeCoerce mdOutlineSnippetFolder_)
+mdOutlineSnippetFolder = element (unsafeCoerce _mdOutlineSnippetFolder)
 
-foreign import mdOutlineSnooze_ :: ReactIcon
+foreign import _mdOutlineSnooze :: ReactIcon
 
 mdOutlineSnooze :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSnooze = element (unsafeCoerce mdOutlineSnooze_)
+mdOutlineSnooze = element (unsafeCoerce _mdOutlineSnooze)
 
-foreign import mdOutlineSnowboarding_ :: ReactIcon
+foreign import _mdOutlineSnowboarding :: ReactIcon
 
 mdOutlineSnowboarding :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSnowboarding = element (unsafeCoerce mdOutlineSnowboarding_)
+mdOutlineSnowboarding = element (unsafeCoerce _mdOutlineSnowboarding)
 
-foreign import mdOutlineSnowmobile_ :: ReactIcon
+foreign import _mdOutlineSnowmobile :: ReactIcon
 
 mdOutlineSnowmobile :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSnowmobile = element (unsafeCoerce mdOutlineSnowmobile_)
+mdOutlineSnowmobile = element (unsafeCoerce _mdOutlineSnowmobile)
 
-foreign import mdOutlineSnowshoeing_ :: ReactIcon
+foreign import _mdOutlineSnowshoeing :: ReactIcon
 
 mdOutlineSnowshoeing :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSnowshoeing = element (unsafeCoerce mdOutlineSnowshoeing_)
+mdOutlineSnowshoeing = element (unsafeCoerce _mdOutlineSnowshoeing)
 
-foreign import mdOutlineSoap_ :: ReactIcon
+foreign import _mdOutlineSoap :: ReactIcon
 
 mdOutlineSoap :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSoap = element (unsafeCoerce mdOutlineSoap_)
+mdOutlineSoap = element (unsafeCoerce _mdOutlineSoap)
 
-foreign import mdOutlineSocialDistance_ :: ReactIcon
+foreign import _mdOutlineSocialDistance :: ReactIcon
 
 mdOutlineSocialDistance :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSocialDistance = element (unsafeCoerce mdOutlineSocialDistance_)
+mdOutlineSocialDistance = element (unsafeCoerce _mdOutlineSocialDistance)
 
-foreign import mdOutlineSort_ :: ReactIcon
+foreign import _mdOutlineSort :: ReactIcon
 
 mdOutlineSort :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSort = element (unsafeCoerce mdOutlineSort_)
+mdOutlineSort = element (unsafeCoerce _mdOutlineSort)
 
-foreign import mdOutlineSortByAlpha_ :: ReactIcon
+foreign import _mdOutlineSortByAlpha :: ReactIcon
 
 mdOutlineSortByAlpha :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSortByAlpha = element (unsafeCoerce mdOutlineSortByAlpha_)
+mdOutlineSortByAlpha = element (unsafeCoerce _mdOutlineSortByAlpha)
 
-foreign import mdOutlineSource_ :: ReactIcon
+foreign import _mdOutlineSource :: ReactIcon
 
 mdOutlineSource :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSource = element (unsafeCoerce mdOutlineSource_)
+mdOutlineSource = element (unsafeCoerce _mdOutlineSource)
 
-foreign import mdOutlineSouth_ :: ReactIcon
+foreign import _mdOutlineSouth :: ReactIcon
 
 mdOutlineSouth :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSouth = element (unsafeCoerce mdOutlineSouth_)
+mdOutlineSouth = element (unsafeCoerce _mdOutlineSouth)
 
-foreign import mdOutlineSouthEast_ :: ReactIcon
+foreign import _mdOutlineSouthEast :: ReactIcon
 
 mdOutlineSouthEast :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSouthEast = element (unsafeCoerce mdOutlineSouthEast_)
+mdOutlineSouthEast = element (unsafeCoerce _mdOutlineSouthEast)
 
-foreign import mdOutlineSouthWest_ :: ReactIcon
+foreign import _mdOutlineSouthWest :: ReactIcon
 
 mdOutlineSouthWest :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSouthWest = element (unsafeCoerce mdOutlineSouthWest_)
+mdOutlineSouthWest = element (unsafeCoerce _mdOutlineSouthWest)
 
-foreign import mdOutlineSpa_ :: ReactIcon
+foreign import _mdOutlineSpa :: ReactIcon
 
 mdOutlineSpa :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSpa = element (unsafeCoerce mdOutlineSpa_)
+mdOutlineSpa = element (unsafeCoerce _mdOutlineSpa)
 
-foreign import mdOutlineSpaceBar_ :: ReactIcon
+foreign import _mdOutlineSpaceBar :: ReactIcon
 
 mdOutlineSpaceBar :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSpaceBar = element (unsafeCoerce mdOutlineSpaceBar_)
+mdOutlineSpaceBar = element (unsafeCoerce _mdOutlineSpaceBar)
 
-foreign import mdOutlineSpaceDashboard_ :: ReactIcon
+foreign import _mdOutlineSpaceDashboard :: ReactIcon
 
 mdOutlineSpaceDashboard :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSpaceDashboard = element (unsafeCoerce mdOutlineSpaceDashboard_)
+mdOutlineSpaceDashboard = element (unsafeCoerce _mdOutlineSpaceDashboard)
 
-foreign import mdOutlineSpeaker_ :: ReactIcon
+foreign import _mdOutlineSpeaker :: ReactIcon
 
 mdOutlineSpeaker :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSpeaker = element (unsafeCoerce mdOutlineSpeaker_)
+mdOutlineSpeaker = element (unsafeCoerce _mdOutlineSpeaker)
 
-foreign import mdOutlineSpeakerGroup_ :: ReactIcon
+foreign import _mdOutlineSpeakerGroup :: ReactIcon
 
 mdOutlineSpeakerGroup :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSpeakerGroup = element (unsafeCoerce mdOutlineSpeakerGroup_)
+mdOutlineSpeakerGroup = element (unsafeCoerce _mdOutlineSpeakerGroup)
 
-foreign import mdOutlineSpeakerNotes_ :: ReactIcon
+foreign import _mdOutlineSpeakerNotes :: ReactIcon
 
 mdOutlineSpeakerNotes :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSpeakerNotes = element (unsafeCoerce mdOutlineSpeakerNotes_)
+mdOutlineSpeakerNotes = element (unsafeCoerce _mdOutlineSpeakerNotes)
 
-foreign import mdOutlineSpeakerNotesOff_ :: ReactIcon
+foreign import _mdOutlineSpeakerNotesOff :: ReactIcon
 
 mdOutlineSpeakerNotesOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSpeakerNotesOff = element (unsafeCoerce mdOutlineSpeakerNotesOff_)
+mdOutlineSpeakerNotesOff = element (unsafeCoerce _mdOutlineSpeakerNotesOff)
 
-foreign import mdOutlineSpeakerPhone_ :: ReactIcon
+foreign import _mdOutlineSpeakerPhone :: ReactIcon
 
 mdOutlineSpeakerPhone :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSpeakerPhone = element (unsafeCoerce mdOutlineSpeakerPhone_)
+mdOutlineSpeakerPhone = element (unsafeCoerce _mdOutlineSpeakerPhone)
 
-foreign import mdOutlineSpeed_ :: ReactIcon
+foreign import _mdOutlineSpeed :: ReactIcon
 
 mdOutlineSpeed :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSpeed = element (unsafeCoerce mdOutlineSpeed_)
+mdOutlineSpeed = element (unsafeCoerce _mdOutlineSpeed)
 
-foreign import mdOutlineSpellcheck_ :: ReactIcon
+foreign import _mdOutlineSpellcheck :: ReactIcon
 
 mdOutlineSpellcheck :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSpellcheck = element (unsafeCoerce mdOutlineSpellcheck_)
+mdOutlineSpellcheck = element (unsafeCoerce _mdOutlineSpellcheck)
 
-foreign import mdOutlineSplitscreen_ :: ReactIcon
+foreign import _mdOutlineSplitscreen :: ReactIcon
 
 mdOutlineSplitscreen :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSplitscreen = element (unsafeCoerce mdOutlineSplitscreen_)
+mdOutlineSplitscreen = element (unsafeCoerce _mdOutlineSplitscreen)
 
-foreign import mdOutlineSports_ :: ReactIcon
+foreign import _mdOutlineSports :: ReactIcon
 
 mdOutlineSports :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSports = element (unsafeCoerce mdOutlineSports_)
+mdOutlineSports = element (unsafeCoerce _mdOutlineSports)
 
-foreign import mdOutlineSportsBar_ :: ReactIcon
+foreign import _mdOutlineSportsBar :: ReactIcon
 
 mdOutlineSportsBar :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSportsBar = element (unsafeCoerce mdOutlineSportsBar_)
+mdOutlineSportsBar = element (unsafeCoerce _mdOutlineSportsBar)
 
-foreign import mdOutlineSportsBaseball_ :: ReactIcon
+foreign import _mdOutlineSportsBaseball :: ReactIcon
 
 mdOutlineSportsBaseball :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSportsBaseball = element (unsafeCoerce mdOutlineSportsBaseball_)
+mdOutlineSportsBaseball = element (unsafeCoerce _mdOutlineSportsBaseball)
 
-foreign import mdOutlineSportsBasketball_ :: ReactIcon
+foreign import _mdOutlineSportsBasketball :: ReactIcon
 
 mdOutlineSportsBasketball :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSportsBasketball = element (unsafeCoerce mdOutlineSportsBasketball_)
+mdOutlineSportsBasketball = element (unsafeCoerce _mdOutlineSportsBasketball)
 
-foreign import mdOutlineSportsCricket_ :: ReactIcon
+foreign import _mdOutlineSportsCricket :: ReactIcon
 
 mdOutlineSportsCricket :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSportsCricket = element (unsafeCoerce mdOutlineSportsCricket_)
+mdOutlineSportsCricket = element (unsafeCoerce _mdOutlineSportsCricket)
 
-foreign import mdOutlineSportsEsports_ :: ReactIcon
+foreign import _mdOutlineSportsEsports :: ReactIcon
 
 mdOutlineSportsEsports :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSportsEsports = element (unsafeCoerce mdOutlineSportsEsports_)
+mdOutlineSportsEsports = element (unsafeCoerce _mdOutlineSportsEsports)
 
-foreign import mdOutlineSportsFootball_ :: ReactIcon
+foreign import _mdOutlineSportsFootball :: ReactIcon
 
 mdOutlineSportsFootball :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSportsFootball = element (unsafeCoerce mdOutlineSportsFootball_)
+mdOutlineSportsFootball = element (unsafeCoerce _mdOutlineSportsFootball)
 
-foreign import mdOutlineSportsGolf_ :: ReactIcon
+foreign import _mdOutlineSportsGolf :: ReactIcon
 
 mdOutlineSportsGolf :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSportsGolf = element (unsafeCoerce mdOutlineSportsGolf_)
+mdOutlineSportsGolf = element (unsafeCoerce _mdOutlineSportsGolf)
 
-foreign import mdOutlineSportsHandball_ :: ReactIcon
+foreign import _mdOutlineSportsHandball :: ReactIcon
 
 mdOutlineSportsHandball :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSportsHandball = element (unsafeCoerce mdOutlineSportsHandball_)
+mdOutlineSportsHandball = element (unsafeCoerce _mdOutlineSportsHandball)
 
-foreign import mdOutlineSportsHockey_ :: ReactIcon
+foreign import _mdOutlineSportsHockey :: ReactIcon
 
 mdOutlineSportsHockey :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSportsHockey = element (unsafeCoerce mdOutlineSportsHockey_)
+mdOutlineSportsHockey = element (unsafeCoerce _mdOutlineSportsHockey)
 
-foreign import mdOutlineSportsKabaddi_ :: ReactIcon
+foreign import _mdOutlineSportsKabaddi :: ReactIcon
 
 mdOutlineSportsKabaddi :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSportsKabaddi = element (unsafeCoerce mdOutlineSportsKabaddi_)
+mdOutlineSportsKabaddi = element (unsafeCoerce _mdOutlineSportsKabaddi)
 
-foreign import mdOutlineSportsMma_ :: ReactIcon
+foreign import _mdOutlineSportsMma :: ReactIcon
 
 mdOutlineSportsMma :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSportsMma = element (unsafeCoerce mdOutlineSportsMma_)
+mdOutlineSportsMma = element (unsafeCoerce _mdOutlineSportsMma)
 
-foreign import mdOutlineSportsMotorsports_ :: ReactIcon
+foreign import _mdOutlineSportsMotorsports :: ReactIcon
 
 mdOutlineSportsMotorsports :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSportsMotorsports = element (unsafeCoerce mdOutlineSportsMotorsports_)
+mdOutlineSportsMotorsports = element (unsafeCoerce _mdOutlineSportsMotorsports)
 
-foreign import mdOutlineSportsRugby_ :: ReactIcon
+foreign import _mdOutlineSportsRugby :: ReactIcon
 
 mdOutlineSportsRugby :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSportsRugby = element (unsafeCoerce mdOutlineSportsRugby_)
+mdOutlineSportsRugby = element (unsafeCoerce _mdOutlineSportsRugby)
 
-foreign import mdOutlineSportsScore_ :: ReactIcon
+foreign import _mdOutlineSportsScore :: ReactIcon
 
 mdOutlineSportsScore :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSportsScore = element (unsafeCoerce mdOutlineSportsScore_)
+mdOutlineSportsScore = element (unsafeCoerce _mdOutlineSportsScore)
 
-foreign import mdOutlineSportsSoccer_ :: ReactIcon
+foreign import _mdOutlineSportsSoccer :: ReactIcon
 
 mdOutlineSportsSoccer :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSportsSoccer = element (unsafeCoerce mdOutlineSportsSoccer_)
+mdOutlineSportsSoccer = element (unsafeCoerce _mdOutlineSportsSoccer)
 
-foreign import mdOutlineSportsTennis_ :: ReactIcon
+foreign import _mdOutlineSportsTennis :: ReactIcon
 
 mdOutlineSportsTennis :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSportsTennis = element (unsafeCoerce mdOutlineSportsTennis_)
+mdOutlineSportsTennis = element (unsafeCoerce _mdOutlineSportsTennis)
 
-foreign import mdOutlineSportsVolleyball_ :: ReactIcon
+foreign import _mdOutlineSportsVolleyball :: ReactIcon
 
 mdOutlineSportsVolleyball :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSportsVolleyball = element (unsafeCoerce mdOutlineSportsVolleyball_)
+mdOutlineSportsVolleyball = element (unsafeCoerce _mdOutlineSportsVolleyball)
 
-foreign import mdOutlineSquareFoot_ :: ReactIcon
+foreign import _mdOutlineSquareFoot :: ReactIcon
 
 mdOutlineSquareFoot :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSquareFoot = element (unsafeCoerce mdOutlineSquareFoot_)
+mdOutlineSquareFoot = element (unsafeCoerce _mdOutlineSquareFoot)
 
-foreign import mdOutlineStackedBarChart_ :: ReactIcon
+foreign import _mdOutlineStackedBarChart :: ReactIcon
 
 mdOutlineStackedBarChart :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineStackedBarChart = element (unsafeCoerce mdOutlineStackedBarChart_)
+mdOutlineStackedBarChart = element (unsafeCoerce _mdOutlineStackedBarChart)
 
-foreign import mdOutlineStackedLineChart_ :: ReactIcon
+foreign import _mdOutlineStackedLineChart :: ReactIcon
 
 mdOutlineStackedLineChart :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineStackedLineChart = element (unsafeCoerce mdOutlineStackedLineChart_)
+mdOutlineStackedLineChart = element (unsafeCoerce _mdOutlineStackedLineChart)
 
-foreign import mdOutlineStairs_ :: ReactIcon
+foreign import _mdOutlineStairs :: ReactIcon
 
 mdOutlineStairs :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineStairs = element (unsafeCoerce mdOutlineStairs_)
+mdOutlineStairs = element (unsafeCoerce _mdOutlineStairs)
 
-foreign import mdOutlineStar_ :: ReactIcon
+foreign import _mdOutlineStar :: ReactIcon
 
 mdOutlineStar :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineStar = element (unsafeCoerce mdOutlineStar_)
+mdOutlineStar = element (unsafeCoerce _mdOutlineStar)
 
-foreign import mdOutlineStarBorder_ :: ReactIcon
+foreign import _mdOutlineStarBorder :: ReactIcon
 
 mdOutlineStarBorder :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineStarBorder = element (unsafeCoerce mdOutlineStarBorder_)
+mdOutlineStarBorder = element (unsafeCoerce _mdOutlineStarBorder)
 
-foreign import mdOutlineStarHalf_ :: ReactIcon
+foreign import _mdOutlineStarHalf :: ReactIcon
 
 mdOutlineStarHalf :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineStarHalf = element (unsafeCoerce mdOutlineStarHalf_)
+mdOutlineStarHalf = element (unsafeCoerce _mdOutlineStarHalf)
 
-foreign import mdOutlineStarOutline_ :: ReactIcon
+foreign import _mdOutlineStarOutline :: ReactIcon
 
 mdOutlineStarOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineStarOutline = element (unsafeCoerce mdOutlineStarOutline_)
+mdOutlineStarOutline = element (unsafeCoerce _mdOutlineStarOutline)
 
-foreign import mdOutlineStarRate_ :: ReactIcon
+foreign import _mdOutlineStarRate :: ReactIcon
 
 mdOutlineStarRate :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineStarRate = element (unsafeCoerce mdOutlineStarRate_)
+mdOutlineStarRate = element (unsafeCoerce _mdOutlineStarRate)
 
-foreign import mdOutlineStars_ :: ReactIcon
+foreign import _mdOutlineStars :: ReactIcon
 
 mdOutlineStars :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineStars = element (unsafeCoerce mdOutlineStars_)
+mdOutlineStars = element (unsafeCoerce _mdOutlineStars)
 
-foreign import mdOutlineStayCurrentLandscape_ :: ReactIcon
+foreign import _mdOutlineStayCurrentLandscape :: ReactIcon
 
 mdOutlineStayCurrentLandscape :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineStayCurrentLandscape = element (unsafeCoerce mdOutlineStayCurrentLandscape_)
+mdOutlineStayCurrentLandscape = element (unsafeCoerce _mdOutlineStayCurrentLandscape)
 
-foreign import mdOutlineStayCurrentPortrait_ :: ReactIcon
+foreign import _mdOutlineStayCurrentPortrait :: ReactIcon
 
 mdOutlineStayCurrentPortrait :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineStayCurrentPortrait = element (unsafeCoerce mdOutlineStayCurrentPortrait_)
+mdOutlineStayCurrentPortrait = element (unsafeCoerce _mdOutlineStayCurrentPortrait)
 
-foreign import mdOutlineStayPrimaryLandscape_ :: ReactIcon
+foreign import _mdOutlineStayPrimaryLandscape :: ReactIcon
 
 mdOutlineStayPrimaryLandscape :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineStayPrimaryLandscape = element (unsafeCoerce mdOutlineStayPrimaryLandscape_)
+mdOutlineStayPrimaryLandscape = element (unsafeCoerce _mdOutlineStayPrimaryLandscape)
 
-foreign import mdOutlineStayPrimaryPortrait_ :: ReactIcon
+foreign import _mdOutlineStayPrimaryPortrait :: ReactIcon
 
 mdOutlineStayPrimaryPortrait :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineStayPrimaryPortrait = element (unsafeCoerce mdOutlineStayPrimaryPortrait_)
+mdOutlineStayPrimaryPortrait = element (unsafeCoerce _mdOutlineStayPrimaryPortrait)
 
-foreign import mdOutlineStop_ :: ReactIcon
+foreign import _mdOutlineStop :: ReactIcon
 
 mdOutlineStop :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineStop = element (unsafeCoerce mdOutlineStop_)
+mdOutlineStop = element (unsafeCoerce _mdOutlineStop)
 
-foreign import mdOutlineStopCircle_ :: ReactIcon
+foreign import _mdOutlineStopCircle :: ReactIcon
 
 mdOutlineStopCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineStopCircle = element (unsafeCoerce mdOutlineStopCircle_)
+mdOutlineStopCircle = element (unsafeCoerce _mdOutlineStopCircle)
 
-foreign import mdOutlineStopScreenShare_ :: ReactIcon
+foreign import _mdOutlineStopScreenShare :: ReactIcon
 
 mdOutlineStopScreenShare :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineStopScreenShare = element (unsafeCoerce mdOutlineStopScreenShare_)
+mdOutlineStopScreenShare = element (unsafeCoerce _mdOutlineStopScreenShare)
 
-foreign import mdOutlineStorage_ :: ReactIcon
+foreign import _mdOutlineStorage :: ReactIcon
 
 mdOutlineStorage :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineStorage = element (unsafeCoerce mdOutlineStorage_)
+mdOutlineStorage = element (unsafeCoerce _mdOutlineStorage)
 
-foreign import mdOutlineStore_ :: ReactIcon
+foreign import _mdOutlineStore :: ReactIcon
 
 mdOutlineStore :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineStore = element (unsafeCoerce mdOutlineStore_)
+mdOutlineStore = element (unsafeCoerce _mdOutlineStore)
 
-foreign import mdOutlineStorefront_ :: ReactIcon
+foreign import _mdOutlineStorefront :: ReactIcon
 
 mdOutlineStorefront :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineStorefront = element (unsafeCoerce mdOutlineStorefront_)
+mdOutlineStorefront = element (unsafeCoerce _mdOutlineStorefront)
 
-foreign import mdOutlineStoreMallDirectory_ :: ReactIcon
+foreign import _mdOutlineStoreMallDirectory :: ReactIcon
 
 mdOutlineStoreMallDirectory :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineStoreMallDirectory = element (unsafeCoerce mdOutlineStoreMallDirectory_)
+mdOutlineStoreMallDirectory = element (unsafeCoerce _mdOutlineStoreMallDirectory)
 
-foreign import mdOutlineStorm_ :: ReactIcon
+foreign import _mdOutlineStorm :: ReactIcon
 
 mdOutlineStorm :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineStorm = element (unsafeCoerce mdOutlineStorm_)
+mdOutlineStorm = element (unsafeCoerce _mdOutlineStorm)
 
-foreign import mdOutlineStraighten_ :: ReactIcon
+foreign import _mdOutlineStraighten :: ReactIcon
 
 mdOutlineStraighten :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineStraighten = element (unsafeCoerce mdOutlineStraighten_)
+mdOutlineStraighten = element (unsafeCoerce _mdOutlineStraighten)
 
-foreign import mdOutlineStream_ :: ReactIcon
+foreign import _mdOutlineStream :: ReactIcon
 
 mdOutlineStream :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineStream = element (unsafeCoerce mdOutlineStream_)
+mdOutlineStream = element (unsafeCoerce _mdOutlineStream)
 
-foreign import mdOutlineStreetview_ :: ReactIcon
+foreign import _mdOutlineStreetview :: ReactIcon
 
 mdOutlineStreetview :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineStreetview = element (unsafeCoerce mdOutlineStreetview_)
+mdOutlineStreetview = element (unsafeCoerce _mdOutlineStreetview)
 
-foreign import mdOutlineStrikethroughS_ :: ReactIcon
+foreign import _mdOutlineStrikethroughS :: ReactIcon
 
 mdOutlineStrikethroughS :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineStrikethroughS = element (unsafeCoerce mdOutlineStrikethroughS_)
+mdOutlineStrikethroughS = element (unsafeCoerce _mdOutlineStrikethroughS)
 
-foreign import mdOutlineStroller_ :: ReactIcon
+foreign import _mdOutlineStroller :: ReactIcon
 
 mdOutlineStroller :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineStroller = element (unsafeCoerce mdOutlineStroller_)
+mdOutlineStroller = element (unsafeCoerce _mdOutlineStroller)
 
-foreign import mdOutlineStyle_ :: ReactIcon
+foreign import _mdOutlineStyle :: ReactIcon
 
 mdOutlineStyle :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineStyle = element (unsafeCoerce mdOutlineStyle_)
+mdOutlineStyle = element (unsafeCoerce _mdOutlineStyle)
 
-foreign import mdOutlineSubdirectoryArrowLeft_ :: ReactIcon
+foreign import _mdOutlineSubdirectoryArrowLeft :: ReactIcon
 
 mdOutlineSubdirectoryArrowLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSubdirectoryArrowLeft = element (unsafeCoerce mdOutlineSubdirectoryArrowLeft_)
+mdOutlineSubdirectoryArrowLeft = element (unsafeCoerce _mdOutlineSubdirectoryArrowLeft)
 
-foreign import mdOutlineSubdirectoryArrowRight_ :: ReactIcon
+foreign import _mdOutlineSubdirectoryArrowRight :: ReactIcon
 
 mdOutlineSubdirectoryArrowRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSubdirectoryArrowRight = element (unsafeCoerce mdOutlineSubdirectoryArrowRight_)
+mdOutlineSubdirectoryArrowRight = element (unsafeCoerce _mdOutlineSubdirectoryArrowRight)
 
-foreign import mdOutlineSubject_ :: ReactIcon
+foreign import _mdOutlineSubject :: ReactIcon
 
 mdOutlineSubject :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSubject = element (unsafeCoerce mdOutlineSubject_)
+mdOutlineSubject = element (unsafeCoerce _mdOutlineSubject)
 
-foreign import mdOutlineSubscript_ :: ReactIcon
+foreign import _mdOutlineSubscript :: ReactIcon
 
 mdOutlineSubscript :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSubscript = element (unsafeCoerce mdOutlineSubscript_)
+mdOutlineSubscript = element (unsafeCoerce _mdOutlineSubscript)
 
-foreign import mdOutlineSubscriptions_ :: ReactIcon
+foreign import _mdOutlineSubscriptions :: ReactIcon
 
 mdOutlineSubscriptions :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSubscriptions = element (unsafeCoerce mdOutlineSubscriptions_)
+mdOutlineSubscriptions = element (unsafeCoerce _mdOutlineSubscriptions)
 
-foreign import mdOutlineSubtitles_ :: ReactIcon
+foreign import _mdOutlineSubtitles :: ReactIcon
 
 mdOutlineSubtitles :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSubtitles = element (unsafeCoerce mdOutlineSubtitles_)
+mdOutlineSubtitles = element (unsafeCoerce _mdOutlineSubtitles)
 
-foreign import mdOutlineSubtitlesOff_ :: ReactIcon
+foreign import _mdOutlineSubtitlesOff :: ReactIcon
 
 mdOutlineSubtitlesOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSubtitlesOff = element (unsafeCoerce mdOutlineSubtitlesOff_)
+mdOutlineSubtitlesOff = element (unsafeCoerce _mdOutlineSubtitlesOff)
 
-foreign import mdOutlineSubway_ :: ReactIcon
+foreign import _mdOutlineSubway :: ReactIcon
 
 mdOutlineSubway :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSubway = element (unsafeCoerce mdOutlineSubway_)
+mdOutlineSubway = element (unsafeCoerce _mdOutlineSubway)
 
-foreign import mdOutlineSummarize_ :: ReactIcon
+foreign import _mdOutlineSummarize :: ReactIcon
 
 mdOutlineSummarize :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSummarize = element (unsafeCoerce mdOutlineSummarize_)
+mdOutlineSummarize = element (unsafeCoerce _mdOutlineSummarize)
 
-foreign import mdOutlineSuperscript_ :: ReactIcon
+foreign import _mdOutlineSuperscript :: ReactIcon
 
 mdOutlineSuperscript :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSuperscript = element (unsafeCoerce mdOutlineSuperscript_)
+mdOutlineSuperscript = element (unsafeCoerce _mdOutlineSuperscript)
 
-foreign import mdOutlineSupervisedUserCircle_ :: ReactIcon
+foreign import _mdOutlineSupervisedUserCircle :: ReactIcon
 
 mdOutlineSupervisedUserCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSupervisedUserCircle = element (unsafeCoerce mdOutlineSupervisedUserCircle_)
+mdOutlineSupervisedUserCircle = element (unsafeCoerce _mdOutlineSupervisedUserCircle)
 
-foreign import mdOutlineSupervisorAccount_ :: ReactIcon
+foreign import _mdOutlineSupervisorAccount :: ReactIcon
 
 mdOutlineSupervisorAccount :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSupervisorAccount = element (unsafeCoerce mdOutlineSupervisorAccount_)
+mdOutlineSupervisorAccount = element (unsafeCoerce _mdOutlineSupervisorAccount)
 
-foreign import mdOutlineSupport_ :: ReactIcon
+foreign import _mdOutlineSupport :: ReactIcon
 
 mdOutlineSupport :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSupport = element (unsafeCoerce mdOutlineSupport_)
+mdOutlineSupport = element (unsafeCoerce _mdOutlineSupport)
 
-foreign import mdOutlineSupportAgent_ :: ReactIcon
+foreign import _mdOutlineSupportAgent :: ReactIcon
 
 mdOutlineSupportAgent :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSupportAgent = element (unsafeCoerce mdOutlineSupportAgent_)
+mdOutlineSupportAgent = element (unsafeCoerce _mdOutlineSupportAgent)
 
-foreign import mdOutlineSurfing_ :: ReactIcon
+foreign import _mdOutlineSurfing :: ReactIcon
 
 mdOutlineSurfing :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSurfing = element (unsafeCoerce mdOutlineSurfing_)
+mdOutlineSurfing = element (unsafeCoerce _mdOutlineSurfing)
 
-foreign import mdOutlineSurroundSound_ :: ReactIcon
+foreign import _mdOutlineSurroundSound :: ReactIcon
 
 mdOutlineSurroundSound :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSurroundSound = element (unsafeCoerce mdOutlineSurroundSound_)
+mdOutlineSurroundSound = element (unsafeCoerce _mdOutlineSurroundSound)
 
-foreign import mdOutlineSwapCalls_ :: ReactIcon
+foreign import _mdOutlineSwapCalls :: ReactIcon
 
 mdOutlineSwapCalls :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSwapCalls = element (unsafeCoerce mdOutlineSwapCalls_)
+mdOutlineSwapCalls = element (unsafeCoerce _mdOutlineSwapCalls)
 
-foreign import mdOutlineSwapHoriz_ :: ReactIcon
+foreign import _mdOutlineSwapHoriz :: ReactIcon
 
 mdOutlineSwapHoriz :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSwapHoriz = element (unsafeCoerce mdOutlineSwapHoriz_)
+mdOutlineSwapHoriz = element (unsafeCoerce _mdOutlineSwapHoriz)
 
-foreign import mdOutlineSwapHorizontalCircle_ :: ReactIcon
+foreign import _mdOutlineSwapHorizontalCircle :: ReactIcon
 
 mdOutlineSwapHorizontalCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSwapHorizontalCircle = element (unsafeCoerce mdOutlineSwapHorizontalCircle_)
+mdOutlineSwapHorizontalCircle = element (unsafeCoerce _mdOutlineSwapHorizontalCircle)
 
-foreign import mdOutlineSwapVert_ :: ReactIcon
+foreign import _mdOutlineSwapVert :: ReactIcon
 
 mdOutlineSwapVert :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSwapVert = element (unsafeCoerce mdOutlineSwapVert_)
+mdOutlineSwapVert = element (unsafeCoerce _mdOutlineSwapVert)
 
-foreign import mdOutlineSwapVerticalCircle_ :: ReactIcon
+foreign import _mdOutlineSwapVerticalCircle :: ReactIcon
 
 mdOutlineSwapVerticalCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSwapVerticalCircle = element (unsafeCoerce mdOutlineSwapVerticalCircle_)
+mdOutlineSwapVerticalCircle = element (unsafeCoerce _mdOutlineSwapVerticalCircle)
 
-foreign import mdOutlineSwipe_ :: ReactIcon
+foreign import _mdOutlineSwipe :: ReactIcon
 
 mdOutlineSwipe :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSwipe = element (unsafeCoerce mdOutlineSwipe_)
+mdOutlineSwipe = element (unsafeCoerce _mdOutlineSwipe)
 
-foreign import mdOutlineSwitchAccount_ :: ReactIcon
+foreign import _mdOutlineSwitchAccount :: ReactIcon
 
 mdOutlineSwitchAccount :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSwitchAccount = element (unsafeCoerce mdOutlineSwitchAccount_)
+mdOutlineSwitchAccount = element (unsafeCoerce _mdOutlineSwitchAccount)
 
-foreign import mdOutlineSwitchCamera_ :: ReactIcon
+foreign import _mdOutlineSwitchCamera :: ReactIcon
 
 mdOutlineSwitchCamera :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSwitchCamera = element (unsafeCoerce mdOutlineSwitchCamera_)
+mdOutlineSwitchCamera = element (unsafeCoerce _mdOutlineSwitchCamera)
 
-foreign import mdOutlineSwitchLeft_ :: ReactIcon
+foreign import _mdOutlineSwitchLeft :: ReactIcon
 
 mdOutlineSwitchLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSwitchLeft = element (unsafeCoerce mdOutlineSwitchLeft_)
+mdOutlineSwitchLeft = element (unsafeCoerce _mdOutlineSwitchLeft)
 
-foreign import mdOutlineSwitchRight_ :: ReactIcon
+foreign import _mdOutlineSwitchRight :: ReactIcon
 
 mdOutlineSwitchRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSwitchRight = element (unsafeCoerce mdOutlineSwitchRight_)
+mdOutlineSwitchRight = element (unsafeCoerce _mdOutlineSwitchRight)
 
-foreign import mdOutlineSwitchVideo_ :: ReactIcon
+foreign import _mdOutlineSwitchVideo :: ReactIcon
 
 mdOutlineSwitchVideo :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSwitchVideo = element (unsafeCoerce mdOutlineSwitchVideo_)
+mdOutlineSwitchVideo = element (unsafeCoerce _mdOutlineSwitchVideo)
 
-foreign import mdOutlineSync_ :: ReactIcon
+foreign import _mdOutlineSync :: ReactIcon
 
 mdOutlineSync :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSync = element (unsafeCoerce mdOutlineSync_)
+mdOutlineSync = element (unsafeCoerce _mdOutlineSync)
 
-foreign import mdOutlineSyncAlt_ :: ReactIcon
+foreign import _mdOutlineSyncAlt :: ReactIcon
 
 mdOutlineSyncAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSyncAlt = element (unsafeCoerce mdOutlineSyncAlt_)
+mdOutlineSyncAlt = element (unsafeCoerce _mdOutlineSyncAlt)
 
-foreign import mdOutlineSyncDisabled_ :: ReactIcon
+foreign import _mdOutlineSyncDisabled :: ReactIcon
 
 mdOutlineSyncDisabled :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSyncDisabled = element (unsafeCoerce mdOutlineSyncDisabled_)
+mdOutlineSyncDisabled = element (unsafeCoerce _mdOutlineSyncDisabled)
 
-foreign import mdOutlineSyncProblem_ :: ReactIcon
+foreign import _mdOutlineSyncProblem :: ReactIcon
 
 mdOutlineSyncProblem :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSyncProblem = element (unsafeCoerce mdOutlineSyncProblem_)
+mdOutlineSyncProblem = element (unsafeCoerce _mdOutlineSyncProblem)
 
-foreign import mdOutlineSystemSecurityUpdate_ :: ReactIcon
+foreign import _mdOutlineSystemSecurityUpdate :: ReactIcon
 
 mdOutlineSystemSecurityUpdate :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSystemSecurityUpdate = element (unsafeCoerce mdOutlineSystemSecurityUpdate_)
+mdOutlineSystemSecurityUpdate = element (unsafeCoerce _mdOutlineSystemSecurityUpdate)
 
-foreign import mdOutlineSystemSecurityUpdateGood_ :: ReactIcon
+foreign import _mdOutlineSystemSecurityUpdateGood :: ReactIcon
 
 mdOutlineSystemSecurityUpdateGood :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSystemSecurityUpdateGood = element (unsafeCoerce mdOutlineSystemSecurityUpdateGood_)
+mdOutlineSystemSecurityUpdateGood = element (unsafeCoerce _mdOutlineSystemSecurityUpdateGood)
 
-foreign import mdOutlineSystemSecurityUpdateWarning_ :: ReactIcon
+foreign import _mdOutlineSystemSecurityUpdateWarning :: ReactIcon
 
 mdOutlineSystemSecurityUpdateWarning :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSystemSecurityUpdateWarning = element (unsafeCoerce mdOutlineSystemSecurityUpdateWarning_)
+mdOutlineSystemSecurityUpdateWarning = element (unsafeCoerce _mdOutlineSystemSecurityUpdateWarning)
 
-foreign import mdOutlineSystemUpdate_ :: ReactIcon
+foreign import _mdOutlineSystemUpdate :: ReactIcon
 
 mdOutlineSystemUpdate :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSystemUpdate = element (unsafeCoerce mdOutlineSystemUpdate_)
+mdOutlineSystemUpdate = element (unsafeCoerce _mdOutlineSystemUpdate)
 
-foreign import mdOutlineSystemUpdateAlt_ :: ReactIcon
+foreign import _mdOutlineSystemUpdateAlt :: ReactIcon
 
 mdOutlineSystemUpdateAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineSystemUpdateAlt = element (unsafeCoerce mdOutlineSystemUpdateAlt_)
+mdOutlineSystemUpdateAlt = element (unsafeCoerce _mdOutlineSystemUpdateAlt)
 
-foreign import mdOutlineTab_ :: ReactIcon
+foreign import _mdOutlineTab :: ReactIcon
 
 mdOutlineTab :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineTab = element (unsafeCoerce mdOutlineTab_)
+mdOutlineTab = element (unsafeCoerce _mdOutlineTab)
 
-foreign import mdOutlineTableChart_ :: ReactIcon
+foreign import _mdOutlineTableChart :: ReactIcon
 
 mdOutlineTableChart :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineTableChart = element (unsafeCoerce mdOutlineTableChart_)
+mdOutlineTableChart = element (unsafeCoerce _mdOutlineTableChart)
 
-foreign import mdOutlineTableRows_ :: ReactIcon
+foreign import _mdOutlineTableRows :: ReactIcon
 
 mdOutlineTableRows :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineTableRows = element (unsafeCoerce mdOutlineTableRows_)
+mdOutlineTableRows = element (unsafeCoerce _mdOutlineTableRows)
 
-foreign import mdOutlineTablet_ :: ReactIcon
+foreign import _mdOutlineTablet :: ReactIcon
 
 mdOutlineTablet :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineTablet = element (unsafeCoerce mdOutlineTablet_)
+mdOutlineTablet = element (unsafeCoerce _mdOutlineTablet)
 
-foreign import mdOutlineTabletAndroid_ :: ReactIcon
+foreign import _mdOutlineTabletAndroid :: ReactIcon
 
 mdOutlineTabletAndroid :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineTabletAndroid = element (unsafeCoerce mdOutlineTabletAndroid_)
+mdOutlineTabletAndroid = element (unsafeCoerce _mdOutlineTabletAndroid)
 
-foreign import mdOutlineTabletMac_ :: ReactIcon
+foreign import _mdOutlineTabletMac :: ReactIcon
 
 mdOutlineTabletMac :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineTabletMac = element (unsafeCoerce mdOutlineTabletMac_)
+mdOutlineTabletMac = element (unsafeCoerce _mdOutlineTabletMac)
 
-foreign import mdOutlineTableView_ :: ReactIcon
+foreign import _mdOutlineTableView :: ReactIcon
 
 mdOutlineTableView :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineTableView = element (unsafeCoerce mdOutlineTableView_)
+mdOutlineTableView = element (unsafeCoerce _mdOutlineTableView)
 
-foreign import mdOutlineTabUnselected_ :: ReactIcon
+foreign import _mdOutlineTabUnselected :: ReactIcon
 
 mdOutlineTabUnselected :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineTabUnselected = element (unsafeCoerce mdOutlineTabUnselected_)
+mdOutlineTabUnselected = element (unsafeCoerce _mdOutlineTabUnselected)
 
-foreign import mdOutlineTag_ :: ReactIcon
+foreign import _mdOutlineTag :: ReactIcon
 
 mdOutlineTag :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineTag = element (unsafeCoerce mdOutlineTag_)
+mdOutlineTag = element (unsafeCoerce _mdOutlineTag)
 
-foreign import mdOutlineTagFaces_ :: ReactIcon
+foreign import _mdOutlineTagFaces :: ReactIcon
 
 mdOutlineTagFaces :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineTagFaces = element (unsafeCoerce mdOutlineTagFaces_)
+mdOutlineTagFaces = element (unsafeCoerce _mdOutlineTagFaces)
 
-foreign import mdOutlineTakeoutDining_ :: ReactIcon
+foreign import _mdOutlineTakeoutDining :: ReactIcon
 
 mdOutlineTakeoutDining :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineTakeoutDining = element (unsafeCoerce mdOutlineTakeoutDining_)
+mdOutlineTakeoutDining = element (unsafeCoerce _mdOutlineTakeoutDining)
 
-foreign import mdOutlineTapAndPlay_ :: ReactIcon
+foreign import _mdOutlineTapAndPlay :: ReactIcon
 
 mdOutlineTapAndPlay :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineTapAndPlay = element (unsafeCoerce mdOutlineTapAndPlay_)
+mdOutlineTapAndPlay = element (unsafeCoerce _mdOutlineTapAndPlay)
 
-foreign import mdOutlineTapas_ :: ReactIcon
+foreign import _mdOutlineTapas :: ReactIcon
 
 mdOutlineTapas :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineTapas = element (unsafeCoerce mdOutlineTapas_)
+mdOutlineTapas = element (unsafeCoerce _mdOutlineTapas)
 
-foreign import mdOutlineTask_ :: ReactIcon
+foreign import _mdOutlineTask :: ReactIcon
 
 mdOutlineTask :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineTask = element (unsafeCoerce mdOutlineTask_)
+mdOutlineTask = element (unsafeCoerce _mdOutlineTask)
 
-foreign import mdOutlineTaskAlt_ :: ReactIcon
+foreign import _mdOutlineTaskAlt :: ReactIcon
 
 mdOutlineTaskAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineTaskAlt = element (unsafeCoerce mdOutlineTaskAlt_)
+mdOutlineTaskAlt = element (unsafeCoerce _mdOutlineTaskAlt)
 
-foreign import mdOutlineTaxiAlert_ :: ReactIcon
+foreign import _mdOutlineTaxiAlert :: ReactIcon
 
 mdOutlineTaxiAlert :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineTaxiAlert = element (unsafeCoerce mdOutlineTaxiAlert_)
+mdOutlineTaxiAlert = element (unsafeCoerce _mdOutlineTaxiAlert)
 
-foreign import mdOutlineTerrain_ :: ReactIcon
+foreign import _mdOutlineTerrain :: ReactIcon
 
 mdOutlineTerrain :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineTerrain = element (unsafeCoerce mdOutlineTerrain_)
+mdOutlineTerrain = element (unsafeCoerce _mdOutlineTerrain)
 
-foreign import mdOutlineTextFields_ :: ReactIcon
+foreign import _mdOutlineTextFields :: ReactIcon
 
 mdOutlineTextFields :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineTextFields = element (unsafeCoerce mdOutlineTextFields_)
+mdOutlineTextFields = element (unsafeCoerce _mdOutlineTextFields)
 
-foreign import mdOutlineTextFormat_ :: ReactIcon
+foreign import _mdOutlineTextFormat :: ReactIcon
 
 mdOutlineTextFormat :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineTextFormat = element (unsafeCoerce mdOutlineTextFormat_)
+mdOutlineTextFormat = element (unsafeCoerce _mdOutlineTextFormat)
 
-foreign import mdOutlineTextRotateUp_ :: ReactIcon
+foreign import _mdOutlineTextRotateUp :: ReactIcon
 
 mdOutlineTextRotateUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineTextRotateUp = element (unsafeCoerce mdOutlineTextRotateUp_)
+mdOutlineTextRotateUp = element (unsafeCoerce _mdOutlineTextRotateUp)
 
-foreign import mdOutlineTextRotateVertical_ :: ReactIcon
+foreign import _mdOutlineTextRotateVertical :: ReactIcon
 
 mdOutlineTextRotateVertical :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineTextRotateVertical = element (unsafeCoerce mdOutlineTextRotateVertical_)
+mdOutlineTextRotateVertical = element (unsafeCoerce _mdOutlineTextRotateVertical)
 
-foreign import mdOutlineTextRotationAngledown_ :: ReactIcon
+foreign import _mdOutlineTextRotationAngledown :: ReactIcon
 
 mdOutlineTextRotationAngledown :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineTextRotationAngledown = element (unsafeCoerce mdOutlineTextRotationAngledown_)
+mdOutlineTextRotationAngledown = element (unsafeCoerce _mdOutlineTextRotationAngledown)
 
-foreign import mdOutlineTextRotationAngleup_ :: ReactIcon
+foreign import _mdOutlineTextRotationAngleup :: ReactIcon
 
 mdOutlineTextRotationAngleup :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineTextRotationAngleup = element (unsafeCoerce mdOutlineTextRotationAngleup_)
+mdOutlineTextRotationAngleup = element (unsafeCoerce _mdOutlineTextRotationAngleup)
 
-foreign import mdOutlineTextRotationDown_ :: ReactIcon
+foreign import _mdOutlineTextRotationDown :: ReactIcon
 
 mdOutlineTextRotationDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineTextRotationDown = element (unsafeCoerce mdOutlineTextRotationDown_)
+mdOutlineTextRotationDown = element (unsafeCoerce _mdOutlineTextRotationDown)
 
-foreign import mdOutlineTextRotationNone_ :: ReactIcon
+foreign import _mdOutlineTextRotationNone :: ReactIcon
 
 mdOutlineTextRotationNone :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineTextRotationNone = element (unsafeCoerce mdOutlineTextRotationNone_)
+mdOutlineTextRotationNone = element (unsafeCoerce _mdOutlineTextRotationNone)
 
-foreign import mdOutlineTextsms_ :: ReactIcon
+foreign import _mdOutlineTextsms :: ReactIcon
 
 mdOutlineTextsms :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineTextsms = element (unsafeCoerce mdOutlineTextsms_)
+mdOutlineTextsms = element (unsafeCoerce _mdOutlineTextsms)
 
-foreign import mdOutlineTextSnippet_ :: ReactIcon
+foreign import _mdOutlineTextSnippet :: ReactIcon
 
 mdOutlineTextSnippet :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineTextSnippet = element (unsafeCoerce mdOutlineTextSnippet_)
+mdOutlineTextSnippet = element (unsafeCoerce _mdOutlineTextSnippet)
 
-foreign import mdOutlineTexture_ :: ReactIcon
+foreign import _mdOutlineTexture :: ReactIcon
 
 mdOutlineTexture :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineTexture = element (unsafeCoerce mdOutlineTexture_)
+mdOutlineTexture = element (unsafeCoerce _mdOutlineTexture)
 
-foreign import mdOutlineTheaterComedy_ :: ReactIcon
+foreign import _mdOutlineTheaterComedy :: ReactIcon
 
 mdOutlineTheaterComedy :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineTheaterComedy = element (unsafeCoerce mdOutlineTheaterComedy_)
+mdOutlineTheaterComedy = element (unsafeCoerce _mdOutlineTheaterComedy)
 
-foreign import mdOutlineTheaters_ :: ReactIcon
+foreign import _mdOutlineTheaters :: ReactIcon
 
 mdOutlineTheaters :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineTheaters = element (unsafeCoerce mdOutlineTheaters_)
+mdOutlineTheaters = element (unsafeCoerce _mdOutlineTheaters)
 
-foreign import mdOutlineThermostat_ :: ReactIcon
+foreign import _mdOutlineThermostat :: ReactIcon
 
 mdOutlineThermostat :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineThermostat = element (unsafeCoerce mdOutlineThermostat_)
+mdOutlineThermostat = element (unsafeCoerce _mdOutlineThermostat)
 
-foreign import mdOutlineThermostatAuto_ :: ReactIcon
+foreign import _mdOutlineThermostatAuto :: ReactIcon
 
 mdOutlineThermostatAuto :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineThermostatAuto = element (unsafeCoerce mdOutlineThermostatAuto_)
+mdOutlineThermostatAuto = element (unsafeCoerce _mdOutlineThermostatAuto)
 
-foreign import mdOutlineThumbDown_ :: ReactIcon
+foreign import _mdOutlineThumbDown :: ReactIcon
 
 mdOutlineThumbDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineThumbDown = element (unsafeCoerce mdOutlineThumbDown_)
+mdOutlineThumbDown = element (unsafeCoerce _mdOutlineThumbDown)
 
-foreign import mdOutlineThumbDownAlt_ :: ReactIcon
+foreign import _mdOutlineThumbDownAlt :: ReactIcon
 
 mdOutlineThumbDownAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineThumbDownAlt = element (unsafeCoerce mdOutlineThumbDownAlt_)
+mdOutlineThumbDownAlt = element (unsafeCoerce _mdOutlineThumbDownAlt)
 
-foreign import mdOutlineThumbDownOffAlt_ :: ReactIcon
+foreign import _mdOutlineThumbDownOffAlt :: ReactIcon
 
 mdOutlineThumbDownOffAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineThumbDownOffAlt = element (unsafeCoerce mdOutlineThumbDownOffAlt_)
+mdOutlineThumbDownOffAlt = element (unsafeCoerce _mdOutlineThumbDownOffAlt)
 
-foreign import mdOutlineThumbsUpDown_ :: ReactIcon
+foreign import _mdOutlineThumbsUpDown :: ReactIcon
 
 mdOutlineThumbsUpDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineThumbsUpDown = element (unsafeCoerce mdOutlineThumbsUpDown_)
+mdOutlineThumbsUpDown = element (unsafeCoerce _mdOutlineThumbsUpDown)
 
-foreign import mdOutlineThumbUp_ :: ReactIcon
+foreign import _mdOutlineThumbUp :: ReactIcon
 
 mdOutlineThumbUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineThumbUp = element (unsafeCoerce mdOutlineThumbUp_)
+mdOutlineThumbUp = element (unsafeCoerce _mdOutlineThumbUp)
 
-foreign import mdOutlineThumbUpAlt_ :: ReactIcon
+foreign import _mdOutlineThumbUpAlt :: ReactIcon
 
 mdOutlineThumbUpAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineThumbUpAlt = element (unsafeCoerce mdOutlineThumbUpAlt_)
+mdOutlineThumbUpAlt = element (unsafeCoerce _mdOutlineThumbUpAlt)
 
-foreign import mdOutlineThumbUpOffAlt_ :: ReactIcon
+foreign import _mdOutlineThumbUpOffAlt :: ReactIcon
 
 mdOutlineThumbUpOffAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineThumbUpOffAlt = element (unsafeCoerce mdOutlineThumbUpOffAlt_)
+mdOutlineThumbUpOffAlt = element (unsafeCoerce _mdOutlineThumbUpOffAlt)
 
-foreign import mdOutlineTimelapse_ :: ReactIcon
+foreign import _mdOutlineTimelapse :: ReactIcon
 
 mdOutlineTimelapse :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineTimelapse = element (unsafeCoerce mdOutlineTimelapse_)
+mdOutlineTimelapse = element (unsafeCoerce _mdOutlineTimelapse)
 
-foreign import mdOutlineTimeline_ :: ReactIcon
+foreign import _mdOutlineTimeline :: ReactIcon
 
 mdOutlineTimeline :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineTimeline = element (unsafeCoerce mdOutlineTimeline_)
+mdOutlineTimeline = element (unsafeCoerce _mdOutlineTimeline)
 
-foreign import mdOutlineTimer_ :: ReactIcon
+foreign import _mdOutlineTimer :: ReactIcon
 
 mdOutlineTimer :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineTimer = element (unsafeCoerce mdOutlineTimer_)
+mdOutlineTimer = element (unsafeCoerce _mdOutlineTimer)
 
-foreign import mdOutlineTimerOff_ :: ReactIcon
+foreign import _mdOutlineTimerOff :: ReactIcon
 
 mdOutlineTimerOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineTimerOff = element (unsafeCoerce mdOutlineTimerOff_)
+mdOutlineTimerOff = element (unsafeCoerce _mdOutlineTimerOff)
 
-foreign import mdOutlineTimeToLeave_ :: ReactIcon
+foreign import _mdOutlineTimeToLeave :: ReactIcon
 
 mdOutlineTimeToLeave :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineTimeToLeave = element (unsafeCoerce mdOutlineTimeToLeave_)
+mdOutlineTimeToLeave = element (unsafeCoerce _mdOutlineTimeToLeave)
 
-foreign import mdOutlineTipsAndUpdates_ :: ReactIcon
+foreign import _mdOutlineTipsAndUpdates :: ReactIcon
 
 mdOutlineTipsAndUpdates :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineTipsAndUpdates = element (unsafeCoerce mdOutlineTipsAndUpdates_)
+mdOutlineTipsAndUpdates = element (unsafeCoerce _mdOutlineTipsAndUpdates)
 
-foreign import mdOutlineTitle_ :: ReactIcon
+foreign import _mdOutlineTitle :: ReactIcon
 
 mdOutlineTitle :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineTitle = element (unsafeCoerce mdOutlineTitle_)
+mdOutlineTitle = element (unsafeCoerce _mdOutlineTitle)
 
-foreign import mdOutlineToc_ :: ReactIcon
+foreign import _mdOutlineToc :: ReactIcon
 
 mdOutlineToc :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineToc = element (unsafeCoerce mdOutlineToc_)
+mdOutlineToc = element (unsafeCoerce _mdOutlineToc)
 
-foreign import mdOutlineToday_ :: ReactIcon
+foreign import _mdOutlineToday :: ReactIcon
 
 mdOutlineToday :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineToday = element (unsafeCoerce mdOutlineToday_)
+mdOutlineToday = element (unsafeCoerce _mdOutlineToday)
 
-foreign import mdOutlineToggleOff_ :: ReactIcon
+foreign import _mdOutlineToggleOff :: ReactIcon
 
 mdOutlineToggleOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineToggleOff = element (unsafeCoerce mdOutlineToggleOff_)
+mdOutlineToggleOff = element (unsafeCoerce _mdOutlineToggleOff)
 
-foreign import mdOutlineToggleOn_ :: ReactIcon
+foreign import _mdOutlineToggleOn :: ReactIcon
 
 mdOutlineToggleOn :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineToggleOn = element (unsafeCoerce mdOutlineToggleOn_)
+mdOutlineToggleOn = element (unsafeCoerce _mdOutlineToggleOn)
 
-foreign import mdOutlineToll_ :: ReactIcon
+foreign import _mdOutlineToll :: ReactIcon
 
 mdOutlineToll :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineToll = element (unsafeCoerce mdOutlineToll_)
+mdOutlineToll = element (unsafeCoerce _mdOutlineToll)
 
-foreign import mdOutlineTonality_ :: ReactIcon
+foreign import _mdOutlineTonality :: ReactIcon
 
 mdOutlineTonality :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineTonality = element (unsafeCoerce mdOutlineTonality_)
+mdOutlineTonality = element (unsafeCoerce _mdOutlineTonality)
 
-foreign import mdOutlineTopic_ :: ReactIcon
+foreign import _mdOutlineTopic :: ReactIcon
 
 mdOutlineTopic :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineTopic = element (unsafeCoerce mdOutlineTopic_)
+mdOutlineTopic = element (unsafeCoerce _mdOutlineTopic)
 
-foreign import mdOutlineTouchApp_ :: ReactIcon
+foreign import _mdOutlineTouchApp :: ReactIcon
 
 mdOutlineTouchApp :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineTouchApp = element (unsafeCoerce mdOutlineTouchApp_)
+mdOutlineTouchApp = element (unsafeCoerce _mdOutlineTouchApp)
 
-foreign import mdOutlineTour_ :: ReactIcon
+foreign import _mdOutlineTour :: ReactIcon
 
 mdOutlineTour :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineTour = element (unsafeCoerce mdOutlineTour_)
+mdOutlineTour = element (unsafeCoerce _mdOutlineTour)
 
-foreign import mdOutlineToys_ :: ReactIcon
+foreign import _mdOutlineToys :: ReactIcon
 
 mdOutlineToys :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineToys = element (unsafeCoerce mdOutlineToys_)
+mdOutlineToys = element (unsafeCoerce _mdOutlineToys)
 
-foreign import mdOutlineTrackChanges_ :: ReactIcon
+foreign import _mdOutlineTrackChanges :: ReactIcon
 
 mdOutlineTrackChanges :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineTrackChanges = element (unsafeCoerce mdOutlineTrackChanges_)
+mdOutlineTrackChanges = element (unsafeCoerce _mdOutlineTrackChanges)
 
-foreign import mdOutlineTraffic_ :: ReactIcon
+foreign import _mdOutlineTraffic :: ReactIcon
 
 mdOutlineTraffic :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineTraffic = element (unsafeCoerce mdOutlineTraffic_)
+mdOutlineTraffic = element (unsafeCoerce _mdOutlineTraffic)
 
-foreign import mdOutlineTrain_ :: ReactIcon
+foreign import _mdOutlineTrain :: ReactIcon
 
 mdOutlineTrain :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineTrain = element (unsafeCoerce mdOutlineTrain_)
+mdOutlineTrain = element (unsafeCoerce _mdOutlineTrain)
 
-foreign import mdOutlineTram_ :: ReactIcon
+foreign import _mdOutlineTram :: ReactIcon
 
 mdOutlineTram :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineTram = element (unsafeCoerce mdOutlineTram_)
+mdOutlineTram = element (unsafeCoerce _mdOutlineTram)
 
-foreign import mdOutlineTransferWithinAStation_ :: ReactIcon
+foreign import _mdOutlineTransferWithinAStation :: ReactIcon
 
 mdOutlineTransferWithinAStation :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineTransferWithinAStation = element (unsafeCoerce mdOutlineTransferWithinAStation_)
+mdOutlineTransferWithinAStation = element (unsafeCoerce _mdOutlineTransferWithinAStation)
 
-foreign import mdOutlineTransform_ :: ReactIcon
+foreign import _mdOutlineTransform :: ReactIcon
 
 mdOutlineTransform :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineTransform = element (unsafeCoerce mdOutlineTransform_)
+mdOutlineTransform = element (unsafeCoerce _mdOutlineTransform)
 
-foreign import mdOutlineTransgender_ :: ReactIcon
+foreign import _mdOutlineTransgender :: ReactIcon
 
 mdOutlineTransgender :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineTransgender = element (unsafeCoerce mdOutlineTransgender_)
+mdOutlineTransgender = element (unsafeCoerce _mdOutlineTransgender)
 
-foreign import mdOutlineTransitEnterexit_ :: ReactIcon
+foreign import _mdOutlineTransitEnterexit :: ReactIcon
 
 mdOutlineTransitEnterexit :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineTransitEnterexit = element (unsafeCoerce mdOutlineTransitEnterexit_)
+mdOutlineTransitEnterexit = element (unsafeCoerce _mdOutlineTransitEnterexit)
 
-foreign import mdOutlineTranslate_ :: ReactIcon
+foreign import _mdOutlineTranslate :: ReactIcon
 
 mdOutlineTranslate :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineTranslate = element (unsafeCoerce mdOutlineTranslate_)
+mdOutlineTranslate = element (unsafeCoerce _mdOutlineTranslate)
 
-foreign import mdOutlineTravelExplore_ :: ReactIcon
+foreign import _mdOutlineTravelExplore :: ReactIcon
 
 mdOutlineTravelExplore :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineTravelExplore = element (unsafeCoerce mdOutlineTravelExplore_)
+mdOutlineTravelExplore = element (unsafeCoerce _mdOutlineTravelExplore)
 
-foreign import mdOutlineTrendingDown_ :: ReactIcon
+foreign import _mdOutlineTrendingDown :: ReactIcon
 
 mdOutlineTrendingDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineTrendingDown = element (unsafeCoerce mdOutlineTrendingDown_)
+mdOutlineTrendingDown = element (unsafeCoerce _mdOutlineTrendingDown)
 
-foreign import mdOutlineTrendingFlat_ :: ReactIcon
+foreign import _mdOutlineTrendingFlat :: ReactIcon
 
 mdOutlineTrendingFlat :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineTrendingFlat = element (unsafeCoerce mdOutlineTrendingFlat_)
+mdOutlineTrendingFlat = element (unsafeCoerce _mdOutlineTrendingFlat)
 
-foreign import mdOutlineTrendingUp_ :: ReactIcon
+foreign import _mdOutlineTrendingUp :: ReactIcon
 
 mdOutlineTrendingUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineTrendingUp = element (unsafeCoerce mdOutlineTrendingUp_)
+mdOutlineTrendingUp = element (unsafeCoerce _mdOutlineTrendingUp)
 
-foreign import mdOutlineTripOrigin_ :: ReactIcon
+foreign import _mdOutlineTripOrigin :: ReactIcon
 
 mdOutlineTripOrigin :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineTripOrigin = element (unsafeCoerce mdOutlineTripOrigin_)
+mdOutlineTripOrigin = element (unsafeCoerce _mdOutlineTripOrigin)
 
-foreign import mdOutlineTry_ :: ReactIcon
+foreign import _mdOutlineTry :: ReactIcon
 
 mdOutlineTry :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineTry = element (unsafeCoerce mdOutlineTry_)
+mdOutlineTry = element (unsafeCoerce _mdOutlineTry)
 
-foreign import mdOutlineTty_ :: ReactIcon
+foreign import _mdOutlineTty :: ReactIcon
 
 mdOutlineTty :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineTty = element (unsafeCoerce mdOutlineTty_)
+mdOutlineTty = element (unsafeCoerce _mdOutlineTty)
 
-foreign import mdOutlineTune_ :: ReactIcon
+foreign import _mdOutlineTune :: ReactIcon
 
 mdOutlineTune :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineTune = element (unsafeCoerce mdOutlineTune_)
+mdOutlineTune = element (unsafeCoerce _mdOutlineTune)
 
-foreign import mdOutlineTungsten_ :: ReactIcon
+foreign import _mdOutlineTungsten :: ReactIcon
 
 mdOutlineTungsten :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineTungsten = element (unsafeCoerce mdOutlineTungsten_)
+mdOutlineTungsten = element (unsafeCoerce _mdOutlineTungsten)
 
-foreign import mdOutlineTurnedIn_ :: ReactIcon
+foreign import _mdOutlineTurnedIn :: ReactIcon
 
 mdOutlineTurnedIn :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineTurnedIn = element (unsafeCoerce mdOutlineTurnedIn_)
+mdOutlineTurnedIn = element (unsafeCoerce _mdOutlineTurnedIn)
 
-foreign import mdOutlineTurnedInNot_ :: ReactIcon
+foreign import _mdOutlineTurnedInNot :: ReactIcon
 
 mdOutlineTurnedInNot :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineTurnedInNot = element (unsafeCoerce mdOutlineTurnedInNot_)
+mdOutlineTurnedInNot = element (unsafeCoerce _mdOutlineTurnedInNot)
 
-foreign import mdOutlineTv_ :: ReactIcon
+foreign import _mdOutlineTv :: ReactIcon
 
 mdOutlineTv :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineTv = element (unsafeCoerce mdOutlineTv_)
+mdOutlineTv = element (unsafeCoerce _mdOutlineTv)
 
-foreign import mdOutlineTvOff_ :: ReactIcon
+foreign import _mdOutlineTvOff :: ReactIcon
 
 mdOutlineTvOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineTvOff = element (unsafeCoerce mdOutlineTvOff_)
+mdOutlineTvOff = element (unsafeCoerce _mdOutlineTvOff)
 
-foreign import mdOutlineTwoWheeler_ :: ReactIcon
+foreign import _mdOutlineTwoWheeler :: ReactIcon
 
 mdOutlineTwoWheeler :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineTwoWheeler = element (unsafeCoerce mdOutlineTwoWheeler_)
+mdOutlineTwoWheeler = element (unsafeCoerce _mdOutlineTwoWheeler)
 
-foreign import mdOutlineUmbrella_ :: ReactIcon
+foreign import _mdOutlineUmbrella :: ReactIcon
 
 mdOutlineUmbrella :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineUmbrella = element (unsafeCoerce mdOutlineUmbrella_)
+mdOutlineUmbrella = element (unsafeCoerce _mdOutlineUmbrella)
 
-foreign import mdOutlineUnarchive_ :: ReactIcon
+foreign import _mdOutlineUnarchive :: ReactIcon
 
 mdOutlineUnarchive :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineUnarchive = element (unsafeCoerce mdOutlineUnarchive_)
+mdOutlineUnarchive = element (unsafeCoerce _mdOutlineUnarchive)
 
-foreign import mdOutlineUndo_ :: ReactIcon
+foreign import _mdOutlineUndo :: ReactIcon
 
 mdOutlineUndo :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineUndo = element (unsafeCoerce mdOutlineUndo_)
+mdOutlineUndo = element (unsafeCoerce _mdOutlineUndo)
 
-foreign import mdOutlineUnfoldLess_ :: ReactIcon
+foreign import _mdOutlineUnfoldLess :: ReactIcon
 
 mdOutlineUnfoldLess :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineUnfoldLess = element (unsafeCoerce mdOutlineUnfoldLess_)
+mdOutlineUnfoldLess = element (unsafeCoerce _mdOutlineUnfoldLess)
 
-foreign import mdOutlineUnfoldMore_ :: ReactIcon
+foreign import _mdOutlineUnfoldMore :: ReactIcon
 
 mdOutlineUnfoldMore :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineUnfoldMore = element (unsafeCoerce mdOutlineUnfoldMore_)
+mdOutlineUnfoldMore = element (unsafeCoerce _mdOutlineUnfoldMore)
 
-foreign import mdOutlineUnpublished_ :: ReactIcon
+foreign import _mdOutlineUnpublished :: ReactIcon
 
 mdOutlineUnpublished :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineUnpublished = element (unsafeCoerce mdOutlineUnpublished_)
+mdOutlineUnpublished = element (unsafeCoerce _mdOutlineUnpublished)
 
-foreign import mdOutlineUnsubscribe_ :: ReactIcon
+foreign import _mdOutlineUnsubscribe :: ReactIcon
 
 mdOutlineUnsubscribe :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineUnsubscribe = element (unsafeCoerce mdOutlineUnsubscribe_)
+mdOutlineUnsubscribe = element (unsafeCoerce _mdOutlineUnsubscribe)
 
-foreign import mdOutlineUpcoming_ :: ReactIcon
+foreign import _mdOutlineUpcoming :: ReactIcon
 
 mdOutlineUpcoming :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineUpcoming = element (unsafeCoerce mdOutlineUpcoming_)
+mdOutlineUpcoming = element (unsafeCoerce _mdOutlineUpcoming)
 
-foreign import mdOutlineUpdate_ :: ReactIcon
+foreign import _mdOutlineUpdate :: ReactIcon
 
 mdOutlineUpdate :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineUpdate = element (unsafeCoerce mdOutlineUpdate_)
+mdOutlineUpdate = element (unsafeCoerce _mdOutlineUpdate)
 
-foreign import mdOutlineUpdateDisabled_ :: ReactIcon
+foreign import _mdOutlineUpdateDisabled :: ReactIcon
 
 mdOutlineUpdateDisabled :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineUpdateDisabled = element (unsafeCoerce mdOutlineUpdateDisabled_)
+mdOutlineUpdateDisabled = element (unsafeCoerce _mdOutlineUpdateDisabled)
 
-foreign import mdOutlineUpgrade_ :: ReactIcon
+foreign import _mdOutlineUpgrade :: ReactIcon
 
 mdOutlineUpgrade :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineUpgrade = element (unsafeCoerce mdOutlineUpgrade_)
+mdOutlineUpgrade = element (unsafeCoerce _mdOutlineUpgrade)
 
-foreign import mdOutlineUpload_ :: ReactIcon
+foreign import _mdOutlineUpload :: ReactIcon
 
 mdOutlineUpload :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineUpload = element (unsafeCoerce mdOutlineUpload_)
+mdOutlineUpload = element (unsafeCoerce _mdOutlineUpload)
 
-foreign import mdOutlineUploadFile_ :: ReactIcon
+foreign import _mdOutlineUploadFile :: ReactIcon
 
 mdOutlineUploadFile :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineUploadFile = element (unsafeCoerce mdOutlineUploadFile_)
+mdOutlineUploadFile = element (unsafeCoerce _mdOutlineUploadFile)
 
-foreign import mdOutlineUsb_ :: ReactIcon
+foreign import _mdOutlineUsb :: ReactIcon
 
 mdOutlineUsb :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineUsb = element (unsafeCoerce mdOutlineUsb_)
+mdOutlineUsb = element (unsafeCoerce _mdOutlineUsb)
 
-foreign import mdOutlineUsbOff_ :: ReactIcon
+foreign import _mdOutlineUsbOff :: ReactIcon
 
 mdOutlineUsbOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineUsbOff = element (unsafeCoerce mdOutlineUsbOff_)
+mdOutlineUsbOff = element (unsafeCoerce _mdOutlineUsbOff)
 
-foreign import mdOutlineVerified_ :: ReactIcon
+foreign import _mdOutlineVerified :: ReactIcon
 
 mdOutlineVerified :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineVerified = element (unsafeCoerce mdOutlineVerified_)
+mdOutlineVerified = element (unsafeCoerce _mdOutlineVerified)
 
-foreign import mdOutlineVerifiedUser_ :: ReactIcon
+foreign import _mdOutlineVerifiedUser :: ReactIcon
 
 mdOutlineVerifiedUser :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineVerifiedUser = element (unsafeCoerce mdOutlineVerifiedUser_)
+mdOutlineVerifiedUser = element (unsafeCoerce _mdOutlineVerifiedUser)
 
-foreign import mdOutlineVerticalAlignBottom_ :: ReactIcon
+foreign import _mdOutlineVerticalAlignBottom :: ReactIcon
 
 mdOutlineVerticalAlignBottom :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineVerticalAlignBottom = element (unsafeCoerce mdOutlineVerticalAlignBottom_)
+mdOutlineVerticalAlignBottom = element (unsafeCoerce _mdOutlineVerticalAlignBottom)
 
-foreign import mdOutlineVerticalAlignCenter_ :: ReactIcon
+foreign import _mdOutlineVerticalAlignCenter :: ReactIcon
 
 mdOutlineVerticalAlignCenter :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineVerticalAlignCenter = element (unsafeCoerce mdOutlineVerticalAlignCenter_)
+mdOutlineVerticalAlignCenter = element (unsafeCoerce _mdOutlineVerticalAlignCenter)
 
-foreign import mdOutlineVerticalAlignTop_ :: ReactIcon
+foreign import _mdOutlineVerticalAlignTop :: ReactIcon
 
 mdOutlineVerticalAlignTop :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineVerticalAlignTop = element (unsafeCoerce mdOutlineVerticalAlignTop_)
+mdOutlineVerticalAlignTop = element (unsafeCoerce _mdOutlineVerticalAlignTop)
 
-foreign import mdOutlineVerticalDistribute_ :: ReactIcon
+foreign import _mdOutlineVerticalDistribute :: ReactIcon
 
 mdOutlineVerticalDistribute :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineVerticalDistribute = element (unsafeCoerce mdOutlineVerticalDistribute_)
+mdOutlineVerticalDistribute = element (unsafeCoerce _mdOutlineVerticalDistribute)
 
-foreign import mdOutlineVerticalSplit_ :: ReactIcon
+foreign import _mdOutlineVerticalSplit :: ReactIcon
 
 mdOutlineVerticalSplit :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineVerticalSplit = element (unsafeCoerce mdOutlineVerticalSplit_)
+mdOutlineVerticalSplit = element (unsafeCoerce _mdOutlineVerticalSplit)
 
-foreign import mdOutlineVibration_ :: ReactIcon
+foreign import _mdOutlineVibration :: ReactIcon
 
 mdOutlineVibration :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineVibration = element (unsafeCoerce mdOutlineVibration_)
+mdOutlineVibration = element (unsafeCoerce _mdOutlineVibration)
 
-foreign import mdOutlineVideoCall_ :: ReactIcon
+foreign import _mdOutlineVideoCall :: ReactIcon
 
 mdOutlineVideoCall :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineVideoCall = element (unsafeCoerce mdOutlineVideoCall_)
+mdOutlineVideoCall = element (unsafeCoerce _mdOutlineVideoCall)
 
-foreign import mdOutlineVideocam_ :: ReactIcon
+foreign import _mdOutlineVideocam :: ReactIcon
 
 mdOutlineVideocam :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineVideocam = element (unsafeCoerce mdOutlineVideocam_)
+mdOutlineVideocam = element (unsafeCoerce _mdOutlineVideocam)
 
-foreign import mdOutlineVideoCameraBack_ :: ReactIcon
+foreign import _mdOutlineVideoCameraBack :: ReactIcon
 
 mdOutlineVideoCameraBack :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineVideoCameraBack = element (unsafeCoerce mdOutlineVideoCameraBack_)
+mdOutlineVideoCameraBack = element (unsafeCoerce _mdOutlineVideoCameraBack)
 
-foreign import mdOutlineVideoCameraFront_ :: ReactIcon
+foreign import _mdOutlineVideoCameraFront :: ReactIcon
 
 mdOutlineVideoCameraFront :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineVideoCameraFront = element (unsafeCoerce mdOutlineVideoCameraFront_)
+mdOutlineVideoCameraFront = element (unsafeCoerce _mdOutlineVideoCameraFront)
 
-foreign import mdOutlineVideocamOff_ :: ReactIcon
+foreign import _mdOutlineVideocamOff :: ReactIcon
 
 mdOutlineVideocamOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineVideocamOff = element (unsafeCoerce mdOutlineVideocamOff_)
+mdOutlineVideocamOff = element (unsafeCoerce _mdOutlineVideocamOff)
 
-foreign import mdOutlineVideogameAsset_ :: ReactIcon
+foreign import _mdOutlineVideogameAsset :: ReactIcon
 
 mdOutlineVideogameAsset :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineVideogameAsset = element (unsafeCoerce mdOutlineVideogameAsset_)
+mdOutlineVideogameAsset = element (unsafeCoerce _mdOutlineVideogameAsset)
 
-foreign import mdOutlineVideogameAssetOff_ :: ReactIcon
+foreign import _mdOutlineVideogameAssetOff :: ReactIcon
 
 mdOutlineVideogameAssetOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineVideogameAssetOff = element (unsafeCoerce mdOutlineVideogameAssetOff_)
+mdOutlineVideogameAssetOff = element (unsafeCoerce _mdOutlineVideogameAssetOff)
 
-foreign import mdOutlineVideoLabel_ :: ReactIcon
+foreign import _mdOutlineVideoLabel :: ReactIcon
 
 mdOutlineVideoLabel :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineVideoLabel = element (unsafeCoerce mdOutlineVideoLabel_)
+mdOutlineVideoLabel = element (unsafeCoerce _mdOutlineVideoLabel)
 
-foreign import mdOutlineVideoLibrary_ :: ReactIcon
+foreign import _mdOutlineVideoLibrary :: ReactIcon
 
 mdOutlineVideoLibrary :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineVideoLibrary = element (unsafeCoerce mdOutlineVideoLibrary_)
+mdOutlineVideoLibrary = element (unsafeCoerce _mdOutlineVideoLibrary)
 
-foreign import mdOutlineVideoSettings_ :: ReactIcon
+foreign import _mdOutlineVideoSettings :: ReactIcon
 
 mdOutlineVideoSettings :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineVideoSettings = element (unsafeCoerce mdOutlineVideoSettings_)
+mdOutlineVideoSettings = element (unsafeCoerce _mdOutlineVideoSettings)
 
-foreign import mdOutlineVideoStable_ :: ReactIcon
+foreign import _mdOutlineVideoStable :: ReactIcon
 
 mdOutlineVideoStable :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineVideoStable = element (unsafeCoerce mdOutlineVideoStable_)
+mdOutlineVideoStable = element (unsafeCoerce _mdOutlineVideoStable)
 
-foreign import mdOutlineViewAgenda_ :: ReactIcon
+foreign import _mdOutlineViewAgenda :: ReactIcon
 
 mdOutlineViewAgenda :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineViewAgenda = element (unsafeCoerce mdOutlineViewAgenda_)
+mdOutlineViewAgenda = element (unsafeCoerce _mdOutlineViewAgenda)
 
-foreign import mdOutlineViewArray_ :: ReactIcon
+foreign import _mdOutlineViewArray :: ReactIcon
 
 mdOutlineViewArray :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineViewArray = element (unsafeCoerce mdOutlineViewArray_)
+mdOutlineViewArray = element (unsafeCoerce _mdOutlineViewArray)
 
-foreign import mdOutlineViewCarousel_ :: ReactIcon
+foreign import _mdOutlineViewCarousel :: ReactIcon
 
 mdOutlineViewCarousel :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineViewCarousel = element (unsafeCoerce mdOutlineViewCarousel_)
+mdOutlineViewCarousel = element (unsafeCoerce _mdOutlineViewCarousel)
 
-foreign import mdOutlineViewColumn_ :: ReactIcon
+foreign import _mdOutlineViewColumn :: ReactIcon
 
 mdOutlineViewColumn :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineViewColumn = element (unsafeCoerce mdOutlineViewColumn_)
+mdOutlineViewColumn = element (unsafeCoerce _mdOutlineViewColumn)
 
-foreign import mdOutlineViewComfy_ :: ReactIcon
+foreign import _mdOutlineViewComfy :: ReactIcon
 
 mdOutlineViewComfy :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineViewComfy = element (unsafeCoerce mdOutlineViewComfy_)
+mdOutlineViewComfy = element (unsafeCoerce _mdOutlineViewComfy)
 
-foreign import mdOutlineViewCompact_ :: ReactIcon
+foreign import _mdOutlineViewCompact :: ReactIcon
 
 mdOutlineViewCompact :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineViewCompact = element (unsafeCoerce mdOutlineViewCompact_)
+mdOutlineViewCompact = element (unsafeCoerce _mdOutlineViewCompact)
 
-foreign import mdOutlineViewDay_ :: ReactIcon
+foreign import _mdOutlineViewDay :: ReactIcon
 
 mdOutlineViewDay :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineViewDay = element (unsafeCoerce mdOutlineViewDay_)
+mdOutlineViewDay = element (unsafeCoerce _mdOutlineViewDay)
 
-foreign import mdOutlineViewHeadline_ :: ReactIcon
+foreign import _mdOutlineViewHeadline :: ReactIcon
 
 mdOutlineViewHeadline :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineViewHeadline = element (unsafeCoerce mdOutlineViewHeadline_)
+mdOutlineViewHeadline = element (unsafeCoerce _mdOutlineViewHeadline)
 
-foreign import mdOutlineViewInAr_ :: ReactIcon
+foreign import _mdOutlineViewInAr :: ReactIcon
 
 mdOutlineViewInAr :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineViewInAr = element (unsafeCoerce mdOutlineViewInAr_)
+mdOutlineViewInAr = element (unsafeCoerce _mdOutlineViewInAr)
 
-foreign import mdOutlineViewList_ :: ReactIcon
+foreign import _mdOutlineViewList :: ReactIcon
 
 mdOutlineViewList :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineViewList = element (unsafeCoerce mdOutlineViewList_)
+mdOutlineViewList = element (unsafeCoerce _mdOutlineViewList)
 
-foreign import mdOutlineViewModule_ :: ReactIcon
+foreign import _mdOutlineViewModule :: ReactIcon
 
 mdOutlineViewModule :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineViewModule = element (unsafeCoerce mdOutlineViewModule_)
+mdOutlineViewModule = element (unsafeCoerce _mdOutlineViewModule)
 
-foreign import mdOutlineViewQuilt_ :: ReactIcon
+foreign import _mdOutlineViewQuilt :: ReactIcon
 
 mdOutlineViewQuilt :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineViewQuilt = element (unsafeCoerce mdOutlineViewQuilt_)
+mdOutlineViewQuilt = element (unsafeCoerce _mdOutlineViewQuilt)
 
-foreign import mdOutlineViewSidebar_ :: ReactIcon
+foreign import _mdOutlineViewSidebar :: ReactIcon
 
 mdOutlineViewSidebar :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineViewSidebar = element (unsafeCoerce mdOutlineViewSidebar_)
+mdOutlineViewSidebar = element (unsafeCoerce _mdOutlineViewSidebar)
 
-foreign import mdOutlineViewStream_ :: ReactIcon
+foreign import _mdOutlineViewStream :: ReactIcon
 
 mdOutlineViewStream :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineViewStream = element (unsafeCoerce mdOutlineViewStream_)
+mdOutlineViewStream = element (unsafeCoerce _mdOutlineViewStream)
 
-foreign import mdOutlineViewWeek_ :: ReactIcon
+foreign import _mdOutlineViewWeek :: ReactIcon
 
 mdOutlineViewWeek :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineViewWeek = element (unsafeCoerce mdOutlineViewWeek_)
+mdOutlineViewWeek = element (unsafeCoerce _mdOutlineViewWeek)
 
-foreign import mdOutlineVignette_ :: ReactIcon
+foreign import _mdOutlineVignette :: ReactIcon
 
 mdOutlineVignette :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineVignette = element (unsafeCoerce mdOutlineVignette_)
+mdOutlineVignette = element (unsafeCoerce _mdOutlineVignette)
 
-foreign import mdOutlineVilla_ :: ReactIcon
+foreign import _mdOutlineVilla :: ReactIcon
 
 mdOutlineVilla :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineVilla = element (unsafeCoerce mdOutlineVilla_)
+mdOutlineVilla = element (unsafeCoerce _mdOutlineVilla)
 
-foreign import mdOutlineVisibility_ :: ReactIcon
+foreign import _mdOutlineVisibility :: ReactIcon
 
 mdOutlineVisibility :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineVisibility = element (unsafeCoerce mdOutlineVisibility_)
+mdOutlineVisibility = element (unsafeCoerce _mdOutlineVisibility)
 
-foreign import mdOutlineVisibilityOff_ :: ReactIcon
+foreign import _mdOutlineVisibilityOff :: ReactIcon
 
 mdOutlineVisibilityOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineVisibilityOff = element (unsafeCoerce mdOutlineVisibilityOff_)
+mdOutlineVisibilityOff = element (unsafeCoerce _mdOutlineVisibilityOff)
 
-foreign import mdOutlineVoiceChat_ :: ReactIcon
+foreign import _mdOutlineVoiceChat :: ReactIcon
 
 mdOutlineVoiceChat :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineVoiceChat = element (unsafeCoerce mdOutlineVoiceChat_)
+mdOutlineVoiceChat = element (unsafeCoerce _mdOutlineVoiceChat)
 
-foreign import mdOutlineVoicemail_ :: ReactIcon
+foreign import _mdOutlineVoicemail :: ReactIcon
 
 mdOutlineVoicemail :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineVoicemail = element (unsafeCoerce mdOutlineVoicemail_)
+mdOutlineVoicemail = element (unsafeCoerce _mdOutlineVoicemail)
 
-foreign import mdOutlineVoiceOverOff_ :: ReactIcon
+foreign import _mdOutlineVoiceOverOff :: ReactIcon
 
 mdOutlineVoiceOverOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineVoiceOverOff = element (unsafeCoerce mdOutlineVoiceOverOff_)
+mdOutlineVoiceOverOff = element (unsafeCoerce _mdOutlineVoiceOverOff)
 
-foreign import mdOutlineVolumeDown_ :: ReactIcon
+foreign import _mdOutlineVolumeDown :: ReactIcon
 
 mdOutlineVolumeDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineVolumeDown = element (unsafeCoerce mdOutlineVolumeDown_)
+mdOutlineVolumeDown = element (unsafeCoerce _mdOutlineVolumeDown)
 
-foreign import mdOutlineVolumeMute_ :: ReactIcon
+foreign import _mdOutlineVolumeMute :: ReactIcon
 
 mdOutlineVolumeMute :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineVolumeMute = element (unsafeCoerce mdOutlineVolumeMute_)
+mdOutlineVolumeMute = element (unsafeCoerce _mdOutlineVolumeMute)
 
-foreign import mdOutlineVolumeOff_ :: ReactIcon
+foreign import _mdOutlineVolumeOff :: ReactIcon
 
 mdOutlineVolumeOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineVolumeOff = element (unsafeCoerce mdOutlineVolumeOff_)
+mdOutlineVolumeOff = element (unsafeCoerce _mdOutlineVolumeOff)
 
-foreign import mdOutlineVolumeUp_ :: ReactIcon
+foreign import _mdOutlineVolumeUp :: ReactIcon
 
 mdOutlineVolumeUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineVolumeUp = element (unsafeCoerce mdOutlineVolumeUp_)
+mdOutlineVolumeUp = element (unsafeCoerce _mdOutlineVolumeUp)
 
-foreign import mdOutlineVolunteerActivism_ :: ReactIcon
+foreign import _mdOutlineVolunteerActivism :: ReactIcon
 
 mdOutlineVolunteerActivism :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineVolunteerActivism = element (unsafeCoerce mdOutlineVolunteerActivism_)
+mdOutlineVolunteerActivism = element (unsafeCoerce _mdOutlineVolunteerActivism)
 
-foreign import mdOutlineVpnKey_ :: ReactIcon
+foreign import _mdOutlineVpnKey :: ReactIcon
 
 mdOutlineVpnKey :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineVpnKey = element (unsafeCoerce mdOutlineVpnKey_)
+mdOutlineVpnKey = element (unsafeCoerce _mdOutlineVpnKey)
 
-foreign import mdOutlineVpnLock_ :: ReactIcon
+foreign import _mdOutlineVpnLock :: ReactIcon
 
 mdOutlineVpnLock :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineVpnLock = element (unsafeCoerce mdOutlineVpnLock_)
+mdOutlineVpnLock = element (unsafeCoerce _mdOutlineVpnLock)
 
-foreign import mdOutlineVrpano_ :: ReactIcon
+foreign import _mdOutlineVrpano :: ReactIcon
 
 mdOutlineVrpano :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineVrpano = element (unsafeCoerce mdOutlineVrpano_)
+mdOutlineVrpano = element (unsafeCoerce _mdOutlineVrpano)
 
-foreign import mdOutlineWallpaper_ :: ReactIcon
+foreign import _mdOutlineWallpaper :: ReactIcon
 
 mdOutlineWallpaper :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineWallpaper = element (unsafeCoerce mdOutlineWallpaper_)
+mdOutlineWallpaper = element (unsafeCoerce _mdOutlineWallpaper)
 
-foreign import mdOutlineWarning_ :: ReactIcon
+foreign import _mdOutlineWarning :: ReactIcon
 
 mdOutlineWarning :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineWarning = element (unsafeCoerce mdOutlineWarning_)
+mdOutlineWarning = element (unsafeCoerce _mdOutlineWarning)
 
-foreign import mdOutlineWarningAmber_ :: ReactIcon
+foreign import _mdOutlineWarningAmber :: ReactIcon
 
 mdOutlineWarningAmber :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineWarningAmber = element (unsafeCoerce mdOutlineWarningAmber_)
+mdOutlineWarningAmber = element (unsafeCoerce _mdOutlineWarningAmber)
 
-foreign import mdOutlineWash_ :: ReactIcon
+foreign import _mdOutlineWash :: ReactIcon
 
 mdOutlineWash :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineWash = element (unsafeCoerce mdOutlineWash_)
+mdOutlineWash = element (unsafeCoerce _mdOutlineWash)
 
-foreign import mdOutlineWatch_ :: ReactIcon
+foreign import _mdOutlineWatch :: ReactIcon
 
 mdOutlineWatch :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineWatch = element (unsafeCoerce mdOutlineWatch_)
+mdOutlineWatch = element (unsafeCoerce _mdOutlineWatch)
 
-foreign import mdOutlineWatchLater_ :: ReactIcon
+foreign import _mdOutlineWatchLater :: ReactIcon
 
 mdOutlineWatchLater :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineWatchLater = element (unsafeCoerce mdOutlineWatchLater_)
+mdOutlineWatchLater = element (unsafeCoerce _mdOutlineWatchLater)
 
-foreign import mdOutlineWater_ :: ReactIcon
+foreign import _mdOutlineWater :: ReactIcon
 
 mdOutlineWater :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineWater = element (unsafeCoerce mdOutlineWater_)
+mdOutlineWater = element (unsafeCoerce _mdOutlineWater)
 
-foreign import mdOutlineWaterDamage_ :: ReactIcon
+foreign import _mdOutlineWaterDamage :: ReactIcon
 
 mdOutlineWaterDamage :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineWaterDamage = element (unsafeCoerce mdOutlineWaterDamage_)
+mdOutlineWaterDamage = element (unsafeCoerce _mdOutlineWaterDamage)
 
-foreign import mdOutlineWaterDrop_ :: ReactIcon
+foreign import _mdOutlineWaterDrop :: ReactIcon
 
 mdOutlineWaterDrop :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineWaterDrop = element (unsafeCoerce mdOutlineWaterDrop_)
+mdOutlineWaterDrop = element (unsafeCoerce _mdOutlineWaterDrop)
 
-foreign import mdOutlineWaterfallChart_ :: ReactIcon
+foreign import _mdOutlineWaterfallChart :: ReactIcon
 
 mdOutlineWaterfallChart :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineWaterfallChart = element (unsafeCoerce mdOutlineWaterfallChart_)
+mdOutlineWaterfallChart = element (unsafeCoerce _mdOutlineWaterfallChart)
 
-foreign import mdOutlineWaves_ :: ReactIcon
+foreign import _mdOutlineWaves :: ReactIcon
 
 mdOutlineWaves :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineWaves = element (unsafeCoerce mdOutlineWaves_)
+mdOutlineWaves = element (unsafeCoerce _mdOutlineWaves)
 
-foreign import mdOutlineWavingHand_ :: ReactIcon
+foreign import _mdOutlineWavingHand :: ReactIcon
 
 mdOutlineWavingHand :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineWavingHand = element (unsafeCoerce mdOutlineWavingHand_)
+mdOutlineWavingHand = element (unsafeCoerce _mdOutlineWavingHand)
 
-foreign import mdOutlineWbAuto_ :: ReactIcon
+foreign import _mdOutlineWbAuto :: ReactIcon
 
 mdOutlineWbAuto :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineWbAuto = element (unsafeCoerce mdOutlineWbAuto_)
+mdOutlineWbAuto = element (unsafeCoerce _mdOutlineWbAuto)
 
-foreign import mdOutlineWbCloudy_ :: ReactIcon
+foreign import _mdOutlineWbCloudy :: ReactIcon
 
 mdOutlineWbCloudy :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineWbCloudy = element (unsafeCoerce mdOutlineWbCloudy_)
+mdOutlineWbCloudy = element (unsafeCoerce _mdOutlineWbCloudy)
 
-foreign import mdOutlineWbIncandescent_ :: ReactIcon
+foreign import _mdOutlineWbIncandescent :: ReactIcon
 
 mdOutlineWbIncandescent :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineWbIncandescent = element (unsafeCoerce mdOutlineWbIncandescent_)
+mdOutlineWbIncandescent = element (unsafeCoerce _mdOutlineWbIncandescent)
 
-foreign import mdOutlineWbIridescent_ :: ReactIcon
+foreign import _mdOutlineWbIridescent :: ReactIcon
 
 mdOutlineWbIridescent :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineWbIridescent = element (unsafeCoerce mdOutlineWbIridescent_)
+mdOutlineWbIridescent = element (unsafeCoerce _mdOutlineWbIridescent)
 
-foreign import mdOutlineWbShade_ :: ReactIcon
+foreign import _mdOutlineWbShade :: ReactIcon
 
 mdOutlineWbShade :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineWbShade = element (unsafeCoerce mdOutlineWbShade_)
+mdOutlineWbShade = element (unsafeCoerce _mdOutlineWbShade)
 
-foreign import mdOutlineWbSunny_ :: ReactIcon
+foreign import _mdOutlineWbSunny :: ReactIcon
 
 mdOutlineWbSunny :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineWbSunny = element (unsafeCoerce mdOutlineWbSunny_)
+mdOutlineWbSunny = element (unsafeCoerce _mdOutlineWbSunny)
 
-foreign import mdOutlineWbTwilight_ :: ReactIcon
+foreign import _mdOutlineWbTwilight :: ReactIcon
 
 mdOutlineWbTwilight :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineWbTwilight = element (unsafeCoerce mdOutlineWbTwilight_)
+mdOutlineWbTwilight = element (unsafeCoerce _mdOutlineWbTwilight)
 
-foreign import mdOutlineWc_ :: ReactIcon
+foreign import _mdOutlineWc :: ReactIcon
 
 mdOutlineWc :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineWc = element (unsafeCoerce mdOutlineWc_)
+mdOutlineWc = element (unsafeCoerce _mdOutlineWc)
 
-foreign import mdOutlineWeb_ :: ReactIcon
+foreign import _mdOutlineWeb :: ReactIcon
 
 mdOutlineWeb :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineWeb = element (unsafeCoerce mdOutlineWeb_)
+mdOutlineWeb = element (unsafeCoerce _mdOutlineWeb)
 
-foreign import mdOutlineWebAsset_ :: ReactIcon
+foreign import _mdOutlineWebAsset :: ReactIcon
 
 mdOutlineWebAsset :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineWebAsset = element (unsafeCoerce mdOutlineWebAsset_)
+mdOutlineWebAsset = element (unsafeCoerce _mdOutlineWebAsset)
 
-foreign import mdOutlineWebAssetOff_ :: ReactIcon
+foreign import _mdOutlineWebAssetOff :: ReactIcon
 
 mdOutlineWebAssetOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineWebAssetOff = element (unsafeCoerce mdOutlineWebAssetOff_)
+mdOutlineWebAssetOff = element (unsafeCoerce _mdOutlineWebAssetOff)
 
-foreign import mdOutlineWeekend_ :: ReactIcon
+foreign import _mdOutlineWeekend :: ReactIcon
 
 mdOutlineWeekend :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineWeekend = element (unsafeCoerce mdOutlineWeekend_)
+mdOutlineWeekend = element (unsafeCoerce _mdOutlineWeekend)
 
-foreign import mdOutlineWest_ :: ReactIcon
+foreign import _mdOutlineWest :: ReactIcon
 
 mdOutlineWest :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineWest = element (unsafeCoerce mdOutlineWest_)
+mdOutlineWest = element (unsafeCoerce _mdOutlineWest)
 
-foreign import mdOutlineWhatshot_ :: ReactIcon
+foreign import _mdOutlineWhatshot :: ReactIcon
 
 mdOutlineWhatshot :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineWhatshot = element (unsafeCoerce mdOutlineWhatshot_)
+mdOutlineWhatshot = element (unsafeCoerce _mdOutlineWhatshot)
 
-foreign import mdOutlineWheelchairPickup_ :: ReactIcon
+foreign import _mdOutlineWheelchairPickup :: ReactIcon
 
 mdOutlineWheelchairPickup :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineWheelchairPickup = element (unsafeCoerce mdOutlineWheelchairPickup_)
+mdOutlineWheelchairPickup = element (unsafeCoerce _mdOutlineWheelchairPickup)
 
-foreign import mdOutlineWhereToVote_ :: ReactIcon
+foreign import _mdOutlineWhereToVote :: ReactIcon
 
 mdOutlineWhereToVote :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineWhereToVote = element (unsafeCoerce mdOutlineWhereToVote_)
+mdOutlineWhereToVote = element (unsafeCoerce _mdOutlineWhereToVote)
 
-foreign import mdOutlineWidgets_ :: ReactIcon
+foreign import _mdOutlineWidgets :: ReactIcon
 
 mdOutlineWidgets :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineWidgets = element (unsafeCoerce mdOutlineWidgets_)
+mdOutlineWidgets = element (unsafeCoerce _mdOutlineWidgets)
 
-foreign import mdOutlineWifi_ :: ReactIcon
+foreign import _mdOutlineWifi :: ReactIcon
 
 mdOutlineWifi :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineWifi = element (unsafeCoerce mdOutlineWifi_)
+mdOutlineWifi = element (unsafeCoerce _mdOutlineWifi)
 
-foreign import mdOutlineWifiCalling_ :: ReactIcon
+foreign import _mdOutlineWifiCalling :: ReactIcon
 
 mdOutlineWifiCalling :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineWifiCalling = element (unsafeCoerce mdOutlineWifiCalling_)
+mdOutlineWifiCalling = element (unsafeCoerce _mdOutlineWifiCalling)
 
-foreign import mdOutlineWifiLock_ :: ReactIcon
+foreign import _mdOutlineWifiLock :: ReactIcon
 
 mdOutlineWifiLock :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineWifiLock = element (unsafeCoerce mdOutlineWifiLock_)
+mdOutlineWifiLock = element (unsafeCoerce _mdOutlineWifiLock)
 
-foreign import mdOutlineWifiOff_ :: ReactIcon
+foreign import _mdOutlineWifiOff :: ReactIcon
 
 mdOutlineWifiOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineWifiOff = element (unsafeCoerce mdOutlineWifiOff_)
+mdOutlineWifiOff = element (unsafeCoerce _mdOutlineWifiOff)
 
-foreign import mdOutlineWifiProtectedSetup_ :: ReactIcon
+foreign import _mdOutlineWifiProtectedSetup :: ReactIcon
 
 mdOutlineWifiProtectedSetup :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineWifiProtectedSetup = element (unsafeCoerce mdOutlineWifiProtectedSetup_)
+mdOutlineWifiProtectedSetup = element (unsafeCoerce _mdOutlineWifiProtectedSetup)
 
-foreign import mdOutlineWifiTethering_ :: ReactIcon
+foreign import _mdOutlineWifiTethering :: ReactIcon
 
 mdOutlineWifiTethering :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineWifiTethering = element (unsafeCoerce mdOutlineWifiTethering_)
+mdOutlineWifiTethering = element (unsafeCoerce _mdOutlineWifiTethering)
 
-foreign import mdOutlineWifiTetheringErrorRounded_ :: ReactIcon
+foreign import _mdOutlineWifiTetheringErrorRounded :: ReactIcon
 
 mdOutlineWifiTetheringErrorRounded :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineWifiTetheringErrorRounded = element (unsafeCoerce mdOutlineWifiTetheringErrorRounded_)
+mdOutlineWifiTetheringErrorRounded = element (unsafeCoerce _mdOutlineWifiTetheringErrorRounded)
 
-foreign import mdOutlineWifiTetheringOff_ :: ReactIcon
+foreign import _mdOutlineWifiTetheringOff :: ReactIcon
 
 mdOutlineWifiTetheringOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineWifiTetheringOff = element (unsafeCoerce mdOutlineWifiTetheringOff_)
+mdOutlineWifiTetheringOff = element (unsafeCoerce _mdOutlineWifiTetheringOff)
 
-foreign import mdOutlineWindow_ :: ReactIcon
+foreign import _mdOutlineWindow :: ReactIcon
 
 mdOutlineWindow :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineWindow = element (unsafeCoerce mdOutlineWindow_)
+mdOutlineWindow = element (unsafeCoerce _mdOutlineWindow)
 
-foreign import mdOutlineWineBar_ :: ReactIcon
+foreign import _mdOutlineWineBar :: ReactIcon
 
 mdOutlineWineBar :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineWineBar = element (unsafeCoerce mdOutlineWineBar_)
+mdOutlineWineBar = element (unsafeCoerce _mdOutlineWineBar)
 
-foreign import mdOutlineWork_ :: ReactIcon
+foreign import _mdOutlineWork :: ReactIcon
 
 mdOutlineWork :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineWork = element (unsafeCoerce mdOutlineWork_)
+mdOutlineWork = element (unsafeCoerce _mdOutlineWork)
 
-foreign import mdOutlineWorkOff_ :: ReactIcon
+foreign import _mdOutlineWorkOff :: ReactIcon
 
 mdOutlineWorkOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineWorkOff = element (unsafeCoerce mdOutlineWorkOff_)
+mdOutlineWorkOff = element (unsafeCoerce _mdOutlineWorkOff)
 
-foreign import mdOutlineWorkOutline_ :: ReactIcon
+foreign import _mdOutlineWorkOutline :: ReactIcon
 
 mdOutlineWorkOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineWorkOutline = element (unsafeCoerce mdOutlineWorkOutline_)
+mdOutlineWorkOutline = element (unsafeCoerce _mdOutlineWorkOutline)
 
-foreign import mdOutlineWorkspaces_ :: ReactIcon
+foreign import _mdOutlineWorkspaces :: ReactIcon
 
 mdOutlineWorkspaces :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineWorkspaces = element (unsafeCoerce mdOutlineWorkspaces_)
+mdOutlineWorkspaces = element (unsafeCoerce _mdOutlineWorkspaces)
 
-foreign import mdOutlineWrapText_ :: ReactIcon
+foreign import _mdOutlineWrapText :: ReactIcon
 
 mdOutlineWrapText :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineWrapText = element (unsafeCoerce mdOutlineWrapText_)
+mdOutlineWrapText = element (unsafeCoerce _mdOutlineWrapText)
 
-foreign import mdOutlineWrongLocation_ :: ReactIcon
+foreign import _mdOutlineWrongLocation :: ReactIcon
 
 mdOutlineWrongLocation :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineWrongLocation = element (unsafeCoerce mdOutlineWrongLocation_)
+mdOutlineWrongLocation = element (unsafeCoerce _mdOutlineWrongLocation)
 
-foreign import mdOutlineWysiwyg_ :: ReactIcon
+foreign import _mdOutlineWysiwyg :: ReactIcon
 
 mdOutlineWysiwyg :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineWysiwyg = element (unsafeCoerce mdOutlineWysiwyg_)
+mdOutlineWysiwyg = element (unsafeCoerce _mdOutlineWysiwyg)
 
-foreign import mdOutlineYard_ :: ReactIcon
+foreign import _mdOutlineYard :: ReactIcon
 
 mdOutlineYard :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineYard = element (unsafeCoerce mdOutlineYard_)
+mdOutlineYard = element (unsafeCoerce _mdOutlineYard)
 
-foreign import mdOutlineYoutubeSearchedFor_ :: ReactIcon
+foreign import _mdOutlineYoutubeSearchedFor :: ReactIcon
 
 mdOutlineYoutubeSearchedFor :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineYoutubeSearchedFor = element (unsafeCoerce mdOutlineYoutubeSearchedFor_)
+mdOutlineYoutubeSearchedFor = element (unsafeCoerce _mdOutlineYoutubeSearchedFor)
 
-foreign import mdOutlineZoomIn_ :: ReactIcon
+foreign import _mdOutlineZoomIn :: ReactIcon
 
 mdOutlineZoomIn :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineZoomIn = element (unsafeCoerce mdOutlineZoomIn_)
+mdOutlineZoomIn = element (unsafeCoerce _mdOutlineZoomIn)
 
-foreign import mdOutlineZoomOut_ :: ReactIcon
+foreign import _mdOutlineZoomOut :: ReactIcon
 
 mdOutlineZoomOut :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineZoomOut = element (unsafeCoerce mdOutlineZoomOut_)
+mdOutlineZoomOut = element (unsafeCoerce _mdOutlineZoomOut)
 
-foreign import mdOutlineZoomOutMap_ :: ReactIcon
+foreign import _mdOutlineZoomOutMap :: ReactIcon
 
 mdOutlineZoomOutMap :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdOutlineZoomOutMap = element (unsafeCoerce mdOutlineZoomOutMap_)
+mdOutlineZoomOutMap = element (unsafeCoerce _mdOutlineZoomOutMap)
 
-foreign import mdPadding_ :: ReactIcon
+foreign import _mdPadding :: ReactIcon
 
 mdPadding :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPadding = element (unsafeCoerce mdPadding_)
+mdPadding = element (unsafeCoerce _mdPadding)
 
-foreign import mdPages_ :: ReactIcon
+foreign import _mdPages :: ReactIcon
 
 mdPages :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPages = element (unsafeCoerce mdPages_)
+mdPages = element (unsafeCoerce _mdPages)
 
-foreign import mdPageview_ :: ReactIcon
+foreign import _mdPageview :: ReactIcon
 
 mdPageview :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPageview = element (unsafeCoerce mdPageview_)
+mdPageview = element (unsafeCoerce _mdPageview)
 
-foreign import mdPaid_ :: ReactIcon
+foreign import _mdPaid :: ReactIcon
 
 mdPaid :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPaid = element (unsafeCoerce mdPaid_)
+mdPaid = element (unsafeCoerce _mdPaid)
 
-foreign import mdPalette_ :: ReactIcon
+foreign import _mdPalette :: ReactIcon
 
 mdPalette :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPalette = element (unsafeCoerce mdPalette_)
+mdPalette = element (unsafeCoerce _mdPalette)
 
-foreign import mdPanorama_ :: ReactIcon
+foreign import _mdPanorama :: ReactIcon
 
 mdPanorama :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPanorama = element (unsafeCoerce mdPanorama_)
+mdPanorama = element (unsafeCoerce _mdPanorama)
 
-foreign import mdPanoramaFishEye_ :: ReactIcon
+foreign import _mdPanoramaFishEye :: ReactIcon
 
 mdPanoramaFishEye :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPanoramaFishEye = element (unsafeCoerce mdPanoramaFishEye_)
+mdPanoramaFishEye = element (unsafeCoerce _mdPanoramaFishEye)
 
-foreign import mdPanoramaHorizontal_ :: ReactIcon
+foreign import _mdPanoramaHorizontal :: ReactIcon
 
 mdPanoramaHorizontal :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPanoramaHorizontal = element (unsafeCoerce mdPanoramaHorizontal_)
+mdPanoramaHorizontal = element (unsafeCoerce _mdPanoramaHorizontal)
 
-foreign import mdPanoramaHorizontalSelect_ :: ReactIcon
+foreign import _mdPanoramaHorizontalSelect :: ReactIcon
 
 mdPanoramaHorizontalSelect :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPanoramaHorizontalSelect = element (unsafeCoerce mdPanoramaHorizontalSelect_)
+mdPanoramaHorizontalSelect = element (unsafeCoerce _mdPanoramaHorizontalSelect)
 
-foreign import mdPanoramaPhotosphere_ :: ReactIcon
+foreign import _mdPanoramaPhotosphere :: ReactIcon
 
 mdPanoramaPhotosphere :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPanoramaPhotosphere = element (unsafeCoerce mdPanoramaPhotosphere_)
+mdPanoramaPhotosphere = element (unsafeCoerce _mdPanoramaPhotosphere)
 
-foreign import mdPanoramaPhotosphereSelect_ :: ReactIcon
+foreign import _mdPanoramaPhotosphereSelect :: ReactIcon
 
 mdPanoramaPhotosphereSelect :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPanoramaPhotosphereSelect = element (unsafeCoerce mdPanoramaPhotosphereSelect_)
+mdPanoramaPhotosphereSelect = element (unsafeCoerce _mdPanoramaPhotosphereSelect)
 
-foreign import mdPanoramaVertical_ :: ReactIcon
+foreign import _mdPanoramaVertical :: ReactIcon
 
 mdPanoramaVertical :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPanoramaVertical = element (unsafeCoerce mdPanoramaVertical_)
+mdPanoramaVertical = element (unsafeCoerce _mdPanoramaVertical)
 
-foreign import mdPanoramaVerticalSelect_ :: ReactIcon
+foreign import _mdPanoramaVerticalSelect :: ReactIcon
 
 mdPanoramaVerticalSelect :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPanoramaVerticalSelect = element (unsafeCoerce mdPanoramaVerticalSelect_)
+mdPanoramaVerticalSelect = element (unsafeCoerce _mdPanoramaVerticalSelect)
 
-foreign import mdPanoramaWideAngle_ :: ReactIcon
+foreign import _mdPanoramaWideAngle :: ReactIcon
 
 mdPanoramaWideAngle :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPanoramaWideAngle = element (unsafeCoerce mdPanoramaWideAngle_)
+mdPanoramaWideAngle = element (unsafeCoerce _mdPanoramaWideAngle)
 
-foreign import mdPanoramaWideAngleSelect_ :: ReactIcon
+foreign import _mdPanoramaWideAngleSelect :: ReactIcon
 
 mdPanoramaWideAngleSelect :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPanoramaWideAngleSelect = element (unsafeCoerce mdPanoramaWideAngleSelect_)
+mdPanoramaWideAngleSelect = element (unsafeCoerce _mdPanoramaWideAngleSelect)
 
-foreign import mdPanTool_ :: ReactIcon
+foreign import _mdPanTool :: ReactIcon
 
 mdPanTool :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPanTool = element (unsafeCoerce mdPanTool_)
+mdPanTool = element (unsafeCoerce _mdPanTool)
 
-foreign import mdParagliding_ :: ReactIcon
+foreign import _mdParagliding :: ReactIcon
 
 mdParagliding :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdParagliding = element (unsafeCoerce mdParagliding_)
+mdParagliding = element (unsafeCoerce _mdParagliding)
 
-foreign import mdPark_ :: ReactIcon
+foreign import _mdPark :: ReactIcon
 
 mdPark :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPark = element (unsafeCoerce mdPark_)
+mdPark = element (unsafeCoerce _mdPark)
 
-foreign import mdPartyMode_ :: ReactIcon
+foreign import _mdPartyMode :: ReactIcon
 
 mdPartyMode :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPartyMode = element (unsafeCoerce mdPartyMode_)
+mdPartyMode = element (unsafeCoerce _mdPartyMode)
 
-foreign import mdPassword_ :: ReactIcon
+foreign import _mdPassword :: ReactIcon
 
 mdPassword :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPassword = element (unsafeCoerce mdPassword_)
+mdPassword = element (unsafeCoerce _mdPassword)
 
-foreign import mdPattern_ :: ReactIcon
+foreign import _mdPattern :: ReactIcon
 
 mdPattern :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPattern = element (unsafeCoerce mdPattern_)
+mdPattern = element (unsafeCoerce _mdPattern)
 
-foreign import mdPause_ :: ReactIcon
+foreign import _mdPause :: ReactIcon
 
 mdPause :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPause = element (unsafeCoerce mdPause_)
+mdPause = element (unsafeCoerce _mdPause)
 
-foreign import mdPauseCircle_ :: ReactIcon
+foreign import _mdPauseCircle :: ReactIcon
 
 mdPauseCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPauseCircle = element (unsafeCoerce mdPauseCircle_)
+mdPauseCircle = element (unsafeCoerce _mdPauseCircle)
 
-foreign import mdPauseCircleFilled_ :: ReactIcon
+foreign import _mdPauseCircleFilled :: ReactIcon
 
 mdPauseCircleFilled :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPauseCircleFilled = element (unsafeCoerce mdPauseCircleFilled_)
+mdPauseCircleFilled = element (unsafeCoerce _mdPauseCircleFilled)
 
-foreign import mdPauseCircleOutline_ :: ReactIcon
+foreign import _mdPauseCircleOutline :: ReactIcon
 
 mdPauseCircleOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPauseCircleOutline = element (unsafeCoerce mdPauseCircleOutline_)
+mdPauseCircleOutline = element (unsafeCoerce _mdPauseCircleOutline)
 
-foreign import mdPausePresentation_ :: ReactIcon
+foreign import _mdPausePresentation :: ReactIcon
 
 mdPausePresentation :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPausePresentation = element (unsafeCoerce mdPausePresentation_)
+mdPausePresentation = element (unsafeCoerce _mdPausePresentation)
 
-foreign import mdPayment_ :: ReactIcon
+foreign import _mdPayment :: ReactIcon
 
 mdPayment :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPayment = element (unsafeCoerce mdPayment_)
+mdPayment = element (unsafeCoerce _mdPayment)
 
-foreign import mdPayments_ :: ReactIcon
+foreign import _mdPayments :: ReactIcon
 
 mdPayments :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPayments = element (unsafeCoerce mdPayments_)
+mdPayments = element (unsafeCoerce _mdPayments)
 
-foreign import mdPedalBike_ :: ReactIcon
+foreign import _mdPedalBike :: ReactIcon
 
 mdPedalBike :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPedalBike = element (unsafeCoerce mdPedalBike_)
+mdPedalBike = element (unsafeCoerce _mdPedalBike)
 
-foreign import mdPending_ :: ReactIcon
+foreign import _mdPending :: ReactIcon
 
 mdPending :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPending = element (unsafeCoerce mdPending_)
+mdPending = element (unsafeCoerce _mdPending)
 
-foreign import mdPendingActions_ :: ReactIcon
+foreign import _mdPendingActions :: ReactIcon
 
 mdPendingActions :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPendingActions = element (unsafeCoerce mdPendingActions_)
+mdPendingActions = element (unsafeCoerce _mdPendingActions)
 
-foreign import mdPeople_ :: ReactIcon
+foreign import _mdPeople :: ReactIcon
 
 mdPeople :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPeople = element (unsafeCoerce mdPeople_)
+mdPeople = element (unsafeCoerce _mdPeople)
 
-foreign import mdPeopleAlt_ :: ReactIcon
+foreign import _mdPeopleAlt :: ReactIcon
 
 mdPeopleAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPeopleAlt = element (unsafeCoerce mdPeopleAlt_)
+mdPeopleAlt = element (unsafeCoerce _mdPeopleAlt)
 
-foreign import mdPeopleOutline_ :: ReactIcon
+foreign import _mdPeopleOutline :: ReactIcon
 
 mdPeopleOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPeopleOutline = element (unsafeCoerce mdPeopleOutline_)
+mdPeopleOutline = element (unsafeCoerce _mdPeopleOutline)
 
-foreign import mdPermCameraMic_ :: ReactIcon
+foreign import _mdPermCameraMic :: ReactIcon
 
 mdPermCameraMic :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPermCameraMic = element (unsafeCoerce mdPermCameraMic_)
+mdPermCameraMic = element (unsafeCoerce _mdPermCameraMic)
 
-foreign import mdPermContactCalendar_ :: ReactIcon
+foreign import _mdPermContactCalendar :: ReactIcon
 
 mdPermContactCalendar :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPermContactCalendar = element (unsafeCoerce mdPermContactCalendar_)
+mdPermContactCalendar = element (unsafeCoerce _mdPermContactCalendar)
 
-foreign import mdPermDataSetting_ :: ReactIcon
+foreign import _mdPermDataSetting :: ReactIcon
 
 mdPermDataSetting :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPermDataSetting = element (unsafeCoerce mdPermDataSetting_)
+mdPermDataSetting = element (unsafeCoerce _mdPermDataSetting)
 
-foreign import mdPermDeviceInformation_ :: ReactIcon
+foreign import _mdPermDeviceInformation :: ReactIcon
 
 mdPermDeviceInformation :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPermDeviceInformation = element (unsafeCoerce mdPermDeviceInformation_)
+mdPermDeviceInformation = element (unsafeCoerce _mdPermDeviceInformation)
 
-foreign import mdPermIdentity_ :: ReactIcon
+foreign import _mdPermIdentity :: ReactIcon
 
 mdPermIdentity :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPermIdentity = element (unsafeCoerce mdPermIdentity_)
+mdPermIdentity = element (unsafeCoerce _mdPermIdentity)
 
-foreign import mdPermMedia_ :: ReactIcon
+foreign import _mdPermMedia :: ReactIcon
 
 mdPermMedia :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPermMedia = element (unsafeCoerce mdPermMedia_)
+mdPermMedia = element (unsafeCoerce _mdPermMedia)
 
-foreign import mdPermPhoneMsg_ :: ReactIcon
+foreign import _mdPermPhoneMsg :: ReactIcon
 
 mdPermPhoneMsg :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPermPhoneMsg = element (unsafeCoerce mdPermPhoneMsg_)
+mdPermPhoneMsg = element (unsafeCoerce _mdPermPhoneMsg)
 
-foreign import mdPermScanWifi_ :: ReactIcon
+foreign import _mdPermScanWifi :: ReactIcon
 
 mdPermScanWifi :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPermScanWifi = element (unsafeCoerce mdPermScanWifi_)
+mdPermScanWifi = element (unsafeCoerce _mdPermScanWifi)
 
-foreign import mdPerson_ :: ReactIcon
+foreign import _mdPerson :: ReactIcon
 
 mdPerson :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPerson = element (unsafeCoerce mdPerson_)
+mdPerson = element (unsafeCoerce _mdPerson)
 
-foreign import mdPersonAdd_ :: ReactIcon
+foreign import _mdPersonAdd :: ReactIcon
 
 mdPersonAdd :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPersonAdd = element (unsafeCoerce mdPersonAdd_)
+mdPersonAdd = element (unsafeCoerce _mdPersonAdd)
 
-foreign import mdPersonAddAlt_ :: ReactIcon
+foreign import _mdPersonAddAlt :: ReactIcon
 
 mdPersonAddAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPersonAddAlt = element (unsafeCoerce mdPersonAddAlt_)
+mdPersonAddAlt = element (unsafeCoerce _mdPersonAddAlt)
 
-foreign import mdPersonAddDisabled_ :: ReactIcon
+foreign import _mdPersonAddDisabled :: ReactIcon
 
 mdPersonAddDisabled :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPersonAddDisabled = element (unsafeCoerce mdPersonAddDisabled_)
+mdPersonAddDisabled = element (unsafeCoerce _mdPersonAddDisabled)
 
-foreign import mdPersonalInjury_ :: ReactIcon
+foreign import _mdPersonalInjury :: ReactIcon
 
 mdPersonalInjury :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPersonalInjury = element (unsafeCoerce mdPersonalInjury_)
+mdPersonalInjury = element (unsafeCoerce _mdPersonalInjury)
 
-foreign import mdPersonalVideo_ :: ReactIcon
+foreign import _mdPersonalVideo :: ReactIcon
 
 mdPersonalVideo :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPersonalVideo = element (unsafeCoerce mdPersonalVideo_)
+mdPersonalVideo = element (unsafeCoerce _mdPersonalVideo)
 
-foreign import mdPersonOff_ :: ReactIcon
+foreign import _mdPersonOff :: ReactIcon
 
 mdPersonOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPersonOff = element (unsafeCoerce mdPersonOff_)
+mdPersonOff = element (unsafeCoerce _mdPersonOff)
 
-foreign import mdPersonOutline_ :: ReactIcon
+foreign import _mdPersonOutline :: ReactIcon
 
 mdPersonOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPersonOutline = element (unsafeCoerce mdPersonOutline_)
+mdPersonOutline = element (unsafeCoerce _mdPersonOutline)
 
-foreign import mdPersonPin_ :: ReactIcon
+foreign import _mdPersonPin :: ReactIcon
 
 mdPersonPin :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPersonPin = element (unsafeCoerce mdPersonPin_)
+mdPersonPin = element (unsafeCoerce _mdPersonPin)
 
-foreign import mdPersonPinCircle_ :: ReactIcon
+foreign import _mdPersonPinCircle :: ReactIcon
 
 mdPersonPinCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPersonPinCircle = element (unsafeCoerce mdPersonPinCircle_)
+mdPersonPinCircle = element (unsafeCoerce _mdPersonPinCircle)
 
-foreign import mdPersonRemove_ :: ReactIcon
+foreign import _mdPersonRemove :: ReactIcon
 
 mdPersonRemove :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPersonRemove = element (unsafeCoerce mdPersonRemove_)
+mdPersonRemove = element (unsafeCoerce _mdPersonRemove)
 
-foreign import mdPersonSearch_ :: ReactIcon
+foreign import _mdPersonSearch :: ReactIcon
 
 mdPersonSearch :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPersonSearch = element (unsafeCoerce mdPersonSearch_)
+mdPersonSearch = element (unsafeCoerce _mdPersonSearch)
 
-foreign import mdPestControl_ :: ReactIcon
+foreign import _mdPestControl :: ReactIcon
 
 mdPestControl :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPestControl = element (unsafeCoerce mdPestControl_)
+mdPestControl = element (unsafeCoerce _mdPestControl)
 
-foreign import mdPestControlRodent_ :: ReactIcon
+foreign import _mdPestControlRodent :: ReactIcon
 
 mdPestControlRodent :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPestControlRodent = element (unsafeCoerce mdPestControlRodent_)
+mdPestControlRodent = element (unsafeCoerce _mdPestControlRodent)
 
-foreign import mdPets_ :: ReactIcon
+foreign import _mdPets :: ReactIcon
 
 mdPets :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPets = element (unsafeCoerce mdPets_)
+mdPets = element (unsafeCoerce _mdPets)
 
-foreign import mdPhone_ :: ReactIcon
+foreign import _mdPhone :: ReactIcon
 
 mdPhone :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPhone = element (unsafeCoerce mdPhone_)
+mdPhone = element (unsafeCoerce _mdPhone)
 
-foreign import mdPhoneAndroid_ :: ReactIcon
+foreign import _mdPhoneAndroid :: ReactIcon
 
 mdPhoneAndroid :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPhoneAndroid = element (unsafeCoerce mdPhoneAndroid_)
+mdPhoneAndroid = element (unsafeCoerce _mdPhoneAndroid)
 
-foreign import mdPhoneBluetoothSpeaker_ :: ReactIcon
+foreign import _mdPhoneBluetoothSpeaker :: ReactIcon
 
 mdPhoneBluetoothSpeaker :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPhoneBluetoothSpeaker = element (unsafeCoerce mdPhoneBluetoothSpeaker_)
+mdPhoneBluetoothSpeaker = element (unsafeCoerce _mdPhoneBluetoothSpeaker)
 
-foreign import mdPhoneCallback_ :: ReactIcon
+foreign import _mdPhoneCallback :: ReactIcon
 
 mdPhoneCallback :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPhoneCallback = element (unsafeCoerce mdPhoneCallback_)
+mdPhoneCallback = element (unsafeCoerce _mdPhoneCallback)
 
-foreign import mdPhoneDisabled_ :: ReactIcon
+foreign import _mdPhoneDisabled :: ReactIcon
 
 mdPhoneDisabled :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPhoneDisabled = element (unsafeCoerce mdPhoneDisabled_)
+mdPhoneDisabled = element (unsafeCoerce _mdPhoneDisabled)
 
-foreign import mdPhoneEnabled_ :: ReactIcon
+foreign import _mdPhoneEnabled :: ReactIcon
 
 mdPhoneEnabled :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPhoneEnabled = element (unsafeCoerce mdPhoneEnabled_)
+mdPhoneEnabled = element (unsafeCoerce _mdPhoneEnabled)
 
-foreign import mdPhoneForwarded_ :: ReactIcon
+foreign import _mdPhoneForwarded :: ReactIcon
 
 mdPhoneForwarded :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPhoneForwarded = element (unsafeCoerce mdPhoneForwarded_)
+mdPhoneForwarded = element (unsafeCoerce _mdPhoneForwarded)
 
-foreign import mdPhoneInTalk_ :: ReactIcon
+foreign import _mdPhoneInTalk :: ReactIcon
 
 mdPhoneInTalk :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPhoneInTalk = element (unsafeCoerce mdPhoneInTalk_)
+mdPhoneInTalk = element (unsafeCoerce _mdPhoneInTalk)
 
-foreign import mdPhoneIphone_ :: ReactIcon
+foreign import _mdPhoneIphone :: ReactIcon
 
 mdPhoneIphone :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPhoneIphone = element (unsafeCoerce mdPhoneIphone_)
+mdPhoneIphone = element (unsafeCoerce _mdPhoneIphone)
 
-foreign import mdPhonelink_ :: ReactIcon
+foreign import _mdPhonelink :: ReactIcon
 
 mdPhonelink :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPhonelink = element (unsafeCoerce mdPhonelink_)
+mdPhonelink = element (unsafeCoerce _mdPhonelink)
 
-foreign import mdPhonelinkErase_ :: ReactIcon
+foreign import _mdPhonelinkErase :: ReactIcon
 
 mdPhonelinkErase :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPhonelinkErase = element (unsafeCoerce mdPhonelinkErase_)
+mdPhonelinkErase = element (unsafeCoerce _mdPhonelinkErase)
 
-foreign import mdPhonelinkLock_ :: ReactIcon
+foreign import _mdPhonelinkLock :: ReactIcon
 
 mdPhonelinkLock :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPhonelinkLock = element (unsafeCoerce mdPhonelinkLock_)
+mdPhonelinkLock = element (unsafeCoerce _mdPhonelinkLock)
 
-foreign import mdPhonelinkOff_ :: ReactIcon
+foreign import _mdPhonelinkOff :: ReactIcon
 
 mdPhonelinkOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPhonelinkOff = element (unsafeCoerce mdPhonelinkOff_)
+mdPhonelinkOff = element (unsafeCoerce _mdPhonelinkOff)
 
-foreign import mdPhonelinkRing_ :: ReactIcon
+foreign import _mdPhonelinkRing :: ReactIcon
 
 mdPhonelinkRing :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPhonelinkRing = element (unsafeCoerce mdPhonelinkRing_)
+mdPhonelinkRing = element (unsafeCoerce _mdPhonelinkRing)
 
-foreign import mdPhonelinkSetup_ :: ReactIcon
+foreign import _mdPhonelinkSetup :: ReactIcon
 
 mdPhonelinkSetup :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPhonelinkSetup = element (unsafeCoerce mdPhonelinkSetup_)
+mdPhonelinkSetup = element (unsafeCoerce _mdPhonelinkSetup)
 
-foreign import mdPhoneLocked_ :: ReactIcon
+foreign import _mdPhoneLocked :: ReactIcon
 
 mdPhoneLocked :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPhoneLocked = element (unsafeCoerce mdPhoneLocked_)
+mdPhoneLocked = element (unsafeCoerce _mdPhoneLocked)
 
-foreign import mdPhoneMissed_ :: ReactIcon
+foreign import _mdPhoneMissed :: ReactIcon
 
 mdPhoneMissed :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPhoneMissed = element (unsafeCoerce mdPhoneMissed_)
+mdPhoneMissed = element (unsafeCoerce _mdPhoneMissed)
 
-foreign import mdPhonePaused_ :: ReactIcon
+foreign import _mdPhonePaused :: ReactIcon
 
 mdPhonePaused :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPhonePaused = element (unsafeCoerce mdPhonePaused_)
+mdPhonePaused = element (unsafeCoerce _mdPhonePaused)
 
-foreign import mdPhoto_ :: ReactIcon
+foreign import _mdPhoto :: ReactIcon
 
 mdPhoto :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPhoto = element (unsafeCoerce mdPhoto_)
+mdPhoto = element (unsafeCoerce _mdPhoto)
 
-foreign import mdPhotoAlbum_ :: ReactIcon
+foreign import _mdPhotoAlbum :: ReactIcon
 
 mdPhotoAlbum :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPhotoAlbum = element (unsafeCoerce mdPhotoAlbum_)
+mdPhotoAlbum = element (unsafeCoerce _mdPhotoAlbum)
 
-foreign import mdPhotoCamera_ :: ReactIcon
+foreign import _mdPhotoCamera :: ReactIcon
 
 mdPhotoCamera :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPhotoCamera = element (unsafeCoerce mdPhotoCamera_)
+mdPhotoCamera = element (unsafeCoerce _mdPhotoCamera)
 
-foreign import mdPhotoCameraBack_ :: ReactIcon
+foreign import _mdPhotoCameraBack :: ReactIcon
 
 mdPhotoCameraBack :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPhotoCameraBack = element (unsafeCoerce mdPhotoCameraBack_)
+mdPhotoCameraBack = element (unsafeCoerce _mdPhotoCameraBack)
 
-foreign import mdPhotoCameraFront_ :: ReactIcon
+foreign import _mdPhotoCameraFront :: ReactIcon
 
 mdPhotoCameraFront :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPhotoCameraFront = element (unsafeCoerce mdPhotoCameraFront_)
+mdPhotoCameraFront = element (unsafeCoerce _mdPhotoCameraFront)
 
-foreign import mdPhotoFilter_ :: ReactIcon
+foreign import _mdPhotoFilter :: ReactIcon
 
 mdPhotoFilter :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPhotoFilter = element (unsafeCoerce mdPhotoFilter_)
+mdPhotoFilter = element (unsafeCoerce _mdPhotoFilter)
 
-foreign import mdPhotoLibrary_ :: ReactIcon
+foreign import _mdPhotoLibrary :: ReactIcon
 
 mdPhotoLibrary :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPhotoLibrary = element (unsafeCoerce mdPhotoLibrary_)
+mdPhotoLibrary = element (unsafeCoerce _mdPhotoLibrary)
 
-foreign import mdPhotoSizeSelectActual_ :: ReactIcon
+foreign import _mdPhotoSizeSelectActual :: ReactIcon
 
 mdPhotoSizeSelectActual :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPhotoSizeSelectActual = element (unsafeCoerce mdPhotoSizeSelectActual_)
+mdPhotoSizeSelectActual = element (unsafeCoerce _mdPhotoSizeSelectActual)
 
-foreign import mdPhotoSizeSelectLarge_ :: ReactIcon
+foreign import _mdPhotoSizeSelectLarge :: ReactIcon
 
 mdPhotoSizeSelectLarge :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPhotoSizeSelectLarge = element (unsafeCoerce mdPhotoSizeSelectLarge_)
+mdPhotoSizeSelectLarge = element (unsafeCoerce _mdPhotoSizeSelectLarge)
 
-foreign import mdPhotoSizeSelectSmall_ :: ReactIcon
+foreign import _mdPhotoSizeSelectSmall :: ReactIcon
 
 mdPhotoSizeSelectSmall :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPhotoSizeSelectSmall = element (unsafeCoerce mdPhotoSizeSelectSmall_)
+mdPhotoSizeSelectSmall = element (unsafeCoerce _mdPhotoSizeSelectSmall)
 
-foreign import mdPiano_ :: ReactIcon
+foreign import _mdPiano :: ReactIcon
 
 mdPiano :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPiano = element (unsafeCoerce mdPiano_)
+mdPiano = element (unsafeCoerce _mdPiano)
 
-foreign import mdPianoOff_ :: ReactIcon
+foreign import _mdPianoOff :: ReactIcon
 
 mdPianoOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPianoOff = element (unsafeCoerce mdPianoOff_)
+mdPianoOff = element (unsafeCoerce _mdPianoOff)
 
-foreign import mdPictureAsPdf_ :: ReactIcon
+foreign import _mdPictureAsPdf :: ReactIcon
 
 mdPictureAsPdf :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPictureAsPdf = element (unsafeCoerce mdPictureAsPdf_)
+mdPictureAsPdf = element (unsafeCoerce _mdPictureAsPdf)
 
-foreign import mdPictureInPicture_ :: ReactIcon
+foreign import _mdPictureInPicture :: ReactIcon
 
 mdPictureInPicture :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPictureInPicture = element (unsafeCoerce mdPictureInPicture_)
+mdPictureInPicture = element (unsafeCoerce _mdPictureInPicture)
 
-foreign import mdPictureInPictureAlt_ :: ReactIcon
+foreign import _mdPictureInPictureAlt :: ReactIcon
 
 mdPictureInPictureAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPictureInPictureAlt = element (unsafeCoerce mdPictureInPictureAlt_)
+mdPictureInPictureAlt = element (unsafeCoerce _mdPictureInPictureAlt)
 
-foreign import mdPieChart_ :: ReactIcon
+foreign import _mdPieChart :: ReactIcon
 
 mdPieChart :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPieChart = element (unsafeCoerce mdPieChart_)
+mdPieChart = element (unsafeCoerce _mdPieChart)
 
-foreign import mdPieChartOutline_ :: ReactIcon
+foreign import _mdPieChartOutline :: ReactIcon
 
 mdPieChartOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPieChartOutline = element (unsafeCoerce mdPieChartOutline_)
+mdPieChartOutline = element (unsafeCoerce _mdPieChartOutline)
 
-foreign import mdPieChartOutlined_ :: ReactIcon
+foreign import _mdPieChartOutlined :: ReactIcon
 
 mdPieChartOutlined :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPieChartOutlined = element (unsafeCoerce mdPieChartOutlined_)
+mdPieChartOutlined = element (unsafeCoerce _mdPieChartOutlined)
 
-foreign import mdPin_ :: ReactIcon
+foreign import _mdPin :: ReactIcon
 
 mdPin :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPin = element (unsafeCoerce mdPin_)
+mdPin = element (unsafeCoerce _mdPin)
 
-foreign import mdPinDrop_ :: ReactIcon
+foreign import _mdPinDrop :: ReactIcon
 
 mdPinDrop :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPinDrop = element (unsafeCoerce mdPinDrop_)
+mdPinDrop = element (unsafeCoerce _mdPinDrop)
 
-foreign import mdPinEnd_ :: ReactIcon
+foreign import _mdPinEnd :: ReactIcon
 
 mdPinEnd :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPinEnd = element (unsafeCoerce mdPinEnd_)
+mdPinEnd = element (unsafeCoerce _mdPinEnd)
 
-foreign import mdPinInvoke_ :: ReactIcon
+foreign import _mdPinInvoke :: ReactIcon
 
 mdPinInvoke :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPinInvoke = element (unsafeCoerce mdPinInvoke_)
+mdPinInvoke = element (unsafeCoerce _mdPinInvoke)
 
-foreign import mdPivotTableChart_ :: ReactIcon
+foreign import _mdPivotTableChart :: ReactIcon
 
 mdPivotTableChart :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPivotTableChart = element (unsafeCoerce mdPivotTableChart_)
+mdPivotTableChart = element (unsafeCoerce _mdPivotTableChart)
 
-foreign import mdPlace_ :: ReactIcon
+foreign import _mdPlace :: ReactIcon
 
 mdPlace :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPlace = element (unsafeCoerce mdPlace_)
+mdPlace = element (unsafeCoerce _mdPlace)
 
-foreign import mdPlagiarism_ :: ReactIcon
+foreign import _mdPlagiarism :: ReactIcon
 
 mdPlagiarism :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPlagiarism = element (unsafeCoerce mdPlagiarism_)
+mdPlagiarism = element (unsafeCoerce _mdPlagiarism)
 
-foreign import mdPlayArrow_ :: ReactIcon
+foreign import _mdPlayArrow :: ReactIcon
 
 mdPlayArrow :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPlayArrow = element (unsafeCoerce mdPlayArrow_)
+mdPlayArrow = element (unsafeCoerce _mdPlayArrow)
 
-foreign import mdPlayCircle_ :: ReactIcon
+foreign import _mdPlayCircle :: ReactIcon
 
 mdPlayCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPlayCircle = element (unsafeCoerce mdPlayCircle_)
+mdPlayCircle = element (unsafeCoerce _mdPlayCircle)
 
-foreign import mdPlayCircleFilled_ :: ReactIcon
+foreign import _mdPlayCircleFilled :: ReactIcon
 
 mdPlayCircleFilled :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPlayCircleFilled = element (unsafeCoerce mdPlayCircleFilled_)
+mdPlayCircleFilled = element (unsafeCoerce _mdPlayCircleFilled)
 
-foreign import mdPlayCircleOutline_ :: ReactIcon
+foreign import _mdPlayCircleOutline :: ReactIcon
 
 mdPlayCircleOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPlayCircleOutline = element (unsafeCoerce mdPlayCircleOutline_)
+mdPlayCircleOutline = element (unsafeCoerce _mdPlayCircleOutline)
 
-foreign import mdPlayDisabled_ :: ReactIcon
+foreign import _mdPlayDisabled :: ReactIcon
 
 mdPlayDisabled :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPlayDisabled = element (unsafeCoerce mdPlayDisabled_)
+mdPlayDisabled = element (unsafeCoerce _mdPlayDisabled)
 
-foreign import mdPlayForWork_ :: ReactIcon
+foreign import _mdPlayForWork :: ReactIcon
 
 mdPlayForWork :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPlayForWork = element (unsafeCoerce mdPlayForWork_)
+mdPlayForWork = element (unsafeCoerce _mdPlayForWork)
 
-foreign import mdPlayLesson_ :: ReactIcon
+foreign import _mdPlayLesson :: ReactIcon
 
 mdPlayLesson :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPlayLesson = element (unsafeCoerce mdPlayLesson_)
+mdPlayLesson = element (unsafeCoerce _mdPlayLesson)
 
-foreign import mdPlaylistAdd_ :: ReactIcon
+foreign import _mdPlaylistAdd :: ReactIcon
 
 mdPlaylistAdd :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPlaylistAdd = element (unsafeCoerce mdPlaylistAdd_)
+mdPlaylistAdd = element (unsafeCoerce _mdPlaylistAdd)
 
-foreign import mdPlaylistAddCheck_ :: ReactIcon
+foreign import _mdPlaylistAddCheck :: ReactIcon
 
 mdPlaylistAddCheck :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPlaylistAddCheck = element (unsafeCoerce mdPlaylistAddCheck_)
+mdPlaylistAddCheck = element (unsafeCoerce _mdPlaylistAddCheck)
 
-foreign import mdPlaylistPlay_ :: ReactIcon
+foreign import _mdPlaylistPlay :: ReactIcon
 
 mdPlaylistPlay :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPlaylistPlay = element (unsafeCoerce mdPlaylistPlay_)
+mdPlaylistPlay = element (unsafeCoerce _mdPlaylistPlay)
 
-foreign import mdPlumbing_ :: ReactIcon
+foreign import _mdPlumbing :: ReactIcon
 
 mdPlumbing :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPlumbing = element (unsafeCoerce mdPlumbing_)
+mdPlumbing = element (unsafeCoerce _mdPlumbing)
 
-foreign import mdPlusOne_ :: ReactIcon
+foreign import _mdPlusOne :: ReactIcon
 
 mdPlusOne :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPlusOne = element (unsafeCoerce mdPlusOne_)
+mdPlusOne = element (unsafeCoerce _mdPlusOne)
 
-foreign import mdPodcasts_ :: ReactIcon
+foreign import _mdPodcasts :: ReactIcon
 
 mdPodcasts :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPodcasts = element (unsafeCoerce mdPodcasts_)
+mdPodcasts = element (unsafeCoerce _mdPodcasts)
 
-foreign import mdPointOfSale_ :: ReactIcon
+foreign import _mdPointOfSale :: ReactIcon
 
 mdPointOfSale :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPointOfSale = element (unsafeCoerce mdPointOfSale_)
+mdPointOfSale = element (unsafeCoerce _mdPointOfSale)
 
-foreign import mdPolicy_ :: ReactIcon
+foreign import _mdPolicy :: ReactIcon
 
 mdPolicy :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPolicy = element (unsafeCoerce mdPolicy_)
+mdPolicy = element (unsafeCoerce _mdPolicy)
 
-foreign import mdPoll_ :: ReactIcon
+foreign import _mdPoll :: ReactIcon
 
 mdPoll :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPoll = element (unsafeCoerce mdPoll_)
+mdPoll = element (unsafeCoerce _mdPoll)
 
-foreign import mdPolymer_ :: ReactIcon
+foreign import _mdPolymer :: ReactIcon
 
 mdPolymer :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPolymer = element (unsafeCoerce mdPolymer_)
+mdPolymer = element (unsafeCoerce _mdPolymer)
 
-foreign import mdPool_ :: ReactIcon
+foreign import _mdPool :: ReactIcon
 
 mdPool :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPool = element (unsafeCoerce mdPool_)
+mdPool = element (unsafeCoerce _mdPool)
 
-foreign import mdPortableWifiOff_ :: ReactIcon
+foreign import _mdPortableWifiOff :: ReactIcon
 
 mdPortableWifiOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPortableWifiOff = element (unsafeCoerce mdPortableWifiOff_)
+mdPortableWifiOff = element (unsafeCoerce _mdPortableWifiOff)
 
-foreign import mdPortrait_ :: ReactIcon
+foreign import _mdPortrait :: ReactIcon
 
 mdPortrait :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPortrait = element (unsafeCoerce mdPortrait_)
+mdPortrait = element (unsafeCoerce _mdPortrait)
 
-foreign import mdPostAdd_ :: ReactIcon
+foreign import _mdPostAdd :: ReactIcon
 
 mdPostAdd :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPostAdd = element (unsafeCoerce mdPostAdd_)
+mdPostAdd = element (unsafeCoerce _mdPostAdd)
 
-foreign import mdPower_ :: ReactIcon
+foreign import _mdPower :: ReactIcon
 
 mdPower :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPower = element (unsafeCoerce mdPower_)
+mdPower = element (unsafeCoerce _mdPower)
 
-foreign import mdPowerInput_ :: ReactIcon
+foreign import _mdPowerInput :: ReactIcon
 
 mdPowerInput :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPowerInput = element (unsafeCoerce mdPowerInput_)
+mdPowerInput = element (unsafeCoerce _mdPowerInput)
 
-foreign import mdPowerOff_ :: ReactIcon
+foreign import _mdPowerOff :: ReactIcon
 
 mdPowerOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPowerOff = element (unsafeCoerce mdPowerOff_)
+mdPowerOff = element (unsafeCoerce _mdPowerOff)
 
-foreign import mdPowerSettingsNew_ :: ReactIcon
+foreign import _mdPowerSettingsNew :: ReactIcon
 
 mdPowerSettingsNew :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPowerSettingsNew = element (unsafeCoerce mdPowerSettingsNew_)
+mdPowerSettingsNew = element (unsafeCoerce _mdPowerSettingsNew)
 
-foreign import mdPrecisionManufacturing_ :: ReactIcon
+foreign import _mdPrecisionManufacturing :: ReactIcon
 
 mdPrecisionManufacturing :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPrecisionManufacturing = element (unsafeCoerce mdPrecisionManufacturing_)
+mdPrecisionManufacturing = element (unsafeCoerce _mdPrecisionManufacturing)
 
-foreign import mdPregnantWoman_ :: ReactIcon
+foreign import _mdPregnantWoman :: ReactIcon
 
 mdPregnantWoman :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPregnantWoman = element (unsafeCoerce mdPregnantWoman_)
+mdPregnantWoman = element (unsafeCoerce _mdPregnantWoman)
 
-foreign import mdPresentToAll_ :: ReactIcon
+foreign import _mdPresentToAll :: ReactIcon
 
 mdPresentToAll :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPresentToAll = element (unsafeCoerce mdPresentToAll_)
+mdPresentToAll = element (unsafeCoerce _mdPresentToAll)
 
-foreign import mdPreview_ :: ReactIcon
+foreign import _mdPreview :: ReactIcon
 
 mdPreview :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPreview = element (unsafeCoerce mdPreview_)
+mdPreview = element (unsafeCoerce _mdPreview)
 
-foreign import mdPriceChange_ :: ReactIcon
+foreign import _mdPriceChange :: ReactIcon
 
 mdPriceChange :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPriceChange = element (unsafeCoerce mdPriceChange_)
+mdPriceChange = element (unsafeCoerce _mdPriceChange)
 
-foreign import mdPriceCheck_ :: ReactIcon
+foreign import _mdPriceCheck :: ReactIcon
 
 mdPriceCheck :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPriceCheck = element (unsafeCoerce mdPriceCheck_)
+mdPriceCheck = element (unsafeCoerce _mdPriceCheck)
 
-foreign import mdPrint_ :: ReactIcon
+foreign import _mdPrint :: ReactIcon
 
 mdPrint :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPrint = element (unsafeCoerce mdPrint_)
+mdPrint = element (unsafeCoerce _mdPrint)
 
-foreign import mdPrintDisabled_ :: ReactIcon
+foreign import _mdPrintDisabled :: ReactIcon
 
 mdPrintDisabled :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPrintDisabled = element (unsafeCoerce mdPrintDisabled_)
+mdPrintDisabled = element (unsafeCoerce _mdPrintDisabled)
 
-foreign import mdPriorityHigh_ :: ReactIcon
+foreign import _mdPriorityHigh :: ReactIcon
 
 mdPriorityHigh :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPriorityHigh = element (unsafeCoerce mdPriorityHigh_)
+mdPriorityHigh = element (unsafeCoerce _mdPriorityHigh)
 
-foreign import mdPrivacyTip_ :: ReactIcon
+foreign import _mdPrivacyTip :: ReactIcon
 
 mdPrivacyTip :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPrivacyTip = element (unsafeCoerce mdPrivacyTip_)
+mdPrivacyTip = element (unsafeCoerce _mdPrivacyTip)
 
-foreign import mdPrivateConnectivity_ :: ReactIcon
+foreign import _mdPrivateConnectivity :: ReactIcon
 
 mdPrivateConnectivity :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPrivateConnectivity = element (unsafeCoerce mdPrivateConnectivity_)
+mdPrivateConnectivity = element (unsafeCoerce _mdPrivateConnectivity)
 
-foreign import mdProductionQuantityLimits_ :: ReactIcon
+foreign import _mdProductionQuantityLimits :: ReactIcon
 
 mdProductionQuantityLimits :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdProductionQuantityLimits = element (unsafeCoerce mdProductionQuantityLimits_)
+mdProductionQuantityLimits = element (unsafeCoerce _mdProductionQuantityLimits)
 
-foreign import mdPsychology_ :: ReactIcon
+foreign import _mdPsychology :: ReactIcon
 
 mdPsychology :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPsychology = element (unsafeCoerce mdPsychology_)
+mdPsychology = element (unsafeCoerce _mdPsychology)
 
-foreign import mdPublic_ :: ReactIcon
+foreign import _mdPublic :: ReactIcon
 
 mdPublic :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPublic = element (unsafeCoerce mdPublic_)
+mdPublic = element (unsafeCoerce _mdPublic)
 
-foreign import mdPublicOff_ :: ReactIcon
+foreign import _mdPublicOff :: ReactIcon
 
 mdPublicOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPublicOff = element (unsafeCoerce mdPublicOff_)
+mdPublicOff = element (unsafeCoerce _mdPublicOff)
 
-foreign import mdPublish_ :: ReactIcon
+foreign import _mdPublish :: ReactIcon
 
 mdPublish :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPublish = element (unsafeCoerce mdPublish_)
+mdPublish = element (unsafeCoerce _mdPublish)
 
-foreign import mdPublishedWithChanges_ :: ReactIcon
+foreign import _mdPublishedWithChanges :: ReactIcon
 
 mdPublishedWithChanges :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPublishedWithChanges = element (unsafeCoerce mdPublishedWithChanges_)
+mdPublishedWithChanges = element (unsafeCoerce _mdPublishedWithChanges)
 
-foreign import mdPushPin_ :: ReactIcon
+foreign import _mdPushPin :: ReactIcon
 
 mdPushPin :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdPushPin = element (unsafeCoerce mdPushPin_)
+mdPushPin = element (unsafeCoerce _mdPushPin)
 
-foreign import mdQrCode_ :: ReactIcon
+foreign import _mdQrCode :: ReactIcon
 
 mdQrCode :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdQrCode = element (unsafeCoerce mdQrCode_)
+mdQrCode = element (unsafeCoerce _mdQrCode)
 
-foreign import mdQrCodeScanner_ :: ReactIcon
+foreign import _mdQrCodeScanner :: ReactIcon
 
 mdQrCodeScanner :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdQrCodeScanner = element (unsafeCoerce mdQrCodeScanner_)
+mdQrCodeScanner = element (unsafeCoerce _mdQrCodeScanner)
 
-foreign import mdQueryBuilder_ :: ReactIcon
+foreign import _mdQueryBuilder :: ReactIcon
 
 mdQueryBuilder :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdQueryBuilder = element (unsafeCoerce mdQueryBuilder_)
+mdQueryBuilder = element (unsafeCoerce _mdQueryBuilder)
 
-foreign import mdQueryStats_ :: ReactIcon
+foreign import _mdQueryStats :: ReactIcon
 
 mdQueryStats :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdQueryStats = element (unsafeCoerce mdQueryStats_)
+mdQueryStats = element (unsafeCoerce _mdQueryStats)
 
-foreign import mdQuestionAnswer_ :: ReactIcon
+foreign import _mdQuestionAnswer :: ReactIcon
 
 mdQuestionAnswer :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdQuestionAnswer = element (unsafeCoerce mdQuestionAnswer_)
+mdQuestionAnswer = element (unsafeCoerce _mdQuestionAnswer)
 
-foreign import mdQueue_ :: ReactIcon
+foreign import _mdQueue :: ReactIcon
 
 mdQueue :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdQueue = element (unsafeCoerce mdQueue_)
+mdQueue = element (unsafeCoerce _mdQueue)
 
-foreign import mdQueueMusic_ :: ReactIcon
+foreign import _mdQueueMusic :: ReactIcon
 
 mdQueueMusic :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdQueueMusic = element (unsafeCoerce mdQueueMusic_)
+mdQueueMusic = element (unsafeCoerce _mdQueueMusic)
 
-foreign import mdQueuePlayNext_ :: ReactIcon
+foreign import _mdQueuePlayNext :: ReactIcon
 
 mdQueuePlayNext :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdQueuePlayNext = element (unsafeCoerce mdQueuePlayNext_)
+mdQueuePlayNext = element (unsafeCoerce _mdQueuePlayNext)
 
-foreign import mdQuickreply_ :: ReactIcon
+foreign import _mdQuickreply :: ReactIcon
 
 mdQuickreply :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdQuickreply = element (unsafeCoerce mdQuickreply_)
+mdQuickreply = element (unsafeCoerce _mdQuickreply)
 
-foreign import mdQuiz_ :: ReactIcon
+foreign import _mdQuiz :: ReactIcon
 
 mdQuiz :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdQuiz = element (unsafeCoerce mdQuiz_)
+mdQuiz = element (unsafeCoerce _mdQuiz)
 
-foreign import mdRadar_ :: ReactIcon
+foreign import _mdRadar :: ReactIcon
 
 mdRadar :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdRadar = element (unsafeCoerce mdRadar_)
+mdRadar = element (unsafeCoerce _mdRadar)
 
-foreign import mdRadio_ :: ReactIcon
+foreign import _mdRadio :: ReactIcon
 
 mdRadio :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdRadio = element (unsafeCoerce mdRadio_)
+mdRadio = element (unsafeCoerce _mdRadio)
 
-foreign import mdRadioButtonChecked_ :: ReactIcon
+foreign import _mdRadioButtonChecked :: ReactIcon
 
 mdRadioButtonChecked :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdRadioButtonChecked = element (unsafeCoerce mdRadioButtonChecked_)
+mdRadioButtonChecked = element (unsafeCoerce _mdRadioButtonChecked)
 
-foreign import mdRadioButtonUnchecked_ :: ReactIcon
+foreign import _mdRadioButtonUnchecked :: ReactIcon
 
 mdRadioButtonUnchecked :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdRadioButtonUnchecked = element (unsafeCoerce mdRadioButtonUnchecked_)
+mdRadioButtonUnchecked = element (unsafeCoerce _mdRadioButtonUnchecked)
 
-foreign import mdRailwayAlert_ :: ReactIcon
+foreign import _mdRailwayAlert :: ReactIcon
 
 mdRailwayAlert :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdRailwayAlert = element (unsafeCoerce mdRailwayAlert_)
+mdRailwayAlert = element (unsafeCoerce _mdRailwayAlert)
 
-foreign import mdRamenDining_ :: ReactIcon
+foreign import _mdRamenDining :: ReactIcon
 
 mdRamenDining :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdRamenDining = element (unsafeCoerce mdRamenDining_)
+mdRamenDining = element (unsafeCoerce _mdRamenDining)
 
-foreign import mdRateReview_ :: ReactIcon
+foreign import _mdRateReview :: ReactIcon
 
 mdRateReview :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdRateReview = element (unsafeCoerce mdRateReview_)
+mdRateReview = element (unsafeCoerce _mdRateReview)
 
-foreign import mdRawOff_ :: ReactIcon
+foreign import _mdRawOff :: ReactIcon
 
 mdRawOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdRawOff = element (unsafeCoerce mdRawOff_)
+mdRawOff = element (unsafeCoerce _mdRawOff)
 
-foreign import mdRawOn_ :: ReactIcon
+foreign import _mdRawOn :: ReactIcon
 
 mdRawOn :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdRawOn = element (unsafeCoerce mdRawOn_)
+mdRawOn = element (unsafeCoerce _mdRawOn)
 
-foreign import mdReadMore_ :: ReactIcon
+foreign import _mdReadMore :: ReactIcon
 
 mdReadMore :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdReadMore = element (unsafeCoerce mdReadMore_)
+mdReadMore = element (unsafeCoerce _mdReadMore)
 
-foreign import mdRealEstateAgent_ :: ReactIcon
+foreign import _mdRealEstateAgent :: ReactIcon
 
 mdRealEstateAgent :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdRealEstateAgent = element (unsafeCoerce mdRealEstateAgent_)
+mdRealEstateAgent = element (unsafeCoerce _mdRealEstateAgent)
 
-foreign import mdReceipt_ :: ReactIcon
+foreign import _mdReceipt :: ReactIcon
 
 mdReceipt :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdReceipt = element (unsafeCoerce mdReceipt_)
+mdReceipt = element (unsafeCoerce _mdReceipt)
 
-foreign import mdReceiptLong_ :: ReactIcon
+foreign import _mdReceiptLong :: ReactIcon
 
 mdReceiptLong :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdReceiptLong = element (unsafeCoerce mdReceiptLong_)
+mdReceiptLong = element (unsafeCoerce _mdReceiptLong)
 
-foreign import mdRecentActors_ :: ReactIcon
+foreign import _mdRecentActors :: ReactIcon
 
 mdRecentActors :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdRecentActors = element (unsafeCoerce mdRecentActors_)
+mdRecentActors = element (unsafeCoerce _mdRecentActors)
 
-foreign import mdRecommend_ :: ReactIcon
+foreign import _mdRecommend :: ReactIcon
 
 mdRecommend :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdRecommend = element (unsafeCoerce mdRecommend_)
+mdRecommend = element (unsafeCoerce _mdRecommend)
 
-foreign import mdRecordVoiceOver_ :: ReactIcon
+foreign import _mdRecordVoiceOver :: ReactIcon
 
 mdRecordVoiceOver :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdRecordVoiceOver = element (unsafeCoerce mdRecordVoiceOver_)
+mdRecordVoiceOver = element (unsafeCoerce _mdRecordVoiceOver)
 
-foreign import mdRecycling_ :: ReactIcon
+foreign import _mdRecycling :: ReactIcon
 
 mdRecycling :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdRecycling = element (unsafeCoerce mdRecycling_)
+mdRecycling = element (unsafeCoerce _mdRecycling)
 
-foreign import mdRedeem_ :: ReactIcon
+foreign import _mdRedeem :: ReactIcon
 
 mdRedeem :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdRedeem = element (unsafeCoerce mdRedeem_)
+mdRedeem = element (unsafeCoerce _mdRedeem)
 
-foreign import mdRedo_ :: ReactIcon
+foreign import _mdRedo :: ReactIcon
 
 mdRedo :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdRedo = element (unsafeCoerce mdRedo_)
+mdRedo = element (unsafeCoerce _mdRedo)
 
-foreign import mdReduceCapacity_ :: ReactIcon
+foreign import _mdReduceCapacity :: ReactIcon
 
 mdReduceCapacity :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdReduceCapacity = element (unsafeCoerce mdReduceCapacity_)
+mdReduceCapacity = element (unsafeCoerce _mdReduceCapacity)
 
-foreign import mdRefresh_ :: ReactIcon
+foreign import _mdRefresh :: ReactIcon
 
 mdRefresh :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdRefresh = element (unsafeCoerce mdRefresh_)
+mdRefresh = element (unsafeCoerce _mdRefresh)
 
-foreign import mdRememberMe_ :: ReactIcon
+foreign import _mdRememberMe :: ReactIcon
 
 mdRememberMe :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdRememberMe = element (unsafeCoerce mdRememberMe_)
+mdRememberMe = element (unsafeCoerce _mdRememberMe)
 
-foreign import mdRemove_ :: ReactIcon
+foreign import _mdRemove :: ReactIcon
 
 mdRemove :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdRemove = element (unsafeCoerce mdRemove_)
+mdRemove = element (unsafeCoerce _mdRemove)
 
-foreign import mdRemoveCircle_ :: ReactIcon
+foreign import _mdRemoveCircle :: ReactIcon
 
 mdRemoveCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdRemoveCircle = element (unsafeCoerce mdRemoveCircle_)
+mdRemoveCircle = element (unsafeCoerce _mdRemoveCircle)
 
-foreign import mdRemoveCircleOutline_ :: ReactIcon
+foreign import _mdRemoveCircleOutline :: ReactIcon
 
 mdRemoveCircleOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdRemoveCircleOutline = element (unsafeCoerce mdRemoveCircleOutline_)
+mdRemoveCircleOutline = element (unsafeCoerce _mdRemoveCircleOutline)
 
-foreign import mdRemoveDone_ :: ReactIcon
+foreign import _mdRemoveDone :: ReactIcon
 
 mdRemoveDone :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdRemoveDone = element (unsafeCoerce mdRemoveDone_)
+mdRemoveDone = element (unsafeCoerce _mdRemoveDone)
 
-foreign import mdRemoveFromQueue_ :: ReactIcon
+foreign import _mdRemoveFromQueue :: ReactIcon
 
 mdRemoveFromQueue :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdRemoveFromQueue = element (unsafeCoerce mdRemoveFromQueue_)
+mdRemoveFromQueue = element (unsafeCoerce _mdRemoveFromQueue)
 
-foreign import mdRemoveModerator_ :: ReactIcon
+foreign import _mdRemoveModerator :: ReactIcon
 
 mdRemoveModerator :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdRemoveModerator = element (unsafeCoerce mdRemoveModerator_)
+mdRemoveModerator = element (unsafeCoerce _mdRemoveModerator)
 
-foreign import mdRemoveRedEye_ :: ReactIcon
+foreign import _mdRemoveRedEye :: ReactIcon
 
 mdRemoveRedEye :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdRemoveRedEye = element (unsafeCoerce mdRemoveRedEye_)
+mdRemoveRedEye = element (unsafeCoerce _mdRemoveRedEye)
 
-foreign import mdRemoveShoppingCart_ :: ReactIcon
+foreign import _mdRemoveShoppingCart :: ReactIcon
 
 mdRemoveShoppingCart :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdRemoveShoppingCart = element (unsafeCoerce mdRemoveShoppingCart_)
+mdRemoveShoppingCart = element (unsafeCoerce _mdRemoveShoppingCart)
 
-foreign import mdReorder_ :: ReactIcon
+foreign import _mdReorder :: ReactIcon
 
 mdReorder :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdReorder = element (unsafeCoerce mdReorder_)
+mdReorder = element (unsafeCoerce _mdReorder)
 
-foreign import mdRepeat_ :: ReactIcon
+foreign import _mdRepeat :: ReactIcon
 
 mdRepeat :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdRepeat = element (unsafeCoerce mdRepeat_)
+mdRepeat = element (unsafeCoerce _mdRepeat)
 
-foreign import mdRepeatOn_ :: ReactIcon
+foreign import _mdRepeatOn :: ReactIcon
 
 mdRepeatOn :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdRepeatOn = element (unsafeCoerce mdRepeatOn_)
+mdRepeatOn = element (unsafeCoerce _mdRepeatOn)
 
-foreign import mdRepeatOne_ :: ReactIcon
+foreign import _mdRepeatOne :: ReactIcon
 
 mdRepeatOne :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdRepeatOne = element (unsafeCoerce mdRepeatOne_)
+mdRepeatOne = element (unsafeCoerce _mdRepeatOne)
 
-foreign import mdRepeatOneOn_ :: ReactIcon
+foreign import _mdRepeatOneOn :: ReactIcon
 
 mdRepeatOneOn :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdRepeatOneOn = element (unsafeCoerce mdRepeatOneOn_)
+mdRepeatOneOn = element (unsafeCoerce _mdRepeatOneOn)
 
-foreign import mdReplay_ :: ReactIcon
+foreign import _mdReplay :: ReactIcon
 
 mdReplay :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdReplay = element (unsafeCoerce mdReplay_)
+mdReplay = element (unsafeCoerce _mdReplay)
 
-foreign import mdReplayCircleFilled_ :: ReactIcon
+foreign import _mdReplayCircleFilled :: ReactIcon
 
 mdReplayCircleFilled :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdReplayCircleFilled = element (unsafeCoerce mdReplayCircleFilled_)
+mdReplayCircleFilled = element (unsafeCoerce _mdReplayCircleFilled)
 
-foreign import mdReply_ :: ReactIcon
+foreign import _mdReply :: ReactIcon
 
 mdReply :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdReply = element (unsafeCoerce mdReply_)
+mdReply = element (unsafeCoerce _mdReply)
 
-foreign import mdReplyAll_ :: ReactIcon
+foreign import _mdReplyAll :: ReactIcon
 
 mdReplyAll :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdReplyAll = element (unsafeCoerce mdReplyAll_)
+mdReplyAll = element (unsafeCoerce _mdReplyAll)
 
-foreign import mdReport_ :: ReactIcon
+foreign import _mdReport :: ReactIcon
 
 mdReport :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdReport = element (unsafeCoerce mdReport_)
+mdReport = element (unsafeCoerce _mdReport)
 
-foreign import mdReportGmailerrorred_ :: ReactIcon
+foreign import _mdReportGmailerrorred :: ReactIcon
 
 mdReportGmailerrorred :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdReportGmailerrorred = element (unsafeCoerce mdReportGmailerrorred_)
+mdReportGmailerrorred = element (unsafeCoerce _mdReportGmailerrorred)
 
-foreign import mdReportOff_ :: ReactIcon
+foreign import _mdReportOff :: ReactIcon
 
 mdReportOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdReportOff = element (unsafeCoerce mdReportOff_)
+mdReportOff = element (unsafeCoerce _mdReportOff)
 
-foreign import mdReportProblem_ :: ReactIcon
+foreign import _mdReportProblem :: ReactIcon
 
 mdReportProblem :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdReportProblem = element (unsafeCoerce mdReportProblem_)
+mdReportProblem = element (unsafeCoerce _mdReportProblem)
 
-foreign import mdRequestPage_ :: ReactIcon
+foreign import _mdRequestPage :: ReactIcon
 
 mdRequestPage :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdRequestPage = element (unsafeCoerce mdRequestPage_)
+mdRequestPage = element (unsafeCoerce _mdRequestPage)
 
-foreign import mdRequestQuote_ :: ReactIcon
+foreign import _mdRequestQuote :: ReactIcon
 
 mdRequestQuote :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdRequestQuote = element (unsafeCoerce mdRequestQuote_)
+mdRequestQuote = element (unsafeCoerce _mdRequestQuote)
 
-foreign import mdResetTv_ :: ReactIcon
+foreign import _mdResetTv :: ReactIcon
 
 mdResetTv :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdResetTv = element (unsafeCoerce mdResetTv_)
+mdResetTv = element (unsafeCoerce _mdResetTv)
 
-foreign import mdRestartAlt_ :: ReactIcon
+foreign import _mdRestartAlt :: ReactIcon
 
 mdRestartAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdRestartAlt = element (unsafeCoerce mdRestartAlt_)
+mdRestartAlt = element (unsafeCoerce _mdRestartAlt)
 
-foreign import mdRestaurant_ :: ReactIcon
+foreign import _mdRestaurant :: ReactIcon
 
 mdRestaurant :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdRestaurant = element (unsafeCoerce mdRestaurant_)
+mdRestaurant = element (unsafeCoerce _mdRestaurant)
 
-foreign import mdRestaurantMenu_ :: ReactIcon
+foreign import _mdRestaurantMenu :: ReactIcon
 
 mdRestaurantMenu :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdRestaurantMenu = element (unsafeCoerce mdRestaurantMenu_)
+mdRestaurantMenu = element (unsafeCoerce _mdRestaurantMenu)
 
-foreign import mdRestore_ :: ReactIcon
+foreign import _mdRestore :: ReactIcon
 
 mdRestore :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdRestore = element (unsafeCoerce mdRestore_)
+mdRestore = element (unsafeCoerce _mdRestore)
 
-foreign import mdRestoreFromTrash_ :: ReactIcon
+foreign import _mdRestoreFromTrash :: ReactIcon
 
 mdRestoreFromTrash :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdRestoreFromTrash = element (unsafeCoerce mdRestoreFromTrash_)
+mdRestoreFromTrash = element (unsafeCoerce _mdRestoreFromTrash)
 
-foreign import mdRestorePage_ :: ReactIcon
+foreign import _mdRestorePage :: ReactIcon
 
 mdRestorePage :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdRestorePage = element (unsafeCoerce mdRestorePage_)
+mdRestorePage = element (unsafeCoerce _mdRestorePage)
 
-foreign import mdReviews_ :: ReactIcon
+foreign import _mdReviews :: ReactIcon
 
 mdReviews :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdReviews = element (unsafeCoerce mdReviews_)
+mdReviews = element (unsafeCoerce _mdReviews)
 
-foreign import mdRiceBowl_ :: ReactIcon
+foreign import _mdRiceBowl :: ReactIcon
 
 mdRiceBowl :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdRiceBowl = element (unsafeCoerce mdRiceBowl_)
+mdRiceBowl = element (unsafeCoerce _mdRiceBowl)
 
-foreign import mdRingVolume_ :: ReactIcon
+foreign import _mdRingVolume :: ReactIcon
 
 mdRingVolume :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdRingVolume = element (unsafeCoerce mdRingVolume_)
+mdRingVolume = element (unsafeCoerce _mdRingVolume)
 
-foreign import mdRMobiledata_ :: ReactIcon
+foreign import _mdRMobiledata :: ReactIcon
 
 mdRMobiledata :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdRMobiledata = element (unsafeCoerce mdRMobiledata_)
+mdRMobiledata = element (unsafeCoerce _mdRMobiledata)
 
-foreign import mdRoofing_ :: ReactIcon
+foreign import _mdRoofing :: ReactIcon
 
 mdRoofing :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdRoofing = element (unsafeCoerce mdRoofing_)
+mdRoofing = element (unsafeCoerce _mdRoofing)
 
-foreign import mdRoom_ :: ReactIcon
+foreign import _mdRoom :: ReactIcon
 
 mdRoom :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdRoom = element (unsafeCoerce mdRoom_)
+mdRoom = element (unsafeCoerce _mdRoom)
 
-foreign import mdRoomPreferences_ :: ReactIcon
+foreign import _mdRoomPreferences :: ReactIcon
 
 mdRoomPreferences :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdRoomPreferences = element (unsafeCoerce mdRoomPreferences_)
+mdRoomPreferences = element (unsafeCoerce _mdRoomPreferences)
 
-foreign import mdRoomService_ :: ReactIcon
+foreign import _mdRoomService :: ReactIcon
 
 mdRoomService :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdRoomService = element (unsafeCoerce mdRoomService_)
+mdRoomService = element (unsafeCoerce _mdRoomService)
 
-foreign import mdRotateLeft_ :: ReactIcon
+foreign import _mdRotateLeft :: ReactIcon
 
 mdRotateLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdRotateLeft = element (unsafeCoerce mdRotateLeft_)
+mdRotateLeft = element (unsafeCoerce _mdRotateLeft)
 
-foreign import mdRotateRight_ :: ReactIcon
+foreign import _mdRotateRight :: ReactIcon
 
 mdRotateRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdRotateRight = element (unsafeCoerce mdRotateRight_)
+mdRotateRight = element (unsafeCoerce _mdRotateRight)
 
-foreign import mdRoundedCorner_ :: ReactIcon
+foreign import _mdRoundedCorner :: ReactIcon
 
 mdRoundedCorner :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdRoundedCorner = element (unsafeCoerce mdRoundedCorner_)
+mdRoundedCorner = element (unsafeCoerce _mdRoundedCorner)
 
-foreign import mdRouter_ :: ReactIcon
+foreign import _mdRouter :: ReactIcon
 
 mdRouter :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdRouter = element (unsafeCoerce mdRouter_)
+mdRouter = element (unsafeCoerce _mdRouter)
 
-foreign import mdRowing_ :: ReactIcon
+foreign import _mdRowing :: ReactIcon
 
 mdRowing :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdRowing = element (unsafeCoerce mdRowing_)
+mdRowing = element (unsafeCoerce _mdRowing)
 
-foreign import mdRssFeed_ :: ReactIcon
+foreign import _mdRssFeed :: ReactIcon
 
 mdRssFeed :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdRssFeed = element (unsafeCoerce mdRssFeed_)
+mdRssFeed = element (unsafeCoerce _mdRssFeed)
 
-foreign import mdRsvp_ :: ReactIcon
+foreign import _mdRsvp :: ReactIcon
 
 mdRsvp :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdRsvp = element (unsafeCoerce mdRsvp_)
+mdRsvp = element (unsafeCoerce _mdRsvp)
 
-foreign import mdRtt_ :: ReactIcon
+foreign import _mdRtt :: ReactIcon
 
 mdRtt :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdRtt = element (unsafeCoerce mdRtt_)
+mdRtt = element (unsafeCoerce _mdRtt)
 
-foreign import mdRule_ :: ReactIcon
+foreign import _mdRule :: ReactIcon
 
 mdRule :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdRule = element (unsafeCoerce mdRule_)
+mdRule = element (unsafeCoerce _mdRule)
 
-foreign import mdRuleFolder_ :: ReactIcon
+foreign import _mdRuleFolder :: ReactIcon
 
 mdRuleFolder :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdRuleFolder = element (unsafeCoerce mdRuleFolder_)
+mdRuleFolder = element (unsafeCoerce _mdRuleFolder)
 
-foreign import mdRunCircle_ :: ReactIcon
+foreign import _mdRunCircle :: ReactIcon
 
 mdRunCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdRunCircle = element (unsafeCoerce mdRunCircle_)
+mdRunCircle = element (unsafeCoerce _mdRunCircle)
 
-foreign import mdRunningWithErrors_ :: ReactIcon
+foreign import _mdRunningWithErrors :: ReactIcon
 
 mdRunningWithErrors :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdRunningWithErrors = element (unsafeCoerce mdRunningWithErrors_)
+mdRunningWithErrors = element (unsafeCoerce _mdRunningWithErrors)
 
-foreign import mdRvHookup_ :: ReactIcon
+foreign import _mdRvHookup :: ReactIcon
 
 mdRvHookup :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdRvHookup = element (unsafeCoerce mdRvHookup_)
+mdRvHookup = element (unsafeCoerce _mdRvHookup)
 
-foreign import mdSafetyDivider_ :: ReactIcon
+foreign import _mdSafetyDivider :: ReactIcon
 
 mdSafetyDivider :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSafetyDivider = element (unsafeCoerce mdSafetyDivider_)
+mdSafetyDivider = element (unsafeCoerce _mdSafetyDivider)
 
-foreign import mdSailing_ :: ReactIcon
+foreign import _mdSailing :: ReactIcon
 
 mdSailing :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSailing = element (unsafeCoerce mdSailing_)
+mdSailing = element (unsafeCoerce _mdSailing)
 
-foreign import mdSanitizer_ :: ReactIcon
+foreign import _mdSanitizer :: ReactIcon
 
 mdSanitizer :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSanitizer = element (unsafeCoerce mdSanitizer_)
+mdSanitizer = element (unsafeCoerce _mdSanitizer)
 
-foreign import mdSatellite_ :: ReactIcon
+foreign import _mdSatellite :: ReactIcon
 
 mdSatellite :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSatellite = element (unsafeCoerce mdSatellite_)
+mdSatellite = element (unsafeCoerce _mdSatellite)
 
-foreign import mdSave_ :: ReactIcon
+foreign import _mdSave :: ReactIcon
 
 mdSave :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSave = element (unsafeCoerce mdSave_)
+mdSave = element (unsafeCoerce _mdSave)
 
-foreign import mdSaveAlt_ :: ReactIcon
+foreign import _mdSaveAlt :: ReactIcon
 
 mdSaveAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSaveAlt = element (unsafeCoerce mdSaveAlt_)
+mdSaveAlt = element (unsafeCoerce _mdSaveAlt)
 
-foreign import mdSavedSearch_ :: ReactIcon
+foreign import _mdSavedSearch :: ReactIcon
 
 mdSavedSearch :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSavedSearch = element (unsafeCoerce mdSavedSearch_)
+mdSavedSearch = element (unsafeCoerce _mdSavedSearch)
 
-foreign import mdSavings_ :: ReactIcon
+foreign import _mdSavings :: ReactIcon
 
 mdSavings :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSavings = element (unsafeCoerce mdSavings_)
+mdSavings = element (unsafeCoerce _mdSavings)
 
-foreign import mdScanner_ :: ReactIcon
+foreign import _mdScanner :: ReactIcon
 
 mdScanner :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdScanner = element (unsafeCoerce mdScanner_)
+mdScanner = element (unsafeCoerce _mdScanner)
 
-foreign import mdScatterPlot_ :: ReactIcon
+foreign import _mdScatterPlot :: ReactIcon
 
 mdScatterPlot :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdScatterPlot = element (unsafeCoerce mdScatterPlot_)
+mdScatterPlot = element (unsafeCoerce _mdScatterPlot)
 
-foreign import mdSchedule_ :: ReactIcon
+foreign import _mdSchedule :: ReactIcon
 
 mdSchedule :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSchedule = element (unsafeCoerce mdSchedule_)
+mdSchedule = element (unsafeCoerce _mdSchedule)
 
-foreign import mdScheduleSend_ :: ReactIcon
+foreign import _mdScheduleSend :: ReactIcon
 
 mdScheduleSend :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdScheduleSend = element (unsafeCoerce mdScheduleSend_)
+mdScheduleSend = element (unsafeCoerce _mdScheduleSend)
 
-foreign import mdSchema_ :: ReactIcon
+foreign import _mdSchema :: ReactIcon
 
 mdSchema :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSchema = element (unsafeCoerce mdSchema_)
+mdSchema = element (unsafeCoerce _mdSchema)
 
-foreign import mdSchool_ :: ReactIcon
+foreign import _mdSchool :: ReactIcon
 
 mdSchool :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSchool = element (unsafeCoerce mdSchool_)
+mdSchool = element (unsafeCoerce _mdSchool)
 
-foreign import mdScience_ :: ReactIcon
+foreign import _mdScience :: ReactIcon
 
 mdScience :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdScience = element (unsafeCoerce mdScience_)
+mdScience = element (unsafeCoerce _mdScience)
 
-foreign import mdScore_ :: ReactIcon
+foreign import _mdScore :: ReactIcon
 
 mdScore :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdScore = element (unsafeCoerce mdScore_)
+mdScore = element (unsafeCoerce _mdScore)
 
-foreign import mdScreenLockLandscape_ :: ReactIcon
+foreign import _mdScreenLockLandscape :: ReactIcon
 
 mdScreenLockLandscape :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdScreenLockLandscape = element (unsafeCoerce mdScreenLockLandscape_)
+mdScreenLockLandscape = element (unsafeCoerce _mdScreenLockLandscape)
 
-foreign import mdScreenLockPortrait_ :: ReactIcon
+foreign import _mdScreenLockPortrait :: ReactIcon
 
 mdScreenLockPortrait :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdScreenLockPortrait = element (unsafeCoerce mdScreenLockPortrait_)
+mdScreenLockPortrait = element (unsafeCoerce _mdScreenLockPortrait)
 
-foreign import mdScreenLockRotation_ :: ReactIcon
+foreign import _mdScreenLockRotation :: ReactIcon
 
 mdScreenLockRotation :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdScreenLockRotation = element (unsafeCoerce mdScreenLockRotation_)
+mdScreenLockRotation = element (unsafeCoerce _mdScreenLockRotation)
 
-foreign import mdScreenRotation_ :: ReactIcon
+foreign import _mdScreenRotation :: ReactIcon
 
 mdScreenRotation :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdScreenRotation = element (unsafeCoerce mdScreenRotation_)
+mdScreenRotation = element (unsafeCoerce _mdScreenRotation)
 
-foreign import mdScreenSearchDesktop_ :: ReactIcon
+foreign import _mdScreenSearchDesktop :: ReactIcon
 
 mdScreenSearchDesktop :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdScreenSearchDesktop = element (unsafeCoerce mdScreenSearchDesktop_)
+mdScreenSearchDesktop = element (unsafeCoerce _mdScreenSearchDesktop)
 
-foreign import mdScreenShare_ :: ReactIcon
+foreign import _mdScreenShare :: ReactIcon
 
 mdScreenShare :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdScreenShare = element (unsafeCoerce mdScreenShare_)
+mdScreenShare = element (unsafeCoerce _mdScreenShare)
 
-foreign import mdScreenshot_ :: ReactIcon
+foreign import _mdScreenshot :: ReactIcon
 
 mdScreenshot :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdScreenshot = element (unsafeCoerce mdScreenshot_)
+mdScreenshot = element (unsafeCoerce _mdScreenshot)
 
-foreign import mdSd_ :: ReactIcon
+foreign import _mdSd :: ReactIcon
 
 mdSd :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSd = element (unsafeCoerce mdSd_)
+mdSd = element (unsafeCoerce _mdSd)
 
-foreign import mdSdCard_ :: ReactIcon
+foreign import _mdSdCard :: ReactIcon
 
 mdSdCard :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSdCard = element (unsafeCoerce mdSdCard_)
+mdSdCard = element (unsafeCoerce _mdSdCard)
 
-foreign import mdSdCardAlert_ :: ReactIcon
+foreign import _mdSdCardAlert :: ReactIcon
 
 mdSdCardAlert :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSdCardAlert = element (unsafeCoerce mdSdCardAlert_)
+mdSdCardAlert = element (unsafeCoerce _mdSdCardAlert)
 
-foreign import mdSdStorage_ :: ReactIcon
+foreign import _mdSdStorage :: ReactIcon
 
 mdSdStorage :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSdStorage = element (unsafeCoerce mdSdStorage_)
+mdSdStorage = element (unsafeCoerce _mdSdStorage)
 
-foreign import mdSearch_ :: ReactIcon
+foreign import _mdSearch :: ReactIcon
 
 mdSearch :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSearch = element (unsafeCoerce mdSearch_)
+mdSearch = element (unsafeCoerce _mdSearch)
 
-foreign import mdSearchOff_ :: ReactIcon
+foreign import _mdSearchOff :: ReactIcon
 
 mdSearchOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSearchOff = element (unsafeCoerce mdSearchOff_)
+mdSearchOff = element (unsafeCoerce _mdSearchOff)
 
-foreign import mdSecurity_ :: ReactIcon
+foreign import _mdSecurity :: ReactIcon
 
 mdSecurity :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSecurity = element (unsafeCoerce mdSecurity_)
+mdSecurity = element (unsafeCoerce _mdSecurity)
 
-foreign import mdSecurityUpdate_ :: ReactIcon
+foreign import _mdSecurityUpdate :: ReactIcon
 
 mdSecurityUpdate :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSecurityUpdate = element (unsafeCoerce mdSecurityUpdate_)
+mdSecurityUpdate = element (unsafeCoerce _mdSecurityUpdate)
 
-foreign import mdSecurityUpdateGood_ :: ReactIcon
+foreign import _mdSecurityUpdateGood :: ReactIcon
 
 mdSecurityUpdateGood :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSecurityUpdateGood = element (unsafeCoerce mdSecurityUpdateGood_)
+mdSecurityUpdateGood = element (unsafeCoerce _mdSecurityUpdateGood)
 
-foreign import mdSecurityUpdateWarning_ :: ReactIcon
+foreign import _mdSecurityUpdateWarning :: ReactIcon
 
 mdSecurityUpdateWarning :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSecurityUpdateWarning = element (unsafeCoerce mdSecurityUpdateWarning_)
+mdSecurityUpdateWarning = element (unsafeCoerce _mdSecurityUpdateWarning)
 
-foreign import mdSegment_ :: ReactIcon
+foreign import _mdSegment :: ReactIcon
 
 mdSegment :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSegment = element (unsafeCoerce mdSegment_)
+mdSegment = element (unsafeCoerce _mdSegment)
 
-foreign import mdSelectAll_ :: ReactIcon
+foreign import _mdSelectAll :: ReactIcon
 
 mdSelectAll :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSelectAll = element (unsafeCoerce mdSelectAll_)
+mdSelectAll = element (unsafeCoerce _mdSelectAll)
 
-foreign import mdSelfImprovement_ :: ReactIcon
+foreign import _mdSelfImprovement :: ReactIcon
 
 mdSelfImprovement :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSelfImprovement = element (unsafeCoerce mdSelfImprovement_)
+mdSelfImprovement = element (unsafeCoerce _mdSelfImprovement)
 
-foreign import mdSell_ :: ReactIcon
+foreign import _mdSell :: ReactIcon
 
 mdSell :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSell = element (unsafeCoerce mdSell_)
+mdSell = element (unsafeCoerce _mdSell)
 
-foreign import mdSend_ :: ReactIcon
+foreign import _mdSend :: ReactIcon
 
 mdSend :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSend = element (unsafeCoerce mdSend_)
+mdSend = element (unsafeCoerce _mdSend)
 
-foreign import mdSendAndArchive_ :: ReactIcon
+foreign import _mdSendAndArchive :: ReactIcon
 
 mdSendAndArchive :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSendAndArchive = element (unsafeCoerce mdSendAndArchive_)
+mdSendAndArchive = element (unsafeCoerce _mdSendAndArchive)
 
-foreign import mdSendToMobile_ :: ReactIcon
+foreign import _mdSendToMobile :: ReactIcon
 
 mdSendToMobile :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSendToMobile = element (unsafeCoerce mdSendToMobile_)
+mdSendToMobile = element (unsafeCoerce _mdSendToMobile)
 
-foreign import mdSensorDoor_ :: ReactIcon
+foreign import _mdSensorDoor :: ReactIcon
 
 mdSensorDoor :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSensorDoor = element (unsafeCoerce mdSensorDoor_)
+mdSensorDoor = element (unsafeCoerce _mdSensorDoor)
 
-foreign import mdSensors_ :: ReactIcon
+foreign import _mdSensors :: ReactIcon
 
 mdSensors :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSensors = element (unsafeCoerce mdSensors_)
+mdSensors = element (unsafeCoerce _mdSensors)
 
-foreign import mdSensorsOff_ :: ReactIcon
+foreign import _mdSensorsOff :: ReactIcon
 
 mdSensorsOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSensorsOff = element (unsafeCoerce mdSensorsOff_)
+mdSensorsOff = element (unsafeCoerce _mdSensorsOff)
 
-foreign import mdSensorWindow_ :: ReactIcon
+foreign import _mdSensorWindow :: ReactIcon
 
 mdSensorWindow :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSensorWindow = element (unsafeCoerce mdSensorWindow_)
+mdSensorWindow = element (unsafeCoerce _mdSensorWindow)
 
-foreign import mdSentimentDissatisfied_ :: ReactIcon
+foreign import _mdSentimentDissatisfied :: ReactIcon
 
 mdSentimentDissatisfied :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSentimentDissatisfied = element (unsafeCoerce mdSentimentDissatisfied_)
+mdSentimentDissatisfied = element (unsafeCoerce _mdSentimentDissatisfied)
 
-foreign import mdSentimentNeutral_ :: ReactIcon
+foreign import _mdSentimentNeutral :: ReactIcon
 
 mdSentimentNeutral :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSentimentNeutral = element (unsafeCoerce mdSentimentNeutral_)
+mdSentimentNeutral = element (unsafeCoerce _mdSentimentNeutral)
 
-foreign import mdSentimentSatisfied_ :: ReactIcon
+foreign import _mdSentimentSatisfied :: ReactIcon
 
 mdSentimentSatisfied :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSentimentSatisfied = element (unsafeCoerce mdSentimentSatisfied_)
+mdSentimentSatisfied = element (unsafeCoerce _mdSentimentSatisfied)
 
-foreign import mdSentimentSatisfiedAlt_ :: ReactIcon
+foreign import _mdSentimentSatisfiedAlt :: ReactIcon
 
 mdSentimentSatisfiedAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSentimentSatisfiedAlt = element (unsafeCoerce mdSentimentSatisfiedAlt_)
+mdSentimentSatisfiedAlt = element (unsafeCoerce _mdSentimentSatisfiedAlt)
 
-foreign import mdSentimentVeryDissatisfied_ :: ReactIcon
+foreign import _mdSentimentVeryDissatisfied :: ReactIcon
 
 mdSentimentVeryDissatisfied :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSentimentVeryDissatisfied = element (unsafeCoerce mdSentimentVeryDissatisfied_)
+mdSentimentVeryDissatisfied = element (unsafeCoerce _mdSentimentVeryDissatisfied)
 
-foreign import mdSentimentVerySatisfied_ :: ReactIcon
+foreign import _mdSentimentVerySatisfied :: ReactIcon
 
 mdSentimentVerySatisfied :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSentimentVerySatisfied = element (unsafeCoerce mdSentimentVerySatisfied_)
+mdSentimentVerySatisfied = element (unsafeCoerce _mdSentimentVerySatisfied)
 
-foreign import mdSetMeal_ :: ReactIcon
+foreign import _mdSetMeal :: ReactIcon
 
 mdSetMeal :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSetMeal = element (unsafeCoerce mdSetMeal_)
+mdSetMeal = element (unsafeCoerce _mdSetMeal)
 
-foreign import mdSettings_ :: ReactIcon
+foreign import _mdSettings :: ReactIcon
 
 mdSettings :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSettings = element (unsafeCoerce mdSettings_)
+mdSettings = element (unsafeCoerce _mdSettings)
 
-foreign import mdSettingsAccessibility_ :: ReactIcon
+foreign import _mdSettingsAccessibility :: ReactIcon
 
 mdSettingsAccessibility :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSettingsAccessibility = element (unsafeCoerce mdSettingsAccessibility_)
+mdSettingsAccessibility = element (unsafeCoerce _mdSettingsAccessibility)
 
-foreign import mdSettingsApplications_ :: ReactIcon
+foreign import _mdSettingsApplications :: ReactIcon
 
 mdSettingsApplications :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSettingsApplications = element (unsafeCoerce mdSettingsApplications_)
+mdSettingsApplications = element (unsafeCoerce _mdSettingsApplications)
 
-foreign import mdSettingsBackupRestore_ :: ReactIcon
+foreign import _mdSettingsBackupRestore :: ReactIcon
 
 mdSettingsBackupRestore :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSettingsBackupRestore = element (unsafeCoerce mdSettingsBackupRestore_)
+mdSettingsBackupRestore = element (unsafeCoerce _mdSettingsBackupRestore)
 
-foreign import mdSettingsBluetooth_ :: ReactIcon
+foreign import _mdSettingsBluetooth :: ReactIcon
 
 mdSettingsBluetooth :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSettingsBluetooth = element (unsafeCoerce mdSettingsBluetooth_)
+mdSettingsBluetooth = element (unsafeCoerce _mdSettingsBluetooth)
 
-foreign import mdSettingsBrightness_ :: ReactIcon
+foreign import _mdSettingsBrightness :: ReactIcon
 
 mdSettingsBrightness :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSettingsBrightness = element (unsafeCoerce mdSettingsBrightness_)
+mdSettingsBrightness = element (unsafeCoerce _mdSettingsBrightness)
 
-foreign import mdSettingsCell_ :: ReactIcon
+foreign import _mdSettingsCell :: ReactIcon
 
 mdSettingsCell :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSettingsCell = element (unsafeCoerce mdSettingsCell_)
+mdSettingsCell = element (unsafeCoerce _mdSettingsCell)
 
-foreign import mdSettingsEthernet_ :: ReactIcon
+foreign import _mdSettingsEthernet :: ReactIcon
 
 mdSettingsEthernet :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSettingsEthernet = element (unsafeCoerce mdSettingsEthernet_)
+mdSettingsEthernet = element (unsafeCoerce _mdSettingsEthernet)
 
-foreign import mdSettingsInputAntenna_ :: ReactIcon
+foreign import _mdSettingsInputAntenna :: ReactIcon
 
 mdSettingsInputAntenna :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSettingsInputAntenna = element (unsafeCoerce mdSettingsInputAntenna_)
+mdSettingsInputAntenna = element (unsafeCoerce _mdSettingsInputAntenna)
 
-foreign import mdSettingsInputComponent_ :: ReactIcon
+foreign import _mdSettingsInputComponent :: ReactIcon
 
 mdSettingsInputComponent :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSettingsInputComponent = element (unsafeCoerce mdSettingsInputComponent_)
+mdSettingsInputComponent = element (unsafeCoerce _mdSettingsInputComponent)
 
-foreign import mdSettingsInputComposite_ :: ReactIcon
+foreign import _mdSettingsInputComposite :: ReactIcon
 
 mdSettingsInputComposite :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSettingsInputComposite = element (unsafeCoerce mdSettingsInputComposite_)
+mdSettingsInputComposite = element (unsafeCoerce _mdSettingsInputComposite)
 
-foreign import mdSettingsInputHdmi_ :: ReactIcon
+foreign import _mdSettingsInputHdmi :: ReactIcon
 
 mdSettingsInputHdmi :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSettingsInputHdmi = element (unsafeCoerce mdSettingsInputHdmi_)
+mdSettingsInputHdmi = element (unsafeCoerce _mdSettingsInputHdmi)
 
-foreign import mdSettingsInputSvideo_ :: ReactIcon
+foreign import _mdSettingsInputSvideo :: ReactIcon
 
 mdSettingsInputSvideo :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSettingsInputSvideo = element (unsafeCoerce mdSettingsInputSvideo_)
+mdSettingsInputSvideo = element (unsafeCoerce _mdSettingsInputSvideo)
 
-foreign import mdSettingsOverscan_ :: ReactIcon
+foreign import _mdSettingsOverscan :: ReactIcon
 
 mdSettingsOverscan :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSettingsOverscan = element (unsafeCoerce mdSettingsOverscan_)
+mdSettingsOverscan = element (unsafeCoerce _mdSettingsOverscan)
 
-foreign import mdSettingsPhone_ :: ReactIcon
+foreign import _mdSettingsPhone :: ReactIcon
 
 mdSettingsPhone :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSettingsPhone = element (unsafeCoerce mdSettingsPhone_)
+mdSettingsPhone = element (unsafeCoerce _mdSettingsPhone)
 
-foreign import mdSettingsPower_ :: ReactIcon
+foreign import _mdSettingsPower :: ReactIcon
 
 mdSettingsPower :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSettingsPower = element (unsafeCoerce mdSettingsPower_)
+mdSettingsPower = element (unsafeCoerce _mdSettingsPower)
 
-foreign import mdSettingsRemote_ :: ReactIcon
+foreign import _mdSettingsRemote :: ReactIcon
 
 mdSettingsRemote :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSettingsRemote = element (unsafeCoerce mdSettingsRemote_)
+mdSettingsRemote = element (unsafeCoerce _mdSettingsRemote)
 
-foreign import mdSettingsSuggest_ :: ReactIcon
+foreign import _mdSettingsSuggest :: ReactIcon
 
 mdSettingsSuggest :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSettingsSuggest = element (unsafeCoerce mdSettingsSuggest_)
+mdSettingsSuggest = element (unsafeCoerce _mdSettingsSuggest)
 
-foreign import mdSettingsSystemDaydream_ :: ReactIcon
+foreign import _mdSettingsSystemDaydream :: ReactIcon
 
 mdSettingsSystemDaydream :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSettingsSystemDaydream = element (unsafeCoerce mdSettingsSystemDaydream_)
+mdSettingsSystemDaydream = element (unsafeCoerce _mdSettingsSystemDaydream)
 
-foreign import mdSettingsVoice_ :: ReactIcon
+foreign import _mdSettingsVoice :: ReactIcon
 
 mdSettingsVoice :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSettingsVoice = element (unsafeCoerce mdSettingsVoice_)
+mdSettingsVoice = element (unsafeCoerce _mdSettingsVoice)
 
-foreign import mdShare_ :: ReactIcon
+foreign import _mdShare :: ReactIcon
 
 mdShare :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdShare = element (unsafeCoerce mdShare_)
+mdShare = element (unsafeCoerce _mdShare)
 
-foreign import mdShareLocation_ :: ReactIcon
+foreign import _mdShareLocation :: ReactIcon
 
 mdShareLocation :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdShareLocation = element (unsafeCoerce mdShareLocation_)
+mdShareLocation = element (unsafeCoerce _mdShareLocation)
 
-foreign import mdShield_ :: ReactIcon
+foreign import _mdShield :: ReactIcon
 
 mdShield :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdShield = element (unsafeCoerce mdShield_)
+mdShield = element (unsafeCoerce _mdShield)
 
-foreign import mdShop_ :: ReactIcon
+foreign import _mdShop :: ReactIcon
 
 mdShop :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdShop = element (unsafeCoerce mdShop_)
+mdShop = element (unsafeCoerce _mdShop)
 
-foreign import mdShoppingBag_ :: ReactIcon
+foreign import _mdShoppingBag :: ReactIcon
 
 mdShoppingBag :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdShoppingBag = element (unsafeCoerce mdShoppingBag_)
+mdShoppingBag = element (unsafeCoerce _mdShoppingBag)
 
-foreign import mdShoppingBasket_ :: ReactIcon
+foreign import _mdShoppingBasket :: ReactIcon
 
 mdShoppingBasket :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdShoppingBasket = element (unsafeCoerce mdShoppingBasket_)
+mdShoppingBasket = element (unsafeCoerce _mdShoppingBasket)
 
-foreign import mdShoppingCart_ :: ReactIcon
+foreign import _mdShoppingCart :: ReactIcon
 
 mdShoppingCart :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdShoppingCart = element (unsafeCoerce mdShoppingCart_)
+mdShoppingCart = element (unsafeCoerce _mdShoppingCart)
 
-foreign import mdShopTwo_ :: ReactIcon
+foreign import _mdShopTwo :: ReactIcon
 
 mdShopTwo :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdShopTwo = element (unsafeCoerce mdShopTwo_)
+mdShopTwo = element (unsafeCoerce _mdShopTwo)
 
-foreign import mdShortcut_ :: ReactIcon
+foreign import _mdShortcut :: ReactIcon
 
 mdShortcut :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdShortcut = element (unsafeCoerce mdShortcut_)
+mdShortcut = element (unsafeCoerce _mdShortcut)
 
-foreign import mdShortText_ :: ReactIcon
+foreign import _mdShortText :: ReactIcon
 
 mdShortText :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdShortText = element (unsafeCoerce mdShortText_)
+mdShortText = element (unsafeCoerce _mdShortText)
 
-foreign import mdShowChart_ :: ReactIcon
+foreign import _mdShowChart :: ReactIcon
 
 mdShowChart :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdShowChart = element (unsafeCoerce mdShowChart_)
+mdShowChart = element (unsafeCoerce _mdShowChart)
 
-foreign import mdShower_ :: ReactIcon
+foreign import _mdShower :: ReactIcon
 
 mdShower :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdShower = element (unsafeCoerce mdShower_)
+mdShower = element (unsafeCoerce _mdShower)
 
-foreign import mdShuffle_ :: ReactIcon
+foreign import _mdShuffle :: ReactIcon
 
 mdShuffle :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdShuffle = element (unsafeCoerce mdShuffle_)
+mdShuffle = element (unsafeCoerce _mdShuffle)
 
-foreign import mdShuffleOn_ :: ReactIcon
+foreign import _mdShuffleOn :: ReactIcon
 
 mdShuffleOn :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdShuffleOn = element (unsafeCoerce mdShuffleOn_)
+mdShuffleOn = element (unsafeCoerce _mdShuffleOn)
 
-foreign import mdShutterSpeed_ :: ReactIcon
+foreign import _mdShutterSpeed :: ReactIcon
 
 mdShutterSpeed :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdShutterSpeed = element (unsafeCoerce mdShutterSpeed_)
+mdShutterSpeed = element (unsafeCoerce _mdShutterSpeed)
 
-foreign import mdSick_ :: ReactIcon
+foreign import _mdSick :: ReactIcon
 
 mdSick :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSick = element (unsafeCoerce mdSick_)
+mdSick = element (unsafeCoerce _mdSick)
 
-foreign import mdSignalCellularAlt_ :: ReactIcon
+foreign import _mdSignalCellularAlt :: ReactIcon
 
 mdSignalCellularAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSignalCellularAlt = element (unsafeCoerce mdSignalCellularAlt_)
+mdSignalCellularAlt = element (unsafeCoerce _mdSignalCellularAlt)
 
-foreign import mdSignalCellularNodata_ :: ReactIcon
+foreign import _mdSignalCellularNodata :: ReactIcon
 
 mdSignalCellularNodata :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSignalCellularNodata = element (unsafeCoerce mdSignalCellularNodata_)
+mdSignalCellularNodata = element (unsafeCoerce _mdSignalCellularNodata)
 
-foreign import mdSignalCellularNoSim_ :: ReactIcon
+foreign import _mdSignalCellularNoSim :: ReactIcon
 
 mdSignalCellularNoSim :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSignalCellularNoSim = element (unsafeCoerce mdSignalCellularNoSim_)
+mdSignalCellularNoSim = element (unsafeCoerce _mdSignalCellularNoSim)
 
-foreign import mdSignalCellularNull_ :: ReactIcon
+foreign import _mdSignalCellularNull :: ReactIcon
 
 mdSignalCellularNull :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSignalCellularNull = element (unsafeCoerce mdSignalCellularNull_)
+mdSignalCellularNull = element (unsafeCoerce _mdSignalCellularNull)
 
-foreign import mdSignalCellularOff_ :: ReactIcon
+foreign import _mdSignalCellularOff :: ReactIcon
 
 mdSignalCellularOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSignalCellularOff = element (unsafeCoerce mdSignalCellularOff_)
+mdSignalCellularOff = element (unsafeCoerce _mdSignalCellularOff)
 
-foreign import mdSignalWifiBad_ :: ReactIcon
+foreign import _mdSignalWifiBad :: ReactIcon
 
 mdSignalWifiBad :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSignalWifiBad = element (unsafeCoerce mdSignalWifiBad_)
+mdSignalWifiBad = element (unsafeCoerce _mdSignalWifiBad)
 
-foreign import mdSignalWifiOff_ :: ReactIcon
+foreign import _mdSignalWifiOff :: ReactIcon
 
 mdSignalWifiOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSignalWifiOff = element (unsafeCoerce mdSignalWifiOff_)
+mdSignalWifiOff = element (unsafeCoerce _mdSignalWifiOff)
 
-foreign import mdSignalWifiStatusbarConnectedNoInternet_ :: ReactIcon
+foreign import _mdSignalWifiStatusbarConnectedNoInternet :: ReactIcon
 
 mdSignalWifiStatusbarConnectedNoInternet :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSignalWifiStatusbarConnectedNoInternet = element (unsafeCoerce mdSignalWifiStatusbarConnectedNoInternet_)
+mdSignalWifiStatusbarConnectedNoInternet = element (unsafeCoerce _mdSignalWifiStatusbarConnectedNoInternet)
 
-foreign import mdSignalWifiStatusbarNotConnected_ :: ReactIcon
+foreign import _mdSignalWifiStatusbarNotConnected :: ReactIcon
 
 mdSignalWifiStatusbarNotConnected :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSignalWifiStatusbarNotConnected = element (unsafeCoerce mdSignalWifiStatusbarNotConnected_)
+mdSignalWifiStatusbarNotConnected = element (unsafeCoerce _mdSignalWifiStatusbarNotConnected)
 
-foreign import mdSignalWifiStatusbarNull_ :: ReactIcon
+foreign import _mdSignalWifiStatusbarNull :: ReactIcon
 
 mdSignalWifiStatusbarNull :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSignalWifiStatusbarNull = element (unsafeCoerce mdSignalWifiStatusbarNull_)
+mdSignalWifiStatusbarNull = element (unsafeCoerce _mdSignalWifiStatusbarNull)
 
-foreign import mdSimCard_ :: ReactIcon
+foreign import _mdSimCard :: ReactIcon
 
 mdSimCard :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSimCard = element (unsafeCoerce mdSimCard_)
+mdSimCard = element (unsafeCoerce _mdSimCard)
 
-foreign import mdSimCardAlert_ :: ReactIcon
+foreign import _mdSimCardAlert :: ReactIcon
 
 mdSimCardAlert :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSimCardAlert = element (unsafeCoerce mdSimCardAlert_)
+mdSimCardAlert = element (unsafeCoerce _mdSimCardAlert)
 
-foreign import mdSimCardDownload_ :: ReactIcon
+foreign import _mdSimCardDownload :: ReactIcon
 
 mdSimCardDownload :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSimCardDownload = element (unsafeCoerce mdSimCardDownload_)
+mdSimCardDownload = element (unsafeCoerce _mdSimCardDownload)
 
-foreign import mdSingleBed_ :: ReactIcon
+foreign import _mdSingleBed :: ReactIcon
 
 mdSingleBed :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSingleBed = element (unsafeCoerce mdSingleBed_)
+mdSingleBed = element (unsafeCoerce _mdSingleBed)
 
-foreign import mdSip_ :: ReactIcon
+foreign import _mdSip :: ReactIcon
 
 mdSip :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSip = element (unsafeCoerce mdSip_)
+mdSip = element (unsafeCoerce _mdSip)
 
-foreign import mdSkateboarding_ :: ReactIcon
+foreign import _mdSkateboarding :: ReactIcon
 
 mdSkateboarding :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSkateboarding = element (unsafeCoerce mdSkateboarding_)
+mdSkateboarding = element (unsafeCoerce _mdSkateboarding)
 
-foreign import mdSkipNext_ :: ReactIcon
+foreign import _mdSkipNext :: ReactIcon
 
 mdSkipNext :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSkipNext = element (unsafeCoerce mdSkipNext_)
+mdSkipNext = element (unsafeCoerce _mdSkipNext)
 
-foreign import mdSkipPrevious_ :: ReactIcon
+foreign import _mdSkipPrevious :: ReactIcon
 
 mdSkipPrevious :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSkipPrevious = element (unsafeCoerce mdSkipPrevious_)
+mdSkipPrevious = element (unsafeCoerce _mdSkipPrevious)
 
-foreign import mdSledding_ :: ReactIcon
+foreign import _mdSledding :: ReactIcon
 
 mdSledding :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSledding = element (unsafeCoerce mdSledding_)
+mdSledding = element (unsafeCoerce _mdSledding)
 
-foreign import mdSlideshow_ :: ReactIcon
+foreign import _mdSlideshow :: ReactIcon
 
 mdSlideshow :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSlideshow = element (unsafeCoerce mdSlideshow_)
+mdSlideshow = element (unsafeCoerce _mdSlideshow)
 
-foreign import mdSlowMotionVideo_ :: ReactIcon
+foreign import _mdSlowMotionVideo :: ReactIcon
 
 mdSlowMotionVideo :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSlowMotionVideo = element (unsafeCoerce mdSlowMotionVideo_)
+mdSlowMotionVideo = element (unsafeCoerce _mdSlowMotionVideo)
 
-foreign import mdSmartButton_ :: ReactIcon
+foreign import _mdSmartButton :: ReactIcon
 
 mdSmartButton :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSmartButton = element (unsafeCoerce mdSmartButton_)
+mdSmartButton = element (unsafeCoerce _mdSmartButton)
 
-foreign import mdSmartDisplay_ :: ReactIcon
+foreign import _mdSmartDisplay :: ReactIcon
 
 mdSmartDisplay :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSmartDisplay = element (unsafeCoerce mdSmartDisplay_)
+mdSmartDisplay = element (unsafeCoerce _mdSmartDisplay)
 
-foreign import mdSmartphone_ :: ReactIcon
+foreign import _mdSmartphone :: ReactIcon
 
 mdSmartphone :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSmartphone = element (unsafeCoerce mdSmartphone_)
+mdSmartphone = element (unsafeCoerce _mdSmartphone)
 
-foreign import mdSmartScreen_ :: ReactIcon
+foreign import _mdSmartScreen :: ReactIcon
 
 mdSmartScreen :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSmartScreen = element (unsafeCoerce mdSmartScreen_)
+mdSmartScreen = element (unsafeCoerce _mdSmartScreen)
 
-foreign import mdSmartToy_ :: ReactIcon
+foreign import _mdSmartToy :: ReactIcon
 
 mdSmartToy :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSmartToy = element (unsafeCoerce mdSmartToy_)
+mdSmartToy = element (unsafeCoerce _mdSmartToy)
 
-foreign import mdSmokeFree_ :: ReactIcon
+foreign import _mdSmokeFree :: ReactIcon
 
 mdSmokeFree :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSmokeFree = element (unsafeCoerce mdSmokeFree_)
+mdSmokeFree = element (unsafeCoerce _mdSmokeFree)
 
-foreign import mdSmokingRooms_ :: ReactIcon
+foreign import _mdSmokingRooms :: ReactIcon
 
 mdSmokingRooms :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSmokingRooms = element (unsafeCoerce mdSmokingRooms_)
+mdSmokingRooms = element (unsafeCoerce _mdSmokingRooms)
 
-foreign import mdSms_ :: ReactIcon
+foreign import _mdSms :: ReactIcon
 
 mdSms :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSms = element (unsafeCoerce mdSms_)
+mdSms = element (unsafeCoerce _mdSms)
 
-foreign import mdSmsFailed_ :: ReactIcon
+foreign import _mdSmsFailed :: ReactIcon
 
 mdSmsFailed :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSmsFailed = element (unsafeCoerce mdSmsFailed_)
+mdSmsFailed = element (unsafeCoerce _mdSmsFailed)
 
-foreign import mdSnippetFolder_ :: ReactIcon
+foreign import _mdSnippetFolder :: ReactIcon
 
 mdSnippetFolder :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSnippetFolder = element (unsafeCoerce mdSnippetFolder_)
+mdSnippetFolder = element (unsafeCoerce _mdSnippetFolder)
 
-foreign import mdSnooze_ :: ReactIcon
+foreign import _mdSnooze :: ReactIcon
 
 mdSnooze :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSnooze = element (unsafeCoerce mdSnooze_)
+mdSnooze = element (unsafeCoerce _mdSnooze)
 
-foreign import mdSnowboarding_ :: ReactIcon
+foreign import _mdSnowboarding :: ReactIcon
 
 mdSnowboarding :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSnowboarding = element (unsafeCoerce mdSnowboarding_)
+mdSnowboarding = element (unsafeCoerce _mdSnowboarding)
 
-foreign import mdSnowmobile_ :: ReactIcon
+foreign import _mdSnowmobile :: ReactIcon
 
 mdSnowmobile :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSnowmobile = element (unsafeCoerce mdSnowmobile_)
+mdSnowmobile = element (unsafeCoerce _mdSnowmobile)
 
-foreign import mdSnowshoeing_ :: ReactIcon
+foreign import _mdSnowshoeing :: ReactIcon
 
 mdSnowshoeing :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSnowshoeing = element (unsafeCoerce mdSnowshoeing_)
+mdSnowshoeing = element (unsafeCoerce _mdSnowshoeing)
 
-foreign import mdSoap_ :: ReactIcon
+foreign import _mdSoap :: ReactIcon
 
 mdSoap :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSoap = element (unsafeCoerce mdSoap_)
+mdSoap = element (unsafeCoerce _mdSoap)
 
-foreign import mdSocialDistance_ :: ReactIcon
+foreign import _mdSocialDistance :: ReactIcon
 
 mdSocialDistance :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSocialDistance = element (unsafeCoerce mdSocialDistance_)
+mdSocialDistance = element (unsafeCoerce _mdSocialDistance)
 
-foreign import mdSort_ :: ReactIcon
+foreign import _mdSort :: ReactIcon
 
 mdSort :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSort = element (unsafeCoerce mdSort_)
+mdSort = element (unsafeCoerce _mdSort)
 
-foreign import mdSortByAlpha_ :: ReactIcon
+foreign import _mdSortByAlpha :: ReactIcon
 
 mdSortByAlpha :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSortByAlpha = element (unsafeCoerce mdSortByAlpha_)
+mdSortByAlpha = element (unsafeCoerce _mdSortByAlpha)
 
-foreign import mdSource_ :: ReactIcon
+foreign import _mdSource :: ReactIcon
 
 mdSource :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSource = element (unsafeCoerce mdSource_)
+mdSource = element (unsafeCoerce _mdSource)
 
-foreign import mdSouth_ :: ReactIcon
+foreign import _mdSouth :: ReactIcon
 
 mdSouth :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSouth = element (unsafeCoerce mdSouth_)
+mdSouth = element (unsafeCoerce _mdSouth)
 
-foreign import mdSouthEast_ :: ReactIcon
+foreign import _mdSouthEast :: ReactIcon
 
 mdSouthEast :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSouthEast = element (unsafeCoerce mdSouthEast_)
+mdSouthEast = element (unsafeCoerce _mdSouthEast)
 
-foreign import mdSouthWest_ :: ReactIcon
+foreign import _mdSouthWest :: ReactIcon
 
 mdSouthWest :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSouthWest = element (unsafeCoerce mdSouthWest_)
+mdSouthWest = element (unsafeCoerce _mdSouthWest)
 
-foreign import mdSpa_ :: ReactIcon
+foreign import _mdSpa :: ReactIcon
 
 mdSpa :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSpa = element (unsafeCoerce mdSpa_)
+mdSpa = element (unsafeCoerce _mdSpa)
 
-foreign import mdSpaceBar_ :: ReactIcon
+foreign import _mdSpaceBar :: ReactIcon
 
 mdSpaceBar :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSpaceBar = element (unsafeCoerce mdSpaceBar_)
+mdSpaceBar = element (unsafeCoerce _mdSpaceBar)
 
-foreign import mdSpaceDashboard_ :: ReactIcon
+foreign import _mdSpaceDashboard :: ReactIcon
 
 mdSpaceDashboard :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSpaceDashboard = element (unsafeCoerce mdSpaceDashboard_)
+mdSpaceDashboard = element (unsafeCoerce _mdSpaceDashboard)
 
-foreign import mdSpeaker_ :: ReactIcon
+foreign import _mdSpeaker :: ReactIcon
 
 mdSpeaker :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSpeaker = element (unsafeCoerce mdSpeaker_)
+mdSpeaker = element (unsafeCoerce _mdSpeaker)
 
-foreign import mdSpeakerGroup_ :: ReactIcon
+foreign import _mdSpeakerGroup :: ReactIcon
 
 mdSpeakerGroup :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSpeakerGroup = element (unsafeCoerce mdSpeakerGroup_)
+mdSpeakerGroup = element (unsafeCoerce _mdSpeakerGroup)
 
-foreign import mdSpeakerNotes_ :: ReactIcon
+foreign import _mdSpeakerNotes :: ReactIcon
 
 mdSpeakerNotes :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSpeakerNotes = element (unsafeCoerce mdSpeakerNotes_)
+mdSpeakerNotes = element (unsafeCoerce _mdSpeakerNotes)
 
-foreign import mdSpeakerNotesOff_ :: ReactIcon
+foreign import _mdSpeakerNotesOff :: ReactIcon
 
 mdSpeakerNotesOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSpeakerNotesOff = element (unsafeCoerce mdSpeakerNotesOff_)
+mdSpeakerNotesOff = element (unsafeCoerce _mdSpeakerNotesOff)
 
-foreign import mdSpeakerPhone_ :: ReactIcon
+foreign import _mdSpeakerPhone :: ReactIcon
 
 mdSpeakerPhone :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSpeakerPhone = element (unsafeCoerce mdSpeakerPhone_)
+mdSpeakerPhone = element (unsafeCoerce _mdSpeakerPhone)
 
-foreign import mdSpeed_ :: ReactIcon
+foreign import _mdSpeed :: ReactIcon
 
 mdSpeed :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSpeed = element (unsafeCoerce mdSpeed_)
+mdSpeed = element (unsafeCoerce _mdSpeed)
 
-foreign import mdSpellcheck_ :: ReactIcon
+foreign import _mdSpellcheck :: ReactIcon
 
 mdSpellcheck :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSpellcheck = element (unsafeCoerce mdSpellcheck_)
+mdSpellcheck = element (unsafeCoerce _mdSpellcheck)
 
-foreign import mdSplitscreen_ :: ReactIcon
+foreign import _mdSplitscreen :: ReactIcon
 
 mdSplitscreen :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSplitscreen = element (unsafeCoerce mdSplitscreen_)
+mdSplitscreen = element (unsafeCoerce _mdSplitscreen)
 
-foreign import mdSports_ :: ReactIcon
+foreign import _mdSports :: ReactIcon
 
 mdSports :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSports = element (unsafeCoerce mdSports_)
+mdSports = element (unsafeCoerce _mdSports)
 
-foreign import mdSportsBar_ :: ReactIcon
+foreign import _mdSportsBar :: ReactIcon
 
 mdSportsBar :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSportsBar = element (unsafeCoerce mdSportsBar_)
+mdSportsBar = element (unsafeCoerce _mdSportsBar)
 
-foreign import mdSportsBaseball_ :: ReactIcon
+foreign import _mdSportsBaseball :: ReactIcon
 
 mdSportsBaseball :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSportsBaseball = element (unsafeCoerce mdSportsBaseball_)
+mdSportsBaseball = element (unsafeCoerce _mdSportsBaseball)
 
-foreign import mdSportsBasketball_ :: ReactIcon
+foreign import _mdSportsBasketball :: ReactIcon
 
 mdSportsBasketball :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSportsBasketball = element (unsafeCoerce mdSportsBasketball_)
+mdSportsBasketball = element (unsafeCoerce _mdSportsBasketball)
 
-foreign import mdSportsCricket_ :: ReactIcon
+foreign import _mdSportsCricket :: ReactIcon
 
 mdSportsCricket :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSportsCricket = element (unsafeCoerce mdSportsCricket_)
+mdSportsCricket = element (unsafeCoerce _mdSportsCricket)
 
-foreign import mdSportsEsports_ :: ReactIcon
+foreign import _mdSportsEsports :: ReactIcon
 
 mdSportsEsports :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSportsEsports = element (unsafeCoerce mdSportsEsports_)
+mdSportsEsports = element (unsafeCoerce _mdSportsEsports)
 
-foreign import mdSportsFootball_ :: ReactIcon
+foreign import _mdSportsFootball :: ReactIcon
 
 mdSportsFootball :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSportsFootball = element (unsafeCoerce mdSportsFootball_)
+mdSportsFootball = element (unsafeCoerce _mdSportsFootball)
 
-foreign import mdSportsGolf_ :: ReactIcon
+foreign import _mdSportsGolf :: ReactIcon
 
 mdSportsGolf :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSportsGolf = element (unsafeCoerce mdSportsGolf_)
+mdSportsGolf = element (unsafeCoerce _mdSportsGolf)
 
-foreign import mdSportsHandball_ :: ReactIcon
+foreign import _mdSportsHandball :: ReactIcon
 
 mdSportsHandball :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSportsHandball = element (unsafeCoerce mdSportsHandball_)
+mdSportsHandball = element (unsafeCoerce _mdSportsHandball)
 
-foreign import mdSportsHockey_ :: ReactIcon
+foreign import _mdSportsHockey :: ReactIcon
 
 mdSportsHockey :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSportsHockey = element (unsafeCoerce mdSportsHockey_)
+mdSportsHockey = element (unsafeCoerce _mdSportsHockey)
 
-foreign import mdSportsKabaddi_ :: ReactIcon
+foreign import _mdSportsKabaddi :: ReactIcon
 
 mdSportsKabaddi :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSportsKabaddi = element (unsafeCoerce mdSportsKabaddi_)
+mdSportsKabaddi = element (unsafeCoerce _mdSportsKabaddi)
 
-foreign import mdSportsMma_ :: ReactIcon
+foreign import _mdSportsMma :: ReactIcon
 
 mdSportsMma :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSportsMma = element (unsafeCoerce mdSportsMma_)
+mdSportsMma = element (unsafeCoerce _mdSportsMma)
 
-foreign import mdSportsMotorsports_ :: ReactIcon
+foreign import _mdSportsMotorsports :: ReactIcon
 
 mdSportsMotorsports :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSportsMotorsports = element (unsafeCoerce mdSportsMotorsports_)
+mdSportsMotorsports = element (unsafeCoerce _mdSportsMotorsports)
 
-foreign import mdSportsRugby_ :: ReactIcon
+foreign import _mdSportsRugby :: ReactIcon
 
 mdSportsRugby :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSportsRugby = element (unsafeCoerce mdSportsRugby_)
+mdSportsRugby = element (unsafeCoerce _mdSportsRugby)
 
-foreign import mdSportsScore_ :: ReactIcon
+foreign import _mdSportsScore :: ReactIcon
 
 mdSportsScore :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSportsScore = element (unsafeCoerce mdSportsScore_)
+mdSportsScore = element (unsafeCoerce _mdSportsScore)
 
-foreign import mdSportsSoccer_ :: ReactIcon
+foreign import _mdSportsSoccer :: ReactIcon
 
 mdSportsSoccer :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSportsSoccer = element (unsafeCoerce mdSportsSoccer_)
+mdSportsSoccer = element (unsafeCoerce _mdSportsSoccer)
 
-foreign import mdSportsTennis_ :: ReactIcon
+foreign import _mdSportsTennis :: ReactIcon
 
 mdSportsTennis :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSportsTennis = element (unsafeCoerce mdSportsTennis_)
+mdSportsTennis = element (unsafeCoerce _mdSportsTennis)
 
-foreign import mdSportsVolleyball_ :: ReactIcon
+foreign import _mdSportsVolleyball :: ReactIcon
 
 mdSportsVolleyball :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSportsVolleyball = element (unsafeCoerce mdSportsVolleyball_)
+mdSportsVolleyball = element (unsafeCoerce _mdSportsVolleyball)
 
-foreign import mdSquareFoot_ :: ReactIcon
+foreign import _mdSquareFoot :: ReactIcon
 
 mdSquareFoot :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSquareFoot = element (unsafeCoerce mdSquareFoot_)
+mdSquareFoot = element (unsafeCoerce _mdSquareFoot)
 
-foreign import mdStackedBarChart_ :: ReactIcon
+foreign import _mdStackedBarChart :: ReactIcon
 
 mdStackedBarChart :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdStackedBarChart = element (unsafeCoerce mdStackedBarChart_)
+mdStackedBarChart = element (unsafeCoerce _mdStackedBarChart)
 
-foreign import mdStackedLineChart_ :: ReactIcon
+foreign import _mdStackedLineChart :: ReactIcon
 
 mdStackedLineChart :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdStackedLineChart = element (unsafeCoerce mdStackedLineChart_)
+mdStackedLineChart = element (unsafeCoerce _mdStackedLineChart)
 
-foreign import mdStairs_ :: ReactIcon
+foreign import _mdStairs :: ReactIcon
 
 mdStairs :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdStairs = element (unsafeCoerce mdStairs_)
+mdStairs = element (unsafeCoerce _mdStairs)
 
-foreign import mdStar_ :: ReactIcon
+foreign import _mdStar :: ReactIcon
 
 mdStar :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdStar = element (unsafeCoerce mdStar_)
+mdStar = element (unsafeCoerce _mdStar)
 
-foreign import mdStarBorder_ :: ReactIcon
+foreign import _mdStarBorder :: ReactIcon
 
 mdStarBorder :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdStarBorder = element (unsafeCoerce mdStarBorder_)
+mdStarBorder = element (unsafeCoerce _mdStarBorder)
 
-foreign import mdStarHalf_ :: ReactIcon
+foreign import _mdStarHalf :: ReactIcon
 
 mdStarHalf :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdStarHalf = element (unsafeCoerce mdStarHalf_)
+mdStarHalf = element (unsafeCoerce _mdStarHalf)
 
-foreign import mdStarOutline_ :: ReactIcon
+foreign import _mdStarOutline :: ReactIcon
 
 mdStarOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdStarOutline = element (unsafeCoerce mdStarOutline_)
+mdStarOutline = element (unsafeCoerce _mdStarOutline)
 
-foreign import mdStarRate_ :: ReactIcon
+foreign import _mdStarRate :: ReactIcon
 
 mdStarRate :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdStarRate = element (unsafeCoerce mdStarRate_)
+mdStarRate = element (unsafeCoerce _mdStarRate)
 
-foreign import mdStars_ :: ReactIcon
+foreign import _mdStars :: ReactIcon
 
 mdStars :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdStars = element (unsafeCoerce mdStars_)
+mdStars = element (unsafeCoerce _mdStars)
 
-foreign import mdStayCurrentLandscape_ :: ReactIcon
+foreign import _mdStayCurrentLandscape :: ReactIcon
 
 mdStayCurrentLandscape :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdStayCurrentLandscape = element (unsafeCoerce mdStayCurrentLandscape_)
+mdStayCurrentLandscape = element (unsafeCoerce _mdStayCurrentLandscape)
 
-foreign import mdStayCurrentPortrait_ :: ReactIcon
+foreign import _mdStayCurrentPortrait :: ReactIcon
 
 mdStayCurrentPortrait :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdStayCurrentPortrait = element (unsafeCoerce mdStayCurrentPortrait_)
+mdStayCurrentPortrait = element (unsafeCoerce _mdStayCurrentPortrait)
 
-foreign import mdStayPrimaryLandscape_ :: ReactIcon
+foreign import _mdStayPrimaryLandscape :: ReactIcon
 
 mdStayPrimaryLandscape :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdStayPrimaryLandscape = element (unsafeCoerce mdStayPrimaryLandscape_)
+mdStayPrimaryLandscape = element (unsafeCoerce _mdStayPrimaryLandscape)
 
-foreign import mdStayPrimaryPortrait_ :: ReactIcon
+foreign import _mdStayPrimaryPortrait :: ReactIcon
 
 mdStayPrimaryPortrait :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdStayPrimaryPortrait = element (unsafeCoerce mdStayPrimaryPortrait_)
+mdStayPrimaryPortrait = element (unsafeCoerce _mdStayPrimaryPortrait)
 
-foreign import mdStop_ :: ReactIcon
+foreign import _mdStop :: ReactIcon
 
 mdStop :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdStop = element (unsafeCoerce mdStop_)
+mdStop = element (unsafeCoerce _mdStop)
 
-foreign import mdStopCircle_ :: ReactIcon
+foreign import _mdStopCircle :: ReactIcon
 
 mdStopCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdStopCircle = element (unsafeCoerce mdStopCircle_)
+mdStopCircle = element (unsafeCoerce _mdStopCircle)
 
-foreign import mdStopScreenShare_ :: ReactIcon
+foreign import _mdStopScreenShare :: ReactIcon
 
 mdStopScreenShare :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdStopScreenShare = element (unsafeCoerce mdStopScreenShare_)
+mdStopScreenShare = element (unsafeCoerce _mdStopScreenShare)
 
-foreign import mdStorage_ :: ReactIcon
+foreign import _mdStorage :: ReactIcon
 
 mdStorage :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdStorage = element (unsafeCoerce mdStorage_)
+mdStorage = element (unsafeCoerce _mdStorage)
 
-foreign import mdStore_ :: ReactIcon
+foreign import _mdStore :: ReactIcon
 
 mdStore :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdStore = element (unsafeCoerce mdStore_)
+mdStore = element (unsafeCoerce _mdStore)
 
-foreign import mdStorefront_ :: ReactIcon
+foreign import _mdStorefront :: ReactIcon
 
 mdStorefront :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdStorefront = element (unsafeCoerce mdStorefront_)
+mdStorefront = element (unsafeCoerce _mdStorefront)
 
-foreign import mdStoreMallDirectory_ :: ReactIcon
+foreign import _mdStoreMallDirectory :: ReactIcon
 
 mdStoreMallDirectory :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdStoreMallDirectory = element (unsafeCoerce mdStoreMallDirectory_)
+mdStoreMallDirectory = element (unsafeCoerce _mdStoreMallDirectory)
 
-foreign import mdStorm_ :: ReactIcon
+foreign import _mdStorm :: ReactIcon
 
 mdStorm :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdStorm = element (unsafeCoerce mdStorm_)
+mdStorm = element (unsafeCoerce _mdStorm)
 
-foreign import mdStraighten_ :: ReactIcon
+foreign import _mdStraighten :: ReactIcon
 
 mdStraighten :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdStraighten = element (unsafeCoerce mdStraighten_)
+mdStraighten = element (unsafeCoerce _mdStraighten)
 
-foreign import mdStream_ :: ReactIcon
+foreign import _mdStream :: ReactIcon
 
 mdStream :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdStream = element (unsafeCoerce mdStream_)
+mdStream = element (unsafeCoerce _mdStream)
 
-foreign import mdStreetview_ :: ReactIcon
+foreign import _mdStreetview :: ReactIcon
 
 mdStreetview :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdStreetview = element (unsafeCoerce mdStreetview_)
+mdStreetview = element (unsafeCoerce _mdStreetview)
 
-foreign import mdStrikethroughS_ :: ReactIcon
+foreign import _mdStrikethroughS :: ReactIcon
 
 mdStrikethroughS :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdStrikethroughS = element (unsafeCoerce mdStrikethroughS_)
+mdStrikethroughS = element (unsafeCoerce _mdStrikethroughS)
 
-foreign import mdStroller_ :: ReactIcon
+foreign import _mdStroller :: ReactIcon
 
 mdStroller :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdStroller = element (unsafeCoerce mdStroller_)
+mdStroller = element (unsafeCoerce _mdStroller)
 
-foreign import mdStyle_ :: ReactIcon
+foreign import _mdStyle :: ReactIcon
 
 mdStyle :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdStyle = element (unsafeCoerce mdStyle_)
+mdStyle = element (unsafeCoerce _mdStyle)
 
-foreign import mdSubdirectoryArrowLeft_ :: ReactIcon
+foreign import _mdSubdirectoryArrowLeft :: ReactIcon
 
 mdSubdirectoryArrowLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSubdirectoryArrowLeft = element (unsafeCoerce mdSubdirectoryArrowLeft_)
+mdSubdirectoryArrowLeft = element (unsafeCoerce _mdSubdirectoryArrowLeft)
 
-foreign import mdSubdirectoryArrowRight_ :: ReactIcon
+foreign import _mdSubdirectoryArrowRight :: ReactIcon
 
 mdSubdirectoryArrowRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSubdirectoryArrowRight = element (unsafeCoerce mdSubdirectoryArrowRight_)
+mdSubdirectoryArrowRight = element (unsafeCoerce _mdSubdirectoryArrowRight)
 
-foreign import mdSubject_ :: ReactIcon
+foreign import _mdSubject :: ReactIcon
 
 mdSubject :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSubject = element (unsafeCoerce mdSubject_)
+mdSubject = element (unsafeCoerce _mdSubject)
 
-foreign import mdSubscript_ :: ReactIcon
+foreign import _mdSubscript :: ReactIcon
 
 mdSubscript :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSubscript = element (unsafeCoerce mdSubscript_)
+mdSubscript = element (unsafeCoerce _mdSubscript)
 
-foreign import mdSubscriptions_ :: ReactIcon
+foreign import _mdSubscriptions :: ReactIcon
 
 mdSubscriptions :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSubscriptions = element (unsafeCoerce mdSubscriptions_)
+mdSubscriptions = element (unsafeCoerce _mdSubscriptions)
 
-foreign import mdSubtitles_ :: ReactIcon
+foreign import _mdSubtitles :: ReactIcon
 
 mdSubtitles :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSubtitles = element (unsafeCoerce mdSubtitles_)
+mdSubtitles = element (unsafeCoerce _mdSubtitles)
 
-foreign import mdSubtitlesOff_ :: ReactIcon
+foreign import _mdSubtitlesOff :: ReactIcon
 
 mdSubtitlesOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSubtitlesOff = element (unsafeCoerce mdSubtitlesOff_)
+mdSubtitlesOff = element (unsafeCoerce _mdSubtitlesOff)
 
-foreign import mdSubway_ :: ReactIcon
+foreign import _mdSubway :: ReactIcon
 
 mdSubway :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSubway = element (unsafeCoerce mdSubway_)
+mdSubway = element (unsafeCoerce _mdSubway)
 
-foreign import mdSummarize_ :: ReactIcon
+foreign import _mdSummarize :: ReactIcon
 
 mdSummarize :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSummarize = element (unsafeCoerce mdSummarize_)
+mdSummarize = element (unsafeCoerce _mdSummarize)
 
-foreign import mdSuperscript_ :: ReactIcon
+foreign import _mdSuperscript :: ReactIcon
 
 mdSuperscript :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSuperscript = element (unsafeCoerce mdSuperscript_)
+mdSuperscript = element (unsafeCoerce _mdSuperscript)
 
-foreign import mdSupervisedUserCircle_ :: ReactIcon
+foreign import _mdSupervisedUserCircle :: ReactIcon
 
 mdSupervisedUserCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSupervisedUserCircle = element (unsafeCoerce mdSupervisedUserCircle_)
+mdSupervisedUserCircle = element (unsafeCoerce _mdSupervisedUserCircle)
 
-foreign import mdSupervisorAccount_ :: ReactIcon
+foreign import _mdSupervisorAccount :: ReactIcon
 
 mdSupervisorAccount :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSupervisorAccount = element (unsafeCoerce mdSupervisorAccount_)
+mdSupervisorAccount = element (unsafeCoerce _mdSupervisorAccount)
 
-foreign import mdSupport_ :: ReactIcon
+foreign import _mdSupport :: ReactIcon
 
 mdSupport :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSupport = element (unsafeCoerce mdSupport_)
+mdSupport = element (unsafeCoerce _mdSupport)
 
-foreign import mdSupportAgent_ :: ReactIcon
+foreign import _mdSupportAgent :: ReactIcon
 
 mdSupportAgent :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSupportAgent = element (unsafeCoerce mdSupportAgent_)
+mdSupportAgent = element (unsafeCoerce _mdSupportAgent)
 
-foreign import mdSurfing_ :: ReactIcon
+foreign import _mdSurfing :: ReactIcon
 
 mdSurfing :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSurfing = element (unsafeCoerce mdSurfing_)
+mdSurfing = element (unsafeCoerce _mdSurfing)
 
-foreign import mdSurroundSound_ :: ReactIcon
+foreign import _mdSurroundSound :: ReactIcon
 
 mdSurroundSound :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSurroundSound = element (unsafeCoerce mdSurroundSound_)
+mdSurroundSound = element (unsafeCoerce _mdSurroundSound)
 
-foreign import mdSwapCalls_ :: ReactIcon
+foreign import _mdSwapCalls :: ReactIcon
 
 mdSwapCalls :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSwapCalls = element (unsafeCoerce mdSwapCalls_)
+mdSwapCalls = element (unsafeCoerce _mdSwapCalls)
 
-foreign import mdSwapHoriz_ :: ReactIcon
+foreign import _mdSwapHoriz :: ReactIcon
 
 mdSwapHoriz :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSwapHoriz = element (unsafeCoerce mdSwapHoriz_)
+mdSwapHoriz = element (unsafeCoerce _mdSwapHoriz)
 
-foreign import mdSwapHorizontalCircle_ :: ReactIcon
+foreign import _mdSwapHorizontalCircle :: ReactIcon
 
 mdSwapHorizontalCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSwapHorizontalCircle = element (unsafeCoerce mdSwapHorizontalCircle_)
+mdSwapHorizontalCircle = element (unsafeCoerce _mdSwapHorizontalCircle)
 
-foreign import mdSwapVert_ :: ReactIcon
+foreign import _mdSwapVert :: ReactIcon
 
 mdSwapVert :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSwapVert = element (unsafeCoerce mdSwapVert_)
+mdSwapVert = element (unsafeCoerce _mdSwapVert)
 
-foreign import mdSwapVerticalCircle_ :: ReactIcon
+foreign import _mdSwapVerticalCircle :: ReactIcon
 
 mdSwapVerticalCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSwapVerticalCircle = element (unsafeCoerce mdSwapVerticalCircle_)
+mdSwapVerticalCircle = element (unsafeCoerce _mdSwapVerticalCircle)
 
-foreign import mdSwipe_ :: ReactIcon
+foreign import _mdSwipe :: ReactIcon
 
 mdSwipe :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSwipe = element (unsafeCoerce mdSwipe_)
+mdSwipe = element (unsafeCoerce _mdSwipe)
 
-foreign import mdSwitchAccount_ :: ReactIcon
+foreign import _mdSwitchAccount :: ReactIcon
 
 mdSwitchAccount :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSwitchAccount = element (unsafeCoerce mdSwitchAccount_)
+mdSwitchAccount = element (unsafeCoerce _mdSwitchAccount)
 
-foreign import mdSwitchCamera_ :: ReactIcon
+foreign import _mdSwitchCamera :: ReactIcon
 
 mdSwitchCamera :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSwitchCamera = element (unsafeCoerce mdSwitchCamera_)
+mdSwitchCamera = element (unsafeCoerce _mdSwitchCamera)
 
-foreign import mdSwitchLeft_ :: ReactIcon
+foreign import _mdSwitchLeft :: ReactIcon
 
 mdSwitchLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSwitchLeft = element (unsafeCoerce mdSwitchLeft_)
+mdSwitchLeft = element (unsafeCoerce _mdSwitchLeft)
 
-foreign import mdSwitchRight_ :: ReactIcon
+foreign import _mdSwitchRight :: ReactIcon
 
 mdSwitchRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSwitchRight = element (unsafeCoerce mdSwitchRight_)
+mdSwitchRight = element (unsafeCoerce _mdSwitchRight)
 
-foreign import mdSwitchVideo_ :: ReactIcon
+foreign import _mdSwitchVideo :: ReactIcon
 
 mdSwitchVideo :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSwitchVideo = element (unsafeCoerce mdSwitchVideo_)
+mdSwitchVideo = element (unsafeCoerce _mdSwitchVideo)
 
-foreign import mdSync_ :: ReactIcon
+foreign import _mdSync :: ReactIcon
 
 mdSync :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSync = element (unsafeCoerce mdSync_)
+mdSync = element (unsafeCoerce _mdSync)
 
-foreign import mdSyncAlt_ :: ReactIcon
+foreign import _mdSyncAlt :: ReactIcon
 
 mdSyncAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSyncAlt = element (unsafeCoerce mdSyncAlt_)
+mdSyncAlt = element (unsafeCoerce _mdSyncAlt)
 
-foreign import mdSyncDisabled_ :: ReactIcon
+foreign import _mdSyncDisabled :: ReactIcon
 
 mdSyncDisabled :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSyncDisabled = element (unsafeCoerce mdSyncDisabled_)
+mdSyncDisabled = element (unsafeCoerce _mdSyncDisabled)
 
-foreign import mdSyncProblem_ :: ReactIcon
+foreign import _mdSyncProblem :: ReactIcon
 
 mdSyncProblem :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSyncProblem = element (unsafeCoerce mdSyncProblem_)
+mdSyncProblem = element (unsafeCoerce _mdSyncProblem)
 
-foreign import mdSystemSecurityUpdate_ :: ReactIcon
+foreign import _mdSystemSecurityUpdate :: ReactIcon
 
 mdSystemSecurityUpdate :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSystemSecurityUpdate = element (unsafeCoerce mdSystemSecurityUpdate_)
+mdSystemSecurityUpdate = element (unsafeCoerce _mdSystemSecurityUpdate)
 
-foreign import mdSystemSecurityUpdateGood_ :: ReactIcon
+foreign import _mdSystemSecurityUpdateGood :: ReactIcon
 
 mdSystemSecurityUpdateGood :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSystemSecurityUpdateGood = element (unsafeCoerce mdSystemSecurityUpdateGood_)
+mdSystemSecurityUpdateGood = element (unsafeCoerce _mdSystemSecurityUpdateGood)
 
-foreign import mdSystemSecurityUpdateWarning_ :: ReactIcon
+foreign import _mdSystemSecurityUpdateWarning :: ReactIcon
 
 mdSystemSecurityUpdateWarning :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSystemSecurityUpdateWarning = element (unsafeCoerce mdSystemSecurityUpdateWarning_)
+mdSystemSecurityUpdateWarning = element (unsafeCoerce _mdSystemSecurityUpdateWarning)
 
-foreign import mdSystemUpdate_ :: ReactIcon
+foreign import _mdSystemUpdate :: ReactIcon
 
 mdSystemUpdate :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSystemUpdate = element (unsafeCoerce mdSystemUpdate_)
+mdSystemUpdate = element (unsafeCoerce _mdSystemUpdate)
 
-foreign import mdSystemUpdateAlt_ :: ReactIcon
+foreign import _mdSystemUpdateAlt :: ReactIcon
 
 mdSystemUpdateAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdSystemUpdateAlt = element (unsafeCoerce mdSystemUpdateAlt_)
+mdSystemUpdateAlt = element (unsafeCoerce _mdSystemUpdateAlt)
 
-foreign import mdTab_ :: ReactIcon
+foreign import _mdTab :: ReactIcon
 
 mdTab :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdTab = element (unsafeCoerce mdTab_)
+mdTab = element (unsafeCoerce _mdTab)
 
-foreign import mdTableChart_ :: ReactIcon
+foreign import _mdTableChart :: ReactIcon
 
 mdTableChart :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdTableChart = element (unsafeCoerce mdTableChart_)
+mdTableChart = element (unsafeCoerce _mdTableChart)
 
-foreign import mdTableRows_ :: ReactIcon
+foreign import _mdTableRows :: ReactIcon
 
 mdTableRows :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdTableRows = element (unsafeCoerce mdTableRows_)
+mdTableRows = element (unsafeCoerce _mdTableRows)
 
-foreign import mdTablet_ :: ReactIcon
+foreign import _mdTablet :: ReactIcon
 
 mdTablet :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdTablet = element (unsafeCoerce mdTablet_)
+mdTablet = element (unsafeCoerce _mdTablet)
 
-foreign import mdTabletAndroid_ :: ReactIcon
+foreign import _mdTabletAndroid :: ReactIcon
 
 mdTabletAndroid :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdTabletAndroid = element (unsafeCoerce mdTabletAndroid_)
+mdTabletAndroid = element (unsafeCoerce _mdTabletAndroid)
 
-foreign import mdTabletMac_ :: ReactIcon
+foreign import _mdTabletMac :: ReactIcon
 
 mdTabletMac :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdTabletMac = element (unsafeCoerce mdTabletMac_)
+mdTabletMac = element (unsafeCoerce _mdTabletMac)
 
-foreign import mdTableView_ :: ReactIcon
+foreign import _mdTableView :: ReactIcon
 
 mdTableView :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdTableView = element (unsafeCoerce mdTableView_)
+mdTableView = element (unsafeCoerce _mdTableView)
 
-foreign import mdTabUnselected_ :: ReactIcon
+foreign import _mdTabUnselected :: ReactIcon
 
 mdTabUnselected :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdTabUnselected = element (unsafeCoerce mdTabUnselected_)
+mdTabUnselected = element (unsafeCoerce _mdTabUnselected)
 
-foreign import mdTag_ :: ReactIcon
+foreign import _mdTag :: ReactIcon
 
 mdTag :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdTag = element (unsafeCoerce mdTag_)
+mdTag = element (unsafeCoerce _mdTag)
 
-foreign import mdTagFaces_ :: ReactIcon
+foreign import _mdTagFaces :: ReactIcon
 
 mdTagFaces :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdTagFaces = element (unsafeCoerce mdTagFaces_)
+mdTagFaces = element (unsafeCoerce _mdTagFaces)
 
-foreign import mdTakeoutDining_ :: ReactIcon
+foreign import _mdTakeoutDining :: ReactIcon
 
 mdTakeoutDining :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdTakeoutDining = element (unsafeCoerce mdTakeoutDining_)
+mdTakeoutDining = element (unsafeCoerce _mdTakeoutDining)
 
-foreign import mdTapAndPlay_ :: ReactIcon
+foreign import _mdTapAndPlay :: ReactIcon
 
 mdTapAndPlay :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdTapAndPlay = element (unsafeCoerce mdTapAndPlay_)
+mdTapAndPlay = element (unsafeCoerce _mdTapAndPlay)
 
-foreign import mdTapas_ :: ReactIcon
+foreign import _mdTapas :: ReactIcon
 
 mdTapas :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdTapas = element (unsafeCoerce mdTapas_)
+mdTapas = element (unsafeCoerce _mdTapas)
 
-foreign import mdTask_ :: ReactIcon
+foreign import _mdTask :: ReactIcon
 
 mdTask :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdTask = element (unsafeCoerce mdTask_)
+mdTask = element (unsafeCoerce _mdTask)
 
-foreign import mdTaskAlt_ :: ReactIcon
+foreign import _mdTaskAlt :: ReactIcon
 
 mdTaskAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdTaskAlt = element (unsafeCoerce mdTaskAlt_)
+mdTaskAlt = element (unsafeCoerce _mdTaskAlt)
 
-foreign import mdTaxiAlert_ :: ReactIcon
+foreign import _mdTaxiAlert :: ReactIcon
 
 mdTaxiAlert :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdTaxiAlert = element (unsafeCoerce mdTaxiAlert_)
+mdTaxiAlert = element (unsafeCoerce _mdTaxiAlert)
 
-foreign import mdTerrain_ :: ReactIcon
+foreign import _mdTerrain :: ReactIcon
 
 mdTerrain :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdTerrain = element (unsafeCoerce mdTerrain_)
+mdTerrain = element (unsafeCoerce _mdTerrain)
 
-foreign import mdTextFields_ :: ReactIcon
+foreign import _mdTextFields :: ReactIcon
 
 mdTextFields :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdTextFields = element (unsafeCoerce mdTextFields_)
+mdTextFields = element (unsafeCoerce _mdTextFields)
 
-foreign import mdTextFormat_ :: ReactIcon
+foreign import _mdTextFormat :: ReactIcon
 
 mdTextFormat :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdTextFormat = element (unsafeCoerce mdTextFormat_)
+mdTextFormat = element (unsafeCoerce _mdTextFormat)
 
-foreign import mdTextRotateUp_ :: ReactIcon
+foreign import _mdTextRotateUp :: ReactIcon
 
 mdTextRotateUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdTextRotateUp = element (unsafeCoerce mdTextRotateUp_)
+mdTextRotateUp = element (unsafeCoerce _mdTextRotateUp)
 
-foreign import mdTextRotateVertical_ :: ReactIcon
+foreign import _mdTextRotateVertical :: ReactIcon
 
 mdTextRotateVertical :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdTextRotateVertical = element (unsafeCoerce mdTextRotateVertical_)
+mdTextRotateVertical = element (unsafeCoerce _mdTextRotateVertical)
 
-foreign import mdTextRotationAngledown_ :: ReactIcon
+foreign import _mdTextRotationAngledown :: ReactIcon
 
 mdTextRotationAngledown :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdTextRotationAngledown = element (unsafeCoerce mdTextRotationAngledown_)
+mdTextRotationAngledown = element (unsafeCoerce _mdTextRotationAngledown)
 
-foreign import mdTextRotationAngleup_ :: ReactIcon
+foreign import _mdTextRotationAngleup :: ReactIcon
 
 mdTextRotationAngleup :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdTextRotationAngleup = element (unsafeCoerce mdTextRotationAngleup_)
+mdTextRotationAngleup = element (unsafeCoerce _mdTextRotationAngleup)
 
-foreign import mdTextRotationDown_ :: ReactIcon
+foreign import _mdTextRotationDown :: ReactIcon
 
 mdTextRotationDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdTextRotationDown = element (unsafeCoerce mdTextRotationDown_)
+mdTextRotationDown = element (unsafeCoerce _mdTextRotationDown)
 
-foreign import mdTextRotationNone_ :: ReactIcon
+foreign import _mdTextRotationNone :: ReactIcon
 
 mdTextRotationNone :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdTextRotationNone = element (unsafeCoerce mdTextRotationNone_)
+mdTextRotationNone = element (unsafeCoerce _mdTextRotationNone)
 
-foreign import mdTextsms_ :: ReactIcon
+foreign import _mdTextsms :: ReactIcon
 
 mdTextsms :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdTextsms = element (unsafeCoerce mdTextsms_)
+mdTextsms = element (unsafeCoerce _mdTextsms)
 
-foreign import mdTextSnippet_ :: ReactIcon
+foreign import _mdTextSnippet :: ReactIcon
 
 mdTextSnippet :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdTextSnippet = element (unsafeCoerce mdTextSnippet_)
+mdTextSnippet = element (unsafeCoerce _mdTextSnippet)
 
-foreign import mdTexture_ :: ReactIcon
+foreign import _mdTexture :: ReactIcon
 
 mdTexture :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdTexture = element (unsafeCoerce mdTexture_)
+mdTexture = element (unsafeCoerce _mdTexture)
 
-foreign import mdTheaterComedy_ :: ReactIcon
+foreign import _mdTheaterComedy :: ReactIcon
 
 mdTheaterComedy :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdTheaterComedy = element (unsafeCoerce mdTheaterComedy_)
+mdTheaterComedy = element (unsafeCoerce _mdTheaterComedy)
 
-foreign import mdTheaters_ :: ReactIcon
+foreign import _mdTheaters :: ReactIcon
 
 mdTheaters :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdTheaters = element (unsafeCoerce mdTheaters_)
+mdTheaters = element (unsafeCoerce _mdTheaters)
 
-foreign import mdThermostat_ :: ReactIcon
+foreign import _mdThermostat :: ReactIcon
 
 mdThermostat :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdThermostat = element (unsafeCoerce mdThermostat_)
+mdThermostat = element (unsafeCoerce _mdThermostat)
 
-foreign import mdThermostatAuto_ :: ReactIcon
+foreign import _mdThermostatAuto :: ReactIcon
 
 mdThermostatAuto :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdThermostatAuto = element (unsafeCoerce mdThermostatAuto_)
+mdThermostatAuto = element (unsafeCoerce _mdThermostatAuto)
 
-foreign import mdThumbDown_ :: ReactIcon
+foreign import _mdThumbDown :: ReactIcon
 
 mdThumbDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdThumbDown = element (unsafeCoerce mdThumbDown_)
+mdThumbDown = element (unsafeCoerce _mdThumbDown)
 
-foreign import mdThumbDownAlt_ :: ReactIcon
+foreign import _mdThumbDownAlt :: ReactIcon
 
 mdThumbDownAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdThumbDownAlt = element (unsafeCoerce mdThumbDownAlt_)
+mdThumbDownAlt = element (unsafeCoerce _mdThumbDownAlt)
 
-foreign import mdThumbDownOffAlt_ :: ReactIcon
+foreign import _mdThumbDownOffAlt :: ReactIcon
 
 mdThumbDownOffAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdThumbDownOffAlt = element (unsafeCoerce mdThumbDownOffAlt_)
+mdThumbDownOffAlt = element (unsafeCoerce _mdThumbDownOffAlt)
 
-foreign import mdThumbsUpDown_ :: ReactIcon
+foreign import _mdThumbsUpDown :: ReactIcon
 
 mdThumbsUpDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdThumbsUpDown = element (unsafeCoerce mdThumbsUpDown_)
+mdThumbsUpDown = element (unsafeCoerce _mdThumbsUpDown)
 
-foreign import mdThumbUp_ :: ReactIcon
+foreign import _mdThumbUp :: ReactIcon
 
 mdThumbUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdThumbUp = element (unsafeCoerce mdThumbUp_)
+mdThumbUp = element (unsafeCoerce _mdThumbUp)
 
-foreign import mdThumbUpAlt_ :: ReactIcon
+foreign import _mdThumbUpAlt :: ReactIcon
 
 mdThumbUpAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdThumbUpAlt = element (unsafeCoerce mdThumbUpAlt_)
+mdThumbUpAlt = element (unsafeCoerce _mdThumbUpAlt)
 
-foreign import mdThumbUpOffAlt_ :: ReactIcon
+foreign import _mdThumbUpOffAlt :: ReactIcon
 
 mdThumbUpOffAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdThumbUpOffAlt = element (unsafeCoerce mdThumbUpOffAlt_)
+mdThumbUpOffAlt = element (unsafeCoerce _mdThumbUpOffAlt)
 
-foreign import mdTimelapse_ :: ReactIcon
+foreign import _mdTimelapse :: ReactIcon
 
 mdTimelapse :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdTimelapse = element (unsafeCoerce mdTimelapse_)
+mdTimelapse = element (unsafeCoerce _mdTimelapse)
 
-foreign import mdTimeline_ :: ReactIcon
+foreign import _mdTimeline :: ReactIcon
 
 mdTimeline :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdTimeline = element (unsafeCoerce mdTimeline_)
+mdTimeline = element (unsafeCoerce _mdTimeline)
 
-foreign import mdTimer_ :: ReactIcon
+foreign import _mdTimer :: ReactIcon
 
 mdTimer :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdTimer = element (unsafeCoerce mdTimer_)
+mdTimer = element (unsafeCoerce _mdTimer)
 
-foreign import mdTimerOff_ :: ReactIcon
+foreign import _mdTimerOff :: ReactIcon
 
 mdTimerOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdTimerOff = element (unsafeCoerce mdTimerOff_)
+mdTimerOff = element (unsafeCoerce _mdTimerOff)
 
-foreign import mdTimeToLeave_ :: ReactIcon
+foreign import _mdTimeToLeave :: ReactIcon
 
 mdTimeToLeave :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdTimeToLeave = element (unsafeCoerce mdTimeToLeave_)
+mdTimeToLeave = element (unsafeCoerce _mdTimeToLeave)
 
-foreign import mdTipsAndUpdates_ :: ReactIcon
+foreign import _mdTipsAndUpdates :: ReactIcon
 
 mdTipsAndUpdates :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdTipsAndUpdates = element (unsafeCoerce mdTipsAndUpdates_)
+mdTipsAndUpdates = element (unsafeCoerce _mdTipsAndUpdates)
 
-foreign import mdTitle_ :: ReactIcon
+foreign import _mdTitle :: ReactIcon
 
 mdTitle :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdTitle = element (unsafeCoerce mdTitle_)
+mdTitle = element (unsafeCoerce _mdTitle)
 
-foreign import mdToc_ :: ReactIcon
+foreign import _mdToc :: ReactIcon
 
 mdToc :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdToc = element (unsafeCoerce mdToc_)
+mdToc = element (unsafeCoerce _mdToc)
 
-foreign import mdToday_ :: ReactIcon
+foreign import _mdToday :: ReactIcon
 
 mdToday :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdToday = element (unsafeCoerce mdToday_)
+mdToday = element (unsafeCoerce _mdToday)
 
-foreign import mdToggleOff_ :: ReactIcon
+foreign import _mdToggleOff :: ReactIcon
 
 mdToggleOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdToggleOff = element (unsafeCoerce mdToggleOff_)
+mdToggleOff = element (unsafeCoerce _mdToggleOff)
 
-foreign import mdToggleOn_ :: ReactIcon
+foreign import _mdToggleOn :: ReactIcon
 
 mdToggleOn :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdToggleOn = element (unsafeCoerce mdToggleOn_)
+mdToggleOn = element (unsafeCoerce _mdToggleOn)
 
-foreign import mdToll_ :: ReactIcon
+foreign import _mdToll :: ReactIcon
 
 mdToll :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdToll = element (unsafeCoerce mdToll_)
+mdToll = element (unsafeCoerce _mdToll)
 
-foreign import mdTonality_ :: ReactIcon
+foreign import _mdTonality :: ReactIcon
 
 mdTonality :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdTonality = element (unsafeCoerce mdTonality_)
+mdTonality = element (unsafeCoerce _mdTonality)
 
-foreign import mdTopic_ :: ReactIcon
+foreign import _mdTopic :: ReactIcon
 
 mdTopic :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdTopic = element (unsafeCoerce mdTopic_)
+mdTopic = element (unsafeCoerce _mdTopic)
 
-foreign import mdTouchApp_ :: ReactIcon
+foreign import _mdTouchApp :: ReactIcon
 
 mdTouchApp :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdTouchApp = element (unsafeCoerce mdTouchApp_)
+mdTouchApp = element (unsafeCoerce _mdTouchApp)
 
-foreign import mdTour_ :: ReactIcon
+foreign import _mdTour :: ReactIcon
 
 mdTour :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdTour = element (unsafeCoerce mdTour_)
+mdTour = element (unsafeCoerce _mdTour)
 
-foreign import mdToys_ :: ReactIcon
+foreign import _mdToys :: ReactIcon
 
 mdToys :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdToys = element (unsafeCoerce mdToys_)
+mdToys = element (unsafeCoerce _mdToys)
 
-foreign import mdTrackChanges_ :: ReactIcon
+foreign import _mdTrackChanges :: ReactIcon
 
 mdTrackChanges :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdTrackChanges = element (unsafeCoerce mdTrackChanges_)
+mdTrackChanges = element (unsafeCoerce _mdTrackChanges)
 
-foreign import mdTraffic_ :: ReactIcon
+foreign import _mdTraffic :: ReactIcon
 
 mdTraffic :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdTraffic = element (unsafeCoerce mdTraffic_)
+mdTraffic = element (unsafeCoerce _mdTraffic)
 
-foreign import mdTrain_ :: ReactIcon
+foreign import _mdTrain :: ReactIcon
 
 mdTrain :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdTrain = element (unsafeCoerce mdTrain_)
+mdTrain = element (unsafeCoerce _mdTrain)
 
-foreign import mdTram_ :: ReactIcon
+foreign import _mdTram :: ReactIcon
 
 mdTram :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdTram = element (unsafeCoerce mdTram_)
+mdTram = element (unsafeCoerce _mdTram)
 
-foreign import mdTransferWithinAStation_ :: ReactIcon
+foreign import _mdTransferWithinAStation :: ReactIcon
 
 mdTransferWithinAStation :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdTransferWithinAStation = element (unsafeCoerce mdTransferWithinAStation_)
+mdTransferWithinAStation = element (unsafeCoerce _mdTransferWithinAStation)
 
-foreign import mdTransform_ :: ReactIcon
+foreign import _mdTransform :: ReactIcon
 
 mdTransform :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdTransform = element (unsafeCoerce mdTransform_)
+mdTransform = element (unsafeCoerce _mdTransform)
 
-foreign import mdTransgender_ :: ReactIcon
+foreign import _mdTransgender :: ReactIcon
 
 mdTransgender :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdTransgender = element (unsafeCoerce mdTransgender_)
+mdTransgender = element (unsafeCoerce _mdTransgender)
 
-foreign import mdTransitEnterexit_ :: ReactIcon
+foreign import _mdTransitEnterexit :: ReactIcon
 
 mdTransitEnterexit :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdTransitEnterexit = element (unsafeCoerce mdTransitEnterexit_)
+mdTransitEnterexit = element (unsafeCoerce _mdTransitEnterexit)
 
-foreign import mdTranslate_ :: ReactIcon
+foreign import _mdTranslate :: ReactIcon
 
 mdTranslate :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdTranslate = element (unsafeCoerce mdTranslate_)
+mdTranslate = element (unsafeCoerce _mdTranslate)
 
-foreign import mdTravelExplore_ :: ReactIcon
+foreign import _mdTravelExplore :: ReactIcon
 
 mdTravelExplore :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdTravelExplore = element (unsafeCoerce mdTravelExplore_)
+mdTravelExplore = element (unsafeCoerce _mdTravelExplore)
 
-foreign import mdTrendingDown_ :: ReactIcon
+foreign import _mdTrendingDown :: ReactIcon
 
 mdTrendingDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdTrendingDown = element (unsafeCoerce mdTrendingDown_)
+mdTrendingDown = element (unsafeCoerce _mdTrendingDown)
 
-foreign import mdTrendingFlat_ :: ReactIcon
+foreign import _mdTrendingFlat :: ReactIcon
 
 mdTrendingFlat :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdTrendingFlat = element (unsafeCoerce mdTrendingFlat_)
+mdTrendingFlat = element (unsafeCoerce _mdTrendingFlat)
 
-foreign import mdTrendingUp_ :: ReactIcon
+foreign import _mdTrendingUp :: ReactIcon
 
 mdTrendingUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdTrendingUp = element (unsafeCoerce mdTrendingUp_)
+mdTrendingUp = element (unsafeCoerce _mdTrendingUp)
 
-foreign import mdTripOrigin_ :: ReactIcon
+foreign import _mdTripOrigin :: ReactIcon
 
 mdTripOrigin :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdTripOrigin = element (unsafeCoerce mdTripOrigin_)
+mdTripOrigin = element (unsafeCoerce _mdTripOrigin)
 
-foreign import mdTry_ :: ReactIcon
+foreign import _mdTry :: ReactIcon
 
 mdTry :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdTry = element (unsafeCoerce mdTry_)
+mdTry = element (unsafeCoerce _mdTry)
 
-foreign import mdTty_ :: ReactIcon
+foreign import _mdTty :: ReactIcon
 
 mdTty :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdTty = element (unsafeCoerce mdTty_)
+mdTty = element (unsafeCoerce _mdTty)
 
-foreign import mdTune_ :: ReactIcon
+foreign import _mdTune :: ReactIcon
 
 mdTune :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdTune = element (unsafeCoerce mdTune_)
+mdTune = element (unsafeCoerce _mdTune)
 
-foreign import mdTungsten_ :: ReactIcon
+foreign import _mdTungsten :: ReactIcon
 
 mdTungsten :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdTungsten = element (unsafeCoerce mdTungsten_)
+mdTungsten = element (unsafeCoerce _mdTungsten)
 
-foreign import mdTurnedIn_ :: ReactIcon
+foreign import _mdTurnedIn :: ReactIcon
 
 mdTurnedIn :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdTurnedIn = element (unsafeCoerce mdTurnedIn_)
+mdTurnedIn = element (unsafeCoerce _mdTurnedIn)
 
-foreign import mdTurnedInNot_ :: ReactIcon
+foreign import _mdTurnedInNot :: ReactIcon
 
 mdTurnedInNot :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdTurnedInNot = element (unsafeCoerce mdTurnedInNot_)
+mdTurnedInNot = element (unsafeCoerce _mdTurnedInNot)
 
-foreign import mdTv_ :: ReactIcon
+foreign import _mdTv :: ReactIcon
 
 mdTv :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdTv = element (unsafeCoerce mdTv_)
+mdTv = element (unsafeCoerce _mdTv)
 
-foreign import mdTvOff_ :: ReactIcon
+foreign import _mdTvOff :: ReactIcon
 
 mdTvOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdTvOff = element (unsafeCoerce mdTvOff_)
+mdTvOff = element (unsafeCoerce _mdTvOff)
 
-foreign import mdTwoWheeler_ :: ReactIcon
+foreign import _mdTwoWheeler :: ReactIcon
 
 mdTwoWheeler :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdTwoWheeler = element (unsafeCoerce mdTwoWheeler_)
+mdTwoWheeler = element (unsafeCoerce _mdTwoWheeler)
 
-foreign import mdUmbrella_ :: ReactIcon
+foreign import _mdUmbrella :: ReactIcon
 
 mdUmbrella :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdUmbrella = element (unsafeCoerce mdUmbrella_)
+mdUmbrella = element (unsafeCoerce _mdUmbrella)
 
-foreign import mdUnarchive_ :: ReactIcon
+foreign import _mdUnarchive :: ReactIcon
 
 mdUnarchive :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdUnarchive = element (unsafeCoerce mdUnarchive_)
+mdUnarchive = element (unsafeCoerce _mdUnarchive)
 
-foreign import mdUndo_ :: ReactIcon
+foreign import _mdUndo :: ReactIcon
 
 mdUndo :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdUndo = element (unsafeCoerce mdUndo_)
+mdUndo = element (unsafeCoerce _mdUndo)
 
-foreign import mdUnfoldLess_ :: ReactIcon
+foreign import _mdUnfoldLess :: ReactIcon
 
 mdUnfoldLess :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdUnfoldLess = element (unsafeCoerce mdUnfoldLess_)
+mdUnfoldLess = element (unsafeCoerce _mdUnfoldLess)
 
-foreign import mdUnfoldMore_ :: ReactIcon
+foreign import _mdUnfoldMore :: ReactIcon
 
 mdUnfoldMore :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdUnfoldMore = element (unsafeCoerce mdUnfoldMore_)
+mdUnfoldMore = element (unsafeCoerce _mdUnfoldMore)
 
-foreign import mdUnpublished_ :: ReactIcon
+foreign import _mdUnpublished :: ReactIcon
 
 mdUnpublished :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdUnpublished = element (unsafeCoerce mdUnpublished_)
+mdUnpublished = element (unsafeCoerce _mdUnpublished)
 
-foreign import mdUnsubscribe_ :: ReactIcon
+foreign import _mdUnsubscribe :: ReactIcon
 
 mdUnsubscribe :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdUnsubscribe = element (unsafeCoerce mdUnsubscribe_)
+mdUnsubscribe = element (unsafeCoerce _mdUnsubscribe)
 
-foreign import mdUpcoming_ :: ReactIcon
+foreign import _mdUpcoming :: ReactIcon
 
 mdUpcoming :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdUpcoming = element (unsafeCoerce mdUpcoming_)
+mdUpcoming = element (unsafeCoerce _mdUpcoming)
 
-foreign import mdUpdate_ :: ReactIcon
+foreign import _mdUpdate :: ReactIcon
 
 mdUpdate :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdUpdate = element (unsafeCoerce mdUpdate_)
+mdUpdate = element (unsafeCoerce _mdUpdate)
 
-foreign import mdUpdateDisabled_ :: ReactIcon
+foreign import _mdUpdateDisabled :: ReactIcon
 
 mdUpdateDisabled :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdUpdateDisabled = element (unsafeCoerce mdUpdateDisabled_)
+mdUpdateDisabled = element (unsafeCoerce _mdUpdateDisabled)
 
-foreign import mdUpgrade_ :: ReactIcon
+foreign import _mdUpgrade :: ReactIcon
 
 mdUpgrade :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdUpgrade = element (unsafeCoerce mdUpgrade_)
+mdUpgrade = element (unsafeCoerce _mdUpgrade)
 
-foreign import mdUpload_ :: ReactIcon
+foreign import _mdUpload :: ReactIcon
 
 mdUpload :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdUpload = element (unsafeCoerce mdUpload_)
+mdUpload = element (unsafeCoerce _mdUpload)
 
-foreign import mdUploadFile_ :: ReactIcon
+foreign import _mdUploadFile :: ReactIcon
 
 mdUploadFile :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdUploadFile = element (unsafeCoerce mdUploadFile_)
+mdUploadFile = element (unsafeCoerce _mdUploadFile)
 
-foreign import mdUsb_ :: ReactIcon
+foreign import _mdUsb :: ReactIcon
 
 mdUsb :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdUsb = element (unsafeCoerce mdUsb_)
+mdUsb = element (unsafeCoerce _mdUsb)
 
-foreign import mdUsbOff_ :: ReactIcon
+foreign import _mdUsbOff :: ReactIcon
 
 mdUsbOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdUsbOff = element (unsafeCoerce mdUsbOff_)
+mdUsbOff = element (unsafeCoerce _mdUsbOff)
 
-foreign import mdVerified_ :: ReactIcon
+foreign import _mdVerified :: ReactIcon
 
 mdVerified :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdVerified = element (unsafeCoerce mdVerified_)
+mdVerified = element (unsafeCoerce _mdVerified)
 
-foreign import mdVerifiedUser_ :: ReactIcon
+foreign import _mdVerifiedUser :: ReactIcon
 
 mdVerifiedUser :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdVerifiedUser = element (unsafeCoerce mdVerifiedUser_)
+mdVerifiedUser = element (unsafeCoerce _mdVerifiedUser)
 
-foreign import mdVerticalAlignBottom_ :: ReactIcon
+foreign import _mdVerticalAlignBottom :: ReactIcon
 
 mdVerticalAlignBottom :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdVerticalAlignBottom = element (unsafeCoerce mdVerticalAlignBottom_)
+mdVerticalAlignBottom = element (unsafeCoerce _mdVerticalAlignBottom)
 
-foreign import mdVerticalAlignCenter_ :: ReactIcon
+foreign import _mdVerticalAlignCenter :: ReactIcon
 
 mdVerticalAlignCenter :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdVerticalAlignCenter = element (unsafeCoerce mdVerticalAlignCenter_)
+mdVerticalAlignCenter = element (unsafeCoerce _mdVerticalAlignCenter)
 
-foreign import mdVerticalAlignTop_ :: ReactIcon
+foreign import _mdVerticalAlignTop :: ReactIcon
 
 mdVerticalAlignTop :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdVerticalAlignTop = element (unsafeCoerce mdVerticalAlignTop_)
+mdVerticalAlignTop = element (unsafeCoerce _mdVerticalAlignTop)
 
-foreign import mdVerticalDistribute_ :: ReactIcon
+foreign import _mdVerticalDistribute :: ReactIcon
 
 mdVerticalDistribute :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdVerticalDistribute = element (unsafeCoerce mdVerticalDistribute_)
+mdVerticalDistribute = element (unsafeCoerce _mdVerticalDistribute)
 
-foreign import mdVerticalSplit_ :: ReactIcon
+foreign import _mdVerticalSplit :: ReactIcon
 
 mdVerticalSplit :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdVerticalSplit = element (unsafeCoerce mdVerticalSplit_)
+mdVerticalSplit = element (unsafeCoerce _mdVerticalSplit)
 
-foreign import mdVibration_ :: ReactIcon
+foreign import _mdVibration :: ReactIcon
 
 mdVibration :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdVibration = element (unsafeCoerce mdVibration_)
+mdVibration = element (unsafeCoerce _mdVibration)
 
-foreign import mdVideoCall_ :: ReactIcon
+foreign import _mdVideoCall :: ReactIcon
 
 mdVideoCall :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdVideoCall = element (unsafeCoerce mdVideoCall_)
+mdVideoCall = element (unsafeCoerce _mdVideoCall)
 
-foreign import mdVideocam_ :: ReactIcon
+foreign import _mdVideocam :: ReactIcon
 
 mdVideocam :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdVideocam = element (unsafeCoerce mdVideocam_)
+mdVideocam = element (unsafeCoerce _mdVideocam)
 
-foreign import mdVideoCameraBack_ :: ReactIcon
+foreign import _mdVideoCameraBack :: ReactIcon
 
 mdVideoCameraBack :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdVideoCameraBack = element (unsafeCoerce mdVideoCameraBack_)
+mdVideoCameraBack = element (unsafeCoerce _mdVideoCameraBack)
 
-foreign import mdVideoCameraFront_ :: ReactIcon
+foreign import _mdVideoCameraFront :: ReactIcon
 
 mdVideoCameraFront :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdVideoCameraFront = element (unsafeCoerce mdVideoCameraFront_)
+mdVideoCameraFront = element (unsafeCoerce _mdVideoCameraFront)
 
-foreign import mdVideocamOff_ :: ReactIcon
+foreign import _mdVideocamOff :: ReactIcon
 
 mdVideocamOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdVideocamOff = element (unsafeCoerce mdVideocamOff_)
+mdVideocamOff = element (unsafeCoerce _mdVideocamOff)
 
-foreign import mdVideogameAsset_ :: ReactIcon
+foreign import _mdVideogameAsset :: ReactIcon
 
 mdVideogameAsset :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdVideogameAsset = element (unsafeCoerce mdVideogameAsset_)
+mdVideogameAsset = element (unsafeCoerce _mdVideogameAsset)
 
-foreign import mdVideogameAssetOff_ :: ReactIcon
+foreign import _mdVideogameAssetOff :: ReactIcon
 
 mdVideogameAssetOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdVideogameAssetOff = element (unsafeCoerce mdVideogameAssetOff_)
+mdVideogameAssetOff = element (unsafeCoerce _mdVideogameAssetOff)
 
-foreign import mdVideoLabel_ :: ReactIcon
+foreign import _mdVideoLabel :: ReactIcon
 
 mdVideoLabel :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdVideoLabel = element (unsafeCoerce mdVideoLabel_)
+mdVideoLabel = element (unsafeCoerce _mdVideoLabel)
 
-foreign import mdVideoLibrary_ :: ReactIcon
+foreign import _mdVideoLibrary :: ReactIcon
 
 mdVideoLibrary :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdVideoLibrary = element (unsafeCoerce mdVideoLibrary_)
+mdVideoLibrary = element (unsafeCoerce _mdVideoLibrary)
 
-foreign import mdVideoSettings_ :: ReactIcon
+foreign import _mdVideoSettings :: ReactIcon
 
 mdVideoSettings :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdVideoSettings = element (unsafeCoerce mdVideoSettings_)
+mdVideoSettings = element (unsafeCoerce _mdVideoSettings)
 
-foreign import mdVideoStable_ :: ReactIcon
+foreign import _mdVideoStable :: ReactIcon
 
 mdVideoStable :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdVideoStable = element (unsafeCoerce mdVideoStable_)
+mdVideoStable = element (unsafeCoerce _mdVideoStable)
 
-foreign import mdViewAgenda_ :: ReactIcon
+foreign import _mdViewAgenda :: ReactIcon
 
 mdViewAgenda :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdViewAgenda = element (unsafeCoerce mdViewAgenda_)
+mdViewAgenda = element (unsafeCoerce _mdViewAgenda)
 
-foreign import mdViewArray_ :: ReactIcon
+foreign import _mdViewArray :: ReactIcon
 
 mdViewArray :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdViewArray = element (unsafeCoerce mdViewArray_)
+mdViewArray = element (unsafeCoerce _mdViewArray)
 
-foreign import mdViewCarousel_ :: ReactIcon
+foreign import _mdViewCarousel :: ReactIcon
 
 mdViewCarousel :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdViewCarousel = element (unsafeCoerce mdViewCarousel_)
+mdViewCarousel = element (unsafeCoerce _mdViewCarousel)
 
-foreign import mdViewColumn_ :: ReactIcon
+foreign import _mdViewColumn :: ReactIcon
 
 mdViewColumn :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdViewColumn = element (unsafeCoerce mdViewColumn_)
+mdViewColumn = element (unsafeCoerce _mdViewColumn)
 
-foreign import mdViewComfy_ :: ReactIcon
+foreign import _mdViewComfy :: ReactIcon
 
 mdViewComfy :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdViewComfy = element (unsafeCoerce mdViewComfy_)
+mdViewComfy = element (unsafeCoerce _mdViewComfy)
 
-foreign import mdViewCompact_ :: ReactIcon
+foreign import _mdViewCompact :: ReactIcon
 
 mdViewCompact :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdViewCompact = element (unsafeCoerce mdViewCompact_)
+mdViewCompact = element (unsafeCoerce _mdViewCompact)
 
-foreign import mdViewDay_ :: ReactIcon
+foreign import _mdViewDay :: ReactIcon
 
 mdViewDay :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdViewDay = element (unsafeCoerce mdViewDay_)
+mdViewDay = element (unsafeCoerce _mdViewDay)
 
-foreign import mdViewHeadline_ :: ReactIcon
+foreign import _mdViewHeadline :: ReactIcon
 
 mdViewHeadline :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdViewHeadline = element (unsafeCoerce mdViewHeadline_)
+mdViewHeadline = element (unsafeCoerce _mdViewHeadline)
 
-foreign import mdViewInAr_ :: ReactIcon
+foreign import _mdViewInAr :: ReactIcon
 
 mdViewInAr :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdViewInAr = element (unsafeCoerce mdViewInAr_)
+mdViewInAr = element (unsafeCoerce _mdViewInAr)
 
-foreign import mdViewList_ :: ReactIcon
+foreign import _mdViewList :: ReactIcon
 
 mdViewList :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdViewList = element (unsafeCoerce mdViewList_)
+mdViewList = element (unsafeCoerce _mdViewList)
 
-foreign import mdViewModule_ :: ReactIcon
+foreign import _mdViewModule :: ReactIcon
 
 mdViewModule :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdViewModule = element (unsafeCoerce mdViewModule_)
+mdViewModule = element (unsafeCoerce _mdViewModule)
 
-foreign import mdViewQuilt_ :: ReactIcon
+foreign import _mdViewQuilt :: ReactIcon
 
 mdViewQuilt :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdViewQuilt = element (unsafeCoerce mdViewQuilt_)
+mdViewQuilt = element (unsafeCoerce _mdViewQuilt)
 
-foreign import mdViewSidebar_ :: ReactIcon
+foreign import _mdViewSidebar :: ReactIcon
 
 mdViewSidebar :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdViewSidebar = element (unsafeCoerce mdViewSidebar_)
+mdViewSidebar = element (unsafeCoerce _mdViewSidebar)
 
-foreign import mdViewStream_ :: ReactIcon
+foreign import _mdViewStream :: ReactIcon
 
 mdViewStream :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdViewStream = element (unsafeCoerce mdViewStream_)
+mdViewStream = element (unsafeCoerce _mdViewStream)
 
-foreign import mdViewWeek_ :: ReactIcon
+foreign import _mdViewWeek :: ReactIcon
 
 mdViewWeek :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdViewWeek = element (unsafeCoerce mdViewWeek_)
+mdViewWeek = element (unsafeCoerce _mdViewWeek)
 
-foreign import mdVignette_ :: ReactIcon
+foreign import _mdVignette :: ReactIcon
 
 mdVignette :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdVignette = element (unsafeCoerce mdVignette_)
+mdVignette = element (unsafeCoerce _mdVignette)
 
-foreign import mdVilla_ :: ReactIcon
+foreign import _mdVilla :: ReactIcon
 
 mdVilla :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdVilla = element (unsafeCoerce mdVilla_)
+mdVilla = element (unsafeCoerce _mdVilla)
 
-foreign import mdVisibility_ :: ReactIcon
+foreign import _mdVisibility :: ReactIcon
 
 mdVisibility :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdVisibility = element (unsafeCoerce mdVisibility_)
+mdVisibility = element (unsafeCoerce _mdVisibility)
 
-foreign import mdVisibilityOff_ :: ReactIcon
+foreign import _mdVisibilityOff :: ReactIcon
 
 mdVisibilityOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdVisibilityOff = element (unsafeCoerce mdVisibilityOff_)
+mdVisibilityOff = element (unsafeCoerce _mdVisibilityOff)
 
-foreign import mdVoiceChat_ :: ReactIcon
+foreign import _mdVoiceChat :: ReactIcon
 
 mdVoiceChat :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdVoiceChat = element (unsafeCoerce mdVoiceChat_)
+mdVoiceChat = element (unsafeCoerce _mdVoiceChat)
 
-foreign import mdVoicemail_ :: ReactIcon
+foreign import _mdVoicemail :: ReactIcon
 
 mdVoicemail :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdVoicemail = element (unsafeCoerce mdVoicemail_)
+mdVoicemail = element (unsafeCoerce _mdVoicemail)
 
-foreign import mdVoiceOverOff_ :: ReactIcon
+foreign import _mdVoiceOverOff :: ReactIcon
 
 mdVoiceOverOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdVoiceOverOff = element (unsafeCoerce mdVoiceOverOff_)
+mdVoiceOverOff = element (unsafeCoerce _mdVoiceOverOff)
 
-foreign import mdVolumeDown_ :: ReactIcon
+foreign import _mdVolumeDown :: ReactIcon
 
 mdVolumeDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdVolumeDown = element (unsafeCoerce mdVolumeDown_)
+mdVolumeDown = element (unsafeCoerce _mdVolumeDown)
 
-foreign import mdVolumeDownAlt_ :: ReactIcon
+foreign import _mdVolumeDownAlt :: ReactIcon
 
 mdVolumeDownAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdVolumeDownAlt = element (unsafeCoerce mdVolumeDownAlt_)
+mdVolumeDownAlt = element (unsafeCoerce _mdVolumeDownAlt)
 
-foreign import mdVolumeMute_ :: ReactIcon
+foreign import _mdVolumeMute :: ReactIcon
 
 mdVolumeMute :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdVolumeMute = element (unsafeCoerce mdVolumeMute_)
+mdVolumeMute = element (unsafeCoerce _mdVolumeMute)
 
-foreign import mdVolumeOff_ :: ReactIcon
+foreign import _mdVolumeOff :: ReactIcon
 
 mdVolumeOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdVolumeOff = element (unsafeCoerce mdVolumeOff_)
+mdVolumeOff = element (unsafeCoerce _mdVolumeOff)
 
-foreign import mdVolumeUp_ :: ReactIcon
+foreign import _mdVolumeUp :: ReactIcon
 
 mdVolumeUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdVolumeUp = element (unsafeCoerce mdVolumeUp_)
+mdVolumeUp = element (unsafeCoerce _mdVolumeUp)
 
-foreign import mdVolunteerActivism_ :: ReactIcon
+foreign import _mdVolunteerActivism :: ReactIcon
 
 mdVolunteerActivism :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdVolunteerActivism = element (unsafeCoerce mdVolunteerActivism_)
+mdVolunteerActivism = element (unsafeCoerce _mdVolunteerActivism)
 
-foreign import mdVpnKey_ :: ReactIcon
+foreign import _mdVpnKey :: ReactIcon
 
 mdVpnKey :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdVpnKey = element (unsafeCoerce mdVpnKey_)
+mdVpnKey = element (unsafeCoerce _mdVpnKey)
 
-foreign import mdVpnLock_ :: ReactIcon
+foreign import _mdVpnLock :: ReactIcon
 
 mdVpnLock :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdVpnLock = element (unsafeCoerce mdVpnLock_)
+mdVpnLock = element (unsafeCoerce _mdVpnLock)
 
-foreign import mdVrpano_ :: ReactIcon
+foreign import _mdVrpano :: ReactIcon
 
 mdVrpano :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdVrpano = element (unsafeCoerce mdVrpano_)
+mdVrpano = element (unsafeCoerce _mdVrpano)
 
-foreign import mdWallpaper_ :: ReactIcon
+foreign import _mdWallpaper :: ReactIcon
 
 mdWallpaper :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdWallpaper = element (unsafeCoerce mdWallpaper_)
+mdWallpaper = element (unsafeCoerce _mdWallpaper)
 
-foreign import mdWarning_ :: ReactIcon
+foreign import _mdWarning :: ReactIcon
 
 mdWarning :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdWarning = element (unsafeCoerce mdWarning_)
+mdWarning = element (unsafeCoerce _mdWarning)
 
-foreign import mdWarningAmber_ :: ReactIcon
+foreign import _mdWarningAmber :: ReactIcon
 
 mdWarningAmber :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdWarningAmber = element (unsafeCoerce mdWarningAmber_)
+mdWarningAmber = element (unsafeCoerce _mdWarningAmber)
 
-foreign import mdWash_ :: ReactIcon
+foreign import _mdWash :: ReactIcon
 
 mdWash :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdWash = element (unsafeCoerce mdWash_)
+mdWash = element (unsafeCoerce _mdWash)
 
-foreign import mdWatch_ :: ReactIcon
+foreign import _mdWatch :: ReactIcon
 
 mdWatch :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdWatch = element (unsafeCoerce mdWatch_)
+mdWatch = element (unsafeCoerce _mdWatch)
 
-foreign import mdWatchLater_ :: ReactIcon
+foreign import _mdWatchLater :: ReactIcon
 
 mdWatchLater :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdWatchLater = element (unsafeCoerce mdWatchLater_)
+mdWatchLater = element (unsafeCoerce _mdWatchLater)
 
-foreign import mdWater_ :: ReactIcon
+foreign import _mdWater :: ReactIcon
 
 mdWater :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdWater = element (unsafeCoerce mdWater_)
+mdWater = element (unsafeCoerce _mdWater)
 
-foreign import mdWaterDamage_ :: ReactIcon
+foreign import _mdWaterDamage :: ReactIcon
 
 mdWaterDamage :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdWaterDamage = element (unsafeCoerce mdWaterDamage_)
+mdWaterDamage = element (unsafeCoerce _mdWaterDamage)
 
-foreign import mdWaterDrop_ :: ReactIcon
+foreign import _mdWaterDrop :: ReactIcon
 
 mdWaterDrop :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdWaterDrop = element (unsafeCoerce mdWaterDrop_)
+mdWaterDrop = element (unsafeCoerce _mdWaterDrop)
 
-foreign import mdWaterfallChart_ :: ReactIcon
+foreign import _mdWaterfallChart :: ReactIcon
 
 mdWaterfallChart :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdWaterfallChart = element (unsafeCoerce mdWaterfallChart_)
+mdWaterfallChart = element (unsafeCoerce _mdWaterfallChart)
 
-foreign import mdWaves_ :: ReactIcon
+foreign import _mdWaves :: ReactIcon
 
 mdWaves :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdWaves = element (unsafeCoerce mdWaves_)
+mdWaves = element (unsafeCoerce _mdWaves)
 
-foreign import mdWavingHand_ :: ReactIcon
+foreign import _mdWavingHand :: ReactIcon
 
 mdWavingHand :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdWavingHand = element (unsafeCoerce mdWavingHand_)
+mdWavingHand = element (unsafeCoerce _mdWavingHand)
 
-foreign import mdWbAuto_ :: ReactIcon
+foreign import _mdWbAuto :: ReactIcon
 
 mdWbAuto :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdWbAuto = element (unsafeCoerce mdWbAuto_)
+mdWbAuto = element (unsafeCoerce _mdWbAuto)
 
-foreign import mdWbCloudy_ :: ReactIcon
+foreign import _mdWbCloudy :: ReactIcon
 
 mdWbCloudy :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdWbCloudy = element (unsafeCoerce mdWbCloudy_)
+mdWbCloudy = element (unsafeCoerce _mdWbCloudy)
 
-foreign import mdWbIncandescent_ :: ReactIcon
+foreign import _mdWbIncandescent :: ReactIcon
 
 mdWbIncandescent :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdWbIncandescent = element (unsafeCoerce mdWbIncandescent_)
+mdWbIncandescent = element (unsafeCoerce _mdWbIncandescent)
 
-foreign import mdWbIridescent_ :: ReactIcon
+foreign import _mdWbIridescent :: ReactIcon
 
 mdWbIridescent :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdWbIridescent = element (unsafeCoerce mdWbIridescent_)
+mdWbIridescent = element (unsafeCoerce _mdWbIridescent)
 
-foreign import mdWbShade_ :: ReactIcon
+foreign import _mdWbShade :: ReactIcon
 
 mdWbShade :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdWbShade = element (unsafeCoerce mdWbShade_)
+mdWbShade = element (unsafeCoerce _mdWbShade)
 
-foreign import mdWbSunny_ :: ReactIcon
+foreign import _mdWbSunny :: ReactIcon
 
 mdWbSunny :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdWbSunny = element (unsafeCoerce mdWbSunny_)
+mdWbSunny = element (unsafeCoerce _mdWbSunny)
 
-foreign import mdWbTwighlight_ :: ReactIcon
+foreign import _mdWbTwighlight :: ReactIcon
 
 mdWbTwighlight :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdWbTwighlight = element (unsafeCoerce mdWbTwighlight_)
+mdWbTwighlight = element (unsafeCoerce _mdWbTwighlight)
 
-foreign import mdWbTwilight_ :: ReactIcon
+foreign import _mdWbTwilight :: ReactIcon
 
 mdWbTwilight :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdWbTwilight = element (unsafeCoerce mdWbTwilight_)
+mdWbTwilight = element (unsafeCoerce _mdWbTwilight)
 
-foreign import mdWc_ :: ReactIcon
+foreign import _mdWc :: ReactIcon
 
 mdWc :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdWc = element (unsafeCoerce mdWc_)
+mdWc = element (unsafeCoerce _mdWc)
 
-foreign import mdWeb_ :: ReactIcon
+foreign import _mdWeb :: ReactIcon
 
 mdWeb :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdWeb = element (unsafeCoerce mdWeb_)
+mdWeb = element (unsafeCoerce _mdWeb)
 
-foreign import mdWebAsset_ :: ReactIcon
+foreign import _mdWebAsset :: ReactIcon
 
 mdWebAsset :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdWebAsset = element (unsafeCoerce mdWebAsset_)
+mdWebAsset = element (unsafeCoerce _mdWebAsset)
 
-foreign import mdWebAssetOff_ :: ReactIcon
+foreign import _mdWebAssetOff :: ReactIcon
 
 mdWebAssetOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdWebAssetOff = element (unsafeCoerce mdWebAssetOff_)
+mdWebAssetOff = element (unsafeCoerce _mdWebAssetOff)
 
-foreign import mdWebStories_ :: ReactIcon
+foreign import _mdWebStories :: ReactIcon
 
 mdWebStories :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdWebStories = element (unsafeCoerce mdWebStories_)
+mdWebStories = element (unsafeCoerce _mdWebStories)
 
-foreign import mdWeekend_ :: ReactIcon
+foreign import _mdWeekend :: ReactIcon
 
 mdWeekend :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdWeekend = element (unsafeCoerce mdWeekend_)
+mdWeekend = element (unsafeCoerce _mdWeekend)
 
-foreign import mdWest_ :: ReactIcon
+foreign import _mdWest :: ReactIcon
 
 mdWest :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdWest = element (unsafeCoerce mdWest_)
+mdWest = element (unsafeCoerce _mdWest)
 
-foreign import mdWhatshot_ :: ReactIcon
+foreign import _mdWhatshot :: ReactIcon
 
 mdWhatshot :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdWhatshot = element (unsafeCoerce mdWhatshot_)
+mdWhatshot = element (unsafeCoerce _mdWhatshot)
 
-foreign import mdWheelchairPickup_ :: ReactIcon
+foreign import _mdWheelchairPickup :: ReactIcon
 
 mdWheelchairPickup :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdWheelchairPickup = element (unsafeCoerce mdWheelchairPickup_)
+mdWheelchairPickup = element (unsafeCoerce _mdWheelchairPickup)
 
-foreign import mdWhereToVote_ :: ReactIcon
+foreign import _mdWhereToVote :: ReactIcon
 
 mdWhereToVote :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdWhereToVote = element (unsafeCoerce mdWhereToVote_)
+mdWhereToVote = element (unsafeCoerce _mdWhereToVote)
 
-foreign import mdWidgets_ :: ReactIcon
+foreign import _mdWidgets :: ReactIcon
 
 mdWidgets :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdWidgets = element (unsafeCoerce mdWidgets_)
+mdWidgets = element (unsafeCoerce _mdWidgets)
 
-foreign import mdWifi_ :: ReactIcon
+foreign import _mdWifi :: ReactIcon
 
 mdWifi :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdWifi = element (unsafeCoerce mdWifi_)
+mdWifi = element (unsafeCoerce _mdWifi)
 
-foreign import mdWifiCalling_ :: ReactIcon
+foreign import _mdWifiCalling :: ReactIcon
 
 mdWifiCalling :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdWifiCalling = element (unsafeCoerce mdWifiCalling_)
+mdWifiCalling = element (unsafeCoerce _mdWifiCalling)
 
-foreign import mdWifiLock_ :: ReactIcon
+foreign import _mdWifiLock :: ReactIcon
 
 mdWifiLock :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdWifiLock = element (unsafeCoerce mdWifiLock_)
+mdWifiLock = element (unsafeCoerce _mdWifiLock)
 
-foreign import mdWifiOff_ :: ReactIcon
+foreign import _mdWifiOff :: ReactIcon
 
 mdWifiOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdWifiOff = element (unsafeCoerce mdWifiOff_)
+mdWifiOff = element (unsafeCoerce _mdWifiOff)
 
-foreign import mdWifiProtectedSetup_ :: ReactIcon
+foreign import _mdWifiProtectedSetup :: ReactIcon
 
 mdWifiProtectedSetup :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdWifiProtectedSetup = element (unsafeCoerce mdWifiProtectedSetup_)
+mdWifiProtectedSetup = element (unsafeCoerce _mdWifiProtectedSetup)
 
-foreign import mdWifiTethering_ :: ReactIcon
+foreign import _mdWifiTethering :: ReactIcon
 
 mdWifiTethering :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdWifiTethering = element (unsafeCoerce mdWifiTethering_)
+mdWifiTethering = element (unsafeCoerce _mdWifiTethering)
 
-foreign import mdWifiTetheringErrorRounded_ :: ReactIcon
+foreign import _mdWifiTetheringErrorRounded :: ReactIcon
 
 mdWifiTetheringErrorRounded :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdWifiTetheringErrorRounded = element (unsafeCoerce mdWifiTetheringErrorRounded_)
+mdWifiTetheringErrorRounded = element (unsafeCoerce _mdWifiTetheringErrorRounded)
 
-foreign import mdWifiTetheringOff_ :: ReactIcon
+foreign import _mdWifiTetheringOff :: ReactIcon
 
 mdWifiTetheringOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdWifiTetheringOff = element (unsafeCoerce mdWifiTetheringOff_)
+mdWifiTetheringOff = element (unsafeCoerce _mdWifiTetheringOff)
 
-foreign import mdWindow_ :: ReactIcon
+foreign import _mdWindow :: ReactIcon
 
 mdWindow :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdWindow = element (unsafeCoerce mdWindow_)
+mdWindow = element (unsafeCoerce _mdWindow)
 
-foreign import mdWineBar_ :: ReactIcon
+foreign import _mdWineBar :: ReactIcon
 
 mdWineBar :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdWineBar = element (unsafeCoerce mdWineBar_)
+mdWineBar = element (unsafeCoerce _mdWineBar)
 
-foreign import mdWork_ :: ReactIcon
+foreign import _mdWork :: ReactIcon
 
 mdWork :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdWork = element (unsafeCoerce mdWork_)
+mdWork = element (unsafeCoerce _mdWork)
 
-foreign import mdWorkOff_ :: ReactIcon
+foreign import _mdWorkOff :: ReactIcon
 
 mdWorkOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdWorkOff = element (unsafeCoerce mdWorkOff_)
+mdWorkOff = element (unsafeCoerce _mdWorkOff)
 
-foreign import mdWorkOutline_ :: ReactIcon
+foreign import _mdWorkOutline :: ReactIcon
 
 mdWorkOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdWorkOutline = element (unsafeCoerce mdWorkOutline_)
+mdWorkOutline = element (unsafeCoerce _mdWorkOutline)
 
-foreign import mdWorkspaces_ :: ReactIcon
+foreign import _mdWorkspaces :: ReactIcon
 
 mdWorkspaces :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdWorkspaces = element (unsafeCoerce mdWorkspaces_)
+mdWorkspaces = element (unsafeCoerce _mdWorkspaces)
 
-foreign import mdWorkspacesFilled_ :: ReactIcon
+foreign import _mdWorkspacesFilled :: ReactIcon
 
 mdWorkspacesFilled :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdWorkspacesFilled = element (unsafeCoerce mdWorkspacesFilled_)
+mdWorkspacesFilled = element (unsafeCoerce _mdWorkspacesFilled)
 
-foreign import mdWorkspacesOutline_ :: ReactIcon
+foreign import _mdWorkspacesOutline :: ReactIcon
 
 mdWorkspacesOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdWorkspacesOutline = element (unsafeCoerce mdWorkspacesOutline_)
+mdWorkspacesOutline = element (unsafeCoerce _mdWorkspacesOutline)
 
-foreign import mdWrapText_ :: ReactIcon
+foreign import _mdWrapText :: ReactIcon
 
 mdWrapText :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdWrapText = element (unsafeCoerce mdWrapText_)
+mdWrapText = element (unsafeCoerce _mdWrapText)
 
-foreign import mdWrongLocation_ :: ReactIcon
+foreign import _mdWrongLocation :: ReactIcon
 
 mdWrongLocation :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdWrongLocation = element (unsafeCoerce mdWrongLocation_)
+mdWrongLocation = element (unsafeCoerce _mdWrongLocation)
 
-foreign import mdWysiwyg_ :: ReactIcon
+foreign import _mdWysiwyg :: ReactIcon
 
 mdWysiwyg :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdWysiwyg = element (unsafeCoerce mdWysiwyg_)
+mdWysiwyg = element (unsafeCoerce _mdWysiwyg)
 
-foreign import mdYard_ :: ReactIcon
+foreign import _mdYard :: ReactIcon
 
 mdYard :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdYard = element (unsafeCoerce mdYard_)
+mdYard = element (unsafeCoerce _mdYard)
 
-foreign import mdYoutubeSearchedFor_ :: ReactIcon
+foreign import _mdYoutubeSearchedFor :: ReactIcon
 
 mdYoutubeSearchedFor :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdYoutubeSearchedFor = element (unsafeCoerce mdYoutubeSearchedFor_)
+mdYoutubeSearchedFor = element (unsafeCoerce _mdYoutubeSearchedFor)
 
-foreign import mdZoomIn_ :: ReactIcon
+foreign import _mdZoomIn :: ReactIcon
 
 mdZoomIn :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdZoomIn = element (unsafeCoerce mdZoomIn_)
+mdZoomIn = element (unsafeCoerce _mdZoomIn)
 
-foreign import mdZoomOut_ :: ReactIcon
+foreign import _mdZoomOut :: ReactIcon
 
 mdZoomOut :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdZoomOut = element (unsafeCoerce mdZoomOut_)
+mdZoomOut = element (unsafeCoerce _mdZoomOut)
 
-foreign import mdZoomOutMap_ :: ReactIcon
+foreign import _mdZoomOutMap :: ReactIcon
 
 mdZoomOutMap :: forall a b. Union a b PropsIcon => Record a -> JSX
-mdZoomOutMap = element (unsafeCoerce mdZoomOutMap_)
+mdZoomOutMap = element (unsafeCoerce _mdZoomOutMap)

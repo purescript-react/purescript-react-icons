@@ -9,3067 +9,3067 @@ import React.Basic (JSX, element)
 import React.Icons.Types (ReactIcon, PropsIcon)
 import Unsafe.Coerce (unsafeCoerce)
 
-foreign import grAccessibility_ :: ReactIcon
+foreign import _grAccessibility :: ReactIcon
 
 grAccessibility :: forall a b. Union a b PropsIcon => Record a -> JSX
-grAccessibility = element (unsafeCoerce grAccessibility_)
+grAccessibility = element (unsafeCoerce _grAccessibility)
 
-foreign import grAchievement_ :: ReactIcon
+foreign import _grAchievement :: ReactIcon
 
 grAchievement :: forall a b. Union a b PropsIcon => Record a -> JSX
-grAchievement = element (unsafeCoerce grAchievement_)
+grAchievement = element (unsafeCoerce _grAchievement)
 
-foreign import grAction_ :: ReactIcon
+foreign import _grAction :: ReactIcon
 
 grAction :: forall a b. Union a b PropsIcon => Record a -> JSX
-grAction = element (unsafeCoerce grAction_)
+grAction = element (unsafeCoerce _grAction)
 
-foreign import grActions_ :: ReactIcon
+foreign import _grActions :: ReactIcon
 
 grActions :: forall a b. Union a b PropsIcon => Record a -> JSX
-grActions = element (unsafeCoerce grActions_)
+grActions = element (unsafeCoerce _grActions)
 
-foreign import grAd_ :: ReactIcon
+foreign import _grAd :: ReactIcon
 
 grAd :: forall a b. Union a b PropsIcon => Record a -> JSX
-grAd = element (unsafeCoerce grAd_)
+grAd = element (unsafeCoerce _grAd)
 
-foreign import grAdd_ :: ReactIcon
+foreign import _grAdd :: ReactIcon
 
 grAdd :: forall a b. Union a b PropsIcon => Record a -> JSX
-grAdd = element (unsafeCoerce grAdd_)
+grAdd = element (unsafeCoerce _grAdd)
 
-foreign import grAddCircle_ :: ReactIcon
+foreign import _grAddCircle :: ReactIcon
 
 grAddCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-grAddCircle = element (unsafeCoerce grAddCircle_)
+grAddCircle = element (unsafeCoerce _grAddCircle)
 
-foreign import grAed_ :: ReactIcon
+foreign import _grAed :: ReactIcon
 
 grAed :: forall a b. Union a b PropsIcon => Record a -> JSX
-grAed = element (unsafeCoerce grAed_)
+grAed = element (unsafeCoerce _grAed)
 
-foreign import grAggregate_ :: ReactIcon
+foreign import _grAggregate :: ReactIcon
 
 grAggregate :: forall a b. Union a b PropsIcon => Record a -> JSX
-grAggregate = element (unsafeCoerce grAggregate_)
+grAggregate = element (unsafeCoerce _grAggregate)
 
-foreign import grAid_ :: ReactIcon
+foreign import _grAid :: ReactIcon
 
 grAid :: forall a b. Union a b PropsIcon => Record a -> JSX
-grAid = element (unsafeCoerce grAid_)
+grAid = element (unsafeCoerce _grAid)
 
-foreign import grAidOption_ :: ReactIcon
+foreign import _grAidOption :: ReactIcon
 
 grAidOption :: forall a b. Union a b PropsIcon => Record a -> JSX
-grAidOption = element (unsafeCoerce grAidOption_)
+grAidOption = element (unsafeCoerce _grAidOption)
 
-foreign import grAlarm_ :: ReactIcon
+foreign import _grAlarm :: ReactIcon
 
 grAlarm :: forall a b. Union a b PropsIcon => Record a -> JSX
-grAlarm = element (unsafeCoerce grAlarm_)
+grAlarm = element (unsafeCoerce _grAlarm)
 
-foreign import grAlert_ :: ReactIcon
+foreign import _grAlert :: ReactIcon
 
 grAlert :: forall a b. Union a b PropsIcon => Record a -> JSX
-grAlert = element (unsafeCoerce grAlert_)
+grAlert = element (unsafeCoerce _grAlert)
 
-foreign import grAmazon_ :: ReactIcon
+foreign import _grAmazon :: ReactIcon
 
 grAmazon :: forall a b. Union a b PropsIcon => Record a -> JSX
-grAmazon = element (unsafeCoerce grAmazon_)
+grAmazon = element (unsafeCoerce _grAmazon)
 
-foreign import grAmex_ :: ReactIcon
+foreign import _grAmex :: ReactIcon
 
 grAmex :: forall a b. Union a b PropsIcon => Record a -> JSX
-grAmex = element (unsafeCoerce grAmex_)
+grAmex = element (unsafeCoerce _grAmex)
 
-foreign import grAnalytics_ :: ReactIcon
+foreign import _grAnalytics :: ReactIcon
 
 grAnalytics :: forall a b. Union a b PropsIcon => Record a -> JSX
-grAnalytics = element (unsafeCoerce grAnalytics_)
+grAnalytics = element (unsafeCoerce _grAnalytics)
 
-foreign import grAnchor_ :: ReactIcon
+foreign import _grAnchor :: ReactIcon
 
 grAnchor :: forall a b. Union a b PropsIcon => Record a -> JSX
-grAnchor = element (unsafeCoerce grAnchor_)
+grAnchor = element (unsafeCoerce _grAnchor)
 
-foreign import grAndroid_ :: ReactIcon
+foreign import _grAndroid :: ReactIcon
 
 grAndroid :: forall a b. Union a b PropsIcon => Record a -> JSX
-grAndroid = element (unsafeCoerce grAndroid_)
+grAndroid = element (unsafeCoerce _grAndroid)
 
-foreign import grAnnounce_ :: ReactIcon
+foreign import _grAnnounce :: ReactIcon
 
 grAnnounce :: forall a b. Union a b PropsIcon => Record a -> JSX
-grAnnounce = element (unsafeCoerce grAnnounce_)
+grAnnounce = element (unsafeCoerce _grAnnounce)
 
-foreign import grApple_ :: ReactIcon
+foreign import _grApple :: ReactIcon
 
 grApple :: forall a b. Union a b PropsIcon => Record a -> JSX
-grApple = element (unsafeCoerce grApple_)
+grApple = element (unsafeCoerce _grApple)
 
-foreign import grAppleAppStore_ :: ReactIcon
+foreign import _grAppleAppStore :: ReactIcon
 
 grAppleAppStore :: forall a b. Union a b PropsIcon => Record a -> JSX
-grAppleAppStore = element (unsafeCoerce grAppleAppStore_)
+grAppleAppStore = element (unsafeCoerce _grAppleAppStore)
 
-foreign import grApps_ :: ReactIcon
+foreign import _grApps :: ReactIcon
 
 grApps :: forall a b. Union a b PropsIcon => Record a -> JSX
-grApps = element (unsafeCoerce grApps_)
+grApps = element (unsafeCoerce _grApps)
 
-foreign import grAppsRounded_ :: ReactIcon
+foreign import _grAppsRounded :: ReactIcon
 
 grAppsRounded :: forall a b. Union a b PropsIcon => Record a -> JSX
-grAppsRounded = element (unsafeCoerce grAppsRounded_)
+grAppsRounded = element (unsafeCoerce _grAppsRounded)
 
-foreign import grArchive_ :: ReactIcon
+foreign import _grArchive :: ReactIcon
 
 grArchive :: forall a b. Union a b PropsIcon => Record a -> JSX
-grArchive = element (unsafeCoerce grArchive_)
+grArchive = element (unsafeCoerce _grArchive)
 
-foreign import grArchlinux_ :: ReactIcon
+foreign import _grArchlinux :: ReactIcon
 
 grArchlinux :: forall a b. Union a b PropsIcon => Record a -> JSX
-grArchlinux = element (unsafeCoerce grArchlinux_)
+grArchlinux = element (unsafeCoerce _grArchlinux)
 
-foreign import grArticle_ :: ReactIcon
+foreign import _grArticle :: ReactIcon
 
 grArticle :: forall a b. Union a b PropsIcon => Record a -> JSX
-grArticle = element (unsafeCoerce grArticle_)
+grArticle = element (unsafeCoerce _grArticle)
 
-foreign import grAruba_ :: ReactIcon
+foreign import _grAruba :: ReactIcon
 
 grAruba :: forall a b. Union a b PropsIcon => Record a -> JSX
-grAruba = element (unsafeCoerce grAruba_)
+grAruba = element (unsafeCoerce _grAruba)
 
-foreign import grAscend_ :: ReactIcon
+foreign import _grAscend :: ReactIcon
 
 grAscend :: forall a b. Union a b PropsIcon => Record a -> JSX
-grAscend = element (unsafeCoerce grAscend_)
+grAscend = element (unsafeCoerce _grAscend)
 
-foreign import grAscending_ :: ReactIcon
+foreign import _grAscending :: ReactIcon
 
 grAscending :: forall a b. Union a b PropsIcon => Record a -> JSX
-grAscending = element (unsafeCoerce grAscending_)
+grAscending = element (unsafeCoerce _grAscending)
 
-foreign import grAssistListening_ :: ReactIcon
+foreign import _grAssistListening :: ReactIcon
 
 grAssistListening :: forall a b. Union a b PropsIcon => Record a -> JSX
-grAssistListening = element (unsafeCoerce grAssistListening_)
+grAssistListening = element (unsafeCoerce _grAssistListening)
 
-foreign import grAtm_ :: ReactIcon
+foreign import _grAtm :: ReactIcon
 
 grAtm :: forall a b. Union a b PropsIcon => Record a -> JSX
-grAtm = element (unsafeCoerce grAtm_)
+grAtm = element (unsafeCoerce _grAtm)
 
-foreign import grAttachment_ :: ReactIcon
+foreign import _grAttachment :: ReactIcon
 
 grAttachment :: forall a b. Union a b PropsIcon => Record a -> JSX
-grAttachment = element (unsafeCoerce grAttachment_)
+grAttachment = element (unsafeCoerce _grAttachment)
 
-foreign import grAttraction_ :: ReactIcon
+foreign import _grAttraction :: ReactIcon
 
 grAttraction :: forall a b. Union a b PropsIcon => Record a -> JSX
-grAttraction = element (unsafeCoerce grAttraction_)
+grAttraction = element (unsafeCoerce _grAttraction)
 
-foreign import grBaby_ :: ReactIcon
+foreign import _grBaby :: ReactIcon
 
 grBaby :: forall a b. Union a b PropsIcon => Record a -> JSX
-grBaby = element (unsafeCoerce grBaby_)
+grBaby = element (unsafeCoerce _grBaby)
 
-foreign import grBackTen_ :: ReactIcon
+foreign import _grBackTen :: ReactIcon
 
 grBackTen :: forall a b. Union a b PropsIcon => Record a -> JSX
-grBackTen = element (unsafeCoerce grBackTen_)
+grBackTen = element (unsafeCoerce _grBackTen)
 
-foreign import grBar_ :: ReactIcon
+foreign import _grBar :: ReactIcon
 
 grBar :: forall a b. Union a b PropsIcon => Record a -> JSX
-grBar = element (unsafeCoerce grBar_)
+grBar = element (unsafeCoerce _grBar)
 
-foreign import grBarChart_ :: ReactIcon
+foreign import _grBarChart :: ReactIcon
 
 grBarChart :: forall a b. Union a b PropsIcon => Record a -> JSX
-grBarChart = element (unsafeCoerce grBarChart_)
+grBarChart = element (unsafeCoerce _grBarChart)
 
-foreign import grBasket_ :: ReactIcon
+foreign import _grBasket :: ReactIcon
 
 grBasket :: forall a b. Union a b PropsIcon => Record a -> JSX
-grBasket = element (unsafeCoerce grBasket_)
+grBasket = element (unsafeCoerce _grBasket)
 
-foreign import grBeacon_ :: ReactIcon
+foreign import _grBeacon :: ReactIcon
 
 grBeacon :: forall a b. Union a b PropsIcon => Record a -> JSX
-grBeacon = element (unsafeCoerce grBeacon_)
+grBeacon = element (unsafeCoerce _grBeacon)
 
-foreign import grBike_ :: ReactIcon
+foreign import _grBike :: ReactIcon
 
 grBike :: forall a b. Union a b PropsIcon => Record a -> JSX
-grBike = element (unsafeCoerce grBike_)
+grBike = element (unsafeCoerce _grBike)
 
-foreign import grBitcoin_ :: ReactIcon
+foreign import _grBitcoin :: ReactIcon
 
 grBitcoin :: forall a b. Union a b PropsIcon => Record a -> JSX
-grBitcoin = element (unsafeCoerce grBitcoin_)
+grBitcoin = element (unsafeCoerce _grBitcoin)
 
-foreign import grBladesHorizontal_ :: ReactIcon
+foreign import _grBladesHorizontal :: ReactIcon
 
 grBladesHorizontal :: forall a b. Union a b PropsIcon => Record a -> JSX
-grBladesHorizontal = element (unsafeCoerce grBladesHorizontal_)
+grBladesHorizontal = element (unsafeCoerce _grBladesHorizontal)
 
-foreign import grBladesVertical_ :: ReactIcon
+foreign import _grBladesVertical :: ReactIcon
 
 grBladesVertical :: forall a b. Union a b PropsIcon => Record a -> JSX
-grBladesVertical = element (unsafeCoerce grBladesVertical_)
+grBladesVertical = element (unsafeCoerce _grBladesVertical)
 
-foreign import grBlockQuote_ :: ReactIcon
+foreign import _grBlockQuote :: ReactIcon
 
 grBlockQuote :: forall a b. Union a b PropsIcon => Record a -> JSX
-grBlockQuote = element (unsafeCoerce grBlockQuote_)
+grBlockQuote = element (unsafeCoerce _grBlockQuote)
 
-foreign import grBlog_ :: ReactIcon
+foreign import _grBlog :: ReactIcon
 
 grBlog :: forall a b. Union a b PropsIcon => Record a -> JSX
-grBlog = element (unsafeCoerce grBlog_)
+grBlog = element (unsafeCoerce _grBlog)
 
-foreign import grBluetooth_ :: ReactIcon
+foreign import _grBluetooth :: ReactIcon
 
 grBluetooth :: forall a b. Union a b PropsIcon => Record a -> JSX
-grBluetooth = element (unsafeCoerce grBluetooth_)
+grBluetooth = element (unsafeCoerce _grBluetooth)
 
-foreign import grBold_ :: ReactIcon
+foreign import _grBold :: ReactIcon
 
 grBold :: forall a b. Union a b PropsIcon => Record a -> JSX
-grBold = element (unsafeCoerce grBold_)
+grBold = element (unsafeCoerce _grBold)
 
-foreign import grBook_ :: ReactIcon
+foreign import _grBook :: ReactIcon
 
 grBook :: forall a b. Union a b PropsIcon => Record a -> JSX
-grBook = element (unsafeCoerce grBook_)
+grBook = element (unsafeCoerce _grBook)
 
-foreign import grBookmark_ :: ReactIcon
+foreign import _grBookmark :: ReactIcon
 
 grBookmark :: forall a b. Union a b PropsIcon => Record a -> JSX
-grBookmark = element (unsafeCoerce grBookmark_)
+grBookmark = element (unsafeCoerce _grBookmark)
 
-foreign import grBottomCorner_ :: ReactIcon
+foreign import _grBottomCorner :: ReactIcon
 
 grBottomCorner :: forall a b. Union a b PropsIcon => Record a -> JSX
-grBottomCorner = element (unsafeCoerce grBottomCorner_)
+grBottomCorner = element (unsafeCoerce _grBottomCorner)
 
-foreign import grBraille_ :: ReactIcon
+foreign import _grBraille :: ReactIcon
 
 grBraille :: forall a b. Union a b PropsIcon => Record a -> JSX
-grBraille = element (unsafeCoerce grBraille_)
+grBraille = element (unsafeCoerce _grBraille)
 
-foreign import grBriefcase_ :: ReactIcon
+foreign import _grBriefcase :: ReactIcon
 
 grBriefcase :: forall a b. Union a b PropsIcon => Record a -> JSX
-grBriefcase = element (unsafeCoerce grBriefcase_)
+grBriefcase = element (unsafeCoerce _grBriefcase)
 
-foreign import grBrush_ :: ReactIcon
+foreign import _grBrush :: ReactIcon
 
 grBrush :: forall a b. Union a b PropsIcon => Record a -> JSX
-grBrush = element (unsafeCoerce grBrush_)
+grBrush = element (unsafeCoerce _grBrush)
 
-foreign import grBug_ :: ReactIcon
+foreign import _grBug :: ReactIcon
 
 grBug :: forall a b. Union a b PropsIcon => Record a -> JSX
-grBug = element (unsafeCoerce grBug_)
+grBug = element (unsafeCoerce _grBug)
 
-foreign import grBundle_ :: ReactIcon
+foreign import _grBundle :: ReactIcon
 
 grBundle :: forall a b. Union a b PropsIcon => Record a -> JSX
-grBundle = element (unsafeCoerce grBundle_)
+grBundle = element (unsafeCoerce _grBundle)
 
-foreign import grBus_ :: ReactIcon
+foreign import _grBus :: ReactIcon
 
 grBus :: forall a b. Union a b PropsIcon => Record a -> JSX
-grBus = element (unsafeCoerce grBus_)
+grBus = element (unsafeCoerce _grBus)
 
-foreign import grBusinessService_ :: ReactIcon
+foreign import _grBusinessService :: ReactIcon
 
 grBusinessService :: forall a b. Union a b PropsIcon => Record a -> JSX
-grBusinessService = element (unsafeCoerce grBusinessService_)
+grBusinessService = element (unsafeCoerce _grBusinessService)
 
-foreign import grCafeteria_ :: ReactIcon
+foreign import _grCafeteria :: ReactIcon
 
 grCafeteria :: forall a b. Union a b PropsIcon => Record a -> JSX
-grCafeteria = element (unsafeCoerce grCafeteria_)
+grCafeteria = element (unsafeCoerce _grCafeteria)
 
-foreign import grCalculator_ :: ReactIcon
+foreign import _grCalculator :: ReactIcon
 
 grCalculator :: forall a b. Union a b PropsIcon => Record a -> JSX
-grCalculator = element (unsafeCoerce grCalculator_)
+grCalculator = element (unsafeCoerce _grCalculator)
 
-foreign import grCalendar_ :: ReactIcon
+foreign import _grCalendar :: ReactIcon
 
 grCalendar :: forall a b. Union a b PropsIcon => Record a -> JSX
-grCalendar = element (unsafeCoerce grCalendar_)
+grCalendar = element (unsafeCoerce _grCalendar)
 
-foreign import grCamera_ :: ReactIcon
+foreign import _grCamera :: ReactIcon
 
 grCamera :: forall a b. Union a b PropsIcon => Record a -> JSX
-grCamera = element (unsafeCoerce grCamera_)
+grCamera = element (unsafeCoerce _grCamera)
 
-foreign import grCapacity_ :: ReactIcon
+foreign import _grCapacity :: ReactIcon
 
 grCapacity :: forall a b. Union a b PropsIcon => Record a -> JSX
-grCapacity = element (unsafeCoerce grCapacity_)
+grCapacity = element (unsafeCoerce _grCapacity)
 
-foreign import grCar_ :: ReactIcon
+foreign import _grCar :: ReactIcon
 
 grCar :: forall a b. Union a b PropsIcon => Record a -> JSX
-grCar = element (unsafeCoerce grCar_)
+grCar = element (unsafeCoerce _grCar)
 
-foreign import grCaretDown_ :: ReactIcon
+foreign import _grCaretDown :: ReactIcon
 
 grCaretDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-grCaretDown = element (unsafeCoerce grCaretDown_)
+grCaretDown = element (unsafeCoerce _grCaretDown)
 
-foreign import grCaretDownFill_ :: ReactIcon
+foreign import _grCaretDownFill :: ReactIcon
 
 grCaretDownFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-grCaretDownFill = element (unsafeCoerce grCaretDownFill_)
+grCaretDownFill = element (unsafeCoerce _grCaretDownFill)
 
-foreign import grCaretLeftFill_ :: ReactIcon
+foreign import _grCaretLeftFill :: ReactIcon
 
 grCaretLeftFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-grCaretLeftFill = element (unsafeCoerce grCaretLeftFill_)
+grCaretLeftFill = element (unsafeCoerce _grCaretLeftFill)
 
-foreign import grCaretNext_ :: ReactIcon
+foreign import _grCaretNext :: ReactIcon
 
 grCaretNext :: forall a b. Union a b PropsIcon => Record a -> JSX
-grCaretNext = element (unsafeCoerce grCaretNext_)
+grCaretNext = element (unsafeCoerce _grCaretNext)
 
-foreign import grCaretPrevious_ :: ReactIcon
+foreign import _grCaretPrevious :: ReactIcon
 
 grCaretPrevious :: forall a b. Union a b PropsIcon => Record a -> JSX
-grCaretPrevious = element (unsafeCoerce grCaretPrevious_)
+grCaretPrevious = element (unsafeCoerce _grCaretPrevious)
 
-foreign import grCaretRightFill_ :: ReactIcon
+foreign import _grCaretRightFill :: ReactIcon
 
 grCaretRightFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-grCaretRightFill = element (unsafeCoerce grCaretRightFill_)
+grCaretRightFill = element (unsafeCoerce _grCaretRightFill)
 
-foreign import grCaretUp_ :: ReactIcon
+foreign import _grCaretUp :: ReactIcon
 
 grCaretUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-grCaretUp = element (unsafeCoerce grCaretUp_)
+grCaretUp = element (unsafeCoerce _grCaretUp)
 
-foreign import grCaretUpFill_ :: ReactIcon
+foreign import _grCaretUpFill :: ReactIcon
 
 grCaretUpFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-grCaretUpFill = element (unsafeCoerce grCaretUpFill_)
+grCaretUpFill = element (unsafeCoerce _grCaretUpFill)
 
-foreign import grCart_ :: ReactIcon
+foreign import _grCart :: ReactIcon
 
 grCart :: forall a b. Union a b PropsIcon => Record a -> JSX
-grCart = element (unsafeCoerce grCart_)
+grCart = element (unsafeCoerce _grCart)
 
-foreign import grCatalog_ :: ReactIcon
+foreign import _grCatalog :: ReactIcon
 
 grCatalog :: forall a b. Union a b PropsIcon => Record a -> JSX
-grCatalog = element (unsafeCoerce grCatalog_)
+grCatalog = element (unsafeCoerce _grCatalog)
 
-foreign import grCatalogOption_ :: ReactIcon
+foreign import _grCatalogOption :: ReactIcon
 
 grCatalogOption :: forall a b. Union a b PropsIcon => Record a -> JSX
-grCatalogOption = element (unsafeCoerce grCatalogOption_)
+grCatalogOption = element (unsafeCoerce _grCatalogOption)
 
-foreign import grCentos_ :: ReactIcon
+foreign import _grCentos :: ReactIcon
 
 grCentos :: forall a b. Union a b PropsIcon => Record a -> JSX
-grCentos = element (unsafeCoerce grCentos_)
+grCentos = element (unsafeCoerce _grCentos)
 
-foreign import grCertificate_ :: ReactIcon
+foreign import _grCertificate :: ReactIcon
 
 grCertificate :: forall a b. Union a b PropsIcon => Record a -> JSX
-grCertificate = element (unsafeCoerce grCertificate_)
+grCertificate = element (unsafeCoerce _grCertificate)
 
-foreign import grChannel_ :: ReactIcon
+foreign import _grChannel :: ReactIcon
 
 grChannel :: forall a b. Union a b PropsIcon => Record a -> JSX
-grChannel = element (unsafeCoerce grChannel_)
+grChannel = element (unsafeCoerce _grChannel)
 
-foreign import grChapterAdd_ :: ReactIcon
+foreign import _grChapterAdd :: ReactIcon
 
 grChapterAdd :: forall a b. Union a b PropsIcon => Record a -> JSX
-grChapterAdd = element (unsafeCoerce grChapterAdd_)
+grChapterAdd = element (unsafeCoerce _grChapterAdd)
 
-foreign import grChapterNext_ :: ReactIcon
+foreign import _grChapterNext :: ReactIcon
 
 grChapterNext :: forall a b. Union a b PropsIcon => Record a -> JSX
-grChapterNext = element (unsafeCoerce grChapterNext_)
+grChapterNext = element (unsafeCoerce _grChapterNext)
 
-foreign import grChapterPrevious_ :: ReactIcon
+foreign import _grChapterPrevious :: ReactIcon
 
 grChapterPrevious :: forall a b. Union a b PropsIcon => Record a -> JSX
-grChapterPrevious = element (unsafeCoerce grChapterPrevious_)
+grChapterPrevious = element (unsafeCoerce _grChapterPrevious)
 
-foreign import grChat_ :: ReactIcon
+foreign import _grChat :: ReactIcon
 
 grChat :: forall a b. Union a b PropsIcon => Record a -> JSX
-grChat = element (unsafeCoerce grChat_)
+grChat = element (unsafeCoerce _grChat)
 
-foreign import grChatOption_ :: ReactIcon
+foreign import _grChatOption :: ReactIcon
 
 grChatOption :: forall a b. Union a b PropsIcon => Record a -> JSX
-grChatOption = element (unsafeCoerce grChatOption_)
+grChatOption = element (unsafeCoerce _grChatOption)
 
-foreign import grCheckbox_ :: ReactIcon
+foreign import _grCheckbox :: ReactIcon
 
 grCheckbox :: forall a b. Union a b PropsIcon => Record a -> JSX
-grCheckbox = element (unsafeCoerce grCheckbox_)
+grCheckbox = element (unsafeCoerce _grCheckbox)
 
-foreign import grCheckboxSelected_ :: ReactIcon
+foreign import _grCheckboxSelected :: ReactIcon
 
 grCheckboxSelected :: forall a b. Union a b PropsIcon => Record a -> JSX
-grCheckboxSelected = element (unsafeCoerce grCheckboxSelected_)
+grCheckboxSelected = element (unsafeCoerce _grCheckboxSelected)
 
-foreign import grCheckmark_ :: ReactIcon
+foreign import _grCheckmark :: ReactIcon
 
 grCheckmark :: forall a b. Union a b PropsIcon => Record a -> JSX
-grCheckmark = element (unsafeCoerce grCheckmark_)
+grCheckmark = element (unsafeCoerce _grCheckmark)
 
-foreign import grChrome_ :: ReactIcon
+foreign import _grChrome :: ReactIcon
 
 grChrome :: forall a b. Union a b PropsIcon => Record a -> JSX
-grChrome = element (unsafeCoerce grChrome_)
+grChrome = element (unsafeCoerce _grChrome)
 
-foreign import grCircleAlert_ :: ReactIcon
+foreign import _grCircleAlert :: ReactIcon
 
 grCircleAlert :: forall a b. Union a b PropsIcon => Record a -> JSX
-grCircleAlert = element (unsafeCoerce grCircleAlert_)
+grCircleAlert = element (unsafeCoerce _grCircleAlert)
 
-foreign import grCircleInformation_ :: ReactIcon
+foreign import _grCircleInformation :: ReactIcon
 
 grCircleInformation :: forall a b. Union a b PropsIcon => Record a -> JSX
-grCircleInformation = element (unsafeCoerce grCircleInformation_)
+grCircleInformation = element (unsafeCoerce _grCircleInformation)
 
-foreign import grCirclePlay_ :: ReactIcon
+foreign import _grCirclePlay :: ReactIcon
 
 grCirclePlay :: forall a b. Union a b PropsIcon => Record a -> JSX
-grCirclePlay = element (unsafeCoerce grCirclePlay_)
+grCirclePlay = element (unsafeCoerce _grCirclePlay)
 
-foreign import grCircleQuestion_ :: ReactIcon
+foreign import _grCircleQuestion :: ReactIcon
 
 grCircleQuestion :: forall a b. Union a b PropsIcon => Record a -> JSX
-grCircleQuestion = element (unsafeCoerce grCircleQuestion_)
+grCircleQuestion = element (unsafeCoerce _grCircleQuestion)
 
-foreign import grClear_ :: ReactIcon
+foreign import _grClear :: ReactIcon
 
 grClear :: forall a b. Union a b PropsIcon => Record a -> JSX
-grClear = element (unsafeCoerce grClear_)
+grClear = element (unsafeCoerce _grClear)
 
-foreign import grClearOption_ :: ReactIcon
+foreign import _grClearOption :: ReactIcon
 
 grClearOption :: forall a b. Union a b PropsIcon => Record a -> JSX
-grClearOption = element (unsafeCoerce grClearOption_)
+grClearOption = element (unsafeCoerce _grClearOption)
 
-foreign import grCli_ :: ReactIcon
+foreign import _grCli :: ReactIcon
 
 grCli :: forall a b. Union a b PropsIcon => Record a -> JSX
-grCli = element (unsafeCoerce grCli_)
+grCli = element (unsafeCoerce _grCli)
 
-foreign import grClipboard_ :: ReactIcon
+foreign import _grClipboard :: ReactIcon
 
 grClipboard :: forall a b. Union a b PropsIcon => Record a -> JSX
-grClipboard = element (unsafeCoerce grClipboard_)
+grClipboard = element (unsafeCoerce _grClipboard)
 
-foreign import grClock_ :: ReactIcon
+foreign import _grClock :: ReactIcon
 
 grClock :: forall a b. Union a b PropsIcon => Record a -> JSX
-grClock = element (unsafeCoerce grClock_)
+grClock = element (unsafeCoerce _grClock)
 
-foreign import grClone_ :: ReactIcon
+foreign import _grClone :: ReactIcon
 
 grClone :: forall a b. Union a b PropsIcon => Record a -> JSX
-grClone = element (unsafeCoerce grClone_)
+grClone = element (unsafeCoerce _grClone)
 
-foreign import grClose_ :: ReactIcon
+foreign import _grClose :: ReactIcon
 
 grClose :: forall a b. Union a b PropsIcon => Record a -> JSX
-grClose = element (unsafeCoerce grClose_)
+grClose = element (unsafeCoerce _grClose)
 
-foreign import grClosedCaption_ :: ReactIcon
+foreign import _grClosedCaption :: ReactIcon
 
 grClosedCaption :: forall a b. Union a b PropsIcon => Record a -> JSX
-grClosedCaption = element (unsafeCoerce grClosedCaption_)
+grClosedCaption = element (unsafeCoerce _grClosedCaption)
 
-foreign import grCloud_ :: ReactIcon
+foreign import _grCloud :: ReactIcon
 
 grCloud :: forall a b. Union a b PropsIcon => Record a -> JSX
-grCloud = element (unsafeCoerce grCloud_)
+grCloud = element (unsafeCoerce _grCloud)
 
-foreign import grCloudComputer_ :: ReactIcon
+foreign import _grCloudComputer :: ReactIcon
 
 grCloudComputer :: forall a b. Union a b PropsIcon => Record a -> JSX
-grCloudComputer = element (unsafeCoerce grCloudComputer_)
+grCloudComputer = element (unsafeCoerce _grCloudComputer)
 
-foreign import grCloudDownload_ :: ReactIcon
+foreign import _grCloudDownload :: ReactIcon
 
 grCloudDownload :: forall a b. Union a b PropsIcon => Record a -> JSX
-grCloudDownload = element (unsafeCoerce grCloudDownload_)
+grCloudDownload = element (unsafeCoerce _grCloudDownload)
 
-foreign import grCloudlinux_ :: ReactIcon
+foreign import _grCloudlinux :: ReactIcon
 
 grCloudlinux :: forall a b. Union a b PropsIcon => Record a -> JSX
-grCloudlinux = element (unsafeCoerce grCloudlinux_)
+grCloudlinux = element (unsafeCoerce _grCloudlinux)
 
-foreign import grCloudSoftware_ :: ReactIcon
+foreign import _grCloudSoftware :: ReactIcon
 
 grCloudSoftware :: forall a b. Union a b PropsIcon => Record a -> JSX
-grCloudSoftware = element (unsafeCoerce grCloudSoftware_)
+grCloudSoftware = element (unsafeCoerce _grCloudSoftware)
 
-foreign import grCloudUpload_ :: ReactIcon
+foreign import _grCloudUpload :: ReactIcon
 
 grCloudUpload :: forall a b. Union a b PropsIcon => Record a -> JSX
-grCloudUpload = element (unsafeCoerce grCloudUpload_)
+grCloudUpload = element (unsafeCoerce _grCloudUpload)
 
-foreign import grCluster_ :: ReactIcon
+foreign import _grCluster :: ReactIcon
 
 grCluster :: forall a b. Union a b PropsIcon => Record a -> JSX
-grCluster = element (unsafeCoerce grCluster_)
+grCluster = element (unsafeCoerce _grCluster)
 
-foreign import grCoatCheck_ :: ReactIcon
+foreign import _grCoatCheck :: ReactIcon
 
 grCoatCheck :: forall a b. Union a b PropsIcon => Record a -> JSX
-grCoatCheck = element (unsafeCoerce grCoatCheck_)
+grCoatCheck = element (unsafeCoerce _grCoatCheck)
 
-foreign import grCode_ :: ReactIcon
+foreign import _grCode :: ReactIcon
 
 grCode :: forall a b. Union a b PropsIcon => Record a -> JSX
-grCode = element (unsafeCoerce grCode_)
+grCode = element (unsafeCoerce _grCode)
 
-foreign import grCodepen_ :: ReactIcon
+foreign import _grCodepen :: ReactIcon
 
 grCodepen :: forall a b. Union a b PropsIcon => Record a -> JSX
-grCodepen = element (unsafeCoerce grCodepen_)
+grCodepen = element (unsafeCoerce _grCodepen)
 
-foreign import grCodeSandbox_ :: ReactIcon
+foreign import _grCodeSandbox :: ReactIcon
 
 grCodeSandbox :: forall a b. Union a b PropsIcon => Record a -> JSX
-grCodeSandbox = element (unsafeCoerce grCodeSandbox_)
+grCodeSandbox = element (unsafeCoerce _grCodeSandbox)
 
-foreign import grCoffee_ :: ReactIcon
+foreign import _grCoffee :: ReactIcon
 
 grCoffee :: forall a b. Union a b PropsIcon => Record a -> JSX
-grCoffee = element (unsafeCoerce grCoffee_)
+grCoffee = element (unsafeCoerce _grCoffee)
 
-foreign import grColumns_ :: ReactIcon
+foreign import _grColumns :: ReactIcon
 
 grColumns :: forall a b. Union a b PropsIcon => Record a -> JSX
-grColumns = element (unsafeCoerce grColumns_)
+grColumns = element (unsafeCoerce _grColumns)
 
-foreign import grCommand_ :: ReactIcon
+foreign import _grCommand :: ReactIcon
 
 grCommand :: forall a b. Union a b PropsIcon => Record a -> JSX
-grCommand = element (unsafeCoerce grCommand_)
+grCommand = element (unsafeCoerce _grCommand)
 
-foreign import grCompare_ :: ReactIcon
+foreign import _grCompare :: ReactIcon
 
 grCompare :: forall a b. Union a b PropsIcon => Record a -> JSX
-grCompare = element (unsafeCoerce grCompare_)
+grCompare = element (unsafeCoerce _grCompare)
 
-foreign import grCompass_ :: ReactIcon
+foreign import _grCompass :: ReactIcon
 
 grCompass :: forall a b. Union a b PropsIcon => Record a -> JSX
-grCompass = element (unsafeCoerce grCompass_)
+grCompass = element (unsafeCoerce _grCompass)
 
-foreign import grCompliance_ :: ReactIcon
+foreign import _grCompliance :: ReactIcon
 
 grCompliance :: forall a b. Union a b PropsIcon => Record a -> JSX
-grCompliance = element (unsafeCoerce grCompliance_)
+grCompliance = element (unsafeCoerce _grCompliance)
 
-foreign import grConfigure_ :: ReactIcon
+foreign import _grConfigure :: ReactIcon
 
 grConfigure :: forall a b. Union a b PropsIcon => Record a -> JSX
-grConfigure = element (unsafeCoerce grConfigure_)
+grConfigure = element (unsafeCoerce _grConfigure)
 
-foreign import grConnect_ :: ReactIcon
+foreign import _grConnect :: ReactIcon
 
 grConnect :: forall a b. Union a b PropsIcon => Record a -> JSX
-grConnect = element (unsafeCoerce grConnect_)
+grConnect = element (unsafeCoerce _grConnect)
 
-foreign import grConnectivity_ :: ReactIcon
+foreign import _grConnectivity :: ReactIcon
 
 grConnectivity :: forall a b. Union a b PropsIcon => Record a -> JSX
-grConnectivity = element (unsafeCoerce grConnectivity_)
+grConnectivity = element (unsafeCoerce _grConnectivity)
 
-foreign import grConsole_ :: ReactIcon
+foreign import _grConsole :: ReactIcon
 
 grConsole :: forall a b. Union a b PropsIcon => Record a -> JSX
-grConsole = element (unsafeCoerce grConsole_)
+grConsole = element (unsafeCoerce _grConsole)
 
-foreign import grContact_ :: ReactIcon
+foreign import _grContact :: ReactIcon
 
 grContact :: forall a b. Union a b PropsIcon => Record a -> JSX
-grContact = element (unsafeCoerce grContact_)
+grContact = element (unsafeCoerce _grContact)
 
-foreign import grContactInfo_ :: ReactIcon
+foreign import _grContactInfo :: ReactIcon
 
 grContactInfo :: forall a b. Union a b PropsIcon => Record a -> JSX
-grContactInfo = element (unsafeCoerce grContactInfo_)
+grContactInfo = element (unsafeCoerce _grContactInfo)
 
-foreign import grContract_ :: ReactIcon
+foreign import _grContract :: ReactIcon
 
 grContract :: forall a b. Union a b PropsIcon => Record a -> JSX
-grContract = element (unsafeCoerce grContract_)
+grContract = element (unsafeCoerce _grContract)
 
-foreign import grCopy_ :: ReactIcon
+foreign import _grCopy :: ReactIcon
 
 grCopy :: forall a b. Union a b PropsIcon => Record a -> JSX
-grCopy = element (unsafeCoerce grCopy_)
+grCopy = element (unsafeCoerce _grCopy)
 
-foreign import grCpu_ :: ReactIcon
+foreign import _grCpu :: ReactIcon
 
 grCpu :: forall a b. Union a b PropsIcon => Record a -> JSX
-grCpu = element (unsafeCoerce grCpu_)
+grCpu = element (unsafeCoerce _grCpu)
 
-foreign import grCreativeCommons_ :: ReactIcon
+foreign import _grCreativeCommons :: ReactIcon
 
 grCreativeCommons :: forall a b. Union a b PropsIcon => Record a -> JSX
-grCreativeCommons = element (unsafeCoerce grCreativeCommons_)
+grCreativeCommons = element (unsafeCoerce _grCreativeCommons)
 
-foreign import grCreditCard_ :: ReactIcon
+foreign import _grCreditCard :: ReactIcon
 
 grCreditCard :: forall a b. Union a b PropsIcon => Record a -> JSX
-grCreditCard = element (unsafeCoerce grCreditCard_)
+grCreditCard = element (unsafeCoerce _grCreditCard)
 
-foreign import grCube_ :: ReactIcon
+foreign import _grCube :: ReactIcon
 
 grCube :: forall a b. Union a b PropsIcon => Record a -> JSX
-grCube = element (unsafeCoerce grCube_)
+grCube = element (unsafeCoerce _grCube)
 
-foreign import grCubes_ :: ReactIcon
+foreign import _grCubes :: ReactIcon
 
 grCubes :: forall a b. Union a b PropsIcon => Record a -> JSX
-grCubes = element (unsafeCoerce grCubes_)
+grCubes = element (unsafeCoerce _grCubes)
 
-foreign import grCurrency_ :: ReactIcon
+foreign import _grCurrency :: ReactIcon
 
 grCurrency :: forall a b. Union a b PropsIcon => Record a -> JSX
-grCurrency = element (unsafeCoerce grCurrency_)
+grCurrency = element (unsafeCoerce _grCurrency)
 
-foreign import grCursor_ :: ReactIcon
+foreign import _grCursor :: ReactIcon
 
 grCursor :: forall a b. Union a b PropsIcon => Record a -> JSX
-grCursor = element (unsafeCoerce grCursor_)
+grCursor = element (unsafeCoerce _grCursor)
 
-foreign import grCut_ :: ReactIcon
+foreign import _grCut :: ReactIcon
 
 grCut :: forall a b. Union a b PropsIcon => Record a -> JSX
-grCut = element (unsafeCoerce grCut_)
+grCut = element (unsafeCoerce _grCut)
 
-foreign import grCycle_ :: ReactIcon
+foreign import _grCycle :: ReactIcon
 
 grCycle :: forall a b. Union a b PropsIcon => Record a -> JSX
-grCycle = element (unsafeCoerce grCycle_)
+grCycle = element (unsafeCoerce _grCycle)
 
-foreign import grDashboard_ :: ReactIcon
+foreign import _grDashboard :: ReactIcon
 
 grDashboard :: forall a b. Union a b PropsIcon => Record a -> JSX
-grDashboard = element (unsafeCoerce grDashboard_)
+grDashboard = element (unsafeCoerce _grDashboard)
 
-foreign import grDatabase_ :: ReactIcon
+foreign import _grDatabase :: ReactIcon
 
 grDatabase :: forall a b. Union a b PropsIcon => Record a -> JSX
-grDatabase = element (unsafeCoerce grDatabase_)
+grDatabase = element (unsafeCoerce _grDatabase)
 
-foreign import grDebian_ :: ReactIcon
+foreign import _grDebian :: ReactIcon
 
 grDebian :: forall a b. Union a b PropsIcon => Record a -> JSX
-grDebian = element (unsafeCoerce grDebian_)
+grDebian = element (unsafeCoerce _grDebian)
 
-foreign import grDeliver_ :: ReactIcon
+foreign import _grDeliver :: ReactIcon
 
 grDeliver :: forall a b. Union a b PropsIcon => Record a -> JSX
-grDeliver = element (unsafeCoerce grDeliver_)
+grDeliver = element (unsafeCoerce _grDeliver)
 
-foreign import grDeploy_ :: ReactIcon
+foreign import _grDeploy :: ReactIcon
 
 grDeploy :: forall a b. Union a b PropsIcon => Record a -> JSX
-grDeploy = element (unsafeCoerce grDeploy_)
+grDeploy = element (unsafeCoerce _grDeploy)
 
-foreign import grDescend_ :: ReactIcon
+foreign import _grDescend :: ReactIcon
 
 grDescend :: forall a b. Union a b PropsIcon => Record a -> JSX
-grDescend = element (unsafeCoerce grDescend_)
+grDescend = element (unsafeCoerce _grDescend)
 
-foreign import grDescending_ :: ReactIcon
+foreign import _grDescending :: ReactIcon
 
 grDescending :: forall a b. Union a b PropsIcon => Record a -> JSX
-grDescending = element (unsafeCoerce grDescending_)
+grDescending = element (unsafeCoerce _grDescending)
 
-foreign import grDesktop_ :: ReactIcon
+foreign import _grDesktop :: ReactIcon
 
 grDesktop :: forall a b. Union a b PropsIcon => Record a -> JSX
-grDesktop = element (unsafeCoerce grDesktop_)
+grDesktop = element (unsafeCoerce _grDesktop)
 
-foreign import grDetach_ :: ReactIcon
+foreign import _grDetach :: ReactIcon
 
 grDetach :: forall a b. Union a b PropsIcon => Record a -> JSX
-grDetach = element (unsafeCoerce grDetach_)
+grDetach = element (unsafeCoerce _grDetach)
 
-foreign import grDevice_ :: ReactIcon
+foreign import _grDevice :: ReactIcon
 
 grDevice :: forall a b. Union a b PropsIcon => Record a -> JSX
-grDevice = element (unsafeCoerce grDevice_)
+grDevice = element (unsafeCoerce _grDevice)
 
-foreign import grDiamond_ :: ReactIcon
+foreign import _grDiamond :: ReactIcon
 
 grDiamond :: forall a b. Union a b PropsIcon => Record a -> JSX
-grDiamond = element (unsafeCoerce grDiamond_)
+grDiamond = element (unsafeCoerce _grDiamond)
 
-foreign import grDirections_ :: ReactIcon
+foreign import _grDirections :: ReactIcon
 
 grDirections :: forall a b. Union a b PropsIcon => Record a -> JSX
-grDirections = element (unsafeCoerce grDirections_)
+grDirections = element (unsafeCoerce _grDirections)
 
-foreign import grDisabledOutline_ :: ReactIcon
+foreign import _grDisabledOutline :: ReactIcon
 
 grDisabledOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-grDisabledOutline = element (unsafeCoerce grDisabledOutline_)
+grDisabledOutline = element (unsafeCoerce _grDisabledOutline)
 
-foreign import grDisc_ :: ReactIcon
+foreign import _grDisc :: ReactIcon
 
 grDisc :: forall a b. Union a b PropsIcon => Record a -> JSX
-grDisc = element (unsafeCoerce grDisc_)
+grDisc = element (unsafeCoerce _grDisc)
 
-foreign import grDislike_ :: ReactIcon
+foreign import _grDislike :: ReactIcon
 
 grDislike :: forall a b. Union a b PropsIcon => Record a -> JSX
-grDislike = element (unsafeCoerce grDislike_)
+grDislike = element (unsafeCoerce _grDislike)
 
-foreign import grDocker_ :: ReactIcon
+foreign import _grDocker :: ReactIcon
 
 grDocker :: forall a b. Union a b PropsIcon => Record a -> JSX
-grDocker = element (unsafeCoerce grDocker_)
+grDocker = element (unsafeCoerce _grDocker)
 
-foreign import grDocument_ :: ReactIcon
+foreign import _grDocument :: ReactIcon
 
 grDocument :: forall a b. Union a b PropsIcon => Record a -> JSX
-grDocument = element (unsafeCoerce grDocument_)
+grDocument = element (unsafeCoerce _grDocument)
 
-foreign import grDocumentCloud_ :: ReactIcon
+foreign import _grDocumentCloud :: ReactIcon
 
 grDocumentCloud :: forall a b. Union a b PropsIcon => Record a -> JSX
-grDocumentCloud = element (unsafeCoerce grDocumentCloud_)
+grDocumentCloud = element (unsafeCoerce _grDocumentCloud)
 
-foreign import grDocumentConfig_ :: ReactIcon
+foreign import _grDocumentConfig :: ReactIcon
 
 grDocumentConfig :: forall a b. Union a b PropsIcon => Record a -> JSX
-grDocumentConfig = element (unsafeCoerce grDocumentConfig_)
+grDocumentConfig = element (unsafeCoerce _grDocumentConfig)
 
-foreign import grDocumentCsv_ :: ReactIcon
+foreign import _grDocumentCsv :: ReactIcon
 
 grDocumentCsv :: forall a b. Union a b PropsIcon => Record a -> JSX
-grDocumentCsv = element (unsafeCoerce grDocumentCsv_)
+grDocumentCsv = element (unsafeCoerce _grDocumentCsv)
 
-foreign import grDocumentDownload_ :: ReactIcon
+foreign import _grDocumentDownload :: ReactIcon
 
 grDocumentDownload :: forall a b. Union a b PropsIcon => Record a -> JSX
-grDocumentDownload = element (unsafeCoerce grDocumentDownload_)
+grDocumentDownload = element (unsafeCoerce _grDocumentDownload)
 
-foreign import grDocumentExcel_ :: ReactIcon
+foreign import _grDocumentExcel :: ReactIcon
 
 grDocumentExcel :: forall a b. Union a b PropsIcon => Record a -> JSX
-grDocumentExcel = element (unsafeCoerce grDocumentExcel_)
+grDocumentExcel = element (unsafeCoerce _grDocumentExcel)
 
-foreign import grDocumentImage_ :: ReactIcon
+foreign import _grDocumentImage :: ReactIcon
 
 grDocumentImage :: forall a b. Union a b PropsIcon => Record a -> JSX
-grDocumentImage = element (unsafeCoerce grDocumentImage_)
+grDocumentImage = element (unsafeCoerce _grDocumentImage)
 
-foreign import grDocumentLocked_ :: ReactIcon
+foreign import _grDocumentLocked :: ReactIcon
 
 grDocumentLocked :: forall a b. Union a b PropsIcon => Record a -> JSX
-grDocumentLocked = element (unsafeCoerce grDocumentLocked_)
+grDocumentLocked = element (unsafeCoerce _grDocumentLocked)
 
-foreign import grDocumentMissing_ :: ReactIcon
+foreign import _grDocumentMissing :: ReactIcon
 
 grDocumentMissing :: forall a b. Union a b PropsIcon => Record a -> JSX
-grDocumentMissing = element (unsafeCoerce grDocumentMissing_)
+grDocumentMissing = element (unsafeCoerce _grDocumentMissing)
 
-foreign import grDocumentNotes_ :: ReactIcon
+foreign import _grDocumentNotes :: ReactIcon
 
 grDocumentNotes :: forall a b. Union a b PropsIcon => Record a -> JSX
-grDocumentNotes = element (unsafeCoerce grDocumentNotes_)
+grDocumentNotes = element (unsafeCoerce _grDocumentNotes)
 
-foreign import grDocumentOutlook_ :: ReactIcon
+foreign import _grDocumentOutlook :: ReactIcon
 
 grDocumentOutlook :: forall a b. Union a b PropsIcon => Record a -> JSX
-grDocumentOutlook = element (unsafeCoerce grDocumentOutlook_)
+grDocumentOutlook = element (unsafeCoerce _grDocumentOutlook)
 
-foreign import grDocumentPdf_ :: ReactIcon
+foreign import _grDocumentPdf :: ReactIcon
 
 grDocumentPdf :: forall a b. Union a b PropsIcon => Record a -> JSX
-grDocumentPdf = element (unsafeCoerce grDocumentPdf_)
+grDocumentPdf = element (unsafeCoerce _grDocumentPdf)
 
-foreign import grDocumentPerformance_ :: ReactIcon
+foreign import _grDocumentPerformance :: ReactIcon
 
 grDocumentPerformance :: forall a b. Union a b PropsIcon => Record a -> JSX
-grDocumentPerformance = element (unsafeCoerce grDocumentPerformance_)
+grDocumentPerformance = element (unsafeCoerce _grDocumentPerformance)
 
-foreign import grDocumentPpt_ :: ReactIcon
+foreign import _grDocumentPpt :: ReactIcon
 
 grDocumentPpt :: forall a b. Union a b PropsIcon => Record a -> JSX
-grDocumentPpt = element (unsafeCoerce grDocumentPpt_)
+grDocumentPpt = element (unsafeCoerce _grDocumentPpt)
 
-foreign import grDocumentRtf_ :: ReactIcon
+foreign import _grDocumentRtf :: ReactIcon
 
 grDocumentRtf :: forall a b. Union a b PropsIcon => Record a -> JSX
-grDocumentRtf = element (unsafeCoerce grDocumentRtf_)
+grDocumentRtf = element (unsafeCoerce _grDocumentRtf)
 
-foreign import grDocumentSound_ :: ReactIcon
+foreign import _grDocumentSound :: ReactIcon
 
 grDocumentSound :: forall a b. Union a b PropsIcon => Record a -> JSX
-grDocumentSound = element (unsafeCoerce grDocumentSound_)
+grDocumentSound = element (unsafeCoerce _grDocumentSound)
 
-foreign import grDocumentStore_ :: ReactIcon
+foreign import _grDocumentStore :: ReactIcon
 
 grDocumentStore :: forall a b. Union a b PropsIcon => Record a -> JSX
-grDocumentStore = element (unsafeCoerce grDocumentStore_)
+grDocumentStore = element (unsafeCoerce _grDocumentStore)
 
-foreign import grDocumentTest_ :: ReactIcon
+foreign import _grDocumentTest :: ReactIcon
 
 grDocumentTest :: forall a b. Union a b PropsIcon => Record a -> JSX
-grDocumentTest = element (unsafeCoerce grDocumentTest_)
+grDocumentTest = element (unsafeCoerce _grDocumentTest)
 
-foreign import grDocumentText_ :: ReactIcon
+foreign import _grDocumentText :: ReactIcon
 
 grDocumentText :: forall a b. Union a b PropsIcon => Record a -> JSX
-grDocumentText = element (unsafeCoerce grDocumentText_)
+grDocumentText = element (unsafeCoerce _grDocumentText)
 
-foreign import grDocumentThreat_ :: ReactIcon
+foreign import _grDocumentThreat :: ReactIcon
 
 grDocumentThreat :: forall a b. Union a b PropsIcon => Record a -> JSX
-grDocumentThreat = element (unsafeCoerce grDocumentThreat_)
+grDocumentThreat = element (unsafeCoerce _grDocumentThreat)
 
-foreign import grDocumentTime_ :: ReactIcon
+foreign import _grDocumentTime :: ReactIcon
 
 grDocumentTime :: forall a b. Union a b PropsIcon => Record a -> JSX
-grDocumentTime = element (unsafeCoerce grDocumentTime_)
+grDocumentTime = element (unsafeCoerce _grDocumentTime)
 
-foreign import grDocumentTransfer_ :: ReactIcon
+foreign import _grDocumentTransfer :: ReactIcon
 
 grDocumentTransfer :: forall a b. Union a b PropsIcon => Record a -> JSX
-grDocumentTransfer = element (unsafeCoerce grDocumentTransfer_)
+grDocumentTransfer = element (unsafeCoerce _grDocumentTransfer)
 
-foreign import grDocumentTxt_ :: ReactIcon
+foreign import _grDocumentTxt :: ReactIcon
 
 grDocumentTxt :: forall a b. Union a b PropsIcon => Record a -> JSX
-grDocumentTxt = element (unsafeCoerce grDocumentTxt_)
+grDocumentTxt = element (unsafeCoerce _grDocumentTxt)
 
-foreign import grDocumentUpdate_ :: ReactIcon
+foreign import _grDocumentUpdate :: ReactIcon
 
 grDocumentUpdate :: forall a b. Union a b PropsIcon => Record a -> JSX
-grDocumentUpdate = element (unsafeCoerce grDocumentUpdate_)
+grDocumentUpdate = element (unsafeCoerce _grDocumentUpdate)
 
-foreign import grDocumentUpload_ :: ReactIcon
+foreign import _grDocumentUpload :: ReactIcon
 
 grDocumentUpload :: forall a b. Union a b PropsIcon => Record a -> JSX
-grDocumentUpload = element (unsafeCoerce grDocumentUpload_)
+grDocumentUpload = element (unsafeCoerce _grDocumentUpload)
 
-foreign import grDocumentUser_ :: ReactIcon
+foreign import _grDocumentUser :: ReactIcon
 
 grDocumentUser :: forall a b. Union a b PropsIcon => Record a -> JSX
-grDocumentUser = element (unsafeCoerce grDocumentUser_)
+grDocumentUser = element (unsafeCoerce _grDocumentUser)
 
-foreign import grDocumentVerified_ :: ReactIcon
+foreign import _grDocumentVerified :: ReactIcon
 
 grDocumentVerified :: forall a b. Union a b PropsIcon => Record a -> JSX
-grDocumentVerified = element (unsafeCoerce grDocumentVerified_)
+grDocumentVerified = element (unsafeCoerce _grDocumentVerified)
 
-foreign import grDocumentVideo_ :: ReactIcon
+foreign import _grDocumentVideo :: ReactIcon
 
 grDocumentVideo :: forall a b. Union a b PropsIcon => Record a -> JSX
-grDocumentVideo = element (unsafeCoerce grDocumentVideo_)
+grDocumentVideo = element (unsafeCoerce _grDocumentVideo)
 
-foreign import grDocumentWindows_ :: ReactIcon
+foreign import _grDocumentWindows :: ReactIcon
 
 grDocumentWindows :: forall a b. Union a b PropsIcon => Record a -> JSX
-grDocumentWindows = element (unsafeCoerce grDocumentWindows_)
+grDocumentWindows = element (unsafeCoerce _grDocumentWindows)
 
-foreign import grDocumentWord_ :: ReactIcon
+foreign import _grDocumentWord :: ReactIcon
 
 grDocumentWord :: forall a b. Union a b PropsIcon => Record a -> JSX
-grDocumentWord = element (unsafeCoerce grDocumentWord_)
+grDocumentWord = element (unsafeCoerce _grDocumentWord)
 
-foreign import grDocumentZip_ :: ReactIcon
+foreign import _grDocumentZip :: ReactIcon
 
 grDocumentZip :: forall a b. Union a b PropsIcon => Record a -> JSX
-grDocumentZip = element (unsafeCoerce grDocumentZip_)
+grDocumentZip = element (unsafeCoerce _grDocumentZip)
 
-foreign import grDomain_ :: ReactIcon
+foreign import _grDomain :: ReactIcon
 
 grDomain :: forall a b. Union a b PropsIcon => Record a -> JSX
-grDomain = element (unsafeCoerce grDomain_)
+grDomain = element (unsafeCoerce _grDomain)
 
-foreign import grDos_ :: ReactIcon
+foreign import _grDos :: ReactIcon
 
 grDos :: forall a b. Union a b PropsIcon => Record a -> JSX
-grDos = element (unsafeCoerce grDos_)
+grDos = element (unsafeCoerce _grDos)
 
-foreign import grDown_ :: ReactIcon
+foreign import _grDown :: ReactIcon
 
 grDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-grDown = element (unsafeCoerce grDown_)
+grDown = element (unsafeCoerce _grDown)
 
-foreign import grDownload_ :: ReactIcon
+foreign import _grDownload :: ReactIcon
 
 grDownload :: forall a b. Union a b PropsIcon => Record a -> JSX
-grDownload = element (unsafeCoerce grDownload_)
+grDownload = element (unsafeCoerce _grDownload)
 
-foreign import grDownloadOption_ :: ReactIcon
+foreign import _grDownloadOption :: ReactIcon
 
 grDownloadOption :: forall a b. Union a b PropsIcon => Record a -> JSX
-grDownloadOption = element (unsafeCoerce grDownloadOption_)
+grDownloadOption = element (unsafeCoerce _grDownloadOption)
 
-foreign import grDrag_ :: ReactIcon
+foreign import _grDrag :: ReactIcon
 
 grDrag :: forall a b. Union a b PropsIcon => Record a -> JSX
-grDrag = element (unsafeCoerce grDrag_)
+grDrag = element (unsafeCoerce _grDrag)
 
-foreign import grDrawer_ :: ReactIcon
+foreign import _grDrawer :: ReactIcon
 
 grDrawer :: forall a b. Union a b PropsIcon => Record a -> JSX
-grDrawer = element (unsafeCoerce grDrawer_)
+grDrawer = element (unsafeCoerce _grDrawer)
 
-foreign import grDribbble_ :: ReactIcon
+foreign import _grDribbble :: ReactIcon
 
 grDribbble :: forall a b. Union a b PropsIcon => Record a -> JSX
-grDribbble = element (unsafeCoerce grDribbble_)
+grDribbble = element (unsafeCoerce _grDribbble)
 
-foreign import grDriveCage_ :: ReactIcon
+foreign import _grDriveCage :: ReactIcon
 
 grDriveCage :: forall a b. Union a b PropsIcon => Record a -> JSX
-grDriveCage = element (unsafeCoerce grDriveCage_)
+grDriveCage = element (unsafeCoerce _grDriveCage)
 
-foreign import grDropbox_ :: ReactIcon
+foreign import _grDropbox :: ReactIcon
 
 grDropbox :: forall a b. Union a b PropsIcon => Record a -> JSX
-grDropbox = element (unsafeCoerce grDropbox_)
+grDropbox = element (unsafeCoerce _grDropbox)
 
-foreign import grDuplicate_ :: ReactIcon
+foreign import _grDuplicate :: ReactIcon
 
 grDuplicate :: forall a b. Union a b PropsIcon => Record a -> JSX
-grDuplicate = element (unsafeCoerce grDuplicate_)
+grDuplicate = element (unsafeCoerce _grDuplicate)
 
-foreign import grDxc_ :: ReactIcon
+foreign import _grDxc :: ReactIcon
 
 grDxc :: forall a b. Union a b PropsIcon => Record a -> JSX
-grDxc = element (unsafeCoerce grDxc_)
+grDxc = element (unsafeCoerce _grDxc)
 
-foreign import grEbay_ :: ReactIcon
+foreign import _grEbay :: ReactIcon
 
 grEbay :: forall a b. Union a b PropsIcon => Record a -> JSX
-grEbay = element (unsafeCoerce grEbay_)
+grEbay = element (unsafeCoerce _grEbay)
 
-foreign import grEdge_ :: ReactIcon
+foreign import _grEdge :: ReactIcon
 
 grEdge :: forall a b. Union a b PropsIcon => Record a -> JSX
-grEdge = element (unsafeCoerce grEdge_)
+grEdge = element (unsafeCoerce _grEdge)
 
-foreign import grEdit_ :: ReactIcon
+foreign import _grEdit :: ReactIcon
 
 grEdit :: forall a b. Union a b PropsIcon => Record a -> JSX
-grEdit = element (unsafeCoerce grEdit_)
+grEdit = element (unsafeCoerce _grEdit)
 
-foreign import grEject_ :: ReactIcon
+foreign import _grEject :: ReactIcon
 
 grEject :: forall a b. Union a b PropsIcon => Record a -> JSX
-grEject = element (unsafeCoerce grEject_)
+grEject = element (unsafeCoerce _grEject)
 
-foreign import grElevator_ :: ReactIcon
+foreign import _grElevator :: ReactIcon
 
 grElevator :: forall a b. Union a b PropsIcon => Record a -> JSX
-grElevator = element (unsafeCoerce grElevator_)
+grElevator = element (unsafeCoerce _grElevator)
 
-foreign import grEmergency_ :: ReactIcon
+foreign import _grEmergency :: ReactIcon
 
 grEmergency :: forall a b. Union a b PropsIcon => Record a -> JSX
-grEmergency = element (unsafeCoerce grEmergency_)
+grEmergency = element (unsafeCoerce _grEmergency)
 
-foreign import grEmoji_ :: ReactIcon
+foreign import _grEmoji :: ReactIcon
 
 grEmoji :: forall a b. Union a b PropsIcon => Record a -> JSX
-grEmoji = element (unsafeCoerce grEmoji_)
+grEmoji = element (unsafeCoerce _grEmoji)
 
-foreign import grEmptyCircle_ :: ReactIcon
+foreign import _grEmptyCircle :: ReactIcon
 
 grEmptyCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-grEmptyCircle = element (unsafeCoerce grEmptyCircle_)
+grEmptyCircle = element (unsafeCoerce _grEmptyCircle)
 
-foreign import grErase_ :: ReactIcon
+foreign import _grErase :: ReactIcon
 
 grErase :: forall a b. Union a b PropsIcon => Record a -> JSX
-grErase = element (unsafeCoerce grErase_)
+grErase = element (unsafeCoerce _grErase)
 
-foreign import grEscalator_ :: ReactIcon
+foreign import _grEscalator :: ReactIcon
 
 grEscalator :: forall a b. Union a b PropsIcon => Record a -> JSX
-grEscalator = element (unsafeCoerce grEscalator_)
+grEscalator = element (unsafeCoerce _grEscalator)
 
-foreign import grExpand_ :: ReactIcon
+foreign import _grExpand :: ReactIcon
 
 grExpand :: forall a b. Union a b PropsIcon => Record a -> JSX
-grExpand = element (unsafeCoerce grExpand_)
+grExpand = element (unsafeCoerce _grExpand)
 
-foreign import grEzmeral_ :: ReactIcon
+foreign import _grEzmeral :: ReactIcon
 
 grEzmeral :: forall a b. Union a b PropsIcon => Record a -> JSX
-grEzmeral = element (unsafeCoerce grEzmeral_)
+grEzmeral = element (unsafeCoerce _grEzmeral)
 
-foreign import grFacebook_ :: ReactIcon
+foreign import _grFacebook :: ReactIcon
 
 grFacebook :: forall a b. Union a b PropsIcon => Record a -> JSX
-grFacebook = element (unsafeCoerce grFacebook_)
+grFacebook = element (unsafeCoerce _grFacebook)
 
-foreign import grFacebookOption_ :: ReactIcon
+foreign import _grFacebookOption :: ReactIcon
 
 grFacebookOption :: forall a b. Union a b PropsIcon => Record a -> JSX
-grFacebookOption = element (unsafeCoerce grFacebookOption_)
+grFacebookOption = element (unsafeCoerce _grFacebookOption)
 
-foreign import grFan_ :: ReactIcon
+foreign import _grFan :: ReactIcon
 
 grFan :: forall a b. Union a b PropsIcon => Record a -> JSX
-grFan = element (unsafeCoerce grFan_)
+grFan = element (unsafeCoerce _grFan)
 
-foreign import grFanOption_ :: ReactIcon
+foreign import _grFanOption :: ReactIcon
 
 grFanOption :: forall a b. Union a b PropsIcon => Record a -> JSX
-grFanOption = element (unsafeCoerce grFanOption_)
+grFanOption = element (unsafeCoerce _grFanOption)
 
-foreign import grFastForward_ :: ReactIcon
+foreign import _grFastForward :: ReactIcon
 
 grFastForward :: forall a b. Union a b PropsIcon => Record a -> JSX
-grFastForward = element (unsafeCoerce grFastForward_)
+grFastForward = element (unsafeCoerce _grFastForward)
 
-foreign import grFavorite_ :: ReactIcon
+foreign import _grFavorite :: ReactIcon
 
 grFavorite :: forall a b. Union a b PropsIcon => Record a -> JSX
-grFavorite = element (unsafeCoerce grFavorite_)
+grFavorite = element (unsafeCoerce _grFavorite)
 
-foreign import grFedora_ :: ReactIcon
+foreign import _grFedora :: ReactIcon
 
 grFedora :: forall a b. Union a b PropsIcon => Record a -> JSX
-grFedora = element (unsafeCoerce grFedora_)
+grFedora = element (unsafeCoerce _grFedora)
 
-foreign import grFigma_ :: ReactIcon
+foreign import _grFigma :: ReactIcon
 
 grFigma :: forall a b. Union a b PropsIcon => Record a -> JSX
-grFigma = element (unsafeCoerce grFigma_)
+grFigma = element (unsafeCoerce _grFigma)
 
-foreign import grFilter_ :: ReactIcon
+foreign import _grFilter :: ReactIcon
 
 grFilter :: forall a b. Union a b PropsIcon => Record a -> JSX
-grFilter = element (unsafeCoerce grFilter_)
+grFilter = element (unsafeCoerce _grFilter)
 
-foreign import grFingerPrint_ :: ReactIcon
+foreign import _grFingerPrint :: ReactIcon
 
 grFingerPrint :: forall a b. Union a b PropsIcon => Record a -> JSX
-grFingerPrint = element (unsafeCoerce grFingerPrint_)
+grFingerPrint = element (unsafeCoerce _grFingerPrint)
 
-foreign import grFireball_ :: ReactIcon
+foreign import _grFireball :: ReactIcon
 
 grFireball :: forall a b. Union a b PropsIcon => Record a -> JSX
-grFireball = element (unsafeCoerce grFireball_)
+grFireball = element (unsafeCoerce _grFireball)
 
-foreign import grFirefox_ :: ReactIcon
+foreign import _grFirefox :: ReactIcon
 
 grFirefox :: forall a b. Union a b PropsIcon => Record a -> JSX
-grFirefox = element (unsafeCoerce grFirefox_)
+grFirefox = element (unsafeCoerce _grFirefox)
 
-foreign import grFirewall_ :: ReactIcon
+foreign import _grFirewall :: ReactIcon
 
 grFirewall :: forall a b. Union a b PropsIcon => Record a -> JSX
-grFirewall = element (unsafeCoerce grFirewall_)
+grFirewall = element (unsafeCoerce _grFirewall)
 
-foreign import grFlag_ :: ReactIcon
+foreign import _grFlag :: ReactIcon
 
 grFlag :: forall a b. Union a b PropsIcon => Record a -> JSX
-grFlag = element (unsafeCoerce grFlag_)
+grFlag = element (unsafeCoerce _grFlag)
 
-foreign import grFlagFill_ :: ReactIcon
+foreign import _grFlagFill :: ReactIcon
 
 grFlagFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-grFlagFill = element (unsafeCoerce grFlagFill_)
+grFlagFill = element (unsafeCoerce _grFlagFill)
 
-foreign import grFlows_ :: ReactIcon
+foreign import _grFlows :: ReactIcon
 
 grFlows :: forall a b. Union a b PropsIcon => Record a -> JSX
-grFlows = element (unsafeCoerce grFlows_)
+grFlows = element (unsafeCoerce _grFlows)
 
-foreign import grFolder_ :: ReactIcon
+foreign import _grFolder :: ReactIcon
 
 grFolder :: forall a b. Union a b PropsIcon => Record a -> JSX
-grFolder = element (unsafeCoerce grFolder_)
+grFolder = element (unsafeCoerce _grFolder)
 
-foreign import grFolderCycle_ :: ReactIcon
+foreign import _grFolderCycle :: ReactIcon
 
 grFolderCycle :: forall a b. Union a b PropsIcon => Record a -> JSX
-grFolderCycle = element (unsafeCoerce grFolderCycle_)
+grFolderCycle = element (unsafeCoerce _grFolderCycle)
 
-foreign import grFolderOpen_ :: ReactIcon
+foreign import _grFolderOpen :: ReactIcon
 
 grFolderOpen :: forall a b. Union a b PropsIcon => Record a -> JSX
-grFolderOpen = element (unsafeCoerce grFolderOpen_)
+grFolderOpen = element (unsafeCoerce _grFolderOpen)
 
-foreign import grFormAdd_ :: ReactIcon
+foreign import _grFormAdd :: ReactIcon
 
 grFormAdd :: forall a b. Union a b PropsIcon => Record a -> JSX
-grFormAdd = element (unsafeCoerce grFormAdd_)
+grFormAdd = element (unsafeCoerce _grFormAdd)
 
-foreign import grFormAttachment_ :: ReactIcon
+foreign import _grFormAttachment :: ReactIcon
 
 grFormAttachment :: forall a b. Union a b PropsIcon => Record a -> JSX
-grFormAttachment = element (unsafeCoerce grFormAttachment_)
+grFormAttachment = element (unsafeCoerce _grFormAttachment)
 
-foreign import grFormCalendar_ :: ReactIcon
+foreign import _grFormCalendar :: ReactIcon
 
 grFormCalendar :: forall a b. Union a b PropsIcon => Record a -> JSX
-grFormCalendar = element (unsafeCoerce grFormCalendar_)
+grFormCalendar = element (unsafeCoerce _grFormCalendar)
 
-foreign import grFormCheckmark_ :: ReactIcon
+foreign import _grFormCheckmark :: ReactIcon
 
 grFormCheckmark :: forall a b. Union a b PropsIcon => Record a -> JSX
-grFormCheckmark = element (unsafeCoerce grFormCheckmark_)
+grFormCheckmark = element (unsafeCoerce _grFormCheckmark)
 
-foreign import grFormClock_ :: ReactIcon
+foreign import _grFormClock :: ReactIcon
 
 grFormClock :: forall a b. Union a b PropsIcon => Record a -> JSX
-grFormClock = element (unsafeCoerce grFormClock_)
+grFormClock = element (unsafeCoerce _grFormClock)
 
-foreign import grFormClose_ :: ReactIcon
+foreign import _grFormClose :: ReactIcon
 
 grFormClose :: forall a b. Union a b PropsIcon => Record a -> JSX
-grFormClose = element (unsafeCoerce grFormClose_)
+grFormClose = element (unsafeCoerce _grFormClose)
 
-foreign import grFormCut_ :: ReactIcon
+foreign import _grFormCut :: ReactIcon
 
 grFormCut :: forall a b. Union a b PropsIcon => Record a -> JSX
-grFormCut = element (unsafeCoerce grFormCut_)
+grFormCut = element (unsafeCoerce _grFormCut)
 
-foreign import grFormDown_ :: ReactIcon
+foreign import _grFormDown :: ReactIcon
 
 grFormDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-grFormDown = element (unsafeCoerce grFormDown_)
+grFormDown = element (unsafeCoerce _grFormDown)
 
-foreign import grFormEdit_ :: ReactIcon
+foreign import _grFormEdit :: ReactIcon
 
 grFormEdit :: forall a b. Union a b PropsIcon => Record a -> JSX
-grFormEdit = element (unsafeCoerce grFormEdit_)
+grFormEdit = element (unsafeCoerce _grFormEdit)
 
-foreign import grFormFilter_ :: ReactIcon
+foreign import _grFormFilter :: ReactIcon
 
 grFormFilter :: forall a b. Union a b PropsIcon => Record a -> JSX
-grFormFilter = element (unsafeCoerce grFormFilter_)
+grFormFilter = element (unsafeCoerce _grFormFilter)
 
-foreign import grFormFolder_ :: ReactIcon
+foreign import _grFormFolder :: ReactIcon
 
 grFormFolder :: forall a b. Union a b PropsIcon => Record a -> JSX
-grFormFolder = element (unsafeCoerce grFormFolder_)
+grFormFolder = element (unsafeCoerce _grFormFolder)
 
-foreign import grFormLocation_ :: ReactIcon
+foreign import _grFormLocation :: ReactIcon
 
 grFormLocation :: forall a b. Union a b PropsIcon => Record a -> JSX
-grFormLocation = element (unsafeCoerce grFormLocation_)
+grFormLocation = element (unsafeCoerce _grFormLocation)
 
-foreign import grFormLock_ :: ReactIcon
+foreign import _grFormLock :: ReactIcon
 
 grFormLock :: forall a b. Union a b PropsIcon => Record a -> JSX
-grFormLock = element (unsafeCoerce grFormLock_)
+grFormLock = element (unsafeCoerce _grFormLock)
 
-foreign import grFormNext_ :: ReactIcon
+foreign import _grFormNext :: ReactIcon
 
 grFormNext :: forall a b. Union a b PropsIcon => Record a -> JSX
-grFormNext = element (unsafeCoerce grFormNext_)
+grFormNext = element (unsafeCoerce _grFormNext)
 
-foreign import grFormNextLink_ :: ReactIcon
+foreign import _grFormNextLink :: ReactIcon
 
 grFormNextLink :: forall a b. Union a b PropsIcon => Record a -> JSX
-grFormNextLink = element (unsafeCoerce grFormNextLink_)
+grFormNextLink = element (unsafeCoerce _grFormNextLink)
 
-foreign import grFormPrevious_ :: ReactIcon
+foreign import _grFormPrevious :: ReactIcon
 
 grFormPrevious :: forall a b. Union a b PropsIcon => Record a -> JSX
-grFormPrevious = element (unsafeCoerce grFormPrevious_)
+grFormPrevious = element (unsafeCoerce _grFormPrevious)
 
-foreign import grFormPreviousLink_ :: ReactIcon
+foreign import _grFormPreviousLink :: ReactIcon
 
 grFormPreviousLink :: forall a b. Union a b PropsIcon => Record a -> JSX
-grFormPreviousLink = element (unsafeCoerce grFormPreviousLink_)
+grFormPreviousLink = element (unsafeCoerce _grFormPreviousLink)
 
-foreign import grFormRefresh_ :: ReactIcon
+foreign import _grFormRefresh :: ReactIcon
 
 grFormRefresh :: forall a b. Union a b PropsIcon => Record a -> JSX
-grFormRefresh = element (unsafeCoerce grFormRefresh_)
+grFormRefresh = element (unsafeCoerce _grFormRefresh)
 
-foreign import grFormSchedule_ :: ReactIcon
+foreign import _grFormSchedule :: ReactIcon
 
 grFormSchedule :: forall a b. Union a b PropsIcon => Record a -> JSX
-grFormSchedule = element (unsafeCoerce grFormSchedule_)
+grFormSchedule = element (unsafeCoerce _grFormSchedule)
 
-foreign import grFormSearch_ :: ReactIcon
+foreign import _grFormSearch :: ReactIcon
 
 grFormSearch :: forall a b. Union a b PropsIcon => Record a -> JSX
-grFormSearch = element (unsafeCoerce grFormSearch_)
+grFormSearch = element (unsafeCoerce _grFormSearch)
 
-foreign import grFormSubtract_ :: ReactIcon
+foreign import _grFormSubtract :: ReactIcon
 
 grFormSubtract :: forall a b. Union a b PropsIcon => Record a -> JSX
-grFormSubtract = element (unsafeCoerce grFormSubtract_)
+grFormSubtract = element (unsafeCoerce _grFormSubtract)
 
-foreign import grFormTrash_ :: ReactIcon
+foreign import _grFormTrash :: ReactIcon
 
 grFormTrash :: forall a b. Union a b PropsIcon => Record a -> JSX
-grFormTrash = element (unsafeCoerce grFormTrash_)
+grFormTrash = element (unsafeCoerce _grFormTrash)
 
-foreign import grFormUp_ :: ReactIcon
+foreign import _grFormUp :: ReactIcon
 
 grFormUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-grFormUp = element (unsafeCoerce grFormUp_)
+grFormUp = element (unsafeCoerce _grFormUp)
 
-foreign import grFormUpload_ :: ReactIcon
+foreign import _grFormUpload :: ReactIcon
 
 grFormUpload :: forall a b. Union a b PropsIcon => Record a -> JSX
-grFormUpload = element (unsafeCoerce grFormUpload_)
+grFormUpload = element (unsafeCoerce _grFormUpload)
 
-foreign import grFormView_ :: ReactIcon
+foreign import _grFormView :: ReactIcon
 
 grFormView :: forall a b. Union a b PropsIcon => Record a -> JSX
-grFormView = element (unsafeCoerce grFormView_)
+grFormView = element (unsafeCoerce _grFormView)
 
-foreign import grFormViewHide_ :: ReactIcon
+foreign import _grFormViewHide :: ReactIcon
 
 grFormViewHide :: forall a b. Union a b PropsIcon => Record a -> JSX
-grFormViewHide = element (unsafeCoerce grFormViewHide_)
+grFormViewHide = element (unsafeCoerce _grFormViewHide)
 
-foreign import grForwardTen_ :: ReactIcon
+foreign import _grForwardTen :: ReactIcon
 
 grForwardTen :: forall a b. Union a b PropsIcon => Record a -> JSX
-grForwardTen = element (unsafeCoerce grForwardTen_)
+grForwardTen = element (unsafeCoerce _grForwardTen)
 
-foreign import grFreebsd_ :: ReactIcon
+foreign import _grFreebsd :: ReactIcon
 
 grFreebsd :: forall a b. Union a b PropsIcon => Record a -> JSX
-grFreebsd = element (unsafeCoerce grFreebsd_)
+grFreebsd = element (unsafeCoerce _grFreebsd)
 
-foreign import grGallery_ :: ReactIcon
+foreign import _grGallery :: ReactIcon
 
 grGallery :: forall a b. Union a b PropsIcon => Record a -> JSX
-grGallery = element (unsafeCoerce grGallery_)
+grGallery = element (unsafeCoerce _grGallery)
 
-foreign import grGamepad_ :: ReactIcon
+foreign import _grGamepad :: ReactIcon
 
 grGamepad :: forall a b. Union a b PropsIcon => Record a -> JSX
-grGamepad = element (unsafeCoerce grGamepad_)
+grGamepad = element (unsafeCoerce _grGamepad)
 
-foreign import grGateway_ :: ReactIcon
+foreign import _grGateway :: ReactIcon
 
 grGateway :: forall a b. Union a b PropsIcon => Record a -> JSX
-grGateway = element (unsafeCoerce grGateway_)
+grGateway = element (unsafeCoerce _grGateway)
 
-foreign import grGatsbyjs_ :: ReactIcon
+foreign import _grGatsbyjs :: ReactIcon
 
 grGatsbyjs :: forall a b. Union a b PropsIcon => Record a -> JSX
-grGatsbyjs = element (unsafeCoerce grGatsbyjs_)
+grGatsbyjs = element (unsafeCoerce _grGatsbyjs)
 
-foreign import grGem_ :: ReactIcon
+foreign import _grGem :: ReactIcon
 
 grGem :: forall a b. Union a b PropsIcon => Record a -> JSX
-grGem = element (unsafeCoerce grGem_)
+grGem = element (unsafeCoerce _grGem)
 
-foreign import grGift_ :: ReactIcon
+foreign import _grGift :: ReactIcon
 
 grGift :: forall a b. Union a b PropsIcon => Record a -> JSX
-grGift = element (unsafeCoerce grGift_)
+grGift = element (unsafeCoerce _grGift)
 
-foreign import grGithub_ :: ReactIcon
+foreign import _grGithub :: ReactIcon
 
 grGithub :: forall a b. Union a b PropsIcon => Record a -> JSX
-grGithub = element (unsafeCoerce grGithub_)
+grGithub = element (unsafeCoerce _grGithub)
 
-foreign import grGlobe_ :: ReactIcon
+foreign import _grGlobe :: ReactIcon
 
 grGlobe :: forall a b. Union a b PropsIcon => Record a -> JSX
-grGlobe = element (unsafeCoerce grGlobe_)
+grGlobe = element (unsafeCoerce _grGlobe)
 
-foreign import grGolang_ :: ReactIcon
+foreign import _grGolang :: ReactIcon
 
 grGolang :: forall a b. Union a b PropsIcon => Record a -> JSX
-grGolang = element (unsafeCoerce grGolang_)
+grGolang = element (unsafeCoerce _grGolang)
 
-foreign import grGoogle_ :: ReactIcon
+foreign import _grGoogle :: ReactIcon
 
 grGoogle :: forall a b. Union a b PropsIcon => Record a -> JSX
-grGoogle = element (unsafeCoerce grGoogle_)
+grGoogle = element (unsafeCoerce _grGoogle)
 
-foreign import grGooglePlay_ :: ReactIcon
+foreign import _grGooglePlay :: ReactIcon
 
 grGooglePlay :: forall a b. Union a b PropsIcon => Record a -> JSX
-grGooglePlay = element (unsafeCoerce grGooglePlay_)
+grGooglePlay = element (unsafeCoerce _grGooglePlay)
 
-foreign import grGooglePlus_ :: ReactIcon
+foreign import _grGooglePlus :: ReactIcon
 
 grGooglePlus :: forall a b. Union a b PropsIcon => Record a -> JSX
-grGooglePlus = element (unsafeCoerce grGooglePlus_)
+grGooglePlus = element (unsafeCoerce _grGooglePlus)
 
-foreign import grGoogleWallet_ :: ReactIcon
+foreign import _grGoogleWallet :: ReactIcon
 
 grGoogleWallet :: forall a b. Union a b PropsIcon => Record a -> JSX
-grGoogleWallet = element (unsafeCoerce grGoogleWallet_)
+grGoogleWallet = element (unsafeCoerce _grGoogleWallet)
 
-foreign import grGraphQl_ :: ReactIcon
+foreign import _grGraphQl :: ReactIcon
 
 grGraphQl :: forall a b. Union a b PropsIcon => Record a -> JSX
-grGraphQl = element (unsafeCoerce grGraphQl_)
+grGraphQl = element (unsafeCoerce _grGraphQl)
 
-foreign import grGremlin_ :: ReactIcon
+foreign import _grGremlin :: ReactIcon
 
 grGremlin :: forall a b. Union a b PropsIcon => Record a -> JSX
-grGremlin = element (unsafeCoerce grGremlin_)
+grGremlin = element (unsafeCoerce _grGremlin)
 
-foreign import grGrid_ :: ReactIcon
+foreign import _grGrid :: ReactIcon
 
 grGrid :: forall a b. Union a b PropsIcon => Record a -> JSX
-grGrid = element (unsafeCoerce grGrid_)
+grGrid = element (unsafeCoerce _grGrid)
 
-foreign import grGrommet_ :: ReactIcon
+foreign import _grGrommet :: ReactIcon
 
 grGrommet :: forall a b. Union a b PropsIcon => Record a -> JSX
-grGrommet = element (unsafeCoerce grGrommet_)
+grGrommet = element (unsafeCoerce _grGrommet)
 
-foreign import grGroup_ :: ReactIcon
+foreign import _grGroup :: ReactIcon
 
 grGroup :: forall a b. Union a b PropsIcon => Record a -> JSX
-grGroup = element (unsafeCoerce grGroup_)
+grGroup = element (unsafeCoerce _grGroup)
 
-foreign import grGrow_ :: ReactIcon
+foreign import _grGrow :: ReactIcon
 
 grGrow :: forall a b. Union a b PropsIcon => Record a -> JSX
-grGrow = element (unsafeCoerce grGrow_)
+grGrow = element (unsafeCoerce _grGrow)
 
-foreign import grHadoop_ :: ReactIcon
+foreign import _grHadoop :: ReactIcon
 
 grHadoop :: forall a b. Union a b PropsIcon => Record a -> JSX
-grHadoop = element (unsafeCoerce grHadoop_)
+grHadoop = element (unsafeCoerce _grHadoop)
 
-foreign import grHalt_ :: ReactIcon
+foreign import _grHalt :: ReactIcon
 
 grHalt :: forall a b. Union a b PropsIcon => Record a -> JSX
-grHalt = element (unsafeCoerce grHalt_)
+grHalt = element (unsafeCoerce _grHalt)
 
-foreign import grHelp_ :: ReactIcon
+foreign import _grHelp :: ReactIcon
 
 grHelp :: forall a b. Union a b PropsIcon => Record a -> JSX
-grHelp = element (unsafeCoerce grHelp_)
+grHelp = element (unsafeCoerce _grHelp)
 
-foreign import grHelpOption_ :: ReactIcon
+foreign import _grHelpOption :: ReactIcon
 
 grHelpOption :: forall a b. Union a b PropsIcon => Record a -> JSX
-grHelpOption = element (unsafeCoerce grHelpOption_)
+grHelpOption = element (unsafeCoerce _grHelpOption)
 
-foreign import grHeroku_ :: ReactIcon
+foreign import _grHeroku :: ReactIcon
 
 grHeroku :: forall a b. Union a b PropsIcon => Record a -> JSX
-grHeroku = element (unsafeCoerce grHeroku_)
+grHeroku = element (unsafeCoerce _grHeroku)
 
-foreign import grHide_ :: ReactIcon
+foreign import _grHide :: ReactIcon
 
 grHide :: forall a b. Union a b PropsIcon => Record a -> JSX
-grHide = element (unsafeCoerce grHide_)
+grHide = element (unsafeCoerce _grHide)
 
-foreign import grHistory_ :: ReactIcon
+foreign import _grHistory :: ReactIcon
 
 grHistory :: forall a b. Union a b PropsIcon => Record a -> JSX
-grHistory = element (unsafeCoerce grHistory_)
+grHistory = element (unsafeCoerce _grHistory)
 
-foreign import grHome_ :: ReactIcon
+foreign import _grHome :: ReactIcon
 
 grHome :: forall a b. Union a b PropsIcon => Record a -> JSX
-grHome = element (unsafeCoerce grHome_)
+grHome = element (unsafeCoerce _grHome)
 
-foreign import grHomeOption_ :: ReactIcon
+foreign import _grHomeOption :: ReactIcon
 
 grHomeOption :: forall a b. Union a b PropsIcon => Record a -> JSX
-grHomeOption = element (unsafeCoerce grHomeOption_)
+grHomeOption = element (unsafeCoerce _grHomeOption)
 
-foreign import grHomeRounded_ :: ReactIcon
+foreign import _grHomeRounded :: ReactIcon
 
 grHomeRounded :: forall a b. Union a b PropsIcon => Record a -> JSX
-grHomeRounded = element (unsafeCoerce grHomeRounded_)
+grHomeRounded = element (unsafeCoerce _grHomeRounded)
 
-foreign import grHorton_ :: ReactIcon
+foreign import _grHorton :: ReactIcon
 
 grHorton :: forall a b. Union a b PropsIcon => Record a -> JSX
-grHorton = element (unsafeCoerce grHorton_)
+grHorton = element (unsafeCoerce _grHorton)
 
-foreign import grHost_ :: ReactIcon
+foreign import _grHost :: ReactIcon
 
 grHost :: forall a b. Union a b PropsIcon => Record a -> JSX
-grHost = element (unsafeCoerce grHost_)
+grHost = element (unsafeCoerce _grHost)
 
-foreign import grHostMaintenance_ :: ReactIcon
+foreign import _grHostMaintenance :: ReactIcon
 
 grHostMaintenance :: forall a b. Union a b PropsIcon => Record a -> JSX
-grHostMaintenance = element (unsafeCoerce grHostMaintenance_)
+grHostMaintenance = element (unsafeCoerce _grHostMaintenance)
 
-foreign import grHp_ :: ReactIcon
+foreign import _grHp :: ReactIcon
 
 grHp :: forall a b. Union a b PropsIcon => Record a -> JSX
-grHp = element (unsafeCoerce grHp_)
+grHp = element (unsafeCoerce _grHp)
 
-foreign import grHpe_ :: ReactIcon
+foreign import _grHpe :: ReactIcon
 
 grHpe :: forall a b. Union a b PropsIcon => Record a -> JSX
-grHpe = element (unsafeCoerce grHpe_)
+grHpe = element (unsafeCoerce _grHpe)
 
-foreign import grHpeLabs_ :: ReactIcon
+foreign import _grHpeLabs :: ReactIcon
 
 grHpeLabs :: forall a b. Union a b PropsIcon => Record a -> JSX
-grHpeLabs = element (unsafeCoerce grHpeLabs_)
+grHpeLabs = element (unsafeCoerce _grHpeLabs)
 
-foreign import grHpi_ :: ReactIcon
+foreign import _grHpi :: ReactIcon
 
 grHpi :: forall a b. Union a b PropsIcon => Record a -> JSX
-grHpi = element (unsafeCoerce grHpi_)
+grHpi = element (unsafeCoerce _grHpi)
 
-foreign import grIceCream_ :: ReactIcon
+foreign import _grIceCream :: ReactIcon
 
 grIceCream :: forall a b. Union a b PropsIcon => Record a -> JSX
-grIceCream = element (unsafeCoerce grIceCream_)
+grIceCream = element (unsafeCoerce _grIceCream)
 
-foreign import grImage_ :: ReactIcon
+foreign import _grImage :: ReactIcon
 
 grImage :: forall a b. Union a b PropsIcon => Record a -> JSX
-grImage = element (unsafeCoerce grImage_)
+grImage = element (unsafeCoerce _grImage)
 
-foreign import grImpact_ :: ReactIcon
+foreign import _grImpact :: ReactIcon
 
 grImpact :: forall a b. Union a b PropsIcon => Record a -> JSX
-grImpact = element (unsafeCoerce grImpact_)
+grImpact = element (unsafeCoerce _grImpact)
 
-foreign import grInbox_ :: ReactIcon
+foreign import _grInbox :: ReactIcon
 
 grInbox :: forall a b. Union a b PropsIcon => Record a -> JSX
-grInbox = element (unsafeCoerce grInbox_)
+grInbox = element (unsafeCoerce _grInbox)
 
-foreign import grIndicator_ :: ReactIcon
+foreign import _grIndicator :: ReactIcon
 
 grIndicator :: forall a b. Union a b PropsIcon => Record a -> JSX
-grIndicator = element (unsafeCoerce grIndicator_)
+grIndicator = element (unsafeCoerce _grIndicator)
 
-foreign import grInfo_ :: ReactIcon
+foreign import _grInfo :: ReactIcon
 
 grInfo :: forall a b. Union a b PropsIcon => Record a -> JSX
-grInfo = element (unsafeCoerce grInfo_)
+grInfo = element (unsafeCoerce _grInfo)
 
-foreign import grInherit_ :: ReactIcon
+foreign import _grInherit :: ReactIcon
 
 grInherit :: forall a b. Union a b PropsIcon => Record a -> JSX
-grInherit = element (unsafeCoerce grInherit_)
+grInherit = element (unsafeCoerce _grInherit)
 
-foreign import grInProgress_ :: ReactIcon
+foreign import _grInProgress :: ReactIcon
 
 grInProgress :: forall a b. Union a b PropsIcon => Record a -> JSX
-grInProgress = element (unsafeCoerce grInProgress_)
+grInProgress = element (unsafeCoerce _grInProgress)
 
-foreign import grInsecure_ :: ReactIcon
+foreign import _grInsecure :: ReactIcon
 
 grInsecure :: forall a b. Union a b PropsIcon => Record a -> JSX
-grInsecure = element (unsafeCoerce grInsecure_)
+grInsecure = element (unsafeCoerce _grInsecure)
 
-foreign import grInspect_ :: ReactIcon
+foreign import _grInspect :: ReactIcon
 
 grInspect :: forall a b. Union a b PropsIcon => Record a -> JSX
-grInspect = element (unsafeCoerce grInspect_)
+grInspect = element (unsafeCoerce _grInspect)
 
-foreign import grInstagram_ :: ReactIcon
+foreign import _grInstagram :: ReactIcon
 
 grInstagram :: forall a b. Union a b PropsIcon => Record a -> JSX
-grInstagram = element (unsafeCoerce grInstagram_)
+grInstagram = element (unsafeCoerce _grInstagram)
 
-foreign import grInstall_ :: ReactIcon
+foreign import _grInstall :: ReactIcon
 
 grInstall :: forall a b. Union a b PropsIcon => Record a -> JSX
-grInstall = element (unsafeCoerce grInstall_)
+grInstall = element (unsafeCoerce _grInstall)
 
-foreign import grInstallOption_ :: ReactIcon
+foreign import _grInstallOption :: ReactIcon
 
 grInstallOption :: forall a b. Union a b PropsIcon => Record a -> JSX
-grInstallOption = element (unsafeCoerce grInstallOption_)
+grInstallOption = element (unsafeCoerce _grInstallOption)
 
-foreign import grIntegration_ :: ReactIcon
+foreign import _grIntegration :: ReactIcon
 
 grIntegration :: forall a b. Union a b PropsIcon => Record a -> JSX
-grIntegration = element (unsafeCoerce grIntegration_)
+grIntegration = element (unsafeCoerce _grIntegration)
 
-foreign import grInternetExplorer_ :: ReactIcon
+foreign import _grInternetExplorer :: ReactIcon
 
 grInternetExplorer :: forall a b. Union a b PropsIcon => Record a -> JSX
-grInternetExplorer = element (unsafeCoerce grInternetExplorer_)
+grInternetExplorer = element (unsafeCoerce _grInternetExplorer)
 
-foreign import grItalic_ :: ReactIcon
+foreign import _grItalic :: ReactIcon
 
 grItalic :: forall a b. Union a b PropsIcon => Record a -> JSX
-grItalic = element (unsafeCoerce grItalic_)
+grItalic = element (unsafeCoerce _grItalic)
 
-foreign import grIteration_ :: ReactIcon
+foreign import _grIteration :: ReactIcon
 
 grIteration :: forall a b. Union a b PropsIcon => Record a -> JSX
-grIteration = element (unsafeCoerce grIteration_)
+grIteration = element (unsafeCoerce _grIteration)
 
-foreign import grJava_ :: ReactIcon
+foreign import _grJava :: ReactIcon
 
 grJava :: forall a b. Union a b PropsIcon => Record a -> JSX
-grJava = element (unsafeCoerce grJava_)
+grJava = element (unsafeCoerce _grJava)
 
-foreign import grJs_ :: ReactIcon
+foreign import _grJs :: ReactIcon
 
 grJs :: forall a b. Union a b PropsIcon => Record a -> JSX
-grJs = element (unsafeCoerce grJs_)
+grJs = element (unsafeCoerce _grJs)
 
-foreign import grKey_ :: ReactIcon
+foreign import _grKey :: ReactIcon
 
 grKey :: forall a b. Union a b PropsIcon => Record a -> JSX
-grKey = element (unsafeCoerce grKey_)
+grKey = element (unsafeCoerce _grKey)
 
-foreign import grKeyboard_ :: ReactIcon
+foreign import _grKeyboard :: ReactIcon
 
 grKeyboard :: forall a b. Union a b PropsIcon => Record a -> JSX
-grKeyboard = element (unsafeCoerce grKeyboard_)
+grKeyboard = element (unsafeCoerce _grKeyboard)
 
-foreign import grLanguage_ :: ReactIcon
+foreign import _grLanguage :: ReactIcon
 
 grLanguage :: forall a b. Union a b PropsIcon => Record a -> JSX
-grLanguage = element (unsafeCoerce grLanguage_)
+grLanguage = element (unsafeCoerce _grLanguage)
 
-foreign import grLastfm_ :: ReactIcon
+foreign import _grLastfm :: ReactIcon
 
 grLastfm :: forall a b. Union a b PropsIcon => Record a -> JSX
-grLastfm = element (unsafeCoerce grLastfm_)
+grLastfm = element (unsafeCoerce _grLastfm)
 
-foreign import grLaunch_ :: ReactIcon
+foreign import _grLaunch :: ReactIcon
 
 grLaunch :: forall a b. Union a b PropsIcon => Record a -> JSX
-grLaunch = element (unsafeCoerce grLaunch_)
+grLaunch = element (unsafeCoerce _grLaunch)
 
-foreign import grLayer_ :: ReactIcon
+foreign import _grLayer :: ReactIcon
 
 grLayer :: forall a b. Union a b PropsIcon => Record a -> JSX
-grLayer = element (unsafeCoerce grLayer_)
+grLayer = element (unsafeCoerce _grLayer)
 
-foreign import grLicense_ :: ReactIcon
+foreign import _grLicense :: ReactIcon
 
 grLicense :: forall a b. Union a b PropsIcon => Record a -> JSX
-grLicense = element (unsafeCoerce grLicense_)
+grLicense = element (unsafeCoerce _grLicense)
 
-foreign import grLike_ :: ReactIcon
+foreign import _grLike :: ReactIcon
 
 grLike :: forall a b. Union a b PropsIcon => Record a -> JSX
-grLike = element (unsafeCoerce grLike_)
+grLike = element (unsafeCoerce _grLike)
 
-foreign import grLineChart_ :: ReactIcon
+foreign import _grLineChart :: ReactIcon
 
 grLineChart :: forall a b. Union a b PropsIcon => Record a -> JSX
-grLineChart = element (unsafeCoerce grLineChart_)
+grLineChart = element (unsafeCoerce _grLineChart)
 
-foreign import grLink_ :: ReactIcon
+foreign import _grLink :: ReactIcon
 
 grLink :: forall a b. Union a b PropsIcon => Record a -> JSX
-grLink = element (unsafeCoerce grLink_)
+grLink = element (unsafeCoerce _grLink)
 
-foreign import grLinkBottom_ :: ReactIcon
+foreign import _grLinkBottom :: ReactIcon
 
 grLinkBottom :: forall a b. Union a b PropsIcon => Record a -> JSX
-grLinkBottom = element (unsafeCoerce grLinkBottom_)
+grLinkBottom = element (unsafeCoerce _grLinkBottom)
 
-foreign import grLinkDown_ :: ReactIcon
+foreign import _grLinkDown :: ReactIcon
 
 grLinkDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-grLinkDown = element (unsafeCoerce grLinkDown_)
+grLinkDown = element (unsafeCoerce _grLinkDown)
 
-foreign import grLinkedin_ :: ReactIcon
+foreign import _grLinkedin :: ReactIcon
 
 grLinkedin :: forall a b. Union a b PropsIcon => Record a -> JSX
-grLinkedin = element (unsafeCoerce grLinkedin_)
+grLinkedin = element (unsafeCoerce _grLinkedin)
 
-foreign import grLinkedinOption_ :: ReactIcon
+foreign import _grLinkedinOption :: ReactIcon
 
 grLinkedinOption :: forall a b. Union a b PropsIcon => Record a -> JSX
-grLinkedinOption = element (unsafeCoerce grLinkedinOption_)
+grLinkedinOption = element (unsafeCoerce _grLinkedinOption)
 
-foreign import grLinkNext_ :: ReactIcon
+foreign import _grLinkNext :: ReactIcon
 
 grLinkNext :: forall a b. Union a b PropsIcon => Record a -> JSX
-grLinkNext = element (unsafeCoerce grLinkNext_)
+grLinkNext = element (unsafeCoerce _grLinkNext)
 
-foreign import grLinkPrevious_ :: ReactIcon
+foreign import _grLinkPrevious :: ReactIcon
 
 grLinkPrevious :: forall a b. Union a b PropsIcon => Record a -> JSX
-grLinkPrevious = element (unsafeCoerce grLinkPrevious_)
+grLinkPrevious = element (unsafeCoerce _grLinkPrevious)
 
-foreign import grLinkTop_ :: ReactIcon
+foreign import _grLinkTop :: ReactIcon
 
 grLinkTop :: forall a b. Union a b PropsIcon => Record a -> JSX
-grLinkTop = element (unsafeCoerce grLinkTop_)
+grLinkTop = element (unsafeCoerce _grLinkTop)
 
-foreign import grLinkUp_ :: ReactIcon
+foreign import _grLinkUp :: ReactIcon
 
 grLinkUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-grLinkUp = element (unsafeCoerce grLinkUp_)
+grLinkUp = element (unsafeCoerce _grLinkUp)
 
-foreign import grList_ :: ReactIcon
+foreign import _grList :: ReactIcon
 
 grList :: forall a b. Union a b PropsIcon => Record a -> JSX
-grList = element (unsafeCoerce grList_)
+grList = element (unsafeCoerce _grList)
 
-foreign import grLocal_ :: ReactIcon
+foreign import _grLocal :: ReactIcon
 
 grLocal :: forall a b. Union a b PropsIcon => Record a -> JSX
-grLocal = element (unsafeCoerce grLocal_)
+grLocal = element (unsafeCoerce _grLocal)
 
-foreign import grLocation_ :: ReactIcon
+foreign import _grLocation :: ReactIcon
 
 grLocation :: forall a b. Union a b PropsIcon => Record a -> JSX
-grLocation = element (unsafeCoerce grLocation_)
+grLocation = element (unsafeCoerce _grLocation)
 
-foreign import grLocationPin_ :: ReactIcon
+foreign import _grLocationPin :: ReactIcon
 
 grLocationPin :: forall a b. Union a b PropsIcon => Record a -> JSX
-grLocationPin = element (unsafeCoerce grLocationPin_)
+grLocationPin = element (unsafeCoerce _grLocationPin)
 
-foreign import grLock_ :: ReactIcon
+foreign import _grLock :: ReactIcon
 
 grLock :: forall a b. Union a b PropsIcon => Record a -> JSX
-grLock = element (unsafeCoerce grLock_)
+grLock = element (unsafeCoerce _grLock)
 
-foreign import grLogin_ :: ReactIcon
+foreign import _grLogin :: ReactIcon
 
 grLogin :: forall a b. Union a b PropsIcon => Record a -> JSX
-grLogin = element (unsafeCoerce grLogin_)
+grLogin = element (unsafeCoerce _grLogin)
 
-foreign import grLogout_ :: ReactIcon
+foreign import _grLogout :: ReactIcon
 
 grLogout :: forall a b. Union a b PropsIcon => Record a -> JSX
-grLogout = element (unsafeCoerce grLogout_)
+grLogout = element (unsafeCoerce _grLogout)
 
-foreign import grLounge_ :: ReactIcon
+foreign import _grLounge :: ReactIcon
 
 grLounge :: forall a b. Union a b PropsIcon => Record a -> JSX
-grLounge = element (unsafeCoerce grLounge_)
+grLounge = element (unsafeCoerce _grLounge)
 
-foreign import grMagic_ :: ReactIcon
+foreign import _grMagic :: ReactIcon
 
 grMagic :: forall a b. Union a b PropsIcon => Record a -> JSX
-grMagic = element (unsafeCoerce grMagic_)
+grMagic = element (unsafeCoerce _grMagic)
 
-foreign import grMail_ :: ReactIcon
+foreign import _grMail :: ReactIcon
 
 grMail :: forall a b. Union a b PropsIcon => Record a -> JSX
-grMail = element (unsafeCoerce grMail_)
+grMail = element (unsafeCoerce _grMail)
 
-foreign import grMailOption_ :: ReactIcon
+foreign import _grMailOption :: ReactIcon
 
 grMailOption :: forall a b. Union a b PropsIcon => Record a -> JSX
-grMailOption = element (unsafeCoerce grMailOption_)
+grMailOption = element (unsafeCoerce _grMailOption)
 
-foreign import grMandriva_ :: ReactIcon
+foreign import _grMandriva :: ReactIcon
 
 grMandriva :: forall a b. Union a b PropsIcon => Record a -> JSX
-grMandriva = element (unsafeCoerce grMandriva_)
+grMandriva = element (unsafeCoerce _grMandriva)
 
-foreign import grManual_ :: ReactIcon
+foreign import _grManual :: ReactIcon
 
 grManual :: forall a b. Union a b PropsIcon => Record a -> JSX
-grManual = element (unsafeCoerce grManual_)
+grManual = element (unsafeCoerce _grManual)
 
-foreign import grMap_ :: ReactIcon
+foreign import _grMap :: ReactIcon
 
 grMap :: forall a b. Union a b PropsIcon => Record a -> JSX
-grMap = element (unsafeCoerce grMap_)
+grMap = element (unsafeCoerce _grMap)
 
-foreign import grMapLocation_ :: ReactIcon
+foreign import _grMapLocation :: ReactIcon
 
 grMapLocation :: forall a b. Union a b PropsIcon => Record a -> JSX
-grMapLocation = element (unsafeCoerce grMapLocation_)
+grMapLocation = element (unsafeCoerce _grMapLocation)
 
-foreign import grMastercard_ :: ReactIcon
+foreign import _grMastercard :: ReactIcon
 
 grMastercard :: forall a b. Union a b PropsIcon => Record a -> JSX
-grMastercard = element (unsafeCoerce grMastercard_)
+grMastercard = element (unsafeCoerce _grMastercard)
 
-foreign import grMedium_ :: ReactIcon
+foreign import _grMedium :: ReactIcon
 
 grMedium :: forall a b. Union a b PropsIcon => Record a -> JSX
-grMedium = element (unsafeCoerce grMedium_)
+grMedium = element (unsafeCoerce _grMedium)
 
-foreign import grMemory_ :: ReactIcon
+foreign import _grMemory :: ReactIcon
 
 grMemory :: forall a b. Union a b PropsIcon => Record a -> JSX
-grMemory = element (unsafeCoerce grMemory_)
+grMemory = element (unsafeCoerce _grMemory)
 
-foreign import grMenu_ :: ReactIcon
+foreign import _grMenu :: ReactIcon
 
 grMenu :: forall a b. Union a b PropsIcon => Record a -> JSX
-grMenu = element (unsafeCoerce grMenu_)
+grMenu = element (unsafeCoerce _grMenu)
 
-foreign import grMicrofocus_ :: ReactIcon
+foreign import _grMicrofocus :: ReactIcon
 
 grMicrofocus :: forall a b. Union a b PropsIcon => Record a -> JSX
-grMicrofocus = element (unsafeCoerce grMicrofocus_)
+grMicrofocus = element (unsafeCoerce _grMicrofocus)
 
-foreign import grMicrophone_ :: ReactIcon
+foreign import _grMicrophone :: ReactIcon
 
 grMicrophone :: forall a b. Union a b PropsIcon => Record a -> JSX
-grMicrophone = element (unsafeCoerce grMicrophone_)
+grMicrophone = element (unsafeCoerce _grMicrophone)
 
-foreign import grMoney_ :: ReactIcon
+foreign import _grMoney :: ReactIcon
 
 grMoney :: forall a b. Union a b PropsIcon => Record a -> JSX
-grMoney = element (unsafeCoerce grMoney_)
+grMoney = element (unsafeCoerce _grMoney)
 
-foreign import grMonitor_ :: ReactIcon
+foreign import _grMonitor :: ReactIcon
 
 grMonitor :: forall a b. Union a b PropsIcon => Record a -> JSX
-grMonitor = element (unsafeCoerce grMonitor_)
+grMonitor = element (unsafeCoerce _grMonitor)
 
-foreign import grMonospace_ :: ReactIcon
+foreign import _grMonospace :: ReactIcon
 
 grMonospace :: forall a b. Union a b PropsIcon => Record a -> JSX
-grMonospace = element (unsafeCoerce grMonospace_)
+grMonospace = element (unsafeCoerce _grMonospace)
 
-foreign import grMoon_ :: ReactIcon
+foreign import _grMoon :: ReactIcon
 
 grMoon :: forall a b. Union a b PropsIcon => Record a -> JSX
-grMoon = element (unsafeCoerce grMoon_)
+grMoon = element (unsafeCoerce _grMoon)
 
-foreign import grMore_ :: ReactIcon
+foreign import _grMore :: ReactIcon
 
 grMore :: forall a b. Union a b PropsIcon => Record a -> JSX
-grMore = element (unsafeCoerce grMore_)
+grMore = element (unsafeCoerce _grMore)
 
-foreign import grMoreVertical_ :: ReactIcon
+foreign import _grMoreVertical :: ReactIcon
 
 grMoreVertical :: forall a b. Union a b PropsIcon => Record a -> JSX
-grMoreVertical = element (unsafeCoerce grMoreVertical_)
+grMoreVertical = element (unsafeCoerce _grMoreVertical)
 
-foreign import grMouse_ :: ReactIcon
+foreign import _grMouse :: ReactIcon
 
 grMouse :: forall a b. Union a b PropsIcon => Record a -> JSX
-grMouse = element (unsafeCoerce grMouse_)
+grMouse = element (unsafeCoerce _grMouse)
 
-foreign import grMultimedia_ :: ReactIcon
+foreign import _grMultimedia :: ReactIcon
 
 grMultimedia :: forall a b. Union a b PropsIcon => Record a -> JSX
-grMultimedia = element (unsafeCoerce grMultimedia_)
+grMultimedia = element (unsafeCoerce _grMultimedia)
 
-foreign import grMultiple_ :: ReactIcon
+foreign import _grMultiple :: ReactIcon
 
 grMultiple :: forall a b. Union a b PropsIcon => Record a -> JSX
-grMultiple = element (unsafeCoerce grMultiple_)
+grMultiple = element (unsafeCoerce _grMultiple)
 
-foreign import grMusic_ :: ReactIcon
+foreign import _grMusic :: ReactIcon
 
 grMusic :: forall a b. Union a b PropsIcon => Record a -> JSX
-grMusic = element (unsafeCoerce grMusic_)
+grMusic = element (unsafeCoerce _grMusic)
 
-foreign import grMysql_ :: ReactIcon
+foreign import _grMysql :: ReactIcon
 
 grMysql :: forall a b. Union a b PropsIcon => Record a -> JSX
-grMysql = element (unsafeCoerce grMysql_)
+grMysql = element (unsafeCoerce _grMysql)
 
-foreign import grNavigate_ :: ReactIcon
+foreign import _grNavigate :: ReactIcon
 
 grNavigate :: forall a b. Union a b PropsIcon => Record a -> JSX
-grNavigate = element (unsafeCoerce grNavigate_)
+grNavigate = element (unsafeCoerce _grNavigate)
 
-foreign import grNetwork_ :: ReactIcon
+foreign import _grNetwork :: ReactIcon
 
 grNetwork :: forall a b. Union a b PropsIcon => Record a -> JSX
-grNetwork = element (unsafeCoerce grNetwork_)
+grNetwork = element (unsafeCoerce _grNetwork)
 
-foreign import grNetworkDrive_ :: ReactIcon
+foreign import _grNetworkDrive :: ReactIcon
 
 grNetworkDrive :: forall a b. Union a b PropsIcon => Record a -> JSX
-grNetworkDrive = element (unsafeCoerce grNetworkDrive_)
+grNetworkDrive = element (unsafeCoerce _grNetworkDrive)
 
-foreign import grNew_ :: ReactIcon
+foreign import _grNew :: ReactIcon
 
 grNew :: forall a b. Union a b PropsIcon => Record a -> JSX
-grNew = element (unsafeCoerce grNew_)
+grNew = element (unsafeCoerce _grNew)
 
-foreign import grNewWindow_ :: ReactIcon
+foreign import _grNewWindow :: ReactIcon
 
 grNewWindow :: forall a b. Union a b PropsIcon => Record a -> JSX
-grNewWindow = element (unsafeCoerce grNewWindow_)
+grNewWindow = element (unsafeCoerce _grNewWindow)
 
-foreign import grNext_ :: ReactIcon
+foreign import _grNext :: ReactIcon
 
 grNext :: forall a b. Union a b PropsIcon => Record a -> JSX
-grNext = element (unsafeCoerce grNext_)
+grNext = element (unsafeCoerce _grNext)
 
-foreign import grNode_ :: ReactIcon
+foreign import _grNode :: ReactIcon
 
 grNode :: forall a b. Union a b PropsIcon => Record a -> JSX
-grNode = element (unsafeCoerce grNode_)
+grNode = element (unsafeCoerce _grNode)
 
-foreign import grNodes_ :: ReactIcon
+foreign import _grNodes :: ReactIcon
 
 grNodes :: forall a b. Union a b PropsIcon => Record a -> JSX
-grNodes = element (unsafeCoerce grNodes_)
+grNodes = element (unsafeCoerce _grNodes)
 
-foreign import grNorton_ :: ReactIcon
+foreign import _grNorton :: ReactIcon
 
 grNorton :: forall a b. Union a b PropsIcon => Record a -> JSX
-grNorton = element (unsafeCoerce grNorton_)
+grNorton = element (unsafeCoerce _grNorton)
 
-foreign import grNote_ :: ReactIcon
+foreign import _grNote :: ReactIcon
 
 grNote :: forall a b. Union a b PropsIcon => Record a -> JSX
-grNote = element (unsafeCoerce grNote_)
+grNote = element (unsafeCoerce _grNote)
 
-foreign import grNotes_ :: ReactIcon
+foreign import _grNotes :: ReactIcon
 
 grNotes :: forall a b. Union a b PropsIcon => Record a -> JSX
-grNotes = element (unsafeCoerce grNotes_)
+grNotes = element (unsafeCoerce _grNotes)
 
-foreign import grNotification_ :: ReactIcon
+foreign import _grNotification :: ReactIcon
 
 grNotification :: forall a b. Union a b PropsIcon => Record a -> JSX
-grNotification = element (unsafeCoerce grNotification_)
+grNotification = element (unsafeCoerce _grNotification)
 
-foreign import grNpm_ :: ReactIcon
+foreign import _grNpm :: ReactIcon
 
 grNpm :: forall a b. Union a b PropsIcon => Record a -> JSX
-grNpm = element (unsafeCoerce grNpm_)
+grNpm = element (unsafeCoerce _grNpm)
 
-foreign import grObjectGroup_ :: ReactIcon
+foreign import _grObjectGroup :: ReactIcon
 
 grObjectGroup :: forall a b. Union a b PropsIcon => Record a -> JSX
-grObjectGroup = element (unsafeCoerce grObjectGroup_)
+grObjectGroup = element (unsafeCoerce _grObjectGroup)
 
-foreign import grObjectUngroup_ :: ReactIcon
+foreign import _grObjectUngroup :: ReactIcon
 
 grObjectUngroup :: forall a b. Union a b PropsIcon => Record a -> JSX
-grObjectUngroup = element (unsafeCoerce grObjectUngroup_)
+grObjectUngroup = element (unsafeCoerce _grObjectUngroup)
 
-foreign import grOfflineStorage_ :: ReactIcon
+foreign import _grOfflineStorage :: ReactIcon
 
 grOfflineStorage :: forall a b. Union a b PropsIcon => Record a -> JSX
-grOfflineStorage = element (unsafeCoerce grOfflineStorage_)
+grOfflineStorage = element (unsafeCoerce _grOfflineStorage)
 
-foreign import grOnedrive_ :: ReactIcon
+foreign import _grOnedrive :: ReactIcon
 
 grOnedrive :: forall a b. Union a b PropsIcon => Record a -> JSX
-grOnedrive = element (unsafeCoerce grOnedrive_)
+grOnedrive = element (unsafeCoerce _grOnedrive)
 
-foreign import grOpera_ :: ReactIcon
+foreign import _grOpera :: ReactIcon
 
 grOpera :: forall a b. Union a b PropsIcon => Record a -> JSX
-grOpera = element (unsafeCoerce grOpera_)
+grOpera = element (unsafeCoerce _grOpera)
 
-foreign import grOptimize_ :: ReactIcon
+foreign import _grOptimize :: ReactIcon
 
 grOptimize :: forall a b. Union a b PropsIcon => Record a -> JSX
-grOptimize = element (unsafeCoerce grOptimize_)
+grOptimize = element (unsafeCoerce _grOptimize)
 
-foreign import grOracle_ :: ReactIcon
+foreign import _grOracle :: ReactIcon
 
 grOracle :: forall a b. Union a b PropsIcon => Record a -> JSX
-grOracle = element (unsafeCoerce grOracle_)
+grOracle = element (unsafeCoerce _grOracle)
 
-foreign import grOrderedList_ :: ReactIcon
+foreign import _grOrderedList :: ReactIcon
 
 grOrderedList :: forall a b. Union a b PropsIcon => Record a -> JSX
-grOrderedList = element (unsafeCoerce grOrderedList_)
+grOrderedList = element (unsafeCoerce _grOrderedList)
 
-foreign import grOrganization_ :: ReactIcon
+foreign import _grOrganization :: ReactIcon
 
 grOrganization :: forall a b. Union a b PropsIcon => Record a -> JSX
-grOrganization = element (unsafeCoerce grOrganization_)
+grOrganization = element (unsafeCoerce _grOrganization)
 
-foreign import grOverview_ :: ReactIcon
+foreign import _grOverview :: ReactIcon
 
 grOverview :: forall a b. Union a b PropsIcon => Record a -> JSX
-grOverview = element (unsafeCoerce grOverview_)
+grOverview = element (unsafeCoerce _grOverview)
 
-foreign import grPackage_ :: ReactIcon
+foreign import _grPackage :: ReactIcon
 
 grPackage :: forall a b. Union a b PropsIcon => Record a -> JSX
-grPackage = element (unsafeCoerce grPackage_)
+grPackage = element (unsafeCoerce _grPackage)
 
-foreign import grPaint_ :: ReactIcon
+foreign import _grPaint :: ReactIcon
 
 grPaint :: forall a b. Union a b PropsIcon => Record a -> JSX
-grPaint = element (unsafeCoerce grPaint_)
+grPaint = element (unsafeCoerce _grPaint)
 
-foreign import grPan_ :: ReactIcon
+foreign import _grPan :: ReactIcon
 
 grPan :: forall a b. Union a b PropsIcon => Record a -> JSX
-grPan = element (unsafeCoerce grPan_)
+grPan = element (unsafeCoerce _grPan)
 
-foreign import grPause_ :: ReactIcon
+foreign import _grPause :: ReactIcon
 
 grPause :: forall a b. Union a b PropsIcon => Record a -> JSX
-grPause = element (unsafeCoerce grPause_)
+grPause = element (unsafeCoerce _grPause)
 
-foreign import grPauseFill_ :: ReactIcon
+foreign import _grPauseFill :: ReactIcon
 
 grPauseFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-grPauseFill = element (unsafeCoerce grPauseFill_)
+grPauseFill = element (unsafeCoerce _grPauseFill)
 
-foreign import grPaypal_ :: ReactIcon
+foreign import _grPaypal :: ReactIcon
 
 grPaypal :: forall a b. Union a b PropsIcon => Record a -> JSX
-grPaypal = element (unsafeCoerce grPaypal_)
+grPaypal = element (unsafeCoerce _grPaypal)
 
-foreign import grPerformance_ :: ReactIcon
+foreign import _grPerformance :: ReactIcon
 
 grPerformance :: forall a b. Union a b PropsIcon => Record a -> JSX
-grPerformance = element (unsafeCoerce grPerformance_)
+grPerformance = element (unsafeCoerce _grPerformance)
 
-foreign import grPersonalComputer_ :: ReactIcon
+foreign import _grPersonalComputer :: ReactIcon
 
 grPersonalComputer :: forall a b. Union a b PropsIcon => Record a -> JSX
-grPersonalComputer = element (unsafeCoerce grPersonalComputer_)
+grPersonalComputer = element (unsafeCoerce _grPersonalComputer)
 
-foreign import grPhone_ :: ReactIcon
+foreign import _grPhone :: ReactIcon
 
 grPhone :: forall a b. Union a b PropsIcon => Record a -> JSX
-grPhone = element (unsafeCoerce grPhone_)
+grPhone = element (unsafeCoerce _grPhone)
 
-foreign import grPhoneFlip_ :: ReactIcon
+foreign import _grPhoneFlip :: ReactIcon
 
 grPhoneFlip :: forall a b. Union a b PropsIcon => Record a -> JSX
-grPhoneFlip = element (unsafeCoerce grPhoneFlip_)
+grPhoneFlip = element (unsafeCoerce _grPhoneFlip)
 
-foreign import grPhoneHorizontal_ :: ReactIcon
+foreign import _grPhoneHorizontal :: ReactIcon
 
 grPhoneHorizontal :: forall a b. Union a b PropsIcon => Record a -> JSX
-grPhoneHorizontal = element (unsafeCoerce grPhoneHorizontal_)
+grPhoneHorizontal = element (unsafeCoerce _grPhoneHorizontal)
 
-foreign import grPhoneVertical_ :: ReactIcon
+foreign import _grPhoneVertical :: ReactIcon
 
 grPhoneVertical :: forall a b. Union a b PropsIcon => Record a -> JSX
-grPhoneVertical = element (unsafeCoerce grPhoneVertical_)
+grPhoneVertical = element (unsafeCoerce _grPhoneVertical)
 
-foreign import grPieChart_ :: ReactIcon
+foreign import _grPieChart :: ReactIcon
 
 grPieChart :: forall a b. Union a b PropsIcon => Record a -> JSX
-grPieChart = element (unsafeCoerce grPieChart_)
+grPieChart = element (unsafeCoerce _grPieChart)
 
-foreign import grPiedPiper_ :: ReactIcon
+foreign import _grPiedPiper :: ReactIcon
 
 grPiedPiper :: forall a b. Union a b PropsIcon => Record a -> JSX
-grPiedPiper = element (unsafeCoerce grPiedPiper_)
+grPiedPiper = element (unsafeCoerce _grPiedPiper)
 
-foreign import grPin_ :: ReactIcon
+foreign import _grPin :: ReactIcon
 
 grPin :: forall a b. Union a b PropsIcon => Record a -> JSX
-grPin = element (unsafeCoerce grPin_)
+grPin = element (unsafeCoerce _grPin)
 
-foreign import grPinterest_ :: ReactIcon
+foreign import _grPinterest :: ReactIcon
 
 grPinterest :: forall a b. Union a b PropsIcon => Record a -> JSX
-grPinterest = element (unsafeCoerce grPinterest_)
+grPinterest = element (unsafeCoerce _grPinterest)
 
-foreign import grPlan_ :: ReactIcon
+foreign import _grPlan :: ReactIcon
 
 grPlan :: forall a b. Union a b PropsIcon => Record a -> JSX
-grPlan = element (unsafeCoerce grPlan_)
+grPlan = element (unsafeCoerce _grPlan)
 
-foreign import grPlay_ :: ReactIcon
+foreign import _grPlay :: ReactIcon
 
 grPlay :: forall a b. Union a b PropsIcon => Record a -> JSX
-grPlay = element (unsafeCoerce grPlay_)
+grPlay = element (unsafeCoerce _grPlay)
 
-foreign import grPlayFill_ :: ReactIcon
+foreign import _grPlayFill :: ReactIcon
 
 grPlayFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-grPlayFill = element (unsafeCoerce grPlayFill_)
+grPlayFill = element (unsafeCoerce _grPlayFill)
 
-foreign import grPlug_ :: ReactIcon
+foreign import _grPlug :: ReactIcon
 
 grPlug :: forall a b. Union a b PropsIcon => Record a -> JSX
-grPlug = element (unsafeCoerce grPlug_)
+grPlug = element (unsafeCoerce _grPlug)
 
-foreign import grPocket_ :: ReactIcon
+foreign import _grPocket :: ReactIcon
 
 grPocket :: forall a b. Union a b PropsIcon => Record a -> JSX
-grPocket = element (unsafeCoerce grPocket_)
+grPocket = element (unsafeCoerce _grPocket)
 
-foreign import grPower_ :: ReactIcon
+foreign import _grPower :: ReactIcon
 
 grPower :: forall a b. Union a b PropsIcon => Record a -> JSX
-grPower = element (unsafeCoerce grPower_)
+grPower = element (unsafeCoerce _grPower)
 
-foreign import grPowerCycle_ :: ReactIcon
+foreign import _grPowerCycle :: ReactIcon
 
 grPowerCycle :: forall a b. Union a b PropsIcon => Record a -> JSX
-grPowerCycle = element (unsafeCoerce grPowerCycle_)
+grPowerCycle = element (unsafeCoerce _grPowerCycle)
 
-foreign import grPowerForceShutdown_ :: ReactIcon
+foreign import _grPowerForceShutdown :: ReactIcon
 
 grPowerForceShutdown :: forall a b. Union a b PropsIcon => Record a -> JSX
-grPowerForceShutdown = element (unsafeCoerce grPowerForceShutdown_)
+grPowerForceShutdown = element (unsafeCoerce _grPowerForceShutdown)
 
-foreign import grPowerReset_ :: ReactIcon
+foreign import _grPowerReset :: ReactIcon
 
 grPowerReset :: forall a b. Union a b PropsIcon => Record a -> JSX
-grPowerReset = element (unsafeCoerce grPowerReset_)
+grPowerReset = element (unsafeCoerce _grPowerReset)
 
-foreign import grPowerShutdown_ :: ReactIcon
+foreign import _grPowerShutdown :: ReactIcon
 
 grPowerShutdown :: forall a b. Union a b PropsIcon => Record a -> JSX
-grPowerShutdown = element (unsafeCoerce grPowerShutdown_)
+grPowerShutdown = element (unsafeCoerce _grPowerShutdown)
 
-foreign import grPrevious_ :: ReactIcon
+foreign import _grPrevious :: ReactIcon
 
 grPrevious :: forall a b. Union a b PropsIcon => Record a -> JSX
-grPrevious = element (unsafeCoerce grPrevious_)
+grPrevious = element (unsafeCoerce _grPrevious)
 
-foreign import grPrint_ :: ReactIcon
+foreign import _grPrint :: ReactIcon
 
 grPrint :: forall a b. Union a b PropsIcon => Record a -> JSX
-grPrint = element (unsafeCoerce grPrint_)
+grPrint = element (unsafeCoerce _grPrint)
 
-foreign import grProductHunt_ :: ReactIcon
+foreign import _grProductHunt :: ReactIcon
 
 grProductHunt :: forall a b. Union a b PropsIcon => Record a -> JSX
-grProductHunt = element (unsafeCoerce grProductHunt_)
+grProductHunt = element (unsafeCoerce _grProductHunt)
 
-foreign import grProjects_ :: ReactIcon
+foreign import _grProjects :: ReactIcon
 
 grProjects :: forall a b. Union a b PropsIcon => Record a -> JSX
-grProjects = element (unsafeCoerce grProjects_)
+grProjects = element (unsafeCoerce _grProjects)
 
-foreign import grQr_ :: ReactIcon
+foreign import _grQr :: ReactIcon
 
 grQr :: forall a b. Union a b PropsIcon => Record a -> JSX
-grQr = element (unsafeCoerce grQr_)
+grQr = element (unsafeCoerce _grQr)
 
-foreign import grRadial_ :: ReactIcon
+foreign import _grRadial :: ReactIcon
 
 grRadial :: forall a b. Union a b PropsIcon => Record a -> JSX
-grRadial = element (unsafeCoerce grRadial_)
+grRadial = element (unsafeCoerce _grRadial)
 
-foreign import grRadialSelected_ :: ReactIcon
+foreign import _grRadialSelected :: ReactIcon
 
 grRadialSelected :: forall a b. Union a b PropsIcon => Record a -> JSX
-grRadialSelected = element (unsafeCoerce grRadialSelected_)
+grRadialSelected = element (unsafeCoerce _grRadialSelected)
 
-foreign import grRaspberry_ :: ReactIcon
+foreign import _grRaspberry :: ReactIcon
 
 grRaspberry :: forall a b. Union a b PropsIcon => Record a -> JSX
-grRaspberry = element (unsafeCoerce grRaspberry_)
+grRaspberry = element (unsafeCoerce _grRaspberry)
 
-foreign import grReactjs_ :: ReactIcon
+foreign import _grReactjs :: ReactIcon
 
 grReactjs :: forall a b. Union a b PropsIcon => Record a -> JSX
-grReactjs = element (unsafeCoerce grReactjs_)
+grReactjs = element (unsafeCoerce _grReactjs)
 
-foreign import grReddit_ :: ReactIcon
+foreign import _grReddit :: ReactIcon
 
 grReddit :: forall a b. Union a b PropsIcon => Record a -> JSX
-grReddit = element (unsafeCoerce grReddit_)
+grReddit = element (unsafeCoerce _grReddit)
 
-foreign import grRedhat_ :: ReactIcon
+foreign import _grRedhat :: ReactIcon
 
 grRedhat :: forall a b. Union a b PropsIcon => Record a -> JSX
-grRedhat = element (unsafeCoerce grRedhat_)
+grRedhat = element (unsafeCoerce _grRedhat)
 
-foreign import grRedo_ :: ReactIcon
+foreign import _grRedo :: ReactIcon
 
 grRedo :: forall a b. Union a b PropsIcon => Record a -> JSX
-grRedo = element (unsafeCoerce grRedo_)
+grRedo = element (unsafeCoerce _grRedo)
 
-foreign import grRefresh_ :: ReactIcon
+foreign import _grRefresh :: ReactIcon
 
 grRefresh :: forall a b. Union a b PropsIcon => Record a -> JSX
-grRefresh = element (unsafeCoerce grRefresh_)
+grRefresh = element (unsafeCoerce _grRefresh)
 
-foreign import grResources_ :: ReactIcon
+foreign import _grResources :: ReactIcon
 
 grResources :: forall a b. Union a b PropsIcon => Record a -> JSX
-grResources = element (unsafeCoerce grResources_)
+grResources = element (unsafeCoerce _grResources)
 
-foreign import grRestaurant_ :: ReactIcon
+foreign import _grRestaurant :: ReactIcon
 
 grRestaurant :: forall a b. Union a b PropsIcon => Record a -> JSX
-grRestaurant = element (unsafeCoerce grRestaurant_)
+grRestaurant = element (unsafeCoerce _grRestaurant)
 
-foreign import grRestroom_ :: ReactIcon
+foreign import _grRestroom :: ReactIcon
 
 grRestroom :: forall a b. Union a b PropsIcon => Record a -> JSX
-grRestroom = element (unsafeCoerce grRestroom_)
+grRestroom = element (unsafeCoerce _grRestroom)
 
-foreign import grRestroomMen_ :: ReactIcon
+foreign import _grRestroomMen :: ReactIcon
 
 grRestroomMen :: forall a b. Union a b PropsIcon => Record a -> JSX
-grRestroomMen = element (unsafeCoerce grRestroomMen_)
+grRestroomMen = element (unsafeCoerce _grRestroomMen)
 
-foreign import grRestroomWomen_ :: ReactIcon
+foreign import _grRestroomWomen :: ReactIcon
 
 grRestroomWomen :: forall a b. Union a b PropsIcon => Record a -> JSX
-grRestroomWomen = element (unsafeCoerce grRestroomWomen_)
+grRestroomWomen = element (unsafeCoerce _grRestroomWomen)
 
-foreign import grResume_ :: ReactIcon
+foreign import _grResume :: ReactIcon
 
 grResume :: forall a b. Union a b PropsIcon => Record a -> JSX
-grResume = element (unsafeCoerce grResume_)
+grResume = element (unsafeCoerce _grResume)
 
-foreign import grReturn_ :: ReactIcon
+foreign import _grReturn :: ReactIcon
 
 grReturn :: forall a b. Union a b PropsIcon => Record a -> JSX
-grReturn = element (unsafeCoerce grReturn_)
+grReturn = element (unsafeCoerce _grReturn)
 
-foreign import grRevert_ :: ReactIcon
+foreign import _grRevert :: ReactIcon
 
 grRevert :: forall a b. Union a b PropsIcon => Record a -> JSX
-grRevert = element (unsafeCoerce grRevert_)
+grRevert = element (unsafeCoerce _grRevert)
 
-foreign import grRewind_ :: ReactIcon
+foreign import _grRewind :: ReactIcon
 
 grRewind :: forall a b. Union a b PropsIcon => Record a -> JSX
-grRewind = element (unsafeCoerce grRewind_)
+grRewind = element (unsafeCoerce _grRewind)
 
-foreign import grRisk_ :: ReactIcon
+foreign import _grRisk :: ReactIcon
 
 grRisk :: forall a b. Union a b PropsIcon => Record a -> JSX
-grRisk = element (unsafeCoerce grRisk_)
+grRisk = element (unsafeCoerce _grRisk)
 
-foreign import grRobot_ :: ReactIcon
+foreign import _grRobot :: ReactIcon
 
 grRobot :: forall a b. Union a b PropsIcon => Record a -> JSX
-grRobot = element (unsafeCoerce grRobot_)
+grRobot = element (unsafeCoerce _grRobot)
 
-foreign import grRotateLeft_ :: ReactIcon
+foreign import _grRotateLeft :: ReactIcon
 
 grRotateLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-grRotateLeft = element (unsafeCoerce grRotateLeft_)
+grRotateLeft = element (unsafeCoerce _grRotateLeft)
 
-foreign import grRotateRight_ :: ReactIcon
+foreign import _grRotateRight :: ReactIcon
 
 grRotateRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-grRotateRight = element (unsafeCoerce grRotateRight_)
+grRotateRight = element (unsafeCoerce _grRotateRight)
 
-foreign import grRss_ :: ReactIcon
+foreign import _grRss :: ReactIcon
 
 grRss :: forall a b. Union a b PropsIcon => Record a -> JSX
-grRss = element (unsafeCoerce grRss_)
+grRss = element (unsafeCoerce _grRss)
 
-foreign import grRun_ :: ReactIcon
+foreign import _grRun :: ReactIcon
 
 grRun :: forall a b. Union a b PropsIcon => Record a -> JSX
-grRun = element (unsafeCoerce grRun_)
+grRun = element (unsafeCoerce _grRun)
 
-foreign import grSafariOption_ :: ReactIcon
+foreign import _grSafariOption :: ReactIcon
 
 grSafariOption :: forall a b. Union a b PropsIcon => Record a -> JSX
-grSafariOption = element (unsafeCoerce grSafariOption_)
+grSafariOption = element (unsafeCoerce _grSafariOption)
 
-foreign import grSans_ :: ReactIcon
+foreign import _grSans :: ReactIcon
 
 grSans :: forall a b. Union a b PropsIcon => Record a -> JSX
-grSans = element (unsafeCoerce grSans_)
+grSans = element (unsafeCoerce _grSans)
 
-foreign import grSatellite_ :: ReactIcon
+foreign import _grSatellite :: ReactIcon
 
 grSatellite :: forall a b. Union a b PropsIcon => Record a -> JSX
-grSatellite = element (unsafeCoerce grSatellite_)
+grSatellite = element (unsafeCoerce _grSatellite)
 
-foreign import grSave_ :: ReactIcon
+foreign import _grSave :: ReactIcon
 
 grSave :: forall a b. Union a b PropsIcon => Record a -> JSX
-grSave = element (unsafeCoerce grSave_)
+grSave = element (unsafeCoerce _grSave)
 
-foreign import grScan_ :: ReactIcon
+foreign import _grScan :: ReactIcon
 
 grScan :: forall a b. Union a b PropsIcon => Record a -> JSX
-grScan = element (unsafeCoerce grScan_)
+grScan = element (unsafeCoerce _grScan)
 
-foreign import grSchedule_ :: ReactIcon
+foreign import _grSchedule :: ReactIcon
 
 grSchedule :: forall a b. Union a b PropsIcon => Record a -> JSX
-grSchedule = element (unsafeCoerce grSchedule_)
+grSchedule = element (unsafeCoerce _grSchedule)
 
-foreign import grScheduleNew_ :: ReactIcon
+foreign import _grScheduleNew :: ReactIcon
 
 grScheduleNew :: forall a b. Union a b PropsIcon => Record a -> JSX
-grScheduleNew = element (unsafeCoerce grScheduleNew_)
+grScheduleNew = element (unsafeCoerce _grScheduleNew)
 
-foreign import grSchedulePlay_ :: ReactIcon
+foreign import _grSchedulePlay :: ReactIcon
 
 grSchedulePlay :: forall a b. Union a b PropsIcon => Record a -> JSX
-grSchedulePlay = element (unsafeCoerce grSchedulePlay_)
+grSchedulePlay = element (unsafeCoerce _grSchedulePlay)
 
-foreign import grSchedules_ :: ReactIcon
+foreign import _grSchedules :: ReactIcon
 
 grSchedules :: forall a b. Union a b PropsIcon => Record a -> JSX
-grSchedules = element (unsafeCoerce grSchedules_)
+grSchedules = element (unsafeCoerce _grSchedules)
 
-foreign import grSco_ :: ReactIcon
+foreign import _grSco :: ReactIcon
 
 grSco :: forall a b. Union a b PropsIcon => Record a -> JSX
-grSco = element (unsafeCoerce grSco_)
+grSco = element (unsafeCoerce _grSco)
 
-foreign import grScorecard_ :: ReactIcon
+foreign import _grScorecard :: ReactIcon
 
 grScorecard :: forall a b. Union a b PropsIcon => Record a -> JSX
-grScorecard = element (unsafeCoerce grScorecard_)
+grScorecard = element (unsafeCoerce _grScorecard)
 
-foreign import grScript_ :: ReactIcon
+foreign import _grScript :: ReactIcon
 
 grScript :: forall a b. Union a b PropsIcon => Record a -> JSX
-grScript = element (unsafeCoerce grScript_)
+grScript = element (unsafeCoerce _grScript)
 
-foreign import grSd_ :: ReactIcon
+foreign import _grSd :: ReactIcon
 
 grSd :: forall a b. Union a b PropsIcon => Record a -> JSX
-grSd = element (unsafeCoerce grSd_)
+grSd = element (unsafeCoerce _grSd)
 
-foreign import grSearch_ :: ReactIcon
+foreign import _grSearch :: ReactIcon
 
 grSearch :: forall a b. Union a b PropsIcon => Record a -> JSX
-grSearch = element (unsafeCoerce grSearch_)
+grSearch = element (unsafeCoerce _grSearch)
 
-foreign import grSearchAdvanced_ :: ReactIcon
+foreign import _grSearchAdvanced :: ReactIcon
 
 grSearchAdvanced :: forall a b. Union a b PropsIcon => Record a -> JSX
-grSearchAdvanced = element (unsafeCoerce grSearchAdvanced_)
+grSearchAdvanced = element (unsafeCoerce _grSearchAdvanced)
 
-foreign import grSecure_ :: ReactIcon
+foreign import _grSecure :: ReactIcon
 
 grSecure :: forall a b. Union a b PropsIcon => Record a -> JSX
-grSecure = element (unsafeCoerce grSecure_)
+grSecure = element (unsafeCoerce _grSecure)
 
-foreign import grSelect_ :: ReactIcon
+foreign import _grSelect :: ReactIcon
 
 grSelect :: forall a b. Union a b PropsIcon => Record a -> JSX
-grSelect = element (unsafeCoerce grSelect_)
+grSelect = element (unsafeCoerce _grSelect)
 
-foreign import grSelection_ :: ReactIcon
+foreign import _grSelection :: ReactIcon
 
 grSelection :: forall a b. Union a b PropsIcon => Record a -> JSX
-grSelection = element (unsafeCoerce grSelection_)
+grSelection = element (unsafeCoerce _grSelection)
 
-foreign import grSemantics_ :: ReactIcon
+foreign import _grSemantics :: ReactIcon
 
 grSemantics :: forall a b. Union a b PropsIcon => Record a -> JSX
-grSemantics = element (unsafeCoerce grSemantics_)
+grSemantics = element (unsafeCoerce _grSemantics)
 
-foreign import grSend_ :: ReactIcon
+foreign import _grSend :: ReactIcon
 
 grSend :: forall a b. Union a b PropsIcon => Record a -> JSX
-grSend = element (unsafeCoerce grSend_)
+grSend = element (unsafeCoerce _grSend)
 
-foreign import grServer_ :: ReactIcon
+foreign import _grServer :: ReactIcon
 
 grServer :: forall a b. Union a b PropsIcon => Record a -> JSX
-grServer = element (unsafeCoerce grServer_)
+grServer = element (unsafeCoerce _grServer)
 
-foreign import grServerCluster_ :: ReactIcon
+foreign import _grServerCluster :: ReactIcon
 
 grServerCluster :: forall a b. Union a b PropsIcon => Record a -> JSX
-grServerCluster = element (unsafeCoerce grServerCluster_)
+grServerCluster = element (unsafeCoerce _grServerCluster)
 
-foreign import grServers_ :: ReactIcon
+foreign import _grServers :: ReactIcon
 
 grServers :: forall a b. Union a b PropsIcon => Record a -> JSX
-grServers = element (unsafeCoerce grServers_)
+grServers = element (unsafeCoerce _grServers)
 
-foreign import grServicePlay_ :: ReactIcon
+foreign import _grServicePlay :: ReactIcon
 
 grServicePlay :: forall a b. Union a b PropsIcon => Record a -> JSX
-grServicePlay = element (unsafeCoerce grServicePlay_)
+grServicePlay = element (unsafeCoerce _grServicePlay)
 
-foreign import grServices_ :: ReactIcon
+foreign import _grServices :: ReactIcon
 
 grServices :: forall a b. Union a b PropsIcon => Record a -> JSX
-grServices = element (unsafeCoerce grServices_)
+grServices = element (unsafeCoerce _grServices)
 
-foreign import grSettingsOption_ :: ReactIcon
+foreign import _grSettingsOption :: ReactIcon
 
 grSettingsOption :: forall a b. Union a b PropsIcon => Record a -> JSX
-grSettingsOption = element (unsafeCoerce grSettingsOption_)
+grSettingsOption = element (unsafeCoerce _grSettingsOption)
 
-foreign import grShare_ :: ReactIcon
+foreign import _grShare :: ReactIcon
 
 grShare :: forall a b. Union a b PropsIcon => Record a -> JSX
-grShare = element (unsafeCoerce grShare_)
+grShare = element (unsafeCoerce _grShare)
 
-foreign import grShareOption_ :: ReactIcon
+foreign import _grShareOption :: ReactIcon
 
 grShareOption :: forall a b. Union a b PropsIcon => Record a -> JSX
-grShareOption = element (unsafeCoerce grShareOption_)
+grShareOption = element (unsafeCoerce _grShareOption)
 
-foreign import grShareRounded_ :: ReactIcon
+foreign import _grShareRounded :: ReactIcon
 
 grShareRounded :: forall a b. Union a b PropsIcon => Record a -> JSX
-grShareRounded = element (unsafeCoerce grShareRounded_)
+grShareRounded = element (unsafeCoerce _grShareRounded)
 
-foreign import grShield_ :: ReactIcon
+foreign import _grShield :: ReactIcon
 
 grShield :: forall a b. Union a b PropsIcon => Record a -> JSX
-grShield = element (unsafeCoerce grShield_)
+grShield = element (unsafeCoerce _grShield)
 
-foreign import grShieldSecurity_ :: ReactIcon
+foreign import _grShieldSecurity :: ReactIcon
 
 grShieldSecurity :: forall a b. Union a b PropsIcon => Record a -> JSX
-grShieldSecurity = element (unsafeCoerce grShieldSecurity_)
+grShieldSecurity = element (unsafeCoerce _grShieldSecurity)
 
-foreign import grShift_ :: ReactIcon
+foreign import _grShift :: ReactIcon
 
 grShift :: forall a b. Union a b PropsIcon => Record a -> JSX
-grShift = element (unsafeCoerce grShift_)
+grShift = element (unsafeCoerce _grShift)
 
-foreign import grShop_ :: ReactIcon
+foreign import _grShop :: ReactIcon
 
 grShop :: forall a b. Union a b PropsIcon => Record a -> JSX
-grShop = element (unsafeCoerce grShop_)
+grShop = element (unsafeCoerce _grShop)
 
-foreign import grSidebar_ :: ReactIcon
+foreign import _grSidebar :: ReactIcon
 
 grSidebar :: forall a b. Union a b PropsIcon => Record a -> JSX
-grSidebar = element (unsafeCoerce grSidebar_)
+grSidebar = element (unsafeCoerce _grSidebar)
 
-foreign import grSign_ :: ReactIcon
+foreign import _grSign :: ReactIcon
 
 grSign :: forall a b. Union a b PropsIcon => Record a -> JSX
-grSign = element (unsafeCoerce grSign_)
+grSign = element (unsafeCoerce _grSign)
 
-foreign import grSkype_ :: ReactIcon
+foreign import _grSkype :: ReactIcon
 
 grSkype :: forall a b. Union a b PropsIcon => Record a -> JSX
-grSkype = element (unsafeCoerce grSkype_)
+grSkype = element (unsafeCoerce _grSkype)
 
-foreign import grSlack_ :: ReactIcon
+foreign import _grSlack :: ReactIcon
 
 grSlack :: forall a b. Union a b PropsIcon => Record a -> JSX
-grSlack = element (unsafeCoerce grSlack_)
+grSlack = element (unsafeCoerce _grSlack)
 
-foreign import grSnapchat_ :: ReactIcon
+foreign import _grSnapchat :: ReactIcon
 
 grSnapchat :: forall a b. Union a b PropsIcon => Record a -> JSX
-grSnapchat = element (unsafeCoerce grSnapchat_)
+grSnapchat = element (unsafeCoerce _grSnapchat)
 
-foreign import grSolaris_ :: ReactIcon
+foreign import _grSolaris :: ReactIcon
 
 grSolaris :: forall a b. Union a b PropsIcon => Record a -> JSX
-grSolaris = element (unsafeCoerce grSolaris_)
+grSolaris = element (unsafeCoerce _grSolaris)
 
-foreign import grSort_ :: ReactIcon
+foreign import _grSort :: ReactIcon
 
 grSort :: forall a b. Union a b PropsIcon => Record a -> JSX
-grSort = element (unsafeCoerce grSort_)
+grSort = element (unsafeCoerce _grSort)
 
-foreign import grSoundcloud_ :: ReactIcon
+foreign import _grSoundcloud :: ReactIcon
 
 grSoundcloud :: forall a b. Union a b PropsIcon => Record a -> JSX
-grSoundcloud = element (unsafeCoerce grSoundcloud_)
+grSoundcloud = element (unsafeCoerce _grSoundcloud)
 
-foreign import grSpa_ :: ReactIcon
+foreign import _grSpa :: ReactIcon
 
 grSpa :: forall a b. Union a b PropsIcon => Record a -> JSX
-grSpa = element (unsafeCoerce grSpa_)
+grSpa = element (unsafeCoerce _grSpa)
 
-foreign import grSpectrum_ :: ReactIcon
+foreign import _grSpectrum :: ReactIcon
 
 grSpectrum :: forall a b. Union a b PropsIcon => Record a -> JSX
-grSpectrum = element (unsafeCoerce grSpectrum_)
+grSpectrum = element (unsafeCoerce _grSpectrum)
 
-foreign import grSplit_ :: ReactIcon
+foreign import _grSplit :: ReactIcon
 
 grSplit :: forall a b. Union a b PropsIcon => Record a -> JSX
-grSplit = element (unsafeCoerce grSplit_)
+grSplit = element (unsafeCoerce _grSplit)
 
-foreign import grSplits_ :: ReactIcon
+foreign import _grSplits :: ReactIcon
 
 grSplits :: forall a b. Union a b PropsIcon => Record a -> JSX
-grSplits = element (unsafeCoerce grSplits_)
+grSplits = element (unsafeCoerce _grSplits)
 
-foreign import grSpotify_ :: ReactIcon
+foreign import _grSpotify :: ReactIcon
 
 grSpotify :: forall a b. Union a b PropsIcon => Record a -> JSX
-grSpotify = element (unsafeCoerce grSpotify_)
+grSpotify = element (unsafeCoerce _grSpotify)
 
-foreign import grSquare_ :: ReactIcon
+foreign import _grSquare :: ReactIcon
 
 grSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-grSquare = element (unsafeCoerce grSquare_)
+grSquare = element (unsafeCoerce _grSquare)
 
-foreign import grStackOverflow_ :: ReactIcon
+foreign import _grStackOverflow :: ReactIcon
 
 grStackOverflow :: forall a b. Union a b PropsIcon => Record a -> JSX
-grStackOverflow = element (unsafeCoerce grStackOverflow_)
+grStackOverflow = element (unsafeCoerce _grStackOverflow)
 
-foreign import grStakeholder_ :: ReactIcon
+foreign import _grStakeholder :: ReactIcon
 
 grStakeholder :: forall a b. Union a b PropsIcon => Record a -> JSX
-grStakeholder = element (unsafeCoerce grStakeholder_)
+grStakeholder = element (unsafeCoerce _grStakeholder)
 
-foreign import grStar_ :: ReactIcon
+foreign import _grStar :: ReactIcon
 
 grStar :: forall a b. Union a b PropsIcon => Record a -> JSX
-grStar = element (unsafeCoerce grStar_)
+grStar = element (unsafeCoerce _grStar)
 
-foreign import grStarHalf_ :: ReactIcon
+foreign import _grStarHalf :: ReactIcon
 
 grStarHalf :: forall a b. Union a b PropsIcon => Record a -> JSX
-grStarHalf = element (unsafeCoerce grStarHalf_)
+grStarHalf = element (unsafeCoerce _grStarHalf)
 
-foreign import grStatusCritical_ :: ReactIcon
+foreign import _grStatusCritical :: ReactIcon
 
 grStatusCritical :: forall a b. Union a b PropsIcon => Record a -> JSX
-grStatusCritical = element (unsafeCoerce grStatusCritical_)
+grStatusCritical = element (unsafeCoerce _grStatusCritical)
 
-foreign import grStatusCriticalSmall_ :: ReactIcon
+foreign import _grStatusCriticalSmall :: ReactIcon
 
 grStatusCriticalSmall :: forall a b. Union a b PropsIcon => Record a -> JSX
-grStatusCriticalSmall = element (unsafeCoerce grStatusCriticalSmall_)
+grStatusCriticalSmall = element (unsafeCoerce _grStatusCriticalSmall)
 
-foreign import grStatusDisabled_ :: ReactIcon
+foreign import _grStatusDisabled :: ReactIcon
 
 grStatusDisabled :: forall a b. Union a b PropsIcon => Record a -> JSX
-grStatusDisabled = element (unsafeCoerce grStatusDisabled_)
+grStatusDisabled = element (unsafeCoerce _grStatusDisabled)
 
-foreign import grStatusDisabledSmall_ :: ReactIcon
+foreign import _grStatusDisabledSmall :: ReactIcon
 
 grStatusDisabledSmall :: forall a b. Union a b PropsIcon => Record a -> JSX
-grStatusDisabledSmall = element (unsafeCoerce grStatusDisabledSmall_)
+grStatusDisabledSmall = element (unsafeCoerce _grStatusDisabledSmall)
 
-foreign import grStatusGood_ :: ReactIcon
+foreign import _grStatusGood :: ReactIcon
 
 grStatusGood :: forall a b. Union a b PropsIcon => Record a -> JSX
-grStatusGood = element (unsafeCoerce grStatusGood_)
+grStatusGood = element (unsafeCoerce _grStatusGood)
 
-foreign import grStatusGoodSmall_ :: ReactIcon
+foreign import _grStatusGoodSmall :: ReactIcon
 
 grStatusGoodSmall :: forall a b. Union a b PropsIcon => Record a -> JSX
-grStatusGoodSmall = element (unsafeCoerce grStatusGoodSmall_)
+grStatusGoodSmall = element (unsafeCoerce _grStatusGoodSmall)
 
-foreign import grStatusInfo_ :: ReactIcon
+foreign import _grStatusInfo :: ReactIcon
 
 grStatusInfo :: forall a b. Union a b PropsIcon => Record a -> JSX
-grStatusInfo = element (unsafeCoerce grStatusInfo_)
+grStatusInfo = element (unsafeCoerce _grStatusInfo)
 
-foreign import grStatusInfoSmall_ :: ReactIcon
+foreign import _grStatusInfoSmall :: ReactIcon
 
 grStatusInfoSmall :: forall a b. Union a b PropsIcon => Record a -> JSX
-grStatusInfoSmall = element (unsafeCoerce grStatusInfoSmall_)
+grStatusInfoSmall = element (unsafeCoerce _grStatusInfoSmall)
 
-foreign import grStatusPlaceholder_ :: ReactIcon
+foreign import _grStatusPlaceholder :: ReactIcon
 
 grStatusPlaceholder :: forall a b. Union a b PropsIcon => Record a -> JSX
-grStatusPlaceholder = element (unsafeCoerce grStatusPlaceholder_)
+grStatusPlaceholder = element (unsafeCoerce _grStatusPlaceholder)
 
-foreign import grStatusPlaceholderSmall_ :: ReactIcon
+foreign import _grStatusPlaceholderSmall :: ReactIcon
 
 grStatusPlaceholderSmall :: forall a b. Union a b PropsIcon => Record a -> JSX
-grStatusPlaceholderSmall = element (unsafeCoerce grStatusPlaceholderSmall_)
+grStatusPlaceholderSmall = element (unsafeCoerce _grStatusPlaceholderSmall)
 
-foreign import grStatusUnknown_ :: ReactIcon
+foreign import _grStatusUnknown :: ReactIcon
 
 grStatusUnknown :: forall a b. Union a b PropsIcon => Record a -> JSX
-grStatusUnknown = element (unsafeCoerce grStatusUnknown_)
+grStatusUnknown = element (unsafeCoerce _grStatusUnknown)
 
-foreign import grStatusUnknownSmall_ :: ReactIcon
+foreign import _grStatusUnknownSmall :: ReactIcon
 
 grStatusUnknownSmall :: forall a b. Union a b PropsIcon => Record a -> JSX
-grStatusUnknownSmall = element (unsafeCoerce grStatusUnknownSmall_)
+grStatusUnknownSmall = element (unsafeCoerce _grStatusUnknownSmall)
 
-foreign import grStatusWarning_ :: ReactIcon
+foreign import _grStatusWarning :: ReactIcon
 
 grStatusWarning :: forall a b. Union a b PropsIcon => Record a -> JSX
-grStatusWarning = element (unsafeCoerce grStatusWarning_)
+grStatusWarning = element (unsafeCoerce _grStatusWarning)
 
-foreign import grStatusWarningSmall_ :: ReactIcon
+foreign import _grStatusWarningSmall :: ReactIcon
 
 grStatusWarningSmall :: forall a b. Union a b PropsIcon => Record a -> JSX
-grStatusWarningSmall = element (unsafeCoerce grStatusWarningSmall_)
+grStatusWarningSmall = element (unsafeCoerce _grStatusWarningSmall)
 
-foreign import grSteps_ :: ReactIcon
+foreign import _grSteps :: ReactIcon
 
 grSteps :: forall a b. Union a b PropsIcon => Record a -> JSX
-grSteps = element (unsafeCoerce grSteps_)
+grSteps = element (unsafeCoerce _grSteps)
 
-foreign import grStepsOption_ :: ReactIcon
+foreign import _grStepsOption :: ReactIcon
 
 grStepsOption :: forall a b. Union a b PropsIcon => Record a -> JSX
-grStepsOption = element (unsafeCoerce grStepsOption_)
+grStepsOption = element (unsafeCoerce _grStepsOption)
 
-foreign import grStop_ :: ReactIcon
+foreign import _grStop :: ReactIcon
 
 grStop :: forall a b. Union a b PropsIcon => Record a -> JSX
-grStop = element (unsafeCoerce grStop_)
+grStop = element (unsafeCoerce _grStop)
 
-foreign import grStopFill_ :: ReactIcon
+foreign import _grStopFill :: ReactIcon
 
 grStopFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-grStopFill = element (unsafeCoerce grStopFill_)
+grStopFill = element (unsafeCoerce _grStopFill)
 
-foreign import grStorage_ :: ReactIcon
+foreign import _grStorage :: ReactIcon
 
 grStorage :: forall a b. Union a b PropsIcon => Record a -> JSX
-grStorage = element (unsafeCoerce grStorage_)
+grStorage = element (unsafeCoerce _grStorage)
 
-foreign import grStreetView_ :: ReactIcon
+foreign import _grStreetView :: ReactIcon
 
 grStreetView :: forall a b. Union a b PropsIcon => Record a -> JSX
-grStreetView = element (unsafeCoerce grStreetView_)
+grStreetView = element (unsafeCoerce _grStreetView)
 
-foreign import grStrikeThrough_ :: ReactIcon
+foreign import _grStrikeThrough :: ReactIcon
 
 grStrikeThrough :: forall a b. Union a b PropsIcon => Record a -> JSX
-grStrikeThrough = element (unsafeCoerce grStrikeThrough_)
+grStrikeThrough = element (unsafeCoerce _grStrikeThrough)
 
-foreign import grStripe_ :: ReactIcon
+foreign import _grStripe :: ReactIcon
 
 grStripe :: forall a b. Union a b PropsIcon => Record a -> JSX
-grStripe = element (unsafeCoerce grStripe_)
+grStripe = element (unsafeCoerce _grStripe)
 
-foreign import grSubscript_ :: ReactIcon
+foreign import _grSubscript :: ReactIcon
 
 grSubscript :: forall a b. Union a b PropsIcon => Record a -> JSX
-grSubscript = element (unsafeCoerce grSubscript_)
+grSubscript = element (unsafeCoerce _grSubscript)
 
-foreign import grSubtract_ :: ReactIcon
+foreign import _grSubtract :: ReactIcon
 
 grSubtract :: forall a b. Union a b PropsIcon => Record a -> JSX
-grSubtract = element (unsafeCoerce grSubtract_)
+grSubtract = element (unsafeCoerce _grSubtract)
 
-foreign import grSubtractCircle_ :: ReactIcon
+foreign import _grSubtractCircle :: ReactIcon
 
 grSubtractCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-grSubtractCircle = element (unsafeCoerce grSubtractCircle_)
+grSubtractCircle = element (unsafeCoerce _grSubtractCircle)
 
-foreign import grSun_ :: ReactIcon
+foreign import _grSun :: ReactIcon
 
 grSun :: forall a b. Union a b PropsIcon => Record a -> JSX
-grSun = element (unsafeCoerce grSun_)
+grSun = element (unsafeCoerce _grSun)
 
-foreign import grSuperscript_ :: ReactIcon
+foreign import _grSuperscript :: ReactIcon
 
 grSuperscript :: forall a b. Union a b PropsIcon => Record a -> JSX
-grSuperscript = element (unsafeCoerce grSuperscript_)
+grSuperscript = element (unsafeCoerce _grSuperscript)
 
-foreign import grSupport_ :: ReactIcon
+foreign import _grSupport :: ReactIcon
 
 grSupport :: forall a b. Union a b PropsIcon => Record a -> JSX
-grSupport = element (unsafeCoerce grSupport_)
+grSupport = element (unsafeCoerce _grSupport)
 
-foreign import grSuse_ :: ReactIcon
+foreign import _grSuse :: ReactIcon
 
 grSuse :: forall a b. Union a b PropsIcon => Record a -> JSX
-grSuse = element (unsafeCoerce grSuse_)
+grSuse = element (unsafeCoerce _grSuse)
 
-foreign import grSwift_ :: ReactIcon
+foreign import _grSwift :: ReactIcon
 
 grSwift :: forall a b. Union a b PropsIcon => Record a -> JSX
-grSwift = element (unsafeCoerce grSwift_)
+grSwift = element (unsafeCoerce _grSwift)
 
-foreign import grSwim_ :: ReactIcon
+foreign import _grSwim :: ReactIcon
 
 grSwim :: forall a b. Union a b PropsIcon => Record a -> JSX
-grSwim = element (unsafeCoerce grSwim_)
+grSwim = element (unsafeCoerce _grSwim)
 
-foreign import grSwitch_ :: ReactIcon
+foreign import _grSwitch :: ReactIcon
 
 grSwitch :: forall a b. Union a b PropsIcon => Record a -> JSX
-grSwitch = element (unsafeCoerce grSwitch_)
+grSwitch = element (unsafeCoerce _grSwitch)
 
-foreign import grSync_ :: ReactIcon
+foreign import _grSync :: ReactIcon
 
 grSync :: forall a b. Union a b PropsIcon => Record a -> JSX
-grSync = element (unsafeCoerce grSync_)
+grSync = element (unsafeCoerce _grSync)
 
-foreign import grSystem_ :: ReactIcon
+foreign import _grSystem :: ReactIcon
 
 grSystem :: forall a b. Union a b PropsIcon => Record a -> JSX
-grSystem = element (unsafeCoerce grSystem_)
+grSystem = element (unsafeCoerce _grSystem)
 
-foreign import grTable_ :: ReactIcon
+foreign import _grTable :: ReactIcon
 
 grTable :: forall a b. Union a b PropsIcon => Record a -> JSX
-grTable = element (unsafeCoerce grTable_)
+grTable = element (unsafeCoerce _grTable)
 
-foreign import grTableAdd_ :: ReactIcon
+foreign import _grTableAdd :: ReactIcon
 
 grTableAdd :: forall a b. Union a b PropsIcon => Record a -> JSX
-grTableAdd = element (unsafeCoerce grTableAdd_)
+grTableAdd = element (unsafeCoerce _grTableAdd)
 
-foreign import grTag_ :: ReactIcon
+foreign import _grTag :: ReactIcon
 
 grTag :: forall a b. Union a b PropsIcon => Record a -> JSX
-grTag = element (unsafeCoerce grTag_)
+grTag = element (unsafeCoerce _grTag)
 
-foreign import grTape_ :: ReactIcon
+foreign import _grTape :: ReactIcon
 
 grTape :: forall a b. Union a b PropsIcon => Record a -> JSX
-grTape = element (unsafeCoerce grTape_)
+grTape = element (unsafeCoerce _grTape)
 
-foreign import grTapeOption_ :: ReactIcon
+foreign import _grTapeOption :: ReactIcon
 
 grTapeOption :: forall a b. Union a b PropsIcon => Record a -> JSX
-grTapeOption = element (unsafeCoerce grTapeOption_)
+grTapeOption = element (unsafeCoerce _grTapeOption)
 
-foreign import grTarget_ :: ReactIcon
+foreign import _grTarget :: ReactIcon
 
 grTarget :: forall a b. Union a b PropsIcon => Record a -> JSX
-grTarget = element (unsafeCoerce grTarget_)
+grTarget = element (unsafeCoerce _grTarget)
 
-foreign import grTask_ :: ReactIcon
+foreign import _grTask :: ReactIcon
 
 grTask :: forall a b. Union a b PropsIcon => Record a -> JSX
-grTask = element (unsafeCoerce grTask_)
+grTask = element (unsafeCoerce _grTask)
 
-foreign import grTasks_ :: ReactIcon
+foreign import _grTasks :: ReactIcon
 
 grTasks :: forall a b. Union a b PropsIcon => Record a -> JSX
-grTasks = element (unsafeCoerce grTasks_)
+grTasks = element (unsafeCoerce _grTasks)
 
-foreign import grTechnology_ :: ReactIcon
+foreign import _grTechnology :: ReactIcon
 
 grTechnology :: forall a b. Union a b PropsIcon => Record a -> JSX
-grTechnology = element (unsafeCoerce grTechnology_)
+grTechnology = element (unsafeCoerce _grTechnology)
 
-foreign import grTemplate_ :: ReactIcon
+foreign import _grTemplate :: ReactIcon
 
 grTemplate :: forall a b. Union a b PropsIcon => Record a -> JSX
-grTemplate = element (unsafeCoerce grTemplate_)
+grTemplate = element (unsafeCoerce _grTemplate)
 
-foreign import grTerminal_ :: ReactIcon
+foreign import _grTerminal :: ReactIcon
 
 grTerminal :: forall a b. Union a b PropsIcon => Record a -> JSX
-grTerminal = element (unsafeCoerce grTerminal_)
+grTerminal = element (unsafeCoerce _grTerminal)
 
-foreign import grTest_ :: ReactIcon
+foreign import _grTest :: ReactIcon
 
 grTest :: forall a b. Union a b PropsIcon => Record a -> JSX
-grTest = element (unsafeCoerce grTest_)
+grTest = element (unsafeCoerce _grTest)
 
-foreign import grTestDesktop_ :: ReactIcon
+foreign import _grTestDesktop :: ReactIcon
 
 grTestDesktop :: forall a b. Union a b PropsIcon => Record a -> JSX
-grTestDesktop = element (unsafeCoerce grTestDesktop_)
+grTestDesktop = element (unsafeCoerce _grTestDesktop)
 
-foreign import grTextAlignCenter_ :: ReactIcon
+foreign import _grTextAlignCenter :: ReactIcon
 
 grTextAlignCenter :: forall a b. Union a b PropsIcon => Record a -> JSX
-grTextAlignCenter = element (unsafeCoerce grTextAlignCenter_)
+grTextAlignCenter = element (unsafeCoerce _grTextAlignCenter)
 
-foreign import grTextAlignFull_ :: ReactIcon
+foreign import _grTextAlignFull :: ReactIcon
 
 grTextAlignFull :: forall a b. Union a b PropsIcon => Record a -> JSX
-grTextAlignFull = element (unsafeCoerce grTextAlignFull_)
+grTextAlignFull = element (unsafeCoerce _grTextAlignFull)
 
-foreign import grTextAlignLeft_ :: ReactIcon
+foreign import _grTextAlignLeft :: ReactIcon
 
 grTextAlignLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-grTextAlignLeft = element (unsafeCoerce grTextAlignLeft_)
+grTextAlignLeft = element (unsafeCoerce _grTextAlignLeft)
 
-foreign import grTextAlignRight_ :: ReactIcon
+foreign import _grTextAlignRight :: ReactIcon
 
 grTextAlignRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-grTextAlignRight = element (unsafeCoerce grTextAlignRight_)
+grTextAlignRight = element (unsafeCoerce _grTextAlignRight)
 
-foreign import grTextWrap_ :: ReactIcon
+foreign import _grTextWrap :: ReactIcon
 
 grTextWrap :: forall a b. Union a b PropsIcon => Record a -> JSX
-grTextWrap = element (unsafeCoerce grTextWrap_)
+grTextWrap = element (unsafeCoerce _grTextWrap)
 
-foreign import grThreats_ :: ReactIcon
+foreign import _grThreats :: ReactIcon
 
 grThreats :: forall a b. Union a b PropsIcon => Record a -> JSX
-grThreats = element (unsafeCoerce grThreats_)
+grThreats = element (unsafeCoerce _grThreats)
 
-foreign import grThreeD_ :: ReactIcon
+foreign import _grThreeD :: ReactIcon
 
 grThreeD :: forall a b. Union a b PropsIcon => Record a -> JSX
-grThreeD = element (unsafeCoerce grThreeD_)
+grThreeD = element (unsafeCoerce _grThreeD)
 
-foreign import grThreeDEffects_ :: ReactIcon
+foreign import _grThreeDEffects :: ReactIcon
 
 grThreeDEffects :: forall a b. Union a b PropsIcon => Record a -> JSX
-grThreeDEffects = element (unsafeCoerce grThreeDEffects_)
+grThreeDEffects = element (unsafeCoerce _grThreeDEffects)
 
-foreign import grTicket_ :: ReactIcon
+foreign import _grTicket :: ReactIcon
 
 grTicket :: forall a b. Union a b PropsIcon => Record a -> JSX
-grTicket = element (unsafeCoerce grTicket_)
+grTicket = element (unsafeCoerce _grTicket)
 
-foreign import grTictok_ :: ReactIcon
+foreign import _grTictok :: ReactIcon
 
 grTictok :: forall a b. Union a b PropsIcon => Record a -> JSX
-grTictok = element (unsafeCoerce grTictok_)
+grTictok = element (unsafeCoerce _grTictok)
 
-foreign import grTime_ :: ReactIcon
+foreign import _grTime :: ReactIcon
 
 grTime :: forall a b. Union a b PropsIcon => Record a -> JSX
-grTime = element (unsafeCoerce grTime_)
+grTime = element (unsafeCoerce _grTime)
 
-foreign import grTip_ :: ReactIcon
+foreign import _grTip :: ReactIcon
 
 grTip :: forall a b. Union a b PropsIcon => Record a -> JSX
-grTip = element (unsafeCoerce grTip_)
+grTip = element (unsafeCoerce _grTip)
 
-foreign import grToast_ :: ReactIcon
+foreign import _grToast :: ReactIcon
 
 grToast :: forall a b. Union a b PropsIcon => Record a -> JSX
-grToast = element (unsafeCoerce grToast_)
+grToast = element (unsafeCoerce _grToast)
 
-foreign import grTools_ :: ReactIcon
+foreign import _grTools :: ReactIcon
 
 grTools :: forall a b. Union a b PropsIcon => Record a -> JSX
-grTools = element (unsafeCoerce grTools_)
+grTools = element (unsafeCoerce _grTools)
 
-foreign import grTooltip_ :: ReactIcon
+foreign import _grTooltip :: ReactIcon
 
 grTooltip :: forall a b. Union a b PropsIcon => Record a -> JSX
-grTooltip = element (unsafeCoerce grTooltip_)
+grTooltip = element (unsafeCoerce _grTooltip)
 
-foreign import grTopCorner_ :: ReactIcon
+foreign import _grTopCorner :: ReactIcon
 
 grTopCorner :: forall a b. Union a b PropsIcon => Record a -> JSX
-grTopCorner = element (unsafeCoerce grTopCorner_)
+grTopCorner = element (unsafeCoerce _grTopCorner)
 
-foreign import grTrain_ :: ReactIcon
+foreign import _grTrain :: ReactIcon
 
 grTrain :: forall a b. Union a b PropsIcon => Record a -> JSX
-grTrain = element (unsafeCoerce grTrain_)
+grTrain = element (unsafeCoerce _grTrain)
 
-foreign import grTransaction_ :: ReactIcon
+foreign import _grTransaction :: ReactIcon
 
 grTransaction :: forall a b. Union a b PropsIcon => Record a -> JSX
-grTransaction = element (unsafeCoerce grTransaction_)
+grTransaction = element (unsafeCoerce _grTransaction)
 
-foreign import grTrash_ :: ReactIcon
+foreign import _grTrash :: ReactIcon
 
 grTrash :: forall a b. Union a b PropsIcon => Record a -> JSX
-grTrash = element (unsafeCoerce grTrash_)
+grTrash = element (unsafeCoerce _grTrash)
 
-foreign import grTree_ :: ReactIcon
+foreign import _grTree :: ReactIcon
 
 grTree :: forall a b. Union a b PropsIcon => Record a -> JSX
-grTree = element (unsafeCoerce grTree_)
+grTree = element (unsafeCoerce _grTree)
 
-foreign import grTreeOption_ :: ReactIcon
+foreign import _grTreeOption :: ReactIcon
 
 grTreeOption :: forall a b. Union a b PropsIcon => Record a -> JSX
-grTreeOption = element (unsafeCoerce grTreeOption_)
+grTreeOption = element (unsafeCoerce _grTreeOption)
 
-foreign import grTrigger_ :: ReactIcon
+foreign import _grTrigger :: ReactIcon
 
 grTrigger :: forall a b. Union a b PropsIcon => Record a -> JSX
-grTrigger = element (unsafeCoerce grTrigger_)
+grTrigger = element (unsafeCoerce _grTrigger)
 
-foreign import grTrophy_ :: ReactIcon
+foreign import _grTrophy :: ReactIcon
 
 grTrophy :: forall a b. Union a b PropsIcon => Record a -> JSX
-grTrophy = element (unsafeCoerce grTrophy_)
+grTrophy = element (unsafeCoerce _grTrophy)
 
-foreign import grTroubleshoot_ :: ReactIcon
+foreign import _grTroubleshoot :: ReactIcon
 
 grTroubleshoot :: forall a b. Union a b PropsIcon => Record a -> JSX
-grTroubleshoot = element (unsafeCoerce grTroubleshoot_)
+grTroubleshoot = element (unsafeCoerce _grTroubleshoot)
 
-foreign import grTty_ :: ReactIcon
+foreign import _grTty :: ReactIcon
 
 grTty :: forall a b. Union a b PropsIcon => Record a -> JSX
-grTty = element (unsafeCoerce grTty_)
+grTty = element (unsafeCoerce _grTty)
 
-foreign import grTumblr_ :: ReactIcon
+foreign import _grTumblr :: ReactIcon
 
 grTumblr :: forall a b. Union a b PropsIcon => Record a -> JSX
-grTumblr = element (unsafeCoerce grTumblr_)
+grTumblr = element (unsafeCoerce _grTumblr)
 
-foreign import grTurbolinux_ :: ReactIcon
+foreign import _grTurbolinux :: ReactIcon
 
 grTurbolinux :: forall a b. Union a b PropsIcon => Record a -> JSX
-grTurbolinux = element (unsafeCoerce grTurbolinux_)
+grTurbolinux = element (unsafeCoerce _grTurbolinux)
 
-foreign import grTwitter_ :: ReactIcon
+foreign import _grTwitter :: ReactIcon
 
 grTwitter :: forall a b. Union a b PropsIcon => Record a -> JSX
-grTwitter = element (unsafeCoerce grTwitter_)
+grTwitter = element (unsafeCoerce _grTwitter)
 
-foreign import grUbuntu_ :: ReactIcon
+foreign import _grUbuntu :: ReactIcon
 
 grUbuntu :: forall a b. Union a b PropsIcon => Record a -> JSX
-grUbuntu = element (unsafeCoerce grUbuntu_)
+grUbuntu = element (unsafeCoerce _grUbuntu)
 
-foreign import grUnderline_ :: ReactIcon
+foreign import _grUnderline :: ReactIcon
 
 grUnderline :: forall a b. Union a b PropsIcon => Record a -> JSX
-grUnderline = element (unsafeCoerce grUnderline_)
+grUnderline = element (unsafeCoerce _grUnderline)
 
-foreign import grUndo_ :: ReactIcon
+foreign import _grUndo :: ReactIcon
 
 grUndo :: forall a b. Union a b PropsIcon => Record a -> JSX
-grUndo = element (unsafeCoerce grUndo_)
+grUndo = element (unsafeCoerce _grUndo)
 
-foreign import grUnlink_ :: ReactIcon
+foreign import _grUnlink :: ReactIcon
 
 grUnlink :: forall a b. Union a b PropsIcon => Record a -> JSX
-grUnlink = element (unsafeCoerce grUnlink_)
+grUnlink = element (unsafeCoerce _grUnlink)
 
-foreign import grUnlock_ :: ReactIcon
+foreign import _grUnlock :: ReactIcon
 
 grUnlock :: forall a b. Union a b PropsIcon => Record a -> JSX
-grUnlock = element (unsafeCoerce grUnlock_)
+grUnlock = element (unsafeCoerce _grUnlock)
 
-foreign import grUnorderedList_ :: ReactIcon
+foreign import _grUnorderedList :: ReactIcon
 
 grUnorderedList :: forall a b. Union a b PropsIcon => Record a -> JSX
-grUnorderedList = element (unsafeCoerce grUnorderedList_)
+grUnorderedList = element (unsafeCoerce _grUnorderedList)
 
-foreign import grUnsorted_ :: ReactIcon
+foreign import _grUnsorted :: ReactIcon
 
 grUnsorted :: forall a b. Union a b PropsIcon => Record a -> JSX
-grUnsorted = element (unsafeCoerce grUnsorted_)
+grUnsorted = element (unsafeCoerce _grUnsorted)
 
-foreign import grUp_ :: ReactIcon
+foreign import _grUp :: ReactIcon
 
 grUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-grUp = element (unsafeCoerce grUp_)
+grUp = element (unsafeCoerce _grUp)
 
-foreign import grUpdate_ :: ReactIcon
+foreign import _grUpdate :: ReactIcon
 
 grUpdate :: forall a b. Union a b PropsIcon => Record a -> JSX
-grUpdate = element (unsafeCoerce grUpdate_)
+grUpdate = element (unsafeCoerce _grUpdate)
 
-foreign import grUpgrade_ :: ReactIcon
+foreign import _grUpgrade :: ReactIcon
 
 grUpgrade :: forall a b. Union a b PropsIcon => Record a -> JSX
-grUpgrade = element (unsafeCoerce grUpgrade_)
+grUpgrade = element (unsafeCoerce _grUpgrade)
 
-foreign import grUpload_ :: ReactIcon
+foreign import _grUpload :: ReactIcon
 
 grUpload :: forall a b. Union a b PropsIcon => Record a -> JSX
-grUpload = element (unsafeCoerce grUpload_)
+grUpload = element (unsafeCoerce _grUpload)
 
-foreign import grUploadOption_ :: ReactIcon
+foreign import _grUploadOption :: ReactIcon
 
 grUploadOption :: forall a b. Union a b PropsIcon => Record a -> JSX
-grUploadOption = element (unsafeCoerce grUploadOption_)
+grUploadOption = element (unsafeCoerce _grUploadOption)
 
-foreign import grUsbKey_ :: ReactIcon
+foreign import _grUsbKey :: ReactIcon
 
 grUsbKey :: forall a b. Union a b PropsIcon => Record a -> JSX
-grUsbKey = element (unsafeCoerce grUsbKey_)
+grUsbKey = element (unsafeCoerce _grUsbKey)
 
-foreign import grUser_ :: ReactIcon
+foreign import _grUser :: ReactIcon
 
 grUser :: forall a b. Union a b PropsIcon => Record a -> JSX
-grUser = element (unsafeCoerce grUser_)
+grUser = element (unsafeCoerce _grUser)
 
-foreign import grUserAdd_ :: ReactIcon
+foreign import _grUserAdd :: ReactIcon
 
 grUserAdd :: forall a b. Union a b PropsIcon => Record a -> JSX
-grUserAdd = element (unsafeCoerce grUserAdd_)
+grUserAdd = element (unsafeCoerce _grUserAdd)
 
-foreign import grUserAdmin_ :: ReactIcon
+foreign import _grUserAdmin :: ReactIcon
 
 grUserAdmin :: forall a b. Union a b PropsIcon => Record a -> JSX
-grUserAdmin = element (unsafeCoerce grUserAdmin_)
+grUserAdmin = element (unsafeCoerce _grUserAdmin)
 
-foreign import grUserExpert_ :: ReactIcon
+foreign import _grUserExpert :: ReactIcon
 
 grUserExpert :: forall a b. Union a b PropsIcon => Record a -> JSX
-grUserExpert = element (unsafeCoerce grUserExpert_)
+grUserExpert = element (unsafeCoerce _grUserExpert)
 
-foreign import grUserFemale_ :: ReactIcon
+foreign import _grUserFemale :: ReactIcon
 
 grUserFemale :: forall a b. Union a b PropsIcon => Record a -> JSX
-grUserFemale = element (unsafeCoerce grUserFemale_)
+grUserFemale = element (unsafeCoerce _grUserFemale)
 
-foreign import grUserManager_ :: ReactIcon
+foreign import _grUserManager :: ReactIcon
 
 grUserManager :: forall a b. Union a b PropsIcon => Record a -> JSX
-grUserManager = element (unsafeCoerce grUserManager_)
+grUserManager = element (unsafeCoerce _grUserManager)
 
-foreign import grUserNew_ :: ReactIcon
+foreign import _grUserNew :: ReactIcon
 
 grUserNew :: forall a b. Union a b PropsIcon => Record a -> JSX
-grUserNew = element (unsafeCoerce grUserNew_)
+grUserNew = element (unsafeCoerce _grUserNew)
 
-foreign import grUserPolice_ :: ReactIcon
+foreign import _grUserPolice :: ReactIcon
 
 grUserPolice :: forall a b. Union a b PropsIcon => Record a -> JSX
-grUserPolice = element (unsafeCoerce grUserPolice_)
+grUserPolice = element (unsafeCoerce _grUserPolice)
 
-foreign import grUserSettings_ :: ReactIcon
+foreign import _grUserSettings :: ReactIcon
 
 grUserSettings :: forall a b. Union a b PropsIcon => Record a -> JSX
-grUserSettings = element (unsafeCoerce grUserSettings_)
+grUserSettings = element (unsafeCoerce _grUserSettings)
 
-foreign import grUserWorker_ :: ReactIcon
+foreign import _grUserWorker :: ReactIcon
 
 grUserWorker :: forall a b. Union a b PropsIcon => Record a -> JSX
-grUserWorker = element (unsafeCoerce grUserWorker_)
+grUserWorker = element (unsafeCoerce _grUserWorker)
 
-foreign import grValidate_ :: ReactIcon
+foreign import _grValidate :: ReactIcon
 
 grValidate :: forall a b. Union a b PropsIcon => Record a -> JSX
-grValidate = element (unsafeCoerce grValidate_)
+grValidate = element (unsafeCoerce _grValidate)
 
-foreign import grVend_ :: ReactIcon
+foreign import _grVend :: ReactIcon
 
 grVend :: forall a b. Union a b PropsIcon => Record a -> JSX
-grVend = element (unsafeCoerce grVend_)
+grVend = element (unsafeCoerce _grVend)
 
-foreign import grVideo_ :: ReactIcon
+foreign import _grVideo :: ReactIcon
 
 grVideo :: forall a b. Union a b PropsIcon => Record a -> JSX
-grVideo = element (unsafeCoerce grVideo_)
+grVideo = element (unsafeCoerce _grVideo)
 
-foreign import grView_ :: ReactIcon
+foreign import _grView :: ReactIcon
 
 grView :: forall a b. Union a b PropsIcon => Record a -> JSX
-grView = element (unsafeCoerce grView_)
+grView = element (unsafeCoerce _grView)
 
-foreign import grVimeo_ :: ReactIcon
+foreign import _grVimeo :: ReactIcon
 
 grVimeo :: forall a b. Union a b PropsIcon => Record a -> JSX
-grVimeo = element (unsafeCoerce grVimeo_)
+grVimeo = element (unsafeCoerce _grVimeo)
 
-foreign import grVirtualMachine_ :: ReactIcon
+foreign import _grVirtualMachine :: ReactIcon
 
 grVirtualMachine :: forall a b. Union a b PropsIcon => Record a -> JSX
-grVirtualMachine = element (unsafeCoerce grVirtualMachine_)
+grVirtualMachine = element (unsafeCoerce _grVirtualMachine)
 
-foreign import grVirtualStorage_ :: ReactIcon
+foreign import _grVirtualStorage :: ReactIcon
 
 grVirtualStorage :: forall a b. Union a b PropsIcon => Record a -> JSX
-grVirtualStorage = element (unsafeCoerce grVirtualStorage_)
+grVirtualStorage = element (unsafeCoerce _grVirtualStorage)
 
-foreign import grVisa_ :: ReactIcon
+foreign import _grVisa :: ReactIcon
 
 grVisa :: forall a b. Union a b PropsIcon => Record a -> JSX
-grVisa = element (unsafeCoerce grVisa_)
+grVisa = element (unsafeCoerce _grVisa)
 
-foreign import grVmMaintenance_ :: ReactIcon
+foreign import _grVmMaintenance :: ReactIcon
 
 grVmMaintenance :: forall a b. Union a b PropsIcon => Record a -> JSX
-grVmMaintenance = element (unsafeCoerce grVmMaintenance_)
+grVmMaintenance = element (unsafeCoerce _grVmMaintenance)
 
-foreign import grVmware_ :: ReactIcon
+foreign import _grVmware :: ReactIcon
 
 grVmware :: forall a b. Union a b PropsIcon => Record a -> JSX
-grVmware = element (unsafeCoerce grVmware_)
+grVmware = element (unsafeCoerce _grVmware)
 
-foreign import grVolume_ :: ReactIcon
+foreign import _grVolume :: ReactIcon
 
 grVolume :: forall a b. Union a b PropsIcon => Record a -> JSX
-grVolume = element (unsafeCoerce grVolume_)
+grVolume = element (unsafeCoerce _grVolume)
 
-foreign import grVolumeControl_ :: ReactIcon
+foreign import _grVolumeControl :: ReactIcon
 
 grVolumeControl :: forall a b. Union a b PropsIcon => Record a -> JSX
-grVolumeControl = element (unsafeCoerce grVolumeControl_)
+grVolumeControl = element (unsafeCoerce _grVolumeControl)
 
-foreign import grVolumeLow_ :: ReactIcon
+foreign import _grVolumeLow :: ReactIcon
 
 grVolumeLow :: forall a b. Union a b PropsIcon => Record a -> JSX
-grVolumeLow = element (unsafeCoerce grVolumeLow_)
+grVolumeLow = element (unsafeCoerce _grVolumeLow)
 
-foreign import grVolumeMute_ :: ReactIcon
+foreign import _grVolumeMute :: ReactIcon
 
 grVolumeMute :: forall a b. Union a b PropsIcon => Record a -> JSX
-grVolumeMute = element (unsafeCoerce grVolumeMute_)
+grVolumeMute = element (unsafeCoerce _grVolumeMute)
 
-foreign import grVulnerability_ :: ReactIcon
+foreign import _grVulnerability :: ReactIcon
 
 grVulnerability :: forall a b. Union a b PropsIcon => Record a -> JSX
-grVulnerability = element (unsafeCoerce grVulnerability_)
+grVulnerability = element (unsafeCoerce _grVulnerability)
 
-foreign import grWaypoint_ :: ReactIcon
+foreign import _grWaypoint :: ReactIcon
 
 grWaypoint :: forall a b. Union a b PropsIcon => Record a -> JSX
-grWaypoint = element (unsafeCoerce grWaypoint_)
+grWaypoint = element (unsafeCoerce _grWaypoint)
 
-foreign import grWebcam_ :: ReactIcon
+foreign import _grWebcam :: ReactIcon
 
 grWebcam :: forall a b. Union a b PropsIcon => Record a -> JSX
-grWebcam = element (unsafeCoerce grWebcam_)
+grWebcam = element (unsafeCoerce _grWebcam)
 
-foreign import grWheelchair_ :: ReactIcon
+foreign import _grWheelchair :: ReactIcon
 
 grWheelchair :: forall a b. Union a b PropsIcon => Record a -> JSX
-grWheelchair = element (unsafeCoerce grWheelchair_)
+grWheelchair = element (unsafeCoerce _grWheelchair)
 
-foreign import grWheelchairActive_ :: ReactIcon
+foreign import _grWheelchairActive :: ReactIcon
 
 grWheelchairActive :: forall a b. Union a b PropsIcon => Record a -> JSX
-grWheelchairActive = element (unsafeCoerce grWheelchairActive_)
+grWheelchairActive = element (unsafeCoerce _grWheelchairActive)
 
-foreign import grWifi_ :: ReactIcon
+foreign import _grWifi :: ReactIcon
 
 grWifi :: forall a b. Union a b PropsIcon => Record a -> JSX
-grWifi = element (unsafeCoerce grWifi_)
+grWifi = element (unsafeCoerce _grWifi)
 
-foreign import grWifiLow_ :: ReactIcon
+foreign import _grWifiLow :: ReactIcon
 
 grWifiLow :: forall a b. Union a b PropsIcon => Record a -> JSX
-grWifiLow = element (unsafeCoerce grWifiLow_)
+grWifiLow = element (unsafeCoerce _grWifiLow)
 
-foreign import grWifiMedium_ :: ReactIcon
+foreign import _grWifiMedium :: ReactIcon
 
 grWifiMedium :: forall a b. Union a b PropsIcon => Record a -> JSX
-grWifiMedium = element (unsafeCoerce grWifiMedium_)
+grWifiMedium = element (unsafeCoerce _grWifiMedium)
 
-foreign import grWifiNone_ :: ReactIcon
+foreign import _grWifiNone :: ReactIcon
 
 grWifiNone :: forall a b. Union a b PropsIcon => Record a -> JSX
-grWifiNone = element (unsafeCoerce grWifiNone_)
+grWifiNone = element (unsafeCoerce _grWifiNone)
 
-foreign import grWindows_ :: ReactIcon
+foreign import _grWindows :: ReactIcon
 
 grWindows :: forall a b. Union a b PropsIcon => Record a -> JSX
-grWindows = element (unsafeCoerce grWindows_)
+grWindows = element (unsafeCoerce _grWindows)
 
-foreign import grWindowsLegacy_ :: ReactIcon
+foreign import _grWindowsLegacy :: ReactIcon
 
 grWindowsLegacy :: forall a b. Union a b PropsIcon => Record a -> JSX
-grWindowsLegacy = element (unsafeCoerce grWindowsLegacy_)
+grWindowsLegacy = element (unsafeCoerce _grWindowsLegacy)
 
-foreign import grWordpress_ :: ReactIcon
+foreign import _grWordpress :: ReactIcon
 
 grWordpress :: forall a b. Union a b PropsIcon => Record a -> JSX
-grWordpress = element (unsafeCoerce grWordpress_)
+grWordpress = element (unsafeCoerce _grWordpress)
 
-foreign import grWorkshop_ :: ReactIcon
+foreign import _grWorkshop :: ReactIcon
 
 grWorkshop :: forall a b. Union a b PropsIcon => Record a -> JSX
-grWorkshop = element (unsafeCoerce grWorkshop_)
+grWorkshop = element (unsafeCoerce _grWorkshop)
 
-foreign import grYoga_ :: ReactIcon
+foreign import _grYoga :: ReactIcon
 
 grYoga :: forall a b. Union a b PropsIcon => Record a -> JSX
-grYoga = element (unsafeCoerce grYoga_)
+grYoga = element (unsafeCoerce _grYoga)
 
-foreign import grYoutube_ :: ReactIcon
+foreign import _grYoutube :: ReactIcon
 
 grYoutube :: forall a b. Union a b PropsIcon => Record a -> JSX
-grYoutube = element (unsafeCoerce grYoutube_)
+grYoutube = element (unsafeCoerce _grYoutube)
 
-foreign import grZoom_ :: ReactIcon
+foreign import _grZoom :: ReactIcon
 
 grZoom :: forall a b. Union a b PropsIcon => Record a -> JSX
-grZoom = element (unsafeCoerce grZoom_)
+grZoom = element (unsafeCoerce _grZoom)
 
-foreign import grZoomIn_ :: ReactIcon
+foreign import _grZoomIn :: ReactIcon
 
 grZoomIn :: forall a b. Union a b PropsIcon => Record a -> JSX
-grZoomIn = element (unsafeCoerce grZoomIn_)
+grZoomIn = element (unsafeCoerce _grZoomIn)
 
-foreign import grZoomOut_ :: ReactIcon
+foreign import _grZoomOut :: ReactIcon
 
 grZoomOut :: forall a b. Union a b PropsIcon => Record a -> JSX
-grZoomOut = element (unsafeCoerce grZoomOut_)
+grZoomOut = element (unsafeCoerce _grZoomOut)

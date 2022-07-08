@@ -21,14 +21,14 @@ toPureScript() {
 }
 
 toJavaScript() {
-    nameImport="$1"
-    nameExport="${1,}_"
-    nameModule="${nameExport:0:2}"
+    nameLib="$1"
+    nameImport="$2"
+    nameExport="_${2,}"
 
     outputJs+=$(
         sed -e "s/\${nameImport}/$nameImport/g" \
             -e "s/\${nameExport}/$nameExport/g" \
-            -e "s/\${nameModule}/$nameModule/g" \
+            -e "s/\${nameModule}/$nameLib/g" \
             "$dir/templateJsExport.txt"
     )
     outputJs+="\n"
@@ -46,7 +46,7 @@ for lib in $libs; do
     for name in $iconNames; do
         echo "- $name"
         toPureScript "$name"
-        toJavaScript "$name"
+        toJavaScript "$lib" "$name"
     done
 
     echo "Writing PureScript"

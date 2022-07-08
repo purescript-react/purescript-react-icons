@@ -9,9917 +9,9917 @@ import React.Basic (JSX, element)
 import React.Icons.Types (ReactIcon, PropsIcon)
 import Unsafe.Coerce (unsafeCoerce)
 
-foreign import siAbbrobotstudio_ :: ReactIcon
+foreign import _siAbbrobotstudio :: ReactIcon
 
 siAbbrobotstudio :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAbbrobotstudio = element (unsafeCoerce siAbbrobotstudio_)
+siAbbrobotstudio = element (unsafeCoerce _siAbbrobotstudio)
 
-foreign import siAbbvie_ :: ReactIcon
+foreign import _siAbbvie :: ReactIcon
 
 siAbbvie :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAbbvie = element (unsafeCoerce siAbbvie_)
+siAbbvie = element (unsafeCoerce _siAbbvie)
 
-foreign import siAbletonlive_ :: ReactIcon
+foreign import _siAbletonlive :: ReactIcon
 
 siAbletonlive :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAbletonlive = element (unsafeCoerce siAbletonlive_)
+siAbletonlive = element (unsafeCoerce _siAbletonlive)
 
-foreign import siAboutdotme_ :: ReactIcon
+foreign import _siAboutdotme :: ReactIcon
 
 siAboutdotme :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAboutdotme = element (unsafeCoerce siAboutdotme_)
+siAboutdotme = element (unsafeCoerce _siAboutdotme)
 
-foreign import siAbstract_ :: ReactIcon
+foreign import _siAbstract :: ReactIcon
 
 siAbstract :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAbstract = element (unsafeCoerce siAbstract_)
+siAbstract = element (unsafeCoerce _siAbstract)
 
-foreign import siAcademia_ :: ReactIcon
+foreign import _siAcademia :: ReactIcon
 
 siAcademia :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAcademia = element (unsafeCoerce siAcademia_)
+siAcademia = element (unsafeCoerce _siAcademia)
 
-foreign import siAccenture_ :: ReactIcon
+foreign import _siAccenture :: ReactIcon
 
 siAccenture :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAccenture = element (unsafeCoerce siAccenture_)
+siAccenture = element (unsafeCoerce _siAccenture)
 
-foreign import siAcclaim_ :: ReactIcon
+foreign import _siAcclaim :: ReactIcon
 
 siAcclaim :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAcclaim = element (unsafeCoerce siAcclaim_)
+siAcclaim = element (unsafeCoerce _siAcclaim)
 
-foreign import siAccusoft_ :: ReactIcon
+foreign import _siAccusoft :: ReactIcon
 
 siAccusoft :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAccusoft = element (unsafeCoerce siAccusoft_)
+siAccusoft = element (unsafeCoerce _siAccusoft)
 
-foreign import siAcer_ :: ReactIcon
+foreign import _siAcer :: ReactIcon
 
 siAcer :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAcer = element (unsafeCoerce siAcer_)
+siAcer = element (unsafeCoerce _siAcer)
 
-foreign import siAcm_ :: ReactIcon
+foreign import _siAcm :: ReactIcon
 
 siAcm :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAcm = element (unsafeCoerce siAcm_)
+siAcm = element (unsafeCoerce _siAcm)
 
-foreign import siActigraph_ :: ReactIcon
+foreign import _siActigraph :: ReactIcon
 
 siActigraph :: forall a b. Union a b PropsIcon => Record a -> JSX
-siActigraph = element (unsafeCoerce siActigraph_)
+siActigraph = element (unsafeCoerce _siActigraph)
 
-foreign import siActivision_ :: ReactIcon
+foreign import _siActivision :: ReactIcon
 
 siActivision :: forall a b. Union a b PropsIcon => Record a -> JSX
-siActivision = element (unsafeCoerce siActivision_)
+siActivision = element (unsafeCoerce _siActivision)
 
-foreign import siAdafruit_ :: ReactIcon
+foreign import _siAdafruit :: ReactIcon
 
 siAdafruit :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAdafruit = element (unsafeCoerce siAdafruit_)
+siAdafruit = element (unsafeCoerce _siAdafruit)
 
-foreign import siAdblock_ :: ReactIcon
+foreign import _siAdblock :: ReactIcon
 
 siAdblock :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAdblock = element (unsafeCoerce siAdblock_)
+siAdblock = element (unsafeCoerce _siAdblock)
 
-foreign import siAdblockplus_ :: ReactIcon
+foreign import _siAdblockplus :: ReactIcon
 
 siAdblockplus :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAdblockplus = element (unsafeCoerce siAdblockplus_)
+siAdblockplus = element (unsafeCoerce _siAdblockplus)
 
-foreign import siAddthis_ :: ReactIcon
+foreign import _siAddthis :: ReactIcon
 
 siAddthis :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAddthis = element (unsafeCoerce siAddthis_)
+siAddthis = element (unsafeCoerce _siAddthis)
 
-foreign import siAdguard_ :: ReactIcon
+foreign import _siAdguard :: ReactIcon
 
 siAdguard :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAdguard = element (unsafeCoerce siAdguard_)
+siAdguard = element (unsafeCoerce _siAdguard)
 
-foreign import siAdidas_ :: ReactIcon
+foreign import _siAdidas :: ReactIcon
 
 siAdidas :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAdidas = element (unsafeCoerce siAdidas_)
+siAdidas = element (unsafeCoerce _siAdidas)
 
-foreign import siAdobe_ :: ReactIcon
+foreign import _siAdobe :: ReactIcon
 
 siAdobe :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAdobe = element (unsafeCoerce siAdobe_)
+siAdobe = element (unsafeCoerce _siAdobe)
 
-foreign import siAdobeacrobatreader_ :: ReactIcon
+foreign import _siAdobeacrobatreader :: ReactIcon
 
 siAdobeacrobatreader :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAdobeacrobatreader = element (unsafeCoerce siAdobeacrobatreader_)
+siAdobeacrobatreader = element (unsafeCoerce _siAdobeacrobatreader)
 
-foreign import siAdobeaftereffects_ :: ReactIcon
+foreign import _siAdobeaftereffects :: ReactIcon
 
 siAdobeaftereffects :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAdobeaftereffects = element (unsafeCoerce siAdobeaftereffects_)
+siAdobeaftereffects = element (unsafeCoerce _siAdobeaftereffects)
 
-foreign import siAdobeaudition_ :: ReactIcon
+foreign import _siAdobeaudition :: ReactIcon
 
 siAdobeaudition :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAdobeaudition = element (unsafeCoerce siAdobeaudition_)
+siAdobeaudition = element (unsafeCoerce _siAdobeaudition)
 
-foreign import siAdobecreativecloud_ :: ReactIcon
+foreign import _siAdobecreativecloud :: ReactIcon
 
 siAdobecreativecloud :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAdobecreativecloud = element (unsafeCoerce siAdobecreativecloud_)
+siAdobecreativecloud = element (unsafeCoerce _siAdobecreativecloud)
 
-foreign import siAdobedreamweaver_ :: ReactIcon
+foreign import _siAdobedreamweaver :: ReactIcon
 
 siAdobedreamweaver :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAdobedreamweaver = element (unsafeCoerce siAdobedreamweaver_)
+siAdobedreamweaver = element (unsafeCoerce _siAdobedreamweaver)
 
-foreign import siAdobefonts_ :: ReactIcon
+foreign import _siAdobefonts :: ReactIcon
 
 siAdobefonts :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAdobefonts = element (unsafeCoerce siAdobefonts_)
+siAdobefonts = element (unsafeCoerce _siAdobefonts)
 
-foreign import siAdobeillustrator_ :: ReactIcon
+foreign import _siAdobeillustrator :: ReactIcon
 
 siAdobeillustrator :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAdobeillustrator = element (unsafeCoerce siAdobeillustrator_)
+siAdobeillustrator = element (unsafeCoerce _siAdobeillustrator)
 
-foreign import siAdobeindesign_ :: ReactIcon
+foreign import _siAdobeindesign :: ReactIcon
 
 siAdobeindesign :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAdobeindesign = element (unsafeCoerce siAdobeindesign_)
+siAdobeindesign = element (unsafeCoerce _siAdobeindesign)
 
-foreign import siAdobelightroom_ :: ReactIcon
+foreign import _siAdobelightroom :: ReactIcon
 
 siAdobelightroom :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAdobelightroom = element (unsafeCoerce siAdobelightroom_)
+siAdobelightroom = element (unsafeCoerce _siAdobelightroom)
 
-foreign import siAdobelightroomclassic_ :: ReactIcon
+foreign import _siAdobelightroomclassic :: ReactIcon
 
 siAdobelightroomclassic :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAdobelightroomclassic = element (unsafeCoerce siAdobelightroomclassic_)
+siAdobelightroomclassic = element (unsafeCoerce _siAdobelightroomclassic)
 
-foreign import siAdobephotoshop_ :: ReactIcon
+foreign import _siAdobephotoshop :: ReactIcon
 
 siAdobephotoshop :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAdobephotoshop = element (unsafeCoerce siAdobephotoshop_)
+siAdobephotoshop = element (unsafeCoerce _siAdobephotoshop)
 
-foreign import siAdobepremierepro_ :: ReactIcon
+foreign import _siAdobepremierepro :: ReactIcon
 
 siAdobepremierepro :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAdobepremierepro = element (unsafeCoerce siAdobepremierepro_)
+siAdobepremierepro = element (unsafeCoerce _siAdobepremierepro)
 
-foreign import siAdobexd_ :: ReactIcon
+foreign import _siAdobexd :: ReactIcon
 
 siAdobexd :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAdobexd = element (unsafeCoerce siAdobexd_)
+siAdobexd = element (unsafeCoerce _siAdobexd)
 
-foreign import siAdonisjs_ :: ReactIcon
+foreign import _siAdonisjs :: ReactIcon
 
 siAdonisjs :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAdonisjs = element (unsafeCoerce siAdonisjs_)
+siAdonisjs = element (unsafeCoerce _siAdonisjs)
 
-foreign import siAerlingus_ :: ReactIcon
+foreign import _siAerlingus :: ReactIcon
 
 siAerlingus :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAerlingus = element (unsafeCoerce siAerlingus_)
+siAerlingus = element (unsafeCoerce _siAerlingus)
 
-foreign import siAeroflot_ :: ReactIcon
+foreign import _siAeroflot :: ReactIcon
 
 siAeroflot :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAeroflot = element (unsafeCoerce siAeroflot_)
+siAeroflot = element (unsafeCoerce _siAeroflot)
 
-foreign import siAeromexico_ :: ReactIcon
+foreign import _siAeromexico :: ReactIcon
 
 siAeromexico :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAeromexico = element (unsafeCoerce siAeromexico_)
+siAeromexico = element (unsafeCoerce _siAeromexico)
 
-foreign import siAerospike_ :: ReactIcon
+foreign import _siAerospike :: ReactIcon
 
 siAerospike :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAerospike = element (unsafeCoerce siAerospike_)
+siAerospike = element (unsafeCoerce _siAerospike)
 
-foreign import siAew_ :: ReactIcon
+foreign import _siAew :: ReactIcon
 
 siAew :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAew = element (unsafeCoerce siAew_)
+siAew = element (unsafeCoerce _siAew)
 
-foreign import siAffinity_ :: ReactIcon
+foreign import _siAffinity :: ReactIcon
 
 siAffinity :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAffinity = element (unsafeCoerce siAffinity_)
+siAffinity = element (unsafeCoerce _siAffinity)
 
-foreign import siAffinitydesigner_ :: ReactIcon
+foreign import _siAffinitydesigner :: ReactIcon
 
 siAffinitydesigner :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAffinitydesigner = element (unsafeCoerce siAffinitydesigner_)
+siAffinitydesigner = element (unsafeCoerce _siAffinitydesigner)
 
-foreign import siAffinityphoto_ :: ReactIcon
+foreign import _siAffinityphoto :: ReactIcon
 
 siAffinityphoto :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAffinityphoto = element (unsafeCoerce siAffinityphoto_)
+siAffinityphoto = element (unsafeCoerce _siAffinityphoto)
 
-foreign import siAffinitypublisher_ :: ReactIcon
+foreign import _siAffinitypublisher :: ReactIcon
 
 siAffinitypublisher :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAffinitypublisher = element (unsafeCoerce siAffinitypublisher_)
+siAffinitypublisher = element (unsafeCoerce _siAffinitypublisher)
 
-foreign import siAframe_ :: ReactIcon
+foreign import _siAframe :: ReactIcon
 
 siAframe :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAframe = element (unsafeCoerce siAframe_)
+siAframe = element (unsafeCoerce _siAframe)
 
-foreign import siAidungeon_ :: ReactIcon
+foreign import _siAidungeon :: ReactIcon
 
 siAidungeon :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAidungeon = element (unsafeCoerce siAidungeon_)
+siAidungeon = element (unsafeCoerce _siAidungeon)
 
-foreign import siAiohttp_ :: ReactIcon
+foreign import _siAiohttp :: ReactIcon
 
 siAiohttp :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAiohttp = element (unsafeCoerce siAiohttp_)
+siAiohttp = element (unsafeCoerce _siAiohttp)
 
-foreign import siAiqfome_ :: ReactIcon
+foreign import _siAiqfome :: ReactIcon
 
 siAiqfome :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAiqfome = element (unsafeCoerce siAiqfome_)
+siAiqfome = element (unsafeCoerce _siAiqfome)
 
-foreign import siAirasia_ :: ReactIcon
+foreign import _siAirasia :: ReactIcon
 
 siAirasia :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAirasia = element (unsafeCoerce siAirasia_)
+siAirasia = element (unsafeCoerce _siAirasia)
 
-foreign import siAirbnb_ :: ReactIcon
+foreign import _siAirbnb :: ReactIcon
 
 siAirbnb :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAirbnb = element (unsafeCoerce siAirbnb_)
+siAirbnb = element (unsafeCoerce _siAirbnb)
 
-foreign import siAirbus_ :: ReactIcon
+foreign import _siAirbus :: ReactIcon
 
 siAirbus :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAirbus = element (unsafeCoerce siAirbus_)
+siAirbus = element (unsafeCoerce _siAirbus)
 
-foreign import siAircall_ :: ReactIcon
+foreign import _siAircall :: ReactIcon
 
 siAircall :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAircall = element (unsafeCoerce siAircall_)
+siAircall = element (unsafeCoerce _siAircall)
 
-foreign import siAircanada_ :: ReactIcon
+foreign import _siAircanada :: ReactIcon
 
 siAircanada :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAircanada = element (unsafeCoerce siAircanada_)
+siAircanada = element (unsafeCoerce _siAircanada)
 
-foreign import siAirchina_ :: ReactIcon
+foreign import _siAirchina :: ReactIcon
 
 siAirchina :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAirchina = element (unsafeCoerce siAirchina_)
+siAirchina = element (unsafeCoerce _siAirchina)
 
-foreign import siAirfrance_ :: ReactIcon
+foreign import _siAirfrance :: ReactIcon
 
 siAirfrance :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAirfrance = element (unsafeCoerce siAirfrance_)
+siAirfrance = element (unsafeCoerce _siAirfrance)
 
-foreign import siAirplayaudio_ :: ReactIcon
+foreign import _siAirplayaudio :: ReactIcon
 
 siAirplayaudio :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAirplayaudio = element (unsafeCoerce siAirplayaudio_)
+siAirplayaudio = element (unsafeCoerce _siAirplayaudio)
 
-foreign import siAirplayvideo_ :: ReactIcon
+foreign import _siAirplayvideo :: ReactIcon
 
 siAirplayvideo :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAirplayvideo = element (unsafeCoerce siAirplayvideo_)
+siAirplayvideo = element (unsafeCoerce _siAirplayvideo)
 
-foreign import siAirtable_ :: ReactIcon
+foreign import _siAirtable :: ReactIcon
 
 siAirtable :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAirtable = element (unsafeCoerce siAirtable_)
+siAirtable = element (unsafeCoerce _siAirtable)
 
-foreign import siAlacritty_ :: ReactIcon
+foreign import _siAlacritty :: ReactIcon
 
 siAlacritty :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAlacritty = element (unsafeCoerce siAlacritty_)
+siAlacritty = element (unsafeCoerce _siAlacritty)
 
-foreign import siAlfaromeo_ :: ReactIcon
+foreign import _siAlfaromeo :: ReactIcon
 
 siAlfaromeo :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAlfaromeo = element (unsafeCoerce siAlfaromeo_)
+siAlfaromeo = element (unsafeCoerce _siAlfaromeo)
 
-foreign import siAlfred_ :: ReactIcon
+foreign import _siAlfred :: ReactIcon
 
 siAlfred :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAlfred = element (unsafeCoerce siAlfred_)
+siAlfred = element (unsafeCoerce _siAlfred)
 
-foreign import siAlgolia_ :: ReactIcon
+foreign import _siAlgolia :: ReactIcon
 
 siAlgolia :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAlgolia = element (unsafeCoerce siAlgolia_)
+siAlgolia = element (unsafeCoerce _siAlgolia)
 
-foreign import siAlibabacloud_ :: ReactIcon
+foreign import _siAlibabacloud :: ReactIcon
 
 siAlibabacloud :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAlibabacloud = element (unsafeCoerce siAlibabacloud_)
+siAlibabacloud = element (unsafeCoerce _siAlibabacloud)
 
-foreign import siAlibabadotcom_ :: ReactIcon
+foreign import _siAlibabadotcom :: ReactIcon
 
 siAlibabadotcom :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAlibabadotcom = element (unsafeCoerce siAlibabadotcom_)
+siAlibabadotcom = element (unsafeCoerce _siAlibabadotcom)
 
-foreign import siAliexpress_ :: ReactIcon
+foreign import _siAliexpress :: ReactIcon
 
 siAliexpress :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAliexpress = element (unsafeCoerce siAliexpress_)
+siAliexpress = element (unsafeCoerce _siAliexpress)
 
-foreign import siAlipay_ :: ReactIcon
+foreign import _siAlipay :: ReactIcon
 
 siAlipay :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAlipay = element (unsafeCoerce siAlipay_)
+siAlipay = element (unsafeCoerce _siAlipay)
 
-foreign import siAlitalia_ :: ReactIcon
+foreign import _siAlitalia :: ReactIcon
 
 siAlitalia :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAlitalia = element (unsafeCoerce siAlitalia_)
+siAlitalia = element (unsafeCoerce _siAlitalia)
 
-foreign import siAlliedmodders_ :: ReactIcon
+foreign import _siAlliedmodders :: ReactIcon
 
 siAlliedmodders :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAlliedmodders = element (unsafeCoerce siAlliedmodders_)
+siAlliedmodders = element (unsafeCoerce _siAlliedmodders)
 
-foreign import siAllocine_ :: ReactIcon
+foreign import _siAllocine :: ReactIcon
 
 siAllocine :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAllocine = element (unsafeCoerce siAllocine_)
+siAllocine = element (unsafeCoerce _siAllocine)
 
-foreign import siAlltrails_ :: ReactIcon
+foreign import _siAlltrails :: ReactIcon
 
 siAlltrails :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAlltrails = element (unsafeCoerce siAlltrails_)
+siAlltrails = element (unsafeCoerce _siAlltrails)
 
-foreign import siAlpinedotjs_ :: ReactIcon
+foreign import _siAlpinedotjs :: ReactIcon
 
 siAlpinedotjs :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAlpinedotjs = element (unsafeCoerce siAlpinedotjs_)
+siAlpinedotjs = element (unsafeCoerce _siAlpinedotjs)
 
-foreign import siAlpinelinux_ :: ReactIcon
+foreign import _siAlpinelinux :: ReactIcon
 
 siAlpinelinux :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAlpinelinux = element (unsafeCoerce siAlpinelinux_)
+siAlpinelinux = element (unsafeCoerce _siAlpinelinux)
 
-foreign import siAltiumdesigner_ :: ReactIcon
+foreign import _siAltiumdesigner :: ReactIcon
 
 siAltiumdesigner :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAltiumdesigner = element (unsafeCoerce siAltiumdesigner_)
+siAltiumdesigner = element (unsafeCoerce _siAltiumdesigner)
 
-foreign import siAmazon_ :: ReactIcon
+foreign import _siAmazon :: ReactIcon
 
 siAmazon :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAmazon = element (unsafeCoerce siAmazon_)
+siAmazon = element (unsafeCoerce _siAmazon)
 
-foreign import siAmazonalexa_ :: ReactIcon
+foreign import _siAmazonalexa :: ReactIcon
 
 siAmazonalexa :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAmazonalexa = element (unsafeCoerce siAmazonalexa_)
+siAmazonalexa = element (unsafeCoerce _siAmazonalexa)
 
-foreign import siAmazonaws_ :: ReactIcon
+foreign import _siAmazonaws :: ReactIcon
 
 siAmazonaws :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAmazonaws = element (unsafeCoerce siAmazonaws_)
+siAmazonaws = element (unsafeCoerce _siAmazonaws)
 
-foreign import siAmazondynamodb_ :: ReactIcon
+foreign import _siAmazondynamodb :: ReactIcon
 
 siAmazondynamodb :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAmazondynamodb = element (unsafeCoerce siAmazondynamodb_)
+siAmazondynamodb = element (unsafeCoerce _siAmazondynamodb)
 
-foreign import siAmazonfiretv_ :: ReactIcon
+foreign import _siAmazonfiretv :: ReactIcon
 
 siAmazonfiretv :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAmazonfiretv = element (unsafeCoerce siAmazonfiretv_)
+siAmazonfiretv = element (unsafeCoerce _siAmazonfiretv)
 
-foreign import siAmazonlumberyard_ :: ReactIcon
+foreign import _siAmazonlumberyard :: ReactIcon
 
 siAmazonlumberyard :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAmazonlumberyard = element (unsafeCoerce siAmazonlumberyard_)
+siAmazonlumberyard = element (unsafeCoerce _siAmazonlumberyard)
 
-foreign import siAmazonpay_ :: ReactIcon
+foreign import _siAmazonpay :: ReactIcon
 
 siAmazonpay :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAmazonpay = element (unsafeCoerce siAmazonpay_)
+siAmazonpay = element (unsafeCoerce _siAmazonpay)
 
-foreign import siAmazonprime_ :: ReactIcon
+foreign import _siAmazonprime :: ReactIcon
 
 siAmazonprime :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAmazonprime = element (unsafeCoerce siAmazonprime_)
+siAmazonprime = element (unsafeCoerce _siAmazonprime)
 
-foreign import siAmd_ :: ReactIcon
+foreign import _siAmd :: ReactIcon
 
 siAmd :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAmd = element (unsafeCoerce siAmd_)
+siAmd = element (unsafeCoerce _siAmd)
 
-foreign import siAmericanairlines_ :: ReactIcon
+foreign import _siAmericanairlines :: ReactIcon
 
 siAmericanairlines :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAmericanairlines = element (unsafeCoerce siAmericanairlines_)
+siAmericanairlines = element (unsafeCoerce _siAmericanairlines)
 
-foreign import siAmericanexpress_ :: ReactIcon
+foreign import _siAmericanexpress :: ReactIcon
 
 siAmericanexpress :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAmericanexpress = element (unsafeCoerce siAmericanexpress_)
+siAmericanexpress = element (unsafeCoerce _siAmericanexpress)
 
-foreign import siAmp_ :: ReactIcon
+foreign import _siAmp :: ReactIcon
 
 siAmp :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAmp = element (unsafeCoerce siAmp_)
+siAmp = element (unsafeCoerce _siAmp)
 
-foreign import siAmul_ :: ReactIcon
+foreign import _siAmul :: ReactIcon
 
 siAmul :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAmul = element (unsafeCoerce siAmul_)
+siAmul = element (unsafeCoerce _siAmul)
 
-foreign import siAna_ :: ReactIcon
+foreign import _siAna :: ReactIcon
 
 siAna :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAna = element (unsafeCoerce siAna_)
+siAna = element (unsafeCoerce _siAna)
 
-foreign import siAnaconda_ :: ReactIcon
+foreign import _siAnaconda :: ReactIcon
 
 siAnaconda :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAnaconda = element (unsafeCoerce siAnaconda_)
+siAnaconda = element (unsafeCoerce _siAnaconda)
 
-foreign import siAnalogue_ :: ReactIcon
+foreign import _siAnalogue :: ReactIcon
 
 siAnalogue :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAnalogue = element (unsafeCoerce siAnalogue_)
+siAnalogue = element (unsafeCoerce _siAnalogue)
 
-foreign import siAnchor_ :: ReactIcon
+foreign import _siAnchor :: ReactIcon
 
 siAnchor :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAnchor = element (unsafeCoerce siAnchor_)
+siAnchor = element (unsafeCoerce _siAnchor)
 
-foreign import siAndela_ :: ReactIcon
+foreign import _siAndela :: ReactIcon
 
 siAndela :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAndela = element (unsafeCoerce siAndela_)
+siAndela = element (unsafeCoerce _siAndela)
 
-foreign import siAndroid_ :: ReactIcon
+foreign import _siAndroid :: ReactIcon
 
 siAndroid :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAndroid = element (unsafeCoerce siAndroid_)
+siAndroid = element (unsafeCoerce _siAndroid)
 
-foreign import siAndroidauto_ :: ReactIcon
+foreign import _siAndroidauto :: ReactIcon
 
 siAndroidauto :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAndroidauto = element (unsafeCoerce siAndroidauto_)
+siAndroidauto = element (unsafeCoerce _siAndroidauto)
 
-foreign import siAndroidstudio_ :: ReactIcon
+foreign import _siAndroidstudio :: ReactIcon
 
 siAndroidstudio :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAndroidstudio = element (unsafeCoerce siAndroidstudio_)
+siAndroidstudio = element (unsafeCoerce _siAndroidstudio)
 
-foreign import siAngellist_ :: ReactIcon
+foreign import _siAngellist :: ReactIcon
 
 siAngellist :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAngellist = element (unsafeCoerce siAngellist_)
+siAngellist = element (unsafeCoerce _siAngellist)
 
-foreign import siAngular_ :: ReactIcon
+foreign import _siAngular :: ReactIcon
 
 siAngular :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAngular = element (unsafeCoerce siAngular_)
+siAngular = element (unsafeCoerce _siAngular)
 
-foreign import siAngularjs_ :: ReactIcon
+foreign import _siAngularjs :: ReactIcon
 
 siAngularjs :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAngularjs = element (unsafeCoerce siAngularjs_)
+siAngularjs = element (unsafeCoerce _siAngularjs)
 
-foreign import siAngularuniversal_ :: ReactIcon
+foreign import _siAngularuniversal :: ReactIcon
 
 siAngularuniversal :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAngularuniversal = element (unsafeCoerce siAngularuniversal_)
+siAngularuniversal = element (unsafeCoerce _siAngularuniversal)
 
-foreign import siAnilist_ :: ReactIcon
+foreign import _siAnilist :: ReactIcon
 
 siAnilist :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAnilist = element (unsafeCoerce siAnilist_)
+siAnilist = element (unsafeCoerce _siAnilist)
 
-foreign import siAnsible_ :: ReactIcon
+foreign import _siAnsible :: ReactIcon
 
 siAnsible :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAnsible = element (unsafeCoerce siAnsible_)
+siAnsible = element (unsafeCoerce _siAnsible)
 
-foreign import siAnsys_ :: ReactIcon
+foreign import _siAnsys :: ReactIcon
 
 siAnsys :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAnsys = element (unsafeCoerce siAnsys_)
+siAnsys = element (unsafeCoerce _siAnsys)
 
-foreign import siAntdesign_ :: ReactIcon
+foreign import _siAntdesign :: ReactIcon
 
 siAntdesign :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAntdesign = element (unsafeCoerce siAntdesign_)
+siAntdesign = element (unsafeCoerce _siAntdesign)
 
-foreign import siAnydesk_ :: ReactIcon
+foreign import _siAnydesk :: ReactIcon
 
 siAnydesk :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAnydesk = element (unsafeCoerce siAnydesk_)
+siAnydesk = element (unsafeCoerce _siAnydesk)
 
-foreign import siAol_ :: ReactIcon
+foreign import _siAol :: ReactIcon
 
 siAol :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAol = element (unsafeCoerce siAol_)
+siAol = element (unsafeCoerce _siAol)
 
-foreign import siApache_ :: ReactIcon
+foreign import _siApache :: ReactIcon
 
 siApache :: forall a b. Union a b PropsIcon => Record a -> JSX
-siApache = element (unsafeCoerce siApache_)
+siApache = element (unsafeCoerce _siApache)
 
-foreign import siApacheairflow_ :: ReactIcon
+foreign import _siApacheairflow :: ReactIcon
 
 siApacheairflow :: forall a b. Union a b PropsIcon => Record a -> JSX
-siApacheairflow = element (unsafeCoerce siApacheairflow_)
+siApacheairflow = element (unsafeCoerce _siApacheairflow)
 
-foreign import siApacheant_ :: ReactIcon
+foreign import _siApacheant :: ReactIcon
 
 siApacheant :: forall a b. Union a b PropsIcon => Record a -> JSX
-siApacheant = element (unsafeCoerce siApacheant_)
+siApacheant = element (unsafeCoerce _siApacheant)
 
-foreign import siApachecassandra_ :: ReactIcon
+foreign import _siApachecassandra :: ReactIcon
 
 siApachecassandra :: forall a b. Union a b PropsIcon => Record a -> JSX
-siApachecassandra = element (unsafeCoerce siApachecassandra_)
+siApachecassandra = element (unsafeCoerce _siApachecassandra)
 
-foreign import siApachecloudstack_ :: ReactIcon
+foreign import _siApachecloudstack :: ReactIcon
 
 siApachecloudstack :: forall a b. Union a b PropsIcon => Record a -> JSX
-siApachecloudstack = element (unsafeCoerce siApachecloudstack_)
+siApachecloudstack = element (unsafeCoerce _siApachecloudstack)
 
-foreign import siApachecordova_ :: ReactIcon
+foreign import _siApachecordova :: ReactIcon
 
 siApachecordova :: forall a b. Union a b PropsIcon => Record a -> JSX
-siApachecordova = element (unsafeCoerce siApachecordova_)
+siApachecordova = element (unsafeCoerce _siApachecordova)
 
-foreign import siApachedruid_ :: ReactIcon
+foreign import _siApachedruid :: ReactIcon
 
 siApachedruid :: forall a b. Union a b PropsIcon => Record a -> JSX
-siApachedruid = element (unsafeCoerce siApachedruid_)
+siApachedruid = element (unsafeCoerce _siApachedruid)
 
-foreign import siApacheecharts_ :: ReactIcon
+foreign import _siApacheecharts :: ReactIcon
 
 siApacheecharts :: forall a b. Union a b PropsIcon => Record a -> JSX
-siApacheecharts = element (unsafeCoerce siApacheecharts_)
+siApacheecharts = element (unsafeCoerce _siApacheecharts)
 
-foreign import siApacheflink_ :: ReactIcon
+foreign import _siApacheflink :: ReactIcon
 
 siApacheflink :: forall a b. Union a b PropsIcon => Record a -> JSX
-siApacheflink = element (unsafeCoerce siApacheflink_)
+siApacheflink = element (unsafeCoerce _siApacheflink)
 
-foreign import siApachegroovy_ :: ReactIcon
+foreign import _siApachegroovy :: ReactIcon
 
 siApachegroovy :: forall a b. Union a b PropsIcon => Record a -> JSX
-siApachegroovy = element (unsafeCoerce siApachegroovy_)
+siApachegroovy = element (unsafeCoerce _siApachegroovy)
 
-foreign import siApachehive_ :: ReactIcon
+foreign import _siApachehive :: ReactIcon
 
 siApachehive :: forall a b. Union a b PropsIcon => Record a -> JSX
-siApachehive = element (unsafeCoerce siApachehive_)
+siApachehive = element (unsafeCoerce _siApachehive)
 
-foreign import siApachejmeter_ :: ReactIcon
+foreign import _siApachejmeter :: ReactIcon
 
 siApachejmeter :: forall a b. Union a b PropsIcon => Record a -> JSX
-siApachejmeter = element (unsafeCoerce siApachejmeter_)
+siApachejmeter = element (unsafeCoerce _siApachejmeter)
 
-foreign import siApachekafka_ :: ReactIcon
+foreign import _siApachekafka :: ReactIcon
 
 siApachekafka :: forall a b. Union a b PropsIcon => Record a -> JSX
-siApachekafka = element (unsafeCoerce siApachekafka_)
+siApachekafka = element (unsafeCoerce _siApachekafka)
 
-foreign import siApachekylin_ :: ReactIcon
+foreign import _siApachekylin :: ReactIcon
 
 siApachekylin :: forall a b. Union a b PropsIcon => Record a -> JSX
-siApachekylin = element (unsafeCoerce siApachekylin_)
+siApachekylin = element (unsafeCoerce _siApachekylin)
 
-foreign import siApachemaven_ :: ReactIcon
+foreign import _siApachemaven :: ReactIcon
 
 siApachemaven :: forall a b. Union a b PropsIcon => Record a -> JSX
-siApachemaven = element (unsafeCoerce siApachemaven_)
+siApachemaven = element (unsafeCoerce _siApachemaven)
 
-foreign import siApachenetbeanside_ :: ReactIcon
+foreign import _siApachenetbeanside :: ReactIcon
 
 siApachenetbeanside :: forall a b. Union a b PropsIcon => Record a -> JSX
-siApachenetbeanside = element (unsafeCoerce siApachenetbeanside_)
+siApachenetbeanside = element (unsafeCoerce _siApachenetbeanside)
 
-foreign import siApacheopenoffice_ :: ReactIcon
+foreign import _siApacheopenoffice :: ReactIcon
 
 siApacheopenoffice :: forall a b. Union a b PropsIcon => Record a -> JSX
-siApacheopenoffice = element (unsafeCoerce siApacheopenoffice_)
+siApacheopenoffice = element (unsafeCoerce _siApacheopenoffice)
 
-foreign import siApachepulsar_ :: ReactIcon
+foreign import _siApachepulsar :: ReactIcon
 
 siApachepulsar :: forall a b. Union a b PropsIcon => Record a -> JSX
-siApachepulsar = element (unsafeCoerce siApachepulsar_)
+siApachepulsar = element (unsafeCoerce _siApachepulsar)
 
-foreign import siApacherocketmq_ :: ReactIcon
+foreign import _siApacherocketmq :: ReactIcon
 
 siApacherocketmq :: forall a b. Union a b PropsIcon => Record a -> JSX
-siApacherocketmq = element (unsafeCoerce siApacherocketmq_)
+siApacherocketmq = element (unsafeCoerce _siApacherocketmq)
 
-foreign import siApachesolr_ :: ReactIcon
+foreign import _siApachesolr :: ReactIcon
 
 siApachesolr :: forall a b. Union a b PropsIcon => Record a -> JSX
-siApachesolr = element (unsafeCoerce siApachesolr_)
+siApachesolr = element (unsafeCoerce _siApachesolr)
 
-foreign import siApachespark_ :: ReactIcon
+foreign import _siApachespark :: ReactIcon
 
 siApachespark :: forall a b. Union a b PropsIcon => Record a -> JSX
-siApachespark = element (unsafeCoerce siApachespark_)
+siApachespark = element (unsafeCoerce _siApachespark)
 
-foreign import siApachetomcat_ :: ReactIcon
+foreign import _siApachetomcat :: ReactIcon
 
 siApachetomcat :: forall a b. Union a b PropsIcon => Record a -> JSX
-siApachetomcat = element (unsafeCoerce siApachetomcat_)
+siApachetomcat = element (unsafeCoerce _siApachetomcat)
 
-foreign import siAparat_ :: ReactIcon
+foreign import _siAparat :: ReactIcon
 
 siAparat :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAparat = element (unsafeCoerce siAparat_)
+siAparat = element (unsafeCoerce _siAparat)
 
-foreign import siApollographql_ :: ReactIcon
+foreign import _siApollographql :: ReactIcon
 
 siApollographql :: forall a b. Union a b PropsIcon => Record a -> JSX
-siApollographql = element (unsafeCoerce siApollographql_)
+siApollographql = element (unsafeCoerce _siApollographql)
 
-foreign import siApostrophe_ :: ReactIcon
+foreign import _siApostrophe :: ReactIcon
 
 siApostrophe :: forall a b. Union a b PropsIcon => Record a -> JSX
-siApostrophe = element (unsafeCoerce siApostrophe_)
+siApostrophe = element (unsafeCoerce _siApostrophe)
 
-foreign import siAppannie_ :: ReactIcon
+foreign import _siAppannie :: ReactIcon
 
 siAppannie :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAppannie = element (unsafeCoerce siAppannie_)
+siAppannie = element (unsafeCoerce _siAppannie)
 
-foreign import siApple_ :: ReactIcon
+foreign import _siApple :: ReactIcon
 
 siApple :: forall a b. Union a b PropsIcon => Record a -> JSX
-siApple = element (unsafeCoerce siApple_)
+siApple = element (unsafeCoerce _siApple)
 
-foreign import siApplearcade_ :: ReactIcon
+foreign import _siApplearcade :: ReactIcon
 
 siApplearcade :: forall a b. Union a b PropsIcon => Record a -> JSX
-siApplearcade = element (unsafeCoerce siApplearcade_)
+siApplearcade = element (unsafeCoerce _siApplearcade)
 
-foreign import siApplemusic_ :: ReactIcon
+foreign import _siApplemusic :: ReactIcon
 
 siApplemusic :: forall a b. Union a b PropsIcon => Record a -> JSX
-siApplemusic = element (unsafeCoerce siApplemusic_)
+siApplemusic = element (unsafeCoerce _siApplemusic)
 
-foreign import siApplepay_ :: ReactIcon
+foreign import _siApplepay :: ReactIcon
 
 siApplepay :: forall a b. Union a b PropsIcon => Record a -> JSX
-siApplepay = element (unsafeCoerce siApplepay_)
+siApplepay = element (unsafeCoerce _siApplepay)
 
-foreign import siApplepodcasts_ :: ReactIcon
+foreign import _siApplepodcasts :: ReactIcon
 
 siApplepodcasts :: forall a b. Union a b PropsIcon => Record a -> JSX
-siApplepodcasts = element (unsafeCoerce siApplepodcasts_)
+siApplepodcasts = element (unsafeCoerce _siApplepodcasts)
 
-foreign import siAppletv_ :: ReactIcon
+foreign import _siAppletv :: ReactIcon
 
 siAppletv :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAppletv = element (unsafeCoerce siAppletv_)
+siAppletv = element (unsafeCoerce _siAppletv)
 
-foreign import siAppsignal_ :: ReactIcon
+foreign import _siAppsignal :: ReactIcon
 
 siAppsignal :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAppsignal = element (unsafeCoerce siAppsignal_)
+siAppsignal = element (unsafeCoerce _siAppsignal)
 
-foreign import siAppstore_ :: ReactIcon
+foreign import _siAppstore :: ReactIcon
 
 siAppstore :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAppstore = element (unsafeCoerce siAppstore_)
+siAppstore = element (unsafeCoerce _siAppstore)
 
-foreign import siAppveyor_ :: ReactIcon
+foreign import _siAppveyor :: ReactIcon
 
 siAppveyor :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAppveyor = element (unsafeCoerce siAppveyor_)
+siAppveyor = element (unsafeCoerce _siAppveyor)
 
-foreign import siAral_ :: ReactIcon
+foreign import _siAral :: ReactIcon
 
 siAral :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAral = element (unsafeCoerce siAral_)
+siAral = element (unsafeCoerce _siAral)
 
-foreign import siArangodb_ :: ReactIcon
+foreign import _siArangodb :: ReactIcon
 
 siArangodb :: forall a b. Union a b PropsIcon => Record a -> JSX
-siArangodb = element (unsafeCoerce siArangodb_)
+siArangodb = element (unsafeCoerce _siArangodb)
 
-foreign import siArchicad_ :: ReactIcon
+foreign import _siArchicad :: ReactIcon
 
 siArchicad :: forall a b. Union a b PropsIcon => Record a -> JSX
-siArchicad = element (unsafeCoerce siArchicad_)
+siArchicad = element (unsafeCoerce _siArchicad)
 
-foreign import siArchiveofourown_ :: ReactIcon
+foreign import _siArchiveofourown :: ReactIcon
 
 siArchiveofourown :: forall a b. Union a b PropsIcon => Record a -> JSX
-siArchiveofourown = element (unsafeCoerce siArchiveofourown_)
+siArchiveofourown = element (unsafeCoerce _siArchiveofourown)
 
-foreign import siArchlinux_ :: ReactIcon
+foreign import _siArchlinux :: ReactIcon
 
 siArchlinux :: forall a b. Union a b PropsIcon => Record a -> JSX
-siArchlinux = element (unsafeCoerce siArchlinux_)
+siArchlinux = element (unsafeCoerce _siArchlinux)
 
-foreign import siArdour_ :: ReactIcon
+foreign import _siArdour :: ReactIcon
 
 siArdour :: forall a b. Union a b PropsIcon => Record a -> JSX
-siArdour = element (unsafeCoerce siArdour_)
+siArdour = element (unsafeCoerce _siArdour)
 
-foreign import siArduino_ :: ReactIcon
+foreign import _siArduino :: ReactIcon
 
 siArduino :: forall a b. Union a b PropsIcon => Record a -> JSX
-siArduino = element (unsafeCoerce siArduino_)
+siArduino = element (unsafeCoerce _siArduino)
 
-foreign import siArkecosystem_ :: ReactIcon
+foreign import _siArkecosystem :: ReactIcon
 
 siArkecosystem :: forall a b. Union a b PropsIcon => Record a -> JSX
-siArkecosystem = element (unsafeCoerce siArkecosystem_)
+siArkecosystem = element (unsafeCoerce _siArkecosystem)
 
-foreign import siArlo_ :: ReactIcon
+foreign import _siArlo :: ReactIcon
 
 siArlo :: forall a b. Union a b PropsIcon => Record a -> JSX
-siArlo = element (unsafeCoerce siArlo_)
+siArlo = element (unsafeCoerce _siArlo)
 
-foreign import siArtixlinux_ :: ReactIcon
+foreign import _siArtixlinux :: ReactIcon
 
 siArtixlinux :: forall a b. Union a b PropsIcon => Record a -> JSX
-siArtixlinux = element (unsafeCoerce siArtixlinux_)
+siArtixlinux = element (unsafeCoerce _siArtixlinux)
 
-foreign import siArtstation_ :: ReactIcon
+foreign import _siArtstation :: ReactIcon
 
 siArtstation :: forall a b. Union a b PropsIcon => Record a -> JSX
-siArtstation = element (unsafeCoerce siArtstation_)
+siArtstation = element (unsafeCoerce _siArtstation)
 
-foreign import siArxiv_ :: ReactIcon
+foreign import _siArxiv :: ReactIcon
 
 siArxiv :: forall a b. Union a b PropsIcon => Record a -> JSX
-siArxiv = element (unsafeCoerce siArxiv_)
+siArxiv = element (unsafeCoerce _siArxiv)
 
-foreign import siAsana_ :: ReactIcon
+foreign import _siAsana :: ReactIcon
 
 siAsana :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAsana = element (unsafeCoerce siAsana_)
+siAsana = element (unsafeCoerce _siAsana)
 
-foreign import siAsciidoctor_ :: ReactIcon
+foreign import _siAsciidoctor :: ReactIcon
 
 siAsciidoctor :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAsciidoctor = element (unsafeCoerce siAsciidoctor_)
+siAsciidoctor = element (unsafeCoerce _siAsciidoctor)
 
-foreign import siAsciinema_ :: ReactIcon
+foreign import _siAsciinema :: ReactIcon
 
 siAsciinema :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAsciinema = element (unsafeCoerce siAsciinema_)
+siAsciinema = element (unsafeCoerce _siAsciinema)
 
-foreign import siAseprite_ :: ReactIcon
+foreign import _siAseprite :: ReactIcon
 
 siAseprite :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAseprite = element (unsafeCoerce siAseprite_)
+siAseprite = element (unsafeCoerce _siAseprite)
 
-foreign import siAskfm_ :: ReactIcon
+foreign import _siAskfm :: ReactIcon
 
 siAskfm :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAskfm = element (unsafeCoerce siAskfm_)
+siAskfm = element (unsafeCoerce _siAskfm)
 
-foreign import siAskubuntu_ :: ReactIcon
+foreign import _siAskubuntu :: ReactIcon
 
 siAskubuntu :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAskubuntu = element (unsafeCoerce siAskubuntu_)
+siAskubuntu = element (unsafeCoerce _siAskubuntu)
 
-foreign import siAssemblyscript_ :: ReactIcon
+foreign import _siAssemblyscript :: ReactIcon
 
 siAssemblyscript :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAssemblyscript = element (unsafeCoerce siAssemblyscript_)
+siAssemblyscript = element (unsafeCoerce _siAssemblyscript)
 
-foreign import siAsus_ :: ReactIcon
+foreign import _siAsus :: ReactIcon
 
 siAsus :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAsus = element (unsafeCoerce siAsus_)
+siAsus = element (unsafeCoerce _siAsus)
 
-foreign import siAtandt_ :: ReactIcon
+foreign import _siAtandt :: ReactIcon
 
 siAtandt :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAtandt = element (unsafeCoerce siAtandt_)
+siAtandt = element (unsafeCoerce _siAtandt)
 
-foreign import siAtari_ :: ReactIcon
+foreign import _siAtari :: ReactIcon
 
 siAtari :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAtari = element (unsafeCoerce siAtari_)
+siAtari = element (unsafeCoerce _siAtari)
 
-foreign import siAtlassian_ :: ReactIcon
+foreign import _siAtlassian :: ReactIcon
 
 siAtlassian :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAtlassian = element (unsafeCoerce siAtlassian_)
+siAtlassian = element (unsafeCoerce _siAtlassian)
 
-foreign import siAtom_ :: ReactIcon
+foreign import _siAtom :: ReactIcon
 
 siAtom :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAtom = element (unsafeCoerce siAtom_)
+siAtom = element (unsafeCoerce _siAtom)
 
-foreign import siAudacity_ :: ReactIcon
+foreign import _siAudacity :: ReactIcon
 
 siAudacity :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAudacity = element (unsafeCoerce siAudacity_)
+siAudacity = element (unsafeCoerce _siAudacity)
 
-foreign import siAudi_ :: ReactIcon
+foreign import _siAudi :: ReactIcon
 
 siAudi :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAudi = element (unsafeCoerce siAudi_)
+siAudi = element (unsafeCoerce _siAudi)
 
-foreign import siAudible_ :: ReactIcon
+foreign import _siAudible :: ReactIcon
 
 siAudible :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAudible = element (unsafeCoerce siAudible_)
+siAudible = element (unsafeCoerce _siAudible)
 
-foreign import siAudioboom_ :: ReactIcon
+foreign import _siAudioboom :: ReactIcon
 
 siAudioboom :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAudioboom = element (unsafeCoerce siAudioboom_)
+siAudioboom = element (unsafeCoerce _siAudioboom)
 
-foreign import siAudiomack_ :: ReactIcon
+foreign import _siAudiomack :: ReactIcon
 
 siAudiomack :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAudiomack = element (unsafeCoerce siAudiomack_)
+siAudiomack = element (unsafeCoerce _siAudiomack)
 
-foreign import siAudiotechnica_ :: ReactIcon
+foreign import _siAudiotechnica :: ReactIcon
 
 siAudiotechnica :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAudiotechnica = element (unsafeCoerce siAudiotechnica_)
+siAudiotechnica = element (unsafeCoerce _siAudiotechnica)
 
-foreign import siAurelia_ :: ReactIcon
+foreign import _siAurelia :: ReactIcon
 
 siAurelia :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAurelia = element (unsafeCoerce siAurelia_)
+siAurelia = element (unsafeCoerce _siAurelia)
 
-foreign import siAuthy_ :: ReactIcon
+foreign import _siAuthy :: ReactIcon
 
 siAuthy :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAuthy = element (unsafeCoerce siAuthy_)
+siAuthy = element (unsafeCoerce _siAuthy)
 
-foreign import siAutodesk_ :: ReactIcon
+foreign import _siAutodesk :: ReactIcon
 
 siAutodesk :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAutodesk = element (unsafeCoerce siAutodesk_)
+siAutodesk = element (unsafeCoerce _siAutodesk)
 
-foreign import siAutohotkey_ :: ReactIcon
+foreign import _siAutohotkey :: ReactIcon
 
 siAutohotkey :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAutohotkey = element (unsafeCoerce siAutohotkey_)
+siAutohotkey = element (unsafeCoerce _siAutohotkey)
 
-foreign import siAutomattic_ :: ReactIcon
+foreign import _siAutomattic :: ReactIcon
 
 siAutomattic :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAutomattic = element (unsafeCoerce siAutomattic_)
+siAutomattic = element (unsafeCoerce _siAutomattic)
 
-foreign import siAutoprefixer_ :: ReactIcon
+foreign import _siAutoprefixer :: ReactIcon
 
 siAutoprefixer :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAutoprefixer = element (unsafeCoerce siAutoprefixer_)
+siAutoprefixer = element (unsafeCoerce _siAutoprefixer)
 
-foreign import siAwesomelists_ :: ReactIcon
+foreign import _siAwesomelists :: ReactIcon
 
 siAwesomelists :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAwesomelists = element (unsafeCoerce siAwesomelists_)
+siAwesomelists = element (unsafeCoerce _siAwesomelists)
 
-foreign import siAwesomewm_ :: ReactIcon
+foreign import _siAwesomewm :: ReactIcon
 
 siAwesomewm :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAwesomewm = element (unsafeCoerce siAwesomewm_)
+siAwesomewm = element (unsafeCoerce _siAwesomewm)
 
-foreign import siAwsamplify_ :: ReactIcon
+foreign import _siAwsamplify :: ReactIcon
 
 siAwsamplify :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAwsamplify = element (unsafeCoerce siAwsamplify_)
+siAwsamplify = element (unsafeCoerce _siAwsamplify)
 
-foreign import siAzureartifacts_ :: ReactIcon
+foreign import _siAzureartifacts :: ReactIcon
 
 siAzureartifacts :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAzureartifacts = element (unsafeCoerce siAzureartifacts_)
+siAzureartifacts = element (unsafeCoerce _siAzureartifacts)
 
-foreign import siAzuredataexplorer_ :: ReactIcon
+foreign import _siAzuredataexplorer :: ReactIcon
 
 siAzuredataexplorer :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAzuredataexplorer = element (unsafeCoerce siAzuredataexplorer_)
+siAzuredataexplorer = element (unsafeCoerce _siAzuredataexplorer)
 
-foreign import siAzuredevops_ :: ReactIcon
+foreign import _siAzuredevops :: ReactIcon
 
 siAzuredevops :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAzuredevops = element (unsafeCoerce siAzuredevops_)
+siAzuredevops = element (unsafeCoerce _siAzuredevops)
 
-foreign import siAzurefunctions_ :: ReactIcon
+foreign import _siAzurefunctions :: ReactIcon
 
 siAzurefunctions :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAzurefunctions = element (unsafeCoerce siAzurefunctions_)
+siAzurefunctions = element (unsafeCoerce _siAzurefunctions)
 
-foreign import siAzurepipelines_ :: ReactIcon
+foreign import _siAzurepipelines :: ReactIcon
 
 siAzurepipelines :: forall a b. Union a b PropsIcon => Record a -> JSX
-siAzurepipelines = element (unsafeCoerce siAzurepipelines_)
+siAzurepipelines = element (unsafeCoerce _siAzurepipelines)
 
-foreign import siBabel_ :: ReactIcon
+foreign import _siBabel :: ReactIcon
 
 siBabel :: forall a b. Union a b PropsIcon => Record a -> JSX
-siBabel = element (unsafeCoerce siBabel_)
+siBabel = element (unsafeCoerce _siBabel)
 
-foreign import siBadgr_ :: ReactIcon
+foreign import _siBadgr :: ReactIcon
 
 siBadgr :: forall a b. Union a b PropsIcon => Record a -> JSX
-siBadgr = element (unsafeCoerce siBadgr_)
+siBadgr = element (unsafeCoerce _siBadgr)
 
-foreign import siBadoo_ :: ReactIcon
+foreign import _siBadoo :: ReactIcon
 
 siBadoo :: forall a b. Union a b PropsIcon => Record a -> JSX
-siBadoo = element (unsafeCoerce siBadoo_)
+siBadoo = element (unsafeCoerce _siBadoo)
 
-foreign import siBaidu_ :: ReactIcon
+foreign import _siBaidu :: ReactIcon
 
 siBaidu :: forall a b. Union a b PropsIcon => Record a -> JSX
-siBaidu = element (unsafeCoerce siBaidu_)
+siBaidu = element (unsafeCoerce _siBaidu)
 
-foreign import siBamboo_ :: ReactIcon
+foreign import _siBamboo :: ReactIcon
 
 siBamboo :: forall a b. Union a b PropsIcon => Record a -> JSX
-siBamboo = element (unsafeCoerce siBamboo_)
+siBamboo = element (unsafeCoerce _siBamboo)
 
-foreign import siBandcamp_ :: ReactIcon
+foreign import _siBandcamp :: ReactIcon
 
 siBandcamp :: forall a b. Union a b PropsIcon => Record a -> JSX
-siBandcamp = element (unsafeCoerce siBandcamp_)
+siBandcamp = element (unsafeCoerce _siBandcamp)
 
-foreign import siBandlab_ :: ReactIcon
+foreign import _siBandlab :: ReactIcon
 
 siBandlab :: forall a b. Union a b PropsIcon => Record a -> JSX
-siBandlab = element (unsafeCoerce siBandlab_)
+siBandlab = element (unsafeCoerce _siBandlab)
 
-foreign import siBandrautomation_ :: ReactIcon
+foreign import _siBandrautomation :: ReactIcon
 
 siBandrautomation :: forall a b. Union a b PropsIcon => Record a -> JSX
-siBandrautomation = element (unsafeCoerce siBandrautomation_)
+siBandrautomation = element (unsafeCoerce _siBandrautomation)
 
-foreign import siBandsintown_ :: ReactIcon
+foreign import _siBandsintown :: ReactIcon
 
 siBandsintown :: forall a b. Union a b PropsIcon => Record a -> JSX
-siBandsintown = element (unsafeCoerce siBandsintown_)
+siBandsintown = element (unsafeCoerce _siBandsintown)
 
-foreign import siBankofamerica_ :: ReactIcon
+foreign import _siBankofamerica :: ReactIcon
 
 siBankofamerica :: forall a b. Union a b PropsIcon => Record a -> JSX
-siBankofamerica = element (unsafeCoerce siBankofamerica_)
+siBankofamerica = element (unsafeCoerce _siBankofamerica)
 
-foreign import siBarclays_ :: ReactIcon
+foreign import _siBarclays :: ReactIcon
 
 siBarclays :: forall a b. Union a b PropsIcon => Record a -> JSX
-siBarclays = element (unsafeCoerce siBarclays_)
+siBarclays = element (unsafeCoerce _siBarclays)
 
-foreign import siBaremetrics_ :: ReactIcon
+foreign import _siBaremetrics :: ReactIcon
 
 siBaremetrics :: forall a b. Union a b PropsIcon => Record a -> JSX
-siBaremetrics = element (unsafeCoerce siBaremetrics_)
+siBaremetrics = element (unsafeCoerce _siBaremetrics)
 
-foreign import siBasecamp_ :: ReactIcon
+foreign import _siBasecamp :: ReactIcon
 
 siBasecamp :: forall a b. Union a b PropsIcon => Record a -> JSX
-siBasecamp = element (unsafeCoerce siBasecamp_)
+siBasecamp = element (unsafeCoerce _siBasecamp)
 
-foreign import siBata_ :: ReactIcon
+foreign import _siBata :: ReactIcon
 
 siBata :: forall a b. Union a b PropsIcon => Record a -> JSX
-siBata = element (unsafeCoerce siBata_)
+siBata = element (unsafeCoerce _siBata)
 
-foreign import siBathasu_ :: ReactIcon
+foreign import _siBathasu :: ReactIcon
 
 siBathasu :: forall a b. Union a b PropsIcon => Record a -> JSX
-siBathasu = element (unsafeCoerce siBathasu_)
+siBathasu = element (unsafeCoerce _siBathasu)
 
-foreign import siBattledotnet_ :: ReactIcon
+foreign import _siBattledotnet :: ReactIcon
 
 siBattledotnet :: forall a b. Union a b PropsIcon => Record a -> JSX
-siBattledotnet = element (unsafeCoerce siBattledotnet_)
+siBattledotnet = element (unsafeCoerce _siBattledotnet)
 
-foreign import siBbc_ :: ReactIcon
+foreign import _siBbc :: ReactIcon
 
 siBbc :: forall a b. Union a b PropsIcon => Record a -> JSX
-siBbc = element (unsafeCoerce siBbc_)
+siBbc = element (unsafeCoerce _siBbc)
 
-foreign import siBbciplayer_ :: ReactIcon
+foreign import _siBbciplayer :: ReactIcon
 
 siBbciplayer :: forall a b. Union a b PropsIcon => Record a -> JSX
-siBbciplayer = element (unsafeCoerce siBbciplayer_)
+siBbciplayer = element (unsafeCoerce _siBbciplayer)
 
-foreign import siBeatport_ :: ReactIcon
+foreign import _siBeatport :: ReactIcon
 
 siBeatport :: forall a b. Union a b PropsIcon => Record a -> JSX
-siBeatport = element (unsafeCoerce siBeatport_)
+siBeatport = element (unsafeCoerce _siBeatport)
 
-foreign import siBeats_ :: ReactIcon
+foreign import _siBeats :: ReactIcon
 
 siBeats :: forall a b. Union a b PropsIcon => Record a -> JSX
-siBeats = element (unsafeCoerce siBeats_)
+siBeats = element (unsafeCoerce _siBeats)
 
-foreign import siBeatsbydre_ :: ReactIcon
+foreign import _siBeatsbydre :: ReactIcon
 
 siBeatsbydre :: forall a b. Union a b PropsIcon => Record a -> JSX
-siBeatsbydre = element (unsafeCoerce siBeatsbydre_)
+siBeatsbydre = element (unsafeCoerce _siBeatsbydre)
 
-foreign import siBehance_ :: ReactIcon
+foreign import _siBehance :: ReactIcon
 
 siBehance :: forall a b. Union a b PropsIcon => Record a -> JSX
-siBehance = element (unsafeCoerce siBehance_)
+siBehance = element (unsafeCoerce _siBehance)
 
-foreign import siBeijingsubway_ :: ReactIcon
+foreign import _siBeijingsubway :: ReactIcon
 
 siBeijingsubway :: forall a b. Union a b PropsIcon => Record a -> JSX
-siBeijingsubway = element (unsafeCoerce siBeijingsubway_)
+siBeijingsubway = element (unsafeCoerce _siBeijingsubway)
 
-foreign import siBentley_ :: ReactIcon
+foreign import _siBentley :: ReactIcon
 
 siBentley :: forall a b. Union a b PropsIcon => Record a -> JSX
-siBentley = element (unsafeCoerce siBentley_)
+siBentley = element (unsafeCoerce _siBentley)
 
-foreign import siBetfair_ :: ReactIcon
+foreign import _siBetfair :: ReactIcon
 
 siBetfair :: forall a b. Union a b PropsIcon => Record a -> JSX
-siBetfair = element (unsafeCoerce siBetfair_)
+siBetfair = element (unsafeCoerce _siBetfair)
 
-foreign import siBigbasket_ :: ReactIcon
+foreign import _siBigbasket :: ReactIcon
 
 siBigbasket :: forall a b. Union a b PropsIcon => Record a -> JSX
-siBigbasket = element (unsafeCoerce siBigbasket_)
+siBigbasket = element (unsafeCoerce _siBigbasket)
 
-foreign import siBigbluebutton_ :: ReactIcon
+foreign import _siBigbluebutton :: ReactIcon
 
 siBigbluebutton :: forall a b. Union a b PropsIcon => Record a -> JSX
-siBigbluebutton = element (unsafeCoerce siBigbluebutton_)
+siBigbluebutton = element (unsafeCoerce _siBigbluebutton)
 
-foreign import siBigcartel_ :: ReactIcon
+foreign import _siBigcartel :: ReactIcon
 
 siBigcartel :: forall a b. Union a b PropsIcon => Record a -> JSX
-siBigcartel = element (unsafeCoerce siBigcartel_)
+siBigcartel = element (unsafeCoerce _siBigcartel)
 
-foreign import siBigcommerce_ :: ReactIcon
+foreign import _siBigcommerce :: ReactIcon
 
 siBigcommerce :: forall a b. Union a b PropsIcon => Record a -> JSX
-siBigcommerce = element (unsafeCoerce siBigcommerce_)
+siBigcommerce = element (unsafeCoerce _siBigcommerce)
 
-foreign import siBilibili_ :: ReactIcon
+foreign import _siBilibili :: ReactIcon
 
 siBilibili :: forall a b. Union a b PropsIcon => Record a -> JSX
-siBilibili = element (unsafeCoerce siBilibili_)
+siBilibili = element (unsafeCoerce _siBilibili)
 
-foreign import siBinance_ :: ReactIcon
+foreign import _siBinance :: ReactIcon
 
 siBinance :: forall a b. Union a b PropsIcon => Record a -> JSX
-siBinance = element (unsafeCoerce siBinance_)
+siBinance = element (unsafeCoerce _siBinance)
 
-foreign import siBiolink_ :: ReactIcon
+foreign import _siBiolink :: ReactIcon
 
 siBiolink :: forall a b. Union a b PropsIcon => Record a -> JSX
-siBiolink = element (unsafeCoerce siBiolink_)
+siBiolink = element (unsafeCoerce _siBiolink)
 
-foreign import siBit_ :: ReactIcon
+foreign import _siBit :: ReactIcon
 
 siBit :: forall a b. Union a b PropsIcon => Record a -> JSX
-siBit = element (unsafeCoerce siBit_)
+siBit = element (unsafeCoerce _siBit)
 
-foreign import siBitbucket_ :: ReactIcon
+foreign import _siBitbucket :: ReactIcon
 
 siBitbucket :: forall a b. Union a b PropsIcon => Record a -> JSX
-siBitbucket = element (unsafeCoerce siBitbucket_)
+siBitbucket = element (unsafeCoerce _siBitbucket)
 
-foreign import siBitcoin_ :: ReactIcon
+foreign import _siBitcoin :: ReactIcon
 
 siBitcoin :: forall a b. Union a b PropsIcon => Record a -> JSX
-siBitcoin = element (unsafeCoerce siBitcoin_)
+siBitcoin = element (unsafeCoerce _siBitcoin)
 
-foreign import siBitcoincash_ :: ReactIcon
+foreign import _siBitcoincash :: ReactIcon
 
 siBitcoincash :: forall a b. Union a b PropsIcon => Record a -> JSX
-siBitcoincash = element (unsafeCoerce siBitcoincash_)
+siBitcoincash = element (unsafeCoerce _siBitcoincash)
 
-foreign import siBitcoinsv_ :: ReactIcon
+foreign import _siBitcoinsv :: ReactIcon
 
 siBitcoinsv :: forall a b. Union a b PropsIcon => Record a -> JSX
-siBitcoinsv = element (unsafeCoerce siBitcoinsv_)
+siBitcoinsv = element (unsafeCoerce _siBitcoinsv)
 
-foreign import siBitdefender_ :: ReactIcon
+foreign import _siBitdefender :: ReactIcon
 
 siBitdefender :: forall a b. Union a b PropsIcon => Record a -> JSX
-siBitdefender = element (unsafeCoerce siBitdefender_)
+siBitdefender = element (unsafeCoerce _siBitdefender)
 
-foreign import siBitly_ :: ReactIcon
+foreign import _siBitly :: ReactIcon
 
 siBitly :: forall a b. Union a b PropsIcon => Record a -> JSX
-siBitly = element (unsafeCoerce siBitly_)
+siBitly = element (unsafeCoerce _siBitly)
 
-foreign import siBitrise_ :: ReactIcon
+foreign import _siBitrise :: ReactIcon
 
 siBitrise :: forall a b. Union a b PropsIcon => Record a -> JSX
-siBitrise = element (unsafeCoerce siBitrise_)
+siBitrise = element (unsafeCoerce _siBitrise)
 
-foreign import siBitwarden_ :: ReactIcon
+foreign import _siBitwarden :: ReactIcon
 
 siBitwarden :: forall a b. Union a b PropsIcon => Record a -> JSX
-siBitwarden = element (unsafeCoerce siBitwarden_)
+siBitwarden = element (unsafeCoerce _siBitwarden)
 
-foreign import siBitwig_ :: ReactIcon
+foreign import _siBitwig :: ReactIcon
 
 siBitwig :: forall a b. Union a b PropsIcon => Record a -> JSX
-siBitwig = element (unsafeCoerce siBitwig_)
+siBitwig = element (unsafeCoerce _siBitwig)
 
-foreign import siBlackberry_ :: ReactIcon
+foreign import _siBlackberry :: ReactIcon
 
 siBlackberry :: forall a b. Union a b PropsIcon => Record a -> JSX
-siBlackberry = element (unsafeCoerce siBlackberry_)
+siBlackberry = element (unsafeCoerce _siBlackberry)
 
-foreign import siBlazemeter_ :: ReactIcon
+foreign import _siBlazemeter :: ReactIcon
 
 siBlazemeter :: forall a b. Union a b PropsIcon => Record a -> JSX
-siBlazemeter = element (unsafeCoerce siBlazemeter_)
+siBlazemeter = element (unsafeCoerce _siBlazemeter)
 
-foreign import siBlazor_ :: ReactIcon
+foreign import _siBlazor :: ReactIcon
 
 siBlazor :: forall a b. Union a b PropsIcon => Record a -> JSX
-siBlazor = element (unsafeCoerce siBlazor_)
+siBlazor = element (unsafeCoerce _siBlazor)
 
-foreign import siBlender_ :: ReactIcon
+foreign import _siBlender :: ReactIcon
 
 siBlender :: forall a b. Union a b PropsIcon => Record a -> JSX
-siBlender = element (unsafeCoerce siBlender_)
+siBlender = element (unsafeCoerce _siBlender)
 
-foreign import siBlockchaindotcom_ :: ReactIcon
+foreign import _siBlockchaindotcom :: ReactIcon
 
 siBlockchaindotcom :: forall a b. Union a b PropsIcon => Record a -> JSX
-siBlockchaindotcom = element (unsafeCoerce siBlockchaindotcom_)
+siBlockchaindotcom = element (unsafeCoerce _siBlockchaindotcom)
 
-foreign import siBlogger_ :: ReactIcon
+foreign import _siBlogger :: ReactIcon
 
 siBlogger :: forall a b. Union a b PropsIcon => Record a -> JSX
-siBlogger = element (unsafeCoerce siBlogger_)
+siBlogger = element (unsafeCoerce _siBlogger)
 
-foreign import siBloglovin_ :: ReactIcon
+foreign import _siBloglovin :: ReactIcon
 
 siBloglovin :: forall a b. Union a b PropsIcon => Record a -> JSX
-siBloglovin = element (unsafeCoerce siBloglovin_)
+siBloglovin = element (unsafeCoerce _siBloglovin)
 
-foreign import siBlueprint_ :: ReactIcon
+foreign import _siBlueprint :: ReactIcon
 
 siBlueprint :: forall a b. Union a b PropsIcon => Record a -> JSX
-siBlueprint = element (unsafeCoerce siBlueprint_)
+siBlueprint = element (unsafeCoerce _siBlueprint)
 
-foreign import siBluetooth_ :: ReactIcon
+foreign import _siBluetooth :: ReactIcon
 
 siBluetooth :: forall a b. Union a b PropsIcon => Record a -> JSX
-siBluetooth = element (unsafeCoerce siBluetooth_)
+siBluetooth = element (unsafeCoerce _siBluetooth)
 
-foreign import siBmcsoftware_ :: ReactIcon
+foreign import _siBmcsoftware :: ReactIcon
 
 siBmcsoftware :: forall a b. Union a b PropsIcon => Record a -> JSX
-siBmcsoftware = element (unsafeCoerce siBmcsoftware_)
+siBmcsoftware = element (unsafeCoerce _siBmcsoftware)
 
-foreign import siBmw_ :: ReactIcon
+foreign import _siBmw :: ReactIcon
 
 siBmw :: forall a b. Union a b PropsIcon => Record a -> JSX
-siBmw = element (unsafeCoerce siBmw_)
+siBmw = element (unsafeCoerce _siBmw)
 
-foreign import siBoehringeringelheim_ :: ReactIcon
+foreign import _siBoehringeringelheim :: ReactIcon
 
 siBoehringeringelheim :: forall a b. Union a b PropsIcon => Record a -> JSX
-siBoehringeringelheim = element (unsafeCoerce siBoehringeringelheim_)
+siBoehringeringelheim = element (unsafeCoerce _siBoehringeringelheim)
 
-foreign import siBoeing_ :: ReactIcon
+foreign import _siBoeing :: ReactIcon
 
 siBoeing :: forall a b. Union a b PropsIcon => Record a -> JSX
-siBoeing = element (unsafeCoerce siBoeing_)
+siBoeing = element (unsafeCoerce _siBoeing)
 
-foreign import siBookbub_ :: ReactIcon
+foreign import _siBookbub :: ReactIcon
 
 siBookbub :: forall a b. Union a b PropsIcon => Record a -> JSX
-siBookbub = element (unsafeCoerce siBookbub_)
+siBookbub = element (unsafeCoerce _siBookbub)
 
-foreign import siBookmeter_ :: ReactIcon
+foreign import _siBookmeter :: ReactIcon
 
 siBookmeter :: forall a b. Union a b PropsIcon => Record a -> JSX
-siBookmeter = element (unsafeCoerce siBookmeter_)
+siBookmeter = element (unsafeCoerce _siBookmeter)
 
-foreign import siBookstack_ :: ReactIcon
+foreign import _siBookstack :: ReactIcon
 
 siBookstack :: forall a b. Union a b PropsIcon => Record a -> JSX
-siBookstack = element (unsafeCoerce siBookstack_)
+siBookstack = element (unsafeCoerce _siBookstack)
 
-foreign import siBoost_ :: ReactIcon
+foreign import _siBoost :: ReactIcon
 
 siBoost :: forall a b. Union a b PropsIcon => Record a -> JSX
-siBoost = element (unsafeCoerce siBoost_)
+siBoost = element (unsafeCoerce _siBoost)
 
-foreign import siBootstrap_ :: ReactIcon
+foreign import _siBootstrap :: ReactIcon
 
 siBootstrap :: forall a b. Union a b PropsIcon => Record a -> JSX
-siBootstrap = element (unsafeCoerce siBootstrap_)
+siBootstrap = element (unsafeCoerce _siBootstrap)
 
-foreign import siBosch_ :: ReactIcon
+foreign import _siBosch :: ReactIcon
 
 siBosch :: forall a b. Union a b PropsIcon => Record a -> JSX
-siBosch = element (unsafeCoerce siBosch_)
+siBosch = element (unsafeCoerce _siBosch)
 
-foreign import siBose_ :: ReactIcon
+foreign import _siBose :: ReactIcon
 
 siBose :: forall a b. Union a b PropsIcon => Record a -> JSX
-siBose = element (unsafeCoerce siBose_)
+siBose = element (unsafeCoerce _siBose)
 
-foreign import siBoulanger_ :: ReactIcon
+foreign import _siBoulanger :: ReactIcon
 
 siBoulanger :: forall a b. Union a b PropsIcon => Record a -> JSX
-siBoulanger = element (unsafeCoerce siBoulanger_)
+siBoulanger = element (unsafeCoerce _siBoulanger)
 
-foreign import siBower_ :: ReactIcon
+foreign import _siBower :: ReactIcon
 
 siBower :: forall a b. Union a b PropsIcon => Record a -> JSX
-siBower = element (unsafeCoerce siBower_)
+siBower = element (unsafeCoerce _siBower)
 
-foreign import siBox_ :: ReactIcon
+foreign import _siBox :: ReactIcon
 
 siBox :: forall a b. Union a b PropsIcon => Record a -> JSX
-siBox = element (unsafeCoerce siBox_)
+siBox = element (unsafeCoerce _siBox)
 
-foreign import siBrandfolder_ :: ReactIcon
+foreign import _siBrandfolder :: ReactIcon
 
 siBrandfolder :: forall a b. Union a b PropsIcon => Record a -> JSX
-siBrandfolder = element (unsafeCoerce siBrandfolder_)
+siBrandfolder = element (unsafeCoerce _siBrandfolder)
 
-foreign import siBrave_ :: ReactIcon
+foreign import _siBrave :: ReactIcon
 
 siBrave :: forall a b. Union a b PropsIcon => Record a -> JSX
-siBrave = element (unsafeCoerce siBrave_)
+siBrave = element (unsafeCoerce _siBrave)
 
-foreign import siBreaker_ :: ReactIcon
+foreign import _siBreaker :: ReactIcon
 
 siBreaker :: forall a b. Union a b PropsIcon => Record a -> JSX
-siBreaker = element (unsafeCoerce siBreaker_)
+siBreaker = element (unsafeCoerce _siBreaker)
 
-foreign import siBritishairways_ :: ReactIcon
+foreign import _siBritishairways :: ReactIcon
 
 siBritishairways :: forall a b. Union a b PropsIcon => Record a -> JSX
-siBritishairways = element (unsafeCoerce siBritishairways_)
+siBritishairways = element (unsafeCoerce _siBritishairways)
 
-foreign import siBroadcom_ :: ReactIcon
+foreign import _siBroadcom :: ReactIcon
 
 siBroadcom :: forall a b. Union a b PropsIcon => Record a -> JSX
-siBroadcom = element (unsafeCoerce siBroadcom_)
+siBroadcom = element (unsafeCoerce _siBroadcom)
 
-foreign import siBt_ :: ReactIcon
+foreign import _siBt :: ReactIcon
 
 siBt :: forall a b. Union a b PropsIcon => Record a -> JSX
-siBt = element (unsafeCoerce siBt_)
+siBt = element (unsafeCoerce _siBt)
 
-foreign import siBuddy_ :: ReactIcon
+foreign import _siBuddy :: ReactIcon
 
 siBuddy :: forall a b. Union a b PropsIcon => Record a -> JSX
-siBuddy = element (unsafeCoerce siBuddy_)
+siBuddy = element (unsafeCoerce _siBuddy)
 
-foreign import siBuefy_ :: ReactIcon
+foreign import _siBuefy :: ReactIcon
 
 siBuefy :: forall a b. Union a b PropsIcon => Record a -> JSX
-siBuefy = element (unsafeCoerce siBuefy_)
+siBuefy = element (unsafeCoerce _siBuefy)
 
-foreign import siBuffer_ :: ReactIcon
+foreign import _siBuffer :: ReactIcon
 
 siBuffer :: forall a b. Union a b PropsIcon => Record a -> JSX
-siBuffer = element (unsafeCoerce siBuffer_)
+siBuffer = element (unsafeCoerce _siBuffer)
 
-foreign import siBugatti_ :: ReactIcon
+foreign import _siBugatti :: ReactIcon
 
 siBugatti :: forall a b. Union a b PropsIcon => Record a -> JSX
-siBugatti = element (unsafeCoerce siBugatti_)
+siBugatti = element (unsafeCoerce _siBugatti)
 
-foreign import siBugcrowd_ :: ReactIcon
+foreign import _siBugcrowd :: ReactIcon
 
 siBugcrowd :: forall a b. Union a b PropsIcon => Record a -> JSX
-siBugcrowd = element (unsafeCoerce siBugcrowd_)
+siBugcrowd = element (unsafeCoerce _siBugcrowd)
 
-foreign import siBugsnag_ :: ReactIcon
+foreign import _siBugsnag :: ReactIcon
 
 siBugsnag :: forall a b. Union a b PropsIcon => Record a -> JSX
-siBugsnag = element (unsafeCoerce siBugsnag_)
+siBugsnag = element (unsafeCoerce _siBugsnag)
 
-foreign import siBuildkite_ :: ReactIcon
+foreign import _siBuildkite :: ReactIcon
 
 siBuildkite :: forall a b. Union a b PropsIcon => Record a -> JSX
-siBuildkite = element (unsafeCoerce siBuildkite_)
+siBuildkite = element (unsafeCoerce _siBuildkite)
 
-foreign import siBulma_ :: ReactIcon
+foreign import _siBulma :: ReactIcon
 
 siBulma :: forall a b. Union a b PropsIcon => Record a -> JSX
-siBulma = element (unsafeCoerce siBulma_)
+siBulma = element (unsafeCoerce _siBulma)
 
-foreign import siBunq_ :: ReactIcon
+foreign import _siBunq :: ReactIcon
 
 siBunq :: forall a b. Union a b PropsIcon => Record a -> JSX
-siBunq = element (unsafeCoerce siBunq_)
+siBunq = element (unsafeCoerce _siBunq)
 
-foreign import siBurgerking_ :: ReactIcon
+foreign import _siBurgerking :: ReactIcon
 
 siBurgerking :: forall a b. Union a b PropsIcon => Record a -> JSX
-siBurgerking = element (unsafeCoerce siBurgerking_)
+siBurgerking = element (unsafeCoerce _siBurgerking)
 
-foreign import siBuymeacoffee_ :: ReactIcon
+foreign import _siBuymeacoffee :: ReactIcon
 
 siBuymeacoffee :: forall a b. Union a b PropsIcon => Record a -> JSX
-siBuymeacoffee = element (unsafeCoerce siBuymeacoffee_)
+siBuymeacoffee = element (unsafeCoerce _siBuymeacoffee)
 
-foreign import siBuzzfeed_ :: ReactIcon
+foreign import _siBuzzfeed :: ReactIcon
 
 siBuzzfeed :: forall a b. Union a b PropsIcon => Record a -> JSX
-siBuzzfeed = element (unsafeCoerce siBuzzfeed_)
+siBuzzfeed = element (unsafeCoerce _siBuzzfeed)
 
-foreign import siByte_ :: ReactIcon
+foreign import _siByte :: ReactIcon
 
 siByte :: forall a b. Union a b PropsIcon => Record a -> JSX
-siByte = element (unsafeCoerce siByte_)
+siByte = element (unsafeCoerce _siByte)
 
-foreign import siBytedance_ :: ReactIcon
+foreign import _siBytedance :: ReactIcon
 
 siBytedance :: forall a b. Union a b PropsIcon => Record a -> JSX
-siBytedance = element (unsafeCoerce siBytedance_)
+siBytedance = element (unsafeCoerce _siBytedance)
 
-foreign import siC_ :: ReactIcon
+foreign import _siC :: ReactIcon
 
 siC :: forall a b. Union a b PropsIcon => Record a -> JSX
-siC = element (unsafeCoerce siC_)
+siC = element (unsafeCoerce _siC)
 
-foreign import siCachet_ :: ReactIcon
+foreign import _siCachet :: ReactIcon
 
 siCachet :: forall a b. Union a b PropsIcon => Record a -> JSX
-siCachet = element (unsafeCoerce siCachet_)
+siCachet = element (unsafeCoerce _siCachet)
 
-foreign import siCairometro_ :: ReactIcon
+foreign import _siCairometro :: ReactIcon
 
 siCairometro :: forall a b. Union a b PropsIcon => Record a -> JSX
-siCairometro = element (unsafeCoerce siCairometro_)
+siCairometro = element (unsafeCoerce _siCairometro)
 
-foreign import siCakephp_ :: ReactIcon
+foreign import _siCakephp :: ReactIcon
 
 siCakephp :: forall a b. Union a b PropsIcon => Record a -> JSX
-siCakephp = element (unsafeCoerce siCakephp_)
+siCakephp = element (unsafeCoerce _siCakephp)
 
-foreign import siCampaignmonitor_ :: ReactIcon
+foreign import _siCampaignmonitor :: ReactIcon
 
 siCampaignmonitor :: forall a b. Union a b PropsIcon => Record a -> JSX
-siCampaignmonitor = element (unsafeCoerce siCampaignmonitor_)
+siCampaignmonitor = element (unsafeCoerce _siCampaignmonitor)
 
-foreign import siCanonical_ :: ReactIcon
+foreign import _siCanonical :: ReactIcon
 
 siCanonical :: forall a b. Union a b PropsIcon => Record a -> JSX
-siCanonical = element (unsafeCoerce siCanonical_)
+siCanonical = element (unsafeCoerce _siCanonical)
 
-foreign import siCanva_ :: ReactIcon
+foreign import _siCanva :: ReactIcon
 
 siCanva :: forall a b. Union a b PropsIcon => Record a -> JSX
-siCanva = element (unsafeCoerce siCanva_)
+siCanva = element (unsafeCoerce _siCanva)
 
-foreign import siCapacitor_ :: ReactIcon
+foreign import _siCapacitor :: ReactIcon
 
 siCapacitor :: forall a b. Union a b PropsIcon => Record a -> JSX
-siCapacitor = element (unsafeCoerce siCapacitor_)
+siCapacitor = element (unsafeCoerce _siCapacitor)
 
-foreign import siCarrefour_ :: ReactIcon
+foreign import _siCarrefour :: ReactIcon
 
 siCarrefour :: forall a b. Union a b PropsIcon => Record a -> JSX
-siCarrefour = element (unsafeCoerce siCarrefour_)
+siCarrefour = element (unsafeCoerce _siCarrefour)
 
-foreign import siCarthrottle_ :: ReactIcon
+foreign import _siCarthrottle :: ReactIcon
 
 siCarthrottle :: forall a b. Union a b PropsIcon => Record a -> JSX
-siCarthrottle = element (unsafeCoerce siCarthrottle_)
+siCarthrottle = element (unsafeCoerce _siCarthrottle)
 
-foreign import siCarto_ :: ReactIcon
+foreign import _siCarto :: ReactIcon
 
 siCarto :: forall a b. Union a b PropsIcon => Record a -> JSX
-siCarto = element (unsafeCoerce siCarto_)
+siCarto = element (unsafeCoerce _siCarto)
 
-foreign import siCashapp_ :: ReactIcon
+foreign import _siCashapp :: ReactIcon
 
 siCashapp :: forall a b. Union a b PropsIcon => Record a -> JSX
-siCashapp = element (unsafeCoerce siCashapp_)
+siCashapp = element (unsafeCoerce _siCashapp)
 
-foreign import siCastbox_ :: ReactIcon
+foreign import _siCastbox :: ReactIcon
 
 siCastbox :: forall a b. Union a b PropsIcon => Record a -> JSX
-siCastbox = element (unsafeCoerce siCastbox_)
+siCastbox = element (unsafeCoerce _siCastbox)
 
-foreign import siCastorama_ :: ReactIcon
+foreign import _siCastorama :: ReactIcon
 
 siCastorama :: forall a b. Union a b PropsIcon => Record a -> JSX
-siCastorama = element (unsafeCoerce siCastorama_)
+siCastorama = element (unsafeCoerce _siCastorama)
 
-foreign import siCastro_ :: ReactIcon
+foreign import _siCastro :: ReactIcon
 
 siCastro :: forall a b. Union a b PropsIcon => Record a -> JSX
-siCastro = element (unsafeCoerce siCastro_)
+siCastro = element (unsafeCoerce _siCastro)
 
-foreign import siCaterpillar_ :: ReactIcon
+foreign import _siCaterpillar :: ReactIcon
 
 siCaterpillar :: forall a b. Union a b PropsIcon => Record a -> JSX
-siCaterpillar = element (unsafeCoerce siCaterpillar_)
+siCaterpillar = element (unsafeCoerce _siCaterpillar)
 
-foreign import siCbs_ :: ReactIcon
+foreign import _siCbs :: ReactIcon
 
 siCbs :: forall a b. Union a b PropsIcon => Record a -> JSX
-siCbs = element (unsafeCoerce siCbs_)
+siCbs = element (unsafeCoerce _siCbs)
 
-foreign import siCdprojekt_ :: ReactIcon
+foreign import _siCdprojekt :: ReactIcon
 
 siCdprojekt :: forall a b. Union a b PropsIcon => Record a -> JSX
-siCdprojekt = element (unsafeCoerce siCdprojekt_)
+siCdprojekt = element (unsafeCoerce _siCdprojekt)
 
-foreign import siCelery_ :: ReactIcon
+foreign import _siCelery :: ReactIcon
 
 siCelery :: forall a b. Union a b PropsIcon => Record a -> JSX
-siCelery = element (unsafeCoerce siCelery_)
+siCelery = element (unsafeCoerce _siCelery)
 
-foreign import siCentos_ :: ReactIcon
+foreign import _siCentos :: ReactIcon
 
 siCentos :: forall a b. Union a b PropsIcon => Record a -> JSX
-siCentos = element (unsafeCoerce siCentos_)
+siCentos = element (unsafeCoerce _siCentos)
 
-foreign import siCeph_ :: ReactIcon
+foreign import _siCeph :: ReactIcon
 
 siCeph :: forall a b. Union a b PropsIcon => Record a -> JSX
-siCeph = element (unsafeCoerce siCeph_)
+siCeph = element (unsafeCoerce _siCeph)
 
-foreign import siCesium_ :: ReactIcon
+foreign import _siCesium :: ReactIcon
 
 siCesium :: forall a b. Union a b PropsIcon => Record a -> JSX
-siCesium = element (unsafeCoerce siCesium_)
+siCesium = element (unsafeCoerce _siCesium)
 
-foreign import siChai_ :: ReactIcon
+foreign import _siChai :: ReactIcon
 
 siChai :: forall a b. Union a b PropsIcon => Record a -> JSX
-siChai = element (unsafeCoerce siChai_)
+siChai = element (unsafeCoerce _siChai)
 
-foreign import siChainlink_ :: ReactIcon
+foreign import _siChainlink :: ReactIcon
 
 siChainlink :: forall a b. Union a b PropsIcon => Record a -> JSX
-siChainlink = element (unsafeCoerce siChainlink_)
+siChainlink = element (unsafeCoerce _siChainlink)
 
-foreign import siChakraui_ :: ReactIcon
+foreign import _siChakraui :: ReactIcon
 
 siChakraui :: forall a b. Union a b PropsIcon => Record a -> JSX
-siChakraui = element (unsafeCoerce siChakraui_)
+siChakraui = element (unsafeCoerce _siChakraui)
 
-foreign import siChartdotjs_ :: ReactIcon
+foreign import _siChartdotjs :: ReactIcon
 
 siChartdotjs :: forall a b. Union a b PropsIcon => Record a -> JSX
-siChartdotjs = element (unsafeCoerce siChartdotjs_)
+siChartdotjs = element (unsafeCoerce _siChartdotjs)
 
-foreign import siChartmogul_ :: ReactIcon
+foreign import _siChartmogul :: ReactIcon
 
 siChartmogul :: forall a b. Union a b PropsIcon => Record a -> JSX
-siChartmogul = element (unsafeCoerce siChartmogul_)
+siChartmogul = element (unsafeCoerce _siChartmogul)
 
-foreign import siChase_ :: ReactIcon
+foreign import _siChase :: ReactIcon
 
 siChase :: forall a b. Union a b PropsIcon => Record a -> JSX
-siChase = element (unsafeCoerce siChase_)
+siChase = element (unsafeCoerce _siChase)
 
-foreign import siChatbot_ :: ReactIcon
+foreign import _siChatbot :: ReactIcon
 
 siChatbot :: forall a b. Union a b PropsIcon => Record a -> JSX
-siChatbot = element (unsafeCoerce siChatbot_)
+siChatbot = element (unsafeCoerce _siChatbot)
 
-foreign import siCheckio_ :: ReactIcon
+foreign import _siCheckio :: ReactIcon
 
 siCheckio :: forall a b. Union a b PropsIcon => Record a -> JSX
-siCheckio = element (unsafeCoerce siCheckio_)
+siCheckio = element (unsafeCoerce _siCheckio)
 
-foreign import siCheckmarx_ :: ReactIcon
+foreign import _siCheckmarx :: ReactIcon
 
 siCheckmarx :: forall a b. Union a b PropsIcon => Record a -> JSX
-siCheckmarx = element (unsafeCoerce siCheckmarx_)
+siCheckmarx = element (unsafeCoerce _siCheckmarx)
 
-foreign import siChef_ :: ReactIcon
+foreign import _siChef :: ReactIcon
 
 siChef :: forall a b. Union a b PropsIcon => Record a -> JSX
-siChef = element (unsafeCoerce siChef_)
+siChef = element (unsafeCoerce _siChef)
 
-foreign import siChevrolet_ :: ReactIcon
+foreign import _siChevrolet :: ReactIcon
 
 siChevrolet :: forall a b. Union a b PropsIcon => Record a -> JSX
-siChevrolet = element (unsafeCoerce siChevrolet_)
+siChevrolet = element (unsafeCoerce _siChevrolet)
 
-foreign import siChinaeasternairlines_ :: ReactIcon
+foreign import _siChinaeasternairlines :: ReactIcon
 
 siChinaeasternairlines :: forall a b. Union a b PropsIcon => Record a -> JSX
-siChinaeasternairlines = element (unsafeCoerce siChinaeasternairlines_)
+siChinaeasternairlines = element (unsafeCoerce _siChinaeasternairlines)
 
-foreign import siChinasouthernairlines_ :: ReactIcon
+foreign import _siChinasouthernairlines :: ReactIcon
 
 siChinasouthernairlines :: forall a b. Union a b PropsIcon => Record a -> JSX
-siChinasouthernairlines = element (unsafeCoerce siChinasouthernairlines_)
+siChinasouthernairlines = element (unsafeCoerce _siChinasouthernairlines)
 
-foreign import siChocolatey_ :: ReactIcon
+foreign import _siChocolatey :: ReactIcon
 
 siChocolatey :: forall a b. Union a b PropsIcon => Record a -> JSX
-siChocolatey = element (unsafeCoerce siChocolatey_)
+siChocolatey = element (unsafeCoerce _siChocolatey)
 
-foreign import siChrysler_ :: ReactIcon
+foreign import _siChrysler :: ReactIcon
 
 siChrysler :: forall a b. Union a b PropsIcon => Record a -> JSX
-siChrysler = element (unsafeCoerce siChrysler_)
+siChrysler = element (unsafeCoerce _siChrysler)
 
-foreign import siChupachups_ :: ReactIcon
+foreign import _siChupachups :: ReactIcon
 
 siChupachups :: forall a b. Union a b PropsIcon => Record a -> JSX
-siChupachups = element (unsafeCoerce siChupachups_)
+siChupachups = element (unsafeCoerce _siChupachups)
 
-foreign import siCircle_ :: ReactIcon
+foreign import _siCircle :: ReactIcon
 
 siCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-siCircle = element (unsafeCoerce siCircle_)
+siCircle = element (unsafeCoerce _siCircle)
 
-foreign import siCircleci_ :: ReactIcon
+foreign import _siCircleci :: ReactIcon
 
 siCircleci :: forall a b. Union a b PropsIcon => Record a -> JSX
-siCircleci = element (unsafeCoerce siCircleci_)
+siCircleci = element (unsafeCoerce _siCircleci)
 
-foreign import siCirrusci_ :: ReactIcon
+foreign import _siCirrusci :: ReactIcon
 
 siCirrusci :: forall a b. Union a b PropsIcon => Record a -> JSX
-siCirrusci = element (unsafeCoerce siCirrusci_)
+siCirrusci = element (unsafeCoerce _siCirrusci)
 
-foreign import siCisco_ :: ReactIcon
+foreign import _siCisco :: ReactIcon
 
 siCisco :: forall a b. Union a b PropsIcon => Record a -> JSX
-siCisco = element (unsafeCoerce siCisco_)
+siCisco = element (unsafeCoerce _siCisco)
 
-foreign import siCitrix_ :: ReactIcon
+foreign import _siCitrix :: ReactIcon
 
 siCitrix :: forall a b. Union a b PropsIcon => Record a -> JSX
-siCitrix = element (unsafeCoerce siCitrix_)
+siCitrix = element (unsafeCoerce _siCitrix)
 
-foreign import siCitroen_ :: ReactIcon
+foreign import _siCitroen :: ReactIcon
 
 siCitroen :: forall a b. Union a b PropsIcon => Record a -> JSX
-siCitroen = element (unsafeCoerce siCitroen_)
+siCitroen = element (unsafeCoerce _siCitroen)
 
-foreign import siCivicrm_ :: ReactIcon
+foreign import _siCivicrm :: ReactIcon
 
 siCivicrm :: forall a b. Union a b PropsIcon => Record a -> JSX
-siCivicrm = element (unsafeCoerce siCivicrm_)
+siCivicrm = element (unsafeCoerce _siCivicrm)
 
-foreign import siCivo_ :: ReactIcon
+foreign import _siCivo :: ReactIcon
 
 siCivo :: forall a b. Union a b PropsIcon => Record a -> JSX
-siCivo = element (unsafeCoerce siCivo_)
+siCivo = element (unsafeCoerce _siCivo)
 
-foreign import siClaris_ :: ReactIcon
+foreign import _siClaris :: ReactIcon
 
 siClaris :: forall a b. Union a b PropsIcon => Record a -> JSX
-siClaris = element (unsafeCoerce siClaris_)
+siClaris = element (unsafeCoerce _siClaris)
 
-foreign import siClickup_ :: ReactIcon
+foreign import _siClickup :: ReactIcon
 
 siClickup :: forall a b. Union a b PropsIcon => Record a -> JSX
-siClickup = element (unsafeCoerce siClickup_)
+siClickup = element (unsafeCoerce _siClickup)
 
-foreign import siClion_ :: ReactIcon
+foreign import _siClion :: ReactIcon
 
 siClion :: forall a b. Union a b PropsIcon => Record a -> JSX
-siClion = element (unsafeCoerce siClion_)
+siClion = element (unsafeCoerce _siClion)
 
-foreign import siCliqz_ :: ReactIcon
+foreign import _siCliqz :: ReactIcon
 
 siCliqz :: forall a b. Union a b PropsIcon => Record a -> JSX
-siCliqz = element (unsafeCoerce siCliqz_)
+siCliqz = element (unsafeCoerce _siCliqz)
 
-foreign import siClockify_ :: ReactIcon
+foreign import _siClockify :: ReactIcon
 
 siClockify :: forall a b. Union a b PropsIcon => Record a -> JSX
-siClockify = element (unsafeCoerce siClockify_)
+siClockify = element (unsafeCoerce _siClockify)
 
-foreign import siClojure_ :: ReactIcon
+foreign import _siClojure :: ReactIcon
 
 siClojure :: forall a b. Union a b PropsIcon => Record a -> JSX
-siClojure = element (unsafeCoerce siClojure_)
+siClojure = element (unsafeCoerce _siClojure)
 
-foreign import siCloudbees_ :: ReactIcon
+foreign import _siCloudbees :: ReactIcon
 
 siCloudbees :: forall a b. Union a b PropsIcon => Record a -> JSX
-siCloudbees = element (unsafeCoerce siCloudbees_)
+siCloudbees = element (unsafeCoerce _siCloudbees)
 
-foreign import siCloudcannon_ :: ReactIcon
+foreign import _siCloudcannon :: ReactIcon
 
 siCloudcannon :: forall a b. Union a b PropsIcon => Record a -> JSX
-siCloudcannon = element (unsafeCoerce siCloudcannon_)
+siCloudcannon = element (unsafeCoerce _siCloudcannon)
 
-foreign import siCloudera_ :: ReactIcon
+foreign import _siCloudera :: ReactIcon
 
 siCloudera :: forall a b. Union a b PropsIcon => Record a -> JSX
-siCloudera = element (unsafeCoerce siCloudera_)
+siCloudera = element (unsafeCoerce _siCloudera)
 
-foreign import siCloudflare_ :: ReactIcon
+foreign import _siCloudflare :: ReactIcon
 
 siCloudflare :: forall a b. Union a b PropsIcon => Record a -> JSX
-siCloudflare = element (unsafeCoerce siCloudflare_)
+siCloudflare = element (unsafeCoerce _siCloudflare)
 
-foreign import siCloudfoundry_ :: ReactIcon
+foreign import _siCloudfoundry :: ReactIcon
 
 siCloudfoundry :: forall a b. Union a b PropsIcon => Record a -> JSX
-siCloudfoundry = element (unsafeCoerce siCloudfoundry_)
+siCloudfoundry = element (unsafeCoerce _siCloudfoundry)
 
-foreign import siCloudsmith_ :: ReactIcon
+foreign import _siCloudsmith :: ReactIcon
 
 siCloudsmith :: forall a b. Union a b PropsIcon => Record a -> JSX
-siCloudsmith = element (unsafeCoerce siCloudsmith_)
+siCloudsmith = element (unsafeCoerce _siCloudsmith)
 
-foreign import siCloudways_ :: ReactIcon
+foreign import _siCloudways :: ReactIcon
 
 siCloudways :: forall a b. Union a b PropsIcon => Record a -> JSX
-siCloudways = element (unsafeCoerce siCloudways_)
+siCloudways = element (unsafeCoerce _siCloudways)
 
-foreign import siClubhouse_ :: ReactIcon
+foreign import _siClubhouse :: ReactIcon
 
 siClubhouse :: forall a b. Union a b PropsIcon => Record a -> JSX
-siClubhouse = element (unsafeCoerce siClubhouse_)
+siClubhouse = element (unsafeCoerce _siClubhouse)
 
-foreign import siClyp_ :: ReactIcon
+foreign import _siClyp :: ReactIcon
 
 siClyp :: forall a b. Union a b PropsIcon => Record a -> JSX
-siClyp = element (unsafeCoerce siClyp_)
+siClyp = element (unsafeCoerce _siClyp)
 
-foreign import siCmake_ :: ReactIcon
+foreign import _siCmake :: ReactIcon
 
 siCmake :: forall a b. Union a b PropsIcon => Record a -> JSX
-siCmake = element (unsafeCoerce siCmake_)
+siCmake = element (unsafeCoerce _siCmake)
 
-foreign import siCnn_ :: ReactIcon
+foreign import _siCnn :: ReactIcon
 
 siCnn :: forall a b. Union a b PropsIcon => Record a -> JSX
-siCnn = element (unsafeCoerce siCnn_)
+siCnn = element (unsafeCoerce _siCnn)
 
-foreign import siCockroachlabs_ :: ReactIcon
+foreign import _siCockroachlabs :: ReactIcon
 
 siCockroachlabs :: forall a b. Union a b PropsIcon => Record a -> JSX
-siCockroachlabs = element (unsafeCoerce siCockroachlabs_)
+siCockroachlabs = element (unsafeCoerce _siCockroachlabs)
 
-foreign import siCocoapods_ :: ReactIcon
+foreign import _siCocoapods :: ReactIcon
 
 siCocoapods :: forall a b. Union a b PropsIcon => Record a -> JSX
-siCocoapods = element (unsafeCoerce siCocoapods_)
+siCocoapods = element (unsafeCoerce _siCocoapods)
 
-foreign import siCocos_ :: ReactIcon
+foreign import _siCocos :: ReactIcon
 
 siCocos :: forall a b. Union a b PropsIcon => Record a -> JSX
-siCocos = element (unsafeCoerce siCocos_)
+siCocos = element (unsafeCoerce _siCocos)
 
-foreign import siCoda_ :: ReactIcon
+foreign import _siCoda :: ReactIcon
 
 siCoda :: forall a b. Union a b PropsIcon => Record a -> JSX
-siCoda = element (unsafeCoerce siCoda_)
+siCoda = element (unsafeCoerce _siCoda)
 
-foreign import siCodacy_ :: ReactIcon
+foreign import _siCodacy :: ReactIcon
 
 siCodacy :: forall a b. Union a b PropsIcon => Record a -> JSX
-siCodacy = element (unsafeCoerce siCodacy_)
+siCodacy = element (unsafeCoerce _siCodacy)
 
-foreign import siCodeberg_ :: ReactIcon
+foreign import _siCodeberg :: ReactIcon
 
 siCodeberg :: forall a b. Union a b PropsIcon => Record a -> JSX
-siCodeberg = element (unsafeCoerce siCodeberg_)
+siCodeberg = element (unsafeCoerce _siCodeberg)
 
-foreign import siCodecademy_ :: ReactIcon
+foreign import _siCodecademy :: ReactIcon
 
 siCodecademy :: forall a b. Union a b PropsIcon => Record a -> JSX
-siCodecademy = element (unsafeCoerce siCodecademy_)
+siCodecademy = element (unsafeCoerce _siCodecademy)
 
-foreign import siCodeceptjs_ :: ReactIcon
+foreign import _siCodeceptjs :: ReactIcon
 
 siCodeceptjs :: forall a b. Union a b PropsIcon => Record a -> JSX
-siCodeceptjs = element (unsafeCoerce siCodeceptjs_)
+siCodeceptjs = element (unsafeCoerce _siCodeceptjs)
 
-foreign import siCodechef_ :: ReactIcon
+foreign import _siCodechef :: ReactIcon
 
 siCodechef :: forall a b. Union a b PropsIcon => Record a -> JSX
-siCodechef = element (unsafeCoerce siCodechef_)
+siCodechef = element (unsafeCoerce _siCodechef)
 
-foreign import siCodeclimate_ :: ReactIcon
+foreign import _siCodeclimate :: ReactIcon
 
 siCodeclimate :: forall a b. Union a b PropsIcon => Record a -> JSX
-siCodeclimate = element (unsafeCoerce siCodeclimate_)
+siCodeclimate = element (unsafeCoerce _siCodeclimate)
 
-foreign import siCodecov_ :: ReactIcon
+foreign import _siCodecov :: ReactIcon
 
 siCodecov :: forall a b. Union a b PropsIcon => Record a -> JSX
-siCodecov = element (unsafeCoerce siCodecov_)
+siCodecov = element (unsafeCoerce _siCodecov)
 
-foreign import siCodefactor_ :: ReactIcon
+foreign import _siCodefactor :: ReactIcon
 
 siCodefactor :: forall a b. Union a b PropsIcon => Record a -> JSX
-siCodefactor = element (unsafeCoerce siCodefactor_)
+siCodefactor = element (unsafeCoerce _siCodefactor)
 
-foreign import siCodeforces_ :: ReactIcon
+foreign import _siCodeforces :: ReactIcon
 
 siCodeforces :: forall a b. Union a b PropsIcon => Record a -> JSX
-siCodeforces = element (unsafeCoerce siCodeforces_)
+siCodeforces = element (unsafeCoerce _siCodeforces)
 
-foreign import siCodeigniter_ :: ReactIcon
+foreign import _siCodeigniter :: ReactIcon
 
 siCodeigniter :: forall a b. Union a b PropsIcon => Record a -> JSX
-siCodeigniter = element (unsafeCoerce siCodeigniter_)
+siCodeigniter = element (unsafeCoerce _siCodeigniter)
 
-foreign import siCodemagic_ :: ReactIcon
+foreign import _siCodemagic :: ReactIcon
 
 siCodemagic :: forall a b. Union a b PropsIcon => Record a -> JSX
-siCodemagic = element (unsafeCoerce siCodemagic_)
+siCodemagic = element (unsafeCoerce _siCodemagic)
 
-foreign import siCodemirror_ :: ReactIcon
+foreign import _siCodemirror :: ReactIcon
 
 siCodemirror :: forall a b. Union a b PropsIcon => Record a -> JSX
-siCodemirror = element (unsafeCoerce siCodemirror_)
+siCodemirror = element (unsafeCoerce _siCodemirror)
 
-foreign import siCodenewbie_ :: ReactIcon
+foreign import _siCodenewbie :: ReactIcon
 
 siCodenewbie :: forall a b. Union a b PropsIcon => Record a -> JSX
-siCodenewbie = element (unsafeCoerce siCodenewbie_)
+siCodenewbie = element (unsafeCoerce _siCodenewbie)
 
-foreign import siCodepen_ :: ReactIcon
+foreign import _siCodepen :: ReactIcon
 
 siCodepen :: forall a b. Union a b PropsIcon => Record a -> JSX
-siCodepen = element (unsafeCoerce siCodepen_)
+siCodepen = element (unsafeCoerce _siCodepen)
 
-foreign import siCodeproject_ :: ReactIcon
+foreign import _siCodeproject :: ReactIcon
 
 siCodeproject :: forall a b. Union a b PropsIcon => Record a -> JSX
-siCodeproject = element (unsafeCoerce siCodeproject_)
+siCodeproject = element (unsafeCoerce _siCodeproject)
 
-foreign import siCodersrank_ :: ReactIcon
+foreign import _siCodersrank :: ReactIcon
 
 siCodersrank :: forall a b. Union a b PropsIcon => Record a -> JSX
-siCodersrank = element (unsafeCoerce siCodersrank_)
+siCodersrank = element (unsafeCoerce _siCodersrank)
 
-foreign import siCoderwall_ :: ReactIcon
+foreign import _siCoderwall :: ReactIcon
 
 siCoderwall :: forall a b. Union a b PropsIcon => Record a -> JSX
-siCoderwall = element (unsafeCoerce siCoderwall_)
+siCoderwall = element (unsafeCoerce _siCoderwall)
 
-foreign import siCodesandbox_ :: ReactIcon
+foreign import _siCodesandbox :: ReactIcon
 
 siCodesandbox :: forall a b. Union a b PropsIcon => Record a -> JSX
-siCodesandbox = element (unsafeCoerce siCodesandbox_)
+siCodesandbox = element (unsafeCoerce _siCodesandbox)
 
-foreign import siCodeship_ :: ReactIcon
+foreign import _siCodeship :: ReactIcon
 
 siCodeship :: forall a b. Union a b PropsIcon => Record a -> JSX
-siCodeship = element (unsafeCoerce siCodeship_)
+siCodeship = element (unsafeCoerce _siCodeship)
 
-foreign import siCodewars_ :: ReactIcon
+foreign import _siCodewars :: ReactIcon
 
 siCodewars :: forall a b. Union a b PropsIcon => Record a -> JSX
-siCodewars = element (unsafeCoerce siCodewars_)
+siCodewars = element (unsafeCoerce _siCodewars)
 
-foreign import siCodingame_ :: ReactIcon
+foreign import _siCodingame :: ReactIcon
 
 siCodingame :: forall a b. Union a b PropsIcon => Record a -> JSX
-siCodingame = element (unsafeCoerce siCodingame_)
+siCodingame = element (unsafeCoerce _siCodingame)
 
-foreign import siCodingninjas_ :: ReactIcon
+foreign import _siCodingninjas :: ReactIcon
 
 siCodingninjas :: forall a b. Union a b PropsIcon => Record a -> JSX
-siCodingninjas = element (unsafeCoerce siCodingninjas_)
+siCodingninjas = element (unsafeCoerce _siCodingninjas)
 
-foreign import siCodio_ :: ReactIcon
+foreign import _siCodio :: ReactIcon
 
 siCodio :: forall a b. Union a b PropsIcon => Record a -> JSX
-siCodio = element (unsafeCoerce siCodio_)
+siCodio = element (unsafeCoerce _siCodio)
 
-foreign import siCoffeescript_ :: ReactIcon
+foreign import _siCoffeescript :: ReactIcon
 
 siCoffeescript :: forall a b. Union a b PropsIcon => Record a -> JSX
-siCoffeescript = element (unsafeCoerce siCoffeescript_)
+siCoffeescript = element (unsafeCoerce _siCoffeescript)
 
-foreign import siCognizant_ :: ReactIcon
+foreign import _siCognizant :: ReactIcon
 
 siCognizant :: forall a b. Union a b PropsIcon => Record a -> JSX
-siCognizant = element (unsafeCoerce siCognizant_)
+siCognizant = element (unsafeCoerce _siCognizant)
 
-foreign import siCoinbase_ :: ReactIcon
+foreign import _siCoinbase :: ReactIcon
 
 siCoinbase :: forall a b. Union a b PropsIcon => Record a -> JSX
-siCoinbase = element (unsafeCoerce siCoinbase_)
+siCoinbase = element (unsafeCoerce _siCoinbase)
 
-foreign import siCommerzbank_ :: ReactIcon
+foreign import _siCommerzbank :: ReactIcon
 
 siCommerzbank :: forall a b. Union a b PropsIcon => Record a -> JSX
-siCommerzbank = element (unsafeCoerce siCommerzbank_)
+siCommerzbank = element (unsafeCoerce _siCommerzbank)
 
-foreign import siCommonworkflowlanguage_ :: ReactIcon
+foreign import _siCommonworkflowlanguage :: ReactIcon
 
 siCommonworkflowlanguage :: forall a b. Union a b PropsIcon => Record a -> JSX
-siCommonworkflowlanguage = element (unsafeCoerce siCommonworkflowlanguage_)
+siCommonworkflowlanguage = element (unsafeCoerce _siCommonworkflowlanguage)
 
-foreign import siComposer_ :: ReactIcon
+foreign import _siComposer :: ReactIcon
 
 siComposer :: forall a b. Union a b PropsIcon => Record a -> JSX
-siComposer = element (unsafeCoerce siComposer_)
+siComposer = element (unsafeCoerce _siComposer)
 
-foreign import siConcourse_ :: ReactIcon
+foreign import _siConcourse :: ReactIcon
 
 siConcourse :: forall a b. Union a b PropsIcon => Record a -> JSX
-siConcourse = element (unsafeCoerce siConcourse_)
+siConcourse = element (unsafeCoerce _siConcourse)
 
-foreign import siCondaforge_ :: ReactIcon
+foreign import _siCondaforge :: ReactIcon
 
 siCondaforge :: forall a b. Union a b PropsIcon => Record a -> JSX
-siCondaforge = element (unsafeCoerce siCondaforge_)
+siCondaforge = element (unsafeCoerce _siCondaforge)
 
-foreign import siConekta_ :: ReactIcon
+foreign import _siConekta :: ReactIcon
 
 siConekta :: forall a b. Union a b PropsIcon => Record a -> JSX
-siConekta = element (unsafeCoerce siConekta_)
+siConekta = element (unsafeCoerce _siConekta)
 
-foreign import siConfluence_ :: ReactIcon
+foreign import _siConfluence :: ReactIcon
 
 siConfluence :: forall a b. Union a b PropsIcon => Record a -> JSX
-siConfluence = element (unsafeCoerce siConfluence_)
+siConfluence = element (unsafeCoerce _siConfluence)
 
-foreign import siConsul_ :: ReactIcon
+foreign import _siConsul :: ReactIcon
 
 siConsul :: forall a b. Union a b PropsIcon => Record a -> JSX
-siConsul = element (unsafeCoerce siConsul_)
+siConsul = element (unsafeCoerce _siConsul)
 
-foreign import siContactlesspayment_ :: ReactIcon
+foreign import _siContactlesspayment :: ReactIcon
 
 siContactlesspayment :: forall a b. Union a b PropsIcon => Record a -> JSX
-siContactlesspayment = element (unsafeCoerce siContactlesspayment_)
+siContactlesspayment = element (unsafeCoerce _siContactlesspayment)
 
-foreign import siContainerd_ :: ReactIcon
+foreign import _siContainerd :: ReactIcon
 
 siContainerd :: forall a b. Union a b PropsIcon => Record a -> JSX
-siContainerd = element (unsafeCoerce siContainerd_)
+siContainerd = element (unsafeCoerce _siContainerd)
 
-foreign import siContentful_ :: ReactIcon
+foreign import _siContentful :: ReactIcon
 
 siContentful :: forall a b. Union a b PropsIcon => Record a -> JSX
-siContentful = element (unsafeCoerce siContentful_)
+siContentful = element (unsafeCoerce _siContentful)
 
-foreign import siConvertio_ :: ReactIcon
+foreign import _siConvertio :: ReactIcon
 
 siConvertio :: forall a b. Union a b PropsIcon => Record a -> JSX
-siConvertio = element (unsafeCoerce siConvertio_)
+siConvertio = element (unsafeCoerce _siConvertio)
 
-foreign import siCookiecutter_ :: ReactIcon
+foreign import _siCookiecutter :: ReactIcon
 
 siCookiecutter :: forall a b. Union a b PropsIcon => Record a -> JSX
-siCookiecutter = element (unsafeCoerce siCookiecutter_)
+siCookiecutter = element (unsafeCoerce _siCookiecutter)
 
-foreign import siCoop_ :: ReactIcon
+foreign import _siCoop :: ReactIcon
 
 siCoop :: forall a b. Union a b PropsIcon => Record a -> JSX
-siCoop = element (unsafeCoerce siCoop_)
+siCoop = element (unsafeCoerce _siCoop)
 
-foreign import siCoronaengine_ :: ReactIcon
+foreign import _siCoronaengine :: ReactIcon
 
 siCoronaengine :: forall a b. Union a b PropsIcon => Record a -> JSX
-siCoronaengine = element (unsafeCoerce siCoronaengine_)
+siCoronaengine = element (unsafeCoerce _siCoronaengine)
 
-foreign import siCoronarenderer_ :: ReactIcon
+foreign import _siCoronarenderer :: ReactIcon
 
 siCoronarenderer :: forall a b. Union a b PropsIcon => Record a -> JSX
-siCoronarenderer = element (unsafeCoerce siCoronarenderer_)
+siCoronarenderer = element (unsafeCoerce _siCoronarenderer)
 
-foreign import siCorsair_ :: ReactIcon
+foreign import _siCorsair :: ReactIcon
 
 siCorsair :: forall a b. Union a b PropsIcon => Record a -> JSX
-siCorsair = element (unsafeCoerce siCorsair_)
+siCorsair = element (unsafeCoerce _siCorsair)
 
-foreign import siCouchbase_ :: ReactIcon
+foreign import _siCouchbase :: ReactIcon
 
 siCouchbase :: forall a b. Union a b PropsIcon => Record a -> JSX
-siCouchbase = element (unsafeCoerce siCouchbase_)
+siCouchbase = element (unsafeCoerce _siCouchbase)
 
-foreign import siCounterstrike_ :: ReactIcon
+foreign import _siCounterstrike :: ReactIcon
 
 siCounterstrike :: forall a b. Union a b PropsIcon => Record a -> JSX
-siCounterstrike = element (unsafeCoerce siCounterstrike_)
+siCounterstrike = element (unsafeCoerce _siCounterstrike)
 
-foreign import siCountingworkspro_ :: ReactIcon
+foreign import _siCountingworkspro :: ReactIcon
 
 siCountingworkspro :: forall a b. Union a b PropsIcon => Record a -> JSX
-siCountingworkspro = element (unsafeCoerce siCountingworkspro_)
+siCountingworkspro = element (unsafeCoerce _siCountingworkspro)
 
-foreign import siCoursera_ :: ReactIcon
+foreign import _siCoursera :: ReactIcon
 
 siCoursera :: forall a b. Union a b PropsIcon => Record a -> JSX
-siCoursera = element (unsafeCoerce siCoursera_)
+siCoursera = element (unsafeCoerce _siCoursera)
 
-foreign import siCoveralls_ :: ReactIcon
+foreign import _siCoveralls :: ReactIcon
 
 siCoveralls :: forall a b. Union a b PropsIcon => Record a -> JSX
-siCoveralls = element (unsafeCoerce siCoveralls_)
+siCoveralls = element (unsafeCoerce _siCoveralls)
 
-foreign import siCpanel_ :: ReactIcon
+foreign import _siCpanel :: ReactIcon
 
 siCpanel :: forall a b. Union a b PropsIcon => Record a -> JSX
-siCpanel = element (unsafeCoerce siCpanel_)
+siCpanel = element (unsafeCoerce _siCpanel)
 
-foreign import siCplusplus_ :: ReactIcon
+foreign import _siCplusplus :: ReactIcon
 
 siCplusplus :: forall a b. Union a b PropsIcon => Record a -> JSX
-siCplusplus = element (unsafeCoerce siCplusplus_)
+siCplusplus = element (unsafeCoerce _siCplusplus)
 
-foreign import siCraftcms_ :: ReactIcon
+foreign import _siCraftcms :: ReactIcon
 
 siCraftcms :: forall a b. Union a b PropsIcon => Record a -> JSX
-siCraftcms = element (unsafeCoerce siCraftcms_)
+siCraftcms = element (unsafeCoerce _siCraftcms)
 
-foreign import siCreativecommons_ :: ReactIcon
+foreign import _siCreativecommons :: ReactIcon
 
 siCreativecommons :: forall a b. Union a b PropsIcon => Record a -> JSX
-siCreativecommons = element (unsafeCoerce siCreativecommons_)
+siCreativecommons = element (unsafeCoerce _siCreativecommons)
 
-foreign import siCrehana_ :: ReactIcon
+foreign import _siCrehana :: ReactIcon
 
 siCrehana :: forall a b. Union a b PropsIcon => Record a -> JSX
-siCrehana = element (unsafeCoerce siCrehana_)
+siCrehana = element (unsafeCoerce _siCrehana)
 
-foreign import siCrowdin_ :: ReactIcon
+foreign import _siCrowdin :: ReactIcon
 
 siCrowdin :: forall a b. Union a b PropsIcon => Record a -> JSX
-siCrowdin = element (unsafeCoerce siCrowdin_)
+siCrowdin = element (unsafeCoerce _siCrowdin)
 
-foreign import siCrowdsource_ :: ReactIcon
+foreign import _siCrowdsource :: ReactIcon
 
 siCrowdsource :: forall a b. Union a b PropsIcon => Record a -> JSX
-siCrowdsource = element (unsafeCoerce siCrowdsource_)
+siCrowdsource = element (unsafeCoerce _siCrowdsource)
 
-foreign import siCrunchbase_ :: ReactIcon
+foreign import _siCrunchbase :: ReactIcon
 
 siCrunchbase :: forall a b. Union a b PropsIcon => Record a -> JSX
-siCrunchbase = element (unsafeCoerce siCrunchbase_)
+siCrunchbase = element (unsafeCoerce _siCrunchbase)
 
-foreign import siCrunchyroll_ :: ReactIcon
+foreign import _siCrunchyroll :: ReactIcon
 
 siCrunchyroll :: forall a b. Union a b PropsIcon => Record a -> JSX
-siCrunchyroll = element (unsafeCoerce siCrunchyroll_)
+siCrunchyroll = element (unsafeCoerce _siCrunchyroll)
 
-foreign import siCryengine_ :: ReactIcon
+foreign import _siCryengine :: ReactIcon
 
 siCryengine :: forall a b. Union a b PropsIcon => Record a -> JSX
-siCryengine = element (unsafeCoerce siCryengine_)
+siCryengine = element (unsafeCoerce _siCryengine)
 
-foreign import siCrystal_ :: ReactIcon
+foreign import _siCrystal :: ReactIcon
 
 siCrystal :: forall a b. Union a b PropsIcon => Record a -> JSX
-siCrystal = element (unsafeCoerce siCrystal_)
+siCrystal = element (unsafeCoerce _siCrystal)
 
-foreign import siCsharp_ :: ReactIcon
+foreign import _siCsharp :: ReactIcon
 
 siCsharp :: forall a b. Union a b PropsIcon => Record a -> JSX
-siCsharp = element (unsafeCoerce siCsharp_)
+siCsharp = element (unsafeCoerce _siCsharp)
 
-foreign import siCsswizardry_ :: ReactIcon
+foreign import _siCsswizardry :: ReactIcon
 
 siCsswizardry :: forall a b. Union a b PropsIcon => Record a -> JSX
-siCsswizardry = element (unsafeCoerce siCsswizardry_)
+siCsswizardry = element (unsafeCoerce _siCsswizardry)
 
-foreign import siCucumber_ :: ReactIcon
+foreign import _siCucumber :: ReactIcon
 
 siCucumber :: forall a b. Union a b PropsIcon => Record a -> JSX
-siCucumber = element (unsafeCoerce siCucumber_)
+siCucumber = element (unsafeCoerce _siCucumber)
 
-foreign import siCurl_ :: ReactIcon
+foreign import _siCurl :: ReactIcon
 
 siCurl :: forall a b. Union a b PropsIcon => Record a -> JSX
-siCurl = element (unsafeCoerce siCurl_)
+siCurl = element (unsafeCoerce _siCurl)
 
-foreign import siCurseforge_ :: ReactIcon
+foreign import _siCurseforge :: ReactIcon
 
 siCurseforge :: forall a b. Union a b PropsIcon => Record a -> JSX
-siCurseforge = element (unsafeCoerce siCurseforge_)
+siCurseforge = element (unsafeCoerce _siCurseforge)
 
-foreign import siCypress_ :: ReactIcon
+foreign import _siCypress :: ReactIcon
 
 siCypress :: forall a b. Union a b PropsIcon => Record a -> JSX
-siCypress = element (unsafeCoerce siCypress_)
+siCypress = element (unsafeCoerce _siCypress)
 
-foreign import siCytoscapedotjs_ :: ReactIcon
+foreign import _siCytoscapedotjs :: ReactIcon
 
 siCytoscapedotjs :: forall a b. Union a b PropsIcon => Record a -> JSX
-siCytoscapedotjs = element (unsafeCoerce siCytoscapedotjs_)
+siCytoscapedotjs = element (unsafeCoerce _siCytoscapedotjs)
 
-foreign import siDacia_ :: ReactIcon
+foreign import _siDacia :: ReactIcon
 
 siDacia :: forall a b. Union a b PropsIcon => Record a -> JSX
-siDacia = element (unsafeCoerce siDacia_)
+siDacia = element (unsafeCoerce _siDacia)
 
-foreign import siDaf_ :: ReactIcon
+foreign import _siDaf :: ReactIcon
 
 siDaf :: forall a b. Union a b PropsIcon => Record a -> JSX
-siDaf = element (unsafeCoerce siDaf_)
+siDaf = element (unsafeCoerce _siDaf)
 
-foreign import siDailymotion_ :: ReactIcon
+foreign import _siDailymotion :: ReactIcon
 
 siDailymotion :: forall a b. Union a b PropsIcon => Record a -> JSX
-siDailymotion = element (unsafeCoerce siDailymotion_)
+siDailymotion = element (unsafeCoerce _siDailymotion)
 
-foreign import siDaimler_ :: ReactIcon
+foreign import _siDaimler :: ReactIcon
 
 siDaimler :: forall a b. Union a b PropsIcon => Record a -> JSX
-siDaimler = element (unsafeCoerce siDaimler_)
+siDaimler = element (unsafeCoerce _siDaimler)
 
-foreign import siDarkreader_ :: ReactIcon
+foreign import _siDarkreader :: ReactIcon
 
 siDarkreader :: forall a b. Union a b PropsIcon => Record a -> JSX
-siDarkreader = element (unsafeCoerce siDarkreader_)
+siDarkreader = element (unsafeCoerce _siDarkreader)
 
-foreign import siDart_ :: ReactIcon
+foreign import _siDart :: ReactIcon
 
 siDart :: forall a b. Union a b PropsIcon => Record a -> JSX
-siDart = element (unsafeCoerce siDart_)
+siDart = element (unsafeCoerce _siDart)
 
-foreign import siDaserste_ :: ReactIcon
+foreign import _siDaserste :: ReactIcon
 
 siDaserste :: forall a b. Union a b PropsIcon => Record a -> JSX
-siDaserste = element (unsafeCoerce siDaserste_)
+siDaserste = element (unsafeCoerce _siDaserste)
 
-foreign import siDash_ :: ReactIcon
+foreign import _siDash :: ReactIcon
 
 siDash :: forall a b. Union a b PropsIcon => Record a -> JSX
-siDash = element (unsafeCoerce siDash_)
+siDash = element (unsafeCoerce _siDash)
 
-foreign import siDashlane_ :: ReactIcon
+foreign import _siDashlane :: ReactIcon
 
 siDashlane :: forall a b. Union a b PropsIcon => Record a -> JSX
-siDashlane = element (unsafeCoerce siDashlane_)
+siDashlane = element (unsafeCoerce _siDashlane)
 
-foreign import siDassaultsystemes_ :: ReactIcon
+foreign import _siDassaultsystemes :: ReactIcon
 
 siDassaultsystemes :: forall a b. Union a b PropsIcon => Record a -> JSX
-siDassaultsystemes = element (unsafeCoerce siDassaultsystemes_)
+siDassaultsystemes = element (unsafeCoerce _siDassaultsystemes)
 
-foreign import siDatabricks_ :: ReactIcon
+foreign import _siDatabricks :: ReactIcon
 
 siDatabricks :: forall a b. Union a b PropsIcon => Record a -> JSX
-siDatabricks = element (unsafeCoerce siDatabricks_)
+siDatabricks = element (unsafeCoerce _siDatabricks)
 
-foreign import siDatacamp_ :: ReactIcon
+foreign import _siDatacamp :: ReactIcon
 
 siDatacamp :: forall a b. Union a b PropsIcon => Record a -> JSX
-siDatacamp = element (unsafeCoerce siDatacamp_)
+siDatacamp = element (unsafeCoerce _siDatacamp)
 
-foreign import siDatadog_ :: ReactIcon
+foreign import _siDatadog :: ReactIcon
 
 siDatadog :: forall a b. Union a b PropsIcon => Record a -> JSX
-siDatadog = element (unsafeCoerce siDatadog_)
+siDatadog = element (unsafeCoerce _siDatadog)
 
-foreign import siDataiku_ :: ReactIcon
+foreign import _siDataiku :: ReactIcon
 
 siDataiku :: forall a b. Union a b PropsIcon => Record a -> JSX
-siDataiku = element (unsafeCoerce siDataiku_)
+siDataiku = element (unsafeCoerce _siDataiku)
 
-foreign import siDatastax_ :: ReactIcon
+foreign import _siDatastax :: ReactIcon
 
 siDatastax :: forall a b. Union a b PropsIcon => Record a -> JSX
-siDatastax = element (unsafeCoerce siDatastax_)
+siDatastax = element (unsafeCoerce _siDatastax)
 
-foreign import siDataversioncontrol_ :: ReactIcon
+foreign import _siDataversioncontrol :: ReactIcon
 
 siDataversioncontrol :: forall a b. Union a b PropsIcon => Record a -> JSX
-siDataversioncontrol = element (unsafeCoerce siDataversioncontrol_)
+siDataversioncontrol = element (unsafeCoerce _siDataversioncontrol)
 
-foreign import siDatocms_ :: ReactIcon
+foreign import _siDatocms :: ReactIcon
 
 siDatocms :: forall a b. Union a b PropsIcon => Record a -> JSX
-siDatocms = element (unsafeCoerce siDatocms_)
+siDatocms = element (unsafeCoerce _siDatocms)
 
-foreign import siDatto_ :: ReactIcon
+foreign import _siDatto :: ReactIcon
 
 siDatto :: forall a b. Union a b PropsIcon => Record a -> JSX
-siDatto = element (unsafeCoerce siDatto_)
+siDatto = element (unsafeCoerce _siDatto)
 
-foreign import siDazn_ :: ReactIcon
+foreign import _siDazn :: ReactIcon
 
 siDazn :: forall a b. Union a b PropsIcon => Record a -> JSX
-siDazn = element (unsafeCoerce siDazn_)
+siDazn = element (unsafeCoerce _siDazn)
 
-foreign import siDblp_ :: ReactIcon
+foreign import _siDblp :: ReactIcon
 
 siDblp :: forall a b. Union a b PropsIcon => Record a -> JSX
-siDblp = element (unsafeCoerce siDblp_)
+siDblp = element (unsafeCoerce _siDblp)
 
-foreign import siDbt_ :: ReactIcon
+foreign import _siDbt :: ReactIcon
 
 siDbt :: forall a b. Union a b PropsIcon => Record a -> JSX
-siDbt = element (unsafeCoerce siDbt_)
+siDbt = element (unsafeCoerce _siDbt)
 
-foreign import siDcentertainment_ :: ReactIcon
+foreign import _siDcentertainment :: ReactIcon
 
 siDcentertainment :: forall a b. Union a b PropsIcon => Record a -> JSX
-siDcentertainment = element (unsafeCoerce siDcentertainment_)
+siDcentertainment = element (unsafeCoerce _siDcentertainment)
 
-foreign import siDebian_ :: ReactIcon
+foreign import _siDebian :: ReactIcon
 
 siDebian :: forall a b. Union a b PropsIcon => Record a -> JSX
-siDebian = element (unsafeCoerce siDebian_)
+siDebian = element (unsafeCoerce _siDebian)
 
-foreign import siDeepin_ :: ReactIcon
+foreign import _siDeepin :: ReactIcon
 
 siDeepin :: forall a b. Union a b PropsIcon => Record a -> JSX
-siDeepin = element (unsafeCoerce siDeepin_)
+siDeepin = element (unsafeCoerce _siDeepin)
 
-foreign import siDeepnote_ :: ReactIcon
+foreign import _siDeepnote :: ReactIcon
 
 siDeepnote :: forall a b. Union a b PropsIcon => Record a -> JSX
-siDeepnote = element (unsafeCoerce siDeepnote_)
+siDeepnote = element (unsafeCoerce _siDeepnote)
 
-foreign import siDeezer_ :: ReactIcon
+foreign import _siDeezer :: ReactIcon
 
 siDeezer :: forall a b. Union a b PropsIcon => Record a -> JSX
-siDeezer = element (unsafeCoerce siDeezer_)
+siDeezer = element (unsafeCoerce _siDeezer)
 
-foreign import siDelicious_ :: ReactIcon
+foreign import _siDelicious :: ReactIcon
 
 siDelicious :: forall a b. Union a b PropsIcon => Record a -> JSX
-siDelicious = element (unsafeCoerce siDelicious_)
+siDelicious = element (unsafeCoerce _siDelicious)
 
-foreign import siDeliveroo_ :: ReactIcon
+foreign import _siDeliveroo :: ReactIcon
 
 siDeliveroo :: forall a b. Union a b PropsIcon => Record a -> JSX
-siDeliveroo = element (unsafeCoerce siDeliveroo_)
+siDeliveroo = element (unsafeCoerce _siDeliveroo)
 
-foreign import siDell_ :: ReactIcon
+foreign import _siDell :: ReactIcon
 
 siDell :: forall a b. Union a b PropsIcon => Record a -> JSX
-siDell = element (unsafeCoerce siDell_)
+siDell = element (unsafeCoerce _siDell)
 
-foreign import siDelonghi_ :: ReactIcon
+foreign import _siDelonghi :: ReactIcon
 
 siDelonghi :: forall a b. Union a b PropsIcon => Record a -> JSX
-siDelonghi = element (unsafeCoerce siDelonghi_)
+siDelonghi = element (unsafeCoerce _siDelonghi)
 
-foreign import siDelphi_ :: ReactIcon
+foreign import _siDelphi :: ReactIcon
 
 siDelphi :: forall a b. Union a b PropsIcon => Record a -> JSX
-siDelphi = element (unsafeCoerce siDelphi_)
+siDelphi = element (unsafeCoerce _siDelphi)
 
-foreign import siDelta_ :: ReactIcon
+foreign import _siDelta :: ReactIcon
 
 siDelta :: forall a b. Union a b PropsIcon => Record a -> JSX
-siDelta = element (unsafeCoerce siDelta_)
+siDelta = element (unsafeCoerce _siDelta)
 
-foreign import siDeno_ :: ReactIcon
+foreign import _siDeno :: ReactIcon
 
 siDeno :: forall a b. Union a b PropsIcon => Record a -> JSX
-siDeno = element (unsafeCoerce siDeno_)
+siDeno = element (unsafeCoerce _siDeno)
 
-foreign import siDependabot_ :: ReactIcon
+foreign import _siDependabot :: ReactIcon
 
 siDependabot :: forall a b. Union a b PropsIcon => Record a -> JSX
-siDependabot = element (unsafeCoerce siDependabot_)
+siDependabot = element (unsafeCoerce _siDependabot)
 
-foreign import siDerspiegel_ :: ReactIcon
+foreign import _siDerspiegel :: ReactIcon
 
 siDerspiegel :: forall a b. Union a b PropsIcon => Record a -> JSX
-siDerspiegel = element (unsafeCoerce siDerspiegel_)
+siDerspiegel = element (unsafeCoerce _siDerspiegel)
 
-foreign import siDesignernews_ :: ReactIcon
+foreign import _siDesignernews :: ReactIcon
 
 siDesignernews :: forall a b. Union a b PropsIcon => Record a -> JSX
-siDesignernews = element (unsafeCoerce siDesignernews_)
+siDesignernews = element (unsafeCoerce _siDesignernews)
 
-foreign import siDeutschebahn_ :: ReactIcon
+foreign import _siDeutschebahn :: ReactIcon
 
 siDeutschebahn :: forall a b. Union a b PropsIcon => Record a -> JSX
-siDeutschebahn = element (unsafeCoerce siDeutschebahn_)
+siDeutschebahn = element (unsafeCoerce _siDeutschebahn)
 
-foreign import siDeutschebank_ :: ReactIcon
+foreign import _siDeutschebank :: ReactIcon
 
 siDeutschebank :: forall a b. Union a b PropsIcon => Record a -> JSX
-siDeutschebank = element (unsafeCoerce siDeutschebank_)
+siDeutschebank = element (unsafeCoerce _siDeutschebank)
 
-foreign import siDevdotto_ :: ReactIcon
+foreign import _siDevdotto :: ReactIcon
 
 siDevdotto :: forall a b. Union a b PropsIcon => Record a -> JSX
-siDevdotto = element (unsafeCoerce siDevdotto_)
+siDevdotto = element (unsafeCoerce _siDevdotto)
 
-foreign import siDevexpress_ :: ReactIcon
+foreign import _siDevexpress :: ReactIcon
 
 siDevexpress :: forall a b. Union a b PropsIcon => Record a -> JSX
-siDevexpress = element (unsafeCoerce siDevexpress_)
+siDevexpress = element (unsafeCoerce _siDevexpress)
 
-foreign import siDeviantart_ :: ReactIcon
+foreign import _siDeviantart :: ReactIcon
 
 siDeviantart :: forall a b. Union a b PropsIcon => Record a -> JSX
-siDeviantart = element (unsafeCoerce siDeviantart_)
+siDeviantart = element (unsafeCoerce _siDeviantart)
 
-foreign import siDevpost_ :: ReactIcon
+foreign import _siDevpost :: ReactIcon
 
 siDevpost :: forall a b. Union a b PropsIcon => Record a -> JSX
-siDevpost = element (unsafeCoerce siDevpost_)
+siDevpost = element (unsafeCoerce _siDevpost)
 
-foreign import siDevrant_ :: ReactIcon
+foreign import _siDevrant :: ReactIcon
 
 siDevrant :: forall a b. Union a b PropsIcon => Record a -> JSX
-siDevrant = element (unsafeCoerce siDevrant_)
+siDevrant = element (unsafeCoerce _siDevrant)
 
-foreign import siDgraph_ :: ReactIcon
+foreign import _siDgraph :: ReactIcon
 
 siDgraph :: forall a b. Union a b PropsIcon => Record a -> JSX
-siDgraph = element (unsafeCoerce siDgraph_)
+siDgraph = element (unsafeCoerce _siDgraph)
 
-foreign import siDhl_ :: ReactIcon
+foreign import _siDhl :: ReactIcon
 
 siDhl :: forall a b. Union a b PropsIcon => Record a -> JSX
-siDhl = element (unsafeCoerce siDhl_)
+siDhl = element (unsafeCoerce _siDhl)
 
-foreign import siDiagramsdotnet_ :: ReactIcon
+foreign import _siDiagramsdotnet :: ReactIcon
 
 siDiagramsdotnet :: forall a b. Union a b PropsIcon => Record a -> JSX
-siDiagramsdotnet = element (unsafeCoerce siDiagramsdotnet_)
+siDiagramsdotnet = element (unsafeCoerce _siDiagramsdotnet)
 
-foreign import siDialogflow_ :: ReactIcon
+foreign import _siDialogflow :: ReactIcon
 
 siDialogflow :: forall a b. Union a b PropsIcon => Record a -> JSX
-siDialogflow = element (unsafeCoerce siDialogflow_)
+siDialogflow = element (unsafeCoerce _siDialogflow)
 
-foreign import siDiaspora_ :: ReactIcon
+foreign import _siDiaspora :: ReactIcon
 
 siDiaspora :: forall a b. Union a b PropsIcon => Record a -> JSX
-siDiaspora = element (unsafeCoerce siDiaspora_)
+siDiaspora = element (unsafeCoerce _siDiaspora)
 
-foreign import siDigg_ :: ReactIcon
+foreign import _siDigg :: ReactIcon
 
 siDigg :: forall a b. Union a b PropsIcon => Record a -> JSX
-siDigg = element (unsafeCoerce siDigg_)
+siDigg = element (unsafeCoerce _siDigg)
 
-foreign import siDigikeyelectronics_ :: ReactIcon
+foreign import _siDigikeyelectronics :: ReactIcon
 
 siDigikeyelectronics :: forall a b. Union a b PropsIcon => Record a -> JSX
-siDigikeyelectronics = element (unsafeCoerce siDigikeyelectronics_)
+siDigikeyelectronics = element (unsafeCoerce _siDigikeyelectronics)
 
-foreign import siDigitalocean_ :: ReactIcon
+foreign import _siDigitalocean :: ReactIcon
 
 siDigitalocean :: forall a b. Union a b PropsIcon => Record a -> JSX
-siDigitalocean = element (unsafeCoerce siDigitalocean_)
+siDigitalocean = element (unsafeCoerce _siDigitalocean)
 
-foreign import siDior_ :: ReactIcon
+foreign import _siDior :: ReactIcon
 
 siDior :: forall a b. Union a b PropsIcon => Record a -> JSX
-siDior = element (unsafeCoerce siDior_)
+siDior = element (unsafeCoerce _siDior)
 
-foreign import siDirectus_ :: ReactIcon
+foreign import _siDirectus :: ReactIcon
 
 siDirectus :: forall a b. Union a b PropsIcon => Record a -> JSX
-siDirectus = element (unsafeCoerce siDirectus_)
+siDirectus = element (unsafeCoerce _siDirectus)
 
-foreign import siDiscogs_ :: ReactIcon
+foreign import _siDiscogs :: ReactIcon
 
 siDiscogs :: forall a b. Union a b PropsIcon => Record a -> JSX
-siDiscogs = element (unsafeCoerce siDiscogs_)
+siDiscogs = element (unsafeCoerce _siDiscogs)
 
-foreign import siDiscord_ :: ReactIcon
+foreign import _siDiscord :: ReactIcon
 
 siDiscord :: forall a b. Union a b PropsIcon => Record a -> JSX
-siDiscord = element (unsafeCoerce siDiscord_)
+siDiscord = element (unsafeCoerce _siDiscord)
 
-foreign import siDiscourse_ :: ReactIcon
+foreign import _siDiscourse :: ReactIcon
 
 siDiscourse :: forall a b. Union a b PropsIcon => Record a -> JSX
-siDiscourse = element (unsafeCoerce siDiscourse_)
+siDiscourse = element (unsafeCoerce _siDiscourse)
 
-foreign import siDiscover_ :: ReactIcon
+foreign import _siDiscover :: ReactIcon
 
 siDiscover :: forall a b. Union a b PropsIcon => Record a -> JSX
-siDiscover = element (unsafeCoerce siDiscover_)
+siDiscover = element (unsafeCoerce _siDiscover)
 
-foreign import siDisqus_ :: ReactIcon
+foreign import _siDisqus :: ReactIcon
 
 siDisqus :: forall a b. Union a b PropsIcon => Record a -> JSX
-siDisqus = element (unsafeCoerce siDisqus_)
+siDisqus = element (unsafeCoerce _siDisqus)
 
-foreign import siDisroot_ :: ReactIcon
+foreign import _siDisroot :: ReactIcon
 
 siDisroot :: forall a b. Union a b PropsIcon => Record a -> JSX
-siDisroot = element (unsafeCoerce siDisroot_)
+siDisroot = element (unsafeCoerce _siDisroot)
 
-foreign import siDjango_ :: ReactIcon
+foreign import _siDjango :: ReactIcon
 
 siDjango :: forall a b. Union a b PropsIcon => Record a -> JSX
-siDjango = element (unsafeCoerce siDjango_)
+siDjango = element (unsafeCoerce _siDjango)
 
-foreign import siDlna_ :: ReactIcon
+foreign import _siDlna :: ReactIcon
 
 siDlna :: forall a b. Union a b PropsIcon => Record a -> JSX
-siDlna = element (unsafeCoerce siDlna_)
+siDlna = element (unsafeCoerce _siDlna)
 
-foreign import siDocker_ :: ReactIcon
+foreign import _siDocker :: ReactIcon
 
 siDocker :: forall a b. Union a b PropsIcon => Record a -> JSX
-siDocker = element (unsafeCoerce siDocker_)
+siDocker = element (unsafeCoerce _siDocker)
 
-foreign import siDocusign_ :: ReactIcon
+foreign import _siDocusign :: ReactIcon
 
 siDocusign :: forall a b. Union a b PropsIcon => Record a -> JSX
-siDocusign = element (unsafeCoerce siDocusign_)
+siDocusign = element (unsafeCoerce _siDocusign)
 
-foreign import siDogecoin_ :: ReactIcon
+foreign import _siDogecoin :: ReactIcon
 
 siDogecoin :: forall a b. Union a b PropsIcon => Record a -> JSX
-siDogecoin = element (unsafeCoerce siDogecoin_)
+siDogecoin = element (unsafeCoerce _siDogecoin)
 
-foreign import siDolby_ :: ReactIcon
+foreign import _siDolby :: ReactIcon
 
 siDolby :: forall a b. Union a b PropsIcon => Record a -> JSX
-siDolby = element (unsafeCoerce siDolby_)
+siDolby = element (unsafeCoerce _siDolby)
 
-foreign import siDoordash_ :: ReactIcon
+foreign import _siDoordash :: ReactIcon
 
 siDoordash :: forall a b. Union a b PropsIcon => Record a -> JSX
-siDoordash = element (unsafeCoerce siDoordash_)
+siDoordash = element (unsafeCoerce _siDoordash)
 
-foreign import siDotnet_ :: ReactIcon
+foreign import _siDotnet :: ReactIcon
 
 siDotnet :: forall a b. Union a b PropsIcon => Record a -> JSX
-siDotnet = element (unsafeCoerce siDotnet_)
+siDotnet = element (unsafeCoerce _siDotnet)
 
-foreign import siDouban_ :: ReactIcon
+foreign import _siDouban :: ReactIcon
 
 siDouban :: forall a b. Union a b PropsIcon => Record a -> JSX
-siDouban = element (unsafeCoerce siDouban_)
+siDouban = element (unsafeCoerce _siDouban)
 
-foreign import siDoubanread_ :: ReactIcon
+foreign import _siDoubanread :: ReactIcon
 
 siDoubanread :: forall a b. Union a b PropsIcon => Record a -> JSX
-siDoubanread = element (unsafeCoerce siDoubanread_)
+siDoubanread = element (unsafeCoerce _siDoubanread)
 
-foreign import siDpd_ :: ReactIcon
+foreign import _siDpd :: ReactIcon
 
 siDpd :: forall a b. Union a b PropsIcon => Record a -> JSX
-siDpd = element (unsafeCoerce siDpd_)
+siDpd = element (unsafeCoerce _siDpd)
 
-foreign import siDraugiemdotlv_ :: ReactIcon
+foreign import _siDraugiemdotlv :: ReactIcon
 
 siDraugiemdotlv :: forall a b. Union a b PropsIcon => Record a -> JSX
-siDraugiemdotlv = element (unsafeCoerce siDraugiemdotlv_)
+siDraugiemdotlv = element (unsafeCoerce _siDraugiemdotlv)
 
-foreign import siDribbble_ :: ReactIcon
+foreign import _siDribbble :: ReactIcon
 
 siDribbble :: forall a b. Union a b PropsIcon => Record a -> JSX
-siDribbble = element (unsafeCoerce siDribbble_)
+siDribbble = element (unsafeCoerce _siDribbble)
 
-foreign import siDrone_ :: ReactIcon
+foreign import _siDrone :: ReactIcon
 
 siDrone :: forall a b. Union a b PropsIcon => Record a -> JSX
-siDrone = element (unsafeCoerce siDrone_)
+siDrone = element (unsafeCoerce _siDrone)
 
-foreign import siDrooble_ :: ReactIcon
+foreign import _siDrooble :: ReactIcon
 
 siDrooble :: forall a b. Union a b PropsIcon => Record a -> JSX
-siDrooble = element (unsafeCoerce siDrooble_)
+siDrooble = element (unsafeCoerce _siDrooble)
 
-foreign import siDropbox_ :: ReactIcon
+foreign import _siDropbox :: ReactIcon
 
 siDropbox :: forall a b. Union a b PropsIcon => Record a -> JSX
-siDropbox = element (unsafeCoerce siDropbox_)
+siDropbox = element (unsafeCoerce _siDropbox)
 
-foreign import siDrupal_ :: ReactIcon
+foreign import _siDrupal :: ReactIcon
 
 siDrupal :: forall a b. Union a b PropsIcon => Record a -> JSX
-siDrupal = element (unsafeCoerce siDrupal_)
+siDrupal = element (unsafeCoerce _siDrupal)
 
-foreign import siDsautomobiles_ :: ReactIcon
+foreign import _siDsautomobiles :: ReactIcon
 
 siDsautomobiles :: forall a b. Union a b PropsIcon => Record a -> JSX
-siDsautomobiles = element (unsafeCoerce siDsautomobiles_)
+siDsautomobiles = element (unsafeCoerce _siDsautomobiles)
 
-foreign import siDtube_ :: ReactIcon
+foreign import _siDtube :: ReactIcon
 
 siDtube :: forall a b. Union a b PropsIcon => Record a -> JSX
-siDtube = element (unsafeCoerce siDtube_)
+siDtube = element (unsafeCoerce _siDtube)
 
-foreign import siDuckduckgo_ :: ReactIcon
+foreign import _siDuckduckgo :: ReactIcon
 
 siDuckduckgo :: forall a b. Union a b PropsIcon => Record a -> JSX
-siDuckduckgo = element (unsafeCoerce siDuckduckgo_)
+siDuckduckgo = element (unsafeCoerce _siDuckduckgo)
 
-foreign import siDungeonsanddragons_ :: ReactIcon
+foreign import _siDungeonsanddragons :: ReactIcon
 
 siDungeonsanddragons :: forall a b. Union a b PropsIcon => Record a -> JSX
-siDungeonsanddragons = element (unsafeCoerce siDungeonsanddragons_)
+siDungeonsanddragons = element (unsafeCoerce _siDungeonsanddragons)
 
-foreign import siDunked_ :: ReactIcon
+foreign import _siDunked :: ReactIcon
 
 siDunked :: forall a b. Union a b PropsIcon => Record a -> JSX
-siDunked = element (unsafeCoerce siDunked_)
+siDunked = element (unsafeCoerce _siDunked)
 
-foreign import siDuolingo_ :: ReactIcon
+foreign import _siDuolingo :: ReactIcon
 
 siDuolingo :: forall a b. Union a b PropsIcon => Record a -> JSX
-siDuolingo = element (unsafeCoerce siDuolingo_)
+siDuolingo = element (unsafeCoerce _siDuolingo)
 
-foreign import siDwavesystems_ :: ReactIcon
+foreign import _siDwavesystems :: ReactIcon
 
 siDwavesystems :: forall a b. Union a b PropsIcon => Record a -> JSX
-siDwavesystems = element (unsafeCoerce siDwavesystems_)
+siDwavesystems = element (unsafeCoerce _siDwavesystems)
 
-foreign import siDwm_ :: ReactIcon
+foreign import _siDwm :: ReactIcon
 
 siDwm :: forall a b. Union a b PropsIcon => Record a -> JSX
-siDwm = element (unsafeCoerce siDwm_)
+siDwm = element (unsafeCoerce _siDwm)
 
-foreign import siDynatrace_ :: ReactIcon
+foreign import _siDynatrace :: ReactIcon
 
 siDynatrace :: forall a b. Union a b PropsIcon => Record a -> JSX
-siDynatrace = element (unsafeCoerce siDynatrace_)
+siDynatrace = element (unsafeCoerce _siDynatrace)
 
-foreign import siE_ :: ReactIcon
+foreign import _siE :: ReactIcon
 
 siE :: forall a b. Union a b PropsIcon => Record a -> JSX
-siE = element (unsafeCoerce siE_)
+siE = element (unsafeCoerce _siE)
 
-foreign import siEa_ :: ReactIcon
+foreign import _siEa :: ReactIcon
 
 siEa :: forall a b. Union a b PropsIcon => Record a -> JSX
-siEa = element (unsafeCoerce siEa_)
+siEa = element (unsafeCoerce _siEa)
 
-foreign import siEagle_ :: ReactIcon
+foreign import _siEagle :: ReactIcon
 
 siEagle :: forall a b. Union a b PropsIcon => Record a -> JSX
-siEagle = element (unsafeCoerce siEagle_)
+siEagle = element (unsafeCoerce _siEagle)
 
-foreign import siEasyjet_ :: ReactIcon
+foreign import _siEasyjet :: ReactIcon
 
 siEasyjet :: forall a b. Union a b PropsIcon => Record a -> JSX
-siEasyjet = element (unsafeCoerce siEasyjet_)
+siEasyjet = element (unsafeCoerce _siEasyjet)
 
-foreign import siEbay_ :: ReactIcon
+foreign import _siEbay :: ReactIcon
 
 siEbay :: forall a b. Union a b PropsIcon => Record a -> JSX
-siEbay = element (unsafeCoerce siEbay_)
+siEbay = element (unsafeCoerce _siEbay)
 
-foreign import siEclipseche_ :: ReactIcon
+foreign import _siEclipseche :: ReactIcon
 
 siEclipseche :: forall a b. Union a b PropsIcon => Record a -> JSX
-siEclipseche = element (unsafeCoerce siEclipseche_)
+siEclipseche = element (unsafeCoerce _siEclipseche)
 
-foreign import siEclipseide_ :: ReactIcon
+foreign import _siEclipseide :: ReactIcon
 
 siEclipseide :: forall a b. Union a b PropsIcon => Record a -> JSX
-siEclipseide = element (unsafeCoerce siEclipseide_)
+siEclipseide = element (unsafeCoerce _siEclipseide)
 
-foreign import siEclipsejetty_ :: ReactIcon
+foreign import _siEclipsejetty :: ReactIcon
 
 siEclipsejetty :: forall a b. Union a b PropsIcon => Record a -> JSX
-siEclipsejetty = element (unsafeCoerce siEclipsejetty_)
+siEclipsejetty = element (unsafeCoerce _siEclipsejetty)
 
-foreign import siEclipsemosquitto_ :: ReactIcon
+foreign import _siEclipsemosquitto :: ReactIcon
 
 siEclipsemosquitto :: forall a b. Union a b PropsIcon => Record a -> JSX
-siEclipsemosquitto = element (unsafeCoerce siEclipsemosquitto_)
+siEclipsemosquitto = element (unsafeCoerce _siEclipsemosquitto)
 
-foreign import siEclipsevertdotx_ :: ReactIcon
+foreign import _siEclipsevertdotx :: ReactIcon
 
 siEclipsevertdotx :: forall a b. Union a b PropsIcon => Record a -> JSX
-siEclipsevertdotx = element (unsafeCoerce siEclipsevertdotx_)
+siEclipsevertdotx = element (unsafeCoerce _siEclipsevertdotx)
 
-foreign import siEditorconfig_ :: ReactIcon
+foreign import _siEditorconfig :: ReactIcon
 
 siEditorconfig :: forall a b. Union a b PropsIcon => Record a -> JSX
-siEditorconfig = element (unsafeCoerce siEditorconfig_)
+siEditorconfig = element (unsafeCoerce _siEditorconfig)
 
-foreign import siEdotleclerc_ :: ReactIcon
+foreign import _siEdotleclerc :: ReactIcon
 
 siEdotleclerc :: forall a b. Union a b PropsIcon => Record a -> JSX
-siEdotleclerc = element (unsafeCoerce siEdotleclerc_)
+siEdotleclerc = element (unsafeCoerce _siEdotleclerc)
 
-foreign import siEdx_ :: ReactIcon
+foreign import _siEdx :: ReactIcon
 
 siEdx :: forall a b. Union a b PropsIcon => Record a -> JSX
-siEdx = element (unsafeCoerce siEdx_)
+siEdx = element (unsafeCoerce _siEdx)
 
-foreign import siEgghead_ :: ReactIcon
+foreign import _siEgghead :: ReactIcon
 
 siEgghead :: forall a b. Union a b PropsIcon => Record a -> JSX
-siEgghead = element (unsafeCoerce siEgghead_)
+siEgghead = element (unsafeCoerce _siEgghead)
 
-foreign import siEgnyte_ :: ReactIcon
+foreign import _siEgnyte :: ReactIcon
 
 siEgnyte :: forall a b. Union a b PropsIcon => Record a -> JSX
-siEgnyte = element (unsafeCoerce siEgnyte_)
+siEgnyte = element (unsafeCoerce _siEgnyte)
 
-foreign import siEightsleep_ :: ReactIcon
+foreign import _siEightsleep :: ReactIcon
 
 siEightsleep :: forall a b. Union a b PropsIcon => Record a -> JSX
-siEightsleep = element (unsafeCoerce siEightsleep_)
+siEightsleep = element (unsafeCoerce _siEightsleep)
 
-foreign import siElastic_ :: ReactIcon
+foreign import _siElastic :: ReactIcon
 
 siElastic :: forall a b. Union a b PropsIcon => Record a -> JSX
-siElastic = element (unsafeCoerce siElastic_)
+siElastic = element (unsafeCoerce _siElastic)
 
-foreign import siElasticcloud_ :: ReactIcon
+foreign import _siElasticcloud :: ReactIcon
 
 siElasticcloud :: forall a b. Union a b PropsIcon => Record a -> JSX
-siElasticcloud = element (unsafeCoerce siElasticcloud_)
+siElasticcloud = element (unsafeCoerce _siElasticcloud)
 
-foreign import siElasticsearch_ :: ReactIcon
+foreign import _siElasticsearch :: ReactIcon
 
 siElasticsearch :: forall a b. Union a b PropsIcon => Record a -> JSX
-siElasticsearch = element (unsafeCoerce siElasticsearch_)
+siElasticsearch = element (unsafeCoerce _siElasticsearch)
 
-foreign import siElasticstack_ :: ReactIcon
+foreign import _siElasticstack :: ReactIcon
 
 siElasticstack :: forall a b. Union a b PropsIcon => Record a -> JSX
-siElasticstack = element (unsafeCoerce siElasticstack_)
+siElasticstack = element (unsafeCoerce _siElasticstack)
 
-foreign import siElectron_ :: ReactIcon
+foreign import _siElectron :: ReactIcon
 
 siElectron :: forall a b. Union a b PropsIcon => Record a -> JSX
-siElectron = element (unsafeCoerce siElectron_)
+siElectron = element (unsafeCoerce _siElectron)
 
-foreign import siElement_ :: ReactIcon
+foreign import _siElement :: ReactIcon
 
 siElement :: forall a b. Union a b PropsIcon => Record a -> JSX
-siElement = element (unsafeCoerce siElement_)
+siElement = element (unsafeCoerce _siElement)
 
-foreign import siElementary_ :: ReactIcon
+foreign import _siElementary :: ReactIcon
 
 siElementary :: forall a b. Union a b PropsIcon => Record a -> JSX
-siElementary = element (unsafeCoerce siElementary_)
+siElementary = element (unsafeCoerce _siElementary)
 
-foreign import siEleventy_ :: ReactIcon
+foreign import _siEleventy :: ReactIcon
 
 siEleventy :: forall a b. Union a b PropsIcon => Record a -> JSX
-siEleventy = element (unsafeCoerce siEleventy_)
+siEleventy = element (unsafeCoerce _siEleventy)
 
-foreign import siElixir_ :: ReactIcon
+foreign import _siElixir :: ReactIcon
 
 siElixir :: forall a b. Union a b PropsIcon => Record a -> JSX
-siElixir = element (unsafeCoerce siElixir_)
+siElixir = element (unsafeCoerce _siElixir)
 
-foreign import siEljueves_ :: ReactIcon
+foreign import _siEljueves :: ReactIcon
 
 siEljueves :: forall a b. Union a b PropsIcon => Record a -> JSX
-siEljueves = element (unsafeCoerce siEljueves_)
+siEljueves = element (unsafeCoerce _siEljueves)
 
-foreign import siEllo_ :: ReactIcon
+foreign import _siEllo :: ReactIcon
 
 siEllo :: forall a b. Union a b PropsIcon => Record a -> JSX
-siEllo = element (unsafeCoerce siEllo_)
+siEllo = element (unsafeCoerce _siEllo)
 
-foreign import siElm_ :: ReactIcon
+foreign import _siElm :: ReactIcon
 
 siElm :: forall a b. Union a b PropsIcon => Record a -> JSX
-siElm = element (unsafeCoerce siElm_)
+siElm = element (unsafeCoerce _siElm)
 
-foreign import siElsevier_ :: ReactIcon
+foreign import _siElsevier :: ReactIcon
 
 siElsevier :: forall a b. Union a b PropsIcon => Record a -> JSX
-siElsevier = element (unsafeCoerce siElsevier_)
+siElsevier = element (unsafeCoerce _siElsevier)
 
-foreign import siEmbarcadero_ :: ReactIcon
+foreign import _siEmbarcadero :: ReactIcon
 
 siEmbarcadero :: forall a b. Union a b PropsIcon => Record a -> JSX
-siEmbarcadero = element (unsafeCoerce siEmbarcadero_)
+siEmbarcadero = element (unsafeCoerce _siEmbarcadero)
 
-foreign import siEmberdotjs_ :: ReactIcon
+foreign import _siEmberdotjs :: ReactIcon
 
 siEmberdotjs :: forall a b. Union a b PropsIcon => Record a -> JSX
-siEmberdotjs = element (unsafeCoerce siEmberdotjs_)
+siEmberdotjs = element (unsafeCoerce _siEmberdotjs)
 
-foreign import siEmby_ :: ReactIcon
+foreign import _siEmby :: ReactIcon
 
 siEmby :: forall a b. Union a b PropsIcon => Record a -> JSX
-siEmby = element (unsafeCoerce siEmby_)
+siEmby = element (unsafeCoerce _siEmby)
 
-foreign import siEmirates_ :: ReactIcon
+foreign import _siEmirates :: ReactIcon
 
 siEmirates :: forall a b. Union a b PropsIcon => Record a -> JSX
-siEmirates = element (unsafeCoerce siEmirates_)
+siEmirates = element (unsafeCoerce _siEmirates)
 
-foreign import siEmlakjet_ :: ReactIcon
+foreign import _siEmlakjet :: ReactIcon
 
 siEmlakjet :: forall a b. Union a b PropsIcon => Record a -> JSX
-siEmlakjet = element (unsafeCoerce siEmlakjet_)
+siEmlakjet = element (unsafeCoerce _siEmlakjet)
 
-foreign import siEmpirekred_ :: ReactIcon
+foreign import _siEmpirekred :: ReactIcon
 
 siEmpirekred :: forall a b. Union a b PropsIcon => Record a -> JSX
-siEmpirekred = element (unsafeCoerce siEmpirekred_)
+siEmpirekred = element (unsafeCoerce _siEmpirekred)
 
-foreign import siEnpass_ :: ReactIcon
+foreign import _siEnpass :: ReactIcon
 
 siEnpass :: forall a b. Union a b PropsIcon => Record a -> JSX
-siEnpass = element (unsafeCoerce siEnpass_)
+siEnpass = element (unsafeCoerce _siEnpass)
 
-foreign import siEnvato_ :: ReactIcon
+foreign import _siEnvato :: ReactIcon
 
 siEnvato :: forall a b. Union a b PropsIcon => Record a -> JSX
-siEnvato = element (unsafeCoerce siEnvato_)
+siEnvato = element (unsafeCoerce _siEnvato)
 
-foreign import siEpel_ :: ReactIcon
+foreign import _siEpel :: ReactIcon
 
 siEpel :: forall a b. Union a b PropsIcon => Record a -> JSX
-siEpel = element (unsafeCoerce siEpel_)
+siEpel = element (unsafeCoerce _siEpel)
 
-foreign import siEpicgames_ :: ReactIcon
+foreign import _siEpicgames :: ReactIcon
 
 siEpicgames :: forall a b. Union a b PropsIcon => Record a -> JSX
-siEpicgames = element (unsafeCoerce siEpicgames_)
+siEpicgames = element (unsafeCoerce _siEpicgames)
 
-foreign import siEpson_ :: ReactIcon
+foreign import _siEpson :: ReactIcon
 
 siEpson :: forall a b. Union a b PropsIcon => Record a -> JSX
-siEpson = element (unsafeCoerce siEpson_)
+siEpson = element (unsafeCoerce _siEpson)
 
-foreign import siEquinixmetal_ :: ReactIcon
+foreign import _siEquinixmetal :: ReactIcon
 
 siEquinixmetal :: forall a b. Union a b PropsIcon => Record a -> JSX
-siEquinixmetal = element (unsafeCoerce siEquinixmetal_)
+siEquinixmetal = element (unsafeCoerce _siEquinixmetal)
 
-foreign import siErlang_ :: ReactIcon
+foreign import _siErlang :: ReactIcon
 
 siErlang :: forall a b. Union a b PropsIcon => Record a -> JSX
-siErlang = element (unsafeCoerce siErlang_)
+siErlang = element (unsafeCoerce _siErlang)
 
-foreign import siEsea_ :: ReactIcon
+foreign import _siEsea :: ReactIcon
 
 siEsea :: forall a b. Union a b PropsIcon => Record a -> JSX
-siEsea = element (unsafeCoerce siEsea_)
+siEsea = element (unsafeCoerce _siEsea)
 
-foreign import siEslgaming_ :: ReactIcon
+foreign import _siEslgaming :: ReactIcon
 
 siEslgaming :: forall a b. Union a b PropsIcon => Record a -> JSX
-siEslgaming = element (unsafeCoerce siEslgaming_)
+siEslgaming = element (unsafeCoerce _siEslgaming)
 
-foreign import siEslint_ :: ReactIcon
+foreign import _siEslint :: ReactIcon
 
 siEslint :: forall a b. Union a b PropsIcon => Record a -> JSX
-siEslint = element (unsafeCoerce siEslint_)
+siEslint = element (unsafeCoerce _siEslint)
 
-foreign import siEsphome_ :: ReactIcon
+foreign import _siEsphome :: ReactIcon
 
 siEsphome :: forall a b. Union a b PropsIcon => Record a -> JSX
-siEsphome = element (unsafeCoerce siEsphome_)
+siEsphome = element (unsafeCoerce _siEsphome)
 
-foreign import siEspressif_ :: ReactIcon
+foreign import _siEspressif :: ReactIcon
 
 siEspressif :: forall a b. Union a b PropsIcon => Record a -> JSX
-siEspressif = element (unsafeCoerce siEspressif_)
+siEspressif = element (unsafeCoerce _siEspressif)
 
-foreign import siEtcd_ :: ReactIcon
+foreign import _siEtcd :: ReactIcon
 
 siEtcd :: forall a b. Union a b PropsIcon => Record a -> JSX
-siEtcd = element (unsafeCoerce siEtcd_)
+siEtcd = element (unsafeCoerce _siEtcd)
 
-foreign import siEthereum_ :: ReactIcon
+foreign import _siEthereum :: ReactIcon
 
 siEthereum :: forall a b. Union a b PropsIcon => Record a -> JSX
-siEthereum = element (unsafeCoerce siEthereum_)
+siEthereum = element (unsafeCoerce _siEthereum)
 
-foreign import siEthiopianairlines_ :: ReactIcon
+foreign import _siEthiopianairlines :: ReactIcon
 
 siEthiopianairlines :: forall a b. Union a b PropsIcon => Record a -> JSX
-siEthiopianairlines = element (unsafeCoerce siEthiopianairlines_)
+siEthiopianairlines = element (unsafeCoerce _siEthiopianairlines)
 
-foreign import siEtihadairways_ :: ReactIcon
+foreign import _siEtihadairways :: ReactIcon
 
 siEtihadairways :: forall a b. Union a b PropsIcon => Record a -> JSX
-siEtihadairways = element (unsafeCoerce siEtihadairways_)
+siEtihadairways = element (unsafeCoerce _siEtihadairways)
 
-foreign import siEtsy_ :: ReactIcon
+foreign import _siEtsy :: ReactIcon
 
 siEtsy :: forall a b. Union a b PropsIcon => Record a -> JSX
-siEtsy = element (unsafeCoerce siEtsy_)
+siEtsy = element (unsafeCoerce _siEtsy)
 
-foreign import siEventbrite_ :: ReactIcon
+foreign import _siEventbrite :: ReactIcon
 
 siEventbrite :: forall a b. Union a b PropsIcon => Record a -> JSX
-siEventbrite = element (unsafeCoerce siEventbrite_)
+siEventbrite = element (unsafeCoerce _siEventbrite)
 
-foreign import siEventstore_ :: ReactIcon
+foreign import _siEventstore :: ReactIcon
 
 siEventstore :: forall a b. Union a b PropsIcon => Record a -> JSX
-siEventstore = element (unsafeCoerce siEventstore_)
+siEventstore = element (unsafeCoerce _siEventstore)
 
-foreign import siEvernote_ :: ReactIcon
+foreign import _siEvernote :: ReactIcon
 
 siEvernote :: forall a b. Union a b PropsIcon => Record a -> JSX
-siEvernote = element (unsafeCoerce siEvernote_)
+siEvernote = element (unsafeCoerce _siEvernote)
 
-foreign import siExercism_ :: ReactIcon
+foreign import _siExercism :: ReactIcon
 
 siExercism :: forall a b. Union a b PropsIcon => Record a -> JSX
-siExercism = element (unsafeCoerce siExercism_)
+siExercism = element (unsafeCoerce _siExercism)
 
-foreign import siExpensify_ :: ReactIcon
+foreign import _siExpensify :: ReactIcon
 
 siExpensify :: forall a b. Union a b PropsIcon => Record a -> JSX
-siExpensify = element (unsafeCoerce siExpensify_)
+siExpensify = element (unsafeCoerce _siExpensify)
 
-foreign import siExpertsexchange_ :: ReactIcon
+foreign import _siExpertsexchange :: ReactIcon
 
 siExpertsexchange :: forall a b. Union a b PropsIcon => Record a -> JSX
-siExpertsexchange = element (unsafeCoerce siExpertsexchange_)
+siExpertsexchange = element (unsafeCoerce _siExpertsexchange)
 
-foreign import siExpo_ :: ReactIcon
+foreign import _siExpo :: ReactIcon
 
 siExpo :: forall a b. Union a b PropsIcon => Record a -> JSX
-siExpo = element (unsafeCoerce siExpo_)
+siExpo = element (unsafeCoerce _siExpo)
 
-foreign import siExpress_ :: ReactIcon
+foreign import _siExpress :: ReactIcon
 
 siExpress :: forall a b. Union a b PropsIcon => Record a -> JSX
-siExpress = element (unsafeCoerce siExpress_)
+siExpress = element (unsafeCoerce _siExpress)
 
-foreign import siExpressvpn_ :: ReactIcon
+foreign import _siExpressvpn :: ReactIcon
 
 siExpressvpn :: forall a b. Union a b PropsIcon => Record a -> JSX
-siExpressvpn = element (unsafeCoerce siExpressvpn_)
+siExpressvpn = element (unsafeCoerce _siExpressvpn)
 
-foreign import siEyeem_ :: ReactIcon
+foreign import _siEyeem :: ReactIcon
 
 siEyeem :: forall a b. Union a b PropsIcon => Record a -> JSX
-siEyeem = element (unsafeCoerce siEyeem_)
+siEyeem = element (unsafeCoerce _siEyeem)
 
-foreign import siFacebook_ :: ReactIcon
+foreign import _siFacebook :: ReactIcon
 
 siFacebook :: forall a b. Union a b PropsIcon => Record a -> JSX
-siFacebook = element (unsafeCoerce siFacebook_)
+siFacebook = element (unsafeCoerce _siFacebook)
 
-foreign import siFacebookgaming_ :: ReactIcon
+foreign import _siFacebookgaming :: ReactIcon
 
 siFacebookgaming :: forall a b. Union a b PropsIcon => Record a -> JSX
-siFacebookgaming = element (unsafeCoerce siFacebookgaming_)
+siFacebookgaming = element (unsafeCoerce _siFacebookgaming)
 
-foreign import siFacebooklive_ :: ReactIcon
+foreign import _siFacebooklive :: ReactIcon
 
 siFacebooklive :: forall a b. Union a b PropsIcon => Record a -> JSX
-siFacebooklive = element (unsafeCoerce siFacebooklive_)
+siFacebooklive = element (unsafeCoerce _siFacebooklive)
 
-foreign import siFaceit_ :: ReactIcon
+foreign import _siFaceit :: ReactIcon
 
 siFaceit :: forall a b. Union a b PropsIcon => Record a -> JSX
-siFaceit = element (unsafeCoerce siFaceit_)
+siFaceit = element (unsafeCoerce _siFaceit)
 
-foreign import siFacepunch_ :: ReactIcon
+foreign import _siFacepunch :: ReactIcon
 
 siFacepunch :: forall a b. Union a b PropsIcon => Record a -> JSX
-siFacepunch = element (unsafeCoerce siFacepunch_)
+siFacepunch = element (unsafeCoerce _siFacepunch)
 
-foreign import siFalcon_ :: ReactIcon
+foreign import _siFalcon :: ReactIcon
 
 siFalcon :: forall a b. Union a b PropsIcon => Record a -> JSX
-siFalcon = element (unsafeCoerce siFalcon_)
+siFalcon = element (unsafeCoerce _siFalcon)
 
-foreign import siFampay_ :: ReactIcon
+foreign import _siFampay :: ReactIcon
 
 siFampay :: forall a b. Union a b PropsIcon => Record a -> JSX
-siFampay = element (unsafeCoerce siFampay_)
+siFampay = element (unsafeCoerce _siFampay)
 
-foreign import siFandango_ :: ReactIcon
+foreign import _siFandango :: ReactIcon
 
 siFandango :: forall a b. Union a b PropsIcon => Record a -> JSX
-siFandango = element (unsafeCoerce siFandango_)
+siFandango = element (unsafeCoerce _siFandango)
 
-foreign import siFandom_ :: ReactIcon
+foreign import _siFandom :: ReactIcon
 
 siFandom :: forall a b. Union a b PropsIcon => Record a -> JSX
-siFandom = element (unsafeCoerce siFandom_)
+siFandom = element (unsafeCoerce _siFandom)
 
-foreign import siFarfetch_ :: ReactIcon
+foreign import _siFarfetch :: ReactIcon
 
 siFarfetch :: forall a b. Union a b PropsIcon => Record a -> JSX
-siFarfetch = element (unsafeCoerce siFarfetch_)
+siFarfetch = element (unsafeCoerce _siFarfetch)
 
-foreign import siFastapi_ :: ReactIcon
+foreign import _siFastapi :: ReactIcon
 
 siFastapi :: forall a b. Union a b PropsIcon => Record a -> JSX
-siFastapi = element (unsafeCoerce siFastapi_)
+siFastapi = element (unsafeCoerce _siFastapi)
 
-foreign import siFastify_ :: ReactIcon
+foreign import _siFastify :: ReactIcon
 
 siFastify :: forall a b. Union a b PropsIcon => Record a -> JSX
-siFastify = element (unsafeCoerce siFastify_)
+siFastify = element (unsafeCoerce _siFastify)
 
-foreign import siFastlane_ :: ReactIcon
+foreign import _siFastlane :: ReactIcon
 
 siFastlane :: forall a b. Union a b PropsIcon => Record a -> JSX
-siFastlane = element (unsafeCoerce siFastlane_)
+siFastlane = element (unsafeCoerce _siFastlane)
 
-foreign import siFastly_ :: ReactIcon
+foreign import _siFastly :: ReactIcon
 
 siFastly :: forall a b. Union a b PropsIcon => Record a -> JSX
-siFastly = element (unsafeCoerce siFastly_)
+siFastly = element (unsafeCoerce _siFastly)
 
-foreign import siFathom_ :: ReactIcon
+foreign import _siFathom :: ReactIcon
 
 siFathom :: forall a b. Union a b PropsIcon => Record a -> JSX
-siFathom = element (unsafeCoerce siFathom_)
+siFathom = element (unsafeCoerce _siFathom)
 
-foreign import siFavro_ :: ReactIcon
+foreign import _siFavro :: ReactIcon
 
 siFavro :: forall a b. Union a b PropsIcon => Record a -> JSX
-siFavro = element (unsafeCoerce siFavro_)
+siFavro = element (unsafeCoerce _siFavro)
 
-foreign import siFdroid_ :: ReactIcon
+foreign import _siFdroid :: ReactIcon
 
 siFdroid :: forall a b. Union a b PropsIcon => Record a -> JSX
-siFdroid = element (unsafeCoerce siFdroid_)
+siFdroid = element (unsafeCoerce _siFdroid)
 
-foreign import siFeathub_ :: ReactIcon
+foreign import _siFeathub :: ReactIcon
 
 siFeathub :: forall a b. Union a b PropsIcon => Record a -> JSX
-siFeathub = element (unsafeCoerce siFeathub_)
+siFeathub = element (unsafeCoerce _siFeathub)
 
-foreign import siFedex_ :: ReactIcon
+foreign import _siFedex :: ReactIcon
 
 siFedex :: forall a b. Union a b PropsIcon => Record a -> JSX
-siFedex = element (unsafeCoerce siFedex_)
+siFedex = element (unsafeCoerce _siFedex)
 
-foreign import siFedora_ :: ReactIcon
+foreign import _siFedora :: ReactIcon
 
 siFedora :: forall a b. Union a b PropsIcon => Record a -> JSX
-siFedora = element (unsafeCoerce siFedora_)
+siFedora = element (unsafeCoerce _siFedora)
 
-foreign import siFeedly_ :: ReactIcon
+foreign import _siFeedly :: ReactIcon
 
 siFeedly :: forall a b. Union a b PropsIcon => Record a -> JSX
-siFeedly = element (unsafeCoerce siFeedly_)
+siFeedly = element (unsafeCoerce _siFeedly)
 
-foreign import siFerrari_ :: ReactIcon
+foreign import _siFerrari :: ReactIcon
 
 siFerrari :: forall a b. Union a b PropsIcon => Record a -> JSX
-siFerrari = element (unsafeCoerce siFerrari_)
+siFerrari = element (unsafeCoerce _siFerrari)
 
-foreign import siFerrarinv_ :: ReactIcon
+foreign import _siFerrarinv :: ReactIcon
 
 siFerrarinv :: forall a b. Union a b PropsIcon => Record a -> JSX
-siFerrarinv = element (unsafeCoerce siFerrarinv_)
+siFerrarinv = element (unsafeCoerce _siFerrarinv)
 
-foreign import siFfmpeg_ :: ReactIcon
+foreign import _siFfmpeg :: ReactIcon
 
 siFfmpeg :: forall a b. Union a b PropsIcon => Record a -> JSX
-siFfmpeg = element (unsafeCoerce siFfmpeg_)
+siFfmpeg = element (unsafeCoerce _siFfmpeg)
 
-foreign import siFiat_ :: ReactIcon
+foreign import _siFiat :: ReactIcon
 
 siFiat :: forall a b. Union a b PropsIcon => Record a -> JSX
-siFiat = element (unsafeCoerce siFiat_)
+siFiat = element (unsafeCoerce _siFiat)
 
-foreign import siFidoalliance_ :: ReactIcon
+foreign import _siFidoalliance :: ReactIcon
 
 siFidoalliance :: forall a b. Union a b PropsIcon => Record a -> JSX
-siFidoalliance = element (unsafeCoerce siFidoalliance_)
+siFidoalliance = element (unsafeCoerce _siFidoalliance)
 
-foreign import siFifa_ :: ReactIcon
+foreign import _siFifa :: ReactIcon
 
 siFifa :: forall a b. Union a b PropsIcon => Record a -> JSX
-siFifa = element (unsafeCoerce siFifa_)
+siFifa = element (unsafeCoerce _siFifa)
 
-foreign import siFigma_ :: ReactIcon
+foreign import _siFigma :: ReactIcon
 
 siFigma :: forall a b. Union a b PropsIcon => Record a -> JSX
-siFigma = element (unsafeCoerce siFigma_)
+siFigma = element (unsafeCoerce _siFigma)
 
-foreign import siFigshare_ :: ReactIcon
+foreign import _siFigshare :: ReactIcon
 
 siFigshare :: forall a b. Union a b PropsIcon => Record a -> JSX
-siFigshare = element (unsafeCoerce siFigshare_)
+siFigshare = element (unsafeCoerce _siFigshare)
 
-foreign import siFila_ :: ReactIcon
+foreign import _siFila :: ReactIcon
 
 siFila :: forall a b. Union a b PropsIcon => Record a -> JSX
-siFila = element (unsafeCoerce siFila_)
+siFila = element (unsafeCoerce _siFila)
 
-foreign import siFiles_ :: ReactIcon
+foreign import _siFiles :: ReactIcon
 
 siFiles :: forall a b. Union a b PropsIcon => Record a -> JSX
-siFiles = element (unsafeCoerce siFiles_)
+siFiles = element (unsafeCoerce _siFiles)
 
-foreign import siFilezilla_ :: ReactIcon
+foreign import _siFilezilla :: ReactIcon
 
 siFilezilla :: forall a b. Union a b PropsIcon => Record a -> JSX
-siFilezilla = element (unsafeCoerce siFilezilla_)
+siFilezilla = element (unsafeCoerce _siFilezilla)
 
-foreign import siFing_ :: ReactIcon
+foreign import _siFing :: ReactIcon
 
 siFing :: forall a b. Union a b PropsIcon => Record a -> JSX
-siFing = element (unsafeCoerce siFing_)
+siFing = element (unsafeCoerce _siFing)
 
-foreign import siFirebase_ :: ReactIcon
+foreign import _siFirebase :: ReactIcon
 
 siFirebase :: forall a b. Union a b PropsIcon => Record a -> JSX
-siFirebase = element (unsafeCoerce siFirebase_)
+siFirebase = element (unsafeCoerce _siFirebase)
 
-foreign import siFirefox_ :: ReactIcon
+foreign import _siFirefox :: ReactIcon
 
 siFirefox :: forall a b. Union a b PropsIcon => Record a -> JSX
-siFirefox = element (unsafeCoerce siFirefox_)
+siFirefox = element (unsafeCoerce _siFirefox)
 
-foreign import siFirefoxbrowser_ :: ReactIcon
+foreign import _siFirefoxbrowser :: ReactIcon
 
 siFirefoxbrowser :: forall a b. Union a b PropsIcon => Record a -> JSX
-siFirefoxbrowser = element (unsafeCoerce siFirefoxbrowser_)
+siFirefoxbrowser = element (unsafeCoerce _siFirefoxbrowser)
 
-foreign import siFirst_ :: ReactIcon
+foreign import _siFirst :: ReactIcon
 
 siFirst :: forall a b. Union a b PropsIcon => Record a -> JSX
-siFirst = element (unsafeCoerce siFirst_)
+siFirst = element (unsafeCoerce _siFirst)
 
-foreign import siFitbit_ :: ReactIcon
+foreign import _siFitbit :: ReactIcon
 
 siFitbit :: forall a b. Union a b PropsIcon => Record a -> JSX
-siFitbit = element (unsafeCoerce siFitbit_)
+siFitbit = element (unsafeCoerce _siFitbit)
 
-foreign import siFite_ :: ReactIcon
+foreign import _siFite :: ReactIcon
 
 siFite :: forall a b. Union a b PropsIcon => Record a -> JSX
-siFite = element (unsafeCoerce siFite_)
+siFite = element (unsafeCoerce _siFite)
 
-foreign import siFiverr_ :: ReactIcon
+foreign import _siFiverr :: ReactIcon
 
 siFiverr :: forall a b. Union a b PropsIcon => Record a -> JSX
-siFiverr = element (unsafeCoerce siFiverr_)
+siFiverr = element (unsafeCoerce _siFiverr)
 
-foreign import siFlask_ :: ReactIcon
+foreign import _siFlask :: ReactIcon
 
 siFlask :: forall a b. Union a b PropsIcon => Record a -> JSX
-siFlask = element (unsafeCoerce siFlask_)
+siFlask = element (unsafeCoerce _siFlask)
 
-foreign import siFlathub_ :: ReactIcon
+foreign import _siFlathub :: ReactIcon
 
 siFlathub :: forall a b. Union a b PropsIcon => Record a -> JSX
-siFlathub = element (unsafeCoerce siFlathub_)
+siFlathub = element (unsafeCoerce _siFlathub)
 
-foreign import siFlattr_ :: ReactIcon
+foreign import _siFlattr :: ReactIcon
 
 siFlattr :: forall a b. Union a b PropsIcon => Record a -> JSX
-siFlattr = element (unsafeCoerce siFlattr_)
+siFlattr = element (unsafeCoerce _siFlattr)
 
-foreign import siFlickr_ :: ReactIcon
+foreign import _siFlickr :: ReactIcon
 
 siFlickr :: forall a b. Union a b PropsIcon => Record a -> JSX
-siFlickr = element (unsafeCoerce siFlickr_)
+siFlickr = element (unsafeCoerce _siFlickr)
 
-foreign import siFlipboard_ :: ReactIcon
+foreign import _siFlipboard :: ReactIcon
 
 siFlipboard :: forall a b. Union a b PropsIcon => Record a -> JSX
-siFlipboard = element (unsafeCoerce siFlipboard_)
+siFlipboard = element (unsafeCoerce _siFlipboard)
 
-foreign import siFlipkart_ :: ReactIcon
+foreign import _siFlipkart :: ReactIcon
 
 siFlipkart :: forall a b. Union a b PropsIcon => Record a -> JSX
-siFlipkart = element (unsafeCoerce siFlipkart_)
+siFlipkart = element (unsafeCoerce _siFlipkart)
 
-foreign import siFloatplane_ :: ReactIcon
+foreign import _siFloatplane :: ReactIcon
 
 siFloatplane :: forall a b. Union a b PropsIcon => Record a -> JSX
-siFloatplane = element (unsafeCoerce siFloatplane_)
+siFloatplane = element (unsafeCoerce _siFloatplane)
 
-foreign import siFlood_ :: ReactIcon
+foreign import _siFlood :: ReactIcon
 
 siFlood :: forall a b. Union a b PropsIcon => Record a -> JSX
-siFlood = element (unsafeCoerce siFlood_)
+siFlood = element (unsafeCoerce _siFlood)
 
-foreign import siFluentd_ :: ReactIcon
+foreign import _siFluentd :: ReactIcon
 
 siFluentd :: forall a b. Union a b PropsIcon => Record a -> JSX
-siFluentd = element (unsafeCoerce siFluentd_)
+siFluentd = element (unsafeCoerce _siFluentd)
 
-foreign import siFlutter_ :: ReactIcon
+foreign import _siFlutter :: ReactIcon
 
 siFlutter :: forall a b. Union a b PropsIcon => Record a -> JSX
-siFlutter = element (unsafeCoerce siFlutter_)
+siFlutter = element (unsafeCoerce _siFlutter)
 
-foreign import siFmod_ :: ReactIcon
+foreign import _siFmod :: ReactIcon
 
 siFmod :: forall a b. Union a b PropsIcon => Record a -> JSX
-siFmod = element (unsafeCoerce siFmod_)
+siFmod = element (unsafeCoerce _siFmod)
 
-foreign import siFnac_ :: ReactIcon
+foreign import _siFnac :: ReactIcon
 
 siFnac :: forall a b. Union a b PropsIcon => Record a -> JSX
-siFnac = element (unsafeCoerce siFnac_)
+siFnac = element (unsafeCoerce _siFnac)
 
-foreign import siFolium_ :: ReactIcon
+foreign import _siFolium :: ReactIcon
 
 siFolium :: forall a b. Union a b PropsIcon => Record a -> JSX
-siFolium = element (unsafeCoerce siFolium_)
+siFolium = element (unsafeCoerce _siFolium)
 
-foreign import siFontawesome_ :: ReactIcon
+foreign import _siFontawesome :: ReactIcon
 
 siFontawesome :: forall a b. Union a b PropsIcon => Record a -> JSX
-siFontawesome = element (unsafeCoerce siFontawesome_)
+siFontawesome = element (unsafeCoerce _siFontawesome)
 
-foreign import siFontbase_ :: ReactIcon
+foreign import _siFontbase :: ReactIcon
 
 siFontbase :: forall a b. Union a b PropsIcon => Record a -> JSX
-siFontbase = element (unsafeCoerce siFontbase_)
+siFontbase = element (unsafeCoerce _siFontbase)
 
-foreign import siFoodpanda_ :: ReactIcon
+foreign import _siFoodpanda :: ReactIcon
 
 siFoodpanda :: forall a b. Union a b PropsIcon => Record a -> JSX
-siFoodpanda = element (unsafeCoerce siFoodpanda_)
+siFoodpanda = element (unsafeCoerce _siFoodpanda)
 
-foreign import siFord_ :: ReactIcon
+foreign import _siFord :: ReactIcon
 
 siFord :: forall a b. Union a b PropsIcon => Record a -> JSX
-siFord = element (unsafeCoerce siFord_)
+siFord = element (unsafeCoerce _siFord)
 
-foreign import siForestry_ :: ReactIcon
+foreign import _siForestry :: ReactIcon
 
 siForestry :: forall a b. Union a b PropsIcon => Record a -> JSX
-siForestry = element (unsafeCoerce siForestry_)
+siForestry = element (unsafeCoerce _siForestry)
 
-foreign import siFormstack_ :: ReactIcon
+foreign import _siFormstack :: ReactIcon
 
 siFormstack :: forall a b. Union a b PropsIcon => Record a -> JSX
-siFormstack = element (unsafeCoerce siFormstack_)
+siFormstack = element (unsafeCoerce _siFormstack)
 
-foreign import siFortinet_ :: ReactIcon
+foreign import _siFortinet :: ReactIcon
 
 siFortinet :: forall a b. Union a b PropsIcon => Record a -> JSX
-siFortinet = element (unsafeCoerce siFortinet_)
+siFortinet = element (unsafeCoerce _siFortinet)
 
-foreign import siFortran_ :: ReactIcon
+foreign import _siFortran :: ReactIcon
 
 siFortran :: forall a b. Union a b PropsIcon => Record a -> JSX
-siFortran = element (unsafeCoerce siFortran_)
+siFortran = element (unsafeCoerce _siFortran)
 
-foreign import siFossa_ :: ReactIcon
+foreign import _siFossa :: ReactIcon
 
 siFossa :: forall a b. Union a b PropsIcon => Record a -> JSX
-siFossa = element (unsafeCoerce siFossa_)
+siFossa = element (unsafeCoerce _siFossa)
 
-foreign import siFossilscm_ :: ReactIcon
+foreign import _siFossilscm :: ReactIcon
 
 siFossilscm :: forall a b. Union a b PropsIcon => Record a -> JSX
-siFossilscm = element (unsafeCoerce siFossilscm_)
+siFossilscm = element (unsafeCoerce _siFossilscm)
 
-foreign import siFoursquare_ :: ReactIcon
+foreign import _siFoursquare :: ReactIcon
 
 siFoursquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-siFoursquare = element (unsafeCoerce siFoursquare_)
+siFoursquare = element (unsafeCoerce _siFoursquare)
 
-foreign import siFoursquarecityguide_ :: ReactIcon
+foreign import _siFoursquarecityguide :: ReactIcon
 
 siFoursquarecityguide :: forall a b. Union a b PropsIcon => Record a -> JSX
-siFoursquarecityguide = element (unsafeCoerce siFoursquarecityguide_)
+siFoursquarecityguide = element (unsafeCoerce _siFoursquarecityguide)
 
-foreign import siFoxtel_ :: ReactIcon
+foreign import _siFoxtel :: ReactIcon
 
 siFoxtel :: forall a b. Union a b PropsIcon => Record a -> JSX
-siFoxtel = element (unsafeCoerce siFoxtel_)
+siFoxtel = element (unsafeCoerce _siFoxtel)
 
-foreign import siFozzy_ :: ReactIcon
+foreign import _siFozzy :: ReactIcon
 
 siFozzy :: forall a b. Union a b PropsIcon => Record a -> JSX
-siFozzy = element (unsafeCoerce siFozzy_)
+siFozzy = element (unsafeCoerce _siFozzy)
 
-foreign import siFramer_ :: ReactIcon
+foreign import _siFramer :: ReactIcon
 
 siFramer :: forall a b. Union a b PropsIcon => Record a -> JSX
-siFramer = element (unsafeCoerce siFramer_)
+siFramer = element (unsafeCoerce _siFramer)
 
-foreign import siFranprix_ :: ReactIcon
+foreign import _siFranprix :: ReactIcon
 
 siFranprix :: forall a b. Union a b PropsIcon => Record a -> JSX
-siFranprix = element (unsafeCoerce siFranprix_)
+siFranprix = element (unsafeCoerce _siFranprix)
 
-foreign import siFraunhofergesellschaft_ :: ReactIcon
+foreign import _siFraunhofergesellschaft :: ReactIcon
 
 siFraunhofergesellschaft :: forall a b. Union a b PropsIcon => Record a -> JSX
-siFraunhofergesellschaft = element (unsafeCoerce siFraunhofergesellschaft_)
+siFraunhofergesellschaft = element (unsafeCoerce _siFraunhofergesellschaft)
 
-foreign import siFreebsd_ :: ReactIcon
+foreign import _siFreebsd :: ReactIcon
 
 siFreebsd :: forall a b. Union a b PropsIcon => Record a -> JSX
-siFreebsd = element (unsafeCoerce siFreebsd_)
+siFreebsd = element (unsafeCoerce _siFreebsd)
 
-foreign import siFreecodecamp_ :: ReactIcon
+foreign import _siFreecodecamp :: ReactIcon
 
 siFreecodecamp :: forall a b. Union a b PropsIcon => Record a -> JSX
-siFreecodecamp = element (unsafeCoerce siFreecodecamp_)
+siFreecodecamp = element (unsafeCoerce _siFreecodecamp)
 
-foreign import siFreedesktopdotorg_ :: ReactIcon
+foreign import _siFreedesktopdotorg :: ReactIcon
 
 siFreedesktopdotorg :: forall a b. Union a b PropsIcon => Record a -> JSX
-siFreedesktopdotorg = element (unsafeCoerce siFreedesktopdotorg_)
+siFreedesktopdotorg = element (unsafeCoerce _siFreedesktopdotorg)
 
-foreign import siFreelancer_ :: ReactIcon
+foreign import _siFreelancer :: ReactIcon
 
 siFreelancer :: forall a b. Union a b PropsIcon => Record a -> JSX
-siFreelancer = element (unsafeCoerce siFreelancer_)
+siFreelancer = element (unsafeCoerce _siFreelancer)
 
-foreign import siFreenas_ :: ReactIcon
+foreign import _siFreenas :: ReactIcon
 
 siFreenas :: forall a b. Union a b PropsIcon => Record a -> JSX
-siFreenas = element (unsafeCoerce siFreenas_)
+siFreenas = element (unsafeCoerce _siFreenas)
 
-foreign import siFrontendmentor_ :: ReactIcon
+foreign import _siFrontendmentor :: ReactIcon
 
 siFrontendmentor :: forall a b. Union a b PropsIcon => Record a -> JSX
-siFrontendmentor = element (unsafeCoerce siFrontendmentor_)
+siFrontendmentor = element (unsafeCoerce _siFrontendmentor)
 
-foreign import siFsecure_ :: ReactIcon
+foreign import _siFsecure :: ReactIcon
 
 siFsecure :: forall a b. Union a b PropsIcon => Record a -> JSX
-siFsecure = element (unsafeCoerce siFsecure_)
+siFsecure = element (unsafeCoerce _siFsecure)
 
-foreign import siFujifilm_ :: ReactIcon
+foreign import _siFujifilm :: ReactIcon
 
 siFujifilm :: forall a b. Union a b PropsIcon => Record a -> JSX
-siFujifilm = element (unsafeCoerce siFujifilm_)
+siFujifilm = element (unsafeCoerce _siFujifilm)
 
-foreign import siFujitsu_ :: ReactIcon
+foreign import _siFujitsu :: ReactIcon
 
 siFujitsu :: forall a b. Union a b PropsIcon => Record a -> JSX
-siFujitsu = element (unsafeCoerce siFujitsu_)
+siFujitsu = element (unsafeCoerce _siFujitsu)
 
-foreign import siFuraffinity_ :: ReactIcon
+foreign import _siFuraffinity :: ReactIcon
 
 siFuraffinity :: forall a b. Union a b PropsIcon => Record a -> JSX
-siFuraffinity = element (unsafeCoerce siFuraffinity_)
+siFuraffinity = element (unsafeCoerce _siFuraffinity)
 
-foreign import siFurrynetwork_ :: ReactIcon
+foreign import _siFurrynetwork :: ReactIcon
 
 siFurrynetwork :: forall a b. Union a b PropsIcon => Record a -> JSX
-siFurrynetwork = element (unsafeCoerce siFurrynetwork_)
+siFurrynetwork = element (unsafeCoerce _siFurrynetwork)
 
-foreign import siFuturelearn_ :: ReactIcon
+foreign import _siFuturelearn :: ReactIcon
 
 siFuturelearn :: forall a b. Union a b PropsIcon => Record a -> JSX
-siFuturelearn = element (unsafeCoerce siFuturelearn_)
+siFuturelearn = element (unsafeCoerce _siFuturelearn)
 
-foreign import siGamejolt_ :: ReactIcon
+foreign import _siGamejolt :: ReactIcon
 
 siGamejolt :: forall a b. Union a b PropsIcon => Record a -> JSX
-siGamejolt = element (unsafeCoerce siGamejolt_)
+siGamejolt = element (unsafeCoerce _siGamejolt)
 
-foreign import siGarmin_ :: ReactIcon
+foreign import _siGarmin :: ReactIcon
 
 siGarmin :: forall a b. Union a b PropsIcon => Record a -> JSX
-siGarmin = element (unsafeCoerce siGarmin_)
+siGarmin = element (unsafeCoerce _siGarmin)
 
-foreign import siGatling_ :: ReactIcon
+foreign import _siGatling :: ReactIcon
 
 siGatling :: forall a b. Union a b PropsIcon => Record a -> JSX
-siGatling = element (unsafeCoerce siGatling_)
+siGatling = element (unsafeCoerce _siGatling)
 
-foreign import siGatsby_ :: ReactIcon
+foreign import _siGatsby :: ReactIcon
 
 siGatsby :: forall a b. Union a b PropsIcon => Record a -> JSX
-siGatsby = element (unsafeCoerce siGatsby_)
+siGatsby = element (unsafeCoerce _siGatsby)
 
-foreign import siGeeksforgeeks_ :: ReactIcon
+foreign import _siGeeksforgeeks :: ReactIcon
 
 siGeeksforgeeks :: forall a b. Union a b PropsIcon => Record a -> JSX
-siGeeksforgeeks = element (unsafeCoerce siGeeksforgeeks_)
+siGeeksforgeeks = element (unsafeCoerce _siGeeksforgeeks)
 
-foreign import siGeneralelectric_ :: ReactIcon
+foreign import _siGeneralelectric :: ReactIcon
 
 siGeneralelectric :: forall a b. Union a b PropsIcon => Record a -> JSX
-siGeneralelectric = element (unsafeCoerce siGeneralelectric_)
+siGeneralelectric = element (unsafeCoerce _siGeneralelectric)
 
-foreign import siGeneralmotors_ :: ReactIcon
+foreign import _siGeneralmotors :: ReactIcon
 
 siGeneralmotors :: forall a b. Union a b PropsIcon => Record a -> JSX
-siGeneralmotors = element (unsafeCoerce siGeneralmotors_)
+siGeneralmotors = element (unsafeCoerce _siGeneralmotors)
 
-foreign import siGenius_ :: ReactIcon
+foreign import _siGenius :: ReactIcon
 
 siGenius :: forall a b. Union a b PropsIcon => Record a -> JSX
-siGenius = element (unsafeCoerce siGenius_)
+siGenius = element (unsafeCoerce _siGenius)
 
-foreign import siGentoo_ :: ReactIcon
+foreign import _siGentoo :: ReactIcon
 
 siGentoo :: forall a b. Union a b PropsIcon => Record a -> JSX
-siGentoo = element (unsafeCoerce siGentoo_)
+siGentoo = element (unsafeCoerce _siGentoo)
 
-foreign import siGeocaching_ :: ReactIcon
+foreign import _siGeocaching :: ReactIcon
 
 siGeocaching :: forall a b. Union a b PropsIcon => Record a -> JSX
-siGeocaching = element (unsafeCoerce siGeocaching_)
+siGeocaching = element (unsafeCoerce _siGeocaching)
 
-foreign import siGerrit_ :: ReactIcon
+foreign import _siGerrit :: ReactIcon
 
 siGerrit :: forall a b. Union a b PropsIcon => Record a -> JSX
-siGerrit = element (unsafeCoerce siGerrit_)
+siGerrit = element (unsafeCoerce _siGerrit)
 
-foreign import siGhost_ :: ReactIcon
+foreign import _siGhost :: ReactIcon
 
 siGhost :: forall a b. Union a b PropsIcon => Record a -> JSX
-siGhost = element (unsafeCoerce siGhost_)
+siGhost = element (unsafeCoerce _siGhost)
 
-foreign import siGhostery_ :: ReactIcon
+foreign import _siGhostery :: ReactIcon
 
 siGhostery :: forall a b. Union a b PropsIcon => Record a -> JSX
-siGhostery = element (unsafeCoerce siGhostery_)
+siGhostery = element (unsafeCoerce _siGhostery)
 
-foreign import siGimp_ :: ReactIcon
+foreign import _siGimp :: ReactIcon
 
 siGimp :: forall a b. Union a b PropsIcon => Record a -> JSX
-siGimp = element (unsafeCoerce siGimp_)
+siGimp = element (unsafeCoerce _siGimp)
 
-foreign import siGiphy_ :: ReactIcon
+foreign import _siGiphy :: ReactIcon
 
 siGiphy :: forall a b. Union a b PropsIcon => Record a -> JSX
-siGiphy = element (unsafeCoerce siGiphy_)
+siGiphy = element (unsafeCoerce _siGiphy)
 
-foreign import siGit_ :: ReactIcon
+foreign import _siGit :: ReactIcon
 
 siGit :: forall a b. Union a b PropsIcon => Record a -> JSX
-siGit = element (unsafeCoerce siGit_)
+siGit = element (unsafeCoerce _siGit)
 
-foreign import siGitbook_ :: ReactIcon
+foreign import _siGitbook :: ReactIcon
 
 siGitbook :: forall a b. Union a b PropsIcon => Record a -> JSX
-siGitbook = element (unsafeCoerce siGitbook_)
+siGitbook = element (unsafeCoerce _siGitbook)
 
-foreign import siGitea_ :: ReactIcon
+foreign import _siGitea :: ReactIcon
 
 siGitea :: forall a b. Union a b PropsIcon => Record a -> JSX
-siGitea = element (unsafeCoerce siGitea_)
+siGitea = element (unsafeCoerce _siGitea)
 
-foreign import siGitee_ :: ReactIcon
+foreign import _siGitee :: ReactIcon
 
 siGitee :: forall a b. Union a b PropsIcon => Record a -> JSX
-siGitee = element (unsafeCoerce siGitee_)
+siGitee = element (unsafeCoerce _siGitee)
 
-foreign import siGitextensions_ :: ReactIcon
+foreign import _siGitextensions :: ReactIcon
 
 siGitextensions :: forall a b. Union a b PropsIcon => Record a -> JSX
-siGitextensions = element (unsafeCoerce siGitextensions_)
+siGitextensions = element (unsafeCoerce _siGitextensions)
 
-foreign import siGithub_ :: ReactIcon
+foreign import _siGithub :: ReactIcon
 
 siGithub :: forall a b. Union a b PropsIcon => Record a -> JSX
-siGithub = element (unsafeCoerce siGithub_)
+siGithub = element (unsafeCoerce _siGithub)
 
-foreign import siGithubactions_ :: ReactIcon
+foreign import _siGithubactions :: ReactIcon
 
 siGithubactions :: forall a b. Union a b PropsIcon => Record a -> JSX
-siGithubactions = element (unsafeCoerce siGithubactions_)
+siGithubactions = element (unsafeCoerce _siGithubactions)
 
-foreign import siGithubsponsors_ :: ReactIcon
+foreign import _siGithubsponsors :: ReactIcon
 
 siGithubsponsors :: forall a b. Union a b PropsIcon => Record a -> JSX
-siGithubsponsors = element (unsafeCoerce siGithubsponsors_)
+siGithubsponsors = element (unsafeCoerce _siGithubsponsors)
 
-foreign import siGitkraken_ :: ReactIcon
+foreign import _siGitkraken :: ReactIcon
 
 siGitkraken :: forall a b. Union a b PropsIcon => Record a -> JSX
-siGitkraken = element (unsafeCoerce siGitkraken_)
+siGitkraken = element (unsafeCoerce _siGitkraken)
 
-foreign import siGitlab_ :: ReactIcon
+foreign import _siGitlab :: ReactIcon
 
 siGitlab :: forall a b. Union a b PropsIcon => Record a -> JSX
-siGitlab = element (unsafeCoerce siGitlab_)
+siGitlab = element (unsafeCoerce _siGitlab)
 
-foreign import siGitlfs_ :: ReactIcon
+foreign import _siGitlfs :: ReactIcon
 
 siGitlfs :: forall a b. Union a b PropsIcon => Record a -> JSX
-siGitlfs = element (unsafeCoerce siGitlfs_)
+siGitlfs = element (unsafeCoerce _siGitlfs)
 
-foreign import siGitpod_ :: ReactIcon
+foreign import _siGitpod :: ReactIcon
 
 siGitpod :: forall a b. Union a b PropsIcon => Record a -> JSX
-siGitpod = element (unsafeCoerce siGitpod_)
+siGitpod = element (unsafeCoerce _siGitpod)
 
-foreign import siGitter_ :: ReactIcon
+foreign import _siGitter :: ReactIcon
 
 siGitter :: forall a b. Union a b PropsIcon => Record a -> JSX
-siGitter = element (unsafeCoerce siGitter_)
+siGitter = element (unsafeCoerce _siGitter)
 
-foreign import siGlassdoor_ :: ReactIcon
+foreign import _siGlassdoor :: ReactIcon
 
 siGlassdoor :: forall a b. Union a b PropsIcon => Record a -> JSX
-siGlassdoor = element (unsafeCoerce siGlassdoor_)
+siGlassdoor = element (unsafeCoerce _siGlassdoor)
 
-foreign import siGlitch_ :: ReactIcon
+foreign import _siGlitch :: ReactIcon
 
 siGlitch :: forall a b. Union a b PropsIcon => Record a -> JSX
-siGlitch = element (unsafeCoerce siGlitch_)
+siGlitch = element (unsafeCoerce _siGlitch)
 
-foreign import siGmail_ :: ReactIcon
+foreign import _siGmail :: ReactIcon
 
 siGmail :: forall a b. Union a b PropsIcon => Record a -> JSX
-siGmail = element (unsafeCoerce siGmail_)
+siGmail = element (unsafeCoerce _siGmail)
 
-foreign import siGnome_ :: ReactIcon
+foreign import _siGnome :: ReactIcon
 
 siGnome :: forall a b. Union a b PropsIcon => Record a -> JSX
-siGnome = element (unsafeCoerce siGnome_)
+siGnome = element (unsafeCoerce _siGnome)
 
-foreign import siGnu_ :: ReactIcon
+foreign import _siGnu :: ReactIcon
 
 siGnu :: forall a b. Union a b PropsIcon => Record a -> JSX
-siGnu = element (unsafeCoerce siGnu_)
+siGnu = element (unsafeCoerce _siGnu)
 
-foreign import siGnubash_ :: ReactIcon
+foreign import _siGnubash :: ReactIcon
 
 siGnubash :: forall a b. Union a b PropsIcon => Record a -> JSX
-siGnubash = element (unsafeCoerce siGnubash_)
+siGnubash = element (unsafeCoerce _siGnubash)
 
-foreign import siGnuemacs_ :: ReactIcon
+foreign import _siGnuemacs :: ReactIcon
 
 siGnuemacs :: forall a b. Union a b PropsIcon => Record a -> JSX
-siGnuemacs = element (unsafeCoerce siGnuemacs_)
+siGnuemacs = element (unsafeCoerce _siGnuemacs)
 
-foreign import siGnuicecat_ :: ReactIcon
+foreign import _siGnuicecat :: ReactIcon
 
 siGnuicecat :: forall a b. Union a b PropsIcon => Record a -> JSX
-siGnuicecat = element (unsafeCoerce siGnuicecat_)
+siGnuicecat = element (unsafeCoerce _siGnuicecat)
 
-foreign import siGnuprivacyguard_ :: ReactIcon
+foreign import _siGnuprivacyguard :: ReactIcon
 
 siGnuprivacyguard :: forall a b. Union a b PropsIcon => Record a -> JSX
-siGnuprivacyguard = element (unsafeCoerce siGnuprivacyguard_)
+siGnuprivacyguard = element (unsafeCoerce _siGnuprivacyguard)
 
-foreign import siGnusocial_ :: ReactIcon
+foreign import _siGnusocial :: ReactIcon
 
 siGnusocial :: forall a b. Union a b PropsIcon => Record a -> JSX
-siGnusocial = element (unsafeCoerce siGnusocial_)
+siGnusocial = element (unsafeCoerce _siGnusocial)
 
-foreign import siGo_ :: ReactIcon
+foreign import _siGo :: ReactIcon
 
 siGo :: forall a b. Union a b PropsIcon => Record a -> JSX
-siGo = element (unsafeCoerce siGo_)
+siGo = element (unsafeCoerce _siGo)
 
-foreign import siGocd_ :: ReactIcon
+foreign import _siGocd :: ReactIcon
 
 siGocd :: forall a b. Union a b PropsIcon => Record a -> JSX
-siGocd = element (unsafeCoerce siGocd_)
+siGocd = element (unsafeCoerce _siGocd)
 
-foreign import siGodaddy_ :: ReactIcon
+foreign import _siGodaddy :: ReactIcon
 
 siGodaddy :: forall a b. Union a b PropsIcon => Record a -> JSX
-siGodaddy = element (unsafeCoerce siGodaddy_)
+siGodaddy = element (unsafeCoerce _siGodaddy)
 
-foreign import siGodotengine_ :: ReactIcon
+foreign import _siGodotengine :: ReactIcon
 
 siGodotengine :: forall a b. Union a b PropsIcon => Record a -> JSX
-siGodotengine = element (unsafeCoerce siGodotengine_)
+siGodotengine = element (unsafeCoerce _siGodotengine)
 
-foreign import siGofundme_ :: ReactIcon
+foreign import _siGofundme :: ReactIcon
 
 siGofundme :: forall a b. Union a b PropsIcon => Record a -> JSX
-siGofundme = element (unsafeCoerce siGofundme_)
+siGofundme = element (unsafeCoerce _siGofundme)
 
-foreign import siGogdotcom_ :: ReactIcon
+foreign import _siGogdotcom :: ReactIcon
 
 siGogdotcom :: forall a b. Union a b PropsIcon => Record a -> JSX
-siGogdotcom = element (unsafeCoerce siGogdotcom_)
+siGogdotcom = element (unsafeCoerce _siGogdotcom)
 
-foreign import siGoland_ :: ReactIcon
+foreign import _siGoland :: ReactIcon
 
 siGoland :: forall a b. Union a b PropsIcon => Record a -> JSX
-siGoland = element (unsafeCoerce siGoland_)
+siGoland = element (unsafeCoerce _siGoland)
 
-foreign import siGoldenline_ :: ReactIcon
+foreign import _siGoldenline :: ReactIcon
 
 siGoldenline :: forall a b. Union a b PropsIcon => Record a -> JSX
-siGoldenline = element (unsafeCoerce siGoldenline_)
+siGoldenline = element (unsafeCoerce _siGoldenline)
 
-foreign import siGoodreads_ :: ReactIcon
+foreign import _siGoodreads :: ReactIcon
 
 siGoodreads :: forall a b. Union a b PropsIcon => Record a -> JSX
-siGoodreads = element (unsafeCoerce siGoodreads_)
+siGoodreads = element (unsafeCoerce _siGoodreads)
 
-foreign import siGoogle_ :: ReactIcon
+foreign import _siGoogle :: ReactIcon
 
 siGoogle :: forall a b. Union a b PropsIcon => Record a -> JSX
-siGoogle = element (unsafeCoerce siGoogle_)
+siGoogle = element (unsafeCoerce _siGoogle)
 
-foreign import siGoogleads_ :: ReactIcon
+foreign import _siGoogleads :: ReactIcon
 
 siGoogleads :: forall a b. Union a b PropsIcon => Record a -> JSX
-siGoogleads = element (unsafeCoerce siGoogleads_)
+siGoogleads = element (unsafeCoerce _siGoogleads)
 
-foreign import siGoogleadsense_ :: ReactIcon
+foreign import _siGoogleadsense :: ReactIcon
 
 siGoogleadsense :: forall a b. Union a b PropsIcon => Record a -> JSX
-siGoogleadsense = element (unsafeCoerce siGoogleadsense_)
+siGoogleadsense = element (unsafeCoerce _siGoogleadsense)
 
-foreign import siGoogleanalytics_ :: ReactIcon
+foreign import _siGoogleanalytics :: ReactIcon
 
 siGoogleanalytics :: forall a b. Union a b PropsIcon => Record a -> JSX
-siGoogleanalytics = element (unsafeCoerce siGoogleanalytics_)
+siGoogleanalytics = element (unsafeCoerce _siGoogleanalytics)
 
-foreign import siGoogleassistant_ :: ReactIcon
+foreign import _siGoogleassistant :: ReactIcon
 
 siGoogleassistant :: forall a b. Union a b PropsIcon => Record a -> JSX
-siGoogleassistant = element (unsafeCoerce siGoogleassistant_)
+siGoogleassistant = element (unsafeCoerce _siGoogleassistant)
 
-foreign import siGooglecalendar_ :: ReactIcon
+foreign import _siGooglecalendar :: ReactIcon
 
 siGooglecalendar :: forall a b. Union a b PropsIcon => Record a -> JSX
-siGooglecalendar = element (unsafeCoerce siGooglecalendar_)
+siGooglecalendar = element (unsafeCoerce _siGooglecalendar)
 
-foreign import siGooglecardboard_ :: ReactIcon
+foreign import _siGooglecardboard :: ReactIcon
 
 siGooglecardboard :: forall a b. Union a b PropsIcon => Record a -> JSX
-siGooglecardboard = element (unsafeCoerce siGooglecardboard_)
+siGooglecardboard = element (unsafeCoerce _siGooglecardboard)
 
-foreign import siGooglecast_ :: ReactIcon
+foreign import _siGooglecast :: ReactIcon
 
 siGooglecast :: forall a b. Union a b PropsIcon => Record a -> JSX
-siGooglecast = element (unsafeCoerce siGooglecast_)
+siGooglecast = element (unsafeCoerce _siGooglecast)
 
-foreign import siGooglechat_ :: ReactIcon
+foreign import _siGooglechat :: ReactIcon
 
 siGooglechat :: forall a b. Union a b PropsIcon => Record a -> JSX
-siGooglechat = element (unsafeCoerce siGooglechat_)
+siGooglechat = element (unsafeCoerce _siGooglechat)
 
-foreign import siGooglechrome_ :: ReactIcon
+foreign import _siGooglechrome :: ReactIcon
 
 siGooglechrome :: forall a b. Union a b PropsIcon => Record a -> JSX
-siGooglechrome = element (unsafeCoerce siGooglechrome_)
+siGooglechrome = element (unsafeCoerce _siGooglechrome)
 
-foreign import siGoogleclassroom_ :: ReactIcon
+foreign import _siGoogleclassroom :: ReactIcon
 
 siGoogleclassroom :: forall a b. Union a b PropsIcon => Record a -> JSX
-siGoogleclassroom = element (unsafeCoerce siGoogleclassroom_)
+siGoogleclassroom = element (unsafeCoerce _siGoogleclassroom)
 
-foreign import siGooglecloud_ :: ReactIcon
+foreign import _siGooglecloud :: ReactIcon
 
 siGooglecloud :: forall a b. Union a b PropsIcon => Record a -> JSX
-siGooglecloud = element (unsafeCoerce siGooglecloud_)
+siGooglecloud = element (unsafeCoerce _siGooglecloud)
 
-foreign import siGooglecolab_ :: ReactIcon
+foreign import _siGooglecolab :: ReactIcon
 
 siGooglecolab :: forall a b. Union a b PropsIcon => Record a -> JSX
-siGooglecolab = element (unsafeCoerce siGooglecolab_)
+siGooglecolab = element (unsafeCoerce _siGooglecolab)
 
-foreign import siGoogledomains_ :: ReactIcon
+foreign import _siGoogledomains :: ReactIcon
 
 siGoogledomains :: forall a b. Union a b PropsIcon => Record a -> JSX
-siGoogledomains = element (unsafeCoerce siGoogledomains_)
+siGoogledomains = element (unsafeCoerce _siGoogledomains)
 
-foreign import siGoogledrive_ :: ReactIcon
+foreign import _siGoogledrive :: ReactIcon
 
 siGoogledrive :: forall a b. Union a b PropsIcon => Record a -> JSX
-siGoogledrive = element (unsafeCoerce siGoogledrive_)
+siGoogledrive = element (unsafeCoerce _siGoogledrive)
 
-foreign import siGoogleearth_ :: ReactIcon
+foreign import _siGoogleearth :: ReactIcon
 
 siGoogleearth :: forall a b. Union a b PropsIcon => Record a -> JSX
-siGoogleearth = element (unsafeCoerce siGoogleearth_)
+siGoogleearth = element (unsafeCoerce _siGoogleearth)
 
-foreign import siGooglefit_ :: ReactIcon
+foreign import _siGooglefit :: ReactIcon
 
 siGooglefit :: forall a b. Union a b PropsIcon => Record a -> JSX
-siGooglefit = element (unsafeCoerce siGooglefit_)
+siGooglefit = element (unsafeCoerce _siGooglefit)
 
-foreign import siGooglefonts_ :: ReactIcon
+foreign import _siGooglefonts :: ReactIcon
 
 siGooglefonts :: forall a b. Union a b PropsIcon => Record a -> JSX
-siGooglefonts = element (unsafeCoerce siGooglefonts_)
+siGooglefonts = element (unsafeCoerce _siGooglefonts)
 
-foreign import siGooglehangouts_ :: ReactIcon
+foreign import _siGooglehangouts :: ReactIcon
 
 siGooglehangouts :: forall a b. Union a b PropsIcon => Record a -> JSX
-siGooglehangouts = element (unsafeCoerce siGooglehangouts_)
+siGooglehangouts = element (unsafeCoerce _siGooglehangouts)
 
-foreign import siGooglekeep_ :: ReactIcon
+foreign import _siGooglekeep :: ReactIcon
 
 siGooglekeep :: forall a b. Union a b PropsIcon => Record a -> JSX
-siGooglekeep = element (unsafeCoerce siGooglekeep_)
+siGooglekeep = element (unsafeCoerce _siGooglekeep)
 
-foreign import siGooglelens_ :: ReactIcon
+foreign import _siGooglelens :: ReactIcon
 
 siGooglelens :: forall a b. Union a b PropsIcon => Record a -> JSX
-siGooglelens = element (unsafeCoerce siGooglelens_)
+siGooglelens = element (unsafeCoerce _siGooglelens)
 
-foreign import siGooglemaps_ :: ReactIcon
+foreign import _siGooglemaps :: ReactIcon
 
 siGooglemaps :: forall a b. Union a b PropsIcon => Record a -> JSX
-siGooglemaps = element (unsafeCoerce siGooglemaps_)
+siGooglemaps = element (unsafeCoerce _siGooglemaps)
 
-foreign import siGooglemeet_ :: ReactIcon
+foreign import _siGooglemeet :: ReactIcon
 
 siGooglemeet :: forall a b. Union a b PropsIcon => Record a -> JSX
-siGooglemeet = element (unsafeCoerce siGooglemeet_)
+siGooglemeet = element (unsafeCoerce _siGooglemeet)
 
-foreign import siGooglemessages_ :: ReactIcon
+foreign import _siGooglemessages :: ReactIcon
 
 siGooglemessages :: forall a b. Union a b PropsIcon => Record a -> JSX
-siGooglemessages = element (unsafeCoerce siGooglemessages_)
+siGooglemessages = element (unsafeCoerce _siGooglemessages)
 
-foreign import siGooglemybusiness_ :: ReactIcon
+foreign import _siGooglemybusiness :: ReactIcon
 
 siGooglemybusiness :: forall a b. Union a b PropsIcon => Record a -> JSX
-siGooglemybusiness = element (unsafeCoerce siGooglemybusiness_)
+siGooglemybusiness = element (unsafeCoerce _siGooglemybusiness)
 
-foreign import siGooglenearby_ :: ReactIcon
+foreign import _siGooglenearby :: ReactIcon
 
 siGooglenearby :: forall a b. Union a b PropsIcon => Record a -> JSX
-siGooglenearby = element (unsafeCoerce siGooglenearby_)
+siGooglenearby = element (unsafeCoerce _siGooglenearby)
 
-foreign import siGooglenews_ :: ReactIcon
+foreign import _siGooglenews :: ReactIcon
 
 siGooglenews :: forall a b. Union a b PropsIcon => Record a -> JSX
-siGooglenews = element (unsafeCoerce siGooglenews_)
+siGooglenews = element (unsafeCoerce _siGooglenews)
 
-foreign import siGoogleoptimize_ :: ReactIcon
+foreign import _siGoogleoptimize :: ReactIcon
 
 siGoogleoptimize :: forall a b. Union a b PropsIcon => Record a -> JSX
-siGoogleoptimize = element (unsafeCoerce siGoogleoptimize_)
+siGoogleoptimize = element (unsafeCoerce _siGoogleoptimize)
 
-foreign import siGooglepay_ :: ReactIcon
+foreign import _siGooglepay :: ReactIcon
 
 siGooglepay :: forall a b. Union a b PropsIcon => Record a -> JSX
-siGooglepay = element (unsafeCoerce siGooglepay_)
+siGooglepay = element (unsafeCoerce _siGooglepay)
 
-foreign import siGooglephotos_ :: ReactIcon
+foreign import _siGooglephotos :: ReactIcon
 
 siGooglephotos :: forall a b. Union a b PropsIcon => Record a -> JSX
-siGooglephotos = element (unsafeCoerce siGooglephotos_)
+siGooglephotos = element (unsafeCoerce _siGooglephotos)
 
-foreign import siGoogleplay_ :: ReactIcon
+foreign import _siGoogleplay :: ReactIcon
 
 siGoogleplay :: forall a b. Union a b PropsIcon => Record a -> JSX
-siGoogleplay = element (unsafeCoerce siGoogleplay_)
+siGoogleplay = element (unsafeCoerce _siGoogleplay)
 
-foreign import siGooglepodcasts_ :: ReactIcon
+foreign import _siGooglepodcasts :: ReactIcon
 
 siGooglepodcasts :: forall a b. Union a b PropsIcon => Record a -> JSX
-siGooglepodcasts = element (unsafeCoerce siGooglepodcasts_)
+siGooglepodcasts = element (unsafeCoerce _siGooglepodcasts)
 
-foreign import siGooglescholar_ :: ReactIcon
+foreign import _siGooglescholar :: ReactIcon
 
 siGooglescholar :: forall a b. Union a b PropsIcon => Record a -> JSX
-siGooglescholar = element (unsafeCoerce siGooglescholar_)
+siGooglescholar = element (unsafeCoerce _siGooglescholar)
 
-foreign import siGooglesearchconsole_ :: ReactIcon
+foreign import _siGooglesearchconsole :: ReactIcon
 
 siGooglesearchconsole :: forall a b. Union a b PropsIcon => Record a -> JSX
-siGooglesearchconsole = element (unsafeCoerce siGooglesearchconsole_)
+siGooglesearchconsole = element (unsafeCoerce _siGooglesearchconsole)
 
-foreign import siGooglesheets_ :: ReactIcon
+foreign import _siGooglesheets :: ReactIcon
 
 siGooglesheets :: forall a b. Union a b PropsIcon => Record a -> JSX
-siGooglesheets = element (unsafeCoerce siGooglesheets_)
+siGooglesheets = element (unsafeCoerce _siGooglesheets)
 
-foreign import siGooglestreetview_ :: ReactIcon
+foreign import _siGooglestreetview :: ReactIcon
 
 siGooglestreetview :: forall a b. Union a b PropsIcon => Record a -> JSX
-siGooglestreetview = element (unsafeCoerce siGooglestreetview_)
+siGooglestreetview = element (unsafeCoerce _siGooglestreetview)
 
-foreign import siGoogletagmanager_ :: ReactIcon
+foreign import _siGoogletagmanager :: ReactIcon
 
 siGoogletagmanager :: forall a b. Union a b PropsIcon => Record a -> JSX
-siGoogletagmanager = element (unsafeCoerce siGoogletagmanager_)
+siGoogletagmanager = element (unsafeCoerce _siGoogletagmanager)
 
-foreign import siGoogletranslate_ :: ReactIcon
+foreign import _siGoogletranslate :: ReactIcon
 
 siGoogletranslate :: forall a b. Union a b PropsIcon => Record a -> JSX
-siGoogletranslate = element (unsafeCoerce siGoogletranslate_)
+siGoogletranslate = element (unsafeCoerce _siGoogletranslate)
 
-foreign import siGotomeeting_ :: ReactIcon
+foreign import _siGotomeeting :: ReactIcon
 
 siGotomeeting :: forall a b. Union a b PropsIcon => Record a -> JSX
-siGotomeeting = element (unsafeCoerce siGotomeeting_)
+siGotomeeting = element (unsafeCoerce _siGotomeeting)
 
-foreign import siGrab_ :: ReactIcon
+foreign import _siGrab :: ReactIcon
 
 siGrab :: forall a b. Union a b PropsIcon => Record a -> JSX
-siGrab = element (unsafeCoerce siGrab_)
+siGrab = element (unsafeCoerce _siGrab)
 
-foreign import siGradle_ :: ReactIcon
+foreign import _siGradle :: ReactIcon
 
 siGradle :: forall a b. Union a b PropsIcon => Record a -> JSX
-siGradle = element (unsafeCoerce siGradle_)
+siGradle = element (unsafeCoerce _siGradle)
 
-foreign import siGrafana_ :: ReactIcon
+foreign import _siGrafana :: ReactIcon
 
 siGrafana :: forall a b. Union a b PropsIcon => Record a -> JSX
-siGrafana = element (unsafeCoerce siGrafana_)
+siGrafana = element (unsafeCoerce _siGrafana)
 
-foreign import siGrammarly_ :: ReactIcon
+foreign import _siGrammarly :: ReactIcon
 
 siGrammarly :: forall a b. Union a b PropsIcon => Record a -> JSX
-siGrammarly = element (unsafeCoerce siGrammarly_)
+siGrammarly = element (unsafeCoerce _siGrammarly)
 
-foreign import siGraphql_ :: ReactIcon
+foreign import _siGraphql :: ReactIcon
 
 siGraphql :: forall a b. Union a b PropsIcon => Record a -> JSX
-siGraphql = element (unsafeCoerce siGraphql_)
+siGraphql = element (unsafeCoerce _siGraphql)
 
-foreign import siGrav_ :: ReactIcon
+foreign import _siGrav :: ReactIcon
 
 siGrav :: forall a b. Union a b PropsIcon => Record a -> JSX
-siGrav = element (unsafeCoerce siGrav_)
+siGrav = element (unsafeCoerce _siGrav)
 
-foreign import siGravatar_ :: ReactIcon
+foreign import _siGravatar :: ReactIcon
 
 siGravatar :: forall a b. Union a b PropsIcon => Record a -> JSX
-siGravatar = element (unsafeCoerce siGravatar_)
+siGravatar = element (unsafeCoerce _siGravatar)
 
-foreign import siGraylog_ :: ReactIcon
+foreign import _siGraylog :: ReactIcon
 
 siGraylog :: forall a b. Union a b PropsIcon => Record a -> JSX
-siGraylog = element (unsafeCoerce siGraylog_)
+siGraylog = element (unsafeCoerce _siGraylog)
 
-foreign import siGreensock_ :: ReactIcon
+foreign import _siGreensock :: ReactIcon
 
 siGreensock :: forall a b. Union a b PropsIcon => Record a -> JSX
-siGreensock = element (unsafeCoerce siGreensock_)
+siGreensock = element (unsafeCoerce _siGreensock)
 
-foreign import siGriddotai_ :: ReactIcon
+foreign import _siGriddotai :: ReactIcon
 
 siGriddotai :: forall a b. Union a b PropsIcon => Record a -> JSX
-siGriddotai = element (unsafeCoerce siGriddotai_)
+siGriddotai = element (unsafeCoerce _siGriddotai)
 
-foreign import siGridsome_ :: ReactIcon
+foreign import _siGridsome :: ReactIcon
 
 siGridsome :: forall a b. Union a b PropsIcon => Record a -> JSX
-siGridsome = element (unsafeCoerce siGridsome_)
+siGridsome = element (unsafeCoerce _siGridsome)
 
-foreign import siGroupon_ :: ReactIcon
+foreign import _siGroupon :: ReactIcon
 
 siGroupon :: forall a b. Union a b PropsIcon => Record a -> JSX
-siGroupon = element (unsafeCoerce siGroupon_)
+siGroupon = element (unsafeCoerce _siGroupon)
 
-foreign import siGrubhub_ :: ReactIcon
+foreign import _siGrubhub :: ReactIcon
 
 siGrubhub :: forall a b. Union a b PropsIcon => Record a -> JSX
-siGrubhub = element (unsafeCoerce siGrubhub_)
+siGrubhub = element (unsafeCoerce _siGrubhub)
 
-foreign import siGrunt_ :: ReactIcon
+foreign import _siGrunt :: ReactIcon
 
 siGrunt :: forall a b. Union a b PropsIcon => Record a -> JSX
-siGrunt = element (unsafeCoerce siGrunt_)
+siGrunt = element (unsafeCoerce _siGrunt)
 
-foreign import siGuangzhoumetro_ :: ReactIcon
+foreign import _siGuangzhoumetro :: ReactIcon
 
 siGuangzhoumetro :: forall a b. Union a b PropsIcon => Record a -> JSX
-siGuangzhoumetro = element (unsafeCoerce siGuangzhoumetro_)
+siGuangzhoumetro = element (unsafeCoerce _siGuangzhoumetro)
 
-foreign import siGuilded_ :: ReactIcon
+foreign import _siGuilded :: ReactIcon
 
 siGuilded :: forall a b. Union a b PropsIcon => Record a -> JSX
-siGuilded = element (unsafeCoerce siGuilded_)
+siGuilded = element (unsafeCoerce _siGuilded)
 
-foreign import siGulp_ :: ReactIcon
+foreign import _siGulp :: ReactIcon
 
 siGulp :: forall a b. Union a b PropsIcon => Record a -> JSX
-siGulp = element (unsafeCoerce siGulp_)
+siGulp = element (unsafeCoerce _siGulp)
 
-foreign import siGumroad_ :: ReactIcon
+foreign import _siGumroad :: ReactIcon
 
 siGumroad :: forall a b. Union a b PropsIcon => Record a -> JSX
-siGumroad = element (unsafeCoerce siGumroad_)
+siGumroad = element (unsafeCoerce _siGumroad)
 
-foreign import siGumtree_ :: ReactIcon
+foreign import _siGumtree :: ReactIcon
 
 siGumtree :: forall a b. Union a b PropsIcon => Record a -> JSX
-siGumtree = element (unsafeCoerce siGumtree_)
+siGumtree = element (unsafeCoerce _siGumtree)
 
-foreign import siGutenberg_ :: ReactIcon
+foreign import _siGutenberg :: ReactIcon
 
 siGutenberg :: forall a b. Union a b PropsIcon => Record a -> JSX
-siGutenberg = element (unsafeCoerce siGutenberg_)
+siGutenberg = element (unsafeCoerce _siGutenberg)
 
-foreign import siHabr_ :: ReactIcon
+foreign import _siHabr :: ReactIcon
 
 siHabr :: forall a b. Union a b PropsIcon => Record a -> JSX
-siHabr = element (unsafeCoerce siHabr_)
+siHabr = element (unsafeCoerce _siHabr)
 
-foreign import siHackaday_ :: ReactIcon
+foreign import _siHackaday :: ReactIcon
 
 siHackaday :: forall a b. Union a b PropsIcon => Record a -> JSX
-siHackaday = element (unsafeCoerce siHackaday_)
+siHackaday = element (unsafeCoerce _siHackaday)
 
-foreign import siHackclub_ :: ReactIcon
+foreign import _siHackclub :: ReactIcon
 
 siHackclub :: forall a b. Union a b PropsIcon => Record a -> JSX
-siHackclub = element (unsafeCoerce siHackclub_)
+siHackclub = element (unsafeCoerce _siHackclub)
 
-foreign import siHackerearth_ :: ReactIcon
+foreign import _siHackerearth :: ReactIcon
 
 siHackerearth :: forall a b. Union a b PropsIcon => Record a -> JSX
-siHackerearth = element (unsafeCoerce siHackerearth_)
+siHackerearth = element (unsafeCoerce _siHackerearth)
 
-foreign import siHackernoon_ :: ReactIcon
+foreign import _siHackernoon :: ReactIcon
 
 siHackernoon :: forall a b. Union a b PropsIcon => Record a -> JSX
-siHackernoon = element (unsafeCoerce siHackernoon_)
+siHackernoon = element (unsafeCoerce _siHackernoon)
 
-foreign import siHackerone_ :: ReactIcon
+foreign import _siHackerone :: ReactIcon
 
 siHackerone :: forall a b. Union a b PropsIcon => Record a -> JSX
-siHackerone = element (unsafeCoerce siHackerone_)
+siHackerone = element (unsafeCoerce _siHackerone)
 
-foreign import siHackerrank_ :: ReactIcon
+foreign import _siHackerrank :: ReactIcon
 
 siHackerrank :: forall a b. Union a b PropsIcon => Record a -> JSX
-siHackerrank = element (unsafeCoerce siHackerrank_)
+siHackerrank = element (unsafeCoerce _siHackerrank)
 
-foreign import siHackster_ :: ReactIcon
+foreign import _siHackster :: ReactIcon
 
 siHackster :: forall a b. Union a b PropsIcon => Record a -> JSX
-siHackster = element (unsafeCoerce siHackster_)
+siHackster = element (unsafeCoerce _siHackster)
 
-foreign import siHackthebox_ :: ReactIcon
+foreign import _siHackthebox :: ReactIcon
 
 siHackthebox :: forall a b. Union a b PropsIcon => Record a -> JSX
-siHackthebox = element (unsafeCoerce siHackthebox_)
+siHackthebox = element (unsafeCoerce _siHackthebox)
 
-foreign import siHandlebarsdotjs_ :: ReactIcon
+foreign import _siHandlebarsdotjs :: ReactIcon
 
 siHandlebarsdotjs :: forall a b. Union a b PropsIcon => Record a -> JSX
-siHandlebarsdotjs = element (unsafeCoerce siHandlebarsdotjs_)
+siHandlebarsdotjs = element (unsafeCoerce _siHandlebarsdotjs)
 
-foreign import siHandshake_ :: ReactIcon
+foreign import _siHandshake :: ReactIcon
 
 siHandshake :: forall a b. Union a b PropsIcon => Record a -> JSX
-siHandshake = element (unsafeCoerce siHandshake_)
+siHandshake = element (unsafeCoerce _siHandshake)
 
-foreign import siHandshakeProtocol_ :: ReactIcon
+foreign import _siHandshakeProtocol :: ReactIcon
 
 siHandshakeProtocol :: forall a b. Union a b PropsIcon => Record a -> JSX
-siHandshakeProtocol = element (unsafeCoerce siHandshakeProtocol_)
+siHandshakeProtocol = element (unsafeCoerce _siHandshakeProtocol)
 
-foreign import siHappycow_ :: ReactIcon
+foreign import _siHappycow :: ReactIcon
 
 siHappycow :: forall a b. Union a b PropsIcon => Record a -> JSX
-siHappycow = element (unsafeCoerce siHappycow_)
+siHappycow = element (unsafeCoerce _siHappycow)
 
-foreign import siHarbor_ :: ReactIcon
+foreign import _siHarbor :: ReactIcon
 
 siHarbor :: forall a b. Union a b PropsIcon => Record a -> JSX
-siHarbor = element (unsafeCoerce siHarbor_)
+siHarbor = element (unsafeCoerce _siHarbor)
 
-foreign import siHashnode_ :: ReactIcon
+foreign import _siHashnode :: ReactIcon
 
 siHashnode :: forall a b. Union a b PropsIcon => Record a -> JSX
-siHashnode = element (unsafeCoerce siHashnode_)
+siHashnode = element (unsafeCoerce _siHashnode)
 
-foreign import siHaskell_ :: ReactIcon
+foreign import _siHaskell :: ReactIcon
 
 siHaskell :: forall a b. Union a b PropsIcon => Record a -> JSX
-siHaskell = element (unsafeCoerce siHaskell_)
+siHaskell = element (unsafeCoerce _siHaskell)
 
-foreign import siHasura_ :: ReactIcon
+foreign import _siHasura :: ReactIcon
 
 siHasura :: forall a b. Union a b PropsIcon => Record a -> JSX
-siHasura = element (unsafeCoerce siHasura_)
+siHasura = element (unsafeCoerce _siHasura)
 
-foreign import siHatenabookmark_ :: ReactIcon
+foreign import _siHatenabookmark :: ReactIcon
 
 siHatenabookmark :: forall a b. Union a b PropsIcon => Record a -> JSX
-siHatenabookmark = element (unsafeCoerce siHatenabookmark_)
+siHatenabookmark = element (unsafeCoerce _siHatenabookmark)
 
-foreign import siHaveibeenpwned_ :: ReactIcon
+foreign import _siHaveibeenpwned :: ReactIcon
 
 siHaveibeenpwned :: forall a b. Union a b PropsIcon => Record a -> JSX
-siHaveibeenpwned = element (unsafeCoerce siHaveibeenpwned_)
+siHaveibeenpwned = element (unsafeCoerce _siHaveibeenpwned)
 
-foreign import siHaxe_ :: ReactIcon
+foreign import _siHaxe :: ReactIcon
 
 siHaxe :: forall a b. Union a b PropsIcon => Record a -> JSX
-siHaxe = element (unsafeCoerce siHaxe_)
+siHaxe = element (unsafeCoerce _siHaxe)
 
-foreign import siHbo_ :: ReactIcon
+foreign import _siHbo :: ReactIcon
 
 siHbo :: forall a b. Union a b PropsIcon => Record a -> JSX
-siHbo = element (unsafeCoerce siHbo_)
+siHbo = element (unsafeCoerce _siHbo)
 
-foreign import siHcl_ :: ReactIcon
+foreign import _siHcl :: ReactIcon
 
 siHcl :: forall a b. Union a b PropsIcon => Record a -> JSX
-siHcl = element (unsafeCoerce siHcl_)
+siHcl = element (unsafeCoerce _siHcl)
 
-foreign import siHeadspace_ :: ReactIcon
+foreign import _siHeadspace :: ReactIcon
 
 siHeadspace :: forall a b. Union a b PropsIcon => Record a -> JSX
-siHeadspace = element (unsafeCoerce siHeadspace_)
+siHeadspace = element (unsafeCoerce _siHeadspace)
 
-foreign import siHellofresh_ :: ReactIcon
+foreign import _siHellofresh :: ReactIcon
 
 siHellofresh :: forall a b. Union a b PropsIcon => Record a -> JSX
-siHellofresh = element (unsafeCoerce siHellofresh_)
+siHellofresh = element (unsafeCoerce _siHellofresh)
 
-foreign import siHellyhansen_ :: ReactIcon
+foreign import _siHellyhansen :: ReactIcon
 
 siHellyhansen :: forall a b. Union a b PropsIcon => Record a -> JSX
-siHellyhansen = element (unsafeCoerce siHellyhansen_)
+siHellyhansen = element (unsafeCoerce _siHellyhansen)
 
-foreign import siHelm_ :: ReactIcon
+foreign import _siHelm :: ReactIcon
 
 siHelm :: forall a b. Union a b PropsIcon => Record a -> JSX
-siHelm = element (unsafeCoerce siHelm_)
+siHelm = element (unsafeCoerce _siHelm)
 
-foreign import siHelpdesk_ :: ReactIcon
+foreign import _siHelpdesk :: ReactIcon
 
 siHelpdesk :: forall a b. Union a b PropsIcon => Record a -> JSX
-siHelpdesk = element (unsafeCoerce siHelpdesk_)
+siHelpdesk = element (unsafeCoerce _siHelpdesk)
 
-foreign import siHere_ :: ReactIcon
+foreign import _siHere :: ReactIcon
 
 siHere :: forall a b. Union a b PropsIcon => Record a -> JSX
-siHere = element (unsafeCoerce siHere_)
+siHere = element (unsafeCoerce _siHere)
 
-foreign import siHeroku_ :: ReactIcon
+foreign import _siHeroku :: ReactIcon
 
 siHeroku :: forall a b. Union a b PropsIcon => Record a -> JSX
-siHeroku = element (unsafeCoerce siHeroku_)
+siHeroku = element (unsafeCoerce _siHeroku)
 
-foreign import siHetzner_ :: ReactIcon
+foreign import _siHetzner :: ReactIcon
 
 siHetzner :: forall a b. Union a b PropsIcon => Record a -> JSX
-siHetzner = element (unsafeCoerce siHetzner_)
+siHetzner = element (unsafeCoerce _siHetzner)
 
-foreign import siHexo_ :: ReactIcon
+foreign import _siHexo :: ReactIcon
 
 siHexo :: forall a b. Union a b PropsIcon => Record a -> JSX
-siHexo = element (unsafeCoerce siHexo_)
+siHexo = element (unsafeCoerce _siHexo)
 
-foreign import siHey_ :: ReactIcon
+foreign import _siHey :: ReactIcon
 
 siHey :: forall a b. Union a b PropsIcon => Record a -> JSX
-siHey = element (unsafeCoerce siHey_)
+siHey = element (unsafeCoerce _siHey)
 
-foreign import siHibernate_ :: ReactIcon
+foreign import _siHibernate :: ReactIcon
 
 siHibernate :: forall a b. Union a b PropsIcon => Record a -> JSX
-siHibernate = element (unsafeCoerce siHibernate_)
+siHibernate = element (unsafeCoerce _siHibernate)
 
-foreign import siHilton_ :: ReactIcon
+foreign import _siHilton :: ReactIcon
 
 siHilton :: forall a b. Union a b PropsIcon => Record a -> JSX
-siHilton = element (unsafeCoerce siHilton_)
+siHilton = element (unsafeCoerce _siHilton)
 
-foreign import siHitachi_ :: ReactIcon
+foreign import _siHitachi :: ReactIcon
 
 siHitachi :: forall a b. Union a b PropsIcon => Record a -> JSX
-siHitachi = element (unsafeCoerce siHitachi_)
+siHitachi = element (unsafeCoerce _siHitachi)
 
-foreign import siHive_ :: ReactIcon
+foreign import _siHive :: ReactIcon
 
 siHive :: forall a b. Union a b PropsIcon => Record a -> JSX
-siHive = element (unsafeCoerce siHive_)
+siHive = element (unsafeCoerce _siHive)
 
-foreign import siHiveBlockchain_ :: ReactIcon
+foreign import _siHiveBlockchain :: ReactIcon
 
 siHiveBlockchain :: forall a b. Union a b PropsIcon => Record a -> JSX
-siHiveBlockchain = element (unsafeCoerce siHiveBlockchain_)
+siHiveBlockchain = element (unsafeCoerce _siHiveBlockchain)
 
-foreign import siHomeadvisor_ :: ReactIcon
+foreign import _siHomeadvisor :: ReactIcon
 
 siHomeadvisor :: forall a b. Union a b PropsIcon => Record a -> JSX
-siHomeadvisor = element (unsafeCoerce siHomeadvisor_)
+siHomeadvisor = element (unsafeCoerce _siHomeadvisor)
 
-foreign import siHomeassistant_ :: ReactIcon
+foreign import _siHomeassistant :: ReactIcon
 
 siHomeassistant :: forall a b. Union a b PropsIcon => Record a -> JSX
-siHomeassistant = element (unsafeCoerce siHomeassistant_)
+siHomeassistant = element (unsafeCoerce _siHomeassistant)
 
-foreign import siHomeassistantcommunitystore_ :: ReactIcon
+foreign import _siHomeassistantcommunitystore :: ReactIcon
 
 siHomeassistantcommunitystore :: forall a b. Union a b PropsIcon => Record a -> JSX
-siHomeassistantcommunitystore = element (unsafeCoerce siHomeassistantcommunitystore_)
+siHomeassistantcommunitystore = element (unsafeCoerce _siHomeassistantcommunitystore)
 
-foreign import siHomebrew_ :: ReactIcon
+foreign import _siHomebrew :: ReactIcon
 
 siHomebrew :: forall a b. Union a b PropsIcon => Record a -> JSX
-siHomebrew = element (unsafeCoerce siHomebrew_)
+siHomebrew = element (unsafeCoerce _siHomebrew)
 
-foreign import siHomebridge_ :: ReactIcon
+foreign import _siHomebridge :: ReactIcon
 
 siHomebridge :: forall a b. Union a b PropsIcon => Record a -> JSX
-siHomebridge = element (unsafeCoerce siHomebridge_)
+siHomebridge = element (unsafeCoerce _siHomebridge)
 
-foreign import siHomify_ :: ReactIcon
+foreign import _siHomify :: ReactIcon
 
 siHomify :: forall a b. Union a b PropsIcon => Record a -> JSX
-siHomify = element (unsafeCoerce siHomify_)
+siHomify = element (unsafeCoerce _siHomify)
 
-foreign import siHonda_ :: ReactIcon
+foreign import _siHonda :: ReactIcon
 
 siHonda :: forall a b. Union a b PropsIcon => Record a -> JSX
-siHonda = element (unsafeCoerce siHonda_)
+siHonda = element (unsafeCoerce _siHonda)
 
-foreign import siHootsuite_ :: ReactIcon
+foreign import _siHootsuite :: ReactIcon
 
 siHootsuite :: forall a b. Union a b PropsIcon => Record a -> JSX
-siHootsuite = element (unsafeCoerce siHootsuite_)
+siHootsuite = element (unsafeCoerce _siHootsuite)
 
-foreign import siHoppscotch_ :: ReactIcon
+foreign import _siHoppscotch :: ReactIcon
 
 siHoppscotch :: forall a b. Union a b PropsIcon => Record a -> JSX
-siHoppscotch = element (unsafeCoerce siHoppscotch_)
+siHoppscotch = element (unsafeCoerce _siHoppscotch)
 
-foreign import siHotelsdotcom_ :: ReactIcon
+foreign import _siHotelsdotcom :: ReactIcon
 
 siHotelsdotcom :: forall a b. Union a b PropsIcon => Record a -> JSX
-siHotelsdotcom = element (unsafeCoerce siHotelsdotcom_)
+siHotelsdotcom = element (unsafeCoerce _siHotelsdotcom)
 
-foreign import siHotjar_ :: ReactIcon
+foreign import _siHotjar :: ReactIcon
 
 siHotjar :: forall a b. Union a b PropsIcon => Record a -> JSX
-siHotjar = element (unsafeCoerce siHotjar_)
+siHotjar = element (unsafeCoerce _siHotjar)
 
-foreign import siHoudini_ :: ReactIcon
+foreign import _siHoudini :: ReactIcon
 
 siHoudini :: forall a b. Union a b PropsIcon => Record a -> JSX
-siHoudini = element (unsafeCoerce siHoudini_)
+siHoudini = element (unsafeCoerce _siHoudini)
 
-foreign import siHouzz_ :: ReactIcon
+foreign import _siHouzz :: ReactIcon
 
 siHouzz :: forall a b. Union a b PropsIcon => Record a -> JSX
-siHouzz = element (unsafeCoerce siHouzz_)
+siHouzz = element (unsafeCoerce _siHouzz)
 
-foreign import siHp_ :: ReactIcon
+foreign import _siHp :: ReactIcon
 
 siHp :: forall a b. Union a b PropsIcon => Record a -> JSX
-siHp = element (unsafeCoerce siHp_)
+siHp = element (unsafeCoerce _siHp)
 
-foreign import siHtmlacademy_ :: ReactIcon
+foreign import _siHtmlacademy :: ReactIcon
 
 siHtmlacademy :: forall a b. Union a b PropsIcon => Record a -> JSX
-siHtmlacademy = element (unsafeCoerce siHtmlacademy_)
+siHtmlacademy = element (unsafeCoerce _siHtmlacademy)
 
-foreign import siHuawei_ :: ReactIcon
+foreign import _siHuawei :: ReactIcon
 
 siHuawei :: forall a b. Union a b PropsIcon => Record a -> JSX
-siHuawei = element (unsafeCoerce siHuawei_)
+siHuawei = element (unsafeCoerce _siHuawei)
 
-foreign import siHubspot_ :: ReactIcon
+foreign import _siHubspot :: ReactIcon
 
 siHubspot :: forall a b. Union a b PropsIcon => Record a -> JSX
-siHubspot = element (unsafeCoerce siHubspot_)
+siHubspot = element (unsafeCoerce _siHubspot)
 
-foreign import siHugo_ :: ReactIcon
+foreign import _siHugo :: ReactIcon
 
 siHugo :: forall a b. Union a b PropsIcon => Record a -> JSX
-siHugo = element (unsafeCoerce siHugo_)
+siHugo = element (unsafeCoerce _siHugo)
 
-foreign import siHulu_ :: ReactIcon
+foreign import _siHulu :: ReactIcon
 
 siHulu :: forall a b. Union a b PropsIcon => Record a -> JSX
-siHulu = element (unsafeCoerce siHulu_)
+siHulu = element (unsafeCoerce _siHulu)
 
-foreign import siHumblebundle_ :: ReactIcon
+foreign import _siHumblebundle :: ReactIcon
 
 siHumblebundle :: forall a b. Union a b PropsIcon => Record a -> JSX
-siHumblebundle = element (unsafeCoerce siHumblebundle_)
+siHumblebundle = element (unsafeCoerce _siHumblebundle)
 
-foreign import siHungryjacks_ :: ReactIcon
+foreign import _siHungryjacks :: ReactIcon
 
 siHungryjacks :: forall a b. Union a b PropsIcon => Record a -> JSX
-siHungryjacks = element (unsafeCoerce siHungryjacks_)
+siHungryjacks = element (unsafeCoerce _siHungryjacks)
 
-foreign import siHurriyetemlak_ :: ReactIcon
+foreign import _siHurriyetemlak :: ReactIcon
 
 siHurriyetemlak :: forall a b. Union a b PropsIcon => Record a -> JSX
-siHurriyetemlak = element (unsafeCoerce siHurriyetemlak_)
+siHurriyetemlak = element (unsafeCoerce _siHurriyetemlak)
 
-foreign import siHusqvarna_ :: ReactIcon
+foreign import _siHusqvarna :: ReactIcon
 
 siHusqvarna :: forall a b. Union a b PropsIcon => Record a -> JSX
-siHusqvarna = element (unsafeCoerce siHusqvarna_)
+siHusqvarna = element (unsafeCoerce _siHusqvarna)
 
-foreign import siHyper_ :: ReactIcon
+foreign import _siHyper :: ReactIcon
 
 siHyper :: forall a b. Union a b PropsIcon => Record a -> JSX
-siHyper = element (unsafeCoerce siHyper_)
+siHyper = element (unsafeCoerce _siHyper)
 
-foreign import siHyperledger_ :: ReactIcon
+foreign import _siHyperledger :: ReactIcon
 
 siHyperledger :: forall a b. Union a b PropsIcon => Record a -> JSX
-siHyperledger = element (unsafeCoerce siHyperledger_)
+siHyperledger = element (unsafeCoerce _siHyperledger)
 
-foreign import siHypothesis_ :: ReactIcon
+foreign import _siHypothesis :: ReactIcon
 
 siHypothesis :: forall a b. Union a b PropsIcon => Record a -> JSX
-siHypothesis = element (unsafeCoerce siHypothesis_)
+siHypothesis = element (unsafeCoerce _siHypothesis)
 
-foreign import siHyundai_ :: ReactIcon
+foreign import _siHyundai :: ReactIcon
 
 siHyundai :: forall a b. Union a b PropsIcon => Record a -> JSX
-siHyundai = element (unsafeCoerce siHyundai_)
+siHyundai = element (unsafeCoerce _siHyundai)
 
-foreign import siIata_ :: ReactIcon
+foreign import _siIata :: ReactIcon
 
 siIata :: forall a b. Union a b PropsIcon => Record a -> JSX
-siIata = element (unsafeCoerce siIata_)
+siIata = element (unsafeCoerce _siIata)
 
-foreign import siIbeacon_ :: ReactIcon
+foreign import _siIbeacon :: ReactIcon
 
 siIbeacon :: forall a b. Union a b PropsIcon => Record a -> JSX
-siIbeacon = element (unsafeCoerce siIbeacon_)
+siIbeacon = element (unsafeCoerce _siIbeacon)
 
-foreign import siIbm_ :: ReactIcon
+foreign import _siIbm :: ReactIcon
 
 siIbm :: forall a b. Union a b PropsIcon => Record a -> JSX
-siIbm = element (unsafeCoerce siIbm_)
+siIbm = element (unsafeCoerce _siIbm)
 
-foreign import siIbmwatson_ :: ReactIcon
+foreign import _siIbmwatson :: ReactIcon
 
 siIbmwatson :: forall a b. Union a b PropsIcon => Record a -> JSX
-siIbmwatson = element (unsafeCoerce siIbmwatson_)
+siIbmwatson = element (unsafeCoerce _siIbmwatson)
 
-foreign import siIcinga_ :: ReactIcon
+foreign import _siIcinga :: ReactIcon
 
 siIcinga :: forall a b. Union a b PropsIcon => Record a -> JSX
-siIcinga = element (unsafeCoerce siIcinga_)
+siIcinga = element (unsafeCoerce _siIcinga)
 
-foreign import siIcloud_ :: ReactIcon
+foreign import _siIcloud :: ReactIcon
 
 siIcloud :: forall a b. Union a b PropsIcon => Record a -> JSX
-siIcloud = element (unsafeCoerce siIcloud_)
+siIcloud = element (unsafeCoerce _siIcloud)
 
-foreign import siIcomoon_ :: ReactIcon
+foreign import _siIcomoon :: ReactIcon
 
 siIcomoon :: forall a b. Union a b PropsIcon => Record a -> JSX
-siIcomoon = element (unsafeCoerce siIcomoon_)
+siIcomoon = element (unsafeCoerce _siIcomoon)
 
-foreign import siIcon_ :: ReactIcon
+foreign import _siIcon :: ReactIcon
 
 siIcon :: forall a b. Union a b PropsIcon => Record a -> JSX
-siIcon = element (unsafeCoerce siIcon_)
+siIcon = element (unsafeCoerce _siIcon)
 
-foreign import siIconfinder_ :: ReactIcon
+foreign import _siIconfinder :: ReactIcon
 
 siIconfinder :: forall a b. Union a b PropsIcon => Record a -> JSX
-siIconfinder = element (unsafeCoerce siIconfinder_)
+siIconfinder = element (unsafeCoerce _siIconfinder)
 
-foreign import siIconify_ :: ReactIcon
+foreign import _siIconify :: ReactIcon
 
 siIconify :: forall a b. Union a b PropsIcon => Record a -> JSX
-siIconify = element (unsafeCoerce siIconify_)
+siIconify = element (unsafeCoerce _siIconify)
 
-foreign import siIconjar_ :: ReactIcon
+foreign import _siIconjar :: ReactIcon
 
 siIconjar :: forall a b. Union a b PropsIcon => Record a -> JSX
-siIconjar = element (unsafeCoerce siIconjar_)
+siIconjar = element (unsafeCoerce _siIconjar)
 
-foreign import siIcq_ :: ReactIcon
+foreign import _siIcq :: ReactIcon
 
 siIcq :: forall a b. Union a b PropsIcon => Record a -> JSX
-siIcq = element (unsafeCoerce siIcq_)
+siIcq = element (unsafeCoerce _siIcq)
 
-foreign import siIeee_ :: ReactIcon
+foreign import _siIeee :: ReactIcon
 
 siIeee :: forall a b. Union a b PropsIcon => Record a -> JSX
-siIeee = element (unsafeCoerce siIeee_)
+siIeee = element (unsafeCoerce _siIeee)
 
-foreign import siIfixit_ :: ReactIcon
+foreign import _siIfixit :: ReactIcon
 
 siIfixit :: forall a b. Union a b PropsIcon => Record a -> JSX
-siIfixit = element (unsafeCoerce siIfixit_)
+siIfixit = element (unsafeCoerce _siIfixit)
 
-foreign import siIfood_ :: ReactIcon
+foreign import _siIfood :: ReactIcon
 
 siIfood :: forall a b. Union a b PropsIcon => Record a -> JSX
-siIfood = element (unsafeCoerce siIfood_)
+siIfood = element (unsafeCoerce _siIfood)
 
-foreign import siIfttt_ :: ReactIcon
+foreign import _siIfttt :: ReactIcon
 
 siIfttt :: forall a b. Union a b PropsIcon => Record a -> JSX
-siIfttt = element (unsafeCoerce siIfttt_)
+siIfttt = element (unsafeCoerce _siIfttt)
 
-foreign import siIheartradio_ :: ReactIcon
+foreign import _siIheartradio :: ReactIcon
 
 siIheartradio :: forall a b. Union a b PropsIcon => Record a -> JSX
-siIheartradio = element (unsafeCoerce siIheartradio_)
+siIheartradio = element (unsafeCoerce _siIheartradio)
 
-foreign import siIkea_ :: ReactIcon
+foreign import _siIkea :: ReactIcon
 
 siIkea :: forall a b. Union a b PropsIcon => Record a -> JSX
-siIkea = element (unsafeCoerce siIkea_)
+siIkea = element (unsafeCoerce _siIkea)
 
-foreign import siImagej_ :: ReactIcon
+foreign import _siImagej :: ReactIcon
 
 siImagej :: forall a b. Union a b PropsIcon => Record a -> JSX
-siImagej = element (unsafeCoerce siImagej_)
+siImagej = element (unsafeCoerce _siImagej)
 
-foreign import siImdb_ :: ReactIcon
+foreign import _siImdb :: ReactIcon
 
 siImdb :: forall a b. Union a b PropsIcon => Record a -> JSX
-siImdb = element (unsafeCoerce siImdb_)
+siImdb = element (unsafeCoerce _siImdb)
 
-foreign import siImgur_ :: ReactIcon
+foreign import _siImgur :: ReactIcon
 
 siImgur :: forall a b. Union a b PropsIcon => Record a -> JSX
-siImgur = element (unsafeCoerce siImgur_)
+siImgur = element (unsafeCoerce _siImgur)
 
-foreign import siImmer_ :: ReactIcon
+foreign import _siImmer :: ReactIcon
 
 siImmer :: forall a b. Union a b PropsIcon => Record a -> JSX
-siImmer = element (unsafeCoerce siImmer_)
+siImmer = element (unsafeCoerce _siImmer)
 
-foreign import siImou_ :: ReactIcon
+foreign import _siImou :: ReactIcon
 
 siImou :: forall a b. Union a b PropsIcon => Record a -> JSX
-siImou = element (unsafeCoerce siImou_)
+siImou = element (unsafeCoerce _siImou)
 
-foreign import siIndeed_ :: ReactIcon
+foreign import _siIndeed :: ReactIcon
 
 siIndeed :: forall a b. Union a b PropsIcon => Record a -> JSX
-siIndeed = element (unsafeCoerce siIndeed_)
+siIndeed = element (unsafeCoerce _siIndeed)
 
-foreign import siInfiniti_ :: ReactIcon
+foreign import _siInfiniti :: ReactIcon
 
 siInfiniti :: forall a b. Union a b PropsIcon => Record a -> JSX
-siInfiniti = element (unsafeCoerce siInfiniti_)
+siInfiniti = element (unsafeCoerce _siInfiniti)
 
-foreign import siInfluxdb_ :: ReactIcon
+foreign import _siInfluxdb :: ReactIcon
 
 siInfluxdb :: forall a b. Union a b PropsIcon => Record a -> JSX
-siInfluxdb = element (unsafeCoerce siInfluxdb_)
+siInfluxdb = element (unsafeCoerce _siInfluxdb)
 
-foreign import siInformatica_ :: ReactIcon
+foreign import _siInformatica :: ReactIcon
 
 siInformatica :: forall a b. Union a b PropsIcon => Record a -> JSX
-siInformatica = element (unsafeCoerce siInformatica_)
+siInformatica = element (unsafeCoerce _siInformatica)
 
-foreign import siInfosys_ :: ReactIcon
+foreign import _siInfosys :: ReactIcon
 
 siInfosys :: forall a b. Union a b PropsIcon => Record a -> JSX
-siInfosys = element (unsafeCoerce siInfosys_)
+siInfosys = element (unsafeCoerce _siInfosys)
 
-foreign import siIngress_ :: ReactIcon
+foreign import _siIngress :: ReactIcon
 
 siIngress :: forall a b. Union a b PropsIcon => Record a -> JSX
-siIngress = element (unsafeCoerce siIngress_)
+siIngress = element (unsafeCoerce _siIngress)
 
-foreign import siInkscape_ :: ReactIcon
+foreign import _siInkscape :: ReactIcon
 
 siInkscape :: forall a b. Union a b PropsIcon => Record a -> JSX
-siInkscape = element (unsafeCoerce siInkscape_)
+siInkscape = element (unsafeCoerce _siInkscape)
 
-foreign import siInsomnia_ :: ReactIcon
+foreign import _siInsomnia :: ReactIcon
 
 siInsomnia :: forall a b. Union a b PropsIcon => Record a -> JSX
-siInsomnia = element (unsafeCoerce siInsomnia_)
+siInsomnia = element (unsafeCoerce _siInsomnia)
 
-foreign import siInstacart_ :: ReactIcon
+foreign import _siInstacart :: ReactIcon
 
 siInstacart :: forall a b. Union a b PropsIcon => Record a -> JSX
-siInstacart = element (unsafeCoerce siInstacart_)
+siInstacart = element (unsafeCoerce _siInstacart)
 
-foreign import siInstagram_ :: ReactIcon
+foreign import _siInstagram :: ReactIcon
 
 siInstagram :: forall a b. Union a b PropsIcon => Record a -> JSX
-siInstagram = element (unsafeCoerce siInstagram_)
+siInstagram = element (unsafeCoerce _siInstagram)
 
-foreign import siInstapaper_ :: ReactIcon
+foreign import _siInstapaper :: ReactIcon
 
 siInstapaper :: forall a b. Union a b PropsIcon => Record a -> JSX
-siInstapaper = element (unsafeCoerce siInstapaper_)
+siInstapaper = element (unsafeCoerce _siInstapaper)
 
-foreign import siInstructables_ :: ReactIcon
+foreign import _siInstructables :: ReactIcon
 
 siInstructables :: forall a b. Union a b PropsIcon => Record a -> JSX
-siInstructables = element (unsafeCoerce siInstructables_)
+siInstructables = element (unsafeCoerce _siInstructables)
 
-foreign import siIntegromat_ :: ReactIcon
+foreign import _siIntegromat :: ReactIcon
 
 siIntegromat :: forall a b. Union a b PropsIcon => Record a -> JSX
-siIntegromat = element (unsafeCoerce siIntegromat_)
+siIntegromat = element (unsafeCoerce _siIntegromat)
 
-foreign import siIntel_ :: ReactIcon
+foreign import _siIntel :: ReactIcon
 
 siIntel :: forall a b. Union a b PropsIcon => Record a -> JSX
-siIntel = element (unsafeCoerce siIntel_)
+siIntel = element (unsafeCoerce _siIntel)
 
-foreign import siIntellijidea_ :: ReactIcon
+foreign import _siIntellijidea :: ReactIcon
 
 siIntellijidea :: forall a b. Union a b PropsIcon => Record a -> JSX
-siIntellijidea = element (unsafeCoerce siIntellijidea_)
+siIntellijidea = element (unsafeCoerce _siIntellijidea)
 
-foreign import siIntercom_ :: ReactIcon
+foreign import _siIntercom :: ReactIcon
 
 siIntercom :: forall a b. Union a b PropsIcon => Record a -> JSX
-siIntercom = element (unsafeCoerce siIntercom_)
+siIntercom = element (unsafeCoerce _siIntercom)
 
-foreign import siInternetarchive_ :: ReactIcon
+foreign import _siInternetarchive :: ReactIcon
 
 siInternetarchive :: forall a b. Union a b PropsIcon => Record a -> JSX
-siInternetarchive = element (unsafeCoerce siInternetarchive_)
+siInternetarchive = element (unsafeCoerce _siInternetarchive)
 
-foreign import siInternetexplorer_ :: ReactIcon
+foreign import _siInternetexplorer :: ReactIcon
 
 siInternetexplorer :: forall a b. Union a b PropsIcon => Record a -> JSX
-siInternetexplorer = element (unsafeCoerce siInternetexplorer_)
+siInternetexplorer = element (unsafeCoerce _siInternetexplorer)
 
-foreign import siIntigriti_ :: ReactIcon
+foreign import _siIntigriti :: ReactIcon
 
 siIntigriti :: forall a b. Union a b PropsIcon => Record a -> JSX
-siIntigriti = element (unsafeCoerce siIntigriti_)
+siIntigriti = element (unsafeCoerce _siIntigriti)
 
-foreign import siInvision_ :: ReactIcon
+foreign import _siInvision :: ReactIcon
 
 siInvision :: forall a b. Union a b PropsIcon => Record a -> JSX
-siInvision = element (unsafeCoerce siInvision_)
+siInvision = element (unsafeCoerce _siInvision)
 
-foreign import siInvoiceninja_ :: ReactIcon
+foreign import _siInvoiceninja :: ReactIcon
 
 siInvoiceninja :: forall a b. Union a b PropsIcon => Record a -> JSX
-siInvoiceninja = element (unsafeCoerce siInvoiceninja_)
+siInvoiceninja = element (unsafeCoerce _siInvoiceninja)
 
-foreign import siIobroker_ :: ReactIcon
+foreign import _siIobroker :: ReactIcon
 
 siIobroker :: forall a b. Union a b PropsIcon => Record a -> JSX
-siIobroker = element (unsafeCoerce siIobroker_)
+siIobroker = element (unsafeCoerce _siIobroker)
 
-foreign import siIonic_ :: ReactIcon
+foreign import _siIonic :: ReactIcon
 
 siIonic :: forall a b. Union a b PropsIcon => Record a -> JSX
-siIonic = element (unsafeCoerce siIonic_)
+siIonic = element (unsafeCoerce _siIonic)
 
-foreign import siIos_ :: ReactIcon
+foreign import _siIos :: ReactIcon
 
 siIos :: forall a b. Union a b PropsIcon => Record a -> JSX
-siIos = element (unsafeCoerce siIos_)
+siIos = element (unsafeCoerce _siIos)
 
-foreign import siIota_ :: ReactIcon
+foreign import _siIota :: ReactIcon
 
 siIota :: forall a b. Union a b PropsIcon => Record a -> JSX
-siIota = element (unsafeCoerce siIota_)
+siIota = element (unsafeCoerce _siIota)
 
-foreign import siIpfs_ :: ReactIcon
+foreign import _siIpfs :: ReactIcon
 
 siIpfs :: forall a b. Union a b PropsIcon => Record a -> JSX
-siIpfs = element (unsafeCoerce siIpfs_)
+siIpfs = element (unsafeCoerce _siIpfs)
 
-foreign import siIssuu_ :: ReactIcon
+foreign import _siIssuu :: ReactIcon
 
 siIssuu :: forall a b. Union a b PropsIcon => Record a -> JSX
-siIssuu = element (unsafeCoerce siIssuu_)
+siIssuu = element (unsafeCoerce _siIssuu)
 
-foreign import siIstio_ :: ReactIcon
+foreign import _siIstio :: ReactIcon
 
 siIstio :: forall a b. Union a b PropsIcon => Record a -> JSX
-siIstio = element (unsafeCoerce siIstio_)
+siIstio = element (unsafeCoerce _siIstio)
 
-foreign import siItchdotio_ :: ReactIcon
+foreign import _siItchdotio :: ReactIcon
 
 siItchdotio :: forall a b. Union a b PropsIcon => Record a -> JSX
-siItchdotio = element (unsafeCoerce siItchdotio_)
+siItchdotio = element (unsafeCoerce _siItchdotio)
 
-foreign import siItunes_ :: ReactIcon
+foreign import _siItunes :: ReactIcon
 
 siItunes :: forall a b. Union a b PropsIcon => Record a -> JSX
-siItunes = element (unsafeCoerce siItunes_)
+siItunes = element (unsafeCoerce _siItunes)
 
-foreign import siIveco_ :: ReactIcon
+foreign import _siIveco :: ReactIcon
 
 siIveco :: forall a b. Union a b PropsIcon => Record a -> JSX
-siIveco = element (unsafeCoerce siIveco_)
+siIveco = element (unsafeCoerce _siIveco)
 
-foreign import siJabber_ :: ReactIcon
+foreign import _siJabber :: ReactIcon
 
 siJabber :: forall a b. Union a b PropsIcon => Record a -> JSX
-siJabber = element (unsafeCoerce siJabber_)
+siJabber = element (unsafeCoerce _siJabber)
 
-foreign import siJaguar_ :: ReactIcon
+foreign import _siJaguar :: ReactIcon
 
 siJaguar :: forall a b. Union a b PropsIcon => Record a -> JSX
-siJaguar = element (unsafeCoerce siJaguar_)
+siJaguar = element (unsafeCoerce _siJaguar)
 
-foreign import siJamboard_ :: ReactIcon
+foreign import _siJamboard :: ReactIcon
 
 siJamboard :: forall a b. Union a b PropsIcon => Record a -> JSX
-siJamboard = element (unsafeCoerce siJamboard_)
+siJamboard = element (unsafeCoerce _siJamboard)
 
-foreign import siJameson_ :: ReactIcon
+foreign import _siJameson :: ReactIcon
 
 siJameson :: forall a b. Union a b PropsIcon => Record a -> JSX
-siJameson = element (unsafeCoerce siJameson_)
+siJameson = element (unsafeCoerce _siJameson)
 
-foreign import siJamstack_ :: ReactIcon
+foreign import _siJamstack :: ReactIcon
 
 siJamstack :: forall a b. Union a b PropsIcon => Record a -> JSX
-siJamstack = element (unsafeCoerce siJamstack_)
+siJamstack = element (unsafeCoerce _siJamstack)
 
-foreign import siJasmine_ :: ReactIcon
+foreign import _siJasmine :: ReactIcon
 
 siJasmine :: forall a b. Union a b PropsIcon => Record a -> JSX
-siJasmine = element (unsafeCoerce siJasmine_)
+siJasmine = element (unsafeCoerce _siJasmine)
 
-foreign import siJava_ :: ReactIcon
+foreign import _siJava :: ReactIcon
 
 siJava :: forall a b. Union a b PropsIcon => Record a -> JSX
-siJava = element (unsafeCoerce siJava_)
+siJava = element (unsafeCoerce _siJava)
 
-foreign import siJavascript_ :: ReactIcon
+foreign import _siJavascript :: ReactIcon
 
 siJavascript :: forall a b. Union a b PropsIcon => Record a -> JSX
-siJavascript = element (unsafeCoerce siJavascript_)
+siJavascript = element (unsafeCoerce _siJavascript)
 
-foreign import siJbl_ :: ReactIcon
+foreign import _siJbl :: ReactIcon
 
 siJbl :: forall a b. Union a b PropsIcon => Record a -> JSX
-siJbl = element (unsafeCoerce siJbl_)
+siJbl = element (unsafeCoerce _siJbl)
 
-foreign import siJcb_ :: ReactIcon
+foreign import _siJcb :: ReactIcon
 
 siJcb :: forall a b. Union a b PropsIcon => Record a -> JSX
-siJcb = element (unsafeCoerce siJcb_)
+siJcb = element (unsafeCoerce _siJcb)
 
-foreign import siJeep_ :: ReactIcon
+foreign import _siJeep :: ReactIcon
 
 siJeep :: forall a b. Union a b PropsIcon => Record a -> JSX
-siJeep = element (unsafeCoerce siJeep_)
+siJeep = element (unsafeCoerce _siJeep)
 
-foreign import siJekyll_ :: ReactIcon
+foreign import _siJekyll :: ReactIcon
 
 siJekyll :: forall a b. Union a b PropsIcon => Record a -> JSX
-siJekyll = element (unsafeCoerce siJekyll_)
+siJekyll = element (unsafeCoerce _siJekyll)
 
-foreign import siJellyfin_ :: ReactIcon
+foreign import _siJellyfin :: ReactIcon
 
 siJellyfin :: forall a b. Union a b PropsIcon => Record a -> JSX
-siJellyfin = element (unsafeCoerce siJellyfin_)
+siJellyfin = element (unsafeCoerce _siJellyfin)
 
-foreign import siJenkins_ :: ReactIcon
+foreign import _siJenkins :: ReactIcon
 
 siJenkins :: forall a b. Union a b PropsIcon => Record a -> JSX
-siJenkins = element (unsafeCoerce siJenkins_)
+siJenkins = element (unsafeCoerce _siJenkins)
 
-foreign import siJenkinsx_ :: ReactIcon
+foreign import _siJenkinsx :: ReactIcon
 
 siJenkinsx :: forall a b. Union a b PropsIcon => Record a -> JSX
-siJenkinsx = element (unsafeCoerce siJenkinsx_)
+siJenkinsx = element (unsafeCoerce _siJenkinsx)
 
-foreign import siJest_ :: ReactIcon
+foreign import _siJest :: ReactIcon
 
 siJest :: forall a b. Union a b PropsIcon => Record a -> JSX
-siJest = element (unsafeCoerce siJest_)
+siJest = element (unsafeCoerce _siJest)
 
-foreign import siJet_ :: ReactIcon
+foreign import _siJet :: ReactIcon
 
 siJet :: forall a b. Union a b PropsIcon => Record a -> JSX
-siJet = element (unsafeCoerce siJet_)
+siJet = element (unsafeCoerce _siJet)
 
-foreign import siJetbrains_ :: ReactIcon
+foreign import _siJetbrains :: ReactIcon
 
 siJetbrains :: forall a b. Union a b PropsIcon => Record a -> JSX
-siJetbrains = element (unsafeCoerce siJetbrains_)
+siJetbrains = element (unsafeCoerce _siJetbrains)
 
-foreign import siJfrog_ :: ReactIcon
+foreign import _siJfrog :: ReactIcon
 
 siJfrog :: forall a b. Union a b PropsIcon => Record a -> JSX
-siJfrog = element (unsafeCoerce siJfrog_)
+siJfrog = element (unsafeCoerce _siJfrog)
 
-foreign import siJfrogbintray_ :: ReactIcon
+foreign import _siJfrogbintray :: ReactIcon
 
 siJfrogbintray :: forall a b. Union a b PropsIcon => Record a -> JSX
-siJfrogbintray = element (unsafeCoerce siJfrogbintray_)
+siJfrogbintray = element (unsafeCoerce _siJfrogbintray)
 
-foreign import siJinja_ :: ReactIcon
+foreign import _siJinja :: ReactIcon
 
 siJinja :: forall a b. Union a b PropsIcon => Record a -> JSX
-siJinja = element (unsafeCoerce siJinja_)
+siJinja = element (unsafeCoerce _siJinja)
 
-foreign import siJira_ :: ReactIcon
+foreign import _siJira :: ReactIcon
 
 siJira :: forall a b. Union a b PropsIcon => Record a -> JSX
-siJira = element (unsafeCoerce siJira_)
+siJira = element (unsafeCoerce _siJira)
 
-foreign import siJirasoftware_ :: ReactIcon
+foreign import _siJirasoftware :: ReactIcon
 
 siJirasoftware :: forall a b. Union a b PropsIcon => Record a -> JSX
-siJirasoftware = element (unsafeCoerce siJirasoftware_)
+siJirasoftware = element (unsafeCoerce _siJirasoftware)
 
-foreign import siJitsi_ :: ReactIcon
+foreign import _siJitsi :: ReactIcon
 
 siJitsi :: forall a b. Union a b PropsIcon => Record a -> JSX
-siJitsi = element (unsafeCoerce siJitsi_)
+siJitsi = element (unsafeCoerce _siJitsi)
 
-foreign import siJohndeere_ :: ReactIcon
+foreign import _siJohndeere :: ReactIcon
 
 siJohndeere :: forall a b. Union a b PropsIcon => Record a -> JSX
-siJohndeere = element (unsafeCoerce siJohndeere_)
+siJohndeere = element (unsafeCoerce _siJohndeere)
 
-foreign import siJoomla_ :: ReactIcon
+foreign import _siJoomla :: ReactIcon
 
 siJoomla :: forall a b. Union a b PropsIcon => Record a -> JSX
-siJoomla = element (unsafeCoerce siJoomla_)
+siJoomla = element (unsafeCoerce _siJoomla)
 
-foreign import siJoplin_ :: ReactIcon
+foreign import _siJoplin :: ReactIcon
 
 siJoplin :: forall a b. Union a b PropsIcon => Record a -> JSX
-siJoplin = element (unsafeCoerce siJoplin_)
+siJoplin = element (unsafeCoerce _siJoplin)
 
-foreign import siJordan_ :: ReactIcon
+foreign import _siJordan :: ReactIcon
 
 siJordan :: forall a b. Union a b PropsIcon => Record a -> JSX
-siJordan = element (unsafeCoerce siJordan_)
+siJordan = element (unsafeCoerce _siJordan)
 
-foreign import siJpeg_ :: ReactIcon
+foreign import _siJpeg :: ReactIcon
 
 siJpeg :: forall a b. Union a b PropsIcon => Record a -> JSX
-siJpeg = element (unsafeCoerce siJpeg_)
+siJpeg = element (unsafeCoerce _siJpeg)
 
-foreign import siJquery_ :: ReactIcon
+foreign import _siJquery :: ReactIcon
 
 siJquery :: forall a b. Union a b PropsIcon => Record a -> JSX
-siJquery = element (unsafeCoerce siJquery_)
+siJquery = element (unsafeCoerce _siJquery)
 
-foreign import siJrgroup_ :: ReactIcon
+foreign import _siJrgroup :: ReactIcon
 
 siJrgroup :: forall a b. Union a b PropsIcon => Record a -> JSX
-siJrgroup = element (unsafeCoerce siJrgroup_)
+siJrgroup = element (unsafeCoerce _siJrgroup)
 
-foreign import siJsdelivr_ :: ReactIcon
+foreign import _siJsdelivr :: ReactIcon
 
 siJsdelivr :: forall a b. Union a b PropsIcon => Record a -> JSX
-siJsdelivr = element (unsafeCoerce siJsdelivr_)
+siJsdelivr = element (unsafeCoerce _siJsdelivr)
 
-foreign import siJsfiddle_ :: ReactIcon
+foreign import _siJsfiddle :: ReactIcon
 
 siJsfiddle :: forall a b. Union a b PropsIcon => Record a -> JSX
-siJsfiddle = element (unsafeCoerce siJsfiddle_)
+siJsfiddle = element (unsafeCoerce _siJsfiddle)
 
-foreign import siJson_ :: ReactIcon
+foreign import _siJson :: ReactIcon
 
 siJson :: forall a b. Union a b PropsIcon => Record a -> JSX
-siJson = element (unsafeCoerce siJson_)
+siJson = element (unsafeCoerce _siJson)
 
-foreign import siJsonwebtokens_ :: ReactIcon
+foreign import _siJsonwebtokens :: ReactIcon
 
 siJsonwebtokens :: forall a b. Union a b PropsIcon => Record a -> JSX
-siJsonwebtokens = element (unsafeCoerce siJsonwebtokens_)
+siJsonwebtokens = element (unsafeCoerce _siJsonwebtokens)
 
-foreign import siJss_ :: ReactIcon
+foreign import _siJss :: ReactIcon
 
 siJss :: forall a b. Union a b PropsIcon => Record a -> JSX
-siJss = element (unsafeCoerce siJss_)
+siJss = element (unsafeCoerce _siJss)
 
-foreign import siJulia_ :: ReactIcon
+foreign import _siJulia :: ReactIcon
 
 siJulia :: forall a b. Union a b PropsIcon => Record a -> JSX
-siJulia = element (unsafeCoerce siJulia_)
+siJulia = element (unsafeCoerce _siJulia)
 
-foreign import siJunipernetworks_ :: ReactIcon
+foreign import _siJunipernetworks :: ReactIcon
 
 siJunipernetworks :: forall a b. Union a b PropsIcon => Record a -> JSX
-siJunipernetworks = element (unsafeCoerce siJunipernetworks_)
+siJunipernetworks = element (unsafeCoerce _siJunipernetworks)
 
-foreign import siJupyter_ :: ReactIcon
+foreign import _siJupyter :: ReactIcon
 
 siJupyter :: forall a b. Union a b PropsIcon => Record a -> JSX
-siJupyter = element (unsafeCoerce siJupyter_)
+siJupyter = element (unsafeCoerce _siJupyter)
 
-foreign import siJusteat_ :: ReactIcon
+foreign import _siJusteat :: ReactIcon
 
 siJusteat :: forall a b. Union a b PropsIcon => Record a -> JSX
-siJusteat = element (unsafeCoerce siJusteat_)
+siJusteat = element (unsafeCoerce _siJusteat)
 
-foreign import siJustgiving_ :: ReactIcon
+foreign import _siJustgiving :: ReactIcon
 
 siJustgiving :: forall a b. Union a b PropsIcon => Record a -> JSX
-siJustgiving = element (unsafeCoerce siJustgiving_)
+siJustgiving = element (unsafeCoerce _siJustgiving)
 
-foreign import siKaggle_ :: ReactIcon
+foreign import _siKaggle :: ReactIcon
 
 siKaggle :: forall a b. Union a b PropsIcon => Record a -> JSX
-siKaggle = element (unsafeCoerce siKaggle_)
+siKaggle = element (unsafeCoerce _siKaggle)
 
-foreign import siKahoot_ :: ReactIcon
+foreign import _siKahoot :: ReactIcon
 
 siKahoot :: forall a b. Union a b PropsIcon => Record a -> JSX
-siKahoot = element (unsafeCoerce siKahoot_)
+siKahoot = element (unsafeCoerce _siKahoot)
 
-foreign import siKaios_ :: ReactIcon
+foreign import _siKaios :: ReactIcon
 
 siKaios :: forall a b. Union a b PropsIcon => Record a -> JSX
-siKaios = element (unsafeCoerce siKaios_)
+siKaios = element (unsafeCoerce _siKaios)
 
-foreign import siKakao_ :: ReactIcon
+foreign import _siKakao :: ReactIcon
 
 siKakao :: forall a b. Union a b PropsIcon => Record a -> JSX
-siKakao = element (unsafeCoerce siKakao_)
+siKakao = element (unsafeCoerce _siKakao)
 
-foreign import siKakaotalk_ :: ReactIcon
+foreign import _siKakaotalk :: ReactIcon
 
 siKakaotalk :: forall a b. Union a b PropsIcon => Record a -> JSX
-siKakaotalk = element (unsafeCoerce siKakaotalk_)
+siKakaotalk = element (unsafeCoerce _siKakaotalk)
 
-foreign import siKalilinux_ :: ReactIcon
+foreign import _siKalilinux :: ReactIcon
 
 siKalilinux :: forall a b. Union a b PropsIcon => Record a -> JSX
-siKalilinux = element (unsafeCoerce siKalilinux_)
+siKalilinux = element (unsafeCoerce _siKalilinux)
 
-foreign import siKarlsruherverkehrsverbund_ :: ReactIcon
+foreign import _siKarlsruherverkehrsverbund :: ReactIcon
 
 siKarlsruherverkehrsverbund :: forall a b. Union a b PropsIcon => Record a -> JSX
-siKarlsruherverkehrsverbund = element (unsafeCoerce siKarlsruherverkehrsverbund_)
+siKarlsruherverkehrsverbund = element (unsafeCoerce _siKarlsruherverkehrsverbund)
 
-foreign import siKasasmart_ :: ReactIcon
+foreign import _siKasasmart :: ReactIcon
 
 siKasasmart :: forall a b. Union a b PropsIcon => Record a -> JSX
-siKasasmart = element (unsafeCoerce siKasasmart_)
+siKasasmart = element (unsafeCoerce _siKasasmart)
 
-foreign import siKashflow_ :: ReactIcon
+foreign import _siKashflow :: ReactIcon
 
 siKashflow :: forall a b. Union a b PropsIcon => Record a -> JSX
-siKashflow = element (unsafeCoerce siKashflow_)
+siKashflow = element (unsafeCoerce _siKashflow)
 
-foreign import siKaspersky_ :: ReactIcon
+foreign import _siKaspersky :: ReactIcon
 
 siKaspersky :: forall a b. Union a b PropsIcon => Record a -> JSX
-siKaspersky = element (unsafeCoerce siKaspersky_)
+siKaspersky = element (unsafeCoerce _siKaspersky)
 
-foreign import siKatacoda_ :: ReactIcon
+foreign import _siKatacoda :: ReactIcon
 
 siKatacoda :: forall a b. Union a b PropsIcon => Record a -> JSX
-siKatacoda = element (unsafeCoerce siKatacoda_)
+siKatacoda = element (unsafeCoerce _siKatacoda)
 
-foreign import siKatana_ :: ReactIcon
+foreign import _siKatana :: ReactIcon
 
 siKatana :: forall a b. Union a b PropsIcon => Record a -> JSX
-siKatana = element (unsafeCoerce siKatana_)
+siKatana = element (unsafeCoerce _siKatana)
 
-foreign import siKaufland_ :: ReactIcon
+foreign import _siKaufland :: ReactIcon
 
 siKaufland :: forall a b. Union a b PropsIcon => Record a -> JSX
-siKaufland = element (unsafeCoerce siKaufland_)
+siKaufland = element (unsafeCoerce _siKaufland)
 
-foreign import siKde_ :: ReactIcon
+foreign import _siKde :: ReactIcon
 
 siKde :: forall a b. Union a b PropsIcon => Record a -> JSX
-siKde = element (unsafeCoerce siKde_)
+siKde = element (unsafeCoerce _siKde)
 
-foreign import siKdenlive_ :: ReactIcon
+foreign import _siKdenlive :: ReactIcon
 
 siKdenlive :: forall a b. Union a b PropsIcon => Record a -> JSX
-siKdenlive = element (unsafeCoerce siKdenlive_)
+siKdenlive = element (unsafeCoerce _siKdenlive)
 
-foreign import siKeepassxc_ :: ReactIcon
+foreign import _siKeepassxc :: ReactIcon
 
 siKeepassxc :: forall a b. Union a b PropsIcon => Record a -> JSX
-siKeepassxc = element (unsafeCoerce siKeepassxc_)
+siKeepassxc = element (unsafeCoerce _siKeepassxc)
 
-foreign import siKentico_ :: ReactIcon
+foreign import _siKentico :: ReactIcon
 
 siKentico :: forall a b. Union a b PropsIcon => Record a -> JSX
-siKentico = element (unsafeCoerce siKentico_)
+siKentico = element (unsafeCoerce _siKentico)
 
-foreign import siKeras_ :: ReactIcon
+foreign import _siKeras :: ReactIcon
 
 siKeras :: forall a b. Union a b PropsIcon => Record a -> JSX
-siKeras = element (unsafeCoerce siKeras_)
+siKeras = element (unsafeCoerce _siKeras)
 
-foreign import siKeybase_ :: ReactIcon
+foreign import _siKeybase :: ReactIcon
 
 siKeybase :: forall a b. Union a b PropsIcon => Record a -> JSX
-siKeybase = element (unsafeCoerce siKeybase_)
+siKeybase = element (unsafeCoerce _siKeybase)
 
-foreign import siKeycdn_ :: ReactIcon
+foreign import _siKeycdn :: ReactIcon
 
 siKeycdn :: forall a b. Union a b PropsIcon => Record a -> JSX
-siKeycdn = element (unsafeCoerce siKeycdn_)
+siKeycdn = element (unsafeCoerce _siKeycdn)
 
-foreign import siKfc_ :: ReactIcon
+foreign import _siKfc :: ReactIcon
 
 siKfc :: forall a b. Union a b PropsIcon => Record a -> JSX
-siKfc = element (unsafeCoerce siKfc_)
+siKfc = element (unsafeCoerce _siKfc)
 
-foreign import siKhanacademy_ :: ReactIcon
+foreign import _siKhanacademy :: ReactIcon
 
 siKhanacademy :: forall a b. Union a b PropsIcon => Record a -> JSX
-siKhanacademy = element (unsafeCoerce siKhanacademy_)
+siKhanacademy = element (unsafeCoerce _siKhanacademy)
 
-foreign import siKhronosgroup_ :: ReactIcon
+foreign import _siKhronosgroup :: ReactIcon
 
 siKhronosgroup :: forall a b. Union a b PropsIcon => Record a -> JSX
-siKhronosgroup = element (unsafeCoerce siKhronosgroup_)
+siKhronosgroup = element (unsafeCoerce _siKhronosgroup)
 
-foreign import siKia_ :: ReactIcon
+foreign import _siKia :: ReactIcon
 
 siKia :: forall a b. Union a b PropsIcon => Record a -> JSX
-siKia = element (unsafeCoerce siKia_)
+siKia = element (unsafeCoerce _siKia)
 
-foreign import siKibana_ :: ReactIcon
+foreign import _siKibana :: ReactIcon
 
 siKibana :: forall a b. Union a b PropsIcon => Record a -> JSX
-siKibana = element (unsafeCoerce siKibana_)
+siKibana = element (unsafeCoerce _siKibana)
 
-foreign import siKickstarter_ :: ReactIcon
+foreign import _siKickstarter :: ReactIcon
 
 siKickstarter :: forall a b. Union a b PropsIcon => Record a -> JSX
-siKickstarter = element (unsafeCoerce siKickstarter_)
+siKickstarter = element (unsafeCoerce _siKickstarter)
 
-foreign import siKik_ :: ReactIcon
+foreign import _siKik :: ReactIcon
 
 siKik :: forall a b. Union a b PropsIcon => Record a -> JSX
-siKik = element (unsafeCoerce siKik_)
+siKik = element (unsafeCoerce _siKik)
 
-foreign import siKinopoisk_ :: ReactIcon
+foreign import _siKinopoisk :: ReactIcon
 
 siKinopoisk :: forall a b. Union a b PropsIcon => Record a -> JSX
-siKinopoisk = element (unsafeCoerce siKinopoisk_)
+siKinopoisk = element (unsafeCoerce _siKinopoisk)
 
-foreign import siKirby_ :: ReactIcon
+foreign import _siKirby :: ReactIcon
 
 siKirby :: forall a b. Union a b PropsIcon => Record a -> JSX
-siKirby = element (unsafeCoerce siKirby_)
+siKirby = element (unsafeCoerce _siKirby)
 
-foreign import siKitsu_ :: ReactIcon
+foreign import _siKitsu :: ReactIcon
 
 siKitsu :: forall a b. Union a b PropsIcon => Record a -> JSX
-siKitsu = element (unsafeCoerce siKitsu_)
+siKitsu = element (unsafeCoerce _siKitsu)
 
-foreign import siKlarna_ :: ReactIcon
+foreign import _siKlarna :: ReactIcon
 
 siKlarna :: forall a b. Union a b PropsIcon => Record a -> JSX
-siKlarna = element (unsafeCoerce siKlarna_)
+siKlarna = element (unsafeCoerce _siKlarna)
 
-foreign import siKlm_ :: ReactIcon
+foreign import _siKlm :: ReactIcon
 
 siKlm :: forall a b. Union a b PropsIcon => Record a -> JSX
-siKlm = element (unsafeCoerce siKlm_)
+siKlm = element (unsafeCoerce _siKlm)
 
-foreign import siKlook_ :: ReactIcon
+foreign import _siKlook :: ReactIcon
 
 siKlook :: forall a b. Union a b PropsIcon => Record a -> JSX
-siKlook = element (unsafeCoerce siKlook_)
+siKlook = element (unsafeCoerce _siKlook)
 
-foreign import siKnowledgebase_ :: ReactIcon
+foreign import _siKnowledgebase :: ReactIcon
 
 siKnowledgebase :: forall a b. Union a b PropsIcon => Record a -> JSX
-siKnowledgebase = element (unsafeCoerce siKnowledgebase_)
+siKnowledgebase = element (unsafeCoerce _siKnowledgebase)
 
-foreign import siKnown_ :: ReactIcon
+foreign import _siKnown :: ReactIcon
 
 siKnown :: forall a b. Union a b PropsIcon => Record a -> JSX
-siKnown = element (unsafeCoerce siKnown_)
+siKnown = element (unsafeCoerce _siKnown)
 
-foreign import siKoc_ :: ReactIcon
+foreign import _siKoc :: ReactIcon
 
 siKoc :: forall a b. Union a b PropsIcon => Record a -> JSX
-siKoc = element (unsafeCoerce siKoc_)
+siKoc = element (unsafeCoerce _siKoc)
 
-foreign import siKodi_ :: ReactIcon
+foreign import _siKodi :: ReactIcon
 
 siKodi :: forall a b. Union a b PropsIcon => Record a -> JSX
-siKodi = element (unsafeCoerce siKodi_)
+siKodi = element (unsafeCoerce _siKodi)
 
-foreign import siKoding_ :: ReactIcon
+foreign import _siKoding :: ReactIcon
 
 siKoding :: forall a b. Union a b PropsIcon => Record a -> JSX
-siKoding = element (unsafeCoerce siKoding_)
+siKoding = element (unsafeCoerce _siKoding)
 
-foreign import siKofax_ :: ReactIcon
+foreign import _siKofax :: ReactIcon
 
 siKofax :: forall a b. Union a b PropsIcon => Record a -> JSX
-siKofax = element (unsafeCoerce siKofax_)
+siKofax = element (unsafeCoerce _siKofax)
 
-foreign import siKofi_ :: ReactIcon
+foreign import _siKofi :: ReactIcon
 
 siKofi :: forall a b. Union a b PropsIcon => Record a -> JSX
-siKofi = element (unsafeCoerce siKofi_)
+siKofi = element (unsafeCoerce _siKofi)
 
-foreign import siKomoot_ :: ReactIcon
+foreign import _siKomoot :: ReactIcon
 
 siKomoot :: forall a b. Union a b PropsIcon => Record a -> JSX
-siKomoot = element (unsafeCoerce siKomoot_)
+siKomoot = element (unsafeCoerce _siKomoot)
 
-foreign import siKongregate_ :: ReactIcon
+foreign import _siKongregate :: ReactIcon
 
 siKongregate :: forall a b. Union a b PropsIcon => Record a -> JSX
-siKongregate = element (unsafeCoerce siKongregate_)
+siKongregate = element (unsafeCoerce _siKongregate)
 
-foreign import siKonva_ :: ReactIcon
+foreign import _siKonva :: ReactIcon
 
 siKonva :: forall a b. Union a b PropsIcon => Record a -> JSX
-siKonva = element (unsafeCoerce siKonva_)
+siKonva = element (unsafeCoerce _siKonva)
 
-foreign import siKotlin_ :: ReactIcon
+foreign import _siKotlin :: ReactIcon
 
 siKotlin :: forall a b. Union a b PropsIcon => Record a -> JSX
-siKotlin = element (unsafeCoerce siKotlin_)
+siKotlin = element (unsafeCoerce _siKotlin)
 
-foreign import siKrita_ :: ReactIcon
+foreign import _siKrita :: ReactIcon
 
 siKrita :: forall a b. Union a b PropsIcon => Record a -> JSX
-siKrita = element (unsafeCoerce siKrita_)
+siKrita = element (unsafeCoerce _siKrita)
 
-foreign import siKtm_ :: ReactIcon
+foreign import _siKtm :: ReactIcon
 
 siKtm :: forall a b. Union a b PropsIcon => Record a -> JSX
-siKtm = element (unsafeCoerce siKtm_)
+siKtm = element (unsafeCoerce _siKtm)
 
-foreign import siKubernetes_ :: ReactIcon
+foreign import _siKubernetes :: ReactIcon
 
 siKubernetes :: forall a b. Union a b PropsIcon => Record a -> JSX
-siKubernetes = element (unsafeCoerce siKubernetes_)
+siKubernetes = element (unsafeCoerce _siKubernetes)
 
-foreign import siKubuntu_ :: ReactIcon
+foreign import _siKubuntu :: ReactIcon
 
 siKubuntu :: forall a b. Union a b PropsIcon => Record a -> JSX
-siKubuntu = element (unsafeCoerce siKubuntu_)
+siKubuntu = element (unsafeCoerce _siKubuntu)
 
-foreign import siKyocera_ :: ReactIcon
+foreign import _siKyocera :: ReactIcon
 
 siKyocera :: forall a b. Union a b PropsIcon => Record a -> JSX
-siKyocera = element (unsafeCoerce siKyocera_)
+siKyocera = element (unsafeCoerce _siKyocera)
 
-foreign import siLabview_ :: ReactIcon
+foreign import _siLabview :: ReactIcon
 
 siLabview :: forall a b. Union a b PropsIcon => Record a -> JSX
-siLabview = element (unsafeCoerce siLabview_)
+siLabview = element (unsafeCoerce _siLabview)
 
-foreign import siLada_ :: ReactIcon
+foreign import _siLada :: ReactIcon
 
 siLada :: forall a b. Union a b PropsIcon => Record a -> JSX
-siLada = element (unsafeCoerce siLada_)
+siLada = element (unsafeCoerce _siLada)
 
-foreign import siLamborghini_ :: ReactIcon
+foreign import _siLamborghini :: ReactIcon
 
 siLamborghini :: forall a b. Union a b PropsIcon => Record a -> JSX
-siLamborghini = element (unsafeCoerce siLamborghini_)
+siLamborghini = element (unsafeCoerce _siLamborghini)
 
-foreign import siLandrover_ :: ReactIcon
+foreign import _siLandrover :: ReactIcon
 
 siLandrover :: forall a b. Union a b PropsIcon => Record a -> JSX
-siLandrover = element (unsafeCoerce siLandrover_)
+siLandrover = element (unsafeCoerce _siLandrover)
 
-foreign import siLaragon_ :: ReactIcon
+foreign import _siLaragon :: ReactIcon
 
 siLaragon :: forall a b. Union a b PropsIcon => Record a -> JSX
-siLaragon = element (unsafeCoerce siLaragon_)
+siLaragon = element (unsafeCoerce _siLaragon)
 
-foreign import siLaravel_ :: ReactIcon
+foreign import _siLaravel :: ReactIcon
 
 siLaravel :: forall a b. Union a b PropsIcon => Record a -> JSX
-siLaravel = element (unsafeCoerce siLaravel_)
+siLaravel = element (unsafeCoerce _siLaravel)
 
-foreign import siLaravelhorizon_ :: ReactIcon
+foreign import _siLaravelhorizon :: ReactIcon
 
 siLaravelhorizon :: forall a b. Union a b PropsIcon => Record a -> JSX
-siLaravelhorizon = element (unsafeCoerce siLaravelhorizon_)
+siLaravelhorizon = element (unsafeCoerce _siLaravelhorizon)
 
-foreign import siLaravelnova_ :: ReactIcon
+foreign import _siLaravelnova :: ReactIcon
 
 siLaravelnova :: forall a b. Union a b PropsIcon => Record a -> JSX
-siLaravelnova = element (unsafeCoerce siLaravelnova_)
+siLaravelnova = element (unsafeCoerce _siLaravelnova)
 
-foreign import siLastdotfm_ :: ReactIcon
+foreign import _siLastdotfm :: ReactIcon
 
 siLastdotfm :: forall a b. Union a b PropsIcon => Record a -> JSX
-siLastdotfm = element (unsafeCoerce siLastdotfm_)
+siLastdotfm = element (unsafeCoerce _siLastdotfm)
 
-foreign import siLastpass_ :: ReactIcon
+foreign import _siLastpass :: ReactIcon
 
 siLastpass :: forall a b. Union a b PropsIcon => Record a -> JSX
-siLastpass = element (unsafeCoerce siLastpass_)
+siLastpass = element (unsafeCoerce _siLastpass)
 
-foreign import siLatex_ :: ReactIcon
+foreign import _siLatex :: ReactIcon
 
 siLatex :: forall a b. Union a b PropsIcon => Record a -> JSX
-siLatex = element (unsafeCoerce siLatex_)
+siLatex = element (unsafeCoerce _siLatex)
 
-foreign import siLaunchpad_ :: ReactIcon
+foreign import _siLaunchpad :: ReactIcon
 
 siLaunchpad :: forall a b. Union a b PropsIcon => Record a -> JSX
-siLaunchpad = element (unsafeCoerce siLaunchpad_)
+siLaunchpad = element (unsafeCoerce _siLaunchpad)
 
-foreign import siLbry_ :: ReactIcon
+foreign import _siLbry :: ReactIcon
 
 siLbry :: forall a b. Union a b PropsIcon => Record a -> JSX
-siLbry = element (unsafeCoerce siLbry_)
+siLbry = element (unsafeCoerce _siLbry)
 
-foreign import siLeaflet_ :: ReactIcon
+foreign import _siLeaflet :: ReactIcon
 
 siLeaflet :: forall a b. Union a b PropsIcon => Record a -> JSX
-siLeaflet = element (unsafeCoerce siLeaflet_)
+siLeaflet = element (unsafeCoerce _siLeaflet)
 
-foreign import siLeanpub_ :: ReactIcon
+foreign import _siLeanpub :: ReactIcon
 
 siLeanpub :: forall a b. Union a b PropsIcon => Record a -> JSX
-siLeanpub = element (unsafeCoerce siLeanpub_)
+siLeanpub = element (unsafeCoerce _siLeanpub)
 
-foreign import siLeetcode_ :: ReactIcon
+foreign import _siLeetcode :: ReactIcon
 
 siLeetcode :: forall a b. Union a b PropsIcon => Record a -> JSX
-siLeetcode = element (unsafeCoerce siLeetcode_)
+siLeetcode = element (unsafeCoerce _siLeetcode)
 
-foreign import siLenovo_ :: ReactIcon
+foreign import _siLenovo :: ReactIcon
 
 siLenovo :: forall a b. Union a b PropsIcon => Record a -> JSX
-siLenovo = element (unsafeCoerce siLenovo_)
+siLenovo = element (unsafeCoerce _siLenovo)
 
-foreign import siLess_ :: ReactIcon
+foreign import _siLess :: ReactIcon
 
 siLess :: forall a b. Union a b PropsIcon => Record a -> JSX
-siLess = element (unsafeCoerce siLess_)
+siLess = element (unsafeCoerce _siLess)
 
-foreign import siLetsencrypt_ :: ReactIcon
+foreign import _siLetsencrypt :: ReactIcon
 
 siLetsencrypt :: forall a b. Union a b PropsIcon => Record a -> JSX
-siLetsencrypt = element (unsafeCoerce siLetsencrypt_)
+siLetsencrypt = element (unsafeCoerce _siLetsencrypt)
 
-foreign import siLetterboxd_ :: ReactIcon
+foreign import _siLetterboxd :: ReactIcon
 
 siLetterboxd :: forall a b. Union a b PropsIcon => Record a -> JSX
-siLetterboxd = element (unsafeCoerce siLetterboxd_)
+siLetterboxd = element (unsafeCoerce _siLetterboxd)
 
-foreign import siLg_ :: ReactIcon
+foreign import _siLg :: ReactIcon
 
 siLg :: forall a b. Union a b PropsIcon => Record a -> JSX
-siLg = element (unsafeCoerce siLg_)
+siLg = element (unsafeCoerce _siLg)
 
-foreign import siLgtm_ :: ReactIcon
+foreign import _siLgtm :: ReactIcon
 
 siLgtm :: forall a b. Union a b PropsIcon => Record a -> JSX
-siLgtm = element (unsafeCoerce siLgtm_)
+siLgtm = element (unsafeCoerce _siLgtm)
 
-foreign import siLiberapay_ :: ReactIcon
+foreign import _siLiberapay :: ReactIcon
 
 siLiberapay :: forall a b. Union a b PropsIcon => Record a -> JSX
-siLiberapay = element (unsafeCoerce siLiberapay_)
+siLiberapay = element (unsafeCoerce _siLiberapay)
 
-foreign import siLibrariesdotio_ :: ReactIcon
+foreign import _siLibrariesdotio :: ReactIcon
 
 siLibrariesdotio :: forall a b. Union a b PropsIcon => Record a -> JSX
-siLibrariesdotio = element (unsafeCoerce siLibrariesdotio_)
+siLibrariesdotio = element (unsafeCoerce _siLibrariesdotio)
 
-foreign import siLibrarything_ :: ReactIcon
+foreign import _siLibrarything :: ReactIcon
 
 siLibrarything :: forall a b. Union a b PropsIcon => Record a -> JSX
-siLibrarything = element (unsafeCoerce siLibrarything_)
+siLibrarything = element (unsafeCoerce _siLibrarything)
 
-foreign import siLibreoffice_ :: ReactIcon
+foreign import _siLibreoffice :: ReactIcon
 
 siLibreoffice :: forall a b. Union a b PropsIcon => Record a -> JSX
-siLibreoffice = element (unsafeCoerce siLibreoffice_)
+siLibreoffice = element (unsafeCoerce _siLibreoffice)
 
-foreign import siLibuv_ :: ReactIcon
+foreign import _siLibuv :: ReactIcon
 
 siLibuv :: forall a b. Union a b PropsIcon => Record a -> JSX
-siLibuv = element (unsafeCoerce siLibuv_)
+siLibuv = element (unsafeCoerce _siLibuv)
 
-foreign import siLichess_ :: ReactIcon
+foreign import _siLichess :: ReactIcon
 
 siLichess :: forall a b. Union a b PropsIcon => Record a -> JSX
-siLichess = element (unsafeCoerce siLichess_)
+siLichess = element (unsafeCoerce _siLichess)
 
-foreign import siLidl_ :: ReactIcon
+foreign import _siLidl :: ReactIcon
 
 siLidl :: forall a b. Union a b PropsIcon => Record a -> JSX
-siLidl = element (unsafeCoerce siLidl_)
+siLidl = element (unsafeCoerce _siLidl)
 
-foreign import siLifx_ :: ReactIcon
+foreign import _siLifx :: ReactIcon
 
 siLifx :: forall a b. Union a b PropsIcon => Record a -> JSX
-siLifx = element (unsafeCoerce siLifx_)
+siLifx = element (unsafeCoerce _siLifx)
 
-foreign import siLighthouse_ :: ReactIcon
+foreign import _siLighthouse :: ReactIcon
 
 siLighthouse :: forall a b. Union a b PropsIcon => Record a -> JSX
-siLighthouse = element (unsafeCoerce siLighthouse_)
+siLighthouse = element (unsafeCoerce _siLighthouse)
 
-foreign import siLine_ :: ReactIcon
+foreign import _siLine :: ReactIcon
 
 siLine :: forall a b. Union a b PropsIcon => Record a -> JSX
-siLine = element (unsafeCoerce siLine_)
+siLine = element (unsafeCoerce _siLine)
 
-foreign import siLineageos_ :: ReactIcon
+foreign import _siLineageos :: ReactIcon
 
 siLineageos :: forall a b. Union a b PropsIcon => Record a -> JSX
-siLineageos = element (unsafeCoerce siLineageos_)
+siLineageos = element (unsafeCoerce _siLineageos)
 
-foreign import siLinkedin_ :: ReactIcon
+foreign import _siLinkedin :: ReactIcon
 
 siLinkedin :: forall a b. Union a b PropsIcon => Record a -> JSX
-siLinkedin = element (unsafeCoerce siLinkedin_)
+siLinkedin = element (unsafeCoerce _siLinkedin)
 
-foreign import siLinktree_ :: ReactIcon
+foreign import _siLinktree :: ReactIcon
 
 siLinktree :: forall a b. Union a b PropsIcon => Record a -> JSX
-siLinktree = element (unsafeCoerce siLinktree_)
+siLinktree = element (unsafeCoerce _siLinktree)
 
-foreign import siLinode_ :: ReactIcon
+foreign import _siLinode :: ReactIcon
 
 siLinode :: forall a b. Union a b PropsIcon => Record a -> JSX
-siLinode = element (unsafeCoerce siLinode_)
+siLinode = element (unsafeCoerce _siLinode)
 
-foreign import siLinux_ :: ReactIcon
+foreign import _siLinux :: ReactIcon
 
 siLinux :: forall a b. Union a b PropsIcon => Record a -> JSX
-siLinux = element (unsafeCoerce siLinux_)
+siLinux = element (unsafeCoerce _siLinux)
 
-foreign import siLinuxcontainers_ :: ReactIcon
+foreign import _siLinuxcontainers :: ReactIcon
 
 siLinuxcontainers :: forall a b. Union a b PropsIcon => Record a -> JSX
-siLinuxcontainers = element (unsafeCoerce siLinuxcontainers_)
+siLinuxcontainers = element (unsafeCoerce _siLinuxcontainers)
 
-foreign import siLinuxfoundation_ :: ReactIcon
+foreign import _siLinuxfoundation :: ReactIcon
 
 siLinuxfoundation :: forall a b. Union a b PropsIcon => Record a -> JSX
-siLinuxfoundation = element (unsafeCoerce siLinuxfoundation_)
+siLinuxfoundation = element (unsafeCoerce _siLinuxfoundation)
 
-foreign import siLinuxmint_ :: ReactIcon
+foreign import _siLinuxmint :: ReactIcon
 
 siLinuxmint :: forall a b. Union a b PropsIcon => Record a -> JSX
-siLinuxmint = element (unsafeCoerce siLinuxmint_)
+siLinuxmint = element (unsafeCoerce _siLinuxmint)
 
-foreign import siLionair_ :: ReactIcon
+foreign import _siLionair :: ReactIcon
 
 siLionair :: forall a b. Union a b PropsIcon => Record a -> JSX
-siLionair = element (unsafeCoerce siLionair_)
+siLionair = element (unsafeCoerce _siLionair)
 
-foreign import siLit_ :: ReactIcon
+foreign import _siLit :: ReactIcon
 
 siLit :: forall a b. Union a b PropsIcon => Record a -> JSX
-siLit = element (unsafeCoerce siLit_)
+siLit = element (unsafeCoerce _siLit)
 
-foreign import siLitecoin_ :: ReactIcon
+foreign import _siLitecoin :: ReactIcon
 
 siLitecoin :: forall a b. Union a b PropsIcon => Record a -> JSX
-siLitecoin = element (unsafeCoerce siLitecoin_)
+siLitecoin = element (unsafeCoerce _siLitecoin)
 
-foreign import siLivechat_ :: ReactIcon
+foreign import _siLivechat :: ReactIcon
 
 siLivechat :: forall a b. Union a b PropsIcon => Record a -> JSX
-siLivechat = element (unsafeCoerce siLivechat_)
+siLivechat = element (unsafeCoerce _siLivechat)
 
-foreign import siLivejournal_ :: ReactIcon
+foreign import _siLivejournal :: ReactIcon
 
 siLivejournal :: forall a b. Union a b PropsIcon => Record a -> JSX
-siLivejournal = element (unsafeCoerce siLivejournal_)
+siLivejournal = element (unsafeCoerce _siLivejournal)
 
-foreign import siLlvm_ :: ReactIcon
+foreign import _siLlvm :: ReactIcon
 
 siLlvm :: forall a b. Union a b PropsIcon => Record a -> JSX
-siLlvm = element (unsafeCoerce siLlvm_)
+siLlvm = element (unsafeCoerce _siLlvm)
 
-foreign import siLmms_ :: ReactIcon
+foreign import _siLmms :: ReactIcon
 
 siLmms :: forall a b. Union a b PropsIcon => Record a -> JSX
-siLmms = element (unsafeCoerce siLmms_)
+siLmms = element (unsafeCoerce _siLmms)
 
-foreign import siLodash_ :: ReactIcon
+foreign import _siLodash :: ReactIcon
 
 siLodash :: forall a b. Union a b PropsIcon => Record a -> JSX
-siLodash = element (unsafeCoerce siLodash_)
+siLodash = element (unsafeCoerce _siLodash)
 
-foreign import siLogitech_ :: ReactIcon
+foreign import _siLogitech :: ReactIcon
 
 siLogitech :: forall a b. Union a b PropsIcon => Record a -> JSX
-siLogitech = element (unsafeCoerce siLogitech_)
+siLogitech = element (unsafeCoerce _siLogitech)
 
-foreign import siLogmein_ :: ReactIcon
+foreign import _siLogmein :: ReactIcon
 
 siLogmein :: forall a b. Union a b PropsIcon => Record a -> JSX
-siLogmein = element (unsafeCoerce siLogmein_)
+siLogmein = element (unsafeCoerce _siLogmein)
 
-foreign import siLogstash_ :: ReactIcon
+foreign import _siLogstash :: ReactIcon
 
 siLogstash :: forall a b. Union a b PropsIcon => Record a -> JSX
-siLogstash = element (unsafeCoerce siLogstash_)
+siLogstash = element (unsafeCoerce _siLogstash)
 
-foreign import siLooker_ :: ReactIcon
+foreign import _siLooker :: ReactIcon
 
 siLooker :: forall a b. Union a b PropsIcon => Record a -> JSX
-siLooker = element (unsafeCoerce siLooker_)
+siLooker = element (unsafeCoerce _siLooker)
 
-foreign import siLoom_ :: ReactIcon
+foreign import _siLoom :: ReactIcon
 
 siLoom :: forall a b. Union a b PropsIcon => Record a -> JSX
-siLoom = element (unsafeCoerce siLoom_)
+siLoom = element (unsafeCoerce _siLoom)
 
-foreign import siLoop_ :: ReactIcon
+foreign import _siLoop :: ReactIcon
 
 siLoop :: forall a b. Union a b PropsIcon => Record a -> JSX
-siLoop = element (unsafeCoerce siLoop_)
+siLoop = element (unsafeCoerce _siLoop)
 
-foreign import siLospec_ :: ReactIcon
+foreign import _siLospec :: ReactIcon
 
 siLospec :: forall a b. Union a b PropsIcon => Record a -> JSX
-siLospec = element (unsafeCoerce siLospec_)
+siLospec = element (unsafeCoerce _siLospec)
 
-foreign import siLotpolishairlines_ :: ReactIcon
+foreign import _siLotpolishairlines :: ReactIcon
 
 siLotpolishairlines :: forall a b. Union a b PropsIcon => Record a -> JSX
-siLotpolishairlines = element (unsafeCoerce siLotpolishairlines_)
+siLotpolishairlines = element (unsafeCoerce _siLotpolishairlines)
 
-foreign import siLua_ :: ReactIcon
+foreign import _siLua :: ReactIcon
 
 siLua :: forall a b. Union a b PropsIcon => Record a -> JSX
-siLua = element (unsafeCoerce siLua_)
+siLua = element (unsafeCoerce _siLua)
 
-foreign import siLubuntu_ :: ReactIcon
+foreign import _siLubuntu :: ReactIcon
 
 siLubuntu :: forall a b. Union a b PropsIcon => Record a -> JSX
-siLubuntu = element (unsafeCoerce siLubuntu_)
+siLubuntu = element (unsafeCoerce _siLubuntu)
 
-foreign import siLufthansa_ :: ReactIcon
+foreign import _siLufthansa :: ReactIcon
 
 siLufthansa :: forall a b. Union a b PropsIcon => Record a -> JSX
-siLufthansa = element (unsafeCoerce siLufthansa_)
+siLufthansa = element (unsafeCoerce _siLufthansa)
 
-foreign import siLumen_ :: ReactIcon
+foreign import _siLumen :: ReactIcon
 
 siLumen :: forall a b. Union a b PropsIcon => Record a -> JSX
-siLumen = element (unsafeCoerce siLumen_)
+siLumen = element (unsafeCoerce _siLumen)
 
-foreign import siLydia_ :: ReactIcon
+foreign import _siLydia :: ReactIcon
 
 siLydia :: forall a b. Union a b PropsIcon => Record a -> JSX
-siLydia = element (unsafeCoerce siLydia_)
+siLydia = element (unsafeCoerce _siLydia)
 
-foreign import siLyft_ :: ReactIcon
+foreign import _siLyft :: ReactIcon
 
 siLyft :: forall a b. Union a b PropsIcon => Record a -> JSX
-siLyft = element (unsafeCoerce siLyft_)
+siLyft = element (unsafeCoerce _siLyft)
 
-foreign import siMaas_ :: ReactIcon
+foreign import _siMaas :: ReactIcon
 
 siMaas :: forall a b. Union a b PropsIcon => Record a -> JSX
-siMaas = element (unsafeCoerce siMaas_)
+siMaas = element (unsafeCoerce _siMaas)
 
-foreign import siMacos_ :: ReactIcon
+foreign import _siMacos :: ReactIcon
 
 siMacos :: forall a b. Union a b PropsIcon => Record a -> JSX
-siMacos = element (unsafeCoerce siMacos_)
+siMacos = element (unsafeCoerce _siMacos)
 
-foreign import siMacys_ :: ReactIcon
+foreign import _siMacys :: ReactIcon
 
 siMacys :: forall a b. Union a b PropsIcon => Record a -> JSX
-siMacys = element (unsafeCoerce siMacys_)
+siMacys = element (unsafeCoerce _siMacys)
 
-foreign import siMagento_ :: ReactIcon
+foreign import _siMagento :: ReactIcon
 
 siMagento :: forall a b. Union a b PropsIcon => Record a -> JSX
-siMagento = element (unsafeCoerce siMagento_)
+siMagento = element (unsafeCoerce _siMagento)
 
-foreign import siMagisk_ :: ReactIcon
+foreign import _siMagisk :: ReactIcon
 
 siMagisk :: forall a b. Union a b PropsIcon => Record a -> JSX
-siMagisk = element (unsafeCoerce siMagisk_)
+siMagisk = element (unsafeCoerce _siMagisk)
 
-foreign import siMailchimp_ :: ReactIcon
+foreign import _siMailchimp :: ReactIcon
 
 siMailchimp :: forall a b. Union a b PropsIcon => Record a -> JSX
-siMailchimp = element (unsafeCoerce siMailchimp_)
+siMailchimp = element (unsafeCoerce _siMailchimp)
 
-foreign import siMaildotru_ :: ReactIcon
+foreign import _siMaildotru :: ReactIcon
 
 siMaildotru :: forall a b. Union a b PropsIcon => Record a -> JSX
-siMaildotru = element (unsafeCoerce siMaildotru_)
+siMaildotru = element (unsafeCoerce _siMaildotru)
 
-foreign import siMajorleaguehacking_ :: ReactIcon
+foreign import _siMajorleaguehacking :: ReactIcon
 
 siMajorleaguehacking :: forall a b. Union a b PropsIcon => Record a -> JSX
-siMajorleaguehacking = element (unsafeCoerce siMajorleaguehacking_)
+siMajorleaguehacking = element (unsafeCoerce _siMajorleaguehacking)
 
-foreign import siMakerbot_ :: ReactIcon
+foreign import _siMakerbot :: ReactIcon
 
 siMakerbot :: forall a b. Union a b PropsIcon => Record a -> JSX
-siMakerbot = element (unsafeCoerce siMakerbot_)
+siMakerbot = element (unsafeCoerce _siMakerbot)
 
-foreign import siMamp_ :: ReactIcon
+foreign import _siMamp :: ReactIcon
 
 siMamp :: forall a b. Union a b PropsIcon => Record a -> JSX
-siMamp = element (unsafeCoerce siMamp_)
+siMamp = element (unsafeCoerce _siMamp)
 
-foreign import siMan_ :: ReactIcon
+foreign import _siMan :: ReactIcon
 
 siMan :: forall a b. Union a b PropsIcon => Record a -> JSX
-siMan = element (unsafeCoerce siMan_)
+siMan = element (unsafeCoerce _siMan)
 
-foreign import siManageiq_ :: ReactIcon
+foreign import _siManageiq :: ReactIcon
 
 siManageiq :: forall a b. Union a b PropsIcon => Record a -> JSX
-siManageiq = element (unsafeCoerce siManageiq_)
+siManageiq = element (unsafeCoerce _siManageiq)
 
-foreign import siManjaro_ :: ReactIcon
+foreign import _siManjaro :: ReactIcon
 
 siManjaro :: forall a b. Union a b PropsIcon => Record a -> JSX
-siManjaro = element (unsafeCoerce siManjaro_)
+siManjaro = element (unsafeCoerce _siManjaro)
 
-foreign import siMapbox_ :: ReactIcon
+foreign import _siMapbox :: ReactIcon
 
 siMapbox :: forall a b. Union a b PropsIcon => Record a -> JSX
-siMapbox = element (unsafeCoerce siMapbox_)
+siMapbox = element (unsafeCoerce _siMapbox)
 
-foreign import siMariadb_ :: ReactIcon
+foreign import _siMariadb :: ReactIcon
 
 siMariadb :: forall a b. Union a b PropsIcon => Record a -> JSX
-siMariadb = element (unsafeCoerce siMariadb_)
+siMariadb = element (unsafeCoerce _siMariadb)
 
-foreign import siMariadbfoundation_ :: ReactIcon
+foreign import _siMariadbfoundation :: ReactIcon
 
 siMariadbfoundation :: forall a b. Union a b PropsIcon => Record a -> JSX
-siMariadbfoundation = element (unsafeCoerce siMariadbfoundation_)
+siMariadbfoundation = element (unsafeCoerce _siMariadbfoundation)
 
-foreign import siMarkdown_ :: ReactIcon
+foreign import _siMarkdown :: ReactIcon
 
 siMarkdown :: forall a b. Union a b PropsIcon => Record a -> JSX
-siMarkdown = element (unsafeCoerce siMarkdown_)
+siMarkdown = element (unsafeCoerce _siMarkdown)
 
-foreign import siMarketo_ :: ReactIcon
+foreign import _siMarketo :: ReactIcon
 
 siMarketo :: forall a b. Union a b PropsIcon => Record a -> JSX
-siMarketo = element (unsafeCoerce siMarketo_)
+siMarketo = element (unsafeCoerce _siMarketo)
 
-foreign import siMarriott_ :: ReactIcon
+foreign import _siMarriott :: ReactIcon
 
 siMarriott :: forall a b. Union a b PropsIcon => Record a -> JSX
-siMarriott = element (unsafeCoerce siMarriott_)
+siMarriott = element (unsafeCoerce _siMarriott)
 
-foreign import siMaserati_ :: ReactIcon
+foreign import _siMaserati :: ReactIcon
 
 siMaserati :: forall a b. Union a b PropsIcon => Record a -> JSX
-siMaserati = element (unsafeCoerce siMaserati_)
+siMaserati = element (unsafeCoerce _siMaserati)
 
-foreign import siMastercard_ :: ReactIcon
+foreign import _siMastercard :: ReactIcon
 
 siMastercard :: forall a b. Union a b PropsIcon => Record a -> JSX
-siMastercard = element (unsafeCoerce siMastercard_)
+siMastercard = element (unsafeCoerce _siMastercard)
 
-foreign import siMastercomfig_ :: ReactIcon
+foreign import _siMastercomfig :: ReactIcon
 
 siMastercomfig :: forall a b. Union a b PropsIcon => Record a -> JSX
-siMastercomfig = element (unsafeCoerce siMastercomfig_)
+siMastercomfig = element (unsafeCoerce _siMastercomfig)
 
-foreign import siMastodon_ :: ReactIcon
+foreign import _siMastodon :: ReactIcon
 
 siMastodon :: forall a b. Union a b PropsIcon => Record a -> JSX
-siMastodon = element (unsafeCoerce siMastodon_)
+siMastodon = element (unsafeCoerce _siMastodon)
 
-foreign import siMaterialdesign_ :: ReactIcon
+foreign import _siMaterialdesign :: ReactIcon
 
 siMaterialdesign :: forall a b. Union a b PropsIcon => Record a -> JSX
-siMaterialdesign = element (unsafeCoerce siMaterialdesign_)
+siMaterialdesign = element (unsafeCoerce _siMaterialdesign)
 
-foreign import siMaterialdesignicons_ :: ReactIcon
+foreign import _siMaterialdesignicons :: ReactIcon
 
 siMaterialdesignicons :: forall a b. Union a b PropsIcon => Record a -> JSX
-siMaterialdesignicons = element (unsafeCoerce siMaterialdesignicons_)
+siMaterialdesignicons = element (unsafeCoerce _siMaterialdesignicons)
 
-foreign import siMaterialui_ :: ReactIcon
+foreign import _siMaterialui :: ReactIcon
 
 siMaterialui :: forall a b. Union a b PropsIcon => Record a -> JSX
-siMaterialui = element (unsafeCoerce siMaterialui_)
+siMaterialui = element (unsafeCoerce _siMaterialui)
 
-foreign import siMatomo_ :: ReactIcon
+foreign import _siMatomo :: ReactIcon
 
 siMatomo :: forall a b. Union a b PropsIcon => Record a -> JSX
-siMatomo = element (unsafeCoerce siMatomo_)
+siMatomo = element (unsafeCoerce _siMatomo)
 
-foreign import siMatrix_ :: ReactIcon
+foreign import _siMatrix :: ReactIcon
 
 siMatrix :: forall a b. Union a b PropsIcon => Record a -> JSX
-siMatrix = element (unsafeCoerce siMatrix_)
+siMatrix = element (unsafeCoerce _siMatrix)
 
-foreign import siMattermost_ :: ReactIcon
+foreign import _siMattermost :: ReactIcon
 
 siMattermost :: forall a b. Union a b PropsIcon => Record a -> JSX
-siMattermost = element (unsafeCoerce siMattermost_)
+siMattermost = element (unsafeCoerce _siMattermost)
 
-foreign import siMatternet_ :: ReactIcon
+foreign import _siMatternet :: ReactIcon
 
 siMatternet :: forall a b. Union a b PropsIcon => Record a -> JSX
-siMatternet = element (unsafeCoerce siMatternet_)
+siMatternet = element (unsafeCoerce _siMatternet)
 
-foreign import siMax_ :: ReactIcon
+foreign import _siMax :: ReactIcon
 
 siMax :: forall a b. Union a b PropsIcon => Record a -> JSX
-siMax = element (unsafeCoerce siMax_)
+siMax = element (unsafeCoerce _siMax)
 
-foreign import siMaxplanckgesellschaft_ :: ReactIcon
+foreign import _siMaxplanckgesellschaft :: ReactIcon
 
 siMaxplanckgesellschaft :: forall a b. Union a b PropsIcon => Record a -> JSX
-siMaxplanckgesellschaft = element (unsafeCoerce siMaxplanckgesellschaft_)
+siMaxplanckgesellschaft = element (unsafeCoerce _siMaxplanckgesellschaft)
 
-foreign import siMaytag_ :: ReactIcon
+foreign import _siMaytag :: ReactIcon
 
 siMaytag :: forall a b. Union a b PropsIcon => Record a -> JSX
-siMaytag = element (unsafeCoerce siMaytag_)
+siMaytag = element (unsafeCoerce _siMaytag)
 
-foreign import siMazda_ :: ReactIcon
+foreign import _siMazda :: ReactIcon
 
 siMazda :: forall a b. Union a b PropsIcon => Record a -> JSX
-siMazda = element (unsafeCoerce siMazda_)
+siMazda = element (unsafeCoerce _siMazda)
 
-foreign import siMcafee_ :: ReactIcon
+foreign import _siMcafee :: ReactIcon
 
 siMcafee :: forall a b. Union a b PropsIcon => Record a -> JSX
-siMcafee = element (unsafeCoerce siMcafee_)
+siMcafee = element (unsafeCoerce _siMcafee)
 
-foreign import siMcdonalds_ :: ReactIcon
+foreign import _siMcdonalds :: ReactIcon
 
 siMcdonalds :: forall a b. Union a b PropsIcon => Record a -> JSX
-siMcdonalds = element (unsafeCoerce siMcdonalds_)
+siMcdonalds = element (unsafeCoerce _siMcdonalds)
 
-foreign import siMclaren_ :: ReactIcon
+foreign import _siMclaren :: ReactIcon
 
 siMclaren :: forall a b. Union a b PropsIcon => Record a -> JSX
-siMclaren = element (unsafeCoerce siMclaren_)
+siMclaren = element (unsafeCoerce _siMclaren)
 
-foreign import siMdnwebdocs_ :: ReactIcon
+foreign import _siMdnwebdocs :: ReactIcon
 
 siMdnwebdocs :: forall a b. Union a b PropsIcon => Record a -> JSX
-siMdnwebdocs = element (unsafeCoerce siMdnwebdocs_)
+siMdnwebdocs = element (unsafeCoerce _siMdnwebdocs)
 
-foreign import siMediafire_ :: ReactIcon
+foreign import _siMediafire :: ReactIcon
 
 siMediafire :: forall a b. Union a b PropsIcon => Record a -> JSX
-siMediafire = element (unsafeCoerce siMediafire_)
+siMediafire = element (unsafeCoerce _siMediafire)
 
-foreign import siMediamarkt_ :: ReactIcon
+foreign import _siMediamarkt :: ReactIcon
 
 siMediamarkt :: forall a b. Union a b PropsIcon => Record a -> JSX
-siMediamarkt = element (unsafeCoerce siMediamarkt_)
+siMediamarkt = element (unsafeCoerce _siMediamarkt)
 
-foreign import siMediatek_ :: ReactIcon
+foreign import _siMediatek :: ReactIcon
 
 siMediatek :: forall a b. Union a b PropsIcon => Record a -> JSX
-siMediatek = element (unsafeCoerce siMediatek_)
+siMediatek = element (unsafeCoerce _siMediatek)
 
-foreign import siMediatemple_ :: ReactIcon
+foreign import _siMediatemple :: ReactIcon
 
 siMediatemple :: forall a b. Union a b PropsIcon => Record a -> JSX
-siMediatemple = element (unsafeCoerce siMediatemple_)
+siMediatemple = element (unsafeCoerce _siMediatemple)
 
-foreign import siMedium_ :: ReactIcon
+foreign import _siMedium :: ReactIcon
 
 siMedium :: forall a b. Union a b PropsIcon => Record a -> JSX
-siMedium = element (unsafeCoerce siMedium_)
+siMedium = element (unsafeCoerce _siMedium)
 
-foreign import siMeetup_ :: ReactIcon
+foreign import _siMeetup :: ReactIcon
 
 siMeetup :: forall a b. Union a b PropsIcon => Record a -> JSX
-siMeetup = element (unsafeCoerce siMeetup_)
+siMeetup = element (unsafeCoerce _siMeetup)
 
-foreign import siMega_ :: ReactIcon
+foreign import _siMega :: ReactIcon
 
 siMega :: forall a b. Union a b PropsIcon => Record a -> JSX
-siMega = element (unsafeCoerce siMega_)
+siMega = element (unsafeCoerce _siMega)
 
-foreign import siMendeley_ :: ReactIcon
+foreign import _siMendeley :: ReactIcon
 
 siMendeley :: forall a b. Union a b PropsIcon => Record a -> JSX
-siMendeley = element (unsafeCoerce siMendeley_)
+siMendeley = element (unsafeCoerce _siMendeley)
 
-foreign import siMercedes_ :: ReactIcon
+foreign import _siMercedes :: ReactIcon
 
 siMercedes :: forall a b. Union a b PropsIcon => Record a -> JSX
-siMercedes = element (unsafeCoerce siMercedes_)
+siMercedes = element (unsafeCoerce _siMercedes)
 
-foreign import siMercurial_ :: ReactIcon
+foreign import _siMercurial :: ReactIcon
 
 siMercurial :: forall a b. Union a b PropsIcon => Record a -> JSX
-siMercurial = element (unsafeCoerce siMercurial_)
+siMercurial = element (unsafeCoerce _siMercurial)
 
-foreign import siMessenger_ :: ReactIcon
+foreign import _siMessenger :: ReactIcon
 
 siMessenger :: forall a b. Union a b PropsIcon => Record a -> JSX
-siMessenger = element (unsafeCoerce siMessenger_)
+siMessenger = element (unsafeCoerce _siMessenger)
 
-foreign import siMetabase_ :: ReactIcon
+foreign import _siMetabase :: ReactIcon
 
 siMetabase :: forall a b. Union a b PropsIcon => Record a -> JSX
-siMetabase = element (unsafeCoerce siMetabase_)
+siMetabase = element (unsafeCoerce _siMetabase)
 
-foreign import siMetafilter_ :: ReactIcon
+foreign import _siMetafilter :: ReactIcon
 
 siMetafilter :: forall a b. Union a b PropsIcon => Record a -> JSX
-siMetafilter = element (unsafeCoerce siMetafilter_)
+siMetafilter = element (unsafeCoerce _siMetafilter)
 
-foreign import siMeteor_ :: ReactIcon
+foreign import _siMeteor :: ReactIcon
 
 siMeteor :: forall a b. Union a b PropsIcon => Record a -> JSX
-siMeteor = element (unsafeCoerce siMeteor_)
+siMeteor = element (unsafeCoerce _siMeteor)
 
-foreign import siMetro_ :: ReactIcon
+foreign import _siMetro :: ReactIcon
 
 siMetro :: forall a b. Union a b PropsIcon => Record a -> JSX
-siMetro = element (unsafeCoerce siMetro_)
+siMetro = element (unsafeCoerce _siMetro)
 
-foreign import siMetrodelaciudaddemexico_ :: ReactIcon
+foreign import _siMetrodelaciudaddemexico :: ReactIcon
 
 siMetrodelaciudaddemexico :: forall a b. Union a b PropsIcon => Record a -> JSX
-siMetrodelaciudaddemexico = element (unsafeCoerce siMetrodelaciudaddemexico_)
+siMetrodelaciudaddemexico = element (unsafeCoerce _siMetrodelaciudaddemexico)
 
-foreign import siMetrodemadrid_ :: ReactIcon
+foreign import _siMetrodemadrid :: ReactIcon
 
 siMetrodemadrid :: forall a b. Union a b PropsIcon => Record a -> JSX
-siMetrodemadrid = element (unsafeCoerce siMetrodemadrid_)
+siMetrodemadrid = element (unsafeCoerce _siMetrodemadrid)
 
-foreign import siMetrodeparis_ :: ReactIcon
+foreign import _siMetrodeparis :: ReactIcon
 
 siMetrodeparis :: forall a b. Union a b PropsIcon => Record a -> JSX
-siMetrodeparis = element (unsafeCoerce siMetrodeparis_)
+siMetrodeparis = element (unsafeCoerce _siMetrodeparis)
 
-foreign import siMewe_ :: ReactIcon
+foreign import _siMewe :: ReactIcon
 
 siMewe :: forall a b. Union a b PropsIcon => Record a -> JSX
-siMewe = element (unsafeCoerce siMewe_)
+siMewe = element (unsafeCoerce _siMewe)
 
-foreign import siMicrobit_ :: ReactIcon
+foreign import _siMicrobit :: ReactIcon
 
 siMicrobit :: forall a b. Union a b PropsIcon => Record a -> JSX
-siMicrobit = element (unsafeCoerce siMicrobit_)
+siMicrobit = element (unsafeCoerce _siMicrobit)
 
-foreign import siMicrodotblog_ :: ReactIcon
+foreign import _siMicrodotblog :: ReactIcon
 
 siMicrodotblog :: forall a b. Union a b PropsIcon => Record a -> JSX
-siMicrodotblog = element (unsafeCoerce siMicrodotblog_)
+siMicrodotblog = element (unsafeCoerce _siMicrodotblog)
 
-foreign import siMicrogenetics_ :: ReactIcon
+foreign import _siMicrogenetics :: ReactIcon
 
 siMicrogenetics :: forall a b. Union a b PropsIcon => Record a -> JSX
-siMicrogenetics = element (unsafeCoerce siMicrogenetics_)
+siMicrogenetics = element (unsafeCoerce _siMicrogenetics)
 
-foreign import siMicropython_ :: ReactIcon
+foreign import _siMicropython :: ReactIcon
 
 siMicropython :: forall a b. Union a b PropsIcon => Record a -> JSX
-siMicropython = element (unsafeCoerce siMicropython_)
+siMicropython = element (unsafeCoerce _siMicropython)
 
-foreign import siMicrosoft_ :: ReactIcon
+foreign import _siMicrosoft :: ReactIcon
 
 siMicrosoft :: forall a b. Union a b PropsIcon => Record a -> JSX
-siMicrosoft = element (unsafeCoerce siMicrosoft_)
+siMicrosoft = element (unsafeCoerce _siMicrosoft)
 
-foreign import siMicrosoftacademic_ :: ReactIcon
+foreign import _siMicrosoftacademic :: ReactIcon
 
 siMicrosoftacademic :: forall a b. Union a b PropsIcon => Record a -> JSX
-siMicrosoftacademic = element (unsafeCoerce siMicrosoftacademic_)
+siMicrosoftacademic = element (unsafeCoerce _siMicrosoftacademic)
 
-foreign import siMicrosoftaccess_ :: ReactIcon
+foreign import _siMicrosoftaccess :: ReactIcon
 
 siMicrosoftaccess :: forall a b. Union a b PropsIcon => Record a -> JSX
-siMicrosoftaccess = element (unsafeCoerce siMicrosoftaccess_)
+siMicrosoftaccess = element (unsafeCoerce _siMicrosoftaccess)
 
-foreign import siMicrosoftazure_ :: ReactIcon
+foreign import _siMicrosoftazure :: ReactIcon
 
 siMicrosoftazure :: forall a b. Union a b PropsIcon => Record a -> JSX
-siMicrosoftazure = element (unsafeCoerce siMicrosoftazure_)
+siMicrosoftazure = element (unsafeCoerce _siMicrosoftazure)
 
-foreign import siMicrosoftbing_ :: ReactIcon
+foreign import _siMicrosoftbing :: ReactIcon
 
 siMicrosoftbing :: forall a b. Union a b PropsIcon => Record a -> JSX
-siMicrosoftbing = element (unsafeCoerce siMicrosoftbing_)
+siMicrosoftbing = element (unsafeCoerce _siMicrosoftbing)
 
-foreign import siMicrosoftedge_ :: ReactIcon
+foreign import _siMicrosoftedge :: ReactIcon
 
 siMicrosoftedge :: forall a b. Union a b PropsIcon => Record a -> JSX
-siMicrosoftedge = element (unsafeCoerce siMicrosoftedge_)
+siMicrosoftedge = element (unsafeCoerce _siMicrosoftedge)
 
-foreign import siMicrosoftexcel_ :: ReactIcon
+foreign import _siMicrosoftexcel :: ReactIcon
 
 siMicrosoftexcel :: forall a b. Union a b PropsIcon => Record a -> JSX
-siMicrosoftexcel = element (unsafeCoerce siMicrosoftexcel_)
+siMicrosoftexcel = element (unsafeCoerce _siMicrosoftexcel)
 
-foreign import siMicrosoftexchange_ :: ReactIcon
+foreign import _siMicrosoftexchange :: ReactIcon
 
 siMicrosoftexchange :: forall a b. Union a b PropsIcon => Record a -> JSX
-siMicrosoftexchange = element (unsafeCoerce siMicrosoftexchange_)
+siMicrosoftexchange = element (unsafeCoerce _siMicrosoftexchange)
 
-foreign import siMicrosoftoffice_ :: ReactIcon
+foreign import _siMicrosoftoffice :: ReactIcon
 
 siMicrosoftoffice :: forall a b. Union a b PropsIcon => Record a -> JSX
-siMicrosoftoffice = element (unsafeCoerce siMicrosoftoffice_)
+siMicrosoftoffice = element (unsafeCoerce _siMicrosoftoffice)
 
-foreign import siMicrosoftonedrive_ :: ReactIcon
+foreign import _siMicrosoftonedrive :: ReactIcon
 
 siMicrosoftonedrive :: forall a b. Union a b PropsIcon => Record a -> JSX
-siMicrosoftonedrive = element (unsafeCoerce siMicrosoftonedrive_)
+siMicrosoftonedrive = element (unsafeCoerce _siMicrosoftonedrive)
 
-foreign import siMicrosoftonenote_ :: ReactIcon
+foreign import _siMicrosoftonenote :: ReactIcon
 
 siMicrosoftonenote :: forall a b. Union a b PropsIcon => Record a -> JSX
-siMicrosoftonenote = element (unsafeCoerce siMicrosoftonenote_)
+siMicrosoftonenote = element (unsafeCoerce _siMicrosoftonenote)
 
-foreign import siMicrosoftoutlook_ :: ReactIcon
+foreign import _siMicrosoftoutlook :: ReactIcon
 
 siMicrosoftoutlook :: forall a b. Union a b PropsIcon => Record a -> JSX
-siMicrosoftoutlook = element (unsafeCoerce siMicrosoftoutlook_)
+siMicrosoftoutlook = element (unsafeCoerce _siMicrosoftoutlook)
 
-foreign import siMicrosoftpowerpoint_ :: ReactIcon
+foreign import _siMicrosoftpowerpoint :: ReactIcon
 
 siMicrosoftpowerpoint :: forall a b. Union a b PropsIcon => Record a -> JSX
-siMicrosoftpowerpoint = element (unsafeCoerce siMicrosoftpowerpoint_)
+siMicrosoftpowerpoint = element (unsafeCoerce _siMicrosoftpowerpoint)
 
-foreign import siMicrosoftsharepoint_ :: ReactIcon
+foreign import _siMicrosoftsharepoint :: ReactIcon
 
 siMicrosoftsharepoint :: forall a b. Union a b PropsIcon => Record a -> JSX
-siMicrosoftsharepoint = element (unsafeCoerce siMicrosoftsharepoint_)
+siMicrosoftsharepoint = element (unsafeCoerce _siMicrosoftsharepoint)
 
-foreign import siMicrosoftsqlserver_ :: ReactIcon
+foreign import _siMicrosoftsqlserver :: ReactIcon
 
 siMicrosoftsqlserver :: forall a b. Union a b PropsIcon => Record a -> JSX
-siMicrosoftsqlserver = element (unsafeCoerce siMicrosoftsqlserver_)
+siMicrosoftsqlserver = element (unsafeCoerce _siMicrosoftsqlserver)
 
-foreign import siMicrosoftteams_ :: ReactIcon
+foreign import _siMicrosoftteams :: ReactIcon
 
 siMicrosoftteams :: forall a b. Union a b PropsIcon => Record a -> JSX
-siMicrosoftteams = element (unsafeCoerce siMicrosoftteams_)
+siMicrosoftteams = element (unsafeCoerce _siMicrosoftteams)
 
-foreign import siMicrosoftvisio_ :: ReactIcon
+foreign import _siMicrosoftvisio :: ReactIcon
 
 siMicrosoftvisio :: forall a b. Union a b PropsIcon => Record a -> JSX
-siMicrosoftvisio = element (unsafeCoerce siMicrosoftvisio_)
+siMicrosoftvisio = element (unsafeCoerce _siMicrosoftvisio)
 
-foreign import siMicrosoftword_ :: ReactIcon
+foreign import _siMicrosoftword :: ReactIcon
 
 siMicrosoftword :: forall a b. Union a b PropsIcon => Record a -> JSX
-siMicrosoftword = element (unsafeCoerce siMicrosoftword_)
+siMicrosoftword = element (unsafeCoerce _siMicrosoftword)
 
-foreign import siMicrostrategy_ :: ReactIcon
+foreign import _siMicrostrategy :: ReactIcon
 
 siMicrostrategy :: forall a b. Union a b PropsIcon => Record a -> JSX
-siMicrostrategy = element (unsafeCoerce siMicrostrategy_)
+siMicrostrategy = element (unsafeCoerce _siMicrostrategy)
 
-foreign import siMidi_ :: ReactIcon
+foreign import _siMidi :: ReactIcon
 
 siMidi :: forall a b. Union a b PropsIcon => Record a -> JSX
-siMidi = element (unsafeCoerce siMidi_)
+siMidi = element (unsafeCoerce _siMidi)
 
-foreign import siMinds_ :: ReactIcon
+foreign import _siMinds :: ReactIcon
 
 siMinds :: forall a b. Union a b PropsIcon => Record a -> JSX
-siMinds = element (unsafeCoerce siMinds_)
+siMinds = element (unsafeCoerce _siMinds)
 
-foreign import siMinecraft_ :: ReactIcon
+foreign import _siMinecraft :: ReactIcon
 
 siMinecraft :: forall a b. Union a b PropsIcon => Record a -> JSX
-siMinecraft = element (unsafeCoerce siMinecraft_)
+siMinecraft = element (unsafeCoerce _siMinecraft)
 
-foreign import siMinetest_ :: ReactIcon
+foreign import _siMinetest :: ReactIcon
 
 siMinetest :: forall a b. Union a b PropsIcon => Record a -> JSX
-siMinetest = element (unsafeCoerce siMinetest_)
+siMinetest = element (unsafeCoerce _siMinetest)
 
-foreign import siMini_ :: ReactIcon
+foreign import _siMini :: ReactIcon
 
 siMini :: forall a b. Union a b PropsIcon => Record a -> JSX
-siMini = element (unsafeCoerce siMini_)
+siMini = element (unsafeCoerce _siMini)
 
-foreign import siMinutemailer_ :: ReactIcon
+foreign import _siMinutemailer :: ReactIcon
 
 siMinutemailer :: forall a b. Union a b PropsIcon => Record a -> JSX
-siMinutemailer = element (unsafeCoerce siMinutemailer_)
+siMinutemailer = element (unsafeCoerce _siMinutemailer)
 
-foreign import siMiro_ :: ReactIcon
+foreign import _siMiro :: ReactIcon
 
 siMiro :: forall a b. Union a b PropsIcon => Record a -> JSX
-siMiro = element (unsafeCoerce siMiro_)
+siMiro = element (unsafeCoerce _siMiro)
 
-foreign import siMitsubishi_ :: ReactIcon
+foreign import _siMitsubishi :: ReactIcon
 
 siMitsubishi :: forall a b. Union a b PropsIcon => Record a -> JSX
-siMitsubishi = element (unsafeCoerce siMitsubishi_)
+siMitsubishi = element (unsafeCoerce _siMitsubishi)
 
-foreign import siMix_ :: ReactIcon
+foreign import _siMix :: ReactIcon
 
 siMix :: forall a b. Union a b PropsIcon => Record a -> JSX
-siMix = element (unsafeCoerce siMix_)
+siMix = element (unsafeCoerce _siMix)
 
-foreign import siMixcloud_ :: ReactIcon
+foreign import _siMixcloud :: ReactIcon
 
 siMixcloud :: forall a b. Union a b PropsIcon => Record a -> JSX
-siMixcloud = element (unsafeCoerce siMixcloud_)
+siMixcloud = element (unsafeCoerce _siMixcloud)
 
-foreign import siMlb_ :: ReactIcon
+foreign import _siMlb :: ReactIcon
 
 siMlb :: forall a b. Union a b PropsIcon => Record a -> JSX
-siMlb = element (unsafeCoerce siMlb_)
+siMlb = element (unsafeCoerce _siMlb)
 
-foreign import siMobx_ :: ReactIcon
+foreign import _siMobx :: ReactIcon
 
 siMobx :: forall a b. Union a b PropsIcon => Record a -> JSX
-siMobx = element (unsafeCoerce siMobx_)
+siMobx = element (unsafeCoerce _siMobx)
 
-foreign import siMobxstatetree_ :: ReactIcon
+foreign import _siMobxstatetree :: ReactIcon
 
 siMobxstatetree :: forall a b. Union a b PropsIcon => Record a -> JSX
-siMobxstatetree = element (unsafeCoerce siMobxstatetree_)
+siMobxstatetree = element (unsafeCoerce _siMobxstatetree)
 
-foreign import siMocha_ :: ReactIcon
+foreign import _siMocha :: ReactIcon
 
 siMocha :: forall a b. Union a b PropsIcon => Record a -> JSX
-siMocha = element (unsafeCoerce siMocha_)
+siMocha = element (unsafeCoerce _siMocha)
 
-foreign import siModx_ :: ReactIcon
+foreign import _siModx :: ReactIcon
 
 siModx :: forall a b. Union a b PropsIcon => Record a -> JSX
-siModx = element (unsafeCoerce siModx_)
+siModx = element (unsafeCoerce _siModx)
 
-foreign import siMojangstudios_ :: ReactIcon
+foreign import _siMojangstudios :: ReactIcon
 
 siMojangstudios :: forall a b. Union a b PropsIcon => Record a -> JSX
-siMojangstudios = element (unsafeCoerce siMojangstudios_)
+siMojangstudios = element (unsafeCoerce _siMojangstudios)
 
-foreign import siMoleculer_ :: ReactIcon
+foreign import _siMoleculer :: ReactIcon
 
 siMoleculer :: forall a b. Union a b PropsIcon => Record a -> JSX
-siMoleculer = element (unsafeCoerce siMoleculer_)
+siMoleculer = element (unsafeCoerce _siMoleculer)
 
-foreign import siMomenteo_ :: ReactIcon
+foreign import _siMomenteo :: ReactIcon
 
 siMomenteo :: forall a b. Union a b PropsIcon => Record a -> JSX
-siMomenteo = element (unsafeCoerce siMomenteo_)
+siMomenteo = element (unsafeCoerce _siMomenteo)
 
-foreign import siMonero_ :: ReactIcon
+foreign import _siMonero :: ReactIcon
 
 siMonero :: forall a b. Union a b PropsIcon => Record a -> JSX
-siMonero = element (unsafeCoerce siMonero_)
+siMonero = element (unsafeCoerce _siMonero)
 
-foreign import siMongodb_ :: ReactIcon
+foreign import _siMongodb :: ReactIcon
 
 siMongodb :: forall a b. Union a b PropsIcon => Record a -> JSX
-siMongodb = element (unsafeCoerce siMongodb_)
+siMongodb = element (unsafeCoerce _siMongodb)
 
-foreign import siMonkeytie_ :: ReactIcon
+foreign import _siMonkeytie :: ReactIcon
 
 siMonkeytie :: forall a b. Union a b PropsIcon => Record a -> JSX
-siMonkeytie = element (unsafeCoerce siMonkeytie_)
+siMonkeytie = element (unsafeCoerce _siMonkeytie)
 
-foreign import siMonster_ :: ReactIcon
+foreign import _siMonster :: ReactIcon
 
 siMonster :: forall a b. Union a b PropsIcon => Record a -> JSX
-siMonster = element (unsafeCoerce siMonster_)
+siMonster = element (unsafeCoerce _siMonster)
 
-foreign import siMonzo_ :: ReactIcon
+foreign import _siMonzo :: ReactIcon
 
 siMonzo :: forall a b. Union a b PropsIcon => Record a -> JSX
-siMonzo = element (unsafeCoerce siMonzo_)
+siMonzo = element (unsafeCoerce _siMonzo)
 
-foreign import siMoo_ :: ReactIcon
+foreign import _siMoo :: ReactIcon
 
 siMoo :: forall a b. Union a b PropsIcon => Record a -> JSX
-siMoo = element (unsafeCoerce siMoo_)
+siMoo = element (unsafeCoerce _siMoo)
 
-foreign import siMoscowmetro_ :: ReactIcon
+foreign import _siMoscowmetro :: ReactIcon
 
 siMoscowmetro :: forall a b. Union a b PropsIcon => Record a -> JSX
-siMoscowmetro = element (unsafeCoerce siMoscowmetro_)
+siMoscowmetro = element (unsafeCoerce _siMoscowmetro)
 
-foreign import siMotorola_ :: ReactIcon
+foreign import _siMotorola :: ReactIcon
 
 siMotorola :: forall a b. Union a b PropsIcon => Record a -> JSX
-siMotorola = element (unsafeCoerce siMotorola_)
+siMotorola = element (unsafeCoerce _siMotorola)
 
-foreign import siMozilla_ :: ReactIcon
+foreign import _siMozilla :: ReactIcon
 
 siMozilla :: forall a b. Union a b PropsIcon => Record a -> JSX
-siMozilla = element (unsafeCoerce siMozilla_)
+siMozilla = element (unsafeCoerce _siMozilla)
 
-foreign import siMta_ :: ReactIcon
+foreign import _siMta :: ReactIcon
 
 siMta :: forall a b. Union a b PropsIcon => Record a -> JSX
-siMta = element (unsafeCoerce siMta_)
+siMta = element (unsafeCoerce _siMta)
 
-foreign import siMtr_ :: ReactIcon
+foreign import _siMtr :: ReactIcon
 
 siMtr :: forall a b. Union a b PropsIcon => Record a -> JSX
-siMtr = element (unsafeCoerce siMtr_)
+siMtr = element (unsafeCoerce _siMtr)
 
-foreign import siMumble_ :: ReactIcon
+foreign import _siMumble :: ReactIcon
 
 siMumble :: forall a b. Union a b PropsIcon => Record a -> JSX
-siMumble = element (unsafeCoerce siMumble_)
+siMumble = element (unsafeCoerce _siMumble)
 
-foreign import siMusescore_ :: ReactIcon
+foreign import _siMusescore :: ReactIcon
 
 siMusescore :: forall a b. Union a b PropsIcon => Record a -> JSX
-siMusescore = element (unsafeCoerce siMusescore_)
+siMusescore = element (unsafeCoerce _siMusescore)
 
-foreign import siMusicbrainz_ :: ReactIcon
+foreign import _siMusicbrainz :: ReactIcon
 
 siMusicbrainz :: forall a b. Union a b PropsIcon => Record a -> JSX
-siMusicbrainz = element (unsafeCoerce siMusicbrainz_)
+siMusicbrainz = element (unsafeCoerce _siMusicbrainz)
 
-foreign import siMxlinux_ :: ReactIcon
+foreign import _siMxlinux :: ReactIcon
 
 siMxlinux :: forall a b. Union a b PropsIcon => Record a -> JSX
-siMxlinux = element (unsafeCoerce siMxlinux_)
+siMxlinux = element (unsafeCoerce _siMxlinux)
 
-foreign import siMyanimelist_ :: ReactIcon
+foreign import _siMyanimelist :: ReactIcon
 
 siMyanimelist :: forall a b. Union a b PropsIcon => Record a -> JSX
-siMyanimelist = element (unsafeCoerce siMyanimelist_)
+siMyanimelist = element (unsafeCoerce _siMyanimelist)
 
-foreign import siMyob_ :: ReactIcon
+foreign import _siMyob :: ReactIcon
 
 siMyob :: forall a b. Union a b PropsIcon => Record a -> JSX
-siMyob = element (unsafeCoerce siMyob_)
+siMyob = element (unsafeCoerce _siMyob)
 
-foreign import siMyspace_ :: ReactIcon
+foreign import _siMyspace :: ReactIcon
 
 siMyspace :: forall a b. Union a b PropsIcon => Record a -> JSX
-siMyspace = element (unsafeCoerce siMyspace_)
+siMyspace = element (unsafeCoerce _siMyspace)
 
-foreign import siMysql_ :: ReactIcon
+foreign import _siMysql :: ReactIcon
 
 siMysql :: forall a b. Union a b PropsIcon => Record a -> JSX
-siMysql = element (unsafeCoerce siMysql_)
+siMysql = element (unsafeCoerce _siMysql)
 
-foreign import siNamebase_ :: ReactIcon
+foreign import _siNamebase :: ReactIcon
 
 siNamebase :: forall a b. Union a b PropsIcon => Record a -> JSX
-siNamebase = element (unsafeCoerce siNamebase_)
+siNamebase = element (unsafeCoerce _siNamebase)
 
-foreign import siNamecheap_ :: ReactIcon
+foreign import _siNamecheap :: ReactIcon
 
 siNamecheap :: forall a b. Union a b PropsIcon => Record a -> JSX
-siNamecheap = element (unsafeCoerce siNamecheap_)
+siNamecheap = element (unsafeCoerce _siNamecheap)
 
-foreign import siNano_ :: ReactIcon
+foreign import _siNano :: ReactIcon
 
 siNano :: forall a b. Union a b PropsIcon => Record a -> JSX
-siNano = element (unsafeCoerce siNano_)
+siNano = element (unsafeCoerce _siNano)
 
-foreign import siNasa_ :: ReactIcon
+foreign import _siNasa :: ReactIcon
 
 siNasa :: forall a b. Union a b PropsIcon => Record a -> JSX
-siNasa = element (unsafeCoerce siNasa_)
+siNasa = element (unsafeCoerce _siNasa)
 
-foreign import siNationalgrid_ :: ReactIcon
+foreign import _siNationalgrid :: ReactIcon
 
 siNationalgrid :: forall a b. Union a b PropsIcon => Record a -> JSX
-siNationalgrid = element (unsafeCoerce siNationalgrid_)
+siNationalgrid = element (unsafeCoerce _siNationalgrid)
 
-foreign import siNativescript_ :: ReactIcon
+foreign import _siNativescript :: ReactIcon
 
 siNativescript :: forall a b. Union a b PropsIcon => Record a -> JSX
-siNativescript = element (unsafeCoerce siNativescript_)
+siNativescript = element (unsafeCoerce _siNativescript)
 
-foreign import siNaver_ :: ReactIcon
+foreign import _siNaver :: ReactIcon
 
 siNaver :: forall a b. Union a b PropsIcon => Record a -> JSX
-siNaver = element (unsafeCoerce siNaver_)
+siNaver = element (unsafeCoerce _siNaver)
 
-foreign import siNba_ :: ReactIcon
+foreign import _siNba :: ReactIcon
 
 siNba :: forall a b. Union a b PropsIcon => Record a -> JSX
-siNba = element (unsafeCoerce siNba_)
+siNba = element (unsafeCoerce _siNba)
 
-foreign import siNbb_ :: ReactIcon
+foreign import _siNbb :: ReactIcon
 
 siNbb :: forall a b. Union a b PropsIcon => Record a -> JSX
-siNbb = element (unsafeCoerce siNbb_)
+siNbb = element (unsafeCoerce _siNbb)
 
-foreign import siNdr_ :: ReactIcon
+foreign import _siNdr :: ReactIcon
 
 siNdr :: forall a b. Union a b PropsIcon => Record a -> JSX
-siNdr = element (unsafeCoerce siNdr_)
+siNdr = element (unsafeCoerce _siNdr)
 
-foreign import siNec_ :: ReactIcon
+foreign import _siNec :: ReactIcon
 
 siNec :: forall a b. Union a b PropsIcon => Record a -> JSX
-siNec = element (unsafeCoerce siNec_)
+siNec = element (unsafeCoerce _siNec)
 
-foreign import siNeovim_ :: ReactIcon
+foreign import _siNeovim :: ReactIcon
 
 siNeovim :: forall a b. Union a b PropsIcon => Record a -> JSX
-siNeovim = element (unsafeCoerce siNeovim_)
+siNeovim = element (unsafeCoerce _siNeovim)
 
-foreign import siNestjs_ :: ReactIcon
+foreign import _siNestjs :: ReactIcon
 
 siNestjs :: forall a b. Union a b PropsIcon => Record a -> JSX
-siNestjs = element (unsafeCoerce siNestjs_)
+siNestjs = element (unsafeCoerce _siNestjs)
 
-foreign import siNetapp_ :: ReactIcon
+foreign import _siNetapp :: ReactIcon
 
 siNetapp :: forall a b. Union a b PropsIcon => Record a -> JSX
-siNetapp = element (unsafeCoerce siNetapp_)
+siNetapp = element (unsafeCoerce _siNetapp)
 
-foreign import siNetflix_ :: ReactIcon
+foreign import _siNetflix :: ReactIcon
 
 siNetflix :: forall a b. Union a b PropsIcon => Record a -> JSX
-siNetflix = element (unsafeCoerce siNetflix_)
+siNetflix = element (unsafeCoerce _siNetflix)
 
-foreign import siNetlify_ :: ReactIcon
+foreign import _siNetlify :: ReactIcon
 
 siNetlify :: forall a b. Union a b PropsIcon => Record a -> JSX
-siNetlify = element (unsafeCoerce siNetlify_)
+siNetlify = element (unsafeCoerce _siNetlify)
 
-foreign import siNette_ :: ReactIcon
+foreign import _siNette :: ReactIcon
 
 siNette :: forall a b. Union a b PropsIcon => Record a -> JSX
-siNette = element (unsafeCoerce siNette_)
+siNette = element (unsafeCoerce _siNette)
 
-foreign import siNewbalance_ :: ReactIcon
+foreign import _siNewbalance :: ReactIcon
 
 siNewbalance :: forall a b. Union a b PropsIcon => Record a -> JSX
-siNewbalance = element (unsafeCoerce siNewbalance_)
+siNewbalance = element (unsafeCoerce _siNewbalance)
 
-foreign import siNewjapanprowrestling_ :: ReactIcon
+foreign import _siNewjapanprowrestling :: ReactIcon
 
 siNewjapanprowrestling :: forall a b. Union a b PropsIcon => Record a -> JSX
-siNewjapanprowrestling = element (unsafeCoerce siNewjapanprowrestling_)
+siNewjapanprowrestling = element (unsafeCoerce _siNewjapanprowrestling)
 
-foreign import siNewrelic_ :: ReactIcon
+foreign import _siNewrelic :: ReactIcon
 
 siNewrelic :: forall a b. Union a b PropsIcon => Record a -> JSX
-siNewrelic = element (unsafeCoerce siNewrelic_)
+siNewrelic = element (unsafeCoerce _siNewrelic)
 
-foreign import siNewyorktimes_ :: ReactIcon
+foreign import _siNewyorktimes :: ReactIcon
 
 siNewyorktimes :: forall a b. Union a b PropsIcon => Record a -> JSX
-siNewyorktimes = element (unsafeCoerce siNewyorktimes_)
+siNewyorktimes = element (unsafeCoerce _siNewyorktimes)
 
-foreign import siNextcloud_ :: ReactIcon
+foreign import _siNextcloud :: ReactIcon
 
 siNextcloud :: forall a b. Union a b PropsIcon => Record a -> JSX
-siNextcloud = element (unsafeCoerce siNextcloud_)
+siNextcloud = element (unsafeCoerce _siNextcloud)
 
-foreign import siNextdoor_ :: ReactIcon
+foreign import _siNextdoor :: ReactIcon
 
 siNextdoor :: forall a b. Union a b PropsIcon => Record a -> JSX
-siNextdoor = element (unsafeCoerce siNextdoor_)
+siNextdoor = element (unsafeCoerce _siNextdoor)
 
-foreign import siNextdotjs_ :: ReactIcon
+foreign import _siNextdotjs :: ReactIcon
 
 siNextdotjs :: forall a b. Union a b PropsIcon => Record a -> JSX
-siNextdotjs = element (unsafeCoerce siNextdotjs_)
+siNextdotjs = element (unsafeCoerce _siNextdotjs)
 
-foreign import siNfc_ :: ReactIcon
+foreign import _siNfc :: ReactIcon
 
 siNfc :: forall a b. Union a b PropsIcon => Record a -> JSX
-siNfc = element (unsafeCoerce siNfc_)
+siNfc = element (unsafeCoerce _siNfc)
 
-foreign import siNginx_ :: ReactIcon
+foreign import _siNginx :: ReactIcon
 
 siNginx :: forall a b. Union a b PropsIcon => Record a -> JSX
-siNginx = element (unsafeCoerce siNginx_)
+siNginx = element (unsafeCoerce _siNginx)
 
-foreign import siNgrok_ :: ReactIcon
+foreign import _siNgrok :: ReactIcon
 
 siNgrok :: forall a b. Union a b PropsIcon => Record a -> JSX
-siNgrok = element (unsafeCoerce siNgrok_)
+siNgrok = element (unsafeCoerce _siNgrok)
 
-foreign import siNiconico_ :: ReactIcon
+foreign import _siNiconico :: ReactIcon
 
 siNiconico :: forall a b. Union a b PropsIcon => Record a -> JSX
-siNiconico = element (unsafeCoerce siNiconico_)
+siNiconico = element (unsafeCoerce _siNiconico)
 
-foreign import siNike_ :: ReactIcon
+foreign import _siNike :: ReactIcon
 
 siNike :: forall a b. Union a b PropsIcon => Record a -> JSX
-siNike = element (unsafeCoerce siNike_)
+siNike = element (unsafeCoerce _siNike)
 
-foreign import siNim_ :: ReactIcon
+foreign import _siNim :: ReactIcon
 
 siNim :: forall a b. Union a b PropsIcon => Record a -> JSX
-siNim = element (unsafeCoerce siNim_)
+siNim = element (unsafeCoerce _siNim)
 
-foreign import siNintendo_ :: ReactIcon
+foreign import _siNintendo :: ReactIcon
 
 siNintendo :: forall a b. Union a b PropsIcon => Record a -> JSX
-siNintendo = element (unsafeCoerce siNintendo_)
+siNintendo = element (unsafeCoerce _siNintendo)
 
-foreign import siNintendogamecube_ :: ReactIcon
+foreign import _siNintendogamecube :: ReactIcon
 
 siNintendogamecube :: forall a b. Union a b PropsIcon => Record a -> JSX
-siNintendogamecube = element (unsafeCoerce siNintendogamecube_)
+siNintendogamecube = element (unsafeCoerce _siNintendogamecube)
 
-foreign import siNintendonetwork_ :: ReactIcon
+foreign import _siNintendonetwork :: ReactIcon
 
 siNintendonetwork :: forall a b. Union a b PropsIcon => Record a -> JSX
-siNintendonetwork = element (unsafeCoerce siNintendonetwork_)
+siNintendonetwork = element (unsafeCoerce _siNintendonetwork)
 
-foreign import siNintendoswitch_ :: ReactIcon
+foreign import _siNintendoswitch :: ReactIcon
 
 siNintendoswitch :: forall a b. Union a b PropsIcon => Record a -> JSX
-siNintendoswitch = element (unsafeCoerce siNintendoswitch_)
+siNintendoswitch = element (unsafeCoerce _siNintendoswitch)
 
-foreign import siNissan_ :: ReactIcon
+foreign import _siNissan :: ReactIcon
 
 siNissan :: forall a b. Union a b PropsIcon => Record a -> JSX
-siNissan = element (unsafeCoerce siNissan_)
+siNissan = element (unsafeCoerce _siNissan)
 
-foreign import siNixos_ :: ReactIcon
+foreign import _siNixos :: ReactIcon
 
 siNixos :: forall a b. Union a b PropsIcon => Record a -> JSX
-siNixos = element (unsafeCoerce siNixos_)
+siNixos = element (unsafeCoerce _siNixos)
 
-foreign import siNodedotjs_ :: ReactIcon
+foreign import _siNodedotjs :: ReactIcon
 
 siNodedotjs :: forall a b. Union a b PropsIcon => Record a -> JSX
-siNodedotjs = element (unsafeCoerce siNodedotjs_)
+siNodedotjs = element (unsafeCoerce _siNodedotjs)
 
-foreign import siNodemon_ :: ReactIcon
+foreign import _siNodemon :: ReactIcon
 
 siNodemon :: forall a b. Union a b PropsIcon => Record a -> JSX
-siNodemon = element (unsafeCoerce siNodemon_)
+siNodemon = element (unsafeCoerce _siNodemon)
 
-foreign import siNodered_ :: ReactIcon
+foreign import _siNodered :: ReactIcon
 
 siNodered :: forall a b. Union a b PropsIcon => Record a -> JSX
-siNodered = element (unsafeCoerce siNodered_)
+siNodered = element (unsafeCoerce _siNodered)
 
-foreign import siNokia_ :: ReactIcon
+foreign import _siNokia :: ReactIcon
 
 siNokia :: forall a b. Union a b PropsIcon => Record a -> JSX
-siNokia = element (unsafeCoerce siNokia_)
+siNokia = element (unsafeCoerce _siNokia)
 
-foreign import siNordvpn_ :: ReactIcon
+foreign import _siNordvpn :: ReactIcon
 
 siNordvpn :: forall a b. Union a b PropsIcon => Record a -> JSX
-siNordvpn = element (unsafeCoerce siNordvpn_)
+siNordvpn = element (unsafeCoerce _siNordvpn)
 
-foreign import siNorwegian_ :: ReactIcon
+foreign import _siNorwegian :: ReactIcon
 
 siNorwegian :: forall a b. Union a b PropsIcon => Record a -> JSX
-siNorwegian = element (unsafeCoerce siNorwegian_)
+siNorwegian = element (unsafeCoerce _siNorwegian)
 
-foreign import siNotepadplusplus_ :: ReactIcon
+foreign import _siNotepadplusplus :: ReactIcon
 
 siNotepadplusplus :: forall a b. Union a b PropsIcon => Record a -> JSX
-siNotepadplusplus = element (unsafeCoerce siNotepadplusplus_)
+siNotepadplusplus = element (unsafeCoerce _siNotepadplusplus)
 
-foreign import siNotion_ :: ReactIcon
+foreign import _siNotion :: ReactIcon
 
 siNotion :: forall a b. Union a b PropsIcon => Record a -> JSX
-siNotion = element (unsafeCoerce siNotion_)
+siNotion = element (unsafeCoerce _siNotion)
 
-foreign import siNotist_ :: ReactIcon
+foreign import _siNotist :: ReactIcon
 
 siNotist :: forall a b. Union a b PropsIcon => Record a -> JSX
-siNotist = element (unsafeCoerce siNotist_)
+siNotist = element (unsafeCoerce _siNotist)
 
-foreign import siNounproject_ :: ReactIcon
+foreign import _siNounproject :: ReactIcon
 
 siNounproject :: forall a b. Union a b PropsIcon => Record a -> JSX
-siNounproject = element (unsafeCoerce siNounproject_)
+siNounproject = element (unsafeCoerce _siNounproject)
 
-foreign import siNpm_ :: ReactIcon
+foreign import _siNpm :: ReactIcon
 
 siNpm :: forall a b. Union a b PropsIcon => Record a -> JSX
-siNpm = element (unsafeCoerce siNpm_)
+siNpm = element (unsafeCoerce _siNpm)
 
-foreign import siNrwl_ :: ReactIcon
+foreign import _siNrwl :: ReactIcon
 
 siNrwl :: forall a b. Union a b PropsIcon => Record a -> JSX
-siNrwl = element (unsafeCoerce siNrwl_)
+siNrwl = element (unsafeCoerce _siNrwl)
 
-foreign import siNubank_ :: ReactIcon
+foreign import _siNubank :: ReactIcon
 
 siNubank :: forall a b. Union a b PropsIcon => Record a -> JSX
-siNubank = element (unsafeCoerce siNubank_)
+siNubank = element (unsafeCoerce _siNubank)
 
-foreign import siNucleo_ :: ReactIcon
+foreign import _siNucleo :: ReactIcon
 
 siNucleo :: forall a b. Union a b PropsIcon => Record a -> JSX
-siNucleo = element (unsafeCoerce siNucleo_)
+siNucleo = element (unsafeCoerce _siNucleo)
 
-foreign import siNuget_ :: ReactIcon
+foreign import _siNuget :: ReactIcon
 
 siNuget :: forall a b. Union a b PropsIcon => Record a -> JSX
-siNuget = element (unsafeCoerce siNuget_)
+siNuget = element (unsafeCoerce _siNuget)
 
-foreign import siNuke_ :: ReactIcon
+foreign import _siNuke :: ReactIcon
 
 siNuke :: forall a b. Union a b PropsIcon => Record a -> JSX
-siNuke = element (unsafeCoerce siNuke_)
+siNuke = element (unsafeCoerce _siNuke)
 
-foreign import siNumba_ :: ReactIcon
+foreign import _siNumba :: ReactIcon
 
 siNumba :: forall a b. Union a b PropsIcon => Record a -> JSX
-siNumba = element (unsafeCoerce siNumba_)
+siNumba = element (unsafeCoerce _siNumba)
 
-foreign import siNumpy_ :: ReactIcon
+foreign import _siNumpy :: ReactIcon
 
 siNumpy :: forall a b. Union a b PropsIcon => Record a -> JSX
-siNumpy = element (unsafeCoerce siNumpy_)
+siNumpy = element (unsafeCoerce _siNumpy)
 
-foreign import siNutanix_ :: ReactIcon
+foreign import _siNutanix :: ReactIcon
 
 siNutanix :: forall a b. Union a b PropsIcon => Record a -> JSX
-siNutanix = element (unsafeCoerce siNutanix_)
+siNutanix = element (unsafeCoerce _siNutanix)
 
-foreign import siNuxtdotjs_ :: ReactIcon
+foreign import _siNuxtdotjs :: ReactIcon
 
 siNuxtdotjs :: forall a b. Union a b PropsIcon => Record a -> JSX
-siNuxtdotjs = element (unsafeCoerce siNuxtdotjs_)
+siNuxtdotjs = element (unsafeCoerce _siNuxtdotjs)
 
-foreign import siNvidia_ :: ReactIcon
+foreign import _siNvidia :: ReactIcon
 
 siNvidia :: forall a b. Union a b PropsIcon => Record a -> JSX
-siNvidia = element (unsafeCoerce siNvidia_)
+siNvidia = element (unsafeCoerce _siNvidia)
 
-foreign import siNx_ :: ReactIcon
+foreign import _siNx :: ReactIcon
 
 siNx :: forall a b. Union a b PropsIcon => Record a -> JSX
-siNx = element (unsafeCoerce siNx_)
+siNx = element (unsafeCoerce _siNx)
 
-foreign import siObservable_ :: ReactIcon
+foreign import _siObservable :: ReactIcon
 
 siObservable :: forall a b. Union a b PropsIcon => Record a -> JSX
-siObservable = element (unsafeCoerce siObservable_)
+siObservable = element (unsafeCoerce _siObservable)
 
-foreign import siObsstudio_ :: ReactIcon
+foreign import _siObsstudio :: ReactIcon
 
 siObsstudio :: forall a b. Union a b PropsIcon => Record a -> JSX
-siObsstudio = element (unsafeCoerce siObsstudio_)
+siObsstudio = element (unsafeCoerce _siObsstudio)
 
-foreign import siOcaml_ :: ReactIcon
+foreign import _siOcaml :: ReactIcon
 
 siOcaml :: forall a b. Union a b PropsIcon => Record a -> JSX
-siOcaml = element (unsafeCoerce siOcaml_)
+siOcaml = element (unsafeCoerce _siOcaml)
 
-foreign import siOctave_ :: ReactIcon
+foreign import _siOctave :: ReactIcon
 
 siOctave :: forall a b. Union a b PropsIcon => Record a -> JSX
-siOctave = element (unsafeCoerce siOctave_)
+siOctave = element (unsafeCoerce _siOctave)
 
-foreign import siOctopusdeploy_ :: ReactIcon
+foreign import _siOctopusdeploy :: ReactIcon
 
 siOctopusdeploy :: forall a b. Union a b PropsIcon => Record a -> JSX
-siOctopusdeploy = element (unsafeCoerce siOctopusdeploy_)
+siOctopusdeploy = element (unsafeCoerce _siOctopusdeploy)
 
-foreign import siOculus_ :: ReactIcon
+foreign import _siOculus :: ReactIcon
 
 siOculus :: forall a b. Union a b PropsIcon => Record a -> JSX
-siOculus = element (unsafeCoerce siOculus_)
+siOculus = element (unsafeCoerce _siOculus)
 
-foreign import siOdnoklassniki_ :: ReactIcon
+foreign import _siOdnoklassniki :: ReactIcon
 
 siOdnoklassniki :: forall a b. Union a b PropsIcon => Record a -> JSX
-siOdnoklassniki = element (unsafeCoerce siOdnoklassniki_)
+siOdnoklassniki = element (unsafeCoerce _siOdnoklassniki)
 
-foreign import siOdysee_ :: ReactIcon
+foreign import _siOdysee :: ReactIcon
 
 siOdysee :: forall a b. Union a b PropsIcon => Record a -> JSX
-siOdysee = element (unsafeCoerce siOdysee_)
+siOdysee = element (unsafeCoerce _siOdysee)
 
-foreign import siOkcupid_ :: ReactIcon
+foreign import _siOkcupid :: ReactIcon
 
 siOkcupid :: forall a b. Union a b PropsIcon => Record a -> JSX
-siOkcupid = element (unsafeCoerce siOkcupid_)
+siOkcupid = element (unsafeCoerce _siOkcupid)
 
-foreign import siOkta_ :: ReactIcon
+foreign import _siOkta :: ReactIcon
 
 siOkta :: forall a b. Union a b PropsIcon => Record a -> JSX
-siOkta = element (unsafeCoerce siOkta_)
+siOkta = element (unsafeCoerce _siOkta)
 
-foreign import siOneplus_ :: ReactIcon
+foreign import _siOneplus :: ReactIcon
 
 siOneplus :: forall a b. Union a b PropsIcon => Record a -> JSX
-siOneplus = element (unsafeCoerce siOneplus_)
+siOneplus = element (unsafeCoerce _siOneplus)
 
-foreign import siOnlyfans_ :: ReactIcon
+foreign import _siOnlyfans :: ReactIcon
 
 siOnlyfans :: forall a b. Union a b PropsIcon => Record a -> JSX
-siOnlyfans = element (unsafeCoerce siOnlyfans_)
+siOnlyfans = element (unsafeCoerce _siOnlyfans)
 
-foreign import siOnnx_ :: ReactIcon
+foreign import _siOnnx :: ReactIcon
 
 siOnnx :: forall a b. Union a b PropsIcon => Record a -> JSX
-siOnnx = element (unsafeCoerce siOnnx_)
+siOnnx = element (unsafeCoerce _siOnnx)
 
-foreign import siOnstar_ :: ReactIcon
+foreign import _siOnstar :: ReactIcon
 
 siOnstar :: forall a b. Union a b PropsIcon => Record a -> JSX
-siOnstar = element (unsafeCoerce siOnstar_)
+siOnstar = element (unsafeCoerce _siOnstar)
 
-foreign import siOpel_ :: ReactIcon
+foreign import _siOpel :: ReactIcon
 
 siOpel :: forall a b. Union a b PropsIcon => Record a -> JSX
-siOpel = element (unsafeCoerce siOpel_)
+siOpel = element (unsafeCoerce _siOpel)
 
-foreign import siOpenaccess_ :: ReactIcon
+foreign import _siOpenaccess :: ReactIcon
 
 siOpenaccess :: forall a b. Union a b PropsIcon => Record a -> JSX
-siOpenaccess = element (unsafeCoerce siOpenaccess_)
+siOpenaccess = element (unsafeCoerce _siOpenaccess)
 
-foreign import siOpenai_ :: ReactIcon
+foreign import _siOpenai :: ReactIcon
 
 siOpenai :: forall a b. Union a b PropsIcon => Record a -> JSX
-siOpenai = element (unsafeCoerce siOpenai_)
+siOpenai = element (unsafeCoerce _siOpenai)
 
-foreign import siOpenaigym_ :: ReactIcon
+foreign import _siOpenaigym :: ReactIcon
 
 siOpenaigym :: forall a b. Union a b PropsIcon => Record a -> JSX
-siOpenaigym = element (unsafeCoerce siOpenaigym_)
+siOpenaigym = element (unsafeCoerce _siOpenaigym)
 
-foreign import siOpenapiinitiative_ :: ReactIcon
+foreign import _siOpenapiinitiative :: ReactIcon
 
 siOpenapiinitiative :: forall a b. Union a b PropsIcon => Record a -> JSX
-siOpenapiinitiative = element (unsafeCoerce siOpenapiinitiative_)
+siOpenapiinitiative = element (unsafeCoerce _siOpenapiinitiative)
 
-foreign import siOpenbadges_ :: ReactIcon
+foreign import _siOpenbadges :: ReactIcon
 
 siOpenbadges :: forall a b. Union a b PropsIcon => Record a -> JSX
-siOpenbadges = element (unsafeCoerce siOpenbadges_)
+siOpenbadges = element (unsafeCoerce _siOpenbadges)
 
-foreign import siOpenbsd_ :: ReactIcon
+foreign import _siOpenbsd :: ReactIcon
 
 siOpenbsd :: forall a b. Union a b PropsIcon => Record a -> JSX
-siOpenbsd = element (unsafeCoerce siOpenbsd_)
+siOpenbsd = element (unsafeCoerce _siOpenbsd)
 
-foreign import siOpenbugbounty_ :: ReactIcon
+foreign import _siOpenbugbounty :: ReactIcon
 
 siOpenbugbounty :: forall a b. Union a b PropsIcon => Record a -> JSX
-siOpenbugbounty = element (unsafeCoerce siOpenbugbounty_)
+siOpenbugbounty = element (unsafeCoerce _siOpenbugbounty)
 
-foreign import siOpencollective_ :: ReactIcon
+foreign import _siOpencollective :: ReactIcon
 
 siOpencollective :: forall a b. Union a b PropsIcon => Record a -> JSX
-siOpencollective = element (unsafeCoerce siOpencollective_)
+siOpencollective = element (unsafeCoerce _siOpencollective)
 
-foreign import siOpencontainersinitiative_ :: ReactIcon
+foreign import _siOpencontainersinitiative :: ReactIcon
 
 siOpencontainersinitiative :: forall a b. Union a b PropsIcon => Record a -> JSX
-siOpencontainersinitiative = element (unsafeCoerce siOpencontainersinitiative_)
+siOpencontainersinitiative = element (unsafeCoerce _siOpencontainersinitiative)
 
-foreign import siOpencv_ :: ReactIcon
+foreign import _siOpencv :: ReactIcon
 
 siOpencv :: forall a b. Union a b PropsIcon => Record a -> JSX
-siOpencv = element (unsafeCoerce siOpencv_)
+siOpencv = element (unsafeCoerce _siOpencv)
 
-foreign import siOpenfaas_ :: ReactIcon
+foreign import _siOpenfaas :: ReactIcon
 
 siOpenfaas :: forall a b. Union a b PropsIcon => Record a -> JSX
-siOpenfaas = element (unsafeCoerce siOpenfaas_)
+siOpenfaas = element (unsafeCoerce _siOpenfaas)
 
-foreign import siOpengl_ :: ReactIcon
+foreign import _siOpengl :: ReactIcon
 
 siOpengl :: forall a b. Union a b PropsIcon => Record a -> JSX
-siOpengl = element (unsafeCoerce siOpengl_)
+siOpengl = element (unsafeCoerce _siOpengl)
 
-foreign import siOpenid_ :: ReactIcon
+foreign import _siOpenid :: ReactIcon
 
 siOpenid :: forall a b. Union a b PropsIcon => Record a -> JSX
-siOpenid = element (unsafeCoerce siOpenid_)
+siOpenid = element (unsafeCoerce _siOpenid)
 
-foreign import siOpenlayers_ :: ReactIcon
+foreign import _siOpenlayers :: ReactIcon
 
 siOpenlayers :: forall a b. Union a b PropsIcon => Record a -> JSX
-siOpenlayers = element (unsafeCoerce siOpenlayers_)
+siOpenlayers = element (unsafeCoerce _siOpenlayers)
 
-foreign import siOpenmined_ :: ReactIcon
+foreign import _siOpenmined :: ReactIcon
 
 siOpenmined :: forall a b. Union a b PropsIcon => Record a -> JSX
-siOpenmined = element (unsafeCoerce siOpenmined_)
+siOpenmined = element (unsafeCoerce _siOpenmined)
 
-foreign import siOpennebula_ :: ReactIcon
+foreign import _siOpennebula :: ReactIcon
 
 siOpennebula :: forall a b. Union a b PropsIcon => Record a -> JSX
-siOpennebula = element (unsafeCoerce siOpennebula_)
+siOpennebula = element (unsafeCoerce _siOpennebula)
 
-foreign import siOpensourceinitiative_ :: ReactIcon
+foreign import _siOpensourceinitiative :: ReactIcon
 
 siOpensourceinitiative :: forall a b. Union a b PropsIcon => Record a -> JSX
-siOpensourceinitiative = element (unsafeCoerce siOpensourceinitiative_)
+siOpensourceinitiative = element (unsafeCoerce _siOpensourceinitiative)
 
-foreign import siOpenssl_ :: ReactIcon
+foreign import _siOpenssl :: ReactIcon
 
 siOpenssl :: forall a b. Union a b PropsIcon => Record a -> JSX
-siOpenssl = element (unsafeCoerce siOpenssl_)
+siOpenssl = element (unsafeCoerce _siOpenssl)
 
-foreign import siOpenstack_ :: ReactIcon
+foreign import _siOpenstack :: ReactIcon
 
 siOpenstack :: forall a b. Union a b PropsIcon => Record a -> JSX
-siOpenstack = element (unsafeCoerce siOpenstack_)
+siOpenstack = element (unsafeCoerce _siOpenstack)
 
-foreign import siOpenstreetmap_ :: ReactIcon
+foreign import _siOpenstreetmap :: ReactIcon
 
 siOpenstreetmap :: forall a b. Union a b PropsIcon => Record a -> JSX
-siOpenstreetmap = element (unsafeCoerce siOpenstreetmap_)
+siOpenstreetmap = element (unsafeCoerce _siOpenstreetmap)
 
-foreign import siOpensuse_ :: ReactIcon
+foreign import _siOpensuse :: ReactIcon
 
 siOpensuse :: forall a b. Union a b PropsIcon => Record a -> JSX
-siOpensuse = element (unsafeCoerce siOpensuse_)
+siOpensuse = element (unsafeCoerce _siOpensuse)
 
-foreign import siOpenvpn_ :: ReactIcon
+foreign import _siOpenvpn :: ReactIcon
 
 siOpenvpn :: forall a b. Union a b PropsIcon => Record a -> JSX
-siOpenvpn = element (unsafeCoerce siOpenvpn_)
+siOpenvpn = element (unsafeCoerce _siOpenvpn)
 
-foreign import siOpenwrt_ :: ReactIcon
+foreign import _siOpenwrt :: ReactIcon
 
 siOpenwrt :: forall a b. Union a b PropsIcon => Record a -> JSX
-siOpenwrt = element (unsafeCoerce siOpenwrt_)
+siOpenwrt = element (unsafeCoerce _siOpenwrt)
 
-foreign import siOpera_ :: ReactIcon
+foreign import _siOpera :: ReactIcon
 
 siOpera :: forall a b. Union a b PropsIcon => Record a -> JSX
-siOpera = element (unsafeCoerce siOpera_)
+siOpera = element (unsafeCoerce _siOpera)
 
-foreign import siOpnsense_ :: ReactIcon
+foreign import _siOpnsense :: ReactIcon
 
 siOpnsense :: forall a b. Union a b PropsIcon => Record a -> JSX
-siOpnsense = element (unsafeCoerce siOpnsense_)
+siOpnsense = element (unsafeCoerce _siOpnsense)
 
-foreign import siOpsgenie_ :: ReactIcon
+foreign import _siOpsgenie :: ReactIcon
 
 siOpsgenie :: forall a b. Union a b PropsIcon => Record a -> JSX
-siOpsgenie = element (unsafeCoerce siOpsgenie_)
+siOpsgenie = element (unsafeCoerce _siOpsgenie)
 
-foreign import siOpslevel_ :: ReactIcon
+foreign import _siOpslevel :: ReactIcon
 
 siOpslevel :: forall a b. Union a b PropsIcon => Record a -> JSX
-siOpslevel = element (unsafeCoerce siOpslevel_)
+siOpslevel = element (unsafeCoerce _siOpslevel)
 
-foreign import siOracle_ :: ReactIcon
+foreign import _siOracle :: ReactIcon
 
 siOracle :: forall a b. Union a b PropsIcon => Record a -> JSX
-siOracle = element (unsafeCoerce siOracle_)
+siOracle = element (unsafeCoerce _siOracle)
 
-foreign import siOrcid_ :: ReactIcon
+foreign import _siOrcid :: ReactIcon
 
 siOrcid :: forall a b. Union a b PropsIcon => Record a -> JSX
-siOrcid = element (unsafeCoerce siOrcid_)
+siOrcid = element (unsafeCoerce _siOrcid)
 
-foreign import siOrg_ :: ReactIcon
+foreign import _siOrg :: ReactIcon
 
 siOrg :: forall a b. Union a b PropsIcon => Record a -> JSX
-siOrg = element (unsafeCoerce siOrg_)
+siOrg = element (unsafeCoerce _siOrg)
 
-foreign import siOrigin_ :: ReactIcon
+foreign import _siOrigin :: ReactIcon
 
 siOrigin :: forall a b. Union a b PropsIcon => Record a -> JSX
-siOrigin = element (unsafeCoerce siOrigin_)
+siOrigin = element (unsafeCoerce _siOrigin)
 
-foreign import siOsano_ :: ReactIcon
+foreign import _siOsano :: ReactIcon
 
 siOsano :: forall a b. Union a b PropsIcon => Record a -> JSX
-siOsano = element (unsafeCoerce siOsano_)
+siOsano = element (unsafeCoerce _siOsano)
 
-foreign import siOshkosh_ :: ReactIcon
+foreign import _siOshkosh :: ReactIcon
 
 siOshkosh :: forall a b. Union a b PropsIcon => Record a -> JSX
-siOshkosh = element (unsafeCoerce siOshkosh_)
+siOshkosh = element (unsafeCoerce _siOshkosh)
 
-foreign import siOsmc_ :: ReactIcon
+foreign import _siOsmc :: ReactIcon
 
 siOsmc :: forall a b. Union a b PropsIcon => Record a -> JSX
-siOsmc = element (unsafeCoerce siOsmc_)
+siOsmc = element (unsafeCoerce _siOsmc)
 
-foreign import siOsu_ :: ReactIcon
+foreign import _siOsu :: ReactIcon
 
 siOsu :: forall a b. Union a b PropsIcon => Record a -> JSX
-siOsu = element (unsafeCoerce siOsu_)
+siOsu = element (unsafeCoerce _siOsu)
 
-foreign import siOvercast_ :: ReactIcon
+foreign import _siOvercast :: ReactIcon
 
 siOvercast :: forall a b. Union a b PropsIcon => Record a -> JSX
-siOvercast = element (unsafeCoerce siOvercast_)
+siOvercast = element (unsafeCoerce _siOvercast)
 
-foreign import siOverleaf_ :: ReactIcon
+foreign import _siOverleaf :: ReactIcon
 
 siOverleaf :: forall a b. Union a b PropsIcon => Record a -> JSX
-siOverleaf = element (unsafeCoerce siOverleaf_)
+siOverleaf = element (unsafeCoerce _siOverleaf)
 
-foreign import siOvh_ :: ReactIcon
+foreign import _siOvh :: ReactIcon
 
 siOvh :: forall a b. Union a b PropsIcon => Record a -> JSX
-siOvh = element (unsafeCoerce siOvh_)
+siOvh = element (unsafeCoerce _siOvh)
 
-foreign import siOwasp_ :: ReactIcon
+foreign import _siOwasp :: ReactIcon
 
 siOwasp :: forall a b. Union a b PropsIcon => Record a -> JSX
-siOwasp = element (unsafeCoerce siOwasp_)
+siOwasp = element (unsafeCoerce _siOwasp)
 
-foreign import siOxygen_ :: ReactIcon
+foreign import _siOxygen :: ReactIcon
 
 siOxygen :: forall a b. Union a b PropsIcon => Record a -> JSX
-siOxygen = element (unsafeCoerce siOxygen_)
+siOxygen = element (unsafeCoerce _siOxygen)
 
-foreign import siOyo_ :: ReactIcon
+foreign import _siOyo :: ReactIcon
 
 siOyo :: forall a b. Union a b PropsIcon => Record a -> JSX
-siOyo = element (unsafeCoerce siOyo_)
+siOyo = element (unsafeCoerce _siOyo)
 
-foreign import siPackagist_ :: ReactIcon
+foreign import _siPackagist :: ReactIcon
 
 siPackagist :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPackagist = element (unsafeCoerce siPackagist_)
+siPackagist = element (unsafeCoerce _siPackagist)
 
-foreign import siPacker_ :: ReactIcon
+foreign import _siPacker :: ReactIcon
 
 siPacker :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPacker = element (unsafeCoerce siPacker_)
+siPacker = element (unsafeCoerce _siPacker)
 
-foreign import siPaddypower_ :: ReactIcon
+foreign import _siPaddypower :: ReactIcon
 
 siPaddypower :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPaddypower = element (unsafeCoerce siPaddypower_)
+siPaddypower = element (unsafeCoerce _siPaddypower)
 
-foreign import siPagekit_ :: ReactIcon
+foreign import _siPagekit :: ReactIcon
 
 siPagekit :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPagekit = element (unsafeCoerce siPagekit_)
+siPagekit = element (unsafeCoerce _siPagekit)
 
-foreign import siPagerduty_ :: ReactIcon
+foreign import _siPagerduty :: ReactIcon
 
 siPagerduty :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPagerduty = element (unsafeCoerce siPagerduty_)
+siPagerduty = element (unsafeCoerce _siPagerduty)
 
-foreign import siPagespeedinsights_ :: ReactIcon
+foreign import _siPagespeedinsights :: ReactIcon
 
 siPagespeedinsights :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPagespeedinsights = element (unsafeCoerce siPagespeedinsights_)
+siPagespeedinsights = element (unsafeCoerce _siPagespeedinsights)
 
-foreign import siPagseguro_ :: ReactIcon
+foreign import _siPagseguro :: ReactIcon
 
 siPagseguro :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPagseguro = element (unsafeCoerce siPagseguro_)
+siPagseguro = element (unsafeCoerce _siPagseguro)
 
-foreign import siPalantir_ :: ReactIcon
+foreign import _siPalantir :: ReactIcon
 
 siPalantir :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPalantir = element (unsafeCoerce siPalantir_)
+siPalantir = element (unsafeCoerce _siPalantir)
 
-foreign import siPaloaltosoftware_ :: ReactIcon
+foreign import _siPaloaltosoftware :: ReactIcon
 
 siPaloaltosoftware :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPaloaltosoftware = element (unsafeCoerce siPaloaltosoftware_)
+siPaloaltosoftware = element (unsafeCoerce _siPaloaltosoftware)
 
-foreign import siPandas_ :: ReactIcon
+foreign import _siPandas :: ReactIcon
 
 siPandas :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPandas = element (unsafeCoerce siPandas_)
+siPandas = element (unsafeCoerce _siPandas)
 
-foreign import siPandora_ :: ReactIcon
+foreign import _siPandora :: ReactIcon
 
 siPandora :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPandora = element (unsafeCoerce siPandora_)
+siPandora = element (unsafeCoerce _siPandora)
 
-foreign import siPantheon_ :: ReactIcon
+foreign import _siPantheon :: ReactIcon
 
 siPantheon :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPantheon = element (unsafeCoerce siPantheon_)
+siPantheon = element (unsafeCoerce _siPantheon)
 
-foreign import siParitysubstrate_ :: ReactIcon
+foreign import _siParitysubstrate :: ReactIcon
 
 siParitysubstrate :: forall a b. Union a b PropsIcon => Record a -> JSX
-siParitysubstrate = element (unsafeCoerce siParitysubstrate_)
+siParitysubstrate = element (unsafeCoerce _siParitysubstrate)
 
-foreign import siParsedotly_ :: ReactIcon
+foreign import _siParsedotly :: ReactIcon
 
 siParsedotly :: forall a b. Union a b PropsIcon => Record a -> JSX
-siParsedotly = element (unsafeCoerce siParsedotly_)
+siParsedotly = element (unsafeCoerce _siParsedotly)
 
-foreign import siPassport_ :: ReactIcon
+foreign import _siPassport :: ReactIcon
 
 siPassport :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPassport = element (unsafeCoerce siPassport_)
+siPassport = element (unsafeCoerce _siPassport)
 
-foreign import siPastebin_ :: ReactIcon
+foreign import _siPastebin :: ReactIcon
 
 siPastebin :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPastebin = element (unsafeCoerce siPastebin_)
+siPastebin = element (unsafeCoerce _siPastebin)
 
-foreign import siPatreon_ :: ReactIcon
+foreign import _siPatreon :: ReactIcon
 
 siPatreon :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPatreon = element (unsafeCoerce siPatreon_)
+siPatreon = element (unsafeCoerce _siPatreon)
 
-foreign import siPayoneer_ :: ReactIcon
+foreign import _siPayoneer :: ReactIcon
 
 siPayoneer :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPayoneer = element (unsafeCoerce siPayoneer_)
+siPayoneer = element (unsafeCoerce _siPayoneer)
 
-foreign import siPaypal_ :: ReactIcon
+foreign import _siPaypal :: ReactIcon
 
 siPaypal :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPaypal = element (unsafeCoerce siPaypal_)
+siPaypal = element (unsafeCoerce _siPaypal)
 
-foreign import siPaytm_ :: ReactIcon
+foreign import _siPaytm :: ReactIcon
 
 siPaytm :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPaytm = element (unsafeCoerce siPaytm_)
+siPaytm = element (unsafeCoerce _siPaytm)
 
-foreign import siPcgamingwiki_ :: ReactIcon
+foreign import _siPcgamingwiki :: ReactIcon
 
 siPcgamingwiki :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPcgamingwiki = element (unsafeCoerce siPcgamingwiki_)
+siPcgamingwiki = element (unsafeCoerce _siPcgamingwiki)
 
-foreign import siPeertube_ :: ReactIcon
+foreign import _siPeertube :: ReactIcon
 
 siPeertube :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPeertube = element (unsafeCoerce siPeertube_)
+siPeertube = element (unsafeCoerce _siPeertube)
 
-foreign import siPegasusairlines_ :: ReactIcon
+foreign import _siPegasusairlines :: ReactIcon
 
 siPegasusairlines :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPegasusairlines = element (unsafeCoerce siPegasusairlines_)
+siPegasusairlines = element (unsafeCoerce _siPegasusairlines)
 
-foreign import siPelican_ :: ReactIcon
+foreign import _siPelican :: ReactIcon
 
 siPelican :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPelican = element (unsafeCoerce siPelican_)
+siPelican = element (unsafeCoerce _siPelican)
 
-foreign import siPeloton_ :: ReactIcon
+foreign import _siPeloton :: ReactIcon
 
 siPeloton :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPeloton = element (unsafeCoerce siPeloton_)
+siPeloton = element (unsafeCoerce _siPeloton)
 
-foreign import siPepsi_ :: ReactIcon
+foreign import _siPepsi :: ReactIcon
 
 siPepsi :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPepsi = element (unsafeCoerce siPepsi_)
+siPepsi = element (unsafeCoerce _siPepsi)
 
-foreign import siPerforce_ :: ReactIcon
+foreign import _siPerforce :: ReactIcon
 
 siPerforce :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPerforce = element (unsafeCoerce siPerforce_)
+siPerforce = element (unsafeCoerce _siPerforce)
 
-foreign import siPerl_ :: ReactIcon
+foreign import _siPerl :: ReactIcon
 
 siPerl :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPerl = element (unsafeCoerce siPerl_)
+siPerl = element (unsafeCoerce _siPerl)
 
-foreign import siPeugeot_ :: ReactIcon
+foreign import _siPeugeot :: ReactIcon
 
 siPeugeot :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPeugeot = element (unsafeCoerce siPeugeot_)
+siPeugeot = element (unsafeCoerce _siPeugeot)
 
-foreign import siPexels_ :: ReactIcon
+foreign import _siPexels :: ReactIcon
 
 siPexels :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPexels = element (unsafeCoerce siPexels_)
+siPexels = element (unsafeCoerce _siPexels)
 
-foreign import siPfsense_ :: ReactIcon
+foreign import _siPfsense :: ReactIcon
 
 siPfsense :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPfsense = element (unsafeCoerce siPfsense_)
+siPfsense = element (unsafeCoerce _siPfsense)
 
-foreign import siPhabricator_ :: ReactIcon
+foreign import _siPhabricator :: ReactIcon
 
 siPhabricator :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPhabricator = element (unsafeCoerce siPhabricator_)
+siPhabricator = element (unsafeCoerce _siPhabricator)
 
-foreign import siPhilipshue_ :: ReactIcon
+foreign import _siPhilipshue :: ReactIcon
 
 siPhilipshue :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPhilipshue = element (unsafeCoerce siPhilipshue_)
+siPhilipshue = element (unsafeCoerce _siPhilipshue)
 
-foreign import siPhonepe_ :: ReactIcon
+foreign import _siPhonepe :: ReactIcon
 
 siPhonepe :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPhonepe = element (unsafeCoerce siPhonepe_)
+siPhonepe = element (unsafeCoerce _siPhonepe)
 
-foreign import siPhotobucket_ :: ReactIcon
+foreign import _siPhotobucket :: ReactIcon
 
 siPhotobucket :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPhotobucket = element (unsafeCoerce siPhotobucket_)
+siPhotobucket = element (unsafeCoerce _siPhotobucket)
 
-foreign import siPhotocrowd_ :: ReactIcon
+foreign import _siPhotocrowd :: ReactIcon
 
 siPhotocrowd :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPhotocrowd = element (unsafeCoerce siPhotocrowd_)
+siPhotocrowd = element (unsafeCoerce _siPhotocrowd)
 
-foreign import siPhotopea_ :: ReactIcon
+foreign import _siPhotopea :: ReactIcon
 
 siPhotopea :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPhotopea = element (unsafeCoerce siPhotopea_)
+siPhotopea = element (unsafeCoerce _siPhotopea)
 
-foreign import siPhp_ :: ReactIcon
+foreign import _siPhp :: ReactIcon
 
 siPhp :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPhp = element (unsafeCoerce siPhp_)
+siPhp = element (unsafeCoerce _siPhp)
 
-foreign import siPhpmyadmin_ :: ReactIcon
+foreign import _siPhpmyadmin :: ReactIcon
 
 siPhpmyadmin :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPhpmyadmin = element (unsafeCoerce siPhpmyadmin_)
+siPhpmyadmin = element (unsafeCoerce _siPhpmyadmin)
 
-foreign import siPhpstorm_ :: ReactIcon
+foreign import _siPhpstorm :: ReactIcon
 
 siPhpstorm :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPhpstorm = element (unsafeCoerce siPhpstorm_)
+siPhpstorm = element (unsafeCoerce _siPhpstorm)
 
-foreign import siPicartodottv_ :: ReactIcon
+foreign import _siPicartodottv :: ReactIcon
 
 siPicartodottv :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPicartodottv = element (unsafeCoerce siPicartodottv_)
+siPicartodottv = element (unsafeCoerce _siPicartodottv)
 
-foreign import siPicnic_ :: ReactIcon
+foreign import _siPicnic :: ReactIcon
 
 siPicnic :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPicnic = element (unsafeCoerce siPicnic_)
+siPicnic = element (unsafeCoerce _siPicnic)
 
-foreign import siPicpay_ :: ReactIcon
+foreign import _siPicpay :: ReactIcon
 
 siPicpay :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPicpay = element (unsafeCoerce siPicpay_)
+siPicpay = element (unsafeCoerce _siPicpay)
 
-foreign import siPihole_ :: ReactIcon
+foreign import _siPihole :: ReactIcon
 
 siPihole :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPihole = element (unsafeCoerce siPihole_)
+siPihole = element (unsafeCoerce _siPihole)
 
-foreign import siPimcore_ :: ReactIcon
+foreign import _siPimcore :: ReactIcon
 
 siPimcore :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPimcore = element (unsafeCoerce siPimcore_)
+siPimcore = element (unsafeCoerce _siPimcore)
 
-foreign import siPinboard_ :: ReactIcon
+foreign import _siPinboard :: ReactIcon
 
 siPinboard :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPinboard = element (unsafeCoerce siPinboard_)
+siPinboard = element (unsafeCoerce _siPinboard)
 
-foreign import siPingdom_ :: ReactIcon
+foreign import _siPingdom :: ReactIcon
 
 siPingdom :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPingdom = element (unsafeCoerce siPingdom_)
+siPingdom = element (unsafeCoerce _siPingdom)
 
-foreign import siPinterest_ :: ReactIcon
+foreign import _siPinterest :: ReactIcon
 
 siPinterest :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPinterest = element (unsafeCoerce siPinterest_)
+siPinterest = element (unsafeCoerce _siPinterest)
 
-foreign import siPioneerdj_ :: ReactIcon
+foreign import _siPioneerdj :: ReactIcon
 
 siPioneerdj :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPioneerdj = element (unsafeCoerce siPioneerdj_)
+siPioneerdj = element (unsafeCoerce _siPioneerdj)
 
-foreign import siPivotaltracker_ :: ReactIcon
+foreign import _siPivotaltracker :: ReactIcon
 
 siPivotaltracker :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPivotaltracker = element (unsafeCoerce siPivotaltracker_)
+siPivotaltracker = element (unsafeCoerce _siPivotaltracker)
 
-foreign import siPiwigo_ :: ReactIcon
+foreign import _siPiwigo :: ReactIcon
 
 siPiwigo :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPiwigo = element (unsafeCoerce siPiwigo_)
+siPiwigo = element (unsafeCoerce _siPiwigo)
 
-foreign import siPixabay_ :: ReactIcon
+foreign import _siPixabay :: ReactIcon
 
 siPixabay :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPixabay = element (unsafeCoerce siPixabay_)
+siPixabay = element (unsafeCoerce _siPixabay)
 
-foreign import siPixiv_ :: ReactIcon
+foreign import _siPixiv :: ReactIcon
 
 siPixiv :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPixiv = element (unsafeCoerce siPixiv_)
+siPixiv = element (unsafeCoerce _siPixiv)
 
-foreign import siPjsip_ :: ReactIcon
+foreign import _siPjsip :: ReactIcon
 
 siPjsip :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPjsip = element (unsafeCoerce siPjsip_)
+siPjsip = element (unsafeCoerce _siPjsip)
 
-foreign import siPlanet_ :: ReactIcon
+foreign import _siPlanet :: ReactIcon
 
 siPlanet :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPlanet = element (unsafeCoerce siPlanet_)
+siPlanet = element (unsafeCoerce _siPlanet)
 
-foreign import siPlangrid_ :: ReactIcon
+foreign import _siPlangrid :: ReactIcon
 
 siPlangrid :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPlangrid = element (unsafeCoerce siPlangrid_)
+siPlangrid = element (unsafeCoerce _siPlangrid)
 
-foreign import siPlatformdotsh_ :: ReactIcon
+foreign import _siPlatformdotsh :: ReactIcon
 
 siPlatformdotsh :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPlatformdotsh = element (unsafeCoerce siPlatformdotsh_)
+siPlatformdotsh = element (unsafeCoerce _siPlatformdotsh)
 
-foreign import siPlatzi_ :: ReactIcon
+foreign import _siPlatzi :: ReactIcon
 
 siPlatzi :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPlatzi = element (unsafeCoerce siPlatzi_)
+siPlatzi = element (unsafeCoerce _siPlatzi)
 
-foreign import siPlausibleanalytics_ :: ReactIcon
+foreign import _siPlausibleanalytics :: ReactIcon
 
 siPlausibleanalytics :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPlausibleanalytics = element (unsafeCoerce siPlausibleanalytics_)
+siPlausibleanalytics = element (unsafeCoerce _siPlausibleanalytics)
 
-foreign import siPlaycanvas_ :: ReactIcon
+foreign import _siPlaycanvas :: ReactIcon
 
 siPlaycanvas :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPlaycanvas = element (unsafeCoerce siPlaycanvas_)
+siPlaycanvas = element (unsafeCoerce _siPlaycanvas)
 
-foreign import siPlayerdotme_ :: ReactIcon
+foreign import _siPlayerdotme :: ReactIcon
 
 siPlayerdotme :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPlayerdotme = element (unsafeCoerce siPlayerdotme_)
+siPlayerdotme = element (unsafeCoerce _siPlayerdotme)
 
-foreign import siPlayerfm_ :: ReactIcon
+foreign import _siPlayerfm :: ReactIcon
 
 siPlayerfm :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPlayerfm = element (unsafeCoerce siPlayerfm_)
+siPlayerfm = element (unsafeCoerce _siPlayerfm)
 
-foreign import siPlaystation_ :: ReactIcon
+foreign import _siPlaystation :: ReactIcon
 
 siPlaystation :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPlaystation = element (unsafeCoerce siPlaystation_)
+siPlaystation = element (unsafeCoerce _siPlaystation)
 
-foreign import siPlaystationvita_ :: ReactIcon
+foreign import _siPlaystationvita :: ReactIcon
 
 siPlaystationvita :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPlaystationvita = element (unsafeCoerce siPlaystationvita_)
+siPlaystationvita = element (unsafeCoerce _siPlaystationvita)
 
-foreign import siPleroma_ :: ReactIcon
+foreign import _siPleroma :: ReactIcon
 
 siPleroma :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPleroma = element (unsafeCoerce siPleroma_)
+siPleroma = element (unsafeCoerce _siPleroma)
 
-foreign import siPlesk_ :: ReactIcon
+foreign import _siPlesk :: ReactIcon
 
 siPlesk :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPlesk = element (unsafeCoerce siPlesk_)
+siPlesk = element (unsafeCoerce _siPlesk)
 
-foreign import siPlex_ :: ReactIcon
+foreign import _siPlex :: ReactIcon
 
 siPlex :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPlex = element (unsafeCoerce siPlex_)
+siPlex = element (unsafeCoerce _siPlex)
 
-foreign import siPlotly_ :: ReactIcon
+foreign import _siPlotly :: ReactIcon
 
 siPlotly :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPlotly = element (unsafeCoerce siPlotly_)
+siPlotly = element (unsafeCoerce _siPlotly)
 
-foreign import siPluralsight_ :: ReactIcon
+foreign import _siPluralsight :: ReactIcon
 
 siPluralsight :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPluralsight = element (unsafeCoerce siPluralsight_)
+siPluralsight = element (unsafeCoerce _siPluralsight)
 
-foreign import siPlurk_ :: ReactIcon
+foreign import _siPlurk :: ReactIcon
 
 siPlurk :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPlurk = element (unsafeCoerce siPlurk_)
+siPlurk = element (unsafeCoerce _siPlurk)
 
-foreign import siPluscodes_ :: ReactIcon
+foreign import _siPluscodes :: ReactIcon
 
 siPluscodes :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPluscodes = element (unsafeCoerce siPluscodes_)
+siPluscodes = element (unsafeCoerce _siPluscodes)
 
-foreign import siPnpm_ :: ReactIcon
+foreign import _siPnpm :: ReactIcon
 
 siPnpm :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPnpm = element (unsafeCoerce siPnpm_)
+siPnpm = element (unsafeCoerce _siPnpm)
 
-foreign import siPocket_ :: ReactIcon
+foreign import _siPocket :: ReactIcon
 
 siPocket :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPocket = element (unsafeCoerce siPocket_)
+siPocket = element (unsafeCoerce _siPocket)
 
-foreign import siPocketcasts_ :: ReactIcon
+foreign import _siPocketcasts :: ReactIcon
 
 siPocketcasts :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPocketcasts = element (unsafeCoerce siPocketcasts_)
+siPocketcasts = element (unsafeCoerce _siPocketcasts)
 
-foreign import siPodcastaddict_ :: ReactIcon
+foreign import _siPodcastaddict :: ReactIcon
 
 siPodcastaddict :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPodcastaddict = element (unsafeCoerce siPodcastaddict_)
+siPodcastaddict = element (unsafeCoerce _siPodcastaddict)
 
-foreign import siPodman_ :: ReactIcon
+foreign import _siPodman :: ReactIcon
 
 siPodman :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPodman = element (unsafeCoerce siPodman_)
+siPodman = element (unsafeCoerce _siPodman)
 
-foreign import siPointy_ :: ReactIcon
+foreign import _siPointy :: ReactIcon
 
 siPointy :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPointy = element (unsafeCoerce siPointy_)
+siPointy = element (unsafeCoerce _siPointy)
 
-foreign import siPokemon_ :: ReactIcon
+foreign import _siPokemon :: ReactIcon
 
 siPokemon :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPokemon = element (unsafeCoerce siPokemon_)
+siPokemon = element (unsafeCoerce _siPokemon)
 
-foreign import siPoly_ :: ReactIcon
+foreign import _siPoly :: ReactIcon
 
 siPoly :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPoly = element (unsafeCoerce siPoly_)
+siPoly = element (unsafeCoerce _siPoly)
 
-foreign import siPolymerproject_ :: ReactIcon
+foreign import _siPolymerproject :: ReactIcon
 
 siPolymerproject :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPolymerproject = element (unsafeCoerce siPolymerproject_)
+siPolymerproject = element (unsafeCoerce _siPolymerproject)
 
-foreign import siPolywork_ :: ReactIcon
+foreign import _siPolywork :: ReactIcon
 
 siPolywork :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPolywork = element (unsafeCoerce siPolywork_)
+siPolywork = element (unsafeCoerce _siPolywork)
 
-foreign import siPopos_ :: ReactIcon
+foreign import _siPopos :: ReactIcon
 
 siPopos :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPopos = element (unsafeCoerce siPopos_)
+siPopos = element (unsafeCoerce _siPopos)
 
-foreign import siPorsche_ :: ReactIcon
+foreign import _siPorsche :: ReactIcon
 
 siPorsche :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPorsche = element (unsafeCoerce siPorsche_)
+siPorsche = element (unsafeCoerce _siPorsche)
 
-foreign import siPortainer_ :: ReactIcon
+foreign import _siPortainer :: ReactIcon
 
 siPortainer :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPortainer = element (unsafeCoerce siPortainer_)
+siPortainer = element (unsafeCoerce _siPortainer)
 
-foreign import siPostcss_ :: ReactIcon
+foreign import _siPostcss :: ReactIcon
 
 siPostcss :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPostcss = element (unsafeCoerce siPostcss_)
+siPostcss = element (unsafeCoerce _siPostcss)
 
-foreign import siPostgresql_ :: ReactIcon
+foreign import _siPostgresql :: ReactIcon
 
 siPostgresql :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPostgresql = element (unsafeCoerce siPostgresql_)
+siPostgresql = element (unsafeCoerce _siPostgresql)
 
-foreign import siPostman_ :: ReactIcon
+foreign import _siPostman :: ReactIcon
 
 siPostman :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPostman = element (unsafeCoerce siPostman_)
+siPostman = element (unsafeCoerce _siPostman)
 
-foreign import siPostmates_ :: ReactIcon
+foreign import _siPostmates :: ReactIcon
 
 siPostmates :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPostmates = element (unsafeCoerce siPostmates_)
+siPostmates = element (unsafeCoerce _siPostmates)
 
-foreign import siPowerbi_ :: ReactIcon
+foreign import _siPowerbi :: ReactIcon
 
 siPowerbi :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPowerbi = element (unsafeCoerce siPowerbi_)
+siPowerbi = element (unsafeCoerce _siPowerbi)
 
-foreign import siPowers_ :: ReactIcon
+foreign import _siPowers :: ReactIcon
 
 siPowers :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPowers = element (unsafeCoerce siPowers_)
+siPowers = element (unsafeCoerce _siPowers)
 
-foreign import siPowershell_ :: ReactIcon
+foreign import _siPowershell :: ReactIcon
 
 siPowershell :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPowershell = element (unsafeCoerce siPowershell_)
+siPowershell = element (unsafeCoerce _siPowershell)
 
-foreign import siPrdotco_ :: ReactIcon
+foreign import _siPrdotco :: ReactIcon
 
 siPrdotco :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPrdotco = element (unsafeCoerce siPrdotco_)
+siPrdotco = element (unsafeCoerce _siPrdotco)
 
-foreign import siPrecommit_ :: ReactIcon
+foreign import _siPrecommit :: ReactIcon
 
 siPrecommit :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPrecommit = element (unsafeCoerce siPrecommit_)
+siPrecommit = element (unsafeCoerce _siPrecommit)
 
-foreign import siPremierleague_ :: ReactIcon
+foreign import _siPremierleague :: ReactIcon
 
 siPremierleague :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPremierleague = element (unsafeCoerce siPremierleague_)
+siPremierleague = element (unsafeCoerce _siPremierleague)
 
-foreign import siPrestashop_ :: ReactIcon
+foreign import _siPrestashop :: ReactIcon
 
 siPrestashop :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPrestashop = element (unsafeCoerce siPrestashop_)
+siPrestashop = element (unsafeCoerce _siPrestashop)
 
-foreign import siPresto_ :: ReactIcon
+foreign import _siPresto :: ReactIcon
 
 siPresto :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPresto = element (unsafeCoerce siPresto_)
+siPresto = element (unsafeCoerce _siPresto)
 
-foreign import siPrettier_ :: ReactIcon
+foreign import _siPrettier :: ReactIcon
 
 siPrettier :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPrettier = element (unsafeCoerce siPrettier_)
+siPrettier = element (unsafeCoerce _siPrettier)
 
-foreign import siPrezi_ :: ReactIcon
+foreign import _siPrezi :: ReactIcon
 
 siPrezi :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPrezi = element (unsafeCoerce siPrezi_)
+siPrezi = element (unsafeCoerce _siPrezi)
 
-foreign import siPrime_ :: ReactIcon
+foreign import _siPrime :: ReactIcon
 
 siPrime :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPrime = element (unsafeCoerce siPrime_)
+siPrime = element (unsafeCoerce _siPrime)
 
-foreign import siPrimevideo_ :: ReactIcon
+foreign import _siPrimevideo :: ReactIcon
 
 siPrimevideo :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPrimevideo = element (unsafeCoerce siPrimevideo_)
+siPrimevideo = element (unsafeCoerce _siPrimevideo)
 
-foreign import siPrisma_ :: ReactIcon
+foreign import _siPrisma :: ReactIcon
 
 siPrisma :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPrisma = element (unsafeCoerce siPrisma_)
+siPrisma = element (unsafeCoerce _siPrisma)
 
-foreign import siPrismic_ :: ReactIcon
+foreign import _siPrismic :: ReactIcon
 
 siPrismic :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPrismic = element (unsafeCoerce siPrismic_)
+siPrismic = element (unsafeCoerce _siPrismic)
 
-foreign import siPrivateinternetaccess_ :: ReactIcon
+foreign import _siPrivateinternetaccess :: ReactIcon
 
 siPrivateinternetaccess :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPrivateinternetaccess = element (unsafeCoerce siPrivateinternetaccess_)
+siPrivateinternetaccess = element (unsafeCoerce _siPrivateinternetaccess)
 
-foreign import siProbot_ :: ReactIcon
+foreign import _siProbot :: ReactIcon
 
 siProbot :: forall a b. Union a b PropsIcon => Record a -> JSX
-siProbot = element (unsafeCoerce siProbot_)
+siProbot = element (unsafeCoerce _siProbot)
 
-foreign import siProcessingfoundation_ :: ReactIcon
+foreign import _siProcessingfoundation :: ReactIcon
 
 siProcessingfoundation :: forall a b. Union a b PropsIcon => Record a -> JSX
-siProcessingfoundation = element (unsafeCoerce siProcessingfoundation_)
+siProcessingfoundation = element (unsafeCoerce _siProcessingfoundation)
 
-foreign import siProcesswire_ :: ReactIcon
+foreign import _siProcesswire :: ReactIcon
 
 siProcesswire :: forall a b. Union a b PropsIcon => Record a -> JSX
-siProcesswire = element (unsafeCoerce siProcesswire_)
+siProcesswire = element (unsafeCoerce _siProcesswire)
 
-foreign import siProducthunt_ :: ReactIcon
+foreign import _siProducthunt :: ReactIcon
 
 siProducthunt :: forall a b. Union a b PropsIcon => Record a -> JSX
-siProducthunt = element (unsafeCoerce siProducthunt_)
+siProducthunt = element (unsafeCoerce _siProducthunt)
 
-foreign import siProgate_ :: ReactIcon
+foreign import _siProgate :: ReactIcon
 
 siProgate :: forall a b. Union a b PropsIcon => Record a -> JSX
-siProgate = element (unsafeCoerce siProgate_)
+siProgate = element (unsafeCoerce _siProgate)
 
-foreign import siProgress_ :: ReactIcon
+foreign import _siProgress :: ReactIcon
 
 siProgress :: forall a b. Union a b PropsIcon => Record a -> JSX
-siProgress = element (unsafeCoerce siProgress_)
+siProgress = element (unsafeCoerce _siProgress)
 
-foreign import siPrometheus_ :: ReactIcon
+foreign import _siPrometheus :: ReactIcon
 
 siPrometheus :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPrometheus = element (unsafeCoerce siPrometheus_)
+siPrometheus = element (unsafeCoerce _siPrometheus)
 
-foreign import siProsieben_ :: ReactIcon
+foreign import _siProsieben :: ReactIcon
 
 siProsieben :: forall a b. Union a b PropsIcon => Record a -> JSX
-siProsieben = element (unsafeCoerce siProsieben_)
+siProsieben = element (unsafeCoerce _siProsieben)
 
-foreign import siProtocolsdotio_ :: ReactIcon
+foreign import _siProtocolsdotio :: ReactIcon
 
 siProtocolsdotio :: forall a b. Union a b PropsIcon => Record a -> JSX
-siProtocolsdotio = element (unsafeCoerce siProtocolsdotio_)
+siProtocolsdotio = element (unsafeCoerce _siProtocolsdotio)
 
-foreign import siProtodotio_ :: ReactIcon
+foreign import _siProtodotio :: ReactIcon
 
 siProtodotio :: forall a b. Union a b PropsIcon => Record a -> JSX
-siProtodotio = element (unsafeCoerce siProtodotio_)
+siProtodotio = element (unsafeCoerce _siProtodotio)
 
-foreign import siProtondb_ :: ReactIcon
+foreign import _siProtondb :: ReactIcon
 
 siProtondb :: forall a b. Union a b PropsIcon => Record a -> JSX
-siProtondb = element (unsafeCoerce siProtondb_)
+siProtondb = element (unsafeCoerce _siProtondb)
 
-foreign import siProtonmail_ :: ReactIcon
+foreign import _siProtonmail :: ReactIcon
 
 siProtonmail :: forall a b. Union a b PropsIcon => Record a -> JSX
-siProtonmail = element (unsafeCoerce siProtonmail_)
+siProtonmail = element (unsafeCoerce _siProtonmail)
 
-foreign import siProtonvpn_ :: ReactIcon
+foreign import _siProtonvpn :: ReactIcon
 
 siProtonvpn :: forall a b. Union a b PropsIcon => Record a -> JSX
-siProtonvpn = element (unsafeCoerce siProtonvpn_)
+siProtonvpn = element (unsafeCoerce _siProtonvpn)
 
-foreign import siProtools_ :: ReactIcon
+foreign import _siProtools :: ReactIcon
 
 siProtools :: forall a b. Union a b PropsIcon => Record a -> JSX
-siProtools = element (unsafeCoerce siProtools_)
+siProtools = element (unsafeCoerce _siProtools)
 
-foreign import siProtractor_ :: ReactIcon
+foreign import _siProtractor :: ReactIcon
 
 siProtractor :: forall a b. Union a b PropsIcon => Record a -> JSX
-siProtractor = element (unsafeCoerce siProtractor_)
+siProtractor = element (unsafeCoerce _siProtractor)
 
-foreign import siProxmox_ :: ReactIcon
+foreign import _siProxmox :: ReactIcon
 
 siProxmox :: forall a b. Union a b PropsIcon => Record a -> JSX
-siProxmox = element (unsafeCoerce siProxmox_)
+siProxmox = element (unsafeCoerce _siProxmox)
 
-foreign import siPublons_ :: ReactIcon
+foreign import _siPublons :: ReactIcon
 
 siPublons :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPublons = element (unsafeCoerce siPublons_)
+siPublons = element (unsafeCoerce _siPublons)
 
-foreign import siPubmed_ :: ReactIcon
+foreign import _siPubmed :: ReactIcon
 
 siPubmed :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPubmed = element (unsafeCoerce siPubmed_)
+siPubmed = element (unsafeCoerce _siPubmed)
 
-foreign import siPug_ :: ReactIcon
+foreign import _siPug :: ReactIcon
 
 siPug :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPug = element (unsafeCoerce siPug_)
+siPug = element (unsafeCoerce _siPug)
 
-foreign import siPulumi_ :: ReactIcon
+foreign import _siPulumi :: ReactIcon
 
 siPulumi :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPulumi = element (unsafeCoerce siPulumi_)
+siPulumi = element (unsafeCoerce _siPulumi)
 
-foreign import siPuma_ :: ReactIcon
+foreign import _siPuma :: ReactIcon
 
 siPuma :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPuma = element (unsafeCoerce siPuma_)
+siPuma = element (unsafeCoerce _siPuma)
 
-foreign import siPuppet_ :: ReactIcon
+foreign import _siPuppet :: ReactIcon
 
 siPuppet :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPuppet = element (unsafeCoerce siPuppet_)
+siPuppet = element (unsafeCoerce _siPuppet)
 
-foreign import siPuppeteer_ :: ReactIcon
+foreign import _siPuppeteer :: ReactIcon
 
 siPuppeteer :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPuppeteer = element (unsafeCoerce siPuppeteer_)
+siPuppeteer = element (unsafeCoerce _siPuppeteer)
 
-foreign import siPurescript_ :: ReactIcon
+foreign import _siPurescript :: ReactIcon
 
 siPurescript :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPurescript = element (unsafeCoerce siPurescript_)
+siPurescript = element (unsafeCoerce _siPurescript)
 
-foreign import siPurgecss_ :: ReactIcon
+foreign import _siPurgecss :: ReactIcon
 
 siPurgecss :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPurgecss = element (unsafeCoerce siPurgecss_)
+siPurgecss = element (unsafeCoerce _siPurgecss)
 
-foreign import siPurism_ :: ReactIcon
+foreign import _siPurism :: ReactIcon
 
 siPurism :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPurism = element (unsafeCoerce siPurism_)
+siPurism = element (unsafeCoerce _siPurism)
 
-foreign import siPusher_ :: ReactIcon
+foreign import _siPusher :: ReactIcon
 
 siPusher :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPusher = element (unsafeCoerce siPusher_)
+siPusher = element (unsafeCoerce _siPusher)
 
-foreign import siPwa_ :: ReactIcon
+foreign import _siPwa :: ReactIcon
 
 siPwa :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPwa = element (unsafeCoerce siPwa_)
+siPwa = element (unsafeCoerce _siPwa)
 
-foreign import siPycharm_ :: ReactIcon
+foreign import _siPycharm :: ReactIcon
 
 siPycharm :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPycharm = element (unsafeCoerce siPycharm_)
+siPycharm = element (unsafeCoerce _siPycharm)
 
-foreign import siPypi_ :: ReactIcon
+foreign import _siPypi :: ReactIcon
 
 siPypi :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPypi = element (unsafeCoerce siPypi_)
+siPypi = element (unsafeCoerce _siPypi)
 
-foreign import siPypy_ :: ReactIcon
+foreign import _siPypy :: ReactIcon
 
 siPypy :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPypy = element (unsafeCoerce siPypy_)
+siPypy = element (unsafeCoerce _siPypy)
 
-foreign import siPyscaffold_ :: ReactIcon
+foreign import _siPyscaffold :: ReactIcon
 
 siPyscaffold :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPyscaffold = element (unsafeCoerce siPyscaffold_)
+siPyscaffold = element (unsafeCoerce _siPyscaffold)
 
-foreign import siPytest_ :: ReactIcon
+foreign import _siPytest :: ReactIcon
 
 siPytest :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPytest = element (unsafeCoerce siPytest_)
+siPytest = element (unsafeCoerce _siPytest)
 
-foreign import siPython_ :: ReactIcon
+foreign import _siPython :: ReactIcon
 
 siPython :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPython = element (unsafeCoerce siPython_)
+siPython = element (unsafeCoerce _siPython)
 
-foreign import siPytorch_ :: ReactIcon
+foreign import _siPytorch :: ReactIcon
 
 siPytorch :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPytorch = element (unsafeCoerce siPytorch_)
+siPytorch = element (unsafeCoerce _siPytorch)
 
-foreign import siPytorchlightning_ :: ReactIcon
+foreign import _siPytorchlightning :: ReactIcon
 
 siPytorchlightning :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPytorchlightning = element (unsafeCoerce siPytorchlightning_)
+siPytorchlightning = element (unsafeCoerce _siPytorchlightning)
 
-foreign import siPyup_ :: ReactIcon
+foreign import _siPyup :: ReactIcon
 
 siPyup :: forall a b. Union a b PropsIcon => Record a -> JSX
-siPyup = element (unsafeCoerce siPyup_)
+siPyup = element (unsafeCoerce _siPyup)
 
-foreign import siQantas_ :: ReactIcon
+foreign import _siQantas :: ReactIcon
 
 siQantas :: forall a b. Union a b PropsIcon => Record a -> JSX
-siQantas = element (unsafeCoerce siQantas_)
+siQantas = element (unsafeCoerce _siQantas)
 
-foreign import siQatarairways_ :: ReactIcon
+foreign import _siQatarairways :: ReactIcon
 
 siQatarairways :: forall a b. Union a b PropsIcon => Record a -> JSX
-siQatarairways = element (unsafeCoerce siQatarairways_)
+siQatarairways = element (unsafeCoerce _siQatarairways)
 
-foreign import siQemu_ :: ReactIcon
+foreign import _siQemu :: ReactIcon
 
 siQemu :: forall a b. Union a b PropsIcon => Record a -> JSX
-siQemu = element (unsafeCoerce siQemu_)
+siQemu = element (unsafeCoerce _siQemu)
 
-foreign import siQgis_ :: ReactIcon
+foreign import _siQgis :: ReactIcon
 
 siQgis :: forall a b. Union a b PropsIcon => Record a -> JSX
-siQgis = element (unsafeCoerce siQgis_)
+siQgis = element (unsafeCoerce _siQgis)
 
-foreign import siQi_ :: ReactIcon
+foreign import _siQi :: ReactIcon
 
 siQi :: forall a b. Union a b PropsIcon => Record a -> JSX
-siQi = element (unsafeCoerce siQi_)
+siQi = element (unsafeCoerce _siQi)
 
-foreign import siQiita_ :: ReactIcon
+foreign import _siQiita :: ReactIcon
 
 siQiita :: forall a b. Union a b PropsIcon => Record a -> JSX
-siQiita = element (unsafeCoerce siQiita_)
+siQiita = element (unsafeCoerce _siQiita)
 
-foreign import siQiskit_ :: ReactIcon
+foreign import _siQiskit :: ReactIcon
 
 siQiskit :: forall a b. Union a b PropsIcon => Record a -> JSX
-siQiskit = element (unsafeCoerce siQiskit_)
+siQiskit = element (unsafeCoerce _siQiskit)
 
-foreign import siQiwi_ :: ReactIcon
+foreign import _siQiwi :: ReactIcon
 
 siQiwi :: forall a b. Union a b PropsIcon => Record a -> JSX
-siQiwi = element (unsafeCoerce siQiwi_)
+siQiwi = element (unsafeCoerce _siQiwi)
 
-foreign import siQt_ :: ReactIcon
+foreign import _siQt :: ReactIcon
 
 siQt :: forall a b. Union a b PropsIcon => Record a -> JSX
-siQt = element (unsafeCoerce siQt_)
+siQt = element (unsafeCoerce _siQt)
 
-foreign import siQualcomm_ :: ReactIcon
+foreign import _siQualcomm :: ReactIcon
 
 siQualcomm :: forall a b. Union a b PropsIcon => Record a -> JSX
-siQualcomm = element (unsafeCoerce siQualcomm_)
+siQualcomm = element (unsafeCoerce _siQualcomm)
 
-foreign import siQualtrics_ :: ReactIcon
+foreign import _siQualtrics :: ReactIcon
 
 siQualtrics :: forall a b. Union a b PropsIcon => Record a -> JSX
-siQualtrics = element (unsafeCoerce siQualtrics_)
+siQualtrics = element (unsafeCoerce _siQualtrics)
 
-foreign import siQuantcast_ :: ReactIcon
+foreign import _siQuantcast :: ReactIcon
 
 siQuantcast :: forall a b. Union a b PropsIcon => Record a -> JSX
-siQuantcast = element (unsafeCoerce siQuantcast_)
+siQuantcast = element (unsafeCoerce _siQuantcast)
 
-foreign import siQuantconnect_ :: ReactIcon
+foreign import _siQuantconnect :: ReactIcon
 
 siQuantconnect :: forall a b. Union a b PropsIcon => Record a -> JSX
-siQuantconnect = element (unsafeCoerce siQuantconnect_)
+siQuantconnect = element (unsafeCoerce _siQuantconnect)
 
-foreign import siQuarkus_ :: ReactIcon
+foreign import _siQuarkus :: ReactIcon
 
 siQuarkus :: forall a b. Union a b PropsIcon => Record a -> JSX
-siQuarkus = element (unsafeCoerce siQuarkus_)
+siQuarkus = element (unsafeCoerce _siQuarkus)
 
-foreign import siQuasar_ :: ReactIcon
+foreign import _siQuasar :: ReactIcon
 
 siQuasar :: forall a b. Union a b PropsIcon => Record a -> JSX
-siQuasar = element (unsafeCoerce siQuasar_)
+siQuasar = element (unsafeCoerce _siQuasar)
 
-foreign import siQubesos_ :: ReactIcon
+foreign import _siQubesos :: ReactIcon
 
 siQubesos :: forall a b. Union a b PropsIcon => Record a -> JSX
-siQubesos = element (unsafeCoerce siQubesos_)
+siQubesos = element (unsafeCoerce _siQubesos)
 
-foreign import siQuest_ :: ReactIcon
+foreign import _siQuest :: ReactIcon
 
 siQuest :: forall a b. Union a b PropsIcon => Record a -> JSX
-siQuest = element (unsafeCoerce siQuest_)
+siQuest = element (unsafeCoerce _siQuest)
 
-foreign import siQuickbooks_ :: ReactIcon
+foreign import _siQuickbooks :: ReactIcon
 
 siQuickbooks :: forall a b. Union a b PropsIcon => Record a -> JSX
-siQuickbooks = element (unsafeCoerce siQuickbooks_)
+siQuickbooks = element (unsafeCoerce _siQuickbooks)
 
-foreign import siQuicktime_ :: ReactIcon
+foreign import _siQuicktime :: ReactIcon
 
 siQuicktime :: forall a b. Union a b PropsIcon => Record a -> JSX
-siQuicktime = element (unsafeCoerce siQuicktime_)
+siQuicktime = element (unsafeCoerce _siQuicktime)
 
-foreign import siQuip_ :: ReactIcon
+foreign import _siQuip :: ReactIcon
 
 siQuip :: forall a b. Union a b PropsIcon => Record a -> JSX
-siQuip = element (unsafeCoerce siQuip_)
+siQuip = element (unsafeCoerce _siQuip)
 
-foreign import siQuora_ :: ReactIcon
+foreign import _siQuora :: ReactIcon
 
 siQuora :: forall a b. Union a b PropsIcon => Record a -> JSX
-siQuora = element (unsafeCoerce siQuora_)
+siQuora = element (unsafeCoerce _siQuora)
 
-foreign import siQwiklabs_ :: ReactIcon
+foreign import _siQwiklabs :: ReactIcon
 
 siQwiklabs :: forall a b. Union a b PropsIcon => Record a -> JSX
-siQwiklabs = element (unsafeCoerce siQwiklabs_)
+siQwiklabs = element (unsafeCoerce _siQwiklabs)
 
-foreign import siQzone_ :: ReactIcon
+foreign import _siQzone :: ReactIcon
 
 siQzone :: forall a b. Union a b PropsIcon => Record a -> JSX
-siQzone = element (unsafeCoerce siQzone_)
+siQzone = element (unsafeCoerce _siQzone)
 
-foreign import siR_ :: ReactIcon
+foreign import _siR :: ReactIcon
 
 siR :: forall a b. Union a b PropsIcon => Record a -> JSX
-siR = element (unsafeCoerce siR_)
+siR = element (unsafeCoerce _siR)
 
-foreign import siRabbitmq_ :: ReactIcon
+foreign import _siRabbitmq :: ReactIcon
 
 siRabbitmq :: forall a b. Union a b PropsIcon => Record a -> JSX
-siRabbitmq = element (unsafeCoerce siRabbitmq_)
+siRabbitmq = element (unsafeCoerce _siRabbitmq)
 
-foreign import siRacket_ :: ReactIcon
+foreign import _siRacket :: ReactIcon
 
 siRacket :: forall a b. Union a b PropsIcon => Record a -> JSX
-siRacket = element (unsafeCoerce siRacket_)
+siRacket = element (unsafeCoerce _siRacket)
 
-foreign import siRadar_ :: ReactIcon
+foreign import _siRadar :: ReactIcon
 
 siRadar :: forall a b. Union a b PropsIcon => Record a -> JSX
-siRadar = element (unsafeCoerce siRadar_)
+siRadar = element (unsafeCoerce _siRadar)
 
-foreign import siRadiopublic_ :: ReactIcon
+foreign import _siRadiopublic :: ReactIcon
 
 siRadiopublic :: forall a b. Union a b PropsIcon => Record a -> JSX
-siRadiopublic = element (unsafeCoerce siRadiopublic_)
+siRadiopublic = element (unsafeCoerce _siRadiopublic)
 
-foreign import siRailway_ :: ReactIcon
+foreign import _siRailway :: ReactIcon
 
 siRailway :: forall a b. Union a b PropsIcon => Record a -> JSX
-siRailway = element (unsafeCoerce siRailway_)
+siRailway = element (unsafeCoerce _siRailway)
 
-foreign import siRainmeter_ :: ReactIcon
+foreign import _siRainmeter :: ReactIcon
 
 siRainmeter :: forall a b. Union a b PropsIcon => Record a -> JSX
-siRainmeter = element (unsafeCoerce siRainmeter_)
+siRainmeter = element (unsafeCoerce _siRainmeter)
 
-foreign import siRakuten_ :: ReactIcon
+foreign import _siRakuten :: ReactIcon
 
 siRakuten :: forall a b. Union a b PropsIcon => Record a -> JSX
-siRakuten = element (unsafeCoerce siRakuten_)
+siRakuten = element (unsafeCoerce _siRakuten)
 
-foreign import siRam_ :: ReactIcon
+foreign import _siRam :: ReactIcon
 
 siRam :: forall a b. Union a b PropsIcon => Record a -> JSX
-siRam = element (unsafeCoerce siRam_)
+siRam = element (unsafeCoerce _siRam)
 
-foreign import siRancher_ :: ReactIcon
+foreign import _siRancher :: ReactIcon
 
 siRancher :: forall a b. Union a b PropsIcon => Record a -> JSX
-siRancher = element (unsafeCoerce siRancher_)
+siRancher = element (unsafeCoerce _siRancher)
 
-foreign import siRaspberrypi_ :: ReactIcon
+foreign import _siRaspberrypi :: ReactIcon
 
 siRaspberrypi :: forall a b. Union a b PropsIcon => Record a -> JSX
-siRaspberrypi = element (unsafeCoerce siRaspberrypi_)
+siRaspberrypi = element (unsafeCoerce _siRaspberrypi)
 
-foreign import siRazer_ :: ReactIcon
+foreign import _siRazer :: ReactIcon
 
 siRazer :: forall a b. Union a b PropsIcon => Record a -> JSX
-siRazer = element (unsafeCoerce siRazer_)
+siRazer = element (unsafeCoerce _siRazer)
 
-foreign import siRazorpay_ :: ReactIcon
+foreign import _siRazorpay :: ReactIcon
 
 siRazorpay :: forall a b. Union a b PropsIcon => Record a -> JSX
-siRazorpay = element (unsafeCoerce siRazorpay_)
+siRazorpay = element (unsafeCoerce _siRazorpay)
 
-foreign import siReact_ :: ReactIcon
+foreign import _siReact :: ReactIcon
 
 siReact :: forall a b. Union a b PropsIcon => Record a -> JSX
-siReact = element (unsafeCoerce siReact_)
+siReact = element (unsafeCoerce _siReact)
 
-foreign import siReactivex_ :: ReactIcon
+foreign import _siReactivex :: ReactIcon
 
 siReactivex :: forall a b. Union a b PropsIcon => Record a -> JSX
-siReactivex = element (unsafeCoerce siReactivex_)
+siReactivex = element (unsafeCoerce _siReactivex)
 
-foreign import siReactos_ :: ReactIcon
+foreign import _siReactos :: ReactIcon
 
 siReactos :: forall a b. Union a b PropsIcon => Record a -> JSX
-siReactos = element (unsafeCoerce siReactos_)
+siReactos = element (unsafeCoerce _siReactos)
 
-foreign import siReactrouter_ :: ReactIcon
+foreign import _siReactrouter :: ReactIcon
 
 siReactrouter :: forall a b. Union a b PropsIcon => Record a -> JSX
-siReactrouter = element (unsafeCoerce siReactrouter_)
+siReactrouter = element (unsafeCoerce _siReactrouter)
 
-foreign import siReacttable_ :: ReactIcon
+foreign import _siReacttable :: ReactIcon
 
 siReacttable :: forall a b. Union a b PropsIcon => Record a -> JSX
-siReacttable = element (unsafeCoerce siReacttable_)
+siReacttable = element (unsafeCoerce _siReacttable)
 
-foreign import siReadthedocs_ :: ReactIcon
+foreign import _siReadthedocs :: ReactIcon
 
 siReadthedocs :: forall a b. Union a b PropsIcon => Record a -> JSX
-siReadthedocs = element (unsafeCoerce siReadthedocs_)
+siReadthedocs = element (unsafeCoerce _siReadthedocs)
 
-foreign import siRealm_ :: ReactIcon
+foreign import _siRealm :: ReactIcon
 
 siRealm :: forall a b. Union a b PropsIcon => Record a -> JSX
-siRealm = element (unsafeCoerce siRealm_)
+siRealm = element (unsafeCoerce _siRealm)
 
-foreign import siReason_ :: ReactIcon
+foreign import _siReason :: ReactIcon
 
 siReason :: forall a b. Union a b PropsIcon => Record a -> JSX
-siReason = element (unsafeCoerce siReason_)
+siReason = element (unsafeCoerce _siReason)
 
-foreign import siReasonstudios_ :: ReactIcon
+foreign import _siReasonstudios :: ReactIcon
 
 siReasonstudios :: forall a b. Union a b PropsIcon => Record a -> JSX
-siReasonstudios = element (unsafeCoerce siReasonstudios_)
+siReasonstudios = element (unsafeCoerce _siReasonstudios)
 
-foreign import siRedbubble_ :: ReactIcon
+foreign import _siRedbubble :: ReactIcon
 
 siRedbubble :: forall a b. Union a b PropsIcon => Record a -> JSX
-siRedbubble = element (unsafeCoerce siRedbubble_)
+siRedbubble = element (unsafeCoerce _siRedbubble)
 
-foreign import siReddit_ :: ReactIcon
+foreign import _siReddit :: ReactIcon
 
 siReddit :: forall a b. Union a b PropsIcon => Record a -> JSX
-siReddit = element (unsafeCoerce siReddit_)
+siReddit = element (unsafeCoerce _siReddit)
 
-foreign import siRedhat_ :: ReactIcon
+foreign import _siRedhat :: ReactIcon
 
 siRedhat :: forall a b. Union a b PropsIcon => Record a -> JSX
-siRedhat = element (unsafeCoerce siRedhat_)
+siRedhat = element (unsafeCoerce _siRedhat)
 
-foreign import siRedhatopenshift_ :: ReactIcon
+foreign import _siRedhatopenshift :: ReactIcon
 
 siRedhatopenshift :: forall a b. Union a b PropsIcon => Record a -> JSX
-siRedhatopenshift = element (unsafeCoerce siRedhatopenshift_)
+siRedhatopenshift = element (unsafeCoerce _siRedhatopenshift)
 
-foreign import siRedis_ :: ReactIcon
+foreign import _siRedis :: ReactIcon
 
 siRedis :: forall a b. Union a b PropsIcon => Record a -> JSX
-siRedis = element (unsafeCoerce siRedis_)
+siRedis = element (unsafeCoerce _siRedis)
 
-foreign import siRedux_ :: ReactIcon
+foreign import _siRedux :: ReactIcon
 
 siRedux :: forall a b. Union a b PropsIcon => Record a -> JSX
-siRedux = element (unsafeCoerce siRedux_)
+siRedux = element (unsafeCoerce _siRedux)
 
-foreign import siReduxsaga_ :: ReactIcon
+foreign import _siReduxsaga :: ReactIcon
 
 siReduxsaga :: forall a b. Union a b PropsIcon => Record a -> JSX
-siReduxsaga = element (unsafeCoerce siReduxsaga_)
+siReduxsaga = element (unsafeCoerce _siReduxsaga)
 
-foreign import siRedwoodjs_ :: ReactIcon
+foreign import _siRedwoodjs :: ReactIcon
 
 siRedwoodjs :: forall a b. Union a b PropsIcon => Record a -> JSX
-siRedwoodjs = element (unsafeCoerce siRedwoodjs_)
+siRedwoodjs = element (unsafeCoerce _siRedwoodjs)
 
-foreign import siReebok_ :: ReactIcon
+foreign import _siReebok :: ReactIcon
 
 siReebok :: forall a b. Union a b PropsIcon => Record a -> JSX
-siReebok = element (unsafeCoerce siReebok_)
+siReebok = element (unsafeCoerce _siReebok)
 
-foreign import siRelianceindustrieslimited_ :: ReactIcon
+foreign import _siRelianceindustrieslimited :: ReactIcon
 
 siRelianceindustrieslimited :: forall a b. Union a b PropsIcon => Record a -> JSX
-siRelianceindustrieslimited = element (unsafeCoerce siRelianceindustrieslimited_)
+siRelianceindustrieslimited = element (unsafeCoerce _siRelianceindustrieslimited)
 
-foreign import siRenault_ :: ReactIcon
+foreign import _siRenault :: ReactIcon
 
 siRenault :: forall a b. Union a b PropsIcon => Record a -> JSX
-siRenault = element (unsafeCoerce siRenault_)
+siRenault = element (unsafeCoerce _siRenault)
 
-foreign import siRenovatebot_ :: ReactIcon
+foreign import _siRenovatebot :: ReactIcon
 
 siRenovatebot :: forall a b. Union a b PropsIcon => Record a -> JSX
-siRenovatebot = element (unsafeCoerce siRenovatebot_)
+siRenovatebot = element (unsafeCoerce _siRenovatebot)
 
-foreign import siRenpy_ :: ReactIcon
+foreign import _siRenpy :: ReactIcon
 
 siRenpy :: forall a b. Union a b PropsIcon => Record a -> JSX
-siRenpy = element (unsafeCoerce siRenpy_)
+siRenpy = element (unsafeCoerce _siRenpy)
 
-foreign import siRenren_ :: ReactIcon
+foreign import _siRenren :: ReactIcon
 
 siRenren :: forall a b. Union a b PropsIcon => Record a -> JSX
-siRenren = element (unsafeCoerce siRenren_)
+siRenren = element (unsafeCoerce _siRenren)
 
-foreign import siReplit_ :: ReactIcon
+foreign import _siReplit :: ReactIcon
 
 siReplit :: forall a b. Union a b PropsIcon => Record a -> JSX
-siReplit = element (unsafeCoerce siReplit_)
+siReplit = element (unsafeCoerce _siReplit)
 
-foreign import siResearchgate_ :: ReactIcon
+foreign import _siResearchgate :: ReactIcon
 
 siResearchgate :: forall a b. Union a b PropsIcon => Record a -> JSX
-siResearchgate = element (unsafeCoerce siResearchgate_)
+siResearchgate = element (unsafeCoerce _siResearchgate)
 
-foreign import siResurrectionremixos_ :: ReactIcon
+foreign import _siResurrectionremixos :: ReactIcon
 
 siResurrectionremixos :: forall a b. Union a b PropsIcon => Record a -> JSX
-siResurrectionremixos = element (unsafeCoerce siResurrectionremixos_)
+siResurrectionremixos = element (unsafeCoerce _siResurrectionremixos)
 
-foreign import siRetroarch_ :: ReactIcon
+foreign import _siRetroarch :: ReactIcon
 
 siRetroarch :: forall a b. Union a b PropsIcon => Record a -> JSX
-siRetroarch = element (unsafeCoerce siRetroarch_)
+siRetroarch = element (unsafeCoerce _siRetroarch)
 
-foreign import siRetropie_ :: ReactIcon
+foreign import _siRetropie :: ReactIcon
 
 siRetropie :: forall a b. Union a b PropsIcon => Record a -> JSX
-siRetropie = element (unsafeCoerce siRetropie_)
+siRetropie = element (unsafeCoerce _siRetropie)
 
-foreign import siRevealdotjs_ :: ReactIcon
+foreign import _siRevealdotjs :: ReactIcon
 
 siRevealdotjs :: forall a b. Union a b PropsIcon => Record a -> JSX
-siRevealdotjs = element (unsafeCoerce siRevealdotjs_)
+siRevealdotjs = element (unsafeCoerce _siRevealdotjs)
 
-foreign import siReverbnation_ :: ReactIcon
+foreign import _siReverbnation :: ReactIcon
 
 siReverbnation :: forall a b. Union a b PropsIcon => Record a -> JSX
-siReverbnation = element (unsafeCoerce siReverbnation_)
+siReverbnation = element (unsafeCoerce _siReverbnation)
 
-foreign import siRevolut_ :: ReactIcon
+foreign import _siRevolut :: ReactIcon
 
 siRevolut :: forall a b. Union a b PropsIcon => Record a -> JSX
-siRevolut = element (unsafeCoerce siRevolut_)
+siRevolut = element (unsafeCoerce _siRevolut)
 
-foreign import siRevue_ :: ReactIcon
+foreign import _siRevue :: ReactIcon
 
 siRevue :: forall a b. Union a b PropsIcon => Record a -> JSX
-siRevue = element (unsafeCoerce siRevue_)
+siRevue = element (unsafeCoerce _siRevue)
 
-foreign import siRewe_ :: ReactIcon
+foreign import _siRewe :: ReactIcon
 
 siRewe :: forall a b. Union a b PropsIcon => Record a -> JSX
-siRewe = element (unsafeCoerce siRewe_)
+siRewe = element (unsafeCoerce _siRewe)
 
-foreign import siRezgo_ :: ReactIcon
+foreign import _siRezgo :: ReactIcon
 
 siRezgo :: forall a b. Union a b PropsIcon => Record a -> JSX
-siRezgo = element (unsafeCoerce siRezgo_)
+siRezgo = element (unsafeCoerce _siRezgo)
 
-foreign import siRhinoceros_ :: ReactIcon
+foreign import _siRhinoceros :: ReactIcon
 
 siRhinoceros :: forall a b. Union a b PropsIcon => Record a -> JSX
-siRhinoceros = element (unsafeCoerce siRhinoceros_)
+siRhinoceros = element (unsafeCoerce _siRhinoceros)
 
-foreign import siRider_ :: ReactIcon
+foreign import _siRider :: ReactIcon
 
 siRider :: forall a b. Union a b PropsIcon => Record a -> JSX
-siRider = element (unsafeCoerce siRider_)
+siRider = element (unsafeCoerce _siRider)
 
-foreign import siRimacautomobili_ :: ReactIcon
+foreign import _siRimacautomobili :: ReactIcon
 
 siRimacautomobili :: forall a b. Union a b PropsIcon => Record a -> JSX
-siRimacautomobili = element (unsafeCoerce siRimacautomobili_)
+siRimacautomobili = element (unsafeCoerce _siRimacautomobili)
 
-foreign import siRing_ :: ReactIcon
+foreign import _siRing :: ReactIcon
 
 siRing :: forall a b. Union a b PropsIcon => Record a -> JSX
-siRing = element (unsafeCoerce siRing_)
+siRing = element (unsafeCoerce _siRing)
 
-foreign import siRiotgames_ :: ReactIcon
+foreign import _siRiotgames :: ReactIcon
 
 siRiotgames :: forall a b. Union a b PropsIcon => Record a -> JSX
-siRiotgames = element (unsafeCoerce siRiotgames_)
+siRiotgames = element (unsafeCoerce _siRiotgames)
 
-foreign import siRipple_ :: ReactIcon
+foreign import _siRipple :: ReactIcon
 
 siRipple :: forall a b. Union a b PropsIcon => Record a -> JSX
-siRipple = element (unsafeCoerce siRipple_)
+siRipple = element (unsafeCoerce _siRipple)
 
-foreign import siRiseup_ :: ReactIcon
+foreign import _siRiseup :: ReactIcon
 
 siRiseup :: forall a b. Union a b PropsIcon => Record a -> JSX
-siRiseup = element (unsafeCoerce siRiseup_)
+siRiseup = element (unsafeCoerce _siRiseup)
 
-foreign import siRoamresearch_ :: ReactIcon
+foreign import _siRoamresearch :: ReactIcon
 
 siRoamresearch :: forall a b. Union a b PropsIcon => Record a -> JSX
-siRoamresearch = element (unsafeCoerce siRoamresearch_)
+siRoamresearch = element (unsafeCoerce _siRoamresearch)
 
-foreign import siRoblox_ :: ReactIcon
+foreign import _siRoblox :: ReactIcon
 
 siRoblox :: forall a b. Union a b PropsIcon => Record a -> JSX
-siRoblox = element (unsafeCoerce siRoblox_)
+siRoblox = element (unsafeCoerce _siRoblox)
 
-foreign import siRobotframework_ :: ReactIcon
+foreign import _siRobotframework :: ReactIcon
 
 siRobotframework :: forall a b. Union a b PropsIcon => Record a -> JSX
-siRobotframework = element (unsafeCoerce siRobotframework_)
+siRobotframework = element (unsafeCoerce _siRobotframework)
 
-foreign import siRocketdotchat_ :: ReactIcon
+foreign import _siRocketdotchat :: ReactIcon
 
 siRocketdotchat :: forall a b. Union a b PropsIcon => Record a -> JSX
-siRocketdotchat = element (unsafeCoerce siRocketdotchat_)
+siRocketdotchat = element (unsafeCoerce _siRocketdotchat)
 
-foreign import siRoku_ :: ReactIcon
+foreign import _siRoku :: ReactIcon
 
 siRoku :: forall a b. Union a b PropsIcon => Record a -> JSX
-siRoku = element (unsafeCoerce siRoku_)
+siRoku = element (unsafeCoerce _siRoku)
 
-foreign import siRollsroyce_ :: ReactIcon
+foreign import _siRollsroyce :: ReactIcon
 
 siRollsroyce :: forall a b. Union a b PropsIcon => Record a -> JSX
-siRollsroyce = element (unsafeCoerce siRollsroyce_)
+siRollsroyce = element (unsafeCoerce _siRollsroyce)
 
-foreign import siRollupdotjs_ :: ReactIcon
+foreign import _siRollupdotjs :: ReactIcon
 
 siRollupdotjs :: forall a b. Union a b PropsIcon => Record a -> JSX
-siRollupdotjs = element (unsafeCoerce siRollupdotjs_)
+siRollupdotjs = element (unsafeCoerce _siRollupdotjs)
 
-foreign import siRoots_ :: ReactIcon
+foreign import _siRoots :: ReactIcon
 
 siRoots :: forall a b. Union a b PropsIcon => Record a -> JSX
-siRoots = element (unsafeCoerce siRoots_)
+siRoots = element (unsafeCoerce _siRoots)
 
-foreign import siRootsbedrock_ :: ReactIcon
+foreign import _siRootsbedrock :: ReactIcon
 
 siRootsbedrock :: forall a b. Union a b PropsIcon => Record a -> JSX
-siRootsbedrock = element (unsafeCoerce siRootsbedrock_)
+siRootsbedrock = element (unsafeCoerce _siRootsbedrock)
 
-foreign import siRootssage_ :: ReactIcon
+foreign import _siRootssage :: ReactIcon
 
 siRootssage :: forall a b. Union a b PropsIcon => Record a -> JSX
-siRootssage = element (unsafeCoerce siRootssage_)
+siRootssage = element (unsafeCoerce _siRootssage)
 
-foreign import siRos_ :: ReactIcon
+foreign import _siRos :: ReactIcon
 
 siRos :: forall a b. Union a b PropsIcon => Record a -> JSX
-siRos = element (unsafeCoerce siRos_)
+siRos = element (unsafeCoerce _siRos)
 
-foreign import siRottentomatoes_ :: ReactIcon
+foreign import _siRottentomatoes :: ReactIcon
 
 siRottentomatoes :: forall a b. Union a b PropsIcon => Record a -> JSX
-siRottentomatoes = element (unsafeCoerce siRottentomatoes_)
+siRottentomatoes = element (unsafeCoerce _siRottentomatoes)
 
-foreign import siRoundcube_ :: ReactIcon
+foreign import _siRoundcube :: ReactIcon
 
 siRoundcube :: forall a b. Union a b PropsIcon => Record a -> JSX
-siRoundcube = element (unsafeCoerce siRoundcube_)
+siRoundcube = element (unsafeCoerce _siRoundcube)
 
-foreign import siRss_ :: ReactIcon
+foreign import _siRss :: ReactIcon
 
 siRss :: forall a b. Union a b PropsIcon => Record a -> JSX
-siRss = element (unsafeCoerce siRss_)
+siRss = element (unsafeCoerce _siRss)
 
-foreign import siRstudio_ :: ReactIcon
+foreign import _siRstudio :: ReactIcon
 
 siRstudio :: forall a b. Union a b PropsIcon => Record a -> JSX
-siRstudio = element (unsafeCoerce siRstudio_)
+siRstudio = element (unsafeCoerce _siRstudio)
 
-foreign import siRte_ :: ReactIcon
+foreign import _siRte :: ReactIcon
 
 siRte :: forall a b. Union a b PropsIcon => Record a -> JSX
-siRte = element (unsafeCoerce siRte_)
+siRte = element (unsafeCoerce _siRte)
 
-foreign import siRtl_ :: ReactIcon
+foreign import _siRtl :: ReactIcon
 
 siRtl :: forall a b. Union a b PropsIcon => Record a -> JSX
-siRtl = element (unsafeCoerce siRtl_)
+siRtl = element (unsafeCoerce _siRtl)
 
-foreign import siRtlzwei_ :: ReactIcon
+foreign import _siRtlzwei :: ReactIcon
 
 siRtlzwei :: forall a b. Union a b PropsIcon => Record a -> JSX
-siRtlzwei = element (unsafeCoerce siRtlzwei_)
+siRtlzwei = element (unsafeCoerce _siRtlzwei)
 
-foreign import siRuby_ :: ReactIcon
+foreign import _siRuby :: ReactIcon
 
 siRuby :: forall a b. Union a b PropsIcon => Record a -> JSX
-siRuby = element (unsafeCoerce siRuby_)
+siRuby = element (unsafeCoerce _siRuby)
 
-foreign import siRubygems_ :: ReactIcon
+foreign import _siRubygems :: ReactIcon
 
 siRubygems :: forall a b. Union a b PropsIcon => Record a -> JSX
-siRubygems = element (unsafeCoerce siRubygems_)
+siRubygems = element (unsafeCoerce _siRubygems)
 
-foreign import siRubyonrails_ :: ReactIcon
+foreign import _siRubyonrails :: ReactIcon
 
 siRubyonrails :: forall a b. Union a b PropsIcon => Record a -> JSX
-siRubyonrails = element (unsafeCoerce siRubyonrails_)
+siRubyonrails = element (unsafeCoerce _siRubyonrails)
 
-foreign import siRunkeeper_ :: ReactIcon
+foreign import _siRunkeeper :: ReactIcon
 
 siRunkeeper :: forall a b. Union a b PropsIcon => Record a -> JSX
-siRunkeeper = element (unsafeCoerce siRunkeeper_)
+siRunkeeper = element (unsafeCoerce _siRunkeeper)
 
-foreign import siRunkit_ :: ReactIcon
+foreign import _siRunkit :: ReactIcon
 
 siRunkit :: forall a b. Union a b PropsIcon => Record a -> JSX
-siRunkit = element (unsafeCoerce siRunkit_)
+siRunkit = element (unsafeCoerce _siRunkit)
 
-foreign import siRust_ :: ReactIcon
+foreign import _siRust :: ReactIcon
 
 siRust :: forall a b. Union a b PropsIcon => Record a -> JSX
-siRust = element (unsafeCoerce siRust_)
+siRust = element (unsafeCoerce _siRust)
 
-foreign import siRxdb_ :: ReactIcon
+foreign import _siRxdb :: ReactIcon
 
 siRxdb :: forall a b. Union a b PropsIcon => Record a -> JSX
-siRxdb = element (unsafeCoerce siRxdb_)
+siRxdb = element (unsafeCoerce _siRxdb)
 
-foreign import siRyanair_ :: ReactIcon
+foreign import _siRyanair :: ReactIcon
 
 siRyanair :: forall a b. Union a b PropsIcon => Record a -> JSX
-siRyanair = element (unsafeCoerce siRyanair_)
+siRyanair = element (unsafeCoerce _siRyanair)
 
-foreign import siSafari_ :: ReactIcon
+foreign import _siSafari :: ReactIcon
 
 siSafari :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSafari = element (unsafeCoerce siSafari_)
+siSafari = element (unsafeCoerce _siSafari)
 
-foreign import siSahibinden_ :: ReactIcon
+foreign import _siSahibinden :: ReactIcon
 
 siSahibinden :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSahibinden = element (unsafeCoerce siSahibinden_)
+siSahibinden = element (unsafeCoerce _siSahibinden)
 
-foreign import siSalesforce_ :: ReactIcon
+foreign import _siSalesforce :: ReactIcon
 
 siSalesforce :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSalesforce = element (unsafeCoerce siSalesforce_)
+siSalesforce = element (unsafeCoerce _siSalesforce)
 
-foreign import siSaltstack_ :: ReactIcon
+foreign import _siSaltstack :: ReactIcon
 
 siSaltstack :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSaltstack = element (unsafeCoerce siSaltstack_)
+siSaltstack = element (unsafeCoerce _siSaltstack)
 
-foreign import siSamsung_ :: ReactIcon
+foreign import _siSamsung :: ReactIcon
 
 siSamsung :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSamsung = element (unsafeCoerce siSamsung_)
+siSamsung = element (unsafeCoerce _siSamsung)
 
-foreign import siSamsungpay_ :: ReactIcon
+foreign import _siSamsungpay :: ReactIcon
 
 siSamsungpay :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSamsungpay = element (unsafeCoerce siSamsungpay_)
+siSamsungpay = element (unsafeCoerce _siSamsungpay)
 
-foreign import siSanfranciscomunicipalrailway_ :: ReactIcon
+foreign import _siSanfranciscomunicipalrailway :: ReactIcon
 
 siSanfranciscomunicipalrailway :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSanfranciscomunicipalrailway = element (unsafeCoerce siSanfranciscomunicipalrailway_)
+siSanfranciscomunicipalrailway = element (unsafeCoerce _siSanfranciscomunicipalrailway)
 
-foreign import siSaopaulometro_ :: ReactIcon
+foreign import _siSaopaulometro :: ReactIcon
 
 siSaopaulometro :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSaopaulometro = element (unsafeCoerce siSaopaulometro_)
+siSaopaulometro = element (unsafeCoerce _siSaopaulometro)
 
-foreign import siSap_ :: ReactIcon
+foreign import _siSap :: ReactIcon
 
 siSap :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSap = element (unsafeCoerce siSap_)
+siSap = element (unsafeCoerce _siSap)
 
-foreign import siSass_ :: ReactIcon
+foreign import _siSass :: ReactIcon
 
 siSass :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSass = element (unsafeCoerce siSass_)
+siSass = element (unsafeCoerce _siSass)
 
-foreign import siSaucelabs_ :: ReactIcon
+foreign import _siSaucelabs :: ReactIcon
 
 siSaucelabs :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSaucelabs = element (unsafeCoerce siSaucelabs_)
+siSaucelabs = element (unsafeCoerce _siSaucelabs)
 
-foreign import siScala_ :: ReactIcon
+foreign import _siScala :: ReactIcon
 
 siScala :: forall a b. Union a b PropsIcon => Record a -> JSX
-siScala = element (unsafeCoerce siScala_)
+siScala = element (unsafeCoerce _siScala)
 
-foreign import siScaleway_ :: ReactIcon
+foreign import _siScaleway :: ReactIcon
 
 siScaleway :: forall a b. Union a b PropsIcon => Record a -> JSX
-siScaleway = element (unsafeCoerce siScaleway_)
+siScaleway = element (unsafeCoerce _siScaleway)
 
-foreign import siScania_ :: ReactIcon
+foreign import _siScania :: ReactIcon
 
 siScania :: forall a b. Union a b PropsIcon => Record a -> JSX
-siScania = element (unsafeCoerce siScania_)
+siScania = element (unsafeCoerce _siScania)
 
-foreign import siScikitlearn_ :: ReactIcon
+foreign import _siScikitlearn :: ReactIcon
 
 siScikitlearn :: forall a b. Union a b PropsIcon => Record a -> JSX
-siScikitlearn = element (unsafeCoerce siScikitlearn_)
+siScikitlearn = element (unsafeCoerce _siScikitlearn)
 
-foreign import siScipy_ :: ReactIcon
+foreign import _siScipy :: ReactIcon
 
 siScipy :: forall a b. Union a b PropsIcon => Record a -> JSX
-siScipy = element (unsafeCoerce siScipy_)
+siScipy = element (unsafeCoerce _siScipy)
 
-foreign import siScopus_ :: ReactIcon
+foreign import _siScopus :: ReactIcon
 
 siScopus :: forall a b. Union a b PropsIcon => Record a -> JSX
-siScopus = element (unsafeCoerce siScopus_)
+siScopus = element (unsafeCoerce _siScopus)
 
-foreign import siScratch_ :: ReactIcon
+foreign import _siScratch :: ReactIcon
 
 siScratch :: forall a b. Union a b PropsIcon => Record a -> JSX
-siScratch = element (unsafeCoerce siScratch_)
+siScratch = element (unsafeCoerce _siScratch)
 
-foreign import siScreencastify_ :: ReactIcon
+foreign import _siScreencastify :: ReactIcon
 
 siScreencastify :: forall a b. Union a b PropsIcon => Record a -> JSX
-siScreencastify = element (unsafeCoerce siScreencastify_)
+siScreencastify = element (unsafeCoerce _siScreencastify)
 
-foreign import siScribd_ :: ReactIcon
+foreign import _siScribd :: ReactIcon
 
 siScribd :: forall a b. Union a b PropsIcon => Record a -> JSX
-siScribd = element (unsafeCoerce siScribd_)
+siScribd = element (unsafeCoerce _siScribd)
 
-foreign import siScrimba_ :: ReactIcon
+foreign import _siScrimba :: ReactIcon
 
 siScrimba :: forall a b. Union a b PropsIcon => Record a -> JSX
-siScrimba = element (unsafeCoerce siScrimba_)
+siScrimba = element (unsafeCoerce _siScrimba)
 
-foreign import siScrollreveal_ :: ReactIcon
+foreign import _siScrollreveal :: ReactIcon
 
 siScrollreveal :: forall a b. Union a b PropsIcon => Record a -> JSX
-siScrollreveal = element (unsafeCoerce siScrollreveal_)
+siScrollreveal = element (unsafeCoerce _siScrollreveal)
 
-foreign import siScrumalliance_ :: ReactIcon
+foreign import _siScrumalliance :: ReactIcon
 
 siScrumalliance :: forall a b. Union a b PropsIcon => Record a -> JSX
-siScrumalliance = element (unsafeCoerce siScrumalliance_)
+siScrumalliance = element (unsafeCoerce _siScrumalliance)
 
-foreign import siScrutinizerci_ :: ReactIcon
+foreign import _siScrutinizerci :: ReactIcon
 
 siScrutinizerci :: forall a b. Union a b PropsIcon => Record a -> JSX
-siScrutinizerci = element (unsafeCoerce siScrutinizerci_)
+siScrutinizerci = element (unsafeCoerce _siScrutinizerci)
 
-foreign import siSeagate_ :: ReactIcon
+foreign import _siSeagate :: ReactIcon
 
 siSeagate :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSeagate = element (unsafeCoerce siSeagate_)
+siSeagate = element (unsafeCoerce _siSeagate)
 
-foreign import siSeat_ :: ReactIcon
+foreign import _siSeat :: ReactIcon
 
 siSeat :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSeat = element (unsafeCoerce siSeat_)
+siSeat = element (unsafeCoerce _siSeat)
 
-foreign import siSefaria_ :: ReactIcon
+foreign import _siSefaria :: ReactIcon
 
 siSefaria :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSefaria = element (unsafeCoerce siSefaria_)
+siSefaria = element (unsafeCoerce _siSefaria)
 
-foreign import siSega_ :: ReactIcon
+foreign import _siSega :: ReactIcon
 
 siSega :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSega = element (unsafeCoerce siSega_)
+siSega = element (unsafeCoerce _siSega)
 
-foreign import siSelenium_ :: ReactIcon
+foreign import _siSelenium :: ReactIcon
 
 siSelenium :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSelenium = element (unsafeCoerce siSelenium_)
+siSelenium = element (unsafeCoerce _siSelenium)
 
-foreign import siSellfy_ :: ReactIcon
+foreign import _siSellfy :: ReactIcon
 
 siSellfy :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSellfy = element (unsafeCoerce siSellfy_)
+siSellfy = element (unsafeCoerce _siSellfy)
 
-foreign import siSemanticrelease_ :: ReactIcon
+foreign import _siSemanticrelease :: ReactIcon
 
 siSemanticrelease :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSemanticrelease = element (unsafeCoerce siSemanticrelease_)
+siSemanticrelease = element (unsafeCoerce _siSemanticrelease)
 
-foreign import siSemanticuireact_ :: ReactIcon
+foreign import _siSemanticuireact :: ReactIcon
 
 siSemanticuireact :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSemanticuireact = element (unsafeCoerce siSemanticuireact_)
+siSemanticuireact = element (unsafeCoerce _siSemanticuireact)
 
-foreign import siSemanticweb_ :: ReactIcon
+foreign import _siSemanticweb :: ReactIcon
 
 siSemanticweb :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSemanticweb = element (unsafeCoerce siSemanticweb_)
+siSemanticweb = element (unsafeCoerce _siSemanticweb)
 
-foreign import siSemaphoreci_ :: ReactIcon
+foreign import _siSemaphoreci :: ReactIcon
 
 siSemaphoreci :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSemaphoreci = element (unsafeCoerce siSemaphoreci_)
+siSemaphoreci = element (unsafeCoerce _siSemaphoreci)
 
-foreign import siSemver_ :: ReactIcon
+foreign import _siSemver :: ReactIcon
 
 siSemver :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSemver = element (unsafeCoerce siSemver_)
+siSemver = element (unsafeCoerce _siSemver)
 
-foreign import siSencha_ :: ReactIcon
+foreign import _siSencha :: ReactIcon
 
 siSencha :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSencha = element (unsafeCoerce siSencha_)
+siSencha = element (unsafeCoerce _siSencha)
 
-foreign import siSennheiser_ :: ReactIcon
+foreign import _siSennheiser :: ReactIcon
 
 siSennheiser :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSennheiser = element (unsafeCoerce siSennheiser_)
+siSennheiser = element (unsafeCoerce _siSennheiser)
 
-foreign import siSensu_ :: ReactIcon
+foreign import _siSensu :: ReactIcon
 
 siSensu :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSensu = element (unsafeCoerce siSensu_)
+siSensu = element (unsafeCoerce _siSensu)
 
-foreign import siSentry_ :: ReactIcon
+foreign import _siSentry :: ReactIcon
 
 siSentry :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSentry = element (unsafeCoerce siSentry_)
+siSentry = element (unsafeCoerce _siSentry)
 
-foreign import siSepa_ :: ReactIcon
+foreign import _siSepa :: ReactIcon
 
 siSepa :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSepa = element (unsafeCoerce siSepa_)
+siSepa = element (unsafeCoerce _siSepa)
 
-foreign import siSequelize_ :: ReactIcon
+foreign import _siSequelize :: ReactIcon
 
 siSequelize :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSequelize = element (unsafeCoerce siSequelize_)
+siSequelize = element (unsafeCoerce _siSequelize)
 
-foreign import siServerfault_ :: ReactIcon
+foreign import _siServerfault :: ReactIcon
 
 siServerfault :: forall a b. Union a b PropsIcon => Record a -> JSX
-siServerfault = element (unsafeCoerce siServerfault_)
+siServerfault = element (unsafeCoerce _siServerfault)
 
-foreign import siServerless_ :: ReactIcon
+foreign import _siServerless :: ReactIcon
 
 siServerless :: forall a b. Union a b PropsIcon => Record a -> JSX
-siServerless = element (unsafeCoerce siServerless_)
+siServerless = element (unsafeCoerce _siServerless)
 
-foreign import siSfml_ :: ReactIcon
+foreign import _siSfml :: ReactIcon
 
 siSfml :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSfml = element (unsafeCoerce siSfml_)
+siSfml = element (unsafeCoerce _siSfml)
 
-foreign import siShadow_ :: ReactIcon
+foreign import _siShadow :: ReactIcon
 
 siShadow :: forall a b. Union a b PropsIcon => Record a -> JSX
-siShadow = element (unsafeCoerce siShadow_)
+siShadow = element (unsafeCoerce _siShadow)
 
-foreign import siShanghaimetro_ :: ReactIcon
+foreign import _siShanghaimetro :: ReactIcon
 
 siShanghaimetro :: forall a b. Union a b PropsIcon => Record a -> JSX
-siShanghaimetro = element (unsafeCoerce siShanghaimetro_)
+siShanghaimetro = element (unsafeCoerce _siShanghaimetro)
 
-foreign import siSharp_ :: ReactIcon
+foreign import _siSharp :: ReactIcon
 
 siSharp :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSharp = element (unsafeCoerce siSharp_)
+siSharp = element (unsafeCoerce _siSharp)
 
-foreign import siShazam_ :: ReactIcon
+foreign import _siShazam :: ReactIcon
 
 siShazam :: forall a b. Union a b PropsIcon => Record a -> JSX
-siShazam = element (unsafeCoerce siShazam_)
+siShazam = element (unsafeCoerce _siShazam)
 
-foreign import siShell_ :: ReactIcon
+foreign import _siShell :: ReactIcon
 
 siShell :: forall a b. Union a b PropsIcon => Record a -> JSX
-siShell = element (unsafeCoerce siShell_)
+siShell = element (unsafeCoerce _siShell)
 
-foreign import siShelly_ :: ReactIcon
+foreign import _siShelly :: ReactIcon
 
 siShelly :: forall a b. Union a b PropsIcon => Record a -> JSX
-siShelly = element (unsafeCoerce siShelly_)
+siShelly = element (unsafeCoerce _siShelly)
 
-foreign import siShenzhenmetro_ :: ReactIcon
+foreign import _siShenzhenmetro :: ReactIcon
 
 siShenzhenmetro :: forall a b. Union a b PropsIcon => Record a -> JSX
-siShenzhenmetro = element (unsafeCoerce siShenzhenmetro_)
+siShenzhenmetro = element (unsafeCoerce _siShenzhenmetro)
 
-foreign import siShieldsdotio_ :: ReactIcon
+foreign import _siShieldsdotio :: ReactIcon
 
 siShieldsdotio :: forall a b. Union a b PropsIcon => Record a -> JSX
-siShieldsdotio = element (unsafeCoerce siShieldsdotio_)
+siShieldsdotio = element (unsafeCoerce _siShieldsdotio)
 
-foreign import siShikimori_ :: ReactIcon
+foreign import _siShikimori :: ReactIcon
 
 siShikimori :: forall a b. Union a b PropsIcon => Record a -> JSX
-siShikimori = element (unsafeCoerce siShikimori_)
+siShikimori = element (unsafeCoerce _siShikimori)
 
-foreign import siShopify_ :: ReactIcon
+foreign import _siShopify :: ReactIcon
 
 siShopify :: forall a b. Union a b PropsIcon => Record a -> JSX
-siShopify = element (unsafeCoerce siShopify_)
+siShopify = element (unsafeCoerce _siShopify)
 
-foreign import siShopware_ :: ReactIcon
+foreign import _siShopware :: ReactIcon
 
 siShopware :: forall a b. Union a b PropsIcon => Record a -> JSX
-siShopware = element (unsafeCoerce siShopware_)
+siShopware = element (unsafeCoerce _siShopware)
 
-foreign import siShotcut_ :: ReactIcon
+foreign import _siShotcut :: ReactIcon
 
 siShotcut :: forall a b. Union a b PropsIcon => Record a -> JSX
-siShotcut = element (unsafeCoerce siShotcut_)
+siShotcut = element (unsafeCoerce _siShotcut)
 
-foreign import siShowpad_ :: ReactIcon
+foreign import _siShowpad :: ReactIcon
 
 siShowpad :: forall a b. Union a b PropsIcon => Record a -> JSX
-siShowpad = element (unsafeCoerce siShowpad_)
+siShowpad = element (unsafeCoerce _siShowpad)
 
-foreign import siShowtime_ :: ReactIcon
+foreign import _siShowtime :: ReactIcon
 
 siShowtime :: forall a b. Union a b PropsIcon => Record a -> JSX
-siShowtime = element (unsafeCoerce siShowtime_)
+siShowtime = element (unsafeCoerce _siShowtime)
 
-foreign import siShutterstock_ :: ReactIcon
+foreign import _siShutterstock :: ReactIcon
 
 siShutterstock :: forall a b. Union a b PropsIcon => Record a -> JSX
-siShutterstock = element (unsafeCoerce siShutterstock_)
+siShutterstock = element (unsafeCoerce _siShutterstock)
 
-foreign import siSiemens_ :: ReactIcon
+foreign import _siSiemens :: ReactIcon
 
 siSiemens :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSiemens = element (unsafeCoerce siSiemens_)
+siSiemens = element (unsafeCoerce _siSiemens)
 
-foreign import siSignal_ :: ReactIcon
+foreign import _siSignal :: ReactIcon
 
 siSignal :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSignal = element (unsafeCoerce siSignal_)
+siSignal = element (unsafeCoerce _siSignal)
 
-foreign import siSimkl_ :: ReactIcon
+foreign import _siSimkl :: ReactIcon
 
 siSimkl :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSimkl = element (unsafeCoerce siSimkl_)
+siSimkl = element (unsafeCoerce _siSimkl)
 
-foreign import siSimpleanalytics_ :: ReactIcon
+foreign import _siSimpleanalytics :: ReactIcon
 
 siSimpleanalytics :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSimpleanalytics = element (unsafeCoerce siSimpleanalytics_)
+siSimpleanalytics = element (unsafeCoerce _siSimpleanalytics)
 
-foreign import siSimpleicons_ :: ReactIcon
+foreign import _siSimpleicons :: ReactIcon
 
 siSimpleicons :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSimpleicons = element (unsafeCoerce siSimpleicons_)
+siSimpleicons = element (unsafeCoerce _siSimpleicons)
 
-foreign import siSinaweibo_ :: ReactIcon
+foreign import _siSinaweibo :: ReactIcon
 
 siSinaweibo :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSinaweibo = element (unsafeCoerce siSinaweibo_)
+siSinaweibo = element (unsafeCoerce _siSinaweibo)
 
-foreign import siSinglestore_ :: ReactIcon
+foreign import _siSinglestore :: ReactIcon
 
 siSinglestore :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSinglestore = element (unsafeCoerce siSinglestore_)
+siSinglestore = element (unsafeCoerce _siSinglestore)
 
-foreign import siSitepoint_ :: ReactIcon
+foreign import _siSitepoint :: ReactIcon
 
 siSitepoint :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSitepoint = element (unsafeCoerce siSitepoint_)
+siSitepoint = element (unsafeCoerce _siSitepoint)
 
-foreign import siSketch_ :: ReactIcon
+foreign import _siSketch :: ReactIcon
 
 siSketch :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSketch = element (unsafeCoerce siSketch_)
+siSketch = element (unsafeCoerce _siSketch)
 
-foreign import siSketchfab_ :: ReactIcon
+foreign import _siSketchfab :: ReactIcon
 
 siSketchfab :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSketchfab = element (unsafeCoerce siSketchfab_)
+siSketchfab = element (unsafeCoerce _siSketchfab)
 
-foreign import siSketchup_ :: ReactIcon
+foreign import _siSketchup :: ReactIcon
 
 siSketchup :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSketchup = element (unsafeCoerce siSketchup_)
+siSketchup = element (unsafeCoerce _siSketchup)
 
-foreign import siSkillshare_ :: ReactIcon
+foreign import _siSkillshare :: ReactIcon
 
 siSkillshare :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSkillshare = element (unsafeCoerce siSkillshare_)
+siSkillshare = element (unsafeCoerce _siSkillshare)
 
-foreign import siSkoda_ :: ReactIcon
+foreign import _siSkoda :: ReactIcon
 
 siSkoda :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSkoda = element (unsafeCoerce siSkoda_)
+siSkoda = element (unsafeCoerce _siSkoda)
 
-foreign import siSky_ :: ReactIcon
+foreign import _siSky :: ReactIcon
 
 siSky :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSky = element (unsafeCoerce siSky_)
+siSky = element (unsafeCoerce _siSky)
 
-foreign import siSkyliner_ :: ReactIcon
+foreign import _siSkyliner :: ReactIcon
 
 siSkyliner :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSkyliner = element (unsafeCoerce siSkyliner_)
+siSkyliner = element (unsafeCoerce _siSkyliner)
 
-foreign import siSkynet_ :: ReactIcon
+foreign import _siSkynet :: ReactIcon
 
 siSkynet :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSkynet = element (unsafeCoerce siSkynet_)
+siSkynet = element (unsafeCoerce _siSkynet)
 
-foreign import siSkype_ :: ReactIcon
+foreign import _siSkype :: ReactIcon
 
 siSkype :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSkype = element (unsafeCoerce siSkype_)
+siSkype = element (unsafeCoerce _siSkype)
 
-foreign import siSkypeforbusiness_ :: ReactIcon
+foreign import _siSkypeforbusiness :: ReactIcon
 
 siSkypeforbusiness :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSkypeforbusiness = element (unsafeCoerce siSkypeforbusiness_)
+siSkypeforbusiness = element (unsafeCoerce _siSkypeforbusiness)
 
-foreign import siSlack_ :: ReactIcon
+foreign import _siSlack :: ReactIcon
 
 siSlack :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSlack = element (unsafeCoerce siSlack_)
+siSlack = element (unsafeCoerce _siSlack)
 
-foreign import siSlackware_ :: ReactIcon
+foreign import _siSlackware :: ReactIcon
 
 siSlackware :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSlackware = element (unsafeCoerce siSlackware_)
+siSlackware = element (unsafeCoerce _siSlackware)
 
-foreign import siSlashdot_ :: ReactIcon
+foreign import _siSlashdot :: ReactIcon
 
 siSlashdot :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSlashdot = element (unsafeCoerce siSlashdot_)
+siSlashdot = element (unsafeCoerce _siSlashdot)
 
-foreign import siSlickpic_ :: ReactIcon
+foreign import _siSlickpic :: ReactIcon
 
 siSlickpic :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSlickpic = element (unsafeCoerce siSlickpic_)
+siSlickpic = element (unsafeCoerce _siSlickpic)
 
-foreign import siSlides_ :: ReactIcon
+foreign import _siSlides :: ReactIcon
 
 siSlides :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSlides = element (unsafeCoerce siSlides_)
+siSlides = element (unsafeCoerce _siSlides)
 
-foreign import siSlideshare_ :: ReactIcon
+foreign import _siSlideshare :: ReactIcon
 
 siSlideshare :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSlideshare = element (unsafeCoerce siSlideshare_)
+siSlideshare = element (unsafeCoerce _siSlideshare)
 
-foreign import siSmart_ :: ReactIcon
+foreign import _siSmart :: ReactIcon
 
 siSmart :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSmart = element (unsafeCoerce siSmart_)
+siSmart = element (unsafeCoerce _siSmart)
 
-foreign import siSmartthings_ :: ReactIcon
+foreign import _siSmartthings :: ReactIcon
 
 siSmartthings :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSmartthings = element (unsafeCoerce siSmartthings_)
+siSmartthings = element (unsafeCoerce _siSmartthings)
 
-foreign import siSmashdotgg_ :: ReactIcon
+foreign import _siSmashdotgg :: ReactIcon
 
 siSmashdotgg :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSmashdotgg = element (unsafeCoerce siSmashdotgg_)
+siSmashdotgg = element (unsafeCoerce _siSmashdotgg)
 
-foreign import siSmashingmagazine_ :: ReactIcon
+foreign import _siSmashingmagazine :: ReactIcon
 
 siSmashingmagazine :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSmashingmagazine = element (unsafeCoerce siSmashingmagazine_)
+siSmashingmagazine = element (unsafeCoerce _siSmashingmagazine)
 
-foreign import siSmrt_ :: ReactIcon
+foreign import _siSmrt :: ReactIcon
 
 siSmrt :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSmrt = element (unsafeCoerce siSmrt_)
+siSmrt = element (unsafeCoerce _siSmrt)
 
-foreign import siSmugmug_ :: ReactIcon
+foreign import _siSmugmug :: ReactIcon
 
 siSmugmug :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSmugmug = element (unsafeCoerce siSmugmug_)
+siSmugmug = element (unsafeCoerce _siSmugmug)
 
-foreign import siSnapchat_ :: ReactIcon
+foreign import _siSnapchat :: ReactIcon
 
 siSnapchat :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSnapchat = element (unsafeCoerce siSnapchat_)
+siSnapchat = element (unsafeCoerce _siSnapchat)
 
-foreign import siSnapcraft_ :: ReactIcon
+foreign import _siSnapcraft :: ReactIcon
 
 siSnapcraft :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSnapcraft = element (unsafeCoerce siSnapcraft_)
+siSnapcraft = element (unsafeCoerce _siSnapcraft)
 
-foreign import siSnowflake_ :: ReactIcon
+foreign import _siSnowflake :: ReactIcon
 
 siSnowflake :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSnowflake = element (unsafeCoerce siSnowflake_)
+siSnowflake = element (unsafeCoerce _siSnowflake)
 
-foreign import siSnyk_ :: ReactIcon
+foreign import _siSnyk :: ReactIcon
 
 siSnyk :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSnyk = element (unsafeCoerce siSnyk_)
+siSnyk = element (unsafeCoerce _siSnyk)
 
-foreign import siSocketdotio_ :: ReactIcon
+foreign import _siSocketdotio :: ReactIcon
 
 siSocketdotio :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSocketdotio = element (unsafeCoerce siSocketdotio_)
+siSocketdotio = element (unsafeCoerce _siSocketdotio)
 
-foreign import siSogou_ :: ReactIcon
+foreign import _siSogou :: ReactIcon
 
 siSogou :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSogou = element (unsafeCoerce siSogou_)
+siSogou = element (unsafeCoerce _siSogou)
 
-foreign import siSolidity_ :: ReactIcon
+foreign import _siSolidity :: ReactIcon
 
 siSolidity :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSolidity = element (unsafeCoerce siSolidity_)
+siSolidity = element (unsafeCoerce _siSolidity)
 
-foreign import siSololearn_ :: ReactIcon
+foreign import _siSololearn :: ReactIcon
 
 siSololearn :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSololearn = element (unsafeCoerce siSololearn_)
+siSololearn = element (unsafeCoerce _siSololearn)
 
-foreign import siSolus_ :: ReactIcon
+foreign import _siSolus :: ReactIcon
 
 siSolus :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSolus = element (unsafeCoerce siSolus_)
+siSolus = element (unsafeCoerce _siSolus)
 
-foreign import siSonarcloud_ :: ReactIcon
+foreign import _siSonarcloud :: ReactIcon
 
 siSonarcloud :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSonarcloud = element (unsafeCoerce siSonarcloud_)
+siSonarcloud = element (unsafeCoerce _siSonarcloud)
 
-foreign import siSonarlint_ :: ReactIcon
+foreign import _siSonarlint :: ReactIcon
 
 siSonarlint :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSonarlint = element (unsafeCoerce siSonarlint_)
+siSonarlint = element (unsafeCoerce _siSonarlint)
 
-foreign import siSonarqube_ :: ReactIcon
+foreign import _siSonarqube :: ReactIcon
 
 siSonarqube :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSonarqube = element (unsafeCoerce siSonarqube_)
+siSonarqube = element (unsafeCoerce _siSonarqube)
 
-foreign import siSonarsource_ :: ReactIcon
+foreign import _siSonarsource :: ReactIcon
 
 siSonarsource :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSonarsource = element (unsafeCoerce siSonarsource_)
+siSonarsource = element (unsafeCoerce _siSonarsource)
 
-foreign import siSongkick_ :: ReactIcon
+foreign import _siSongkick :: ReactIcon
 
 siSongkick :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSongkick = element (unsafeCoerce siSongkick_)
+siSongkick = element (unsafeCoerce _siSongkick)
 
-foreign import siSongoda_ :: ReactIcon
+foreign import _siSongoda :: ReactIcon
 
 siSongoda :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSongoda = element (unsafeCoerce siSongoda_)
+siSongoda = element (unsafeCoerce _siSongoda)
 
-foreign import siSonicwall_ :: ReactIcon
+foreign import _siSonicwall :: ReactIcon
 
 siSonicwall :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSonicwall = element (unsafeCoerce siSonicwall_)
+siSonicwall = element (unsafeCoerce _siSonicwall)
 
-foreign import siSonos_ :: ReactIcon
+foreign import _siSonos :: ReactIcon
 
 siSonos :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSonos = element (unsafeCoerce siSonos_)
+siSonos = element (unsafeCoerce _siSonos)
 
-foreign import siSoundcloud_ :: ReactIcon
+foreign import _siSoundcloud :: ReactIcon
 
 siSoundcloud :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSoundcloud = element (unsafeCoerce siSoundcloud_)
+siSoundcloud = element (unsafeCoerce _siSoundcloud)
 
-foreign import siSourceengine_ :: ReactIcon
+foreign import _siSourceengine :: ReactIcon
 
 siSourceengine :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSourceengine = element (unsafeCoerce siSourceengine_)
+siSourceengine = element (unsafeCoerce _siSourceengine)
 
-foreign import siSourceforge_ :: ReactIcon
+foreign import _siSourceforge :: ReactIcon
 
 siSourceforge :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSourceforge = element (unsafeCoerce siSourceforge_)
+siSourceforge = element (unsafeCoerce _siSourceforge)
 
-foreign import siSourcegraph_ :: ReactIcon
+foreign import _siSourcegraph :: ReactIcon
 
 siSourcegraph :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSourcegraph = element (unsafeCoerce siSourcegraph_)
+siSourcegraph = element (unsafeCoerce _siSourcegraph)
 
-foreign import siSouthwestairlines_ :: ReactIcon
+foreign import _siSouthwestairlines :: ReactIcon
 
 siSouthwestairlines :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSouthwestairlines = element (unsafeCoerce siSouthwestairlines_)
+siSouthwestairlines = element (unsafeCoerce _siSouthwestairlines)
 
-foreign import siSpacemacs_ :: ReactIcon
+foreign import _siSpacemacs :: ReactIcon
 
 siSpacemacs :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSpacemacs = element (unsafeCoerce siSpacemacs_)
+siSpacemacs = element (unsafeCoerce _siSpacemacs)
 
-foreign import siSpacex_ :: ReactIcon
+foreign import _siSpacex :: ReactIcon
 
 siSpacex :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSpacex = element (unsafeCoerce siSpacex_)
+siSpacex = element (unsafeCoerce _siSpacex)
 
-foreign import siSparkar_ :: ReactIcon
+foreign import _siSparkar :: ReactIcon
 
 siSparkar :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSparkar = element (unsafeCoerce siSparkar_)
+siSparkar = element (unsafeCoerce _siSparkar)
 
-foreign import siSparkasse_ :: ReactIcon
+foreign import _siSparkasse :: ReactIcon
 
 siSparkasse :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSparkasse = element (unsafeCoerce siSparkasse_)
+siSparkasse = element (unsafeCoerce _siSparkasse)
 
-foreign import siSparkfun_ :: ReactIcon
+foreign import _siSparkfun :: ReactIcon
 
 siSparkfun :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSparkfun = element (unsafeCoerce siSparkfun_)
+siSparkfun = element (unsafeCoerce _siSparkfun)
 
-foreign import siSparkpost_ :: ReactIcon
+foreign import _siSparkpost :: ReactIcon
 
 siSparkpost :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSparkpost = element (unsafeCoerce siSparkpost_)
+siSparkpost = element (unsafeCoerce _siSparkpost)
 
-foreign import siSpdx_ :: ReactIcon
+foreign import _siSpdx :: ReactIcon
 
 siSpdx :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSpdx = element (unsafeCoerce siSpdx_)
+siSpdx = element (unsafeCoerce _siSpdx)
 
-foreign import siSpeakerdeck_ :: ReactIcon
+foreign import _siSpeakerdeck :: ReactIcon
 
 siSpeakerdeck :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSpeakerdeck = element (unsafeCoerce siSpeakerdeck_)
+siSpeakerdeck = element (unsafeCoerce _siSpeakerdeck)
 
-foreign import siSpectrum_ :: ReactIcon
+foreign import _siSpectrum :: ReactIcon
 
 siSpectrum :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSpectrum = element (unsafeCoerce siSpectrum_)
+siSpectrum = element (unsafeCoerce _siSpectrum)
 
-foreign import siSpeedtest_ :: ReactIcon
+foreign import _siSpeedtest :: ReactIcon
 
 siSpeedtest :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSpeedtest = element (unsafeCoerce siSpeedtest_)
+siSpeedtest = element (unsafeCoerce _siSpeedtest)
 
-foreign import siSpinnaker_ :: ReactIcon
+foreign import _siSpinnaker :: ReactIcon
 
 siSpinnaker :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSpinnaker = element (unsafeCoerce siSpinnaker_)
+siSpinnaker = element (unsafeCoerce _siSpinnaker)
 
-foreign import siSpinrilla_ :: ReactIcon
+foreign import _siSpinrilla :: ReactIcon
 
 siSpinrilla :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSpinrilla = element (unsafeCoerce siSpinrilla_)
+siSpinrilla = element (unsafeCoerce _siSpinrilla)
 
-foreign import siSplunk_ :: ReactIcon
+foreign import _siSplunk :: ReactIcon
 
 siSplunk :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSplunk = element (unsafeCoerce siSplunk_)
+siSplunk = element (unsafeCoerce _siSplunk)
 
-foreign import siSpond_ :: ReactIcon
+foreign import _siSpond :: ReactIcon
 
 siSpond :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSpond = element (unsafeCoerce siSpond_)
+siSpond = element (unsafeCoerce _siSpond)
 
-foreign import siSpotify_ :: ReactIcon
+foreign import _siSpotify :: ReactIcon
 
 siSpotify :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSpotify = element (unsafeCoerce siSpotify_)
+siSpotify = element (unsafeCoerce _siSpotify)
 
-foreign import siSpotlight_ :: ReactIcon
+foreign import _siSpotlight :: ReactIcon
 
 siSpotlight :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSpotlight = element (unsafeCoerce siSpotlight_)
+siSpotlight = element (unsafeCoerce _siSpotlight)
 
-foreign import siSpreadshirt_ :: ReactIcon
+foreign import _siSpreadshirt :: ReactIcon
 
 siSpreadshirt :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSpreadshirt = element (unsafeCoerce siSpreadshirt_)
+siSpreadshirt = element (unsafeCoerce _siSpreadshirt)
 
-foreign import siSpreaker_ :: ReactIcon
+foreign import _siSpreaker :: ReactIcon
 
 siSpreaker :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSpreaker = element (unsafeCoerce siSpreaker_)
+siSpreaker = element (unsafeCoerce _siSpreaker)
 
-foreign import siSpring_ :: ReactIcon
+foreign import _siSpring :: ReactIcon
 
 siSpring :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSpring = element (unsafeCoerce siSpring_)
+siSpring = element (unsafeCoerce _siSpring)
 
-foreign import siSpringboot_ :: ReactIcon
+foreign import _siSpringboot :: ReactIcon
 
 siSpringboot :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSpringboot = element (unsafeCoerce siSpringboot_)
+siSpringboot = element (unsafeCoerce _siSpringboot)
 
-foreign import siSpringCreators_ :: ReactIcon
+foreign import _siSpringCreators :: ReactIcon
 
 siSpringCreators :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSpringCreators = element (unsafeCoerce siSpringCreators_)
+siSpringCreators = element (unsafeCoerce _siSpringCreators)
 
-foreign import siSpringsecurity_ :: ReactIcon
+foreign import _siSpringsecurity :: ReactIcon
 
 siSpringsecurity :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSpringsecurity = element (unsafeCoerce siSpringsecurity_)
+siSpringsecurity = element (unsafeCoerce _siSpringsecurity)
 
-foreign import siSpyderide_ :: ReactIcon
+foreign import _siSpyderide :: ReactIcon
 
 siSpyderide :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSpyderide = element (unsafeCoerce siSpyderide_)
+siSpyderide = element (unsafeCoerce _siSpyderide)
 
-foreign import siSqlite_ :: ReactIcon
+foreign import _siSqlite :: ReactIcon
 
 siSqlite :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSqlite = element (unsafeCoerce siSqlite_)
+siSqlite = element (unsafeCoerce _siSqlite)
 
-foreign import siSquare_ :: ReactIcon
+foreign import _siSquare :: ReactIcon
 
 siSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSquare = element (unsafeCoerce siSquare_)
+siSquare = element (unsafeCoerce _siSquare)
 
-foreign import siSquareenix_ :: ReactIcon
+foreign import _siSquareenix :: ReactIcon
 
 siSquareenix :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSquareenix = element (unsafeCoerce siSquareenix_)
+siSquareenix = element (unsafeCoerce _siSquareenix)
 
-foreign import siSquarespace_ :: ReactIcon
+foreign import _siSquarespace :: ReactIcon
 
 siSquarespace :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSquarespace = element (unsafeCoerce siSquarespace_)
+siSquarespace = element (unsafeCoerce _siSquarespace)
 
-foreign import siSsrn_ :: ReactIcon
+foreign import _siSsrn :: ReactIcon
 
 siSsrn :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSsrn = element (unsafeCoerce siSsrn_)
+siSsrn = element (unsafeCoerce _siSsrn)
 
-foreign import siStackbit_ :: ReactIcon
+foreign import _siStackbit :: ReactIcon
 
 siStackbit :: forall a b. Union a b PropsIcon => Record a -> JSX
-siStackbit = element (unsafeCoerce siStackbit_)
+siStackbit = element (unsafeCoerce _siStackbit)
 
-foreign import siStackexchange_ :: ReactIcon
+foreign import _siStackexchange :: ReactIcon
 
 siStackexchange :: forall a b. Union a b PropsIcon => Record a -> JSX
-siStackexchange = element (unsafeCoerce siStackexchange_)
+siStackexchange = element (unsafeCoerce _siStackexchange)
 
-foreign import siStackoverflow_ :: ReactIcon
+foreign import _siStackoverflow :: ReactIcon
 
 siStackoverflow :: forall a b. Union a b PropsIcon => Record a -> JSX
-siStackoverflow = element (unsafeCoerce siStackoverflow_)
+siStackoverflow = element (unsafeCoerce _siStackoverflow)
 
-foreign import siStackpath_ :: ReactIcon
+foreign import _siStackpath :: ReactIcon
 
 siStackpath :: forall a b. Union a b PropsIcon => Record a -> JSX
-siStackpath = element (unsafeCoerce siStackpath_)
+siStackpath = element (unsafeCoerce _siStackpath)
 
-foreign import siStackshare_ :: ReactIcon
+foreign import _siStackshare :: ReactIcon
 
 siStackshare :: forall a b. Union a b PropsIcon => Record a -> JSX
-siStackshare = element (unsafeCoerce siStackshare_)
+siStackshare = element (unsafeCoerce _siStackshare)
 
-foreign import siStadia_ :: ReactIcon
+foreign import _siStadia :: ReactIcon
 
 siStadia :: forall a b. Union a b PropsIcon => Record a -> JSX
-siStadia = element (unsafeCoerce siStadia_)
+siStadia = element (unsafeCoerce _siStadia)
 
-foreign import siStaffbase_ :: ReactIcon
+foreign import _siStaffbase :: ReactIcon
 
 siStaffbase :: forall a b. Union a b PropsIcon => Record a -> JSX
-siStaffbase = element (unsafeCoerce siStaffbase_)
+siStaffbase = element (unsafeCoerce _siStaffbase)
 
-foreign import siStarbucks_ :: ReactIcon
+foreign import _siStarbucks :: ReactIcon
 
 siStarbucks :: forall a b. Union a b PropsIcon => Record a -> JSX
-siStarbucks = element (unsafeCoerce siStarbucks_)
+siStarbucks = element (unsafeCoerce _siStarbucks)
 
-foreign import siStarlingbank_ :: ReactIcon
+foreign import _siStarlingbank :: ReactIcon
 
 siStarlingbank :: forall a b. Union a b PropsIcon => Record a -> JSX
-siStarlingbank = element (unsafeCoerce siStarlingbank_)
+siStarlingbank = element (unsafeCoerce _siStarlingbank)
 
-foreign import siStarship_ :: ReactIcon
+foreign import _siStarship :: ReactIcon
 
 siStarship :: forall a b. Union a b PropsIcon => Record a -> JSX
-siStarship = element (unsafeCoerce siStarship_)
+siStarship = element (unsafeCoerce _siStarship)
 
-foreign import siStartrek_ :: ReactIcon
+foreign import _siStartrek :: ReactIcon
 
 siStartrek :: forall a b. Union a b PropsIcon => Record a -> JSX
-siStartrek = element (unsafeCoerce siStartrek_)
+siStartrek = element (unsafeCoerce _siStartrek)
 
-foreign import siStarz_ :: ReactIcon
+foreign import _siStarz :: ReactIcon
 
 siStarz :: forall a b. Union a b PropsIcon => Record a -> JSX
-siStarz = element (unsafeCoerce siStarz_)
+siStarz = element (unsafeCoerce _siStarz)
 
-foreign import siStatamic_ :: ReactIcon
+foreign import _siStatamic :: ReactIcon
 
 siStatamic :: forall a b. Union a b PropsIcon => Record a -> JSX
-siStatamic = element (unsafeCoerce siStatamic_)
+siStatamic = element (unsafeCoerce _siStatamic)
 
-foreign import siStatuspage_ :: ReactIcon
+foreign import _siStatuspage :: ReactIcon
 
 siStatuspage :: forall a b. Union a b PropsIcon => Record a -> JSX
-siStatuspage = element (unsafeCoerce siStatuspage_)
+siStatuspage = element (unsafeCoerce _siStatuspage)
 
-foreign import siStatuspal_ :: ReactIcon
+foreign import _siStatuspal :: ReactIcon
 
 siStatuspal :: forall a b. Union a b PropsIcon => Record a -> JSX
-siStatuspal = element (unsafeCoerce siStatuspal_)
+siStatuspal = element (unsafeCoerce _siStatuspal)
 
-foreign import siSteam_ :: ReactIcon
+foreign import _siSteam :: ReactIcon
 
 siSteam :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSteam = element (unsafeCoerce siSteam_)
+siSteam = element (unsafeCoerce _siSteam)
 
-foreign import siSteamdb_ :: ReactIcon
+foreign import _siSteamdb :: ReactIcon
 
 siSteamdb :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSteamdb = element (unsafeCoerce siSteamdb_)
+siSteamdb = element (unsafeCoerce _siSteamdb)
 
-foreign import siSteamworks_ :: ReactIcon
+foreign import _siSteamworks :: ReactIcon
 
 siSteamworks :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSteamworks = element (unsafeCoerce siSteamworks_)
+siSteamworks = element (unsafeCoerce _siSteamworks)
 
-foreign import siSteem_ :: ReactIcon
+foreign import _siSteem :: ReactIcon
 
 siSteem :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSteem = element (unsafeCoerce siSteem_)
+siSteem = element (unsafeCoerce _siSteem)
 
-foreign import siSteemit_ :: ReactIcon
+foreign import _siSteemit :: ReactIcon
 
 siSteemit :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSteemit = element (unsafeCoerce siSteemit_)
+siSteemit = element (unsafeCoerce _siSteemit)
 
-foreign import siSteinberg_ :: ReactIcon
+foreign import _siSteinberg :: ReactIcon
 
 siSteinberg :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSteinberg = element (unsafeCoerce siSteinberg_)
+siSteinberg = element (unsafeCoerce _siSteinberg)
 
-foreign import siStellar_ :: ReactIcon
+foreign import _siStellar :: ReactIcon
 
 siStellar :: forall a b. Union a b PropsIcon => Record a -> JSX
-siStellar = element (unsafeCoerce siStellar_)
+siStellar = element (unsafeCoerce _siStellar)
 
-foreign import siStencyl_ :: ReactIcon
+foreign import _siStencyl :: ReactIcon
 
 siStencyl :: forall a b. Union a b PropsIcon => Record a -> JSX
-siStencyl = element (unsafeCoerce siStencyl_)
+siStencyl = element (unsafeCoerce _siStencyl)
 
-foreign import siStimulus_ :: ReactIcon
+foreign import _siStimulus :: ReactIcon
 
 siStimulus :: forall a b. Union a b PropsIcon => Record a -> JSX
-siStimulus = element (unsafeCoerce siStimulus_)
+siStimulus = element (unsafeCoerce _siStimulus)
 
-foreign import siStitcher_ :: ReactIcon
+foreign import _siStitcher :: ReactIcon
 
 siStitcher :: forall a b. Union a b PropsIcon => Record a -> JSX
-siStitcher = element (unsafeCoerce siStitcher_)
+siStitcher = element (unsafeCoerce _siStitcher)
 
-foreign import siStmicroelectronics_ :: ReactIcon
+foreign import _siStmicroelectronics :: ReactIcon
 
 siStmicroelectronics :: forall a b. Union a b PropsIcon => Record a -> JSX
-siStmicroelectronics = element (unsafeCoerce siStmicroelectronics_)
+siStmicroelectronics = element (unsafeCoerce _siStmicroelectronics)
 
-foreign import siStopstalk_ :: ReactIcon
+foreign import _siStopstalk :: ReactIcon
 
 siStopstalk :: forall a b. Union a b PropsIcon => Record a -> JSX
-siStopstalk = element (unsafeCoerce siStopstalk_)
+siStopstalk = element (unsafeCoerce _siStopstalk)
 
-foreign import siStoryblok_ :: ReactIcon
+foreign import _siStoryblok :: ReactIcon
 
 siStoryblok :: forall a b. Union a b PropsIcon => Record a -> JSX
-siStoryblok = element (unsafeCoerce siStoryblok_)
+siStoryblok = element (unsafeCoerce _siStoryblok)
 
-foreign import siStorybook_ :: ReactIcon
+foreign import _siStorybook :: ReactIcon
 
 siStorybook :: forall a b. Union a b PropsIcon => Record a -> JSX
-siStorybook = element (unsafeCoerce siStorybook_)
+siStorybook = element (unsafeCoerce _siStorybook)
 
-foreign import siStrapi_ :: ReactIcon
+foreign import _siStrapi :: ReactIcon
 
 siStrapi :: forall a b. Union a b PropsIcon => Record a -> JSX
-siStrapi = element (unsafeCoerce siStrapi_)
+siStrapi = element (unsafeCoerce _siStrapi)
 
-foreign import siStrava_ :: ReactIcon
+foreign import _siStrava :: ReactIcon
 
 siStrava :: forall a b. Union a b PropsIcon => Record a -> JSX
-siStrava = element (unsafeCoerce siStrava_)
+siStrava = element (unsafeCoerce _siStrava)
 
-foreign import siStreamlit_ :: ReactIcon
+foreign import _siStreamlit :: ReactIcon
 
 siStreamlit :: forall a b. Union a b PropsIcon => Record a -> JSX
-siStreamlit = element (unsafeCoerce siStreamlit_)
+siStreamlit = element (unsafeCoerce _siStreamlit)
 
-foreign import siStripe_ :: ReactIcon
+foreign import _siStripe :: ReactIcon
 
 siStripe :: forall a b. Union a b PropsIcon => Record a -> JSX
-siStripe = element (unsafeCoerce siStripe_)
+siStripe = element (unsafeCoerce _siStripe)
 
-foreign import siStrongswan_ :: ReactIcon
+foreign import _siStrongswan :: ReactIcon
 
 siStrongswan :: forall a b. Union a b PropsIcon => Record a -> JSX
-siStrongswan = element (unsafeCoerce siStrongswan_)
+siStrongswan = element (unsafeCoerce _siStrongswan)
 
-foreign import siStubhub_ :: ReactIcon
+foreign import _siStubhub :: ReactIcon
 
 siStubhub :: forall a b. Union a b PropsIcon => Record a -> JSX
-siStubhub = element (unsafeCoerce siStubhub_)
+siStubhub = element (unsafeCoerce _siStubhub)
 
-foreign import siStyledcomponents_ :: ReactIcon
+foreign import _siStyledcomponents :: ReactIcon
 
 siStyledcomponents :: forall a b. Union a b PropsIcon => Record a -> JSX
-siStyledcomponents = element (unsafeCoerce siStyledcomponents_)
+siStyledcomponents = element (unsafeCoerce _siStyledcomponents)
 
-foreign import siStylelint_ :: ReactIcon
+foreign import _siStylelint :: ReactIcon
 
 siStylelint :: forall a b. Union a b PropsIcon => Record a -> JSX
-siStylelint = element (unsafeCoerce siStylelint_)
+siStylelint = element (unsafeCoerce _siStylelint)
 
-foreign import siStyleshare_ :: ReactIcon
+foreign import _siStyleshare :: ReactIcon
 
 siStyleshare :: forall a b. Union a b PropsIcon => Record a -> JSX
-siStyleshare = element (unsafeCoerce siStyleshare_)
+siStyleshare = element (unsafeCoerce _siStyleshare)
 
-foreign import siStylus_ :: ReactIcon
+foreign import _siStylus :: ReactIcon
 
 siStylus :: forall a b. Union a b PropsIcon => Record a -> JSX
-siStylus = element (unsafeCoerce siStylus_)
+siStylus = element (unsafeCoerce _siStylus)
 
-foreign import siSubaru_ :: ReactIcon
+foreign import _siSubaru :: ReactIcon
 
 siSubaru :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSubaru = element (unsafeCoerce siSubaru_)
+siSubaru = element (unsafeCoerce _siSubaru)
 
-foreign import siSublimetext_ :: ReactIcon
+foreign import _siSublimetext :: ReactIcon
 
 siSublimetext :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSublimetext = element (unsafeCoerce siSublimetext_)
+siSublimetext = element (unsafeCoerce _siSublimetext)
 
-foreign import siSubstack_ :: ReactIcon
+foreign import _siSubstack :: ReactIcon
 
 siSubstack :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSubstack = element (unsafeCoerce siSubstack_)
+siSubstack = element (unsafeCoerce _siSubstack)
 
-foreign import siSubversion_ :: ReactIcon
+foreign import _siSubversion :: ReactIcon
 
 siSubversion :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSubversion = element (unsafeCoerce siSubversion_)
+siSubversion = element (unsafeCoerce _siSubversion)
 
-foreign import siSuckless_ :: ReactIcon
+foreign import _siSuckless :: ReactIcon
 
 siSuckless :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSuckless = element (unsafeCoerce siSuckless_)
+siSuckless = element (unsafeCoerce _siSuckless)
 
-foreign import siSumologic_ :: ReactIcon
+foreign import _siSumologic :: ReactIcon
 
 siSumologic :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSumologic = element (unsafeCoerce siSumologic_)
+siSumologic = element (unsafeCoerce _siSumologic)
 
-foreign import siSupabase_ :: ReactIcon
+foreign import _siSupabase :: ReactIcon
 
 siSupabase :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSupabase = element (unsafeCoerce siSupabase_)
+siSupabase = element (unsafeCoerce _siSupabase)
 
-foreign import siSuperuser_ :: ReactIcon
+foreign import _siSuperuser :: ReactIcon
 
 siSuperuser :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSuperuser = element (unsafeCoerce siSuperuser_)
+siSuperuser = element (unsafeCoerce _siSuperuser)
 
-foreign import siSurveymonkey_ :: ReactIcon
+foreign import _siSurveymonkey :: ReactIcon
 
 siSurveymonkey :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSurveymonkey = element (unsafeCoerce siSurveymonkey_)
+siSurveymonkey = element (unsafeCoerce _siSurveymonkey)
 
-foreign import siSuse_ :: ReactIcon
+foreign import _siSuse :: ReactIcon
 
 siSuse :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSuse = element (unsafeCoerce siSuse_)
+siSuse = element (unsafeCoerce _siSuse)
 
-foreign import siSuzuki_ :: ReactIcon
+foreign import _siSuzuki :: ReactIcon
 
 siSuzuki :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSuzuki = element (unsafeCoerce siSuzuki_)
+siSuzuki = element (unsafeCoerce _siSuzuki)
 
-foreign import siSvelte_ :: ReactIcon
+foreign import _siSvelte :: ReactIcon
 
 siSvelte :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSvelte = element (unsafeCoerce siSvelte_)
+siSvelte = element (unsafeCoerce _siSvelte)
 
-foreign import siSvg_ :: ReactIcon
+foreign import _siSvg :: ReactIcon
 
 siSvg :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSvg = element (unsafeCoerce siSvg_)
+siSvg = element (unsafeCoerce _siSvg)
 
-foreign import siSvgo_ :: ReactIcon
+foreign import _siSvgo :: ReactIcon
 
 siSvgo :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSvgo = element (unsafeCoerce siSvgo_)
+siSvgo = element (unsafeCoerce _siSvgo)
 
-foreign import siSwagger_ :: ReactIcon
+foreign import _siSwagger :: ReactIcon
 
 siSwagger :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSwagger = element (unsafeCoerce siSwagger_)
+siSwagger = element (unsafeCoerce _siSwagger)
 
-foreign import siSwarm_ :: ReactIcon
+foreign import _siSwarm :: ReactIcon
 
 siSwarm :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSwarm = element (unsafeCoerce siSwarm_)
+siSwarm = element (unsafeCoerce _siSwarm)
 
-foreign import siSwift_ :: ReactIcon
+foreign import _siSwift :: ReactIcon
 
 siSwift :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSwift = element (unsafeCoerce siSwift_)
+siSwift = element (unsafeCoerce _siSwift)
 
-foreign import siSwiggy_ :: ReactIcon
+foreign import _siSwiggy :: ReactIcon
 
 siSwiggy :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSwiggy = element (unsafeCoerce siSwiggy_)
+siSwiggy = element (unsafeCoerce _siSwiggy)
 
-foreign import siSwiper_ :: ReactIcon
+foreign import _siSwiper :: ReactIcon
 
 siSwiper :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSwiper = element (unsafeCoerce siSwiper_)
+siSwiper = element (unsafeCoerce _siSwiper)
 
-foreign import siSymantec_ :: ReactIcon
+foreign import _siSymantec :: ReactIcon
 
 siSymantec :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSymantec = element (unsafeCoerce siSymantec_)
+siSymantec = element (unsafeCoerce _siSymantec)
 
-foreign import siSymfony_ :: ReactIcon
+foreign import _siSymfony :: ReactIcon
 
 siSymfony :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSymfony = element (unsafeCoerce siSymfony_)
+siSymfony = element (unsafeCoerce _siSymfony)
 
-foreign import siSymphony_ :: ReactIcon
+foreign import _siSymphony :: ReactIcon
 
 siSymphony :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSymphony = element (unsafeCoerce siSymphony_)
+siSymphony = element (unsafeCoerce _siSymphony)
 
-foreign import siSympy_ :: ReactIcon
+foreign import _siSympy :: ReactIcon
 
 siSympy :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSympy = element (unsafeCoerce siSympy_)
+siSympy = element (unsafeCoerce _siSympy)
 
-foreign import siSynology_ :: ReactIcon
+foreign import _siSynology :: ReactIcon
 
 siSynology :: forall a b. Union a b PropsIcon => Record a -> JSX
-siSynology = element (unsafeCoerce siSynology_)
+siSynology = element (unsafeCoerce _siSynology)
 
-foreign import siTableau_ :: ReactIcon
+foreign import _siTableau :: ReactIcon
 
 siTableau :: forall a b. Union a b PropsIcon => Record a -> JSX
-siTableau = element (unsafeCoerce siTableau_)
+siTableau = element (unsafeCoerce _siTableau)
 
-foreign import siTado_ :: ReactIcon
+foreign import _siTado :: ReactIcon
 
 siTado :: forall a b. Union a b PropsIcon => Record a -> JSX
-siTado = element (unsafeCoerce siTado_)
+siTado = element (unsafeCoerce _siTado)
 
-foreign import siTails_ :: ReactIcon
+foreign import _siTails :: ReactIcon
 
 siTails :: forall a b. Union a b PropsIcon => Record a -> JSX
-siTails = element (unsafeCoerce siTails_)
+siTails = element (unsafeCoerce _siTails)
 
-foreign import siTailwindcss_ :: ReactIcon
+foreign import _siTailwindcss :: ReactIcon
 
 siTailwindcss :: forall a b. Union a b PropsIcon => Record a -> JSX
-siTailwindcss = element (unsafeCoerce siTailwindcss_)
+siTailwindcss = element (unsafeCoerce _siTailwindcss)
 
-foreign import siTalend_ :: ReactIcon
+foreign import _siTalend :: ReactIcon
 
 siTalend :: forall a b. Union a b PropsIcon => Record a -> JSX
-siTalend = element (unsafeCoerce siTalend_)
+siTalend = element (unsafeCoerce _siTalend)
 
-foreign import siTampermonkey_ :: ReactIcon
+foreign import _siTampermonkey :: ReactIcon
 
 siTampermonkey :: forall a b. Union a b PropsIcon => Record a -> JSX
-siTampermonkey = element (unsafeCoerce siTampermonkey_)
+siTampermonkey = element (unsafeCoerce _siTampermonkey)
 
-foreign import siTaobao_ :: ReactIcon
+foreign import _siTaobao :: ReactIcon
 
 siTaobao :: forall a b. Union a b PropsIcon => Record a -> JSX
-siTaobao = element (unsafeCoerce siTaobao_)
+siTaobao = element (unsafeCoerce _siTaobao)
 
-foreign import siTapas_ :: ReactIcon
+foreign import _siTapas :: ReactIcon
 
 siTapas :: forall a b. Union a b PropsIcon => Record a -> JSX
-siTapas = element (unsafeCoerce siTapas_)
+siTapas = element (unsafeCoerce _siTapas)
 
-foreign import siTarget_ :: ReactIcon
+foreign import _siTarget :: ReactIcon
 
 siTarget :: forall a b. Union a b PropsIcon => Record a -> JSX
-siTarget = element (unsafeCoerce siTarget_)
+siTarget = element (unsafeCoerce _siTarget)
 
-foreign import siTasmota_ :: ReactIcon
+foreign import _siTasmota :: ReactIcon
 
 siTasmota :: forall a b. Union a b PropsIcon => Record a -> JSX
-siTasmota = element (unsafeCoerce siTasmota_)
+siTasmota = element (unsafeCoerce _siTasmota)
 
-foreign import siTata_ :: ReactIcon
+foreign import _siTata :: ReactIcon
 
 siTata :: forall a b. Union a b PropsIcon => Record a -> JSX
-siTata = element (unsafeCoerce siTata_)
+siTata = element (unsafeCoerce _siTata)
 
-foreign import siTaxbuzz_ :: ReactIcon
+foreign import _siTaxbuzz :: ReactIcon
 
 siTaxbuzz :: forall a b. Union a b PropsIcon => Record a -> JSX
-siTaxbuzz = element (unsafeCoerce siTaxbuzz_)
+siTaxbuzz = element (unsafeCoerce _siTaxbuzz)
 
-foreign import siTeamcity_ :: ReactIcon
+foreign import _siTeamcity :: ReactIcon
 
 siTeamcity :: forall a b. Union a b PropsIcon => Record a -> JSX
-siTeamcity = element (unsafeCoerce siTeamcity_)
+siTeamcity = element (unsafeCoerce _siTeamcity)
 
-foreign import siTeamspeak_ :: ReactIcon
+foreign import _siTeamspeak :: ReactIcon
 
 siTeamspeak :: forall a b. Union a b PropsIcon => Record a -> JSX
-siTeamspeak = element (unsafeCoerce siTeamspeak_)
+siTeamspeak = element (unsafeCoerce _siTeamspeak)
 
-foreign import siTeamviewer_ :: ReactIcon
+foreign import _siTeamviewer :: ReactIcon
 
 siTeamviewer :: forall a b. Union a b PropsIcon => Record a -> JSX
-siTeamviewer = element (unsafeCoerce siTeamviewer_)
+siTeamviewer = element (unsafeCoerce _siTeamviewer)
 
-foreign import siTed_ :: ReactIcon
+foreign import _siTed :: ReactIcon
 
 siTed :: forall a b. Union a b PropsIcon => Record a -> JSX
-siTed = element (unsafeCoerce siTed_)
+siTed = element (unsafeCoerce _siTed)
 
-foreign import siTeespring_ :: ReactIcon
+foreign import _siTeespring :: ReactIcon
 
 siTeespring :: forall a b. Union a b PropsIcon => Record a -> JSX
-siTeespring = element (unsafeCoerce siTeespring_)
+siTeespring = element (unsafeCoerce _siTeespring)
 
-foreign import siTekton_ :: ReactIcon
+foreign import _siTekton :: ReactIcon
 
 siTekton :: forall a b. Union a b PropsIcon => Record a -> JSX
-siTekton = element (unsafeCoerce siTekton_)
+siTekton = element (unsafeCoerce _siTekton)
 
-foreign import siTelegram_ :: ReactIcon
+foreign import _siTelegram :: ReactIcon
 
 siTelegram :: forall a b. Union a b PropsIcon => Record a -> JSX
-siTelegram = element (unsafeCoerce siTelegram_)
+siTelegram = element (unsafeCoerce _siTelegram)
 
-foreign import siTelegraph_ :: ReactIcon
+foreign import _siTelegraph :: ReactIcon
 
 siTelegraph :: forall a b. Union a b PropsIcon => Record a -> JSX
-siTelegraph = element (unsafeCoerce siTelegraph_)
+siTelegraph = element (unsafeCoerce _siTelegraph)
 
-foreign import siTencentqq_ :: ReactIcon
+foreign import _siTencentqq :: ReactIcon
 
 siTencentqq :: forall a b. Union a b PropsIcon => Record a -> JSX
-siTencentqq = element (unsafeCoerce siTencentqq_)
+siTencentqq = element (unsafeCoerce _siTencentqq)
 
-foreign import siTensorflow_ :: ReactIcon
+foreign import _siTensorflow :: ReactIcon
 
 siTensorflow :: forall a b. Union a b PropsIcon => Record a -> JSX
-siTensorflow = element (unsafeCoerce siTensorflow_)
+siTensorflow = element (unsafeCoerce _siTensorflow)
 
-foreign import siTeradata_ :: ReactIcon
+foreign import _siTeradata :: ReactIcon
 
 siTeradata :: forall a b. Union a b PropsIcon => Record a -> JSX
-siTeradata = element (unsafeCoerce siTeradata_)
+siTeradata = element (unsafeCoerce _siTeradata)
 
-foreign import siTeratail_ :: ReactIcon
+foreign import _siTeratail :: ReactIcon
 
 siTeratail :: forall a b. Union a b PropsIcon => Record a -> JSX
-siTeratail = element (unsafeCoerce siTeratail_)
+siTeratail = element (unsafeCoerce _siTeratail)
 
-foreign import siTerraform_ :: ReactIcon
+foreign import _siTerraform :: ReactIcon
 
 siTerraform :: forall a b. Union a b PropsIcon => Record a -> JSX
-siTerraform = element (unsafeCoerce siTerraform_)
+siTerraform = element (unsafeCoerce _siTerraform)
 
-foreign import siTesco_ :: ReactIcon
+foreign import _siTesco :: ReactIcon
 
 siTesco :: forall a b. Union a b PropsIcon => Record a -> JSX
-siTesco = element (unsafeCoerce siTesco_)
+siTesco = element (unsafeCoerce _siTesco)
 
-foreign import siTesla_ :: ReactIcon
+foreign import _siTesla :: ReactIcon
 
 siTesla :: forall a b. Union a b PropsIcon => Record a -> JSX
-siTesla = element (unsafeCoerce siTesla_)
+siTesla = element (unsafeCoerce _siTesla)
 
-foreign import siTestin_ :: ReactIcon
+foreign import _siTestin :: ReactIcon
 
 siTestin :: forall a b. Union a b PropsIcon => Record a -> JSX
-siTestin = element (unsafeCoerce siTestin_)
+siTestin = element (unsafeCoerce _siTestin)
 
-foreign import siTestinglibrary_ :: ReactIcon
+foreign import _siTestinglibrary :: ReactIcon
 
 siTestinglibrary :: forall a b. Union a b PropsIcon => Record a -> JSX
-siTestinglibrary = element (unsafeCoerce siTestinglibrary_)
+siTestinglibrary = element (unsafeCoerce _siTestinglibrary)
 
-foreign import siTextpattern_ :: ReactIcon
+foreign import _siTextpattern :: ReactIcon
 
 siTextpattern :: forall a b. Union a b PropsIcon => Record a -> JSX
-siTextpattern = element (unsafeCoerce siTextpattern_)
+siTextpattern = element (unsafeCoerce _siTextpattern)
 
-foreign import siTheconversation_ :: ReactIcon
+foreign import _siTheconversation :: ReactIcon
 
 siTheconversation :: forall a b. Union a b PropsIcon => Record a -> JSX
-siTheconversation = element (unsafeCoerce siTheconversation_)
+siTheconversation = element (unsafeCoerce _siTheconversation)
 
-foreign import siTheirishtimes_ :: ReactIcon
+foreign import _siTheirishtimes :: ReactIcon
 
 siTheirishtimes :: forall a b. Union a b PropsIcon => Record a -> JSX
-siTheirishtimes = element (unsafeCoerce siTheirishtimes_)
+siTheirishtimes = element (unsafeCoerce _siTheirishtimes)
 
-foreign import siThemighty_ :: ReactIcon
+foreign import _siThemighty :: ReactIcon
 
 siThemighty :: forall a b. Union a b PropsIcon => Record a -> JSX
-siThemighty = element (unsafeCoerce siThemighty_)
+siThemighty = element (unsafeCoerce _siThemighty)
 
-foreign import siThemodelsresource_ :: ReactIcon
+foreign import _siThemodelsresource :: ReactIcon
 
 siThemodelsresource :: forall a b. Union a b PropsIcon => Record a -> JSX
-siThemodelsresource = element (unsafeCoerce siThemodelsresource_)
+siThemodelsresource = element (unsafeCoerce _siThemodelsresource)
 
-foreign import siThemoviedatabase_ :: ReactIcon
+foreign import _siThemoviedatabase :: ReactIcon
 
 siThemoviedatabase :: forall a b. Union a b PropsIcon => Record a -> JSX
-siThemoviedatabase = element (unsafeCoerce siThemoviedatabase_)
+siThemoviedatabase = element (unsafeCoerce _siThemoviedatabase)
 
-foreign import siThenorthface_ :: ReactIcon
+foreign import _siThenorthface :: ReactIcon
 
 siThenorthface :: forall a b. Union a b PropsIcon => Record a -> JSX
-siThenorthface = element (unsafeCoerce siThenorthface_)
+siThenorthface = element (unsafeCoerce _siThenorthface)
 
-foreign import siTheregister_ :: ReactIcon
+foreign import _siTheregister :: ReactIcon
 
 siTheregister :: forall a b. Union a b PropsIcon => Record a -> JSX
-siTheregister = element (unsafeCoerce siTheregister_)
+siTheregister = element (unsafeCoerce _siTheregister)
 
-foreign import siThesoundsresource_ :: ReactIcon
+foreign import _siThesoundsresource :: ReactIcon
 
 siThesoundsresource :: forall a b. Union a b PropsIcon => Record a -> JSX
-siThesoundsresource = element (unsafeCoerce siThesoundsresource_)
+siThesoundsresource = element (unsafeCoerce _siThesoundsresource)
 
-foreign import siThespritersresource_ :: ReactIcon
+foreign import _siThespritersresource :: ReactIcon
 
 siThespritersresource :: forall a b. Union a b PropsIcon => Record a -> JSX
-siThespritersresource = element (unsafeCoerce siThespritersresource_)
+siThespritersresource = element (unsafeCoerce _siThespritersresource)
 
-foreign import siThewashingtonpost_ :: ReactIcon
+foreign import _siThewashingtonpost :: ReactIcon
 
 siThewashingtonpost :: forall a b. Union a b PropsIcon => Record a -> JSX
-siThewashingtonpost = element (unsafeCoerce siThewashingtonpost_)
+siThewashingtonpost = element (unsafeCoerce _siThewashingtonpost)
 
-foreign import siThingiverse_ :: ReactIcon
+foreign import _siThingiverse :: ReactIcon
 
 siThingiverse :: forall a b. Union a b PropsIcon => Record a -> JSX
-siThingiverse = element (unsafeCoerce siThingiverse_)
+siThingiverse = element (unsafeCoerce _siThingiverse)
 
-foreign import siThinkpad_ :: ReactIcon
+foreign import _siThinkpad :: ReactIcon
 
 siThinkpad :: forall a b. Union a b PropsIcon => Record a -> JSX
-siThinkpad = element (unsafeCoerce siThinkpad_)
+siThinkpad = element (unsafeCoerce _siThinkpad)
 
-foreign import siThreedotjs_ :: ReactIcon
+foreign import _siThreedotjs :: ReactIcon
 
 siThreedotjs :: forall a b. Union a b PropsIcon => Record a -> JSX
-siThreedotjs = element (unsafeCoerce siThreedotjs_)
+siThreedotjs = element (unsafeCoerce _siThreedotjs)
 
-foreign import siThreema_ :: ReactIcon
+foreign import _siThreema :: ReactIcon
 
 siThreema :: forall a b. Union a b PropsIcon => Record a -> JSX
-siThreema = element (unsafeCoerce siThreema_)
+siThreema = element (unsafeCoerce _siThreema)
 
-foreign import siThumbtack_ :: ReactIcon
+foreign import _siThumbtack :: ReactIcon
 
 siThumbtack :: forall a b. Union a b PropsIcon => Record a -> JSX
-siThumbtack = element (unsafeCoerce siThumbtack_)
+siThumbtack = element (unsafeCoerce _siThumbtack)
 
-foreign import siThunderbird_ :: ReactIcon
+foreign import _siThunderbird :: ReactIcon
 
 siThunderbird :: forall a b. Union a b PropsIcon => Record a -> JSX
-siThunderbird = element (unsafeCoerce siThunderbird_)
+siThunderbird = element (unsafeCoerce _siThunderbird)
 
-foreign import siThymeleaf_ :: ReactIcon
+foreign import _siThymeleaf :: ReactIcon
 
 siThymeleaf :: forall a b. Union a b PropsIcon => Record a -> JSX
-siThymeleaf = element (unsafeCoerce siThymeleaf_)
+siThymeleaf = element (unsafeCoerce _siThymeleaf)
 
-foreign import siTicketmaster_ :: ReactIcon
+foreign import _siTicketmaster :: ReactIcon
 
 siTicketmaster :: forall a b. Union a b PropsIcon => Record a -> JSX
-siTicketmaster = element (unsafeCoerce siTicketmaster_)
+siTicketmaster = element (unsafeCoerce _siTicketmaster)
 
-foreign import siTidal_ :: ReactIcon
+foreign import _siTidal :: ReactIcon
 
 siTidal :: forall a b. Union a b PropsIcon => Record a -> JSX
-siTidal = element (unsafeCoerce siTidal_)
+siTidal = element (unsafeCoerce _siTidal)
 
-foreign import siTide_ :: ReactIcon
+foreign import _siTide :: ReactIcon
 
 siTide :: forall a b. Union a b PropsIcon => Record a -> JSX
-siTide = element (unsafeCoerce siTide_)
+siTide = element (unsafeCoerce _siTide)
 
-foreign import siTietoevry_ :: ReactIcon
+foreign import _siTietoevry :: ReactIcon
 
 siTietoevry :: forall a b. Union a b PropsIcon => Record a -> JSX
-siTietoevry = element (unsafeCoerce siTietoevry_)
+siTietoevry = element (unsafeCoerce _siTietoevry)
 
-foreign import siTiktok_ :: ReactIcon
+foreign import _siTiktok :: ReactIcon
 
 siTiktok :: forall a b. Union a b PropsIcon => Record a -> JSX
-siTiktok = element (unsafeCoerce siTiktok_)
+siTiktok = element (unsafeCoerce _siTiktok)
 
-foreign import siTile_ :: ReactIcon
+foreign import _siTile :: ReactIcon
 
 siTile :: forall a b. Union a b PropsIcon => Record a -> JSX
-siTile = element (unsafeCoerce siTile_)
+siTile = element (unsafeCoerce _siTile)
 
-foreign import siTimescale_ :: ReactIcon
+foreign import _siTimescale :: ReactIcon
 
 siTimescale :: forall a b. Union a b PropsIcon => Record a -> JSX
-siTimescale = element (unsafeCoerce siTimescale_)
+siTimescale = element (unsafeCoerce _siTimescale)
 
-foreign import siTinder_ :: ReactIcon
+foreign import _siTinder :: ReactIcon
 
 siTinder :: forall a b. Union a b PropsIcon => Record a -> JSX
-siTinder = element (unsafeCoerce siTinder_)
+siTinder = element (unsafeCoerce _siTinder)
 
-foreign import siTinyletter_ :: ReactIcon
+foreign import _siTinyletter :: ReactIcon
 
 siTinyletter :: forall a b. Union a b PropsIcon => Record a -> JSX
-siTinyletter = element (unsafeCoerce siTinyletter_)
+siTinyletter = element (unsafeCoerce _siTinyletter)
 
-foreign import siTmobile_ :: ReactIcon
+foreign import _siTmobile :: ReactIcon
 
 siTmobile :: forall a b. Union a b PropsIcon => Record a -> JSX
-siTmobile = element (unsafeCoerce siTmobile_)
+siTmobile = element (unsafeCoerce _siTmobile)
 
-foreign import siTmux_ :: ReactIcon
+foreign import _siTmux :: ReactIcon
 
 siTmux :: forall a b. Union a b PropsIcon => Record a -> JSX
-siTmux = element (unsafeCoerce siTmux_)
+siTmux = element (unsafeCoerce _siTmux)
 
-foreign import siTodoist_ :: ReactIcon
+foreign import _siTodoist :: ReactIcon
 
 siTodoist :: forall a b. Union a b PropsIcon => Record a -> JSX
-siTodoist = element (unsafeCoerce siTodoist_)
+siTodoist = element (unsafeCoerce _siTodoist)
 
-foreign import siToggl_ :: ReactIcon
+foreign import _siToggl :: ReactIcon
 
 siToggl :: forall a b. Union a b PropsIcon => Record a -> JSX
-siToggl = element (unsafeCoerce siToggl_)
+siToggl = element (unsafeCoerce _siToggl)
 
-foreign import siTokyometro_ :: ReactIcon
+foreign import _siTokyometro :: ReactIcon
 
 siTokyometro :: forall a b. Union a b PropsIcon => Record a -> JSX
-siTokyometro = element (unsafeCoerce siTokyometro_)
+siTokyometro = element (unsafeCoerce _siTokyometro)
 
-foreign import siTomorrowland_ :: ReactIcon
+foreign import _siTomorrowland :: ReactIcon
 
 siTomorrowland :: forall a b. Union a b PropsIcon => Record a -> JSX
-siTomorrowland = element (unsafeCoerce siTomorrowland_)
+siTomorrowland = element (unsafeCoerce _siTomorrowland)
 
-foreign import siTopcoder_ :: ReactIcon
+foreign import _siTopcoder :: ReactIcon
 
 siTopcoder :: forall a b. Union a b PropsIcon => Record a -> JSX
-siTopcoder = element (unsafeCoerce siTopcoder_)
+siTopcoder = element (unsafeCoerce _siTopcoder)
 
-foreign import siToptal_ :: ReactIcon
+foreign import _siToptal :: ReactIcon
 
 siToptal :: forall a b. Union a b PropsIcon => Record a -> JSX
-siToptal = element (unsafeCoerce siToptal_)
+siToptal = element (unsafeCoerce _siToptal)
 
-foreign import siTorbrowser_ :: ReactIcon
+foreign import _siTorbrowser :: ReactIcon
 
 siTorbrowser :: forall a b. Union a b PropsIcon => Record a -> JSX
-siTorbrowser = element (unsafeCoerce siTorbrowser_)
+siTorbrowser = element (unsafeCoerce _siTorbrowser)
 
-foreign import siTorproject_ :: ReactIcon
+foreign import _siTorproject :: ReactIcon
 
 siTorproject :: forall a b. Union a b PropsIcon => Record a -> JSX
-siTorproject = element (unsafeCoerce siTorproject_)
+siTorproject = element (unsafeCoerce _siTorproject)
 
-foreign import siToshiba_ :: ReactIcon
+foreign import _siToshiba :: ReactIcon
 
 siToshiba :: forall a b. Union a b PropsIcon => Record a -> JSX
-siToshiba = element (unsafeCoerce siToshiba_)
+siToshiba = element (unsafeCoerce _siToshiba)
 
-foreign import siToyota_ :: ReactIcon
+foreign import _siToyota :: ReactIcon
 
 siToyota :: forall a b. Union a b PropsIcon => Record a -> JSX
-siToyota = element (unsafeCoerce siToyota_)
+siToyota = element (unsafeCoerce _siToyota)
 
-foreign import siTplink_ :: ReactIcon
+foreign import _siTplink :: ReactIcon
 
 siTplink :: forall a b. Union a b PropsIcon => Record a -> JSX
-siTplink = element (unsafeCoerce siTplink_)
+siTplink = element (unsafeCoerce _siTplink)
 
-foreign import siTqdm_ :: ReactIcon
+foreign import _siTqdm :: ReactIcon
 
 siTqdm :: forall a b. Union a b PropsIcon => Record a -> JSX
-siTqdm = element (unsafeCoerce siTqdm_)
+siTqdm = element (unsafeCoerce _siTqdm)
 
-foreign import siTrainerroad_ :: ReactIcon
+foreign import _siTrainerroad :: ReactIcon
 
 siTrainerroad :: forall a b. Union a b PropsIcon => Record a -> JSX
-siTrainerroad = element (unsafeCoerce siTrainerroad_)
+siTrainerroad = element (unsafeCoerce _siTrainerroad)
 
-foreign import siTrakt_ :: ReactIcon
+foreign import _siTrakt :: ReactIcon
 
 siTrakt :: forall a b. Union a b PropsIcon => Record a -> JSX
-siTrakt = element (unsafeCoerce siTrakt_)
+siTrakt = element (unsafeCoerce _siTrakt)
 
-foreign import siTransferwise_ :: ReactIcon
+foreign import _siTransferwise :: ReactIcon
 
 siTransferwise :: forall a b. Union a b PropsIcon => Record a -> JSX
-siTransferwise = element (unsafeCoerce siTransferwise_)
+siTransferwise = element (unsafeCoerce _siTransferwise)
 
-foreign import siTransportforireland_ :: ReactIcon
+foreign import _siTransportforireland :: ReactIcon
 
 siTransportforireland :: forall a b. Union a b PropsIcon => Record a -> JSX
-siTransportforireland = element (unsafeCoerce siTransportforireland_)
+siTransportforireland = element (unsafeCoerce _siTransportforireland)
 
-foreign import siTransportforlondon_ :: ReactIcon
+foreign import _siTransportforlondon :: ReactIcon
 
 siTransportforlondon :: forall a b. Union a b PropsIcon => Record a -> JSX
-siTransportforlondon = element (unsafeCoerce siTransportforlondon_)
+siTransportforlondon = element (unsafeCoerce _siTransportforlondon)
 
-foreign import siTravisci_ :: ReactIcon
+foreign import _siTravisci :: ReactIcon
 
 siTravisci :: forall a b. Union a b PropsIcon => Record a -> JSX
-siTravisci = element (unsafeCoerce siTravisci_)
+siTravisci = element (unsafeCoerce _siTravisci)
 
-foreign import siTreehouse_ :: ReactIcon
+foreign import _siTreehouse :: ReactIcon
 
 siTreehouse :: forall a b. Union a b PropsIcon => Record a -> JSX
-siTreehouse = element (unsafeCoerce siTreehouse_)
+siTreehouse = element (unsafeCoerce _siTreehouse)
 
-foreign import siTrello_ :: ReactIcon
+foreign import _siTrello :: ReactIcon
 
 siTrello :: forall a b. Union a b PropsIcon => Record a -> JSX
-siTrello = element (unsafeCoerce siTrello_)
+siTrello = element (unsafeCoerce _siTrello)
 
-foreign import siTrendmicro_ :: ReactIcon
+foreign import _siTrendmicro :: ReactIcon
 
 siTrendmicro :: forall a b. Union a b PropsIcon => Record a -> JSX
-siTrendmicro = element (unsafeCoerce siTrendmicro_)
+siTrendmicro = element (unsafeCoerce _siTrendmicro)
 
-foreign import siTreyarch_ :: ReactIcon
+foreign import _siTreyarch :: ReactIcon
 
 siTreyarch :: forall a b. Union a b PropsIcon => Record a -> JSX
-siTreyarch = element (unsafeCoerce siTreyarch_)
+siTreyarch = element (unsafeCoerce _siTreyarch)
 
-foreign import siTriller_ :: ReactIcon
+foreign import _siTriller :: ReactIcon
 
 siTriller :: forall a b. Union a b PropsIcon => Record a -> JSX
-siTriller = element (unsafeCoerce siTriller_)
+siTriller = element (unsafeCoerce _siTriller)
 
-foreign import siTrino_ :: ReactIcon
+foreign import _siTrino :: ReactIcon
 
 siTrino :: forall a b. Union a b PropsIcon => Record a -> JSX
-siTrino = element (unsafeCoerce siTrino_)
+siTrino = element (unsafeCoerce _siTrino)
 
-foreign import siTripadvisor_ :: ReactIcon
+foreign import _siTripadvisor :: ReactIcon
 
 siTripadvisor :: forall a b. Union a b PropsIcon => Record a -> JSX
-siTripadvisor = element (unsafeCoerce siTripadvisor_)
+siTripadvisor = element (unsafeCoerce _siTripadvisor)
 
-foreign import siTripdotcom_ :: ReactIcon
+foreign import _siTripdotcom :: ReactIcon
 
 siTripdotcom :: forall a b. Union a b PropsIcon => Record a -> JSX
-siTripdotcom = element (unsafeCoerce siTripdotcom_)
+siTripdotcom = element (unsafeCoerce _siTripdotcom)
 
-foreign import siTrove_ :: ReactIcon
+foreign import _siTrove :: ReactIcon
 
 siTrove :: forall a b. Union a b PropsIcon => Record a -> JSX
-siTrove = element (unsafeCoerce siTrove_)
+siTrove = element (unsafeCoerce _siTrove)
 
-foreign import siTruenas_ :: ReactIcon
+foreign import _siTruenas :: ReactIcon
 
 siTruenas :: forall a b. Union a b PropsIcon => Record a -> JSX
-siTruenas = element (unsafeCoerce siTruenas_)
+siTruenas = element (unsafeCoerce _siTruenas)
 
-foreign import siTrulia_ :: ReactIcon
+foreign import _siTrulia :: ReactIcon
 
 siTrulia :: forall a b. Union a b PropsIcon => Record a -> JSX
-siTrulia = element (unsafeCoerce siTrulia_)
+siTrulia = element (unsafeCoerce _siTrulia)
 
-foreign import siTrustedshops_ :: ReactIcon
+foreign import _siTrustedshops :: ReactIcon
 
 siTrustedshops :: forall a b. Union a b PropsIcon => Record a -> JSX
-siTrustedshops = element (unsafeCoerce siTrustedshops_)
+siTrustedshops = element (unsafeCoerce _siTrustedshops)
 
-foreign import siTrustpilot_ :: ReactIcon
+foreign import _siTrustpilot :: ReactIcon
 
 siTrustpilot :: forall a b. Union a b PropsIcon => Record a -> JSX
-siTrustpilot = element (unsafeCoerce siTrustpilot_)
+siTrustpilot = element (unsafeCoerce _siTrustpilot)
 
-foreign import siTryhackme_ :: ReactIcon
+foreign import _siTryhackme :: ReactIcon
 
 siTryhackme :: forall a b. Union a b PropsIcon => Record a -> JSX
-siTryhackme = element (unsafeCoerce siTryhackme_)
+siTryhackme = element (unsafeCoerce _siTryhackme)
 
-foreign import siTryitonline_ :: ReactIcon
+foreign import _siTryitonline :: ReactIcon
 
 siTryitonline :: forall a b. Union a b PropsIcon => Record a -> JSX
-siTryitonline = element (unsafeCoerce siTryitonline_)
+siTryitonline = element (unsafeCoerce _siTryitonline)
 
-foreign import siTsnode_ :: ReactIcon
+foreign import _siTsnode :: ReactIcon
 
 siTsnode :: forall a b. Union a b PropsIcon => Record a -> JSX
-siTsnode = element (unsafeCoerce siTsnode_)
+siTsnode = element (unsafeCoerce _siTsnode)
 
-foreign import siTui_ :: ReactIcon
+foreign import _siTui :: ReactIcon
 
 siTui :: forall a b. Union a b PropsIcon => Record a -> JSX
-siTui = element (unsafeCoerce siTui_)
+siTui = element (unsafeCoerce _siTui)
 
-foreign import siTumblr_ :: ReactIcon
+foreign import _siTumblr :: ReactIcon
 
 siTumblr :: forall a b. Union a b PropsIcon => Record a -> JSX
-siTumblr = element (unsafeCoerce siTumblr_)
+siTumblr = element (unsafeCoerce _siTumblr)
 
-foreign import siTunein_ :: ReactIcon
+foreign import _siTunein :: ReactIcon
 
 siTunein :: forall a b. Union a b PropsIcon => Record a -> JSX
-siTunein = element (unsafeCoerce siTunein_)
+siTunein = element (unsafeCoerce _siTunein)
 
-foreign import siTurbosquid_ :: ReactIcon
+foreign import _siTurbosquid :: ReactIcon
 
 siTurbosquid :: forall a b. Union a b PropsIcon => Record a -> JSX
-siTurbosquid = element (unsafeCoerce siTurbosquid_)
+siTurbosquid = element (unsafeCoerce _siTurbosquid)
 
-foreign import siTurkishairlines_ :: ReactIcon
+foreign import _siTurkishairlines :: ReactIcon
 
 siTurkishairlines :: forall a b. Union a b PropsIcon => Record a -> JSX
-siTurkishairlines = element (unsafeCoerce siTurkishairlines_)
+siTurkishairlines = element (unsafeCoerce _siTurkishairlines)
 
-foreign import siTutanota_ :: ReactIcon
+foreign import _siTutanota :: ReactIcon
 
 siTutanota :: forall a b. Union a b PropsIcon => Record a -> JSX
-siTutanota = element (unsafeCoerce siTutanota_)
+siTutanota = element (unsafeCoerce _siTutanota)
 
-foreign import siTvtime_ :: ReactIcon
+foreign import _siTvtime :: ReactIcon
 
 siTvtime :: forall a b. Union a b PropsIcon => Record a -> JSX
-siTvtime = element (unsafeCoerce siTvtime_)
+siTvtime = element (unsafeCoerce _siTvtime)
 
-foreign import siTwilio_ :: ReactIcon
+foreign import _siTwilio :: ReactIcon
 
 siTwilio :: forall a b. Union a b PropsIcon => Record a -> JSX
-siTwilio = element (unsafeCoerce siTwilio_)
+siTwilio = element (unsafeCoerce _siTwilio)
 
-foreign import siTwitch_ :: ReactIcon
+foreign import _siTwitch :: ReactIcon
 
 siTwitch :: forall a b. Union a b PropsIcon => Record a -> JSX
-siTwitch = element (unsafeCoerce siTwitch_)
+siTwitch = element (unsafeCoerce _siTwitch)
 
-foreign import siTwitter_ :: ReactIcon
+foreign import _siTwitter :: ReactIcon
 
 siTwitter :: forall a b. Union a b PropsIcon => Record a -> JSX
-siTwitter = element (unsafeCoerce siTwitter_)
+siTwitter = element (unsafeCoerce _siTwitter)
 
-foreign import siTwoo_ :: ReactIcon
+foreign import _siTwoo :: ReactIcon
 
 siTwoo :: forall a b. Union a b PropsIcon => Record a -> JSX
-siTwoo = element (unsafeCoerce siTwoo_)
+siTwoo = element (unsafeCoerce _siTwoo)
 
-foreign import siTypescript_ :: ReactIcon
+foreign import _siTypescript :: ReactIcon
 
 siTypescript :: forall a b. Union a b PropsIcon => Record a -> JSX
-siTypescript = element (unsafeCoerce siTypescript_)
+siTypescript = element (unsafeCoerce _siTypescript)
 
-foreign import siUber_ :: ReactIcon
+foreign import _siUber :: ReactIcon
 
 siUber :: forall a b. Union a b PropsIcon => Record a -> JSX
-siUber = element (unsafeCoerce siUber_)
+siUber = element (unsafeCoerce _siUber)
 
-foreign import siUbereats_ :: ReactIcon
+foreign import _siUbereats :: ReactIcon
 
 siUbereats :: forall a b. Union a b PropsIcon => Record a -> JSX
-siUbereats = element (unsafeCoerce siUbereats_)
+siUbereats = element (unsafeCoerce _siUbereats)
 
-foreign import siUbiquiti_ :: ReactIcon
+foreign import _siUbiquiti :: ReactIcon
 
 siUbiquiti :: forall a b. Union a b PropsIcon => Record a -> JSX
-siUbiquiti = element (unsafeCoerce siUbiquiti_)
+siUbiquiti = element (unsafeCoerce _siUbiquiti)
 
-foreign import siUbisoft_ :: ReactIcon
+foreign import _siUbisoft :: ReactIcon
 
 siUbisoft :: forall a b. Union a b PropsIcon => Record a -> JSX
-siUbisoft = element (unsafeCoerce siUbisoft_)
+siUbisoft = element (unsafeCoerce _siUbisoft)
 
-foreign import siUblockorigin_ :: ReactIcon
+foreign import _siUblockorigin :: ReactIcon
 
 siUblockorigin :: forall a b. Union a b PropsIcon => Record a -> JSX
-siUblockorigin = element (unsafeCoerce siUblockorigin_)
+siUblockorigin = element (unsafeCoerce _siUblockorigin)
 
-foreign import siUbuntu_ :: ReactIcon
+foreign import _siUbuntu :: ReactIcon
 
 siUbuntu :: forall a b. Union a b PropsIcon => Record a -> JSX
-siUbuntu = element (unsafeCoerce siUbuntu_)
+siUbuntu = element (unsafeCoerce _siUbuntu)
 
-foreign import siUdacity_ :: ReactIcon
+foreign import _siUdacity :: ReactIcon
 
 siUdacity :: forall a b. Union a b PropsIcon => Record a -> JSX
-siUdacity = element (unsafeCoerce siUdacity_)
+siUdacity = element (unsafeCoerce _siUdacity)
 
-foreign import siUdemy_ :: ReactIcon
+foreign import _siUdemy :: ReactIcon
 
 siUdemy :: forall a b. Union a b PropsIcon => Record a -> JSX
-siUdemy = element (unsafeCoerce siUdemy_)
+siUdemy = element (unsafeCoerce _siUdemy)
 
-foreign import siUfc_ :: ReactIcon
+foreign import _siUfc :: ReactIcon
 
 siUfc :: forall a b. Union a b PropsIcon => Record a -> JSX
-siUfc = element (unsafeCoerce siUfc_)
+siUfc = element (unsafeCoerce _siUfc)
 
-foreign import siUikit_ :: ReactIcon
+foreign import _siUikit :: ReactIcon
 
 siUikit :: forall a b. Union a b PropsIcon => Record a -> JSX
-siUikit = element (unsafeCoerce siUikit_)
+siUikit = element (unsafeCoerce _siUikit)
 
-foreign import siUlule_ :: ReactIcon
+foreign import _siUlule :: ReactIcon
 
 siUlule :: forall a b. Union a b PropsIcon => Record a -> JSX
-siUlule = element (unsafeCoerce siUlule_)
+siUlule = element (unsafeCoerce _siUlule)
 
-foreign import siUmbraco_ :: ReactIcon
+foreign import _siUmbraco :: ReactIcon
 
 siUmbraco :: forall a b. Union a b PropsIcon => Record a -> JSX
-siUmbraco = element (unsafeCoerce siUmbraco_)
+siUmbraco = element (unsafeCoerce _siUmbraco)
 
-foreign import siUnacademy_ :: ReactIcon
+foreign import _siUnacademy :: ReactIcon
 
 siUnacademy :: forall a b. Union a b PropsIcon => Record a -> JSX
-siUnacademy = element (unsafeCoerce siUnacademy_)
+siUnacademy = element (unsafeCoerce _siUnacademy)
 
-foreign import siUnderarmour_ :: ReactIcon
+foreign import _siUnderarmour :: ReactIcon
 
 siUnderarmour :: forall a b. Union a b PropsIcon => Record a -> JSX
-siUnderarmour = element (unsafeCoerce siUnderarmour_)
+siUnderarmour = element (unsafeCoerce _siUnderarmour)
 
-foreign import siUndertale_ :: ReactIcon
+foreign import _siUndertale :: ReactIcon
 
 siUndertale :: forall a b. Union a b PropsIcon => Record a -> JSX
-siUndertale = element (unsafeCoerce siUndertale_)
+siUndertale = element (unsafeCoerce _siUndertale)
 
-foreign import siUnicode_ :: ReactIcon
+foreign import _siUnicode :: ReactIcon
 
 siUnicode :: forall a b. Union a b PropsIcon => Record a -> JSX
-siUnicode = element (unsafeCoerce siUnicode_)
+siUnicode = element (unsafeCoerce _siUnicode)
 
-foreign import siUnilever_ :: ReactIcon
+foreign import _siUnilever :: ReactIcon
 
 siUnilever :: forall a b. Union a b PropsIcon => Record a -> JSX
-siUnilever = element (unsafeCoerce siUnilever_)
+siUnilever = element (unsafeCoerce _siUnilever)
 
-foreign import siUnitedairlines_ :: ReactIcon
+foreign import _siUnitedairlines :: ReactIcon
 
 siUnitedairlines :: forall a b. Union a b PropsIcon => Record a -> JSX
-siUnitedairlines = element (unsafeCoerce siUnitedairlines_)
+siUnitedairlines = element (unsafeCoerce _siUnitedairlines)
 
-foreign import siUnity_ :: ReactIcon
+foreign import _siUnity :: ReactIcon
 
 siUnity :: forall a b. Union a b PropsIcon => Record a -> JSX
-siUnity = element (unsafeCoerce siUnity_)
+siUnity = element (unsafeCoerce _siUnity)
 
-foreign import siUnraid_ :: ReactIcon
+foreign import _siUnraid :: ReactIcon
 
 siUnraid :: forall a b. Union a b PropsIcon => Record a -> JSX
-siUnraid = element (unsafeCoerce siUnraid_)
+siUnraid = element (unsafeCoerce _siUnraid)
 
-foreign import siUnrealengine_ :: ReactIcon
+foreign import _siUnrealengine :: ReactIcon
 
 siUnrealengine :: forall a b. Union a b PropsIcon => Record a -> JSX
-siUnrealengine = element (unsafeCoerce siUnrealengine_)
+siUnrealengine = element (unsafeCoerce _siUnrealengine)
 
-foreign import siUnsplash_ :: ReactIcon
+foreign import _siUnsplash :: ReactIcon
 
 siUnsplash :: forall a b. Union a b PropsIcon => Record a -> JSX
-siUnsplash = element (unsafeCoerce siUnsplash_)
+siUnsplash = element (unsafeCoerce _siUnsplash)
 
-foreign import siUntangle_ :: ReactIcon
+foreign import _siUntangle :: ReactIcon
 
 siUntangle :: forall a b. Union a b PropsIcon => Record a -> JSX
-siUntangle = element (unsafeCoerce siUntangle_)
+siUntangle = element (unsafeCoerce _siUntangle)
 
-foreign import siUntappd_ :: ReactIcon
+foreign import _siUntappd :: ReactIcon
 
 siUntappd :: forall a b. Union a b PropsIcon => Record a -> JSX
-siUntappd = element (unsafeCoerce siUntappd_)
+siUntappd = element (unsafeCoerce _siUntappd)
 
-foreign import siUpcloud_ :: ReactIcon
+foreign import _siUpcloud :: ReactIcon
 
 siUpcloud :: forall a b. Union a b PropsIcon => Record a -> JSX
-siUpcloud = element (unsafeCoerce siUpcloud_)
+siUpcloud = element (unsafeCoerce _siUpcloud)
 
-foreign import siUplabs_ :: ReactIcon
+foreign import _siUplabs :: ReactIcon
 
 siUplabs :: forall a b. Union a b PropsIcon => Record a -> JSX
-siUplabs = element (unsafeCoerce siUplabs_)
+siUplabs = element (unsafeCoerce _siUplabs)
 
-foreign import siUploaded_ :: ReactIcon
+foreign import _siUploaded :: ReactIcon
 
 siUploaded :: forall a b. Union a b PropsIcon => Record a -> JSX
-siUploaded = element (unsafeCoerce siUploaded_)
+siUploaded = element (unsafeCoerce _siUploaded)
 
-foreign import siUps_ :: ReactIcon
+foreign import _siUps :: ReactIcon
 
 siUps :: forall a b. Union a b PropsIcon => Record a -> JSX
-siUps = element (unsafeCoerce siUps_)
+siUps = element (unsafeCoerce _siUps)
 
-foreign import siUpwork_ :: ReactIcon
+foreign import _siUpwork :: ReactIcon
 
 siUpwork :: forall a b. Union a b PropsIcon => Record a -> JSX
-siUpwork = element (unsafeCoerce siUpwork_)
+siUpwork = element (unsafeCoerce _siUpwork)
 
-foreign import siUsps_ :: ReactIcon
+foreign import _siUsps :: ReactIcon
 
 siUsps :: forall a b. Union a b PropsIcon => Record a -> JSX
-siUsps = element (unsafeCoerce siUsps_)
+siUsps = element (unsafeCoerce _siUsps)
 
-foreign import siV_ :: ReactIcon
+foreign import _siV :: ReactIcon
 
 siV :: forall a b. Union a b PropsIcon => Record a -> JSX
-siV = element (unsafeCoerce siV_)
+siV = element (unsafeCoerce _siV)
 
-foreign import siVaadin_ :: ReactIcon
+foreign import _siVaadin :: ReactIcon
 
 siVaadin :: forall a b. Union a b PropsIcon => Record a -> JSX
-siVaadin = element (unsafeCoerce siVaadin_)
+siVaadin = element (unsafeCoerce _siVaadin)
 
-foreign import siVagrant_ :: ReactIcon
+foreign import _siVagrant :: ReactIcon
 
 siVagrant :: forall a b. Union a b PropsIcon => Record a -> JSX
-siVagrant = element (unsafeCoerce siVagrant_)
+siVagrant = element (unsafeCoerce _siVagrant)
 
-foreign import siValve_ :: ReactIcon
+foreign import _siValve :: ReactIcon
 
 siValve :: forall a b. Union a b PropsIcon => Record a -> JSX
-siValve = element (unsafeCoerce siValve_)
+siValve = element (unsafeCoerce _siValve)
 
-foreign import siVapor_ :: ReactIcon
+foreign import _siVapor :: ReactIcon
 
 siVapor :: forall a b. Union a b PropsIcon => Record a -> JSX
-siVapor = element (unsafeCoerce siVapor_)
+siVapor = element (unsafeCoerce _siVapor)
 
-foreign import siVault_ :: ReactIcon
+foreign import _siVault :: ReactIcon
 
 siVault :: forall a b. Union a b PropsIcon => Record a -> JSX
-siVault = element (unsafeCoerce siVault_)
+siVault = element (unsafeCoerce _siVault)
 
-foreign import siVauxhall_ :: ReactIcon
+foreign import _siVauxhall :: ReactIcon
 
 siVauxhall :: forall a b. Union a b PropsIcon => Record a -> JSX
-siVauxhall = element (unsafeCoerce siVauxhall_)
+siVauxhall = element (unsafeCoerce _siVauxhall)
 
-foreign import siVbulletin_ :: ReactIcon
+foreign import _siVbulletin :: ReactIcon
 
 siVbulletin :: forall a b. Union a b PropsIcon => Record a -> JSX
-siVbulletin = element (unsafeCoerce siVbulletin_)
+siVbulletin = element (unsafeCoerce _siVbulletin)
 
-foreign import siVectorlogozone_ :: ReactIcon
+foreign import _siVectorlogozone :: ReactIcon
 
 siVectorlogozone :: forall a b. Union a b PropsIcon => Record a -> JSX
-siVectorlogozone = element (unsafeCoerce siVectorlogozone_)
+siVectorlogozone = element (unsafeCoerce _siVectorlogozone)
 
-foreign import siVectorworks_ :: ReactIcon
+foreign import _siVectorworks :: ReactIcon
 
 siVectorworks :: forall a b. Union a b PropsIcon => Record a -> JSX
-siVectorworks = element (unsafeCoerce siVectorworks_)
+siVectorworks = element (unsafeCoerce _siVectorworks)
 
-foreign import siVeeam_ :: ReactIcon
+foreign import _siVeeam :: ReactIcon
 
 siVeeam :: forall a b. Union a b PropsIcon => Record a -> JSX
-siVeeam = element (unsafeCoerce siVeeam_)
+siVeeam = element (unsafeCoerce _siVeeam)
 
-foreign import siVeepee_ :: ReactIcon
+foreign import _siVeepee :: ReactIcon
 
 siVeepee :: forall a b. Union a b PropsIcon => Record a -> JSX
-siVeepee = element (unsafeCoerce siVeepee_)
+siVeepee = element (unsafeCoerce _siVeepee)
 
-foreign import siVenmo_ :: ReactIcon
+foreign import _siVenmo :: ReactIcon
 
 siVenmo :: forall a b. Union a b PropsIcon => Record a -> JSX
-siVenmo = element (unsafeCoerce siVenmo_)
+siVenmo = element (unsafeCoerce _siVenmo)
 
-foreign import siVercel_ :: ReactIcon
+foreign import _siVercel :: ReactIcon
 
 siVercel :: forall a b. Union a b PropsIcon => Record a -> JSX
-siVercel = element (unsafeCoerce siVercel_)
+siVercel = element (unsafeCoerce _siVercel)
 
-foreign import siVerdaccio_ :: ReactIcon
+foreign import _siVerdaccio :: ReactIcon
 
 siVerdaccio :: forall a b. Union a b PropsIcon => Record a -> JSX
-siVerdaccio = element (unsafeCoerce siVerdaccio_)
+siVerdaccio = element (unsafeCoerce _siVerdaccio)
 
-foreign import siVeritas_ :: ReactIcon
+foreign import _siVeritas :: ReactIcon
 
 siVeritas :: forall a b. Union a b PropsIcon => Record a -> JSX
-siVeritas = element (unsafeCoerce siVeritas_)
+siVeritas = element (unsafeCoerce _siVeritas)
 
-foreign import siVerizon_ :: ReactIcon
+foreign import _siVerizon :: ReactIcon
 
 siVerizon :: forall a b. Union a b PropsIcon => Record a -> JSX
-siVerizon = element (unsafeCoerce siVerizon_)
+siVerizon = element (unsafeCoerce _siVerizon)
 
-foreign import siVfairs_ :: ReactIcon
+foreign import _siVfairs :: ReactIcon
 
 siVfairs :: forall a b. Union a b PropsIcon => Record a -> JSX
-siVfairs = element (unsafeCoerce siVfairs_)
+siVfairs = element (unsafeCoerce _siVfairs)
 
-foreign import siViadeo_ :: ReactIcon
+foreign import _siViadeo :: ReactIcon
 
 siViadeo :: forall a b. Union a b PropsIcon => Record a -> JSX
-siViadeo = element (unsafeCoerce siViadeo_)
+siViadeo = element (unsafeCoerce _siViadeo)
 
-foreign import siViber_ :: ReactIcon
+foreign import _siViber :: ReactIcon
 
 siViber :: forall a b. Union a b PropsIcon => Record a -> JSX
-siViber = element (unsafeCoerce siViber_)
+siViber = element (unsafeCoerce _siViber)
 
-foreign import siVim_ :: ReactIcon
+foreign import _siVim :: ReactIcon
 
 siVim :: forall a b. Union a b PropsIcon => Record a -> JSX
-siVim = element (unsafeCoerce siVim_)
+siVim = element (unsafeCoerce _siVim)
 
-foreign import siVimeo_ :: ReactIcon
+foreign import _siVimeo :: ReactIcon
 
 siVimeo :: forall a b. Union a b PropsIcon => Record a -> JSX
-siVimeo = element (unsafeCoerce siVimeo_)
+siVimeo = element (unsafeCoerce _siVimeo)
 
-foreign import siVimeolivestream_ :: ReactIcon
+foreign import _siVimeolivestream :: ReactIcon
 
 siVimeolivestream :: forall a b. Union a b PropsIcon => Record a -> JSX
-siVimeolivestream = element (unsafeCoerce siVimeolivestream_)
+siVimeolivestream = element (unsafeCoerce _siVimeolivestream)
 
-foreign import siVirtualbox_ :: ReactIcon
+foreign import _siVirtualbox :: ReactIcon
 
 siVirtualbox :: forall a b. Union a b PropsIcon => Record a -> JSX
-siVirtualbox = element (unsafeCoerce siVirtualbox_)
+siVirtualbox = element (unsafeCoerce _siVirtualbox)
 
-foreign import siVirustotal_ :: ReactIcon
+foreign import _siVirustotal :: ReactIcon
 
 siVirustotal :: forall a b. Union a b PropsIcon => Record a -> JSX
-siVirustotal = element (unsafeCoerce siVirustotal_)
+siVirustotal = element (unsafeCoerce _siVirustotal)
 
-foreign import siVisa_ :: ReactIcon
+foreign import _siVisa :: ReactIcon
 
 siVisa :: forall a b. Union a b PropsIcon => Record a -> JSX
-siVisa = element (unsafeCoerce siVisa_)
+siVisa = element (unsafeCoerce _siVisa)
 
-foreign import siVisualstudio_ :: ReactIcon
+foreign import _siVisualstudio :: ReactIcon
 
 siVisualstudio :: forall a b. Union a b PropsIcon => Record a -> JSX
-siVisualstudio = element (unsafeCoerce siVisualstudio_)
+siVisualstudio = element (unsafeCoerce _siVisualstudio)
 
-foreign import siVisualstudiocode_ :: ReactIcon
+foreign import _siVisualstudiocode :: ReactIcon
 
 siVisualstudiocode :: forall a b. Union a b PropsIcon => Record a -> JSX
-siVisualstudiocode = element (unsafeCoerce siVisualstudiocode_)
+siVisualstudiocode = element (unsafeCoerce _siVisualstudiocode)
 
-foreign import siVite_ :: ReactIcon
+foreign import _siVite :: ReactIcon
 
 siVite :: forall a b. Union a b PropsIcon => Record a -> JSX
-siVite = element (unsafeCoerce siVite_)
+siVite = element (unsafeCoerce _siVite)
 
-foreign import siVivaldi_ :: ReactIcon
+foreign import _siVivaldi :: ReactIcon
 
 siVivaldi :: forall a b. Union a b PropsIcon => Record a -> JSX
-siVivaldi = element (unsafeCoerce siVivaldi_)
+siVivaldi = element (unsafeCoerce _siVivaldi)
 
-foreign import siVivino_ :: ReactIcon
+foreign import _siVivino :: ReactIcon
 
 siVivino :: forall a b. Union a b PropsIcon => Record a -> JSX
-siVivino = element (unsafeCoerce siVivino_)
+siVivino = element (unsafeCoerce _siVivino)
 
-foreign import siVk_ :: ReactIcon
+foreign import _siVk :: ReactIcon
 
 siVk :: forall a b. Union a b PropsIcon => Record a -> JSX
-siVk = element (unsafeCoerce siVk_)
+siVk = element (unsafeCoerce _siVk)
 
-foreign import siVlcmediaplayer_ :: ReactIcon
+foreign import _siVlcmediaplayer :: ReactIcon
 
 siVlcmediaplayer :: forall a b. Union a b PropsIcon => Record a -> JSX
-siVlcmediaplayer = element (unsafeCoerce siVlcmediaplayer_)
+siVlcmediaplayer = element (unsafeCoerce _siVlcmediaplayer)
 
-foreign import siVmware_ :: ReactIcon
+foreign import _siVmware :: ReactIcon
 
 siVmware :: forall a b. Union a b PropsIcon => Record a -> JSX
-siVmware = element (unsafeCoerce siVmware_)
+siVmware = element (unsafeCoerce _siVmware)
 
-foreign import siVodafone_ :: ReactIcon
+foreign import _siVodafone :: ReactIcon
 
 siVodafone :: forall a b. Union a b PropsIcon => Record a -> JSX
-siVodafone = element (unsafeCoerce siVodafone_)
+siVodafone = element (unsafeCoerce _siVodafone)
 
-foreign import siVolkswagen_ :: ReactIcon
+foreign import _siVolkswagen :: ReactIcon
 
 siVolkswagen :: forall a b. Union a b PropsIcon => Record a -> JSX
-siVolkswagen = element (unsafeCoerce siVolkswagen_)
+siVolkswagen = element (unsafeCoerce _siVolkswagen)
 
-foreign import siVolvo_ :: ReactIcon
+foreign import _siVolvo :: ReactIcon
 
 siVolvo :: forall a b. Union a b PropsIcon => Record a -> JSX
-siVolvo = element (unsafeCoerce siVolvo_)
+siVolvo = element (unsafeCoerce _siVolvo)
 
-foreign import siVonage_ :: ReactIcon
+foreign import _siVonage :: ReactIcon
 
 siVonage :: forall a b. Union a b PropsIcon => Record a -> JSX
-siVonage = element (unsafeCoerce siVonage_)
+siVonage = element (unsafeCoerce _siVonage)
 
-foreign import siVox_ :: ReactIcon
+foreign import _siVox :: ReactIcon
 
 siVox :: forall a b. Union a b PropsIcon => Record a -> JSX
-siVox = element (unsafeCoerce siVox_)
+siVox = element (unsafeCoerce _siVox)
 
-foreign import siVsco_ :: ReactIcon
+foreign import _siVsco :: ReactIcon
 
 siVsco :: forall a b. Union a b PropsIcon => Record a -> JSX
-siVsco = element (unsafeCoerce siVsco_)
+siVsco = element (unsafeCoerce _siVsco)
 
-foreign import siVuedotjs_ :: ReactIcon
+foreign import _siVuedotjs :: ReactIcon
 
 siVuedotjs :: forall a b. Union a b PropsIcon => Record a -> JSX
-siVuedotjs = element (unsafeCoerce siVuedotjs_)
+siVuedotjs = element (unsafeCoerce _siVuedotjs)
 
-foreign import siVuetify_ :: ReactIcon
+foreign import _siVuetify :: ReactIcon
 
 siVuetify :: forall a b. Union a b PropsIcon => Record a -> JSX
-siVuetify = element (unsafeCoerce siVuetify_)
+siVuetify = element (unsafeCoerce _siVuetify)
 
-foreign import siVulkan_ :: ReactIcon
+foreign import _siVulkan :: ReactIcon
 
 siVulkan :: forall a b. Union a b PropsIcon => Record a -> JSX
-siVulkan = element (unsafeCoerce siVulkan_)
+siVulkan = element (unsafeCoerce _siVulkan)
 
-foreign import siVultr_ :: ReactIcon
+foreign import _siVultr :: ReactIcon
 
 siVultr :: forall a b. Union a b PropsIcon => Record a -> JSX
-siVultr = element (unsafeCoerce siVultr_)
+siVultr = element (unsafeCoerce _siVultr)
 
-foreign import siWagtail_ :: ReactIcon
+foreign import _siWagtail :: ReactIcon
 
 siWagtail :: forall a b. Union a b PropsIcon => Record a -> JSX
-siWagtail = element (unsafeCoerce siWagtail_)
+siWagtail = element (unsafeCoerce _siWagtail)
 
-foreign import siWakatime_ :: ReactIcon
+foreign import _siWakatime :: ReactIcon
 
 siWakatime :: forall a b. Union a b PropsIcon => Record a -> JSX
-siWakatime = element (unsafeCoerce siWakatime_)
+siWakatime = element (unsafeCoerce _siWakatime)
 
-foreign import siWalkman_ :: ReactIcon
+foreign import _siWalkman :: ReactIcon
 
 siWalkman :: forall a b. Union a b PropsIcon => Record a -> JSX
-siWalkman = element (unsafeCoerce siWalkman_)
+siWalkman = element (unsafeCoerce _siWalkman)
 
-foreign import siWallabag_ :: ReactIcon
+foreign import _siWallabag :: ReactIcon
 
 siWallabag :: forall a b. Union a b PropsIcon => Record a -> JSX
-siWallabag = element (unsafeCoerce siWallabag_)
+siWallabag = element (unsafeCoerce _siWallabag)
 
-foreign import siWalmart_ :: ReactIcon
+foreign import _siWalmart :: ReactIcon
 
 siWalmart :: forall a b. Union a b PropsIcon => Record a -> JSX
-siWalmart = element (unsafeCoerce siWalmart_)
+siWalmart = element (unsafeCoerce _siWalmart)
 
-foreign import siWappalyzer_ :: ReactIcon
+foreign import _siWappalyzer :: ReactIcon
 
 siWappalyzer :: forall a b. Union a b PropsIcon => Record a -> JSX
-siWappalyzer = element (unsafeCoerce siWappalyzer_)
+siWappalyzer = element (unsafeCoerce _siWappalyzer)
 
-foreign import siWarnerbros_ :: ReactIcon
+foreign import _siWarnerbros :: ReactIcon
 
 siWarnerbros :: forall a b. Union a b PropsIcon => Record a -> JSX
-siWarnerbros = element (unsafeCoerce siWarnerbros_)
+siWarnerbros = element (unsafeCoerce _siWarnerbros)
 
-foreign import siWattpad_ :: ReactIcon
+foreign import _siWattpad :: ReactIcon
 
 siWattpad :: forall a b. Union a b PropsIcon => Record a -> JSX
-siWattpad = element (unsafeCoerce siWattpad_)
+siWattpad = element (unsafeCoerce _siWattpad)
 
-foreign import siWaze_ :: ReactIcon
+foreign import _siWaze :: ReactIcon
 
 siWaze :: forall a b. Union a b PropsIcon => Record a -> JSX
-siWaze = element (unsafeCoerce siWaze_)
+siWaze = element (unsafeCoerce _siWaze)
 
-foreign import siWearos_ :: ReactIcon
+foreign import _siWearos :: ReactIcon
 
 siWearos :: forall a b. Union a b PropsIcon => Record a -> JSX
-siWearos = element (unsafeCoerce siWearos_)
+siWearos = element (unsafeCoerce _siWearos)
 
-foreign import siWeasyl_ :: ReactIcon
+foreign import _siWeasyl :: ReactIcon
 
 siWeasyl :: forall a b. Union a b PropsIcon => Record a -> JSX
-siWeasyl = element (unsafeCoerce siWeasyl_)
+siWeasyl = element (unsafeCoerce _siWeasyl)
 
-foreign import siWebassembly_ :: ReactIcon
+foreign import _siWebassembly :: ReactIcon
 
 siWebassembly :: forall a b. Union a b PropsIcon => Record a -> JSX
-siWebassembly = element (unsafeCoerce siWebassembly_)
+siWebassembly = element (unsafeCoerce _siWebassembly)
 
-foreign import siWebauthn_ :: ReactIcon
+foreign import _siWebauthn :: ReactIcon
 
 siWebauthn :: forall a b. Union a b PropsIcon => Record a -> JSX
-siWebauthn = element (unsafeCoerce siWebauthn_)
+siWebauthn = element (unsafeCoerce _siWebauthn)
 
-foreign import siWebcomponentsdotorg_ :: ReactIcon
+foreign import _siWebcomponentsdotorg :: ReactIcon
 
 siWebcomponentsdotorg :: forall a b. Union a b PropsIcon => Record a -> JSX
-siWebcomponentsdotorg = element (unsafeCoerce siWebcomponentsdotorg_)
+siWebcomponentsdotorg = element (unsafeCoerce _siWebcomponentsdotorg)
 
-foreign import siWebdriverio_ :: ReactIcon
+foreign import _siWebdriverio :: ReactIcon
 
 siWebdriverio :: forall a b. Union a b PropsIcon => Record a -> JSX
-siWebdriverio = element (unsafeCoerce siWebdriverio_)
+siWebdriverio = element (unsafeCoerce _siWebdriverio)
 
-foreign import siWebflow_ :: ReactIcon
+foreign import _siWebflow :: ReactIcon
 
 siWebflow :: forall a b. Union a b PropsIcon => Record a -> JSX
-siWebflow = element (unsafeCoerce siWebflow_)
+siWebflow = element (unsafeCoerce _siWebflow)
 
-foreign import siWebgl_ :: ReactIcon
+foreign import _siWebgl :: ReactIcon
 
 siWebgl :: forall a b. Union a b PropsIcon => Record a -> JSX
-siWebgl = element (unsafeCoerce siWebgl_)
+siWebgl = element (unsafeCoerce _siWebgl)
 
-foreign import siWebhint_ :: ReactIcon
+foreign import _siWebhint :: ReactIcon
 
 siWebhint :: forall a b. Union a b PropsIcon => Record a -> JSX
-siWebhint = element (unsafeCoerce siWebhint_)
+siWebhint = element (unsafeCoerce _siWebhint)
 
-foreign import siWeblate_ :: ReactIcon
+foreign import _siWeblate :: ReactIcon
 
 siWeblate :: forall a b. Union a b PropsIcon => Record a -> JSX
-siWeblate = element (unsafeCoerce siWeblate_)
+siWeblate = element (unsafeCoerce _siWeblate)
 
-foreign import siWebmin_ :: ReactIcon
+foreign import _siWebmin :: ReactIcon
 
 siWebmin :: forall a b. Union a b PropsIcon => Record a -> JSX
-siWebmin = element (unsafeCoerce siWebmin_)
+siWebmin = element (unsafeCoerce _siWebmin)
 
-foreign import siWebmoney_ :: ReactIcon
+foreign import _siWebmoney :: ReactIcon
 
 siWebmoney :: forall a b. Union a b PropsIcon => Record a -> JSX
-siWebmoney = element (unsafeCoerce siWebmoney_)
+siWebmoney = element (unsafeCoerce _siWebmoney)
 
-foreign import siWebpack_ :: ReactIcon
+foreign import _siWebpack :: ReactIcon
 
 siWebpack :: forall a b. Union a b PropsIcon => Record a -> JSX
-siWebpack = element (unsafeCoerce siWebpack_)
+siWebpack = element (unsafeCoerce _siWebpack)
 
-foreign import siWebrtc_ :: ReactIcon
+foreign import _siWebrtc :: ReactIcon
 
 siWebrtc :: forall a b. Union a b PropsIcon => Record a -> JSX
-siWebrtc = element (unsafeCoerce siWebrtc_)
+siWebrtc = element (unsafeCoerce _siWebrtc)
 
-foreign import siWebstorm_ :: ReactIcon
+foreign import _siWebstorm :: ReactIcon
 
 siWebstorm :: forall a b. Union a b PropsIcon => Record a -> JSX
-siWebstorm = element (unsafeCoerce siWebstorm_)
+siWebstorm = element (unsafeCoerce _siWebstorm)
 
-foreign import siWebtoon_ :: ReactIcon
+foreign import _siWebtoon :: ReactIcon
 
 siWebtoon :: forall a b. Union a b PropsIcon => Record a -> JSX
-siWebtoon = element (unsafeCoerce siWebtoon_)
+siWebtoon = element (unsafeCoerce _siWebtoon)
 
-foreign import siWechat_ :: ReactIcon
+foreign import _siWechat :: ReactIcon
 
 siWechat :: forall a b. Union a b PropsIcon => Record a -> JSX
-siWechat = element (unsafeCoerce siWechat_)
+siWechat = element (unsafeCoerce _siWechat)
 
-foreign import siWeightsandbiases_ :: ReactIcon
+foreign import _siWeightsandbiases :: ReactIcon
 
 siWeightsandbiases :: forall a b. Union a b PropsIcon => Record a -> JSX
-siWeightsandbiases = element (unsafeCoerce siWeightsandbiases_)
+siWeightsandbiases = element (unsafeCoerce _siWeightsandbiases)
 
-foreign import siWemo_ :: ReactIcon
+foreign import _siWemo :: ReactIcon
 
 siWemo :: forall a b. Union a b PropsIcon => Record a -> JSX
-siWemo = element (unsafeCoerce siWemo_)
+siWemo = element (unsafeCoerce _siWemo)
 
-foreign import siWetransfer_ :: ReactIcon
+foreign import _siWetransfer :: ReactIcon
 
 siWetransfer :: forall a b. Union a b PropsIcon => Record a -> JSX
-siWetransfer = element (unsafeCoerce siWetransfer_)
+siWetransfer = element (unsafeCoerce _siWetransfer)
 
-foreign import siWhatsapp_ :: ReactIcon
+foreign import _siWhatsapp :: ReactIcon
 
 siWhatsapp :: forall a b. Union a b PropsIcon => Record a -> JSX
-siWhatsapp = element (unsafeCoerce siWhatsapp_)
+siWhatsapp = element (unsafeCoerce _siWhatsapp)
 
-foreign import siWheniwork_ :: ReactIcon
+foreign import _siWheniwork :: ReactIcon
 
 siWheniwork :: forall a b. Union a b PropsIcon => Record a -> JSX
-siWheniwork = element (unsafeCoerce siWheniwork_)
+siWheniwork = element (unsafeCoerce _siWheniwork)
 
-foreign import siWhitesource_ :: ReactIcon
+foreign import _siWhitesource :: ReactIcon
 
 siWhitesource :: forall a b. Union a b PropsIcon => Record a -> JSX
-siWhitesource = element (unsafeCoerce siWhitesource_)
+siWhitesource = element (unsafeCoerce _siWhitesource)
 
-foreign import siWii_ :: ReactIcon
+foreign import _siWii :: ReactIcon
 
 siWii :: forall a b. Union a b PropsIcon => Record a -> JSX
-siWii = element (unsafeCoerce siWii_)
+siWii = element (unsafeCoerce _siWii)
 
-foreign import siWiiu_ :: ReactIcon
+foreign import _siWiiu :: ReactIcon
 
 siWiiu :: forall a b. Union a b PropsIcon => Record a -> JSX
-siWiiu = element (unsafeCoerce siWiiu_)
+siWiiu = element (unsafeCoerce _siWiiu)
 
-foreign import siWikidata_ :: ReactIcon
+foreign import _siWikidata :: ReactIcon
 
 siWikidata :: forall a b. Union a b PropsIcon => Record a -> JSX
-siWikidata = element (unsafeCoerce siWikidata_)
+siWikidata = element (unsafeCoerce _siWikidata)
 
-foreign import siWikimediacommons_ :: ReactIcon
+foreign import _siWikimediacommons :: ReactIcon
 
 siWikimediacommons :: forall a b. Union a b PropsIcon => Record a -> JSX
-siWikimediacommons = element (unsafeCoerce siWikimediacommons_)
+siWikimediacommons = element (unsafeCoerce _siWikimediacommons)
 
-foreign import siWikipedia_ :: ReactIcon
+foreign import _siWikipedia :: ReactIcon
 
 siWikipedia :: forall a b. Union a b PropsIcon => Record a -> JSX
-siWikipedia = element (unsafeCoerce siWikipedia_)
+siWikipedia = element (unsafeCoerce _siWikipedia)
 
-foreign import siWikiquote_ :: ReactIcon
+foreign import _siWikiquote :: ReactIcon
 
 siWikiquote :: forall a b. Union a b PropsIcon => Record a -> JSX
-siWikiquote = element (unsafeCoerce siWikiquote_)
+siWikiquote = element (unsafeCoerce _siWikiquote)
 
-foreign import siWikivoyage_ :: ReactIcon
+foreign import _siWikivoyage :: ReactIcon
 
 siWikivoyage :: forall a b. Union a b PropsIcon => Record a -> JSX
-siWikivoyage = element (unsafeCoerce siWikivoyage_)
+siWikivoyage = element (unsafeCoerce _siWikivoyage)
 
-foreign import siWindicss_ :: ReactIcon
+foreign import _siWindicss :: ReactIcon
 
 siWindicss :: forall a b. Union a b PropsIcon => Record a -> JSX
-siWindicss = element (unsafeCoerce siWindicss_)
+siWindicss = element (unsafeCoerce _siWindicss)
 
-foreign import siWindows_ :: ReactIcon
+foreign import _siWindows :: ReactIcon
 
 siWindows :: forall a b. Union a b PropsIcon => Record a -> JSX
-siWindows = element (unsafeCoerce siWindows_)
+siWindows = element (unsafeCoerce _siWindows)
 
-foreign import siWindowsterminal_ :: ReactIcon
+foreign import _siWindowsterminal :: ReactIcon
 
 siWindowsterminal :: forall a b. Union a b PropsIcon => Record a -> JSX
-siWindowsterminal = element (unsafeCoerce siWindowsterminal_)
+siWindowsterminal = element (unsafeCoerce _siWindowsterminal)
 
-foreign import siWindowsxp_ :: ReactIcon
+foreign import _siWindowsxp :: ReactIcon
 
 siWindowsxp :: forall a b. Union a b PropsIcon => Record a -> JSX
-siWindowsxp = element (unsafeCoerce siWindowsxp_)
+siWindowsxp = element (unsafeCoerce _siWindowsxp)
 
-foreign import siWinmate_ :: ReactIcon
+foreign import _siWinmate :: ReactIcon
 
 siWinmate :: forall a b. Union a b PropsIcon => Record a -> JSX
-siWinmate = element (unsafeCoerce siWinmate_)
+siWinmate = element (unsafeCoerce _siWinmate)
 
-foreign import siWipro_ :: ReactIcon
+foreign import _siWipro :: ReactIcon
 
 siWipro :: forall a b. Union a b PropsIcon => Record a -> JSX
-siWipro = element (unsafeCoerce siWipro_)
+siWipro = element (unsafeCoerce _siWipro)
 
-foreign import siWire_ :: ReactIcon
+foreign import _siWire :: ReactIcon
 
 siWire :: forall a b. Union a b PropsIcon => Record a -> JSX
-siWire = element (unsafeCoerce siWire_)
+siWire = element (unsafeCoerce _siWire)
 
-foreign import siWireguard_ :: ReactIcon
+foreign import _siWireguard :: ReactIcon
 
 siWireguard :: forall a b. Union a b PropsIcon => Record a -> JSX
-siWireguard = element (unsafeCoerce siWireguard_)
+siWireguard = element (unsafeCoerce _siWireguard)
 
-foreign import siWireshark_ :: ReactIcon
+foreign import _siWireshark :: ReactIcon
 
 siWireshark :: forall a b. Union a b PropsIcon => Record a -> JSX
-siWireshark = element (unsafeCoerce siWireshark_)
+siWireshark = element (unsafeCoerce _siWireshark)
 
-foreign import siWish_ :: ReactIcon
+foreign import _siWish :: ReactIcon
 
 siWish :: forall a b. Union a b PropsIcon => Record a -> JSX
-siWish = element (unsafeCoerce siWish_)
+siWish = element (unsafeCoerce _siWish)
 
-foreign import siWistia_ :: ReactIcon
+foreign import _siWistia :: ReactIcon
 
 siWistia :: forall a b. Union a b PropsIcon => Record a -> JSX
-siWistia = element (unsafeCoerce siWistia_)
+siWistia = element (unsafeCoerce _siWistia)
 
-foreign import siWix_ :: ReactIcon
+foreign import _siWix :: ReactIcon
 
 siWix :: forall a b. Union a b PropsIcon => Record a -> JSX
-siWix = element (unsafeCoerce siWix_)
+siWix = element (unsafeCoerce _siWix)
 
-foreign import siWizzair_ :: ReactIcon
+foreign import _siWizzair :: ReactIcon
 
 siWizzair :: forall a b. Union a b PropsIcon => Record a -> JSX
-siWizzair = element (unsafeCoerce siWizzair_)
+siWizzair = element (unsafeCoerce _siWizzair)
 
-foreign import siWolfram_ :: ReactIcon
+foreign import _siWolfram :: ReactIcon
 
 siWolfram :: forall a b. Union a b PropsIcon => Record a -> JSX
-siWolfram = element (unsafeCoerce siWolfram_)
+siWolfram = element (unsafeCoerce _siWolfram)
 
-foreign import siWolframlanguage_ :: ReactIcon
+foreign import _siWolframlanguage :: ReactIcon
 
 siWolframlanguage :: forall a b. Union a b PropsIcon => Record a -> JSX
-siWolframlanguage = element (unsafeCoerce siWolframlanguage_)
+siWolframlanguage = element (unsafeCoerce _siWolframlanguage)
 
-foreign import siWolframmathematica_ :: ReactIcon
+foreign import _siWolframmathematica :: ReactIcon
 
 siWolframmathematica :: forall a b. Union a b PropsIcon => Record a -> JSX
-siWolframmathematica = element (unsafeCoerce siWolframmathematica_)
+siWolframmathematica = element (unsafeCoerce _siWolframmathematica)
 
-foreign import siWoo_ :: ReactIcon
+foreign import _siWoo :: ReactIcon
 
 siWoo :: forall a b. Union a b PropsIcon => Record a -> JSX
-siWoo = element (unsafeCoerce siWoo_)
+siWoo = element (unsafeCoerce _siWoo)
 
-foreign import siWoocommerce_ :: ReactIcon
+foreign import _siWoocommerce :: ReactIcon
 
 siWoocommerce :: forall a b. Union a b PropsIcon => Record a -> JSX
-siWoocommerce = element (unsafeCoerce siWoocommerce_)
+siWoocommerce = element (unsafeCoerce _siWoocommerce)
 
-foreign import siWordpress_ :: ReactIcon
+foreign import _siWordpress :: ReactIcon
 
 siWordpress :: forall a b. Union a b PropsIcon => Record a -> JSX
-siWordpress = element (unsafeCoerce siWordpress_)
+siWordpress = element (unsafeCoerce _siWordpress)
 
-foreign import siWorkplace_ :: ReactIcon
+foreign import _siWorkplace :: ReactIcon
 
 siWorkplace :: forall a b. Union a b PropsIcon => Record a -> JSX
-siWorkplace = element (unsafeCoerce siWorkplace_)
+siWorkplace = element (unsafeCoerce _siWorkplace)
 
-foreign import siWorldhealthorganization_ :: ReactIcon
+foreign import _siWorldhealthorganization :: ReactIcon
 
 siWorldhealthorganization :: forall a b. Union a b PropsIcon => Record a -> JSX
-siWorldhealthorganization = element (unsafeCoerce siWorldhealthorganization_)
+siWorldhealthorganization = element (unsafeCoerce _siWorldhealthorganization)
 
-foreign import siWpengine_ :: ReactIcon
+foreign import _siWpengine :: ReactIcon
 
 siWpengine :: forall a b. Union a b PropsIcon => Record a -> JSX
-siWpengine = element (unsafeCoerce siWpengine_)
+siWpengine = element (unsafeCoerce _siWpengine)
 
-foreign import siWprocket_ :: ReactIcon
+foreign import _siWprocket :: ReactIcon
 
 siWprocket :: forall a b. Union a b PropsIcon => Record a -> JSX
-siWprocket = element (unsafeCoerce siWprocket_)
+siWprocket = element (unsafeCoerce _siWprocket)
 
-foreign import siWritedotas_ :: ReactIcon
+foreign import _siWritedotas :: ReactIcon
 
 siWritedotas :: forall a b. Union a b PropsIcon => Record a -> JSX
-siWritedotas = element (unsafeCoerce siWritedotas_)
+siWritedotas = element (unsafeCoerce _siWritedotas)
 
-foreign import siWwe_ :: ReactIcon
+foreign import _siWwe :: ReactIcon
 
 siWwe :: forall a b. Union a b PropsIcon => Record a -> JSX
-siWwe = element (unsafeCoerce siWwe_)
+siWwe = element (unsafeCoerce _siWwe)
 
-foreign import siWwise_ :: ReactIcon
+foreign import _siWwise :: ReactIcon
 
 siWwise :: forall a b. Union a b PropsIcon => Record a -> JSX
-siWwise = element (unsafeCoerce siWwise_)
+siWwise = element (unsafeCoerce _siWwise)
 
-foreign import siXamarin_ :: ReactIcon
+foreign import _siXamarin :: ReactIcon
 
 siXamarin :: forall a b. Union a b PropsIcon => Record a -> JSX
-siXamarin = element (unsafeCoerce siXamarin_)
+siXamarin = element (unsafeCoerce _siXamarin)
 
-foreign import siXaml_ :: ReactIcon
+foreign import _siXaml :: ReactIcon
 
 siXaml :: forall a b. Union a b PropsIcon => Record a -> JSX
-siXaml = element (unsafeCoerce siXaml_)
+siXaml = element (unsafeCoerce _siXaml)
 
-foreign import siXampp_ :: ReactIcon
+foreign import _siXampp :: ReactIcon
 
 siXampp :: forall a b. Union a b PropsIcon => Record a -> JSX
-siXampp = element (unsafeCoerce siXampp_)
+siXampp = element (unsafeCoerce _siXampp)
 
-foreign import siXbox_ :: ReactIcon
+foreign import _siXbox :: ReactIcon
 
 siXbox :: forall a b. Union a b PropsIcon => Record a -> JSX
-siXbox = element (unsafeCoerce siXbox_)
+siXbox = element (unsafeCoerce _siXbox)
 
-foreign import siXcode_ :: ReactIcon
+foreign import _siXcode :: ReactIcon
 
 siXcode :: forall a b. Union a b PropsIcon => Record a -> JSX
-siXcode = element (unsafeCoerce siXcode_)
+siXcode = element (unsafeCoerce _siXcode)
 
-foreign import siXdadevelopers_ :: ReactIcon
+foreign import _siXdadevelopers :: ReactIcon
 
 siXdadevelopers :: forall a b. Union a b PropsIcon => Record a -> JSX
-siXdadevelopers = element (unsafeCoerce siXdadevelopers_)
+siXdadevelopers = element (unsafeCoerce _siXdadevelopers)
 
-foreign import siXdotorg_ :: ReactIcon
+foreign import _siXdotorg :: ReactIcon
 
 siXdotorg :: forall a b. Union a b PropsIcon => Record a -> JSX
-siXdotorg = element (unsafeCoerce siXdotorg_)
+siXdotorg = element (unsafeCoerce _siXdotorg)
 
-foreign import siXero_ :: ReactIcon
+foreign import _siXero :: ReactIcon
 
 siXero :: forall a b. Union a b PropsIcon => Record a -> JSX
-siXero = element (unsafeCoerce siXero_)
+siXero = element (unsafeCoerce _siXero)
 
-foreign import siXfce_ :: ReactIcon
+foreign import _siXfce :: ReactIcon
 
 siXfce :: forall a b. Union a b PropsIcon => Record a -> JSX
-siXfce = element (unsafeCoerce siXfce_)
+siXfce = element (unsafeCoerce _siXfce)
 
-foreign import siXiaomi_ :: ReactIcon
+foreign import _siXiaomi :: ReactIcon
 
 siXiaomi :: forall a b. Union a b PropsIcon => Record a -> JSX
-siXiaomi = element (unsafeCoerce siXiaomi_)
+siXiaomi = element (unsafeCoerce _siXiaomi)
 
-foreign import siXilinx_ :: ReactIcon
+foreign import _siXilinx :: ReactIcon
 
 siXilinx :: forall a b. Union a b PropsIcon => Record a -> JSX
-siXilinx = element (unsafeCoerce siXilinx_)
+siXilinx = element (unsafeCoerce _siXilinx)
 
-foreign import siXing_ :: ReactIcon
+foreign import _siXing :: ReactIcon
 
 siXing :: forall a b. Union a b PropsIcon => Record a -> JSX
-siXing = element (unsafeCoerce siXing_)
+siXing = element (unsafeCoerce _siXing)
 
-foreign import siXmpp_ :: ReactIcon
+foreign import _siXmpp :: ReactIcon
 
 siXmpp :: forall a b. Union a b PropsIcon => Record a -> JSX
-siXmpp = element (unsafeCoerce siXmpp_)
+siXmpp = element (unsafeCoerce _siXmpp)
 
-foreign import siXrp_ :: ReactIcon
+foreign import _siXrp :: ReactIcon
 
 siXrp :: forall a b. Union a b PropsIcon => Record a -> JSX
-siXrp = element (unsafeCoerce siXrp_)
+siXrp = element (unsafeCoerce _siXrp)
 
-foreign import siXsplit_ :: ReactIcon
+foreign import _siXsplit :: ReactIcon
 
 siXsplit :: forall a b. Union a b PropsIcon => Record a -> JSX
-siXsplit = element (unsafeCoerce siXsplit_)
+siXsplit = element (unsafeCoerce _siXsplit)
 
-foreign import siXstate_ :: ReactIcon
+foreign import _siXstate :: ReactIcon
 
 siXstate :: forall a b. Union a b PropsIcon => Record a -> JSX
-siXstate = element (unsafeCoerce siXstate_)
+siXstate = element (unsafeCoerce _siXstate)
 
-foreign import siYahoo_ :: ReactIcon
+foreign import _siYahoo :: ReactIcon
 
 siYahoo :: forall a b. Union a b PropsIcon => Record a -> JSX
-siYahoo = element (unsafeCoerce siYahoo_)
+siYahoo = element (unsafeCoerce _siYahoo)
 
-foreign import siYale_ :: ReactIcon
+foreign import _siYale :: ReactIcon
 
 siYale :: forall a b. Union a b PropsIcon => Record a -> JSX
-siYale = element (unsafeCoerce siYale_)
+siYale = element (unsafeCoerce _siYale)
 
-foreign import siYamahacorporation_ :: ReactIcon
+foreign import _siYamahacorporation :: ReactIcon
 
 siYamahacorporation :: forall a b. Union a b PropsIcon => Record a -> JSX
-siYamahacorporation = element (unsafeCoerce siYamahacorporation_)
+siYamahacorporation = element (unsafeCoerce _siYamahacorporation)
 
-foreign import siYamahamotorcorporation_ :: ReactIcon
+foreign import _siYamahamotorcorporation :: ReactIcon
 
 siYamahamotorcorporation :: forall a b. Union a b PropsIcon => Record a -> JSX
-siYamahamotorcorporation = element (unsafeCoerce siYamahamotorcorporation_)
+siYamahamotorcorporation = element (unsafeCoerce _siYamahamotorcorporation)
 
-foreign import siYammer_ :: ReactIcon
+foreign import _siYammer :: ReactIcon
 
 siYammer :: forall a b. Union a b PropsIcon => Record a -> JSX
-siYammer = element (unsafeCoerce siYammer_)
+siYammer = element (unsafeCoerce _siYammer)
 
-foreign import siYarn_ :: ReactIcon
+foreign import _siYarn :: ReactIcon
 
 siYarn :: forall a b. Union a b PropsIcon => Record a -> JSX
-siYarn = element (unsafeCoerce siYarn_)
+siYarn = element (unsafeCoerce _siYarn)
 
-foreign import siYcombinator_ :: ReactIcon
+foreign import _siYcombinator :: ReactIcon
 
 siYcombinator :: forall a b. Union a b PropsIcon => Record a -> JSX
-siYcombinator = element (unsafeCoerce siYcombinator_)
+siYcombinator = element (unsafeCoerce _siYcombinator)
 
-foreign import siYelp_ :: ReactIcon
+foreign import _siYelp :: ReactIcon
 
 siYelp :: forall a b. Union a b PropsIcon => Record a -> JSX
-siYelp = element (unsafeCoerce siYelp_)
+siYelp = element (unsafeCoerce _siYelp)
 
-foreign import siYoast_ :: ReactIcon
+foreign import _siYoast :: ReactIcon
 
 siYoast :: forall a b. Union a b PropsIcon => Record a -> JSX
-siYoast = element (unsafeCoerce siYoast_)
+siYoast = element (unsafeCoerce _siYoast)
 
-foreign import siYourtraveldottv_ :: ReactIcon
+foreign import _siYourtraveldottv :: ReactIcon
 
 siYourtraveldottv :: forall a b. Union a b PropsIcon => Record a -> JSX
-siYourtraveldottv = element (unsafeCoerce siYourtraveldottv_)
+siYourtraveldottv = element (unsafeCoerce _siYourtraveldottv)
 
-foreign import siYoutube_ :: ReactIcon
+foreign import _siYoutube :: ReactIcon
 
 siYoutube :: forall a b. Union a b PropsIcon => Record a -> JSX
-siYoutube = element (unsafeCoerce siYoutube_)
+siYoutube = element (unsafeCoerce _siYoutube)
 
-foreign import siYoutubegaming_ :: ReactIcon
+foreign import _siYoutubegaming :: ReactIcon
 
 siYoutubegaming :: forall a b. Union a b PropsIcon => Record a -> JSX
-siYoutubegaming = element (unsafeCoerce siYoutubegaming_)
+siYoutubegaming = element (unsafeCoerce _siYoutubegaming)
 
-foreign import siYoutubemusic_ :: ReactIcon
+foreign import _siYoutubemusic :: ReactIcon
 
 siYoutubemusic :: forall a b. Union a b PropsIcon => Record a -> JSX
-siYoutubemusic = element (unsafeCoerce siYoutubemusic_)
+siYoutubemusic = element (unsafeCoerce _siYoutubemusic)
 
-foreign import siYoutubestudio_ :: ReactIcon
+foreign import _siYoutubestudio :: ReactIcon
 
 siYoutubestudio :: forall a b. Union a b PropsIcon => Record a -> JSX
-siYoutubestudio = element (unsafeCoerce siYoutubestudio_)
+siYoutubestudio = element (unsafeCoerce _siYoutubestudio)
 
-foreign import siYoutubetv_ :: ReactIcon
+foreign import _siYoutubetv :: ReactIcon
 
 siYoutubetv :: forall a b. Union a b PropsIcon => Record a -> JSX
-siYoutubetv = element (unsafeCoerce siYoutubetv_)
+siYoutubetv = element (unsafeCoerce _siYoutubetv)
 
-foreign import siZalando_ :: ReactIcon
+foreign import _siZalando :: ReactIcon
 
 siZalando :: forall a b. Union a b PropsIcon => Record a -> JSX
-siZalando = element (unsafeCoerce siZalando_)
+siZalando = element (unsafeCoerce _siZalando)
 
-foreign import siZalo_ :: ReactIcon
+foreign import _siZalo :: ReactIcon
 
 siZalo :: forall a b. Union a b PropsIcon => Record a -> JSX
-siZalo = element (unsafeCoerce siZalo_)
+siZalo = element (unsafeCoerce _siZalo)
 
-foreign import siZapier_ :: ReactIcon
+foreign import _siZapier :: ReactIcon
 
 siZapier :: forall a b. Union a b PropsIcon => Record a -> JSX
-siZapier = element (unsafeCoerce siZapier_)
+siZapier = element (unsafeCoerce _siZapier)
 
-foreign import siZcash_ :: ReactIcon
+foreign import _siZcash :: ReactIcon
 
 siZcash :: forall a b. Union a b PropsIcon => Record a -> JSX
-siZcash = element (unsafeCoerce siZcash_)
+siZcash = element (unsafeCoerce _siZcash)
 
-foreign import siZdf_ :: ReactIcon
+foreign import _siZdf :: ReactIcon
 
 siZdf :: forall a b. Union a b PropsIcon => Record a -> JSX
-siZdf = element (unsafeCoerce siZdf_)
+siZdf = element (unsafeCoerce _siZdf)
 
-foreign import siZelle_ :: ReactIcon
+foreign import _siZelle :: ReactIcon
 
 siZelle :: forall a b. Union a b PropsIcon => Record a -> JSX
-siZelle = element (unsafeCoerce siZelle_)
+siZelle = element (unsafeCoerce _siZelle)
 
-foreign import siZend_ :: ReactIcon
+foreign import _siZend :: ReactIcon
 
 siZend :: forall a b. Union a b PropsIcon => Record a -> JSX
-siZend = element (unsafeCoerce siZend_)
+siZend = element (unsafeCoerce _siZend)
 
-foreign import siZendesk_ :: ReactIcon
+foreign import _siZendesk :: ReactIcon
 
 siZendesk :: forall a b. Union a b PropsIcon => Record a -> JSX
-siZendesk = element (unsafeCoerce siZendesk_)
+siZendesk = element (unsafeCoerce _siZendesk)
 
-foreign import siZendframework_ :: ReactIcon
+foreign import _siZendframework :: ReactIcon
 
 siZendframework :: forall a b. Union a b PropsIcon => Record a -> JSX
-siZendframework = element (unsafeCoerce siZendframework_)
+siZendframework = element (unsafeCoerce _siZendframework)
 
-foreign import siZenn_ :: ReactIcon
+foreign import _siZenn :: ReactIcon
 
 siZenn :: forall a b. Union a b PropsIcon => Record a -> JSX
-siZenn = element (unsafeCoerce siZenn_)
+siZenn = element (unsafeCoerce _siZenn)
 
-foreign import siZenodo_ :: ReactIcon
+foreign import _siZenodo :: ReactIcon
 
 siZenodo :: forall a b. Union a b PropsIcon => Record a -> JSX
-siZenodo = element (unsafeCoerce siZenodo_)
+siZenodo = element (unsafeCoerce _siZenodo)
 
-foreign import siZerodha_ :: ReactIcon
+foreign import _siZerodha :: ReactIcon
 
 siZerodha :: forall a b. Union a b PropsIcon => Record a -> JSX
-siZerodha = element (unsafeCoerce siZerodha_)
+siZerodha = element (unsafeCoerce _siZerodha)
 
-foreign import siZeromq_ :: ReactIcon
+foreign import _siZeromq :: ReactIcon
 
 siZeromq :: forall a b. Union a b PropsIcon => Record a -> JSX
-siZeromq = element (unsafeCoerce siZeromq_)
+siZeromq = element (unsafeCoerce _siZeromq)
 
-foreign import siZerply_ :: ReactIcon
+foreign import _siZerply :: ReactIcon
 
 siZerply :: forall a b. Union a b PropsIcon => Record a -> JSX
-siZerply = element (unsafeCoerce siZerply_)
+siZerply = element (unsafeCoerce _siZerply)
 
-foreign import siZhihu_ :: ReactIcon
+foreign import _siZhihu :: ReactIcon
 
 siZhihu :: forall a b. Union a b PropsIcon => Record a -> JSX
-siZhihu = element (unsafeCoerce siZhihu_)
+siZhihu = element (unsafeCoerce _siZhihu)
 
-foreign import siZig_ :: ReactIcon
+foreign import _siZig :: ReactIcon
 
 siZig :: forall a b. Union a b PropsIcon => Record a -> JSX
-siZig = element (unsafeCoerce siZig_)
+siZig = element (unsafeCoerce _siZig)
 
-foreign import siZigbee_ :: ReactIcon
+foreign import _siZigbee :: ReactIcon
 
 siZigbee :: forall a b. Union a b PropsIcon => Record a -> JSX
-siZigbee = element (unsafeCoerce siZigbee_)
+siZigbee = element (unsafeCoerce _siZigbee)
 
-foreign import siZillow_ :: ReactIcon
+foreign import _siZillow :: ReactIcon
 
 siZillow :: forall a b. Union a b PropsIcon => Record a -> JSX
-siZillow = element (unsafeCoerce siZillow_)
+siZillow = element (unsafeCoerce _siZillow)
 
-foreign import siZingat_ :: ReactIcon
+foreign import _siZingat :: ReactIcon
 
 siZingat :: forall a b. Union a b PropsIcon => Record a -> JSX
-siZingat = element (unsafeCoerce siZingat_)
+siZingat = element (unsafeCoerce _siZingat)
 
-foreign import siZoho_ :: ReactIcon
+foreign import _siZoho :: ReactIcon
 
 siZoho :: forall a b. Union a b PropsIcon => Record a -> JSX
-siZoho = element (unsafeCoerce siZoho_)
+siZoho = element (unsafeCoerce _siZoho)
 
-foreign import siZoiper_ :: ReactIcon
+foreign import _siZoiper :: ReactIcon
 
 siZoiper :: forall a b. Union a b PropsIcon => Record a -> JSX
-siZoiper = element (unsafeCoerce siZoiper_)
+siZoiper = element (unsafeCoerce _siZoiper)
 
-foreign import siZomato_ :: ReactIcon
+foreign import _siZomato :: ReactIcon
 
 siZomato :: forall a b. Union a b PropsIcon => Record a -> JSX
-siZomato = element (unsafeCoerce siZomato_)
+siZomato = element (unsafeCoerce _siZomato)
 
-foreign import siZoom_ :: ReactIcon
+foreign import _siZoom :: ReactIcon
 
 siZoom :: forall a b. Union a b PropsIcon => Record a -> JSX
-siZoom = element (unsafeCoerce siZoom_)
+siZoom = element (unsafeCoerce _siZoom)
 
-foreign import siZorin_ :: ReactIcon
+foreign import _siZorin :: ReactIcon
 
 siZorin :: forall a b. Union a b PropsIcon => Record a -> JSX
-siZorin = element (unsafeCoerce siZorin_)
+siZorin = element (unsafeCoerce _siZorin)
 
-foreign import siZotero_ :: ReactIcon
+foreign import _siZotero :: ReactIcon
 
 siZotero :: forall a b. Union a b PropsIcon => Record a -> JSX
-siZotero = element (unsafeCoerce siZotero_)
+siZotero = element (unsafeCoerce _siZotero)
 
-foreign import siZulip_ :: ReactIcon
+foreign import _siZulip :: ReactIcon
 
 siZulip :: forall a b. Union a b PropsIcon => Record a -> JSX
-siZulip = element (unsafeCoerce siZulip_)
+siZulip = element (unsafeCoerce _siZulip)
 
-foreign import siZwave_ :: ReactIcon
+foreign import _siZwave :: ReactIcon
 
 siZwave :: forall a b. Union a b PropsIcon => Record a -> JSX
-siZwave = element (unsafeCoerce siZwave_)
+siZwave = element (unsafeCoerce _siZwave)
 
-foreign import siZyte_ :: ReactIcon
+foreign import _siZyte :: ReactIcon
 
 siZyte :: forall a b. Union a b PropsIcon => Record a -> JSX
-siZyte = element (unsafeCoerce siZyte_)
+siZyte = element (unsafeCoerce _siZyte)

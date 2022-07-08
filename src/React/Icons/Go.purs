@@ -9,922 +9,922 @@ import React.Basic (JSX, element)
 import React.Icons.Types (ReactIcon, PropsIcon)
 import Unsafe.Coerce (unsafeCoerce)
 
-foreign import goAlert_ :: ReactIcon
+foreign import _goAlert :: ReactIcon
 
 goAlert :: forall a b. Union a b PropsIcon => Record a -> JSX
-goAlert = element (unsafeCoerce goAlert_)
+goAlert = element (unsafeCoerce _goAlert)
 
-foreign import goArchive_ :: ReactIcon
+foreign import _goArchive :: ReactIcon
 
 goArchive :: forall a b. Union a b PropsIcon => Record a -> JSX
-goArchive = element (unsafeCoerce goArchive_)
+goArchive = element (unsafeCoerce _goArchive)
 
-foreign import goArrowBoth_ :: ReactIcon
+foreign import _goArrowBoth :: ReactIcon
 
 goArrowBoth :: forall a b. Union a b PropsIcon => Record a -> JSX
-goArrowBoth = element (unsafeCoerce goArrowBoth_)
+goArrowBoth = element (unsafeCoerce _goArrowBoth)
 
-foreign import goArrowDown_ :: ReactIcon
+foreign import _goArrowDown :: ReactIcon
 
 goArrowDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-goArrowDown = element (unsafeCoerce goArrowDown_)
+goArrowDown = element (unsafeCoerce _goArrowDown)
 
-foreign import goArrowLeft_ :: ReactIcon
+foreign import _goArrowLeft :: ReactIcon
 
 goArrowLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-goArrowLeft = element (unsafeCoerce goArrowLeft_)
+goArrowLeft = element (unsafeCoerce _goArrowLeft)
 
-foreign import goArrowRight_ :: ReactIcon
+foreign import _goArrowRight :: ReactIcon
 
 goArrowRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-goArrowRight = element (unsafeCoerce goArrowRight_)
+goArrowRight = element (unsafeCoerce _goArrowRight)
 
-foreign import goArrowSmallDown_ :: ReactIcon
+foreign import _goArrowSmallDown :: ReactIcon
 
 goArrowSmallDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-goArrowSmallDown = element (unsafeCoerce goArrowSmallDown_)
+goArrowSmallDown = element (unsafeCoerce _goArrowSmallDown)
 
-foreign import goArrowSmallLeft_ :: ReactIcon
+foreign import _goArrowSmallLeft :: ReactIcon
 
 goArrowSmallLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-goArrowSmallLeft = element (unsafeCoerce goArrowSmallLeft_)
+goArrowSmallLeft = element (unsafeCoerce _goArrowSmallLeft)
 
-foreign import goArrowSmallRight_ :: ReactIcon
+foreign import _goArrowSmallRight :: ReactIcon
 
 goArrowSmallRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-goArrowSmallRight = element (unsafeCoerce goArrowSmallRight_)
+goArrowSmallRight = element (unsafeCoerce _goArrowSmallRight)
 
-foreign import goArrowSmallUp_ :: ReactIcon
+foreign import _goArrowSmallUp :: ReactIcon
 
 goArrowSmallUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-goArrowSmallUp = element (unsafeCoerce goArrowSmallUp_)
+goArrowSmallUp = element (unsafeCoerce _goArrowSmallUp)
 
-foreign import goArrowUp_ :: ReactIcon
+foreign import _goArrowUp :: ReactIcon
 
 goArrowUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-goArrowUp = element (unsafeCoerce goArrowUp_)
+goArrowUp = element (unsafeCoerce _goArrowUp)
 
-foreign import goBeaker_ :: ReactIcon
+foreign import _goBeaker :: ReactIcon
 
 goBeaker :: forall a b. Union a b PropsIcon => Record a -> JSX
-goBeaker = element (unsafeCoerce goBeaker_)
+goBeaker = element (unsafeCoerce _goBeaker)
 
-foreign import goBell_ :: ReactIcon
+foreign import _goBell :: ReactIcon
 
 goBell :: forall a b. Union a b PropsIcon => Record a -> JSX
-goBell = element (unsafeCoerce goBell_)
+goBell = element (unsafeCoerce _goBell)
 
-foreign import goBold_ :: ReactIcon
+foreign import _goBold :: ReactIcon
 
 goBold :: forall a b. Union a b PropsIcon => Record a -> JSX
-goBold = element (unsafeCoerce goBold_)
+goBold = element (unsafeCoerce _goBold)
 
-foreign import goBook_ :: ReactIcon
+foreign import _goBook :: ReactIcon
 
 goBook :: forall a b. Union a b PropsIcon => Record a -> JSX
-goBook = element (unsafeCoerce goBook_)
+goBook = element (unsafeCoerce _goBook)
 
-foreign import goBookmark_ :: ReactIcon
+foreign import _goBookmark :: ReactIcon
 
 goBookmark :: forall a b. Union a b PropsIcon => Record a -> JSX
-goBookmark = element (unsafeCoerce goBookmark_)
+goBookmark = element (unsafeCoerce _goBookmark)
 
-foreign import goBriefcase_ :: ReactIcon
+foreign import _goBriefcase :: ReactIcon
 
 goBriefcase :: forall a b. Union a b PropsIcon => Record a -> JSX
-goBriefcase = element (unsafeCoerce goBriefcase_)
+goBriefcase = element (unsafeCoerce _goBriefcase)
 
-foreign import goBroadcast_ :: ReactIcon
+foreign import _goBroadcast :: ReactIcon
 
 goBroadcast :: forall a b. Union a b PropsIcon => Record a -> JSX
-goBroadcast = element (unsafeCoerce goBroadcast_)
+goBroadcast = element (unsafeCoerce _goBroadcast)
 
-foreign import goBrowser_ :: ReactIcon
+foreign import _goBrowser :: ReactIcon
 
 goBrowser :: forall a b. Union a b PropsIcon => Record a -> JSX
-goBrowser = element (unsafeCoerce goBrowser_)
+goBrowser = element (unsafeCoerce _goBrowser)
 
-foreign import goBug_ :: ReactIcon
+foreign import _goBug :: ReactIcon
 
 goBug :: forall a b. Union a b PropsIcon => Record a -> JSX
-goBug = element (unsafeCoerce goBug_)
+goBug = element (unsafeCoerce _goBug)
 
-foreign import goCalendar_ :: ReactIcon
+foreign import _goCalendar :: ReactIcon
 
 goCalendar :: forall a b. Union a b PropsIcon => Record a -> JSX
-goCalendar = element (unsafeCoerce goCalendar_)
+goCalendar = element (unsafeCoerce _goCalendar)
 
-foreign import goCheck_ :: ReactIcon
+foreign import _goCheck :: ReactIcon
 
 goCheck :: forall a b. Union a b PropsIcon => Record a -> JSX
-goCheck = element (unsafeCoerce goCheck_)
+goCheck = element (unsafeCoerce _goCheck)
 
-foreign import goChecklist_ :: ReactIcon
+foreign import _goChecklist :: ReactIcon
 
 goChecklist :: forall a b. Union a b PropsIcon => Record a -> JSX
-goChecklist = element (unsafeCoerce goChecklist_)
+goChecklist = element (unsafeCoerce _goChecklist)
 
-foreign import goChevronDown_ :: ReactIcon
+foreign import _goChevronDown :: ReactIcon
 
 goChevronDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-goChevronDown = element (unsafeCoerce goChevronDown_)
+goChevronDown = element (unsafeCoerce _goChevronDown)
 
-foreign import goChevronLeft_ :: ReactIcon
+foreign import _goChevronLeft :: ReactIcon
 
 goChevronLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-goChevronLeft = element (unsafeCoerce goChevronLeft_)
+goChevronLeft = element (unsafeCoerce _goChevronLeft)
 
-foreign import goChevronRight_ :: ReactIcon
+foreign import _goChevronRight :: ReactIcon
 
 goChevronRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-goChevronRight = element (unsafeCoerce goChevronRight_)
+goChevronRight = element (unsafeCoerce _goChevronRight)
 
-foreign import goChevronUp_ :: ReactIcon
+foreign import _goChevronUp :: ReactIcon
 
 goChevronUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-goChevronUp = element (unsafeCoerce goChevronUp_)
+goChevronUp = element (unsafeCoerce _goChevronUp)
 
-foreign import goCircleSlash_ :: ReactIcon
+foreign import _goCircleSlash :: ReactIcon
 
 goCircleSlash :: forall a b. Union a b PropsIcon => Record a -> JSX
-goCircleSlash = element (unsafeCoerce goCircleSlash_)
+goCircleSlash = element (unsafeCoerce _goCircleSlash)
 
-foreign import goCircuitBoard_ :: ReactIcon
+foreign import _goCircuitBoard :: ReactIcon
 
 goCircuitBoard :: forall a b. Union a b PropsIcon => Record a -> JSX
-goCircuitBoard = element (unsafeCoerce goCircuitBoard_)
+goCircuitBoard = element (unsafeCoerce _goCircuitBoard)
 
-foreign import goClippy_ :: ReactIcon
+foreign import _goClippy :: ReactIcon
 
 goClippy :: forall a b. Union a b PropsIcon => Record a -> JSX
-goClippy = element (unsafeCoerce goClippy_)
+goClippy = element (unsafeCoerce _goClippy)
 
-foreign import goClock_ :: ReactIcon
+foreign import _goClock :: ReactIcon
 
 goClock :: forall a b. Union a b PropsIcon => Record a -> JSX
-goClock = element (unsafeCoerce goClock_)
+goClock = element (unsafeCoerce _goClock)
 
-foreign import goCloudDownload_ :: ReactIcon
+foreign import _goCloudDownload :: ReactIcon
 
 goCloudDownload :: forall a b. Union a b PropsIcon => Record a -> JSX
-goCloudDownload = element (unsafeCoerce goCloudDownload_)
+goCloudDownload = element (unsafeCoerce _goCloudDownload)
 
-foreign import goCloudUpload_ :: ReactIcon
+foreign import _goCloudUpload :: ReactIcon
 
 goCloudUpload :: forall a b. Union a b PropsIcon => Record a -> JSX
-goCloudUpload = element (unsafeCoerce goCloudUpload_)
+goCloudUpload = element (unsafeCoerce _goCloudUpload)
 
-foreign import goCode_ :: ReactIcon
+foreign import _goCode :: ReactIcon
 
 goCode :: forall a b. Union a b PropsIcon => Record a -> JSX
-goCode = element (unsafeCoerce goCode_)
+goCode = element (unsafeCoerce _goCode)
 
-foreign import goComment_ :: ReactIcon
+foreign import _goComment :: ReactIcon
 
 goComment :: forall a b. Union a b PropsIcon => Record a -> JSX
-goComment = element (unsafeCoerce goComment_)
+goComment = element (unsafeCoerce _goComment)
 
-foreign import goCommentDiscussion_ :: ReactIcon
+foreign import _goCommentDiscussion :: ReactIcon
 
 goCommentDiscussion :: forall a b. Union a b PropsIcon => Record a -> JSX
-goCommentDiscussion = element (unsafeCoerce goCommentDiscussion_)
+goCommentDiscussion = element (unsafeCoerce _goCommentDiscussion)
 
-foreign import goCreditCard_ :: ReactIcon
+foreign import _goCreditCard :: ReactIcon
 
 goCreditCard :: forall a b. Union a b PropsIcon => Record a -> JSX
-goCreditCard = element (unsafeCoerce goCreditCard_)
+goCreditCard = element (unsafeCoerce _goCreditCard)
 
-foreign import goDash_ :: ReactIcon
+foreign import _goDash :: ReactIcon
 
 goDash :: forall a b. Union a b PropsIcon => Record a -> JSX
-goDash = element (unsafeCoerce goDash_)
+goDash = element (unsafeCoerce _goDash)
 
-foreign import goDashboard_ :: ReactIcon
+foreign import _goDashboard :: ReactIcon
 
 goDashboard :: forall a b. Union a b PropsIcon => Record a -> JSX
-goDashboard = element (unsafeCoerce goDashboard_)
+goDashboard = element (unsafeCoerce _goDashboard)
 
-foreign import goDatabase_ :: ReactIcon
+foreign import _goDatabase :: ReactIcon
 
 goDatabase :: forall a b. Union a b PropsIcon => Record a -> JSX
-goDatabase = element (unsafeCoerce goDatabase_)
+goDatabase = element (unsafeCoerce _goDatabase)
 
-foreign import goDesktopDownload_ :: ReactIcon
+foreign import _goDesktopDownload :: ReactIcon
 
 goDesktopDownload :: forall a b. Union a b PropsIcon => Record a -> JSX
-goDesktopDownload = element (unsafeCoerce goDesktopDownload_)
+goDesktopDownload = element (unsafeCoerce _goDesktopDownload)
 
-foreign import goDeviceCamera_ :: ReactIcon
+foreign import _goDeviceCamera :: ReactIcon
 
 goDeviceCamera :: forall a b. Union a b PropsIcon => Record a -> JSX
-goDeviceCamera = element (unsafeCoerce goDeviceCamera_)
+goDeviceCamera = element (unsafeCoerce _goDeviceCamera)
 
-foreign import goDeviceCameraVideo_ :: ReactIcon
+foreign import _goDeviceCameraVideo :: ReactIcon
 
 goDeviceCameraVideo :: forall a b. Union a b PropsIcon => Record a -> JSX
-goDeviceCameraVideo = element (unsafeCoerce goDeviceCameraVideo_)
+goDeviceCameraVideo = element (unsafeCoerce _goDeviceCameraVideo)
 
-foreign import goDeviceDesktop_ :: ReactIcon
+foreign import _goDeviceDesktop :: ReactIcon
 
 goDeviceDesktop :: forall a b. Union a b PropsIcon => Record a -> JSX
-goDeviceDesktop = element (unsafeCoerce goDeviceDesktop_)
+goDeviceDesktop = element (unsafeCoerce _goDeviceDesktop)
 
-foreign import goDeviceMobile_ :: ReactIcon
+foreign import _goDeviceMobile :: ReactIcon
 
 goDeviceMobile :: forall a b. Union a b PropsIcon => Record a -> JSX
-goDeviceMobile = element (unsafeCoerce goDeviceMobile_)
+goDeviceMobile = element (unsafeCoerce _goDeviceMobile)
 
-foreign import goDiff_ :: ReactIcon
+foreign import _goDiff :: ReactIcon
 
 goDiff :: forall a b. Union a b PropsIcon => Record a -> JSX
-goDiff = element (unsafeCoerce goDiff_)
+goDiff = element (unsafeCoerce _goDiff)
 
-foreign import goDiffAdded_ :: ReactIcon
+foreign import _goDiffAdded :: ReactIcon
 
 goDiffAdded :: forall a b. Union a b PropsIcon => Record a -> JSX
-goDiffAdded = element (unsafeCoerce goDiffAdded_)
+goDiffAdded = element (unsafeCoerce _goDiffAdded)
 
-foreign import goDiffIgnored_ :: ReactIcon
+foreign import _goDiffIgnored :: ReactIcon
 
 goDiffIgnored :: forall a b. Union a b PropsIcon => Record a -> JSX
-goDiffIgnored = element (unsafeCoerce goDiffIgnored_)
+goDiffIgnored = element (unsafeCoerce _goDiffIgnored)
 
-foreign import goDiffModified_ :: ReactIcon
+foreign import _goDiffModified :: ReactIcon
 
 goDiffModified :: forall a b. Union a b PropsIcon => Record a -> JSX
-goDiffModified = element (unsafeCoerce goDiffModified_)
+goDiffModified = element (unsafeCoerce _goDiffModified)
 
-foreign import goDiffRemoved_ :: ReactIcon
+foreign import _goDiffRemoved :: ReactIcon
 
 goDiffRemoved :: forall a b. Union a b PropsIcon => Record a -> JSX
-goDiffRemoved = element (unsafeCoerce goDiffRemoved_)
+goDiffRemoved = element (unsafeCoerce _goDiffRemoved)
 
-foreign import goDiffRenamed_ :: ReactIcon
+foreign import _goDiffRenamed :: ReactIcon
 
 goDiffRenamed :: forall a b. Union a b PropsIcon => Record a -> JSX
-goDiffRenamed = element (unsafeCoerce goDiffRenamed_)
+goDiffRenamed = element (unsafeCoerce _goDiffRenamed)
 
-foreign import goEllipsis_ :: ReactIcon
+foreign import _goEllipsis :: ReactIcon
 
 goEllipsis :: forall a b. Union a b PropsIcon => Record a -> JSX
-goEllipsis = element (unsafeCoerce goEllipsis_)
+goEllipsis = element (unsafeCoerce _goEllipsis)
 
-foreign import goEye_ :: ReactIcon
+foreign import _goEye :: ReactIcon
 
 goEye :: forall a b. Union a b PropsIcon => Record a -> JSX
-goEye = element (unsafeCoerce goEye_)
+goEye = element (unsafeCoerce _goEye)
 
-foreign import goEyeClosed_ :: ReactIcon
+foreign import _goEyeClosed :: ReactIcon
 
 goEyeClosed :: forall a b. Union a b PropsIcon => Record a -> JSX
-goEyeClosed = element (unsafeCoerce goEyeClosed_)
+goEyeClosed = element (unsafeCoerce _goEyeClosed)
 
-foreign import goFile_ :: ReactIcon
+foreign import _goFile :: ReactIcon
 
 goFile :: forall a b. Union a b PropsIcon => Record a -> JSX
-goFile = element (unsafeCoerce goFile_)
+goFile = element (unsafeCoerce _goFile)
 
-foreign import goFileBinary_ :: ReactIcon
+foreign import _goFileBinary :: ReactIcon
 
 goFileBinary :: forall a b. Union a b PropsIcon => Record a -> JSX
-goFileBinary = element (unsafeCoerce goFileBinary_)
+goFileBinary = element (unsafeCoerce _goFileBinary)
 
-foreign import goFileCode_ :: ReactIcon
+foreign import _goFileCode :: ReactIcon
 
 goFileCode :: forall a b. Union a b PropsIcon => Record a -> JSX
-goFileCode = element (unsafeCoerce goFileCode_)
+goFileCode = element (unsafeCoerce _goFileCode)
 
-foreign import goFileDirectory_ :: ReactIcon
+foreign import _goFileDirectory :: ReactIcon
 
 goFileDirectory :: forall a b. Union a b PropsIcon => Record a -> JSX
-goFileDirectory = element (unsafeCoerce goFileDirectory_)
+goFileDirectory = element (unsafeCoerce _goFileDirectory)
 
-foreign import goFileMedia_ :: ReactIcon
+foreign import _goFileMedia :: ReactIcon
 
 goFileMedia :: forall a b. Union a b PropsIcon => Record a -> JSX
-goFileMedia = element (unsafeCoerce goFileMedia_)
+goFileMedia = element (unsafeCoerce _goFileMedia)
 
-foreign import goFilePdf_ :: ReactIcon
+foreign import _goFilePdf :: ReactIcon
 
 goFilePdf :: forall a b. Union a b PropsIcon => Record a -> JSX
-goFilePdf = element (unsafeCoerce goFilePdf_)
+goFilePdf = element (unsafeCoerce _goFilePdf)
 
-foreign import goFileSubmodule_ :: ReactIcon
+foreign import _goFileSubmodule :: ReactIcon
 
 goFileSubmodule :: forall a b. Union a b PropsIcon => Record a -> JSX
-goFileSubmodule = element (unsafeCoerce goFileSubmodule_)
+goFileSubmodule = element (unsafeCoerce _goFileSubmodule)
 
-foreign import goFileSymlinkDirectory_ :: ReactIcon
+foreign import _goFileSymlinkDirectory :: ReactIcon
 
 goFileSymlinkDirectory :: forall a b. Union a b PropsIcon => Record a -> JSX
-goFileSymlinkDirectory = element (unsafeCoerce goFileSymlinkDirectory_)
+goFileSymlinkDirectory = element (unsafeCoerce _goFileSymlinkDirectory)
 
-foreign import goFileSymlinkFile_ :: ReactIcon
+foreign import _goFileSymlinkFile :: ReactIcon
 
 goFileSymlinkFile :: forall a b. Union a b PropsIcon => Record a -> JSX
-goFileSymlinkFile = element (unsafeCoerce goFileSymlinkFile_)
+goFileSymlinkFile = element (unsafeCoerce _goFileSymlinkFile)
 
-foreign import goFileZip_ :: ReactIcon
+foreign import _goFileZip :: ReactIcon
 
 goFileZip :: forall a b. Union a b PropsIcon => Record a -> JSX
-goFileZip = element (unsafeCoerce goFileZip_)
+goFileZip = element (unsafeCoerce _goFileZip)
 
-foreign import goFlame_ :: ReactIcon
+foreign import _goFlame :: ReactIcon
 
 goFlame :: forall a b. Union a b PropsIcon => Record a -> JSX
-goFlame = element (unsafeCoerce goFlame_)
+goFlame = element (unsafeCoerce _goFlame)
 
-foreign import goFold_ :: ReactIcon
+foreign import _goFold :: ReactIcon
 
 goFold :: forall a b. Union a b PropsIcon => Record a -> JSX
-goFold = element (unsafeCoerce goFold_)
+goFold = element (unsafeCoerce _goFold)
 
-foreign import goFoldDown_ :: ReactIcon
+foreign import _goFoldDown :: ReactIcon
 
 goFoldDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-goFoldDown = element (unsafeCoerce goFoldDown_)
+goFoldDown = element (unsafeCoerce _goFoldDown)
 
-foreign import goFoldUp_ :: ReactIcon
+foreign import _goFoldUp :: ReactIcon
 
 goFoldUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-goFoldUp = element (unsafeCoerce goFoldUp_)
+goFoldUp = element (unsafeCoerce _goFoldUp)
 
-foreign import goGear_ :: ReactIcon
+foreign import _goGear :: ReactIcon
 
 goGear :: forall a b. Union a b PropsIcon => Record a -> JSX
-goGear = element (unsafeCoerce goGear_)
+goGear = element (unsafeCoerce _goGear)
 
-foreign import goGift_ :: ReactIcon
+foreign import _goGift :: ReactIcon
 
 goGift :: forall a b. Union a b PropsIcon => Record a -> JSX
-goGift = element (unsafeCoerce goGift_)
+goGift = element (unsafeCoerce _goGift)
 
-foreign import goGist_ :: ReactIcon
+foreign import _goGist :: ReactIcon
 
 goGist :: forall a b. Union a b PropsIcon => Record a -> JSX
-goGist = element (unsafeCoerce goGist_)
+goGist = element (unsafeCoerce _goGist)
 
-foreign import goGistSecret_ :: ReactIcon
+foreign import _goGistSecret :: ReactIcon
 
 goGistSecret :: forall a b. Union a b PropsIcon => Record a -> JSX
-goGistSecret = element (unsafeCoerce goGistSecret_)
+goGistSecret = element (unsafeCoerce _goGistSecret)
 
-foreign import goGitBranch_ :: ReactIcon
+foreign import _goGitBranch :: ReactIcon
 
 goGitBranch :: forall a b. Union a b PropsIcon => Record a -> JSX
-goGitBranch = element (unsafeCoerce goGitBranch_)
+goGitBranch = element (unsafeCoerce _goGitBranch)
 
-foreign import goGitCommit_ :: ReactIcon
+foreign import _goGitCommit :: ReactIcon
 
 goGitCommit :: forall a b. Union a b PropsIcon => Record a -> JSX
-goGitCommit = element (unsafeCoerce goGitCommit_)
+goGitCommit = element (unsafeCoerce _goGitCommit)
 
-foreign import goGitCompare_ :: ReactIcon
+foreign import _goGitCompare :: ReactIcon
 
 goGitCompare :: forall a b. Union a b PropsIcon => Record a -> JSX
-goGitCompare = element (unsafeCoerce goGitCompare_)
+goGitCompare = element (unsafeCoerce _goGitCompare)
 
-foreign import goGithubAction_ :: ReactIcon
+foreign import _goGithubAction :: ReactIcon
 
 goGithubAction :: forall a b. Union a b PropsIcon => Record a -> JSX
-goGithubAction = element (unsafeCoerce goGithubAction_)
+goGithubAction = element (unsafeCoerce _goGithubAction)
 
-foreign import goGitMerge_ :: ReactIcon
+foreign import _goGitMerge :: ReactIcon
 
 goGitMerge :: forall a b. Union a b PropsIcon => Record a -> JSX
-goGitMerge = element (unsafeCoerce goGitMerge_)
+goGitMerge = element (unsafeCoerce _goGitMerge)
 
-foreign import goGitPullRequest_ :: ReactIcon
+foreign import _goGitPullRequest :: ReactIcon
 
 goGitPullRequest :: forall a b. Union a b PropsIcon => Record a -> JSX
-goGitPullRequest = element (unsafeCoerce goGitPullRequest_)
+goGitPullRequest = element (unsafeCoerce _goGitPullRequest)
 
-foreign import goGlobe_ :: ReactIcon
+foreign import _goGlobe :: ReactIcon
 
 goGlobe :: forall a b. Union a b PropsIcon => Record a -> JSX
-goGlobe = element (unsafeCoerce goGlobe_)
+goGlobe = element (unsafeCoerce _goGlobe)
 
-foreign import goGrabber_ :: ReactIcon
+foreign import _goGrabber :: ReactIcon
 
 goGrabber :: forall a b. Union a b PropsIcon => Record a -> JSX
-goGrabber = element (unsafeCoerce goGrabber_)
+goGrabber = element (unsafeCoerce _goGrabber)
 
-foreign import goGraph_ :: ReactIcon
+foreign import _goGraph :: ReactIcon
 
 goGraph :: forall a b. Union a b PropsIcon => Record a -> JSX
-goGraph = element (unsafeCoerce goGraph_)
+goGraph = element (unsafeCoerce _goGraph)
 
-foreign import goHeart_ :: ReactIcon
+foreign import _goHeart :: ReactIcon
 
 goHeart :: forall a b. Union a b PropsIcon => Record a -> JSX
-goHeart = element (unsafeCoerce goHeart_)
+goHeart = element (unsafeCoerce _goHeart)
 
-foreign import goHistory_ :: ReactIcon
+foreign import _goHistory :: ReactIcon
 
 goHistory :: forall a b. Union a b PropsIcon => Record a -> JSX
-goHistory = element (unsafeCoerce goHistory_)
+goHistory = element (unsafeCoerce _goHistory)
 
-foreign import goHome_ :: ReactIcon
+foreign import _goHome :: ReactIcon
 
 goHome :: forall a b. Union a b PropsIcon => Record a -> JSX
-goHome = element (unsafeCoerce goHome_)
+goHome = element (unsafeCoerce _goHome)
 
-foreign import goHorizontalRule_ :: ReactIcon
+foreign import _goHorizontalRule :: ReactIcon
 
 goHorizontalRule :: forall a b. Union a b PropsIcon => Record a -> JSX
-goHorizontalRule = element (unsafeCoerce goHorizontalRule_)
+goHorizontalRule = element (unsafeCoerce _goHorizontalRule)
 
-foreign import goHubot_ :: ReactIcon
+foreign import _goHubot :: ReactIcon
 
 goHubot :: forall a b. Union a b PropsIcon => Record a -> JSX
-goHubot = element (unsafeCoerce goHubot_)
+goHubot = element (unsafeCoerce _goHubot)
 
-foreign import goInbox_ :: ReactIcon
+foreign import _goInbox :: ReactIcon
 
 goInbox :: forall a b. Union a b PropsIcon => Record a -> JSX
-goInbox = element (unsafeCoerce goInbox_)
+goInbox = element (unsafeCoerce _goInbox)
 
-foreign import goInfo_ :: ReactIcon
+foreign import _goInfo :: ReactIcon
 
 goInfo :: forall a b. Union a b PropsIcon => Record a -> JSX
-goInfo = element (unsafeCoerce goInfo_)
+goInfo = element (unsafeCoerce _goInfo)
 
-foreign import goIssueClosed_ :: ReactIcon
+foreign import _goIssueClosed :: ReactIcon
 
 goIssueClosed :: forall a b. Union a b PropsIcon => Record a -> JSX
-goIssueClosed = element (unsafeCoerce goIssueClosed_)
+goIssueClosed = element (unsafeCoerce _goIssueClosed)
 
-foreign import goIssueOpened_ :: ReactIcon
+foreign import _goIssueOpened :: ReactIcon
 
 goIssueOpened :: forall a b. Union a b PropsIcon => Record a -> JSX
-goIssueOpened = element (unsafeCoerce goIssueOpened_)
+goIssueOpened = element (unsafeCoerce _goIssueOpened)
 
-foreign import goIssueReopened_ :: ReactIcon
+foreign import _goIssueReopened :: ReactIcon
 
 goIssueReopened :: forall a b. Union a b PropsIcon => Record a -> JSX
-goIssueReopened = element (unsafeCoerce goIssueReopened_)
+goIssueReopened = element (unsafeCoerce _goIssueReopened)
 
-foreign import goItalic_ :: ReactIcon
+foreign import _goItalic :: ReactIcon
 
 goItalic :: forall a b. Union a b PropsIcon => Record a -> JSX
-goItalic = element (unsafeCoerce goItalic_)
+goItalic = element (unsafeCoerce _goItalic)
 
-foreign import goJersey_ :: ReactIcon
+foreign import _goJersey :: ReactIcon
 
 goJersey :: forall a b. Union a b PropsIcon => Record a -> JSX
-goJersey = element (unsafeCoerce goJersey_)
+goJersey = element (unsafeCoerce _goJersey)
 
-foreign import goKebabHorizontal_ :: ReactIcon
+foreign import _goKebabHorizontal :: ReactIcon
 
 goKebabHorizontal :: forall a b. Union a b PropsIcon => Record a -> JSX
-goKebabHorizontal = element (unsafeCoerce goKebabHorizontal_)
+goKebabHorizontal = element (unsafeCoerce _goKebabHorizontal)
 
-foreign import goKebabVertical_ :: ReactIcon
+foreign import _goKebabVertical :: ReactIcon
 
 goKebabVertical :: forall a b. Union a b PropsIcon => Record a -> JSX
-goKebabVertical = element (unsafeCoerce goKebabVertical_)
+goKebabVertical = element (unsafeCoerce _goKebabVertical)
 
-foreign import goKey_ :: ReactIcon
+foreign import _goKey :: ReactIcon
 
 goKey :: forall a b. Union a b PropsIcon => Record a -> JSX
-goKey = element (unsafeCoerce goKey_)
+goKey = element (unsafeCoerce _goKey)
 
-foreign import goKeyboard_ :: ReactIcon
+foreign import _goKeyboard :: ReactIcon
 
 goKeyboard :: forall a b. Union a b PropsIcon => Record a -> JSX
-goKeyboard = element (unsafeCoerce goKeyboard_)
+goKeyboard = element (unsafeCoerce _goKeyboard)
 
-foreign import goLaw_ :: ReactIcon
+foreign import _goLaw :: ReactIcon
 
 goLaw :: forall a b. Union a b PropsIcon => Record a -> JSX
-goLaw = element (unsafeCoerce goLaw_)
+goLaw = element (unsafeCoerce _goLaw)
 
-foreign import goLightBulb_ :: ReactIcon
+foreign import _goLightBulb :: ReactIcon
 
 goLightBulb :: forall a b. Union a b PropsIcon => Record a -> JSX
-goLightBulb = element (unsafeCoerce goLightBulb_)
+goLightBulb = element (unsafeCoerce _goLightBulb)
 
-foreign import goLink_ :: ReactIcon
+foreign import _goLink :: ReactIcon
 
 goLink :: forall a b. Union a b PropsIcon => Record a -> JSX
-goLink = element (unsafeCoerce goLink_)
+goLink = element (unsafeCoerce _goLink)
 
-foreign import goLinkExternal_ :: ReactIcon
+foreign import _goLinkExternal :: ReactIcon
 
 goLinkExternal :: forall a b. Union a b PropsIcon => Record a -> JSX
-goLinkExternal = element (unsafeCoerce goLinkExternal_)
+goLinkExternal = element (unsafeCoerce _goLinkExternal)
 
-foreign import goListOrdered_ :: ReactIcon
+foreign import _goListOrdered :: ReactIcon
 
 goListOrdered :: forall a b. Union a b PropsIcon => Record a -> JSX
-goListOrdered = element (unsafeCoerce goListOrdered_)
+goListOrdered = element (unsafeCoerce _goListOrdered)
 
-foreign import goListUnordered_ :: ReactIcon
+foreign import _goListUnordered :: ReactIcon
 
 goListUnordered :: forall a b. Union a b PropsIcon => Record a -> JSX
-goListUnordered = element (unsafeCoerce goListUnordered_)
+goListUnordered = element (unsafeCoerce _goListUnordered)
 
-foreign import goLocation_ :: ReactIcon
+foreign import _goLocation :: ReactIcon
 
 goLocation :: forall a b. Union a b PropsIcon => Record a -> JSX
-goLocation = element (unsafeCoerce goLocation_)
+goLocation = element (unsafeCoerce _goLocation)
 
-foreign import goLock_ :: ReactIcon
+foreign import _goLock :: ReactIcon
 
 goLock :: forall a b. Union a b PropsIcon => Record a -> JSX
-goLock = element (unsafeCoerce goLock_)
+goLock = element (unsafeCoerce _goLock)
 
-foreign import goLogoGist_ :: ReactIcon
+foreign import _goLogoGist :: ReactIcon
 
 goLogoGist :: forall a b. Union a b PropsIcon => Record a -> JSX
-goLogoGist = element (unsafeCoerce goLogoGist_)
+goLogoGist = element (unsafeCoerce _goLogoGist)
 
-foreign import goLogoGithub_ :: ReactIcon
+foreign import _goLogoGithub :: ReactIcon
 
 goLogoGithub :: forall a b. Union a b PropsIcon => Record a -> JSX
-goLogoGithub = element (unsafeCoerce goLogoGithub_)
+goLogoGithub = element (unsafeCoerce _goLogoGithub)
 
-foreign import goMail_ :: ReactIcon
+foreign import _goMail :: ReactIcon
 
 goMail :: forall a b. Union a b PropsIcon => Record a -> JSX
-goMail = element (unsafeCoerce goMail_)
+goMail = element (unsafeCoerce _goMail)
 
-foreign import goMailRead_ :: ReactIcon
+foreign import _goMailRead :: ReactIcon
 
 goMailRead :: forall a b. Union a b PropsIcon => Record a -> JSX
-goMailRead = element (unsafeCoerce goMailRead_)
+goMailRead = element (unsafeCoerce _goMailRead)
 
-foreign import goMarkdown_ :: ReactIcon
+foreign import _goMarkdown :: ReactIcon
 
 goMarkdown :: forall a b. Union a b PropsIcon => Record a -> JSX
-goMarkdown = element (unsafeCoerce goMarkdown_)
+goMarkdown = element (unsafeCoerce _goMarkdown)
 
-foreign import goMarkGithub_ :: ReactIcon
+foreign import _goMarkGithub :: ReactIcon
 
 goMarkGithub :: forall a b. Union a b PropsIcon => Record a -> JSX
-goMarkGithub = element (unsafeCoerce goMarkGithub_)
+goMarkGithub = element (unsafeCoerce _goMarkGithub)
 
-foreign import goMegaphone_ :: ReactIcon
+foreign import _goMegaphone :: ReactIcon
 
 goMegaphone :: forall a b. Union a b PropsIcon => Record a -> JSX
-goMegaphone = element (unsafeCoerce goMegaphone_)
+goMegaphone = element (unsafeCoerce _goMegaphone)
 
-foreign import goMention_ :: ReactIcon
+foreign import _goMention :: ReactIcon
 
 goMention :: forall a b. Union a b PropsIcon => Record a -> JSX
-goMention = element (unsafeCoerce goMention_)
+goMention = element (unsafeCoerce _goMention)
 
-foreign import goMilestone_ :: ReactIcon
+foreign import _goMilestone :: ReactIcon
 
 goMilestone :: forall a b. Union a b PropsIcon => Record a -> JSX
-goMilestone = element (unsafeCoerce goMilestone_)
+goMilestone = element (unsafeCoerce _goMilestone)
 
-foreign import goMirror_ :: ReactIcon
+foreign import _goMirror :: ReactIcon
 
 goMirror :: forall a b. Union a b PropsIcon => Record a -> JSX
-goMirror = element (unsafeCoerce goMirror_)
+goMirror = element (unsafeCoerce _goMirror)
 
-foreign import goMortarBoard_ :: ReactIcon
+foreign import _goMortarBoard :: ReactIcon
 
 goMortarBoard :: forall a b. Union a b PropsIcon => Record a -> JSX
-goMortarBoard = element (unsafeCoerce goMortarBoard_)
+goMortarBoard = element (unsafeCoerce _goMortarBoard)
 
-foreign import goMute_ :: ReactIcon
+foreign import _goMute :: ReactIcon
 
 goMute :: forall a b. Union a b PropsIcon => Record a -> JSX
-goMute = element (unsafeCoerce goMute_)
+goMute = element (unsafeCoerce _goMute)
 
-foreign import goNoNewline_ :: ReactIcon
+foreign import _goNoNewline :: ReactIcon
 
 goNoNewline :: forall a b. Union a b PropsIcon => Record a -> JSX
-goNoNewline = element (unsafeCoerce goNoNewline_)
+goNoNewline = element (unsafeCoerce _goNoNewline)
 
-foreign import goNote_ :: ReactIcon
+foreign import _goNote :: ReactIcon
 
 goNote :: forall a b. Union a b PropsIcon => Record a -> JSX
-goNote = element (unsafeCoerce goNote_)
+goNote = element (unsafeCoerce _goNote)
 
-foreign import goOctoface_ :: ReactIcon
+foreign import _goOctoface :: ReactIcon
 
 goOctoface :: forall a b. Union a b PropsIcon => Record a -> JSX
-goOctoface = element (unsafeCoerce goOctoface_)
+goOctoface = element (unsafeCoerce _goOctoface)
 
-foreign import goOrganization_ :: ReactIcon
+foreign import _goOrganization :: ReactIcon
 
 goOrganization :: forall a b. Union a b PropsIcon => Record a -> JSX
-goOrganization = element (unsafeCoerce goOrganization_)
+goOrganization = element (unsafeCoerce _goOrganization)
 
-foreign import goPackage_ :: ReactIcon
+foreign import _goPackage :: ReactIcon
 
 goPackage :: forall a b. Union a b PropsIcon => Record a -> JSX
-goPackage = element (unsafeCoerce goPackage_)
+goPackage = element (unsafeCoerce _goPackage)
 
-foreign import goPaintcan_ :: ReactIcon
+foreign import _goPaintcan :: ReactIcon
 
 goPaintcan :: forall a b. Union a b PropsIcon => Record a -> JSX
-goPaintcan = element (unsafeCoerce goPaintcan_)
+goPaintcan = element (unsafeCoerce _goPaintcan)
 
-foreign import goPencil_ :: ReactIcon
+foreign import _goPencil :: ReactIcon
 
 goPencil :: forall a b. Union a b PropsIcon => Record a -> JSX
-goPencil = element (unsafeCoerce goPencil_)
+goPencil = element (unsafeCoerce _goPencil)
 
-foreign import goPerson_ :: ReactIcon
+foreign import _goPerson :: ReactIcon
 
 goPerson :: forall a b. Union a b PropsIcon => Record a -> JSX
-goPerson = element (unsafeCoerce goPerson_)
+goPerson = element (unsafeCoerce _goPerson)
 
-foreign import goPin_ :: ReactIcon
+foreign import _goPin :: ReactIcon
 
 goPin :: forall a b. Union a b PropsIcon => Record a -> JSX
-goPin = element (unsafeCoerce goPin_)
+goPin = element (unsafeCoerce _goPin)
 
-foreign import goPlay_ :: ReactIcon
+foreign import _goPlay :: ReactIcon
 
 goPlay :: forall a b. Union a b PropsIcon => Record a -> JSX
-goPlay = element (unsafeCoerce goPlay_)
+goPlay = element (unsafeCoerce _goPlay)
 
-foreign import goPlug_ :: ReactIcon
+foreign import _goPlug :: ReactIcon
 
 goPlug :: forall a b. Union a b PropsIcon => Record a -> JSX
-goPlug = element (unsafeCoerce goPlug_)
+goPlug = element (unsafeCoerce _goPlug)
 
-foreign import goPlus_ :: ReactIcon
+foreign import _goPlus :: ReactIcon
 
 goPlus :: forall a b. Union a b PropsIcon => Record a -> JSX
-goPlus = element (unsafeCoerce goPlus_)
+goPlus = element (unsafeCoerce _goPlus)
 
-foreign import goPlusSmall_ :: ReactIcon
+foreign import _goPlusSmall :: ReactIcon
 
 goPlusSmall :: forall a b. Union a b PropsIcon => Record a -> JSX
-goPlusSmall = element (unsafeCoerce goPlusSmall_)
+goPlusSmall = element (unsafeCoerce _goPlusSmall)
 
-foreign import goPrimitiveDot_ :: ReactIcon
+foreign import _goPrimitiveDot :: ReactIcon
 
 goPrimitiveDot :: forall a b. Union a b PropsIcon => Record a -> JSX
-goPrimitiveDot = element (unsafeCoerce goPrimitiveDot_)
+goPrimitiveDot = element (unsafeCoerce _goPrimitiveDot)
 
-foreign import goPrimitiveSquare_ :: ReactIcon
+foreign import _goPrimitiveSquare :: ReactIcon
 
 goPrimitiveSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-goPrimitiveSquare = element (unsafeCoerce goPrimitiveSquare_)
+goPrimitiveSquare = element (unsafeCoerce _goPrimitiveSquare)
 
-foreign import goProject_ :: ReactIcon
+foreign import _goProject :: ReactIcon
 
 goProject :: forall a b. Union a b PropsIcon => Record a -> JSX
-goProject = element (unsafeCoerce goProject_)
+goProject = element (unsafeCoerce _goProject)
 
-foreign import goPulse_ :: ReactIcon
+foreign import _goPulse :: ReactIcon
 
 goPulse :: forall a b. Union a b PropsIcon => Record a -> JSX
-goPulse = element (unsafeCoerce goPulse_)
+goPulse = element (unsafeCoerce _goPulse)
 
-foreign import goQuestion_ :: ReactIcon
+foreign import _goQuestion :: ReactIcon
 
 goQuestion :: forall a b. Union a b PropsIcon => Record a -> JSX
-goQuestion = element (unsafeCoerce goQuestion_)
+goQuestion = element (unsafeCoerce _goQuestion)
 
-foreign import goQuote_ :: ReactIcon
+foreign import _goQuote :: ReactIcon
 
 goQuote :: forall a b. Union a b PropsIcon => Record a -> JSX
-goQuote = element (unsafeCoerce goQuote_)
+goQuote = element (unsafeCoerce _goQuote)
 
-foreign import goRadioTower_ :: ReactIcon
+foreign import _goRadioTower :: ReactIcon
 
 goRadioTower :: forall a b. Union a b PropsIcon => Record a -> JSX
-goRadioTower = element (unsafeCoerce goRadioTower_)
+goRadioTower = element (unsafeCoerce _goRadioTower)
 
-foreign import goReply_ :: ReactIcon
+foreign import _goReply :: ReactIcon
 
 goReply :: forall a b. Union a b PropsIcon => Record a -> JSX
-goReply = element (unsafeCoerce goReply_)
+goReply = element (unsafeCoerce _goReply)
 
-foreign import goRepo_ :: ReactIcon
+foreign import _goRepo :: ReactIcon
 
 goRepo :: forall a b. Union a b PropsIcon => Record a -> JSX
-goRepo = element (unsafeCoerce goRepo_)
+goRepo = element (unsafeCoerce _goRepo)
 
-foreign import goRepoClone_ :: ReactIcon
+foreign import _goRepoClone :: ReactIcon
 
 goRepoClone :: forall a b. Union a b PropsIcon => Record a -> JSX
-goRepoClone = element (unsafeCoerce goRepoClone_)
+goRepoClone = element (unsafeCoerce _goRepoClone)
 
-foreign import goRepoForcePush_ :: ReactIcon
+foreign import _goRepoForcePush :: ReactIcon
 
 goRepoForcePush :: forall a b. Union a b PropsIcon => Record a -> JSX
-goRepoForcePush = element (unsafeCoerce goRepoForcePush_)
+goRepoForcePush = element (unsafeCoerce _goRepoForcePush)
 
-foreign import goRepoForked_ :: ReactIcon
+foreign import _goRepoForked :: ReactIcon
 
 goRepoForked :: forall a b. Union a b PropsIcon => Record a -> JSX
-goRepoForked = element (unsafeCoerce goRepoForked_)
+goRepoForked = element (unsafeCoerce _goRepoForked)
 
-foreign import goRepoPull_ :: ReactIcon
+foreign import _goRepoPull :: ReactIcon
 
 goRepoPull :: forall a b. Union a b PropsIcon => Record a -> JSX
-goRepoPull = element (unsafeCoerce goRepoPull_)
+goRepoPull = element (unsafeCoerce _goRepoPull)
 
-foreign import goRepoPush_ :: ReactIcon
+foreign import _goRepoPush :: ReactIcon
 
 goRepoPush :: forall a b. Union a b PropsIcon => Record a -> JSX
-goRepoPush = element (unsafeCoerce goRepoPush_)
+goRepoPush = element (unsafeCoerce _goRepoPush)
 
-foreign import goReport_ :: ReactIcon
+foreign import _goReport :: ReactIcon
 
 goReport :: forall a b. Union a b PropsIcon => Record a -> JSX
-goReport = element (unsafeCoerce goReport_)
+goReport = element (unsafeCoerce _goReport)
 
-foreign import goRequestChanges_ :: ReactIcon
+foreign import _goRequestChanges :: ReactIcon
 
 goRequestChanges :: forall a b. Union a b PropsIcon => Record a -> JSX
-goRequestChanges = element (unsafeCoerce goRequestChanges_)
+goRequestChanges = element (unsafeCoerce _goRequestChanges)
 
-foreign import goRocket_ :: ReactIcon
+foreign import _goRocket :: ReactIcon
 
 goRocket :: forall a b. Union a b PropsIcon => Record a -> JSX
-goRocket = element (unsafeCoerce goRocket_)
+goRocket = element (unsafeCoerce _goRocket)
 
-foreign import goRss_ :: ReactIcon
+foreign import _goRss :: ReactIcon
 
 goRss :: forall a b. Union a b PropsIcon => Record a -> JSX
-goRss = element (unsafeCoerce goRss_)
+goRss = element (unsafeCoerce _goRss)
 
-foreign import goRuby_ :: ReactIcon
+foreign import _goRuby :: ReactIcon
 
 goRuby :: forall a b. Union a b PropsIcon => Record a -> JSX
-goRuby = element (unsafeCoerce goRuby_)
+goRuby = element (unsafeCoerce _goRuby)
 
-foreign import goScreenFull_ :: ReactIcon
+foreign import _goScreenFull :: ReactIcon
 
 goScreenFull :: forall a b. Union a b PropsIcon => Record a -> JSX
-goScreenFull = element (unsafeCoerce goScreenFull_)
+goScreenFull = element (unsafeCoerce _goScreenFull)
 
-foreign import goScreenNormal_ :: ReactIcon
+foreign import _goScreenNormal :: ReactIcon
 
 goScreenNormal :: forall a b. Union a b PropsIcon => Record a -> JSX
-goScreenNormal = element (unsafeCoerce goScreenNormal_)
+goScreenNormal = element (unsafeCoerce _goScreenNormal)
 
-foreign import goSearch_ :: ReactIcon
+foreign import _goSearch :: ReactIcon
 
 goSearch :: forall a b. Union a b PropsIcon => Record a -> JSX
-goSearch = element (unsafeCoerce goSearch_)
+goSearch = element (unsafeCoerce _goSearch)
 
-foreign import goServer_ :: ReactIcon
+foreign import _goServer :: ReactIcon
 
 goServer :: forall a b. Union a b PropsIcon => Record a -> JSX
-goServer = element (unsafeCoerce goServer_)
+goServer = element (unsafeCoerce _goServer)
 
-foreign import goSettings_ :: ReactIcon
+foreign import _goSettings :: ReactIcon
 
 goSettings :: forall a b. Union a b PropsIcon => Record a -> JSX
-goSettings = element (unsafeCoerce goSettings_)
+goSettings = element (unsafeCoerce _goSettings)
 
-foreign import goShield_ :: ReactIcon
+foreign import _goShield :: ReactIcon
 
 goShield :: forall a b. Union a b PropsIcon => Record a -> JSX
-goShield = element (unsafeCoerce goShield_)
+goShield = element (unsafeCoerce _goShield)
 
-foreign import goSignIn_ :: ReactIcon
+foreign import _goSignIn :: ReactIcon
 
 goSignIn :: forall a b. Union a b PropsIcon => Record a -> JSX
-goSignIn = element (unsafeCoerce goSignIn_)
+goSignIn = element (unsafeCoerce _goSignIn)
 
-foreign import goSignOut_ :: ReactIcon
+foreign import _goSignOut :: ReactIcon
 
 goSignOut :: forall a b. Union a b PropsIcon => Record a -> JSX
-goSignOut = element (unsafeCoerce goSignOut_)
+goSignOut = element (unsafeCoerce _goSignOut)
 
-foreign import goSmiley_ :: ReactIcon
+foreign import _goSmiley :: ReactIcon
 
 goSmiley :: forall a b. Union a b PropsIcon => Record a -> JSX
-goSmiley = element (unsafeCoerce goSmiley_)
+goSmiley = element (unsafeCoerce _goSmiley)
 
-foreign import goSquirrel_ :: ReactIcon
+foreign import _goSquirrel :: ReactIcon
 
 goSquirrel :: forall a b. Union a b PropsIcon => Record a -> JSX
-goSquirrel = element (unsafeCoerce goSquirrel_)
+goSquirrel = element (unsafeCoerce _goSquirrel)
 
-foreign import goStar_ :: ReactIcon
+foreign import _goStar :: ReactIcon
 
 goStar :: forall a b. Union a b PropsIcon => Record a -> JSX
-goStar = element (unsafeCoerce goStar_)
+goStar = element (unsafeCoerce _goStar)
 
-foreign import goStop_ :: ReactIcon
+foreign import _goStop :: ReactIcon
 
 goStop :: forall a b. Union a b PropsIcon => Record a -> JSX
-goStop = element (unsafeCoerce goStop_)
+goStop = element (unsafeCoerce _goStop)
 
-foreign import goSync_ :: ReactIcon
+foreign import _goSync :: ReactIcon
 
 goSync :: forall a b. Union a b PropsIcon => Record a -> JSX
-goSync = element (unsafeCoerce goSync_)
+goSync = element (unsafeCoerce _goSync)
 
-foreign import goTag_ :: ReactIcon
+foreign import _goTag :: ReactIcon
 
 goTag :: forall a b. Union a b PropsIcon => Record a -> JSX
-goTag = element (unsafeCoerce goTag_)
+goTag = element (unsafeCoerce _goTag)
 
-foreign import goTasklist_ :: ReactIcon
+foreign import _goTasklist :: ReactIcon
 
 goTasklist :: forall a b. Union a b PropsIcon => Record a -> JSX
-goTasklist = element (unsafeCoerce goTasklist_)
+goTasklist = element (unsafeCoerce _goTasklist)
 
-foreign import goTelescope_ :: ReactIcon
+foreign import _goTelescope :: ReactIcon
 
 goTelescope :: forall a b. Union a b PropsIcon => Record a -> JSX
-goTelescope = element (unsafeCoerce goTelescope_)
+goTelescope = element (unsafeCoerce _goTelescope)
 
-foreign import goTerminal_ :: ReactIcon
+foreign import _goTerminal :: ReactIcon
 
 goTerminal :: forall a b. Union a b PropsIcon => Record a -> JSX
-goTerminal = element (unsafeCoerce goTerminal_)
+goTerminal = element (unsafeCoerce _goTerminal)
 
-foreign import goTextSize_ :: ReactIcon
+foreign import _goTextSize :: ReactIcon
 
 goTextSize :: forall a b. Union a b PropsIcon => Record a -> JSX
-goTextSize = element (unsafeCoerce goTextSize_)
+goTextSize = element (unsafeCoerce _goTextSize)
 
-foreign import goThreeBars_ :: ReactIcon
+foreign import _goThreeBars :: ReactIcon
 
 goThreeBars :: forall a b. Union a b PropsIcon => Record a -> JSX
-goThreeBars = element (unsafeCoerce goThreeBars_)
+goThreeBars = element (unsafeCoerce _goThreeBars)
 
-foreign import goThumbsdown_ :: ReactIcon
+foreign import _goThumbsdown :: ReactIcon
 
 goThumbsdown :: forall a b. Union a b PropsIcon => Record a -> JSX
-goThumbsdown = element (unsafeCoerce goThumbsdown_)
+goThumbsdown = element (unsafeCoerce _goThumbsdown)
 
-foreign import goThumbsup_ :: ReactIcon
+foreign import _goThumbsup :: ReactIcon
 
 goThumbsup :: forall a b. Union a b PropsIcon => Record a -> JSX
-goThumbsup = element (unsafeCoerce goThumbsup_)
+goThumbsup = element (unsafeCoerce _goThumbsup)
 
-foreign import goTools_ :: ReactIcon
+foreign import _goTools :: ReactIcon
 
 goTools :: forall a b. Union a b PropsIcon => Record a -> JSX
-goTools = element (unsafeCoerce goTools_)
+goTools = element (unsafeCoerce _goTools)
 
-foreign import goTrashcan_ :: ReactIcon
+foreign import _goTrashcan :: ReactIcon
 
 goTrashcan :: forall a b. Union a b PropsIcon => Record a -> JSX
-goTrashcan = element (unsafeCoerce goTrashcan_)
+goTrashcan = element (unsafeCoerce _goTrashcan)
 
-foreign import goTriangleDown_ :: ReactIcon
+foreign import _goTriangleDown :: ReactIcon
 
 goTriangleDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-goTriangleDown = element (unsafeCoerce goTriangleDown_)
+goTriangleDown = element (unsafeCoerce _goTriangleDown)
 
-foreign import goTriangleLeft_ :: ReactIcon
+foreign import _goTriangleLeft :: ReactIcon
 
 goTriangleLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-goTriangleLeft = element (unsafeCoerce goTriangleLeft_)
+goTriangleLeft = element (unsafeCoerce _goTriangleLeft)
 
-foreign import goTriangleRight_ :: ReactIcon
+foreign import _goTriangleRight :: ReactIcon
 
 goTriangleRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-goTriangleRight = element (unsafeCoerce goTriangleRight_)
+goTriangleRight = element (unsafeCoerce _goTriangleRight)
 
-foreign import goTriangleUp_ :: ReactIcon
+foreign import _goTriangleUp :: ReactIcon
 
 goTriangleUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-goTriangleUp = element (unsafeCoerce goTriangleUp_)
+goTriangleUp = element (unsafeCoerce _goTriangleUp)
 
-foreign import goUnfold_ :: ReactIcon
+foreign import _goUnfold :: ReactIcon
 
 goUnfold :: forall a b. Union a b PropsIcon => Record a -> JSX
-goUnfold = element (unsafeCoerce goUnfold_)
+goUnfold = element (unsafeCoerce _goUnfold)
 
-foreign import goUnmute_ :: ReactIcon
+foreign import _goUnmute :: ReactIcon
 
 goUnmute :: forall a b. Union a b PropsIcon => Record a -> JSX
-goUnmute = element (unsafeCoerce goUnmute_)
+goUnmute = element (unsafeCoerce _goUnmute)
 
-foreign import goUnverified_ :: ReactIcon
+foreign import _goUnverified :: ReactIcon
 
 goUnverified :: forall a b. Union a b PropsIcon => Record a -> JSX
-goUnverified = element (unsafeCoerce goUnverified_)
+goUnverified = element (unsafeCoerce _goUnverified)
 
-foreign import goVerified_ :: ReactIcon
+foreign import _goVerified :: ReactIcon
 
 goVerified :: forall a b. Union a b PropsIcon => Record a -> JSX
-goVerified = element (unsafeCoerce goVerified_)
+goVerified = element (unsafeCoerce _goVerified)
 
-foreign import goVersions_ :: ReactIcon
+foreign import _goVersions :: ReactIcon
 
 goVersions :: forall a b. Union a b PropsIcon => Record a -> JSX
-goVersions = element (unsafeCoerce goVersions_)
+goVersions = element (unsafeCoerce _goVersions)
 
-foreign import goWatch_ :: ReactIcon
+foreign import _goWatch :: ReactIcon
 
 goWatch :: forall a b. Union a b PropsIcon => Record a -> JSX
-goWatch = element (unsafeCoerce goWatch_)
+goWatch = element (unsafeCoerce _goWatch)
 
-foreign import goX_ :: ReactIcon
+foreign import _goX :: ReactIcon
 
 goX :: forall a b. Union a b PropsIcon => Record a -> JSX
-goX = element (unsafeCoerce goX_)
+goX = element (unsafeCoerce _goX)
 
-foreign import goZap_ :: ReactIcon
+foreign import _goZap :: ReactIcon
 
 goZap :: forall a b. Union a b PropsIcon => Record a -> JSX
-goZap = element (unsafeCoerce goZap_)
+goZap = element (unsafeCoerce _goZap)

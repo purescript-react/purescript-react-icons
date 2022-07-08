@@ -9,1377 +9,1377 @@ import React.Basic (JSX, element)
 import React.Icons.Types (ReactIcon, PropsIcon)
 import Unsafe.Coerce (unsafeCoerce)
 
-foreign import fiActivity_ :: ReactIcon
+foreign import _fiActivity :: ReactIcon
 
 fiActivity :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiActivity = element (unsafeCoerce fiActivity_)
+fiActivity = element (unsafeCoerce _fiActivity)
 
-foreign import fiAirplay_ :: ReactIcon
+foreign import _fiAirplay :: ReactIcon
 
 fiAirplay :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiAirplay = element (unsafeCoerce fiAirplay_)
+fiAirplay = element (unsafeCoerce _fiAirplay)
 
-foreign import fiAlertCircle_ :: ReactIcon
+foreign import _fiAlertCircle :: ReactIcon
 
 fiAlertCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiAlertCircle = element (unsafeCoerce fiAlertCircle_)
+fiAlertCircle = element (unsafeCoerce _fiAlertCircle)
 
-foreign import fiAlertOctagon_ :: ReactIcon
+foreign import _fiAlertOctagon :: ReactIcon
 
 fiAlertOctagon :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiAlertOctagon = element (unsafeCoerce fiAlertOctagon_)
+fiAlertOctagon = element (unsafeCoerce _fiAlertOctagon)
 
-foreign import fiAlertTriangle_ :: ReactIcon
+foreign import _fiAlertTriangle :: ReactIcon
 
 fiAlertTriangle :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiAlertTriangle = element (unsafeCoerce fiAlertTriangle_)
+fiAlertTriangle = element (unsafeCoerce _fiAlertTriangle)
 
-foreign import fiAlignCenter_ :: ReactIcon
+foreign import _fiAlignCenter :: ReactIcon
 
 fiAlignCenter :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiAlignCenter = element (unsafeCoerce fiAlignCenter_)
+fiAlignCenter = element (unsafeCoerce _fiAlignCenter)
 
-foreign import fiAlignJustify_ :: ReactIcon
+foreign import _fiAlignJustify :: ReactIcon
 
 fiAlignJustify :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiAlignJustify = element (unsafeCoerce fiAlignJustify_)
+fiAlignJustify = element (unsafeCoerce _fiAlignJustify)
 
-foreign import fiAlignLeft_ :: ReactIcon
+foreign import _fiAlignLeft :: ReactIcon
 
 fiAlignLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiAlignLeft = element (unsafeCoerce fiAlignLeft_)
+fiAlignLeft = element (unsafeCoerce _fiAlignLeft)
 
-foreign import fiAlignRight_ :: ReactIcon
+foreign import _fiAlignRight :: ReactIcon
 
 fiAlignRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiAlignRight = element (unsafeCoerce fiAlignRight_)
+fiAlignRight = element (unsafeCoerce _fiAlignRight)
 
-foreign import fiAnchor_ :: ReactIcon
+foreign import _fiAnchor :: ReactIcon
 
 fiAnchor :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiAnchor = element (unsafeCoerce fiAnchor_)
+fiAnchor = element (unsafeCoerce _fiAnchor)
 
-foreign import fiAperture_ :: ReactIcon
+foreign import _fiAperture :: ReactIcon
 
 fiAperture :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiAperture = element (unsafeCoerce fiAperture_)
+fiAperture = element (unsafeCoerce _fiAperture)
 
-foreign import fiArchive_ :: ReactIcon
+foreign import _fiArchive :: ReactIcon
 
 fiArchive :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiArchive = element (unsafeCoerce fiArchive_)
+fiArchive = element (unsafeCoerce _fiArchive)
 
-foreign import fiArrowDown_ :: ReactIcon
+foreign import _fiArrowDown :: ReactIcon
 
 fiArrowDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiArrowDown = element (unsafeCoerce fiArrowDown_)
+fiArrowDown = element (unsafeCoerce _fiArrowDown)
 
-foreign import fiArrowDownCircle_ :: ReactIcon
+foreign import _fiArrowDownCircle :: ReactIcon
 
 fiArrowDownCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiArrowDownCircle = element (unsafeCoerce fiArrowDownCircle_)
+fiArrowDownCircle = element (unsafeCoerce _fiArrowDownCircle)
 
-foreign import fiArrowDownLeft_ :: ReactIcon
+foreign import _fiArrowDownLeft :: ReactIcon
 
 fiArrowDownLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiArrowDownLeft = element (unsafeCoerce fiArrowDownLeft_)
+fiArrowDownLeft = element (unsafeCoerce _fiArrowDownLeft)
 
-foreign import fiArrowDownRight_ :: ReactIcon
+foreign import _fiArrowDownRight :: ReactIcon
 
 fiArrowDownRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiArrowDownRight = element (unsafeCoerce fiArrowDownRight_)
+fiArrowDownRight = element (unsafeCoerce _fiArrowDownRight)
 
-foreign import fiArrowLeft_ :: ReactIcon
+foreign import _fiArrowLeft :: ReactIcon
 
 fiArrowLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiArrowLeft = element (unsafeCoerce fiArrowLeft_)
+fiArrowLeft = element (unsafeCoerce _fiArrowLeft)
 
-foreign import fiArrowLeftCircle_ :: ReactIcon
+foreign import _fiArrowLeftCircle :: ReactIcon
 
 fiArrowLeftCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiArrowLeftCircle = element (unsafeCoerce fiArrowLeftCircle_)
+fiArrowLeftCircle = element (unsafeCoerce _fiArrowLeftCircle)
 
-foreign import fiArrowRight_ :: ReactIcon
+foreign import _fiArrowRight :: ReactIcon
 
 fiArrowRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiArrowRight = element (unsafeCoerce fiArrowRight_)
+fiArrowRight = element (unsafeCoerce _fiArrowRight)
 
-foreign import fiArrowRightCircle_ :: ReactIcon
+foreign import _fiArrowRightCircle :: ReactIcon
 
 fiArrowRightCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiArrowRightCircle = element (unsafeCoerce fiArrowRightCircle_)
+fiArrowRightCircle = element (unsafeCoerce _fiArrowRightCircle)
 
-foreign import fiArrowUp_ :: ReactIcon
+foreign import _fiArrowUp :: ReactIcon
 
 fiArrowUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiArrowUp = element (unsafeCoerce fiArrowUp_)
+fiArrowUp = element (unsafeCoerce _fiArrowUp)
 
-foreign import fiArrowUpCircle_ :: ReactIcon
+foreign import _fiArrowUpCircle :: ReactIcon
 
 fiArrowUpCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiArrowUpCircle = element (unsafeCoerce fiArrowUpCircle_)
+fiArrowUpCircle = element (unsafeCoerce _fiArrowUpCircle)
 
-foreign import fiArrowUpLeft_ :: ReactIcon
+foreign import _fiArrowUpLeft :: ReactIcon
 
 fiArrowUpLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiArrowUpLeft = element (unsafeCoerce fiArrowUpLeft_)
+fiArrowUpLeft = element (unsafeCoerce _fiArrowUpLeft)
 
-foreign import fiArrowUpRight_ :: ReactIcon
+foreign import _fiArrowUpRight :: ReactIcon
 
 fiArrowUpRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiArrowUpRight = element (unsafeCoerce fiArrowUpRight_)
+fiArrowUpRight = element (unsafeCoerce _fiArrowUpRight)
 
-foreign import fiAtSign_ :: ReactIcon
+foreign import _fiAtSign :: ReactIcon
 
 fiAtSign :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiAtSign = element (unsafeCoerce fiAtSign_)
+fiAtSign = element (unsafeCoerce _fiAtSign)
 
-foreign import fiAward_ :: ReactIcon
+foreign import _fiAward :: ReactIcon
 
 fiAward :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiAward = element (unsafeCoerce fiAward_)
+fiAward = element (unsafeCoerce _fiAward)
 
-foreign import fiBarChart_ :: ReactIcon
+foreign import _fiBarChart :: ReactIcon
 
 fiBarChart :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiBarChart = element (unsafeCoerce fiBarChart_)
+fiBarChart = element (unsafeCoerce _fiBarChart)
 
-foreign import fiBattery_ :: ReactIcon
+foreign import _fiBattery :: ReactIcon
 
 fiBattery :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiBattery = element (unsafeCoerce fiBattery_)
+fiBattery = element (unsafeCoerce _fiBattery)
 
-foreign import fiBatteryCharging_ :: ReactIcon
+foreign import _fiBatteryCharging :: ReactIcon
 
 fiBatteryCharging :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiBatteryCharging = element (unsafeCoerce fiBatteryCharging_)
+fiBatteryCharging = element (unsafeCoerce _fiBatteryCharging)
 
-foreign import fiBell_ :: ReactIcon
+foreign import _fiBell :: ReactIcon
 
 fiBell :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiBell = element (unsafeCoerce fiBell_)
+fiBell = element (unsafeCoerce _fiBell)
 
-foreign import fiBellOff_ :: ReactIcon
+foreign import _fiBellOff :: ReactIcon
 
 fiBellOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiBellOff = element (unsafeCoerce fiBellOff_)
+fiBellOff = element (unsafeCoerce _fiBellOff)
 
-foreign import fiBluetooth_ :: ReactIcon
+foreign import _fiBluetooth :: ReactIcon
 
 fiBluetooth :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiBluetooth = element (unsafeCoerce fiBluetooth_)
+fiBluetooth = element (unsafeCoerce _fiBluetooth)
 
-foreign import fiBold_ :: ReactIcon
+foreign import _fiBold :: ReactIcon
 
 fiBold :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiBold = element (unsafeCoerce fiBold_)
+fiBold = element (unsafeCoerce _fiBold)
 
-foreign import fiBook_ :: ReactIcon
+foreign import _fiBook :: ReactIcon
 
 fiBook :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiBook = element (unsafeCoerce fiBook_)
+fiBook = element (unsafeCoerce _fiBook)
 
-foreign import fiBookmark_ :: ReactIcon
+foreign import _fiBookmark :: ReactIcon
 
 fiBookmark :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiBookmark = element (unsafeCoerce fiBookmark_)
+fiBookmark = element (unsafeCoerce _fiBookmark)
 
-foreign import fiBookOpen_ :: ReactIcon
+foreign import _fiBookOpen :: ReactIcon
 
 fiBookOpen :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiBookOpen = element (unsafeCoerce fiBookOpen_)
+fiBookOpen = element (unsafeCoerce _fiBookOpen)
 
-foreign import fiBox_ :: ReactIcon
+foreign import _fiBox :: ReactIcon
 
 fiBox :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiBox = element (unsafeCoerce fiBox_)
+fiBox = element (unsafeCoerce _fiBox)
 
-foreign import fiBriefcase_ :: ReactIcon
+foreign import _fiBriefcase :: ReactIcon
 
 fiBriefcase :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiBriefcase = element (unsafeCoerce fiBriefcase_)
+fiBriefcase = element (unsafeCoerce _fiBriefcase)
 
-foreign import fiCalendar_ :: ReactIcon
+foreign import _fiCalendar :: ReactIcon
 
 fiCalendar :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiCalendar = element (unsafeCoerce fiCalendar_)
+fiCalendar = element (unsafeCoerce _fiCalendar)
 
-foreign import fiCamera_ :: ReactIcon
+foreign import _fiCamera :: ReactIcon
 
 fiCamera :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiCamera = element (unsafeCoerce fiCamera_)
+fiCamera = element (unsafeCoerce _fiCamera)
 
-foreign import fiCameraOff_ :: ReactIcon
+foreign import _fiCameraOff :: ReactIcon
 
 fiCameraOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiCameraOff = element (unsafeCoerce fiCameraOff_)
+fiCameraOff = element (unsafeCoerce _fiCameraOff)
 
-foreign import fiCast_ :: ReactIcon
+foreign import _fiCast :: ReactIcon
 
 fiCast :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiCast = element (unsafeCoerce fiCast_)
+fiCast = element (unsafeCoerce _fiCast)
 
-foreign import fiCheck_ :: ReactIcon
+foreign import _fiCheck :: ReactIcon
 
 fiCheck :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiCheck = element (unsafeCoerce fiCheck_)
+fiCheck = element (unsafeCoerce _fiCheck)
 
-foreign import fiCheckCircle_ :: ReactIcon
+foreign import _fiCheckCircle :: ReactIcon
 
 fiCheckCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiCheckCircle = element (unsafeCoerce fiCheckCircle_)
+fiCheckCircle = element (unsafeCoerce _fiCheckCircle)
 
-foreign import fiCheckSquare_ :: ReactIcon
+foreign import _fiCheckSquare :: ReactIcon
 
 fiCheckSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiCheckSquare = element (unsafeCoerce fiCheckSquare_)
+fiCheckSquare = element (unsafeCoerce _fiCheckSquare)
 
-foreign import fiChevronDown_ :: ReactIcon
+foreign import _fiChevronDown :: ReactIcon
 
 fiChevronDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiChevronDown = element (unsafeCoerce fiChevronDown_)
+fiChevronDown = element (unsafeCoerce _fiChevronDown)
 
-foreign import fiChevronLeft_ :: ReactIcon
+foreign import _fiChevronLeft :: ReactIcon
 
 fiChevronLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiChevronLeft = element (unsafeCoerce fiChevronLeft_)
+fiChevronLeft = element (unsafeCoerce _fiChevronLeft)
 
-foreign import fiChevronRight_ :: ReactIcon
+foreign import _fiChevronRight :: ReactIcon
 
 fiChevronRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiChevronRight = element (unsafeCoerce fiChevronRight_)
+fiChevronRight = element (unsafeCoerce _fiChevronRight)
 
-foreign import fiChevronsDown_ :: ReactIcon
+foreign import _fiChevronsDown :: ReactIcon
 
 fiChevronsDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiChevronsDown = element (unsafeCoerce fiChevronsDown_)
+fiChevronsDown = element (unsafeCoerce _fiChevronsDown)
 
-foreign import fiChevronsLeft_ :: ReactIcon
+foreign import _fiChevronsLeft :: ReactIcon
 
 fiChevronsLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiChevronsLeft = element (unsafeCoerce fiChevronsLeft_)
+fiChevronsLeft = element (unsafeCoerce _fiChevronsLeft)
 
-foreign import fiChevronsRight_ :: ReactIcon
+foreign import _fiChevronsRight :: ReactIcon
 
 fiChevronsRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiChevronsRight = element (unsafeCoerce fiChevronsRight_)
+fiChevronsRight = element (unsafeCoerce _fiChevronsRight)
 
-foreign import fiChevronsUp_ :: ReactIcon
+foreign import _fiChevronsUp :: ReactIcon
 
 fiChevronsUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiChevronsUp = element (unsafeCoerce fiChevronsUp_)
+fiChevronsUp = element (unsafeCoerce _fiChevronsUp)
 
-foreign import fiChevronUp_ :: ReactIcon
+foreign import _fiChevronUp :: ReactIcon
 
 fiChevronUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiChevronUp = element (unsafeCoerce fiChevronUp_)
+fiChevronUp = element (unsafeCoerce _fiChevronUp)
 
-foreign import fiChrome_ :: ReactIcon
+foreign import _fiChrome :: ReactIcon
 
 fiChrome :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiChrome = element (unsafeCoerce fiChrome_)
+fiChrome = element (unsafeCoerce _fiChrome)
 
-foreign import fiCircle_ :: ReactIcon
+foreign import _fiCircle :: ReactIcon
 
 fiCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiCircle = element (unsafeCoerce fiCircle_)
+fiCircle = element (unsafeCoerce _fiCircle)
 
-foreign import fiClipboard_ :: ReactIcon
+foreign import _fiClipboard :: ReactIcon
 
 fiClipboard :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiClipboard = element (unsafeCoerce fiClipboard_)
+fiClipboard = element (unsafeCoerce _fiClipboard)
 
-foreign import fiClock_ :: ReactIcon
+foreign import _fiClock :: ReactIcon
 
 fiClock :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiClock = element (unsafeCoerce fiClock_)
+fiClock = element (unsafeCoerce _fiClock)
 
-foreign import fiCloud_ :: ReactIcon
+foreign import _fiCloud :: ReactIcon
 
 fiCloud :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiCloud = element (unsafeCoerce fiCloud_)
+fiCloud = element (unsafeCoerce _fiCloud)
 
-foreign import fiCloudDrizzle_ :: ReactIcon
+foreign import _fiCloudDrizzle :: ReactIcon
 
 fiCloudDrizzle :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiCloudDrizzle = element (unsafeCoerce fiCloudDrizzle_)
+fiCloudDrizzle = element (unsafeCoerce _fiCloudDrizzle)
 
-foreign import fiCloudLightning_ :: ReactIcon
+foreign import _fiCloudLightning :: ReactIcon
 
 fiCloudLightning :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiCloudLightning = element (unsafeCoerce fiCloudLightning_)
+fiCloudLightning = element (unsafeCoerce _fiCloudLightning)
 
-foreign import fiCloudOff_ :: ReactIcon
+foreign import _fiCloudOff :: ReactIcon
 
 fiCloudOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiCloudOff = element (unsafeCoerce fiCloudOff_)
+fiCloudOff = element (unsafeCoerce _fiCloudOff)
 
-foreign import fiCloudRain_ :: ReactIcon
+foreign import _fiCloudRain :: ReactIcon
 
 fiCloudRain :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiCloudRain = element (unsafeCoerce fiCloudRain_)
+fiCloudRain = element (unsafeCoerce _fiCloudRain)
 
-foreign import fiCloudSnow_ :: ReactIcon
+foreign import _fiCloudSnow :: ReactIcon
 
 fiCloudSnow :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiCloudSnow = element (unsafeCoerce fiCloudSnow_)
+fiCloudSnow = element (unsafeCoerce _fiCloudSnow)
 
-foreign import fiCode_ :: ReactIcon
+foreign import _fiCode :: ReactIcon
 
 fiCode :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiCode = element (unsafeCoerce fiCode_)
+fiCode = element (unsafeCoerce _fiCode)
 
-foreign import fiCodepen_ :: ReactIcon
+foreign import _fiCodepen :: ReactIcon
 
 fiCodepen :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiCodepen = element (unsafeCoerce fiCodepen_)
+fiCodepen = element (unsafeCoerce _fiCodepen)
 
-foreign import fiCodesandbox_ :: ReactIcon
+foreign import _fiCodesandbox :: ReactIcon
 
 fiCodesandbox :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiCodesandbox = element (unsafeCoerce fiCodesandbox_)
+fiCodesandbox = element (unsafeCoerce _fiCodesandbox)
 
-foreign import fiCoffee_ :: ReactIcon
+foreign import _fiCoffee :: ReactIcon
 
 fiCoffee :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiCoffee = element (unsafeCoerce fiCoffee_)
+fiCoffee = element (unsafeCoerce _fiCoffee)
 
-foreign import fiColumns_ :: ReactIcon
+foreign import _fiColumns :: ReactIcon
 
 fiColumns :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiColumns = element (unsafeCoerce fiColumns_)
+fiColumns = element (unsafeCoerce _fiColumns)
 
-foreign import fiCommand_ :: ReactIcon
+foreign import _fiCommand :: ReactIcon
 
 fiCommand :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiCommand = element (unsafeCoerce fiCommand_)
+fiCommand = element (unsafeCoerce _fiCommand)
 
-foreign import fiCompass_ :: ReactIcon
+foreign import _fiCompass :: ReactIcon
 
 fiCompass :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiCompass = element (unsafeCoerce fiCompass_)
+fiCompass = element (unsafeCoerce _fiCompass)
 
-foreign import fiCopy_ :: ReactIcon
+foreign import _fiCopy :: ReactIcon
 
 fiCopy :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiCopy = element (unsafeCoerce fiCopy_)
+fiCopy = element (unsafeCoerce _fiCopy)
 
-foreign import fiCornerDownLeft_ :: ReactIcon
+foreign import _fiCornerDownLeft :: ReactIcon
 
 fiCornerDownLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiCornerDownLeft = element (unsafeCoerce fiCornerDownLeft_)
+fiCornerDownLeft = element (unsafeCoerce _fiCornerDownLeft)
 
-foreign import fiCornerDownRight_ :: ReactIcon
+foreign import _fiCornerDownRight :: ReactIcon
 
 fiCornerDownRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiCornerDownRight = element (unsafeCoerce fiCornerDownRight_)
+fiCornerDownRight = element (unsafeCoerce _fiCornerDownRight)
 
-foreign import fiCornerLeftDown_ :: ReactIcon
+foreign import _fiCornerLeftDown :: ReactIcon
 
 fiCornerLeftDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiCornerLeftDown = element (unsafeCoerce fiCornerLeftDown_)
+fiCornerLeftDown = element (unsafeCoerce _fiCornerLeftDown)
 
-foreign import fiCornerLeftUp_ :: ReactIcon
+foreign import _fiCornerLeftUp :: ReactIcon
 
 fiCornerLeftUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiCornerLeftUp = element (unsafeCoerce fiCornerLeftUp_)
+fiCornerLeftUp = element (unsafeCoerce _fiCornerLeftUp)
 
-foreign import fiCornerRightDown_ :: ReactIcon
+foreign import _fiCornerRightDown :: ReactIcon
 
 fiCornerRightDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiCornerRightDown = element (unsafeCoerce fiCornerRightDown_)
+fiCornerRightDown = element (unsafeCoerce _fiCornerRightDown)
 
-foreign import fiCornerRightUp_ :: ReactIcon
+foreign import _fiCornerRightUp :: ReactIcon
 
 fiCornerRightUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiCornerRightUp = element (unsafeCoerce fiCornerRightUp_)
+fiCornerRightUp = element (unsafeCoerce _fiCornerRightUp)
 
-foreign import fiCornerUpLeft_ :: ReactIcon
+foreign import _fiCornerUpLeft :: ReactIcon
 
 fiCornerUpLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiCornerUpLeft = element (unsafeCoerce fiCornerUpLeft_)
+fiCornerUpLeft = element (unsafeCoerce _fiCornerUpLeft)
 
-foreign import fiCornerUpRight_ :: ReactIcon
+foreign import _fiCornerUpRight :: ReactIcon
 
 fiCornerUpRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiCornerUpRight = element (unsafeCoerce fiCornerUpRight_)
+fiCornerUpRight = element (unsafeCoerce _fiCornerUpRight)
 
-foreign import fiCpu_ :: ReactIcon
+foreign import _fiCpu :: ReactIcon
 
 fiCpu :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiCpu = element (unsafeCoerce fiCpu_)
+fiCpu = element (unsafeCoerce _fiCpu)
 
-foreign import fiCreditCard_ :: ReactIcon
+foreign import _fiCreditCard :: ReactIcon
 
 fiCreditCard :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiCreditCard = element (unsafeCoerce fiCreditCard_)
+fiCreditCard = element (unsafeCoerce _fiCreditCard)
 
-foreign import fiCrop_ :: ReactIcon
+foreign import _fiCrop :: ReactIcon
 
 fiCrop :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiCrop = element (unsafeCoerce fiCrop_)
+fiCrop = element (unsafeCoerce _fiCrop)
 
-foreign import fiCrosshair_ :: ReactIcon
+foreign import _fiCrosshair :: ReactIcon
 
 fiCrosshair :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiCrosshair = element (unsafeCoerce fiCrosshair_)
+fiCrosshair = element (unsafeCoerce _fiCrosshair)
 
-foreign import fiDatabase_ :: ReactIcon
+foreign import _fiDatabase :: ReactIcon
 
 fiDatabase :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiDatabase = element (unsafeCoerce fiDatabase_)
+fiDatabase = element (unsafeCoerce _fiDatabase)
 
-foreign import fiDelete_ :: ReactIcon
+foreign import _fiDelete :: ReactIcon
 
 fiDelete :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiDelete = element (unsafeCoerce fiDelete_)
+fiDelete = element (unsafeCoerce _fiDelete)
 
-foreign import fiDisc_ :: ReactIcon
+foreign import _fiDisc :: ReactIcon
 
 fiDisc :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiDisc = element (unsafeCoerce fiDisc_)
+fiDisc = element (unsafeCoerce _fiDisc)
 
-foreign import fiDivide_ :: ReactIcon
+foreign import _fiDivide :: ReactIcon
 
 fiDivide :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiDivide = element (unsafeCoerce fiDivide_)
+fiDivide = element (unsafeCoerce _fiDivide)
 
-foreign import fiDivideCircle_ :: ReactIcon
+foreign import _fiDivideCircle :: ReactIcon
 
 fiDivideCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiDivideCircle = element (unsafeCoerce fiDivideCircle_)
+fiDivideCircle = element (unsafeCoerce _fiDivideCircle)
 
-foreign import fiDivideSquare_ :: ReactIcon
+foreign import _fiDivideSquare :: ReactIcon
 
 fiDivideSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiDivideSquare = element (unsafeCoerce fiDivideSquare_)
+fiDivideSquare = element (unsafeCoerce _fiDivideSquare)
 
-foreign import fiDollarSign_ :: ReactIcon
+foreign import _fiDollarSign :: ReactIcon
 
 fiDollarSign :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiDollarSign = element (unsafeCoerce fiDollarSign_)
+fiDollarSign = element (unsafeCoerce _fiDollarSign)
 
-foreign import fiDownload_ :: ReactIcon
+foreign import _fiDownload :: ReactIcon
 
 fiDownload :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiDownload = element (unsafeCoerce fiDownload_)
+fiDownload = element (unsafeCoerce _fiDownload)
 
-foreign import fiDownloadCloud_ :: ReactIcon
+foreign import _fiDownloadCloud :: ReactIcon
 
 fiDownloadCloud :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiDownloadCloud = element (unsafeCoerce fiDownloadCloud_)
+fiDownloadCloud = element (unsafeCoerce _fiDownloadCloud)
 
-foreign import fiDribbble_ :: ReactIcon
+foreign import _fiDribbble :: ReactIcon
 
 fiDribbble :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiDribbble = element (unsafeCoerce fiDribbble_)
+fiDribbble = element (unsafeCoerce _fiDribbble)
 
-foreign import fiDroplet_ :: ReactIcon
+foreign import _fiDroplet :: ReactIcon
 
 fiDroplet :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiDroplet = element (unsafeCoerce fiDroplet_)
+fiDroplet = element (unsafeCoerce _fiDroplet)
 
-foreign import fiEdit_ :: ReactIcon
+foreign import _fiEdit :: ReactIcon
 
 fiEdit :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiEdit = element (unsafeCoerce fiEdit_)
+fiEdit = element (unsafeCoerce _fiEdit)
 
-foreign import fiExternalLink_ :: ReactIcon
+foreign import _fiExternalLink :: ReactIcon
 
 fiExternalLink :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiExternalLink = element (unsafeCoerce fiExternalLink_)
+fiExternalLink = element (unsafeCoerce _fiExternalLink)
 
-foreign import fiEye_ :: ReactIcon
+foreign import _fiEye :: ReactIcon
 
 fiEye :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiEye = element (unsafeCoerce fiEye_)
+fiEye = element (unsafeCoerce _fiEye)
 
-foreign import fiEyeOff_ :: ReactIcon
+foreign import _fiEyeOff :: ReactIcon
 
 fiEyeOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiEyeOff = element (unsafeCoerce fiEyeOff_)
+fiEyeOff = element (unsafeCoerce _fiEyeOff)
 
-foreign import fiFacebook_ :: ReactIcon
+foreign import _fiFacebook :: ReactIcon
 
 fiFacebook :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiFacebook = element (unsafeCoerce fiFacebook_)
+fiFacebook = element (unsafeCoerce _fiFacebook)
 
-foreign import fiFastForward_ :: ReactIcon
+foreign import _fiFastForward :: ReactIcon
 
 fiFastForward :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiFastForward = element (unsafeCoerce fiFastForward_)
+fiFastForward = element (unsafeCoerce _fiFastForward)
 
-foreign import fiFeather_ :: ReactIcon
+foreign import _fiFeather :: ReactIcon
 
 fiFeather :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiFeather = element (unsafeCoerce fiFeather_)
+fiFeather = element (unsafeCoerce _fiFeather)
 
-foreign import fiFigma_ :: ReactIcon
+foreign import _fiFigma :: ReactIcon
 
 fiFigma :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiFigma = element (unsafeCoerce fiFigma_)
+fiFigma = element (unsafeCoerce _fiFigma)
 
-foreign import fiFile_ :: ReactIcon
+foreign import _fiFile :: ReactIcon
 
 fiFile :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiFile = element (unsafeCoerce fiFile_)
+fiFile = element (unsafeCoerce _fiFile)
 
-foreign import fiFileMinus_ :: ReactIcon
+foreign import _fiFileMinus :: ReactIcon
 
 fiFileMinus :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiFileMinus = element (unsafeCoerce fiFileMinus_)
+fiFileMinus = element (unsafeCoerce _fiFileMinus)
 
-foreign import fiFilePlus_ :: ReactIcon
+foreign import _fiFilePlus :: ReactIcon
 
 fiFilePlus :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiFilePlus = element (unsafeCoerce fiFilePlus_)
+fiFilePlus = element (unsafeCoerce _fiFilePlus)
 
-foreign import fiFileText_ :: ReactIcon
+foreign import _fiFileText :: ReactIcon
 
 fiFileText :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiFileText = element (unsafeCoerce fiFileText_)
+fiFileText = element (unsafeCoerce _fiFileText)
 
-foreign import fiFilm_ :: ReactIcon
+foreign import _fiFilm :: ReactIcon
 
 fiFilm :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiFilm = element (unsafeCoerce fiFilm_)
+fiFilm = element (unsafeCoerce _fiFilm)
 
-foreign import fiFilter_ :: ReactIcon
+foreign import _fiFilter :: ReactIcon
 
 fiFilter :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiFilter = element (unsafeCoerce fiFilter_)
+fiFilter = element (unsafeCoerce _fiFilter)
 
-foreign import fiFlag_ :: ReactIcon
+foreign import _fiFlag :: ReactIcon
 
 fiFlag :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiFlag = element (unsafeCoerce fiFlag_)
+fiFlag = element (unsafeCoerce _fiFlag)
 
-foreign import fiFolder_ :: ReactIcon
+foreign import _fiFolder :: ReactIcon
 
 fiFolder :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiFolder = element (unsafeCoerce fiFolder_)
+fiFolder = element (unsafeCoerce _fiFolder)
 
-foreign import fiFolderMinus_ :: ReactIcon
+foreign import _fiFolderMinus :: ReactIcon
 
 fiFolderMinus :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiFolderMinus = element (unsafeCoerce fiFolderMinus_)
+fiFolderMinus = element (unsafeCoerce _fiFolderMinus)
 
-foreign import fiFolderPlus_ :: ReactIcon
+foreign import _fiFolderPlus :: ReactIcon
 
 fiFolderPlus :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiFolderPlus = element (unsafeCoerce fiFolderPlus_)
+fiFolderPlus = element (unsafeCoerce _fiFolderPlus)
 
-foreign import fiFramer_ :: ReactIcon
+foreign import _fiFramer :: ReactIcon
 
 fiFramer :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiFramer = element (unsafeCoerce fiFramer_)
+fiFramer = element (unsafeCoerce _fiFramer)
 
-foreign import fiFrown_ :: ReactIcon
+foreign import _fiFrown :: ReactIcon
 
 fiFrown :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiFrown = element (unsafeCoerce fiFrown_)
+fiFrown = element (unsafeCoerce _fiFrown)
 
-foreign import fiGift_ :: ReactIcon
+foreign import _fiGift :: ReactIcon
 
 fiGift :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiGift = element (unsafeCoerce fiGift_)
+fiGift = element (unsafeCoerce _fiGift)
 
-foreign import fiGitBranch_ :: ReactIcon
+foreign import _fiGitBranch :: ReactIcon
 
 fiGitBranch :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiGitBranch = element (unsafeCoerce fiGitBranch_)
+fiGitBranch = element (unsafeCoerce _fiGitBranch)
 
-foreign import fiGitCommit_ :: ReactIcon
+foreign import _fiGitCommit :: ReactIcon
 
 fiGitCommit :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiGitCommit = element (unsafeCoerce fiGitCommit_)
+fiGitCommit = element (unsafeCoerce _fiGitCommit)
 
-foreign import fiGithub_ :: ReactIcon
+foreign import _fiGithub :: ReactIcon
 
 fiGithub :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiGithub = element (unsafeCoerce fiGithub_)
+fiGithub = element (unsafeCoerce _fiGithub)
 
-foreign import fiGitlab_ :: ReactIcon
+foreign import _fiGitlab :: ReactIcon
 
 fiGitlab :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiGitlab = element (unsafeCoerce fiGitlab_)
+fiGitlab = element (unsafeCoerce _fiGitlab)
 
-foreign import fiGitMerge_ :: ReactIcon
+foreign import _fiGitMerge :: ReactIcon
 
 fiGitMerge :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiGitMerge = element (unsafeCoerce fiGitMerge_)
+fiGitMerge = element (unsafeCoerce _fiGitMerge)
 
-foreign import fiGitPullRequest_ :: ReactIcon
+foreign import _fiGitPullRequest :: ReactIcon
 
 fiGitPullRequest :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiGitPullRequest = element (unsafeCoerce fiGitPullRequest_)
+fiGitPullRequest = element (unsafeCoerce _fiGitPullRequest)
 
-foreign import fiGlobe_ :: ReactIcon
+foreign import _fiGlobe :: ReactIcon
 
 fiGlobe :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiGlobe = element (unsafeCoerce fiGlobe_)
+fiGlobe = element (unsafeCoerce _fiGlobe)
 
-foreign import fiGrid_ :: ReactIcon
+foreign import _fiGrid :: ReactIcon
 
 fiGrid :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiGrid = element (unsafeCoerce fiGrid_)
+fiGrid = element (unsafeCoerce _fiGrid)
 
-foreign import fiHardDrive_ :: ReactIcon
+foreign import _fiHardDrive :: ReactIcon
 
 fiHardDrive :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiHardDrive = element (unsafeCoerce fiHardDrive_)
+fiHardDrive = element (unsafeCoerce _fiHardDrive)
 
-foreign import fiHash_ :: ReactIcon
+foreign import _fiHash :: ReactIcon
 
 fiHash :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiHash = element (unsafeCoerce fiHash_)
+fiHash = element (unsafeCoerce _fiHash)
 
-foreign import fiHeadphones_ :: ReactIcon
+foreign import _fiHeadphones :: ReactIcon
 
 fiHeadphones :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiHeadphones = element (unsafeCoerce fiHeadphones_)
+fiHeadphones = element (unsafeCoerce _fiHeadphones)
 
-foreign import fiHeart_ :: ReactIcon
+foreign import _fiHeart :: ReactIcon
 
 fiHeart :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiHeart = element (unsafeCoerce fiHeart_)
+fiHeart = element (unsafeCoerce _fiHeart)
 
-foreign import fiHelpCircle_ :: ReactIcon
+foreign import _fiHelpCircle :: ReactIcon
 
 fiHelpCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiHelpCircle = element (unsafeCoerce fiHelpCircle_)
+fiHelpCircle = element (unsafeCoerce _fiHelpCircle)
 
-foreign import fiHexagon_ :: ReactIcon
+foreign import _fiHexagon :: ReactIcon
 
 fiHexagon :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiHexagon = element (unsafeCoerce fiHexagon_)
+fiHexagon = element (unsafeCoerce _fiHexagon)
 
-foreign import fiHome_ :: ReactIcon
+foreign import _fiHome :: ReactIcon
 
 fiHome :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiHome = element (unsafeCoerce fiHome_)
+fiHome = element (unsafeCoerce _fiHome)
 
-foreign import fiImage_ :: ReactIcon
+foreign import _fiImage :: ReactIcon
 
 fiImage :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiImage = element (unsafeCoerce fiImage_)
+fiImage = element (unsafeCoerce _fiImage)
 
-foreign import fiInbox_ :: ReactIcon
+foreign import _fiInbox :: ReactIcon
 
 fiInbox :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiInbox = element (unsafeCoerce fiInbox_)
+fiInbox = element (unsafeCoerce _fiInbox)
 
-foreign import fiInfo_ :: ReactIcon
+foreign import _fiInfo :: ReactIcon
 
 fiInfo :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiInfo = element (unsafeCoerce fiInfo_)
+fiInfo = element (unsafeCoerce _fiInfo)
 
-foreign import fiInstagram_ :: ReactIcon
+foreign import _fiInstagram :: ReactIcon
 
 fiInstagram :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiInstagram = element (unsafeCoerce fiInstagram_)
+fiInstagram = element (unsafeCoerce _fiInstagram)
 
-foreign import fiItalic_ :: ReactIcon
+foreign import _fiItalic :: ReactIcon
 
 fiItalic :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiItalic = element (unsafeCoerce fiItalic_)
+fiItalic = element (unsafeCoerce _fiItalic)
 
-foreign import fiKey_ :: ReactIcon
+foreign import _fiKey :: ReactIcon
 
 fiKey :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiKey = element (unsafeCoerce fiKey_)
+fiKey = element (unsafeCoerce _fiKey)
 
-foreign import fiLayers_ :: ReactIcon
+foreign import _fiLayers :: ReactIcon
 
 fiLayers :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiLayers = element (unsafeCoerce fiLayers_)
+fiLayers = element (unsafeCoerce _fiLayers)
 
-foreign import fiLayout_ :: ReactIcon
+foreign import _fiLayout :: ReactIcon
 
 fiLayout :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiLayout = element (unsafeCoerce fiLayout_)
+fiLayout = element (unsafeCoerce _fiLayout)
 
-foreign import fiLifeBuoy_ :: ReactIcon
+foreign import _fiLifeBuoy :: ReactIcon
 
 fiLifeBuoy :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiLifeBuoy = element (unsafeCoerce fiLifeBuoy_)
+fiLifeBuoy = element (unsafeCoerce _fiLifeBuoy)
 
-foreign import fiLink_ :: ReactIcon
+foreign import _fiLink :: ReactIcon
 
 fiLink :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiLink = element (unsafeCoerce fiLink_)
+fiLink = element (unsafeCoerce _fiLink)
 
-foreign import fiLinkedin_ :: ReactIcon
+foreign import _fiLinkedin :: ReactIcon
 
 fiLinkedin :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiLinkedin = element (unsafeCoerce fiLinkedin_)
+fiLinkedin = element (unsafeCoerce _fiLinkedin)
 
-foreign import fiList_ :: ReactIcon
+foreign import _fiList :: ReactIcon
 
 fiList :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiList = element (unsafeCoerce fiList_)
+fiList = element (unsafeCoerce _fiList)
 
-foreign import fiLoader_ :: ReactIcon
+foreign import _fiLoader :: ReactIcon
 
 fiLoader :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiLoader = element (unsafeCoerce fiLoader_)
+fiLoader = element (unsafeCoerce _fiLoader)
 
-foreign import fiLock_ :: ReactIcon
+foreign import _fiLock :: ReactIcon
 
 fiLock :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiLock = element (unsafeCoerce fiLock_)
+fiLock = element (unsafeCoerce _fiLock)
 
-foreign import fiLogIn_ :: ReactIcon
+foreign import _fiLogIn :: ReactIcon
 
 fiLogIn :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiLogIn = element (unsafeCoerce fiLogIn_)
+fiLogIn = element (unsafeCoerce _fiLogIn)
 
-foreign import fiLogOut_ :: ReactIcon
+foreign import _fiLogOut :: ReactIcon
 
 fiLogOut :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiLogOut = element (unsafeCoerce fiLogOut_)
+fiLogOut = element (unsafeCoerce _fiLogOut)
 
-foreign import fiMail_ :: ReactIcon
+foreign import _fiMail :: ReactIcon
 
 fiMail :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiMail = element (unsafeCoerce fiMail_)
+fiMail = element (unsafeCoerce _fiMail)
 
-foreign import fiMap_ :: ReactIcon
+foreign import _fiMap :: ReactIcon
 
 fiMap :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiMap = element (unsafeCoerce fiMap_)
+fiMap = element (unsafeCoerce _fiMap)
 
-foreign import fiMapPin_ :: ReactIcon
+foreign import _fiMapPin :: ReactIcon
 
 fiMapPin :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiMapPin = element (unsafeCoerce fiMapPin_)
+fiMapPin = element (unsafeCoerce _fiMapPin)
 
-foreign import fiMaximize_ :: ReactIcon
+foreign import _fiMaximize :: ReactIcon
 
 fiMaximize :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiMaximize = element (unsafeCoerce fiMaximize_)
+fiMaximize = element (unsafeCoerce _fiMaximize)
 
-foreign import fiMeh_ :: ReactIcon
+foreign import _fiMeh :: ReactIcon
 
 fiMeh :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiMeh = element (unsafeCoerce fiMeh_)
+fiMeh = element (unsafeCoerce _fiMeh)
 
-foreign import fiMenu_ :: ReactIcon
+foreign import _fiMenu :: ReactIcon
 
 fiMenu :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiMenu = element (unsafeCoerce fiMenu_)
+fiMenu = element (unsafeCoerce _fiMenu)
 
-foreign import fiMessageCircle_ :: ReactIcon
+foreign import _fiMessageCircle :: ReactIcon
 
 fiMessageCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiMessageCircle = element (unsafeCoerce fiMessageCircle_)
+fiMessageCircle = element (unsafeCoerce _fiMessageCircle)
 
-foreign import fiMessageSquare_ :: ReactIcon
+foreign import _fiMessageSquare :: ReactIcon
 
 fiMessageSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiMessageSquare = element (unsafeCoerce fiMessageSquare_)
+fiMessageSquare = element (unsafeCoerce _fiMessageSquare)
 
-foreign import fiMic_ :: ReactIcon
+foreign import _fiMic :: ReactIcon
 
 fiMic :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiMic = element (unsafeCoerce fiMic_)
+fiMic = element (unsafeCoerce _fiMic)
 
-foreign import fiMicOff_ :: ReactIcon
+foreign import _fiMicOff :: ReactIcon
 
 fiMicOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiMicOff = element (unsafeCoerce fiMicOff_)
+fiMicOff = element (unsafeCoerce _fiMicOff)
 
-foreign import fiMinimize_ :: ReactIcon
+foreign import _fiMinimize :: ReactIcon
 
 fiMinimize :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiMinimize = element (unsafeCoerce fiMinimize_)
+fiMinimize = element (unsafeCoerce _fiMinimize)
 
-foreign import fiMinus_ :: ReactIcon
+foreign import _fiMinus :: ReactIcon
 
 fiMinus :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiMinus = element (unsafeCoerce fiMinus_)
+fiMinus = element (unsafeCoerce _fiMinus)
 
-foreign import fiMinusCircle_ :: ReactIcon
+foreign import _fiMinusCircle :: ReactIcon
 
 fiMinusCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiMinusCircle = element (unsafeCoerce fiMinusCircle_)
+fiMinusCircle = element (unsafeCoerce _fiMinusCircle)
 
-foreign import fiMinusSquare_ :: ReactIcon
+foreign import _fiMinusSquare :: ReactIcon
 
 fiMinusSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiMinusSquare = element (unsafeCoerce fiMinusSquare_)
+fiMinusSquare = element (unsafeCoerce _fiMinusSquare)
 
-foreign import fiMonitor_ :: ReactIcon
+foreign import _fiMonitor :: ReactIcon
 
 fiMonitor :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiMonitor = element (unsafeCoerce fiMonitor_)
+fiMonitor = element (unsafeCoerce _fiMonitor)
 
-foreign import fiMoon_ :: ReactIcon
+foreign import _fiMoon :: ReactIcon
 
 fiMoon :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiMoon = element (unsafeCoerce fiMoon_)
+fiMoon = element (unsafeCoerce _fiMoon)
 
-foreign import fiMoreHorizontal_ :: ReactIcon
+foreign import _fiMoreHorizontal :: ReactIcon
 
 fiMoreHorizontal :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiMoreHorizontal = element (unsafeCoerce fiMoreHorizontal_)
+fiMoreHorizontal = element (unsafeCoerce _fiMoreHorizontal)
 
-foreign import fiMoreVertical_ :: ReactIcon
+foreign import _fiMoreVertical :: ReactIcon
 
 fiMoreVertical :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiMoreVertical = element (unsafeCoerce fiMoreVertical_)
+fiMoreVertical = element (unsafeCoerce _fiMoreVertical)
 
-foreign import fiMousePointer_ :: ReactIcon
+foreign import _fiMousePointer :: ReactIcon
 
 fiMousePointer :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiMousePointer = element (unsafeCoerce fiMousePointer_)
+fiMousePointer = element (unsafeCoerce _fiMousePointer)
 
-foreign import fiMove_ :: ReactIcon
+foreign import _fiMove :: ReactIcon
 
 fiMove :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiMove = element (unsafeCoerce fiMove_)
+fiMove = element (unsafeCoerce _fiMove)
 
-foreign import fiMusic_ :: ReactIcon
+foreign import _fiMusic :: ReactIcon
 
 fiMusic :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiMusic = element (unsafeCoerce fiMusic_)
+fiMusic = element (unsafeCoerce _fiMusic)
 
-foreign import fiNavigation_ :: ReactIcon
+foreign import _fiNavigation :: ReactIcon
 
 fiNavigation :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiNavigation = element (unsafeCoerce fiNavigation_)
+fiNavigation = element (unsafeCoerce _fiNavigation)
 
-foreign import fiOctagon_ :: ReactIcon
+foreign import _fiOctagon :: ReactIcon
 
 fiOctagon :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiOctagon = element (unsafeCoerce fiOctagon_)
+fiOctagon = element (unsafeCoerce _fiOctagon)
 
-foreign import fiPackage_ :: ReactIcon
+foreign import _fiPackage :: ReactIcon
 
 fiPackage :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiPackage = element (unsafeCoerce fiPackage_)
+fiPackage = element (unsafeCoerce _fiPackage)
 
-foreign import fiPaperclip_ :: ReactIcon
+foreign import _fiPaperclip :: ReactIcon
 
 fiPaperclip :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiPaperclip = element (unsafeCoerce fiPaperclip_)
+fiPaperclip = element (unsafeCoerce _fiPaperclip)
 
-foreign import fiPause_ :: ReactIcon
+foreign import _fiPause :: ReactIcon
 
 fiPause :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiPause = element (unsafeCoerce fiPause_)
+fiPause = element (unsafeCoerce _fiPause)
 
-foreign import fiPauseCircle_ :: ReactIcon
+foreign import _fiPauseCircle :: ReactIcon
 
 fiPauseCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiPauseCircle = element (unsafeCoerce fiPauseCircle_)
+fiPauseCircle = element (unsafeCoerce _fiPauseCircle)
 
-foreign import fiPenTool_ :: ReactIcon
+foreign import _fiPenTool :: ReactIcon
 
 fiPenTool :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiPenTool = element (unsafeCoerce fiPenTool_)
+fiPenTool = element (unsafeCoerce _fiPenTool)
 
-foreign import fiPercent_ :: ReactIcon
+foreign import _fiPercent :: ReactIcon
 
 fiPercent :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiPercent = element (unsafeCoerce fiPercent_)
+fiPercent = element (unsafeCoerce _fiPercent)
 
-foreign import fiPhone_ :: ReactIcon
+foreign import _fiPhone :: ReactIcon
 
 fiPhone :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiPhone = element (unsafeCoerce fiPhone_)
+fiPhone = element (unsafeCoerce _fiPhone)
 
-foreign import fiPhoneCall_ :: ReactIcon
+foreign import _fiPhoneCall :: ReactIcon
 
 fiPhoneCall :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiPhoneCall = element (unsafeCoerce fiPhoneCall_)
+fiPhoneCall = element (unsafeCoerce _fiPhoneCall)
 
-foreign import fiPhoneForwarded_ :: ReactIcon
+foreign import _fiPhoneForwarded :: ReactIcon
 
 fiPhoneForwarded :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiPhoneForwarded = element (unsafeCoerce fiPhoneForwarded_)
+fiPhoneForwarded = element (unsafeCoerce _fiPhoneForwarded)
 
-foreign import fiPhoneIncoming_ :: ReactIcon
+foreign import _fiPhoneIncoming :: ReactIcon
 
 fiPhoneIncoming :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiPhoneIncoming = element (unsafeCoerce fiPhoneIncoming_)
+fiPhoneIncoming = element (unsafeCoerce _fiPhoneIncoming)
 
-foreign import fiPhoneMissed_ :: ReactIcon
+foreign import _fiPhoneMissed :: ReactIcon
 
 fiPhoneMissed :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiPhoneMissed = element (unsafeCoerce fiPhoneMissed_)
+fiPhoneMissed = element (unsafeCoerce _fiPhoneMissed)
 
-foreign import fiPhoneOff_ :: ReactIcon
+foreign import _fiPhoneOff :: ReactIcon
 
 fiPhoneOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiPhoneOff = element (unsafeCoerce fiPhoneOff_)
+fiPhoneOff = element (unsafeCoerce _fiPhoneOff)
 
-foreign import fiPhoneOutgoing_ :: ReactIcon
+foreign import _fiPhoneOutgoing :: ReactIcon
 
 fiPhoneOutgoing :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiPhoneOutgoing = element (unsafeCoerce fiPhoneOutgoing_)
+fiPhoneOutgoing = element (unsafeCoerce _fiPhoneOutgoing)
 
-foreign import fiPieChart_ :: ReactIcon
+foreign import _fiPieChart :: ReactIcon
 
 fiPieChart :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiPieChart = element (unsafeCoerce fiPieChart_)
+fiPieChart = element (unsafeCoerce _fiPieChart)
 
-foreign import fiPlay_ :: ReactIcon
+foreign import _fiPlay :: ReactIcon
 
 fiPlay :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiPlay = element (unsafeCoerce fiPlay_)
+fiPlay = element (unsafeCoerce _fiPlay)
 
-foreign import fiPlayCircle_ :: ReactIcon
+foreign import _fiPlayCircle :: ReactIcon
 
 fiPlayCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiPlayCircle = element (unsafeCoerce fiPlayCircle_)
+fiPlayCircle = element (unsafeCoerce _fiPlayCircle)
 
-foreign import fiPlus_ :: ReactIcon
+foreign import _fiPlus :: ReactIcon
 
 fiPlus :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiPlus = element (unsafeCoerce fiPlus_)
+fiPlus = element (unsafeCoerce _fiPlus)
 
-foreign import fiPlusCircle_ :: ReactIcon
+foreign import _fiPlusCircle :: ReactIcon
 
 fiPlusCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiPlusCircle = element (unsafeCoerce fiPlusCircle_)
+fiPlusCircle = element (unsafeCoerce _fiPlusCircle)
 
-foreign import fiPlusSquare_ :: ReactIcon
+foreign import _fiPlusSquare :: ReactIcon
 
 fiPlusSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiPlusSquare = element (unsafeCoerce fiPlusSquare_)
+fiPlusSquare = element (unsafeCoerce _fiPlusSquare)
 
-foreign import fiPocket_ :: ReactIcon
+foreign import _fiPocket :: ReactIcon
 
 fiPocket :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiPocket = element (unsafeCoerce fiPocket_)
+fiPocket = element (unsafeCoerce _fiPocket)
 
-foreign import fiPower_ :: ReactIcon
+foreign import _fiPower :: ReactIcon
 
 fiPower :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiPower = element (unsafeCoerce fiPower_)
+fiPower = element (unsafeCoerce _fiPower)
 
-foreign import fiPrinter_ :: ReactIcon
+foreign import _fiPrinter :: ReactIcon
 
 fiPrinter :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiPrinter = element (unsafeCoerce fiPrinter_)
+fiPrinter = element (unsafeCoerce _fiPrinter)
 
-foreign import fiRadio_ :: ReactIcon
+foreign import _fiRadio :: ReactIcon
 
 fiRadio :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiRadio = element (unsafeCoerce fiRadio_)
+fiRadio = element (unsafeCoerce _fiRadio)
 
-foreign import fiRefreshCcw_ :: ReactIcon
+foreign import _fiRefreshCcw :: ReactIcon
 
 fiRefreshCcw :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiRefreshCcw = element (unsafeCoerce fiRefreshCcw_)
+fiRefreshCcw = element (unsafeCoerce _fiRefreshCcw)
 
-foreign import fiRefreshCw_ :: ReactIcon
+foreign import _fiRefreshCw :: ReactIcon
 
 fiRefreshCw :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiRefreshCw = element (unsafeCoerce fiRefreshCw_)
+fiRefreshCw = element (unsafeCoerce _fiRefreshCw)
 
-foreign import fiRepeat_ :: ReactIcon
+foreign import _fiRepeat :: ReactIcon
 
 fiRepeat :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiRepeat = element (unsafeCoerce fiRepeat_)
+fiRepeat = element (unsafeCoerce _fiRepeat)
 
-foreign import fiRewind_ :: ReactIcon
+foreign import _fiRewind :: ReactIcon
 
 fiRewind :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiRewind = element (unsafeCoerce fiRewind_)
+fiRewind = element (unsafeCoerce _fiRewind)
 
-foreign import fiRotateCcw_ :: ReactIcon
+foreign import _fiRotateCcw :: ReactIcon
 
 fiRotateCcw :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiRotateCcw = element (unsafeCoerce fiRotateCcw_)
+fiRotateCcw = element (unsafeCoerce _fiRotateCcw)
 
-foreign import fiRotateCw_ :: ReactIcon
+foreign import _fiRotateCw :: ReactIcon
 
 fiRotateCw :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiRotateCw = element (unsafeCoerce fiRotateCw_)
+fiRotateCw = element (unsafeCoerce _fiRotateCw)
 
-foreign import fiRss_ :: ReactIcon
+foreign import _fiRss :: ReactIcon
 
 fiRss :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiRss = element (unsafeCoerce fiRss_)
+fiRss = element (unsafeCoerce _fiRss)
 
-foreign import fiSave_ :: ReactIcon
+foreign import _fiSave :: ReactIcon
 
 fiSave :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiSave = element (unsafeCoerce fiSave_)
+fiSave = element (unsafeCoerce _fiSave)
 
-foreign import fiScissors_ :: ReactIcon
+foreign import _fiScissors :: ReactIcon
 
 fiScissors :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiScissors = element (unsafeCoerce fiScissors_)
+fiScissors = element (unsafeCoerce _fiScissors)
 
-foreign import fiSearch_ :: ReactIcon
+foreign import _fiSearch :: ReactIcon
 
 fiSearch :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiSearch = element (unsafeCoerce fiSearch_)
+fiSearch = element (unsafeCoerce _fiSearch)
 
-foreign import fiSend_ :: ReactIcon
+foreign import _fiSend :: ReactIcon
 
 fiSend :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiSend = element (unsafeCoerce fiSend_)
+fiSend = element (unsafeCoerce _fiSend)
 
-foreign import fiServer_ :: ReactIcon
+foreign import _fiServer :: ReactIcon
 
 fiServer :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiServer = element (unsafeCoerce fiServer_)
+fiServer = element (unsafeCoerce _fiServer)
 
-foreign import fiSettings_ :: ReactIcon
+foreign import _fiSettings :: ReactIcon
 
 fiSettings :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiSettings = element (unsafeCoerce fiSettings_)
+fiSettings = element (unsafeCoerce _fiSettings)
 
-foreign import fiShare_ :: ReactIcon
+foreign import _fiShare :: ReactIcon
 
 fiShare :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiShare = element (unsafeCoerce fiShare_)
+fiShare = element (unsafeCoerce _fiShare)
 
-foreign import fiShield_ :: ReactIcon
+foreign import _fiShield :: ReactIcon
 
 fiShield :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiShield = element (unsafeCoerce fiShield_)
+fiShield = element (unsafeCoerce _fiShield)
 
-foreign import fiShieldOff_ :: ReactIcon
+foreign import _fiShieldOff :: ReactIcon
 
 fiShieldOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiShieldOff = element (unsafeCoerce fiShieldOff_)
+fiShieldOff = element (unsafeCoerce _fiShieldOff)
 
-foreign import fiShoppingBag_ :: ReactIcon
+foreign import _fiShoppingBag :: ReactIcon
 
 fiShoppingBag :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiShoppingBag = element (unsafeCoerce fiShoppingBag_)
+fiShoppingBag = element (unsafeCoerce _fiShoppingBag)
 
-foreign import fiShoppingCart_ :: ReactIcon
+foreign import _fiShoppingCart :: ReactIcon
 
 fiShoppingCart :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiShoppingCart = element (unsafeCoerce fiShoppingCart_)
+fiShoppingCart = element (unsafeCoerce _fiShoppingCart)
 
-foreign import fiShuffle_ :: ReactIcon
+foreign import _fiShuffle :: ReactIcon
 
 fiShuffle :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiShuffle = element (unsafeCoerce fiShuffle_)
+fiShuffle = element (unsafeCoerce _fiShuffle)
 
-foreign import fiSidebar_ :: ReactIcon
+foreign import _fiSidebar :: ReactIcon
 
 fiSidebar :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiSidebar = element (unsafeCoerce fiSidebar_)
+fiSidebar = element (unsafeCoerce _fiSidebar)
 
-foreign import fiSkipBack_ :: ReactIcon
+foreign import _fiSkipBack :: ReactIcon
 
 fiSkipBack :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiSkipBack = element (unsafeCoerce fiSkipBack_)
+fiSkipBack = element (unsafeCoerce _fiSkipBack)
 
-foreign import fiSkipForward_ :: ReactIcon
+foreign import _fiSkipForward :: ReactIcon
 
 fiSkipForward :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiSkipForward = element (unsafeCoerce fiSkipForward_)
+fiSkipForward = element (unsafeCoerce _fiSkipForward)
 
-foreign import fiSlack_ :: ReactIcon
+foreign import _fiSlack :: ReactIcon
 
 fiSlack :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiSlack = element (unsafeCoerce fiSlack_)
+fiSlack = element (unsafeCoerce _fiSlack)
 
-foreign import fiSlash_ :: ReactIcon
+foreign import _fiSlash :: ReactIcon
 
 fiSlash :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiSlash = element (unsafeCoerce fiSlash_)
+fiSlash = element (unsafeCoerce _fiSlash)
 
-foreign import fiSliders_ :: ReactIcon
+foreign import _fiSliders :: ReactIcon
 
 fiSliders :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiSliders = element (unsafeCoerce fiSliders_)
+fiSliders = element (unsafeCoerce _fiSliders)
 
-foreign import fiSmartphone_ :: ReactIcon
+foreign import _fiSmartphone :: ReactIcon
 
 fiSmartphone :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiSmartphone = element (unsafeCoerce fiSmartphone_)
+fiSmartphone = element (unsafeCoerce _fiSmartphone)
 
-foreign import fiSmile_ :: ReactIcon
+foreign import _fiSmile :: ReactIcon
 
 fiSmile :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiSmile = element (unsafeCoerce fiSmile_)
+fiSmile = element (unsafeCoerce _fiSmile)
 
-foreign import fiSpeaker_ :: ReactIcon
+foreign import _fiSpeaker :: ReactIcon
 
 fiSpeaker :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiSpeaker = element (unsafeCoerce fiSpeaker_)
+fiSpeaker = element (unsafeCoerce _fiSpeaker)
 
-foreign import fiSquare_ :: ReactIcon
+foreign import _fiSquare :: ReactIcon
 
 fiSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiSquare = element (unsafeCoerce fiSquare_)
+fiSquare = element (unsafeCoerce _fiSquare)
 
-foreign import fiStar_ :: ReactIcon
+foreign import _fiStar :: ReactIcon
 
 fiStar :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiStar = element (unsafeCoerce fiStar_)
+fiStar = element (unsafeCoerce _fiStar)
 
-foreign import fiStopCircle_ :: ReactIcon
+foreign import _fiStopCircle :: ReactIcon
 
 fiStopCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiStopCircle = element (unsafeCoerce fiStopCircle_)
+fiStopCircle = element (unsafeCoerce _fiStopCircle)
 
-foreign import fiSun_ :: ReactIcon
+foreign import _fiSun :: ReactIcon
 
 fiSun :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiSun = element (unsafeCoerce fiSun_)
+fiSun = element (unsafeCoerce _fiSun)
 
-foreign import fiSunrise_ :: ReactIcon
+foreign import _fiSunrise :: ReactIcon
 
 fiSunrise :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiSunrise = element (unsafeCoerce fiSunrise_)
+fiSunrise = element (unsafeCoerce _fiSunrise)
 
-foreign import fiSunset_ :: ReactIcon
+foreign import _fiSunset :: ReactIcon
 
 fiSunset :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiSunset = element (unsafeCoerce fiSunset_)
+fiSunset = element (unsafeCoerce _fiSunset)
 
-foreign import fiTablet_ :: ReactIcon
+foreign import _fiTablet :: ReactIcon
 
 fiTablet :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiTablet = element (unsafeCoerce fiTablet_)
+fiTablet = element (unsafeCoerce _fiTablet)
 
-foreign import fiTag_ :: ReactIcon
+foreign import _fiTag :: ReactIcon
 
 fiTag :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiTag = element (unsafeCoerce fiTag_)
+fiTag = element (unsafeCoerce _fiTag)
 
-foreign import fiTarget_ :: ReactIcon
+foreign import _fiTarget :: ReactIcon
 
 fiTarget :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiTarget = element (unsafeCoerce fiTarget_)
+fiTarget = element (unsafeCoerce _fiTarget)
 
-foreign import fiTerminal_ :: ReactIcon
+foreign import _fiTerminal :: ReactIcon
 
 fiTerminal :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiTerminal = element (unsafeCoerce fiTerminal_)
+fiTerminal = element (unsafeCoerce _fiTerminal)
 
-foreign import fiThermometer_ :: ReactIcon
+foreign import _fiThermometer :: ReactIcon
 
 fiThermometer :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiThermometer = element (unsafeCoerce fiThermometer_)
+fiThermometer = element (unsafeCoerce _fiThermometer)
 
-foreign import fiThumbsDown_ :: ReactIcon
+foreign import _fiThumbsDown :: ReactIcon
 
 fiThumbsDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiThumbsDown = element (unsafeCoerce fiThumbsDown_)
+fiThumbsDown = element (unsafeCoerce _fiThumbsDown)
 
-foreign import fiThumbsUp_ :: ReactIcon
+foreign import _fiThumbsUp :: ReactIcon
 
 fiThumbsUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiThumbsUp = element (unsafeCoerce fiThumbsUp_)
+fiThumbsUp = element (unsafeCoerce _fiThumbsUp)
 
-foreign import fiToggleLeft_ :: ReactIcon
+foreign import _fiToggleLeft :: ReactIcon
 
 fiToggleLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiToggleLeft = element (unsafeCoerce fiToggleLeft_)
+fiToggleLeft = element (unsafeCoerce _fiToggleLeft)
 
-foreign import fiToggleRight_ :: ReactIcon
+foreign import _fiToggleRight :: ReactIcon
 
 fiToggleRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiToggleRight = element (unsafeCoerce fiToggleRight_)
+fiToggleRight = element (unsafeCoerce _fiToggleRight)
 
-foreign import fiTool_ :: ReactIcon
+foreign import _fiTool :: ReactIcon
 
 fiTool :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiTool = element (unsafeCoerce fiTool_)
+fiTool = element (unsafeCoerce _fiTool)
 
-foreign import fiTrash_ :: ReactIcon
+foreign import _fiTrash :: ReactIcon
 
 fiTrash :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiTrash = element (unsafeCoerce fiTrash_)
+fiTrash = element (unsafeCoerce _fiTrash)
 
-foreign import fiTrello_ :: ReactIcon
+foreign import _fiTrello :: ReactIcon
 
 fiTrello :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiTrello = element (unsafeCoerce fiTrello_)
+fiTrello = element (unsafeCoerce _fiTrello)
 
-foreign import fiTrendingDown_ :: ReactIcon
+foreign import _fiTrendingDown :: ReactIcon
 
 fiTrendingDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiTrendingDown = element (unsafeCoerce fiTrendingDown_)
+fiTrendingDown = element (unsafeCoerce _fiTrendingDown)
 
-foreign import fiTrendingUp_ :: ReactIcon
+foreign import _fiTrendingUp :: ReactIcon
 
 fiTrendingUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiTrendingUp = element (unsafeCoerce fiTrendingUp_)
+fiTrendingUp = element (unsafeCoerce _fiTrendingUp)
 
-foreign import fiTriangle_ :: ReactIcon
+foreign import _fiTriangle :: ReactIcon
 
 fiTriangle :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiTriangle = element (unsafeCoerce fiTriangle_)
+fiTriangle = element (unsafeCoerce _fiTriangle)
 
-foreign import fiTruck_ :: ReactIcon
+foreign import _fiTruck :: ReactIcon
 
 fiTruck :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiTruck = element (unsafeCoerce fiTruck_)
+fiTruck = element (unsafeCoerce _fiTruck)
 
-foreign import fiTv_ :: ReactIcon
+foreign import _fiTv :: ReactIcon
 
 fiTv :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiTv = element (unsafeCoerce fiTv_)
+fiTv = element (unsafeCoerce _fiTv)
 
-foreign import fiTwitch_ :: ReactIcon
+foreign import _fiTwitch :: ReactIcon
 
 fiTwitch :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiTwitch = element (unsafeCoerce fiTwitch_)
+fiTwitch = element (unsafeCoerce _fiTwitch)
 
-foreign import fiTwitter_ :: ReactIcon
+foreign import _fiTwitter :: ReactIcon
 
 fiTwitter :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiTwitter = element (unsafeCoerce fiTwitter_)
+fiTwitter = element (unsafeCoerce _fiTwitter)
 
-foreign import fiType_ :: ReactIcon
+foreign import _fiType :: ReactIcon
 
 fiType :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiType = element (unsafeCoerce fiType_)
+fiType = element (unsafeCoerce _fiType)
 
-foreign import fiUmbrella_ :: ReactIcon
+foreign import _fiUmbrella :: ReactIcon
 
 fiUmbrella :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiUmbrella = element (unsafeCoerce fiUmbrella_)
+fiUmbrella = element (unsafeCoerce _fiUmbrella)
 
-foreign import fiUnderline_ :: ReactIcon
+foreign import _fiUnderline :: ReactIcon
 
 fiUnderline :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiUnderline = element (unsafeCoerce fiUnderline_)
+fiUnderline = element (unsafeCoerce _fiUnderline)
 
-foreign import fiUnlock_ :: ReactIcon
+foreign import _fiUnlock :: ReactIcon
 
 fiUnlock :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiUnlock = element (unsafeCoerce fiUnlock_)
+fiUnlock = element (unsafeCoerce _fiUnlock)
 
-foreign import fiUpload_ :: ReactIcon
+foreign import _fiUpload :: ReactIcon
 
 fiUpload :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiUpload = element (unsafeCoerce fiUpload_)
+fiUpload = element (unsafeCoerce _fiUpload)
 
-foreign import fiUploadCloud_ :: ReactIcon
+foreign import _fiUploadCloud :: ReactIcon
 
 fiUploadCloud :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiUploadCloud = element (unsafeCoerce fiUploadCloud_)
+fiUploadCloud = element (unsafeCoerce _fiUploadCloud)
 
-foreign import fiUser_ :: ReactIcon
+foreign import _fiUser :: ReactIcon
 
 fiUser :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiUser = element (unsafeCoerce fiUser_)
+fiUser = element (unsafeCoerce _fiUser)
 
-foreign import fiUserCheck_ :: ReactIcon
+foreign import _fiUserCheck :: ReactIcon
 
 fiUserCheck :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiUserCheck = element (unsafeCoerce fiUserCheck_)
+fiUserCheck = element (unsafeCoerce _fiUserCheck)
 
-foreign import fiUserMinus_ :: ReactIcon
+foreign import _fiUserMinus :: ReactIcon
 
 fiUserMinus :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiUserMinus = element (unsafeCoerce fiUserMinus_)
+fiUserMinus = element (unsafeCoerce _fiUserMinus)
 
-foreign import fiUserPlus_ :: ReactIcon
+foreign import _fiUserPlus :: ReactIcon
 
 fiUserPlus :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiUserPlus = element (unsafeCoerce fiUserPlus_)
+fiUserPlus = element (unsafeCoerce _fiUserPlus)
 
-foreign import fiUsers_ :: ReactIcon
+foreign import _fiUsers :: ReactIcon
 
 fiUsers :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiUsers = element (unsafeCoerce fiUsers_)
+fiUsers = element (unsafeCoerce _fiUsers)
 
-foreign import fiUserX_ :: ReactIcon
+foreign import _fiUserX :: ReactIcon
 
 fiUserX :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiUserX = element (unsafeCoerce fiUserX_)
+fiUserX = element (unsafeCoerce _fiUserX)
 
-foreign import fiVideo_ :: ReactIcon
+foreign import _fiVideo :: ReactIcon
 
 fiVideo :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiVideo = element (unsafeCoerce fiVideo_)
+fiVideo = element (unsafeCoerce _fiVideo)
 
-foreign import fiVideoOff_ :: ReactIcon
+foreign import _fiVideoOff :: ReactIcon
 
 fiVideoOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiVideoOff = element (unsafeCoerce fiVideoOff_)
+fiVideoOff = element (unsafeCoerce _fiVideoOff)
 
-foreign import fiVoicemail_ :: ReactIcon
+foreign import _fiVoicemail :: ReactIcon
 
 fiVoicemail :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiVoicemail = element (unsafeCoerce fiVoicemail_)
+fiVoicemail = element (unsafeCoerce _fiVoicemail)
 
-foreign import fiVolume_ :: ReactIcon
+foreign import _fiVolume :: ReactIcon
 
 fiVolume :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiVolume = element (unsafeCoerce fiVolume_)
+fiVolume = element (unsafeCoerce _fiVolume)
 
-foreign import fiVolumeX_ :: ReactIcon
+foreign import _fiVolumeX :: ReactIcon
 
 fiVolumeX :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiVolumeX = element (unsafeCoerce fiVolumeX_)
+fiVolumeX = element (unsafeCoerce _fiVolumeX)
 
-foreign import fiWatch_ :: ReactIcon
+foreign import _fiWatch :: ReactIcon
 
 fiWatch :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiWatch = element (unsafeCoerce fiWatch_)
+fiWatch = element (unsafeCoerce _fiWatch)
 
-foreign import fiWifi_ :: ReactIcon
+foreign import _fiWifi :: ReactIcon
 
 fiWifi :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiWifi = element (unsafeCoerce fiWifi_)
+fiWifi = element (unsafeCoerce _fiWifi)
 
-foreign import fiWifiOff_ :: ReactIcon
+foreign import _fiWifiOff :: ReactIcon
 
 fiWifiOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiWifiOff = element (unsafeCoerce fiWifiOff_)
+fiWifiOff = element (unsafeCoerce _fiWifiOff)
 
-foreign import fiWind_ :: ReactIcon
+foreign import _fiWind :: ReactIcon
 
 fiWind :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiWind = element (unsafeCoerce fiWind_)
+fiWind = element (unsafeCoerce _fiWind)
 
-foreign import fiX_ :: ReactIcon
+foreign import _fiX :: ReactIcon
 
 fiX :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiX = element (unsafeCoerce fiX_)
+fiX = element (unsafeCoerce _fiX)
 
-foreign import fiXCircle_ :: ReactIcon
+foreign import _fiXCircle :: ReactIcon
 
 fiXCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiXCircle = element (unsafeCoerce fiXCircle_)
+fiXCircle = element (unsafeCoerce _fiXCircle)
 
-foreign import fiXOctagon_ :: ReactIcon
+foreign import _fiXOctagon :: ReactIcon
 
 fiXOctagon :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiXOctagon = element (unsafeCoerce fiXOctagon_)
+fiXOctagon = element (unsafeCoerce _fiXOctagon)
 
-foreign import fiXSquare_ :: ReactIcon
+foreign import _fiXSquare :: ReactIcon
 
 fiXSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiXSquare = element (unsafeCoerce fiXSquare_)
+fiXSquare = element (unsafeCoerce _fiXSquare)
 
-foreign import fiYoutube_ :: ReactIcon
+foreign import _fiYoutube :: ReactIcon
 
 fiYoutube :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiYoutube = element (unsafeCoerce fiYoutube_)
+fiYoutube = element (unsafeCoerce _fiYoutube)
 
-foreign import fiZap_ :: ReactIcon
+foreign import _fiZap :: ReactIcon
 
 fiZap :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiZap = element (unsafeCoerce fiZap_)
+fiZap = element (unsafeCoerce _fiZap)
 
-foreign import fiZapOff_ :: ReactIcon
+foreign import _fiZapOff :: ReactIcon
 
 fiZapOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiZapOff = element (unsafeCoerce fiZapOff_)
+fiZapOff = element (unsafeCoerce _fiZapOff)
 
-foreign import fiZoomIn_ :: ReactIcon
+foreign import _fiZoomIn :: ReactIcon
 
 fiZoomIn :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiZoomIn = element (unsafeCoerce fiZoomIn_)
+fiZoomIn = element (unsafeCoerce _fiZoomIn)
 
-foreign import fiZoomOut_ :: ReactIcon
+foreign import _fiZoomOut :: ReactIcon
 
 fiZoomOut :: forall a b. Union a b PropsIcon => Record a -> JSX
-fiZoomOut = element (unsafeCoerce fiZoomOut_)
+fiZoomOut = element (unsafeCoerce _fiZoomOut)

@@ -9,1602 +9,1602 @@ import React.Basic (JSX, element)
 import React.Icons.Types (ReactIcon, PropsIcon)
 import Unsafe.Coerce (unsafeCoerce)
 
-foreign import fcAbout_ :: ReactIcon
+foreign import _fcAbout :: ReactIcon
 
 fcAbout :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcAbout = element (unsafeCoerce fcAbout_)
+fcAbout = element (unsafeCoerce _fcAbout)
 
-foreign import fcAcceptDatabase_ :: ReactIcon
+foreign import _fcAcceptDatabase :: ReactIcon
 
 fcAcceptDatabase :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcAcceptDatabase = element (unsafeCoerce fcAcceptDatabase_)
+fcAcceptDatabase = element (unsafeCoerce _fcAcceptDatabase)
 
-foreign import fcAddColumn_ :: ReactIcon
+foreign import _fcAddColumn :: ReactIcon
 
 fcAddColumn :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcAddColumn = element (unsafeCoerce fcAddColumn_)
+fcAddColumn = element (unsafeCoerce _fcAddColumn)
 
-foreign import fcAddDatabase_ :: ReactIcon
+foreign import _fcAddDatabase :: ReactIcon
 
 fcAddDatabase :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcAddDatabase = element (unsafeCoerce fcAddDatabase_)
+fcAddDatabase = element (unsafeCoerce _fcAddDatabase)
 
-foreign import fcAddImage_ :: ReactIcon
+foreign import _fcAddImage :: ReactIcon
 
 fcAddImage :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcAddImage = element (unsafeCoerce fcAddImage_)
+fcAddImage = element (unsafeCoerce _fcAddImage)
 
-foreign import fcAddressBook_ :: ReactIcon
+foreign import _fcAddressBook :: ReactIcon
 
 fcAddressBook :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcAddressBook = element (unsafeCoerce fcAddressBook_)
+fcAddressBook = element (unsafeCoerce _fcAddressBook)
 
-foreign import fcAddRow_ :: ReactIcon
+foreign import _fcAddRow :: ReactIcon
 
 fcAddRow :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcAddRow = element (unsafeCoerce fcAddRow_)
+fcAddRow = element (unsafeCoerce _fcAddRow)
 
-foreign import fcAdvance_ :: ReactIcon
+foreign import _fcAdvance :: ReactIcon
 
 fcAdvance :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcAdvance = element (unsafeCoerce fcAdvance_)
+fcAdvance = element (unsafeCoerce _fcAdvance)
 
-foreign import fcAdvertising_ :: ReactIcon
+foreign import _fcAdvertising :: ReactIcon
 
 fcAdvertising :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcAdvertising = element (unsafeCoerce fcAdvertising_)
+fcAdvertising = element (unsafeCoerce _fcAdvertising)
 
-foreign import fcAlarmClock_ :: ReactIcon
+foreign import _fcAlarmClock :: ReactIcon
 
 fcAlarmClock :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcAlarmClock = element (unsafeCoerce fcAlarmClock_)
+fcAlarmClock = element (unsafeCoerce _fcAlarmClock)
 
-foreign import fcAlphabeticalSortingAz_ :: ReactIcon
+foreign import _fcAlphabeticalSortingAz :: ReactIcon
 
 fcAlphabeticalSortingAz :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcAlphabeticalSortingAz = element (unsafeCoerce fcAlphabeticalSortingAz_)
+fcAlphabeticalSortingAz = element (unsafeCoerce _fcAlphabeticalSortingAz)
 
-foreign import fcAlphabeticalSortingZa_ :: ReactIcon
+foreign import _fcAlphabeticalSortingZa :: ReactIcon
 
 fcAlphabeticalSortingZa :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcAlphabeticalSortingZa = element (unsafeCoerce fcAlphabeticalSortingZa_)
+fcAlphabeticalSortingZa = element (unsafeCoerce _fcAlphabeticalSortingZa)
 
-foreign import fcAndroidOs_ :: ReactIcon
+foreign import _fcAndroidOs :: ReactIcon
 
 fcAndroidOs :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcAndroidOs = element (unsafeCoerce fcAndroidOs_)
+fcAndroidOs = element (unsafeCoerce _fcAndroidOs)
 
-foreign import fcAnswers_ :: ReactIcon
+foreign import _fcAnswers :: ReactIcon
 
 fcAnswers :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcAnswers = element (unsafeCoerce fcAnswers_)
+fcAnswers = element (unsafeCoerce _fcAnswers)
 
-foreign import fcApproval_ :: ReactIcon
+foreign import _fcApproval :: ReactIcon
 
 fcApproval :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcApproval = element (unsafeCoerce fcApproval_)
+fcApproval = element (unsafeCoerce _fcApproval)
 
-foreign import fcApprove_ :: ReactIcon
+foreign import _fcApprove :: ReactIcon
 
 fcApprove :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcApprove = element (unsafeCoerce fcApprove_)
+fcApprove = element (unsafeCoerce _fcApprove)
 
-foreign import fcAreaChart_ :: ReactIcon
+foreign import _fcAreaChart :: ReactIcon
 
 fcAreaChart :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcAreaChart = element (unsafeCoerce fcAreaChart_)
+fcAreaChart = element (unsafeCoerce _fcAreaChart)
 
-foreign import fcAssistant_ :: ReactIcon
+foreign import _fcAssistant :: ReactIcon
 
 fcAssistant :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcAssistant = element (unsafeCoerce fcAssistant_)
+fcAssistant = element (unsafeCoerce _fcAssistant)
 
-foreign import fcAudioFile_ :: ReactIcon
+foreign import _fcAudioFile :: ReactIcon
 
 fcAudioFile :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcAudioFile = element (unsafeCoerce fcAudioFile_)
+fcAudioFile = element (unsafeCoerce _fcAudioFile)
 
-foreign import fcAutomatic_ :: ReactIcon
+foreign import _fcAutomatic :: ReactIcon
 
 fcAutomatic :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcAutomatic = element (unsafeCoerce fcAutomatic_)
+fcAutomatic = element (unsafeCoerce _fcAutomatic)
 
-foreign import fcAutomotive_ :: ReactIcon
+foreign import _fcAutomotive :: ReactIcon
 
 fcAutomotive :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcAutomotive = element (unsafeCoerce fcAutomotive_)
+fcAutomotive = element (unsafeCoerce _fcAutomotive)
 
-foreign import fcBadDecision_ :: ReactIcon
+foreign import _fcBadDecision :: ReactIcon
 
 fcBadDecision :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcBadDecision = element (unsafeCoerce fcBadDecision_)
+fcBadDecision = element (unsafeCoerce _fcBadDecision)
 
-foreign import fcBarChart_ :: ReactIcon
+foreign import _fcBarChart :: ReactIcon
 
 fcBarChart :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcBarChart = element (unsafeCoerce fcBarChart_)
+fcBarChart = element (unsafeCoerce _fcBarChart)
 
-foreign import fcBbc_ :: ReactIcon
+foreign import _fcBbc :: ReactIcon
 
 fcBbc :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcBbc = element (unsafeCoerce fcBbc_)
+fcBbc = element (unsafeCoerce _fcBbc)
 
-foreign import fcBearish_ :: ReactIcon
+foreign import _fcBearish :: ReactIcon
 
 fcBearish :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcBearish = element (unsafeCoerce fcBearish_)
+fcBearish = element (unsafeCoerce _fcBearish)
 
-foreign import fcBinoculars_ :: ReactIcon
+foreign import _fcBinoculars :: ReactIcon
 
 fcBinoculars :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcBinoculars = element (unsafeCoerce fcBinoculars_)
+fcBinoculars = element (unsafeCoerce _fcBinoculars)
 
-foreign import fcBiohazard_ :: ReactIcon
+foreign import _fcBiohazard :: ReactIcon
 
 fcBiohazard :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcBiohazard = element (unsafeCoerce fcBiohazard_)
+fcBiohazard = element (unsafeCoerce _fcBiohazard)
 
-foreign import fcBiomass_ :: ReactIcon
+foreign import _fcBiomass :: ReactIcon
 
 fcBiomass :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcBiomass = element (unsafeCoerce fcBiomass_)
+fcBiomass = element (unsafeCoerce _fcBiomass)
 
-foreign import fcBiotech_ :: ReactIcon
+foreign import _fcBiotech :: ReactIcon
 
 fcBiotech :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcBiotech = element (unsafeCoerce fcBiotech_)
+fcBiotech = element (unsafeCoerce _fcBiotech)
 
-foreign import fcBookmark_ :: ReactIcon
+foreign import _fcBookmark :: ReactIcon
 
 fcBookmark :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcBookmark = element (unsafeCoerce fcBookmark_)
+fcBookmark = element (unsafeCoerce _fcBookmark)
 
-foreign import fcBriefcase_ :: ReactIcon
+foreign import _fcBriefcase :: ReactIcon
 
 fcBriefcase :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcBriefcase = element (unsafeCoerce fcBriefcase_)
+fcBriefcase = element (unsafeCoerce _fcBriefcase)
 
-foreign import fcBrokenLink_ :: ReactIcon
+foreign import _fcBrokenLink :: ReactIcon
 
 fcBrokenLink :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcBrokenLink = element (unsafeCoerce fcBrokenLink_)
+fcBrokenLink = element (unsafeCoerce _fcBrokenLink)
 
-foreign import fcBullish_ :: ReactIcon
+foreign import _fcBullish :: ReactIcon
 
 fcBullish :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcBullish = element (unsafeCoerce fcBullish_)
+fcBullish = element (unsafeCoerce _fcBullish)
 
-foreign import fcBusiness_ :: ReactIcon
+foreign import _fcBusiness :: ReactIcon
 
 fcBusiness :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcBusiness = element (unsafeCoerce fcBusiness_)
+fcBusiness = element (unsafeCoerce _fcBusiness)
 
-foreign import fcBusinessContact_ :: ReactIcon
+foreign import _fcBusinessContact :: ReactIcon
 
 fcBusinessContact :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcBusinessContact = element (unsafeCoerce fcBusinessContact_)
+fcBusinessContact = element (unsafeCoerce _fcBusinessContact)
 
-foreign import fcBusinessman_ :: ReactIcon
+foreign import _fcBusinessman :: ReactIcon
 
 fcBusinessman :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcBusinessman = element (unsafeCoerce fcBusinessman_)
+fcBusinessman = element (unsafeCoerce _fcBusinessman)
 
-foreign import fcBusinesswoman_ :: ReactIcon
+foreign import _fcBusinesswoman :: ReactIcon
 
 fcBusinesswoman :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcBusinesswoman = element (unsafeCoerce fcBusinesswoman_)
+fcBusinesswoman = element (unsafeCoerce _fcBusinesswoman)
 
-foreign import fcButtingIn_ :: ReactIcon
+foreign import _fcButtingIn :: ReactIcon
 
 fcButtingIn :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcButtingIn = element (unsafeCoerce fcButtingIn_)
+fcButtingIn = element (unsafeCoerce _fcButtingIn)
 
-foreign import fcCableRelease_ :: ReactIcon
+foreign import _fcCableRelease :: ReactIcon
 
 fcCableRelease :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcCableRelease = element (unsafeCoerce fcCableRelease_)
+fcCableRelease = element (unsafeCoerce _fcCableRelease)
 
-foreign import fcCalculator_ :: ReactIcon
+foreign import _fcCalculator :: ReactIcon
 
 fcCalculator :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcCalculator = element (unsafeCoerce fcCalculator_)
+fcCalculator = element (unsafeCoerce _fcCalculator)
 
-foreign import fcCalendar_ :: ReactIcon
+foreign import _fcCalendar :: ReactIcon
 
 fcCalendar :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcCalendar = element (unsafeCoerce fcCalendar_)
+fcCalendar = element (unsafeCoerce _fcCalendar)
 
-foreign import fcCallback_ :: ReactIcon
+foreign import _fcCallback :: ReactIcon
 
 fcCallback :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcCallback = element (unsafeCoerce fcCallback_)
+fcCallback = element (unsafeCoerce _fcCallback)
 
-foreign import fcCallTransfer_ :: ReactIcon
+foreign import _fcCallTransfer :: ReactIcon
 
 fcCallTransfer :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcCallTransfer = element (unsafeCoerce fcCallTransfer_)
+fcCallTransfer = element (unsafeCoerce _fcCallTransfer)
 
-foreign import fcCamcorder_ :: ReactIcon
+foreign import _fcCamcorder :: ReactIcon
 
 fcCamcorder :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcCamcorder = element (unsafeCoerce fcCamcorder_)
+fcCamcorder = element (unsafeCoerce _fcCamcorder)
 
-foreign import fcCamcorderPro_ :: ReactIcon
+foreign import _fcCamcorderPro :: ReactIcon
 
 fcCamcorderPro :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcCamcorderPro = element (unsafeCoerce fcCamcorderPro_)
+fcCamcorderPro = element (unsafeCoerce _fcCamcorderPro)
 
-foreign import fcCamera_ :: ReactIcon
+foreign import _fcCamera :: ReactIcon
 
 fcCamera :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcCamera = element (unsafeCoerce fcCamera_)
+fcCamera = element (unsafeCoerce _fcCamera)
 
-foreign import fcCameraAddon_ :: ReactIcon
+foreign import _fcCameraAddon :: ReactIcon
 
 fcCameraAddon :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcCameraAddon = element (unsafeCoerce fcCameraAddon_)
+fcCameraAddon = element (unsafeCoerce _fcCameraAddon)
 
-foreign import fcCameraIdentification_ :: ReactIcon
+foreign import _fcCameraIdentification :: ReactIcon
 
 fcCameraIdentification :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcCameraIdentification = element (unsafeCoerce fcCameraIdentification_)
+fcCameraIdentification = element (unsafeCoerce _fcCameraIdentification)
 
-foreign import fcCancel_ :: ReactIcon
+foreign import _fcCancel :: ReactIcon
 
 fcCancel :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcCancel = element (unsafeCoerce fcCancel_)
+fcCancel = element (unsafeCoerce _fcCancel)
 
-foreign import fcCandleSticks_ :: ReactIcon
+foreign import _fcCandleSticks :: ReactIcon
 
 fcCandleSticks :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcCandleSticks = element (unsafeCoerce fcCandleSticks_)
+fcCandleSticks = element (unsafeCoerce _fcCandleSticks)
 
-foreign import fcCapacitor_ :: ReactIcon
+foreign import _fcCapacitor :: ReactIcon
 
 fcCapacitor :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcCapacitor = element (unsafeCoerce fcCapacitor_)
+fcCapacitor = element (unsafeCoerce _fcCapacitor)
 
-foreign import fcCdLogo_ :: ReactIcon
+foreign import _fcCdLogo :: ReactIcon
 
 fcCdLogo :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcCdLogo = element (unsafeCoerce fcCdLogo_)
+fcCdLogo = element (unsafeCoerce _fcCdLogo)
 
-foreign import fcCellPhone_ :: ReactIcon
+foreign import _fcCellPhone :: ReactIcon
 
 fcCellPhone :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcCellPhone = element (unsafeCoerce fcCellPhone_)
+fcCellPhone = element (unsafeCoerce _fcCellPhone)
 
-foreign import fcChargeBattery_ :: ReactIcon
+foreign import _fcChargeBattery :: ReactIcon
 
 fcChargeBattery :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcChargeBattery = element (unsafeCoerce fcChargeBattery_)
+fcChargeBattery = element (unsafeCoerce _fcChargeBattery)
 
-foreign import fcCheckmark_ :: ReactIcon
+foreign import _fcCheckmark :: ReactIcon
 
 fcCheckmark :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcCheckmark = element (unsafeCoerce fcCheckmark_)
+fcCheckmark = element (unsafeCoerce _fcCheckmark)
 
-foreign import fcCircuit_ :: ReactIcon
+foreign import _fcCircuit :: ReactIcon
 
 fcCircuit :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcCircuit = element (unsafeCoerce fcCircuit_)
+fcCircuit = element (unsafeCoerce _fcCircuit)
 
-foreign import fcClapperboard_ :: ReactIcon
+foreign import _fcClapperboard :: ReactIcon
 
 fcClapperboard :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcClapperboard = element (unsafeCoerce fcClapperboard_)
+fcClapperboard = element (unsafeCoerce _fcClapperboard)
 
-foreign import fcClearFilters_ :: ReactIcon
+foreign import _fcClearFilters :: ReactIcon
 
 fcClearFilters :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcClearFilters = element (unsafeCoerce fcClearFilters_)
+fcClearFilters = element (unsafeCoerce _fcClearFilters)
 
-foreign import fcClock_ :: ReactIcon
+foreign import _fcClock :: ReactIcon
 
 fcClock :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcClock = element (unsafeCoerce fcClock_)
+fcClock = element (unsafeCoerce _fcClock)
 
-foreign import fcCloseUpMode_ :: ReactIcon
+foreign import _fcCloseUpMode :: ReactIcon
 
 fcCloseUpMode :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcCloseUpMode = element (unsafeCoerce fcCloseUpMode_)
+fcCloseUpMode = element (unsafeCoerce _fcCloseUpMode)
 
-foreign import fcCloth_ :: ReactIcon
+foreign import _fcCloth :: ReactIcon
 
 fcCloth :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcCloth = element (unsafeCoerce fcCloth_)
+fcCloth = element (unsafeCoerce _fcCloth)
 
-foreign import fcCollaboration_ :: ReactIcon
+foreign import _fcCollaboration :: ReactIcon
 
 fcCollaboration :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcCollaboration = element (unsafeCoerce fcCollaboration_)
+fcCollaboration = element (unsafeCoerce _fcCollaboration)
 
-foreign import fcCollapse_ :: ReactIcon
+foreign import _fcCollapse :: ReactIcon
 
 fcCollapse :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcCollapse = element (unsafeCoerce fcCollapse_)
+fcCollapse = element (unsafeCoerce _fcCollapse)
 
-foreign import fcCollect_ :: ReactIcon
+foreign import _fcCollect :: ReactIcon
 
 fcCollect :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcCollect = element (unsafeCoerce fcCollect_)
+fcCollect = element (unsafeCoerce _fcCollect)
 
-foreign import fcComboChart_ :: ReactIcon
+foreign import _fcComboChart :: ReactIcon
 
 fcComboChart :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcComboChart = element (unsafeCoerce fcComboChart_)
+fcComboChart = element (unsafeCoerce _fcComboChart)
 
-foreign import fcCommandLine_ :: ReactIcon
+foreign import _fcCommandLine :: ReactIcon
 
 fcCommandLine :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcCommandLine = element (unsafeCoerce fcCommandLine_)
+fcCommandLine = element (unsafeCoerce _fcCommandLine)
 
-foreign import fcComments_ :: ReactIcon
+foreign import _fcComments :: ReactIcon
 
 fcComments :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcComments = element (unsafeCoerce fcComments_)
+fcComments = element (unsafeCoerce _fcComments)
 
-foreign import fcCompactCamera_ :: ReactIcon
+foreign import _fcCompactCamera :: ReactIcon
 
 fcCompactCamera :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcCompactCamera = element (unsafeCoerce fcCompactCamera_)
+fcCompactCamera = element (unsafeCoerce _fcCompactCamera)
 
-foreign import fcConferenceCall_ :: ReactIcon
+foreign import _fcConferenceCall :: ReactIcon
 
 fcConferenceCall :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcConferenceCall = element (unsafeCoerce fcConferenceCall_)
+fcConferenceCall = element (unsafeCoerce _fcConferenceCall)
 
-foreign import fcContacts_ :: ReactIcon
+foreign import _fcContacts :: ReactIcon
 
 fcContacts :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcContacts = element (unsafeCoerce fcContacts_)
+fcContacts = element (unsafeCoerce _fcContacts)
 
-foreign import fcCopyleft_ :: ReactIcon
+foreign import _fcCopyleft :: ReactIcon
 
 fcCopyleft :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcCopyleft = element (unsafeCoerce fcCopyleft_)
+fcCopyleft = element (unsafeCoerce _fcCopyleft)
 
-foreign import fcCopyright_ :: ReactIcon
+foreign import _fcCopyright :: ReactIcon
 
 fcCopyright :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcCopyright = element (unsafeCoerce fcCopyright_)
+fcCopyright = element (unsafeCoerce _fcCopyright)
 
-foreign import fcCrystalOscillator_ :: ReactIcon
+foreign import _fcCrystalOscillator :: ReactIcon
 
 fcCrystalOscillator :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcCrystalOscillator = element (unsafeCoerce fcCrystalOscillator_)
+fcCrystalOscillator = element (unsafeCoerce _fcCrystalOscillator)
 
-foreign import fcCurrencyExchange_ :: ReactIcon
+foreign import _fcCurrencyExchange :: ReactIcon
 
 fcCurrencyExchange :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcCurrencyExchange = element (unsafeCoerce fcCurrencyExchange_)
+fcCurrencyExchange = element (unsafeCoerce _fcCurrencyExchange)
 
-foreign import fcCursor_ :: ReactIcon
+foreign import _fcCursor :: ReactIcon
 
 fcCursor :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcCursor = element (unsafeCoerce fcCursor_)
+fcCursor = element (unsafeCoerce _fcCursor)
 
-foreign import fcCustomerSupport_ :: ReactIcon
+foreign import _fcCustomerSupport :: ReactIcon
 
 fcCustomerSupport :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcCustomerSupport = element (unsafeCoerce fcCustomerSupport_)
+fcCustomerSupport = element (unsafeCoerce _fcCustomerSupport)
 
-foreign import fcDam_ :: ReactIcon
+foreign import _fcDam :: ReactIcon
 
 fcDam :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcDam = element (unsafeCoerce fcDam_)
+fcDam = element (unsafeCoerce _fcDam)
 
-foreign import fcDataBackup_ :: ReactIcon
+foreign import _fcDataBackup :: ReactIcon
 
 fcDataBackup :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcDataBackup = element (unsafeCoerce fcDataBackup_)
+fcDataBackup = element (unsafeCoerce _fcDataBackup)
 
-foreign import fcDatabase_ :: ReactIcon
+foreign import _fcDatabase :: ReactIcon
 
 fcDatabase :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcDatabase = element (unsafeCoerce fcDatabase_)
+fcDatabase = element (unsafeCoerce _fcDatabase)
 
-foreign import fcDataConfiguration_ :: ReactIcon
+foreign import _fcDataConfiguration :: ReactIcon
 
 fcDataConfiguration :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcDataConfiguration = element (unsafeCoerce fcDataConfiguration_)
+fcDataConfiguration = element (unsafeCoerce _fcDataConfiguration)
 
-foreign import fcDataEncryption_ :: ReactIcon
+foreign import _fcDataEncryption :: ReactIcon
 
 fcDataEncryption :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcDataEncryption = element (unsafeCoerce fcDataEncryption_)
+fcDataEncryption = element (unsafeCoerce _fcDataEncryption)
 
-foreign import fcDataProtection_ :: ReactIcon
+foreign import _fcDataProtection :: ReactIcon
 
 fcDataProtection :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcDataProtection = element (unsafeCoerce fcDataProtection_)
+fcDataProtection = element (unsafeCoerce _fcDataProtection)
 
-foreign import fcDataRecovery_ :: ReactIcon
+foreign import _fcDataRecovery :: ReactIcon
 
 fcDataRecovery :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcDataRecovery = element (unsafeCoerce fcDataRecovery_)
+fcDataRecovery = element (unsafeCoerce _fcDataRecovery)
 
-foreign import fcDataSheet_ :: ReactIcon
+foreign import _fcDataSheet :: ReactIcon
 
 fcDataSheet :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcDataSheet = element (unsafeCoerce fcDataSheet_)
+fcDataSheet = element (unsafeCoerce _fcDataSheet)
 
-foreign import fcDebian_ :: ReactIcon
+foreign import _fcDebian :: ReactIcon
 
 fcDebian :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcDebian = element (unsafeCoerce fcDebian_)
+fcDebian = element (unsafeCoerce _fcDebian)
 
-foreign import fcDebt_ :: ReactIcon
+foreign import _fcDebt :: ReactIcon
 
 fcDebt :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcDebt = element (unsafeCoerce fcDebt_)
+fcDebt = element (unsafeCoerce _fcDebt)
 
-foreign import fcDecision_ :: ReactIcon
+foreign import _fcDecision :: ReactIcon
 
 fcDecision :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcDecision = element (unsafeCoerce fcDecision_)
+fcDecision = element (unsafeCoerce _fcDecision)
 
-foreign import fcDeleteColumn_ :: ReactIcon
+foreign import _fcDeleteColumn :: ReactIcon
 
 fcDeleteColumn :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcDeleteColumn = element (unsafeCoerce fcDeleteColumn_)
+fcDeleteColumn = element (unsafeCoerce _fcDeleteColumn)
 
-foreign import fcDeleteDatabase_ :: ReactIcon
+foreign import _fcDeleteDatabase :: ReactIcon
 
 fcDeleteDatabase :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcDeleteDatabase = element (unsafeCoerce fcDeleteDatabase_)
+fcDeleteDatabase = element (unsafeCoerce _fcDeleteDatabase)
 
-foreign import fcDeleteRow_ :: ReactIcon
+foreign import _fcDeleteRow :: ReactIcon
 
 fcDeleteRow :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcDeleteRow = element (unsafeCoerce fcDeleteRow_)
+fcDeleteRow = element (unsafeCoerce _fcDeleteRow)
 
-foreign import fcDepartment_ :: ReactIcon
+foreign import _fcDepartment :: ReactIcon
 
 fcDepartment :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcDepartment = element (unsafeCoerce fcDepartment_)
+fcDepartment = element (unsafeCoerce _fcDepartment)
 
-foreign import fcDeployment_ :: ReactIcon
+foreign import _fcDeployment :: ReactIcon
 
 fcDeployment :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcDeployment = element (unsafeCoerce fcDeployment_)
+fcDeployment = element (unsafeCoerce _fcDeployment)
 
-foreign import fcDisapprove_ :: ReactIcon
+foreign import _fcDisapprove :: ReactIcon
 
 fcDisapprove :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcDisapprove = element (unsafeCoerce fcDisapprove_)
+fcDisapprove = element (unsafeCoerce _fcDisapprove)
 
-foreign import fcDisclaimer_ :: ReactIcon
+foreign import _fcDisclaimer :: ReactIcon
 
 fcDisclaimer :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcDisclaimer = element (unsafeCoerce fcDisclaimer_)
+fcDisclaimer = element (unsafeCoerce _fcDisclaimer)
 
-foreign import fcDislike_ :: ReactIcon
+foreign import _fcDislike :: ReactIcon
 
 fcDislike :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcDislike = element (unsafeCoerce fcDislike_)
+fcDislike = element (unsafeCoerce _fcDislike)
 
-foreign import fcDisplay_ :: ReactIcon
+foreign import _fcDisplay :: ReactIcon
 
 fcDisplay :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcDisplay = element (unsafeCoerce fcDisplay_)
+fcDisplay = element (unsafeCoerce _fcDisplay)
 
-foreign import fcDocument_ :: ReactIcon
+foreign import _fcDocument :: ReactIcon
 
 fcDocument :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcDocument = element (unsafeCoerce fcDocument_)
+fcDocument = element (unsafeCoerce _fcDocument)
 
-foreign import fcDonate_ :: ReactIcon
+foreign import _fcDonate :: ReactIcon
 
 fcDonate :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcDonate = element (unsafeCoerce fcDonate_)
+fcDonate = element (unsafeCoerce _fcDonate)
 
-foreign import fcDoNotInhale_ :: ReactIcon
+foreign import _fcDoNotInhale :: ReactIcon
 
 fcDoNotInhale :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcDoNotInhale = element (unsafeCoerce fcDoNotInhale_)
+fcDoNotInhale = element (unsafeCoerce _fcDoNotInhale)
 
-foreign import fcDoNotInsert_ :: ReactIcon
+foreign import _fcDoNotInsert :: ReactIcon
 
 fcDoNotInsert :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcDoNotInsert = element (unsafeCoerce fcDoNotInsert_)
+fcDoNotInsert = element (unsafeCoerce _fcDoNotInsert)
 
-foreign import fcDoNotMix_ :: ReactIcon
+foreign import _fcDoNotMix :: ReactIcon
 
 fcDoNotMix :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcDoNotMix = element (unsafeCoerce fcDoNotMix_)
+fcDoNotMix = element (unsafeCoerce _fcDoNotMix)
 
-foreign import fcDoughnutChart_ :: ReactIcon
+foreign import _fcDoughnutChart :: ReactIcon
 
 fcDoughnutChart :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcDoughnutChart = element (unsafeCoerce fcDoughnutChart_)
+fcDoughnutChart = element (unsafeCoerce _fcDoughnutChart)
 
-foreign import fcDown_ :: ReactIcon
+foreign import _fcDown :: ReactIcon
 
 fcDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcDown = element (unsafeCoerce fcDown_)
+fcDown = element (unsafeCoerce _fcDown)
 
-foreign import fcDownLeft_ :: ReactIcon
+foreign import _fcDownLeft :: ReactIcon
 
 fcDownLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcDownLeft = element (unsafeCoerce fcDownLeft_)
+fcDownLeft = element (unsafeCoerce _fcDownLeft)
 
-foreign import fcDownload_ :: ReactIcon
+foreign import _fcDownload :: ReactIcon
 
 fcDownload :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcDownload = element (unsafeCoerce fcDownload_)
+fcDownload = element (unsafeCoerce _fcDownload)
 
-foreign import fcDownRight_ :: ReactIcon
+foreign import _fcDownRight :: ReactIcon
 
 fcDownRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcDownRight = element (unsafeCoerce fcDownRight_)
+fcDownRight = element (unsafeCoerce _fcDownRight)
 
-foreign import fcDribbble_ :: ReactIcon
+foreign import _fcDribbble :: ReactIcon
 
 fcDribbble :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcDribbble = element (unsafeCoerce fcDribbble_)
+fcDribbble = element (unsafeCoerce _fcDribbble)
 
-foreign import fcDvdLogo_ :: ReactIcon
+foreign import _fcDvdLogo :: ReactIcon
 
 fcDvdLogo :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcDvdLogo = element (unsafeCoerce fcDvdLogo_)
+fcDvdLogo = element (unsafeCoerce _fcDvdLogo)
 
-foreign import fcEditImage_ :: ReactIcon
+foreign import _fcEditImage :: ReactIcon
 
 fcEditImage :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcEditImage = element (unsafeCoerce fcEditImage_)
+fcEditImage = element (unsafeCoerce _fcEditImage)
 
-foreign import fcElectricalSensor_ :: ReactIcon
+foreign import _fcElectricalSensor :: ReactIcon
 
 fcElectricalSensor :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcElectricalSensor = element (unsafeCoerce fcElectricalSensor_)
+fcElectricalSensor = element (unsafeCoerce _fcElectricalSensor)
 
-foreign import fcElectricalThreshold_ :: ReactIcon
+foreign import _fcElectricalThreshold :: ReactIcon
 
 fcElectricalThreshold :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcElectricalThreshold = element (unsafeCoerce fcElectricalThreshold_)
+fcElectricalThreshold = element (unsafeCoerce _fcElectricalThreshold)
 
-foreign import fcElectricity_ :: ReactIcon
+foreign import _fcElectricity :: ReactIcon
 
 fcElectricity :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcElectricity = element (unsafeCoerce fcElectricity_)
+fcElectricity = element (unsafeCoerce _fcElectricity)
 
-foreign import fcElectroDevices_ :: ReactIcon
+foreign import _fcElectroDevices :: ReactIcon
 
 fcElectroDevices :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcElectroDevices = element (unsafeCoerce fcElectroDevices_)
+fcElectroDevices = element (unsafeCoerce _fcElectroDevices)
 
-foreign import fcElectronics_ :: ReactIcon
+foreign import _fcElectronics :: ReactIcon
 
 fcElectronics :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcElectronics = element (unsafeCoerce fcElectronics_)
+fcElectronics = element (unsafeCoerce _fcElectronics)
 
-foreign import fcEmptyBattery_ :: ReactIcon
+foreign import _fcEmptyBattery :: ReactIcon
 
 fcEmptyBattery :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcEmptyBattery = element (unsafeCoerce fcEmptyBattery_)
+fcEmptyBattery = element (unsafeCoerce _fcEmptyBattery)
 
-foreign import fcEmptyFilter_ :: ReactIcon
+foreign import _fcEmptyFilter :: ReactIcon
 
 fcEmptyFilter :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcEmptyFilter = element (unsafeCoerce fcEmptyFilter_)
+fcEmptyFilter = element (unsafeCoerce _fcEmptyFilter)
 
-foreign import fcEmptyTrash_ :: ReactIcon
+foreign import _fcEmptyTrash :: ReactIcon
 
 fcEmptyTrash :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcEmptyTrash = element (unsafeCoerce fcEmptyTrash_)
+fcEmptyTrash = element (unsafeCoerce _fcEmptyTrash)
 
-foreign import fcEndCall_ :: ReactIcon
+foreign import _fcEndCall :: ReactIcon
 
 fcEndCall :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcEndCall = element (unsafeCoerce fcEndCall_)
+fcEndCall = element (unsafeCoerce _fcEndCall)
 
-foreign import fcEngineering_ :: ReactIcon
+foreign import _fcEngineering :: ReactIcon
 
 fcEngineering :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcEngineering = element (unsafeCoerce fcEngineering_)
+fcEngineering = element (unsafeCoerce _fcEngineering)
 
-foreign import fcEnteringHeavenAlive_ :: ReactIcon
+foreign import _fcEnteringHeavenAlive :: ReactIcon
 
 fcEnteringHeavenAlive :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcEnteringHeavenAlive = element (unsafeCoerce fcEnteringHeavenAlive_)
+fcEnteringHeavenAlive = element (unsafeCoerce _fcEnteringHeavenAlive)
 
-foreign import fcExpand_ :: ReactIcon
+foreign import _fcExpand :: ReactIcon
 
 fcExpand :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcExpand = element (unsafeCoerce fcExpand_)
+fcExpand = element (unsafeCoerce _fcExpand)
 
-foreign import fcExpired_ :: ReactIcon
+foreign import _fcExpired :: ReactIcon
 
 fcExpired :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcExpired = element (unsafeCoerce fcExpired_)
+fcExpired = element (unsafeCoerce _fcExpired)
 
-foreign import fcExport_ :: ReactIcon
+foreign import _fcExport :: ReactIcon
 
 fcExport :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcExport = element (unsafeCoerce fcExport_)
+fcExport = element (unsafeCoerce _fcExport)
 
-foreign import fcExternal_ :: ReactIcon
+foreign import _fcExternal :: ReactIcon
 
 fcExternal :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcExternal = element (unsafeCoerce fcExternal_)
+fcExternal = element (unsafeCoerce _fcExternal)
 
-foreign import fcFactory_ :: ReactIcon
+foreign import _fcFactory :: ReactIcon
 
 fcFactory :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcFactory = element (unsafeCoerce fcFactory_)
+fcFactory = element (unsafeCoerce _fcFactory)
 
-foreign import fcFactoryBreakdown_ :: ReactIcon
+foreign import _fcFactoryBreakdown :: ReactIcon
 
 fcFactoryBreakdown :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcFactoryBreakdown = element (unsafeCoerce fcFactoryBreakdown_)
+fcFactoryBreakdown = element (unsafeCoerce _fcFactoryBreakdown)
 
-foreign import fcFaq_ :: ReactIcon
+foreign import _fcFaq :: ReactIcon
 
 fcFaq :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcFaq = element (unsafeCoerce fcFaq_)
+fcFaq = element (unsafeCoerce _fcFaq)
 
-foreign import fcFeedback_ :: ReactIcon
+foreign import _fcFeedback :: ReactIcon
 
 fcFeedback :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcFeedback = element (unsafeCoerce fcFeedback_)
+fcFeedback = element (unsafeCoerce _fcFeedback)
 
-foreign import fcFeedIn_ :: ReactIcon
+foreign import _fcFeedIn :: ReactIcon
 
 fcFeedIn :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcFeedIn = element (unsafeCoerce fcFeedIn_)
+fcFeedIn = element (unsafeCoerce _fcFeedIn)
 
-foreign import fcFile_ :: ReactIcon
+foreign import _fcFile :: ReactIcon
 
 fcFile :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcFile = element (unsafeCoerce fcFile_)
+fcFile = element (unsafeCoerce _fcFile)
 
-foreign import fcFilingCabinet_ :: ReactIcon
+foreign import _fcFilingCabinet :: ReactIcon
 
 fcFilingCabinet :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcFilingCabinet = element (unsafeCoerce fcFilingCabinet_)
+fcFilingCabinet = element (unsafeCoerce _fcFilingCabinet)
 
-foreign import fcFilledFilter_ :: ReactIcon
+foreign import _fcFilledFilter :: ReactIcon
 
 fcFilledFilter :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcFilledFilter = element (unsafeCoerce fcFilledFilter_)
+fcFilledFilter = element (unsafeCoerce _fcFilledFilter)
 
-foreign import fcFilm_ :: ReactIcon
+foreign import _fcFilm :: ReactIcon
 
 fcFilm :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcFilm = element (unsafeCoerce fcFilm_)
+fcFilm = element (unsafeCoerce _fcFilm)
 
-foreign import fcFilmReel_ :: ReactIcon
+foreign import _fcFilmReel :: ReactIcon
 
 fcFilmReel :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcFilmReel = element (unsafeCoerce fcFilmReel_)
+fcFilmReel = element (unsafeCoerce _fcFilmReel)
 
-foreign import fcFinePrint_ :: ReactIcon
+foreign import _fcFinePrint :: ReactIcon
 
 fcFinePrint :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcFinePrint = element (unsafeCoerce fcFinePrint_)
+fcFinePrint = element (unsafeCoerce _fcFinePrint)
 
-foreign import fcFlashAuto_ :: ReactIcon
+foreign import _fcFlashAuto :: ReactIcon
 
 fcFlashAuto :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcFlashAuto = element (unsafeCoerce fcFlashAuto_)
+fcFlashAuto = element (unsafeCoerce _fcFlashAuto)
 
-foreign import fcFlashOff_ :: ReactIcon
+foreign import _fcFlashOff :: ReactIcon
 
 fcFlashOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcFlashOff = element (unsafeCoerce fcFlashOff_)
+fcFlashOff = element (unsafeCoerce _fcFlashOff)
 
-foreign import fcFlashOn_ :: ReactIcon
+foreign import _fcFlashOn :: ReactIcon
 
 fcFlashOn :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcFlashOn = element (unsafeCoerce fcFlashOn_)
+fcFlashOn = element (unsafeCoerce _fcFlashOn)
 
-foreign import fcFlowChart_ :: ReactIcon
+foreign import _fcFlowChart :: ReactIcon
 
 fcFlowChart :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcFlowChart = element (unsafeCoerce fcFlowChart_)
+fcFlowChart = element (unsafeCoerce _fcFlowChart)
 
-foreign import fcFolder_ :: ReactIcon
+foreign import _fcFolder :: ReactIcon
 
 fcFolder :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcFolder = element (unsafeCoerce fcFolder_)
+fcFolder = element (unsafeCoerce _fcFolder)
 
-foreign import fcFrame_ :: ReactIcon
+foreign import _fcFrame :: ReactIcon
 
 fcFrame :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcFrame = element (unsafeCoerce fcFrame_)
+fcFrame = element (unsafeCoerce _fcFrame)
 
-foreign import fcFullBattery_ :: ReactIcon
+foreign import _fcFullBattery :: ReactIcon
 
 fcFullBattery :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcFullBattery = element (unsafeCoerce fcFullBattery_)
+fcFullBattery = element (unsafeCoerce _fcFullBattery)
 
-foreign import fcFullTrash_ :: ReactIcon
+foreign import _fcFullTrash :: ReactIcon
 
 fcFullTrash :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcFullTrash = element (unsafeCoerce fcFullTrash_)
+fcFullTrash = element (unsafeCoerce _fcFullTrash)
 
-foreign import fcGallery_ :: ReactIcon
+foreign import _fcGallery :: ReactIcon
 
 fcGallery :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcGallery = element (unsafeCoerce fcGallery_)
+fcGallery = element (unsafeCoerce _fcGallery)
 
-foreign import fcGenealogy_ :: ReactIcon
+foreign import _fcGenealogy :: ReactIcon
 
 fcGenealogy :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcGenealogy = element (unsafeCoerce fcGenealogy_)
+fcGenealogy = element (unsafeCoerce _fcGenealogy)
 
-foreign import fcGenericSortingAsc_ :: ReactIcon
+foreign import _fcGenericSortingAsc :: ReactIcon
 
 fcGenericSortingAsc :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcGenericSortingAsc = element (unsafeCoerce fcGenericSortingAsc_)
+fcGenericSortingAsc = element (unsafeCoerce _fcGenericSortingAsc)
 
-foreign import fcGenericSortingDesc_ :: ReactIcon
+foreign import _fcGenericSortingDesc :: ReactIcon
 
 fcGenericSortingDesc :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcGenericSortingDesc = element (unsafeCoerce fcGenericSortingDesc_)
+fcGenericSortingDesc = element (unsafeCoerce _fcGenericSortingDesc)
 
-foreign import fcGlobe_ :: ReactIcon
+foreign import _fcGlobe :: ReactIcon
 
 fcGlobe :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcGlobe = element (unsafeCoerce fcGlobe_)
+fcGlobe = element (unsafeCoerce _fcGlobe)
 
-foreign import fcGoodDecision_ :: ReactIcon
+foreign import _fcGoodDecision :: ReactIcon
 
 fcGoodDecision :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcGoodDecision = element (unsafeCoerce fcGoodDecision_)
+fcGoodDecision = element (unsafeCoerce _fcGoodDecision)
 
-foreign import fcGoogle_ :: ReactIcon
+foreign import _fcGoogle :: ReactIcon
 
 fcGoogle :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcGoogle = element (unsafeCoerce fcGoogle_)
+fcGoogle = element (unsafeCoerce _fcGoogle)
 
-foreign import fcGraduationCap_ :: ReactIcon
+foreign import _fcGraduationCap :: ReactIcon
 
 fcGraduationCap :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcGraduationCap = element (unsafeCoerce fcGraduationCap_)
+fcGraduationCap = element (unsafeCoerce _fcGraduationCap)
 
-foreign import fcGrid_ :: ReactIcon
+foreign import _fcGrid :: ReactIcon
 
 fcGrid :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcGrid = element (unsafeCoerce fcGrid_)
+fcGrid = element (unsafeCoerce _fcGrid)
 
-foreign import fcHeadset_ :: ReactIcon
+foreign import _fcHeadset :: ReactIcon
 
 fcHeadset :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcHeadset = element (unsafeCoerce fcHeadset_)
+fcHeadset = element (unsafeCoerce _fcHeadset)
 
-foreign import fcHeatMap_ :: ReactIcon
+foreign import _fcHeatMap :: ReactIcon
 
 fcHeatMap :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcHeatMap = element (unsafeCoerce fcHeatMap_)
+fcHeatMap = element (unsafeCoerce _fcHeatMap)
 
-foreign import fcHighBattery_ :: ReactIcon
+foreign import _fcHighBattery :: ReactIcon
 
 fcHighBattery :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcHighBattery = element (unsafeCoerce fcHighBattery_)
+fcHighBattery = element (unsafeCoerce _fcHighBattery)
 
-foreign import fcHighPriority_ :: ReactIcon
+foreign import _fcHighPriority :: ReactIcon
 
 fcHighPriority :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcHighPriority = element (unsafeCoerce fcHighPriority_)
+fcHighPriority = element (unsafeCoerce _fcHighPriority)
 
-foreign import fcHome_ :: ReactIcon
+foreign import _fcHome :: ReactIcon
 
 fcHome :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcHome = element (unsafeCoerce fcHome_)
+fcHome = element (unsafeCoerce _fcHome)
 
-foreign import fcIdea_ :: ReactIcon
+foreign import _fcIdea :: ReactIcon
 
 fcIdea :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcIdea = element (unsafeCoerce fcIdea_)
+fcIdea = element (unsafeCoerce _fcIdea)
 
-foreign import fcImageFile_ :: ReactIcon
+foreign import _fcImageFile :: ReactIcon
 
 fcImageFile :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcImageFile = element (unsafeCoerce fcImageFile_)
+fcImageFile = element (unsafeCoerce _fcImageFile)
 
-foreign import fcImport_ :: ReactIcon
+foreign import _fcImport :: ReactIcon
 
 fcImport :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcImport = element (unsafeCoerce fcImport_)
+fcImport = element (unsafeCoerce _fcImport)
 
-foreign import fcInfo_ :: ReactIcon
+foreign import _fcInfo :: ReactIcon
 
 fcInfo :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcInfo = element (unsafeCoerce fcInfo_)
+fcInfo = element (unsafeCoerce _fcInfo)
 
-foreign import fcInspection_ :: ReactIcon
+foreign import _fcInspection :: ReactIcon
 
 fcInspection :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcInspection = element (unsafeCoerce fcInspection_)
+fcInspection = element (unsafeCoerce _fcInspection)
 
-foreign import fcIntegratedWebcam_ :: ReactIcon
+foreign import _fcIntegratedWebcam :: ReactIcon
 
 fcIntegratedWebcam :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcIntegratedWebcam = element (unsafeCoerce fcIntegratedWebcam_)
+fcIntegratedWebcam = element (unsafeCoerce _fcIntegratedWebcam)
 
-foreign import fcInternal_ :: ReactIcon
+foreign import _fcInternal :: ReactIcon
 
 fcInternal :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcInternal = element (unsafeCoerce fcInternal_)
+fcInternal = element (unsafeCoerce _fcInternal)
 
-foreign import fcInTransit_ :: ReactIcon
+foreign import _fcInTransit :: ReactIcon
 
 fcInTransit :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcInTransit = element (unsafeCoerce fcInTransit_)
+fcInTransit = element (unsafeCoerce _fcInTransit)
 
-foreign import fcInvite_ :: ReactIcon
+foreign import _fcInvite :: ReactIcon
 
 fcInvite :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcInvite = element (unsafeCoerce fcInvite_)
+fcInvite = element (unsafeCoerce _fcInvite)
 
-foreign import fcIpad_ :: ReactIcon
+foreign import _fcIpad :: ReactIcon
 
 fcIpad :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcIpad = element (unsafeCoerce fcIpad_)
+fcIpad = element (unsafeCoerce _fcIpad)
 
-foreign import fcIphone_ :: ReactIcon
+foreign import _fcIphone :: ReactIcon
 
 fcIphone :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcIphone = element (unsafeCoerce fcIphone_)
+fcIphone = element (unsafeCoerce _fcIphone)
 
-foreign import fcKey_ :: ReactIcon
+foreign import _fcKey :: ReactIcon
 
 fcKey :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcKey = element (unsafeCoerce fcKey_)
+fcKey = element (unsafeCoerce _fcKey)
 
-foreign import fcKindle_ :: ReactIcon
+foreign import _fcKindle :: ReactIcon
 
 fcKindle :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcKindle = element (unsafeCoerce fcKindle_)
+fcKindle = element (unsafeCoerce _fcKindle)
 
-foreign import fcLandscape_ :: ReactIcon
+foreign import _fcLandscape :: ReactIcon
 
 fcLandscape :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcLandscape = element (unsafeCoerce fcLandscape_)
+fcLandscape = element (unsafeCoerce _fcLandscape)
 
-foreign import fcLeave_ :: ReactIcon
+foreign import _fcLeave :: ReactIcon
 
 fcLeave :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcLeave = element (unsafeCoerce fcLeave_)
+fcLeave = element (unsafeCoerce _fcLeave)
 
-foreign import fcLeft_ :: ReactIcon
+foreign import _fcLeft :: ReactIcon
 
 fcLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcLeft = element (unsafeCoerce fcLeft_)
+fcLeft = element (unsafeCoerce _fcLeft)
 
-foreign import fcLeftDown_ :: ReactIcon
+foreign import _fcLeftDown :: ReactIcon
 
 fcLeftDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcLeftDown = element (unsafeCoerce fcLeftDown_)
+fcLeftDown = element (unsafeCoerce _fcLeftDown)
 
-foreign import fcLeftUp_ :: ReactIcon
+foreign import _fcLeftUp :: ReactIcon
 
 fcLeftUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcLeftUp = element (unsafeCoerce fcLeftUp_)
+fcLeftUp = element (unsafeCoerce _fcLeftUp)
 
-foreign import fcLibrary_ :: ReactIcon
+foreign import _fcLibrary :: ReactIcon
 
 fcLibrary :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcLibrary = element (unsafeCoerce fcLibrary_)
+fcLibrary = element (unsafeCoerce _fcLibrary)
 
-foreign import fcLightAtTheEndOfTunnel_ :: ReactIcon
+foreign import _fcLightAtTheEndOfTunnel :: ReactIcon
 
 fcLightAtTheEndOfTunnel :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcLightAtTheEndOfTunnel = element (unsafeCoerce fcLightAtTheEndOfTunnel_)
+fcLightAtTheEndOfTunnel = element (unsafeCoerce _fcLightAtTheEndOfTunnel)
 
-foreign import fcLike_ :: ReactIcon
+foreign import _fcLike :: ReactIcon
 
 fcLike :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcLike = element (unsafeCoerce fcLike_)
+fcLike = element (unsafeCoerce _fcLike)
 
-foreign import fcLikePlaceholder_ :: ReactIcon
+foreign import _fcLikePlaceholder :: ReactIcon
 
 fcLikePlaceholder :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcLikePlaceholder = element (unsafeCoerce fcLikePlaceholder_)
+fcLikePlaceholder = element (unsafeCoerce _fcLikePlaceholder)
 
-foreign import fcLineChart_ :: ReactIcon
+foreign import _fcLineChart :: ReactIcon
 
 fcLineChart :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcLineChart = element (unsafeCoerce fcLineChart_)
+fcLineChart = element (unsafeCoerce _fcLineChart)
 
-foreign import fcLink_ :: ReactIcon
+foreign import _fcLink :: ReactIcon
 
 fcLink :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcLink = element (unsafeCoerce fcLink_)
+fcLink = element (unsafeCoerce _fcLink)
 
-foreign import fcLinux_ :: ReactIcon
+foreign import _fcLinux :: ReactIcon
 
 fcLinux :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcLinux = element (unsafeCoerce fcLinux_)
+fcLinux = element (unsafeCoerce _fcLinux)
 
-foreign import fcList_ :: ReactIcon
+foreign import _fcList :: ReactIcon
 
 fcList :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcList = element (unsafeCoerce fcList_)
+fcList = element (unsafeCoerce _fcList)
 
-foreign import fcLock_ :: ReactIcon
+foreign import _fcLock :: ReactIcon
 
 fcLock :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcLock = element (unsafeCoerce fcLock_)
+fcLock = element (unsafeCoerce _fcLock)
 
-foreign import fcLockLandscape_ :: ReactIcon
+foreign import _fcLockLandscape :: ReactIcon
 
 fcLockLandscape :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcLockLandscape = element (unsafeCoerce fcLockLandscape_)
+fcLockLandscape = element (unsafeCoerce _fcLockLandscape)
 
-foreign import fcLockPortrait_ :: ReactIcon
+foreign import _fcLockPortrait :: ReactIcon
 
 fcLockPortrait :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcLockPortrait = element (unsafeCoerce fcLockPortrait_)
+fcLockPortrait = element (unsafeCoerce _fcLockPortrait)
 
-foreign import fcLowBattery_ :: ReactIcon
+foreign import _fcLowBattery :: ReactIcon
 
 fcLowBattery :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcLowBattery = element (unsafeCoerce fcLowBattery_)
+fcLowBattery = element (unsafeCoerce _fcLowBattery)
 
-foreign import fcLowPriority_ :: ReactIcon
+foreign import _fcLowPriority :: ReactIcon
 
 fcLowPriority :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcLowPriority = element (unsafeCoerce fcLowPriority_)
+fcLowPriority = element (unsafeCoerce _fcLowPriority)
 
-foreign import fcMakeDecision_ :: ReactIcon
+foreign import _fcMakeDecision :: ReactIcon
 
 fcMakeDecision :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcMakeDecision = element (unsafeCoerce fcMakeDecision_)
+fcMakeDecision = element (unsafeCoerce _fcMakeDecision)
 
-foreign import fcManager_ :: ReactIcon
+foreign import _fcManager :: ReactIcon
 
 fcManager :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcManager = element (unsafeCoerce fcManager_)
+fcManager = element (unsafeCoerce _fcManager)
 
-foreign import fcMediumPriority_ :: ReactIcon
+foreign import _fcMediumPriority :: ReactIcon
 
 fcMediumPriority :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcMediumPriority = element (unsafeCoerce fcMediumPriority_)
+fcMediumPriority = element (unsafeCoerce _fcMediumPriority)
 
-foreign import fcMenu_ :: ReactIcon
+foreign import _fcMenu :: ReactIcon
 
 fcMenu :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcMenu = element (unsafeCoerce fcMenu_)
+fcMenu = element (unsafeCoerce _fcMenu)
 
-foreign import fcMiddleBattery_ :: ReactIcon
+foreign import _fcMiddleBattery :: ReactIcon
 
 fcMiddleBattery :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcMiddleBattery = element (unsafeCoerce fcMiddleBattery_)
+fcMiddleBattery = element (unsafeCoerce _fcMiddleBattery)
 
-foreign import fcMindMap_ :: ReactIcon
+foreign import _fcMindMap :: ReactIcon
 
 fcMindMap :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcMindMap = element (unsafeCoerce fcMindMap_)
+fcMindMap = element (unsafeCoerce _fcMindMap)
 
-foreign import fcMinus_ :: ReactIcon
+foreign import _fcMinus :: ReactIcon
 
 fcMinus :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcMinus = element (unsafeCoerce fcMinus_)
+fcMinus = element (unsafeCoerce _fcMinus)
 
-foreign import fcMissedCall_ :: ReactIcon
+foreign import _fcMissedCall :: ReactIcon
 
 fcMissedCall :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcMissedCall = element (unsafeCoerce fcMissedCall_)
+fcMissedCall = element (unsafeCoerce _fcMissedCall)
 
-foreign import fcMms_ :: ReactIcon
+foreign import _fcMms :: ReactIcon
 
 fcMms :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcMms = element (unsafeCoerce fcMms_)
+fcMms = element (unsafeCoerce _fcMms)
 
-foreign import fcMoneyTransfer_ :: ReactIcon
+foreign import _fcMoneyTransfer :: ReactIcon
 
 fcMoneyTransfer :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcMoneyTransfer = element (unsafeCoerce fcMoneyTransfer_)
+fcMoneyTransfer = element (unsafeCoerce _fcMoneyTransfer)
 
-foreign import fcMultipleCameras_ :: ReactIcon
+foreign import _fcMultipleCameras :: ReactIcon
 
 fcMultipleCameras :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcMultipleCameras = element (unsafeCoerce fcMultipleCameras_)
+fcMultipleCameras = element (unsafeCoerce _fcMultipleCameras)
 
-foreign import fcMultipleDevices_ :: ReactIcon
+foreign import _fcMultipleDevices :: ReactIcon
 
 fcMultipleDevices :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcMultipleDevices = element (unsafeCoerce fcMultipleDevices_)
+fcMultipleDevices = element (unsafeCoerce _fcMultipleDevices)
 
-foreign import fcMultipleInputs_ :: ReactIcon
+foreign import _fcMultipleInputs :: ReactIcon
 
 fcMultipleInputs :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcMultipleInputs = element (unsafeCoerce fcMultipleInputs_)
+fcMultipleInputs = element (unsafeCoerce _fcMultipleInputs)
 
-foreign import fcMultipleSmartphones_ :: ReactIcon
+foreign import _fcMultipleSmartphones :: ReactIcon
 
 fcMultipleSmartphones :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcMultipleSmartphones = element (unsafeCoerce fcMultipleSmartphones_)
+fcMultipleSmartphones = element (unsafeCoerce _fcMultipleSmartphones)
 
-foreign import fcMusic_ :: ReactIcon
+foreign import _fcMusic :: ReactIcon
 
 fcMusic :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcMusic = element (unsafeCoerce fcMusic_)
+fcMusic = element (unsafeCoerce _fcMusic)
 
-foreign import fcNegativeDynamic_ :: ReactIcon
+foreign import _fcNegativeDynamic :: ReactIcon
 
 fcNegativeDynamic :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcNegativeDynamic = element (unsafeCoerce fcNegativeDynamic_)
+fcNegativeDynamic = element (unsafeCoerce _fcNegativeDynamic)
 
-foreign import fcNeutralDecision_ :: ReactIcon
+foreign import _fcNeutralDecision :: ReactIcon
 
 fcNeutralDecision :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcNeutralDecision = element (unsafeCoerce fcNeutralDecision_)
+fcNeutralDecision = element (unsafeCoerce _fcNeutralDecision)
 
-foreign import fcNeutralTrading_ :: ReactIcon
+foreign import _fcNeutralTrading :: ReactIcon
 
 fcNeutralTrading :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcNeutralTrading = element (unsafeCoerce fcNeutralTrading_)
+fcNeutralTrading = element (unsafeCoerce _fcNeutralTrading)
 
-foreign import fcNews_ :: ReactIcon
+foreign import _fcNews :: ReactIcon
 
 fcNews :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcNews = element (unsafeCoerce fcNews_)
+fcNews = element (unsafeCoerce _fcNews)
 
-foreign import fcNext_ :: ReactIcon
+foreign import _fcNext :: ReactIcon
 
 fcNext :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcNext = element (unsafeCoerce fcNext_)
+fcNext = element (unsafeCoerce _fcNext)
 
-foreign import fcNfcSign_ :: ReactIcon
+foreign import _fcNfcSign :: ReactIcon
 
 fcNfcSign :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcNfcSign = element (unsafeCoerce fcNfcSign_)
+fcNfcSign = element (unsafeCoerce _fcNfcSign)
 
-foreign import fcNightLandscape_ :: ReactIcon
+foreign import _fcNightLandscape :: ReactIcon
 
 fcNightLandscape :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcNightLandscape = element (unsafeCoerce fcNightLandscape_)
+fcNightLandscape = element (unsafeCoerce _fcNightLandscape)
 
-foreign import fcNightPortrait_ :: ReactIcon
+foreign import _fcNightPortrait :: ReactIcon
 
 fcNightPortrait :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcNightPortrait = element (unsafeCoerce fcNightPortrait_)
+fcNightPortrait = element (unsafeCoerce _fcNightPortrait)
 
-foreign import fcNoIdea_ :: ReactIcon
+foreign import _fcNoIdea :: ReactIcon
 
 fcNoIdea :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcNoIdea = element (unsafeCoerce fcNoIdea_)
+fcNoIdea = element (unsafeCoerce _fcNoIdea)
 
-foreign import fcNook_ :: ReactIcon
+foreign import _fcNook :: ReactIcon
 
 fcNook :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcNook = element (unsafeCoerce fcNook_)
+fcNook = element (unsafeCoerce _fcNook)
 
-foreign import fcNoVideo_ :: ReactIcon
+foreign import _fcNoVideo :: ReactIcon
 
 fcNoVideo :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcNoVideo = element (unsafeCoerce fcNoVideo_)
+fcNoVideo = element (unsafeCoerce _fcNoVideo)
 
-foreign import fcOk_ :: ReactIcon
+foreign import _fcOk :: ReactIcon
 
 fcOk :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcOk = element (unsafeCoerce fcOk_)
+fcOk = element (unsafeCoerce _fcOk)
 
-foreign import fcOldTimeCamera_ :: ReactIcon
+foreign import _fcOldTimeCamera :: ReactIcon
 
 fcOldTimeCamera :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcOldTimeCamera = element (unsafeCoerce fcOldTimeCamera_)
+fcOldTimeCamera = element (unsafeCoerce _fcOldTimeCamera)
 
-foreign import fcOnlineSupport_ :: ReactIcon
+foreign import _fcOnlineSupport :: ReactIcon
 
 fcOnlineSupport :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcOnlineSupport = element (unsafeCoerce fcOnlineSupport_)
+fcOnlineSupport = element (unsafeCoerce _fcOnlineSupport)
 
-foreign import fcOpenedFolder_ :: ReactIcon
+foreign import _fcOpenedFolder :: ReactIcon
 
 fcOpenedFolder :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcOpenedFolder = element (unsafeCoerce fcOpenedFolder_)
+fcOpenedFolder = element (unsafeCoerce _fcOpenedFolder)
 
-foreign import fcOrganization_ :: ReactIcon
+foreign import _fcOrganization :: ReactIcon
 
 fcOrganization :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcOrganization = element (unsafeCoerce fcOrganization_)
+fcOrganization = element (unsafeCoerce _fcOrganization)
 
-foreign import fcOrgUnit_ :: ReactIcon
+foreign import _fcOrgUnit :: ReactIcon
 
 fcOrgUnit :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcOrgUnit = element (unsafeCoerce fcOrgUnit_)
+fcOrgUnit = element (unsafeCoerce _fcOrgUnit)
 
-foreign import fcOvertime_ :: ReactIcon
+foreign import _fcOvertime :: ReactIcon
 
 fcOvertime :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcOvertime = element (unsafeCoerce fcOvertime_)
+fcOvertime = element (unsafeCoerce _fcOvertime)
 
-foreign import fcPackage_ :: ReactIcon
+foreign import _fcPackage :: ReactIcon
 
 fcPackage :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcPackage = element (unsafeCoerce fcPackage_)
+fcPackage = element (unsafeCoerce _fcPackage)
 
-foreign import fcPaid_ :: ReactIcon
+foreign import _fcPaid :: ReactIcon
 
 fcPaid :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcPaid = element (unsafeCoerce fcPaid_)
+fcPaid = element (unsafeCoerce _fcPaid)
 
-foreign import fcPanorama_ :: ReactIcon
+foreign import _fcPanorama :: ReactIcon
 
 fcPanorama :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcPanorama = element (unsafeCoerce fcPanorama_)
+fcPanorama = element (unsafeCoerce _fcPanorama)
 
-foreign import fcParallelTasks_ :: ReactIcon
+foreign import _fcParallelTasks :: ReactIcon
 
 fcParallelTasks :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcParallelTasks = element (unsafeCoerce fcParallelTasks_)
+fcParallelTasks = element (unsafeCoerce _fcParallelTasks)
 
-foreign import fcPhone_ :: ReactIcon
+foreign import _fcPhone :: ReactIcon
 
 fcPhone :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcPhone = element (unsafeCoerce fcPhone_)
+fcPhone = element (unsafeCoerce _fcPhone)
 
-foreign import fcPhoneAndroid_ :: ReactIcon
+foreign import _fcPhoneAndroid :: ReactIcon
 
 fcPhoneAndroid :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcPhoneAndroid = element (unsafeCoerce fcPhoneAndroid_)
+fcPhoneAndroid = element (unsafeCoerce _fcPhoneAndroid)
 
-foreign import fcPhotoReel_ :: ReactIcon
+foreign import _fcPhotoReel :: ReactIcon
 
 fcPhotoReel :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcPhotoReel = element (unsafeCoerce fcPhotoReel_)
+fcPhotoReel = element (unsafeCoerce _fcPhotoReel)
 
-foreign import fcPicture_ :: ReactIcon
+foreign import _fcPicture :: ReactIcon
 
 fcPicture :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcPicture = element (unsafeCoerce fcPicture_)
+fcPicture = element (unsafeCoerce _fcPicture)
 
-foreign import fcPieChart_ :: ReactIcon
+foreign import _fcPieChart :: ReactIcon
 
 fcPieChart :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcPieChart = element (unsafeCoerce fcPieChart_)
+fcPieChart = element (unsafeCoerce _fcPieChart)
 
-foreign import fcPlanner_ :: ReactIcon
+foreign import _fcPlanner :: ReactIcon
 
 fcPlanner :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcPlanner = element (unsafeCoerce fcPlanner_)
+fcPlanner = element (unsafeCoerce _fcPlanner)
 
-foreign import fcPlus_ :: ReactIcon
+foreign import _fcPlus :: ReactIcon
 
 fcPlus :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcPlus = element (unsafeCoerce fcPlus_)
+fcPlus = element (unsafeCoerce _fcPlus)
 
-foreign import fcPodiumWithAudience_ :: ReactIcon
+foreign import _fcPodiumWithAudience :: ReactIcon
 
 fcPodiumWithAudience :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcPodiumWithAudience = element (unsafeCoerce fcPodiumWithAudience_)
+fcPodiumWithAudience = element (unsafeCoerce _fcPodiumWithAudience)
 
-foreign import fcPodiumWithoutSpeaker_ :: ReactIcon
+foreign import _fcPodiumWithoutSpeaker :: ReactIcon
 
 fcPodiumWithoutSpeaker :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcPodiumWithoutSpeaker = element (unsafeCoerce fcPodiumWithoutSpeaker_)
+fcPodiumWithoutSpeaker = element (unsafeCoerce _fcPodiumWithoutSpeaker)
 
-foreign import fcPodiumWithSpeaker_ :: ReactIcon
+foreign import _fcPodiumWithSpeaker :: ReactIcon
 
 fcPodiumWithSpeaker :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcPodiumWithSpeaker = element (unsafeCoerce fcPodiumWithSpeaker_)
+fcPodiumWithSpeaker = element (unsafeCoerce _fcPodiumWithSpeaker)
 
-foreign import fcPortraitMode_ :: ReactIcon
+foreign import _fcPortraitMode :: ReactIcon
 
 fcPortraitMode :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcPortraitMode = element (unsafeCoerce fcPortraitMode_)
+fcPortraitMode = element (unsafeCoerce _fcPortraitMode)
 
-foreign import fcPositiveDynamic_ :: ReactIcon
+foreign import _fcPositiveDynamic :: ReactIcon
 
 fcPositiveDynamic :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcPositiveDynamic = element (unsafeCoerce fcPositiveDynamic_)
+fcPositiveDynamic = element (unsafeCoerce _fcPositiveDynamic)
 
-foreign import fcPrevious_ :: ReactIcon
+foreign import _fcPrevious :: ReactIcon
 
 fcPrevious :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcPrevious = element (unsafeCoerce fcPrevious_)
+fcPrevious = element (unsafeCoerce _fcPrevious)
 
-foreign import fcPrint_ :: ReactIcon
+foreign import _fcPrint :: ReactIcon
 
 fcPrint :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcPrint = element (unsafeCoerce fcPrint_)
+fcPrint = element (unsafeCoerce _fcPrint)
 
-foreign import fcPrivacy_ :: ReactIcon
+foreign import _fcPrivacy :: ReactIcon
 
 fcPrivacy :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcPrivacy = element (unsafeCoerce fcPrivacy_)
+fcPrivacy = element (unsafeCoerce _fcPrivacy)
 
-foreign import fcProcess_ :: ReactIcon
+foreign import _fcProcess :: ReactIcon
 
 fcProcess :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcProcess = element (unsafeCoerce fcProcess_)
+fcProcess = element (unsafeCoerce _fcProcess)
 
-foreign import fcPuzzle_ :: ReactIcon
+foreign import _fcPuzzle :: ReactIcon
 
 fcPuzzle :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcPuzzle = element (unsafeCoerce fcPuzzle_)
+fcPuzzle = element (unsafeCoerce _fcPuzzle)
 
-foreign import fcQuestions_ :: ReactIcon
+foreign import _fcQuestions :: ReactIcon
 
 fcQuestions :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcQuestions = element (unsafeCoerce fcQuestions_)
+fcQuestions = element (unsafeCoerce _fcQuestions)
 
-foreign import fcRadarPlot_ :: ReactIcon
+foreign import _fcRadarPlot :: ReactIcon
 
 fcRadarPlot :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcRadarPlot = element (unsafeCoerce fcRadarPlot_)
+fcRadarPlot = element (unsafeCoerce _fcRadarPlot)
 
-foreign import fcRating_ :: ReactIcon
+foreign import _fcRating :: ReactIcon
 
 fcRating :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcRating = element (unsafeCoerce fcRating_)
+fcRating = element (unsafeCoerce _fcRating)
 
-foreign import fcRatings_ :: ReactIcon
+foreign import _fcRatings :: ReactIcon
 
 fcRatings :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcRatings = element (unsafeCoerce fcRatings_)
+fcRatings = element (unsafeCoerce _fcRatings)
 
-foreign import fcReading_ :: ReactIcon
+foreign import _fcReading :: ReactIcon
 
 fcReading :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcReading = element (unsafeCoerce fcReading_)
+fcReading = element (unsafeCoerce _fcReading)
 
-foreign import fcReadingEbook_ :: ReactIcon
+foreign import _fcReadingEbook :: ReactIcon
 
 fcReadingEbook :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcReadingEbook = element (unsafeCoerce fcReadingEbook_)
+fcReadingEbook = element (unsafeCoerce _fcReadingEbook)
 
-foreign import fcReddit_ :: ReactIcon
+foreign import _fcReddit :: ReactIcon
 
 fcReddit :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcReddit = element (unsafeCoerce fcReddit_)
+fcReddit = element (unsafeCoerce _fcReddit)
 
-foreign import fcRedo_ :: ReactIcon
+foreign import _fcRedo :: ReactIcon
 
 fcRedo :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcRedo = element (unsafeCoerce fcRedo_)
+fcRedo = element (unsafeCoerce _fcRedo)
 
-foreign import fcRefresh_ :: ReactIcon
+foreign import _fcRefresh :: ReactIcon
 
 fcRefresh :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcRefresh = element (unsafeCoerce fcRefresh_)
+fcRefresh = element (unsafeCoerce _fcRefresh)
 
-foreign import fcRegisteredTrademark_ :: ReactIcon
+foreign import _fcRegisteredTrademark :: ReactIcon
 
 fcRegisteredTrademark :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcRegisteredTrademark = element (unsafeCoerce fcRegisteredTrademark_)
+fcRegisteredTrademark = element (unsafeCoerce _fcRegisteredTrademark)
 
-foreign import fcRemoveImage_ :: ReactIcon
+foreign import _fcRemoveImage :: ReactIcon
 
 fcRemoveImage :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcRemoveImage = element (unsafeCoerce fcRemoveImage_)
+fcRemoveImage = element (unsafeCoerce _fcRemoveImage)
 
-foreign import fcReuse_ :: ReactIcon
+foreign import _fcReuse :: ReactIcon
 
 fcReuse :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcReuse = element (unsafeCoerce fcReuse_)
+fcReuse = element (unsafeCoerce _fcReuse)
 
-foreign import fcRight_ :: ReactIcon
+foreign import _fcRight :: ReactIcon
 
 fcRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcRight = element (unsafeCoerce fcRight_)
+fcRight = element (unsafeCoerce _fcRight)
 
-foreign import fcRightDown_ :: ReactIcon
+foreign import _fcRightDown :: ReactIcon
 
 fcRightDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcRightDown = element (unsafeCoerce fcRightDown_)
+fcRightDown = element (unsafeCoerce _fcRightDown)
 
-foreign import fcRightUp_ :: ReactIcon
+foreign import _fcRightUp :: ReactIcon
 
 fcRightUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcRightUp = element (unsafeCoerce fcRightUp_)
+fcRightUp = element (unsafeCoerce _fcRightUp)
 
-foreign import fcRotateCamera_ :: ReactIcon
+foreign import _fcRotateCamera :: ReactIcon
 
 fcRotateCamera :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcRotateCamera = element (unsafeCoerce fcRotateCamera_)
+fcRotateCamera = element (unsafeCoerce _fcRotateCamera)
 
-foreign import fcRotateToLandscape_ :: ReactIcon
+foreign import _fcRotateToLandscape :: ReactIcon
 
 fcRotateToLandscape :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcRotateToLandscape = element (unsafeCoerce fcRotateToLandscape_)
+fcRotateToLandscape = element (unsafeCoerce _fcRotateToLandscape)
 
-foreign import fcRotateToPortrait_ :: ReactIcon
+foreign import _fcRotateToPortrait :: ReactIcon
 
 fcRotateToPortrait :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcRotateToPortrait = element (unsafeCoerce fcRotateToPortrait_)
+fcRotateToPortrait = element (unsafeCoerce _fcRotateToPortrait)
 
-foreign import fcRuler_ :: ReactIcon
+foreign import _fcRuler :: ReactIcon
 
 fcRuler :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcRuler = element (unsafeCoerce fcRuler_)
+fcRuler = element (unsafeCoerce _fcRuler)
 
-foreign import fcRules_ :: ReactIcon
+foreign import _fcRules :: ReactIcon
 
 fcRules :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcRules = element (unsafeCoerce fcRules_)
+fcRules = element (unsafeCoerce _fcRules)
 
-foreign import fcSafe_ :: ReactIcon
+foreign import _fcSafe :: ReactIcon
 
 fcSafe :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcSafe = element (unsafeCoerce fcSafe_)
+fcSafe = element (unsafeCoerce _fcSafe)
 
-foreign import fcSalesPerformance_ :: ReactIcon
+foreign import _fcSalesPerformance :: ReactIcon
 
 fcSalesPerformance :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcSalesPerformance = element (unsafeCoerce fcSalesPerformance_)
+fcSalesPerformance = element (unsafeCoerce _fcSalesPerformance)
 
-foreign import fcScatterPlot_ :: ReactIcon
+foreign import _fcScatterPlot :: ReactIcon
 
 fcScatterPlot :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcScatterPlot = element (unsafeCoerce fcScatterPlot_)
+fcScatterPlot = element (unsafeCoerce _fcScatterPlot)
 
-foreign import fcSearch_ :: ReactIcon
+foreign import _fcSearch :: ReactIcon
 
 fcSearch :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcSearch = element (unsafeCoerce fcSearch_)
+fcSearch = element (unsafeCoerce _fcSearch)
 
-foreign import fcSelfie_ :: ReactIcon
+foreign import _fcSelfie :: ReactIcon
 
 fcSelfie :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcSelfie = element (unsafeCoerce fcSelfie_)
+fcSelfie = element (unsafeCoerce _fcSelfie)
 
-foreign import fcSelfServiceKiosk_ :: ReactIcon
+foreign import _fcSelfServiceKiosk :: ReactIcon
 
 fcSelfServiceKiosk :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcSelfServiceKiosk = element (unsafeCoerce fcSelfServiceKiosk_)
+fcSelfServiceKiosk = element (unsafeCoerce _fcSelfServiceKiosk)
 
-foreign import fcSerialTasks_ :: ReactIcon
+foreign import _fcSerialTasks :: ReactIcon
 
 fcSerialTasks :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcSerialTasks = element (unsafeCoerce fcSerialTasks_)
+fcSerialTasks = element (unsafeCoerce _fcSerialTasks)
 
-foreign import fcServiceMark_ :: ReactIcon
+foreign import _fcServiceMark :: ReactIcon
 
 fcServiceMark :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcServiceMark = element (unsafeCoerce fcServiceMark_)
+fcServiceMark = element (unsafeCoerce _fcServiceMark)
 
-foreign import fcServices_ :: ReactIcon
+foreign import _fcServices :: ReactIcon
 
 fcServices :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcServices = element (unsafeCoerce fcServices_)
+fcServices = element (unsafeCoerce _fcServices)
 
-foreign import fcSettings_ :: ReactIcon
+foreign import _fcSettings :: ReactIcon
 
 fcSettings :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcSettings = element (unsafeCoerce fcSettings_)
+fcSettings = element (unsafeCoerce _fcSettings)
 
-foreign import fcShare_ :: ReactIcon
+foreign import _fcShare :: ReactIcon
 
 fcShare :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcShare = element (unsafeCoerce fcShare_)
+fcShare = element (unsafeCoerce _fcShare)
 
-foreign import fcShipped_ :: ReactIcon
+foreign import _fcShipped :: ReactIcon
 
 fcShipped :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcShipped = element (unsafeCoerce fcShipped_)
+fcShipped = element (unsafeCoerce _fcShipped)
 
-foreign import fcShop_ :: ReactIcon
+foreign import _fcShop :: ReactIcon
 
 fcShop :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcShop = element (unsafeCoerce fcShop_)
+fcShop = element (unsafeCoerce _fcShop)
 
-foreign import fcSignature_ :: ReactIcon
+foreign import _fcSignature :: ReactIcon
 
 fcSignature :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcSignature = element (unsafeCoerce fcSignature_)
+fcSignature = element (unsafeCoerce _fcSignature)
 
-foreign import fcSimCard_ :: ReactIcon
+foreign import _fcSimCard :: ReactIcon
 
 fcSimCard :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcSimCard = element (unsafeCoerce fcSimCard_)
+fcSimCard = element (unsafeCoerce _fcSimCard)
 
-foreign import fcSimCardChip_ :: ReactIcon
+foreign import _fcSimCardChip :: ReactIcon
 
 fcSimCardChip :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcSimCardChip = element (unsafeCoerce fcSimCardChip_)
+fcSimCardChip = element (unsafeCoerce _fcSimCardChip)
 
-foreign import fcSlrBackSide_ :: ReactIcon
+foreign import _fcSlrBackSide :: ReactIcon
 
 fcSlrBackSide :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcSlrBackSide = element (unsafeCoerce fcSlrBackSide_)
+fcSlrBackSide = element (unsafeCoerce _fcSlrBackSide)
 
-foreign import fcSmartphoneTablet_ :: ReactIcon
+foreign import _fcSmartphoneTablet :: ReactIcon
 
 fcSmartphoneTablet :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcSmartphoneTablet = element (unsafeCoerce fcSmartphoneTablet_)
+fcSmartphoneTablet = element (unsafeCoerce _fcSmartphoneTablet)
 
-foreign import fcSms_ :: ReactIcon
+foreign import _fcSms :: ReactIcon
 
 fcSms :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcSms = element (unsafeCoerce fcSms_)
+fcSms = element (unsafeCoerce _fcSms)
 
-foreign import fcSoundRecordingCopyright_ :: ReactIcon
+foreign import _fcSoundRecordingCopyright :: ReactIcon
 
 fcSoundRecordingCopyright :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcSoundRecordingCopyright = element (unsafeCoerce fcSoundRecordingCopyright_)
+fcSoundRecordingCopyright = element (unsafeCoerce _fcSoundRecordingCopyright)
 
-foreign import fcSpeaker_ :: ReactIcon
+foreign import _fcSpeaker :: ReactIcon
 
 fcSpeaker :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcSpeaker = element (unsafeCoerce fcSpeaker_)
+fcSpeaker = element (unsafeCoerce _fcSpeaker)
 
-foreign import fcSportsMode_ :: ReactIcon
+foreign import _fcSportsMode :: ReactIcon
 
 fcSportsMode :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcSportsMode = element (unsafeCoerce fcSportsMode_)
+fcSportsMode = element (unsafeCoerce _fcSportsMode)
 
-foreign import fcStackOfPhotos_ :: ReactIcon
+foreign import _fcStackOfPhotos :: ReactIcon
 
 fcStackOfPhotos :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcStackOfPhotos = element (unsafeCoerce fcStackOfPhotos_)
+fcStackOfPhotos = element (unsafeCoerce _fcStackOfPhotos)
 
-foreign import fcStart_ :: ReactIcon
+foreign import _fcStart :: ReactIcon
 
 fcStart :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcStart = element (unsafeCoerce fcStart_)
+fcStart = element (unsafeCoerce _fcStart)
 
-foreign import fcStatistics_ :: ReactIcon
+foreign import _fcStatistics :: ReactIcon
 
 fcStatistics :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcStatistics = element (unsafeCoerce fcStatistics_)
+fcStatistics = element (unsafeCoerce _fcStatistics)
 
-foreign import fcSteam_ :: ReactIcon
+foreign import _fcSteam :: ReactIcon
 
 fcSteam :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcSteam = element (unsafeCoerce fcSteam_)
+fcSteam = element (unsafeCoerce _fcSteam)
 
-foreign import fcStumbleupon_ :: ReactIcon
+foreign import _fcStumbleupon :: ReactIcon
 
 fcStumbleupon :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcStumbleupon = element (unsafeCoerce fcStumbleupon_)
+fcStumbleupon = element (unsafeCoerce _fcStumbleupon)
 
-foreign import fcSupport_ :: ReactIcon
+foreign import _fcSupport :: ReactIcon
 
 fcSupport :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcSupport = element (unsafeCoerce fcSupport_)
+fcSupport = element (unsafeCoerce _fcSupport)
 
-foreign import fcSurvey_ :: ReactIcon
+foreign import _fcSurvey :: ReactIcon
 
 fcSurvey :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcSurvey = element (unsafeCoerce fcSurvey_)
+fcSurvey = element (unsafeCoerce _fcSurvey)
 
-foreign import fcSwitchCamera_ :: ReactIcon
+foreign import _fcSwitchCamera :: ReactIcon
 
 fcSwitchCamera :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcSwitchCamera = element (unsafeCoerce fcSwitchCamera_)
+fcSwitchCamera = element (unsafeCoerce _fcSwitchCamera)
 
-foreign import fcSynchronize_ :: ReactIcon
+foreign import _fcSynchronize :: ReactIcon
 
 fcSynchronize :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcSynchronize = element (unsafeCoerce fcSynchronize_)
+fcSynchronize = element (unsafeCoerce _fcSynchronize)
 
-foreign import fcTabletAndroid_ :: ReactIcon
+foreign import _fcTabletAndroid :: ReactIcon
 
 fcTabletAndroid :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcTabletAndroid = element (unsafeCoerce fcTabletAndroid_)
+fcTabletAndroid = element (unsafeCoerce _fcTabletAndroid)
 
-foreign import fcTemplate_ :: ReactIcon
+foreign import _fcTemplate :: ReactIcon
 
 fcTemplate :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcTemplate = element (unsafeCoerce fcTemplate_)
+fcTemplate = element (unsafeCoerce _fcTemplate)
 
-foreign import fcTimeline_ :: ReactIcon
+foreign import _fcTimeline :: ReactIcon
 
 fcTimeline :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcTimeline = element (unsafeCoerce fcTimeline_)
+fcTimeline = element (unsafeCoerce _fcTimeline)
 
-foreign import fcTodoList_ :: ReactIcon
+foreign import _fcTodoList :: ReactIcon
 
 fcTodoList :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcTodoList = element (unsafeCoerce fcTodoList_)
+fcTodoList = element (unsafeCoerce _fcTodoList)
 
-foreign import fcTouchscreenSmartphone_ :: ReactIcon
+foreign import _fcTouchscreenSmartphone :: ReactIcon
 
 fcTouchscreenSmartphone :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcTouchscreenSmartphone = element (unsafeCoerce fcTouchscreenSmartphone_)
+fcTouchscreenSmartphone = element (unsafeCoerce _fcTouchscreenSmartphone)
 
-foreign import fcTrademark_ :: ReactIcon
+foreign import _fcTrademark :: ReactIcon
 
 fcTrademark :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcTrademark = element (unsafeCoerce fcTrademark_)
+fcTrademark = element (unsafeCoerce _fcTrademark)
 
-foreign import fcTreeStructure_ :: ReactIcon
+foreign import _fcTreeStructure :: ReactIcon
 
 fcTreeStructure :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcTreeStructure = element (unsafeCoerce fcTreeStructure_)
+fcTreeStructure = element (unsafeCoerce _fcTreeStructure)
 
-foreign import fcTwoSmartphones_ :: ReactIcon
+foreign import _fcTwoSmartphones :: ReactIcon
 
 fcTwoSmartphones :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcTwoSmartphones = element (unsafeCoerce fcTwoSmartphones_)
+fcTwoSmartphones = element (unsafeCoerce _fcTwoSmartphones)
 
-foreign import fcUndo_ :: ReactIcon
+foreign import _fcUndo :: ReactIcon
 
 fcUndo :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcUndo = element (unsafeCoerce fcUndo_)
+fcUndo = element (unsafeCoerce _fcUndo)
 
-foreign import fcUnlock_ :: ReactIcon
+foreign import _fcUnlock :: ReactIcon
 
 fcUnlock :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcUnlock = element (unsafeCoerce fcUnlock_)
+fcUnlock = element (unsafeCoerce _fcUnlock)
 
-foreign import fcUp_ :: ReactIcon
+foreign import _fcUp :: ReactIcon
 
 fcUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcUp = element (unsafeCoerce fcUp_)
+fcUp = element (unsafeCoerce _fcUp)
 
-foreign import fcUpLeft_ :: ReactIcon
+foreign import _fcUpLeft :: ReactIcon
 
 fcUpLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcUpLeft = element (unsafeCoerce fcUpLeft_)
+fcUpLeft = element (unsafeCoerce _fcUpLeft)
 
-foreign import fcUpload_ :: ReactIcon
+foreign import _fcUpload :: ReactIcon
 
 fcUpload :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcUpload = element (unsafeCoerce fcUpload_)
+fcUpload = element (unsafeCoerce _fcUpload)
 
-foreign import fcUpRight_ :: ReactIcon
+foreign import _fcUpRight :: ReactIcon
 
 fcUpRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcUpRight = element (unsafeCoerce fcUpRight_)
+fcUpRight = element (unsafeCoerce _fcUpRight)
 
-foreign import fcUsb_ :: ReactIcon
+foreign import _fcUsb :: ReactIcon
 
 fcUsb :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcUsb = element (unsafeCoerce fcUsb_)
+fcUsb = element (unsafeCoerce _fcUsb)
 
-foreign import fcVideoCall_ :: ReactIcon
+foreign import _fcVideoCall :: ReactIcon
 
 fcVideoCall :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcVideoCall = element (unsafeCoerce fcVideoCall_)
+fcVideoCall = element (unsafeCoerce _fcVideoCall)
 
-foreign import fcVideoFile_ :: ReactIcon
+foreign import _fcVideoFile :: ReactIcon
 
 fcVideoFile :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcVideoFile = element (unsafeCoerce fcVideoFile_)
+fcVideoFile = element (unsafeCoerce _fcVideoFile)
 
-foreign import fcVideoProjector_ :: ReactIcon
+foreign import _fcVideoProjector :: ReactIcon
 
 fcVideoProjector :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcVideoProjector = element (unsafeCoerce fcVideoProjector_)
+fcVideoProjector = element (unsafeCoerce _fcVideoProjector)
 
-foreign import fcViewDetails_ :: ReactIcon
+foreign import _fcViewDetails :: ReactIcon
 
 fcViewDetails :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcViewDetails = element (unsafeCoerce fcViewDetails_)
+fcViewDetails = element (unsafeCoerce _fcViewDetails)
 
-foreign import fcVip_ :: ReactIcon
+foreign import _fcVip :: ReactIcon
 
 fcVip :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcVip = element (unsafeCoerce fcVip_)
+fcVip = element (unsafeCoerce _fcVip)
 
-foreign import fcVlc_ :: ReactIcon
+foreign import _fcVlc :: ReactIcon
 
 fcVlc :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcVlc = element (unsafeCoerce fcVlc_)
+fcVlc = element (unsafeCoerce _fcVlc)
 
-foreign import fcVoicemail_ :: ReactIcon
+foreign import _fcVoicemail :: ReactIcon
 
 fcVoicemail :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcVoicemail = element (unsafeCoerce fcVoicemail_)
+fcVoicemail = element (unsafeCoerce _fcVoicemail)
 
-foreign import fcVoicePresentation_ :: ReactIcon
+foreign import _fcVoicePresentation :: ReactIcon
 
 fcVoicePresentation :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcVoicePresentation = element (unsafeCoerce fcVoicePresentation_)
+fcVoicePresentation = element (unsafeCoerce _fcVoicePresentation)
 
-foreign import fcWebcam_ :: ReactIcon
+foreign import _fcWebcam :: ReactIcon
 
 fcWebcam :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcWebcam = element (unsafeCoerce fcWebcam_)
+fcWebcam = element (unsafeCoerce _fcWebcam)
 
-foreign import fcWiFiLogo_ :: ReactIcon
+foreign import _fcWiFiLogo :: ReactIcon
 
 fcWiFiLogo :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcWiFiLogo = element (unsafeCoerce fcWiFiLogo_)
+fcWiFiLogo = element (unsafeCoerce _fcWiFiLogo)
 
-foreign import fcWikipedia_ :: ReactIcon
+foreign import _fcWikipedia :: ReactIcon
 
 fcWikipedia :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcWikipedia = element (unsafeCoerce fcWikipedia_)
+fcWikipedia = element (unsafeCoerce _fcWikipedia)
 
-foreign import fcWorkflow_ :: ReactIcon
+foreign import _fcWorkflow :: ReactIcon
 
 fcWorkflow :: forall a b. Union a b PropsIcon => Record a -> JSX
-fcWorkflow = element (unsafeCoerce fcWorkflow_)
+fcWorkflow = element (unsafeCoerce _fcWorkflow)

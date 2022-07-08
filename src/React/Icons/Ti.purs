@@ -9,1672 +9,1672 @@ import React.Basic (JSX, element)
 import React.Icons.Types (ReactIcon, PropsIcon)
 import Unsafe.Coerce (unsafeCoerce)
 
-foreign import tiAdjustBrightness_ :: ReactIcon
+foreign import _tiAdjustBrightness :: ReactIcon
 
 tiAdjustBrightness :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiAdjustBrightness = element (unsafeCoerce tiAdjustBrightness_)
+tiAdjustBrightness = element (unsafeCoerce _tiAdjustBrightness)
 
-foreign import tiAdjustContrast_ :: ReactIcon
+foreign import _tiAdjustContrast :: ReactIcon
 
 tiAdjustContrast :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiAdjustContrast = element (unsafeCoerce tiAdjustContrast_)
+tiAdjustContrast = element (unsafeCoerce _tiAdjustContrast)
 
-foreign import tiAnchor_ :: ReactIcon
+foreign import _tiAnchor :: ReactIcon
 
 tiAnchor :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiAnchor = element (unsafeCoerce tiAnchor_)
+tiAnchor = element (unsafeCoerce _tiAnchor)
 
-foreign import tiAnchorOutline_ :: ReactIcon
+foreign import _tiAnchorOutline :: ReactIcon
 
 tiAnchorOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiAnchorOutline = element (unsafeCoerce tiAnchorOutline_)
+tiAnchorOutline = element (unsafeCoerce _tiAnchorOutline)
 
-foreign import tiArchive_ :: ReactIcon
+foreign import _tiArchive :: ReactIcon
 
 tiArchive :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiArchive = element (unsafeCoerce tiArchive_)
+tiArchive = element (unsafeCoerce _tiArchive)
 
-foreign import tiArrowBack_ :: ReactIcon
+foreign import _tiArrowBack :: ReactIcon
 
 tiArrowBack :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiArrowBack = element (unsafeCoerce tiArrowBack_)
+tiArrowBack = element (unsafeCoerce _tiArrowBack)
 
-foreign import tiArrowBackOutline_ :: ReactIcon
+foreign import _tiArrowBackOutline :: ReactIcon
 
 tiArrowBackOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiArrowBackOutline = element (unsafeCoerce tiArrowBackOutline_)
+tiArrowBackOutline = element (unsafeCoerce _tiArrowBackOutline)
 
-foreign import tiArrowDown_ :: ReactIcon
+foreign import _tiArrowDown :: ReactIcon
 
 tiArrowDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiArrowDown = element (unsafeCoerce tiArrowDown_)
+tiArrowDown = element (unsafeCoerce _tiArrowDown)
 
-foreign import tiArrowDownOutline_ :: ReactIcon
+foreign import _tiArrowDownOutline :: ReactIcon
 
 tiArrowDownOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiArrowDownOutline = element (unsafeCoerce tiArrowDownOutline_)
+tiArrowDownOutline = element (unsafeCoerce _tiArrowDownOutline)
 
-foreign import tiArrowDownThick_ :: ReactIcon
+foreign import _tiArrowDownThick :: ReactIcon
 
 tiArrowDownThick :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiArrowDownThick = element (unsafeCoerce tiArrowDownThick_)
+tiArrowDownThick = element (unsafeCoerce _tiArrowDownThick)
 
-foreign import tiArrowForward_ :: ReactIcon
+foreign import _tiArrowForward :: ReactIcon
 
 tiArrowForward :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiArrowForward = element (unsafeCoerce tiArrowForward_)
+tiArrowForward = element (unsafeCoerce _tiArrowForward)
 
-foreign import tiArrowForwardOutline_ :: ReactIcon
+foreign import _tiArrowForwardOutline :: ReactIcon
 
 tiArrowForwardOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiArrowForwardOutline = element (unsafeCoerce tiArrowForwardOutline_)
+tiArrowForwardOutline = element (unsafeCoerce _tiArrowForwardOutline)
 
-foreign import tiArrowLeft_ :: ReactIcon
+foreign import _tiArrowLeft :: ReactIcon
 
 tiArrowLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiArrowLeft = element (unsafeCoerce tiArrowLeft_)
+tiArrowLeft = element (unsafeCoerce _tiArrowLeft)
 
-foreign import tiArrowLeftOutline_ :: ReactIcon
+foreign import _tiArrowLeftOutline :: ReactIcon
 
 tiArrowLeftOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiArrowLeftOutline = element (unsafeCoerce tiArrowLeftOutline_)
+tiArrowLeftOutline = element (unsafeCoerce _tiArrowLeftOutline)
 
-foreign import tiArrowLeftThick_ :: ReactIcon
+foreign import _tiArrowLeftThick :: ReactIcon
 
 tiArrowLeftThick :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiArrowLeftThick = element (unsafeCoerce tiArrowLeftThick_)
+tiArrowLeftThick = element (unsafeCoerce _tiArrowLeftThick)
 
-foreign import tiArrowLoop_ :: ReactIcon
+foreign import _tiArrowLoop :: ReactIcon
 
 tiArrowLoop :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiArrowLoop = element (unsafeCoerce tiArrowLoop_)
+tiArrowLoop = element (unsafeCoerce _tiArrowLoop)
 
-foreign import tiArrowLoopOutline_ :: ReactIcon
+foreign import _tiArrowLoopOutline :: ReactIcon
 
 tiArrowLoopOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiArrowLoopOutline = element (unsafeCoerce tiArrowLoopOutline_)
+tiArrowLoopOutline = element (unsafeCoerce _tiArrowLoopOutline)
 
-foreign import tiArrowMaximise_ :: ReactIcon
+foreign import _tiArrowMaximise :: ReactIcon
 
 tiArrowMaximise :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiArrowMaximise = element (unsafeCoerce tiArrowMaximise_)
+tiArrowMaximise = element (unsafeCoerce _tiArrowMaximise)
 
-foreign import tiArrowMaximiseOutline_ :: ReactIcon
+foreign import _tiArrowMaximiseOutline :: ReactIcon
 
 tiArrowMaximiseOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiArrowMaximiseOutline = element (unsafeCoerce tiArrowMaximiseOutline_)
+tiArrowMaximiseOutline = element (unsafeCoerce _tiArrowMaximiseOutline)
 
-foreign import tiArrowMinimise_ :: ReactIcon
+foreign import _tiArrowMinimise :: ReactIcon
 
 tiArrowMinimise :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiArrowMinimise = element (unsafeCoerce tiArrowMinimise_)
+tiArrowMinimise = element (unsafeCoerce _tiArrowMinimise)
 
-foreign import tiArrowMinimiseOutline_ :: ReactIcon
+foreign import _tiArrowMinimiseOutline :: ReactIcon
 
 tiArrowMinimiseOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiArrowMinimiseOutline = element (unsafeCoerce tiArrowMinimiseOutline_)
+tiArrowMinimiseOutline = element (unsafeCoerce _tiArrowMinimiseOutline)
 
-foreign import tiArrowMove_ :: ReactIcon
+foreign import _tiArrowMove :: ReactIcon
 
 tiArrowMove :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiArrowMove = element (unsafeCoerce tiArrowMove_)
+tiArrowMove = element (unsafeCoerce _tiArrowMove)
 
-foreign import tiArrowMoveOutline_ :: ReactIcon
+foreign import _tiArrowMoveOutline :: ReactIcon
 
 tiArrowMoveOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiArrowMoveOutline = element (unsafeCoerce tiArrowMoveOutline_)
+tiArrowMoveOutline = element (unsafeCoerce _tiArrowMoveOutline)
 
-foreign import tiArrowRepeat_ :: ReactIcon
+foreign import _tiArrowRepeat :: ReactIcon
 
 tiArrowRepeat :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiArrowRepeat = element (unsafeCoerce tiArrowRepeat_)
+tiArrowRepeat = element (unsafeCoerce _tiArrowRepeat)
 
-foreign import tiArrowRepeatOutline_ :: ReactIcon
+foreign import _tiArrowRepeatOutline :: ReactIcon
 
 tiArrowRepeatOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiArrowRepeatOutline = element (unsafeCoerce tiArrowRepeatOutline_)
+tiArrowRepeatOutline = element (unsafeCoerce _tiArrowRepeatOutline)
 
-foreign import tiArrowRight_ :: ReactIcon
+foreign import _tiArrowRight :: ReactIcon
 
 tiArrowRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiArrowRight = element (unsafeCoerce tiArrowRight_)
+tiArrowRight = element (unsafeCoerce _tiArrowRight)
 
-foreign import tiArrowRightOutline_ :: ReactIcon
+foreign import _tiArrowRightOutline :: ReactIcon
 
 tiArrowRightOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiArrowRightOutline = element (unsafeCoerce tiArrowRightOutline_)
+tiArrowRightOutline = element (unsafeCoerce _tiArrowRightOutline)
 
-foreign import tiArrowRightThick_ :: ReactIcon
+foreign import _tiArrowRightThick :: ReactIcon
 
 tiArrowRightThick :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiArrowRightThick = element (unsafeCoerce tiArrowRightThick_)
+tiArrowRightThick = element (unsafeCoerce _tiArrowRightThick)
 
-foreign import tiArrowShuffle_ :: ReactIcon
+foreign import _tiArrowShuffle :: ReactIcon
 
 tiArrowShuffle :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiArrowShuffle = element (unsafeCoerce tiArrowShuffle_)
+tiArrowShuffle = element (unsafeCoerce _tiArrowShuffle)
 
-foreign import tiArrowSortedDown_ :: ReactIcon
+foreign import _tiArrowSortedDown :: ReactIcon
 
 tiArrowSortedDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiArrowSortedDown = element (unsafeCoerce tiArrowSortedDown_)
+tiArrowSortedDown = element (unsafeCoerce _tiArrowSortedDown)
 
-foreign import tiArrowSortedUp_ :: ReactIcon
+foreign import _tiArrowSortedUp :: ReactIcon
 
 tiArrowSortedUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiArrowSortedUp = element (unsafeCoerce tiArrowSortedUp_)
+tiArrowSortedUp = element (unsafeCoerce _tiArrowSortedUp)
 
-foreign import tiArrowSync_ :: ReactIcon
+foreign import _tiArrowSync :: ReactIcon
 
 tiArrowSync :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiArrowSync = element (unsafeCoerce tiArrowSync_)
+tiArrowSync = element (unsafeCoerce _tiArrowSync)
 
-foreign import tiArrowSyncOutline_ :: ReactIcon
+foreign import _tiArrowSyncOutline :: ReactIcon
 
 tiArrowSyncOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiArrowSyncOutline = element (unsafeCoerce tiArrowSyncOutline_)
+tiArrowSyncOutline = element (unsafeCoerce _tiArrowSyncOutline)
 
-foreign import tiArrowUnsorted_ :: ReactIcon
+foreign import _tiArrowUnsorted :: ReactIcon
 
 tiArrowUnsorted :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiArrowUnsorted = element (unsafeCoerce tiArrowUnsorted_)
+tiArrowUnsorted = element (unsafeCoerce _tiArrowUnsorted)
 
-foreign import tiArrowUp_ :: ReactIcon
+foreign import _tiArrowUp :: ReactIcon
 
 tiArrowUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiArrowUp = element (unsafeCoerce tiArrowUp_)
+tiArrowUp = element (unsafeCoerce _tiArrowUp)
 
-foreign import tiArrowUpOutline_ :: ReactIcon
+foreign import _tiArrowUpOutline :: ReactIcon
 
 tiArrowUpOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiArrowUpOutline = element (unsafeCoerce tiArrowUpOutline_)
+tiArrowUpOutline = element (unsafeCoerce _tiArrowUpOutline)
 
-foreign import tiArrowUpThick_ :: ReactIcon
+foreign import _tiArrowUpThick :: ReactIcon
 
 tiArrowUpThick :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiArrowUpThick = element (unsafeCoerce tiArrowUpThick_)
+tiArrowUpThick = element (unsafeCoerce _tiArrowUpThick)
 
-foreign import tiAt_ :: ReactIcon
+foreign import _tiAt :: ReactIcon
 
 tiAt :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiAt = element (unsafeCoerce tiAt_)
+tiAt = element (unsafeCoerce _tiAt)
 
-foreign import tiAttachment_ :: ReactIcon
+foreign import _tiAttachment :: ReactIcon
 
 tiAttachment :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiAttachment = element (unsafeCoerce tiAttachment_)
+tiAttachment = element (unsafeCoerce _tiAttachment)
 
-foreign import tiAttachmentOutline_ :: ReactIcon
+foreign import _tiAttachmentOutline :: ReactIcon
 
 tiAttachmentOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiAttachmentOutline = element (unsafeCoerce tiAttachmentOutline_)
+tiAttachmentOutline = element (unsafeCoerce _tiAttachmentOutline)
 
-foreign import tiBackspace_ :: ReactIcon
+foreign import _tiBackspace :: ReactIcon
 
 tiBackspace :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiBackspace = element (unsafeCoerce tiBackspace_)
+tiBackspace = element (unsafeCoerce _tiBackspace)
 
-foreign import tiBackspaceOutline_ :: ReactIcon
+foreign import _tiBackspaceOutline :: ReactIcon
 
 tiBackspaceOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiBackspaceOutline = element (unsafeCoerce tiBackspaceOutline_)
+tiBackspaceOutline = element (unsafeCoerce _tiBackspaceOutline)
 
-foreign import tiBatteryCharge_ :: ReactIcon
+foreign import _tiBatteryCharge :: ReactIcon
 
 tiBatteryCharge :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiBatteryCharge = element (unsafeCoerce tiBatteryCharge_)
+tiBatteryCharge = element (unsafeCoerce _tiBatteryCharge)
 
-foreign import tiBatteryFull_ :: ReactIcon
+foreign import _tiBatteryFull :: ReactIcon
 
 tiBatteryFull :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiBatteryFull = element (unsafeCoerce tiBatteryFull_)
+tiBatteryFull = element (unsafeCoerce _tiBatteryFull)
 
-foreign import tiBatteryHigh_ :: ReactIcon
+foreign import _tiBatteryHigh :: ReactIcon
 
 tiBatteryHigh :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiBatteryHigh = element (unsafeCoerce tiBatteryHigh_)
+tiBatteryHigh = element (unsafeCoerce _tiBatteryHigh)
 
-foreign import tiBatteryLow_ :: ReactIcon
+foreign import _tiBatteryLow :: ReactIcon
 
 tiBatteryLow :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiBatteryLow = element (unsafeCoerce tiBatteryLow_)
+tiBatteryLow = element (unsafeCoerce _tiBatteryLow)
 
-foreign import tiBatteryMid_ :: ReactIcon
+foreign import _tiBatteryMid :: ReactIcon
 
 tiBatteryMid :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiBatteryMid = element (unsafeCoerce tiBatteryMid_)
+tiBatteryMid = element (unsafeCoerce _tiBatteryMid)
 
-foreign import tiBeaker_ :: ReactIcon
+foreign import _tiBeaker :: ReactIcon
 
 tiBeaker :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiBeaker = element (unsafeCoerce tiBeaker_)
+tiBeaker = element (unsafeCoerce _tiBeaker)
 
-foreign import tiBeer_ :: ReactIcon
+foreign import _tiBeer :: ReactIcon
 
 tiBeer :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiBeer = element (unsafeCoerce tiBeer_)
+tiBeer = element (unsafeCoerce _tiBeer)
 
-foreign import tiBell_ :: ReactIcon
+foreign import _tiBell :: ReactIcon
 
 tiBell :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiBell = element (unsafeCoerce tiBell_)
+tiBell = element (unsafeCoerce _tiBell)
 
-foreign import tiBook_ :: ReactIcon
+foreign import _tiBook :: ReactIcon
 
 tiBook :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiBook = element (unsafeCoerce tiBook_)
+tiBook = element (unsafeCoerce _tiBook)
 
-foreign import tiBookmark_ :: ReactIcon
+foreign import _tiBookmark :: ReactIcon
 
 tiBookmark :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiBookmark = element (unsafeCoerce tiBookmark_)
+tiBookmark = element (unsafeCoerce _tiBookmark)
 
-foreign import tiBriefcase_ :: ReactIcon
+foreign import _tiBriefcase :: ReactIcon
 
 tiBriefcase :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiBriefcase = element (unsafeCoerce tiBriefcase_)
+tiBriefcase = element (unsafeCoerce _tiBriefcase)
 
-foreign import tiBrush_ :: ReactIcon
+foreign import _tiBrush :: ReactIcon
 
 tiBrush :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiBrush = element (unsafeCoerce tiBrush_)
+tiBrush = element (unsafeCoerce _tiBrush)
 
-foreign import tiBusinessCard_ :: ReactIcon
+foreign import _tiBusinessCard :: ReactIcon
 
 tiBusinessCard :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiBusinessCard = element (unsafeCoerce tiBusinessCard_)
+tiBusinessCard = element (unsafeCoerce _tiBusinessCard)
 
-foreign import tiCalculator_ :: ReactIcon
+foreign import _tiCalculator :: ReactIcon
 
 tiCalculator :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiCalculator = element (unsafeCoerce tiCalculator_)
+tiCalculator = element (unsafeCoerce _tiCalculator)
 
-foreign import tiCalendar_ :: ReactIcon
+foreign import _tiCalendar :: ReactIcon
 
 tiCalendar :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiCalendar = element (unsafeCoerce tiCalendar_)
+tiCalendar = element (unsafeCoerce _tiCalendar)
 
-foreign import tiCalendarOutline_ :: ReactIcon
+foreign import _tiCalendarOutline :: ReactIcon
 
 tiCalendarOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiCalendarOutline = element (unsafeCoerce tiCalendarOutline_)
+tiCalendarOutline = element (unsafeCoerce _tiCalendarOutline)
 
-foreign import tiCamera_ :: ReactIcon
+foreign import _tiCamera :: ReactIcon
 
 tiCamera :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiCamera = element (unsafeCoerce tiCamera_)
+tiCamera = element (unsafeCoerce _tiCamera)
 
-foreign import tiCameraOutline_ :: ReactIcon
+foreign import _tiCameraOutline :: ReactIcon
 
 tiCameraOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiCameraOutline = element (unsafeCoerce tiCameraOutline_)
+tiCameraOutline = element (unsafeCoerce _tiCameraOutline)
 
-foreign import tiCancel_ :: ReactIcon
+foreign import _tiCancel :: ReactIcon
 
 tiCancel :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiCancel = element (unsafeCoerce tiCancel_)
+tiCancel = element (unsafeCoerce _tiCancel)
 
-foreign import tiCancelOutline_ :: ReactIcon
+foreign import _tiCancelOutline :: ReactIcon
 
 tiCancelOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiCancelOutline = element (unsafeCoerce tiCancelOutline_)
+tiCancelOutline = element (unsafeCoerce _tiCancelOutline)
 
-foreign import tiChartArea_ :: ReactIcon
+foreign import _tiChartArea :: ReactIcon
 
 tiChartArea :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiChartArea = element (unsafeCoerce tiChartArea_)
+tiChartArea = element (unsafeCoerce _tiChartArea)
 
-foreign import tiChartAreaOutline_ :: ReactIcon
+foreign import _tiChartAreaOutline :: ReactIcon
 
 tiChartAreaOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiChartAreaOutline = element (unsafeCoerce tiChartAreaOutline_)
+tiChartAreaOutline = element (unsafeCoerce _tiChartAreaOutline)
 
-foreign import tiChartBar_ :: ReactIcon
+foreign import _tiChartBar :: ReactIcon
 
 tiChartBar :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiChartBar = element (unsafeCoerce tiChartBar_)
+tiChartBar = element (unsafeCoerce _tiChartBar)
 
-foreign import tiChartBarOutline_ :: ReactIcon
+foreign import _tiChartBarOutline :: ReactIcon
 
 tiChartBarOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiChartBarOutline = element (unsafeCoerce tiChartBarOutline_)
+tiChartBarOutline = element (unsafeCoerce _tiChartBarOutline)
 
-foreign import tiChartLine_ :: ReactIcon
+foreign import _tiChartLine :: ReactIcon
 
 tiChartLine :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiChartLine = element (unsafeCoerce tiChartLine_)
+tiChartLine = element (unsafeCoerce _tiChartLine)
 
-foreign import tiChartLineOutline_ :: ReactIcon
+foreign import _tiChartLineOutline :: ReactIcon
 
 tiChartLineOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiChartLineOutline = element (unsafeCoerce tiChartLineOutline_)
+tiChartLineOutline = element (unsafeCoerce _tiChartLineOutline)
 
-foreign import tiChartPie_ :: ReactIcon
+foreign import _tiChartPie :: ReactIcon
 
 tiChartPie :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiChartPie = element (unsafeCoerce tiChartPie_)
+tiChartPie = element (unsafeCoerce _tiChartPie)
 
-foreign import tiChartPieOutline_ :: ReactIcon
+foreign import _tiChartPieOutline :: ReactIcon
 
 tiChartPieOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiChartPieOutline = element (unsafeCoerce tiChartPieOutline_)
+tiChartPieOutline = element (unsafeCoerce _tiChartPieOutline)
 
-foreign import tiChevronLeft_ :: ReactIcon
+foreign import _tiChevronLeft :: ReactIcon
 
 tiChevronLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiChevronLeft = element (unsafeCoerce tiChevronLeft_)
+tiChevronLeft = element (unsafeCoerce _tiChevronLeft)
 
-foreign import tiChevronLeftOutline_ :: ReactIcon
+foreign import _tiChevronLeftOutline :: ReactIcon
 
 tiChevronLeftOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiChevronLeftOutline = element (unsafeCoerce tiChevronLeftOutline_)
+tiChevronLeftOutline = element (unsafeCoerce _tiChevronLeftOutline)
 
-foreign import tiChevronRight_ :: ReactIcon
+foreign import _tiChevronRight :: ReactIcon
 
 tiChevronRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiChevronRight = element (unsafeCoerce tiChevronRight_)
+tiChevronRight = element (unsafeCoerce _tiChevronRight)
 
-foreign import tiChevronRightOutline_ :: ReactIcon
+foreign import _tiChevronRightOutline :: ReactIcon
 
 tiChevronRightOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiChevronRightOutline = element (unsafeCoerce tiChevronRightOutline_)
+tiChevronRightOutline = element (unsafeCoerce _tiChevronRightOutline)
 
-foreign import tiClipboard_ :: ReactIcon
+foreign import _tiClipboard :: ReactIcon
 
 tiClipboard :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiClipboard = element (unsafeCoerce tiClipboard_)
+tiClipboard = element (unsafeCoerce _tiClipboard)
 
-foreign import tiCloudStorage_ :: ReactIcon
+foreign import _tiCloudStorage :: ReactIcon
 
 tiCloudStorage :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiCloudStorage = element (unsafeCoerce tiCloudStorage_)
+tiCloudStorage = element (unsafeCoerce _tiCloudStorage)
 
-foreign import tiCloudStorageOutline_ :: ReactIcon
+foreign import _tiCloudStorageOutline :: ReactIcon
 
 tiCloudStorageOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiCloudStorageOutline = element (unsafeCoerce tiCloudStorageOutline_)
+tiCloudStorageOutline = element (unsafeCoerce _tiCloudStorageOutline)
 
-foreign import tiCode_ :: ReactIcon
+foreign import _tiCode :: ReactIcon
 
 tiCode :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiCode = element (unsafeCoerce tiCode_)
+tiCode = element (unsafeCoerce _tiCode)
 
-foreign import tiCodeOutline_ :: ReactIcon
+foreign import _tiCodeOutline :: ReactIcon
 
 tiCodeOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiCodeOutline = element (unsafeCoerce tiCodeOutline_)
+tiCodeOutline = element (unsafeCoerce _tiCodeOutline)
 
-foreign import tiCoffee_ :: ReactIcon
+foreign import _tiCoffee :: ReactIcon
 
 tiCoffee :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiCoffee = element (unsafeCoerce tiCoffee_)
+tiCoffee = element (unsafeCoerce _tiCoffee)
 
-foreign import tiCog_ :: ReactIcon
+foreign import _tiCog :: ReactIcon
 
 tiCog :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiCog = element (unsafeCoerce tiCog_)
+tiCog = element (unsafeCoerce _tiCog)
 
-foreign import tiCogOutline_ :: ReactIcon
+foreign import _tiCogOutline :: ReactIcon
 
 tiCogOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiCogOutline = element (unsafeCoerce tiCogOutline_)
+tiCogOutline = element (unsafeCoerce _tiCogOutline)
 
-foreign import tiCompass_ :: ReactIcon
+foreign import _tiCompass :: ReactIcon
 
 tiCompass :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiCompass = element (unsafeCoerce tiCompass_)
+tiCompass = element (unsafeCoerce _tiCompass)
 
-foreign import tiContacts_ :: ReactIcon
+foreign import _tiContacts :: ReactIcon
 
 tiContacts :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiContacts = element (unsafeCoerce tiContacts_)
+tiContacts = element (unsafeCoerce _tiContacts)
 
-foreign import tiCreditCard_ :: ReactIcon
+foreign import _tiCreditCard :: ReactIcon
 
 tiCreditCard :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiCreditCard = element (unsafeCoerce tiCreditCard_)
+tiCreditCard = element (unsafeCoerce _tiCreditCard)
 
-foreign import tiDatabase_ :: ReactIcon
+foreign import _tiDatabase :: ReactIcon
 
 tiDatabase :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiDatabase = element (unsafeCoerce tiDatabase_)
+tiDatabase = element (unsafeCoerce _tiDatabase)
 
-foreign import tiDelete_ :: ReactIcon
+foreign import _tiDelete :: ReactIcon
 
 tiDelete :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiDelete = element (unsafeCoerce tiDelete_)
+tiDelete = element (unsafeCoerce _tiDelete)
 
-foreign import tiDeleteOutline_ :: ReactIcon
+foreign import _tiDeleteOutline :: ReactIcon
 
 tiDeleteOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiDeleteOutline = element (unsafeCoerce tiDeleteOutline_)
+tiDeleteOutline = element (unsafeCoerce _tiDeleteOutline)
 
-foreign import tiDeviceDesktop_ :: ReactIcon
+foreign import _tiDeviceDesktop :: ReactIcon
 
 tiDeviceDesktop :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiDeviceDesktop = element (unsafeCoerce tiDeviceDesktop_)
+tiDeviceDesktop = element (unsafeCoerce _tiDeviceDesktop)
 
-foreign import tiDeviceLaptop_ :: ReactIcon
+foreign import _tiDeviceLaptop :: ReactIcon
 
 tiDeviceLaptop :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiDeviceLaptop = element (unsafeCoerce tiDeviceLaptop_)
+tiDeviceLaptop = element (unsafeCoerce _tiDeviceLaptop)
 
-foreign import tiDevicePhone_ :: ReactIcon
+foreign import _tiDevicePhone :: ReactIcon
 
 tiDevicePhone :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiDevicePhone = element (unsafeCoerce tiDevicePhone_)
+tiDevicePhone = element (unsafeCoerce _tiDevicePhone)
 
-foreign import tiDeviceTablet_ :: ReactIcon
+foreign import _tiDeviceTablet :: ReactIcon
 
 tiDeviceTablet :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiDeviceTablet = element (unsafeCoerce tiDeviceTablet_)
+tiDeviceTablet = element (unsafeCoerce _tiDeviceTablet)
 
-foreign import tiDirections_ :: ReactIcon
+foreign import _tiDirections :: ReactIcon
 
 tiDirections :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiDirections = element (unsafeCoerce tiDirections_)
+tiDirections = element (unsafeCoerce _tiDirections)
 
-foreign import tiDivide_ :: ReactIcon
+foreign import _tiDivide :: ReactIcon
 
 tiDivide :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiDivide = element (unsafeCoerce tiDivide_)
+tiDivide = element (unsafeCoerce _tiDivide)
 
-foreign import tiDivideOutline_ :: ReactIcon
+foreign import _tiDivideOutline :: ReactIcon
 
 tiDivideOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiDivideOutline = element (unsafeCoerce tiDivideOutline_)
+tiDivideOutline = element (unsafeCoerce _tiDivideOutline)
 
-foreign import tiDocument_ :: ReactIcon
+foreign import _tiDocument :: ReactIcon
 
 tiDocument :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiDocument = element (unsafeCoerce tiDocument_)
+tiDocument = element (unsafeCoerce _tiDocument)
 
-foreign import tiDocumentAdd_ :: ReactIcon
+foreign import _tiDocumentAdd :: ReactIcon
 
 tiDocumentAdd :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiDocumentAdd = element (unsafeCoerce tiDocumentAdd_)
+tiDocumentAdd = element (unsafeCoerce _tiDocumentAdd)
 
-foreign import tiDocumentDelete_ :: ReactIcon
+foreign import _tiDocumentDelete :: ReactIcon
 
 tiDocumentDelete :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiDocumentDelete = element (unsafeCoerce tiDocumentDelete_)
+tiDocumentDelete = element (unsafeCoerce _tiDocumentDelete)
 
-foreign import tiDocumentText_ :: ReactIcon
+foreign import _tiDocumentText :: ReactIcon
 
 tiDocumentText :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiDocumentText = element (unsafeCoerce tiDocumentText_)
+tiDocumentText = element (unsafeCoerce _tiDocumentText)
 
-foreign import tiDownload_ :: ReactIcon
+foreign import _tiDownload :: ReactIcon
 
 tiDownload :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiDownload = element (unsafeCoerce tiDownload_)
+tiDownload = element (unsafeCoerce _tiDownload)
 
-foreign import tiDownloadOutline_ :: ReactIcon
+foreign import _tiDownloadOutline :: ReactIcon
 
 tiDownloadOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiDownloadOutline = element (unsafeCoerce tiDownloadOutline_)
+tiDownloadOutline = element (unsafeCoerce _tiDownloadOutline)
 
-foreign import tiDropbox_ :: ReactIcon
+foreign import _tiDropbox :: ReactIcon
 
 tiDropbox :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiDropbox = element (unsafeCoerce tiDropbox_)
+tiDropbox = element (unsafeCoerce _tiDropbox)
 
-foreign import tiEdit_ :: ReactIcon
+foreign import _tiEdit :: ReactIcon
 
 tiEdit :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiEdit = element (unsafeCoerce tiEdit_)
+tiEdit = element (unsafeCoerce _tiEdit)
 
-foreign import tiEject_ :: ReactIcon
+foreign import _tiEject :: ReactIcon
 
 tiEject :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiEject = element (unsafeCoerce tiEject_)
+tiEject = element (unsafeCoerce _tiEject)
 
-foreign import tiEjectOutline_ :: ReactIcon
+foreign import _tiEjectOutline :: ReactIcon
 
 tiEjectOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiEjectOutline = element (unsafeCoerce tiEjectOutline_)
+tiEjectOutline = element (unsafeCoerce _tiEjectOutline)
 
-foreign import tiEquals_ :: ReactIcon
+foreign import _tiEquals :: ReactIcon
 
 tiEquals :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiEquals = element (unsafeCoerce tiEquals_)
+tiEquals = element (unsafeCoerce _tiEquals)
 
-foreign import tiEqualsOutline_ :: ReactIcon
+foreign import _tiEqualsOutline :: ReactIcon
 
 tiEqualsOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiEqualsOutline = element (unsafeCoerce tiEqualsOutline_)
+tiEqualsOutline = element (unsafeCoerce _tiEqualsOutline)
 
-foreign import tiExport_ :: ReactIcon
+foreign import _tiExport :: ReactIcon
 
 tiExport :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiExport = element (unsafeCoerce tiExport_)
+tiExport = element (unsafeCoerce _tiExport)
 
-foreign import tiExportOutline_ :: ReactIcon
+foreign import _tiExportOutline :: ReactIcon
 
 tiExportOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiExportOutline = element (unsafeCoerce tiExportOutline_)
+tiExportOutline = element (unsafeCoerce _tiExportOutline)
 
-foreign import tiEye_ :: ReactIcon
+foreign import _tiEye :: ReactIcon
 
 tiEye :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiEye = element (unsafeCoerce tiEye_)
+tiEye = element (unsafeCoerce _tiEye)
 
-foreign import tiEyeOutline_ :: ReactIcon
+foreign import _tiEyeOutline :: ReactIcon
 
 tiEyeOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiEyeOutline = element (unsafeCoerce tiEyeOutline_)
+tiEyeOutline = element (unsafeCoerce _tiEyeOutline)
 
-foreign import tiFeather_ :: ReactIcon
+foreign import _tiFeather :: ReactIcon
 
 tiFeather :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiFeather = element (unsafeCoerce tiFeather_)
+tiFeather = element (unsafeCoerce _tiFeather)
 
-foreign import tiFilm_ :: ReactIcon
+foreign import _tiFilm :: ReactIcon
 
 tiFilm :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiFilm = element (unsafeCoerce tiFilm_)
+tiFilm = element (unsafeCoerce _tiFilm)
 
-foreign import tiFilter_ :: ReactIcon
+foreign import _tiFilter :: ReactIcon
 
 tiFilter :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiFilter = element (unsafeCoerce tiFilter_)
+tiFilter = element (unsafeCoerce _tiFilter)
 
-foreign import tiFlag_ :: ReactIcon
+foreign import _tiFlag :: ReactIcon
 
 tiFlag :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiFlag = element (unsafeCoerce tiFlag_)
+tiFlag = element (unsafeCoerce _tiFlag)
 
-foreign import tiFlagOutline_ :: ReactIcon
+foreign import _tiFlagOutline :: ReactIcon
 
 tiFlagOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiFlagOutline = element (unsafeCoerce tiFlagOutline_)
+tiFlagOutline = element (unsafeCoerce _tiFlagOutline)
 
-foreign import tiFlash_ :: ReactIcon
+foreign import _tiFlash :: ReactIcon
 
 tiFlash :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiFlash = element (unsafeCoerce tiFlash_)
+tiFlash = element (unsafeCoerce _tiFlash)
 
-foreign import tiFlashOutline_ :: ReactIcon
+foreign import _tiFlashOutline :: ReactIcon
 
 tiFlashOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiFlashOutline = element (unsafeCoerce tiFlashOutline_)
+tiFlashOutline = element (unsafeCoerce _tiFlashOutline)
 
-foreign import tiFlowChildren_ :: ReactIcon
+foreign import _tiFlowChildren :: ReactIcon
 
 tiFlowChildren :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiFlowChildren = element (unsafeCoerce tiFlowChildren_)
+tiFlowChildren = element (unsafeCoerce _tiFlowChildren)
 
-foreign import tiFlowMerge_ :: ReactIcon
+foreign import _tiFlowMerge :: ReactIcon
 
 tiFlowMerge :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiFlowMerge = element (unsafeCoerce tiFlowMerge_)
+tiFlowMerge = element (unsafeCoerce _tiFlowMerge)
 
-foreign import tiFlowParallel_ :: ReactIcon
+foreign import _tiFlowParallel :: ReactIcon
 
 tiFlowParallel :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiFlowParallel = element (unsafeCoerce tiFlowParallel_)
+tiFlowParallel = element (unsafeCoerce _tiFlowParallel)
 
-foreign import tiFlowSwitch_ :: ReactIcon
+foreign import _tiFlowSwitch :: ReactIcon
 
 tiFlowSwitch :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiFlowSwitch = element (unsafeCoerce tiFlowSwitch_)
+tiFlowSwitch = element (unsafeCoerce _tiFlowSwitch)
 
-foreign import tiFolder_ :: ReactIcon
+foreign import _tiFolder :: ReactIcon
 
 tiFolder :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiFolder = element (unsafeCoerce tiFolder_)
+tiFolder = element (unsafeCoerce _tiFolder)
 
-foreign import tiFolderAdd_ :: ReactIcon
+foreign import _tiFolderAdd :: ReactIcon
 
 tiFolderAdd :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiFolderAdd = element (unsafeCoerce tiFolderAdd_)
+tiFolderAdd = element (unsafeCoerce _tiFolderAdd)
 
-foreign import tiFolderDelete_ :: ReactIcon
+foreign import _tiFolderDelete :: ReactIcon
 
 tiFolderDelete :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiFolderDelete = element (unsafeCoerce tiFolderDelete_)
+tiFolderDelete = element (unsafeCoerce _tiFolderDelete)
 
-foreign import tiFolderOpen_ :: ReactIcon
+foreign import _tiFolderOpen :: ReactIcon
 
 tiFolderOpen :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiFolderOpen = element (unsafeCoerce tiFolderOpen_)
+tiFolderOpen = element (unsafeCoerce _tiFolderOpen)
 
-foreign import tiGift_ :: ReactIcon
+foreign import _tiGift :: ReactIcon
 
 tiGift :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiGift = element (unsafeCoerce tiGift_)
+tiGift = element (unsafeCoerce _tiGift)
 
-foreign import tiGlobe_ :: ReactIcon
+foreign import _tiGlobe :: ReactIcon
 
 tiGlobe :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiGlobe = element (unsafeCoerce tiGlobe_)
+tiGlobe = element (unsafeCoerce _tiGlobe)
 
-foreign import tiGlobeOutline_ :: ReactIcon
+foreign import _tiGlobeOutline :: ReactIcon
 
 tiGlobeOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiGlobeOutline = element (unsafeCoerce tiGlobeOutline_)
+tiGlobeOutline = element (unsafeCoerce _tiGlobeOutline)
 
-foreign import tiGroup_ :: ReactIcon
+foreign import _tiGroup :: ReactIcon
 
 tiGroup :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiGroup = element (unsafeCoerce tiGroup_)
+tiGroup = element (unsafeCoerce _tiGroup)
 
-foreign import tiGroupOutline_ :: ReactIcon
+foreign import _tiGroupOutline :: ReactIcon
 
 tiGroupOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiGroupOutline = element (unsafeCoerce tiGroupOutline_)
+tiGroupOutline = element (unsafeCoerce _tiGroupOutline)
 
-foreign import tiHeadphones_ :: ReactIcon
+foreign import _tiHeadphones :: ReactIcon
 
 tiHeadphones :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiHeadphones = element (unsafeCoerce tiHeadphones_)
+tiHeadphones = element (unsafeCoerce _tiHeadphones)
 
-foreign import tiHeart_ :: ReactIcon
+foreign import _tiHeart :: ReactIcon
 
 tiHeart :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiHeart = element (unsafeCoerce tiHeart_)
+tiHeart = element (unsafeCoerce _tiHeart)
 
-foreign import tiHeartFullOutline_ :: ReactIcon
+foreign import _tiHeartFullOutline :: ReactIcon
 
 tiHeartFullOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiHeartFullOutline = element (unsafeCoerce tiHeartFullOutline_)
+tiHeartFullOutline = element (unsafeCoerce _tiHeartFullOutline)
 
-foreign import tiHeartHalfOutline_ :: ReactIcon
+foreign import _tiHeartHalfOutline :: ReactIcon
 
 tiHeartHalfOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiHeartHalfOutline = element (unsafeCoerce tiHeartHalfOutline_)
+tiHeartHalfOutline = element (unsafeCoerce _tiHeartHalfOutline)
 
-foreign import tiHeartOutline_ :: ReactIcon
+foreign import _tiHeartOutline :: ReactIcon
 
 tiHeartOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiHeartOutline = element (unsafeCoerce tiHeartOutline_)
+tiHeartOutline = element (unsafeCoerce _tiHeartOutline)
 
-foreign import tiHome_ :: ReactIcon
+foreign import _tiHome :: ReactIcon
 
 tiHome :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiHome = element (unsafeCoerce tiHome_)
+tiHome = element (unsafeCoerce _tiHome)
 
-foreign import tiHomeOutline_ :: ReactIcon
+foreign import _tiHomeOutline :: ReactIcon
 
 tiHomeOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiHomeOutline = element (unsafeCoerce tiHomeOutline_)
+tiHomeOutline = element (unsafeCoerce _tiHomeOutline)
 
-foreign import tiImage_ :: ReactIcon
+foreign import _tiImage :: ReactIcon
 
 tiImage :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiImage = element (unsafeCoerce tiImage_)
+tiImage = element (unsafeCoerce _tiImage)
 
-foreign import tiImageOutline_ :: ReactIcon
+foreign import _tiImageOutline :: ReactIcon
 
 tiImageOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiImageOutline = element (unsafeCoerce tiImageOutline_)
+tiImageOutline = element (unsafeCoerce _tiImageOutline)
 
-foreign import tiInfinity_ :: ReactIcon
+foreign import _tiInfinity :: ReactIcon
 
 tiInfinity :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiInfinity = element (unsafeCoerce tiInfinity_)
+tiInfinity = element (unsafeCoerce _tiInfinity)
 
-foreign import tiInfinityOutline_ :: ReactIcon
+foreign import _tiInfinityOutline :: ReactIcon
 
 tiInfinityOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiInfinityOutline = element (unsafeCoerce tiInfinityOutline_)
+tiInfinityOutline = element (unsafeCoerce _tiInfinityOutline)
 
-foreign import tiInfo_ :: ReactIcon
+foreign import _tiInfo :: ReactIcon
 
 tiInfo :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiInfo = element (unsafeCoerce tiInfo_)
+tiInfo = element (unsafeCoerce _tiInfo)
 
-foreign import tiInfoLarge_ :: ReactIcon
+foreign import _tiInfoLarge :: ReactIcon
 
 tiInfoLarge :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiInfoLarge = element (unsafeCoerce tiInfoLarge_)
+tiInfoLarge = element (unsafeCoerce _tiInfoLarge)
 
-foreign import tiInfoLargeOutline_ :: ReactIcon
+foreign import _tiInfoLargeOutline :: ReactIcon
 
 tiInfoLargeOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiInfoLargeOutline = element (unsafeCoerce tiInfoLargeOutline_)
+tiInfoLargeOutline = element (unsafeCoerce _tiInfoLargeOutline)
 
-foreign import tiInfoOutline_ :: ReactIcon
+foreign import _tiInfoOutline :: ReactIcon
 
 tiInfoOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiInfoOutline = element (unsafeCoerce tiInfoOutline_)
+tiInfoOutline = element (unsafeCoerce _tiInfoOutline)
 
-foreign import tiInputChecked_ :: ReactIcon
+foreign import _tiInputChecked :: ReactIcon
 
 tiInputChecked :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiInputChecked = element (unsafeCoerce tiInputChecked_)
+tiInputChecked = element (unsafeCoerce _tiInputChecked)
 
-foreign import tiInputCheckedOutline_ :: ReactIcon
+foreign import _tiInputCheckedOutline :: ReactIcon
 
 tiInputCheckedOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiInputCheckedOutline = element (unsafeCoerce tiInputCheckedOutline_)
+tiInputCheckedOutline = element (unsafeCoerce _tiInputCheckedOutline)
 
-foreign import tiKey_ :: ReactIcon
+foreign import _tiKey :: ReactIcon
 
 tiKey :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiKey = element (unsafeCoerce tiKey_)
+tiKey = element (unsafeCoerce _tiKey)
 
-foreign import tiKeyboard_ :: ReactIcon
+foreign import _tiKeyboard :: ReactIcon
 
 tiKeyboard :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiKeyboard = element (unsafeCoerce tiKeyboard_)
+tiKeyboard = element (unsafeCoerce _tiKeyboard)
 
-foreign import tiKeyOutline_ :: ReactIcon
+foreign import _tiKeyOutline :: ReactIcon
 
 tiKeyOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiKeyOutline = element (unsafeCoerce tiKeyOutline_)
+tiKeyOutline = element (unsafeCoerce _tiKeyOutline)
 
-foreign import tiLeaf_ :: ReactIcon
+foreign import _tiLeaf :: ReactIcon
 
 tiLeaf :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiLeaf = element (unsafeCoerce tiLeaf_)
+tiLeaf = element (unsafeCoerce _tiLeaf)
 
-foreign import tiLightbulb_ :: ReactIcon
+foreign import _tiLightbulb :: ReactIcon
 
 tiLightbulb :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiLightbulb = element (unsafeCoerce tiLightbulb_)
+tiLightbulb = element (unsafeCoerce _tiLightbulb)
 
-foreign import tiLink_ :: ReactIcon
+foreign import _tiLink :: ReactIcon
 
 tiLink :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiLink = element (unsafeCoerce tiLink_)
+tiLink = element (unsafeCoerce _tiLink)
 
-foreign import tiLinkOutline_ :: ReactIcon
+foreign import _tiLinkOutline :: ReactIcon
 
 tiLinkOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiLinkOutline = element (unsafeCoerce tiLinkOutline_)
+tiLinkOutline = element (unsafeCoerce _tiLinkOutline)
 
-foreign import tiLocation_ :: ReactIcon
+foreign import _tiLocation :: ReactIcon
 
 tiLocation :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiLocation = element (unsafeCoerce tiLocation_)
+tiLocation = element (unsafeCoerce _tiLocation)
 
-foreign import tiLocationArrow_ :: ReactIcon
+foreign import _tiLocationArrow :: ReactIcon
 
 tiLocationArrow :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiLocationArrow = element (unsafeCoerce tiLocationArrow_)
+tiLocationArrow = element (unsafeCoerce _tiLocationArrow)
 
-foreign import tiLocationArrowOutline_ :: ReactIcon
+foreign import _tiLocationArrowOutline :: ReactIcon
 
 tiLocationArrowOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiLocationArrowOutline = element (unsafeCoerce tiLocationArrowOutline_)
+tiLocationArrowOutline = element (unsafeCoerce _tiLocationArrowOutline)
 
-foreign import tiLocationOutline_ :: ReactIcon
+foreign import _tiLocationOutline :: ReactIcon
 
 tiLocationOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiLocationOutline = element (unsafeCoerce tiLocationOutline_)
+tiLocationOutline = element (unsafeCoerce _tiLocationOutline)
 
-foreign import tiLockClosed_ :: ReactIcon
+foreign import _tiLockClosed :: ReactIcon
 
 tiLockClosed :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiLockClosed = element (unsafeCoerce tiLockClosed_)
+tiLockClosed = element (unsafeCoerce _tiLockClosed)
 
-foreign import tiLockClosedOutline_ :: ReactIcon
+foreign import _tiLockClosedOutline :: ReactIcon
 
 tiLockClosedOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiLockClosedOutline = element (unsafeCoerce tiLockClosedOutline_)
+tiLockClosedOutline = element (unsafeCoerce _tiLockClosedOutline)
 
-foreign import tiLockOpen_ :: ReactIcon
+foreign import _tiLockOpen :: ReactIcon
 
 tiLockOpen :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiLockOpen = element (unsafeCoerce tiLockOpen_)
+tiLockOpen = element (unsafeCoerce _tiLockOpen)
 
-foreign import tiLockOpenOutline_ :: ReactIcon
+foreign import _tiLockOpenOutline :: ReactIcon
 
 tiLockOpenOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiLockOpenOutline = element (unsafeCoerce tiLockOpenOutline_)
+tiLockOpenOutline = element (unsafeCoerce _tiLockOpenOutline)
 
-foreign import tiMail_ :: ReactIcon
+foreign import _tiMail :: ReactIcon
 
 tiMail :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiMail = element (unsafeCoerce tiMail_)
+tiMail = element (unsafeCoerce _tiMail)
 
-foreign import tiMap_ :: ReactIcon
+foreign import _tiMap :: ReactIcon
 
 tiMap :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiMap = element (unsafeCoerce tiMap_)
+tiMap = element (unsafeCoerce _tiMap)
 
-foreign import tiMediaEject_ :: ReactIcon
+foreign import _tiMediaEject :: ReactIcon
 
 tiMediaEject :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiMediaEject = element (unsafeCoerce tiMediaEject_)
+tiMediaEject = element (unsafeCoerce _tiMediaEject)
 
-foreign import tiMediaEjectOutline_ :: ReactIcon
+foreign import _tiMediaEjectOutline :: ReactIcon
 
 tiMediaEjectOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiMediaEjectOutline = element (unsafeCoerce tiMediaEjectOutline_)
+tiMediaEjectOutline = element (unsafeCoerce _tiMediaEjectOutline)
 
-foreign import tiMediaFastForward_ :: ReactIcon
+foreign import _tiMediaFastForward :: ReactIcon
 
 tiMediaFastForward :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiMediaFastForward = element (unsafeCoerce tiMediaFastForward_)
+tiMediaFastForward = element (unsafeCoerce _tiMediaFastForward)
 
-foreign import tiMediaFastForwardOutline_ :: ReactIcon
+foreign import _tiMediaFastForwardOutline :: ReactIcon
 
 tiMediaFastForwardOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiMediaFastForwardOutline = element (unsafeCoerce tiMediaFastForwardOutline_)
+tiMediaFastForwardOutline = element (unsafeCoerce _tiMediaFastForwardOutline)
 
-foreign import tiMediaPause_ :: ReactIcon
+foreign import _tiMediaPause :: ReactIcon
 
 tiMediaPause :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiMediaPause = element (unsafeCoerce tiMediaPause_)
+tiMediaPause = element (unsafeCoerce _tiMediaPause)
 
-foreign import tiMediaPauseOutline_ :: ReactIcon
+foreign import _tiMediaPauseOutline :: ReactIcon
 
 tiMediaPauseOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiMediaPauseOutline = element (unsafeCoerce tiMediaPauseOutline_)
+tiMediaPauseOutline = element (unsafeCoerce _tiMediaPauseOutline)
 
-foreign import tiMediaPlay_ :: ReactIcon
+foreign import _tiMediaPlay :: ReactIcon
 
 tiMediaPlay :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiMediaPlay = element (unsafeCoerce tiMediaPlay_)
+tiMediaPlay = element (unsafeCoerce _tiMediaPlay)
 
-foreign import tiMediaPlayOutline_ :: ReactIcon
+foreign import _tiMediaPlayOutline :: ReactIcon
 
 tiMediaPlayOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiMediaPlayOutline = element (unsafeCoerce tiMediaPlayOutline_)
+tiMediaPlayOutline = element (unsafeCoerce _tiMediaPlayOutline)
 
-foreign import tiMediaPlayReverse_ :: ReactIcon
+foreign import _tiMediaPlayReverse :: ReactIcon
 
 tiMediaPlayReverse :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiMediaPlayReverse = element (unsafeCoerce tiMediaPlayReverse_)
+tiMediaPlayReverse = element (unsafeCoerce _tiMediaPlayReverse)
 
-foreign import tiMediaPlayReverseOutline_ :: ReactIcon
+foreign import _tiMediaPlayReverseOutline :: ReactIcon
 
 tiMediaPlayReverseOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiMediaPlayReverseOutline = element (unsafeCoerce tiMediaPlayReverseOutline_)
+tiMediaPlayReverseOutline = element (unsafeCoerce _tiMediaPlayReverseOutline)
 
-foreign import tiMediaRecord_ :: ReactIcon
+foreign import _tiMediaRecord :: ReactIcon
 
 tiMediaRecord :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiMediaRecord = element (unsafeCoerce tiMediaRecord_)
+tiMediaRecord = element (unsafeCoerce _tiMediaRecord)
 
-foreign import tiMediaRecordOutline_ :: ReactIcon
+foreign import _tiMediaRecordOutline :: ReactIcon
 
 tiMediaRecordOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiMediaRecordOutline = element (unsafeCoerce tiMediaRecordOutline_)
+tiMediaRecordOutline = element (unsafeCoerce _tiMediaRecordOutline)
 
-foreign import tiMediaRewind_ :: ReactIcon
+foreign import _tiMediaRewind :: ReactIcon
 
 tiMediaRewind :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiMediaRewind = element (unsafeCoerce tiMediaRewind_)
+tiMediaRewind = element (unsafeCoerce _tiMediaRewind)
 
-foreign import tiMediaRewindOutline_ :: ReactIcon
+foreign import _tiMediaRewindOutline :: ReactIcon
 
 tiMediaRewindOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiMediaRewindOutline = element (unsafeCoerce tiMediaRewindOutline_)
+tiMediaRewindOutline = element (unsafeCoerce _tiMediaRewindOutline)
 
-foreign import tiMediaStop_ :: ReactIcon
+foreign import _tiMediaStop :: ReactIcon
 
 tiMediaStop :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiMediaStop = element (unsafeCoerce tiMediaStop_)
+tiMediaStop = element (unsafeCoerce _tiMediaStop)
 
-foreign import tiMediaStopOutline_ :: ReactIcon
+foreign import _tiMediaStopOutline :: ReactIcon
 
 tiMediaStopOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiMediaStopOutline = element (unsafeCoerce tiMediaStopOutline_)
+tiMediaStopOutline = element (unsafeCoerce _tiMediaStopOutline)
 
-foreign import tiMessage_ :: ReactIcon
+foreign import _tiMessage :: ReactIcon
 
 tiMessage :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiMessage = element (unsafeCoerce tiMessage_)
+tiMessage = element (unsafeCoerce _tiMessage)
 
-foreign import tiMessages_ :: ReactIcon
+foreign import _tiMessages :: ReactIcon
 
 tiMessages :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiMessages = element (unsafeCoerce tiMessages_)
+tiMessages = element (unsafeCoerce _tiMessages)
 
-foreign import tiMessageTyping_ :: ReactIcon
+foreign import _tiMessageTyping :: ReactIcon
 
 tiMessageTyping :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiMessageTyping = element (unsafeCoerce tiMessageTyping_)
+tiMessageTyping = element (unsafeCoerce _tiMessageTyping)
 
-foreign import tiMicrophone_ :: ReactIcon
+foreign import _tiMicrophone :: ReactIcon
 
 tiMicrophone :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiMicrophone = element (unsafeCoerce tiMicrophone_)
+tiMicrophone = element (unsafeCoerce _tiMicrophone)
 
-foreign import tiMicrophoneOutline_ :: ReactIcon
+foreign import _tiMicrophoneOutline :: ReactIcon
 
 tiMicrophoneOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiMicrophoneOutline = element (unsafeCoerce tiMicrophoneOutline_)
+tiMicrophoneOutline = element (unsafeCoerce _tiMicrophoneOutline)
 
-foreign import tiMinus_ :: ReactIcon
+foreign import _tiMinus :: ReactIcon
 
 tiMinus :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiMinus = element (unsafeCoerce tiMinus_)
+tiMinus = element (unsafeCoerce _tiMinus)
 
-foreign import tiMinusOutline_ :: ReactIcon
+foreign import _tiMinusOutline :: ReactIcon
 
 tiMinusOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiMinusOutline = element (unsafeCoerce tiMinusOutline_)
+tiMinusOutline = element (unsafeCoerce _tiMinusOutline)
 
-foreign import tiMortarBoard_ :: ReactIcon
+foreign import _tiMortarBoard :: ReactIcon
 
 tiMortarBoard :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiMortarBoard = element (unsafeCoerce tiMortarBoard_)
+tiMortarBoard = element (unsafeCoerce _tiMortarBoard)
 
-foreign import tiNews_ :: ReactIcon
+foreign import _tiNews :: ReactIcon
 
 tiNews :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiNews = element (unsafeCoerce tiNews_)
+tiNews = element (unsafeCoerce _tiNews)
 
-foreign import tiNotes_ :: ReactIcon
+foreign import _tiNotes :: ReactIcon
 
 tiNotes :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiNotes = element (unsafeCoerce tiNotes_)
+tiNotes = element (unsafeCoerce _tiNotes)
 
-foreign import tiNotesOutline_ :: ReactIcon
+foreign import _tiNotesOutline :: ReactIcon
 
 tiNotesOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiNotesOutline = element (unsafeCoerce tiNotesOutline_)
+tiNotesOutline = element (unsafeCoerce _tiNotesOutline)
 
-foreign import tiPen_ :: ReactIcon
+foreign import _tiPen :: ReactIcon
 
 tiPen :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiPen = element (unsafeCoerce tiPen_)
+tiPen = element (unsafeCoerce _tiPen)
 
-foreign import tiPencil_ :: ReactIcon
+foreign import _tiPencil :: ReactIcon
 
 tiPencil :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiPencil = element (unsafeCoerce tiPencil_)
+tiPencil = element (unsafeCoerce _tiPencil)
 
-foreign import tiPhone_ :: ReactIcon
+foreign import _tiPhone :: ReactIcon
 
 tiPhone :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiPhone = element (unsafeCoerce tiPhone_)
+tiPhone = element (unsafeCoerce _tiPhone)
 
-foreign import tiPhoneOutline_ :: ReactIcon
+foreign import _tiPhoneOutline :: ReactIcon
 
 tiPhoneOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiPhoneOutline = element (unsafeCoerce tiPhoneOutline_)
+tiPhoneOutline = element (unsafeCoerce _tiPhoneOutline)
 
-foreign import tiPi_ :: ReactIcon
+foreign import _tiPi :: ReactIcon
 
 tiPi :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiPi = element (unsafeCoerce tiPi_)
+tiPi = element (unsafeCoerce _tiPi)
 
-foreign import tiPin_ :: ReactIcon
+foreign import _tiPin :: ReactIcon
 
 tiPin :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiPin = element (unsafeCoerce tiPin_)
+tiPin = element (unsafeCoerce _tiPin)
 
-foreign import tiPinOutline_ :: ReactIcon
+foreign import _tiPinOutline :: ReactIcon
 
 tiPinOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiPinOutline = element (unsafeCoerce tiPinOutline_)
+tiPinOutline = element (unsafeCoerce _tiPinOutline)
 
-foreign import tiPiOutline_ :: ReactIcon
+foreign import _tiPiOutline :: ReactIcon
 
 tiPiOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiPiOutline = element (unsafeCoerce tiPiOutline_)
+tiPiOutline = element (unsafeCoerce _tiPiOutline)
 
-foreign import tiPipette_ :: ReactIcon
+foreign import _tiPipette :: ReactIcon
 
 tiPipette :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiPipette = element (unsafeCoerce tiPipette_)
+tiPipette = element (unsafeCoerce _tiPipette)
 
-foreign import tiPlane_ :: ReactIcon
+foreign import _tiPlane :: ReactIcon
 
 tiPlane :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiPlane = element (unsafeCoerce tiPlane_)
+tiPlane = element (unsafeCoerce _tiPlane)
 
-foreign import tiPlaneOutline_ :: ReactIcon
+foreign import _tiPlaneOutline :: ReactIcon
 
 tiPlaneOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiPlaneOutline = element (unsafeCoerce tiPlaneOutline_)
+tiPlaneOutline = element (unsafeCoerce _tiPlaneOutline)
 
-foreign import tiPlug_ :: ReactIcon
+foreign import _tiPlug :: ReactIcon
 
 tiPlug :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiPlug = element (unsafeCoerce tiPlug_)
+tiPlug = element (unsafeCoerce _tiPlug)
 
-foreign import tiPlus_ :: ReactIcon
+foreign import _tiPlus :: ReactIcon
 
 tiPlus :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiPlus = element (unsafeCoerce tiPlus_)
+tiPlus = element (unsafeCoerce _tiPlus)
 
-foreign import tiPlusOutline_ :: ReactIcon
+foreign import _tiPlusOutline :: ReactIcon
 
 tiPlusOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiPlusOutline = element (unsafeCoerce tiPlusOutline_)
+tiPlusOutline = element (unsafeCoerce _tiPlusOutline)
 
-foreign import tiPointOfInterest_ :: ReactIcon
+foreign import _tiPointOfInterest :: ReactIcon
 
 tiPointOfInterest :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiPointOfInterest = element (unsafeCoerce tiPointOfInterest_)
+tiPointOfInterest = element (unsafeCoerce _tiPointOfInterest)
 
-foreign import tiPointOfInterestOutline_ :: ReactIcon
+foreign import _tiPointOfInterestOutline :: ReactIcon
 
 tiPointOfInterestOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiPointOfInterestOutline = element (unsafeCoerce tiPointOfInterestOutline_)
+tiPointOfInterestOutline = element (unsafeCoerce _tiPointOfInterestOutline)
 
-foreign import tiPower_ :: ReactIcon
+foreign import _tiPower :: ReactIcon
 
 tiPower :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiPower = element (unsafeCoerce tiPower_)
+tiPower = element (unsafeCoerce _tiPower)
 
-foreign import tiPowerOutline_ :: ReactIcon
+foreign import _tiPowerOutline :: ReactIcon
 
 tiPowerOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiPowerOutline = element (unsafeCoerce tiPowerOutline_)
+tiPowerOutline = element (unsafeCoerce _tiPowerOutline)
 
-foreign import tiPrinter_ :: ReactIcon
+foreign import _tiPrinter :: ReactIcon
 
 tiPrinter :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiPrinter = element (unsafeCoerce tiPrinter_)
+tiPrinter = element (unsafeCoerce _tiPrinter)
 
-foreign import tiPuzzle_ :: ReactIcon
+foreign import _tiPuzzle :: ReactIcon
 
 tiPuzzle :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiPuzzle = element (unsafeCoerce tiPuzzle_)
+tiPuzzle = element (unsafeCoerce _tiPuzzle)
 
-foreign import tiPuzzleOutline_ :: ReactIcon
+foreign import _tiPuzzleOutline :: ReactIcon
 
 tiPuzzleOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiPuzzleOutline = element (unsafeCoerce tiPuzzleOutline_)
+tiPuzzleOutline = element (unsafeCoerce _tiPuzzleOutline)
 
-foreign import tiRadar_ :: ReactIcon
+foreign import _tiRadar :: ReactIcon
 
 tiRadar :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiRadar = element (unsafeCoerce tiRadar_)
+tiRadar = element (unsafeCoerce _tiRadar)
 
-foreign import tiRadarOutline_ :: ReactIcon
+foreign import _tiRadarOutline :: ReactIcon
 
 tiRadarOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiRadarOutline = element (unsafeCoerce tiRadarOutline_)
+tiRadarOutline = element (unsafeCoerce _tiRadarOutline)
 
-foreign import tiRefresh_ :: ReactIcon
+foreign import _tiRefresh :: ReactIcon
 
 tiRefresh :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiRefresh = element (unsafeCoerce tiRefresh_)
+tiRefresh = element (unsafeCoerce _tiRefresh)
 
-foreign import tiRefreshOutline_ :: ReactIcon
+foreign import _tiRefreshOutline :: ReactIcon
 
 tiRefreshOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiRefreshOutline = element (unsafeCoerce tiRefreshOutline_)
+tiRefreshOutline = element (unsafeCoerce _tiRefreshOutline)
 
-foreign import tiRss_ :: ReactIcon
+foreign import _tiRss :: ReactIcon
 
 tiRss :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiRss = element (unsafeCoerce tiRss_)
+tiRss = element (unsafeCoerce _tiRss)
 
-foreign import tiRssOutline_ :: ReactIcon
+foreign import _tiRssOutline :: ReactIcon
 
 tiRssOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiRssOutline = element (unsafeCoerce tiRssOutline_)
+tiRssOutline = element (unsafeCoerce _tiRssOutline)
 
-foreign import tiScissors_ :: ReactIcon
+foreign import _tiScissors :: ReactIcon
 
 tiScissors :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiScissors = element (unsafeCoerce tiScissors_)
+tiScissors = element (unsafeCoerce _tiScissors)
 
-foreign import tiScissorsOutline_ :: ReactIcon
+foreign import _tiScissorsOutline :: ReactIcon
 
 tiScissorsOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiScissorsOutline = element (unsafeCoerce tiScissorsOutline_)
+tiScissorsOutline = element (unsafeCoerce _tiScissorsOutline)
 
-foreign import tiShoppingBag_ :: ReactIcon
+foreign import _tiShoppingBag :: ReactIcon
 
 tiShoppingBag :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiShoppingBag = element (unsafeCoerce tiShoppingBag_)
+tiShoppingBag = element (unsafeCoerce _tiShoppingBag)
 
-foreign import tiShoppingCart_ :: ReactIcon
+foreign import _tiShoppingCart :: ReactIcon
 
 tiShoppingCart :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiShoppingCart = element (unsafeCoerce tiShoppingCart_)
+tiShoppingCart = element (unsafeCoerce _tiShoppingCart)
 
-foreign import tiSocialAtCircular_ :: ReactIcon
+foreign import _tiSocialAtCircular :: ReactIcon
 
 tiSocialAtCircular :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiSocialAtCircular = element (unsafeCoerce tiSocialAtCircular_)
+tiSocialAtCircular = element (unsafeCoerce _tiSocialAtCircular)
 
-foreign import tiSocialDribbble_ :: ReactIcon
+foreign import _tiSocialDribbble :: ReactIcon
 
 tiSocialDribbble :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiSocialDribbble = element (unsafeCoerce tiSocialDribbble_)
+tiSocialDribbble = element (unsafeCoerce _tiSocialDribbble)
 
-foreign import tiSocialDribbbleCircular_ :: ReactIcon
+foreign import _tiSocialDribbbleCircular :: ReactIcon
 
 tiSocialDribbbleCircular :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiSocialDribbbleCircular = element (unsafeCoerce tiSocialDribbbleCircular_)
+tiSocialDribbbleCircular = element (unsafeCoerce _tiSocialDribbbleCircular)
 
-foreign import tiSocialFacebook_ :: ReactIcon
+foreign import _tiSocialFacebook :: ReactIcon
 
 tiSocialFacebook :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiSocialFacebook = element (unsafeCoerce tiSocialFacebook_)
+tiSocialFacebook = element (unsafeCoerce _tiSocialFacebook)
 
-foreign import tiSocialFacebookCircular_ :: ReactIcon
+foreign import _tiSocialFacebookCircular :: ReactIcon
 
 tiSocialFacebookCircular :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiSocialFacebookCircular = element (unsafeCoerce tiSocialFacebookCircular_)
+tiSocialFacebookCircular = element (unsafeCoerce _tiSocialFacebookCircular)
 
-foreign import tiSocialFlickr_ :: ReactIcon
+foreign import _tiSocialFlickr :: ReactIcon
 
 tiSocialFlickr :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiSocialFlickr = element (unsafeCoerce tiSocialFlickr_)
+tiSocialFlickr = element (unsafeCoerce _tiSocialFlickr)
 
-foreign import tiSocialFlickrCircular_ :: ReactIcon
+foreign import _tiSocialFlickrCircular :: ReactIcon
 
 tiSocialFlickrCircular :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiSocialFlickrCircular = element (unsafeCoerce tiSocialFlickrCircular_)
+tiSocialFlickrCircular = element (unsafeCoerce _tiSocialFlickrCircular)
 
-foreign import tiSocialGithub_ :: ReactIcon
+foreign import _tiSocialGithub :: ReactIcon
 
 tiSocialGithub :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiSocialGithub = element (unsafeCoerce tiSocialGithub_)
+tiSocialGithub = element (unsafeCoerce _tiSocialGithub)
 
-foreign import tiSocialGithubCircular_ :: ReactIcon
+foreign import _tiSocialGithubCircular :: ReactIcon
 
 tiSocialGithubCircular :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiSocialGithubCircular = element (unsafeCoerce tiSocialGithubCircular_)
+tiSocialGithubCircular = element (unsafeCoerce _tiSocialGithubCircular)
 
-foreign import tiSocialGooglePlus_ :: ReactIcon
+foreign import _tiSocialGooglePlus :: ReactIcon
 
 tiSocialGooglePlus :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiSocialGooglePlus = element (unsafeCoerce tiSocialGooglePlus_)
+tiSocialGooglePlus = element (unsafeCoerce _tiSocialGooglePlus)
 
-foreign import tiSocialGooglePlusCircular_ :: ReactIcon
+foreign import _tiSocialGooglePlusCircular :: ReactIcon
 
 tiSocialGooglePlusCircular :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiSocialGooglePlusCircular = element (unsafeCoerce tiSocialGooglePlusCircular_)
+tiSocialGooglePlusCircular = element (unsafeCoerce _tiSocialGooglePlusCircular)
 
-foreign import tiSocialInstagram_ :: ReactIcon
+foreign import _tiSocialInstagram :: ReactIcon
 
 tiSocialInstagram :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiSocialInstagram = element (unsafeCoerce tiSocialInstagram_)
+tiSocialInstagram = element (unsafeCoerce _tiSocialInstagram)
 
-foreign import tiSocialInstagramCircular_ :: ReactIcon
+foreign import _tiSocialInstagramCircular :: ReactIcon
 
 tiSocialInstagramCircular :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiSocialInstagramCircular = element (unsafeCoerce tiSocialInstagramCircular_)
+tiSocialInstagramCircular = element (unsafeCoerce _tiSocialInstagramCircular)
 
-foreign import tiSocialLastFm_ :: ReactIcon
+foreign import _tiSocialLastFm :: ReactIcon
 
 tiSocialLastFm :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiSocialLastFm = element (unsafeCoerce tiSocialLastFm_)
+tiSocialLastFm = element (unsafeCoerce _tiSocialLastFm)
 
-foreign import tiSocialLastFmCircular_ :: ReactIcon
+foreign import _tiSocialLastFmCircular :: ReactIcon
 
 tiSocialLastFmCircular :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiSocialLastFmCircular = element (unsafeCoerce tiSocialLastFmCircular_)
+tiSocialLastFmCircular = element (unsafeCoerce _tiSocialLastFmCircular)
 
-foreign import tiSocialLinkedin_ :: ReactIcon
+foreign import _tiSocialLinkedin :: ReactIcon
 
 tiSocialLinkedin :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiSocialLinkedin = element (unsafeCoerce tiSocialLinkedin_)
+tiSocialLinkedin = element (unsafeCoerce _tiSocialLinkedin)
 
-foreign import tiSocialLinkedinCircular_ :: ReactIcon
+foreign import _tiSocialLinkedinCircular :: ReactIcon
 
 tiSocialLinkedinCircular :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiSocialLinkedinCircular = element (unsafeCoerce tiSocialLinkedinCircular_)
+tiSocialLinkedinCircular = element (unsafeCoerce _tiSocialLinkedinCircular)
 
-foreign import tiSocialPinterest_ :: ReactIcon
+foreign import _tiSocialPinterest :: ReactIcon
 
 tiSocialPinterest :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiSocialPinterest = element (unsafeCoerce tiSocialPinterest_)
+tiSocialPinterest = element (unsafeCoerce _tiSocialPinterest)
 
-foreign import tiSocialPinterestCircular_ :: ReactIcon
+foreign import _tiSocialPinterestCircular :: ReactIcon
 
 tiSocialPinterestCircular :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiSocialPinterestCircular = element (unsafeCoerce tiSocialPinterestCircular_)
+tiSocialPinterestCircular = element (unsafeCoerce _tiSocialPinterestCircular)
 
-foreign import tiSocialSkype_ :: ReactIcon
+foreign import _tiSocialSkype :: ReactIcon
 
 tiSocialSkype :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiSocialSkype = element (unsafeCoerce tiSocialSkype_)
+tiSocialSkype = element (unsafeCoerce _tiSocialSkype)
 
-foreign import tiSocialSkypeOutline_ :: ReactIcon
+foreign import _tiSocialSkypeOutline :: ReactIcon
 
 tiSocialSkypeOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiSocialSkypeOutline = element (unsafeCoerce tiSocialSkypeOutline_)
+tiSocialSkypeOutline = element (unsafeCoerce _tiSocialSkypeOutline)
 
-foreign import tiSocialTumbler_ :: ReactIcon
+foreign import _tiSocialTumbler :: ReactIcon
 
 tiSocialTumbler :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiSocialTumbler = element (unsafeCoerce tiSocialTumbler_)
+tiSocialTumbler = element (unsafeCoerce _tiSocialTumbler)
 
-foreign import tiSocialTumblerCircular_ :: ReactIcon
+foreign import _tiSocialTumblerCircular :: ReactIcon
 
 tiSocialTumblerCircular :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiSocialTumblerCircular = element (unsafeCoerce tiSocialTumblerCircular_)
+tiSocialTumblerCircular = element (unsafeCoerce _tiSocialTumblerCircular)
 
-foreign import tiSocialTwitter_ :: ReactIcon
+foreign import _tiSocialTwitter :: ReactIcon
 
 tiSocialTwitter :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiSocialTwitter = element (unsafeCoerce tiSocialTwitter_)
+tiSocialTwitter = element (unsafeCoerce _tiSocialTwitter)
 
-foreign import tiSocialTwitterCircular_ :: ReactIcon
+foreign import _tiSocialTwitterCircular :: ReactIcon
 
 tiSocialTwitterCircular :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiSocialTwitterCircular = element (unsafeCoerce tiSocialTwitterCircular_)
+tiSocialTwitterCircular = element (unsafeCoerce _tiSocialTwitterCircular)
 
-foreign import tiSocialVimeo_ :: ReactIcon
+foreign import _tiSocialVimeo :: ReactIcon
 
 tiSocialVimeo :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiSocialVimeo = element (unsafeCoerce tiSocialVimeo_)
+tiSocialVimeo = element (unsafeCoerce _tiSocialVimeo)
 
-foreign import tiSocialVimeoCircular_ :: ReactIcon
+foreign import _tiSocialVimeoCircular :: ReactIcon
 
 tiSocialVimeoCircular :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiSocialVimeoCircular = element (unsafeCoerce tiSocialVimeoCircular_)
+tiSocialVimeoCircular = element (unsafeCoerce _tiSocialVimeoCircular)
 
-foreign import tiSocialYoutube_ :: ReactIcon
+foreign import _tiSocialYoutube :: ReactIcon
 
 tiSocialYoutube :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiSocialYoutube = element (unsafeCoerce tiSocialYoutube_)
+tiSocialYoutube = element (unsafeCoerce _tiSocialYoutube)
 
-foreign import tiSocialYoutubeCircular_ :: ReactIcon
+foreign import _tiSocialYoutubeCircular :: ReactIcon
 
 tiSocialYoutubeCircular :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiSocialYoutubeCircular = element (unsafeCoerce tiSocialYoutubeCircular_)
+tiSocialYoutubeCircular = element (unsafeCoerce _tiSocialYoutubeCircular)
 
-foreign import tiSortAlphabetically_ :: ReactIcon
+foreign import _tiSortAlphabetically :: ReactIcon
 
 tiSortAlphabetically :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiSortAlphabetically = element (unsafeCoerce tiSortAlphabetically_)
+tiSortAlphabetically = element (unsafeCoerce _tiSortAlphabetically)
 
-foreign import tiSortAlphabeticallyOutline_ :: ReactIcon
+foreign import _tiSortAlphabeticallyOutline :: ReactIcon
 
 tiSortAlphabeticallyOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiSortAlphabeticallyOutline = element (unsafeCoerce tiSortAlphabeticallyOutline_)
+tiSortAlphabeticallyOutline = element (unsafeCoerce _tiSortAlphabeticallyOutline)
 
-foreign import tiSortNumerically_ :: ReactIcon
+foreign import _tiSortNumerically :: ReactIcon
 
 tiSortNumerically :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiSortNumerically = element (unsafeCoerce tiSortNumerically_)
+tiSortNumerically = element (unsafeCoerce _tiSortNumerically)
 
-foreign import tiSortNumericallyOutline_ :: ReactIcon
+foreign import _tiSortNumericallyOutline :: ReactIcon
 
 tiSortNumericallyOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiSortNumericallyOutline = element (unsafeCoerce tiSortNumericallyOutline_)
+tiSortNumericallyOutline = element (unsafeCoerce _tiSortNumericallyOutline)
 
-foreign import tiSpanner_ :: ReactIcon
+foreign import _tiSpanner :: ReactIcon
 
 tiSpanner :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiSpanner = element (unsafeCoerce tiSpanner_)
+tiSpanner = element (unsafeCoerce _tiSpanner)
 
-foreign import tiSpannerOutline_ :: ReactIcon
+foreign import _tiSpannerOutline :: ReactIcon
 
 tiSpannerOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiSpannerOutline = element (unsafeCoerce tiSpannerOutline_)
+tiSpannerOutline = element (unsafeCoerce _tiSpannerOutline)
 
-foreign import tiSpiral_ :: ReactIcon
+foreign import _tiSpiral :: ReactIcon
 
 tiSpiral :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiSpiral = element (unsafeCoerce tiSpiral_)
+tiSpiral = element (unsafeCoerce _tiSpiral)
 
-foreign import tiStar_ :: ReactIcon
+foreign import _tiStar :: ReactIcon
 
 tiStar :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiStar = element (unsafeCoerce tiStar_)
+tiStar = element (unsafeCoerce _tiStar)
 
-foreign import tiStarburst_ :: ReactIcon
+foreign import _tiStarburst :: ReactIcon
 
 tiStarburst :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiStarburst = element (unsafeCoerce tiStarburst_)
+tiStarburst = element (unsafeCoerce _tiStarburst)
 
-foreign import tiStarburstOutline_ :: ReactIcon
+foreign import _tiStarburstOutline :: ReactIcon
 
 tiStarburstOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiStarburstOutline = element (unsafeCoerce tiStarburstOutline_)
+tiStarburstOutline = element (unsafeCoerce _tiStarburstOutline)
 
-foreign import tiStarFullOutline_ :: ReactIcon
+foreign import _tiStarFullOutline :: ReactIcon
 
 tiStarFullOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiStarFullOutline = element (unsafeCoerce tiStarFullOutline_)
+tiStarFullOutline = element (unsafeCoerce _tiStarFullOutline)
 
-foreign import tiStarHalf_ :: ReactIcon
+foreign import _tiStarHalf :: ReactIcon
 
 tiStarHalf :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiStarHalf = element (unsafeCoerce tiStarHalf_)
+tiStarHalf = element (unsafeCoerce _tiStarHalf)
 
-foreign import tiStarHalfOutline_ :: ReactIcon
+foreign import _tiStarHalfOutline :: ReactIcon
 
 tiStarHalfOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiStarHalfOutline = element (unsafeCoerce tiStarHalfOutline_)
+tiStarHalfOutline = element (unsafeCoerce _tiStarHalfOutline)
 
-foreign import tiStarOutline_ :: ReactIcon
+foreign import _tiStarOutline :: ReactIcon
 
 tiStarOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiStarOutline = element (unsafeCoerce tiStarOutline_)
+tiStarOutline = element (unsafeCoerce _tiStarOutline)
 
-foreign import tiStopwatch_ :: ReactIcon
+foreign import _tiStopwatch :: ReactIcon
 
 tiStopwatch :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiStopwatch = element (unsafeCoerce tiStopwatch_)
+tiStopwatch = element (unsafeCoerce _tiStopwatch)
 
-foreign import tiSupport_ :: ReactIcon
+foreign import _tiSupport :: ReactIcon
 
 tiSupport :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiSupport = element (unsafeCoerce tiSupport_)
+tiSupport = element (unsafeCoerce _tiSupport)
 
-foreign import tiTabsOutline_ :: ReactIcon
+foreign import _tiTabsOutline :: ReactIcon
 
 tiTabsOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiTabsOutline = element (unsafeCoerce tiTabsOutline_)
+tiTabsOutline = element (unsafeCoerce _tiTabsOutline)
 
-foreign import tiTag_ :: ReactIcon
+foreign import _tiTag :: ReactIcon
 
 tiTag :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiTag = element (unsafeCoerce tiTag_)
+tiTag = element (unsafeCoerce _tiTag)
 
-foreign import tiTags_ :: ReactIcon
+foreign import _tiTags :: ReactIcon
 
 tiTags :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiTags = element (unsafeCoerce tiTags_)
+tiTags = element (unsafeCoerce _tiTags)
 
-foreign import tiThermometer_ :: ReactIcon
+foreign import _tiThermometer :: ReactIcon
 
 tiThermometer :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiThermometer = element (unsafeCoerce tiThermometer_)
+tiThermometer = element (unsafeCoerce _tiThermometer)
 
-foreign import tiThLarge_ :: ReactIcon
+foreign import _tiThLarge :: ReactIcon
 
 tiThLarge :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiThLarge = element (unsafeCoerce tiThLarge_)
+tiThLarge = element (unsafeCoerce _tiThLarge)
 
-foreign import tiThLargeOutline_ :: ReactIcon
+foreign import _tiThLargeOutline :: ReactIcon
 
 tiThLargeOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiThLargeOutline = element (unsafeCoerce tiThLargeOutline_)
+tiThLargeOutline = element (unsafeCoerce _tiThLargeOutline)
 
-foreign import tiThList_ :: ReactIcon
+foreign import _tiThList :: ReactIcon
 
 tiThList :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiThList = element (unsafeCoerce tiThList_)
+tiThList = element (unsafeCoerce _tiThList)
 
-foreign import tiThListOutline_ :: ReactIcon
+foreign import _tiThListOutline :: ReactIcon
 
 tiThListOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiThListOutline = element (unsafeCoerce tiThListOutline_)
+tiThListOutline = element (unsafeCoerce _tiThListOutline)
 
-foreign import tiThMenu_ :: ReactIcon
+foreign import _tiThMenu :: ReactIcon
 
 tiThMenu :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiThMenu = element (unsafeCoerce tiThMenu_)
+tiThMenu = element (unsafeCoerce _tiThMenu)
 
-foreign import tiThMenuOutline_ :: ReactIcon
+foreign import _tiThMenuOutline :: ReactIcon
 
 tiThMenuOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiThMenuOutline = element (unsafeCoerce tiThMenuOutline_)
+tiThMenuOutline = element (unsafeCoerce _tiThMenuOutline)
 
-foreign import tiThSmall_ :: ReactIcon
+foreign import _tiThSmall :: ReactIcon
 
 tiThSmall :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiThSmall = element (unsafeCoerce tiThSmall_)
+tiThSmall = element (unsafeCoerce _tiThSmall)
 
-foreign import tiThSmallOutline_ :: ReactIcon
+foreign import _tiThSmallOutline :: ReactIcon
 
 tiThSmallOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiThSmallOutline = element (unsafeCoerce tiThSmallOutline_)
+tiThSmallOutline = element (unsafeCoerce _tiThSmallOutline)
 
-foreign import tiThumbsDown_ :: ReactIcon
+foreign import _tiThumbsDown :: ReactIcon
 
 tiThumbsDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiThumbsDown = element (unsafeCoerce tiThumbsDown_)
+tiThumbsDown = element (unsafeCoerce _tiThumbsDown)
 
-foreign import tiThumbsOk_ :: ReactIcon
+foreign import _tiThumbsOk :: ReactIcon
 
 tiThumbsOk :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiThumbsOk = element (unsafeCoerce tiThumbsOk_)
+tiThumbsOk = element (unsafeCoerce _tiThumbsOk)
 
-foreign import tiThumbsUp_ :: ReactIcon
+foreign import _tiThumbsUp :: ReactIcon
 
 tiThumbsUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiThumbsUp = element (unsafeCoerce tiThumbsUp_)
+tiThumbsUp = element (unsafeCoerce _tiThumbsUp)
 
-foreign import tiTick_ :: ReactIcon
+foreign import _tiTick :: ReactIcon
 
 tiTick :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiTick = element (unsafeCoerce tiTick_)
+tiTick = element (unsafeCoerce _tiTick)
 
-foreign import tiTicket_ :: ReactIcon
+foreign import _tiTicket :: ReactIcon
 
 tiTicket :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiTicket = element (unsafeCoerce tiTicket_)
+tiTicket = element (unsafeCoerce _tiTicket)
 
-foreign import tiTickOutline_ :: ReactIcon
+foreign import _tiTickOutline :: ReactIcon
 
 tiTickOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiTickOutline = element (unsafeCoerce tiTickOutline_)
+tiTickOutline = element (unsafeCoerce _tiTickOutline)
 
-foreign import tiTime_ :: ReactIcon
+foreign import _tiTime :: ReactIcon
 
 tiTime :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiTime = element (unsafeCoerce tiTime_)
+tiTime = element (unsafeCoerce _tiTime)
 
-foreign import tiTimes_ :: ReactIcon
+foreign import _tiTimes :: ReactIcon
 
 tiTimes :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiTimes = element (unsafeCoerce tiTimes_)
+tiTimes = element (unsafeCoerce _tiTimes)
 
-foreign import tiTimesOutline_ :: ReactIcon
+foreign import _tiTimesOutline :: ReactIcon
 
 tiTimesOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiTimesOutline = element (unsafeCoerce tiTimesOutline_)
+tiTimesOutline = element (unsafeCoerce _tiTimesOutline)
 
-foreign import tiTrash_ :: ReactIcon
+foreign import _tiTrash :: ReactIcon
 
 tiTrash :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiTrash = element (unsafeCoerce tiTrash_)
+tiTrash = element (unsafeCoerce _tiTrash)
 
-foreign import tiTree_ :: ReactIcon
+foreign import _tiTree :: ReactIcon
 
 tiTree :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiTree = element (unsafeCoerce tiTree_)
+tiTree = element (unsafeCoerce _tiTree)
 
-foreign import tiUpload_ :: ReactIcon
+foreign import _tiUpload :: ReactIcon
 
 tiUpload :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiUpload = element (unsafeCoerce tiUpload_)
+tiUpload = element (unsafeCoerce _tiUpload)
 
-foreign import tiUploadOutline_ :: ReactIcon
+foreign import _tiUploadOutline :: ReactIcon
 
 tiUploadOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiUploadOutline = element (unsafeCoerce tiUploadOutline_)
+tiUploadOutline = element (unsafeCoerce _tiUploadOutline)
 
-foreign import tiUser_ :: ReactIcon
+foreign import _tiUser :: ReactIcon
 
 tiUser :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiUser = element (unsafeCoerce tiUser_)
+tiUser = element (unsafeCoerce _tiUser)
 
-foreign import tiUserAdd_ :: ReactIcon
+foreign import _tiUserAdd :: ReactIcon
 
 tiUserAdd :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiUserAdd = element (unsafeCoerce tiUserAdd_)
+tiUserAdd = element (unsafeCoerce _tiUserAdd)
 
-foreign import tiUserAddOutline_ :: ReactIcon
+foreign import _tiUserAddOutline :: ReactIcon
 
 tiUserAddOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiUserAddOutline = element (unsafeCoerce tiUserAddOutline_)
+tiUserAddOutline = element (unsafeCoerce _tiUserAddOutline)
 
-foreign import tiUserDelete_ :: ReactIcon
+foreign import _tiUserDelete :: ReactIcon
 
 tiUserDelete :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiUserDelete = element (unsafeCoerce tiUserDelete_)
+tiUserDelete = element (unsafeCoerce _tiUserDelete)
 
-foreign import tiUserDeleteOutline_ :: ReactIcon
+foreign import _tiUserDeleteOutline :: ReactIcon
 
 tiUserDeleteOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiUserDeleteOutline = element (unsafeCoerce tiUserDeleteOutline_)
+tiUserDeleteOutline = element (unsafeCoerce _tiUserDeleteOutline)
 
-foreign import tiUserOutline_ :: ReactIcon
+foreign import _tiUserOutline :: ReactIcon
 
 tiUserOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiUserOutline = element (unsafeCoerce tiUserOutline_)
+tiUserOutline = element (unsafeCoerce _tiUserOutline)
 
-foreign import tiVendorAndroid_ :: ReactIcon
+foreign import _tiVendorAndroid :: ReactIcon
 
 tiVendorAndroid :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiVendorAndroid = element (unsafeCoerce tiVendorAndroid_)
+tiVendorAndroid = element (unsafeCoerce _tiVendorAndroid)
 
-foreign import tiVendorApple_ :: ReactIcon
+foreign import _tiVendorApple :: ReactIcon
 
 tiVendorApple :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiVendorApple = element (unsafeCoerce tiVendorApple_)
+tiVendorApple = element (unsafeCoerce _tiVendorApple)
 
-foreign import tiVendorMicrosoft_ :: ReactIcon
+foreign import _tiVendorMicrosoft :: ReactIcon
 
 tiVendorMicrosoft :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiVendorMicrosoft = element (unsafeCoerce tiVendorMicrosoft_)
+tiVendorMicrosoft = element (unsafeCoerce _tiVendorMicrosoft)
 
-foreign import tiVideo_ :: ReactIcon
+foreign import _tiVideo :: ReactIcon
 
 tiVideo :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiVideo = element (unsafeCoerce tiVideo_)
+tiVideo = element (unsafeCoerce _tiVideo)
 
-foreign import tiVideoOutline_ :: ReactIcon
+foreign import _tiVideoOutline :: ReactIcon
 
 tiVideoOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiVideoOutline = element (unsafeCoerce tiVideoOutline_)
+tiVideoOutline = element (unsafeCoerce _tiVideoOutline)
 
-foreign import tiVolume_ :: ReactIcon
+foreign import _tiVolume :: ReactIcon
 
 tiVolume :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiVolume = element (unsafeCoerce tiVolume_)
+tiVolume = element (unsafeCoerce _tiVolume)
 
-foreign import tiVolumeDown_ :: ReactIcon
+foreign import _tiVolumeDown :: ReactIcon
 
 tiVolumeDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiVolumeDown = element (unsafeCoerce tiVolumeDown_)
+tiVolumeDown = element (unsafeCoerce _tiVolumeDown)
 
-foreign import tiVolumeMute_ :: ReactIcon
+foreign import _tiVolumeMute :: ReactIcon
 
 tiVolumeMute :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiVolumeMute = element (unsafeCoerce tiVolumeMute_)
+tiVolumeMute = element (unsafeCoerce _tiVolumeMute)
 
-foreign import tiVolumeUp_ :: ReactIcon
+foreign import _tiVolumeUp :: ReactIcon
 
 tiVolumeUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiVolumeUp = element (unsafeCoerce tiVolumeUp_)
+tiVolumeUp = element (unsafeCoerce _tiVolumeUp)
 
-foreign import tiWarning_ :: ReactIcon
+foreign import _tiWarning :: ReactIcon
 
 tiWarning :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiWarning = element (unsafeCoerce tiWarning_)
+tiWarning = element (unsafeCoerce _tiWarning)
 
-foreign import tiWarningOutline_ :: ReactIcon
+foreign import _tiWarningOutline :: ReactIcon
 
 tiWarningOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiWarningOutline = element (unsafeCoerce tiWarningOutline_)
+tiWarningOutline = element (unsafeCoerce _tiWarningOutline)
 
-foreign import tiWatch_ :: ReactIcon
+foreign import _tiWatch :: ReactIcon
 
 tiWatch :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiWatch = element (unsafeCoerce tiWatch_)
+tiWatch = element (unsafeCoerce _tiWatch)
 
-foreign import tiWaves_ :: ReactIcon
+foreign import _tiWaves :: ReactIcon
 
 tiWaves :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiWaves = element (unsafeCoerce tiWaves_)
+tiWaves = element (unsafeCoerce _tiWaves)
 
-foreign import tiWavesOutline_ :: ReactIcon
+foreign import _tiWavesOutline :: ReactIcon
 
 tiWavesOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiWavesOutline = element (unsafeCoerce tiWavesOutline_)
+tiWavesOutline = element (unsafeCoerce _tiWavesOutline)
 
-foreign import tiWeatherCloudy_ :: ReactIcon
+foreign import _tiWeatherCloudy :: ReactIcon
 
 tiWeatherCloudy :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiWeatherCloudy = element (unsafeCoerce tiWeatherCloudy_)
+tiWeatherCloudy = element (unsafeCoerce _tiWeatherCloudy)
 
-foreign import tiWeatherDownpour_ :: ReactIcon
+foreign import _tiWeatherDownpour :: ReactIcon
 
 tiWeatherDownpour :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiWeatherDownpour = element (unsafeCoerce tiWeatherDownpour_)
+tiWeatherDownpour = element (unsafeCoerce _tiWeatherDownpour)
 
-foreign import tiWeatherNight_ :: ReactIcon
+foreign import _tiWeatherNight :: ReactIcon
 
 tiWeatherNight :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiWeatherNight = element (unsafeCoerce tiWeatherNight_)
+tiWeatherNight = element (unsafeCoerce _tiWeatherNight)
 
-foreign import tiWeatherPartlySunny_ :: ReactIcon
+foreign import _tiWeatherPartlySunny :: ReactIcon
 
 tiWeatherPartlySunny :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiWeatherPartlySunny = element (unsafeCoerce tiWeatherPartlySunny_)
+tiWeatherPartlySunny = element (unsafeCoerce _tiWeatherPartlySunny)
 
-foreign import tiWeatherShower_ :: ReactIcon
+foreign import _tiWeatherShower :: ReactIcon
 
 tiWeatherShower :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiWeatherShower = element (unsafeCoerce tiWeatherShower_)
+tiWeatherShower = element (unsafeCoerce _tiWeatherShower)
 
-foreign import tiWeatherSnow_ :: ReactIcon
+foreign import _tiWeatherSnow :: ReactIcon
 
 tiWeatherSnow :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiWeatherSnow = element (unsafeCoerce tiWeatherSnow_)
+tiWeatherSnow = element (unsafeCoerce _tiWeatherSnow)
 
-foreign import tiWeatherStormy_ :: ReactIcon
+foreign import _tiWeatherStormy :: ReactIcon
 
 tiWeatherStormy :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiWeatherStormy = element (unsafeCoerce tiWeatherStormy_)
+tiWeatherStormy = element (unsafeCoerce _tiWeatherStormy)
 
-foreign import tiWeatherSunny_ :: ReactIcon
+foreign import _tiWeatherSunny :: ReactIcon
 
 tiWeatherSunny :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiWeatherSunny = element (unsafeCoerce tiWeatherSunny_)
+tiWeatherSunny = element (unsafeCoerce _tiWeatherSunny)
 
-foreign import tiWeatherWindy_ :: ReactIcon
+foreign import _tiWeatherWindy :: ReactIcon
 
 tiWeatherWindy :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiWeatherWindy = element (unsafeCoerce tiWeatherWindy_)
+tiWeatherWindy = element (unsafeCoerce _tiWeatherWindy)
 
-foreign import tiWeatherWindyCloudy_ :: ReactIcon
+foreign import _tiWeatherWindyCloudy :: ReactIcon
 
 tiWeatherWindyCloudy :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiWeatherWindyCloudy = element (unsafeCoerce tiWeatherWindyCloudy_)
+tiWeatherWindyCloudy = element (unsafeCoerce _tiWeatherWindyCloudy)
 
-foreign import tiWiFi_ :: ReactIcon
+foreign import _tiWiFi :: ReactIcon
 
 tiWiFi :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiWiFi = element (unsafeCoerce tiWiFi_)
+tiWiFi = element (unsafeCoerce _tiWiFi)
 
-foreign import tiWiFiOutline_ :: ReactIcon
+foreign import _tiWiFiOutline :: ReactIcon
 
 tiWiFiOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiWiFiOutline = element (unsafeCoerce tiWiFiOutline_)
+tiWiFiOutline = element (unsafeCoerce _tiWiFiOutline)
 
-foreign import tiWine_ :: ReactIcon
+foreign import _tiWine :: ReactIcon
 
 tiWine :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiWine = element (unsafeCoerce tiWine_)
+tiWine = element (unsafeCoerce _tiWine)
 
-foreign import tiWorld_ :: ReactIcon
+foreign import _tiWorld :: ReactIcon
 
 tiWorld :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiWorld = element (unsafeCoerce tiWorld_)
+tiWorld = element (unsafeCoerce _tiWorld)
 
-foreign import tiWorldOutline_ :: ReactIcon
+foreign import _tiWorldOutline :: ReactIcon
 
 tiWorldOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiWorldOutline = element (unsafeCoerce tiWorldOutline_)
+tiWorldOutline = element (unsafeCoerce _tiWorldOutline)
 
-foreign import tiZoom_ :: ReactIcon
+foreign import _tiZoom :: ReactIcon
 
 tiZoom :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiZoom = element (unsafeCoerce tiZoom_)
+tiZoom = element (unsafeCoerce _tiZoom)
 
-foreign import tiZoomIn_ :: ReactIcon
+foreign import _tiZoomIn :: ReactIcon
 
 tiZoomIn :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiZoomIn = element (unsafeCoerce tiZoomIn_)
+tiZoomIn = element (unsafeCoerce _tiZoomIn)
 
-foreign import tiZoomInOutline_ :: ReactIcon
+foreign import _tiZoomInOutline :: ReactIcon
 
 tiZoomInOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiZoomInOutline = element (unsafeCoerce tiZoomInOutline_)
+tiZoomInOutline = element (unsafeCoerce _tiZoomInOutline)
 
-foreign import tiZoomOut_ :: ReactIcon
+foreign import _tiZoomOut :: ReactIcon
 
 tiZoomOut :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiZoomOut = element (unsafeCoerce tiZoomOut_)
+tiZoomOut = element (unsafeCoerce _tiZoomOut)
 
-foreign import tiZoomOutline_ :: ReactIcon
+foreign import _tiZoomOutline :: ReactIcon
 
 tiZoomOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiZoomOutline = element (unsafeCoerce tiZoomOutline_)
+tiZoomOutline = element (unsafeCoerce _tiZoomOutline)
 
-foreign import tiZoomOutOutline_ :: ReactIcon
+foreign import _tiZoomOutOutline :: ReactIcon
 
 tiZoomOutOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-tiZoomOutOutline = element (unsafeCoerce tiZoomOutOutline_)
+tiZoomOutOutline = element (unsafeCoerce _tiZoomOutOutline)

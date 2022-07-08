@@ -9,2252 +9,2252 @@ import React.Basic (JSX, element)
 import React.Icons.Types (ReactIcon, PropsIcon)
 import Unsafe.Coerce (unsafeCoerce)
 
-foreign import hiAcademicCap_ :: ReactIcon
+foreign import _hiAcademicCap :: ReactIcon
 
 hiAcademicCap :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiAcademicCap = element (unsafeCoerce hiAcademicCap_)
+hiAcademicCap = element (unsafeCoerce _hiAcademicCap)
 
-foreign import hiAdjustments_ :: ReactIcon
+foreign import _hiAdjustments :: ReactIcon
 
 hiAdjustments :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiAdjustments = element (unsafeCoerce hiAdjustments_)
+hiAdjustments = element (unsafeCoerce _hiAdjustments)
 
-foreign import hiAnnotation_ :: ReactIcon
+foreign import _hiAnnotation :: ReactIcon
 
 hiAnnotation :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiAnnotation = element (unsafeCoerce hiAnnotation_)
+hiAnnotation = element (unsafeCoerce _hiAnnotation)
 
-foreign import hiArchive_ :: ReactIcon
+foreign import _hiArchive :: ReactIcon
 
 hiArchive :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiArchive = element (unsafeCoerce hiArchive_)
+hiArchive = element (unsafeCoerce _hiArchive)
 
-foreign import hiArrowCircleDown_ :: ReactIcon
+foreign import _hiArrowCircleDown :: ReactIcon
 
 hiArrowCircleDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiArrowCircleDown = element (unsafeCoerce hiArrowCircleDown_)
+hiArrowCircleDown = element (unsafeCoerce _hiArrowCircleDown)
 
-foreign import hiArrowCircleLeft_ :: ReactIcon
+foreign import _hiArrowCircleLeft :: ReactIcon
 
 hiArrowCircleLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiArrowCircleLeft = element (unsafeCoerce hiArrowCircleLeft_)
+hiArrowCircleLeft = element (unsafeCoerce _hiArrowCircleLeft)
 
-foreign import hiArrowCircleRight_ :: ReactIcon
+foreign import _hiArrowCircleRight :: ReactIcon
 
 hiArrowCircleRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiArrowCircleRight = element (unsafeCoerce hiArrowCircleRight_)
+hiArrowCircleRight = element (unsafeCoerce _hiArrowCircleRight)
 
-foreign import hiArrowCircleUp_ :: ReactIcon
+foreign import _hiArrowCircleUp :: ReactIcon
 
 hiArrowCircleUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiArrowCircleUp = element (unsafeCoerce hiArrowCircleUp_)
+hiArrowCircleUp = element (unsafeCoerce _hiArrowCircleUp)
 
-foreign import hiArrowDown_ :: ReactIcon
+foreign import _hiArrowDown :: ReactIcon
 
 hiArrowDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiArrowDown = element (unsafeCoerce hiArrowDown_)
+hiArrowDown = element (unsafeCoerce _hiArrowDown)
 
-foreign import hiArrowLeft_ :: ReactIcon
+foreign import _hiArrowLeft :: ReactIcon
 
 hiArrowLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiArrowLeft = element (unsafeCoerce hiArrowLeft_)
+hiArrowLeft = element (unsafeCoerce _hiArrowLeft)
 
-foreign import hiArrowNarrowDown_ :: ReactIcon
+foreign import _hiArrowNarrowDown :: ReactIcon
 
 hiArrowNarrowDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiArrowNarrowDown = element (unsafeCoerce hiArrowNarrowDown_)
+hiArrowNarrowDown = element (unsafeCoerce _hiArrowNarrowDown)
 
-foreign import hiArrowNarrowLeft_ :: ReactIcon
+foreign import _hiArrowNarrowLeft :: ReactIcon
 
 hiArrowNarrowLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiArrowNarrowLeft = element (unsafeCoerce hiArrowNarrowLeft_)
+hiArrowNarrowLeft = element (unsafeCoerce _hiArrowNarrowLeft)
 
-foreign import hiArrowNarrowRight_ :: ReactIcon
+foreign import _hiArrowNarrowRight :: ReactIcon
 
 hiArrowNarrowRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiArrowNarrowRight = element (unsafeCoerce hiArrowNarrowRight_)
+hiArrowNarrowRight = element (unsafeCoerce _hiArrowNarrowRight)
 
-foreign import hiArrowNarrowUp_ :: ReactIcon
+foreign import _hiArrowNarrowUp :: ReactIcon
 
 hiArrowNarrowUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiArrowNarrowUp = element (unsafeCoerce hiArrowNarrowUp_)
+hiArrowNarrowUp = element (unsafeCoerce _hiArrowNarrowUp)
 
-foreign import hiArrowRight_ :: ReactIcon
+foreign import _hiArrowRight :: ReactIcon
 
 hiArrowRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiArrowRight = element (unsafeCoerce hiArrowRight_)
+hiArrowRight = element (unsafeCoerce _hiArrowRight)
 
-foreign import hiArrowsExpand_ :: ReactIcon
+foreign import _hiArrowsExpand :: ReactIcon
 
 hiArrowsExpand :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiArrowsExpand = element (unsafeCoerce hiArrowsExpand_)
+hiArrowsExpand = element (unsafeCoerce _hiArrowsExpand)
 
-foreign import hiArrowSmDown_ :: ReactIcon
+foreign import _hiArrowSmDown :: ReactIcon
 
 hiArrowSmDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiArrowSmDown = element (unsafeCoerce hiArrowSmDown_)
+hiArrowSmDown = element (unsafeCoerce _hiArrowSmDown)
 
-foreign import hiArrowSmLeft_ :: ReactIcon
+foreign import _hiArrowSmLeft :: ReactIcon
 
 hiArrowSmLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiArrowSmLeft = element (unsafeCoerce hiArrowSmLeft_)
+hiArrowSmLeft = element (unsafeCoerce _hiArrowSmLeft)
 
-foreign import hiArrowSmRight_ :: ReactIcon
+foreign import _hiArrowSmRight :: ReactIcon
 
 hiArrowSmRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiArrowSmRight = element (unsafeCoerce hiArrowSmRight_)
+hiArrowSmRight = element (unsafeCoerce _hiArrowSmRight)
 
-foreign import hiArrowSmUp_ :: ReactIcon
+foreign import _hiArrowSmUp :: ReactIcon
 
 hiArrowSmUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiArrowSmUp = element (unsafeCoerce hiArrowSmUp_)
+hiArrowSmUp = element (unsafeCoerce _hiArrowSmUp)
 
-foreign import hiArrowUp_ :: ReactIcon
+foreign import _hiArrowUp :: ReactIcon
 
 hiArrowUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiArrowUp = element (unsafeCoerce hiArrowUp_)
+hiArrowUp = element (unsafeCoerce _hiArrowUp)
 
-foreign import hiAtSymbol_ :: ReactIcon
+foreign import _hiAtSymbol :: ReactIcon
 
 hiAtSymbol :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiAtSymbol = element (unsafeCoerce hiAtSymbol_)
+hiAtSymbol = element (unsafeCoerce _hiAtSymbol)
 
-foreign import hiBackspace_ :: ReactIcon
+foreign import _hiBackspace :: ReactIcon
 
 hiBackspace :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiBackspace = element (unsafeCoerce hiBackspace_)
+hiBackspace = element (unsafeCoerce _hiBackspace)
 
-foreign import hiBadgeCheck_ :: ReactIcon
+foreign import _hiBadgeCheck :: ReactIcon
 
 hiBadgeCheck :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiBadgeCheck = element (unsafeCoerce hiBadgeCheck_)
+hiBadgeCheck = element (unsafeCoerce _hiBadgeCheck)
 
-foreign import hiBan_ :: ReactIcon
+foreign import _hiBan :: ReactIcon
 
 hiBan :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiBan = element (unsafeCoerce hiBan_)
+hiBan = element (unsafeCoerce _hiBan)
 
-foreign import hiBeaker_ :: ReactIcon
+foreign import _hiBeaker :: ReactIcon
 
 hiBeaker :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiBeaker = element (unsafeCoerce hiBeaker_)
+hiBeaker = element (unsafeCoerce _hiBeaker)
 
-foreign import hiBell_ :: ReactIcon
+foreign import _hiBell :: ReactIcon
 
 hiBell :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiBell = element (unsafeCoerce hiBell_)
+hiBell = element (unsafeCoerce _hiBell)
 
-foreign import hiBookmark_ :: ReactIcon
+foreign import _hiBookmark :: ReactIcon
 
 hiBookmark :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiBookmark = element (unsafeCoerce hiBookmark_)
+hiBookmark = element (unsafeCoerce _hiBookmark)
 
-foreign import hiBookmarkAlt_ :: ReactIcon
+foreign import _hiBookmarkAlt :: ReactIcon
 
 hiBookmarkAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiBookmarkAlt = element (unsafeCoerce hiBookmarkAlt_)
+hiBookmarkAlt = element (unsafeCoerce _hiBookmarkAlt)
 
-foreign import hiBookOpen_ :: ReactIcon
+foreign import _hiBookOpen :: ReactIcon
 
 hiBookOpen :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiBookOpen = element (unsafeCoerce hiBookOpen_)
+hiBookOpen = element (unsafeCoerce _hiBookOpen)
 
-foreign import hiBriefcase_ :: ReactIcon
+foreign import _hiBriefcase :: ReactIcon
 
 hiBriefcase :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiBriefcase = element (unsafeCoerce hiBriefcase_)
+hiBriefcase = element (unsafeCoerce _hiBriefcase)
 
-foreign import hiCake_ :: ReactIcon
+foreign import _hiCake :: ReactIcon
 
 hiCake :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiCake = element (unsafeCoerce hiCake_)
+hiCake = element (unsafeCoerce _hiCake)
 
-foreign import hiCalculator_ :: ReactIcon
+foreign import _hiCalculator :: ReactIcon
 
 hiCalculator :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiCalculator = element (unsafeCoerce hiCalculator_)
+hiCalculator = element (unsafeCoerce _hiCalculator)
 
-foreign import hiCalendar_ :: ReactIcon
+foreign import _hiCalendar :: ReactIcon
 
 hiCalendar :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiCalendar = element (unsafeCoerce hiCalendar_)
+hiCalendar = element (unsafeCoerce _hiCalendar)
 
-foreign import hiCamera_ :: ReactIcon
+foreign import _hiCamera :: ReactIcon
 
 hiCamera :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiCamera = element (unsafeCoerce hiCamera_)
+hiCamera = element (unsafeCoerce _hiCamera)
 
-foreign import hiCash_ :: ReactIcon
+foreign import _hiCash :: ReactIcon
 
 hiCash :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiCash = element (unsafeCoerce hiCash_)
+hiCash = element (unsafeCoerce _hiCash)
 
-foreign import hiChartBar_ :: ReactIcon
+foreign import _hiChartBar :: ReactIcon
 
 hiChartBar :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiChartBar = element (unsafeCoerce hiChartBar_)
+hiChartBar = element (unsafeCoerce _hiChartBar)
 
-foreign import hiChartPie_ :: ReactIcon
+foreign import _hiChartPie :: ReactIcon
 
 hiChartPie :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiChartPie = element (unsafeCoerce hiChartPie_)
+hiChartPie = element (unsafeCoerce _hiChartPie)
 
-foreign import hiChartSquareBar_ :: ReactIcon
+foreign import _hiChartSquareBar :: ReactIcon
 
 hiChartSquareBar :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiChartSquareBar = element (unsafeCoerce hiChartSquareBar_)
+hiChartSquareBar = element (unsafeCoerce _hiChartSquareBar)
 
-foreign import hiChat_ :: ReactIcon
+foreign import _hiChat :: ReactIcon
 
 hiChat :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiChat = element (unsafeCoerce hiChat_)
+hiChat = element (unsafeCoerce _hiChat)
 
-foreign import hiChatAlt_ :: ReactIcon
+foreign import _hiChatAlt :: ReactIcon
 
 hiChatAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiChatAlt = element (unsafeCoerce hiChatAlt_)
+hiChatAlt = element (unsafeCoerce _hiChatAlt)
 
-foreign import hiCheck_ :: ReactIcon
+foreign import _hiCheck :: ReactIcon
 
 hiCheck :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiCheck = element (unsafeCoerce hiCheck_)
+hiCheck = element (unsafeCoerce _hiCheck)
 
-foreign import hiCheckCircle_ :: ReactIcon
+foreign import _hiCheckCircle :: ReactIcon
 
 hiCheckCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiCheckCircle = element (unsafeCoerce hiCheckCircle_)
+hiCheckCircle = element (unsafeCoerce _hiCheckCircle)
 
-foreign import hiChevronDoubleDown_ :: ReactIcon
+foreign import _hiChevronDoubleDown :: ReactIcon
 
 hiChevronDoubleDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiChevronDoubleDown = element (unsafeCoerce hiChevronDoubleDown_)
+hiChevronDoubleDown = element (unsafeCoerce _hiChevronDoubleDown)
 
-foreign import hiChevronDoubleLeft_ :: ReactIcon
+foreign import _hiChevronDoubleLeft :: ReactIcon
 
 hiChevronDoubleLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiChevronDoubleLeft = element (unsafeCoerce hiChevronDoubleLeft_)
+hiChevronDoubleLeft = element (unsafeCoerce _hiChevronDoubleLeft)
 
-foreign import hiChevronDoubleRight_ :: ReactIcon
+foreign import _hiChevronDoubleRight :: ReactIcon
 
 hiChevronDoubleRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiChevronDoubleRight = element (unsafeCoerce hiChevronDoubleRight_)
+hiChevronDoubleRight = element (unsafeCoerce _hiChevronDoubleRight)
 
-foreign import hiChevronDoubleUp_ :: ReactIcon
+foreign import _hiChevronDoubleUp :: ReactIcon
 
 hiChevronDoubleUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiChevronDoubleUp = element (unsafeCoerce hiChevronDoubleUp_)
+hiChevronDoubleUp = element (unsafeCoerce _hiChevronDoubleUp)
 
-foreign import hiChevronDown_ :: ReactIcon
+foreign import _hiChevronDown :: ReactIcon
 
 hiChevronDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiChevronDown = element (unsafeCoerce hiChevronDown_)
+hiChevronDown = element (unsafeCoerce _hiChevronDown)
 
-foreign import hiChevronLeft_ :: ReactIcon
+foreign import _hiChevronLeft :: ReactIcon
 
 hiChevronLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiChevronLeft = element (unsafeCoerce hiChevronLeft_)
+hiChevronLeft = element (unsafeCoerce _hiChevronLeft)
 
-foreign import hiChevronRight_ :: ReactIcon
+foreign import _hiChevronRight :: ReactIcon
 
 hiChevronRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiChevronRight = element (unsafeCoerce hiChevronRight_)
+hiChevronRight = element (unsafeCoerce _hiChevronRight)
 
-foreign import hiChevronUp_ :: ReactIcon
+foreign import _hiChevronUp :: ReactIcon
 
 hiChevronUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiChevronUp = element (unsafeCoerce hiChevronUp_)
+hiChevronUp = element (unsafeCoerce _hiChevronUp)
 
-foreign import hiChip_ :: ReactIcon
+foreign import _hiChip :: ReactIcon
 
 hiChip :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiChip = element (unsafeCoerce hiChip_)
+hiChip = element (unsafeCoerce _hiChip)
 
-foreign import hiClipboard_ :: ReactIcon
+foreign import _hiClipboard :: ReactIcon
 
 hiClipboard :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiClipboard = element (unsafeCoerce hiClipboard_)
+hiClipboard = element (unsafeCoerce _hiClipboard)
 
-foreign import hiClipboardCheck_ :: ReactIcon
+foreign import _hiClipboardCheck :: ReactIcon
 
 hiClipboardCheck :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiClipboardCheck = element (unsafeCoerce hiClipboardCheck_)
+hiClipboardCheck = element (unsafeCoerce _hiClipboardCheck)
 
-foreign import hiClipboardCopy_ :: ReactIcon
+foreign import _hiClipboardCopy :: ReactIcon
 
 hiClipboardCopy :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiClipboardCopy = element (unsafeCoerce hiClipboardCopy_)
+hiClipboardCopy = element (unsafeCoerce _hiClipboardCopy)
 
-foreign import hiClipboardList_ :: ReactIcon
+foreign import _hiClipboardList :: ReactIcon
 
 hiClipboardList :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiClipboardList = element (unsafeCoerce hiClipboardList_)
+hiClipboardList = element (unsafeCoerce _hiClipboardList)
 
-foreign import hiClock_ :: ReactIcon
+foreign import _hiClock :: ReactIcon
 
 hiClock :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiClock = element (unsafeCoerce hiClock_)
+hiClock = element (unsafeCoerce _hiClock)
 
-foreign import hiCloud_ :: ReactIcon
+foreign import _hiCloud :: ReactIcon
 
 hiCloud :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiCloud = element (unsafeCoerce hiCloud_)
+hiCloud = element (unsafeCoerce _hiCloud)
 
-foreign import hiCloudDownload_ :: ReactIcon
+foreign import _hiCloudDownload :: ReactIcon
 
 hiCloudDownload :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiCloudDownload = element (unsafeCoerce hiCloudDownload_)
+hiCloudDownload = element (unsafeCoerce _hiCloudDownload)
 
-foreign import hiCloudUpload_ :: ReactIcon
+foreign import _hiCloudUpload :: ReactIcon
 
 hiCloudUpload :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiCloudUpload = element (unsafeCoerce hiCloudUpload_)
+hiCloudUpload = element (unsafeCoerce _hiCloudUpload)
 
-foreign import hiCode_ :: ReactIcon
+foreign import _hiCode :: ReactIcon
 
 hiCode :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiCode = element (unsafeCoerce hiCode_)
+hiCode = element (unsafeCoerce _hiCode)
 
-foreign import hiCog_ :: ReactIcon
+foreign import _hiCog :: ReactIcon
 
 hiCog :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiCog = element (unsafeCoerce hiCog_)
+hiCog = element (unsafeCoerce _hiCog)
 
-foreign import hiCollection_ :: ReactIcon
+foreign import _hiCollection :: ReactIcon
 
 hiCollection :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiCollection = element (unsafeCoerce hiCollection_)
+hiCollection = element (unsafeCoerce _hiCollection)
 
-foreign import hiColorSwatch_ :: ReactIcon
+foreign import _hiColorSwatch :: ReactIcon
 
 hiColorSwatch :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiColorSwatch = element (unsafeCoerce hiColorSwatch_)
+hiColorSwatch = element (unsafeCoerce _hiColorSwatch)
 
-foreign import hiCreditCard_ :: ReactIcon
+foreign import _hiCreditCard :: ReactIcon
 
 hiCreditCard :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiCreditCard = element (unsafeCoerce hiCreditCard_)
+hiCreditCard = element (unsafeCoerce _hiCreditCard)
 
-foreign import hiCube_ :: ReactIcon
+foreign import _hiCube :: ReactIcon
 
 hiCube :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiCube = element (unsafeCoerce hiCube_)
+hiCube = element (unsafeCoerce _hiCube)
 
-foreign import hiCubeTransparent_ :: ReactIcon
+foreign import _hiCubeTransparent :: ReactIcon
 
 hiCubeTransparent :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiCubeTransparent = element (unsafeCoerce hiCubeTransparent_)
+hiCubeTransparent = element (unsafeCoerce _hiCubeTransparent)
 
-foreign import hiCurrencyBangladeshi_ :: ReactIcon
+foreign import _hiCurrencyBangladeshi :: ReactIcon
 
 hiCurrencyBangladeshi :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiCurrencyBangladeshi = element (unsafeCoerce hiCurrencyBangladeshi_)
+hiCurrencyBangladeshi = element (unsafeCoerce _hiCurrencyBangladeshi)
 
-foreign import hiCurrencyDollar_ :: ReactIcon
+foreign import _hiCurrencyDollar :: ReactIcon
 
 hiCurrencyDollar :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiCurrencyDollar = element (unsafeCoerce hiCurrencyDollar_)
+hiCurrencyDollar = element (unsafeCoerce _hiCurrencyDollar)
 
-foreign import hiCurrencyEuro_ :: ReactIcon
+foreign import _hiCurrencyEuro :: ReactIcon
 
 hiCurrencyEuro :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiCurrencyEuro = element (unsafeCoerce hiCurrencyEuro_)
+hiCurrencyEuro = element (unsafeCoerce _hiCurrencyEuro)
 
-foreign import hiCurrencyPound_ :: ReactIcon
+foreign import _hiCurrencyPound :: ReactIcon
 
 hiCurrencyPound :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiCurrencyPound = element (unsafeCoerce hiCurrencyPound_)
+hiCurrencyPound = element (unsafeCoerce _hiCurrencyPound)
 
-foreign import hiCurrencyRupee_ :: ReactIcon
+foreign import _hiCurrencyRupee :: ReactIcon
 
 hiCurrencyRupee :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiCurrencyRupee = element (unsafeCoerce hiCurrencyRupee_)
+hiCurrencyRupee = element (unsafeCoerce _hiCurrencyRupee)
 
-foreign import hiCurrencyYen_ :: ReactIcon
+foreign import _hiCurrencyYen :: ReactIcon
 
 hiCurrencyYen :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiCurrencyYen = element (unsafeCoerce hiCurrencyYen_)
+hiCurrencyYen = element (unsafeCoerce _hiCurrencyYen)
 
-foreign import hiCursorClick_ :: ReactIcon
+foreign import _hiCursorClick :: ReactIcon
 
 hiCursorClick :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiCursorClick = element (unsafeCoerce hiCursorClick_)
+hiCursorClick = element (unsafeCoerce _hiCursorClick)
 
-foreign import hiDatabase_ :: ReactIcon
+foreign import _hiDatabase :: ReactIcon
 
 hiDatabase :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiDatabase = element (unsafeCoerce hiDatabase_)
+hiDatabase = element (unsafeCoerce _hiDatabase)
 
-foreign import hiDesktopComputer_ :: ReactIcon
+foreign import _hiDesktopComputer :: ReactIcon
 
 hiDesktopComputer :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiDesktopComputer = element (unsafeCoerce hiDesktopComputer_)
+hiDesktopComputer = element (unsafeCoerce _hiDesktopComputer)
 
-foreign import hiDeviceMobile_ :: ReactIcon
+foreign import _hiDeviceMobile :: ReactIcon
 
 hiDeviceMobile :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiDeviceMobile = element (unsafeCoerce hiDeviceMobile_)
+hiDeviceMobile = element (unsafeCoerce _hiDeviceMobile)
 
-foreign import hiDeviceTablet_ :: ReactIcon
+foreign import _hiDeviceTablet :: ReactIcon
 
 hiDeviceTablet :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiDeviceTablet = element (unsafeCoerce hiDeviceTablet_)
+hiDeviceTablet = element (unsafeCoerce _hiDeviceTablet)
 
-foreign import hiDocument_ :: ReactIcon
+foreign import _hiDocument :: ReactIcon
 
 hiDocument :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiDocument = element (unsafeCoerce hiDocument_)
+hiDocument = element (unsafeCoerce _hiDocument)
 
-foreign import hiDocumentAdd_ :: ReactIcon
+foreign import _hiDocumentAdd :: ReactIcon
 
 hiDocumentAdd :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiDocumentAdd = element (unsafeCoerce hiDocumentAdd_)
+hiDocumentAdd = element (unsafeCoerce _hiDocumentAdd)
 
-foreign import hiDocumentDownload_ :: ReactIcon
+foreign import _hiDocumentDownload :: ReactIcon
 
 hiDocumentDownload :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiDocumentDownload = element (unsafeCoerce hiDocumentDownload_)
+hiDocumentDownload = element (unsafeCoerce _hiDocumentDownload)
 
-foreign import hiDocumentDuplicate_ :: ReactIcon
+foreign import _hiDocumentDuplicate :: ReactIcon
 
 hiDocumentDuplicate :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiDocumentDuplicate = element (unsafeCoerce hiDocumentDuplicate_)
+hiDocumentDuplicate = element (unsafeCoerce _hiDocumentDuplicate)
 
-foreign import hiDocumentRemove_ :: ReactIcon
+foreign import _hiDocumentRemove :: ReactIcon
 
 hiDocumentRemove :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiDocumentRemove = element (unsafeCoerce hiDocumentRemove_)
+hiDocumentRemove = element (unsafeCoerce _hiDocumentRemove)
 
-foreign import hiDocumentReport_ :: ReactIcon
+foreign import _hiDocumentReport :: ReactIcon
 
 hiDocumentReport :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiDocumentReport = element (unsafeCoerce hiDocumentReport_)
+hiDocumentReport = element (unsafeCoerce _hiDocumentReport)
 
-foreign import hiDocumentSearch_ :: ReactIcon
+foreign import _hiDocumentSearch :: ReactIcon
 
 hiDocumentSearch :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiDocumentSearch = element (unsafeCoerce hiDocumentSearch_)
+hiDocumentSearch = element (unsafeCoerce _hiDocumentSearch)
 
-foreign import hiDocumentText_ :: ReactIcon
+foreign import _hiDocumentText :: ReactIcon
 
 hiDocumentText :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiDocumentText = element (unsafeCoerce hiDocumentText_)
+hiDocumentText = element (unsafeCoerce _hiDocumentText)
 
-foreign import hiDotsCircleHorizontal_ :: ReactIcon
+foreign import _hiDotsCircleHorizontal :: ReactIcon
 
 hiDotsCircleHorizontal :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiDotsCircleHorizontal = element (unsafeCoerce hiDotsCircleHorizontal_)
+hiDotsCircleHorizontal = element (unsafeCoerce _hiDotsCircleHorizontal)
 
-foreign import hiDotsHorizontal_ :: ReactIcon
+foreign import _hiDotsHorizontal :: ReactIcon
 
 hiDotsHorizontal :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiDotsHorizontal = element (unsafeCoerce hiDotsHorizontal_)
+hiDotsHorizontal = element (unsafeCoerce _hiDotsHorizontal)
 
-foreign import hiDotsVertical_ :: ReactIcon
+foreign import _hiDotsVertical :: ReactIcon
 
 hiDotsVertical :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiDotsVertical = element (unsafeCoerce hiDotsVertical_)
+hiDotsVertical = element (unsafeCoerce _hiDotsVertical)
 
-foreign import hiDownload_ :: ReactIcon
+foreign import _hiDownload :: ReactIcon
 
 hiDownload :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiDownload = element (unsafeCoerce hiDownload_)
+hiDownload = element (unsafeCoerce _hiDownload)
 
-foreign import hiDuplicate_ :: ReactIcon
+foreign import _hiDuplicate :: ReactIcon
 
 hiDuplicate :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiDuplicate = element (unsafeCoerce hiDuplicate_)
+hiDuplicate = element (unsafeCoerce _hiDuplicate)
 
-foreign import hiEmojiHappy_ :: ReactIcon
+foreign import _hiEmojiHappy :: ReactIcon
 
 hiEmojiHappy :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiEmojiHappy = element (unsafeCoerce hiEmojiHappy_)
+hiEmojiHappy = element (unsafeCoerce _hiEmojiHappy)
 
-foreign import hiEmojiSad_ :: ReactIcon
+foreign import _hiEmojiSad :: ReactIcon
 
 hiEmojiSad :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiEmojiSad = element (unsafeCoerce hiEmojiSad_)
+hiEmojiSad = element (unsafeCoerce _hiEmojiSad)
 
-foreign import hiExclamation_ :: ReactIcon
+foreign import _hiExclamation :: ReactIcon
 
 hiExclamation :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiExclamation = element (unsafeCoerce hiExclamation_)
+hiExclamation = element (unsafeCoerce _hiExclamation)
 
-foreign import hiExclamationCircle_ :: ReactIcon
+foreign import _hiExclamationCircle :: ReactIcon
 
 hiExclamationCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiExclamationCircle = element (unsafeCoerce hiExclamationCircle_)
+hiExclamationCircle = element (unsafeCoerce _hiExclamationCircle)
 
-foreign import hiExternalLink_ :: ReactIcon
+foreign import _hiExternalLink :: ReactIcon
 
 hiExternalLink :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiExternalLink = element (unsafeCoerce hiExternalLink_)
+hiExternalLink = element (unsafeCoerce _hiExternalLink)
 
-foreign import hiEye_ :: ReactIcon
+foreign import _hiEye :: ReactIcon
 
 hiEye :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiEye = element (unsafeCoerce hiEye_)
+hiEye = element (unsafeCoerce _hiEye)
 
-foreign import hiEyeOff_ :: ReactIcon
+foreign import _hiEyeOff :: ReactIcon
 
 hiEyeOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiEyeOff = element (unsafeCoerce hiEyeOff_)
+hiEyeOff = element (unsafeCoerce _hiEyeOff)
 
-foreign import hiFastForward_ :: ReactIcon
+foreign import _hiFastForward :: ReactIcon
 
 hiFastForward :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiFastForward = element (unsafeCoerce hiFastForward_)
+hiFastForward = element (unsafeCoerce _hiFastForward)
 
-foreign import hiFilm_ :: ReactIcon
+foreign import _hiFilm :: ReactIcon
 
 hiFilm :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiFilm = element (unsafeCoerce hiFilm_)
+hiFilm = element (unsafeCoerce _hiFilm)
 
-foreign import hiFilter_ :: ReactIcon
+foreign import _hiFilter :: ReactIcon
 
 hiFilter :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiFilter = element (unsafeCoerce hiFilter_)
+hiFilter = element (unsafeCoerce _hiFilter)
 
-foreign import hiFingerPrint_ :: ReactIcon
+foreign import _hiFingerPrint :: ReactIcon
 
 hiFingerPrint :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiFingerPrint = element (unsafeCoerce hiFingerPrint_)
+hiFingerPrint = element (unsafeCoerce _hiFingerPrint)
 
-foreign import hiFire_ :: ReactIcon
+foreign import _hiFire :: ReactIcon
 
 hiFire :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiFire = element (unsafeCoerce hiFire_)
+hiFire = element (unsafeCoerce _hiFire)
 
-foreign import hiFlag_ :: ReactIcon
+foreign import _hiFlag :: ReactIcon
 
 hiFlag :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiFlag = element (unsafeCoerce hiFlag_)
+hiFlag = element (unsafeCoerce _hiFlag)
 
-foreign import hiFolder_ :: ReactIcon
+foreign import _hiFolder :: ReactIcon
 
 hiFolder :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiFolder = element (unsafeCoerce hiFolder_)
+hiFolder = element (unsafeCoerce _hiFolder)
 
-foreign import hiFolderAdd_ :: ReactIcon
+foreign import _hiFolderAdd :: ReactIcon
 
 hiFolderAdd :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiFolderAdd = element (unsafeCoerce hiFolderAdd_)
+hiFolderAdd = element (unsafeCoerce _hiFolderAdd)
 
-foreign import hiFolderDownload_ :: ReactIcon
+foreign import _hiFolderDownload :: ReactIcon
 
 hiFolderDownload :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiFolderDownload = element (unsafeCoerce hiFolderDownload_)
+hiFolderDownload = element (unsafeCoerce _hiFolderDownload)
 
-foreign import hiFolderOpen_ :: ReactIcon
+foreign import _hiFolderOpen :: ReactIcon
 
 hiFolderOpen :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiFolderOpen = element (unsafeCoerce hiFolderOpen_)
+hiFolderOpen = element (unsafeCoerce _hiFolderOpen)
 
-foreign import hiFolderRemove_ :: ReactIcon
+foreign import _hiFolderRemove :: ReactIcon
 
 hiFolderRemove :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiFolderRemove = element (unsafeCoerce hiFolderRemove_)
+hiFolderRemove = element (unsafeCoerce _hiFolderRemove)
 
-foreign import hiGift_ :: ReactIcon
+foreign import _hiGift :: ReactIcon
 
 hiGift :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiGift = element (unsafeCoerce hiGift_)
+hiGift = element (unsafeCoerce _hiGift)
 
-foreign import hiGlobe_ :: ReactIcon
+foreign import _hiGlobe :: ReactIcon
 
 hiGlobe :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiGlobe = element (unsafeCoerce hiGlobe_)
+hiGlobe = element (unsafeCoerce _hiGlobe)
 
-foreign import hiGlobeAlt_ :: ReactIcon
+foreign import _hiGlobeAlt :: ReactIcon
 
 hiGlobeAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiGlobeAlt = element (unsafeCoerce hiGlobeAlt_)
+hiGlobeAlt = element (unsafeCoerce _hiGlobeAlt)
 
-foreign import hiHand_ :: ReactIcon
+foreign import _hiHand :: ReactIcon
 
 hiHand :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiHand = element (unsafeCoerce hiHand_)
+hiHand = element (unsafeCoerce _hiHand)
 
-foreign import hiHashtag_ :: ReactIcon
+foreign import _hiHashtag :: ReactIcon
 
 hiHashtag :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiHashtag = element (unsafeCoerce hiHashtag_)
+hiHashtag = element (unsafeCoerce _hiHashtag)
 
-foreign import hiHeart_ :: ReactIcon
+foreign import _hiHeart :: ReactIcon
 
 hiHeart :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiHeart = element (unsafeCoerce hiHeart_)
+hiHeart = element (unsafeCoerce _hiHeart)
 
-foreign import hiHome_ :: ReactIcon
+foreign import _hiHome :: ReactIcon
 
 hiHome :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiHome = element (unsafeCoerce hiHome_)
+hiHome = element (unsafeCoerce _hiHome)
 
-foreign import hiIdentification_ :: ReactIcon
+foreign import _hiIdentification :: ReactIcon
 
 hiIdentification :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiIdentification = element (unsafeCoerce hiIdentification_)
+hiIdentification = element (unsafeCoerce _hiIdentification)
 
-foreign import hiInbox_ :: ReactIcon
+foreign import _hiInbox :: ReactIcon
 
 hiInbox :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiInbox = element (unsafeCoerce hiInbox_)
+hiInbox = element (unsafeCoerce _hiInbox)
 
-foreign import hiInboxIn_ :: ReactIcon
+foreign import _hiInboxIn :: ReactIcon
 
 hiInboxIn :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiInboxIn = element (unsafeCoerce hiInboxIn_)
+hiInboxIn = element (unsafeCoerce _hiInboxIn)
 
-foreign import hiInformationCircle_ :: ReactIcon
+foreign import _hiInformationCircle :: ReactIcon
 
 hiInformationCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiInformationCircle = element (unsafeCoerce hiInformationCircle_)
+hiInformationCircle = element (unsafeCoerce _hiInformationCircle)
 
-foreign import hiKey_ :: ReactIcon
+foreign import _hiKey :: ReactIcon
 
 hiKey :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiKey = element (unsafeCoerce hiKey_)
+hiKey = element (unsafeCoerce _hiKey)
 
-foreign import hiLibrary_ :: ReactIcon
+foreign import _hiLibrary :: ReactIcon
 
 hiLibrary :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiLibrary = element (unsafeCoerce hiLibrary_)
+hiLibrary = element (unsafeCoerce _hiLibrary)
 
-foreign import hiLightBulb_ :: ReactIcon
+foreign import _hiLightBulb :: ReactIcon
 
 hiLightBulb :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiLightBulb = element (unsafeCoerce hiLightBulb_)
+hiLightBulb = element (unsafeCoerce _hiLightBulb)
 
-foreign import hiLightningBolt_ :: ReactIcon
+foreign import _hiLightningBolt :: ReactIcon
 
 hiLightningBolt :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiLightningBolt = element (unsafeCoerce hiLightningBolt_)
+hiLightningBolt = element (unsafeCoerce _hiLightningBolt)
 
-foreign import hiLink_ :: ReactIcon
+foreign import _hiLink :: ReactIcon
 
 hiLink :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiLink = element (unsafeCoerce hiLink_)
+hiLink = element (unsafeCoerce _hiLink)
 
-foreign import hiLocationMarker_ :: ReactIcon
+foreign import _hiLocationMarker :: ReactIcon
 
 hiLocationMarker :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiLocationMarker = element (unsafeCoerce hiLocationMarker_)
+hiLocationMarker = element (unsafeCoerce _hiLocationMarker)
 
-foreign import hiLockClosed_ :: ReactIcon
+foreign import _hiLockClosed :: ReactIcon
 
 hiLockClosed :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiLockClosed = element (unsafeCoerce hiLockClosed_)
+hiLockClosed = element (unsafeCoerce _hiLockClosed)
 
-foreign import hiLockOpen_ :: ReactIcon
+foreign import _hiLockOpen :: ReactIcon
 
 hiLockOpen :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiLockOpen = element (unsafeCoerce hiLockOpen_)
+hiLockOpen = element (unsafeCoerce _hiLockOpen)
 
-foreign import hiLogin_ :: ReactIcon
+foreign import _hiLogin :: ReactIcon
 
 hiLogin :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiLogin = element (unsafeCoerce hiLogin_)
+hiLogin = element (unsafeCoerce _hiLogin)
 
-foreign import hiLogout_ :: ReactIcon
+foreign import _hiLogout :: ReactIcon
 
 hiLogout :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiLogout = element (unsafeCoerce hiLogout_)
+hiLogout = element (unsafeCoerce _hiLogout)
 
-foreign import hiMail_ :: ReactIcon
+foreign import _hiMail :: ReactIcon
 
 hiMail :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiMail = element (unsafeCoerce hiMail_)
+hiMail = element (unsafeCoerce _hiMail)
 
-foreign import hiMailOpen_ :: ReactIcon
+foreign import _hiMailOpen :: ReactIcon
 
 hiMailOpen :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiMailOpen = element (unsafeCoerce hiMailOpen_)
+hiMailOpen = element (unsafeCoerce _hiMailOpen)
 
-foreign import hiMap_ :: ReactIcon
+foreign import _hiMap :: ReactIcon
 
 hiMap :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiMap = element (unsafeCoerce hiMap_)
+hiMap = element (unsafeCoerce _hiMap)
 
-foreign import hiMenu_ :: ReactIcon
+foreign import _hiMenu :: ReactIcon
 
 hiMenu :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiMenu = element (unsafeCoerce hiMenu_)
+hiMenu = element (unsafeCoerce _hiMenu)
 
-foreign import hiMicrophone_ :: ReactIcon
+foreign import _hiMicrophone :: ReactIcon
 
 hiMicrophone :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiMicrophone = element (unsafeCoerce hiMicrophone_)
+hiMicrophone = element (unsafeCoerce _hiMicrophone)
 
-foreign import hiMinus_ :: ReactIcon
+foreign import _hiMinus :: ReactIcon
 
 hiMinus :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiMinus = element (unsafeCoerce hiMinus_)
+hiMinus = element (unsafeCoerce _hiMinus)
 
-foreign import hiMinusCircle_ :: ReactIcon
+foreign import _hiMinusCircle :: ReactIcon
 
 hiMinusCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiMinusCircle = element (unsafeCoerce hiMinusCircle_)
+hiMinusCircle = element (unsafeCoerce _hiMinusCircle)
 
-foreign import hiMinusSm_ :: ReactIcon
+foreign import _hiMinusSm :: ReactIcon
 
 hiMinusSm :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiMinusSm = element (unsafeCoerce hiMinusSm_)
+hiMinusSm = element (unsafeCoerce _hiMinusSm)
 
-foreign import hiMoon_ :: ReactIcon
+foreign import _hiMoon :: ReactIcon
 
 hiMoon :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiMoon = element (unsafeCoerce hiMoon_)
+hiMoon = element (unsafeCoerce _hiMoon)
 
-foreign import hiMusicNote_ :: ReactIcon
+foreign import _hiMusicNote :: ReactIcon
 
 hiMusicNote :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiMusicNote = element (unsafeCoerce hiMusicNote_)
+hiMusicNote = element (unsafeCoerce _hiMusicNote)
 
-foreign import hiNewspaper_ :: ReactIcon
+foreign import _hiNewspaper :: ReactIcon
 
 hiNewspaper :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiNewspaper = element (unsafeCoerce hiNewspaper_)
+hiNewspaper = element (unsafeCoerce _hiNewspaper)
 
-foreign import hiOfficeBuilding_ :: ReactIcon
+foreign import _hiOfficeBuilding :: ReactIcon
 
 hiOfficeBuilding :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOfficeBuilding = element (unsafeCoerce hiOfficeBuilding_)
+hiOfficeBuilding = element (unsafeCoerce _hiOfficeBuilding)
 
-foreign import hiOutlineAcademicCap_ :: ReactIcon
+foreign import _hiOutlineAcademicCap :: ReactIcon
 
 hiOutlineAcademicCap :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineAcademicCap = element (unsafeCoerce hiOutlineAcademicCap_)
+hiOutlineAcademicCap = element (unsafeCoerce _hiOutlineAcademicCap)
 
-foreign import hiOutlineAdjustments_ :: ReactIcon
+foreign import _hiOutlineAdjustments :: ReactIcon
 
 hiOutlineAdjustments :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineAdjustments = element (unsafeCoerce hiOutlineAdjustments_)
+hiOutlineAdjustments = element (unsafeCoerce _hiOutlineAdjustments)
 
-foreign import hiOutlineAnnotation_ :: ReactIcon
+foreign import _hiOutlineAnnotation :: ReactIcon
 
 hiOutlineAnnotation :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineAnnotation = element (unsafeCoerce hiOutlineAnnotation_)
+hiOutlineAnnotation = element (unsafeCoerce _hiOutlineAnnotation)
 
-foreign import hiOutlineArchive_ :: ReactIcon
+foreign import _hiOutlineArchive :: ReactIcon
 
 hiOutlineArchive :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineArchive = element (unsafeCoerce hiOutlineArchive_)
+hiOutlineArchive = element (unsafeCoerce _hiOutlineArchive)
 
-foreign import hiOutlineArrowCircleDown_ :: ReactIcon
+foreign import _hiOutlineArrowCircleDown :: ReactIcon
 
 hiOutlineArrowCircleDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineArrowCircleDown = element (unsafeCoerce hiOutlineArrowCircleDown_)
+hiOutlineArrowCircleDown = element (unsafeCoerce _hiOutlineArrowCircleDown)
 
-foreign import hiOutlineArrowCircleLeft_ :: ReactIcon
+foreign import _hiOutlineArrowCircleLeft :: ReactIcon
 
 hiOutlineArrowCircleLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineArrowCircleLeft = element (unsafeCoerce hiOutlineArrowCircleLeft_)
+hiOutlineArrowCircleLeft = element (unsafeCoerce _hiOutlineArrowCircleLeft)
 
-foreign import hiOutlineArrowCircleRight_ :: ReactIcon
+foreign import _hiOutlineArrowCircleRight :: ReactIcon
 
 hiOutlineArrowCircleRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineArrowCircleRight = element (unsafeCoerce hiOutlineArrowCircleRight_)
+hiOutlineArrowCircleRight = element (unsafeCoerce _hiOutlineArrowCircleRight)
 
-foreign import hiOutlineArrowCircleUp_ :: ReactIcon
+foreign import _hiOutlineArrowCircleUp :: ReactIcon
 
 hiOutlineArrowCircleUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineArrowCircleUp = element (unsafeCoerce hiOutlineArrowCircleUp_)
+hiOutlineArrowCircleUp = element (unsafeCoerce _hiOutlineArrowCircleUp)
 
-foreign import hiOutlineArrowDown_ :: ReactIcon
+foreign import _hiOutlineArrowDown :: ReactIcon
 
 hiOutlineArrowDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineArrowDown = element (unsafeCoerce hiOutlineArrowDown_)
+hiOutlineArrowDown = element (unsafeCoerce _hiOutlineArrowDown)
 
-foreign import hiOutlineArrowLeft_ :: ReactIcon
+foreign import _hiOutlineArrowLeft :: ReactIcon
 
 hiOutlineArrowLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineArrowLeft = element (unsafeCoerce hiOutlineArrowLeft_)
+hiOutlineArrowLeft = element (unsafeCoerce _hiOutlineArrowLeft)
 
-foreign import hiOutlineArrowNarrowDown_ :: ReactIcon
+foreign import _hiOutlineArrowNarrowDown :: ReactIcon
 
 hiOutlineArrowNarrowDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineArrowNarrowDown = element (unsafeCoerce hiOutlineArrowNarrowDown_)
+hiOutlineArrowNarrowDown = element (unsafeCoerce _hiOutlineArrowNarrowDown)
 
-foreign import hiOutlineArrowNarrowLeft_ :: ReactIcon
+foreign import _hiOutlineArrowNarrowLeft :: ReactIcon
 
 hiOutlineArrowNarrowLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineArrowNarrowLeft = element (unsafeCoerce hiOutlineArrowNarrowLeft_)
+hiOutlineArrowNarrowLeft = element (unsafeCoerce _hiOutlineArrowNarrowLeft)
 
-foreign import hiOutlineArrowNarrowRight_ :: ReactIcon
+foreign import _hiOutlineArrowNarrowRight :: ReactIcon
 
 hiOutlineArrowNarrowRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineArrowNarrowRight = element (unsafeCoerce hiOutlineArrowNarrowRight_)
+hiOutlineArrowNarrowRight = element (unsafeCoerce _hiOutlineArrowNarrowRight)
 
-foreign import hiOutlineArrowNarrowUp_ :: ReactIcon
+foreign import _hiOutlineArrowNarrowUp :: ReactIcon
 
 hiOutlineArrowNarrowUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineArrowNarrowUp = element (unsafeCoerce hiOutlineArrowNarrowUp_)
+hiOutlineArrowNarrowUp = element (unsafeCoerce _hiOutlineArrowNarrowUp)
 
-foreign import hiOutlineArrowRight_ :: ReactIcon
+foreign import _hiOutlineArrowRight :: ReactIcon
 
 hiOutlineArrowRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineArrowRight = element (unsafeCoerce hiOutlineArrowRight_)
+hiOutlineArrowRight = element (unsafeCoerce _hiOutlineArrowRight)
 
-foreign import hiOutlineArrowsExpand_ :: ReactIcon
+foreign import _hiOutlineArrowsExpand :: ReactIcon
 
 hiOutlineArrowsExpand :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineArrowsExpand = element (unsafeCoerce hiOutlineArrowsExpand_)
+hiOutlineArrowsExpand = element (unsafeCoerce _hiOutlineArrowsExpand)
 
-foreign import hiOutlineArrowSmDown_ :: ReactIcon
+foreign import _hiOutlineArrowSmDown :: ReactIcon
 
 hiOutlineArrowSmDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineArrowSmDown = element (unsafeCoerce hiOutlineArrowSmDown_)
+hiOutlineArrowSmDown = element (unsafeCoerce _hiOutlineArrowSmDown)
 
-foreign import hiOutlineArrowSmLeft_ :: ReactIcon
+foreign import _hiOutlineArrowSmLeft :: ReactIcon
 
 hiOutlineArrowSmLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineArrowSmLeft = element (unsafeCoerce hiOutlineArrowSmLeft_)
+hiOutlineArrowSmLeft = element (unsafeCoerce _hiOutlineArrowSmLeft)
 
-foreign import hiOutlineArrowSmRight_ :: ReactIcon
+foreign import _hiOutlineArrowSmRight :: ReactIcon
 
 hiOutlineArrowSmRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineArrowSmRight = element (unsafeCoerce hiOutlineArrowSmRight_)
+hiOutlineArrowSmRight = element (unsafeCoerce _hiOutlineArrowSmRight)
 
-foreign import hiOutlineArrowSmUp_ :: ReactIcon
+foreign import _hiOutlineArrowSmUp :: ReactIcon
 
 hiOutlineArrowSmUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineArrowSmUp = element (unsafeCoerce hiOutlineArrowSmUp_)
+hiOutlineArrowSmUp = element (unsafeCoerce _hiOutlineArrowSmUp)
 
-foreign import hiOutlineArrowUp_ :: ReactIcon
+foreign import _hiOutlineArrowUp :: ReactIcon
 
 hiOutlineArrowUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineArrowUp = element (unsafeCoerce hiOutlineArrowUp_)
+hiOutlineArrowUp = element (unsafeCoerce _hiOutlineArrowUp)
 
-foreign import hiOutlineAtSymbol_ :: ReactIcon
+foreign import _hiOutlineAtSymbol :: ReactIcon
 
 hiOutlineAtSymbol :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineAtSymbol = element (unsafeCoerce hiOutlineAtSymbol_)
+hiOutlineAtSymbol = element (unsafeCoerce _hiOutlineAtSymbol)
 
-foreign import hiOutlineBackspace_ :: ReactIcon
+foreign import _hiOutlineBackspace :: ReactIcon
 
 hiOutlineBackspace :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineBackspace = element (unsafeCoerce hiOutlineBackspace_)
+hiOutlineBackspace = element (unsafeCoerce _hiOutlineBackspace)
 
-foreign import hiOutlineBadgeCheck_ :: ReactIcon
+foreign import _hiOutlineBadgeCheck :: ReactIcon
 
 hiOutlineBadgeCheck :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineBadgeCheck = element (unsafeCoerce hiOutlineBadgeCheck_)
+hiOutlineBadgeCheck = element (unsafeCoerce _hiOutlineBadgeCheck)
 
-foreign import hiOutlineBan_ :: ReactIcon
+foreign import _hiOutlineBan :: ReactIcon
 
 hiOutlineBan :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineBan = element (unsafeCoerce hiOutlineBan_)
+hiOutlineBan = element (unsafeCoerce _hiOutlineBan)
 
-foreign import hiOutlineBeaker_ :: ReactIcon
+foreign import _hiOutlineBeaker :: ReactIcon
 
 hiOutlineBeaker :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineBeaker = element (unsafeCoerce hiOutlineBeaker_)
+hiOutlineBeaker = element (unsafeCoerce _hiOutlineBeaker)
 
-foreign import hiOutlineBell_ :: ReactIcon
+foreign import _hiOutlineBell :: ReactIcon
 
 hiOutlineBell :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineBell = element (unsafeCoerce hiOutlineBell_)
+hiOutlineBell = element (unsafeCoerce _hiOutlineBell)
 
-foreign import hiOutlineBookmark_ :: ReactIcon
+foreign import _hiOutlineBookmark :: ReactIcon
 
 hiOutlineBookmark :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineBookmark = element (unsafeCoerce hiOutlineBookmark_)
+hiOutlineBookmark = element (unsafeCoerce _hiOutlineBookmark)
 
-foreign import hiOutlineBookmarkAlt_ :: ReactIcon
+foreign import _hiOutlineBookmarkAlt :: ReactIcon
 
 hiOutlineBookmarkAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineBookmarkAlt = element (unsafeCoerce hiOutlineBookmarkAlt_)
+hiOutlineBookmarkAlt = element (unsafeCoerce _hiOutlineBookmarkAlt)
 
-foreign import hiOutlineBookOpen_ :: ReactIcon
+foreign import _hiOutlineBookOpen :: ReactIcon
 
 hiOutlineBookOpen :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineBookOpen = element (unsafeCoerce hiOutlineBookOpen_)
+hiOutlineBookOpen = element (unsafeCoerce _hiOutlineBookOpen)
 
-foreign import hiOutlineBriefcase_ :: ReactIcon
+foreign import _hiOutlineBriefcase :: ReactIcon
 
 hiOutlineBriefcase :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineBriefcase = element (unsafeCoerce hiOutlineBriefcase_)
+hiOutlineBriefcase = element (unsafeCoerce _hiOutlineBriefcase)
 
-foreign import hiOutlineCake_ :: ReactIcon
+foreign import _hiOutlineCake :: ReactIcon
 
 hiOutlineCake :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineCake = element (unsafeCoerce hiOutlineCake_)
+hiOutlineCake = element (unsafeCoerce _hiOutlineCake)
 
-foreign import hiOutlineCalculator_ :: ReactIcon
+foreign import _hiOutlineCalculator :: ReactIcon
 
 hiOutlineCalculator :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineCalculator = element (unsafeCoerce hiOutlineCalculator_)
+hiOutlineCalculator = element (unsafeCoerce _hiOutlineCalculator)
 
-foreign import hiOutlineCalendar_ :: ReactIcon
+foreign import _hiOutlineCalendar :: ReactIcon
 
 hiOutlineCalendar :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineCalendar = element (unsafeCoerce hiOutlineCalendar_)
+hiOutlineCalendar = element (unsafeCoerce _hiOutlineCalendar)
 
-foreign import hiOutlineCamera_ :: ReactIcon
+foreign import _hiOutlineCamera :: ReactIcon
 
 hiOutlineCamera :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineCamera = element (unsafeCoerce hiOutlineCamera_)
+hiOutlineCamera = element (unsafeCoerce _hiOutlineCamera)
 
-foreign import hiOutlineCash_ :: ReactIcon
+foreign import _hiOutlineCash :: ReactIcon
 
 hiOutlineCash :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineCash = element (unsafeCoerce hiOutlineCash_)
+hiOutlineCash = element (unsafeCoerce _hiOutlineCash)
 
-foreign import hiOutlineChartBar_ :: ReactIcon
+foreign import _hiOutlineChartBar :: ReactIcon
 
 hiOutlineChartBar :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineChartBar = element (unsafeCoerce hiOutlineChartBar_)
+hiOutlineChartBar = element (unsafeCoerce _hiOutlineChartBar)
 
-foreign import hiOutlineChartPie_ :: ReactIcon
+foreign import _hiOutlineChartPie :: ReactIcon
 
 hiOutlineChartPie :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineChartPie = element (unsafeCoerce hiOutlineChartPie_)
+hiOutlineChartPie = element (unsafeCoerce _hiOutlineChartPie)
 
-foreign import hiOutlineChartSquareBar_ :: ReactIcon
+foreign import _hiOutlineChartSquareBar :: ReactIcon
 
 hiOutlineChartSquareBar :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineChartSquareBar = element (unsafeCoerce hiOutlineChartSquareBar_)
+hiOutlineChartSquareBar = element (unsafeCoerce _hiOutlineChartSquareBar)
 
-foreign import hiOutlineChat_ :: ReactIcon
+foreign import _hiOutlineChat :: ReactIcon
 
 hiOutlineChat :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineChat = element (unsafeCoerce hiOutlineChat_)
+hiOutlineChat = element (unsafeCoerce _hiOutlineChat)
 
-foreign import hiOutlineChatAlt_ :: ReactIcon
+foreign import _hiOutlineChatAlt :: ReactIcon
 
 hiOutlineChatAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineChatAlt = element (unsafeCoerce hiOutlineChatAlt_)
+hiOutlineChatAlt = element (unsafeCoerce _hiOutlineChatAlt)
 
-foreign import hiOutlineCheck_ :: ReactIcon
+foreign import _hiOutlineCheck :: ReactIcon
 
 hiOutlineCheck :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineCheck = element (unsafeCoerce hiOutlineCheck_)
+hiOutlineCheck = element (unsafeCoerce _hiOutlineCheck)
 
-foreign import hiOutlineCheckCircle_ :: ReactIcon
+foreign import _hiOutlineCheckCircle :: ReactIcon
 
 hiOutlineCheckCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineCheckCircle = element (unsafeCoerce hiOutlineCheckCircle_)
+hiOutlineCheckCircle = element (unsafeCoerce _hiOutlineCheckCircle)
 
-foreign import hiOutlineChevronDoubleDown_ :: ReactIcon
+foreign import _hiOutlineChevronDoubleDown :: ReactIcon
 
 hiOutlineChevronDoubleDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineChevronDoubleDown = element (unsafeCoerce hiOutlineChevronDoubleDown_)
+hiOutlineChevronDoubleDown = element (unsafeCoerce _hiOutlineChevronDoubleDown)
 
-foreign import hiOutlineChevronDoubleLeft_ :: ReactIcon
+foreign import _hiOutlineChevronDoubleLeft :: ReactIcon
 
 hiOutlineChevronDoubleLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineChevronDoubleLeft = element (unsafeCoerce hiOutlineChevronDoubleLeft_)
+hiOutlineChevronDoubleLeft = element (unsafeCoerce _hiOutlineChevronDoubleLeft)
 
-foreign import hiOutlineChevronDoubleRight_ :: ReactIcon
+foreign import _hiOutlineChevronDoubleRight :: ReactIcon
 
 hiOutlineChevronDoubleRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineChevronDoubleRight = element (unsafeCoerce hiOutlineChevronDoubleRight_)
+hiOutlineChevronDoubleRight = element (unsafeCoerce _hiOutlineChevronDoubleRight)
 
-foreign import hiOutlineChevronDoubleUp_ :: ReactIcon
+foreign import _hiOutlineChevronDoubleUp :: ReactIcon
 
 hiOutlineChevronDoubleUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineChevronDoubleUp = element (unsafeCoerce hiOutlineChevronDoubleUp_)
+hiOutlineChevronDoubleUp = element (unsafeCoerce _hiOutlineChevronDoubleUp)
 
-foreign import hiOutlineChevronDown_ :: ReactIcon
+foreign import _hiOutlineChevronDown :: ReactIcon
 
 hiOutlineChevronDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineChevronDown = element (unsafeCoerce hiOutlineChevronDown_)
+hiOutlineChevronDown = element (unsafeCoerce _hiOutlineChevronDown)
 
-foreign import hiOutlineChevronLeft_ :: ReactIcon
+foreign import _hiOutlineChevronLeft :: ReactIcon
 
 hiOutlineChevronLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineChevronLeft = element (unsafeCoerce hiOutlineChevronLeft_)
+hiOutlineChevronLeft = element (unsafeCoerce _hiOutlineChevronLeft)
 
-foreign import hiOutlineChevronRight_ :: ReactIcon
+foreign import _hiOutlineChevronRight :: ReactIcon
 
 hiOutlineChevronRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineChevronRight = element (unsafeCoerce hiOutlineChevronRight_)
+hiOutlineChevronRight = element (unsafeCoerce _hiOutlineChevronRight)
 
-foreign import hiOutlineChevronUp_ :: ReactIcon
+foreign import _hiOutlineChevronUp :: ReactIcon
 
 hiOutlineChevronUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineChevronUp = element (unsafeCoerce hiOutlineChevronUp_)
+hiOutlineChevronUp = element (unsafeCoerce _hiOutlineChevronUp)
 
-foreign import hiOutlineChip_ :: ReactIcon
+foreign import _hiOutlineChip :: ReactIcon
 
 hiOutlineChip :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineChip = element (unsafeCoerce hiOutlineChip_)
+hiOutlineChip = element (unsafeCoerce _hiOutlineChip)
 
-foreign import hiOutlineClipboard_ :: ReactIcon
+foreign import _hiOutlineClipboard :: ReactIcon
 
 hiOutlineClipboard :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineClipboard = element (unsafeCoerce hiOutlineClipboard_)
+hiOutlineClipboard = element (unsafeCoerce _hiOutlineClipboard)
 
-foreign import hiOutlineClipboardCheck_ :: ReactIcon
+foreign import _hiOutlineClipboardCheck :: ReactIcon
 
 hiOutlineClipboardCheck :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineClipboardCheck = element (unsafeCoerce hiOutlineClipboardCheck_)
+hiOutlineClipboardCheck = element (unsafeCoerce _hiOutlineClipboardCheck)
 
-foreign import hiOutlineClipboardCopy_ :: ReactIcon
+foreign import _hiOutlineClipboardCopy :: ReactIcon
 
 hiOutlineClipboardCopy :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineClipboardCopy = element (unsafeCoerce hiOutlineClipboardCopy_)
+hiOutlineClipboardCopy = element (unsafeCoerce _hiOutlineClipboardCopy)
 
-foreign import hiOutlineClipboardList_ :: ReactIcon
+foreign import _hiOutlineClipboardList :: ReactIcon
 
 hiOutlineClipboardList :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineClipboardList = element (unsafeCoerce hiOutlineClipboardList_)
+hiOutlineClipboardList = element (unsafeCoerce _hiOutlineClipboardList)
 
-foreign import hiOutlineClock_ :: ReactIcon
+foreign import _hiOutlineClock :: ReactIcon
 
 hiOutlineClock :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineClock = element (unsafeCoerce hiOutlineClock_)
+hiOutlineClock = element (unsafeCoerce _hiOutlineClock)
 
-foreign import hiOutlineCloud_ :: ReactIcon
+foreign import _hiOutlineCloud :: ReactIcon
 
 hiOutlineCloud :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineCloud = element (unsafeCoerce hiOutlineCloud_)
+hiOutlineCloud = element (unsafeCoerce _hiOutlineCloud)
 
-foreign import hiOutlineCloudDownload_ :: ReactIcon
+foreign import _hiOutlineCloudDownload :: ReactIcon
 
 hiOutlineCloudDownload :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineCloudDownload = element (unsafeCoerce hiOutlineCloudDownload_)
+hiOutlineCloudDownload = element (unsafeCoerce _hiOutlineCloudDownload)
 
-foreign import hiOutlineCloudUpload_ :: ReactIcon
+foreign import _hiOutlineCloudUpload :: ReactIcon
 
 hiOutlineCloudUpload :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineCloudUpload = element (unsafeCoerce hiOutlineCloudUpload_)
+hiOutlineCloudUpload = element (unsafeCoerce _hiOutlineCloudUpload)
 
-foreign import hiOutlineCode_ :: ReactIcon
+foreign import _hiOutlineCode :: ReactIcon
 
 hiOutlineCode :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineCode = element (unsafeCoerce hiOutlineCode_)
+hiOutlineCode = element (unsafeCoerce _hiOutlineCode)
 
-foreign import hiOutlineCog_ :: ReactIcon
+foreign import _hiOutlineCog :: ReactIcon
 
 hiOutlineCog :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineCog = element (unsafeCoerce hiOutlineCog_)
+hiOutlineCog = element (unsafeCoerce _hiOutlineCog)
 
-foreign import hiOutlineCollection_ :: ReactIcon
+foreign import _hiOutlineCollection :: ReactIcon
 
 hiOutlineCollection :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineCollection = element (unsafeCoerce hiOutlineCollection_)
+hiOutlineCollection = element (unsafeCoerce _hiOutlineCollection)
 
-foreign import hiOutlineColorSwatch_ :: ReactIcon
+foreign import _hiOutlineColorSwatch :: ReactIcon
 
 hiOutlineColorSwatch :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineColorSwatch = element (unsafeCoerce hiOutlineColorSwatch_)
+hiOutlineColorSwatch = element (unsafeCoerce _hiOutlineColorSwatch)
 
-foreign import hiOutlineCreditCard_ :: ReactIcon
+foreign import _hiOutlineCreditCard :: ReactIcon
 
 hiOutlineCreditCard :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineCreditCard = element (unsafeCoerce hiOutlineCreditCard_)
+hiOutlineCreditCard = element (unsafeCoerce _hiOutlineCreditCard)
 
-foreign import hiOutlineCube_ :: ReactIcon
+foreign import _hiOutlineCube :: ReactIcon
 
 hiOutlineCube :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineCube = element (unsafeCoerce hiOutlineCube_)
+hiOutlineCube = element (unsafeCoerce _hiOutlineCube)
 
-foreign import hiOutlineCubeTransparent_ :: ReactIcon
+foreign import _hiOutlineCubeTransparent :: ReactIcon
 
 hiOutlineCubeTransparent :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineCubeTransparent = element (unsafeCoerce hiOutlineCubeTransparent_)
+hiOutlineCubeTransparent = element (unsafeCoerce _hiOutlineCubeTransparent)
 
-foreign import hiOutlineCurrencyBangladeshi_ :: ReactIcon
+foreign import _hiOutlineCurrencyBangladeshi :: ReactIcon
 
 hiOutlineCurrencyBangladeshi :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineCurrencyBangladeshi = element (unsafeCoerce hiOutlineCurrencyBangladeshi_)
+hiOutlineCurrencyBangladeshi = element (unsafeCoerce _hiOutlineCurrencyBangladeshi)
 
-foreign import hiOutlineCurrencyDollar_ :: ReactIcon
+foreign import _hiOutlineCurrencyDollar :: ReactIcon
 
 hiOutlineCurrencyDollar :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineCurrencyDollar = element (unsafeCoerce hiOutlineCurrencyDollar_)
+hiOutlineCurrencyDollar = element (unsafeCoerce _hiOutlineCurrencyDollar)
 
-foreign import hiOutlineCurrencyEuro_ :: ReactIcon
+foreign import _hiOutlineCurrencyEuro :: ReactIcon
 
 hiOutlineCurrencyEuro :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineCurrencyEuro = element (unsafeCoerce hiOutlineCurrencyEuro_)
+hiOutlineCurrencyEuro = element (unsafeCoerce _hiOutlineCurrencyEuro)
 
-foreign import hiOutlineCurrencyPound_ :: ReactIcon
+foreign import _hiOutlineCurrencyPound :: ReactIcon
 
 hiOutlineCurrencyPound :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineCurrencyPound = element (unsafeCoerce hiOutlineCurrencyPound_)
+hiOutlineCurrencyPound = element (unsafeCoerce _hiOutlineCurrencyPound)
 
-foreign import hiOutlineCurrencyRupee_ :: ReactIcon
+foreign import _hiOutlineCurrencyRupee :: ReactIcon
 
 hiOutlineCurrencyRupee :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineCurrencyRupee = element (unsafeCoerce hiOutlineCurrencyRupee_)
+hiOutlineCurrencyRupee = element (unsafeCoerce _hiOutlineCurrencyRupee)
 
-foreign import hiOutlineCurrencyYen_ :: ReactIcon
+foreign import _hiOutlineCurrencyYen :: ReactIcon
 
 hiOutlineCurrencyYen :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineCurrencyYen = element (unsafeCoerce hiOutlineCurrencyYen_)
+hiOutlineCurrencyYen = element (unsafeCoerce _hiOutlineCurrencyYen)
 
-foreign import hiOutlineCursorClick_ :: ReactIcon
+foreign import _hiOutlineCursorClick :: ReactIcon
 
 hiOutlineCursorClick :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineCursorClick = element (unsafeCoerce hiOutlineCursorClick_)
+hiOutlineCursorClick = element (unsafeCoerce _hiOutlineCursorClick)
 
-foreign import hiOutlineDatabase_ :: ReactIcon
+foreign import _hiOutlineDatabase :: ReactIcon
 
 hiOutlineDatabase :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineDatabase = element (unsafeCoerce hiOutlineDatabase_)
+hiOutlineDatabase = element (unsafeCoerce _hiOutlineDatabase)
 
-foreign import hiOutlineDesktopComputer_ :: ReactIcon
+foreign import _hiOutlineDesktopComputer :: ReactIcon
 
 hiOutlineDesktopComputer :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineDesktopComputer = element (unsafeCoerce hiOutlineDesktopComputer_)
+hiOutlineDesktopComputer = element (unsafeCoerce _hiOutlineDesktopComputer)
 
-foreign import hiOutlineDeviceMobile_ :: ReactIcon
+foreign import _hiOutlineDeviceMobile :: ReactIcon
 
 hiOutlineDeviceMobile :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineDeviceMobile = element (unsafeCoerce hiOutlineDeviceMobile_)
+hiOutlineDeviceMobile = element (unsafeCoerce _hiOutlineDeviceMobile)
 
-foreign import hiOutlineDeviceTablet_ :: ReactIcon
+foreign import _hiOutlineDeviceTablet :: ReactIcon
 
 hiOutlineDeviceTablet :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineDeviceTablet = element (unsafeCoerce hiOutlineDeviceTablet_)
+hiOutlineDeviceTablet = element (unsafeCoerce _hiOutlineDeviceTablet)
 
-foreign import hiOutlineDocument_ :: ReactIcon
+foreign import _hiOutlineDocument :: ReactIcon
 
 hiOutlineDocument :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineDocument = element (unsafeCoerce hiOutlineDocument_)
+hiOutlineDocument = element (unsafeCoerce _hiOutlineDocument)
 
-foreign import hiOutlineDocumentAdd_ :: ReactIcon
+foreign import _hiOutlineDocumentAdd :: ReactIcon
 
 hiOutlineDocumentAdd :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineDocumentAdd = element (unsafeCoerce hiOutlineDocumentAdd_)
+hiOutlineDocumentAdd = element (unsafeCoerce _hiOutlineDocumentAdd)
 
-foreign import hiOutlineDocumentDownload_ :: ReactIcon
+foreign import _hiOutlineDocumentDownload :: ReactIcon
 
 hiOutlineDocumentDownload :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineDocumentDownload = element (unsafeCoerce hiOutlineDocumentDownload_)
+hiOutlineDocumentDownload = element (unsafeCoerce _hiOutlineDocumentDownload)
 
-foreign import hiOutlineDocumentDuplicate_ :: ReactIcon
+foreign import _hiOutlineDocumentDuplicate :: ReactIcon
 
 hiOutlineDocumentDuplicate :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineDocumentDuplicate = element (unsafeCoerce hiOutlineDocumentDuplicate_)
+hiOutlineDocumentDuplicate = element (unsafeCoerce _hiOutlineDocumentDuplicate)
 
-foreign import hiOutlineDocumentRemove_ :: ReactIcon
+foreign import _hiOutlineDocumentRemove :: ReactIcon
 
 hiOutlineDocumentRemove :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineDocumentRemove = element (unsafeCoerce hiOutlineDocumentRemove_)
+hiOutlineDocumentRemove = element (unsafeCoerce _hiOutlineDocumentRemove)
 
-foreign import hiOutlineDocumentReport_ :: ReactIcon
+foreign import _hiOutlineDocumentReport :: ReactIcon
 
 hiOutlineDocumentReport :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineDocumentReport = element (unsafeCoerce hiOutlineDocumentReport_)
+hiOutlineDocumentReport = element (unsafeCoerce _hiOutlineDocumentReport)
 
-foreign import hiOutlineDocumentSearch_ :: ReactIcon
+foreign import _hiOutlineDocumentSearch :: ReactIcon
 
 hiOutlineDocumentSearch :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineDocumentSearch = element (unsafeCoerce hiOutlineDocumentSearch_)
+hiOutlineDocumentSearch = element (unsafeCoerce _hiOutlineDocumentSearch)
 
-foreign import hiOutlineDocumentText_ :: ReactIcon
+foreign import _hiOutlineDocumentText :: ReactIcon
 
 hiOutlineDocumentText :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineDocumentText = element (unsafeCoerce hiOutlineDocumentText_)
+hiOutlineDocumentText = element (unsafeCoerce _hiOutlineDocumentText)
 
-foreign import hiOutlineDotsCircleHorizontal_ :: ReactIcon
+foreign import _hiOutlineDotsCircleHorizontal :: ReactIcon
 
 hiOutlineDotsCircleHorizontal :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineDotsCircleHorizontal = element (unsafeCoerce hiOutlineDotsCircleHorizontal_)
+hiOutlineDotsCircleHorizontal = element (unsafeCoerce _hiOutlineDotsCircleHorizontal)
 
-foreign import hiOutlineDotsHorizontal_ :: ReactIcon
+foreign import _hiOutlineDotsHorizontal :: ReactIcon
 
 hiOutlineDotsHorizontal :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineDotsHorizontal = element (unsafeCoerce hiOutlineDotsHorizontal_)
+hiOutlineDotsHorizontal = element (unsafeCoerce _hiOutlineDotsHorizontal)
 
-foreign import hiOutlineDotsVertical_ :: ReactIcon
+foreign import _hiOutlineDotsVertical :: ReactIcon
 
 hiOutlineDotsVertical :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineDotsVertical = element (unsafeCoerce hiOutlineDotsVertical_)
+hiOutlineDotsVertical = element (unsafeCoerce _hiOutlineDotsVertical)
 
-foreign import hiOutlineDownload_ :: ReactIcon
+foreign import _hiOutlineDownload :: ReactIcon
 
 hiOutlineDownload :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineDownload = element (unsafeCoerce hiOutlineDownload_)
+hiOutlineDownload = element (unsafeCoerce _hiOutlineDownload)
 
-foreign import hiOutlineDuplicate_ :: ReactIcon
+foreign import _hiOutlineDuplicate :: ReactIcon
 
 hiOutlineDuplicate :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineDuplicate = element (unsafeCoerce hiOutlineDuplicate_)
+hiOutlineDuplicate = element (unsafeCoerce _hiOutlineDuplicate)
 
-foreign import hiOutlineEmojiHappy_ :: ReactIcon
+foreign import _hiOutlineEmojiHappy :: ReactIcon
 
 hiOutlineEmojiHappy :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineEmojiHappy = element (unsafeCoerce hiOutlineEmojiHappy_)
+hiOutlineEmojiHappy = element (unsafeCoerce _hiOutlineEmojiHappy)
 
-foreign import hiOutlineEmojiSad_ :: ReactIcon
+foreign import _hiOutlineEmojiSad :: ReactIcon
 
 hiOutlineEmojiSad :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineEmojiSad = element (unsafeCoerce hiOutlineEmojiSad_)
+hiOutlineEmojiSad = element (unsafeCoerce _hiOutlineEmojiSad)
 
-foreign import hiOutlineExclamation_ :: ReactIcon
+foreign import _hiOutlineExclamation :: ReactIcon
 
 hiOutlineExclamation :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineExclamation = element (unsafeCoerce hiOutlineExclamation_)
+hiOutlineExclamation = element (unsafeCoerce _hiOutlineExclamation)
 
-foreign import hiOutlineExclamationCircle_ :: ReactIcon
+foreign import _hiOutlineExclamationCircle :: ReactIcon
 
 hiOutlineExclamationCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineExclamationCircle = element (unsafeCoerce hiOutlineExclamationCircle_)
+hiOutlineExclamationCircle = element (unsafeCoerce _hiOutlineExclamationCircle)
 
-foreign import hiOutlineExternalLink_ :: ReactIcon
+foreign import _hiOutlineExternalLink :: ReactIcon
 
 hiOutlineExternalLink :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineExternalLink = element (unsafeCoerce hiOutlineExternalLink_)
+hiOutlineExternalLink = element (unsafeCoerce _hiOutlineExternalLink)
 
-foreign import hiOutlineEye_ :: ReactIcon
+foreign import _hiOutlineEye :: ReactIcon
 
 hiOutlineEye :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineEye = element (unsafeCoerce hiOutlineEye_)
+hiOutlineEye = element (unsafeCoerce _hiOutlineEye)
 
-foreign import hiOutlineEyeOff_ :: ReactIcon
+foreign import _hiOutlineEyeOff :: ReactIcon
 
 hiOutlineEyeOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineEyeOff = element (unsafeCoerce hiOutlineEyeOff_)
+hiOutlineEyeOff = element (unsafeCoerce _hiOutlineEyeOff)
 
-foreign import hiOutlineFastForward_ :: ReactIcon
+foreign import _hiOutlineFastForward :: ReactIcon
 
 hiOutlineFastForward :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineFastForward = element (unsafeCoerce hiOutlineFastForward_)
+hiOutlineFastForward = element (unsafeCoerce _hiOutlineFastForward)
 
-foreign import hiOutlineFilm_ :: ReactIcon
+foreign import _hiOutlineFilm :: ReactIcon
 
 hiOutlineFilm :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineFilm = element (unsafeCoerce hiOutlineFilm_)
+hiOutlineFilm = element (unsafeCoerce _hiOutlineFilm)
 
-foreign import hiOutlineFilter_ :: ReactIcon
+foreign import _hiOutlineFilter :: ReactIcon
 
 hiOutlineFilter :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineFilter = element (unsafeCoerce hiOutlineFilter_)
+hiOutlineFilter = element (unsafeCoerce _hiOutlineFilter)
 
-foreign import hiOutlineFingerPrint_ :: ReactIcon
+foreign import _hiOutlineFingerPrint :: ReactIcon
 
 hiOutlineFingerPrint :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineFingerPrint = element (unsafeCoerce hiOutlineFingerPrint_)
+hiOutlineFingerPrint = element (unsafeCoerce _hiOutlineFingerPrint)
 
-foreign import hiOutlineFire_ :: ReactIcon
+foreign import _hiOutlineFire :: ReactIcon
 
 hiOutlineFire :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineFire = element (unsafeCoerce hiOutlineFire_)
+hiOutlineFire = element (unsafeCoerce _hiOutlineFire)
 
-foreign import hiOutlineFlag_ :: ReactIcon
+foreign import _hiOutlineFlag :: ReactIcon
 
 hiOutlineFlag :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineFlag = element (unsafeCoerce hiOutlineFlag_)
+hiOutlineFlag = element (unsafeCoerce _hiOutlineFlag)
 
-foreign import hiOutlineFolder_ :: ReactIcon
+foreign import _hiOutlineFolder :: ReactIcon
 
 hiOutlineFolder :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineFolder = element (unsafeCoerce hiOutlineFolder_)
+hiOutlineFolder = element (unsafeCoerce _hiOutlineFolder)
 
-foreign import hiOutlineFolderAdd_ :: ReactIcon
+foreign import _hiOutlineFolderAdd :: ReactIcon
 
 hiOutlineFolderAdd :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineFolderAdd = element (unsafeCoerce hiOutlineFolderAdd_)
+hiOutlineFolderAdd = element (unsafeCoerce _hiOutlineFolderAdd)
 
-foreign import hiOutlineFolderDownload_ :: ReactIcon
+foreign import _hiOutlineFolderDownload :: ReactIcon
 
 hiOutlineFolderDownload :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineFolderDownload = element (unsafeCoerce hiOutlineFolderDownload_)
+hiOutlineFolderDownload = element (unsafeCoerce _hiOutlineFolderDownload)
 
-foreign import hiOutlineFolderOpen_ :: ReactIcon
+foreign import _hiOutlineFolderOpen :: ReactIcon
 
 hiOutlineFolderOpen :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineFolderOpen = element (unsafeCoerce hiOutlineFolderOpen_)
+hiOutlineFolderOpen = element (unsafeCoerce _hiOutlineFolderOpen)
 
-foreign import hiOutlineFolderRemove_ :: ReactIcon
+foreign import _hiOutlineFolderRemove :: ReactIcon
 
 hiOutlineFolderRemove :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineFolderRemove = element (unsafeCoerce hiOutlineFolderRemove_)
+hiOutlineFolderRemove = element (unsafeCoerce _hiOutlineFolderRemove)
 
-foreign import hiOutlineGift_ :: ReactIcon
+foreign import _hiOutlineGift :: ReactIcon
 
 hiOutlineGift :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineGift = element (unsafeCoerce hiOutlineGift_)
+hiOutlineGift = element (unsafeCoerce _hiOutlineGift)
 
-foreign import hiOutlineGlobe_ :: ReactIcon
+foreign import _hiOutlineGlobe :: ReactIcon
 
 hiOutlineGlobe :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineGlobe = element (unsafeCoerce hiOutlineGlobe_)
+hiOutlineGlobe = element (unsafeCoerce _hiOutlineGlobe)
 
-foreign import hiOutlineGlobeAlt_ :: ReactIcon
+foreign import _hiOutlineGlobeAlt :: ReactIcon
 
 hiOutlineGlobeAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineGlobeAlt = element (unsafeCoerce hiOutlineGlobeAlt_)
+hiOutlineGlobeAlt = element (unsafeCoerce _hiOutlineGlobeAlt)
 
-foreign import hiOutlineHand_ :: ReactIcon
+foreign import _hiOutlineHand :: ReactIcon
 
 hiOutlineHand :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineHand = element (unsafeCoerce hiOutlineHand_)
+hiOutlineHand = element (unsafeCoerce _hiOutlineHand)
 
-foreign import hiOutlineHashtag_ :: ReactIcon
+foreign import _hiOutlineHashtag :: ReactIcon
 
 hiOutlineHashtag :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineHashtag = element (unsafeCoerce hiOutlineHashtag_)
+hiOutlineHashtag = element (unsafeCoerce _hiOutlineHashtag)
 
-foreign import hiOutlineHeart_ :: ReactIcon
+foreign import _hiOutlineHeart :: ReactIcon
 
 hiOutlineHeart :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineHeart = element (unsafeCoerce hiOutlineHeart_)
+hiOutlineHeart = element (unsafeCoerce _hiOutlineHeart)
 
-foreign import hiOutlineHome_ :: ReactIcon
+foreign import _hiOutlineHome :: ReactIcon
 
 hiOutlineHome :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineHome = element (unsafeCoerce hiOutlineHome_)
+hiOutlineHome = element (unsafeCoerce _hiOutlineHome)
 
-foreign import hiOutlineIdentification_ :: ReactIcon
+foreign import _hiOutlineIdentification :: ReactIcon
 
 hiOutlineIdentification :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineIdentification = element (unsafeCoerce hiOutlineIdentification_)
+hiOutlineIdentification = element (unsafeCoerce _hiOutlineIdentification)
 
-foreign import hiOutlineInbox_ :: ReactIcon
+foreign import _hiOutlineInbox :: ReactIcon
 
 hiOutlineInbox :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineInbox = element (unsafeCoerce hiOutlineInbox_)
+hiOutlineInbox = element (unsafeCoerce _hiOutlineInbox)
 
-foreign import hiOutlineInboxIn_ :: ReactIcon
+foreign import _hiOutlineInboxIn :: ReactIcon
 
 hiOutlineInboxIn :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineInboxIn = element (unsafeCoerce hiOutlineInboxIn_)
+hiOutlineInboxIn = element (unsafeCoerce _hiOutlineInboxIn)
 
-foreign import hiOutlineInformationCircle_ :: ReactIcon
+foreign import _hiOutlineInformationCircle :: ReactIcon
 
 hiOutlineInformationCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineInformationCircle = element (unsafeCoerce hiOutlineInformationCircle_)
+hiOutlineInformationCircle = element (unsafeCoerce _hiOutlineInformationCircle)
 
-foreign import hiOutlineKey_ :: ReactIcon
+foreign import _hiOutlineKey :: ReactIcon
 
 hiOutlineKey :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineKey = element (unsafeCoerce hiOutlineKey_)
+hiOutlineKey = element (unsafeCoerce _hiOutlineKey)
 
-foreign import hiOutlineLibrary_ :: ReactIcon
+foreign import _hiOutlineLibrary :: ReactIcon
 
 hiOutlineLibrary :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineLibrary = element (unsafeCoerce hiOutlineLibrary_)
+hiOutlineLibrary = element (unsafeCoerce _hiOutlineLibrary)
 
-foreign import hiOutlineLightBulb_ :: ReactIcon
+foreign import _hiOutlineLightBulb :: ReactIcon
 
 hiOutlineLightBulb :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineLightBulb = element (unsafeCoerce hiOutlineLightBulb_)
+hiOutlineLightBulb = element (unsafeCoerce _hiOutlineLightBulb)
 
-foreign import hiOutlineLightningBolt_ :: ReactIcon
+foreign import _hiOutlineLightningBolt :: ReactIcon
 
 hiOutlineLightningBolt :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineLightningBolt = element (unsafeCoerce hiOutlineLightningBolt_)
+hiOutlineLightningBolt = element (unsafeCoerce _hiOutlineLightningBolt)
 
-foreign import hiOutlineLink_ :: ReactIcon
+foreign import _hiOutlineLink :: ReactIcon
 
 hiOutlineLink :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineLink = element (unsafeCoerce hiOutlineLink_)
+hiOutlineLink = element (unsafeCoerce _hiOutlineLink)
 
-foreign import hiOutlineLocationMarker_ :: ReactIcon
+foreign import _hiOutlineLocationMarker :: ReactIcon
 
 hiOutlineLocationMarker :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineLocationMarker = element (unsafeCoerce hiOutlineLocationMarker_)
+hiOutlineLocationMarker = element (unsafeCoerce _hiOutlineLocationMarker)
 
-foreign import hiOutlineLockClosed_ :: ReactIcon
+foreign import _hiOutlineLockClosed :: ReactIcon
 
 hiOutlineLockClosed :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineLockClosed = element (unsafeCoerce hiOutlineLockClosed_)
+hiOutlineLockClosed = element (unsafeCoerce _hiOutlineLockClosed)
 
-foreign import hiOutlineLockOpen_ :: ReactIcon
+foreign import _hiOutlineLockOpen :: ReactIcon
 
 hiOutlineLockOpen :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineLockOpen = element (unsafeCoerce hiOutlineLockOpen_)
+hiOutlineLockOpen = element (unsafeCoerce _hiOutlineLockOpen)
 
-foreign import hiOutlineLogin_ :: ReactIcon
+foreign import _hiOutlineLogin :: ReactIcon
 
 hiOutlineLogin :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineLogin = element (unsafeCoerce hiOutlineLogin_)
+hiOutlineLogin = element (unsafeCoerce _hiOutlineLogin)
 
-foreign import hiOutlineLogout_ :: ReactIcon
+foreign import _hiOutlineLogout :: ReactIcon
 
 hiOutlineLogout :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineLogout = element (unsafeCoerce hiOutlineLogout_)
+hiOutlineLogout = element (unsafeCoerce _hiOutlineLogout)
 
-foreign import hiOutlineMail_ :: ReactIcon
+foreign import _hiOutlineMail :: ReactIcon
 
 hiOutlineMail :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineMail = element (unsafeCoerce hiOutlineMail_)
+hiOutlineMail = element (unsafeCoerce _hiOutlineMail)
 
-foreign import hiOutlineMailOpen_ :: ReactIcon
+foreign import _hiOutlineMailOpen :: ReactIcon
 
 hiOutlineMailOpen :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineMailOpen = element (unsafeCoerce hiOutlineMailOpen_)
+hiOutlineMailOpen = element (unsafeCoerce _hiOutlineMailOpen)
 
-foreign import hiOutlineMap_ :: ReactIcon
+foreign import _hiOutlineMap :: ReactIcon
 
 hiOutlineMap :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineMap = element (unsafeCoerce hiOutlineMap_)
+hiOutlineMap = element (unsafeCoerce _hiOutlineMap)
 
-foreign import hiOutlineMenu_ :: ReactIcon
+foreign import _hiOutlineMenu :: ReactIcon
 
 hiOutlineMenu :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineMenu = element (unsafeCoerce hiOutlineMenu_)
+hiOutlineMenu = element (unsafeCoerce _hiOutlineMenu)
 
-foreign import hiOutlineMicrophone_ :: ReactIcon
+foreign import _hiOutlineMicrophone :: ReactIcon
 
 hiOutlineMicrophone :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineMicrophone = element (unsafeCoerce hiOutlineMicrophone_)
+hiOutlineMicrophone = element (unsafeCoerce _hiOutlineMicrophone)
 
-foreign import hiOutlineMinus_ :: ReactIcon
+foreign import _hiOutlineMinus :: ReactIcon
 
 hiOutlineMinus :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineMinus = element (unsafeCoerce hiOutlineMinus_)
+hiOutlineMinus = element (unsafeCoerce _hiOutlineMinus)
 
-foreign import hiOutlineMinusCircle_ :: ReactIcon
+foreign import _hiOutlineMinusCircle :: ReactIcon
 
 hiOutlineMinusCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineMinusCircle = element (unsafeCoerce hiOutlineMinusCircle_)
+hiOutlineMinusCircle = element (unsafeCoerce _hiOutlineMinusCircle)
 
-foreign import hiOutlineMinusSm_ :: ReactIcon
+foreign import _hiOutlineMinusSm :: ReactIcon
 
 hiOutlineMinusSm :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineMinusSm = element (unsafeCoerce hiOutlineMinusSm_)
+hiOutlineMinusSm = element (unsafeCoerce _hiOutlineMinusSm)
 
-foreign import hiOutlineMoon_ :: ReactIcon
+foreign import _hiOutlineMoon :: ReactIcon
 
 hiOutlineMoon :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineMoon = element (unsafeCoerce hiOutlineMoon_)
+hiOutlineMoon = element (unsafeCoerce _hiOutlineMoon)
 
-foreign import hiOutlineMusicNote_ :: ReactIcon
+foreign import _hiOutlineMusicNote :: ReactIcon
 
 hiOutlineMusicNote :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineMusicNote = element (unsafeCoerce hiOutlineMusicNote_)
+hiOutlineMusicNote = element (unsafeCoerce _hiOutlineMusicNote)
 
-foreign import hiOutlineNewspaper_ :: ReactIcon
+foreign import _hiOutlineNewspaper :: ReactIcon
 
 hiOutlineNewspaper :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineNewspaper = element (unsafeCoerce hiOutlineNewspaper_)
+hiOutlineNewspaper = element (unsafeCoerce _hiOutlineNewspaper)
 
-foreign import hiOutlineOfficeBuilding_ :: ReactIcon
+foreign import _hiOutlineOfficeBuilding :: ReactIcon
 
 hiOutlineOfficeBuilding :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineOfficeBuilding = element (unsafeCoerce hiOutlineOfficeBuilding_)
+hiOutlineOfficeBuilding = element (unsafeCoerce _hiOutlineOfficeBuilding)
 
-foreign import hiOutlinePaperAirplane_ :: ReactIcon
+foreign import _hiOutlinePaperAirplane :: ReactIcon
 
 hiOutlinePaperAirplane :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlinePaperAirplane = element (unsafeCoerce hiOutlinePaperAirplane_)
+hiOutlinePaperAirplane = element (unsafeCoerce _hiOutlinePaperAirplane)
 
-foreign import hiOutlinePaperClip_ :: ReactIcon
+foreign import _hiOutlinePaperClip :: ReactIcon
 
 hiOutlinePaperClip :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlinePaperClip = element (unsafeCoerce hiOutlinePaperClip_)
+hiOutlinePaperClip = element (unsafeCoerce _hiOutlinePaperClip)
 
-foreign import hiOutlinePause_ :: ReactIcon
+foreign import _hiOutlinePause :: ReactIcon
 
 hiOutlinePause :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlinePause = element (unsafeCoerce hiOutlinePause_)
+hiOutlinePause = element (unsafeCoerce _hiOutlinePause)
 
-foreign import hiOutlinePencil_ :: ReactIcon
+foreign import _hiOutlinePencil :: ReactIcon
 
 hiOutlinePencil :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlinePencil = element (unsafeCoerce hiOutlinePencil_)
+hiOutlinePencil = element (unsafeCoerce _hiOutlinePencil)
 
-foreign import hiOutlinePencilAlt_ :: ReactIcon
+foreign import _hiOutlinePencilAlt :: ReactIcon
 
 hiOutlinePencilAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlinePencilAlt = element (unsafeCoerce hiOutlinePencilAlt_)
+hiOutlinePencilAlt = element (unsafeCoerce _hiOutlinePencilAlt)
 
-foreign import hiOutlinePhone_ :: ReactIcon
+foreign import _hiOutlinePhone :: ReactIcon
 
 hiOutlinePhone :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlinePhone = element (unsafeCoerce hiOutlinePhone_)
+hiOutlinePhone = element (unsafeCoerce _hiOutlinePhone)
 
-foreign import hiOutlinePhoneIncoming_ :: ReactIcon
+foreign import _hiOutlinePhoneIncoming :: ReactIcon
 
 hiOutlinePhoneIncoming :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlinePhoneIncoming = element (unsafeCoerce hiOutlinePhoneIncoming_)
+hiOutlinePhoneIncoming = element (unsafeCoerce _hiOutlinePhoneIncoming)
 
-foreign import hiOutlinePhoneMissedCall_ :: ReactIcon
+foreign import _hiOutlinePhoneMissedCall :: ReactIcon
 
 hiOutlinePhoneMissedCall :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlinePhoneMissedCall = element (unsafeCoerce hiOutlinePhoneMissedCall_)
+hiOutlinePhoneMissedCall = element (unsafeCoerce _hiOutlinePhoneMissedCall)
 
-foreign import hiOutlinePhoneOutgoing_ :: ReactIcon
+foreign import _hiOutlinePhoneOutgoing :: ReactIcon
 
 hiOutlinePhoneOutgoing :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlinePhoneOutgoing = element (unsafeCoerce hiOutlinePhoneOutgoing_)
+hiOutlinePhoneOutgoing = element (unsafeCoerce _hiOutlinePhoneOutgoing)
 
-foreign import hiOutlinePhotograph_ :: ReactIcon
+foreign import _hiOutlinePhotograph :: ReactIcon
 
 hiOutlinePhotograph :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlinePhotograph = element (unsafeCoerce hiOutlinePhotograph_)
+hiOutlinePhotograph = element (unsafeCoerce _hiOutlinePhotograph)
 
-foreign import hiOutlinePlay_ :: ReactIcon
+foreign import _hiOutlinePlay :: ReactIcon
 
 hiOutlinePlay :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlinePlay = element (unsafeCoerce hiOutlinePlay_)
+hiOutlinePlay = element (unsafeCoerce _hiOutlinePlay)
 
-foreign import hiOutlinePlus_ :: ReactIcon
+foreign import _hiOutlinePlus :: ReactIcon
 
 hiOutlinePlus :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlinePlus = element (unsafeCoerce hiOutlinePlus_)
+hiOutlinePlus = element (unsafeCoerce _hiOutlinePlus)
 
-foreign import hiOutlinePlusCircle_ :: ReactIcon
+foreign import _hiOutlinePlusCircle :: ReactIcon
 
 hiOutlinePlusCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlinePlusCircle = element (unsafeCoerce hiOutlinePlusCircle_)
+hiOutlinePlusCircle = element (unsafeCoerce _hiOutlinePlusCircle)
 
-foreign import hiOutlinePlusSm_ :: ReactIcon
+foreign import _hiOutlinePlusSm :: ReactIcon
 
 hiOutlinePlusSm :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlinePlusSm = element (unsafeCoerce hiOutlinePlusSm_)
+hiOutlinePlusSm = element (unsafeCoerce _hiOutlinePlusSm)
 
-foreign import hiOutlinePresentationChartBar_ :: ReactIcon
+foreign import _hiOutlinePresentationChartBar :: ReactIcon
 
 hiOutlinePresentationChartBar :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlinePresentationChartBar = element (unsafeCoerce hiOutlinePresentationChartBar_)
+hiOutlinePresentationChartBar = element (unsafeCoerce _hiOutlinePresentationChartBar)
 
-foreign import hiOutlinePresentationChartLine_ :: ReactIcon
+foreign import _hiOutlinePresentationChartLine :: ReactIcon
 
 hiOutlinePresentationChartLine :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlinePresentationChartLine = element (unsafeCoerce hiOutlinePresentationChartLine_)
+hiOutlinePresentationChartLine = element (unsafeCoerce _hiOutlinePresentationChartLine)
 
-foreign import hiOutlinePrinter_ :: ReactIcon
+foreign import _hiOutlinePrinter :: ReactIcon
 
 hiOutlinePrinter :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlinePrinter = element (unsafeCoerce hiOutlinePrinter_)
+hiOutlinePrinter = element (unsafeCoerce _hiOutlinePrinter)
 
-foreign import hiOutlinePuzzle_ :: ReactIcon
+foreign import _hiOutlinePuzzle :: ReactIcon
 
 hiOutlinePuzzle :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlinePuzzle = element (unsafeCoerce hiOutlinePuzzle_)
+hiOutlinePuzzle = element (unsafeCoerce _hiOutlinePuzzle)
 
-foreign import hiOutlineQrcode_ :: ReactIcon
+foreign import _hiOutlineQrcode :: ReactIcon
 
 hiOutlineQrcode :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineQrcode = element (unsafeCoerce hiOutlineQrcode_)
+hiOutlineQrcode = element (unsafeCoerce _hiOutlineQrcode)
 
-foreign import hiOutlineQuestionMarkCircle_ :: ReactIcon
+foreign import _hiOutlineQuestionMarkCircle :: ReactIcon
 
 hiOutlineQuestionMarkCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineQuestionMarkCircle = element (unsafeCoerce hiOutlineQuestionMarkCircle_)
+hiOutlineQuestionMarkCircle = element (unsafeCoerce _hiOutlineQuestionMarkCircle)
 
-foreign import hiOutlineReceiptRefund_ :: ReactIcon
+foreign import _hiOutlineReceiptRefund :: ReactIcon
 
 hiOutlineReceiptRefund :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineReceiptRefund = element (unsafeCoerce hiOutlineReceiptRefund_)
+hiOutlineReceiptRefund = element (unsafeCoerce _hiOutlineReceiptRefund)
 
-foreign import hiOutlineReceiptTax_ :: ReactIcon
+foreign import _hiOutlineReceiptTax :: ReactIcon
 
 hiOutlineReceiptTax :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineReceiptTax = element (unsafeCoerce hiOutlineReceiptTax_)
+hiOutlineReceiptTax = element (unsafeCoerce _hiOutlineReceiptTax)
 
-foreign import hiOutlineRefresh_ :: ReactIcon
+foreign import _hiOutlineRefresh :: ReactIcon
 
 hiOutlineRefresh :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineRefresh = element (unsafeCoerce hiOutlineRefresh_)
+hiOutlineRefresh = element (unsafeCoerce _hiOutlineRefresh)
 
-foreign import hiOutlineReply_ :: ReactIcon
+foreign import _hiOutlineReply :: ReactIcon
 
 hiOutlineReply :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineReply = element (unsafeCoerce hiOutlineReply_)
+hiOutlineReply = element (unsafeCoerce _hiOutlineReply)
 
-foreign import hiOutlineRewind_ :: ReactIcon
+foreign import _hiOutlineRewind :: ReactIcon
 
 hiOutlineRewind :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineRewind = element (unsafeCoerce hiOutlineRewind_)
+hiOutlineRewind = element (unsafeCoerce _hiOutlineRewind)
 
-foreign import hiOutlineRss_ :: ReactIcon
+foreign import _hiOutlineRss :: ReactIcon
 
 hiOutlineRss :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineRss = element (unsafeCoerce hiOutlineRss_)
+hiOutlineRss = element (unsafeCoerce _hiOutlineRss)
 
-foreign import hiOutlineSave_ :: ReactIcon
+foreign import _hiOutlineSave :: ReactIcon
 
 hiOutlineSave :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineSave = element (unsafeCoerce hiOutlineSave_)
+hiOutlineSave = element (unsafeCoerce _hiOutlineSave)
 
-foreign import hiOutlineSaveAs_ :: ReactIcon
+foreign import _hiOutlineSaveAs :: ReactIcon
 
 hiOutlineSaveAs :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineSaveAs = element (unsafeCoerce hiOutlineSaveAs_)
+hiOutlineSaveAs = element (unsafeCoerce _hiOutlineSaveAs)
 
-foreign import hiOutlineScale_ :: ReactIcon
+foreign import _hiOutlineScale :: ReactIcon
 
 hiOutlineScale :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineScale = element (unsafeCoerce hiOutlineScale_)
+hiOutlineScale = element (unsafeCoerce _hiOutlineScale)
 
-foreign import hiOutlineScissors_ :: ReactIcon
+foreign import _hiOutlineScissors :: ReactIcon
 
 hiOutlineScissors :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineScissors = element (unsafeCoerce hiOutlineScissors_)
+hiOutlineScissors = element (unsafeCoerce _hiOutlineScissors)
 
-foreign import hiOutlineSearch_ :: ReactIcon
+foreign import _hiOutlineSearch :: ReactIcon
 
 hiOutlineSearch :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineSearch = element (unsafeCoerce hiOutlineSearch_)
+hiOutlineSearch = element (unsafeCoerce _hiOutlineSearch)
 
-foreign import hiOutlineSearchCircle_ :: ReactIcon
+foreign import _hiOutlineSearchCircle :: ReactIcon
 
 hiOutlineSearchCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineSearchCircle = element (unsafeCoerce hiOutlineSearchCircle_)
+hiOutlineSearchCircle = element (unsafeCoerce _hiOutlineSearchCircle)
 
-foreign import hiOutlineSelector_ :: ReactIcon
+foreign import _hiOutlineSelector :: ReactIcon
 
 hiOutlineSelector :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineSelector = element (unsafeCoerce hiOutlineSelector_)
+hiOutlineSelector = element (unsafeCoerce _hiOutlineSelector)
 
-foreign import hiOutlineServer_ :: ReactIcon
+foreign import _hiOutlineServer :: ReactIcon
 
 hiOutlineServer :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineServer = element (unsafeCoerce hiOutlineServer_)
+hiOutlineServer = element (unsafeCoerce _hiOutlineServer)
 
-foreign import hiOutlineShare_ :: ReactIcon
+foreign import _hiOutlineShare :: ReactIcon
 
 hiOutlineShare :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineShare = element (unsafeCoerce hiOutlineShare_)
+hiOutlineShare = element (unsafeCoerce _hiOutlineShare)
 
-foreign import hiOutlineShieldCheck_ :: ReactIcon
+foreign import _hiOutlineShieldCheck :: ReactIcon
 
 hiOutlineShieldCheck :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineShieldCheck = element (unsafeCoerce hiOutlineShieldCheck_)
+hiOutlineShieldCheck = element (unsafeCoerce _hiOutlineShieldCheck)
 
-foreign import hiOutlineShieldExclamation_ :: ReactIcon
+foreign import _hiOutlineShieldExclamation :: ReactIcon
 
 hiOutlineShieldExclamation :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineShieldExclamation = element (unsafeCoerce hiOutlineShieldExclamation_)
+hiOutlineShieldExclamation = element (unsafeCoerce _hiOutlineShieldExclamation)
 
-foreign import hiOutlineShoppingBag_ :: ReactIcon
+foreign import _hiOutlineShoppingBag :: ReactIcon
 
 hiOutlineShoppingBag :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineShoppingBag = element (unsafeCoerce hiOutlineShoppingBag_)
+hiOutlineShoppingBag = element (unsafeCoerce _hiOutlineShoppingBag)
 
-foreign import hiOutlineShoppingCart_ :: ReactIcon
+foreign import _hiOutlineShoppingCart :: ReactIcon
 
 hiOutlineShoppingCart :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineShoppingCart = element (unsafeCoerce hiOutlineShoppingCart_)
+hiOutlineShoppingCart = element (unsafeCoerce _hiOutlineShoppingCart)
 
-foreign import hiOutlineSortAscending_ :: ReactIcon
+foreign import _hiOutlineSortAscending :: ReactIcon
 
 hiOutlineSortAscending :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineSortAscending = element (unsafeCoerce hiOutlineSortAscending_)
+hiOutlineSortAscending = element (unsafeCoerce _hiOutlineSortAscending)
 
-foreign import hiOutlineSortDescending_ :: ReactIcon
+foreign import _hiOutlineSortDescending :: ReactIcon
 
 hiOutlineSortDescending :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineSortDescending = element (unsafeCoerce hiOutlineSortDescending_)
+hiOutlineSortDescending = element (unsafeCoerce _hiOutlineSortDescending)
 
-foreign import hiOutlineSparkles_ :: ReactIcon
+foreign import _hiOutlineSparkles :: ReactIcon
 
 hiOutlineSparkles :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineSparkles = element (unsafeCoerce hiOutlineSparkles_)
+hiOutlineSparkles = element (unsafeCoerce _hiOutlineSparkles)
 
-foreign import hiOutlineSpeakerphone_ :: ReactIcon
+foreign import _hiOutlineSpeakerphone :: ReactIcon
 
 hiOutlineSpeakerphone :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineSpeakerphone = element (unsafeCoerce hiOutlineSpeakerphone_)
+hiOutlineSpeakerphone = element (unsafeCoerce _hiOutlineSpeakerphone)
 
-foreign import hiOutlineStar_ :: ReactIcon
+foreign import _hiOutlineStar :: ReactIcon
 
 hiOutlineStar :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineStar = element (unsafeCoerce hiOutlineStar_)
+hiOutlineStar = element (unsafeCoerce _hiOutlineStar)
 
-foreign import hiOutlineStatusOffline_ :: ReactIcon
+foreign import _hiOutlineStatusOffline :: ReactIcon
 
 hiOutlineStatusOffline :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineStatusOffline = element (unsafeCoerce hiOutlineStatusOffline_)
+hiOutlineStatusOffline = element (unsafeCoerce _hiOutlineStatusOffline)
 
-foreign import hiOutlineStatusOnline_ :: ReactIcon
+foreign import _hiOutlineStatusOnline :: ReactIcon
 
 hiOutlineStatusOnline :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineStatusOnline = element (unsafeCoerce hiOutlineStatusOnline_)
+hiOutlineStatusOnline = element (unsafeCoerce _hiOutlineStatusOnline)
 
-foreign import hiOutlineStop_ :: ReactIcon
+foreign import _hiOutlineStop :: ReactIcon
 
 hiOutlineStop :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineStop = element (unsafeCoerce hiOutlineStop_)
+hiOutlineStop = element (unsafeCoerce _hiOutlineStop)
 
-foreign import hiOutlineSun_ :: ReactIcon
+foreign import _hiOutlineSun :: ReactIcon
 
 hiOutlineSun :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineSun = element (unsafeCoerce hiOutlineSun_)
+hiOutlineSun = element (unsafeCoerce _hiOutlineSun)
 
-foreign import hiOutlineSupport_ :: ReactIcon
+foreign import _hiOutlineSupport :: ReactIcon
 
 hiOutlineSupport :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineSupport = element (unsafeCoerce hiOutlineSupport_)
+hiOutlineSupport = element (unsafeCoerce _hiOutlineSupport)
 
-foreign import hiOutlineSwitchHorizontal_ :: ReactIcon
+foreign import _hiOutlineSwitchHorizontal :: ReactIcon
 
 hiOutlineSwitchHorizontal :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineSwitchHorizontal = element (unsafeCoerce hiOutlineSwitchHorizontal_)
+hiOutlineSwitchHorizontal = element (unsafeCoerce _hiOutlineSwitchHorizontal)
 
-foreign import hiOutlineSwitchVertical_ :: ReactIcon
+foreign import _hiOutlineSwitchVertical :: ReactIcon
 
 hiOutlineSwitchVertical :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineSwitchVertical = element (unsafeCoerce hiOutlineSwitchVertical_)
+hiOutlineSwitchVertical = element (unsafeCoerce _hiOutlineSwitchVertical)
 
-foreign import hiOutlineTable_ :: ReactIcon
+foreign import _hiOutlineTable :: ReactIcon
 
 hiOutlineTable :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineTable = element (unsafeCoerce hiOutlineTable_)
+hiOutlineTable = element (unsafeCoerce _hiOutlineTable)
 
-foreign import hiOutlineTag_ :: ReactIcon
+foreign import _hiOutlineTag :: ReactIcon
 
 hiOutlineTag :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineTag = element (unsafeCoerce hiOutlineTag_)
+hiOutlineTag = element (unsafeCoerce _hiOutlineTag)
 
-foreign import hiOutlineTemplate_ :: ReactIcon
+foreign import _hiOutlineTemplate :: ReactIcon
 
 hiOutlineTemplate :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineTemplate = element (unsafeCoerce hiOutlineTemplate_)
+hiOutlineTemplate = element (unsafeCoerce _hiOutlineTemplate)
 
-foreign import hiOutlineTerminal_ :: ReactIcon
+foreign import _hiOutlineTerminal :: ReactIcon
 
 hiOutlineTerminal :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineTerminal = element (unsafeCoerce hiOutlineTerminal_)
+hiOutlineTerminal = element (unsafeCoerce _hiOutlineTerminal)
 
-foreign import hiOutlineThumbDown_ :: ReactIcon
+foreign import _hiOutlineThumbDown :: ReactIcon
 
 hiOutlineThumbDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineThumbDown = element (unsafeCoerce hiOutlineThumbDown_)
+hiOutlineThumbDown = element (unsafeCoerce _hiOutlineThumbDown)
 
-foreign import hiOutlineThumbUp_ :: ReactIcon
+foreign import _hiOutlineThumbUp :: ReactIcon
 
 hiOutlineThumbUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineThumbUp = element (unsafeCoerce hiOutlineThumbUp_)
+hiOutlineThumbUp = element (unsafeCoerce _hiOutlineThumbUp)
 
-foreign import hiOutlineTicket_ :: ReactIcon
+foreign import _hiOutlineTicket :: ReactIcon
 
 hiOutlineTicket :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineTicket = element (unsafeCoerce hiOutlineTicket_)
+hiOutlineTicket = element (unsafeCoerce _hiOutlineTicket)
 
-foreign import hiOutlineTranslate_ :: ReactIcon
+foreign import _hiOutlineTranslate :: ReactIcon
 
 hiOutlineTranslate :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineTranslate = element (unsafeCoerce hiOutlineTranslate_)
+hiOutlineTranslate = element (unsafeCoerce _hiOutlineTranslate)
 
-foreign import hiOutlineTrash_ :: ReactIcon
+foreign import _hiOutlineTrash :: ReactIcon
 
 hiOutlineTrash :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineTrash = element (unsafeCoerce hiOutlineTrash_)
+hiOutlineTrash = element (unsafeCoerce _hiOutlineTrash)
 
-foreign import hiOutlineTrendingDown_ :: ReactIcon
+foreign import _hiOutlineTrendingDown :: ReactIcon
 
 hiOutlineTrendingDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineTrendingDown = element (unsafeCoerce hiOutlineTrendingDown_)
+hiOutlineTrendingDown = element (unsafeCoerce _hiOutlineTrendingDown)
 
-foreign import hiOutlineTrendingUp_ :: ReactIcon
+foreign import _hiOutlineTrendingUp :: ReactIcon
 
 hiOutlineTrendingUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineTrendingUp = element (unsafeCoerce hiOutlineTrendingUp_)
+hiOutlineTrendingUp = element (unsafeCoerce _hiOutlineTrendingUp)
 
-foreign import hiOutlineTruck_ :: ReactIcon
+foreign import _hiOutlineTruck :: ReactIcon
 
 hiOutlineTruck :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineTruck = element (unsafeCoerce hiOutlineTruck_)
+hiOutlineTruck = element (unsafeCoerce _hiOutlineTruck)
 
-foreign import hiOutlineUpload_ :: ReactIcon
+foreign import _hiOutlineUpload :: ReactIcon
 
 hiOutlineUpload :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineUpload = element (unsafeCoerce hiOutlineUpload_)
+hiOutlineUpload = element (unsafeCoerce _hiOutlineUpload)
 
-foreign import hiOutlineUser_ :: ReactIcon
+foreign import _hiOutlineUser :: ReactIcon
 
 hiOutlineUser :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineUser = element (unsafeCoerce hiOutlineUser_)
+hiOutlineUser = element (unsafeCoerce _hiOutlineUser)
 
-foreign import hiOutlineUserAdd_ :: ReactIcon
+foreign import _hiOutlineUserAdd :: ReactIcon
 
 hiOutlineUserAdd :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineUserAdd = element (unsafeCoerce hiOutlineUserAdd_)
+hiOutlineUserAdd = element (unsafeCoerce _hiOutlineUserAdd)
 
-foreign import hiOutlineUserCircle_ :: ReactIcon
+foreign import _hiOutlineUserCircle :: ReactIcon
 
 hiOutlineUserCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineUserCircle = element (unsafeCoerce hiOutlineUserCircle_)
+hiOutlineUserCircle = element (unsafeCoerce _hiOutlineUserCircle)
 
-foreign import hiOutlineUserGroup_ :: ReactIcon
+foreign import _hiOutlineUserGroup :: ReactIcon
 
 hiOutlineUserGroup :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineUserGroup = element (unsafeCoerce hiOutlineUserGroup_)
+hiOutlineUserGroup = element (unsafeCoerce _hiOutlineUserGroup)
 
-foreign import hiOutlineUserRemove_ :: ReactIcon
+foreign import _hiOutlineUserRemove :: ReactIcon
 
 hiOutlineUserRemove :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineUserRemove = element (unsafeCoerce hiOutlineUserRemove_)
+hiOutlineUserRemove = element (unsafeCoerce _hiOutlineUserRemove)
 
-foreign import hiOutlineUsers_ :: ReactIcon
+foreign import _hiOutlineUsers :: ReactIcon
 
 hiOutlineUsers :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineUsers = element (unsafeCoerce hiOutlineUsers_)
+hiOutlineUsers = element (unsafeCoerce _hiOutlineUsers)
 
-foreign import hiOutlineVariable_ :: ReactIcon
+foreign import _hiOutlineVariable :: ReactIcon
 
 hiOutlineVariable :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineVariable = element (unsafeCoerce hiOutlineVariable_)
+hiOutlineVariable = element (unsafeCoerce _hiOutlineVariable)
 
-foreign import hiOutlineVideoCamera_ :: ReactIcon
+foreign import _hiOutlineVideoCamera :: ReactIcon
 
 hiOutlineVideoCamera :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineVideoCamera = element (unsafeCoerce hiOutlineVideoCamera_)
+hiOutlineVideoCamera = element (unsafeCoerce _hiOutlineVideoCamera)
 
-foreign import hiOutlineViewBoards_ :: ReactIcon
+foreign import _hiOutlineViewBoards :: ReactIcon
 
 hiOutlineViewBoards :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineViewBoards = element (unsafeCoerce hiOutlineViewBoards_)
+hiOutlineViewBoards = element (unsafeCoerce _hiOutlineViewBoards)
 
-foreign import hiOutlineViewGrid_ :: ReactIcon
+foreign import _hiOutlineViewGrid :: ReactIcon
 
 hiOutlineViewGrid :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineViewGrid = element (unsafeCoerce hiOutlineViewGrid_)
+hiOutlineViewGrid = element (unsafeCoerce _hiOutlineViewGrid)
 
-foreign import hiOutlineViewGridAdd_ :: ReactIcon
+foreign import _hiOutlineViewGridAdd :: ReactIcon
 
 hiOutlineViewGridAdd :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineViewGridAdd = element (unsafeCoerce hiOutlineViewGridAdd_)
+hiOutlineViewGridAdd = element (unsafeCoerce _hiOutlineViewGridAdd)
 
-foreign import hiOutlineViewList_ :: ReactIcon
+foreign import _hiOutlineViewList :: ReactIcon
 
 hiOutlineViewList :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineViewList = element (unsafeCoerce hiOutlineViewList_)
+hiOutlineViewList = element (unsafeCoerce _hiOutlineViewList)
 
-foreign import hiOutlineVolumeOff_ :: ReactIcon
+foreign import _hiOutlineVolumeOff :: ReactIcon
 
 hiOutlineVolumeOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineVolumeOff = element (unsafeCoerce hiOutlineVolumeOff_)
+hiOutlineVolumeOff = element (unsafeCoerce _hiOutlineVolumeOff)
 
-foreign import hiOutlineVolumeUp_ :: ReactIcon
+foreign import _hiOutlineVolumeUp :: ReactIcon
 
 hiOutlineVolumeUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineVolumeUp = element (unsafeCoerce hiOutlineVolumeUp_)
+hiOutlineVolumeUp = element (unsafeCoerce _hiOutlineVolumeUp)
 
-foreign import hiOutlineWifi_ :: ReactIcon
+foreign import _hiOutlineWifi :: ReactIcon
 
 hiOutlineWifi :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineWifi = element (unsafeCoerce hiOutlineWifi_)
+hiOutlineWifi = element (unsafeCoerce _hiOutlineWifi)
 
-foreign import hiOutlineX_ :: ReactIcon
+foreign import _hiOutlineX :: ReactIcon
 
 hiOutlineX :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineX = element (unsafeCoerce hiOutlineX_)
+hiOutlineX = element (unsafeCoerce _hiOutlineX)
 
-foreign import hiOutlineXCircle_ :: ReactIcon
+foreign import _hiOutlineXCircle :: ReactIcon
 
 hiOutlineXCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineXCircle = element (unsafeCoerce hiOutlineXCircle_)
+hiOutlineXCircle = element (unsafeCoerce _hiOutlineXCircle)
 
-foreign import hiOutlineZoomIn_ :: ReactIcon
+foreign import _hiOutlineZoomIn :: ReactIcon
 
 hiOutlineZoomIn :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineZoomIn = element (unsafeCoerce hiOutlineZoomIn_)
+hiOutlineZoomIn = element (unsafeCoerce _hiOutlineZoomIn)
 
-foreign import hiOutlineZoomOut_ :: ReactIcon
+foreign import _hiOutlineZoomOut :: ReactIcon
 
 hiOutlineZoomOut :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiOutlineZoomOut = element (unsafeCoerce hiOutlineZoomOut_)
+hiOutlineZoomOut = element (unsafeCoerce _hiOutlineZoomOut)
 
-foreign import hiPaperAirplane_ :: ReactIcon
+foreign import _hiPaperAirplane :: ReactIcon
 
 hiPaperAirplane :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiPaperAirplane = element (unsafeCoerce hiPaperAirplane_)
+hiPaperAirplane = element (unsafeCoerce _hiPaperAirplane)
 
-foreign import hiPaperClip_ :: ReactIcon
+foreign import _hiPaperClip :: ReactIcon
 
 hiPaperClip :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiPaperClip = element (unsafeCoerce hiPaperClip_)
+hiPaperClip = element (unsafeCoerce _hiPaperClip)
 
-foreign import hiPause_ :: ReactIcon
+foreign import _hiPause :: ReactIcon
 
 hiPause :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiPause = element (unsafeCoerce hiPause_)
+hiPause = element (unsafeCoerce _hiPause)
 
-foreign import hiPencil_ :: ReactIcon
+foreign import _hiPencil :: ReactIcon
 
 hiPencil :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiPencil = element (unsafeCoerce hiPencil_)
+hiPencil = element (unsafeCoerce _hiPencil)
 
-foreign import hiPencilAlt_ :: ReactIcon
+foreign import _hiPencilAlt :: ReactIcon
 
 hiPencilAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiPencilAlt = element (unsafeCoerce hiPencilAlt_)
+hiPencilAlt = element (unsafeCoerce _hiPencilAlt)
 
-foreign import hiPhone_ :: ReactIcon
+foreign import _hiPhone :: ReactIcon
 
 hiPhone :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiPhone = element (unsafeCoerce hiPhone_)
+hiPhone = element (unsafeCoerce _hiPhone)
 
-foreign import hiPhoneIncoming_ :: ReactIcon
+foreign import _hiPhoneIncoming :: ReactIcon
 
 hiPhoneIncoming :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiPhoneIncoming = element (unsafeCoerce hiPhoneIncoming_)
+hiPhoneIncoming = element (unsafeCoerce _hiPhoneIncoming)
 
-foreign import hiPhoneMissedCall_ :: ReactIcon
+foreign import _hiPhoneMissedCall :: ReactIcon
 
 hiPhoneMissedCall :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiPhoneMissedCall = element (unsafeCoerce hiPhoneMissedCall_)
+hiPhoneMissedCall = element (unsafeCoerce _hiPhoneMissedCall)
 
-foreign import hiPhoneOutgoing_ :: ReactIcon
+foreign import _hiPhoneOutgoing :: ReactIcon
 
 hiPhoneOutgoing :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiPhoneOutgoing = element (unsafeCoerce hiPhoneOutgoing_)
+hiPhoneOutgoing = element (unsafeCoerce _hiPhoneOutgoing)
 
-foreign import hiPhotograph_ :: ReactIcon
+foreign import _hiPhotograph :: ReactIcon
 
 hiPhotograph :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiPhotograph = element (unsafeCoerce hiPhotograph_)
+hiPhotograph = element (unsafeCoerce _hiPhotograph)
 
-foreign import hiPlay_ :: ReactIcon
+foreign import _hiPlay :: ReactIcon
 
 hiPlay :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiPlay = element (unsafeCoerce hiPlay_)
+hiPlay = element (unsafeCoerce _hiPlay)
 
-foreign import hiPlus_ :: ReactIcon
+foreign import _hiPlus :: ReactIcon
 
 hiPlus :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiPlus = element (unsafeCoerce hiPlus_)
+hiPlus = element (unsafeCoerce _hiPlus)
 
-foreign import hiPlusCircle_ :: ReactIcon
+foreign import _hiPlusCircle :: ReactIcon
 
 hiPlusCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiPlusCircle = element (unsafeCoerce hiPlusCircle_)
+hiPlusCircle = element (unsafeCoerce _hiPlusCircle)
 
-foreign import hiPlusSm_ :: ReactIcon
+foreign import _hiPlusSm :: ReactIcon
 
 hiPlusSm :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiPlusSm = element (unsafeCoerce hiPlusSm_)
+hiPlusSm = element (unsafeCoerce _hiPlusSm)
 
-foreign import hiPresentationChartBar_ :: ReactIcon
+foreign import _hiPresentationChartBar :: ReactIcon
 
 hiPresentationChartBar :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiPresentationChartBar = element (unsafeCoerce hiPresentationChartBar_)
+hiPresentationChartBar = element (unsafeCoerce _hiPresentationChartBar)
 
-foreign import hiPresentationChartLine_ :: ReactIcon
+foreign import _hiPresentationChartLine :: ReactIcon
 
 hiPresentationChartLine :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiPresentationChartLine = element (unsafeCoerce hiPresentationChartLine_)
+hiPresentationChartLine = element (unsafeCoerce _hiPresentationChartLine)
 
-foreign import hiPrinter_ :: ReactIcon
+foreign import _hiPrinter :: ReactIcon
 
 hiPrinter :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiPrinter = element (unsafeCoerce hiPrinter_)
+hiPrinter = element (unsafeCoerce _hiPrinter)
 
-foreign import hiPuzzle_ :: ReactIcon
+foreign import _hiPuzzle :: ReactIcon
 
 hiPuzzle :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiPuzzle = element (unsafeCoerce hiPuzzle_)
+hiPuzzle = element (unsafeCoerce _hiPuzzle)
 
-foreign import hiQrcode_ :: ReactIcon
+foreign import _hiQrcode :: ReactIcon
 
 hiQrcode :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiQrcode = element (unsafeCoerce hiQrcode_)
+hiQrcode = element (unsafeCoerce _hiQrcode)
 
-foreign import hiQuestionMarkCircle_ :: ReactIcon
+foreign import _hiQuestionMarkCircle :: ReactIcon
 
 hiQuestionMarkCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiQuestionMarkCircle = element (unsafeCoerce hiQuestionMarkCircle_)
+hiQuestionMarkCircle = element (unsafeCoerce _hiQuestionMarkCircle)
 
-foreign import hiReceiptRefund_ :: ReactIcon
+foreign import _hiReceiptRefund :: ReactIcon
 
 hiReceiptRefund :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiReceiptRefund = element (unsafeCoerce hiReceiptRefund_)
+hiReceiptRefund = element (unsafeCoerce _hiReceiptRefund)
 
-foreign import hiReceiptTax_ :: ReactIcon
+foreign import _hiReceiptTax :: ReactIcon
 
 hiReceiptTax :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiReceiptTax = element (unsafeCoerce hiReceiptTax_)
+hiReceiptTax = element (unsafeCoerce _hiReceiptTax)
 
-foreign import hiRefresh_ :: ReactIcon
+foreign import _hiRefresh :: ReactIcon
 
 hiRefresh :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiRefresh = element (unsafeCoerce hiRefresh_)
+hiRefresh = element (unsafeCoerce _hiRefresh)
 
-foreign import hiReply_ :: ReactIcon
+foreign import _hiReply :: ReactIcon
 
 hiReply :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiReply = element (unsafeCoerce hiReply_)
+hiReply = element (unsafeCoerce _hiReply)
 
-foreign import hiRewind_ :: ReactIcon
+foreign import _hiRewind :: ReactIcon
 
 hiRewind :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiRewind = element (unsafeCoerce hiRewind_)
+hiRewind = element (unsafeCoerce _hiRewind)
 
-foreign import hiRss_ :: ReactIcon
+foreign import _hiRss :: ReactIcon
 
 hiRss :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiRss = element (unsafeCoerce hiRss_)
+hiRss = element (unsafeCoerce _hiRss)
 
-foreign import hiSave_ :: ReactIcon
+foreign import _hiSave :: ReactIcon
 
 hiSave :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiSave = element (unsafeCoerce hiSave_)
+hiSave = element (unsafeCoerce _hiSave)
 
-foreign import hiSaveAs_ :: ReactIcon
+foreign import _hiSaveAs :: ReactIcon
 
 hiSaveAs :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiSaveAs = element (unsafeCoerce hiSaveAs_)
+hiSaveAs = element (unsafeCoerce _hiSaveAs)
 
-foreign import hiScale_ :: ReactIcon
+foreign import _hiScale :: ReactIcon
 
 hiScale :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiScale = element (unsafeCoerce hiScale_)
+hiScale = element (unsafeCoerce _hiScale)
 
-foreign import hiScissors_ :: ReactIcon
+foreign import _hiScissors :: ReactIcon
 
 hiScissors :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiScissors = element (unsafeCoerce hiScissors_)
+hiScissors = element (unsafeCoerce _hiScissors)
 
-foreign import hiSearch_ :: ReactIcon
+foreign import _hiSearch :: ReactIcon
 
 hiSearch :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiSearch = element (unsafeCoerce hiSearch_)
+hiSearch = element (unsafeCoerce _hiSearch)
 
-foreign import hiSearchCircle_ :: ReactIcon
+foreign import _hiSearchCircle :: ReactIcon
 
 hiSearchCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiSearchCircle = element (unsafeCoerce hiSearchCircle_)
+hiSearchCircle = element (unsafeCoerce _hiSearchCircle)
 
-foreign import hiSelector_ :: ReactIcon
+foreign import _hiSelector :: ReactIcon
 
 hiSelector :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiSelector = element (unsafeCoerce hiSelector_)
+hiSelector = element (unsafeCoerce _hiSelector)
 
-foreign import hiServer_ :: ReactIcon
+foreign import _hiServer :: ReactIcon
 
 hiServer :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiServer = element (unsafeCoerce hiServer_)
+hiServer = element (unsafeCoerce _hiServer)
 
-foreign import hiShare_ :: ReactIcon
+foreign import _hiShare :: ReactIcon
 
 hiShare :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiShare = element (unsafeCoerce hiShare_)
+hiShare = element (unsafeCoerce _hiShare)
 
-foreign import hiShieldCheck_ :: ReactIcon
+foreign import _hiShieldCheck :: ReactIcon
 
 hiShieldCheck :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiShieldCheck = element (unsafeCoerce hiShieldCheck_)
+hiShieldCheck = element (unsafeCoerce _hiShieldCheck)
 
-foreign import hiShieldExclamation_ :: ReactIcon
+foreign import _hiShieldExclamation :: ReactIcon
 
 hiShieldExclamation :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiShieldExclamation = element (unsafeCoerce hiShieldExclamation_)
+hiShieldExclamation = element (unsafeCoerce _hiShieldExclamation)
 
-foreign import hiShoppingBag_ :: ReactIcon
+foreign import _hiShoppingBag :: ReactIcon
 
 hiShoppingBag :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiShoppingBag = element (unsafeCoerce hiShoppingBag_)
+hiShoppingBag = element (unsafeCoerce _hiShoppingBag)
 
-foreign import hiShoppingCart_ :: ReactIcon
+foreign import _hiShoppingCart :: ReactIcon
 
 hiShoppingCart :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiShoppingCart = element (unsafeCoerce hiShoppingCart_)
+hiShoppingCart = element (unsafeCoerce _hiShoppingCart)
 
-foreign import hiSortAscending_ :: ReactIcon
+foreign import _hiSortAscending :: ReactIcon
 
 hiSortAscending :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiSortAscending = element (unsafeCoerce hiSortAscending_)
+hiSortAscending = element (unsafeCoerce _hiSortAscending)
 
-foreign import hiSortDescending_ :: ReactIcon
+foreign import _hiSortDescending :: ReactIcon
 
 hiSortDescending :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiSortDescending = element (unsafeCoerce hiSortDescending_)
+hiSortDescending = element (unsafeCoerce _hiSortDescending)
 
-foreign import hiSparkles_ :: ReactIcon
+foreign import _hiSparkles :: ReactIcon
 
 hiSparkles :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiSparkles = element (unsafeCoerce hiSparkles_)
+hiSparkles = element (unsafeCoerce _hiSparkles)
 
-foreign import hiSpeakerphone_ :: ReactIcon
+foreign import _hiSpeakerphone :: ReactIcon
 
 hiSpeakerphone :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiSpeakerphone = element (unsafeCoerce hiSpeakerphone_)
+hiSpeakerphone = element (unsafeCoerce _hiSpeakerphone)
 
-foreign import hiStar_ :: ReactIcon
+foreign import _hiStar :: ReactIcon
 
 hiStar :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiStar = element (unsafeCoerce hiStar_)
+hiStar = element (unsafeCoerce _hiStar)
 
-foreign import hiStatusOffline_ :: ReactIcon
+foreign import _hiStatusOffline :: ReactIcon
 
 hiStatusOffline :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiStatusOffline = element (unsafeCoerce hiStatusOffline_)
+hiStatusOffline = element (unsafeCoerce _hiStatusOffline)
 
-foreign import hiStatusOnline_ :: ReactIcon
+foreign import _hiStatusOnline :: ReactIcon
 
 hiStatusOnline :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiStatusOnline = element (unsafeCoerce hiStatusOnline_)
+hiStatusOnline = element (unsafeCoerce _hiStatusOnline)
 
-foreign import hiStop_ :: ReactIcon
+foreign import _hiStop :: ReactIcon
 
 hiStop :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiStop = element (unsafeCoerce hiStop_)
+hiStop = element (unsafeCoerce _hiStop)
 
-foreign import hiSun_ :: ReactIcon
+foreign import _hiSun :: ReactIcon
 
 hiSun :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiSun = element (unsafeCoerce hiSun_)
+hiSun = element (unsafeCoerce _hiSun)
 
-foreign import hiSupport_ :: ReactIcon
+foreign import _hiSupport :: ReactIcon
 
 hiSupport :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiSupport = element (unsafeCoerce hiSupport_)
+hiSupport = element (unsafeCoerce _hiSupport)
 
-foreign import hiSwitchHorizontal_ :: ReactIcon
+foreign import _hiSwitchHorizontal :: ReactIcon
 
 hiSwitchHorizontal :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiSwitchHorizontal = element (unsafeCoerce hiSwitchHorizontal_)
+hiSwitchHorizontal = element (unsafeCoerce _hiSwitchHorizontal)
 
-foreign import hiSwitchVertical_ :: ReactIcon
+foreign import _hiSwitchVertical :: ReactIcon
 
 hiSwitchVertical :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiSwitchVertical = element (unsafeCoerce hiSwitchVertical_)
+hiSwitchVertical = element (unsafeCoerce _hiSwitchVertical)
 
-foreign import hiTable_ :: ReactIcon
+foreign import _hiTable :: ReactIcon
 
 hiTable :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiTable = element (unsafeCoerce hiTable_)
+hiTable = element (unsafeCoerce _hiTable)
 
-foreign import hiTag_ :: ReactIcon
+foreign import _hiTag :: ReactIcon
 
 hiTag :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiTag = element (unsafeCoerce hiTag_)
+hiTag = element (unsafeCoerce _hiTag)
 
-foreign import hiTemplate_ :: ReactIcon
+foreign import _hiTemplate :: ReactIcon
 
 hiTemplate :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiTemplate = element (unsafeCoerce hiTemplate_)
+hiTemplate = element (unsafeCoerce _hiTemplate)
 
-foreign import hiTerminal_ :: ReactIcon
+foreign import _hiTerminal :: ReactIcon
 
 hiTerminal :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiTerminal = element (unsafeCoerce hiTerminal_)
+hiTerminal = element (unsafeCoerce _hiTerminal)
 
-foreign import hiThumbDown_ :: ReactIcon
+foreign import _hiThumbDown :: ReactIcon
 
 hiThumbDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiThumbDown = element (unsafeCoerce hiThumbDown_)
+hiThumbDown = element (unsafeCoerce _hiThumbDown)
 
-foreign import hiThumbUp_ :: ReactIcon
+foreign import _hiThumbUp :: ReactIcon
 
 hiThumbUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiThumbUp = element (unsafeCoerce hiThumbUp_)
+hiThumbUp = element (unsafeCoerce _hiThumbUp)
 
-foreign import hiTicket_ :: ReactIcon
+foreign import _hiTicket :: ReactIcon
 
 hiTicket :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiTicket = element (unsafeCoerce hiTicket_)
+hiTicket = element (unsafeCoerce _hiTicket)
 
-foreign import hiTranslate_ :: ReactIcon
+foreign import _hiTranslate :: ReactIcon
 
 hiTranslate :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiTranslate = element (unsafeCoerce hiTranslate_)
+hiTranslate = element (unsafeCoerce _hiTranslate)
 
-foreign import hiTrash_ :: ReactIcon
+foreign import _hiTrash :: ReactIcon
 
 hiTrash :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiTrash = element (unsafeCoerce hiTrash_)
+hiTrash = element (unsafeCoerce _hiTrash)
 
-foreign import hiTrendingDown_ :: ReactIcon
+foreign import _hiTrendingDown :: ReactIcon
 
 hiTrendingDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiTrendingDown = element (unsafeCoerce hiTrendingDown_)
+hiTrendingDown = element (unsafeCoerce _hiTrendingDown)
 
-foreign import hiTrendingUp_ :: ReactIcon
+foreign import _hiTrendingUp :: ReactIcon
 
 hiTrendingUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiTrendingUp = element (unsafeCoerce hiTrendingUp_)
+hiTrendingUp = element (unsafeCoerce _hiTrendingUp)
 
-foreign import hiTruck_ :: ReactIcon
+foreign import _hiTruck :: ReactIcon
 
 hiTruck :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiTruck = element (unsafeCoerce hiTruck_)
+hiTruck = element (unsafeCoerce _hiTruck)
 
-foreign import hiUpload_ :: ReactIcon
+foreign import _hiUpload :: ReactIcon
 
 hiUpload :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiUpload = element (unsafeCoerce hiUpload_)
+hiUpload = element (unsafeCoerce _hiUpload)
 
-foreign import hiUser_ :: ReactIcon
+foreign import _hiUser :: ReactIcon
 
 hiUser :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiUser = element (unsafeCoerce hiUser_)
+hiUser = element (unsafeCoerce _hiUser)
 
-foreign import hiUserAdd_ :: ReactIcon
+foreign import _hiUserAdd :: ReactIcon
 
 hiUserAdd :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiUserAdd = element (unsafeCoerce hiUserAdd_)
+hiUserAdd = element (unsafeCoerce _hiUserAdd)
 
-foreign import hiUserCircle_ :: ReactIcon
+foreign import _hiUserCircle :: ReactIcon
 
 hiUserCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiUserCircle = element (unsafeCoerce hiUserCircle_)
+hiUserCircle = element (unsafeCoerce _hiUserCircle)
 
-foreign import hiUserGroup_ :: ReactIcon
+foreign import _hiUserGroup :: ReactIcon
 
 hiUserGroup :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiUserGroup = element (unsafeCoerce hiUserGroup_)
+hiUserGroup = element (unsafeCoerce _hiUserGroup)
 
-foreign import hiUserRemove_ :: ReactIcon
+foreign import _hiUserRemove :: ReactIcon
 
 hiUserRemove :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiUserRemove = element (unsafeCoerce hiUserRemove_)
+hiUserRemove = element (unsafeCoerce _hiUserRemove)
 
-foreign import hiUsers_ :: ReactIcon
+foreign import _hiUsers :: ReactIcon
 
 hiUsers :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiUsers = element (unsafeCoerce hiUsers_)
+hiUsers = element (unsafeCoerce _hiUsers)
 
-foreign import hiVariable_ :: ReactIcon
+foreign import _hiVariable :: ReactIcon
 
 hiVariable :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiVariable = element (unsafeCoerce hiVariable_)
+hiVariable = element (unsafeCoerce _hiVariable)
 
-foreign import hiVideoCamera_ :: ReactIcon
+foreign import _hiVideoCamera :: ReactIcon
 
 hiVideoCamera :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiVideoCamera = element (unsafeCoerce hiVideoCamera_)
+hiVideoCamera = element (unsafeCoerce _hiVideoCamera)
 
-foreign import hiViewBoards_ :: ReactIcon
+foreign import _hiViewBoards :: ReactIcon
 
 hiViewBoards :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiViewBoards = element (unsafeCoerce hiViewBoards_)
+hiViewBoards = element (unsafeCoerce _hiViewBoards)
 
-foreign import hiViewGrid_ :: ReactIcon
+foreign import _hiViewGrid :: ReactIcon
 
 hiViewGrid :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiViewGrid = element (unsafeCoerce hiViewGrid_)
+hiViewGrid = element (unsafeCoerce _hiViewGrid)
 
-foreign import hiViewGridAdd_ :: ReactIcon
+foreign import _hiViewGridAdd :: ReactIcon
 
 hiViewGridAdd :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiViewGridAdd = element (unsafeCoerce hiViewGridAdd_)
+hiViewGridAdd = element (unsafeCoerce _hiViewGridAdd)
 
-foreign import hiViewList_ :: ReactIcon
+foreign import _hiViewList :: ReactIcon
 
 hiViewList :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiViewList = element (unsafeCoerce hiViewList_)
+hiViewList = element (unsafeCoerce _hiViewList)
 
-foreign import hiVolumeOff_ :: ReactIcon
+foreign import _hiVolumeOff :: ReactIcon
 
 hiVolumeOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiVolumeOff = element (unsafeCoerce hiVolumeOff_)
+hiVolumeOff = element (unsafeCoerce _hiVolumeOff)
 
-foreign import hiVolumeUp_ :: ReactIcon
+foreign import _hiVolumeUp :: ReactIcon
 
 hiVolumeUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiVolumeUp = element (unsafeCoerce hiVolumeUp_)
+hiVolumeUp = element (unsafeCoerce _hiVolumeUp)
 
-foreign import hiWifi_ :: ReactIcon
+foreign import _hiWifi :: ReactIcon
 
 hiWifi :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiWifi = element (unsafeCoerce hiWifi_)
+hiWifi = element (unsafeCoerce _hiWifi)
 
-foreign import hiX_ :: ReactIcon
+foreign import _hiX :: ReactIcon
 
 hiX :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiX = element (unsafeCoerce hiX_)
+hiX = element (unsafeCoerce _hiX)
 
-foreign import hiXCircle_ :: ReactIcon
+foreign import _hiXCircle :: ReactIcon
 
 hiXCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiXCircle = element (unsafeCoerce hiXCircle_)
+hiXCircle = element (unsafeCoerce _hiXCircle)
 
-foreign import hiZoomIn_ :: ReactIcon
+foreign import _hiZoomIn :: ReactIcon
 
 hiZoomIn :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiZoomIn = element (unsafeCoerce hiZoomIn_)
+hiZoomIn = element (unsafeCoerce _hiZoomIn)
 
-foreign import hiZoomOut_ :: ReactIcon
+foreign import _hiZoomOut :: ReactIcon
 
 hiZoomOut :: forall a b. Union a b PropsIcon => Record a -> JSX
-hiZoomOut = element (unsafeCoerce hiZoomOut_)
+hiZoomOut = element (unsafeCoerce _hiZoomOut)

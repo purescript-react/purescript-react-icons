@@ -9,1917 +9,1917 @@ import React.Basic (JSX, element)
 import React.Icons.Types (ReactIcon, PropsIcon)
 import Unsafe.Coerce (unsafeCoerce)
 
-foreign import vscAccount_ :: ReactIcon
+foreign import _vscAccount :: ReactIcon
 
 vscAccount :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscAccount = element (unsafeCoerce vscAccount_)
+vscAccount = element (unsafeCoerce _vscAccount)
 
-foreign import vscActivateBreakpoints_ :: ReactIcon
+foreign import _vscActivateBreakpoints :: ReactIcon
 
 vscActivateBreakpoints :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscActivateBreakpoints = element (unsafeCoerce vscActivateBreakpoints_)
+vscActivateBreakpoints = element (unsafeCoerce _vscActivateBreakpoints)
 
-foreign import vscAdd_ :: ReactIcon
+foreign import _vscAdd :: ReactIcon
 
 vscAdd :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscAdd = element (unsafeCoerce vscAdd_)
+vscAdd = element (unsafeCoerce _vscAdd)
 
-foreign import vscArchive_ :: ReactIcon
+foreign import _vscArchive :: ReactIcon
 
 vscArchive :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscArchive = element (unsafeCoerce vscArchive_)
+vscArchive = element (unsafeCoerce _vscArchive)
 
-foreign import vscArrowBoth_ :: ReactIcon
+foreign import _vscArrowBoth :: ReactIcon
 
 vscArrowBoth :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscArrowBoth = element (unsafeCoerce vscArrowBoth_)
+vscArrowBoth = element (unsafeCoerce _vscArrowBoth)
 
-foreign import vscArrowDown_ :: ReactIcon
+foreign import _vscArrowDown :: ReactIcon
 
 vscArrowDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscArrowDown = element (unsafeCoerce vscArrowDown_)
+vscArrowDown = element (unsafeCoerce _vscArrowDown)
 
-foreign import vscArrowLeft_ :: ReactIcon
+foreign import _vscArrowLeft :: ReactIcon
 
 vscArrowLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscArrowLeft = element (unsafeCoerce vscArrowLeft_)
+vscArrowLeft = element (unsafeCoerce _vscArrowLeft)
 
-foreign import vscArrowRight_ :: ReactIcon
+foreign import _vscArrowRight :: ReactIcon
 
 vscArrowRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscArrowRight = element (unsafeCoerce vscArrowRight_)
+vscArrowRight = element (unsafeCoerce _vscArrowRight)
 
-foreign import vscArrowSmallDown_ :: ReactIcon
+foreign import _vscArrowSmallDown :: ReactIcon
 
 vscArrowSmallDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscArrowSmallDown = element (unsafeCoerce vscArrowSmallDown_)
+vscArrowSmallDown = element (unsafeCoerce _vscArrowSmallDown)
 
-foreign import vscArrowSmallLeft_ :: ReactIcon
+foreign import _vscArrowSmallLeft :: ReactIcon
 
 vscArrowSmallLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscArrowSmallLeft = element (unsafeCoerce vscArrowSmallLeft_)
+vscArrowSmallLeft = element (unsafeCoerce _vscArrowSmallLeft)
 
-foreign import vscArrowSmallRight_ :: ReactIcon
+foreign import _vscArrowSmallRight :: ReactIcon
 
 vscArrowSmallRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscArrowSmallRight = element (unsafeCoerce vscArrowSmallRight_)
+vscArrowSmallRight = element (unsafeCoerce _vscArrowSmallRight)
 
-foreign import vscArrowSmallUp_ :: ReactIcon
+foreign import _vscArrowSmallUp :: ReactIcon
 
 vscArrowSmallUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscArrowSmallUp = element (unsafeCoerce vscArrowSmallUp_)
+vscArrowSmallUp = element (unsafeCoerce _vscArrowSmallUp)
 
-foreign import vscArrowSwap_ :: ReactIcon
+foreign import _vscArrowSwap :: ReactIcon
 
 vscArrowSwap :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscArrowSwap = element (unsafeCoerce vscArrowSwap_)
+vscArrowSwap = element (unsafeCoerce _vscArrowSwap)
 
-foreign import vscArrowUp_ :: ReactIcon
+foreign import _vscArrowUp :: ReactIcon
 
 vscArrowUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscArrowUp = element (unsafeCoerce vscArrowUp_)
+vscArrowUp = element (unsafeCoerce _vscArrowUp)
 
-foreign import vscAzure_ :: ReactIcon
+foreign import _vscAzure :: ReactIcon
 
 vscAzure :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscAzure = element (unsafeCoerce vscAzure_)
+vscAzure = element (unsafeCoerce _vscAzure)
 
-foreign import vscBeaker_ :: ReactIcon
+foreign import _vscBeaker :: ReactIcon
 
 vscBeaker :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscBeaker = element (unsafeCoerce vscBeaker_)
+vscBeaker = element (unsafeCoerce _vscBeaker)
 
-foreign import vscBeakerStop_ :: ReactIcon
+foreign import _vscBeakerStop :: ReactIcon
 
 vscBeakerStop :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscBeakerStop = element (unsafeCoerce vscBeakerStop_)
+vscBeakerStop = element (unsafeCoerce _vscBeakerStop)
 
-foreign import vscBell_ :: ReactIcon
+foreign import _vscBell :: ReactIcon
 
 vscBell :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscBell = element (unsafeCoerce vscBell_)
+vscBell = element (unsafeCoerce _vscBell)
 
-foreign import vscBellDot_ :: ReactIcon
+foreign import _vscBellDot :: ReactIcon
 
 vscBellDot :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscBellDot = element (unsafeCoerce vscBellDot_)
+vscBellDot = element (unsafeCoerce _vscBellDot)
 
-foreign import vscBold_ :: ReactIcon
+foreign import _vscBold :: ReactIcon
 
 vscBold :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscBold = element (unsafeCoerce vscBold_)
+vscBold = element (unsafeCoerce _vscBold)
 
-foreign import vscBook_ :: ReactIcon
+foreign import _vscBook :: ReactIcon
 
 vscBook :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscBook = element (unsafeCoerce vscBook_)
+vscBook = element (unsafeCoerce _vscBook)
 
-foreign import vscBookmark_ :: ReactIcon
+foreign import _vscBookmark :: ReactIcon
 
 vscBookmark :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscBookmark = element (unsafeCoerce vscBookmark_)
+vscBookmark = element (unsafeCoerce _vscBookmark)
 
-foreign import vscBracketDot_ :: ReactIcon
+foreign import _vscBracketDot :: ReactIcon
 
 vscBracketDot :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscBracketDot = element (unsafeCoerce vscBracketDot_)
+vscBracketDot = element (unsafeCoerce _vscBracketDot)
 
-foreign import vscBracketError_ :: ReactIcon
+foreign import _vscBracketError :: ReactIcon
 
 vscBracketError :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscBracketError = element (unsafeCoerce vscBracketError_)
+vscBracketError = element (unsafeCoerce _vscBracketError)
 
-foreign import vscBriefcase_ :: ReactIcon
+foreign import _vscBriefcase :: ReactIcon
 
 vscBriefcase :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscBriefcase = element (unsafeCoerce vscBriefcase_)
+vscBriefcase = element (unsafeCoerce _vscBriefcase)
 
-foreign import vscBroadcast_ :: ReactIcon
+foreign import _vscBroadcast :: ReactIcon
 
 vscBroadcast :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscBroadcast = element (unsafeCoerce vscBroadcast_)
+vscBroadcast = element (unsafeCoerce _vscBroadcast)
 
-foreign import vscBrowser_ :: ReactIcon
+foreign import _vscBrowser :: ReactIcon
 
 vscBrowser :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscBrowser = element (unsafeCoerce vscBrowser_)
+vscBrowser = element (unsafeCoerce _vscBrowser)
 
-foreign import vscBug_ :: ReactIcon
+foreign import _vscBug :: ReactIcon
 
 vscBug :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscBug = element (unsafeCoerce vscBug_)
+vscBug = element (unsafeCoerce _vscBug)
 
-foreign import vscCalendar_ :: ReactIcon
+foreign import _vscCalendar :: ReactIcon
 
 vscCalendar :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscCalendar = element (unsafeCoerce vscCalendar_)
+vscCalendar = element (unsafeCoerce _vscCalendar)
 
-foreign import vscCallIncoming_ :: ReactIcon
+foreign import _vscCallIncoming :: ReactIcon
 
 vscCallIncoming :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscCallIncoming = element (unsafeCoerce vscCallIncoming_)
+vscCallIncoming = element (unsafeCoerce _vscCallIncoming)
 
-foreign import vscCallOutgoing_ :: ReactIcon
+foreign import _vscCallOutgoing :: ReactIcon
 
 vscCallOutgoing :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscCallOutgoing = element (unsafeCoerce vscCallOutgoing_)
+vscCallOutgoing = element (unsafeCoerce _vscCallOutgoing)
 
-foreign import vscCaseSensitive_ :: ReactIcon
+foreign import _vscCaseSensitive :: ReactIcon
 
 vscCaseSensitive :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscCaseSensitive = element (unsafeCoerce vscCaseSensitive_)
+vscCaseSensitive = element (unsafeCoerce _vscCaseSensitive)
 
-foreign import vscCheck_ :: ReactIcon
+foreign import _vscCheck :: ReactIcon
 
 vscCheck :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscCheck = element (unsafeCoerce vscCheck_)
+vscCheck = element (unsafeCoerce _vscCheck)
 
-foreign import vscCheckAll_ :: ReactIcon
+foreign import _vscCheckAll :: ReactIcon
 
 vscCheckAll :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscCheckAll = element (unsafeCoerce vscCheckAll_)
+vscCheckAll = element (unsafeCoerce _vscCheckAll)
 
-foreign import vscChecklist_ :: ReactIcon
+foreign import _vscChecklist :: ReactIcon
 
 vscChecklist :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscChecklist = element (unsafeCoerce vscChecklist_)
+vscChecklist = element (unsafeCoerce _vscChecklist)
 
-foreign import vscChevronDown_ :: ReactIcon
+foreign import _vscChevronDown :: ReactIcon
 
 vscChevronDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscChevronDown = element (unsafeCoerce vscChevronDown_)
+vscChevronDown = element (unsafeCoerce _vscChevronDown)
 
-foreign import vscChevronLeft_ :: ReactIcon
+foreign import _vscChevronLeft :: ReactIcon
 
 vscChevronLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscChevronLeft = element (unsafeCoerce vscChevronLeft_)
+vscChevronLeft = element (unsafeCoerce _vscChevronLeft)
 
-foreign import vscChevronRight_ :: ReactIcon
+foreign import _vscChevronRight :: ReactIcon
 
 vscChevronRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscChevronRight = element (unsafeCoerce vscChevronRight_)
+vscChevronRight = element (unsafeCoerce _vscChevronRight)
 
-foreign import vscChevronUp_ :: ReactIcon
+foreign import _vscChevronUp :: ReactIcon
 
 vscChevronUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscChevronUp = element (unsafeCoerce vscChevronUp_)
+vscChevronUp = element (unsafeCoerce _vscChevronUp)
 
-foreign import vscChromeClose_ :: ReactIcon
+foreign import _vscChromeClose :: ReactIcon
 
 vscChromeClose :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscChromeClose = element (unsafeCoerce vscChromeClose_)
+vscChromeClose = element (unsafeCoerce _vscChromeClose)
 
-foreign import vscChromeMaximize_ :: ReactIcon
+foreign import _vscChromeMaximize :: ReactIcon
 
 vscChromeMaximize :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscChromeMaximize = element (unsafeCoerce vscChromeMaximize_)
+vscChromeMaximize = element (unsafeCoerce _vscChromeMaximize)
 
-foreign import vscChromeMinimize_ :: ReactIcon
+foreign import _vscChromeMinimize :: ReactIcon
 
 vscChromeMinimize :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscChromeMinimize = element (unsafeCoerce vscChromeMinimize_)
+vscChromeMinimize = element (unsafeCoerce _vscChromeMinimize)
 
-foreign import vscChromeRestore_ :: ReactIcon
+foreign import _vscChromeRestore :: ReactIcon
 
 vscChromeRestore :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscChromeRestore = element (unsafeCoerce vscChromeRestore_)
+vscChromeRestore = element (unsafeCoerce _vscChromeRestore)
 
-foreign import vscCircleFilled_ :: ReactIcon
+foreign import _vscCircleFilled :: ReactIcon
 
 vscCircleFilled :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscCircleFilled = element (unsafeCoerce vscCircleFilled_)
+vscCircleFilled = element (unsafeCoerce _vscCircleFilled)
 
-foreign import vscCircleLargeFilled_ :: ReactIcon
+foreign import _vscCircleLargeFilled :: ReactIcon
 
 vscCircleLargeFilled :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscCircleLargeFilled = element (unsafeCoerce vscCircleLargeFilled_)
+vscCircleLargeFilled = element (unsafeCoerce _vscCircleLargeFilled)
 
-foreign import vscCircleLargeOutline_ :: ReactIcon
+foreign import _vscCircleLargeOutline :: ReactIcon
 
 vscCircleLargeOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscCircleLargeOutline = element (unsafeCoerce vscCircleLargeOutline_)
+vscCircleLargeOutline = element (unsafeCoerce _vscCircleLargeOutline)
 
-foreign import vscCircleOutline_ :: ReactIcon
+foreign import _vscCircleOutline :: ReactIcon
 
 vscCircleOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscCircleOutline = element (unsafeCoerce vscCircleOutline_)
+vscCircleOutline = element (unsafeCoerce _vscCircleOutline)
 
-foreign import vscCircleSlash_ :: ReactIcon
+foreign import _vscCircleSlash :: ReactIcon
 
 vscCircleSlash :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscCircleSlash = element (unsafeCoerce vscCircleSlash_)
+vscCircleSlash = element (unsafeCoerce _vscCircleSlash)
 
-foreign import vscCircuitBoard_ :: ReactIcon
+foreign import _vscCircuitBoard :: ReactIcon
 
 vscCircuitBoard :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscCircuitBoard = element (unsafeCoerce vscCircuitBoard_)
+vscCircuitBoard = element (unsafeCoerce _vscCircuitBoard)
 
-foreign import vscClearAll_ :: ReactIcon
+foreign import _vscClearAll :: ReactIcon
 
 vscClearAll :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscClearAll = element (unsafeCoerce vscClearAll_)
+vscClearAll = element (unsafeCoerce _vscClearAll)
 
-foreign import vscClippy_ :: ReactIcon
+foreign import _vscClippy :: ReactIcon
 
 vscClippy :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscClippy = element (unsafeCoerce vscClippy_)
+vscClippy = element (unsafeCoerce _vscClippy)
 
-foreign import vscClose_ :: ReactIcon
+foreign import _vscClose :: ReactIcon
 
 vscClose :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscClose = element (unsafeCoerce vscClose_)
+vscClose = element (unsafeCoerce _vscClose)
 
-foreign import vscCloseAll_ :: ReactIcon
+foreign import _vscCloseAll :: ReactIcon
 
 vscCloseAll :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscCloseAll = element (unsafeCoerce vscCloseAll_)
+vscCloseAll = element (unsafeCoerce _vscCloseAll)
 
-foreign import vscCloud_ :: ReactIcon
+foreign import _vscCloud :: ReactIcon
 
 vscCloud :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscCloud = element (unsafeCoerce vscCloud_)
+vscCloud = element (unsafeCoerce _vscCloud)
 
-foreign import vscCloudDownload_ :: ReactIcon
+foreign import _vscCloudDownload :: ReactIcon
 
 vscCloudDownload :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscCloudDownload = element (unsafeCoerce vscCloudDownload_)
+vscCloudDownload = element (unsafeCoerce _vscCloudDownload)
 
-foreign import vscCloudUpload_ :: ReactIcon
+foreign import _vscCloudUpload :: ReactIcon
 
 vscCloudUpload :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscCloudUpload = element (unsafeCoerce vscCloudUpload_)
+vscCloudUpload = element (unsafeCoerce _vscCloudUpload)
 
-foreign import vscCode_ :: ReactIcon
+foreign import _vscCode :: ReactIcon
 
 vscCode :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscCode = element (unsafeCoerce vscCode_)
+vscCode = element (unsafeCoerce _vscCode)
 
-foreign import vscCollapseAll_ :: ReactIcon
+foreign import _vscCollapseAll :: ReactIcon
 
 vscCollapseAll :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscCollapseAll = element (unsafeCoerce vscCollapseAll_)
+vscCollapseAll = element (unsafeCoerce _vscCollapseAll)
 
-foreign import vscColorMode_ :: ReactIcon
+foreign import _vscColorMode :: ReactIcon
 
 vscColorMode :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscColorMode = element (unsafeCoerce vscColorMode_)
+vscColorMode = element (unsafeCoerce _vscColorMode)
 
-foreign import vscCombine_ :: ReactIcon
+foreign import _vscCombine :: ReactIcon
 
 vscCombine :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscCombine = element (unsafeCoerce vscCombine_)
+vscCombine = element (unsafeCoerce _vscCombine)
 
-foreign import vscComment_ :: ReactIcon
+foreign import _vscComment :: ReactIcon
 
 vscComment :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscComment = element (unsafeCoerce vscComment_)
+vscComment = element (unsafeCoerce _vscComment)
 
-foreign import vscCommentDiscussion_ :: ReactIcon
+foreign import _vscCommentDiscussion :: ReactIcon
 
 vscCommentDiscussion :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscCommentDiscussion = element (unsafeCoerce vscCommentDiscussion_)
+vscCommentDiscussion = element (unsafeCoerce _vscCommentDiscussion)
 
-foreign import vscCompass_ :: ReactIcon
+foreign import _vscCompass :: ReactIcon
 
 vscCompass :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscCompass = element (unsafeCoerce vscCompass_)
+vscCompass = element (unsafeCoerce _vscCompass)
 
-foreign import vscCompassActive_ :: ReactIcon
+foreign import _vscCompassActive :: ReactIcon
 
 vscCompassActive :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscCompassActive = element (unsafeCoerce vscCompassActive_)
+vscCompassActive = element (unsafeCoerce _vscCompassActive)
 
-foreign import vscCompassDot_ :: ReactIcon
+foreign import _vscCompassDot :: ReactIcon
 
 vscCompassDot :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscCompassDot = element (unsafeCoerce vscCompassDot_)
+vscCompassDot = element (unsafeCoerce _vscCompassDot)
 
-foreign import vscCopy_ :: ReactIcon
+foreign import _vscCopy :: ReactIcon
 
 vscCopy :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscCopy = element (unsafeCoerce vscCopy_)
+vscCopy = element (unsafeCoerce _vscCopy)
 
-foreign import vscCreditCard_ :: ReactIcon
+foreign import _vscCreditCard :: ReactIcon
 
 vscCreditCard :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscCreditCard = element (unsafeCoerce vscCreditCard_)
+vscCreditCard = element (unsafeCoerce _vscCreditCard)
 
-foreign import vscDash_ :: ReactIcon
+foreign import _vscDash :: ReactIcon
 
 vscDash :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscDash = element (unsafeCoerce vscDash_)
+vscDash = element (unsafeCoerce _vscDash)
 
-foreign import vscDashboard_ :: ReactIcon
+foreign import _vscDashboard :: ReactIcon
 
 vscDashboard :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscDashboard = element (unsafeCoerce vscDashboard_)
+vscDashboard = element (unsafeCoerce _vscDashboard)
 
-foreign import vscDatabase_ :: ReactIcon
+foreign import _vscDatabase :: ReactIcon
 
 vscDatabase :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscDatabase = element (unsafeCoerce vscDatabase_)
+vscDatabase = element (unsafeCoerce _vscDatabase)
 
-foreign import vscDebug_ :: ReactIcon
+foreign import _vscDebug :: ReactIcon
 
 vscDebug :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscDebug = element (unsafeCoerce vscDebug_)
+vscDebug = element (unsafeCoerce _vscDebug)
 
-foreign import vscDebugAll_ :: ReactIcon
+foreign import _vscDebugAll :: ReactIcon
 
 vscDebugAll :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscDebugAll = element (unsafeCoerce vscDebugAll_)
+vscDebugAll = element (unsafeCoerce _vscDebugAll)
 
-foreign import vscDebugAlt_ :: ReactIcon
+foreign import _vscDebugAlt :: ReactIcon
 
 vscDebugAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscDebugAlt = element (unsafeCoerce vscDebugAlt_)
+vscDebugAlt = element (unsafeCoerce _vscDebugAlt)
 
-foreign import vscDebugAltSmall_ :: ReactIcon
+foreign import _vscDebugAltSmall :: ReactIcon
 
 vscDebugAltSmall :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscDebugAltSmall = element (unsafeCoerce vscDebugAltSmall_)
+vscDebugAltSmall = element (unsafeCoerce _vscDebugAltSmall)
 
-foreign import vscDebugBreakpointConditional_ :: ReactIcon
+foreign import _vscDebugBreakpointConditional :: ReactIcon
 
 vscDebugBreakpointConditional :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscDebugBreakpointConditional = element (unsafeCoerce vscDebugBreakpointConditional_)
+vscDebugBreakpointConditional = element (unsafeCoerce _vscDebugBreakpointConditional)
 
-foreign import vscDebugBreakpointConditionalUnverified_ :: ReactIcon
+foreign import _vscDebugBreakpointConditionalUnverified :: ReactIcon
 
 vscDebugBreakpointConditionalUnverified :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscDebugBreakpointConditionalUnverified = element (unsafeCoerce vscDebugBreakpointConditionalUnverified_)
+vscDebugBreakpointConditionalUnverified = element (unsafeCoerce _vscDebugBreakpointConditionalUnverified)
 
-foreign import vscDebugBreakpointData_ :: ReactIcon
+foreign import _vscDebugBreakpointData :: ReactIcon
 
 vscDebugBreakpointData :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscDebugBreakpointData = element (unsafeCoerce vscDebugBreakpointData_)
+vscDebugBreakpointData = element (unsafeCoerce _vscDebugBreakpointData)
 
-foreign import vscDebugBreakpointDataUnverified_ :: ReactIcon
+foreign import _vscDebugBreakpointDataUnverified :: ReactIcon
 
 vscDebugBreakpointDataUnverified :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscDebugBreakpointDataUnverified = element (unsafeCoerce vscDebugBreakpointDataUnverified_)
+vscDebugBreakpointDataUnverified = element (unsafeCoerce _vscDebugBreakpointDataUnverified)
 
-foreign import vscDebugBreakpointFunction_ :: ReactIcon
+foreign import _vscDebugBreakpointFunction :: ReactIcon
 
 vscDebugBreakpointFunction :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscDebugBreakpointFunction = element (unsafeCoerce vscDebugBreakpointFunction_)
+vscDebugBreakpointFunction = element (unsafeCoerce _vscDebugBreakpointFunction)
 
-foreign import vscDebugBreakpointFunctionUnverified_ :: ReactIcon
+foreign import _vscDebugBreakpointFunctionUnverified :: ReactIcon
 
 vscDebugBreakpointFunctionUnverified :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscDebugBreakpointFunctionUnverified = element (unsafeCoerce vscDebugBreakpointFunctionUnverified_)
+vscDebugBreakpointFunctionUnverified = element (unsafeCoerce _vscDebugBreakpointFunctionUnverified)
 
-foreign import vscDebugBreakpointLog_ :: ReactIcon
+foreign import _vscDebugBreakpointLog :: ReactIcon
 
 vscDebugBreakpointLog :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscDebugBreakpointLog = element (unsafeCoerce vscDebugBreakpointLog_)
+vscDebugBreakpointLog = element (unsafeCoerce _vscDebugBreakpointLog)
 
-foreign import vscDebugBreakpointLogUnverified_ :: ReactIcon
+foreign import _vscDebugBreakpointLogUnverified :: ReactIcon
 
 vscDebugBreakpointLogUnverified :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscDebugBreakpointLogUnverified = element (unsafeCoerce vscDebugBreakpointLogUnverified_)
+vscDebugBreakpointLogUnverified = element (unsafeCoerce _vscDebugBreakpointLogUnverified)
 
-foreign import vscDebugBreakpointUnsupported_ :: ReactIcon
+foreign import _vscDebugBreakpointUnsupported :: ReactIcon
 
 vscDebugBreakpointUnsupported :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscDebugBreakpointUnsupported = element (unsafeCoerce vscDebugBreakpointUnsupported_)
+vscDebugBreakpointUnsupported = element (unsafeCoerce _vscDebugBreakpointUnsupported)
 
-foreign import vscDebugConsole_ :: ReactIcon
+foreign import _vscDebugConsole :: ReactIcon
 
 vscDebugConsole :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscDebugConsole = element (unsafeCoerce vscDebugConsole_)
+vscDebugConsole = element (unsafeCoerce _vscDebugConsole)
 
-foreign import vscDebugContinue_ :: ReactIcon
+foreign import _vscDebugContinue :: ReactIcon
 
 vscDebugContinue :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscDebugContinue = element (unsafeCoerce vscDebugContinue_)
+vscDebugContinue = element (unsafeCoerce _vscDebugContinue)
 
-foreign import vscDebugContinueSmall_ :: ReactIcon
+foreign import _vscDebugContinueSmall :: ReactIcon
 
 vscDebugContinueSmall :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscDebugContinueSmall = element (unsafeCoerce vscDebugContinueSmall_)
+vscDebugContinueSmall = element (unsafeCoerce _vscDebugContinueSmall)
 
-foreign import vscDebugCoverage_ :: ReactIcon
+foreign import _vscDebugCoverage :: ReactIcon
 
 vscDebugCoverage :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscDebugCoverage = element (unsafeCoerce vscDebugCoverage_)
+vscDebugCoverage = element (unsafeCoerce _vscDebugCoverage)
 
-foreign import vscDebugDisconnect_ :: ReactIcon
+foreign import _vscDebugDisconnect :: ReactIcon
 
 vscDebugDisconnect :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscDebugDisconnect = element (unsafeCoerce vscDebugDisconnect_)
+vscDebugDisconnect = element (unsafeCoerce _vscDebugDisconnect)
 
-foreign import vscDebugLineByLine_ :: ReactIcon
+foreign import _vscDebugLineByLine :: ReactIcon
 
 vscDebugLineByLine :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscDebugLineByLine = element (unsafeCoerce vscDebugLineByLine_)
+vscDebugLineByLine = element (unsafeCoerce _vscDebugLineByLine)
 
-foreign import vscDebugPause_ :: ReactIcon
+foreign import _vscDebugPause :: ReactIcon
 
 vscDebugPause :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscDebugPause = element (unsafeCoerce vscDebugPause_)
+vscDebugPause = element (unsafeCoerce _vscDebugPause)
 
-foreign import vscDebugRerun_ :: ReactIcon
+foreign import _vscDebugRerun :: ReactIcon
 
 vscDebugRerun :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscDebugRerun = element (unsafeCoerce vscDebugRerun_)
+vscDebugRerun = element (unsafeCoerce _vscDebugRerun)
 
-foreign import vscDebugRestart_ :: ReactIcon
+foreign import _vscDebugRestart :: ReactIcon
 
 vscDebugRestart :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscDebugRestart = element (unsafeCoerce vscDebugRestart_)
+vscDebugRestart = element (unsafeCoerce _vscDebugRestart)
 
-foreign import vscDebugRestartFrame_ :: ReactIcon
+foreign import _vscDebugRestartFrame :: ReactIcon
 
 vscDebugRestartFrame :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscDebugRestartFrame = element (unsafeCoerce vscDebugRestartFrame_)
+vscDebugRestartFrame = element (unsafeCoerce _vscDebugRestartFrame)
 
-foreign import vscDebugReverseContinue_ :: ReactIcon
+foreign import _vscDebugReverseContinue :: ReactIcon
 
 vscDebugReverseContinue :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscDebugReverseContinue = element (unsafeCoerce vscDebugReverseContinue_)
+vscDebugReverseContinue = element (unsafeCoerce _vscDebugReverseContinue)
 
-foreign import vscDebugStackframe_ :: ReactIcon
+foreign import _vscDebugStackframe :: ReactIcon
 
 vscDebugStackframe :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscDebugStackframe = element (unsafeCoerce vscDebugStackframe_)
+vscDebugStackframe = element (unsafeCoerce _vscDebugStackframe)
 
-foreign import vscDebugStackframeActive_ :: ReactIcon
+foreign import _vscDebugStackframeActive :: ReactIcon
 
 vscDebugStackframeActive :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscDebugStackframeActive = element (unsafeCoerce vscDebugStackframeActive_)
+vscDebugStackframeActive = element (unsafeCoerce _vscDebugStackframeActive)
 
-foreign import vscDebugStackframeDot_ :: ReactIcon
+foreign import _vscDebugStackframeDot :: ReactIcon
 
 vscDebugStackframeDot :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscDebugStackframeDot = element (unsafeCoerce vscDebugStackframeDot_)
+vscDebugStackframeDot = element (unsafeCoerce _vscDebugStackframeDot)
 
-foreign import vscDebugStart_ :: ReactIcon
+foreign import _vscDebugStart :: ReactIcon
 
 vscDebugStart :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscDebugStart = element (unsafeCoerce vscDebugStart_)
+vscDebugStart = element (unsafeCoerce _vscDebugStart)
 
-foreign import vscDebugStepBack_ :: ReactIcon
+foreign import _vscDebugStepBack :: ReactIcon
 
 vscDebugStepBack :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscDebugStepBack = element (unsafeCoerce vscDebugStepBack_)
+vscDebugStepBack = element (unsafeCoerce _vscDebugStepBack)
 
-foreign import vscDebugStepInto_ :: ReactIcon
+foreign import _vscDebugStepInto :: ReactIcon
 
 vscDebugStepInto :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscDebugStepInto = element (unsafeCoerce vscDebugStepInto_)
+vscDebugStepInto = element (unsafeCoerce _vscDebugStepInto)
 
-foreign import vscDebugStepOut_ :: ReactIcon
+foreign import _vscDebugStepOut :: ReactIcon
 
 vscDebugStepOut :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscDebugStepOut = element (unsafeCoerce vscDebugStepOut_)
+vscDebugStepOut = element (unsafeCoerce _vscDebugStepOut)
 
-foreign import vscDebugStepOver_ :: ReactIcon
+foreign import _vscDebugStepOver :: ReactIcon
 
 vscDebugStepOver :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscDebugStepOver = element (unsafeCoerce vscDebugStepOver_)
+vscDebugStepOver = element (unsafeCoerce _vscDebugStepOver)
 
-foreign import vscDebugStop_ :: ReactIcon
+foreign import _vscDebugStop :: ReactIcon
 
 vscDebugStop :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscDebugStop = element (unsafeCoerce vscDebugStop_)
+vscDebugStop = element (unsafeCoerce _vscDebugStop)
 
-foreign import vscDesktopDownload_ :: ReactIcon
+foreign import _vscDesktopDownload :: ReactIcon
 
 vscDesktopDownload :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscDesktopDownload = element (unsafeCoerce vscDesktopDownload_)
+vscDesktopDownload = element (unsafeCoerce _vscDesktopDownload)
 
-foreign import vscDeviceCamera_ :: ReactIcon
+foreign import _vscDeviceCamera :: ReactIcon
 
 vscDeviceCamera :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscDeviceCamera = element (unsafeCoerce vscDeviceCamera_)
+vscDeviceCamera = element (unsafeCoerce _vscDeviceCamera)
 
-foreign import vscDeviceCameraVideo_ :: ReactIcon
+foreign import _vscDeviceCameraVideo :: ReactIcon
 
 vscDeviceCameraVideo :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscDeviceCameraVideo = element (unsafeCoerce vscDeviceCameraVideo_)
+vscDeviceCameraVideo = element (unsafeCoerce _vscDeviceCameraVideo)
 
-foreign import vscDeviceMobile_ :: ReactIcon
+foreign import _vscDeviceMobile :: ReactIcon
 
 vscDeviceMobile :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscDeviceMobile = element (unsafeCoerce vscDeviceMobile_)
+vscDeviceMobile = element (unsafeCoerce _vscDeviceMobile)
 
-foreign import vscDiff_ :: ReactIcon
+foreign import _vscDiff :: ReactIcon
 
 vscDiff :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscDiff = element (unsafeCoerce vscDiff_)
+vscDiff = element (unsafeCoerce _vscDiff)
 
-foreign import vscDiffAdded_ :: ReactIcon
+foreign import _vscDiffAdded :: ReactIcon
 
 vscDiffAdded :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscDiffAdded = element (unsafeCoerce vscDiffAdded_)
+vscDiffAdded = element (unsafeCoerce _vscDiffAdded)
 
-foreign import vscDiffIgnored_ :: ReactIcon
+foreign import _vscDiffIgnored :: ReactIcon
 
 vscDiffIgnored :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscDiffIgnored = element (unsafeCoerce vscDiffIgnored_)
+vscDiffIgnored = element (unsafeCoerce _vscDiffIgnored)
 
-foreign import vscDiffModified_ :: ReactIcon
+foreign import _vscDiffModified :: ReactIcon
 
 vscDiffModified :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscDiffModified = element (unsafeCoerce vscDiffModified_)
+vscDiffModified = element (unsafeCoerce _vscDiffModified)
 
-foreign import vscDiffRemoved_ :: ReactIcon
+foreign import _vscDiffRemoved :: ReactIcon
 
 vscDiffRemoved :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscDiffRemoved = element (unsafeCoerce vscDiffRemoved_)
+vscDiffRemoved = element (unsafeCoerce _vscDiffRemoved)
 
-foreign import vscDiffRenamed_ :: ReactIcon
+foreign import _vscDiffRenamed :: ReactIcon
 
 vscDiffRenamed :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscDiffRenamed = element (unsafeCoerce vscDiffRenamed_)
+vscDiffRenamed = element (unsafeCoerce _vscDiffRenamed)
 
-foreign import vscDiscard_ :: ReactIcon
+foreign import _vscDiscard :: ReactIcon
 
 vscDiscard :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscDiscard = element (unsafeCoerce vscDiscard_)
+vscDiscard = element (unsafeCoerce _vscDiscard)
 
-foreign import vscEdit_ :: ReactIcon
+foreign import _vscEdit :: ReactIcon
 
 vscEdit :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscEdit = element (unsafeCoerce vscEdit_)
+vscEdit = element (unsafeCoerce _vscEdit)
 
-foreign import vscEditorLayout_ :: ReactIcon
+foreign import _vscEditorLayout :: ReactIcon
 
 vscEditorLayout :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscEditorLayout = element (unsafeCoerce vscEditorLayout_)
+vscEditorLayout = element (unsafeCoerce _vscEditorLayout)
 
-foreign import vscEllipsis_ :: ReactIcon
+foreign import _vscEllipsis :: ReactIcon
 
 vscEllipsis :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscEllipsis = element (unsafeCoerce vscEllipsis_)
+vscEllipsis = element (unsafeCoerce _vscEllipsis)
 
-foreign import vscEmptyWindow_ :: ReactIcon
+foreign import _vscEmptyWindow :: ReactIcon
 
 vscEmptyWindow :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscEmptyWindow = element (unsafeCoerce vscEmptyWindow_)
+vscEmptyWindow = element (unsafeCoerce _vscEmptyWindow)
 
-foreign import vscError_ :: ReactIcon
+foreign import _vscError :: ReactIcon
 
 vscError :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscError = element (unsafeCoerce vscError_)
+vscError = element (unsafeCoerce _vscError)
 
-foreign import vscExclude_ :: ReactIcon
+foreign import _vscExclude :: ReactIcon
 
 vscExclude :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscExclude = element (unsafeCoerce vscExclude_)
+vscExclude = element (unsafeCoerce _vscExclude)
 
-foreign import vscExpandAll_ :: ReactIcon
+foreign import _vscExpandAll :: ReactIcon
 
 vscExpandAll :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscExpandAll = element (unsafeCoerce vscExpandAll_)
+vscExpandAll = element (unsafeCoerce _vscExpandAll)
 
-foreign import vscExport_ :: ReactIcon
+foreign import _vscExport :: ReactIcon
 
 vscExport :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscExport = element (unsafeCoerce vscExport_)
+vscExport = element (unsafeCoerce _vscExport)
 
-foreign import vscExtensions_ :: ReactIcon
+foreign import _vscExtensions :: ReactIcon
 
 vscExtensions :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscExtensions = element (unsafeCoerce vscExtensions_)
+vscExtensions = element (unsafeCoerce _vscExtensions)
 
-foreign import vscEye_ :: ReactIcon
+foreign import _vscEye :: ReactIcon
 
 vscEye :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscEye = element (unsafeCoerce vscEye_)
+vscEye = element (unsafeCoerce _vscEye)
 
-foreign import vscEyeClosed_ :: ReactIcon
+foreign import _vscEyeClosed :: ReactIcon
 
 vscEyeClosed :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscEyeClosed = element (unsafeCoerce vscEyeClosed_)
+vscEyeClosed = element (unsafeCoerce _vscEyeClosed)
 
-foreign import vscFeedback_ :: ReactIcon
+foreign import _vscFeedback :: ReactIcon
 
 vscFeedback :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscFeedback = element (unsafeCoerce vscFeedback_)
+vscFeedback = element (unsafeCoerce _vscFeedback)
 
-foreign import vscFile_ :: ReactIcon
+foreign import _vscFile :: ReactIcon
 
 vscFile :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscFile = element (unsafeCoerce vscFile_)
+vscFile = element (unsafeCoerce _vscFile)
 
-foreign import vscFileBinary_ :: ReactIcon
+foreign import _vscFileBinary :: ReactIcon
 
 vscFileBinary :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscFileBinary = element (unsafeCoerce vscFileBinary_)
+vscFileBinary = element (unsafeCoerce _vscFileBinary)
 
-foreign import vscFileCode_ :: ReactIcon
+foreign import _vscFileCode :: ReactIcon
 
 vscFileCode :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscFileCode = element (unsafeCoerce vscFileCode_)
+vscFileCode = element (unsafeCoerce _vscFileCode)
 
-foreign import vscFileMedia_ :: ReactIcon
+foreign import _vscFileMedia :: ReactIcon
 
 vscFileMedia :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscFileMedia = element (unsafeCoerce vscFileMedia_)
+vscFileMedia = element (unsafeCoerce _vscFileMedia)
 
-foreign import vscFilePdf_ :: ReactIcon
+foreign import _vscFilePdf :: ReactIcon
 
 vscFilePdf :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscFilePdf = element (unsafeCoerce vscFilePdf_)
+vscFilePdf = element (unsafeCoerce _vscFilePdf)
 
-foreign import vscFiles_ :: ReactIcon
+foreign import _vscFiles :: ReactIcon
 
 vscFiles :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscFiles = element (unsafeCoerce vscFiles_)
+vscFiles = element (unsafeCoerce _vscFiles)
 
-foreign import vscFileSubmodule_ :: ReactIcon
+foreign import _vscFileSubmodule :: ReactIcon
 
 vscFileSubmodule :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscFileSubmodule = element (unsafeCoerce vscFileSubmodule_)
+vscFileSubmodule = element (unsafeCoerce _vscFileSubmodule)
 
-foreign import vscFileSymlinkDirectory_ :: ReactIcon
+foreign import _vscFileSymlinkDirectory :: ReactIcon
 
 vscFileSymlinkDirectory :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscFileSymlinkDirectory = element (unsafeCoerce vscFileSymlinkDirectory_)
+vscFileSymlinkDirectory = element (unsafeCoerce _vscFileSymlinkDirectory)
 
-foreign import vscFileSymlinkFile_ :: ReactIcon
+foreign import _vscFileSymlinkFile :: ReactIcon
 
 vscFileSymlinkFile :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscFileSymlinkFile = element (unsafeCoerce vscFileSymlinkFile_)
+vscFileSymlinkFile = element (unsafeCoerce _vscFileSymlinkFile)
 
-foreign import vscFileZip_ :: ReactIcon
+foreign import _vscFileZip :: ReactIcon
 
 vscFileZip :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscFileZip = element (unsafeCoerce vscFileZip_)
+vscFileZip = element (unsafeCoerce _vscFileZip)
 
-foreign import vscFilter_ :: ReactIcon
+foreign import _vscFilter :: ReactIcon
 
 vscFilter :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscFilter = element (unsafeCoerce vscFilter_)
+vscFilter = element (unsafeCoerce _vscFilter)
 
-foreign import vscFilterFilled_ :: ReactIcon
+foreign import _vscFilterFilled :: ReactIcon
 
 vscFilterFilled :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscFilterFilled = element (unsafeCoerce vscFilterFilled_)
+vscFilterFilled = element (unsafeCoerce _vscFilterFilled)
 
-foreign import vscFlame_ :: ReactIcon
+foreign import _vscFlame :: ReactIcon
 
 vscFlame :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscFlame = element (unsafeCoerce vscFlame_)
+vscFlame = element (unsafeCoerce _vscFlame)
 
-foreign import vscFold_ :: ReactIcon
+foreign import _vscFold :: ReactIcon
 
 vscFold :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscFold = element (unsafeCoerce vscFold_)
+vscFold = element (unsafeCoerce _vscFold)
 
-foreign import vscFoldDown_ :: ReactIcon
+foreign import _vscFoldDown :: ReactIcon
 
 vscFoldDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscFoldDown = element (unsafeCoerce vscFoldDown_)
+vscFoldDown = element (unsafeCoerce _vscFoldDown)
 
-foreign import vscFolder_ :: ReactIcon
+foreign import _vscFolder :: ReactIcon
 
 vscFolder :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscFolder = element (unsafeCoerce vscFolder_)
+vscFolder = element (unsafeCoerce _vscFolder)
 
-foreign import vscFolderActive_ :: ReactIcon
+foreign import _vscFolderActive :: ReactIcon
 
 vscFolderActive :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscFolderActive = element (unsafeCoerce vscFolderActive_)
+vscFolderActive = element (unsafeCoerce _vscFolderActive)
 
-foreign import vscFolderLibrary_ :: ReactIcon
+foreign import _vscFolderLibrary :: ReactIcon
 
 vscFolderLibrary :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscFolderLibrary = element (unsafeCoerce vscFolderLibrary_)
+vscFolderLibrary = element (unsafeCoerce _vscFolderLibrary)
 
-foreign import vscFolderOpened_ :: ReactIcon
+foreign import _vscFolderOpened :: ReactIcon
 
 vscFolderOpened :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscFolderOpened = element (unsafeCoerce vscFolderOpened_)
+vscFolderOpened = element (unsafeCoerce _vscFolderOpened)
 
-foreign import vscFoldUp_ :: ReactIcon
+foreign import _vscFoldUp :: ReactIcon
 
 vscFoldUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscFoldUp = element (unsafeCoerce vscFoldUp_)
+vscFoldUp = element (unsafeCoerce _vscFoldUp)
 
-foreign import vscGear_ :: ReactIcon
+foreign import _vscGear :: ReactIcon
 
 vscGear :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscGear = element (unsafeCoerce vscGear_)
+vscGear = element (unsafeCoerce _vscGear)
 
-foreign import vscGift_ :: ReactIcon
+foreign import _vscGift :: ReactIcon
 
 vscGift :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscGift = element (unsafeCoerce vscGift_)
+vscGift = element (unsafeCoerce _vscGift)
 
-foreign import vscGist_ :: ReactIcon
+foreign import _vscGist :: ReactIcon
 
 vscGist :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscGist = element (unsafeCoerce vscGist_)
+vscGist = element (unsafeCoerce _vscGist)
 
-foreign import vscGistSecret_ :: ReactIcon
+foreign import _vscGistSecret :: ReactIcon
 
 vscGistSecret :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscGistSecret = element (unsafeCoerce vscGistSecret_)
+vscGistSecret = element (unsafeCoerce _vscGistSecret)
 
-foreign import vscGitCommit_ :: ReactIcon
+foreign import _vscGitCommit :: ReactIcon
 
 vscGitCommit :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscGitCommit = element (unsafeCoerce vscGitCommit_)
+vscGitCommit = element (unsafeCoerce _vscGitCommit)
 
-foreign import vscGitCompare_ :: ReactIcon
+foreign import _vscGitCompare :: ReactIcon
 
 vscGitCompare :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscGitCompare = element (unsafeCoerce vscGitCompare_)
+vscGitCompare = element (unsafeCoerce _vscGitCompare)
 
-foreign import vscGithub_ :: ReactIcon
+foreign import _vscGithub :: ReactIcon
 
 vscGithub :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscGithub = element (unsafeCoerce vscGithub_)
+vscGithub = element (unsafeCoerce _vscGithub)
 
-foreign import vscGithubAction_ :: ReactIcon
+foreign import _vscGithubAction :: ReactIcon
 
 vscGithubAction :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscGithubAction = element (unsafeCoerce vscGithubAction_)
+vscGithubAction = element (unsafeCoerce _vscGithubAction)
 
-foreign import vscGithubAlt_ :: ReactIcon
+foreign import _vscGithubAlt :: ReactIcon
 
 vscGithubAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscGithubAlt = element (unsafeCoerce vscGithubAlt_)
+vscGithubAlt = element (unsafeCoerce _vscGithubAlt)
 
-foreign import vscGithubInverted_ :: ReactIcon
+foreign import _vscGithubInverted :: ReactIcon
 
 vscGithubInverted :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscGithubInverted = element (unsafeCoerce vscGithubInverted_)
+vscGithubInverted = element (unsafeCoerce _vscGithubInverted)
 
-foreign import vscGitMerge_ :: ReactIcon
+foreign import _vscGitMerge :: ReactIcon
 
 vscGitMerge :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscGitMerge = element (unsafeCoerce vscGitMerge_)
+vscGitMerge = element (unsafeCoerce _vscGitMerge)
 
-foreign import vscGitPullRequest_ :: ReactIcon
+foreign import _vscGitPullRequest :: ReactIcon
 
 vscGitPullRequest :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscGitPullRequest = element (unsafeCoerce vscGitPullRequest_)
+vscGitPullRequest = element (unsafeCoerce _vscGitPullRequest)
 
-foreign import vscGitPullRequestClosed_ :: ReactIcon
+foreign import _vscGitPullRequestClosed :: ReactIcon
 
 vscGitPullRequestClosed :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscGitPullRequestClosed = element (unsafeCoerce vscGitPullRequestClosed_)
+vscGitPullRequestClosed = element (unsafeCoerce _vscGitPullRequestClosed)
 
-foreign import vscGitPullRequestCreate_ :: ReactIcon
+foreign import _vscGitPullRequestCreate :: ReactIcon
 
 vscGitPullRequestCreate :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscGitPullRequestCreate = element (unsafeCoerce vscGitPullRequestCreate_)
+vscGitPullRequestCreate = element (unsafeCoerce _vscGitPullRequestCreate)
 
-foreign import vscGitPullRequestDraft_ :: ReactIcon
+foreign import _vscGitPullRequestDraft :: ReactIcon
 
 vscGitPullRequestDraft :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscGitPullRequestDraft = element (unsafeCoerce vscGitPullRequestDraft_)
+vscGitPullRequestDraft = element (unsafeCoerce _vscGitPullRequestDraft)
 
-foreign import vscGlobe_ :: ReactIcon
+foreign import _vscGlobe :: ReactIcon
 
 vscGlobe :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscGlobe = element (unsafeCoerce vscGlobe_)
+vscGlobe = element (unsafeCoerce _vscGlobe)
 
-foreign import vscGoToFile_ :: ReactIcon
+foreign import _vscGoToFile :: ReactIcon
 
 vscGoToFile :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscGoToFile = element (unsafeCoerce vscGoToFile_)
+vscGoToFile = element (unsafeCoerce _vscGoToFile)
 
-foreign import vscGrabber_ :: ReactIcon
+foreign import _vscGrabber :: ReactIcon
 
 vscGrabber :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscGrabber = element (unsafeCoerce vscGrabber_)
+vscGrabber = element (unsafeCoerce _vscGrabber)
 
-foreign import vscGraph_ :: ReactIcon
+foreign import _vscGraph :: ReactIcon
 
 vscGraph :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscGraph = element (unsafeCoerce vscGraph_)
+vscGraph = element (unsafeCoerce _vscGraph)
 
-foreign import vscGraphLeft_ :: ReactIcon
+foreign import _vscGraphLeft :: ReactIcon
 
 vscGraphLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscGraphLeft = element (unsafeCoerce vscGraphLeft_)
+vscGraphLeft = element (unsafeCoerce _vscGraphLeft)
 
-foreign import vscGraphLine_ :: ReactIcon
+foreign import _vscGraphLine :: ReactIcon
 
 vscGraphLine :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscGraphLine = element (unsafeCoerce vscGraphLine_)
+vscGraphLine = element (unsafeCoerce _vscGraphLine)
 
-foreign import vscGraphScatter_ :: ReactIcon
+foreign import _vscGraphScatter :: ReactIcon
 
 vscGraphScatter :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscGraphScatter = element (unsafeCoerce vscGraphScatter_)
+vscGraphScatter = element (unsafeCoerce _vscGraphScatter)
 
-foreign import vscGripper_ :: ReactIcon
+foreign import _vscGripper :: ReactIcon
 
 vscGripper :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscGripper = element (unsafeCoerce vscGripper_)
+vscGripper = element (unsafeCoerce _vscGripper)
 
-foreign import vscGroupByRefType_ :: ReactIcon
+foreign import _vscGroupByRefType :: ReactIcon
 
 vscGroupByRefType :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscGroupByRefType = element (unsafeCoerce vscGroupByRefType_)
+vscGroupByRefType = element (unsafeCoerce _vscGroupByRefType)
 
-foreign import vscHeart_ :: ReactIcon
+foreign import _vscHeart :: ReactIcon
 
 vscHeart :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscHeart = element (unsafeCoerce vscHeart_)
+vscHeart = element (unsafeCoerce _vscHeart)
 
-foreign import vscHistory_ :: ReactIcon
+foreign import _vscHistory :: ReactIcon
 
 vscHistory :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscHistory = element (unsafeCoerce vscHistory_)
+vscHistory = element (unsafeCoerce _vscHistory)
 
-foreign import vscHome_ :: ReactIcon
+foreign import _vscHome :: ReactIcon
 
 vscHome :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscHome = element (unsafeCoerce vscHome_)
+vscHome = element (unsafeCoerce _vscHome)
 
-foreign import vscHorizontalRule_ :: ReactIcon
+foreign import _vscHorizontalRule :: ReactIcon
 
 vscHorizontalRule :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscHorizontalRule = element (unsafeCoerce vscHorizontalRule_)
+vscHorizontalRule = element (unsafeCoerce _vscHorizontalRule)
 
-foreign import vscHubot_ :: ReactIcon
+foreign import _vscHubot :: ReactIcon
 
 vscHubot :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscHubot = element (unsafeCoerce vscHubot_)
+vscHubot = element (unsafeCoerce _vscHubot)
 
-foreign import vscInbox_ :: ReactIcon
+foreign import _vscInbox :: ReactIcon
 
 vscInbox :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscInbox = element (unsafeCoerce vscInbox_)
+vscInbox = element (unsafeCoerce _vscInbox)
 
-foreign import vscInfo_ :: ReactIcon
+foreign import _vscInfo :: ReactIcon
 
 vscInfo :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscInfo = element (unsafeCoerce vscInfo_)
+vscInfo = element (unsafeCoerce _vscInfo)
 
-foreign import vscInspect_ :: ReactIcon
+foreign import _vscInspect :: ReactIcon
 
 vscInspect :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscInspect = element (unsafeCoerce vscInspect_)
+vscInspect = element (unsafeCoerce _vscInspect)
 
-foreign import vscIssueDraft_ :: ReactIcon
+foreign import _vscIssueDraft :: ReactIcon
 
 vscIssueDraft :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscIssueDraft = element (unsafeCoerce vscIssueDraft_)
+vscIssueDraft = element (unsafeCoerce _vscIssueDraft)
 
-foreign import vscIssueReopened_ :: ReactIcon
+foreign import _vscIssueReopened :: ReactIcon
 
 vscIssueReopened :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscIssueReopened = element (unsafeCoerce vscIssueReopened_)
+vscIssueReopened = element (unsafeCoerce _vscIssueReopened)
 
-foreign import vscIssues_ :: ReactIcon
+foreign import _vscIssues :: ReactIcon
 
 vscIssues :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscIssues = element (unsafeCoerce vscIssues_)
+vscIssues = element (unsafeCoerce _vscIssues)
 
-foreign import vscItalic_ :: ReactIcon
+foreign import _vscItalic :: ReactIcon
 
 vscItalic :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscItalic = element (unsafeCoerce vscItalic_)
+vscItalic = element (unsafeCoerce _vscItalic)
 
-foreign import vscJersey_ :: ReactIcon
+foreign import _vscJersey :: ReactIcon
 
 vscJersey :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscJersey = element (unsafeCoerce vscJersey_)
+vscJersey = element (unsafeCoerce _vscJersey)
 
-foreign import vscJson_ :: ReactIcon
+foreign import _vscJson :: ReactIcon
 
 vscJson :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscJson = element (unsafeCoerce vscJson_)
+vscJson = element (unsafeCoerce _vscJson)
 
-foreign import vscKebabVertical_ :: ReactIcon
+foreign import _vscKebabVertical :: ReactIcon
 
 vscKebabVertical :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscKebabVertical = element (unsafeCoerce vscKebabVertical_)
+vscKebabVertical = element (unsafeCoerce _vscKebabVertical)
 
-foreign import vscKey_ :: ReactIcon
+foreign import _vscKey :: ReactIcon
 
 vscKey :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscKey = element (unsafeCoerce vscKey_)
+vscKey = element (unsafeCoerce _vscKey)
 
-foreign import vscLaw_ :: ReactIcon
+foreign import _vscLaw :: ReactIcon
 
 vscLaw :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscLaw = element (unsafeCoerce vscLaw_)
+vscLaw = element (unsafeCoerce _vscLaw)
 
-foreign import vscLayers_ :: ReactIcon
+foreign import _vscLayers :: ReactIcon
 
 vscLayers :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscLayers = element (unsafeCoerce vscLayers_)
+vscLayers = element (unsafeCoerce _vscLayers)
 
-foreign import vscLayersActive_ :: ReactIcon
+foreign import _vscLayersActive :: ReactIcon
 
 vscLayersActive :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscLayersActive = element (unsafeCoerce vscLayersActive_)
+vscLayersActive = element (unsafeCoerce _vscLayersActive)
 
-foreign import vscLayersDot_ :: ReactIcon
+foreign import _vscLayersDot :: ReactIcon
 
 vscLayersDot :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscLayersDot = element (unsafeCoerce vscLayersDot_)
+vscLayersDot = element (unsafeCoerce _vscLayersDot)
 
-foreign import vscLibrary_ :: ReactIcon
+foreign import _vscLibrary :: ReactIcon
 
 vscLibrary :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscLibrary = element (unsafeCoerce vscLibrary_)
+vscLibrary = element (unsafeCoerce _vscLibrary)
 
-foreign import vscLightbulb_ :: ReactIcon
+foreign import _vscLightbulb :: ReactIcon
 
 vscLightbulb :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscLightbulb = element (unsafeCoerce vscLightbulb_)
+vscLightbulb = element (unsafeCoerce _vscLightbulb)
 
-foreign import vscLightbulbAutofix_ :: ReactIcon
+foreign import _vscLightbulbAutofix :: ReactIcon
 
 vscLightbulbAutofix :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscLightbulbAutofix = element (unsafeCoerce vscLightbulbAutofix_)
+vscLightbulbAutofix = element (unsafeCoerce _vscLightbulbAutofix)
 
-foreign import vscLink_ :: ReactIcon
+foreign import _vscLink :: ReactIcon
 
 vscLink :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscLink = element (unsafeCoerce vscLink_)
+vscLink = element (unsafeCoerce _vscLink)
 
-foreign import vscLinkExternal_ :: ReactIcon
+foreign import _vscLinkExternal :: ReactIcon
 
 vscLinkExternal :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscLinkExternal = element (unsafeCoerce vscLinkExternal_)
+vscLinkExternal = element (unsafeCoerce _vscLinkExternal)
 
-foreign import vscListFilter_ :: ReactIcon
+foreign import _vscListFilter :: ReactIcon
 
 vscListFilter :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscListFilter = element (unsafeCoerce vscListFilter_)
+vscListFilter = element (unsafeCoerce _vscListFilter)
 
-foreign import vscListFlat_ :: ReactIcon
+foreign import _vscListFlat :: ReactIcon
 
 vscListFlat :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscListFlat = element (unsafeCoerce vscListFlat_)
+vscListFlat = element (unsafeCoerce _vscListFlat)
 
-foreign import vscListOrdered_ :: ReactIcon
+foreign import _vscListOrdered :: ReactIcon
 
 vscListOrdered :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscListOrdered = element (unsafeCoerce vscListOrdered_)
+vscListOrdered = element (unsafeCoerce _vscListOrdered)
 
-foreign import vscListSelection_ :: ReactIcon
+foreign import _vscListSelection :: ReactIcon
 
 vscListSelection :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscListSelection = element (unsafeCoerce vscListSelection_)
+vscListSelection = element (unsafeCoerce _vscListSelection)
 
-foreign import vscListTree_ :: ReactIcon
+foreign import _vscListTree :: ReactIcon
 
 vscListTree :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscListTree = element (unsafeCoerce vscListTree_)
+vscListTree = element (unsafeCoerce _vscListTree)
 
-foreign import vscListUnordered_ :: ReactIcon
+foreign import _vscListUnordered :: ReactIcon
 
 vscListUnordered :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscListUnordered = element (unsafeCoerce vscListUnordered_)
+vscListUnordered = element (unsafeCoerce _vscListUnordered)
 
-foreign import vscLiveShare_ :: ReactIcon
+foreign import _vscLiveShare :: ReactIcon
 
 vscLiveShare :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscLiveShare = element (unsafeCoerce vscLiveShare_)
+vscLiveShare = element (unsafeCoerce _vscLiveShare)
 
-foreign import vscLoading_ :: ReactIcon
+foreign import _vscLoading :: ReactIcon
 
 vscLoading :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscLoading = element (unsafeCoerce vscLoading_)
+vscLoading = element (unsafeCoerce _vscLoading)
 
-foreign import vscLocation_ :: ReactIcon
+foreign import _vscLocation :: ReactIcon
 
 vscLocation :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscLocation = element (unsafeCoerce vscLocation_)
+vscLocation = element (unsafeCoerce _vscLocation)
 
-foreign import vscLock_ :: ReactIcon
+foreign import _vscLock :: ReactIcon
 
 vscLock :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscLock = element (unsafeCoerce vscLock_)
+vscLock = element (unsafeCoerce _vscLock)
 
-foreign import vscMagnet_ :: ReactIcon
+foreign import _vscMagnet :: ReactIcon
 
 vscMagnet :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscMagnet = element (unsafeCoerce vscMagnet_)
+vscMagnet = element (unsafeCoerce _vscMagnet)
 
-foreign import vscMail_ :: ReactIcon
+foreign import _vscMail :: ReactIcon
 
 vscMail :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscMail = element (unsafeCoerce vscMail_)
+vscMail = element (unsafeCoerce _vscMail)
 
-foreign import vscMailRead_ :: ReactIcon
+foreign import _vscMailRead :: ReactIcon
 
 vscMailRead :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscMailRead = element (unsafeCoerce vscMailRead_)
+vscMailRead = element (unsafeCoerce _vscMailRead)
 
-foreign import vscMarkdown_ :: ReactIcon
+foreign import _vscMarkdown :: ReactIcon
 
 vscMarkdown :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscMarkdown = element (unsafeCoerce vscMarkdown_)
+vscMarkdown = element (unsafeCoerce _vscMarkdown)
 
-foreign import vscMegaphone_ :: ReactIcon
+foreign import _vscMegaphone :: ReactIcon
 
 vscMegaphone :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscMegaphone = element (unsafeCoerce vscMegaphone_)
+vscMegaphone = element (unsafeCoerce _vscMegaphone)
 
-foreign import vscMention_ :: ReactIcon
+foreign import _vscMention :: ReactIcon
 
 vscMention :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscMention = element (unsafeCoerce vscMention_)
+vscMention = element (unsafeCoerce _vscMention)
 
-foreign import vscMenu_ :: ReactIcon
+foreign import _vscMenu :: ReactIcon
 
 vscMenu :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscMenu = element (unsafeCoerce vscMenu_)
+vscMenu = element (unsafeCoerce _vscMenu)
 
-foreign import vscMerge_ :: ReactIcon
+foreign import _vscMerge :: ReactIcon
 
 vscMerge :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscMerge = element (unsafeCoerce vscMerge_)
+vscMerge = element (unsafeCoerce _vscMerge)
 
-foreign import vscMilestone_ :: ReactIcon
+foreign import _vscMilestone :: ReactIcon
 
 vscMilestone :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscMilestone = element (unsafeCoerce vscMilestone_)
+vscMilestone = element (unsafeCoerce _vscMilestone)
 
-foreign import vscMirror_ :: ReactIcon
+foreign import _vscMirror :: ReactIcon
 
 vscMirror :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscMirror = element (unsafeCoerce vscMirror_)
+vscMirror = element (unsafeCoerce _vscMirror)
 
-foreign import vscMortarBoard_ :: ReactIcon
+foreign import _vscMortarBoard :: ReactIcon
 
 vscMortarBoard :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscMortarBoard = element (unsafeCoerce vscMortarBoard_)
+vscMortarBoard = element (unsafeCoerce _vscMortarBoard)
 
-foreign import vscMove_ :: ReactIcon
+foreign import _vscMove :: ReactIcon
 
 vscMove :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscMove = element (unsafeCoerce vscMove_)
+vscMove = element (unsafeCoerce _vscMove)
 
-foreign import vscMultipleWindows_ :: ReactIcon
+foreign import _vscMultipleWindows :: ReactIcon
 
 vscMultipleWindows :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscMultipleWindows = element (unsafeCoerce vscMultipleWindows_)
+vscMultipleWindows = element (unsafeCoerce _vscMultipleWindows)
 
-foreign import vscMute_ :: ReactIcon
+foreign import _vscMute :: ReactIcon
 
 vscMute :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscMute = element (unsafeCoerce vscMute_)
+vscMute = element (unsafeCoerce _vscMute)
 
-foreign import vscNewFile_ :: ReactIcon
+foreign import _vscNewFile :: ReactIcon
 
 vscNewFile :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscNewFile = element (unsafeCoerce vscNewFile_)
+vscNewFile = element (unsafeCoerce _vscNewFile)
 
-foreign import vscNewFolder_ :: ReactIcon
+foreign import _vscNewFolder :: ReactIcon
 
 vscNewFolder :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscNewFolder = element (unsafeCoerce vscNewFolder_)
+vscNewFolder = element (unsafeCoerce _vscNewFolder)
 
-foreign import vscNoNewline_ :: ReactIcon
+foreign import _vscNoNewline :: ReactIcon
 
 vscNoNewline :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscNoNewline = element (unsafeCoerce vscNoNewline_)
+vscNoNewline = element (unsafeCoerce _vscNoNewline)
 
-foreign import vscNote_ :: ReactIcon
+foreign import _vscNote :: ReactIcon
 
 vscNote :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscNote = element (unsafeCoerce vscNote_)
+vscNote = element (unsafeCoerce _vscNote)
 
-foreign import vscNotebook_ :: ReactIcon
+foreign import _vscNotebook :: ReactIcon
 
 vscNotebook :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscNotebook = element (unsafeCoerce vscNotebook_)
+vscNotebook = element (unsafeCoerce _vscNotebook)
 
-foreign import vscNotebookTemplate_ :: ReactIcon
+foreign import _vscNotebookTemplate :: ReactIcon
 
 vscNotebookTemplate :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscNotebookTemplate = element (unsafeCoerce vscNotebookTemplate_)
+vscNotebookTemplate = element (unsafeCoerce _vscNotebookTemplate)
 
-foreign import vscOctoface_ :: ReactIcon
+foreign import _vscOctoface :: ReactIcon
 
 vscOctoface :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscOctoface = element (unsafeCoerce vscOctoface_)
+vscOctoface = element (unsafeCoerce _vscOctoface)
 
-foreign import vscOpenPreview_ :: ReactIcon
+foreign import _vscOpenPreview :: ReactIcon
 
 vscOpenPreview :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscOpenPreview = element (unsafeCoerce vscOpenPreview_)
+vscOpenPreview = element (unsafeCoerce _vscOpenPreview)
 
-foreign import vscOrganization_ :: ReactIcon
+foreign import _vscOrganization :: ReactIcon
 
 vscOrganization :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscOrganization = element (unsafeCoerce vscOrganization_)
+vscOrganization = element (unsafeCoerce _vscOrganization)
 
-foreign import vscOutput_ :: ReactIcon
+foreign import _vscOutput :: ReactIcon
 
 vscOutput :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscOutput = element (unsafeCoerce vscOutput_)
+vscOutput = element (unsafeCoerce _vscOutput)
 
-foreign import vscPackage_ :: ReactIcon
+foreign import _vscPackage :: ReactIcon
 
 vscPackage :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscPackage = element (unsafeCoerce vscPackage_)
+vscPackage = element (unsafeCoerce _vscPackage)
 
-foreign import vscPaintcan_ :: ReactIcon
+foreign import _vscPaintcan :: ReactIcon
 
 vscPaintcan :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscPaintcan = element (unsafeCoerce vscPaintcan_)
+vscPaintcan = element (unsafeCoerce _vscPaintcan)
 
-foreign import vscPass_ :: ReactIcon
+foreign import _vscPass :: ReactIcon
 
 vscPass :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscPass = element (unsafeCoerce vscPass_)
+vscPass = element (unsafeCoerce _vscPass)
 
-foreign import vscPassFilled_ :: ReactIcon
+foreign import _vscPassFilled :: ReactIcon
 
 vscPassFilled :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscPassFilled = element (unsafeCoerce vscPassFilled_)
+vscPassFilled = element (unsafeCoerce _vscPassFilled)
 
-foreign import vscPerson_ :: ReactIcon
+foreign import _vscPerson :: ReactIcon
 
 vscPerson :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscPerson = element (unsafeCoerce vscPerson_)
+vscPerson = element (unsafeCoerce _vscPerson)
 
-foreign import vscPersonAdd_ :: ReactIcon
+foreign import _vscPersonAdd :: ReactIcon
 
 vscPersonAdd :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscPersonAdd = element (unsafeCoerce vscPersonAdd_)
+vscPersonAdd = element (unsafeCoerce _vscPersonAdd)
 
-foreign import vscPieChart_ :: ReactIcon
+foreign import _vscPieChart :: ReactIcon
 
 vscPieChart :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscPieChart = element (unsafeCoerce vscPieChart_)
+vscPieChart = element (unsafeCoerce _vscPieChart)
 
-foreign import vscPin_ :: ReactIcon
+foreign import _vscPin :: ReactIcon
 
 vscPin :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscPin = element (unsafeCoerce vscPin_)
+vscPin = element (unsafeCoerce _vscPin)
 
-foreign import vscPinned_ :: ReactIcon
+foreign import _vscPinned :: ReactIcon
 
 vscPinned :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscPinned = element (unsafeCoerce vscPinned_)
+vscPinned = element (unsafeCoerce _vscPinned)
 
-foreign import vscPinnedDirty_ :: ReactIcon
+foreign import _vscPinnedDirty :: ReactIcon
 
 vscPinnedDirty :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscPinnedDirty = element (unsafeCoerce vscPinnedDirty_)
+vscPinnedDirty = element (unsafeCoerce _vscPinnedDirty)
 
-foreign import vscPlay_ :: ReactIcon
+foreign import _vscPlay :: ReactIcon
 
 vscPlay :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscPlay = element (unsafeCoerce vscPlay_)
+vscPlay = element (unsafeCoerce _vscPlay)
 
-foreign import vscPlayCircle_ :: ReactIcon
+foreign import _vscPlayCircle :: ReactIcon
 
 vscPlayCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscPlayCircle = element (unsafeCoerce vscPlayCircle_)
+vscPlayCircle = element (unsafeCoerce _vscPlayCircle)
 
-foreign import vscPlug_ :: ReactIcon
+foreign import _vscPlug :: ReactIcon
 
 vscPlug :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscPlug = element (unsafeCoerce vscPlug_)
+vscPlug = element (unsafeCoerce _vscPlug)
 
-foreign import vscPreserveCase_ :: ReactIcon
+foreign import _vscPreserveCase :: ReactIcon
 
 vscPreserveCase :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscPreserveCase = element (unsafeCoerce vscPreserveCase_)
+vscPreserveCase = element (unsafeCoerce _vscPreserveCase)
 
-foreign import vscPreview_ :: ReactIcon
+foreign import _vscPreview :: ReactIcon
 
 vscPreview :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscPreview = element (unsafeCoerce vscPreview_)
+vscPreview = element (unsafeCoerce _vscPreview)
 
-foreign import vscPrimitiveSquare_ :: ReactIcon
+foreign import _vscPrimitiveSquare :: ReactIcon
 
 vscPrimitiveSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscPrimitiveSquare = element (unsafeCoerce vscPrimitiveSquare_)
+vscPrimitiveSquare = element (unsafeCoerce _vscPrimitiveSquare)
 
-foreign import vscProject_ :: ReactIcon
+foreign import _vscProject :: ReactIcon
 
 vscProject :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscProject = element (unsafeCoerce vscProject_)
+vscProject = element (unsafeCoerce _vscProject)
 
-foreign import vscPulse_ :: ReactIcon
+foreign import _vscPulse :: ReactIcon
 
 vscPulse :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscPulse = element (unsafeCoerce vscPulse_)
+vscPulse = element (unsafeCoerce _vscPulse)
 
-foreign import vscQuestion_ :: ReactIcon
+foreign import _vscQuestion :: ReactIcon
 
 vscQuestion :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscQuestion = element (unsafeCoerce vscQuestion_)
+vscQuestion = element (unsafeCoerce _vscQuestion)
 
-foreign import vscQuote_ :: ReactIcon
+foreign import _vscQuote :: ReactIcon
 
 vscQuote :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscQuote = element (unsafeCoerce vscQuote_)
+vscQuote = element (unsafeCoerce _vscQuote)
 
-foreign import vscRadioTower_ :: ReactIcon
+foreign import _vscRadioTower :: ReactIcon
 
 vscRadioTower :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscRadioTower = element (unsafeCoerce vscRadioTower_)
+vscRadioTower = element (unsafeCoerce _vscRadioTower)
 
-foreign import vscReactions_ :: ReactIcon
+foreign import _vscReactions :: ReactIcon
 
 vscReactions :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscReactions = element (unsafeCoerce vscReactions_)
+vscReactions = element (unsafeCoerce _vscReactions)
 
-foreign import vscRecord_ :: ReactIcon
+foreign import _vscRecord :: ReactIcon
 
 vscRecord :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscRecord = element (unsafeCoerce vscRecord_)
+vscRecord = element (unsafeCoerce _vscRecord)
 
-foreign import vscRecordKeys_ :: ReactIcon
+foreign import _vscRecordKeys :: ReactIcon
 
 vscRecordKeys :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscRecordKeys = element (unsafeCoerce vscRecordKeys_)
+vscRecordKeys = element (unsafeCoerce _vscRecordKeys)
 
-foreign import vscRedo_ :: ReactIcon
+foreign import _vscRedo :: ReactIcon
 
 vscRedo :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscRedo = element (unsafeCoerce vscRedo_)
+vscRedo = element (unsafeCoerce _vscRedo)
 
-foreign import vscReferences_ :: ReactIcon
+foreign import _vscReferences :: ReactIcon
 
 vscReferences :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscReferences = element (unsafeCoerce vscReferences_)
+vscReferences = element (unsafeCoerce _vscReferences)
 
-foreign import vscRefresh_ :: ReactIcon
+foreign import _vscRefresh :: ReactIcon
 
 vscRefresh :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscRefresh = element (unsafeCoerce vscRefresh_)
+vscRefresh = element (unsafeCoerce _vscRefresh)
 
-foreign import vscRegex_ :: ReactIcon
+foreign import _vscRegex :: ReactIcon
 
 vscRegex :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscRegex = element (unsafeCoerce vscRegex_)
+vscRegex = element (unsafeCoerce _vscRegex)
 
-foreign import vscRemote_ :: ReactIcon
+foreign import _vscRemote :: ReactIcon
 
 vscRemote :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscRemote = element (unsafeCoerce vscRemote_)
+vscRemote = element (unsafeCoerce _vscRemote)
 
-foreign import vscRemoteExplorer_ :: ReactIcon
+foreign import _vscRemoteExplorer :: ReactIcon
 
 vscRemoteExplorer :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscRemoteExplorer = element (unsafeCoerce vscRemoteExplorer_)
+vscRemoteExplorer = element (unsafeCoerce _vscRemoteExplorer)
 
-foreign import vscRemove_ :: ReactIcon
+foreign import _vscRemove :: ReactIcon
 
 vscRemove :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscRemove = element (unsafeCoerce vscRemove_)
+vscRemove = element (unsafeCoerce _vscRemove)
 
-foreign import vscReplace_ :: ReactIcon
+foreign import _vscReplace :: ReactIcon
 
 vscReplace :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscReplace = element (unsafeCoerce vscReplace_)
+vscReplace = element (unsafeCoerce _vscReplace)
 
-foreign import vscReplaceAll_ :: ReactIcon
+foreign import _vscReplaceAll :: ReactIcon
 
 vscReplaceAll :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscReplaceAll = element (unsafeCoerce vscReplaceAll_)
+vscReplaceAll = element (unsafeCoerce _vscReplaceAll)
 
-foreign import vscReply_ :: ReactIcon
+foreign import _vscReply :: ReactIcon
 
 vscReply :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscReply = element (unsafeCoerce vscReply_)
+vscReply = element (unsafeCoerce _vscReply)
 
-foreign import vscRepo_ :: ReactIcon
+foreign import _vscRepo :: ReactIcon
 
 vscRepo :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscRepo = element (unsafeCoerce vscRepo_)
+vscRepo = element (unsafeCoerce _vscRepo)
 
-foreign import vscRepoClone_ :: ReactIcon
+foreign import _vscRepoClone :: ReactIcon
 
 vscRepoClone :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscRepoClone = element (unsafeCoerce vscRepoClone_)
+vscRepoClone = element (unsafeCoerce _vscRepoClone)
 
-foreign import vscRepoForcePush_ :: ReactIcon
+foreign import _vscRepoForcePush :: ReactIcon
 
 vscRepoForcePush :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscRepoForcePush = element (unsafeCoerce vscRepoForcePush_)
+vscRepoForcePush = element (unsafeCoerce _vscRepoForcePush)
 
-foreign import vscRepoForked_ :: ReactIcon
+foreign import _vscRepoForked :: ReactIcon
 
 vscRepoForked :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscRepoForked = element (unsafeCoerce vscRepoForked_)
+vscRepoForked = element (unsafeCoerce _vscRepoForked)
 
-foreign import vscRepoPull_ :: ReactIcon
+foreign import _vscRepoPull :: ReactIcon
 
 vscRepoPull :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscRepoPull = element (unsafeCoerce vscRepoPull_)
+vscRepoPull = element (unsafeCoerce _vscRepoPull)
 
-foreign import vscRepoPush_ :: ReactIcon
+foreign import _vscRepoPush :: ReactIcon
 
 vscRepoPush :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscRepoPush = element (unsafeCoerce vscRepoPush_)
+vscRepoPush = element (unsafeCoerce _vscRepoPush)
 
-foreign import vscReport_ :: ReactIcon
+foreign import _vscReport :: ReactIcon
 
 vscReport :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscReport = element (unsafeCoerce vscReport_)
+vscReport = element (unsafeCoerce _vscReport)
 
-foreign import vscRequestChanges_ :: ReactIcon
+foreign import _vscRequestChanges :: ReactIcon
 
 vscRequestChanges :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscRequestChanges = element (unsafeCoerce vscRequestChanges_)
+vscRequestChanges = element (unsafeCoerce _vscRequestChanges)
 
-foreign import vscRocket_ :: ReactIcon
+foreign import _vscRocket :: ReactIcon
 
 vscRocket :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscRocket = element (unsafeCoerce vscRocket_)
+vscRocket = element (unsafeCoerce _vscRocket)
 
-foreign import vscRootFolder_ :: ReactIcon
+foreign import _vscRootFolder :: ReactIcon
 
 vscRootFolder :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscRootFolder = element (unsafeCoerce vscRootFolder_)
+vscRootFolder = element (unsafeCoerce _vscRootFolder)
 
-foreign import vscRootFolderOpened_ :: ReactIcon
+foreign import _vscRootFolderOpened :: ReactIcon
 
 vscRootFolderOpened :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscRootFolderOpened = element (unsafeCoerce vscRootFolderOpened_)
+vscRootFolderOpened = element (unsafeCoerce _vscRootFolderOpened)
 
-foreign import vscRss_ :: ReactIcon
+foreign import _vscRss :: ReactIcon
 
 vscRss :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscRss = element (unsafeCoerce vscRss_)
+vscRss = element (unsafeCoerce _vscRss)
 
-foreign import vscRuby_ :: ReactIcon
+foreign import _vscRuby :: ReactIcon
 
 vscRuby :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscRuby = element (unsafeCoerce vscRuby_)
+vscRuby = element (unsafeCoerce _vscRuby)
 
-foreign import vscRunAbove_ :: ReactIcon
+foreign import _vscRunAbove :: ReactIcon
 
 vscRunAbove :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscRunAbove = element (unsafeCoerce vscRunAbove_)
+vscRunAbove = element (unsafeCoerce _vscRunAbove)
 
-foreign import vscRunAll_ :: ReactIcon
+foreign import _vscRunAll :: ReactIcon
 
 vscRunAll :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscRunAll = element (unsafeCoerce vscRunAll_)
+vscRunAll = element (unsafeCoerce _vscRunAll)
 
-foreign import vscRunBelow_ :: ReactIcon
+foreign import _vscRunBelow :: ReactIcon
 
 vscRunBelow :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscRunBelow = element (unsafeCoerce vscRunBelow_)
+vscRunBelow = element (unsafeCoerce _vscRunBelow)
 
-foreign import vscRunErrors_ :: ReactIcon
+foreign import _vscRunErrors :: ReactIcon
 
 vscRunErrors :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscRunErrors = element (unsafeCoerce vscRunErrors_)
+vscRunErrors = element (unsafeCoerce _vscRunErrors)
 
-foreign import vscSave_ :: ReactIcon
+foreign import _vscSave :: ReactIcon
 
 vscSave :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscSave = element (unsafeCoerce vscSave_)
+vscSave = element (unsafeCoerce _vscSave)
 
-foreign import vscSaveAll_ :: ReactIcon
+foreign import _vscSaveAll :: ReactIcon
 
 vscSaveAll :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscSaveAll = element (unsafeCoerce vscSaveAll_)
+vscSaveAll = element (unsafeCoerce _vscSaveAll)
 
-foreign import vscSaveAs_ :: ReactIcon
+foreign import _vscSaveAs :: ReactIcon
 
 vscSaveAs :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscSaveAs = element (unsafeCoerce vscSaveAs_)
+vscSaveAs = element (unsafeCoerce _vscSaveAs)
 
-foreign import vscScreenFull_ :: ReactIcon
+foreign import _vscScreenFull :: ReactIcon
 
 vscScreenFull :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscScreenFull = element (unsafeCoerce vscScreenFull_)
+vscScreenFull = element (unsafeCoerce _vscScreenFull)
 
-foreign import vscScreenNormal_ :: ReactIcon
+foreign import _vscScreenNormal :: ReactIcon
 
 vscScreenNormal :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscScreenNormal = element (unsafeCoerce vscScreenNormal_)
+vscScreenNormal = element (unsafeCoerce _vscScreenNormal)
 
-foreign import vscSearch_ :: ReactIcon
+foreign import _vscSearch :: ReactIcon
 
 vscSearch :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscSearch = element (unsafeCoerce vscSearch_)
+vscSearch = element (unsafeCoerce _vscSearch)
 
-foreign import vscSearchStop_ :: ReactIcon
+foreign import _vscSearchStop :: ReactIcon
 
 vscSearchStop :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscSearchStop = element (unsafeCoerce vscSearchStop_)
+vscSearchStop = element (unsafeCoerce _vscSearchStop)
 
-foreign import vscServer_ :: ReactIcon
+foreign import _vscServer :: ReactIcon
 
 vscServer :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscServer = element (unsafeCoerce vscServer_)
+vscServer = element (unsafeCoerce _vscServer)
 
-foreign import vscServerEnvironment_ :: ReactIcon
+foreign import _vscServerEnvironment :: ReactIcon
 
 vscServerEnvironment :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscServerEnvironment = element (unsafeCoerce vscServerEnvironment_)
+vscServerEnvironment = element (unsafeCoerce _vscServerEnvironment)
 
-foreign import vscServerProcess_ :: ReactIcon
+foreign import _vscServerProcess :: ReactIcon
 
 vscServerProcess :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscServerProcess = element (unsafeCoerce vscServerProcess_)
+vscServerProcess = element (unsafeCoerce _vscServerProcess)
 
-foreign import vscSettings_ :: ReactIcon
+foreign import _vscSettings :: ReactIcon
 
 vscSettings :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscSettings = element (unsafeCoerce vscSettings_)
+vscSettings = element (unsafeCoerce _vscSettings)
 
-foreign import vscSettingsGear_ :: ReactIcon
+foreign import _vscSettingsGear :: ReactIcon
 
 vscSettingsGear :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscSettingsGear = element (unsafeCoerce vscSettingsGear_)
+vscSettingsGear = element (unsafeCoerce _vscSettingsGear)
 
-foreign import vscShield_ :: ReactIcon
+foreign import _vscShield :: ReactIcon
 
 vscShield :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscShield = element (unsafeCoerce vscShield_)
+vscShield = element (unsafeCoerce _vscShield)
 
-foreign import vscSignIn_ :: ReactIcon
+foreign import _vscSignIn :: ReactIcon
 
 vscSignIn :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscSignIn = element (unsafeCoerce vscSignIn_)
+vscSignIn = element (unsafeCoerce _vscSignIn)
 
-foreign import vscSignOut_ :: ReactIcon
+foreign import _vscSignOut :: ReactIcon
 
 vscSignOut :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscSignOut = element (unsafeCoerce vscSignOut_)
+vscSignOut = element (unsafeCoerce _vscSignOut)
 
-foreign import vscSmiley_ :: ReactIcon
+foreign import _vscSmiley :: ReactIcon
 
 vscSmiley :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscSmiley = element (unsafeCoerce vscSmiley_)
+vscSmiley = element (unsafeCoerce _vscSmiley)
 
-foreign import vscSortPrecedence_ :: ReactIcon
+foreign import _vscSortPrecedence :: ReactIcon
 
 vscSortPrecedence :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscSortPrecedence = element (unsafeCoerce vscSortPrecedence_)
+vscSortPrecedence = element (unsafeCoerce _vscSortPrecedence)
 
-foreign import vscSourceControl_ :: ReactIcon
+foreign import _vscSourceControl :: ReactIcon
 
 vscSourceControl :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscSourceControl = element (unsafeCoerce vscSourceControl_)
+vscSourceControl = element (unsafeCoerce _vscSourceControl)
 
-foreign import vscSplitHorizontal_ :: ReactIcon
+foreign import _vscSplitHorizontal :: ReactIcon
 
 vscSplitHorizontal :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscSplitHorizontal = element (unsafeCoerce vscSplitHorizontal_)
+vscSplitHorizontal = element (unsafeCoerce _vscSplitHorizontal)
 
-foreign import vscSplitVertical_ :: ReactIcon
+foreign import _vscSplitVertical :: ReactIcon
 
 vscSplitVertical :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscSplitVertical = element (unsafeCoerce vscSplitVertical_)
+vscSplitVertical = element (unsafeCoerce _vscSplitVertical)
 
-foreign import vscSquirrel_ :: ReactIcon
+foreign import _vscSquirrel :: ReactIcon
 
 vscSquirrel :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscSquirrel = element (unsafeCoerce vscSquirrel_)
+vscSquirrel = element (unsafeCoerce _vscSquirrel)
 
-foreign import vscStarEmpty_ :: ReactIcon
+foreign import _vscStarEmpty :: ReactIcon
 
 vscStarEmpty :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscStarEmpty = element (unsafeCoerce vscStarEmpty_)
+vscStarEmpty = element (unsafeCoerce _vscStarEmpty)
 
-foreign import vscStarFull_ :: ReactIcon
+foreign import _vscStarFull :: ReactIcon
 
 vscStarFull :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscStarFull = element (unsafeCoerce vscStarFull_)
+vscStarFull = element (unsafeCoerce _vscStarFull)
 
-foreign import vscStarHalf_ :: ReactIcon
+foreign import _vscStarHalf :: ReactIcon
 
 vscStarHalf :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscStarHalf = element (unsafeCoerce vscStarHalf_)
+vscStarHalf = element (unsafeCoerce _vscStarHalf)
 
-foreign import vscStopCircle_ :: ReactIcon
+foreign import _vscStopCircle :: ReactIcon
 
 vscStopCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscStopCircle = element (unsafeCoerce vscStopCircle_)
+vscStopCircle = element (unsafeCoerce _vscStopCircle)
 
-foreign import vscSymbolArray_ :: ReactIcon
+foreign import _vscSymbolArray :: ReactIcon
 
 vscSymbolArray :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscSymbolArray = element (unsafeCoerce vscSymbolArray_)
+vscSymbolArray = element (unsafeCoerce _vscSymbolArray)
 
-foreign import vscSymbolBoolean_ :: ReactIcon
+foreign import _vscSymbolBoolean :: ReactIcon
 
 vscSymbolBoolean :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscSymbolBoolean = element (unsafeCoerce vscSymbolBoolean_)
+vscSymbolBoolean = element (unsafeCoerce _vscSymbolBoolean)
 
-foreign import vscSymbolClass_ :: ReactIcon
+foreign import _vscSymbolClass :: ReactIcon
 
 vscSymbolClass :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscSymbolClass = element (unsafeCoerce vscSymbolClass_)
+vscSymbolClass = element (unsafeCoerce _vscSymbolClass)
 
-foreign import vscSymbolColor_ :: ReactIcon
+foreign import _vscSymbolColor :: ReactIcon
 
 vscSymbolColor :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscSymbolColor = element (unsafeCoerce vscSymbolColor_)
+vscSymbolColor = element (unsafeCoerce _vscSymbolColor)
 
-foreign import vscSymbolConstant_ :: ReactIcon
+foreign import _vscSymbolConstant :: ReactIcon
 
 vscSymbolConstant :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscSymbolConstant = element (unsafeCoerce vscSymbolConstant_)
+vscSymbolConstant = element (unsafeCoerce _vscSymbolConstant)
 
-foreign import vscSymbolEnum_ :: ReactIcon
+foreign import _vscSymbolEnum :: ReactIcon
 
 vscSymbolEnum :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscSymbolEnum = element (unsafeCoerce vscSymbolEnum_)
+vscSymbolEnum = element (unsafeCoerce _vscSymbolEnum)
 
-foreign import vscSymbolEnumMember_ :: ReactIcon
+foreign import _vscSymbolEnumMember :: ReactIcon
 
 vscSymbolEnumMember :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscSymbolEnumMember = element (unsafeCoerce vscSymbolEnumMember_)
+vscSymbolEnumMember = element (unsafeCoerce _vscSymbolEnumMember)
 
-foreign import vscSymbolEvent_ :: ReactIcon
+foreign import _vscSymbolEvent :: ReactIcon
 
 vscSymbolEvent :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscSymbolEvent = element (unsafeCoerce vscSymbolEvent_)
+vscSymbolEvent = element (unsafeCoerce _vscSymbolEvent)
 
-foreign import vscSymbolField_ :: ReactIcon
+foreign import _vscSymbolField :: ReactIcon
 
 vscSymbolField :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscSymbolField = element (unsafeCoerce vscSymbolField_)
+vscSymbolField = element (unsafeCoerce _vscSymbolField)
 
-foreign import vscSymbolFile_ :: ReactIcon
+foreign import _vscSymbolFile :: ReactIcon
 
 vscSymbolFile :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscSymbolFile = element (unsafeCoerce vscSymbolFile_)
+vscSymbolFile = element (unsafeCoerce _vscSymbolFile)
 
-foreign import vscSymbolInterface_ :: ReactIcon
+foreign import _vscSymbolInterface :: ReactIcon
 
 vscSymbolInterface :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscSymbolInterface = element (unsafeCoerce vscSymbolInterface_)
+vscSymbolInterface = element (unsafeCoerce _vscSymbolInterface)
 
-foreign import vscSymbolKey_ :: ReactIcon
+foreign import _vscSymbolKey :: ReactIcon
 
 vscSymbolKey :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscSymbolKey = element (unsafeCoerce vscSymbolKey_)
+vscSymbolKey = element (unsafeCoerce _vscSymbolKey)
 
-foreign import vscSymbolKeyword_ :: ReactIcon
+foreign import _vscSymbolKeyword :: ReactIcon
 
 vscSymbolKeyword :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscSymbolKeyword = element (unsafeCoerce vscSymbolKeyword_)
+vscSymbolKeyword = element (unsafeCoerce _vscSymbolKeyword)
 
-foreign import vscSymbolMethod_ :: ReactIcon
+foreign import _vscSymbolMethod :: ReactIcon
 
 vscSymbolMethod :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscSymbolMethod = element (unsafeCoerce vscSymbolMethod_)
+vscSymbolMethod = element (unsafeCoerce _vscSymbolMethod)
 
-foreign import vscSymbolMisc_ :: ReactIcon
+foreign import _vscSymbolMisc :: ReactIcon
 
 vscSymbolMisc :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscSymbolMisc = element (unsafeCoerce vscSymbolMisc_)
+vscSymbolMisc = element (unsafeCoerce _vscSymbolMisc)
 
-foreign import vscSymbolNamespace_ :: ReactIcon
+foreign import _vscSymbolNamespace :: ReactIcon
 
 vscSymbolNamespace :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscSymbolNamespace = element (unsafeCoerce vscSymbolNamespace_)
+vscSymbolNamespace = element (unsafeCoerce _vscSymbolNamespace)
 
-foreign import vscSymbolNumeric_ :: ReactIcon
+foreign import _vscSymbolNumeric :: ReactIcon
 
 vscSymbolNumeric :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscSymbolNumeric = element (unsafeCoerce vscSymbolNumeric_)
+vscSymbolNumeric = element (unsafeCoerce _vscSymbolNumeric)
 
-foreign import vscSymbolOperator_ :: ReactIcon
+foreign import _vscSymbolOperator :: ReactIcon
 
 vscSymbolOperator :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscSymbolOperator = element (unsafeCoerce vscSymbolOperator_)
+vscSymbolOperator = element (unsafeCoerce _vscSymbolOperator)
 
-foreign import vscSymbolParameter_ :: ReactIcon
+foreign import _vscSymbolParameter :: ReactIcon
 
 vscSymbolParameter :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscSymbolParameter = element (unsafeCoerce vscSymbolParameter_)
+vscSymbolParameter = element (unsafeCoerce _vscSymbolParameter)
 
-foreign import vscSymbolProperty_ :: ReactIcon
+foreign import _vscSymbolProperty :: ReactIcon
 
 vscSymbolProperty :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscSymbolProperty = element (unsafeCoerce vscSymbolProperty_)
+vscSymbolProperty = element (unsafeCoerce _vscSymbolProperty)
 
-foreign import vscSymbolRuler_ :: ReactIcon
+foreign import _vscSymbolRuler :: ReactIcon
 
 vscSymbolRuler :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscSymbolRuler = element (unsafeCoerce vscSymbolRuler_)
+vscSymbolRuler = element (unsafeCoerce _vscSymbolRuler)
 
-foreign import vscSymbolSnippet_ :: ReactIcon
+foreign import _vscSymbolSnippet :: ReactIcon
 
 vscSymbolSnippet :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscSymbolSnippet = element (unsafeCoerce vscSymbolSnippet_)
+vscSymbolSnippet = element (unsafeCoerce _vscSymbolSnippet)
 
-foreign import vscSymbolString_ :: ReactIcon
+foreign import _vscSymbolString :: ReactIcon
 
 vscSymbolString :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscSymbolString = element (unsafeCoerce vscSymbolString_)
+vscSymbolString = element (unsafeCoerce _vscSymbolString)
 
-foreign import vscSymbolStructure_ :: ReactIcon
+foreign import _vscSymbolStructure :: ReactIcon
 
 vscSymbolStructure :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscSymbolStructure = element (unsafeCoerce vscSymbolStructure_)
+vscSymbolStructure = element (unsafeCoerce _vscSymbolStructure)
 
-foreign import vscSymbolVariable_ :: ReactIcon
+foreign import _vscSymbolVariable :: ReactIcon
 
 vscSymbolVariable :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscSymbolVariable = element (unsafeCoerce vscSymbolVariable_)
+vscSymbolVariable = element (unsafeCoerce _vscSymbolVariable)
 
-foreign import vscSync_ :: ReactIcon
+foreign import _vscSync :: ReactIcon
 
 vscSync :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscSync = element (unsafeCoerce vscSync_)
+vscSync = element (unsafeCoerce _vscSync)
 
-foreign import vscSyncIgnored_ :: ReactIcon
+foreign import _vscSyncIgnored :: ReactIcon
 
 vscSyncIgnored :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscSyncIgnored = element (unsafeCoerce vscSyncIgnored_)
+vscSyncIgnored = element (unsafeCoerce _vscSyncIgnored)
 
-foreign import vscTable_ :: ReactIcon
+foreign import _vscTable :: ReactIcon
 
 vscTable :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscTable = element (unsafeCoerce vscTable_)
+vscTable = element (unsafeCoerce _vscTable)
 
-foreign import vscTag_ :: ReactIcon
+foreign import _vscTag :: ReactIcon
 
 vscTag :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscTag = element (unsafeCoerce vscTag_)
+vscTag = element (unsafeCoerce _vscTag)
 
-foreign import vscTasklist_ :: ReactIcon
+foreign import _vscTasklist :: ReactIcon
 
 vscTasklist :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscTasklist = element (unsafeCoerce vscTasklist_)
+vscTasklist = element (unsafeCoerce _vscTasklist)
 
-foreign import vscTelescope_ :: ReactIcon
+foreign import _vscTelescope :: ReactIcon
 
 vscTelescope :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscTelescope = element (unsafeCoerce vscTelescope_)
+vscTelescope = element (unsafeCoerce _vscTelescope)
 
-foreign import vscTerminal_ :: ReactIcon
+foreign import _vscTerminal :: ReactIcon
 
 vscTerminal :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscTerminal = element (unsafeCoerce vscTerminal_)
+vscTerminal = element (unsafeCoerce _vscTerminal)
 
-foreign import vscTerminalBash_ :: ReactIcon
+foreign import _vscTerminalBash :: ReactIcon
 
 vscTerminalBash :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscTerminalBash = element (unsafeCoerce vscTerminalBash_)
+vscTerminalBash = element (unsafeCoerce _vscTerminalBash)
 
-foreign import vscTerminalCmd_ :: ReactIcon
+foreign import _vscTerminalCmd :: ReactIcon
 
 vscTerminalCmd :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscTerminalCmd = element (unsafeCoerce vscTerminalCmd_)
+vscTerminalCmd = element (unsafeCoerce _vscTerminalCmd)
 
-foreign import vscTerminalDebian_ :: ReactIcon
+foreign import _vscTerminalDebian :: ReactIcon
 
 vscTerminalDebian :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscTerminalDebian = element (unsafeCoerce vscTerminalDebian_)
+vscTerminalDebian = element (unsafeCoerce _vscTerminalDebian)
 
-foreign import vscTerminalLinux_ :: ReactIcon
+foreign import _vscTerminalLinux :: ReactIcon
 
 vscTerminalLinux :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscTerminalLinux = element (unsafeCoerce vscTerminalLinux_)
+vscTerminalLinux = element (unsafeCoerce _vscTerminalLinux)
 
-foreign import vscTerminalPowershell_ :: ReactIcon
+foreign import _vscTerminalPowershell :: ReactIcon
 
 vscTerminalPowershell :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscTerminalPowershell = element (unsafeCoerce vscTerminalPowershell_)
+vscTerminalPowershell = element (unsafeCoerce _vscTerminalPowershell)
 
-foreign import vscTerminalTmux_ :: ReactIcon
+foreign import _vscTerminalTmux :: ReactIcon
 
 vscTerminalTmux :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscTerminalTmux = element (unsafeCoerce vscTerminalTmux_)
+vscTerminalTmux = element (unsafeCoerce _vscTerminalTmux)
 
-foreign import vscTerminalUbuntu_ :: ReactIcon
+foreign import _vscTerminalUbuntu :: ReactIcon
 
 vscTerminalUbuntu :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscTerminalUbuntu = element (unsafeCoerce vscTerminalUbuntu_)
+vscTerminalUbuntu = element (unsafeCoerce _vscTerminalUbuntu)
 
-foreign import vscTextSize_ :: ReactIcon
+foreign import _vscTextSize :: ReactIcon
 
 vscTextSize :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscTextSize = element (unsafeCoerce vscTextSize_)
+vscTextSize = element (unsafeCoerce _vscTextSize)
 
-foreign import vscThreeBars_ :: ReactIcon
+foreign import _vscThreeBars :: ReactIcon
 
 vscThreeBars :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscThreeBars = element (unsafeCoerce vscThreeBars_)
+vscThreeBars = element (unsafeCoerce _vscThreeBars)
 
-foreign import vscThumbsdown_ :: ReactIcon
+foreign import _vscThumbsdown :: ReactIcon
 
 vscThumbsdown :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscThumbsdown = element (unsafeCoerce vscThumbsdown_)
+vscThumbsdown = element (unsafeCoerce _vscThumbsdown)
 
-foreign import vscThumbsup_ :: ReactIcon
+foreign import _vscThumbsup :: ReactIcon
 
 vscThumbsup :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscThumbsup = element (unsafeCoerce vscThumbsup_)
+vscThumbsup = element (unsafeCoerce _vscThumbsup)
 
-foreign import vscTools_ :: ReactIcon
+foreign import _vscTools :: ReactIcon
 
 vscTools :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscTools = element (unsafeCoerce vscTools_)
+vscTools = element (unsafeCoerce _vscTools)
 
-foreign import vscTrash_ :: ReactIcon
+foreign import _vscTrash :: ReactIcon
 
 vscTrash :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscTrash = element (unsafeCoerce vscTrash_)
+vscTrash = element (unsafeCoerce _vscTrash)
 
-foreign import vscTriangleDown_ :: ReactIcon
+foreign import _vscTriangleDown :: ReactIcon
 
 vscTriangleDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscTriangleDown = element (unsafeCoerce vscTriangleDown_)
+vscTriangleDown = element (unsafeCoerce _vscTriangleDown)
 
-foreign import vscTriangleLeft_ :: ReactIcon
+foreign import _vscTriangleLeft :: ReactIcon
 
 vscTriangleLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscTriangleLeft = element (unsafeCoerce vscTriangleLeft_)
+vscTriangleLeft = element (unsafeCoerce _vscTriangleLeft)
 
-foreign import vscTriangleRight_ :: ReactIcon
+foreign import _vscTriangleRight :: ReactIcon
 
 vscTriangleRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscTriangleRight = element (unsafeCoerce vscTriangleRight_)
+vscTriangleRight = element (unsafeCoerce _vscTriangleRight)
 
-foreign import vscTriangleUp_ :: ReactIcon
+foreign import _vscTriangleUp :: ReactIcon
 
 vscTriangleUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscTriangleUp = element (unsafeCoerce vscTriangleUp_)
+vscTriangleUp = element (unsafeCoerce _vscTriangleUp)
 
-foreign import vscTwitter_ :: ReactIcon
+foreign import _vscTwitter :: ReactIcon
 
 vscTwitter :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscTwitter = element (unsafeCoerce vscTwitter_)
+vscTwitter = element (unsafeCoerce _vscTwitter)
 
-foreign import vscTypeHierarchy_ :: ReactIcon
+foreign import _vscTypeHierarchy :: ReactIcon
 
 vscTypeHierarchy :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscTypeHierarchy = element (unsafeCoerce vscTypeHierarchy_)
+vscTypeHierarchy = element (unsafeCoerce _vscTypeHierarchy)
 
-foreign import vscTypeHierarchySub_ :: ReactIcon
+foreign import _vscTypeHierarchySub :: ReactIcon
 
 vscTypeHierarchySub :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscTypeHierarchySub = element (unsafeCoerce vscTypeHierarchySub_)
+vscTypeHierarchySub = element (unsafeCoerce _vscTypeHierarchySub)
 
-foreign import vscTypeHierarchySuper_ :: ReactIcon
+foreign import _vscTypeHierarchySuper :: ReactIcon
 
 vscTypeHierarchySuper :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscTypeHierarchySuper = element (unsafeCoerce vscTypeHierarchySuper_)
+vscTypeHierarchySuper = element (unsafeCoerce _vscTypeHierarchySuper)
 
-foreign import vscUnfold_ :: ReactIcon
+foreign import _vscUnfold :: ReactIcon
 
 vscUnfold :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscUnfold = element (unsafeCoerce vscUnfold_)
+vscUnfold = element (unsafeCoerce _vscUnfold)
 
-foreign import vscUngroupByRefType_ :: ReactIcon
+foreign import _vscUngroupByRefType :: ReactIcon
 
 vscUngroupByRefType :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscUngroupByRefType = element (unsafeCoerce vscUngroupByRefType_)
+vscUngroupByRefType = element (unsafeCoerce _vscUngroupByRefType)
 
-foreign import vscUnlock_ :: ReactIcon
+foreign import _vscUnlock :: ReactIcon
 
 vscUnlock :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscUnlock = element (unsafeCoerce vscUnlock_)
+vscUnlock = element (unsafeCoerce _vscUnlock)
 
-foreign import vscUnmute_ :: ReactIcon
+foreign import _vscUnmute :: ReactIcon
 
 vscUnmute :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscUnmute = element (unsafeCoerce vscUnmute_)
+vscUnmute = element (unsafeCoerce _vscUnmute)
 
-foreign import vscUnverified_ :: ReactIcon
+foreign import _vscUnverified :: ReactIcon
 
 vscUnverified :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscUnverified = element (unsafeCoerce vscUnverified_)
+vscUnverified = element (unsafeCoerce _vscUnverified)
 
-foreign import vscVariableGroup_ :: ReactIcon
+foreign import _vscVariableGroup :: ReactIcon
 
 vscVariableGroup :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscVariableGroup = element (unsafeCoerce vscVariableGroup_)
+vscVariableGroup = element (unsafeCoerce _vscVariableGroup)
 
-foreign import vscVerified_ :: ReactIcon
+foreign import _vscVerified :: ReactIcon
 
 vscVerified :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscVerified = element (unsafeCoerce vscVerified_)
+vscVerified = element (unsafeCoerce _vscVerified)
 
-foreign import vscVersions_ :: ReactIcon
+foreign import _vscVersions :: ReactIcon
 
 vscVersions :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscVersions = element (unsafeCoerce vscVersions_)
+vscVersions = element (unsafeCoerce _vscVersions)
 
-foreign import vscVm_ :: ReactIcon
+foreign import _vscVm :: ReactIcon
 
 vscVm :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscVm = element (unsafeCoerce vscVm_)
+vscVm = element (unsafeCoerce _vscVm)
 
-foreign import vscVmActive_ :: ReactIcon
+foreign import _vscVmActive :: ReactIcon
 
 vscVmActive :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscVmActive = element (unsafeCoerce vscVmActive_)
+vscVmActive = element (unsafeCoerce _vscVmActive)
 
-foreign import vscVmConnect_ :: ReactIcon
+foreign import _vscVmConnect :: ReactIcon
 
 vscVmConnect :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscVmConnect = element (unsafeCoerce vscVmConnect_)
+vscVmConnect = element (unsafeCoerce _vscVmConnect)
 
-foreign import vscVmOutline_ :: ReactIcon
+foreign import _vscVmOutline :: ReactIcon
 
 vscVmOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscVmOutline = element (unsafeCoerce vscVmOutline_)
+vscVmOutline = element (unsafeCoerce _vscVmOutline)
 
-foreign import vscVmRunning_ :: ReactIcon
+foreign import _vscVmRunning :: ReactIcon
 
 vscVmRunning :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscVmRunning = element (unsafeCoerce vscVmRunning_)
+vscVmRunning = element (unsafeCoerce _vscVmRunning)
 
-foreign import vscWand_ :: ReactIcon
+foreign import _vscWand :: ReactIcon
 
 vscWand :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscWand = element (unsafeCoerce vscWand_)
+vscWand = element (unsafeCoerce _vscWand)
 
-foreign import vscWarning_ :: ReactIcon
+foreign import _vscWarning :: ReactIcon
 
 vscWarning :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscWarning = element (unsafeCoerce vscWarning_)
+vscWarning = element (unsafeCoerce _vscWarning)
 
-foreign import vscWatch_ :: ReactIcon
+foreign import _vscWatch :: ReactIcon
 
 vscWatch :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscWatch = element (unsafeCoerce vscWatch_)
+vscWatch = element (unsafeCoerce _vscWatch)
 
-foreign import vscWhitespace_ :: ReactIcon
+foreign import _vscWhitespace :: ReactIcon
 
 vscWhitespace :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscWhitespace = element (unsafeCoerce vscWhitespace_)
+vscWhitespace = element (unsafeCoerce _vscWhitespace)
 
-foreign import vscWholeWord_ :: ReactIcon
+foreign import _vscWholeWord :: ReactIcon
 
 vscWholeWord :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscWholeWord = element (unsafeCoerce vscWholeWord_)
+vscWholeWord = element (unsafeCoerce _vscWholeWord)
 
-foreign import vscWindow_ :: ReactIcon
+foreign import _vscWindow :: ReactIcon
 
 vscWindow :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscWindow = element (unsafeCoerce vscWindow_)
+vscWindow = element (unsafeCoerce _vscWindow)
 
-foreign import vscWordWrap_ :: ReactIcon
+foreign import _vscWordWrap :: ReactIcon
 
 vscWordWrap :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscWordWrap = element (unsafeCoerce vscWordWrap_)
+vscWordWrap = element (unsafeCoerce _vscWordWrap)
 
-foreign import vscWorkspaceTrusted_ :: ReactIcon
+foreign import _vscWorkspaceTrusted :: ReactIcon
 
 vscWorkspaceTrusted :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscWorkspaceTrusted = element (unsafeCoerce vscWorkspaceTrusted_)
+vscWorkspaceTrusted = element (unsafeCoerce _vscWorkspaceTrusted)
 
-foreign import vscWorkspaceUnknown_ :: ReactIcon
+foreign import _vscWorkspaceUnknown :: ReactIcon
 
 vscWorkspaceUnknown :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscWorkspaceUnknown = element (unsafeCoerce vscWorkspaceUnknown_)
+vscWorkspaceUnknown = element (unsafeCoerce _vscWorkspaceUnknown)
 
-foreign import vscWorkspaceUntrusted_ :: ReactIcon
+foreign import _vscWorkspaceUntrusted :: ReactIcon
 
 vscWorkspaceUntrusted :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscWorkspaceUntrusted = element (unsafeCoerce vscWorkspaceUntrusted_)
+vscWorkspaceUntrusted = element (unsafeCoerce _vscWorkspaceUntrusted)
 
-foreign import vscZoomIn_ :: ReactIcon
+foreign import _vscZoomIn :: ReactIcon
 
 vscZoomIn :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscZoomIn = element (unsafeCoerce vscZoomIn_)
+vscZoomIn = element (unsafeCoerce _vscZoomIn)
 
-foreign import vscZoomOut_ :: ReactIcon
+foreign import _vscZoomOut :: ReactIcon
 
 vscZoomOut :: forall a b. Union a b PropsIcon => Record a -> JSX
-vscZoomOut = element (unsafeCoerce vscZoomOut_)
+vscZoomOut = element (unsafeCoerce _vscZoomOut)

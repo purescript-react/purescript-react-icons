@@ -9,8342 +9,8342 @@ import React.Basic (JSX, element)
 import React.Icons.Types (ReactIcon, PropsIcon)
 import Unsafe.Coerce (unsafeCoerce)
 
-foreign import bsAlarm_ :: ReactIcon
+foreign import _bsAlarm :: ReactIcon
 
 bsAlarm :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsAlarm = element (unsafeCoerce bsAlarm_)
+bsAlarm = element (unsafeCoerce _bsAlarm)
 
-foreign import bsAlarmFill_ :: ReactIcon
+foreign import _bsAlarmFill :: ReactIcon
 
 bsAlarmFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsAlarmFill = element (unsafeCoerce bsAlarmFill_)
+bsAlarmFill = element (unsafeCoerce _bsAlarmFill)
 
-foreign import bsAlignBottom_ :: ReactIcon
+foreign import _bsAlignBottom :: ReactIcon
 
 bsAlignBottom :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsAlignBottom = element (unsafeCoerce bsAlignBottom_)
+bsAlignBottom = element (unsafeCoerce _bsAlignBottom)
 
-foreign import bsAlignCenter_ :: ReactIcon
+foreign import _bsAlignCenter :: ReactIcon
 
 bsAlignCenter :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsAlignCenter = element (unsafeCoerce bsAlignCenter_)
+bsAlignCenter = element (unsafeCoerce _bsAlignCenter)
 
-foreign import bsAlignEnd_ :: ReactIcon
+foreign import _bsAlignEnd :: ReactIcon
 
 bsAlignEnd :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsAlignEnd = element (unsafeCoerce bsAlignEnd_)
+bsAlignEnd = element (unsafeCoerce _bsAlignEnd)
 
-foreign import bsAlignMiddle_ :: ReactIcon
+foreign import _bsAlignMiddle :: ReactIcon
 
 bsAlignMiddle :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsAlignMiddle = element (unsafeCoerce bsAlignMiddle_)
+bsAlignMiddle = element (unsafeCoerce _bsAlignMiddle)
 
-foreign import bsAlignStart_ :: ReactIcon
+foreign import _bsAlignStart :: ReactIcon
 
 bsAlignStart :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsAlignStart = element (unsafeCoerce bsAlignStart_)
+bsAlignStart = element (unsafeCoerce _bsAlignStart)
 
-foreign import bsAlignTop_ :: ReactIcon
+foreign import _bsAlignTop :: ReactIcon
 
 bsAlignTop :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsAlignTop = element (unsafeCoerce bsAlignTop_)
+bsAlignTop = element (unsafeCoerce _bsAlignTop)
 
-foreign import bsAlt_ :: ReactIcon
+foreign import _bsAlt :: ReactIcon
 
 bsAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsAlt = element (unsafeCoerce bsAlt_)
+bsAlt = element (unsafeCoerce _bsAlt)
 
-foreign import bsApp_ :: ReactIcon
+foreign import _bsApp :: ReactIcon
 
 bsApp :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsApp = element (unsafeCoerce bsApp_)
+bsApp = element (unsafeCoerce _bsApp)
 
-foreign import bsAppIndicator_ :: ReactIcon
+foreign import _bsAppIndicator :: ReactIcon
 
 bsAppIndicator :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsAppIndicator = element (unsafeCoerce bsAppIndicator_)
+bsAppIndicator = element (unsafeCoerce _bsAppIndicator)
 
-foreign import bsApple_ :: ReactIcon
+foreign import _bsApple :: ReactIcon
 
 bsApple :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsApple = element (unsafeCoerce bsApple_)
+bsApple = element (unsafeCoerce _bsApple)
 
-foreign import bsArchive_ :: ReactIcon
+foreign import _bsArchive :: ReactIcon
 
 bsArchive :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsArchive = element (unsafeCoerce bsArchive_)
+bsArchive = element (unsafeCoerce _bsArchive)
 
-foreign import bsArchiveFill_ :: ReactIcon
+foreign import _bsArchiveFill :: ReactIcon
 
 bsArchiveFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsArchiveFill = element (unsafeCoerce bsArchiveFill_)
+bsArchiveFill = element (unsafeCoerce _bsArchiveFill)
 
-foreign import bsArrowBarDown_ :: ReactIcon
+foreign import _bsArrowBarDown :: ReactIcon
 
 bsArrowBarDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsArrowBarDown = element (unsafeCoerce bsArrowBarDown_)
+bsArrowBarDown = element (unsafeCoerce _bsArrowBarDown)
 
-foreign import bsArrowBarLeft_ :: ReactIcon
+foreign import _bsArrowBarLeft :: ReactIcon
 
 bsArrowBarLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsArrowBarLeft = element (unsafeCoerce bsArrowBarLeft_)
+bsArrowBarLeft = element (unsafeCoerce _bsArrowBarLeft)
 
-foreign import bsArrowBarRight_ :: ReactIcon
+foreign import _bsArrowBarRight :: ReactIcon
 
 bsArrowBarRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsArrowBarRight = element (unsafeCoerce bsArrowBarRight_)
+bsArrowBarRight = element (unsafeCoerce _bsArrowBarRight)
 
-foreign import bsArrowBarUp_ :: ReactIcon
+foreign import _bsArrowBarUp :: ReactIcon
 
 bsArrowBarUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsArrowBarUp = element (unsafeCoerce bsArrowBarUp_)
+bsArrowBarUp = element (unsafeCoerce _bsArrowBarUp)
 
-foreign import bsArrowClockwise_ :: ReactIcon
+foreign import _bsArrowClockwise :: ReactIcon
 
 bsArrowClockwise :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsArrowClockwise = element (unsafeCoerce bsArrowClockwise_)
+bsArrowClockwise = element (unsafeCoerce _bsArrowClockwise)
 
-foreign import bsArrowCounterclockwise_ :: ReactIcon
+foreign import _bsArrowCounterclockwise :: ReactIcon
 
 bsArrowCounterclockwise :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsArrowCounterclockwise = element (unsafeCoerce bsArrowCounterclockwise_)
+bsArrowCounterclockwise = element (unsafeCoerce _bsArrowCounterclockwise)
 
-foreign import bsArrowDown_ :: ReactIcon
+foreign import _bsArrowDown :: ReactIcon
 
 bsArrowDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsArrowDown = element (unsafeCoerce bsArrowDown_)
+bsArrowDown = element (unsafeCoerce _bsArrowDown)
 
-foreign import bsArrowDownCircle_ :: ReactIcon
+foreign import _bsArrowDownCircle :: ReactIcon
 
 bsArrowDownCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsArrowDownCircle = element (unsafeCoerce bsArrowDownCircle_)
+bsArrowDownCircle = element (unsafeCoerce _bsArrowDownCircle)
 
-foreign import bsArrowDownCircleFill_ :: ReactIcon
+foreign import _bsArrowDownCircleFill :: ReactIcon
 
 bsArrowDownCircleFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsArrowDownCircleFill = element (unsafeCoerce bsArrowDownCircleFill_)
+bsArrowDownCircleFill = element (unsafeCoerce _bsArrowDownCircleFill)
 
-foreign import bsArrowDownLeft_ :: ReactIcon
+foreign import _bsArrowDownLeft :: ReactIcon
 
 bsArrowDownLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsArrowDownLeft = element (unsafeCoerce bsArrowDownLeft_)
+bsArrowDownLeft = element (unsafeCoerce _bsArrowDownLeft)
 
-foreign import bsArrowDownLeftCircle_ :: ReactIcon
+foreign import _bsArrowDownLeftCircle :: ReactIcon
 
 bsArrowDownLeftCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsArrowDownLeftCircle = element (unsafeCoerce bsArrowDownLeftCircle_)
+bsArrowDownLeftCircle = element (unsafeCoerce _bsArrowDownLeftCircle)
 
-foreign import bsArrowDownLeftCircleFill_ :: ReactIcon
+foreign import _bsArrowDownLeftCircleFill :: ReactIcon
 
 bsArrowDownLeftCircleFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsArrowDownLeftCircleFill = element (unsafeCoerce bsArrowDownLeftCircleFill_)
+bsArrowDownLeftCircleFill = element (unsafeCoerce _bsArrowDownLeftCircleFill)
 
-foreign import bsArrowDownLeftSquare_ :: ReactIcon
+foreign import _bsArrowDownLeftSquare :: ReactIcon
 
 bsArrowDownLeftSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsArrowDownLeftSquare = element (unsafeCoerce bsArrowDownLeftSquare_)
+bsArrowDownLeftSquare = element (unsafeCoerce _bsArrowDownLeftSquare)
 
-foreign import bsArrowDownLeftSquareFill_ :: ReactIcon
+foreign import _bsArrowDownLeftSquareFill :: ReactIcon
 
 bsArrowDownLeftSquareFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsArrowDownLeftSquareFill = element (unsafeCoerce bsArrowDownLeftSquareFill_)
+bsArrowDownLeftSquareFill = element (unsafeCoerce _bsArrowDownLeftSquareFill)
 
-foreign import bsArrowDownRight_ :: ReactIcon
+foreign import _bsArrowDownRight :: ReactIcon
 
 bsArrowDownRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsArrowDownRight = element (unsafeCoerce bsArrowDownRight_)
+bsArrowDownRight = element (unsafeCoerce _bsArrowDownRight)
 
-foreign import bsArrowDownRightCircle_ :: ReactIcon
+foreign import _bsArrowDownRightCircle :: ReactIcon
 
 bsArrowDownRightCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsArrowDownRightCircle = element (unsafeCoerce bsArrowDownRightCircle_)
+bsArrowDownRightCircle = element (unsafeCoerce _bsArrowDownRightCircle)
 
-foreign import bsArrowDownRightCircleFill_ :: ReactIcon
+foreign import _bsArrowDownRightCircleFill :: ReactIcon
 
 bsArrowDownRightCircleFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsArrowDownRightCircleFill = element (unsafeCoerce bsArrowDownRightCircleFill_)
+bsArrowDownRightCircleFill = element (unsafeCoerce _bsArrowDownRightCircleFill)
 
-foreign import bsArrowDownRightSquare_ :: ReactIcon
+foreign import _bsArrowDownRightSquare :: ReactIcon
 
 bsArrowDownRightSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsArrowDownRightSquare = element (unsafeCoerce bsArrowDownRightSquare_)
+bsArrowDownRightSquare = element (unsafeCoerce _bsArrowDownRightSquare)
 
-foreign import bsArrowDownRightSquareFill_ :: ReactIcon
+foreign import _bsArrowDownRightSquareFill :: ReactIcon
 
 bsArrowDownRightSquareFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsArrowDownRightSquareFill = element (unsafeCoerce bsArrowDownRightSquareFill_)
+bsArrowDownRightSquareFill = element (unsafeCoerce _bsArrowDownRightSquareFill)
 
-foreign import bsArrowDownShort_ :: ReactIcon
+foreign import _bsArrowDownShort :: ReactIcon
 
 bsArrowDownShort :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsArrowDownShort = element (unsafeCoerce bsArrowDownShort_)
+bsArrowDownShort = element (unsafeCoerce _bsArrowDownShort)
 
-foreign import bsArrowDownSquare_ :: ReactIcon
+foreign import _bsArrowDownSquare :: ReactIcon
 
 bsArrowDownSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsArrowDownSquare = element (unsafeCoerce bsArrowDownSquare_)
+bsArrowDownSquare = element (unsafeCoerce _bsArrowDownSquare)
 
-foreign import bsArrowDownSquareFill_ :: ReactIcon
+foreign import _bsArrowDownSquareFill :: ReactIcon
 
 bsArrowDownSquareFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsArrowDownSquareFill = element (unsafeCoerce bsArrowDownSquareFill_)
+bsArrowDownSquareFill = element (unsafeCoerce _bsArrowDownSquareFill)
 
-foreign import bsArrowDownUp_ :: ReactIcon
+foreign import _bsArrowDownUp :: ReactIcon
 
 bsArrowDownUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsArrowDownUp = element (unsafeCoerce bsArrowDownUp_)
+bsArrowDownUp = element (unsafeCoerce _bsArrowDownUp)
 
-foreign import bsArrowLeft_ :: ReactIcon
+foreign import _bsArrowLeft :: ReactIcon
 
 bsArrowLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsArrowLeft = element (unsafeCoerce bsArrowLeft_)
+bsArrowLeft = element (unsafeCoerce _bsArrowLeft)
 
-foreign import bsArrowLeftCircle_ :: ReactIcon
+foreign import _bsArrowLeftCircle :: ReactIcon
 
 bsArrowLeftCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsArrowLeftCircle = element (unsafeCoerce bsArrowLeftCircle_)
+bsArrowLeftCircle = element (unsafeCoerce _bsArrowLeftCircle)
 
-foreign import bsArrowLeftCircleFill_ :: ReactIcon
+foreign import _bsArrowLeftCircleFill :: ReactIcon
 
 bsArrowLeftCircleFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsArrowLeftCircleFill = element (unsafeCoerce bsArrowLeftCircleFill_)
+bsArrowLeftCircleFill = element (unsafeCoerce _bsArrowLeftCircleFill)
 
-foreign import bsArrowLeftRight_ :: ReactIcon
+foreign import _bsArrowLeftRight :: ReactIcon
 
 bsArrowLeftRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsArrowLeftRight = element (unsafeCoerce bsArrowLeftRight_)
+bsArrowLeftRight = element (unsafeCoerce _bsArrowLeftRight)
 
-foreign import bsArrowLeftShort_ :: ReactIcon
+foreign import _bsArrowLeftShort :: ReactIcon
 
 bsArrowLeftShort :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsArrowLeftShort = element (unsafeCoerce bsArrowLeftShort_)
+bsArrowLeftShort = element (unsafeCoerce _bsArrowLeftShort)
 
-foreign import bsArrowLeftSquare_ :: ReactIcon
+foreign import _bsArrowLeftSquare :: ReactIcon
 
 bsArrowLeftSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsArrowLeftSquare = element (unsafeCoerce bsArrowLeftSquare_)
+bsArrowLeftSquare = element (unsafeCoerce _bsArrowLeftSquare)
 
-foreign import bsArrowLeftSquareFill_ :: ReactIcon
+foreign import _bsArrowLeftSquareFill :: ReactIcon
 
 bsArrowLeftSquareFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsArrowLeftSquareFill = element (unsafeCoerce bsArrowLeftSquareFill_)
+bsArrowLeftSquareFill = element (unsafeCoerce _bsArrowLeftSquareFill)
 
-foreign import bsArrowRepeat_ :: ReactIcon
+foreign import _bsArrowRepeat :: ReactIcon
 
 bsArrowRepeat :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsArrowRepeat = element (unsafeCoerce bsArrowRepeat_)
+bsArrowRepeat = element (unsafeCoerce _bsArrowRepeat)
 
-foreign import bsArrowReturnLeft_ :: ReactIcon
+foreign import _bsArrowReturnLeft :: ReactIcon
 
 bsArrowReturnLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsArrowReturnLeft = element (unsafeCoerce bsArrowReturnLeft_)
+bsArrowReturnLeft = element (unsafeCoerce _bsArrowReturnLeft)
 
-foreign import bsArrowReturnRight_ :: ReactIcon
+foreign import _bsArrowReturnRight :: ReactIcon
 
 bsArrowReturnRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsArrowReturnRight = element (unsafeCoerce bsArrowReturnRight_)
+bsArrowReturnRight = element (unsafeCoerce _bsArrowReturnRight)
 
-foreign import bsArrowRight_ :: ReactIcon
+foreign import _bsArrowRight :: ReactIcon
 
 bsArrowRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsArrowRight = element (unsafeCoerce bsArrowRight_)
+bsArrowRight = element (unsafeCoerce _bsArrowRight)
 
-foreign import bsArrowRightCircle_ :: ReactIcon
+foreign import _bsArrowRightCircle :: ReactIcon
 
 bsArrowRightCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsArrowRightCircle = element (unsafeCoerce bsArrowRightCircle_)
+bsArrowRightCircle = element (unsafeCoerce _bsArrowRightCircle)
 
-foreign import bsArrowRightCircleFill_ :: ReactIcon
+foreign import _bsArrowRightCircleFill :: ReactIcon
 
 bsArrowRightCircleFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsArrowRightCircleFill = element (unsafeCoerce bsArrowRightCircleFill_)
+bsArrowRightCircleFill = element (unsafeCoerce _bsArrowRightCircleFill)
 
-foreign import bsArrowRightShort_ :: ReactIcon
+foreign import _bsArrowRightShort :: ReactIcon
 
 bsArrowRightShort :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsArrowRightShort = element (unsafeCoerce bsArrowRightShort_)
+bsArrowRightShort = element (unsafeCoerce _bsArrowRightShort)
 
-foreign import bsArrowRightSquare_ :: ReactIcon
+foreign import _bsArrowRightSquare :: ReactIcon
 
 bsArrowRightSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsArrowRightSquare = element (unsafeCoerce bsArrowRightSquare_)
+bsArrowRightSquare = element (unsafeCoerce _bsArrowRightSquare)
 
-foreign import bsArrowRightSquareFill_ :: ReactIcon
+foreign import _bsArrowRightSquareFill :: ReactIcon
 
 bsArrowRightSquareFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsArrowRightSquareFill = element (unsafeCoerce bsArrowRightSquareFill_)
+bsArrowRightSquareFill = element (unsafeCoerce _bsArrowRightSquareFill)
 
-foreign import bsArrowsAngleContract_ :: ReactIcon
+foreign import _bsArrowsAngleContract :: ReactIcon
 
 bsArrowsAngleContract :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsArrowsAngleContract = element (unsafeCoerce bsArrowsAngleContract_)
+bsArrowsAngleContract = element (unsafeCoerce _bsArrowsAngleContract)
 
-foreign import bsArrowsAngleExpand_ :: ReactIcon
+foreign import _bsArrowsAngleExpand :: ReactIcon
 
 bsArrowsAngleExpand :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsArrowsAngleExpand = element (unsafeCoerce bsArrowsAngleExpand_)
+bsArrowsAngleExpand = element (unsafeCoerce _bsArrowsAngleExpand)
 
-foreign import bsArrowsCollapse_ :: ReactIcon
+foreign import _bsArrowsCollapse :: ReactIcon
 
 bsArrowsCollapse :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsArrowsCollapse = element (unsafeCoerce bsArrowsCollapse_)
+bsArrowsCollapse = element (unsafeCoerce _bsArrowsCollapse)
 
-foreign import bsArrowsExpand_ :: ReactIcon
+foreign import _bsArrowsExpand :: ReactIcon
 
 bsArrowsExpand :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsArrowsExpand = element (unsafeCoerce bsArrowsExpand_)
+bsArrowsExpand = element (unsafeCoerce _bsArrowsExpand)
 
-foreign import bsArrowsFullscreen_ :: ReactIcon
+foreign import _bsArrowsFullscreen :: ReactIcon
 
 bsArrowsFullscreen :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsArrowsFullscreen = element (unsafeCoerce bsArrowsFullscreen_)
+bsArrowsFullscreen = element (unsafeCoerce _bsArrowsFullscreen)
 
-foreign import bsArrowsMove_ :: ReactIcon
+foreign import _bsArrowsMove :: ReactIcon
 
 bsArrowsMove :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsArrowsMove = element (unsafeCoerce bsArrowsMove_)
+bsArrowsMove = element (unsafeCoerce _bsArrowsMove)
 
-foreign import bsArrowUp_ :: ReactIcon
+foreign import _bsArrowUp :: ReactIcon
 
 bsArrowUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsArrowUp = element (unsafeCoerce bsArrowUp_)
+bsArrowUp = element (unsafeCoerce _bsArrowUp)
 
-foreign import bsArrowUpCircle_ :: ReactIcon
+foreign import _bsArrowUpCircle :: ReactIcon
 
 bsArrowUpCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsArrowUpCircle = element (unsafeCoerce bsArrowUpCircle_)
+bsArrowUpCircle = element (unsafeCoerce _bsArrowUpCircle)
 
-foreign import bsArrowUpCircleFill_ :: ReactIcon
+foreign import _bsArrowUpCircleFill :: ReactIcon
 
 bsArrowUpCircleFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsArrowUpCircleFill = element (unsafeCoerce bsArrowUpCircleFill_)
+bsArrowUpCircleFill = element (unsafeCoerce _bsArrowUpCircleFill)
 
-foreign import bsArrowUpLeft_ :: ReactIcon
+foreign import _bsArrowUpLeft :: ReactIcon
 
 bsArrowUpLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsArrowUpLeft = element (unsafeCoerce bsArrowUpLeft_)
+bsArrowUpLeft = element (unsafeCoerce _bsArrowUpLeft)
 
-foreign import bsArrowUpLeftCircle_ :: ReactIcon
+foreign import _bsArrowUpLeftCircle :: ReactIcon
 
 bsArrowUpLeftCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsArrowUpLeftCircle = element (unsafeCoerce bsArrowUpLeftCircle_)
+bsArrowUpLeftCircle = element (unsafeCoerce _bsArrowUpLeftCircle)
 
-foreign import bsArrowUpLeftCircleFill_ :: ReactIcon
+foreign import _bsArrowUpLeftCircleFill :: ReactIcon
 
 bsArrowUpLeftCircleFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsArrowUpLeftCircleFill = element (unsafeCoerce bsArrowUpLeftCircleFill_)
+bsArrowUpLeftCircleFill = element (unsafeCoerce _bsArrowUpLeftCircleFill)
 
-foreign import bsArrowUpLeftSquare_ :: ReactIcon
+foreign import _bsArrowUpLeftSquare :: ReactIcon
 
 bsArrowUpLeftSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsArrowUpLeftSquare = element (unsafeCoerce bsArrowUpLeftSquare_)
+bsArrowUpLeftSquare = element (unsafeCoerce _bsArrowUpLeftSquare)
 
-foreign import bsArrowUpLeftSquareFill_ :: ReactIcon
+foreign import _bsArrowUpLeftSquareFill :: ReactIcon
 
 bsArrowUpLeftSquareFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsArrowUpLeftSquareFill = element (unsafeCoerce bsArrowUpLeftSquareFill_)
+bsArrowUpLeftSquareFill = element (unsafeCoerce _bsArrowUpLeftSquareFill)
 
-foreign import bsArrowUpRight_ :: ReactIcon
+foreign import _bsArrowUpRight :: ReactIcon
 
 bsArrowUpRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsArrowUpRight = element (unsafeCoerce bsArrowUpRight_)
+bsArrowUpRight = element (unsafeCoerce _bsArrowUpRight)
 
-foreign import bsArrowUpRightCircle_ :: ReactIcon
+foreign import _bsArrowUpRightCircle :: ReactIcon
 
 bsArrowUpRightCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsArrowUpRightCircle = element (unsafeCoerce bsArrowUpRightCircle_)
+bsArrowUpRightCircle = element (unsafeCoerce _bsArrowUpRightCircle)
 
-foreign import bsArrowUpRightCircleFill_ :: ReactIcon
+foreign import _bsArrowUpRightCircleFill :: ReactIcon
 
 bsArrowUpRightCircleFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsArrowUpRightCircleFill = element (unsafeCoerce bsArrowUpRightCircleFill_)
+bsArrowUpRightCircleFill = element (unsafeCoerce _bsArrowUpRightCircleFill)
 
-foreign import bsArrowUpRightSquare_ :: ReactIcon
+foreign import _bsArrowUpRightSquare :: ReactIcon
 
 bsArrowUpRightSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsArrowUpRightSquare = element (unsafeCoerce bsArrowUpRightSquare_)
+bsArrowUpRightSquare = element (unsafeCoerce _bsArrowUpRightSquare)
 
-foreign import bsArrowUpRightSquareFill_ :: ReactIcon
+foreign import _bsArrowUpRightSquareFill :: ReactIcon
 
 bsArrowUpRightSquareFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsArrowUpRightSquareFill = element (unsafeCoerce bsArrowUpRightSquareFill_)
+bsArrowUpRightSquareFill = element (unsafeCoerce _bsArrowUpRightSquareFill)
 
-foreign import bsArrowUpShort_ :: ReactIcon
+foreign import _bsArrowUpShort :: ReactIcon
 
 bsArrowUpShort :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsArrowUpShort = element (unsafeCoerce bsArrowUpShort_)
+bsArrowUpShort = element (unsafeCoerce _bsArrowUpShort)
 
-foreign import bsArrowUpSquare_ :: ReactIcon
+foreign import _bsArrowUpSquare :: ReactIcon
 
 bsArrowUpSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsArrowUpSquare = element (unsafeCoerce bsArrowUpSquare_)
+bsArrowUpSquare = element (unsafeCoerce _bsArrowUpSquare)
 
-foreign import bsArrowUpSquareFill_ :: ReactIcon
+foreign import _bsArrowUpSquareFill :: ReactIcon
 
 bsArrowUpSquareFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsArrowUpSquareFill = element (unsafeCoerce bsArrowUpSquareFill_)
+bsArrowUpSquareFill = element (unsafeCoerce _bsArrowUpSquareFill)
 
-foreign import bsAspectRatio_ :: ReactIcon
+foreign import _bsAspectRatio :: ReactIcon
 
 bsAspectRatio :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsAspectRatio = element (unsafeCoerce bsAspectRatio_)
+bsAspectRatio = element (unsafeCoerce _bsAspectRatio)
 
-foreign import bsAspectRatioFill_ :: ReactIcon
+foreign import _bsAspectRatioFill :: ReactIcon
 
 bsAspectRatioFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsAspectRatioFill = element (unsafeCoerce bsAspectRatioFill_)
+bsAspectRatioFill = element (unsafeCoerce _bsAspectRatioFill)
 
-foreign import bsAsterisk_ :: ReactIcon
+foreign import _bsAsterisk :: ReactIcon
 
 bsAsterisk :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsAsterisk = element (unsafeCoerce bsAsterisk_)
+bsAsterisk = element (unsafeCoerce _bsAsterisk)
 
-foreign import bsAt_ :: ReactIcon
+foreign import _bsAt :: ReactIcon
 
 bsAt :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsAt = element (unsafeCoerce bsAt_)
+bsAt = element (unsafeCoerce _bsAt)
 
-foreign import bsAward_ :: ReactIcon
+foreign import _bsAward :: ReactIcon
 
 bsAward :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsAward = element (unsafeCoerce bsAward_)
+bsAward = element (unsafeCoerce _bsAward)
 
-foreign import bsAwardFill_ :: ReactIcon
+foreign import _bsAwardFill :: ReactIcon
 
 bsAwardFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsAwardFill = element (unsafeCoerce bsAwardFill_)
+bsAwardFill = element (unsafeCoerce _bsAwardFill)
 
-foreign import bsBack_ :: ReactIcon
+foreign import _bsBack :: ReactIcon
 
 bsBack :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBack = element (unsafeCoerce bsBack_)
+bsBack = element (unsafeCoerce _bsBack)
 
-foreign import bsBackspace_ :: ReactIcon
+foreign import _bsBackspace :: ReactIcon
 
 bsBackspace :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBackspace = element (unsafeCoerce bsBackspace_)
+bsBackspace = element (unsafeCoerce _bsBackspace)
 
-foreign import bsBackspaceFill_ :: ReactIcon
+foreign import _bsBackspaceFill :: ReactIcon
 
 bsBackspaceFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBackspaceFill = element (unsafeCoerce bsBackspaceFill_)
+bsBackspaceFill = element (unsafeCoerce _bsBackspaceFill)
 
-foreign import bsBackspaceReverse_ :: ReactIcon
+foreign import _bsBackspaceReverse :: ReactIcon
 
 bsBackspaceReverse :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBackspaceReverse = element (unsafeCoerce bsBackspaceReverse_)
+bsBackspaceReverse = element (unsafeCoerce _bsBackspaceReverse)
 
-foreign import bsBackspaceReverseFill_ :: ReactIcon
+foreign import _bsBackspaceReverseFill :: ReactIcon
 
 bsBackspaceReverseFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBackspaceReverseFill = element (unsafeCoerce bsBackspaceReverseFill_)
+bsBackspaceReverseFill = element (unsafeCoerce _bsBackspaceReverseFill)
 
-foreign import bsBadgeAd_ :: ReactIcon
+foreign import _bsBadgeAd :: ReactIcon
 
 bsBadgeAd :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBadgeAd = element (unsafeCoerce bsBadgeAd_)
+bsBadgeAd = element (unsafeCoerce _bsBadgeAd)
 
-foreign import bsBadgeAdFill_ :: ReactIcon
+foreign import _bsBadgeAdFill :: ReactIcon
 
 bsBadgeAdFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBadgeAdFill = element (unsafeCoerce bsBadgeAdFill_)
+bsBadgeAdFill = element (unsafeCoerce _bsBadgeAdFill)
 
-foreign import bsBadgeAr_ :: ReactIcon
+foreign import _bsBadgeAr :: ReactIcon
 
 bsBadgeAr :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBadgeAr = element (unsafeCoerce bsBadgeAr_)
+bsBadgeAr = element (unsafeCoerce _bsBadgeAr)
 
-foreign import bsBadgeArFill_ :: ReactIcon
+foreign import _bsBadgeArFill :: ReactIcon
 
 bsBadgeArFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBadgeArFill = element (unsafeCoerce bsBadgeArFill_)
+bsBadgeArFill = element (unsafeCoerce _bsBadgeArFill)
 
-foreign import bsBadgeCc_ :: ReactIcon
+foreign import _bsBadgeCc :: ReactIcon
 
 bsBadgeCc :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBadgeCc = element (unsafeCoerce bsBadgeCc_)
+bsBadgeCc = element (unsafeCoerce _bsBadgeCc)
 
-foreign import bsBadgeCcFill_ :: ReactIcon
+foreign import _bsBadgeCcFill :: ReactIcon
 
 bsBadgeCcFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBadgeCcFill = element (unsafeCoerce bsBadgeCcFill_)
+bsBadgeCcFill = element (unsafeCoerce _bsBadgeCcFill)
 
-foreign import bsBadgeHd_ :: ReactIcon
+foreign import _bsBadgeHd :: ReactIcon
 
 bsBadgeHd :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBadgeHd = element (unsafeCoerce bsBadgeHd_)
+bsBadgeHd = element (unsafeCoerce _bsBadgeHd)
 
-foreign import bsBadgeHdFill_ :: ReactIcon
+foreign import _bsBadgeHdFill :: ReactIcon
 
 bsBadgeHdFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBadgeHdFill = element (unsafeCoerce bsBadgeHdFill_)
+bsBadgeHdFill = element (unsafeCoerce _bsBadgeHdFill)
 
-foreign import bsBadgeTm_ :: ReactIcon
+foreign import _bsBadgeTm :: ReactIcon
 
 bsBadgeTm :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBadgeTm = element (unsafeCoerce bsBadgeTm_)
+bsBadgeTm = element (unsafeCoerce _bsBadgeTm)
 
-foreign import bsBadgeTmFill_ :: ReactIcon
+foreign import _bsBadgeTmFill :: ReactIcon
 
 bsBadgeTmFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBadgeTmFill = element (unsafeCoerce bsBadgeTmFill_)
+bsBadgeTmFill = element (unsafeCoerce _bsBadgeTmFill)
 
-foreign import bsBadgeVo_ :: ReactIcon
+foreign import _bsBadgeVo :: ReactIcon
 
 bsBadgeVo :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBadgeVo = element (unsafeCoerce bsBadgeVo_)
+bsBadgeVo = element (unsafeCoerce _bsBadgeVo)
 
-foreign import bsBadgeVoFill_ :: ReactIcon
+foreign import _bsBadgeVoFill :: ReactIcon
 
 bsBadgeVoFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBadgeVoFill = element (unsafeCoerce bsBadgeVoFill_)
+bsBadgeVoFill = element (unsafeCoerce _bsBadgeVoFill)
 
-foreign import bsBadgeVr_ :: ReactIcon
+foreign import _bsBadgeVr :: ReactIcon
 
 bsBadgeVr :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBadgeVr = element (unsafeCoerce bsBadgeVr_)
+bsBadgeVr = element (unsafeCoerce _bsBadgeVr)
 
-foreign import bsBadgeVrFill_ :: ReactIcon
+foreign import _bsBadgeVrFill :: ReactIcon
 
 bsBadgeVrFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBadgeVrFill = element (unsafeCoerce bsBadgeVrFill_)
+bsBadgeVrFill = element (unsafeCoerce _bsBadgeVrFill)
 
-foreign import bsBadgeWc_ :: ReactIcon
+foreign import _bsBadgeWc :: ReactIcon
 
 bsBadgeWc :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBadgeWc = element (unsafeCoerce bsBadgeWc_)
+bsBadgeWc = element (unsafeCoerce _bsBadgeWc)
 
-foreign import bsBadgeWcFill_ :: ReactIcon
+foreign import _bsBadgeWcFill :: ReactIcon
 
 bsBadgeWcFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBadgeWcFill = element (unsafeCoerce bsBadgeWcFill_)
+bsBadgeWcFill = element (unsafeCoerce _bsBadgeWcFill)
 
-foreign import bsBag_ :: ReactIcon
+foreign import _bsBag :: ReactIcon
 
 bsBag :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBag = element (unsafeCoerce bsBag_)
+bsBag = element (unsafeCoerce _bsBag)
 
-foreign import bsBagCheck_ :: ReactIcon
+foreign import _bsBagCheck :: ReactIcon
 
 bsBagCheck :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBagCheck = element (unsafeCoerce bsBagCheck_)
+bsBagCheck = element (unsafeCoerce _bsBagCheck)
 
-foreign import bsBagCheckFill_ :: ReactIcon
+foreign import _bsBagCheckFill :: ReactIcon
 
 bsBagCheckFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBagCheckFill = element (unsafeCoerce bsBagCheckFill_)
+bsBagCheckFill = element (unsafeCoerce _bsBagCheckFill)
 
-foreign import bsBagDash_ :: ReactIcon
+foreign import _bsBagDash :: ReactIcon
 
 bsBagDash :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBagDash = element (unsafeCoerce bsBagDash_)
+bsBagDash = element (unsafeCoerce _bsBagDash)
 
-foreign import bsBagDashFill_ :: ReactIcon
+foreign import _bsBagDashFill :: ReactIcon
 
 bsBagDashFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBagDashFill = element (unsafeCoerce bsBagDashFill_)
+bsBagDashFill = element (unsafeCoerce _bsBagDashFill)
 
-foreign import bsBagFill_ :: ReactIcon
+foreign import _bsBagFill :: ReactIcon
 
 bsBagFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBagFill = element (unsafeCoerce bsBagFill_)
+bsBagFill = element (unsafeCoerce _bsBagFill)
 
-foreign import bsBagPlus_ :: ReactIcon
+foreign import _bsBagPlus :: ReactIcon
 
 bsBagPlus :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBagPlus = element (unsafeCoerce bsBagPlus_)
+bsBagPlus = element (unsafeCoerce _bsBagPlus)
 
-foreign import bsBagPlusFill_ :: ReactIcon
+foreign import _bsBagPlusFill :: ReactIcon
 
 bsBagPlusFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBagPlusFill = element (unsafeCoerce bsBagPlusFill_)
+bsBagPlusFill = element (unsafeCoerce _bsBagPlusFill)
 
-foreign import bsBagX_ :: ReactIcon
+foreign import _bsBagX :: ReactIcon
 
 bsBagX :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBagX = element (unsafeCoerce bsBagX_)
+bsBagX = element (unsafeCoerce _bsBagX)
 
-foreign import bsBagXFill_ :: ReactIcon
+foreign import _bsBagXFill :: ReactIcon
 
 bsBagXFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBagXFill = element (unsafeCoerce bsBagXFill_)
+bsBagXFill = element (unsafeCoerce _bsBagXFill)
 
-foreign import bsBank_ :: ReactIcon
+foreign import _bsBank :: ReactIcon
 
 bsBank :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBank = element (unsafeCoerce bsBank_)
+bsBank = element (unsafeCoerce _bsBank)
 
-foreign import bsBarChart_ :: ReactIcon
+foreign import _bsBarChart :: ReactIcon
 
 bsBarChart :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBarChart = element (unsafeCoerce bsBarChart_)
+bsBarChart = element (unsafeCoerce _bsBarChart)
 
-foreign import bsBarChartFill_ :: ReactIcon
+foreign import _bsBarChartFill :: ReactIcon
 
 bsBarChartFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBarChartFill = element (unsafeCoerce bsBarChartFill_)
+bsBarChartFill = element (unsafeCoerce _bsBarChartFill)
 
-foreign import bsBarChartLine_ :: ReactIcon
+foreign import _bsBarChartLine :: ReactIcon
 
 bsBarChartLine :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBarChartLine = element (unsafeCoerce bsBarChartLine_)
+bsBarChartLine = element (unsafeCoerce _bsBarChartLine)
 
-foreign import bsBarChartLineFill_ :: ReactIcon
+foreign import _bsBarChartLineFill :: ReactIcon
 
 bsBarChartLineFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBarChartLineFill = element (unsafeCoerce bsBarChartLineFill_)
+bsBarChartLineFill = element (unsafeCoerce _bsBarChartLineFill)
 
-foreign import bsBarChartSteps_ :: ReactIcon
+foreign import _bsBarChartSteps :: ReactIcon
 
 bsBarChartSteps :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBarChartSteps = element (unsafeCoerce bsBarChartSteps_)
+bsBarChartSteps = element (unsafeCoerce _bsBarChartSteps)
 
-foreign import bsBasket_ :: ReactIcon
+foreign import _bsBasket :: ReactIcon
 
 bsBasket :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBasket = element (unsafeCoerce bsBasket_)
+bsBasket = element (unsafeCoerce _bsBasket)
 
-foreign import bsBasketFill_ :: ReactIcon
+foreign import _bsBasketFill :: ReactIcon
 
 bsBasketFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBasketFill = element (unsafeCoerce bsBasketFill_)
+bsBasketFill = element (unsafeCoerce _bsBasketFill)
 
-foreign import bsBattery_ :: ReactIcon
+foreign import _bsBattery :: ReactIcon
 
 bsBattery :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBattery = element (unsafeCoerce bsBattery_)
+bsBattery = element (unsafeCoerce _bsBattery)
 
-foreign import bsBatteryCharging_ :: ReactIcon
+foreign import _bsBatteryCharging :: ReactIcon
 
 bsBatteryCharging :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBatteryCharging = element (unsafeCoerce bsBatteryCharging_)
+bsBatteryCharging = element (unsafeCoerce _bsBatteryCharging)
 
-foreign import bsBatteryFull_ :: ReactIcon
+foreign import _bsBatteryFull :: ReactIcon
 
 bsBatteryFull :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBatteryFull = element (unsafeCoerce bsBatteryFull_)
+bsBatteryFull = element (unsafeCoerce _bsBatteryFull)
 
-foreign import bsBatteryHalf_ :: ReactIcon
+foreign import _bsBatteryHalf :: ReactIcon
 
 bsBatteryHalf :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBatteryHalf = element (unsafeCoerce bsBatteryHalf_)
+bsBatteryHalf = element (unsafeCoerce _bsBatteryHalf)
 
-foreign import bsBehance_ :: ReactIcon
+foreign import _bsBehance :: ReactIcon
 
 bsBehance :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBehance = element (unsafeCoerce bsBehance_)
+bsBehance = element (unsafeCoerce _bsBehance)
 
-foreign import bsBell_ :: ReactIcon
+foreign import _bsBell :: ReactIcon
 
 bsBell :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBell = element (unsafeCoerce bsBell_)
+bsBell = element (unsafeCoerce _bsBell)
 
-foreign import bsBellFill_ :: ReactIcon
+foreign import _bsBellFill :: ReactIcon
 
 bsBellFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBellFill = element (unsafeCoerce bsBellFill_)
+bsBellFill = element (unsafeCoerce _bsBellFill)
 
-foreign import bsBellSlash_ :: ReactIcon
+foreign import _bsBellSlash :: ReactIcon
 
 bsBellSlash :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBellSlash = element (unsafeCoerce bsBellSlash_)
+bsBellSlash = element (unsafeCoerce _bsBellSlash)
 
-foreign import bsBellSlashFill_ :: ReactIcon
+foreign import _bsBellSlashFill :: ReactIcon
 
 bsBellSlashFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBellSlashFill = element (unsafeCoerce bsBellSlashFill_)
+bsBellSlashFill = element (unsafeCoerce _bsBellSlashFill)
 
-foreign import bsBezier_ :: ReactIcon
+foreign import _bsBezier :: ReactIcon
 
 bsBezier :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBezier = element (unsafeCoerce bsBezier_)
+bsBezier = element (unsafeCoerce _bsBezier)
 
-foreign import bsBicycle_ :: ReactIcon
+foreign import _bsBicycle :: ReactIcon
 
 bsBicycle :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBicycle = element (unsafeCoerce bsBicycle_)
+bsBicycle = element (unsafeCoerce _bsBicycle)
 
-foreign import bsBinoculars_ :: ReactIcon
+foreign import _bsBinoculars :: ReactIcon
 
 bsBinoculars :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBinoculars = element (unsafeCoerce bsBinoculars_)
+bsBinoculars = element (unsafeCoerce _bsBinoculars)
 
-foreign import bsBinocularsFill_ :: ReactIcon
+foreign import _bsBinocularsFill :: ReactIcon
 
 bsBinocularsFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBinocularsFill = element (unsafeCoerce bsBinocularsFill_)
+bsBinocularsFill = element (unsafeCoerce _bsBinocularsFill)
 
-foreign import bsBlockquoteLeft_ :: ReactIcon
+foreign import _bsBlockquoteLeft :: ReactIcon
 
 bsBlockquoteLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBlockquoteLeft = element (unsafeCoerce bsBlockquoteLeft_)
+bsBlockquoteLeft = element (unsafeCoerce _bsBlockquoteLeft)
 
-foreign import bsBlockquoteRight_ :: ReactIcon
+foreign import _bsBlockquoteRight :: ReactIcon
 
 bsBlockquoteRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBlockquoteRight = element (unsafeCoerce bsBlockquoteRight_)
+bsBlockquoteRight = element (unsafeCoerce _bsBlockquoteRight)
 
-foreign import bsBook_ :: ReactIcon
+foreign import _bsBook :: ReactIcon
 
 bsBook :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBook = element (unsafeCoerce bsBook_)
+bsBook = element (unsafeCoerce _bsBook)
 
-foreign import bsBookFill_ :: ReactIcon
+foreign import _bsBookFill :: ReactIcon
 
 bsBookFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBookFill = element (unsafeCoerce bsBookFill_)
+bsBookFill = element (unsafeCoerce _bsBookFill)
 
-foreign import bsBookHalf_ :: ReactIcon
+foreign import _bsBookHalf :: ReactIcon
 
 bsBookHalf :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBookHalf = element (unsafeCoerce bsBookHalf_)
+bsBookHalf = element (unsafeCoerce _bsBookHalf)
 
-foreign import bsBookmark_ :: ReactIcon
+foreign import _bsBookmark :: ReactIcon
 
 bsBookmark :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBookmark = element (unsafeCoerce bsBookmark_)
+bsBookmark = element (unsafeCoerce _bsBookmark)
 
-foreign import bsBookmarkCheck_ :: ReactIcon
+foreign import _bsBookmarkCheck :: ReactIcon
 
 bsBookmarkCheck :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBookmarkCheck = element (unsafeCoerce bsBookmarkCheck_)
+bsBookmarkCheck = element (unsafeCoerce _bsBookmarkCheck)
 
-foreign import bsBookmarkCheckFill_ :: ReactIcon
+foreign import _bsBookmarkCheckFill :: ReactIcon
 
 bsBookmarkCheckFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBookmarkCheckFill = element (unsafeCoerce bsBookmarkCheckFill_)
+bsBookmarkCheckFill = element (unsafeCoerce _bsBookmarkCheckFill)
 
-foreign import bsBookmarkDash_ :: ReactIcon
+foreign import _bsBookmarkDash :: ReactIcon
 
 bsBookmarkDash :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBookmarkDash = element (unsafeCoerce bsBookmarkDash_)
+bsBookmarkDash = element (unsafeCoerce _bsBookmarkDash)
 
-foreign import bsBookmarkDashFill_ :: ReactIcon
+foreign import _bsBookmarkDashFill :: ReactIcon
 
 bsBookmarkDashFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBookmarkDashFill = element (unsafeCoerce bsBookmarkDashFill_)
+bsBookmarkDashFill = element (unsafeCoerce _bsBookmarkDashFill)
 
-foreign import bsBookmarkFill_ :: ReactIcon
+foreign import _bsBookmarkFill :: ReactIcon
 
 bsBookmarkFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBookmarkFill = element (unsafeCoerce bsBookmarkFill_)
+bsBookmarkFill = element (unsafeCoerce _bsBookmarkFill)
 
-foreign import bsBookmarkHeart_ :: ReactIcon
+foreign import _bsBookmarkHeart :: ReactIcon
 
 bsBookmarkHeart :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBookmarkHeart = element (unsafeCoerce bsBookmarkHeart_)
+bsBookmarkHeart = element (unsafeCoerce _bsBookmarkHeart)
 
-foreign import bsBookmarkHeartFill_ :: ReactIcon
+foreign import _bsBookmarkHeartFill :: ReactIcon
 
 bsBookmarkHeartFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBookmarkHeartFill = element (unsafeCoerce bsBookmarkHeartFill_)
+bsBookmarkHeartFill = element (unsafeCoerce _bsBookmarkHeartFill)
 
-foreign import bsBookmarkPlus_ :: ReactIcon
+foreign import _bsBookmarkPlus :: ReactIcon
 
 bsBookmarkPlus :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBookmarkPlus = element (unsafeCoerce bsBookmarkPlus_)
+bsBookmarkPlus = element (unsafeCoerce _bsBookmarkPlus)
 
-foreign import bsBookmarkPlusFill_ :: ReactIcon
+foreign import _bsBookmarkPlusFill :: ReactIcon
 
 bsBookmarkPlusFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBookmarkPlusFill = element (unsafeCoerce bsBookmarkPlusFill_)
+bsBookmarkPlusFill = element (unsafeCoerce _bsBookmarkPlusFill)
 
-foreign import bsBookmarks_ :: ReactIcon
+foreign import _bsBookmarks :: ReactIcon
 
 bsBookmarks :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBookmarks = element (unsafeCoerce bsBookmarks_)
+bsBookmarks = element (unsafeCoerce _bsBookmarks)
 
-foreign import bsBookmarksFill_ :: ReactIcon
+foreign import _bsBookmarksFill :: ReactIcon
 
 bsBookmarksFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBookmarksFill = element (unsafeCoerce bsBookmarksFill_)
+bsBookmarksFill = element (unsafeCoerce _bsBookmarksFill)
 
-foreign import bsBookmarkStar_ :: ReactIcon
+foreign import _bsBookmarkStar :: ReactIcon
 
 bsBookmarkStar :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBookmarkStar = element (unsafeCoerce bsBookmarkStar_)
+bsBookmarkStar = element (unsafeCoerce _bsBookmarkStar)
 
-foreign import bsBookmarkStarFill_ :: ReactIcon
+foreign import _bsBookmarkStarFill :: ReactIcon
 
 bsBookmarkStarFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBookmarkStarFill = element (unsafeCoerce bsBookmarkStarFill_)
+bsBookmarkStarFill = element (unsafeCoerce _bsBookmarkStarFill)
 
-foreign import bsBookmarkX_ :: ReactIcon
+foreign import _bsBookmarkX :: ReactIcon
 
 bsBookmarkX :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBookmarkX = element (unsafeCoerce bsBookmarkX_)
+bsBookmarkX = element (unsafeCoerce _bsBookmarkX)
 
-foreign import bsBookmarkXFill_ :: ReactIcon
+foreign import _bsBookmarkXFill :: ReactIcon
 
 bsBookmarkXFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBookmarkXFill = element (unsafeCoerce bsBookmarkXFill_)
+bsBookmarkXFill = element (unsafeCoerce _bsBookmarkXFill)
 
-foreign import bsBookshelf_ :: ReactIcon
+foreign import _bsBookshelf :: ReactIcon
 
 bsBookshelf :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBookshelf = element (unsafeCoerce bsBookshelf_)
+bsBookshelf = element (unsafeCoerce _bsBookshelf)
 
-foreign import bsBootstrap_ :: ReactIcon
+foreign import _bsBootstrap :: ReactIcon
 
 bsBootstrap :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBootstrap = element (unsafeCoerce bsBootstrap_)
+bsBootstrap = element (unsafeCoerce _bsBootstrap)
 
-foreign import bsBootstrapFill_ :: ReactIcon
+foreign import _bsBootstrapFill :: ReactIcon
 
 bsBootstrapFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBootstrapFill = element (unsafeCoerce bsBootstrapFill_)
+bsBootstrapFill = element (unsafeCoerce _bsBootstrapFill)
 
-foreign import bsBootstrapReboot_ :: ReactIcon
+foreign import _bsBootstrapReboot :: ReactIcon
 
 bsBootstrapReboot :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBootstrapReboot = element (unsafeCoerce bsBootstrapReboot_)
+bsBootstrapReboot = element (unsafeCoerce _bsBootstrapReboot)
 
-foreign import bsBorder_ :: ReactIcon
+foreign import _bsBorder :: ReactIcon
 
 bsBorder :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBorder = element (unsafeCoerce bsBorder_)
+bsBorder = element (unsafeCoerce _bsBorder)
 
-foreign import bsBorderAll_ :: ReactIcon
+foreign import _bsBorderAll :: ReactIcon
 
 bsBorderAll :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBorderAll = element (unsafeCoerce bsBorderAll_)
+bsBorderAll = element (unsafeCoerce _bsBorderAll)
 
-foreign import bsBorderBottom_ :: ReactIcon
+foreign import _bsBorderBottom :: ReactIcon
 
 bsBorderBottom :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBorderBottom = element (unsafeCoerce bsBorderBottom_)
+bsBorderBottom = element (unsafeCoerce _bsBorderBottom)
 
-foreign import bsBorderCenter_ :: ReactIcon
+foreign import _bsBorderCenter :: ReactIcon
 
 bsBorderCenter :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBorderCenter = element (unsafeCoerce bsBorderCenter_)
+bsBorderCenter = element (unsafeCoerce _bsBorderCenter)
 
-foreign import bsBorderInner_ :: ReactIcon
+foreign import _bsBorderInner :: ReactIcon
 
 bsBorderInner :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBorderInner = element (unsafeCoerce bsBorderInner_)
+bsBorderInner = element (unsafeCoerce _bsBorderInner)
 
-foreign import bsBorderLeft_ :: ReactIcon
+foreign import _bsBorderLeft :: ReactIcon
 
 bsBorderLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBorderLeft = element (unsafeCoerce bsBorderLeft_)
+bsBorderLeft = element (unsafeCoerce _bsBorderLeft)
 
-foreign import bsBorderMiddle_ :: ReactIcon
+foreign import _bsBorderMiddle :: ReactIcon
 
 bsBorderMiddle :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBorderMiddle = element (unsafeCoerce bsBorderMiddle_)
+bsBorderMiddle = element (unsafeCoerce _bsBorderMiddle)
 
-foreign import bsBorderOuter_ :: ReactIcon
+foreign import _bsBorderOuter :: ReactIcon
 
 bsBorderOuter :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBorderOuter = element (unsafeCoerce bsBorderOuter_)
+bsBorderOuter = element (unsafeCoerce _bsBorderOuter)
 
-foreign import bsBorderRight_ :: ReactIcon
+foreign import _bsBorderRight :: ReactIcon
 
 bsBorderRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBorderRight = element (unsafeCoerce bsBorderRight_)
+bsBorderRight = element (unsafeCoerce _bsBorderRight)
 
-foreign import bsBorderStyle_ :: ReactIcon
+foreign import _bsBorderStyle :: ReactIcon
 
 bsBorderStyle :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBorderStyle = element (unsafeCoerce bsBorderStyle_)
+bsBorderStyle = element (unsafeCoerce _bsBorderStyle)
 
-foreign import bsBorderTop_ :: ReactIcon
+foreign import _bsBorderTop :: ReactIcon
 
 bsBorderTop :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBorderTop = element (unsafeCoerce bsBorderTop_)
+bsBorderTop = element (unsafeCoerce _bsBorderTop)
 
-foreign import bsBorderWidth_ :: ReactIcon
+foreign import _bsBorderWidth :: ReactIcon
 
 bsBorderWidth :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBorderWidth = element (unsafeCoerce bsBorderWidth_)
+bsBorderWidth = element (unsafeCoerce _bsBorderWidth)
 
-foreign import bsBoundingBox_ :: ReactIcon
+foreign import _bsBoundingBox :: ReactIcon
 
 bsBoundingBox :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBoundingBox = element (unsafeCoerce bsBoundingBox_)
+bsBoundingBox = element (unsafeCoerce _bsBoundingBox)
 
-foreign import bsBoundingBoxCircles_ :: ReactIcon
+foreign import _bsBoundingBoxCircles :: ReactIcon
 
 bsBoundingBoxCircles :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBoundingBoxCircles = element (unsafeCoerce bsBoundingBoxCircles_)
+bsBoundingBoxCircles = element (unsafeCoerce _bsBoundingBoxCircles)
 
-foreign import bsBox_ :: ReactIcon
+foreign import _bsBox :: ReactIcon
 
 bsBox :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBox = element (unsafeCoerce bsBox_)
+bsBox = element (unsafeCoerce _bsBox)
 
-foreign import bsBoxArrowDown_ :: ReactIcon
+foreign import _bsBoxArrowDown :: ReactIcon
 
 bsBoxArrowDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBoxArrowDown = element (unsafeCoerce bsBoxArrowDown_)
+bsBoxArrowDown = element (unsafeCoerce _bsBoxArrowDown)
 
-foreign import bsBoxArrowDownLeft_ :: ReactIcon
+foreign import _bsBoxArrowDownLeft :: ReactIcon
 
 bsBoxArrowDownLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBoxArrowDownLeft = element (unsafeCoerce bsBoxArrowDownLeft_)
+bsBoxArrowDownLeft = element (unsafeCoerce _bsBoxArrowDownLeft)
 
-foreign import bsBoxArrowDownRight_ :: ReactIcon
+foreign import _bsBoxArrowDownRight :: ReactIcon
 
 bsBoxArrowDownRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBoxArrowDownRight = element (unsafeCoerce bsBoxArrowDownRight_)
+bsBoxArrowDownRight = element (unsafeCoerce _bsBoxArrowDownRight)
 
-foreign import bsBoxArrowInDown_ :: ReactIcon
+foreign import _bsBoxArrowInDown :: ReactIcon
 
 bsBoxArrowInDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBoxArrowInDown = element (unsafeCoerce bsBoxArrowInDown_)
+bsBoxArrowInDown = element (unsafeCoerce _bsBoxArrowInDown)
 
-foreign import bsBoxArrowInDownLeft_ :: ReactIcon
+foreign import _bsBoxArrowInDownLeft :: ReactIcon
 
 bsBoxArrowInDownLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBoxArrowInDownLeft = element (unsafeCoerce bsBoxArrowInDownLeft_)
+bsBoxArrowInDownLeft = element (unsafeCoerce _bsBoxArrowInDownLeft)
 
-foreign import bsBoxArrowInDownRight_ :: ReactIcon
+foreign import _bsBoxArrowInDownRight :: ReactIcon
 
 bsBoxArrowInDownRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBoxArrowInDownRight = element (unsafeCoerce bsBoxArrowInDownRight_)
+bsBoxArrowInDownRight = element (unsafeCoerce _bsBoxArrowInDownRight)
 
-foreign import bsBoxArrowInLeft_ :: ReactIcon
+foreign import _bsBoxArrowInLeft :: ReactIcon
 
 bsBoxArrowInLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBoxArrowInLeft = element (unsafeCoerce bsBoxArrowInLeft_)
+bsBoxArrowInLeft = element (unsafeCoerce _bsBoxArrowInLeft)
 
-foreign import bsBoxArrowInRight_ :: ReactIcon
+foreign import _bsBoxArrowInRight :: ReactIcon
 
 bsBoxArrowInRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBoxArrowInRight = element (unsafeCoerce bsBoxArrowInRight_)
+bsBoxArrowInRight = element (unsafeCoerce _bsBoxArrowInRight)
 
-foreign import bsBoxArrowInUp_ :: ReactIcon
+foreign import _bsBoxArrowInUp :: ReactIcon
 
 bsBoxArrowInUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBoxArrowInUp = element (unsafeCoerce bsBoxArrowInUp_)
+bsBoxArrowInUp = element (unsafeCoerce _bsBoxArrowInUp)
 
-foreign import bsBoxArrowInUpLeft_ :: ReactIcon
+foreign import _bsBoxArrowInUpLeft :: ReactIcon
 
 bsBoxArrowInUpLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBoxArrowInUpLeft = element (unsafeCoerce bsBoxArrowInUpLeft_)
+bsBoxArrowInUpLeft = element (unsafeCoerce _bsBoxArrowInUpLeft)
 
-foreign import bsBoxArrowInUpRight_ :: ReactIcon
+foreign import _bsBoxArrowInUpRight :: ReactIcon
 
 bsBoxArrowInUpRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBoxArrowInUpRight = element (unsafeCoerce bsBoxArrowInUpRight_)
+bsBoxArrowInUpRight = element (unsafeCoerce _bsBoxArrowInUpRight)
 
-foreign import bsBoxArrowLeft_ :: ReactIcon
+foreign import _bsBoxArrowLeft :: ReactIcon
 
 bsBoxArrowLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBoxArrowLeft = element (unsafeCoerce bsBoxArrowLeft_)
+bsBoxArrowLeft = element (unsafeCoerce _bsBoxArrowLeft)
 
-foreign import bsBoxArrowRight_ :: ReactIcon
+foreign import _bsBoxArrowRight :: ReactIcon
 
 bsBoxArrowRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBoxArrowRight = element (unsafeCoerce bsBoxArrowRight_)
+bsBoxArrowRight = element (unsafeCoerce _bsBoxArrowRight)
 
-foreign import bsBoxArrowUp_ :: ReactIcon
+foreign import _bsBoxArrowUp :: ReactIcon
 
 bsBoxArrowUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBoxArrowUp = element (unsafeCoerce bsBoxArrowUp_)
+bsBoxArrowUp = element (unsafeCoerce _bsBoxArrowUp)
 
-foreign import bsBoxArrowUpLeft_ :: ReactIcon
+foreign import _bsBoxArrowUpLeft :: ReactIcon
 
 bsBoxArrowUpLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBoxArrowUpLeft = element (unsafeCoerce bsBoxArrowUpLeft_)
+bsBoxArrowUpLeft = element (unsafeCoerce _bsBoxArrowUpLeft)
 
-foreign import bsBoxArrowUpRight_ :: ReactIcon
+foreign import _bsBoxArrowUpRight :: ReactIcon
 
 bsBoxArrowUpRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBoxArrowUpRight = element (unsafeCoerce bsBoxArrowUpRight_)
+bsBoxArrowUpRight = element (unsafeCoerce _bsBoxArrowUpRight)
 
-foreign import bsBoxSeam_ :: ReactIcon
+foreign import _bsBoxSeam :: ReactIcon
 
 bsBoxSeam :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBoxSeam = element (unsafeCoerce bsBoxSeam_)
+bsBoxSeam = element (unsafeCoerce _bsBoxSeam)
 
-foreign import bsBraces_ :: ReactIcon
+foreign import _bsBraces :: ReactIcon
 
 bsBraces :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBraces = element (unsafeCoerce bsBraces_)
+bsBraces = element (unsafeCoerce _bsBraces)
 
-foreign import bsBricks_ :: ReactIcon
+foreign import _bsBricks :: ReactIcon
 
 bsBricks :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBricks = element (unsafeCoerce bsBricks_)
+bsBricks = element (unsafeCoerce _bsBricks)
 
-foreign import bsBriefcase_ :: ReactIcon
+foreign import _bsBriefcase :: ReactIcon
 
 bsBriefcase :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBriefcase = element (unsafeCoerce bsBriefcase_)
+bsBriefcase = element (unsafeCoerce _bsBriefcase)
 
-foreign import bsBriefcaseFill_ :: ReactIcon
+foreign import _bsBriefcaseFill :: ReactIcon
 
 bsBriefcaseFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBriefcaseFill = element (unsafeCoerce bsBriefcaseFill_)
+bsBriefcaseFill = element (unsafeCoerce _bsBriefcaseFill)
 
-foreign import bsBrightnessAltHigh_ :: ReactIcon
+foreign import _bsBrightnessAltHigh :: ReactIcon
 
 bsBrightnessAltHigh :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBrightnessAltHigh = element (unsafeCoerce bsBrightnessAltHigh_)
+bsBrightnessAltHigh = element (unsafeCoerce _bsBrightnessAltHigh)
 
-foreign import bsBrightnessAltHighFill_ :: ReactIcon
+foreign import _bsBrightnessAltHighFill :: ReactIcon
 
 bsBrightnessAltHighFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBrightnessAltHighFill = element (unsafeCoerce bsBrightnessAltHighFill_)
+bsBrightnessAltHighFill = element (unsafeCoerce _bsBrightnessAltHighFill)
 
-foreign import bsBrightnessAltLow_ :: ReactIcon
+foreign import _bsBrightnessAltLow :: ReactIcon
 
 bsBrightnessAltLow :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBrightnessAltLow = element (unsafeCoerce bsBrightnessAltLow_)
+bsBrightnessAltLow = element (unsafeCoerce _bsBrightnessAltLow)
 
-foreign import bsBrightnessAltLowFill_ :: ReactIcon
+foreign import _bsBrightnessAltLowFill :: ReactIcon
 
 bsBrightnessAltLowFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBrightnessAltLowFill = element (unsafeCoerce bsBrightnessAltLowFill_)
+bsBrightnessAltLowFill = element (unsafeCoerce _bsBrightnessAltLowFill)
 
-foreign import bsBrightnessHigh_ :: ReactIcon
+foreign import _bsBrightnessHigh :: ReactIcon
 
 bsBrightnessHigh :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBrightnessHigh = element (unsafeCoerce bsBrightnessHigh_)
+bsBrightnessHigh = element (unsafeCoerce _bsBrightnessHigh)
 
-foreign import bsBrightnessHighFill_ :: ReactIcon
+foreign import _bsBrightnessHighFill :: ReactIcon
 
 bsBrightnessHighFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBrightnessHighFill = element (unsafeCoerce bsBrightnessHighFill_)
+bsBrightnessHighFill = element (unsafeCoerce _bsBrightnessHighFill)
 
-foreign import bsBrightnessLow_ :: ReactIcon
+foreign import _bsBrightnessLow :: ReactIcon
 
 bsBrightnessLow :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBrightnessLow = element (unsafeCoerce bsBrightnessLow_)
+bsBrightnessLow = element (unsafeCoerce _bsBrightnessLow)
 
-foreign import bsBrightnessLowFill_ :: ReactIcon
+foreign import _bsBrightnessLowFill :: ReactIcon
 
 bsBrightnessLowFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBrightnessLowFill = element (unsafeCoerce bsBrightnessLowFill_)
+bsBrightnessLowFill = element (unsafeCoerce _bsBrightnessLowFill)
 
-foreign import bsBroadcast_ :: ReactIcon
+foreign import _bsBroadcast :: ReactIcon
 
 bsBroadcast :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBroadcast = element (unsafeCoerce bsBroadcast_)
+bsBroadcast = element (unsafeCoerce _bsBroadcast)
 
-foreign import bsBroadcastPin_ :: ReactIcon
+foreign import _bsBroadcastPin :: ReactIcon
 
 bsBroadcastPin :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBroadcastPin = element (unsafeCoerce bsBroadcastPin_)
+bsBroadcastPin = element (unsafeCoerce _bsBroadcastPin)
 
-foreign import bsBrush_ :: ReactIcon
+foreign import _bsBrush :: ReactIcon
 
 bsBrush :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBrush = element (unsafeCoerce bsBrush_)
+bsBrush = element (unsafeCoerce _bsBrush)
 
-foreign import bsBrushFill_ :: ReactIcon
+foreign import _bsBrushFill :: ReactIcon
 
 bsBrushFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBrushFill = element (unsafeCoerce bsBrushFill_)
+bsBrushFill = element (unsafeCoerce _bsBrushFill)
 
-foreign import bsBucket_ :: ReactIcon
+foreign import _bsBucket :: ReactIcon
 
 bsBucket :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBucket = element (unsafeCoerce bsBucket_)
+bsBucket = element (unsafeCoerce _bsBucket)
 
-foreign import bsBucketFill_ :: ReactIcon
+foreign import _bsBucketFill :: ReactIcon
 
 bsBucketFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBucketFill = element (unsafeCoerce bsBucketFill_)
+bsBucketFill = element (unsafeCoerce _bsBucketFill)
 
-foreign import bsBug_ :: ReactIcon
+foreign import _bsBug :: ReactIcon
 
 bsBug :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBug = element (unsafeCoerce bsBug_)
+bsBug = element (unsafeCoerce _bsBug)
 
-foreign import bsBugFill_ :: ReactIcon
+foreign import _bsBugFill :: ReactIcon
 
 bsBugFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBugFill = element (unsafeCoerce bsBugFill_)
+bsBugFill = element (unsafeCoerce _bsBugFill)
 
-foreign import bsBuilding_ :: ReactIcon
+foreign import _bsBuilding :: ReactIcon
 
 bsBuilding :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBuilding = element (unsafeCoerce bsBuilding_)
+bsBuilding = element (unsafeCoerce _bsBuilding)
 
-foreign import bsBullseye_ :: ReactIcon
+foreign import _bsBullseye :: ReactIcon
 
 bsBullseye :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsBullseye = element (unsafeCoerce bsBullseye_)
+bsBullseye = element (unsafeCoerce _bsBullseye)
 
-foreign import bsCalculator_ :: ReactIcon
+foreign import _bsCalculator :: ReactIcon
 
 bsCalculator :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCalculator = element (unsafeCoerce bsCalculator_)
+bsCalculator = element (unsafeCoerce _bsCalculator)
 
-foreign import bsCalculatorFill_ :: ReactIcon
+foreign import _bsCalculatorFill :: ReactIcon
 
 bsCalculatorFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCalculatorFill = element (unsafeCoerce bsCalculatorFill_)
+bsCalculatorFill = element (unsafeCoerce _bsCalculatorFill)
 
-foreign import bsCalendar_ :: ReactIcon
+foreign import _bsCalendar :: ReactIcon
 
 bsCalendar :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCalendar = element (unsafeCoerce bsCalendar_)
+bsCalendar = element (unsafeCoerce _bsCalendar)
 
-foreign import bsCalendarCheck_ :: ReactIcon
+foreign import _bsCalendarCheck :: ReactIcon
 
 bsCalendarCheck :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCalendarCheck = element (unsafeCoerce bsCalendarCheck_)
+bsCalendarCheck = element (unsafeCoerce _bsCalendarCheck)
 
-foreign import bsCalendarCheckFill_ :: ReactIcon
+foreign import _bsCalendarCheckFill :: ReactIcon
 
 bsCalendarCheckFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCalendarCheckFill = element (unsafeCoerce bsCalendarCheckFill_)
+bsCalendarCheckFill = element (unsafeCoerce _bsCalendarCheckFill)
 
-foreign import bsCalendarDate_ :: ReactIcon
+foreign import _bsCalendarDate :: ReactIcon
 
 bsCalendarDate :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCalendarDate = element (unsafeCoerce bsCalendarDate_)
+bsCalendarDate = element (unsafeCoerce _bsCalendarDate)
 
-foreign import bsCalendarDateFill_ :: ReactIcon
+foreign import _bsCalendarDateFill :: ReactIcon
 
 bsCalendarDateFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCalendarDateFill = element (unsafeCoerce bsCalendarDateFill_)
+bsCalendarDateFill = element (unsafeCoerce _bsCalendarDateFill)
 
-foreign import bsCalendarDay_ :: ReactIcon
+foreign import _bsCalendarDay :: ReactIcon
 
 bsCalendarDay :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCalendarDay = element (unsafeCoerce bsCalendarDay_)
+bsCalendarDay = element (unsafeCoerce _bsCalendarDay)
 
-foreign import bsCalendarDayFill_ :: ReactIcon
+foreign import _bsCalendarDayFill :: ReactIcon
 
 bsCalendarDayFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCalendarDayFill = element (unsafeCoerce bsCalendarDayFill_)
+bsCalendarDayFill = element (unsafeCoerce _bsCalendarDayFill)
 
-foreign import bsCalendarEvent_ :: ReactIcon
+foreign import _bsCalendarEvent :: ReactIcon
 
 bsCalendarEvent :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCalendarEvent = element (unsafeCoerce bsCalendarEvent_)
+bsCalendarEvent = element (unsafeCoerce _bsCalendarEvent)
 
-foreign import bsCalendarEventFill_ :: ReactIcon
+foreign import _bsCalendarEventFill :: ReactIcon
 
 bsCalendarEventFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCalendarEventFill = element (unsafeCoerce bsCalendarEventFill_)
+bsCalendarEventFill = element (unsafeCoerce _bsCalendarEventFill)
 
-foreign import bsCalendarFill_ :: ReactIcon
+foreign import _bsCalendarFill :: ReactIcon
 
 bsCalendarFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCalendarFill = element (unsafeCoerce bsCalendarFill_)
+bsCalendarFill = element (unsafeCoerce _bsCalendarFill)
 
-foreign import bsCalendarMinus_ :: ReactIcon
+foreign import _bsCalendarMinus :: ReactIcon
 
 bsCalendarMinus :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCalendarMinus = element (unsafeCoerce bsCalendarMinus_)
+bsCalendarMinus = element (unsafeCoerce _bsCalendarMinus)
 
-foreign import bsCalendarMinusFill_ :: ReactIcon
+foreign import _bsCalendarMinusFill :: ReactIcon
 
 bsCalendarMinusFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCalendarMinusFill = element (unsafeCoerce bsCalendarMinusFill_)
+bsCalendarMinusFill = element (unsafeCoerce _bsCalendarMinusFill)
 
-foreign import bsCalendarMonth_ :: ReactIcon
+foreign import _bsCalendarMonth :: ReactIcon
 
 bsCalendarMonth :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCalendarMonth = element (unsafeCoerce bsCalendarMonth_)
+bsCalendarMonth = element (unsafeCoerce _bsCalendarMonth)
 
-foreign import bsCalendarMonthFill_ :: ReactIcon
+foreign import _bsCalendarMonthFill :: ReactIcon
 
 bsCalendarMonthFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCalendarMonthFill = element (unsafeCoerce bsCalendarMonthFill_)
+bsCalendarMonthFill = element (unsafeCoerce _bsCalendarMonthFill)
 
-foreign import bsCalendarPlus_ :: ReactIcon
+foreign import _bsCalendarPlus :: ReactIcon
 
 bsCalendarPlus :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCalendarPlus = element (unsafeCoerce bsCalendarPlus_)
+bsCalendarPlus = element (unsafeCoerce _bsCalendarPlus)
 
-foreign import bsCalendarPlusFill_ :: ReactIcon
+foreign import _bsCalendarPlusFill :: ReactIcon
 
 bsCalendarPlusFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCalendarPlusFill = element (unsafeCoerce bsCalendarPlusFill_)
+bsCalendarPlusFill = element (unsafeCoerce _bsCalendarPlusFill)
 
-foreign import bsCalendarRange_ :: ReactIcon
+foreign import _bsCalendarRange :: ReactIcon
 
 bsCalendarRange :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCalendarRange = element (unsafeCoerce bsCalendarRange_)
+bsCalendarRange = element (unsafeCoerce _bsCalendarRange)
 
-foreign import bsCalendarRangeFill_ :: ReactIcon
+foreign import _bsCalendarRangeFill :: ReactIcon
 
 bsCalendarRangeFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCalendarRangeFill = element (unsafeCoerce bsCalendarRangeFill_)
+bsCalendarRangeFill = element (unsafeCoerce _bsCalendarRangeFill)
 
-foreign import bsCalendarWeek_ :: ReactIcon
+foreign import _bsCalendarWeek :: ReactIcon
 
 bsCalendarWeek :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCalendarWeek = element (unsafeCoerce bsCalendarWeek_)
+bsCalendarWeek = element (unsafeCoerce _bsCalendarWeek)
 
-foreign import bsCalendarWeekFill_ :: ReactIcon
+foreign import _bsCalendarWeekFill :: ReactIcon
 
 bsCalendarWeekFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCalendarWeekFill = element (unsafeCoerce bsCalendarWeekFill_)
+bsCalendarWeekFill = element (unsafeCoerce _bsCalendarWeekFill)
 
-foreign import bsCalendarX_ :: ReactIcon
+foreign import _bsCalendarX :: ReactIcon
 
 bsCalendarX :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCalendarX = element (unsafeCoerce bsCalendarX_)
+bsCalendarX = element (unsafeCoerce _bsCalendarX)
 
-foreign import bsCalendarXFill_ :: ReactIcon
+foreign import _bsCalendarXFill :: ReactIcon
 
 bsCalendarXFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCalendarXFill = element (unsafeCoerce bsCalendarXFill_)
+bsCalendarXFill = element (unsafeCoerce _bsCalendarXFill)
 
-foreign import bsCamera_ :: ReactIcon
+foreign import _bsCamera :: ReactIcon
 
 bsCamera :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCamera = element (unsafeCoerce bsCamera_)
+bsCamera = element (unsafeCoerce _bsCamera)
 
-foreign import bsCameraFill_ :: ReactIcon
+foreign import _bsCameraFill :: ReactIcon
 
 bsCameraFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCameraFill = element (unsafeCoerce bsCameraFill_)
+bsCameraFill = element (unsafeCoerce _bsCameraFill)
 
-foreign import bsCameraReels_ :: ReactIcon
+foreign import _bsCameraReels :: ReactIcon
 
 bsCameraReels :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCameraReels = element (unsafeCoerce bsCameraReels_)
+bsCameraReels = element (unsafeCoerce _bsCameraReels)
 
-foreign import bsCameraReelsFill_ :: ReactIcon
+foreign import _bsCameraReelsFill :: ReactIcon
 
 bsCameraReelsFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCameraReelsFill = element (unsafeCoerce bsCameraReelsFill_)
+bsCameraReelsFill = element (unsafeCoerce _bsCameraReelsFill)
 
-foreign import bsCameraVideo_ :: ReactIcon
+foreign import _bsCameraVideo :: ReactIcon
 
 bsCameraVideo :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCameraVideo = element (unsafeCoerce bsCameraVideo_)
+bsCameraVideo = element (unsafeCoerce _bsCameraVideo)
 
-foreign import bsCameraVideoFill_ :: ReactIcon
+foreign import _bsCameraVideoFill :: ReactIcon
 
 bsCameraVideoFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCameraVideoFill = element (unsafeCoerce bsCameraVideoFill_)
+bsCameraVideoFill = element (unsafeCoerce _bsCameraVideoFill)
 
-foreign import bsCameraVideoOff_ :: ReactIcon
+foreign import _bsCameraVideoOff :: ReactIcon
 
 bsCameraVideoOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCameraVideoOff = element (unsafeCoerce bsCameraVideoOff_)
+bsCameraVideoOff = element (unsafeCoerce _bsCameraVideoOff)
 
-foreign import bsCameraVideoOffFill_ :: ReactIcon
+foreign import _bsCameraVideoOffFill :: ReactIcon
 
 bsCameraVideoOffFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCameraVideoOffFill = element (unsafeCoerce bsCameraVideoOffFill_)
+bsCameraVideoOffFill = element (unsafeCoerce _bsCameraVideoOffFill)
 
-foreign import bsCapslock_ :: ReactIcon
+foreign import _bsCapslock :: ReactIcon
 
 bsCapslock :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCapslock = element (unsafeCoerce bsCapslock_)
+bsCapslock = element (unsafeCoerce _bsCapslock)
 
-foreign import bsCapslockFill_ :: ReactIcon
+foreign import _bsCapslockFill :: ReactIcon
 
 bsCapslockFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCapslockFill = element (unsafeCoerce bsCapslockFill_)
+bsCapslockFill = element (unsafeCoerce _bsCapslockFill)
 
-foreign import bsCardChecklist_ :: ReactIcon
+foreign import _bsCardChecklist :: ReactIcon
 
 bsCardChecklist :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCardChecklist = element (unsafeCoerce bsCardChecklist_)
+bsCardChecklist = element (unsafeCoerce _bsCardChecklist)
 
-foreign import bsCardHeading_ :: ReactIcon
+foreign import _bsCardHeading :: ReactIcon
 
 bsCardHeading :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCardHeading = element (unsafeCoerce bsCardHeading_)
+bsCardHeading = element (unsafeCoerce _bsCardHeading)
 
-foreign import bsCardImage_ :: ReactIcon
+foreign import _bsCardImage :: ReactIcon
 
 bsCardImage :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCardImage = element (unsafeCoerce bsCardImage_)
+bsCardImage = element (unsafeCoerce _bsCardImage)
 
-foreign import bsCardList_ :: ReactIcon
+foreign import _bsCardList :: ReactIcon
 
 bsCardList :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCardList = element (unsafeCoerce bsCardList_)
+bsCardList = element (unsafeCoerce _bsCardList)
 
-foreign import bsCardText_ :: ReactIcon
+foreign import _bsCardText :: ReactIcon
 
 bsCardText :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCardText = element (unsafeCoerce bsCardText_)
+bsCardText = element (unsafeCoerce _bsCardText)
 
-foreign import bsCaretDown_ :: ReactIcon
+foreign import _bsCaretDown :: ReactIcon
 
 bsCaretDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCaretDown = element (unsafeCoerce bsCaretDown_)
+bsCaretDown = element (unsafeCoerce _bsCaretDown)
 
-foreign import bsCaretDownFill_ :: ReactIcon
+foreign import _bsCaretDownFill :: ReactIcon
 
 bsCaretDownFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCaretDownFill = element (unsafeCoerce bsCaretDownFill_)
+bsCaretDownFill = element (unsafeCoerce _bsCaretDownFill)
 
-foreign import bsCaretDownSquare_ :: ReactIcon
+foreign import _bsCaretDownSquare :: ReactIcon
 
 bsCaretDownSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCaretDownSquare = element (unsafeCoerce bsCaretDownSquare_)
+bsCaretDownSquare = element (unsafeCoerce _bsCaretDownSquare)
 
-foreign import bsCaretDownSquareFill_ :: ReactIcon
+foreign import _bsCaretDownSquareFill :: ReactIcon
 
 bsCaretDownSquareFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCaretDownSquareFill = element (unsafeCoerce bsCaretDownSquareFill_)
+bsCaretDownSquareFill = element (unsafeCoerce _bsCaretDownSquareFill)
 
-foreign import bsCaretLeft_ :: ReactIcon
+foreign import _bsCaretLeft :: ReactIcon
 
 bsCaretLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCaretLeft = element (unsafeCoerce bsCaretLeft_)
+bsCaretLeft = element (unsafeCoerce _bsCaretLeft)
 
-foreign import bsCaretLeftFill_ :: ReactIcon
+foreign import _bsCaretLeftFill :: ReactIcon
 
 bsCaretLeftFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCaretLeftFill = element (unsafeCoerce bsCaretLeftFill_)
+bsCaretLeftFill = element (unsafeCoerce _bsCaretLeftFill)
 
-foreign import bsCaretLeftSquare_ :: ReactIcon
+foreign import _bsCaretLeftSquare :: ReactIcon
 
 bsCaretLeftSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCaretLeftSquare = element (unsafeCoerce bsCaretLeftSquare_)
+bsCaretLeftSquare = element (unsafeCoerce _bsCaretLeftSquare)
 
-foreign import bsCaretLeftSquareFill_ :: ReactIcon
+foreign import _bsCaretLeftSquareFill :: ReactIcon
 
 bsCaretLeftSquareFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCaretLeftSquareFill = element (unsafeCoerce bsCaretLeftSquareFill_)
+bsCaretLeftSquareFill = element (unsafeCoerce _bsCaretLeftSquareFill)
 
-foreign import bsCaretRight_ :: ReactIcon
+foreign import _bsCaretRight :: ReactIcon
 
 bsCaretRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCaretRight = element (unsafeCoerce bsCaretRight_)
+bsCaretRight = element (unsafeCoerce _bsCaretRight)
 
-foreign import bsCaretRightFill_ :: ReactIcon
+foreign import _bsCaretRightFill :: ReactIcon
 
 bsCaretRightFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCaretRightFill = element (unsafeCoerce bsCaretRightFill_)
+bsCaretRightFill = element (unsafeCoerce _bsCaretRightFill)
 
-foreign import bsCaretRightSquare_ :: ReactIcon
+foreign import _bsCaretRightSquare :: ReactIcon
 
 bsCaretRightSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCaretRightSquare = element (unsafeCoerce bsCaretRightSquare_)
+bsCaretRightSquare = element (unsafeCoerce _bsCaretRightSquare)
 
-foreign import bsCaretRightSquareFill_ :: ReactIcon
+foreign import _bsCaretRightSquareFill :: ReactIcon
 
 bsCaretRightSquareFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCaretRightSquareFill = element (unsafeCoerce bsCaretRightSquareFill_)
+bsCaretRightSquareFill = element (unsafeCoerce _bsCaretRightSquareFill)
 
-foreign import bsCaretUp_ :: ReactIcon
+foreign import _bsCaretUp :: ReactIcon
 
 bsCaretUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCaretUp = element (unsafeCoerce bsCaretUp_)
+bsCaretUp = element (unsafeCoerce _bsCaretUp)
 
-foreign import bsCaretUpFill_ :: ReactIcon
+foreign import _bsCaretUpFill :: ReactIcon
 
 bsCaretUpFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCaretUpFill = element (unsafeCoerce bsCaretUpFill_)
+bsCaretUpFill = element (unsafeCoerce _bsCaretUpFill)
 
-foreign import bsCaretUpSquare_ :: ReactIcon
+foreign import _bsCaretUpSquare :: ReactIcon
 
 bsCaretUpSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCaretUpSquare = element (unsafeCoerce bsCaretUpSquare_)
+bsCaretUpSquare = element (unsafeCoerce _bsCaretUpSquare)
 
-foreign import bsCaretUpSquareFill_ :: ReactIcon
+foreign import _bsCaretUpSquareFill :: ReactIcon
 
 bsCaretUpSquareFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCaretUpSquareFill = element (unsafeCoerce bsCaretUpSquareFill_)
+bsCaretUpSquareFill = element (unsafeCoerce _bsCaretUpSquareFill)
 
-foreign import bsCart_ :: ReactIcon
+foreign import _bsCart :: ReactIcon
 
 bsCart :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCart = element (unsafeCoerce bsCart_)
+bsCart = element (unsafeCoerce _bsCart)
 
-foreign import bsCartCheck_ :: ReactIcon
+foreign import _bsCartCheck :: ReactIcon
 
 bsCartCheck :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCartCheck = element (unsafeCoerce bsCartCheck_)
+bsCartCheck = element (unsafeCoerce _bsCartCheck)
 
-foreign import bsCartCheckFill_ :: ReactIcon
+foreign import _bsCartCheckFill :: ReactIcon
 
 bsCartCheckFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCartCheckFill = element (unsafeCoerce bsCartCheckFill_)
+bsCartCheckFill = element (unsafeCoerce _bsCartCheckFill)
 
-foreign import bsCartDash_ :: ReactIcon
+foreign import _bsCartDash :: ReactIcon
 
 bsCartDash :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCartDash = element (unsafeCoerce bsCartDash_)
+bsCartDash = element (unsafeCoerce _bsCartDash)
 
-foreign import bsCartDashFill_ :: ReactIcon
+foreign import _bsCartDashFill :: ReactIcon
 
 bsCartDashFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCartDashFill = element (unsafeCoerce bsCartDashFill_)
+bsCartDashFill = element (unsafeCoerce _bsCartDashFill)
 
-foreign import bsCartFill_ :: ReactIcon
+foreign import _bsCartFill :: ReactIcon
 
 bsCartFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCartFill = element (unsafeCoerce bsCartFill_)
+bsCartFill = element (unsafeCoerce _bsCartFill)
 
-foreign import bsCartPlus_ :: ReactIcon
+foreign import _bsCartPlus :: ReactIcon
 
 bsCartPlus :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCartPlus = element (unsafeCoerce bsCartPlus_)
+bsCartPlus = element (unsafeCoerce _bsCartPlus)
 
-foreign import bsCartPlusFill_ :: ReactIcon
+foreign import _bsCartPlusFill :: ReactIcon
 
 bsCartPlusFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCartPlusFill = element (unsafeCoerce bsCartPlusFill_)
+bsCartPlusFill = element (unsafeCoerce _bsCartPlusFill)
 
-foreign import bsCartX_ :: ReactIcon
+foreign import _bsCartX :: ReactIcon
 
 bsCartX :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCartX = element (unsafeCoerce bsCartX_)
+bsCartX = element (unsafeCoerce _bsCartX)
 
-foreign import bsCartXFill_ :: ReactIcon
+foreign import _bsCartXFill :: ReactIcon
 
 bsCartXFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCartXFill = element (unsafeCoerce bsCartXFill_)
+bsCartXFill = element (unsafeCoerce _bsCartXFill)
 
-foreign import bsCash_ :: ReactIcon
+foreign import _bsCash :: ReactIcon
 
 bsCash :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCash = element (unsafeCoerce bsCash_)
+bsCash = element (unsafeCoerce _bsCash)
 
-foreign import bsCashCoin_ :: ReactIcon
+foreign import _bsCashCoin :: ReactIcon
 
 bsCashCoin :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCashCoin = element (unsafeCoerce bsCashCoin_)
+bsCashCoin = element (unsafeCoerce _bsCashCoin)
 
-foreign import bsCashStack_ :: ReactIcon
+foreign import _bsCashStack :: ReactIcon
 
 bsCashStack :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCashStack = element (unsafeCoerce bsCashStack_)
+bsCashStack = element (unsafeCoerce _bsCashStack)
 
-foreign import bsCast_ :: ReactIcon
+foreign import _bsCast :: ReactIcon
 
 bsCast :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCast = element (unsafeCoerce bsCast_)
+bsCast = element (unsafeCoerce _bsCast)
 
-foreign import bsChat_ :: ReactIcon
+foreign import _bsChat :: ReactIcon
 
 bsChat :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsChat = element (unsafeCoerce bsChat_)
+bsChat = element (unsafeCoerce _bsChat)
 
-foreign import bsChatDots_ :: ReactIcon
+foreign import _bsChatDots :: ReactIcon
 
 bsChatDots :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsChatDots = element (unsafeCoerce bsChatDots_)
+bsChatDots = element (unsafeCoerce _bsChatDots)
 
-foreign import bsChatDotsFill_ :: ReactIcon
+foreign import _bsChatDotsFill :: ReactIcon
 
 bsChatDotsFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsChatDotsFill = element (unsafeCoerce bsChatDotsFill_)
+bsChatDotsFill = element (unsafeCoerce _bsChatDotsFill)
 
-foreign import bsChatFill_ :: ReactIcon
+foreign import _bsChatFill :: ReactIcon
 
 bsChatFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsChatFill = element (unsafeCoerce bsChatFill_)
+bsChatFill = element (unsafeCoerce _bsChatFill)
 
-foreign import bsChatLeft_ :: ReactIcon
+foreign import _bsChatLeft :: ReactIcon
 
 bsChatLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsChatLeft = element (unsafeCoerce bsChatLeft_)
+bsChatLeft = element (unsafeCoerce _bsChatLeft)
 
-foreign import bsChatLeftDots_ :: ReactIcon
+foreign import _bsChatLeftDots :: ReactIcon
 
 bsChatLeftDots :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsChatLeftDots = element (unsafeCoerce bsChatLeftDots_)
+bsChatLeftDots = element (unsafeCoerce _bsChatLeftDots)
 
-foreign import bsChatLeftDotsFill_ :: ReactIcon
+foreign import _bsChatLeftDotsFill :: ReactIcon
 
 bsChatLeftDotsFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsChatLeftDotsFill = element (unsafeCoerce bsChatLeftDotsFill_)
+bsChatLeftDotsFill = element (unsafeCoerce _bsChatLeftDotsFill)
 
-foreign import bsChatLeftFill_ :: ReactIcon
+foreign import _bsChatLeftFill :: ReactIcon
 
 bsChatLeftFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsChatLeftFill = element (unsafeCoerce bsChatLeftFill_)
+bsChatLeftFill = element (unsafeCoerce _bsChatLeftFill)
 
-foreign import bsChatLeftQuote_ :: ReactIcon
+foreign import _bsChatLeftQuote :: ReactIcon
 
 bsChatLeftQuote :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsChatLeftQuote = element (unsafeCoerce bsChatLeftQuote_)
+bsChatLeftQuote = element (unsafeCoerce _bsChatLeftQuote)
 
-foreign import bsChatLeftQuoteFill_ :: ReactIcon
+foreign import _bsChatLeftQuoteFill :: ReactIcon
 
 bsChatLeftQuoteFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsChatLeftQuoteFill = element (unsafeCoerce bsChatLeftQuoteFill_)
+bsChatLeftQuoteFill = element (unsafeCoerce _bsChatLeftQuoteFill)
 
-foreign import bsChatLeftText_ :: ReactIcon
+foreign import _bsChatLeftText :: ReactIcon
 
 bsChatLeftText :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsChatLeftText = element (unsafeCoerce bsChatLeftText_)
+bsChatLeftText = element (unsafeCoerce _bsChatLeftText)
 
-foreign import bsChatLeftTextFill_ :: ReactIcon
+foreign import _bsChatLeftTextFill :: ReactIcon
 
 bsChatLeftTextFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsChatLeftTextFill = element (unsafeCoerce bsChatLeftTextFill_)
+bsChatLeftTextFill = element (unsafeCoerce _bsChatLeftTextFill)
 
-foreign import bsChatQuote_ :: ReactIcon
+foreign import _bsChatQuote :: ReactIcon
 
 bsChatQuote :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsChatQuote = element (unsafeCoerce bsChatQuote_)
+bsChatQuote = element (unsafeCoerce _bsChatQuote)
 
-foreign import bsChatQuoteFill_ :: ReactIcon
+foreign import _bsChatQuoteFill :: ReactIcon
 
 bsChatQuoteFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsChatQuoteFill = element (unsafeCoerce bsChatQuoteFill_)
+bsChatQuoteFill = element (unsafeCoerce _bsChatQuoteFill)
 
-foreign import bsChatRight_ :: ReactIcon
+foreign import _bsChatRight :: ReactIcon
 
 bsChatRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsChatRight = element (unsafeCoerce bsChatRight_)
+bsChatRight = element (unsafeCoerce _bsChatRight)
 
-foreign import bsChatRightDots_ :: ReactIcon
+foreign import _bsChatRightDots :: ReactIcon
 
 bsChatRightDots :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsChatRightDots = element (unsafeCoerce bsChatRightDots_)
+bsChatRightDots = element (unsafeCoerce _bsChatRightDots)
 
-foreign import bsChatRightDotsFill_ :: ReactIcon
+foreign import _bsChatRightDotsFill :: ReactIcon
 
 bsChatRightDotsFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsChatRightDotsFill = element (unsafeCoerce bsChatRightDotsFill_)
+bsChatRightDotsFill = element (unsafeCoerce _bsChatRightDotsFill)
 
-foreign import bsChatRightFill_ :: ReactIcon
+foreign import _bsChatRightFill :: ReactIcon
 
 bsChatRightFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsChatRightFill = element (unsafeCoerce bsChatRightFill_)
+bsChatRightFill = element (unsafeCoerce _bsChatRightFill)
 
-foreign import bsChatRightQuote_ :: ReactIcon
+foreign import _bsChatRightQuote :: ReactIcon
 
 bsChatRightQuote :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsChatRightQuote = element (unsafeCoerce bsChatRightQuote_)
+bsChatRightQuote = element (unsafeCoerce _bsChatRightQuote)
 
-foreign import bsChatRightQuoteFill_ :: ReactIcon
+foreign import _bsChatRightQuoteFill :: ReactIcon
 
 bsChatRightQuoteFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsChatRightQuoteFill = element (unsafeCoerce bsChatRightQuoteFill_)
+bsChatRightQuoteFill = element (unsafeCoerce _bsChatRightQuoteFill)
 
-foreign import bsChatRightText_ :: ReactIcon
+foreign import _bsChatRightText :: ReactIcon
 
 bsChatRightText :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsChatRightText = element (unsafeCoerce bsChatRightText_)
+bsChatRightText = element (unsafeCoerce _bsChatRightText)
 
-foreign import bsChatRightTextFill_ :: ReactIcon
+foreign import _bsChatRightTextFill :: ReactIcon
 
 bsChatRightTextFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsChatRightTextFill = element (unsafeCoerce bsChatRightTextFill_)
+bsChatRightTextFill = element (unsafeCoerce _bsChatRightTextFill)
 
-foreign import bsChatSquare_ :: ReactIcon
+foreign import _bsChatSquare :: ReactIcon
 
 bsChatSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsChatSquare = element (unsafeCoerce bsChatSquare_)
+bsChatSquare = element (unsafeCoerce _bsChatSquare)
 
-foreign import bsChatSquareDots_ :: ReactIcon
+foreign import _bsChatSquareDots :: ReactIcon
 
 bsChatSquareDots :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsChatSquareDots = element (unsafeCoerce bsChatSquareDots_)
+bsChatSquareDots = element (unsafeCoerce _bsChatSquareDots)
 
-foreign import bsChatSquareDotsFill_ :: ReactIcon
+foreign import _bsChatSquareDotsFill :: ReactIcon
 
 bsChatSquareDotsFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsChatSquareDotsFill = element (unsafeCoerce bsChatSquareDotsFill_)
+bsChatSquareDotsFill = element (unsafeCoerce _bsChatSquareDotsFill)
 
-foreign import bsChatSquareFill_ :: ReactIcon
+foreign import _bsChatSquareFill :: ReactIcon
 
 bsChatSquareFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsChatSquareFill = element (unsafeCoerce bsChatSquareFill_)
+bsChatSquareFill = element (unsafeCoerce _bsChatSquareFill)
 
-foreign import bsChatSquareQuote_ :: ReactIcon
+foreign import _bsChatSquareQuote :: ReactIcon
 
 bsChatSquareQuote :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsChatSquareQuote = element (unsafeCoerce bsChatSquareQuote_)
+bsChatSquareQuote = element (unsafeCoerce _bsChatSquareQuote)
 
-foreign import bsChatSquareQuoteFill_ :: ReactIcon
+foreign import _bsChatSquareQuoteFill :: ReactIcon
 
 bsChatSquareQuoteFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsChatSquareQuoteFill = element (unsafeCoerce bsChatSquareQuoteFill_)
+bsChatSquareQuoteFill = element (unsafeCoerce _bsChatSquareQuoteFill)
 
-foreign import bsChatSquareText_ :: ReactIcon
+foreign import _bsChatSquareText :: ReactIcon
 
 bsChatSquareText :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsChatSquareText = element (unsafeCoerce bsChatSquareText_)
+bsChatSquareText = element (unsafeCoerce _bsChatSquareText)
 
-foreign import bsChatSquareTextFill_ :: ReactIcon
+foreign import _bsChatSquareTextFill :: ReactIcon
 
 bsChatSquareTextFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsChatSquareTextFill = element (unsafeCoerce bsChatSquareTextFill_)
+bsChatSquareTextFill = element (unsafeCoerce _bsChatSquareTextFill)
 
-foreign import bsChatText_ :: ReactIcon
+foreign import _bsChatText :: ReactIcon
 
 bsChatText :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsChatText = element (unsafeCoerce bsChatText_)
+bsChatText = element (unsafeCoerce _bsChatText)
 
-foreign import bsChatTextFill_ :: ReactIcon
+foreign import _bsChatTextFill :: ReactIcon
 
 bsChatTextFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsChatTextFill = element (unsafeCoerce bsChatTextFill_)
+bsChatTextFill = element (unsafeCoerce _bsChatTextFill)
 
-foreign import bsCheck_ :: ReactIcon
+foreign import _bsCheck :: ReactIcon
 
 bsCheck :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCheck = element (unsafeCoerce bsCheck_)
+bsCheck = element (unsafeCoerce _bsCheck)
 
-foreign import bsCheckAll_ :: ReactIcon
+foreign import _bsCheckAll :: ReactIcon
 
 bsCheckAll :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCheckAll = element (unsafeCoerce bsCheckAll_)
+bsCheckAll = element (unsafeCoerce _bsCheckAll)
 
-foreign import bsCheckCircle_ :: ReactIcon
+foreign import _bsCheckCircle :: ReactIcon
 
 bsCheckCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCheckCircle = element (unsafeCoerce bsCheckCircle_)
+bsCheckCircle = element (unsafeCoerce _bsCheckCircle)
 
-foreign import bsCheckCircleFill_ :: ReactIcon
+foreign import _bsCheckCircleFill :: ReactIcon
 
 bsCheckCircleFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCheckCircleFill = element (unsafeCoerce bsCheckCircleFill_)
+bsCheckCircleFill = element (unsafeCoerce _bsCheckCircleFill)
 
-foreign import bsCheckLg_ :: ReactIcon
+foreign import _bsCheckLg :: ReactIcon
 
 bsCheckLg :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCheckLg = element (unsafeCoerce bsCheckLg_)
+bsCheckLg = element (unsafeCoerce _bsCheckLg)
 
-foreign import bsCheckSquare_ :: ReactIcon
+foreign import _bsCheckSquare :: ReactIcon
 
 bsCheckSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCheckSquare = element (unsafeCoerce bsCheckSquare_)
+bsCheckSquare = element (unsafeCoerce _bsCheckSquare)
 
-foreign import bsCheckSquareFill_ :: ReactIcon
+foreign import _bsCheckSquareFill :: ReactIcon
 
 bsCheckSquareFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCheckSquareFill = element (unsafeCoerce bsCheckSquareFill_)
+bsCheckSquareFill = element (unsafeCoerce _bsCheckSquareFill)
 
-foreign import bsChevronBarContract_ :: ReactIcon
+foreign import _bsChevronBarContract :: ReactIcon
 
 bsChevronBarContract :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsChevronBarContract = element (unsafeCoerce bsChevronBarContract_)
+bsChevronBarContract = element (unsafeCoerce _bsChevronBarContract)
 
-foreign import bsChevronBarDown_ :: ReactIcon
+foreign import _bsChevronBarDown :: ReactIcon
 
 bsChevronBarDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsChevronBarDown = element (unsafeCoerce bsChevronBarDown_)
+bsChevronBarDown = element (unsafeCoerce _bsChevronBarDown)
 
-foreign import bsChevronBarExpand_ :: ReactIcon
+foreign import _bsChevronBarExpand :: ReactIcon
 
 bsChevronBarExpand :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsChevronBarExpand = element (unsafeCoerce bsChevronBarExpand_)
+bsChevronBarExpand = element (unsafeCoerce _bsChevronBarExpand)
 
-foreign import bsChevronBarLeft_ :: ReactIcon
+foreign import _bsChevronBarLeft :: ReactIcon
 
 bsChevronBarLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsChevronBarLeft = element (unsafeCoerce bsChevronBarLeft_)
+bsChevronBarLeft = element (unsafeCoerce _bsChevronBarLeft)
 
-foreign import bsChevronBarRight_ :: ReactIcon
+foreign import _bsChevronBarRight :: ReactIcon
 
 bsChevronBarRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsChevronBarRight = element (unsafeCoerce bsChevronBarRight_)
+bsChevronBarRight = element (unsafeCoerce _bsChevronBarRight)
 
-foreign import bsChevronBarUp_ :: ReactIcon
+foreign import _bsChevronBarUp :: ReactIcon
 
 bsChevronBarUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsChevronBarUp = element (unsafeCoerce bsChevronBarUp_)
+bsChevronBarUp = element (unsafeCoerce _bsChevronBarUp)
 
-foreign import bsChevronCompactDown_ :: ReactIcon
+foreign import _bsChevronCompactDown :: ReactIcon
 
 bsChevronCompactDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsChevronCompactDown = element (unsafeCoerce bsChevronCompactDown_)
+bsChevronCompactDown = element (unsafeCoerce _bsChevronCompactDown)
 
-foreign import bsChevronCompactLeft_ :: ReactIcon
+foreign import _bsChevronCompactLeft :: ReactIcon
 
 bsChevronCompactLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsChevronCompactLeft = element (unsafeCoerce bsChevronCompactLeft_)
+bsChevronCompactLeft = element (unsafeCoerce _bsChevronCompactLeft)
 
-foreign import bsChevronCompactRight_ :: ReactIcon
+foreign import _bsChevronCompactRight :: ReactIcon
 
 bsChevronCompactRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsChevronCompactRight = element (unsafeCoerce bsChevronCompactRight_)
+bsChevronCompactRight = element (unsafeCoerce _bsChevronCompactRight)
 
-foreign import bsChevronCompactUp_ :: ReactIcon
+foreign import _bsChevronCompactUp :: ReactIcon
 
 bsChevronCompactUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsChevronCompactUp = element (unsafeCoerce bsChevronCompactUp_)
+bsChevronCompactUp = element (unsafeCoerce _bsChevronCompactUp)
 
-foreign import bsChevronContract_ :: ReactIcon
+foreign import _bsChevronContract :: ReactIcon
 
 bsChevronContract :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsChevronContract = element (unsafeCoerce bsChevronContract_)
+bsChevronContract = element (unsafeCoerce _bsChevronContract)
 
-foreign import bsChevronDoubleDown_ :: ReactIcon
+foreign import _bsChevronDoubleDown :: ReactIcon
 
 bsChevronDoubleDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsChevronDoubleDown = element (unsafeCoerce bsChevronDoubleDown_)
+bsChevronDoubleDown = element (unsafeCoerce _bsChevronDoubleDown)
 
-foreign import bsChevronDoubleLeft_ :: ReactIcon
+foreign import _bsChevronDoubleLeft :: ReactIcon
 
 bsChevronDoubleLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsChevronDoubleLeft = element (unsafeCoerce bsChevronDoubleLeft_)
+bsChevronDoubleLeft = element (unsafeCoerce _bsChevronDoubleLeft)
 
-foreign import bsChevronDoubleRight_ :: ReactIcon
+foreign import _bsChevronDoubleRight :: ReactIcon
 
 bsChevronDoubleRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsChevronDoubleRight = element (unsafeCoerce bsChevronDoubleRight_)
+bsChevronDoubleRight = element (unsafeCoerce _bsChevronDoubleRight)
 
-foreign import bsChevronDoubleUp_ :: ReactIcon
+foreign import _bsChevronDoubleUp :: ReactIcon
 
 bsChevronDoubleUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsChevronDoubleUp = element (unsafeCoerce bsChevronDoubleUp_)
+bsChevronDoubleUp = element (unsafeCoerce _bsChevronDoubleUp)
 
-foreign import bsChevronDown_ :: ReactIcon
+foreign import _bsChevronDown :: ReactIcon
 
 bsChevronDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsChevronDown = element (unsafeCoerce bsChevronDown_)
+bsChevronDown = element (unsafeCoerce _bsChevronDown)
 
-foreign import bsChevronExpand_ :: ReactIcon
+foreign import _bsChevronExpand :: ReactIcon
 
 bsChevronExpand :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsChevronExpand = element (unsafeCoerce bsChevronExpand_)
+bsChevronExpand = element (unsafeCoerce _bsChevronExpand)
 
-foreign import bsChevronLeft_ :: ReactIcon
+foreign import _bsChevronLeft :: ReactIcon
 
 bsChevronLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsChevronLeft = element (unsafeCoerce bsChevronLeft_)
+bsChevronLeft = element (unsafeCoerce _bsChevronLeft)
 
-foreign import bsChevronRight_ :: ReactIcon
+foreign import _bsChevronRight :: ReactIcon
 
 bsChevronRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsChevronRight = element (unsafeCoerce bsChevronRight_)
+bsChevronRight = element (unsafeCoerce _bsChevronRight)
 
-foreign import bsChevronUp_ :: ReactIcon
+foreign import _bsChevronUp :: ReactIcon
 
 bsChevronUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsChevronUp = element (unsafeCoerce bsChevronUp_)
+bsChevronUp = element (unsafeCoerce _bsChevronUp)
 
-foreign import bsCircle_ :: ReactIcon
+foreign import _bsCircle :: ReactIcon
 
 bsCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCircle = element (unsafeCoerce bsCircle_)
+bsCircle = element (unsafeCoerce _bsCircle)
 
-foreign import bsCircleFill_ :: ReactIcon
+foreign import _bsCircleFill :: ReactIcon
 
 bsCircleFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCircleFill = element (unsafeCoerce bsCircleFill_)
+bsCircleFill = element (unsafeCoerce _bsCircleFill)
 
-foreign import bsCircleHalf_ :: ReactIcon
+foreign import _bsCircleHalf :: ReactIcon
 
 bsCircleHalf :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCircleHalf = element (unsafeCoerce bsCircleHalf_)
+bsCircleHalf = element (unsafeCoerce _bsCircleHalf)
 
-foreign import bsCircleSquare_ :: ReactIcon
+foreign import _bsCircleSquare :: ReactIcon
 
 bsCircleSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCircleSquare = element (unsafeCoerce bsCircleSquare_)
+bsCircleSquare = element (unsafeCoerce _bsCircleSquare)
 
-foreign import bsClipboard_ :: ReactIcon
+foreign import _bsClipboard :: ReactIcon
 
 bsClipboard :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsClipboard = element (unsafeCoerce bsClipboard_)
+bsClipboard = element (unsafeCoerce _bsClipboard)
 
-foreign import bsClipboardCheck_ :: ReactIcon
+foreign import _bsClipboardCheck :: ReactIcon
 
 bsClipboardCheck :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsClipboardCheck = element (unsafeCoerce bsClipboardCheck_)
+bsClipboardCheck = element (unsafeCoerce _bsClipboardCheck)
 
-foreign import bsClipboardData_ :: ReactIcon
+foreign import _bsClipboardData :: ReactIcon
 
 bsClipboardData :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsClipboardData = element (unsafeCoerce bsClipboardData_)
+bsClipboardData = element (unsafeCoerce _bsClipboardData)
 
-foreign import bsClipboardMinus_ :: ReactIcon
+foreign import _bsClipboardMinus :: ReactIcon
 
 bsClipboardMinus :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsClipboardMinus = element (unsafeCoerce bsClipboardMinus_)
+bsClipboardMinus = element (unsafeCoerce _bsClipboardMinus)
 
-foreign import bsClipboardPlus_ :: ReactIcon
+foreign import _bsClipboardPlus :: ReactIcon
 
 bsClipboardPlus :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsClipboardPlus = element (unsafeCoerce bsClipboardPlus_)
+bsClipboardPlus = element (unsafeCoerce _bsClipboardPlus)
 
-foreign import bsClipboardX_ :: ReactIcon
+foreign import _bsClipboardX :: ReactIcon
 
 bsClipboardX :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsClipboardX = element (unsafeCoerce bsClipboardX_)
+bsClipboardX = element (unsafeCoerce _bsClipboardX)
 
-foreign import bsClock_ :: ReactIcon
+foreign import _bsClock :: ReactIcon
 
 bsClock :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsClock = element (unsafeCoerce bsClock_)
+bsClock = element (unsafeCoerce _bsClock)
 
-foreign import bsClockFill_ :: ReactIcon
+foreign import _bsClockFill :: ReactIcon
 
 bsClockFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsClockFill = element (unsafeCoerce bsClockFill_)
+bsClockFill = element (unsafeCoerce _bsClockFill)
 
-foreign import bsClockHistory_ :: ReactIcon
+foreign import _bsClockHistory :: ReactIcon
 
 bsClockHistory :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsClockHistory = element (unsafeCoerce bsClockHistory_)
+bsClockHistory = element (unsafeCoerce _bsClockHistory)
 
-foreign import bsCloud_ :: ReactIcon
+foreign import _bsCloud :: ReactIcon
 
 bsCloud :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCloud = element (unsafeCoerce bsCloud_)
+bsCloud = element (unsafeCoerce _bsCloud)
 
-foreign import bsCloudArrowDown_ :: ReactIcon
+foreign import _bsCloudArrowDown :: ReactIcon
 
 bsCloudArrowDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCloudArrowDown = element (unsafeCoerce bsCloudArrowDown_)
+bsCloudArrowDown = element (unsafeCoerce _bsCloudArrowDown)
 
-foreign import bsCloudArrowDownFill_ :: ReactIcon
+foreign import _bsCloudArrowDownFill :: ReactIcon
 
 bsCloudArrowDownFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCloudArrowDownFill = element (unsafeCoerce bsCloudArrowDownFill_)
+bsCloudArrowDownFill = element (unsafeCoerce _bsCloudArrowDownFill)
 
-foreign import bsCloudArrowUp_ :: ReactIcon
+foreign import _bsCloudArrowUp :: ReactIcon
 
 bsCloudArrowUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCloudArrowUp = element (unsafeCoerce bsCloudArrowUp_)
+bsCloudArrowUp = element (unsafeCoerce _bsCloudArrowUp)
 
-foreign import bsCloudArrowUpFill_ :: ReactIcon
+foreign import _bsCloudArrowUpFill :: ReactIcon
 
 bsCloudArrowUpFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCloudArrowUpFill = element (unsafeCoerce bsCloudArrowUpFill_)
+bsCloudArrowUpFill = element (unsafeCoerce _bsCloudArrowUpFill)
 
-foreign import bsCloudCheck_ :: ReactIcon
+foreign import _bsCloudCheck :: ReactIcon
 
 bsCloudCheck :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCloudCheck = element (unsafeCoerce bsCloudCheck_)
+bsCloudCheck = element (unsafeCoerce _bsCloudCheck)
 
-foreign import bsCloudCheckFill_ :: ReactIcon
+foreign import _bsCloudCheckFill :: ReactIcon
 
 bsCloudCheckFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCloudCheckFill = element (unsafeCoerce bsCloudCheckFill_)
+bsCloudCheckFill = element (unsafeCoerce _bsCloudCheckFill)
 
-foreign import bsCloudDownload_ :: ReactIcon
+foreign import _bsCloudDownload :: ReactIcon
 
 bsCloudDownload :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCloudDownload = element (unsafeCoerce bsCloudDownload_)
+bsCloudDownload = element (unsafeCoerce _bsCloudDownload)
 
-foreign import bsCloudDownloadFill_ :: ReactIcon
+foreign import _bsCloudDownloadFill :: ReactIcon
 
 bsCloudDownloadFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCloudDownloadFill = element (unsafeCoerce bsCloudDownloadFill_)
+bsCloudDownloadFill = element (unsafeCoerce _bsCloudDownloadFill)
 
-foreign import bsCloudDrizzle_ :: ReactIcon
+foreign import _bsCloudDrizzle :: ReactIcon
 
 bsCloudDrizzle :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCloudDrizzle = element (unsafeCoerce bsCloudDrizzle_)
+bsCloudDrizzle = element (unsafeCoerce _bsCloudDrizzle)
 
-foreign import bsCloudDrizzleFill_ :: ReactIcon
+foreign import _bsCloudDrizzleFill :: ReactIcon
 
 bsCloudDrizzleFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCloudDrizzleFill = element (unsafeCoerce bsCloudDrizzleFill_)
+bsCloudDrizzleFill = element (unsafeCoerce _bsCloudDrizzleFill)
 
-foreign import bsCloudFill_ :: ReactIcon
+foreign import _bsCloudFill :: ReactIcon
 
 bsCloudFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCloudFill = element (unsafeCoerce bsCloudFill_)
+bsCloudFill = element (unsafeCoerce _bsCloudFill)
 
-foreign import bsCloudFog_ :: ReactIcon
+foreign import _bsCloudFog :: ReactIcon
 
 bsCloudFog :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCloudFog = element (unsafeCoerce bsCloudFog_)
+bsCloudFog = element (unsafeCoerce _bsCloudFog)
 
-foreign import bsCloudFogFill_ :: ReactIcon
+foreign import _bsCloudFogFill :: ReactIcon
 
 bsCloudFogFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCloudFogFill = element (unsafeCoerce bsCloudFogFill_)
+bsCloudFogFill = element (unsafeCoerce _bsCloudFogFill)
 
-foreign import bsCloudHail_ :: ReactIcon
+foreign import _bsCloudHail :: ReactIcon
 
 bsCloudHail :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCloudHail = element (unsafeCoerce bsCloudHail_)
+bsCloudHail = element (unsafeCoerce _bsCloudHail)
 
-foreign import bsCloudHailFill_ :: ReactIcon
+foreign import _bsCloudHailFill :: ReactIcon
 
 bsCloudHailFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCloudHailFill = element (unsafeCoerce bsCloudHailFill_)
+bsCloudHailFill = element (unsafeCoerce _bsCloudHailFill)
 
-foreign import bsCloudHaze_ :: ReactIcon
+foreign import _bsCloudHaze :: ReactIcon
 
 bsCloudHaze :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCloudHaze = element (unsafeCoerce bsCloudHaze_)
+bsCloudHaze = element (unsafeCoerce _bsCloudHaze)
 
-foreign import bsCloudHazeFill_ :: ReactIcon
+foreign import _bsCloudHazeFill :: ReactIcon
 
 bsCloudHazeFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCloudHazeFill = element (unsafeCoerce bsCloudHazeFill_)
+bsCloudHazeFill = element (unsafeCoerce _bsCloudHazeFill)
 
-foreign import bsCloudLightning_ :: ReactIcon
+foreign import _bsCloudLightning :: ReactIcon
 
 bsCloudLightning :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCloudLightning = element (unsafeCoerce bsCloudLightning_)
+bsCloudLightning = element (unsafeCoerce _bsCloudLightning)
 
-foreign import bsCloudLightningFill_ :: ReactIcon
+foreign import _bsCloudLightningFill :: ReactIcon
 
 bsCloudLightningFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCloudLightningFill = element (unsafeCoerce bsCloudLightningFill_)
+bsCloudLightningFill = element (unsafeCoerce _bsCloudLightningFill)
 
-foreign import bsCloudLightningRain_ :: ReactIcon
+foreign import _bsCloudLightningRain :: ReactIcon
 
 bsCloudLightningRain :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCloudLightningRain = element (unsafeCoerce bsCloudLightningRain_)
+bsCloudLightningRain = element (unsafeCoerce _bsCloudLightningRain)
 
-foreign import bsCloudLightningRainFill_ :: ReactIcon
+foreign import _bsCloudLightningRainFill :: ReactIcon
 
 bsCloudLightningRainFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCloudLightningRainFill = element (unsafeCoerce bsCloudLightningRainFill_)
+bsCloudLightningRainFill = element (unsafeCoerce _bsCloudLightningRainFill)
 
-foreign import bsCloudMinus_ :: ReactIcon
+foreign import _bsCloudMinus :: ReactIcon
 
 bsCloudMinus :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCloudMinus = element (unsafeCoerce bsCloudMinus_)
+bsCloudMinus = element (unsafeCoerce _bsCloudMinus)
 
-foreign import bsCloudMinusFill_ :: ReactIcon
+foreign import _bsCloudMinusFill :: ReactIcon
 
 bsCloudMinusFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCloudMinusFill = element (unsafeCoerce bsCloudMinusFill_)
+bsCloudMinusFill = element (unsafeCoerce _bsCloudMinusFill)
 
-foreign import bsCloudMoon_ :: ReactIcon
+foreign import _bsCloudMoon :: ReactIcon
 
 bsCloudMoon :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCloudMoon = element (unsafeCoerce bsCloudMoon_)
+bsCloudMoon = element (unsafeCoerce _bsCloudMoon)
 
-foreign import bsCloudMoonFill_ :: ReactIcon
+foreign import _bsCloudMoonFill :: ReactIcon
 
 bsCloudMoonFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCloudMoonFill = element (unsafeCoerce bsCloudMoonFill_)
+bsCloudMoonFill = element (unsafeCoerce _bsCloudMoonFill)
 
-foreign import bsCloudPlus_ :: ReactIcon
+foreign import _bsCloudPlus :: ReactIcon
 
 bsCloudPlus :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCloudPlus = element (unsafeCoerce bsCloudPlus_)
+bsCloudPlus = element (unsafeCoerce _bsCloudPlus)
 
-foreign import bsCloudPlusFill_ :: ReactIcon
+foreign import _bsCloudPlusFill :: ReactIcon
 
 bsCloudPlusFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCloudPlusFill = element (unsafeCoerce bsCloudPlusFill_)
+bsCloudPlusFill = element (unsafeCoerce _bsCloudPlusFill)
 
-foreign import bsCloudRain_ :: ReactIcon
+foreign import _bsCloudRain :: ReactIcon
 
 bsCloudRain :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCloudRain = element (unsafeCoerce bsCloudRain_)
+bsCloudRain = element (unsafeCoerce _bsCloudRain)
 
-foreign import bsCloudRainFill_ :: ReactIcon
+foreign import _bsCloudRainFill :: ReactIcon
 
 bsCloudRainFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCloudRainFill = element (unsafeCoerce bsCloudRainFill_)
+bsCloudRainFill = element (unsafeCoerce _bsCloudRainFill)
 
-foreign import bsCloudRainHeavy_ :: ReactIcon
+foreign import _bsCloudRainHeavy :: ReactIcon
 
 bsCloudRainHeavy :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCloudRainHeavy = element (unsafeCoerce bsCloudRainHeavy_)
+bsCloudRainHeavy = element (unsafeCoerce _bsCloudRainHeavy)
 
-foreign import bsCloudRainHeavyFill_ :: ReactIcon
+foreign import _bsCloudRainHeavyFill :: ReactIcon
 
 bsCloudRainHeavyFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCloudRainHeavyFill = element (unsafeCoerce bsCloudRainHeavyFill_)
+bsCloudRainHeavyFill = element (unsafeCoerce _bsCloudRainHeavyFill)
 
-foreign import bsClouds_ :: ReactIcon
+foreign import _bsClouds :: ReactIcon
 
 bsClouds :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsClouds = element (unsafeCoerce bsClouds_)
+bsClouds = element (unsafeCoerce _bsClouds)
 
-foreign import bsCloudsFill_ :: ReactIcon
+foreign import _bsCloudsFill :: ReactIcon
 
 bsCloudsFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCloudsFill = element (unsafeCoerce bsCloudsFill_)
+bsCloudsFill = element (unsafeCoerce _bsCloudsFill)
 
-foreign import bsCloudSlash_ :: ReactIcon
+foreign import _bsCloudSlash :: ReactIcon
 
 bsCloudSlash :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCloudSlash = element (unsafeCoerce bsCloudSlash_)
+bsCloudSlash = element (unsafeCoerce _bsCloudSlash)
 
-foreign import bsCloudSlashFill_ :: ReactIcon
+foreign import _bsCloudSlashFill :: ReactIcon
 
 bsCloudSlashFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCloudSlashFill = element (unsafeCoerce bsCloudSlashFill_)
+bsCloudSlashFill = element (unsafeCoerce _bsCloudSlashFill)
 
-foreign import bsCloudSleet_ :: ReactIcon
+foreign import _bsCloudSleet :: ReactIcon
 
 bsCloudSleet :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCloudSleet = element (unsafeCoerce bsCloudSleet_)
+bsCloudSleet = element (unsafeCoerce _bsCloudSleet)
 
-foreign import bsCloudSleetFill_ :: ReactIcon
+foreign import _bsCloudSleetFill :: ReactIcon
 
 bsCloudSleetFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCloudSleetFill = element (unsafeCoerce bsCloudSleetFill_)
+bsCloudSleetFill = element (unsafeCoerce _bsCloudSleetFill)
 
-foreign import bsCloudSnow_ :: ReactIcon
+foreign import _bsCloudSnow :: ReactIcon
 
 bsCloudSnow :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCloudSnow = element (unsafeCoerce bsCloudSnow_)
+bsCloudSnow = element (unsafeCoerce _bsCloudSnow)
 
-foreign import bsCloudSnowFill_ :: ReactIcon
+foreign import _bsCloudSnowFill :: ReactIcon
 
 bsCloudSnowFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCloudSnowFill = element (unsafeCoerce bsCloudSnowFill_)
+bsCloudSnowFill = element (unsafeCoerce _bsCloudSnowFill)
 
-foreign import bsCloudSun_ :: ReactIcon
+foreign import _bsCloudSun :: ReactIcon
 
 bsCloudSun :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCloudSun = element (unsafeCoerce bsCloudSun_)
+bsCloudSun = element (unsafeCoerce _bsCloudSun)
 
-foreign import bsCloudSunFill_ :: ReactIcon
+foreign import _bsCloudSunFill :: ReactIcon
 
 bsCloudSunFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCloudSunFill = element (unsafeCoerce bsCloudSunFill_)
+bsCloudSunFill = element (unsafeCoerce _bsCloudSunFill)
 
-foreign import bsCloudUpload_ :: ReactIcon
+foreign import _bsCloudUpload :: ReactIcon
 
 bsCloudUpload :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCloudUpload = element (unsafeCoerce bsCloudUpload_)
+bsCloudUpload = element (unsafeCoerce _bsCloudUpload)
 
-foreign import bsCloudUploadFill_ :: ReactIcon
+foreign import _bsCloudUploadFill :: ReactIcon
 
 bsCloudUploadFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCloudUploadFill = element (unsafeCoerce bsCloudUploadFill_)
+bsCloudUploadFill = element (unsafeCoerce _bsCloudUploadFill)
 
-foreign import bsCloudy_ :: ReactIcon
+foreign import _bsCloudy :: ReactIcon
 
 bsCloudy :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCloudy = element (unsafeCoerce bsCloudy_)
+bsCloudy = element (unsafeCoerce _bsCloudy)
 
-foreign import bsCloudyFill_ :: ReactIcon
+foreign import _bsCloudyFill :: ReactIcon
 
 bsCloudyFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCloudyFill = element (unsafeCoerce bsCloudyFill_)
+bsCloudyFill = element (unsafeCoerce _bsCloudyFill)
 
-foreign import bsCode_ :: ReactIcon
+foreign import _bsCode :: ReactIcon
 
 bsCode :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCode = element (unsafeCoerce bsCode_)
+bsCode = element (unsafeCoerce _bsCode)
 
-foreign import bsCodeSlash_ :: ReactIcon
+foreign import _bsCodeSlash :: ReactIcon
 
 bsCodeSlash :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCodeSlash = element (unsafeCoerce bsCodeSlash_)
+bsCodeSlash = element (unsafeCoerce _bsCodeSlash)
 
-foreign import bsCodeSquare_ :: ReactIcon
+foreign import _bsCodeSquare :: ReactIcon
 
 bsCodeSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCodeSquare = element (unsafeCoerce bsCodeSquare_)
+bsCodeSquare = element (unsafeCoerce _bsCodeSquare)
 
-foreign import bsCoin_ :: ReactIcon
+foreign import _bsCoin :: ReactIcon
 
 bsCoin :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCoin = element (unsafeCoerce bsCoin_)
+bsCoin = element (unsafeCoerce _bsCoin)
 
-foreign import bsCollection_ :: ReactIcon
+foreign import _bsCollection :: ReactIcon
 
 bsCollection :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCollection = element (unsafeCoerce bsCollection_)
+bsCollection = element (unsafeCoerce _bsCollection)
 
-foreign import bsCollectionFill_ :: ReactIcon
+foreign import _bsCollectionFill :: ReactIcon
 
 bsCollectionFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCollectionFill = element (unsafeCoerce bsCollectionFill_)
+bsCollectionFill = element (unsafeCoerce _bsCollectionFill)
 
-foreign import bsCollectionPlay_ :: ReactIcon
+foreign import _bsCollectionPlay :: ReactIcon
 
 bsCollectionPlay :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCollectionPlay = element (unsafeCoerce bsCollectionPlay_)
+bsCollectionPlay = element (unsafeCoerce _bsCollectionPlay)
 
-foreign import bsCollectionPlayFill_ :: ReactIcon
+foreign import _bsCollectionPlayFill :: ReactIcon
 
 bsCollectionPlayFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCollectionPlayFill = element (unsafeCoerce bsCollectionPlayFill_)
+bsCollectionPlayFill = element (unsafeCoerce _bsCollectionPlayFill)
 
-foreign import bsColumns_ :: ReactIcon
+foreign import _bsColumns :: ReactIcon
 
 bsColumns :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsColumns = element (unsafeCoerce bsColumns_)
+bsColumns = element (unsafeCoerce _bsColumns)
 
-foreign import bsColumnsGap_ :: ReactIcon
+foreign import _bsColumnsGap :: ReactIcon
 
 bsColumnsGap :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsColumnsGap = element (unsafeCoerce bsColumnsGap_)
+bsColumnsGap = element (unsafeCoerce _bsColumnsGap)
 
-foreign import bsCommand_ :: ReactIcon
+foreign import _bsCommand :: ReactIcon
 
 bsCommand :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCommand = element (unsafeCoerce bsCommand_)
+bsCommand = element (unsafeCoerce _bsCommand)
 
-foreign import bsCompass_ :: ReactIcon
+foreign import _bsCompass :: ReactIcon
 
 bsCompass :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCompass = element (unsafeCoerce bsCompass_)
+bsCompass = element (unsafeCoerce _bsCompass)
 
-foreign import bsCompassFill_ :: ReactIcon
+foreign import _bsCompassFill :: ReactIcon
 
 bsCompassFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCompassFill = element (unsafeCoerce bsCompassFill_)
+bsCompassFill = element (unsafeCoerce _bsCompassFill)
 
-foreign import bsCone_ :: ReactIcon
+foreign import _bsCone :: ReactIcon
 
 bsCone :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCone = element (unsafeCoerce bsCone_)
+bsCone = element (unsafeCoerce _bsCone)
 
-foreign import bsConeStriped_ :: ReactIcon
+foreign import _bsConeStriped :: ReactIcon
 
 bsConeStriped :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsConeStriped = element (unsafeCoerce bsConeStriped_)
+bsConeStriped = element (unsafeCoerce _bsConeStriped)
 
-foreign import bsController_ :: ReactIcon
+foreign import _bsController :: ReactIcon
 
 bsController :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsController = element (unsafeCoerce bsController_)
+bsController = element (unsafeCoerce _bsController)
 
-foreign import bsCpu_ :: ReactIcon
+foreign import _bsCpu :: ReactIcon
 
 bsCpu :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCpu = element (unsafeCoerce bsCpu_)
+bsCpu = element (unsafeCoerce _bsCpu)
 
-foreign import bsCpuFill_ :: ReactIcon
+foreign import _bsCpuFill :: ReactIcon
 
 bsCpuFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCpuFill = element (unsafeCoerce bsCpuFill_)
+bsCpuFill = element (unsafeCoerce _bsCpuFill)
 
-foreign import bsCreditCard_ :: ReactIcon
+foreign import _bsCreditCard :: ReactIcon
 
 bsCreditCard :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCreditCard = element (unsafeCoerce bsCreditCard_)
+bsCreditCard = element (unsafeCoerce _bsCreditCard)
 
-foreign import bsCreditCardFill_ :: ReactIcon
+foreign import _bsCreditCardFill :: ReactIcon
 
 bsCreditCardFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCreditCardFill = element (unsafeCoerce bsCreditCardFill_)
+bsCreditCardFill = element (unsafeCoerce _bsCreditCardFill)
 
-foreign import bsCrop_ :: ReactIcon
+foreign import _bsCrop :: ReactIcon
 
 bsCrop :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCrop = element (unsafeCoerce bsCrop_)
+bsCrop = element (unsafeCoerce _bsCrop)
 
-foreign import bsCup_ :: ReactIcon
+foreign import _bsCup :: ReactIcon
 
 bsCup :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCup = element (unsafeCoerce bsCup_)
+bsCup = element (unsafeCoerce _bsCup)
 
-foreign import bsCupFill_ :: ReactIcon
+foreign import _bsCupFill :: ReactIcon
 
 bsCupFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCupFill = element (unsafeCoerce bsCupFill_)
+bsCupFill = element (unsafeCoerce _bsCupFill)
 
-foreign import bsCupStraw_ :: ReactIcon
+foreign import _bsCupStraw :: ReactIcon
 
 bsCupStraw :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCupStraw = element (unsafeCoerce bsCupStraw_)
+bsCupStraw = element (unsafeCoerce _bsCupStraw)
 
-foreign import bsCurrencyBitcoin_ :: ReactIcon
+foreign import _bsCurrencyBitcoin :: ReactIcon
 
 bsCurrencyBitcoin :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCurrencyBitcoin = element (unsafeCoerce bsCurrencyBitcoin_)
+bsCurrencyBitcoin = element (unsafeCoerce _bsCurrencyBitcoin)
 
-foreign import bsCurrencyDollar_ :: ReactIcon
+foreign import _bsCurrencyDollar :: ReactIcon
 
 bsCurrencyDollar :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCurrencyDollar = element (unsafeCoerce bsCurrencyDollar_)
+bsCurrencyDollar = element (unsafeCoerce _bsCurrencyDollar)
 
-foreign import bsCurrencyEuro_ :: ReactIcon
+foreign import _bsCurrencyEuro :: ReactIcon
 
 bsCurrencyEuro :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCurrencyEuro = element (unsafeCoerce bsCurrencyEuro_)
+bsCurrencyEuro = element (unsafeCoerce _bsCurrencyEuro)
 
-foreign import bsCurrencyExchange_ :: ReactIcon
+foreign import _bsCurrencyExchange :: ReactIcon
 
 bsCurrencyExchange :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCurrencyExchange = element (unsafeCoerce bsCurrencyExchange_)
+bsCurrencyExchange = element (unsafeCoerce _bsCurrencyExchange)
 
-foreign import bsCurrencyPound_ :: ReactIcon
+foreign import _bsCurrencyPound :: ReactIcon
 
 bsCurrencyPound :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCurrencyPound = element (unsafeCoerce bsCurrencyPound_)
+bsCurrencyPound = element (unsafeCoerce _bsCurrencyPound)
 
-foreign import bsCurrencyYen_ :: ReactIcon
+foreign import _bsCurrencyYen :: ReactIcon
 
 bsCurrencyYen :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCurrencyYen = element (unsafeCoerce bsCurrencyYen_)
+bsCurrencyYen = element (unsafeCoerce _bsCurrencyYen)
 
-foreign import bsCursor_ :: ReactIcon
+foreign import _bsCursor :: ReactIcon
 
 bsCursor :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCursor = element (unsafeCoerce bsCursor_)
+bsCursor = element (unsafeCoerce _bsCursor)
 
-foreign import bsCursorFill_ :: ReactIcon
+foreign import _bsCursorFill :: ReactIcon
 
 bsCursorFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCursorFill = element (unsafeCoerce bsCursorFill_)
+bsCursorFill = element (unsafeCoerce _bsCursorFill)
 
-foreign import bsCursorText_ :: ReactIcon
+foreign import _bsCursorText :: ReactIcon
 
 bsCursorText :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsCursorText = element (unsafeCoerce bsCursorText_)
+bsCursorText = element (unsafeCoerce _bsCursorText)
 
-foreign import bsDash_ :: ReactIcon
+foreign import _bsDash :: ReactIcon
 
 bsDash :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsDash = element (unsafeCoerce bsDash_)
+bsDash = element (unsafeCoerce _bsDash)
 
-foreign import bsDashCircle_ :: ReactIcon
+foreign import _bsDashCircle :: ReactIcon
 
 bsDashCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsDashCircle = element (unsafeCoerce bsDashCircle_)
+bsDashCircle = element (unsafeCoerce _bsDashCircle)
 
-foreign import bsDashCircleDotted_ :: ReactIcon
+foreign import _bsDashCircleDotted :: ReactIcon
 
 bsDashCircleDotted :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsDashCircleDotted = element (unsafeCoerce bsDashCircleDotted_)
+bsDashCircleDotted = element (unsafeCoerce _bsDashCircleDotted)
 
-foreign import bsDashCircleFill_ :: ReactIcon
+foreign import _bsDashCircleFill :: ReactIcon
 
 bsDashCircleFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsDashCircleFill = element (unsafeCoerce bsDashCircleFill_)
+bsDashCircleFill = element (unsafeCoerce _bsDashCircleFill)
 
-foreign import bsDashLg_ :: ReactIcon
+foreign import _bsDashLg :: ReactIcon
 
 bsDashLg :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsDashLg = element (unsafeCoerce bsDashLg_)
+bsDashLg = element (unsafeCoerce _bsDashLg)
 
-foreign import bsDashSquare_ :: ReactIcon
+foreign import _bsDashSquare :: ReactIcon
 
 bsDashSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsDashSquare = element (unsafeCoerce bsDashSquare_)
+bsDashSquare = element (unsafeCoerce _bsDashSquare)
 
-foreign import bsDashSquareDotted_ :: ReactIcon
+foreign import _bsDashSquareDotted :: ReactIcon
 
 bsDashSquareDotted :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsDashSquareDotted = element (unsafeCoerce bsDashSquareDotted_)
+bsDashSquareDotted = element (unsafeCoerce _bsDashSquareDotted)
 
-foreign import bsDashSquareFill_ :: ReactIcon
+foreign import _bsDashSquareFill :: ReactIcon
 
 bsDashSquareFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsDashSquareFill = element (unsafeCoerce bsDashSquareFill_)
+bsDashSquareFill = element (unsafeCoerce _bsDashSquareFill)
 
-foreign import bsDiamond_ :: ReactIcon
+foreign import _bsDiamond :: ReactIcon
 
 bsDiamond :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsDiamond = element (unsafeCoerce bsDiamond_)
+bsDiamond = element (unsafeCoerce _bsDiamond)
 
-foreign import bsDiamondFill_ :: ReactIcon
+foreign import _bsDiamondFill :: ReactIcon
 
 bsDiamondFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsDiamondFill = element (unsafeCoerce bsDiamondFill_)
+bsDiamondFill = element (unsafeCoerce _bsDiamondFill)
 
-foreign import bsDiamondHalf_ :: ReactIcon
+foreign import _bsDiamondHalf :: ReactIcon
 
 bsDiamondHalf :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsDiamondHalf = element (unsafeCoerce bsDiamondHalf_)
+bsDiamondHalf = element (unsafeCoerce _bsDiamondHalf)
 
-foreign import bsDisc_ :: ReactIcon
+foreign import _bsDisc :: ReactIcon
 
 bsDisc :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsDisc = element (unsafeCoerce bsDisc_)
+bsDisc = element (unsafeCoerce _bsDisc)
 
-foreign import bsDiscFill_ :: ReactIcon
+foreign import _bsDiscFill :: ReactIcon
 
 bsDiscFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsDiscFill = element (unsafeCoerce bsDiscFill_)
+bsDiscFill = element (unsafeCoerce _bsDiscFill)
 
-foreign import bsDiscord_ :: ReactIcon
+foreign import _bsDiscord :: ReactIcon
 
 bsDiscord :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsDiscord = element (unsafeCoerce bsDiscord_)
+bsDiscord = element (unsafeCoerce _bsDiscord)
 
-foreign import bsDisplay_ :: ReactIcon
+foreign import _bsDisplay :: ReactIcon
 
 bsDisplay :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsDisplay = element (unsafeCoerce bsDisplay_)
+bsDisplay = element (unsafeCoerce _bsDisplay)
 
-foreign import bsDisplayFill_ :: ReactIcon
+foreign import _bsDisplayFill :: ReactIcon
 
 bsDisplayFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsDisplayFill = element (unsafeCoerce bsDisplayFill_)
+bsDisplayFill = element (unsafeCoerce _bsDisplayFill)
 
-foreign import bsDistributeHorizontal_ :: ReactIcon
+foreign import _bsDistributeHorizontal :: ReactIcon
 
 bsDistributeHorizontal :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsDistributeHorizontal = element (unsafeCoerce bsDistributeHorizontal_)
+bsDistributeHorizontal = element (unsafeCoerce _bsDistributeHorizontal)
 
-foreign import bsDistributeVertical_ :: ReactIcon
+foreign import _bsDistributeVertical :: ReactIcon
 
 bsDistributeVertical :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsDistributeVertical = element (unsafeCoerce bsDistributeVertical_)
+bsDistributeVertical = element (unsafeCoerce _bsDistributeVertical)
 
-foreign import bsDoorClosed_ :: ReactIcon
+foreign import _bsDoorClosed :: ReactIcon
 
 bsDoorClosed :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsDoorClosed = element (unsafeCoerce bsDoorClosed_)
+bsDoorClosed = element (unsafeCoerce _bsDoorClosed)
 
-foreign import bsDoorClosedFill_ :: ReactIcon
+foreign import _bsDoorClosedFill :: ReactIcon
 
 bsDoorClosedFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsDoorClosedFill = element (unsafeCoerce bsDoorClosedFill_)
+bsDoorClosedFill = element (unsafeCoerce _bsDoorClosedFill)
 
-foreign import bsDoorOpen_ :: ReactIcon
+foreign import _bsDoorOpen :: ReactIcon
 
 bsDoorOpen :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsDoorOpen = element (unsafeCoerce bsDoorOpen_)
+bsDoorOpen = element (unsafeCoerce _bsDoorOpen)
 
-foreign import bsDoorOpenFill_ :: ReactIcon
+foreign import _bsDoorOpenFill :: ReactIcon
 
 bsDoorOpenFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsDoorOpenFill = element (unsafeCoerce bsDoorOpenFill_)
+bsDoorOpenFill = element (unsafeCoerce _bsDoorOpenFill)
 
-foreign import bsDot_ :: ReactIcon
+foreign import _bsDot :: ReactIcon
 
 bsDot :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsDot = element (unsafeCoerce bsDot_)
+bsDot = element (unsafeCoerce _bsDot)
 
-foreign import bsDownload_ :: ReactIcon
+foreign import _bsDownload :: ReactIcon
 
 bsDownload :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsDownload = element (unsafeCoerce bsDownload_)
+bsDownload = element (unsafeCoerce _bsDownload)
 
-foreign import bsDribbble_ :: ReactIcon
+foreign import _bsDribbble :: ReactIcon
 
 bsDribbble :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsDribbble = element (unsafeCoerce bsDribbble_)
+bsDribbble = element (unsafeCoerce _bsDribbble)
 
-foreign import bsDroplet_ :: ReactIcon
+foreign import _bsDroplet :: ReactIcon
 
 bsDroplet :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsDroplet = element (unsafeCoerce bsDroplet_)
+bsDroplet = element (unsafeCoerce _bsDroplet)
 
-foreign import bsDropletFill_ :: ReactIcon
+foreign import _bsDropletFill :: ReactIcon
 
 bsDropletFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsDropletFill = element (unsafeCoerce bsDropletFill_)
+bsDropletFill = element (unsafeCoerce _bsDropletFill)
 
-foreign import bsDropletHalf_ :: ReactIcon
+foreign import _bsDropletHalf :: ReactIcon
 
 bsDropletHalf :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsDropletHalf = element (unsafeCoerce bsDropletHalf_)
+bsDropletHalf = element (unsafeCoerce _bsDropletHalf)
 
-foreign import bsEarbuds_ :: ReactIcon
+foreign import _bsEarbuds :: ReactIcon
 
 bsEarbuds :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsEarbuds = element (unsafeCoerce bsEarbuds_)
+bsEarbuds = element (unsafeCoerce _bsEarbuds)
 
-foreign import bsEasel_ :: ReactIcon
+foreign import _bsEasel :: ReactIcon
 
 bsEasel :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsEasel = element (unsafeCoerce bsEasel_)
+bsEasel = element (unsafeCoerce _bsEasel)
 
-foreign import bsEaselFill_ :: ReactIcon
+foreign import _bsEaselFill :: ReactIcon
 
 bsEaselFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsEaselFill = element (unsafeCoerce bsEaselFill_)
+bsEaselFill = element (unsafeCoerce _bsEaselFill)
 
-foreign import bsEgg_ :: ReactIcon
+foreign import _bsEgg :: ReactIcon
 
 bsEgg :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsEgg = element (unsafeCoerce bsEgg_)
+bsEgg = element (unsafeCoerce _bsEgg)
 
-foreign import bsEggFill_ :: ReactIcon
+foreign import _bsEggFill :: ReactIcon
 
 bsEggFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsEggFill = element (unsafeCoerce bsEggFill_)
+bsEggFill = element (unsafeCoerce _bsEggFill)
 
-foreign import bsEggFried_ :: ReactIcon
+foreign import _bsEggFried :: ReactIcon
 
 bsEggFried :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsEggFried = element (unsafeCoerce bsEggFried_)
+bsEggFried = element (unsafeCoerce _bsEggFried)
 
-foreign import bsEject_ :: ReactIcon
+foreign import _bsEject :: ReactIcon
 
 bsEject :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsEject = element (unsafeCoerce bsEject_)
+bsEject = element (unsafeCoerce _bsEject)
 
-foreign import bsEjectFill_ :: ReactIcon
+foreign import _bsEjectFill :: ReactIcon
 
 bsEjectFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsEjectFill = element (unsafeCoerce bsEjectFill_)
+bsEjectFill = element (unsafeCoerce _bsEjectFill)
 
-foreign import bsEmojiAngry_ :: ReactIcon
+foreign import _bsEmojiAngry :: ReactIcon
 
 bsEmojiAngry :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsEmojiAngry = element (unsafeCoerce bsEmojiAngry_)
+bsEmojiAngry = element (unsafeCoerce _bsEmojiAngry)
 
-foreign import bsEmojiAngryFill_ :: ReactIcon
+foreign import _bsEmojiAngryFill :: ReactIcon
 
 bsEmojiAngryFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsEmojiAngryFill = element (unsafeCoerce bsEmojiAngryFill_)
+bsEmojiAngryFill = element (unsafeCoerce _bsEmojiAngryFill)
 
-foreign import bsEmojiDizzy_ :: ReactIcon
+foreign import _bsEmojiDizzy :: ReactIcon
 
 bsEmojiDizzy :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsEmojiDizzy = element (unsafeCoerce bsEmojiDizzy_)
+bsEmojiDizzy = element (unsafeCoerce _bsEmojiDizzy)
 
-foreign import bsEmojiDizzyFill_ :: ReactIcon
+foreign import _bsEmojiDizzyFill :: ReactIcon
 
 bsEmojiDizzyFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsEmojiDizzyFill = element (unsafeCoerce bsEmojiDizzyFill_)
+bsEmojiDizzyFill = element (unsafeCoerce _bsEmojiDizzyFill)
 
-foreign import bsEmojiExpressionless_ :: ReactIcon
+foreign import _bsEmojiExpressionless :: ReactIcon
 
 bsEmojiExpressionless :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsEmojiExpressionless = element (unsafeCoerce bsEmojiExpressionless_)
+bsEmojiExpressionless = element (unsafeCoerce _bsEmojiExpressionless)
 
-foreign import bsEmojiExpressionlessFill_ :: ReactIcon
+foreign import _bsEmojiExpressionlessFill :: ReactIcon
 
 bsEmojiExpressionlessFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsEmojiExpressionlessFill = element (unsafeCoerce bsEmojiExpressionlessFill_)
+bsEmojiExpressionlessFill = element (unsafeCoerce _bsEmojiExpressionlessFill)
 
-foreign import bsEmojiFrown_ :: ReactIcon
+foreign import _bsEmojiFrown :: ReactIcon
 
 bsEmojiFrown :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsEmojiFrown = element (unsafeCoerce bsEmojiFrown_)
+bsEmojiFrown = element (unsafeCoerce _bsEmojiFrown)
 
-foreign import bsEmojiFrownFill_ :: ReactIcon
+foreign import _bsEmojiFrownFill :: ReactIcon
 
 bsEmojiFrownFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsEmojiFrownFill = element (unsafeCoerce bsEmojiFrownFill_)
+bsEmojiFrownFill = element (unsafeCoerce _bsEmojiFrownFill)
 
-foreign import bsEmojiHeartEyes_ :: ReactIcon
+foreign import _bsEmojiHeartEyes :: ReactIcon
 
 bsEmojiHeartEyes :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsEmojiHeartEyes = element (unsafeCoerce bsEmojiHeartEyes_)
+bsEmojiHeartEyes = element (unsafeCoerce _bsEmojiHeartEyes)
 
-foreign import bsEmojiHeartEyesFill_ :: ReactIcon
+foreign import _bsEmojiHeartEyesFill :: ReactIcon
 
 bsEmojiHeartEyesFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsEmojiHeartEyesFill = element (unsafeCoerce bsEmojiHeartEyesFill_)
+bsEmojiHeartEyesFill = element (unsafeCoerce _bsEmojiHeartEyesFill)
 
-foreign import bsEmojiLaughing_ :: ReactIcon
+foreign import _bsEmojiLaughing :: ReactIcon
 
 bsEmojiLaughing :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsEmojiLaughing = element (unsafeCoerce bsEmojiLaughing_)
+bsEmojiLaughing = element (unsafeCoerce _bsEmojiLaughing)
 
-foreign import bsEmojiLaughingFill_ :: ReactIcon
+foreign import _bsEmojiLaughingFill :: ReactIcon
 
 bsEmojiLaughingFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsEmojiLaughingFill = element (unsafeCoerce bsEmojiLaughingFill_)
+bsEmojiLaughingFill = element (unsafeCoerce _bsEmojiLaughingFill)
 
-foreign import bsEmojiNeutral_ :: ReactIcon
+foreign import _bsEmojiNeutral :: ReactIcon
 
 bsEmojiNeutral :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsEmojiNeutral = element (unsafeCoerce bsEmojiNeutral_)
+bsEmojiNeutral = element (unsafeCoerce _bsEmojiNeutral)
 
-foreign import bsEmojiNeutralFill_ :: ReactIcon
+foreign import _bsEmojiNeutralFill :: ReactIcon
 
 bsEmojiNeutralFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsEmojiNeutralFill = element (unsafeCoerce bsEmojiNeutralFill_)
+bsEmojiNeutralFill = element (unsafeCoerce _bsEmojiNeutralFill)
 
-foreign import bsEmojiSmile_ :: ReactIcon
+foreign import _bsEmojiSmile :: ReactIcon
 
 bsEmojiSmile :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsEmojiSmile = element (unsafeCoerce bsEmojiSmile_)
+bsEmojiSmile = element (unsafeCoerce _bsEmojiSmile)
 
-foreign import bsEmojiSmileFill_ :: ReactIcon
+foreign import _bsEmojiSmileFill :: ReactIcon
 
 bsEmojiSmileFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsEmojiSmileFill = element (unsafeCoerce bsEmojiSmileFill_)
+bsEmojiSmileFill = element (unsafeCoerce _bsEmojiSmileFill)
 
-foreign import bsEmojiSmileUpsideDown_ :: ReactIcon
+foreign import _bsEmojiSmileUpsideDown :: ReactIcon
 
 bsEmojiSmileUpsideDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsEmojiSmileUpsideDown = element (unsafeCoerce bsEmojiSmileUpsideDown_)
+bsEmojiSmileUpsideDown = element (unsafeCoerce _bsEmojiSmileUpsideDown)
 
-foreign import bsEmojiSmileUpsideDownFill_ :: ReactIcon
+foreign import _bsEmojiSmileUpsideDownFill :: ReactIcon
 
 bsEmojiSmileUpsideDownFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsEmojiSmileUpsideDownFill = element (unsafeCoerce bsEmojiSmileUpsideDownFill_)
+bsEmojiSmileUpsideDownFill = element (unsafeCoerce _bsEmojiSmileUpsideDownFill)
 
-foreign import bsEmojiSunglasses_ :: ReactIcon
+foreign import _bsEmojiSunglasses :: ReactIcon
 
 bsEmojiSunglasses :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsEmojiSunglasses = element (unsafeCoerce bsEmojiSunglasses_)
+bsEmojiSunglasses = element (unsafeCoerce _bsEmojiSunglasses)
 
-foreign import bsEmojiSunglassesFill_ :: ReactIcon
+foreign import _bsEmojiSunglassesFill :: ReactIcon
 
 bsEmojiSunglassesFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsEmojiSunglassesFill = element (unsafeCoerce bsEmojiSunglassesFill_)
+bsEmojiSunglassesFill = element (unsafeCoerce _bsEmojiSunglassesFill)
 
-foreign import bsEmojiWink_ :: ReactIcon
+foreign import _bsEmojiWink :: ReactIcon
 
 bsEmojiWink :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsEmojiWink = element (unsafeCoerce bsEmojiWink_)
+bsEmojiWink = element (unsafeCoerce _bsEmojiWink)
 
-foreign import bsEmojiWinkFill_ :: ReactIcon
+foreign import _bsEmojiWinkFill :: ReactIcon
 
 bsEmojiWinkFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsEmojiWinkFill = element (unsafeCoerce bsEmojiWinkFill_)
+bsEmojiWinkFill = element (unsafeCoerce _bsEmojiWinkFill)
 
-foreign import bsEnvelope_ :: ReactIcon
+foreign import _bsEnvelope :: ReactIcon
 
 bsEnvelope :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsEnvelope = element (unsafeCoerce bsEnvelope_)
+bsEnvelope = element (unsafeCoerce _bsEnvelope)
 
-foreign import bsEnvelopeFill_ :: ReactIcon
+foreign import _bsEnvelopeFill :: ReactIcon
 
 bsEnvelopeFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsEnvelopeFill = element (unsafeCoerce bsEnvelopeFill_)
+bsEnvelopeFill = element (unsafeCoerce _bsEnvelopeFill)
 
-foreign import bsEnvelopeOpen_ :: ReactIcon
+foreign import _bsEnvelopeOpen :: ReactIcon
 
 bsEnvelopeOpen :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsEnvelopeOpen = element (unsafeCoerce bsEnvelopeOpen_)
+bsEnvelopeOpen = element (unsafeCoerce _bsEnvelopeOpen)
 
-foreign import bsEnvelopeOpenFill_ :: ReactIcon
+foreign import _bsEnvelopeOpenFill :: ReactIcon
 
 bsEnvelopeOpenFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsEnvelopeOpenFill = element (unsafeCoerce bsEnvelopeOpenFill_)
+bsEnvelopeOpenFill = element (unsafeCoerce _bsEnvelopeOpenFill)
 
-foreign import bsEraser_ :: ReactIcon
+foreign import _bsEraser :: ReactIcon
 
 bsEraser :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsEraser = element (unsafeCoerce bsEraser_)
+bsEraser = element (unsafeCoerce _bsEraser)
 
-foreign import bsEraserFill_ :: ReactIcon
+foreign import _bsEraserFill :: ReactIcon
 
 bsEraserFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsEraserFill = element (unsafeCoerce bsEraserFill_)
+bsEraserFill = element (unsafeCoerce _bsEraserFill)
 
-foreign import bsExclamation_ :: ReactIcon
+foreign import _bsExclamation :: ReactIcon
 
 bsExclamation :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsExclamation = element (unsafeCoerce bsExclamation_)
+bsExclamation = element (unsafeCoerce _bsExclamation)
 
-foreign import bsExclamationCircle_ :: ReactIcon
+foreign import _bsExclamationCircle :: ReactIcon
 
 bsExclamationCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsExclamationCircle = element (unsafeCoerce bsExclamationCircle_)
+bsExclamationCircle = element (unsafeCoerce _bsExclamationCircle)
 
-foreign import bsExclamationCircleFill_ :: ReactIcon
+foreign import _bsExclamationCircleFill :: ReactIcon
 
 bsExclamationCircleFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsExclamationCircleFill = element (unsafeCoerce bsExclamationCircleFill_)
+bsExclamationCircleFill = element (unsafeCoerce _bsExclamationCircleFill)
 
-foreign import bsExclamationDiamond_ :: ReactIcon
+foreign import _bsExclamationDiamond :: ReactIcon
 
 bsExclamationDiamond :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsExclamationDiamond = element (unsafeCoerce bsExclamationDiamond_)
+bsExclamationDiamond = element (unsafeCoerce _bsExclamationDiamond)
 
-foreign import bsExclamationDiamondFill_ :: ReactIcon
+foreign import _bsExclamationDiamondFill :: ReactIcon
 
 bsExclamationDiamondFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsExclamationDiamondFill = element (unsafeCoerce bsExclamationDiamondFill_)
+bsExclamationDiamondFill = element (unsafeCoerce _bsExclamationDiamondFill)
 
-foreign import bsExclamationLg_ :: ReactIcon
+foreign import _bsExclamationLg :: ReactIcon
 
 bsExclamationLg :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsExclamationLg = element (unsafeCoerce bsExclamationLg_)
+bsExclamationLg = element (unsafeCoerce _bsExclamationLg)
 
-foreign import bsExclamationOctagon_ :: ReactIcon
+foreign import _bsExclamationOctagon :: ReactIcon
 
 bsExclamationOctagon :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsExclamationOctagon = element (unsafeCoerce bsExclamationOctagon_)
+bsExclamationOctagon = element (unsafeCoerce _bsExclamationOctagon)
 
-foreign import bsExclamationOctagonFill_ :: ReactIcon
+foreign import _bsExclamationOctagonFill :: ReactIcon
 
 bsExclamationOctagonFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsExclamationOctagonFill = element (unsafeCoerce bsExclamationOctagonFill_)
+bsExclamationOctagonFill = element (unsafeCoerce _bsExclamationOctagonFill)
 
-foreign import bsExclamationSquare_ :: ReactIcon
+foreign import _bsExclamationSquare :: ReactIcon
 
 bsExclamationSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsExclamationSquare = element (unsafeCoerce bsExclamationSquare_)
+bsExclamationSquare = element (unsafeCoerce _bsExclamationSquare)
 
-foreign import bsExclamationSquareFill_ :: ReactIcon
+foreign import _bsExclamationSquareFill :: ReactIcon
 
 bsExclamationSquareFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsExclamationSquareFill = element (unsafeCoerce bsExclamationSquareFill_)
+bsExclamationSquareFill = element (unsafeCoerce _bsExclamationSquareFill)
 
-foreign import bsExclamationTriangle_ :: ReactIcon
+foreign import _bsExclamationTriangle :: ReactIcon
 
 bsExclamationTriangle :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsExclamationTriangle = element (unsafeCoerce bsExclamationTriangle_)
+bsExclamationTriangle = element (unsafeCoerce _bsExclamationTriangle)
 
-foreign import bsExclamationTriangleFill_ :: ReactIcon
+foreign import _bsExclamationTriangleFill :: ReactIcon
 
 bsExclamationTriangleFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsExclamationTriangleFill = element (unsafeCoerce bsExclamationTriangleFill_)
+bsExclamationTriangleFill = element (unsafeCoerce _bsExclamationTriangleFill)
 
-foreign import bsExclude_ :: ReactIcon
+foreign import _bsExclude :: ReactIcon
 
 bsExclude :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsExclude = element (unsafeCoerce bsExclude_)
+bsExclude = element (unsafeCoerce _bsExclude)
 
-foreign import bsEye_ :: ReactIcon
+foreign import _bsEye :: ReactIcon
 
 bsEye :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsEye = element (unsafeCoerce bsEye_)
+bsEye = element (unsafeCoerce _bsEye)
 
-foreign import bsEyedropper_ :: ReactIcon
+foreign import _bsEyedropper :: ReactIcon
 
 bsEyedropper :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsEyedropper = element (unsafeCoerce bsEyedropper_)
+bsEyedropper = element (unsafeCoerce _bsEyedropper)
 
-foreign import bsEyeFill_ :: ReactIcon
+foreign import _bsEyeFill :: ReactIcon
 
 bsEyeFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsEyeFill = element (unsafeCoerce bsEyeFill_)
+bsEyeFill = element (unsafeCoerce _bsEyeFill)
 
-foreign import bsEyeglasses_ :: ReactIcon
+foreign import _bsEyeglasses :: ReactIcon
 
 bsEyeglasses :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsEyeglasses = element (unsafeCoerce bsEyeglasses_)
+bsEyeglasses = element (unsafeCoerce _bsEyeglasses)
 
-foreign import bsEyeSlash_ :: ReactIcon
+foreign import _bsEyeSlash :: ReactIcon
 
 bsEyeSlash :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsEyeSlash = element (unsafeCoerce bsEyeSlash_)
+bsEyeSlash = element (unsafeCoerce _bsEyeSlash)
 
-foreign import bsEyeSlashFill_ :: ReactIcon
+foreign import _bsEyeSlashFill :: ReactIcon
 
 bsEyeSlashFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsEyeSlashFill = element (unsafeCoerce bsEyeSlashFill_)
+bsEyeSlashFill = element (unsafeCoerce _bsEyeSlashFill)
 
-foreign import bsFacebook_ :: ReactIcon
+foreign import _bsFacebook :: ReactIcon
 
 bsFacebook :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFacebook = element (unsafeCoerce bsFacebook_)
+bsFacebook = element (unsafeCoerce _bsFacebook)
 
-foreign import bsFile_ :: ReactIcon
+foreign import _bsFile :: ReactIcon
 
 bsFile :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFile = element (unsafeCoerce bsFile_)
+bsFile = element (unsafeCoerce _bsFile)
 
-foreign import bsFileArrowDown_ :: ReactIcon
+foreign import _bsFileArrowDown :: ReactIcon
 
 bsFileArrowDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFileArrowDown = element (unsafeCoerce bsFileArrowDown_)
+bsFileArrowDown = element (unsafeCoerce _bsFileArrowDown)
 
-foreign import bsFileArrowDownFill_ :: ReactIcon
+foreign import _bsFileArrowDownFill :: ReactIcon
 
 bsFileArrowDownFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFileArrowDownFill = element (unsafeCoerce bsFileArrowDownFill_)
+bsFileArrowDownFill = element (unsafeCoerce _bsFileArrowDownFill)
 
-foreign import bsFileArrowUp_ :: ReactIcon
+foreign import _bsFileArrowUp :: ReactIcon
 
 bsFileArrowUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFileArrowUp = element (unsafeCoerce bsFileArrowUp_)
+bsFileArrowUp = element (unsafeCoerce _bsFileArrowUp)
 
-foreign import bsFileArrowUpFill_ :: ReactIcon
+foreign import _bsFileArrowUpFill :: ReactIcon
 
 bsFileArrowUpFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFileArrowUpFill = element (unsafeCoerce bsFileArrowUpFill_)
+bsFileArrowUpFill = element (unsafeCoerce _bsFileArrowUpFill)
 
-foreign import bsFileBarGraph_ :: ReactIcon
+foreign import _bsFileBarGraph :: ReactIcon
 
 bsFileBarGraph :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFileBarGraph = element (unsafeCoerce bsFileBarGraph_)
+bsFileBarGraph = element (unsafeCoerce _bsFileBarGraph)
 
-foreign import bsFileBarGraphFill_ :: ReactIcon
+foreign import _bsFileBarGraphFill :: ReactIcon
 
 bsFileBarGraphFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFileBarGraphFill = element (unsafeCoerce bsFileBarGraphFill_)
+bsFileBarGraphFill = element (unsafeCoerce _bsFileBarGraphFill)
 
-foreign import bsFileBinary_ :: ReactIcon
+foreign import _bsFileBinary :: ReactIcon
 
 bsFileBinary :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFileBinary = element (unsafeCoerce bsFileBinary_)
+bsFileBinary = element (unsafeCoerce _bsFileBinary)
 
-foreign import bsFileBinaryFill_ :: ReactIcon
+foreign import _bsFileBinaryFill :: ReactIcon
 
 bsFileBinaryFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFileBinaryFill = element (unsafeCoerce bsFileBinaryFill_)
+bsFileBinaryFill = element (unsafeCoerce _bsFileBinaryFill)
 
-foreign import bsFileBreak_ :: ReactIcon
+foreign import _bsFileBreak :: ReactIcon
 
 bsFileBreak :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFileBreak = element (unsafeCoerce bsFileBreak_)
+bsFileBreak = element (unsafeCoerce _bsFileBreak)
 
-foreign import bsFileBreakFill_ :: ReactIcon
+foreign import _bsFileBreakFill :: ReactIcon
 
 bsFileBreakFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFileBreakFill = element (unsafeCoerce bsFileBreakFill_)
+bsFileBreakFill = element (unsafeCoerce _bsFileBreakFill)
 
-foreign import bsFileCheck_ :: ReactIcon
+foreign import _bsFileCheck :: ReactIcon
 
 bsFileCheck :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFileCheck = element (unsafeCoerce bsFileCheck_)
+bsFileCheck = element (unsafeCoerce _bsFileCheck)
 
-foreign import bsFileCheckFill_ :: ReactIcon
+foreign import _bsFileCheckFill :: ReactIcon
 
 bsFileCheckFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFileCheckFill = element (unsafeCoerce bsFileCheckFill_)
+bsFileCheckFill = element (unsafeCoerce _bsFileCheckFill)
 
-foreign import bsFileCode_ :: ReactIcon
+foreign import _bsFileCode :: ReactIcon
 
 bsFileCode :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFileCode = element (unsafeCoerce bsFileCode_)
+bsFileCode = element (unsafeCoerce _bsFileCode)
 
-foreign import bsFileCodeFill_ :: ReactIcon
+foreign import _bsFileCodeFill :: ReactIcon
 
 bsFileCodeFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFileCodeFill = element (unsafeCoerce bsFileCodeFill_)
+bsFileCodeFill = element (unsafeCoerce _bsFileCodeFill)
 
-foreign import bsFileDiff_ :: ReactIcon
+foreign import _bsFileDiff :: ReactIcon
 
 bsFileDiff :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFileDiff = element (unsafeCoerce bsFileDiff_)
+bsFileDiff = element (unsafeCoerce _bsFileDiff)
 
-foreign import bsFileDiffFill_ :: ReactIcon
+foreign import _bsFileDiffFill :: ReactIcon
 
 bsFileDiffFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFileDiffFill = element (unsafeCoerce bsFileDiffFill_)
+bsFileDiffFill = element (unsafeCoerce _bsFileDiffFill)
 
-foreign import bsFileEarmark_ :: ReactIcon
+foreign import _bsFileEarmark :: ReactIcon
 
 bsFileEarmark :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFileEarmark = element (unsafeCoerce bsFileEarmark_)
+bsFileEarmark = element (unsafeCoerce _bsFileEarmark)
 
-foreign import bsFileEarmarkArrowDown_ :: ReactIcon
+foreign import _bsFileEarmarkArrowDown :: ReactIcon
 
 bsFileEarmarkArrowDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFileEarmarkArrowDown = element (unsafeCoerce bsFileEarmarkArrowDown_)
+bsFileEarmarkArrowDown = element (unsafeCoerce _bsFileEarmarkArrowDown)
 
-foreign import bsFileEarmarkArrowDownFill_ :: ReactIcon
+foreign import _bsFileEarmarkArrowDownFill :: ReactIcon
 
 bsFileEarmarkArrowDownFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFileEarmarkArrowDownFill = element (unsafeCoerce bsFileEarmarkArrowDownFill_)
+bsFileEarmarkArrowDownFill = element (unsafeCoerce _bsFileEarmarkArrowDownFill)
 
-foreign import bsFileEarmarkArrowUp_ :: ReactIcon
+foreign import _bsFileEarmarkArrowUp :: ReactIcon
 
 bsFileEarmarkArrowUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFileEarmarkArrowUp = element (unsafeCoerce bsFileEarmarkArrowUp_)
+bsFileEarmarkArrowUp = element (unsafeCoerce _bsFileEarmarkArrowUp)
 
-foreign import bsFileEarmarkArrowUpFill_ :: ReactIcon
+foreign import _bsFileEarmarkArrowUpFill :: ReactIcon
 
 bsFileEarmarkArrowUpFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFileEarmarkArrowUpFill = element (unsafeCoerce bsFileEarmarkArrowUpFill_)
+bsFileEarmarkArrowUpFill = element (unsafeCoerce _bsFileEarmarkArrowUpFill)
 
-foreign import bsFileEarmarkBarGraph_ :: ReactIcon
+foreign import _bsFileEarmarkBarGraph :: ReactIcon
 
 bsFileEarmarkBarGraph :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFileEarmarkBarGraph = element (unsafeCoerce bsFileEarmarkBarGraph_)
+bsFileEarmarkBarGraph = element (unsafeCoerce _bsFileEarmarkBarGraph)
 
-foreign import bsFileEarmarkBarGraphFill_ :: ReactIcon
+foreign import _bsFileEarmarkBarGraphFill :: ReactIcon
 
 bsFileEarmarkBarGraphFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFileEarmarkBarGraphFill = element (unsafeCoerce bsFileEarmarkBarGraphFill_)
+bsFileEarmarkBarGraphFill = element (unsafeCoerce _bsFileEarmarkBarGraphFill)
 
-foreign import bsFileEarmarkBinary_ :: ReactIcon
+foreign import _bsFileEarmarkBinary :: ReactIcon
 
 bsFileEarmarkBinary :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFileEarmarkBinary = element (unsafeCoerce bsFileEarmarkBinary_)
+bsFileEarmarkBinary = element (unsafeCoerce _bsFileEarmarkBinary)
 
-foreign import bsFileEarmarkBinaryFill_ :: ReactIcon
+foreign import _bsFileEarmarkBinaryFill :: ReactIcon
 
 bsFileEarmarkBinaryFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFileEarmarkBinaryFill = element (unsafeCoerce bsFileEarmarkBinaryFill_)
+bsFileEarmarkBinaryFill = element (unsafeCoerce _bsFileEarmarkBinaryFill)
 
-foreign import bsFileEarmarkBreak_ :: ReactIcon
+foreign import _bsFileEarmarkBreak :: ReactIcon
 
 bsFileEarmarkBreak :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFileEarmarkBreak = element (unsafeCoerce bsFileEarmarkBreak_)
+bsFileEarmarkBreak = element (unsafeCoerce _bsFileEarmarkBreak)
 
-foreign import bsFileEarmarkBreakFill_ :: ReactIcon
+foreign import _bsFileEarmarkBreakFill :: ReactIcon
 
 bsFileEarmarkBreakFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFileEarmarkBreakFill = element (unsafeCoerce bsFileEarmarkBreakFill_)
+bsFileEarmarkBreakFill = element (unsafeCoerce _bsFileEarmarkBreakFill)
 
-foreign import bsFileEarmarkCheck_ :: ReactIcon
+foreign import _bsFileEarmarkCheck :: ReactIcon
 
 bsFileEarmarkCheck :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFileEarmarkCheck = element (unsafeCoerce bsFileEarmarkCheck_)
+bsFileEarmarkCheck = element (unsafeCoerce _bsFileEarmarkCheck)
 
-foreign import bsFileEarmarkCheckFill_ :: ReactIcon
+foreign import _bsFileEarmarkCheckFill :: ReactIcon
 
 bsFileEarmarkCheckFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFileEarmarkCheckFill = element (unsafeCoerce bsFileEarmarkCheckFill_)
+bsFileEarmarkCheckFill = element (unsafeCoerce _bsFileEarmarkCheckFill)
 
-foreign import bsFileEarmarkCode_ :: ReactIcon
+foreign import _bsFileEarmarkCode :: ReactIcon
 
 bsFileEarmarkCode :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFileEarmarkCode = element (unsafeCoerce bsFileEarmarkCode_)
+bsFileEarmarkCode = element (unsafeCoerce _bsFileEarmarkCode)
 
-foreign import bsFileEarmarkCodeFill_ :: ReactIcon
+foreign import _bsFileEarmarkCodeFill :: ReactIcon
 
 bsFileEarmarkCodeFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFileEarmarkCodeFill = element (unsafeCoerce bsFileEarmarkCodeFill_)
+bsFileEarmarkCodeFill = element (unsafeCoerce _bsFileEarmarkCodeFill)
 
-foreign import bsFileEarmarkDiff_ :: ReactIcon
+foreign import _bsFileEarmarkDiff :: ReactIcon
 
 bsFileEarmarkDiff :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFileEarmarkDiff = element (unsafeCoerce bsFileEarmarkDiff_)
+bsFileEarmarkDiff = element (unsafeCoerce _bsFileEarmarkDiff)
 
-foreign import bsFileEarmarkDiffFill_ :: ReactIcon
+foreign import _bsFileEarmarkDiffFill :: ReactIcon
 
 bsFileEarmarkDiffFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFileEarmarkDiffFill = element (unsafeCoerce bsFileEarmarkDiffFill_)
+bsFileEarmarkDiffFill = element (unsafeCoerce _bsFileEarmarkDiffFill)
 
-foreign import bsFileEarmarkEasel_ :: ReactIcon
+foreign import _bsFileEarmarkEasel :: ReactIcon
 
 bsFileEarmarkEasel :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFileEarmarkEasel = element (unsafeCoerce bsFileEarmarkEasel_)
+bsFileEarmarkEasel = element (unsafeCoerce _bsFileEarmarkEasel)
 
-foreign import bsFileEarmarkEaselFill_ :: ReactIcon
+foreign import _bsFileEarmarkEaselFill :: ReactIcon
 
 bsFileEarmarkEaselFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFileEarmarkEaselFill = element (unsafeCoerce bsFileEarmarkEaselFill_)
+bsFileEarmarkEaselFill = element (unsafeCoerce _bsFileEarmarkEaselFill)
 
-foreign import bsFileEarmarkExcel_ :: ReactIcon
+foreign import _bsFileEarmarkExcel :: ReactIcon
 
 bsFileEarmarkExcel :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFileEarmarkExcel = element (unsafeCoerce bsFileEarmarkExcel_)
+bsFileEarmarkExcel = element (unsafeCoerce _bsFileEarmarkExcel)
 
-foreign import bsFileEarmarkExcelFill_ :: ReactIcon
+foreign import _bsFileEarmarkExcelFill :: ReactIcon
 
 bsFileEarmarkExcelFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFileEarmarkExcelFill = element (unsafeCoerce bsFileEarmarkExcelFill_)
+bsFileEarmarkExcelFill = element (unsafeCoerce _bsFileEarmarkExcelFill)
 
-foreign import bsFileEarmarkFill_ :: ReactIcon
+foreign import _bsFileEarmarkFill :: ReactIcon
 
 bsFileEarmarkFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFileEarmarkFill = element (unsafeCoerce bsFileEarmarkFill_)
+bsFileEarmarkFill = element (unsafeCoerce _bsFileEarmarkFill)
 
-foreign import bsFileEarmarkFont_ :: ReactIcon
+foreign import _bsFileEarmarkFont :: ReactIcon
 
 bsFileEarmarkFont :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFileEarmarkFont = element (unsafeCoerce bsFileEarmarkFont_)
+bsFileEarmarkFont = element (unsafeCoerce _bsFileEarmarkFont)
 
-foreign import bsFileEarmarkFontFill_ :: ReactIcon
+foreign import _bsFileEarmarkFontFill :: ReactIcon
 
 bsFileEarmarkFontFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFileEarmarkFontFill = element (unsafeCoerce bsFileEarmarkFontFill_)
+bsFileEarmarkFontFill = element (unsafeCoerce _bsFileEarmarkFontFill)
 
-foreign import bsFileEarmarkImage_ :: ReactIcon
+foreign import _bsFileEarmarkImage :: ReactIcon
 
 bsFileEarmarkImage :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFileEarmarkImage = element (unsafeCoerce bsFileEarmarkImage_)
+bsFileEarmarkImage = element (unsafeCoerce _bsFileEarmarkImage)
 
-foreign import bsFileEarmarkImageFill_ :: ReactIcon
+foreign import _bsFileEarmarkImageFill :: ReactIcon
 
 bsFileEarmarkImageFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFileEarmarkImageFill = element (unsafeCoerce bsFileEarmarkImageFill_)
+bsFileEarmarkImageFill = element (unsafeCoerce _bsFileEarmarkImageFill)
 
-foreign import bsFileEarmarkLock_ :: ReactIcon
+foreign import _bsFileEarmarkLock :: ReactIcon
 
 bsFileEarmarkLock :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFileEarmarkLock = element (unsafeCoerce bsFileEarmarkLock_)
+bsFileEarmarkLock = element (unsafeCoerce _bsFileEarmarkLock)
 
-foreign import bsFileEarmarkLockFill_ :: ReactIcon
+foreign import _bsFileEarmarkLockFill :: ReactIcon
 
 bsFileEarmarkLockFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFileEarmarkLockFill = element (unsafeCoerce bsFileEarmarkLockFill_)
+bsFileEarmarkLockFill = element (unsafeCoerce _bsFileEarmarkLockFill)
 
-foreign import bsFileEarmarkMedical_ :: ReactIcon
+foreign import _bsFileEarmarkMedical :: ReactIcon
 
 bsFileEarmarkMedical :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFileEarmarkMedical = element (unsafeCoerce bsFileEarmarkMedical_)
+bsFileEarmarkMedical = element (unsafeCoerce _bsFileEarmarkMedical)
 
-foreign import bsFileEarmarkMedicalFill_ :: ReactIcon
+foreign import _bsFileEarmarkMedicalFill :: ReactIcon
 
 bsFileEarmarkMedicalFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFileEarmarkMedicalFill = element (unsafeCoerce bsFileEarmarkMedicalFill_)
+bsFileEarmarkMedicalFill = element (unsafeCoerce _bsFileEarmarkMedicalFill)
 
-foreign import bsFileEarmarkMinus_ :: ReactIcon
+foreign import _bsFileEarmarkMinus :: ReactIcon
 
 bsFileEarmarkMinus :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFileEarmarkMinus = element (unsafeCoerce bsFileEarmarkMinus_)
+bsFileEarmarkMinus = element (unsafeCoerce _bsFileEarmarkMinus)
 
-foreign import bsFileEarmarkMinusFill_ :: ReactIcon
+foreign import _bsFileEarmarkMinusFill :: ReactIcon
 
 bsFileEarmarkMinusFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFileEarmarkMinusFill = element (unsafeCoerce bsFileEarmarkMinusFill_)
+bsFileEarmarkMinusFill = element (unsafeCoerce _bsFileEarmarkMinusFill)
 
-foreign import bsFileEarmarkMusic_ :: ReactIcon
+foreign import _bsFileEarmarkMusic :: ReactIcon
 
 bsFileEarmarkMusic :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFileEarmarkMusic = element (unsafeCoerce bsFileEarmarkMusic_)
+bsFileEarmarkMusic = element (unsafeCoerce _bsFileEarmarkMusic)
 
-foreign import bsFileEarmarkMusicFill_ :: ReactIcon
+foreign import _bsFileEarmarkMusicFill :: ReactIcon
 
 bsFileEarmarkMusicFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFileEarmarkMusicFill = element (unsafeCoerce bsFileEarmarkMusicFill_)
+bsFileEarmarkMusicFill = element (unsafeCoerce _bsFileEarmarkMusicFill)
 
-foreign import bsFileEarmarkPdf_ :: ReactIcon
+foreign import _bsFileEarmarkPdf :: ReactIcon
 
 bsFileEarmarkPdf :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFileEarmarkPdf = element (unsafeCoerce bsFileEarmarkPdf_)
+bsFileEarmarkPdf = element (unsafeCoerce _bsFileEarmarkPdf)
 
-foreign import bsFileEarmarkPdfFill_ :: ReactIcon
+foreign import _bsFileEarmarkPdfFill :: ReactIcon
 
 bsFileEarmarkPdfFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFileEarmarkPdfFill = element (unsafeCoerce bsFileEarmarkPdfFill_)
+bsFileEarmarkPdfFill = element (unsafeCoerce _bsFileEarmarkPdfFill)
 
-foreign import bsFileEarmarkPerson_ :: ReactIcon
+foreign import _bsFileEarmarkPerson :: ReactIcon
 
 bsFileEarmarkPerson :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFileEarmarkPerson = element (unsafeCoerce bsFileEarmarkPerson_)
+bsFileEarmarkPerson = element (unsafeCoerce _bsFileEarmarkPerson)
 
-foreign import bsFileEarmarkPersonFill_ :: ReactIcon
+foreign import _bsFileEarmarkPersonFill :: ReactIcon
 
 bsFileEarmarkPersonFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFileEarmarkPersonFill = element (unsafeCoerce bsFileEarmarkPersonFill_)
+bsFileEarmarkPersonFill = element (unsafeCoerce _bsFileEarmarkPersonFill)
 
-foreign import bsFileEarmarkPlay_ :: ReactIcon
+foreign import _bsFileEarmarkPlay :: ReactIcon
 
 bsFileEarmarkPlay :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFileEarmarkPlay = element (unsafeCoerce bsFileEarmarkPlay_)
+bsFileEarmarkPlay = element (unsafeCoerce _bsFileEarmarkPlay)
 
-foreign import bsFileEarmarkPlayFill_ :: ReactIcon
+foreign import _bsFileEarmarkPlayFill :: ReactIcon
 
 bsFileEarmarkPlayFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFileEarmarkPlayFill = element (unsafeCoerce bsFileEarmarkPlayFill_)
+bsFileEarmarkPlayFill = element (unsafeCoerce _bsFileEarmarkPlayFill)
 
-foreign import bsFileEarmarkPlus_ :: ReactIcon
+foreign import _bsFileEarmarkPlus :: ReactIcon
 
 bsFileEarmarkPlus :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFileEarmarkPlus = element (unsafeCoerce bsFileEarmarkPlus_)
+bsFileEarmarkPlus = element (unsafeCoerce _bsFileEarmarkPlus)
 
-foreign import bsFileEarmarkPlusFill_ :: ReactIcon
+foreign import _bsFileEarmarkPlusFill :: ReactIcon
 
 bsFileEarmarkPlusFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFileEarmarkPlusFill = element (unsafeCoerce bsFileEarmarkPlusFill_)
+bsFileEarmarkPlusFill = element (unsafeCoerce _bsFileEarmarkPlusFill)
 
-foreign import bsFileEarmarkPost_ :: ReactIcon
+foreign import _bsFileEarmarkPost :: ReactIcon
 
 bsFileEarmarkPost :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFileEarmarkPost = element (unsafeCoerce bsFileEarmarkPost_)
+bsFileEarmarkPost = element (unsafeCoerce _bsFileEarmarkPost)
 
-foreign import bsFileEarmarkPostFill_ :: ReactIcon
+foreign import _bsFileEarmarkPostFill :: ReactIcon
 
 bsFileEarmarkPostFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFileEarmarkPostFill = element (unsafeCoerce bsFileEarmarkPostFill_)
+bsFileEarmarkPostFill = element (unsafeCoerce _bsFileEarmarkPostFill)
 
-foreign import bsFileEarmarkPpt_ :: ReactIcon
+foreign import _bsFileEarmarkPpt :: ReactIcon
 
 bsFileEarmarkPpt :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFileEarmarkPpt = element (unsafeCoerce bsFileEarmarkPpt_)
+bsFileEarmarkPpt = element (unsafeCoerce _bsFileEarmarkPpt)
 
-foreign import bsFileEarmarkPptFill_ :: ReactIcon
+foreign import _bsFileEarmarkPptFill :: ReactIcon
 
 bsFileEarmarkPptFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFileEarmarkPptFill = element (unsafeCoerce bsFileEarmarkPptFill_)
+bsFileEarmarkPptFill = element (unsafeCoerce _bsFileEarmarkPptFill)
 
-foreign import bsFileEarmarkRichtext_ :: ReactIcon
+foreign import _bsFileEarmarkRichtext :: ReactIcon
 
 bsFileEarmarkRichtext :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFileEarmarkRichtext = element (unsafeCoerce bsFileEarmarkRichtext_)
+bsFileEarmarkRichtext = element (unsafeCoerce _bsFileEarmarkRichtext)
 
-foreign import bsFileEarmarkRichtextFill_ :: ReactIcon
+foreign import _bsFileEarmarkRichtextFill :: ReactIcon
 
 bsFileEarmarkRichtextFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFileEarmarkRichtextFill = element (unsafeCoerce bsFileEarmarkRichtextFill_)
+bsFileEarmarkRichtextFill = element (unsafeCoerce _bsFileEarmarkRichtextFill)
 
-foreign import bsFileEarmarkRuled_ :: ReactIcon
+foreign import _bsFileEarmarkRuled :: ReactIcon
 
 bsFileEarmarkRuled :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFileEarmarkRuled = element (unsafeCoerce bsFileEarmarkRuled_)
+bsFileEarmarkRuled = element (unsafeCoerce _bsFileEarmarkRuled)
 
-foreign import bsFileEarmarkRuledFill_ :: ReactIcon
+foreign import _bsFileEarmarkRuledFill :: ReactIcon
 
 bsFileEarmarkRuledFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFileEarmarkRuledFill = element (unsafeCoerce bsFileEarmarkRuledFill_)
+bsFileEarmarkRuledFill = element (unsafeCoerce _bsFileEarmarkRuledFill)
 
-foreign import bsFileEarmarkSlides_ :: ReactIcon
+foreign import _bsFileEarmarkSlides :: ReactIcon
 
 bsFileEarmarkSlides :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFileEarmarkSlides = element (unsafeCoerce bsFileEarmarkSlides_)
+bsFileEarmarkSlides = element (unsafeCoerce _bsFileEarmarkSlides)
 
-foreign import bsFileEarmarkSlidesFill_ :: ReactIcon
+foreign import _bsFileEarmarkSlidesFill :: ReactIcon
 
 bsFileEarmarkSlidesFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFileEarmarkSlidesFill = element (unsafeCoerce bsFileEarmarkSlidesFill_)
+bsFileEarmarkSlidesFill = element (unsafeCoerce _bsFileEarmarkSlidesFill)
 
-foreign import bsFileEarmarkSpreadsheet_ :: ReactIcon
+foreign import _bsFileEarmarkSpreadsheet :: ReactIcon
 
 bsFileEarmarkSpreadsheet :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFileEarmarkSpreadsheet = element (unsafeCoerce bsFileEarmarkSpreadsheet_)
+bsFileEarmarkSpreadsheet = element (unsafeCoerce _bsFileEarmarkSpreadsheet)
 
-foreign import bsFileEarmarkSpreadsheetFill_ :: ReactIcon
+foreign import _bsFileEarmarkSpreadsheetFill :: ReactIcon
 
 bsFileEarmarkSpreadsheetFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFileEarmarkSpreadsheetFill = element (unsafeCoerce bsFileEarmarkSpreadsheetFill_)
+bsFileEarmarkSpreadsheetFill = element (unsafeCoerce _bsFileEarmarkSpreadsheetFill)
 
-foreign import bsFileEarmarkText_ :: ReactIcon
+foreign import _bsFileEarmarkText :: ReactIcon
 
 bsFileEarmarkText :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFileEarmarkText = element (unsafeCoerce bsFileEarmarkText_)
+bsFileEarmarkText = element (unsafeCoerce _bsFileEarmarkText)
 
-foreign import bsFileEarmarkTextFill_ :: ReactIcon
+foreign import _bsFileEarmarkTextFill :: ReactIcon
 
 bsFileEarmarkTextFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFileEarmarkTextFill = element (unsafeCoerce bsFileEarmarkTextFill_)
+bsFileEarmarkTextFill = element (unsafeCoerce _bsFileEarmarkTextFill)
 
-foreign import bsFileEarmarkWord_ :: ReactIcon
+foreign import _bsFileEarmarkWord :: ReactIcon
 
 bsFileEarmarkWord :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFileEarmarkWord = element (unsafeCoerce bsFileEarmarkWord_)
+bsFileEarmarkWord = element (unsafeCoerce _bsFileEarmarkWord)
 
-foreign import bsFileEarmarkWordFill_ :: ReactIcon
+foreign import _bsFileEarmarkWordFill :: ReactIcon
 
 bsFileEarmarkWordFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFileEarmarkWordFill = element (unsafeCoerce bsFileEarmarkWordFill_)
+bsFileEarmarkWordFill = element (unsafeCoerce _bsFileEarmarkWordFill)
 
-foreign import bsFileEarmarkX_ :: ReactIcon
+foreign import _bsFileEarmarkX :: ReactIcon
 
 bsFileEarmarkX :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFileEarmarkX = element (unsafeCoerce bsFileEarmarkX_)
+bsFileEarmarkX = element (unsafeCoerce _bsFileEarmarkX)
 
-foreign import bsFileEarmarkXFill_ :: ReactIcon
+foreign import _bsFileEarmarkXFill :: ReactIcon
 
 bsFileEarmarkXFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFileEarmarkXFill = element (unsafeCoerce bsFileEarmarkXFill_)
+bsFileEarmarkXFill = element (unsafeCoerce _bsFileEarmarkXFill)
 
-foreign import bsFileEarmarkZip_ :: ReactIcon
+foreign import _bsFileEarmarkZip :: ReactIcon
 
 bsFileEarmarkZip :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFileEarmarkZip = element (unsafeCoerce bsFileEarmarkZip_)
+bsFileEarmarkZip = element (unsafeCoerce _bsFileEarmarkZip)
 
-foreign import bsFileEarmarkZipFill_ :: ReactIcon
+foreign import _bsFileEarmarkZipFill :: ReactIcon
 
 bsFileEarmarkZipFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFileEarmarkZipFill = element (unsafeCoerce bsFileEarmarkZipFill_)
+bsFileEarmarkZipFill = element (unsafeCoerce _bsFileEarmarkZipFill)
 
-foreign import bsFileEasel_ :: ReactIcon
+foreign import _bsFileEasel :: ReactIcon
 
 bsFileEasel :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFileEasel = element (unsafeCoerce bsFileEasel_)
+bsFileEasel = element (unsafeCoerce _bsFileEasel)
 
-foreign import bsFileEaselFill_ :: ReactIcon
+foreign import _bsFileEaselFill :: ReactIcon
 
 bsFileEaselFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFileEaselFill = element (unsafeCoerce bsFileEaselFill_)
+bsFileEaselFill = element (unsafeCoerce _bsFileEaselFill)
 
-foreign import bsFileExcel_ :: ReactIcon
+foreign import _bsFileExcel :: ReactIcon
 
 bsFileExcel :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFileExcel = element (unsafeCoerce bsFileExcel_)
+bsFileExcel = element (unsafeCoerce _bsFileExcel)
 
-foreign import bsFileExcelFill_ :: ReactIcon
+foreign import _bsFileExcelFill :: ReactIcon
 
 bsFileExcelFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFileExcelFill = element (unsafeCoerce bsFileExcelFill_)
+bsFileExcelFill = element (unsafeCoerce _bsFileExcelFill)
 
-foreign import bsFileFill_ :: ReactIcon
+foreign import _bsFileFill :: ReactIcon
 
 bsFileFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFileFill = element (unsafeCoerce bsFileFill_)
+bsFileFill = element (unsafeCoerce _bsFileFill)
 
-foreign import bsFileFont_ :: ReactIcon
+foreign import _bsFileFont :: ReactIcon
 
 bsFileFont :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFileFont = element (unsafeCoerce bsFileFont_)
+bsFileFont = element (unsafeCoerce _bsFileFont)
 
-foreign import bsFileFontFill_ :: ReactIcon
+foreign import _bsFileFontFill :: ReactIcon
 
 bsFileFontFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFileFontFill = element (unsafeCoerce bsFileFontFill_)
+bsFileFontFill = element (unsafeCoerce _bsFileFontFill)
 
-foreign import bsFileImage_ :: ReactIcon
+foreign import _bsFileImage :: ReactIcon
 
 bsFileImage :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFileImage = element (unsafeCoerce bsFileImage_)
+bsFileImage = element (unsafeCoerce _bsFileImage)
 
-foreign import bsFileImageFill_ :: ReactIcon
+foreign import _bsFileImageFill :: ReactIcon
 
 bsFileImageFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFileImageFill = element (unsafeCoerce bsFileImageFill_)
+bsFileImageFill = element (unsafeCoerce _bsFileImageFill)
 
-foreign import bsFileLock_ :: ReactIcon
+foreign import _bsFileLock :: ReactIcon
 
 bsFileLock :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFileLock = element (unsafeCoerce bsFileLock_)
+bsFileLock = element (unsafeCoerce _bsFileLock)
 
-foreign import bsFileLockFill_ :: ReactIcon
+foreign import _bsFileLockFill :: ReactIcon
 
 bsFileLockFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFileLockFill = element (unsafeCoerce bsFileLockFill_)
+bsFileLockFill = element (unsafeCoerce _bsFileLockFill)
 
-foreign import bsFileMedical_ :: ReactIcon
+foreign import _bsFileMedical :: ReactIcon
 
 bsFileMedical :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFileMedical = element (unsafeCoerce bsFileMedical_)
+bsFileMedical = element (unsafeCoerce _bsFileMedical)
 
-foreign import bsFileMedicalFill_ :: ReactIcon
+foreign import _bsFileMedicalFill :: ReactIcon
 
 bsFileMedicalFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFileMedicalFill = element (unsafeCoerce bsFileMedicalFill_)
+bsFileMedicalFill = element (unsafeCoerce _bsFileMedicalFill)
 
-foreign import bsFileMinus_ :: ReactIcon
+foreign import _bsFileMinus :: ReactIcon
 
 bsFileMinus :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFileMinus = element (unsafeCoerce bsFileMinus_)
+bsFileMinus = element (unsafeCoerce _bsFileMinus)
 
-foreign import bsFileMinusFill_ :: ReactIcon
+foreign import _bsFileMinusFill :: ReactIcon
 
 bsFileMinusFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFileMinusFill = element (unsafeCoerce bsFileMinusFill_)
+bsFileMinusFill = element (unsafeCoerce _bsFileMinusFill)
 
-foreign import bsFileMusic_ :: ReactIcon
+foreign import _bsFileMusic :: ReactIcon
 
 bsFileMusic :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFileMusic = element (unsafeCoerce bsFileMusic_)
+bsFileMusic = element (unsafeCoerce _bsFileMusic)
 
-foreign import bsFileMusicFill_ :: ReactIcon
+foreign import _bsFileMusicFill :: ReactIcon
 
 bsFileMusicFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFileMusicFill = element (unsafeCoerce bsFileMusicFill_)
+bsFileMusicFill = element (unsafeCoerce _bsFileMusicFill)
 
-foreign import bsFilePdf_ :: ReactIcon
+foreign import _bsFilePdf :: ReactIcon
 
 bsFilePdf :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFilePdf = element (unsafeCoerce bsFilePdf_)
+bsFilePdf = element (unsafeCoerce _bsFilePdf)
 
-foreign import bsFilePdfFill_ :: ReactIcon
+foreign import _bsFilePdfFill :: ReactIcon
 
 bsFilePdfFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFilePdfFill = element (unsafeCoerce bsFilePdfFill_)
+bsFilePdfFill = element (unsafeCoerce _bsFilePdfFill)
 
-foreign import bsFilePerson_ :: ReactIcon
+foreign import _bsFilePerson :: ReactIcon
 
 bsFilePerson :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFilePerson = element (unsafeCoerce bsFilePerson_)
+bsFilePerson = element (unsafeCoerce _bsFilePerson)
 
-foreign import bsFilePersonFill_ :: ReactIcon
+foreign import _bsFilePersonFill :: ReactIcon
 
 bsFilePersonFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFilePersonFill = element (unsafeCoerce bsFilePersonFill_)
+bsFilePersonFill = element (unsafeCoerce _bsFilePersonFill)
 
-foreign import bsFilePlay_ :: ReactIcon
+foreign import _bsFilePlay :: ReactIcon
 
 bsFilePlay :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFilePlay = element (unsafeCoerce bsFilePlay_)
+bsFilePlay = element (unsafeCoerce _bsFilePlay)
 
-foreign import bsFilePlayFill_ :: ReactIcon
+foreign import _bsFilePlayFill :: ReactIcon
 
 bsFilePlayFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFilePlayFill = element (unsafeCoerce bsFilePlayFill_)
+bsFilePlayFill = element (unsafeCoerce _bsFilePlayFill)
 
-foreign import bsFilePlus_ :: ReactIcon
+foreign import _bsFilePlus :: ReactIcon
 
 bsFilePlus :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFilePlus = element (unsafeCoerce bsFilePlus_)
+bsFilePlus = element (unsafeCoerce _bsFilePlus)
 
-foreign import bsFilePlusFill_ :: ReactIcon
+foreign import _bsFilePlusFill :: ReactIcon
 
 bsFilePlusFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFilePlusFill = element (unsafeCoerce bsFilePlusFill_)
+bsFilePlusFill = element (unsafeCoerce _bsFilePlusFill)
 
-foreign import bsFilePost_ :: ReactIcon
+foreign import _bsFilePost :: ReactIcon
 
 bsFilePost :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFilePost = element (unsafeCoerce bsFilePost_)
+bsFilePost = element (unsafeCoerce _bsFilePost)
 
-foreign import bsFilePostFill_ :: ReactIcon
+foreign import _bsFilePostFill :: ReactIcon
 
 bsFilePostFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFilePostFill = element (unsafeCoerce bsFilePostFill_)
+bsFilePostFill = element (unsafeCoerce _bsFilePostFill)
 
-foreign import bsFilePpt_ :: ReactIcon
+foreign import _bsFilePpt :: ReactIcon
 
 bsFilePpt :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFilePpt = element (unsafeCoerce bsFilePpt_)
+bsFilePpt = element (unsafeCoerce _bsFilePpt)
 
-foreign import bsFilePptFill_ :: ReactIcon
+foreign import _bsFilePptFill :: ReactIcon
 
 bsFilePptFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFilePptFill = element (unsafeCoerce bsFilePptFill_)
+bsFilePptFill = element (unsafeCoerce _bsFilePptFill)
 
-foreign import bsFileRichtext_ :: ReactIcon
+foreign import _bsFileRichtext :: ReactIcon
 
 bsFileRichtext :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFileRichtext = element (unsafeCoerce bsFileRichtext_)
+bsFileRichtext = element (unsafeCoerce _bsFileRichtext)
 
-foreign import bsFileRichtextFill_ :: ReactIcon
+foreign import _bsFileRichtextFill :: ReactIcon
 
 bsFileRichtextFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFileRichtextFill = element (unsafeCoerce bsFileRichtextFill_)
+bsFileRichtextFill = element (unsafeCoerce _bsFileRichtextFill)
 
-foreign import bsFileRuled_ :: ReactIcon
+foreign import _bsFileRuled :: ReactIcon
 
 bsFileRuled :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFileRuled = element (unsafeCoerce bsFileRuled_)
+bsFileRuled = element (unsafeCoerce _bsFileRuled)
 
-foreign import bsFileRuledFill_ :: ReactIcon
+foreign import _bsFileRuledFill :: ReactIcon
 
 bsFileRuledFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFileRuledFill = element (unsafeCoerce bsFileRuledFill_)
+bsFileRuledFill = element (unsafeCoerce _bsFileRuledFill)
 
-foreign import bsFiles_ :: ReactIcon
+foreign import _bsFiles :: ReactIcon
 
 bsFiles :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFiles = element (unsafeCoerce bsFiles_)
+bsFiles = element (unsafeCoerce _bsFiles)
 
-foreign import bsFilesAlt_ :: ReactIcon
+foreign import _bsFilesAlt :: ReactIcon
 
 bsFilesAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFilesAlt = element (unsafeCoerce bsFilesAlt_)
+bsFilesAlt = element (unsafeCoerce _bsFilesAlt)
 
-foreign import bsFileSlides_ :: ReactIcon
+foreign import _bsFileSlides :: ReactIcon
 
 bsFileSlides :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFileSlides = element (unsafeCoerce bsFileSlides_)
+bsFileSlides = element (unsafeCoerce _bsFileSlides)
 
-foreign import bsFileSlidesFill_ :: ReactIcon
+foreign import _bsFileSlidesFill :: ReactIcon
 
 bsFileSlidesFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFileSlidesFill = element (unsafeCoerce bsFileSlidesFill_)
+bsFileSlidesFill = element (unsafeCoerce _bsFileSlidesFill)
 
-foreign import bsFileSpreadsheet_ :: ReactIcon
+foreign import _bsFileSpreadsheet :: ReactIcon
 
 bsFileSpreadsheet :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFileSpreadsheet = element (unsafeCoerce bsFileSpreadsheet_)
+bsFileSpreadsheet = element (unsafeCoerce _bsFileSpreadsheet)
 
-foreign import bsFileSpreadsheetFill_ :: ReactIcon
+foreign import _bsFileSpreadsheetFill :: ReactIcon
 
 bsFileSpreadsheetFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFileSpreadsheetFill = element (unsafeCoerce bsFileSpreadsheetFill_)
+bsFileSpreadsheetFill = element (unsafeCoerce _bsFileSpreadsheetFill)
 
-foreign import bsFileText_ :: ReactIcon
+foreign import _bsFileText :: ReactIcon
 
 bsFileText :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFileText = element (unsafeCoerce bsFileText_)
+bsFileText = element (unsafeCoerce _bsFileText)
 
-foreign import bsFileTextFill_ :: ReactIcon
+foreign import _bsFileTextFill :: ReactIcon
 
 bsFileTextFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFileTextFill = element (unsafeCoerce bsFileTextFill_)
+bsFileTextFill = element (unsafeCoerce _bsFileTextFill)
 
-foreign import bsFileWord_ :: ReactIcon
+foreign import _bsFileWord :: ReactIcon
 
 bsFileWord :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFileWord = element (unsafeCoerce bsFileWord_)
+bsFileWord = element (unsafeCoerce _bsFileWord)
 
-foreign import bsFileWordFill_ :: ReactIcon
+foreign import _bsFileWordFill :: ReactIcon
 
 bsFileWordFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFileWordFill = element (unsafeCoerce bsFileWordFill_)
+bsFileWordFill = element (unsafeCoerce _bsFileWordFill)
 
-foreign import bsFileX_ :: ReactIcon
+foreign import _bsFileX :: ReactIcon
 
 bsFileX :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFileX = element (unsafeCoerce bsFileX_)
+bsFileX = element (unsafeCoerce _bsFileX)
 
-foreign import bsFileXFill_ :: ReactIcon
+foreign import _bsFileXFill :: ReactIcon
 
 bsFileXFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFileXFill = element (unsafeCoerce bsFileXFill_)
+bsFileXFill = element (unsafeCoerce _bsFileXFill)
 
-foreign import bsFileZip_ :: ReactIcon
+foreign import _bsFileZip :: ReactIcon
 
 bsFileZip :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFileZip = element (unsafeCoerce bsFileZip_)
+bsFileZip = element (unsafeCoerce _bsFileZip)
 
-foreign import bsFileZipFill_ :: ReactIcon
+foreign import _bsFileZipFill :: ReactIcon
 
 bsFileZipFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFileZipFill = element (unsafeCoerce bsFileZipFill_)
+bsFileZipFill = element (unsafeCoerce _bsFileZipFill)
 
-foreign import bsFillAlarmFill_ :: ReactIcon
+foreign import _bsFillAlarmFill :: ReactIcon
 
 bsFillAlarmFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillAlarmFill = element (unsafeCoerce bsFillAlarmFill_)
+bsFillAlarmFill = element (unsafeCoerce _bsFillAlarmFill)
 
-foreign import bsFillArchiveFill_ :: ReactIcon
+foreign import _bsFillArchiveFill :: ReactIcon
 
 bsFillArchiveFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillArchiveFill = element (unsafeCoerce bsFillArchiveFill_)
+bsFillArchiveFill = element (unsafeCoerce _bsFillArchiveFill)
 
-foreign import bsFillArrowDownCircleFill_ :: ReactIcon
+foreign import _bsFillArrowDownCircleFill :: ReactIcon
 
 bsFillArrowDownCircleFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillArrowDownCircleFill = element (unsafeCoerce bsFillArrowDownCircleFill_)
+bsFillArrowDownCircleFill = element (unsafeCoerce _bsFillArrowDownCircleFill)
 
-foreign import bsFillArrowDownLeftCircleFill_ :: ReactIcon
+foreign import _bsFillArrowDownLeftCircleFill :: ReactIcon
 
 bsFillArrowDownLeftCircleFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillArrowDownLeftCircleFill = element (unsafeCoerce bsFillArrowDownLeftCircleFill_)
+bsFillArrowDownLeftCircleFill = element (unsafeCoerce _bsFillArrowDownLeftCircleFill)
 
-foreign import bsFillArrowDownLeftSquareFill_ :: ReactIcon
+foreign import _bsFillArrowDownLeftSquareFill :: ReactIcon
 
 bsFillArrowDownLeftSquareFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillArrowDownLeftSquareFill = element (unsafeCoerce bsFillArrowDownLeftSquareFill_)
+bsFillArrowDownLeftSquareFill = element (unsafeCoerce _bsFillArrowDownLeftSquareFill)
 
-foreign import bsFillArrowDownRightCircleFill_ :: ReactIcon
+foreign import _bsFillArrowDownRightCircleFill :: ReactIcon
 
 bsFillArrowDownRightCircleFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillArrowDownRightCircleFill = element (unsafeCoerce bsFillArrowDownRightCircleFill_)
+bsFillArrowDownRightCircleFill = element (unsafeCoerce _bsFillArrowDownRightCircleFill)
 
-foreign import bsFillArrowDownRightSquareFill_ :: ReactIcon
+foreign import _bsFillArrowDownRightSquareFill :: ReactIcon
 
 bsFillArrowDownRightSquareFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillArrowDownRightSquareFill = element (unsafeCoerce bsFillArrowDownRightSquareFill_)
+bsFillArrowDownRightSquareFill = element (unsafeCoerce _bsFillArrowDownRightSquareFill)
 
-foreign import bsFillArrowDownSquareFill_ :: ReactIcon
+foreign import _bsFillArrowDownSquareFill :: ReactIcon
 
 bsFillArrowDownSquareFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillArrowDownSquareFill = element (unsafeCoerce bsFillArrowDownSquareFill_)
+bsFillArrowDownSquareFill = element (unsafeCoerce _bsFillArrowDownSquareFill)
 
-foreign import bsFillArrowLeftCircleFill_ :: ReactIcon
+foreign import _bsFillArrowLeftCircleFill :: ReactIcon
 
 bsFillArrowLeftCircleFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillArrowLeftCircleFill = element (unsafeCoerce bsFillArrowLeftCircleFill_)
+bsFillArrowLeftCircleFill = element (unsafeCoerce _bsFillArrowLeftCircleFill)
 
-foreign import bsFillArrowLeftSquareFill_ :: ReactIcon
+foreign import _bsFillArrowLeftSquareFill :: ReactIcon
 
 bsFillArrowLeftSquareFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillArrowLeftSquareFill = element (unsafeCoerce bsFillArrowLeftSquareFill_)
+bsFillArrowLeftSquareFill = element (unsafeCoerce _bsFillArrowLeftSquareFill)
 
-foreign import bsFillArrowRightCircleFill_ :: ReactIcon
+foreign import _bsFillArrowRightCircleFill :: ReactIcon
 
 bsFillArrowRightCircleFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillArrowRightCircleFill = element (unsafeCoerce bsFillArrowRightCircleFill_)
+bsFillArrowRightCircleFill = element (unsafeCoerce _bsFillArrowRightCircleFill)
 
-foreign import bsFillArrowRightSquareFill_ :: ReactIcon
+foreign import _bsFillArrowRightSquareFill :: ReactIcon
 
 bsFillArrowRightSquareFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillArrowRightSquareFill = element (unsafeCoerce bsFillArrowRightSquareFill_)
+bsFillArrowRightSquareFill = element (unsafeCoerce _bsFillArrowRightSquareFill)
 
-foreign import bsFillArrowUpCircleFill_ :: ReactIcon
+foreign import _bsFillArrowUpCircleFill :: ReactIcon
 
 bsFillArrowUpCircleFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillArrowUpCircleFill = element (unsafeCoerce bsFillArrowUpCircleFill_)
+bsFillArrowUpCircleFill = element (unsafeCoerce _bsFillArrowUpCircleFill)
 
-foreign import bsFillArrowUpLeftCircleFill_ :: ReactIcon
+foreign import _bsFillArrowUpLeftCircleFill :: ReactIcon
 
 bsFillArrowUpLeftCircleFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillArrowUpLeftCircleFill = element (unsafeCoerce bsFillArrowUpLeftCircleFill_)
+bsFillArrowUpLeftCircleFill = element (unsafeCoerce _bsFillArrowUpLeftCircleFill)
 
-foreign import bsFillArrowUpLeftSquareFill_ :: ReactIcon
+foreign import _bsFillArrowUpLeftSquareFill :: ReactIcon
 
 bsFillArrowUpLeftSquareFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillArrowUpLeftSquareFill = element (unsafeCoerce bsFillArrowUpLeftSquareFill_)
+bsFillArrowUpLeftSquareFill = element (unsafeCoerce _bsFillArrowUpLeftSquareFill)
 
-foreign import bsFillArrowUpRightCircleFill_ :: ReactIcon
+foreign import _bsFillArrowUpRightCircleFill :: ReactIcon
 
 bsFillArrowUpRightCircleFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillArrowUpRightCircleFill = element (unsafeCoerce bsFillArrowUpRightCircleFill_)
+bsFillArrowUpRightCircleFill = element (unsafeCoerce _bsFillArrowUpRightCircleFill)
 
-foreign import bsFillArrowUpRightSquareFill_ :: ReactIcon
+foreign import _bsFillArrowUpRightSquareFill :: ReactIcon
 
 bsFillArrowUpRightSquareFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillArrowUpRightSquareFill = element (unsafeCoerce bsFillArrowUpRightSquareFill_)
+bsFillArrowUpRightSquareFill = element (unsafeCoerce _bsFillArrowUpRightSquareFill)
 
-foreign import bsFillArrowUpSquareFill_ :: ReactIcon
+foreign import _bsFillArrowUpSquareFill :: ReactIcon
 
 bsFillArrowUpSquareFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillArrowUpSquareFill = element (unsafeCoerce bsFillArrowUpSquareFill_)
+bsFillArrowUpSquareFill = element (unsafeCoerce _bsFillArrowUpSquareFill)
 
-foreign import bsFillAspectRatioFill_ :: ReactIcon
+foreign import _bsFillAspectRatioFill :: ReactIcon
 
 bsFillAspectRatioFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillAspectRatioFill = element (unsafeCoerce bsFillAspectRatioFill_)
+bsFillAspectRatioFill = element (unsafeCoerce _bsFillAspectRatioFill)
 
-foreign import bsFillAwardFill_ :: ReactIcon
+foreign import _bsFillAwardFill :: ReactIcon
 
 bsFillAwardFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillAwardFill = element (unsafeCoerce bsFillAwardFill_)
+bsFillAwardFill = element (unsafeCoerce _bsFillAwardFill)
 
-foreign import bsFillBackspaceFill_ :: ReactIcon
+foreign import _bsFillBackspaceFill :: ReactIcon
 
 bsFillBackspaceFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillBackspaceFill = element (unsafeCoerce bsFillBackspaceFill_)
+bsFillBackspaceFill = element (unsafeCoerce _bsFillBackspaceFill)
 
-foreign import bsFillBackspaceReverseFill_ :: ReactIcon
+foreign import _bsFillBackspaceReverseFill :: ReactIcon
 
 bsFillBackspaceReverseFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillBackspaceReverseFill = element (unsafeCoerce bsFillBackspaceReverseFill_)
+bsFillBackspaceReverseFill = element (unsafeCoerce _bsFillBackspaceReverseFill)
 
-foreign import bsFillBadgeAdFill_ :: ReactIcon
+foreign import _bsFillBadgeAdFill :: ReactIcon
 
 bsFillBadgeAdFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillBadgeAdFill = element (unsafeCoerce bsFillBadgeAdFill_)
+bsFillBadgeAdFill = element (unsafeCoerce _bsFillBadgeAdFill)
 
-foreign import bsFillBadgeArFill_ :: ReactIcon
+foreign import _bsFillBadgeArFill :: ReactIcon
 
 bsFillBadgeArFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillBadgeArFill = element (unsafeCoerce bsFillBadgeArFill_)
+bsFillBadgeArFill = element (unsafeCoerce _bsFillBadgeArFill)
 
-foreign import bsFillBadgeCcFill_ :: ReactIcon
+foreign import _bsFillBadgeCcFill :: ReactIcon
 
 bsFillBadgeCcFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillBadgeCcFill = element (unsafeCoerce bsFillBadgeCcFill_)
+bsFillBadgeCcFill = element (unsafeCoerce _bsFillBadgeCcFill)
 
-foreign import bsFillBadgeHdFill_ :: ReactIcon
+foreign import _bsFillBadgeHdFill :: ReactIcon
 
 bsFillBadgeHdFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillBadgeHdFill = element (unsafeCoerce bsFillBadgeHdFill_)
+bsFillBadgeHdFill = element (unsafeCoerce _bsFillBadgeHdFill)
 
-foreign import bsFillBadgeTmFill_ :: ReactIcon
+foreign import _bsFillBadgeTmFill :: ReactIcon
 
 bsFillBadgeTmFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillBadgeTmFill = element (unsafeCoerce bsFillBadgeTmFill_)
+bsFillBadgeTmFill = element (unsafeCoerce _bsFillBadgeTmFill)
 
-foreign import bsFillBadgeVoFill_ :: ReactIcon
+foreign import _bsFillBadgeVoFill :: ReactIcon
 
 bsFillBadgeVoFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillBadgeVoFill = element (unsafeCoerce bsFillBadgeVoFill_)
+bsFillBadgeVoFill = element (unsafeCoerce _bsFillBadgeVoFill)
 
-foreign import bsFillBadgeVrFill_ :: ReactIcon
+foreign import _bsFillBadgeVrFill :: ReactIcon
 
 bsFillBadgeVrFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillBadgeVrFill = element (unsafeCoerce bsFillBadgeVrFill_)
+bsFillBadgeVrFill = element (unsafeCoerce _bsFillBadgeVrFill)
 
-foreign import bsFillBadgeWcFill_ :: ReactIcon
+foreign import _bsFillBadgeWcFill :: ReactIcon
 
 bsFillBadgeWcFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillBadgeWcFill = element (unsafeCoerce bsFillBadgeWcFill_)
+bsFillBadgeWcFill = element (unsafeCoerce _bsFillBadgeWcFill)
 
-foreign import bsFillBagCheckFill_ :: ReactIcon
+foreign import _bsFillBagCheckFill :: ReactIcon
 
 bsFillBagCheckFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillBagCheckFill = element (unsafeCoerce bsFillBagCheckFill_)
+bsFillBagCheckFill = element (unsafeCoerce _bsFillBagCheckFill)
 
-foreign import bsFillBagDashFill_ :: ReactIcon
+foreign import _bsFillBagDashFill :: ReactIcon
 
 bsFillBagDashFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillBagDashFill = element (unsafeCoerce bsFillBagDashFill_)
+bsFillBagDashFill = element (unsafeCoerce _bsFillBagDashFill)
 
-foreign import bsFillBagFill_ :: ReactIcon
+foreign import _bsFillBagFill :: ReactIcon
 
 bsFillBagFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillBagFill = element (unsafeCoerce bsFillBagFill_)
+bsFillBagFill = element (unsafeCoerce _bsFillBagFill)
 
-foreign import bsFillBagPlusFill_ :: ReactIcon
+foreign import _bsFillBagPlusFill :: ReactIcon
 
 bsFillBagPlusFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillBagPlusFill = element (unsafeCoerce bsFillBagPlusFill_)
+bsFillBagPlusFill = element (unsafeCoerce _bsFillBagPlusFill)
 
-foreign import bsFillBagXFill_ :: ReactIcon
+foreign import _bsFillBagXFill :: ReactIcon
 
 bsFillBagXFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillBagXFill = element (unsafeCoerce bsFillBagXFill_)
+bsFillBagXFill = element (unsafeCoerce _bsFillBagXFill)
 
-foreign import bsFillBarChartFill_ :: ReactIcon
+foreign import _bsFillBarChartFill :: ReactIcon
 
 bsFillBarChartFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillBarChartFill = element (unsafeCoerce bsFillBarChartFill_)
+bsFillBarChartFill = element (unsafeCoerce _bsFillBarChartFill)
 
-foreign import bsFillBarChartLineFill_ :: ReactIcon
+foreign import _bsFillBarChartLineFill :: ReactIcon
 
 bsFillBarChartLineFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillBarChartLineFill = element (unsafeCoerce bsFillBarChartLineFill_)
+bsFillBarChartLineFill = element (unsafeCoerce _bsFillBarChartLineFill)
 
-foreign import bsFillBasketFill_ :: ReactIcon
+foreign import _bsFillBasketFill :: ReactIcon
 
 bsFillBasketFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillBasketFill = element (unsafeCoerce bsFillBasketFill_)
+bsFillBasketFill = element (unsafeCoerce _bsFillBasketFill)
 
-foreign import bsFillBellFill_ :: ReactIcon
+foreign import _bsFillBellFill :: ReactIcon
 
 bsFillBellFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillBellFill = element (unsafeCoerce bsFillBellFill_)
+bsFillBellFill = element (unsafeCoerce _bsFillBellFill)
 
-foreign import bsFillBellSlashFill_ :: ReactIcon
+foreign import _bsFillBellSlashFill :: ReactIcon
 
 bsFillBellSlashFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillBellSlashFill = element (unsafeCoerce bsFillBellSlashFill_)
+bsFillBellSlashFill = element (unsafeCoerce _bsFillBellSlashFill)
 
-foreign import bsFillBinocularsFill_ :: ReactIcon
+foreign import _bsFillBinocularsFill :: ReactIcon
 
 bsFillBinocularsFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillBinocularsFill = element (unsafeCoerce bsFillBinocularsFill_)
+bsFillBinocularsFill = element (unsafeCoerce _bsFillBinocularsFill)
 
-foreign import bsFillBookFill_ :: ReactIcon
+foreign import _bsFillBookFill :: ReactIcon
 
 bsFillBookFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillBookFill = element (unsafeCoerce bsFillBookFill_)
+bsFillBookFill = element (unsafeCoerce _bsFillBookFill)
 
-foreign import bsFillBookmarkCheckFill_ :: ReactIcon
+foreign import _bsFillBookmarkCheckFill :: ReactIcon
 
 bsFillBookmarkCheckFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillBookmarkCheckFill = element (unsafeCoerce bsFillBookmarkCheckFill_)
+bsFillBookmarkCheckFill = element (unsafeCoerce _bsFillBookmarkCheckFill)
 
-foreign import bsFillBookmarkDashFill_ :: ReactIcon
+foreign import _bsFillBookmarkDashFill :: ReactIcon
 
 bsFillBookmarkDashFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillBookmarkDashFill = element (unsafeCoerce bsFillBookmarkDashFill_)
+bsFillBookmarkDashFill = element (unsafeCoerce _bsFillBookmarkDashFill)
 
-foreign import bsFillBookmarkFill_ :: ReactIcon
+foreign import _bsFillBookmarkFill :: ReactIcon
 
 bsFillBookmarkFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillBookmarkFill = element (unsafeCoerce bsFillBookmarkFill_)
+bsFillBookmarkFill = element (unsafeCoerce _bsFillBookmarkFill)
 
-foreign import bsFillBookmarkHeartFill_ :: ReactIcon
+foreign import _bsFillBookmarkHeartFill :: ReactIcon
 
 bsFillBookmarkHeartFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillBookmarkHeartFill = element (unsafeCoerce bsFillBookmarkHeartFill_)
+bsFillBookmarkHeartFill = element (unsafeCoerce _bsFillBookmarkHeartFill)
 
-foreign import bsFillBookmarkPlusFill_ :: ReactIcon
+foreign import _bsFillBookmarkPlusFill :: ReactIcon
 
 bsFillBookmarkPlusFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillBookmarkPlusFill = element (unsafeCoerce bsFillBookmarkPlusFill_)
+bsFillBookmarkPlusFill = element (unsafeCoerce _bsFillBookmarkPlusFill)
 
-foreign import bsFillBookmarksFill_ :: ReactIcon
+foreign import _bsFillBookmarksFill :: ReactIcon
 
 bsFillBookmarksFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillBookmarksFill = element (unsafeCoerce bsFillBookmarksFill_)
+bsFillBookmarksFill = element (unsafeCoerce _bsFillBookmarksFill)
 
-foreign import bsFillBookmarkStarFill_ :: ReactIcon
+foreign import _bsFillBookmarkStarFill :: ReactIcon
 
 bsFillBookmarkStarFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillBookmarkStarFill = element (unsafeCoerce bsFillBookmarkStarFill_)
+bsFillBookmarkStarFill = element (unsafeCoerce _bsFillBookmarkStarFill)
 
-foreign import bsFillBookmarkXFill_ :: ReactIcon
+foreign import _bsFillBookmarkXFill :: ReactIcon
 
 bsFillBookmarkXFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillBookmarkXFill = element (unsafeCoerce bsFillBookmarkXFill_)
+bsFillBookmarkXFill = element (unsafeCoerce _bsFillBookmarkXFill)
 
-foreign import bsFillBootstrapFill_ :: ReactIcon
+foreign import _bsFillBootstrapFill :: ReactIcon
 
 bsFillBootstrapFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillBootstrapFill = element (unsafeCoerce bsFillBootstrapFill_)
+bsFillBootstrapFill = element (unsafeCoerce _bsFillBootstrapFill)
 
-foreign import bsFillBriefcaseFill_ :: ReactIcon
+foreign import _bsFillBriefcaseFill :: ReactIcon
 
 bsFillBriefcaseFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillBriefcaseFill = element (unsafeCoerce bsFillBriefcaseFill_)
+bsFillBriefcaseFill = element (unsafeCoerce _bsFillBriefcaseFill)
 
-foreign import bsFillBrightnessAltHighFill_ :: ReactIcon
+foreign import _bsFillBrightnessAltHighFill :: ReactIcon
 
 bsFillBrightnessAltHighFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillBrightnessAltHighFill = element (unsafeCoerce bsFillBrightnessAltHighFill_)
+bsFillBrightnessAltHighFill = element (unsafeCoerce _bsFillBrightnessAltHighFill)
 
-foreign import bsFillBrightnessAltLowFill_ :: ReactIcon
+foreign import _bsFillBrightnessAltLowFill :: ReactIcon
 
 bsFillBrightnessAltLowFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillBrightnessAltLowFill = element (unsafeCoerce bsFillBrightnessAltLowFill_)
+bsFillBrightnessAltLowFill = element (unsafeCoerce _bsFillBrightnessAltLowFill)
 
-foreign import bsFillBrightnessHighFill_ :: ReactIcon
+foreign import _bsFillBrightnessHighFill :: ReactIcon
 
 bsFillBrightnessHighFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillBrightnessHighFill = element (unsafeCoerce bsFillBrightnessHighFill_)
+bsFillBrightnessHighFill = element (unsafeCoerce _bsFillBrightnessHighFill)
 
-foreign import bsFillBrightnessLowFill_ :: ReactIcon
+foreign import _bsFillBrightnessLowFill :: ReactIcon
 
 bsFillBrightnessLowFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillBrightnessLowFill = element (unsafeCoerce bsFillBrightnessLowFill_)
+bsFillBrightnessLowFill = element (unsafeCoerce _bsFillBrightnessLowFill)
 
-foreign import bsFillBrushFill_ :: ReactIcon
+foreign import _bsFillBrushFill :: ReactIcon
 
 bsFillBrushFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillBrushFill = element (unsafeCoerce bsFillBrushFill_)
+bsFillBrushFill = element (unsafeCoerce _bsFillBrushFill)
 
-foreign import bsFillBucketFill_ :: ReactIcon
+foreign import _bsFillBucketFill :: ReactIcon
 
 bsFillBucketFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillBucketFill = element (unsafeCoerce bsFillBucketFill_)
+bsFillBucketFill = element (unsafeCoerce _bsFillBucketFill)
 
-foreign import bsFillBugFill_ :: ReactIcon
+foreign import _bsFillBugFill :: ReactIcon
 
 bsFillBugFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillBugFill = element (unsafeCoerce bsFillBugFill_)
+bsFillBugFill = element (unsafeCoerce _bsFillBugFill)
 
-foreign import bsFillCalculatorFill_ :: ReactIcon
+foreign import _bsFillCalculatorFill :: ReactIcon
 
 bsFillCalculatorFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillCalculatorFill = element (unsafeCoerce bsFillCalculatorFill_)
+bsFillCalculatorFill = element (unsafeCoerce _bsFillCalculatorFill)
 
-foreign import bsFillCalendarCheckFill_ :: ReactIcon
+foreign import _bsFillCalendarCheckFill :: ReactIcon
 
 bsFillCalendarCheckFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillCalendarCheckFill = element (unsafeCoerce bsFillCalendarCheckFill_)
+bsFillCalendarCheckFill = element (unsafeCoerce _bsFillCalendarCheckFill)
 
-foreign import bsFillCalendarDateFill_ :: ReactIcon
+foreign import _bsFillCalendarDateFill :: ReactIcon
 
 bsFillCalendarDateFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillCalendarDateFill = element (unsafeCoerce bsFillCalendarDateFill_)
+bsFillCalendarDateFill = element (unsafeCoerce _bsFillCalendarDateFill)
 
-foreign import bsFillCalendarDayFill_ :: ReactIcon
+foreign import _bsFillCalendarDayFill :: ReactIcon
 
 bsFillCalendarDayFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillCalendarDayFill = element (unsafeCoerce bsFillCalendarDayFill_)
+bsFillCalendarDayFill = element (unsafeCoerce _bsFillCalendarDayFill)
 
-foreign import bsFillCalendarEventFill_ :: ReactIcon
+foreign import _bsFillCalendarEventFill :: ReactIcon
 
 bsFillCalendarEventFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillCalendarEventFill = element (unsafeCoerce bsFillCalendarEventFill_)
+bsFillCalendarEventFill = element (unsafeCoerce _bsFillCalendarEventFill)
 
-foreign import bsFillCalendarFill_ :: ReactIcon
+foreign import _bsFillCalendarFill :: ReactIcon
 
 bsFillCalendarFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillCalendarFill = element (unsafeCoerce bsFillCalendarFill_)
+bsFillCalendarFill = element (unsafeCoerce _bsFillCalendarFill)
 
-foreign import bsFillCalendarMinusFill_ :: ReactIcon
+foreign import _bsFillCalendarMinusFill :: ReactIcon
 
 bsFillCalendarMinusFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillCalendarMinusFill = element (unsafeCoerce bsFillCalendarMinusFill_)
+bsFillCalendarMinusFill = element (unsafeCoerce _bsFillCalendarMinusFill)
 
-foreign import bsFillCalendarMonthFill_ :: ReactIcon
+foreign import _bsFillCalendarMonthFill :: ReactIcon
 
 bsFillCalendarMonthFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillCalendarMonthFill = element (unsafeCoerce bsFillCalendarMonthFill_)
+bsFillCalendarMonthFill = element (unsafeCoerce _bsFillCalendarMonthFill)
 
-foreign import bsFillCalendarPlusFill_ :: ReactIcon
+foreign import _bsFillCalendarPlusFill :: ReactIcon
 
 bsFillCalendarPlusFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillCalendarPlusFill = element (unsafeCoerce bsFillCalendarPlusFill_)
+bsFillCalendarPlusFill = element (unsafeCoerce _bsFillCalendarPlusFill)
 
-foreign import bsFillCalendarRangeFill_ :: ReactIcon
+foreign import _bsFillCalendarRangeFill :: ReactIcon
 
 bsFillCalendarRangeFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillCalendarRangeFill = element (unsafeCoerce bsFillCalendarRangeFill_)
+bsFillCalendarRangeFill = element (unsafeCoerce _bsFillCalendarRangeFill)
 
-foreign import bsFillCalendarWeekFill_ :: ReactIcon
+foreign import _bsFillCalendarWeekFill :: ReactIcon
 
 bsFillCalendarWeekFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillCalendarWeekFill = element (unsafeCoerce bsFillCalendarWeekFill_)
+bsFillCalendarWeekFill = element (unsafeCoerce _bsFillCalendarWeekFill)
 
-foreign import bsFillCalendarXFill_ :: ReactIcon
+foreign import _bsFillCalendarXFill :: ReactIcon
 
 bsFillCalendarXFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillCalendarXFill = element (unsafeCoerce bsFillCalendarXFill_)
+bsFillCalendarXFill = element (unsafeCoerce _bsFillCalendarXFill)
 
-foreign import bsFillCameraFill_ :: ReactIcon
+foreign import _bsFillCameraFill :: ReactIcon
 
 bsFillCameraFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillCameraFill = element (unsafeCoerce bsFillCameraFill_)
+bsFillCameraFill = element (unsafeCoerce _bsFillCameraFill)
 
-foreign import bsFillCameraReelsFill_ :: ReactIcon
+foreign import _bsFillCameraReelsFill :: ReactIcon
 
 bsFillCameraReelsFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillCameraReelsFill = element (unsafeCoerce bsFillCameraReelsFill_)
+bsFillCameraReelsFill = element (unsafeCoerce _bsFillCameraReelsFill)
 
-foreign import bsFillCameraVideoFill_ :: ReactIcon
+foreign import _bsFillCameraVideoFill :: ReactIcon
 
 bsFillCameraVideoFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillCameraVideoFill = element (unsafeCoerce bsFillCameraVideoFill_)
+bsFillCameraVideoFill = element (unsafeCoerce _bsFillCameraVideoFill)
 
-foreign import bsFillCameraVideoOffFill_ :: ReactIcon
+foreign import _bsFillCameraVideoOffFill :: ReactIcon
 
 bsFillCameraVideoOffFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillCameraVideoOffFill = element (unsafeCoerce bsFillCameraVideoOffFill_)
+bsFillCameraVideoOffFill = element (unsafeCoerce _bsFillCameraVideoOffFill)
 
-foreign import bsFillCapslockFill_ :: ReactIcon
+foreign import _bsFillCapslockFill :: ReactIcon
 
 bsFillCapslockFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillCapslockFill = element (unsafeCoerce bsFillCapslockFill_)
+bsFillCapslockFill = element (unsafeCoerce _bsFillCapslockFill)
 
-foreign import bsFillCaretDownFill_ :: ReactIcon
+foreign import _bsFillCaretDownFill :: ReactIcon
 
 bsFillCaretDownFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillCaretDownFill = element (unsafeCoerce bsFillCaretDownFill_)
+bsFillCaretDownFill = element (unsafeCoerce _bsFillCaretDownFill)
 
-foreign import bsFillCaretDownSquareFill_ :: ReactIcon
+foreign import _bsFillCaretDownSquareFill :: ReactIcon
 
 bsFillCaretDownSquareFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillCaretDownSquareFill = element (unsafeCoerce bsFillCaretDownSquareFill_)
+bsFillCaretDownSquareFill = element (unsafeCoerce _bsFillCaretDownSquareFill)
 
-foreign import bsFillCaretLeftFill_ :: ReactIcon
+foreign import _bsFillCaretLeftFill :: ReactIcon
 
 bsFillCaretLeftFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillCaretLeftFill = element (unsafeCoerce bsFillCaretLeftFill_)
+bsFillCaretLeftFill = element (unsafeCoerce _bsFillCaretLeftFill)
 
-foreign import bsFillCaretLeftSquareFill_ :: ReactIcon
+foreign import _bsFillCaretLeftSquareFill :: ReactIcon
 
 bsFillCaretLeftSquareFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillCaretLeftSquareFill = element (unsafeCoerce bsFillCaretLeftSquareFill_)
+bsFillCaretLeftSquareFill = element (unsafeCoerce _bsFillCaretLeftSquareFill)
 
-foreign import bsFillCaretRightFill_ :: ReactIcon
+foreign import _bsFillCaretRightFill :: ReactIcon
 
 bsFillCaretRightFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillCaretRightFill = element (unsafeCoerce bsFillCaretRightFill_)
+bsFillCaretRightFill = element (unsafeCoerce _bsFillCaretRightFill)
 
-foreign import bsFillCaretRightSquareFill_ :: ReactIcon
+foreign import _bsFillCaretRightSquareFill :: ReactIcon
 
 bsFillCaretRightSquareFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillCaretRightSquareFill = element (unsafeCoerce bsFillCaretRightSquareFill_)
+bsFillCaretRightSquareFill = element (unsafeCoerce _bsFillCaretRightSquareFill)
 
-foreign import bsFillCaretUpFill_ :: ReactIcon
+foreign import _bsFillCaretUpFill :: ReactIcon
 
 bsFillCaretUpFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillCaretUpFill = element (unsafeCoerce bsFillCaretUpFill_)
+bsFillCaretUpFill = element (unsafeCoerce _bsFillCaretUpFill)
 
-foreign import bsFillCaretUpSquareFill_ :: ReactIcon
+foreign import _bsFillCaretUpSquareFill :: ReactIcon
 
 bsFillCaretUpSquareFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillCaretUpSquareFill = element (unsafeCoerce bsFillCaretUpSquareFill_)
+bsFillCaretUpSquareFill = element (unsafeCoerce _bsFillCaretUpSquareFill)
 
-foreign import bsFillCartCheckFill_ :: ReactIcon
+foreign import _bsFillCartCheckFill :: ReactIcon
 
 bsFillCartCheckFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillCartCheckFill = element (unsafeCoerce bsFillCartCheckFill_)
+bsFillCartCheckFill = element (unsafeCoerce _bsFillCartCheckFill)
 
-foreign import bsFillCartDashFill_ :: ReactIcon
+foreign import _bsFillCartDashFill :: ReactIcon
 
 bsFillCartDashFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillCartDashFill = element (unsafeCoerce bsFillCartDashFill_)
+bsFillCartDashFill = element (unsafeCoerce _bsFillCartDashFill)
 
-foreign import bsFillCartFill_ :: ReactIcon
+foreign import _bsFillCartFill :: ReactIcon
 
 bsFillCartFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillCartFill = element (unsafeCoerce bsFillCartFill_)
+bsFillCartFill = element (unsafeCoerce _bsFillCartFill)
 
-foreign import bsFillCartPlusFill_ :: ReactIcon
+foreign import _bsFillCartPlusFill :: ReactIcon
 
 bsFillCartPlusFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillCartPlusFill = element (unsafeCoerce bsFillCartPlusFill_)
+bsFillCartPlusFill = element (unsafeCoerce _bsFillCartPlusFill)
 
-foreign import bsFillCartXFill_ :: ReactIcon
+foreign import _bsFillCartXFill :: ReactIcon
 
 bsFillCartXFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillCartXFill = element (unsafeCoerce bsFillCartXFill_)
+bsFillCartXFill = element (unsafeCoerce _bsFillCartXFill)
 
-foreign import bsFillChatDotsFill_ :: ReactIcon
+foreign import _bsFillChatDotsFill :: ReactIcon
 
 bsFillChatDotsFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillChatDotsFill = element (unsafeCoerce bsFillChatDotsFill_)
+bsFillChatDotsFill = element (unsafeCoerce _bsFillChatDotsFill)
 
-foreign import bsFillChatFill_ :: ReactIcon
+foreign import _bsFillChatFill :: ReactIcon
 
 bsFillChatFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillChatFill = element (unsafeCoerce bsFillChatFill_)
+bsFillChatFill = element (unsafeCoerce _bsFillChatFill)
 
-foreign import bsFillChatLeftDotsFill_ :: ReactIcon
+foreign import _bsFillChatLeftDotsFill :: ReactIcon
 
 bsFillChatLeftDotsFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillChatLeftDotsFill = element (unsafeCoerce bsFillChatLeftDotsFill_)
+bsFillChatLeftDotsFill = element (unsafeCoerce _bsFillChatLeftDotsFill)
 
-foreign import bsFillChatLeftFill_ :: ReactIcon
+foreign import _bsFillChatLeftFill :: ReactIcon
 
 bsFillChatLeftFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillChatLeftFill = element (unsafeCoerce bsFillChatLeftFill_)
+bsFillChatLeftFill = element (unsafeCoerce _bsFillChatLeftFill)
 
-foreign import bsFillChatLeftQuoteFill_ :: ReactIcon
+foreign import _bsFillChatLeftQuoteFill :: ReactIcon
 
 bsFillChatLeftQuoteFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillChatLeftQuoteFill = element (unsafeCoerce bsFillChatLeftQuoteFill_)
+bsFillChatLeftQuoteFill = element (unsafeCoerce _bsFillChatLeftQuoteFill)
 
-foreign import bsFillChatLeftTextFill_ :: ReactIcon
+foreign import _bsFillChatLeftTextFill :: ReactIcon
 
 bsFillChatLeftTextFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillChatLeftTextFill = element (unsafeCoerce bsFillChatLeftTextFill_)
+bsFillChatLeftTextFill = element (unsafeCoerce _bsFillChatLeftTextFill)
 
-foreign import bsFillChatQuoteFill_ :: ReactIcon
+foreign import _bsFillChatQuoteFill :: ReactIcon
 
 bsFillChatQuoteFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillChatQuoteFill = element (unsafeCoerce bsFillChatQuoteFill_)
+bsFillChatQuoteFill = element (unsafeCoerce _bsFillChatQuoteFill)
 
-foreign import bsFillChatRightDotsFill_ :: ReactIcon
+foreign import _bsFillChatRightDotsFill :: ReactIcon
 
 bsFillChatRightDotsFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillChatRightDotsFill = element (unsafeCoerce bsFillChatRightDotsFill_)
+bsFillChatRightDotsFill = element (unsafeCoerce _bsFillChatRightDotsFill)
 
-foreign import bsFillChatRightFill_ :: ReactIcon
+foreign import _bsFillChatRightFill :: ReactIcon
 
 bsFillChatRightFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillChatRightFill = element (unsafeCoerce bsFillChatRightFill_)
+bsFillChatRightFill = element (unsafeCoerce _bsFillChatRightFill)
 
-foreign import bsFillChatRightQuoteFill_ :: ReactIcon
+foreign import _bsFillChatRightQuoteFill :: ReactIcon
 
 bsFillChatRightQuoteFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillChatRightQuoteFill = element (unsafeCoerce bsFillChatRightQuoteFill_)
+bsFillChatRightQuoteFill = element (unsafeCoerce _bsFillChatRightQuoteFill)
 
-foreign import bsFillChatRightTextFill_ :: ReactIcon
+foreign import _bsFillChatRightTextFill :: ReactIcon
 
 bsFillChatRightTextFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillChatRightTextFill = element (unsafeCoerce bsFillChatRightTextFill_)
+bsFillChatRightTextFill = element (unsafeCoerce _bsFillChatRightTextFill)
 
-foreign import bsFillChatSquareDotsFill_ :: ReactIcon
+foreign import _bsFillChatSquareDotsFill :: ReactIcon
 
 bsFillChatSquareDotsFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillChatSquareDotsFill = element (unsafeCoerce bsFillChatSquareDotsFill_)
+bsFillChatSquareDotsFill = element (unsafeCoerce _bsFillChatSquareDotsFill)
 
-foreign import bsFillChatSquareFill_ :: ReactIcon
+foreign import _bsFillChatSquareFill :: ReactIcon
 
 bsFillChatSquareFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillChatSquareFill = element (unsafeCoerce bsFillChatSquareFill_)
+bsFillChatSquareFill = element (unsafeCoerce _bsFillChatSquareFill)
 
-foreign import bsFillChatSquareQuoteFill_ :: ReactIcon
+foreign import _bsFillChatSquareQuoteFill :: ReactIcon
 
 bsFillChatSquareQuoteFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillChatSquareQuoteFill = element (unsafeCoerce bsFillChatSquareQuoteFill_)
+bsFillChatSquareQuoteFill = element (unsafeCoerce _bsFillChatSquareQuoteFill)
 
-foreign import bsFillChatSquareTextFill_ :: ReactIcon
+foreign import _bsFillChatSquareTextFill :: ReactIcon
 
 bsFillChatSquareTextFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillChatSquareTextFill = element (unsafeCoerce bsFillChatSquareTextFill_)
+bsFillChatSquareTextFill = element (unsafeCoerce _bsFillChatSquareTextFill)
 
-foreign import bsFillChatTextFill_ :: ReactIcon
+foreign import _bsFillChatTextFill :: ReactIcon
 
 bsFillChatTextFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillChatTextFill = element (unsafeCoerce bsFillChatTextFill_)
+bsFillChatTextFill = element (unsafeCoerce _bsFillChatTextFill)
 
-foreign import bsFillCheckCircleFill_ :: ReactIcon
+foreign import _bsFillCheckCircleFill :: ReactIcon
 
 bsFillCheckCircleFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillCheckCircleFill = element (unsafeCoerce bsFillCheckCircleFill_)
+bsFillCheckCircleFill = element (unsafeCoerce _bsFillCheckCircleFill)
 
-foreign import bsFillCheckSquareFill_ :: ReactIcon
+foreign import _bsFillCheckSquareFill :: ReactIcon
 
 bsFillCheckSquareFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillCheckSquareFill = element (unsafeCoerce bsFillCheckSquareFill_)
+bsFillCheckSquareFill = element (unsafeCoerce _bsFillCheckSquareFill)
 
-foreign import bsFillCircleFill_ :: ReactIcon
+foreign import _bsFillCircleFill :: ReactIcon
 
 bsFillCircleFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillCircleFill = element (unsafeCoerce bsFillCircleFill_)
+bsFillCircleFill = element (unsafeCoerce _bsFillCircleFill)
 
-foreign import bsFillClockFill_ :: ReactIcon
+foreign import _bsFillClockFill :: ReactIcon
 
 bsFillClockFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillClockFill = element (unsafeCoerce bsFillClockFill_)
+bsFillClockFill = element (unsafeCoerce _bsFillClockFill)
 
-foreign import bsFillCloudArrowDownFill_ :: ReactIcon
+foreign import _bsFillCloudArrowDownFill :: ReactIcon
 
 bsFillCloudArrowDownFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillCloudArrowDownFill = element (unsafeCoerce bsFillCloudArrowDownFill_)
+bsFillCloudArrowDownFill = element (unsafeCoerce _bsFillCloudArrowDownFill)
 
-foreign import bsFillCloudArrowUpFill_ :: ReactIcon
+foreign import _bsFillCloudArrowUpFill :: ReactIcon
 
 bsFillCloudArrowUpFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillCloudArrowUpFill = element (unsafeCoerce bsFillCloudArrowUpFill_)
+bsFillCloudArrowUpFill = element (unsafeCoerce _bsFillCloudArrowUpFill)
 
-foreign import bsFillCloudCheckFill_ :: ReactIcon
+foreign import _bsFillCloudCheckFill :: ReactIcon
 
 bsFillCloudCheckFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillCloudCheckFill = element (unsafeCoerce bsFillCloudCheckFill_)
+bsFillCloudCheckFill = element (unsafeCoerce _bsFillCloudCheckFill)
 
-foreign import bsFillCloudDownloadFill_ :: ReactIcon
+foreign import _bsFillCloudDownloadFill :: ReactIcon
 
 bsFillCloudDownloadFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillCloudDownloadFill = element (unsafeCoerce bsFillCloudDownloadFill_)
+bsFillCloudDownloadFill = element (unsafeCoerce _bsFillCloudDownloadFill)
 
-foreign import bsFillCloudDrizzleFill_ :: ReactIcon
+foreign import _bsFillCloudDrizzleFill :: ReactIcon
 
 bsFillCloudDrizzleFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillCloudDrizzleFill = element (unsafeCoerce bsFillCloudDrizzleFill_)
+bsFillCloudDrizzleFill = element (unsafeCoerce _bsFillCloudDrizzleFill)
 
-foreign import bsFillCloudFill_ :: ReactIcon
+foreign import _bsFillCloudFill :: ReactIcon
 
 bsFillCloudFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillCloudFill = element (unsafeCoerce bsFillCloudFill_)
+bsFillCloudFill = element (unsafeCoerce _bsFillCloudFill)
 
-foreign import bsFillCloudFogFill_ :: ReactIcon
+foreign import _bsFillCloudFogFill :: ReactIcon
 
 bsFillCloudFogFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillCloudFogFill = element (unsafeCoerce bsFillCloudFogFill_)
+bsFillCloudFogFill = element (unsafeCoerce _bsFillCloudFogFill)
 
-foreign import bsFillCloudHailFill_ :: ReactIcon
+foreign import _bsFillCloudHailFill :: ReactIcon
 
 bsFillCloudHailFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillCloudHailFill = element (unsafeCoerce bsFillCloudHailFill_)
+bsFillCloudHailFill = element (unsafeCoerce _bsFillCloudHailFill)
 
-foreign import bsFillCloudHazeFill_ :: ReactIcon
+foreign import _bsFillCloudHazeFill :: ReactIcon
 
 bsFillCloudHazeFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillCloudHazeFill = element (unsafeCoerce bsFillCloudHazeFill_)
+bsFillCloudHazeFill = element (unsafeCoerce _bsFillCloudHazeFill)
 
-foreign import bsFillCloudLightningFill_ :: ReactIcon
+foreign import _bsFillCloudLightningFill :: ReactIcon
 
 bsFillCloudLightningFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillCloudLightningFill = element (unsafeCoerce bsFillCloudLightningFill_)
+bsFillCloudLightningFill = element (unsafeCoerce _bsFillCloudLightningFill)
 
-foreign import bsFillCloudLightningRainFill_ :: ReactIcon
+foreign import _bsFillCloudLightningRainFill :: ReactIcon
 
 bsFillCloudLightningRainFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillCloudLightningRainFill = element (unsafeCoerce bsFillCloudLightningRainFill_)
+bsFillCloudLightningRainFill = element (unsafeCoerce _bsFillCloudLightningRainFill)
 
-foreign import bsFillCloudMinusFill_ :: ReactIcon
+foreign import _bsFillCloudMinusFill :: ReactIcon
 
 bsFillCloudMinusFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillCloudMinusFill = element (unsafeCoerce bsFillCloudMinusFill_)
+bsFillCloudMinusFill = element (unsafeCoerce _bsFillCloudMinusFill)
 
-foreign import bsFillCloudMoonFill_ :: ReactIcon
+foreign import _bsFillCloudMoonFill :: ReactIcon
 
 bsFillCloudMoonFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillCloudMoonFill = element (unsafeCoerce bsFillCloudMoonFill_)
+bsFillCloudMoonFill = element (unsafeCoerce _bsFillCloudMoonFill)
 
-foreign import bsFillCloudPlusFill_ :: ReactIcon
+foreign import _bsFillCloudPlusFill :: ReactIcon
 
 bsFillCloudPlusFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillCloudPlusFill = element (unsafeCoerce bsFillCloudPlusFill_)
+bsFillCloudPlusFill = element (unsafeCoerce _bsFillCloudPlusFill)
 
-foreign import bsFillCloudRainFill_ :: ReactIcon
+foreign import _bsFillCloudRainFill :: ReactIcon
 
 bsFillCloudRainFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillCloudRainFill = element (unsafeCoerce bsFillCloudRainFill_)
+bsFillCloudRainFill = element (unsafeCoerce _bsFillCloudRainFill)
 
-foreign import bsFillCloudRainHeavyFill_ :: ReactIcon
+foreign import _bsFillCloudRainHeavyFill :: ReactIcon
 
 bsFillCloudRainHeavyFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillCloudRainHeavyFill = element (unsafeCoerce bsFillCloudRainHeavyFill_)
+bsFillCloudRainHeavyFill = element (unsafeCoerce _bsFillCloudRainHeavyFill)
 
-foreign import bsFillCloudsFill_ :: ReactIcon
+foreign import _bsFillCloudsFill :: ReactIcon
 
 bsFillCloudsFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillCloudsFill = element (unsafeCoerce bsFillCloudsFill_)
+bsFillCloudsFill = element (unsafeCoerce _bsFillCloudsFill)
 
-foreign import bsFillCloudSlashFill_ :: ReactIcon
+foreign import _bsFillCloudSlashFill :: ReactIcon
 
 bsFillCloudSlashFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillCloudSlashFill = element (unsafeCoerce bsFillCloudSlashFill_)
+bsFillCloudSlashFill = element (unsafeCoerce _bsFillCloudSlashFill)
 
-foreign import bsFillCloudSleetFill_ :: ReactIcon
+foreign import _bsFillCloudSleetFill :: ReactIcon
 
 bsFillCloudSleetFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillCloudSleetFill = element (unsafeCoerce bsFillCloudSleetFill_)
+bsFillCloudSleetFill = element (unsafeCoerce _bsFillCloudSleetFill)
 
-foreign import bsFillCloudSnowFill_ :: ReactIcon
+foreign import _bsFillCloudSnowFill :: ReactIcon
 
 bsFillCloudSnowFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillCloudSnowFill = element (unsafeCoerce bsFillCloudSnowFill_)
+bsFillCloudSnowFill = element (unsafeCoerce _bsFillCloudSnowFill)
 
-foreign import bsFillCloudSunFill_ :: ReactIcon
+foreign import _bsFillCloudSunFill :: ReactIcon
 
 bsFillCloudSunFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillCloudSunFill = element (unsafeCoerce bsFillCloudSunFill_)
+bsFillCloudSunFill = element (unsafeCoerce _bsFillCloudSunFill)
 
-foreign import bsFillCloudUploadFill_ :: ReactIcon
+foreign import _bsFillCloudUploadFill :: ReactIcon
 
 bsFillCloudUploadFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillCloudUploadFill = element (unsafeCoerce bsFillCloudUploadFill_)
+bsFillCloudUploadFill = element (unsafeCoerce _bsFillCloudUploadFill)
 
-foreign import bsFillCloudyFill_ :: ReactIcon
+foreign import _bsFillCloudyFill :: ReactIcon
 
 bsFillCloudyFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillCloudyFill = element (unsafeCoerce bsFillCloudyFill_)
+bsFillCloudyFill = element (unsafeCoerce _bsFillCloudyFill)
 
-foreign import bsFillCollectionFill_ :: ReactIcon
+foreign import _bsFillCollectionFill :: ReactIcon
 
 bsFillCollectionFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillCollectionFill = element (unsafeCoerce bsFillCollectionFill_)
+bsFillCollectionFill = element (unsafeCoerce _bsFillCollectionFill)
 
-foreign import bsFillCollectionPlayFill_ :: ReactIcon
+foreign import _bsFillCollectionPlayFill :: ReactIcon
 
 bsFillCollectionPlayFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillCollectionPlayFill = element (unsafeCoerce bsFillCollectionPlayFill_)
+bsFillCollectionPlayFill = element (unsafeCoerce _bsFillCollectionPlayFill)
 
-foreign import bsFillCompassFill_ :: ReactIcon
+foreign import _bsFillCompassFill :: ReactIcon
 
 bsFillCompassFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillCompassFill = element (unsafeCoerce bsFillCompassFill_)
+bsFillCompassFill = element (unsafeCoerce _bsFillCompassFill)
 
-foreign import bsFillCpuFill_ :: ReactIcon
+foreign import _bsFillCpuFill :: ReactIcon
 
 bsFillCpuFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillCpuFill = element (unsafeCoerce bsFillCpuFill_)
+bsFillCpuFill = element (unsafeCoerce _bsFillCpuFill)
 
-foreign import bsFillCreditCardFill_ :: ReactIcon
+foreign import _bsFillCreditCardFill :: ReactIcon
 
 bsFillCreditCardFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillCreditCardFill = element (unsafeCoerce bsFillCreditCardFill_)
+bsFillCreditCardFill = element (unsafeCoerce _bsFillCreditCardFill)
 
-foreign import bsFillCupFill_ :: ReactIcon
+foreign import _bsFillCupFill :: ReactIcon
 
 bsFillCupFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillCupFill = element (unsafeCoerce bsFillCupFill_)
+bsFillCupFill = element (unsafeCoerce _bsFillCupFill)
 
-foreign import bsFillCursorFill_ :: ReactIcon
+foreign import _bsFillCursorFill :: ReactIcon
 
 bsFillCursorFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillCursorFill = element (unsafeCoerce bsFillCursorFill_)
+bsFillCursorFill = element (unsafeCoerce _bsFillCursorFill)
 
-foreign import bsFillDashCircleFill_ :: ReactIcon
+foreign import _bsFillDashCircleFill :: ReactIcon
 
 bsFillDashCircleFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillDashCircleFill = element (unsafeCoerce bsFillDashCircleFill_)
+bsFillDashCircleFill = element (unsafeCoerce _bsFillDashCircleFill)
 
-foreign import bsFillDashSquareFill_ :: ReactIcon
+foreign import _bsFillDashSquareFill :: ReactIcon
 
 bsFillDashSquareFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillDashSquareFill = element (unsafeCoerce bsFillDashSquareFill_)
+bsFillDashSquareFill = element (unsafeCoerce _bsFillDashSquareFill)
 
-foreign import bsFillDiamondFill_ :: ReactIcon
+foreign import _bsFillDiamondFill :: ReactIcon
 
 bsFillDiamondFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillDiamondFill = element (unsafeCoerce bsFillDiamondFill_)
+bsFillDiamondFill = element (unsafeCoerce _bsFillDiamondFill)
 
-foreign import bsFillDiscFill_ :: ReactIcon
+foreign import _bsFillDiscFill :: ReactIcon
 
 bsFillDiscFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillDiscFill = element (unsafeCoerce bsFillDiscFill_)
+bsFillDiscFill = element (unsafeCoerce _bsFillDiscFill)
 
-foreign import bsFillDisplayFill_ :: ReactIcon
+foreign import _bsFillDisplayFill :: ReactIcon
 
 bsFillDisplayFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillDisplayFill = element (unsafeCoerce bsFillDisplayFill_)
+bsFillDisplayFill = element (unsafeCoerce _bsFillDisplayFill)
 
-foreign import bsFillDoorClosedFill_ :: ReactIcon
+foreign import _bsFillDoorClosedFill :: ReactIcon
 
 bsFillDoorClosedFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillDoorClosedFill = element (unsafeCoerce bsFillDoorClosedFill_)
+bsFillDoorClosedFill = element (unsafeCoerce _bsFillDoorClosedFill)
 
-foreign import bsFillDoorOpenFill_ :: ReactIcon
+foreign import _bsFillDoorOpenFill :: ReactIcon
 
 bsFillDoorOpenFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillDoorOpenFill = element (unsafeCoerce bsFillDoorOpenFill_)
+bsFillDoorOpenFill = element (unsafeCoerce _bsFillDoorOpenFill)
 
-foreign import bsFillDropletFill_ :: ReactIcon
+foreign import _bsFillDropletFill :: ReactIcon
 
 bsFillDropletFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillDropletFill = element (unsafeCoerce bsFillDropletFill_)
+bsFillDropletFill = element (unsafeCoerce _bsFillDropletFill)
 
-foreign import bsFillEaselFill_ :: ReactIcon
+foreign import _bsFillEaselFill :: ReactIcon
 
 bsFillEaselFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillEaselFill = element (unsafeCoerce bsFillEaselFill_)
+bsFillEaselFill = element (unsafeCoerce _bsFillEaselFill)
 
-foreign import bsFillEggFill_ :: ReactIcon
+foreign import _bsFillEggFill :: ReactIcon
 
 bsFillEggFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillEggFill = element (unsafeCoerce bsFillEggFill_)
+bsFillEggFill = element (unsafeCoerce _bsFillEggFill)
 
-foreign import bsFillEjectFill_ :: ReactIcon
+foreign import _bsFillEjectFill :: ReactIcon
 
 bsFillEjectFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillEjectFill = element (unsafeCoerce bsFillEjectFill_)
+bsFillEjectFill = element (unsafeCoerce _bsFillEjectFill)
 
-foreign import bsFillEmojiAngryFill_ :: ReactIcon
+foreign import _bsFillEmojiAngryFill :: ReactIcon
 
 bsFillEmojiAngryFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillEmojiAngryFill = element (unsafeCoerce bsFillEmojiAngryFill_)
+bsFillEmojiAngryFill = element (unsafeCoerce _bsFillEmojiAngryFill)
 
-foreign import bsFillEmojiDizzyFill_ :: ReactIcon
+foreign import _bsFillEmojiDizzyFill :: ReactIcon
 
 bsFillEmojiDizzyFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillEmojiDizzyFill = element (unsafeCoerce bsFillEmojiDizzyFill_)
+bsFillEmojiDizzyFill = element (unsafeCoerce _bsFillEmojiDizzyFill)
 
-foreign import bsFillEmojiExpressionlessFill_ :: ReactIcon
+foreign import _bsFillEmojiExpressionlessFill :: ReactIcon
 
 bsFillEmojiExpressionlessFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillEmojiExpressionlessFill = element (unsafeCoerce bsFillEmojiExpressionlessFill_)
+bsFillEmojiExpressionlessFill = element (unsafeCoerce _bsFillEmojiExpressionlessFill)
 
-foreign import bsFillEmojiFrownFill_ :: ReactIcon
+foreign import _bsFillEmojiFrownFill :: ReactIcon
 
 bsFillEmojiFrownFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillEmojiFrownFill = element (unsafeCoerce bsFillEmojiFrownFill_)
+bsFillEmojiFrownFill = element (unsafeCoerce _bsFillEmojiFrownFill)
 
-foreign import bsFillEmojiHeartEyesFill_ :: ReactIcon
+foreign import _bsFillEmojiHeartEyesFill :: ReactIcon
 
 bsFillEmojiHeartEyesFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillEmojiHeartEyesFill = element (unsafeCoerce bsFillEmojiHeartEyesFill_)
+bsFillEmojiHeartEyesFill = element (unsafeCoerce _bsFillEmojiHeartEyesFill)
 
-foreign import bsFillEmojiLaughingFill_ :: ReactIcon
+foreign import _bsFillEmojiLaughingFill :: ReactIcon
 
 bsFillEmojiLaughingFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillEmojiLaughingFill = element (unsafeCoerce bsFillEmojiLaughingFill_)
+bsFillEmojiLaughingFill = element (unsafeCoerce _bsFillEmojiLaughingFill)
 
-foreign import bsFillEmojiNeutralFill_ :: ReactIcon
+foreign import _bsFillEmojiNeutralFill :: ReactIcon
 
 bsFillEmojiNeutralFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillEmojiNeutralFill = element (unsafeCoerce bsFillEmojiNeutralFill_)
+bsFillEmojiNeutralFill = element (unsafeCoerce _bsFillEmojiNeutralFill)
 
-foreign import bsFillEmojiSmileFill_ :: ReactIcon
+foreign import _bsFillEmojiSmileFill :: ReactIcon
 
 bsFillEmojiSmileFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillEmojiSmileFill = element (unsafeCoerce bsFillEmojiSmileFill_)
+bsFillEmojiSmileFill = element (unsafeCoerce _bsFillEmojiSmileFill)
 
-foreign import bsFillEmojiSmileUpsideDownFill_ :: ReactIcon
+foreign import _bsFillEmojiSmileUpsideDownFill :: ReactIcon
 
 bsFillEmojiSmileUpsideDownFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillEmojiSmileUpsideDownFill = element (unsafeCoerce bsFillEmojiSmileUpsideDownFill_)
+bsFillEmojiSmileUpsideDownFill = element (unsafeCoerce _bsFillEmojiSmileUpsideDownFill)
 
-foreign import bsFillEmojiSunglassesFill_ :: ReactIcon
+foreign import _bsFillEmojiSunglassesFill :: ReactIcon
 
 bsFillEmojiSunglassesFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillEmojiSunglassesFill = element (unsafeCoerce bsFillEmojiSunglassesFill_)
+bsFillEmojiSunglassesFill = element (unsafeCoerce _bsFillEmojiSunglassesFill)
 
-foreign import bsFillEmojiWinkFill_ :: ReactIcon
+foreign import _bsFillEmojiWinkFill :: ReactIcon
 
 bsFillEmojiWinkFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillEmojiWinkFill = element (unsafeCoerce bsFillEmojiWinkFill_)
+bsFillEmojiWinkFill = element (unsafeCoerce _bsFillEmojiWinkFill)
 
-foreign import bsFillEnvelopeFill_ :: ReactIcon
+foreign import _bsFillEnvelopeFill :: ReactIcon
 
 bsFillEnvelopeFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillEnvelopeFill = element (unsafeCoerce bsFillEnvelopeFill_)
+bsFillEnvelopeFill = element (unsafeCoerce _bsFillEnvelopeFill)
 
-foreign import bsFillEnvelopeOpenFill_ :: ReactIcon
+foreign import _bsFillEnvelopeOpenFill :: ReactIcon
 
 bsFillEnvelopeOpenFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillEnvelopeOpenFill = element (unsafeCoerce bsFillEnvelopeOpenFill_)
+bsFillEnvelopeOpenFill = element (unsafeCoerce _bsFillEnvelopeOpenFill)
 
-foreign import bsFillEraserFill_ :: ReactIcon
+foreign import _bsFillEraserFill :: ReactIcon
 
 bsFillEraserFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillEraserFill = element (unsafeCoerce bsFillEraserFill_)
+bsFillEraserFill = element (unsafeCoerce _bsFillEraserFill)
 
-foreign import bsFillExclamationCircleFill_ :: ReactIcon
+foreign import _bsFillExclamationCircleFill :: ReactIcon
 
 bsFillExclamationCircleFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillExclamationCircleFill = element (unsafeCoerce bsFillExclamationCircleFill_)
+bsFillExclamationCircleFill = element (unsafeCoerce _bsFillExclamationCircleFill)
 
-foreign import bsFillExclamationDiamondFill_ :: ReactIcon
+foreign import _bsFillExclamationDiamondFill :: ReactIcon
 
 bsFillExclamationDiamondFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillExclamationDiamondFill = element (unsafeCoerce bsFillExclamationDiamondFill_)
+bsFillExclamationDiamondFill = element (unsafeCoerce _bsFillExclamationDiamondFill)
 
-foreign import bsFillExclamationOctagonFill_ :: ReactIcon
+foreign import _bsFillExclamationOctagonFill :: ReactIcon
 
 bsFillExclamationOctagonFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillExclamationOctagonFill = element (unsafeCoerce bsFillExclamationOctagonFill_)
+bsFillExclamationOctagonFill = element (unsafeCoerce _bsFillExclamationOctagonFill)
 
-foreign import bsFillExclamationSquareFill_ :: ReactIcon
+foreign import _bsFillExclamationSquareFill :: ReactIcon
 
 bsFillExclamationSquareFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillExclamationSquareFill = element (unsafeCoerce bsFillExclamationSquareFill_)
+bsFillExclamationSquareFill = element (unsafeCoerce _bsFillExclamationSquareFill)
 
-foreign import bsFillExclamationTriangleFill_ :: ReactIcon
+foreign import _bsFillExclamationTriangleFill :: ReactIcon
 
 bsFillExclamationTriangleFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillExclamationTriangleFill = element (unsafeCoerce bsFillExclamationTriangleFill_)
+bsFillExclamationTriangleFill = element (unsafeCoerce _bsFillExclamationTriangleFill)
 
-foreign import bsFillEyeFill_ :: ReactIcon
+foreign import _bsFillEyeFill :: ReactIcon
 
 bsFillEyeFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillEyeFill = element (unsafeCoerce bsFillEyeFill_)
+bsFillEyeFill = element (unsafeCoerce _bsFillEyeFill)
 
-foreign import bsFillEyeSlashFill_ :: ReactIcon
+foreign import _bsFillEyeSlashFill :: ReactIcon
 
 bsFillEyeSlashFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillEyeSlashFill = element (unsafeCoerce bsFillEyeSlashFill_)
+bsFillEyeSlashFill = element (unsafeCoerce _bsFillEyeSlashFill)
 
-foreign import bsFillFileArrowDownFill_ :: ReactIcon
+foreign import _bsFillFileArrowDownFill :: ReactIcon
 
 bsFillFileArrowDownFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillFileArrowDownFill = element (unsafeCoerce bsFillFileArrowDownFill_)
+bsFillFileArrowDownFill = element (unsafeCoerce _bsFillFileArrowDownFill)
 
-foreign import bsFillFileArrowUpFill_ :: ReactIcon
+foreign import _bsFillFileArrowUpFill :: ReactIcon
 
 bsFillFileArrowUpFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillFileArrowUpFill = element (unsafeCoerce bsFillFileArrowUpFill_)
+bsFillFileArrowUpFill = element (unsafeCoerce _bsFillFileArrowUpFill)
 
-foreign import bsFillFileBarGraphFill_ :: ReactIcon
+foreign import _bsFillFileBarGraphFill :: ReactIcon
 
 bsFillFileBarGraphFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillFileBarGraphFill = element (unsafeCoerce bsFillFileBarGraphFill_)
+bsFillFileBarGraphFill = element (unsafeCoerce _bsFillFileBarGraphFill)
 
-foreign import bsFillFileBinaryFill_ :: ReactIcon
+foreign import _bsFillFileBinaryFill :: ReactIcon
 
 bsFillFileBinaryFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillFileBinaryFill = element (unsafeCoerce bsFillFileBinaryFill_)
+bsFillFileBinaryFill = element (unsafeCoerce _bsFillFileBinaryFill)
 
-foreign import bsFillFileBreakFill_ :: ReactIcon
+foreign import _bsFillFileBreakFill :: ReactIcon
 
 bsFillFileBreakFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillFileBreakFill = element (unsafeCoerce bsFillFileBreakFill_)
+bsFillFileBreakFill = element (unsafeCoerce _bsFillFileBreakFill)
 
-foreign import bsFillFileCheckFill_ :: ReactIcon
+foreign import _bsFillFileCheckFill :: ReactIcon
 
 bsFillFileCheckFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillFileCheckFill = element (unsafeCoerce bsFillFileCheckFill_)
+bsFillFileCheckFill = element (unsafeCoerce _bsFillFileCheckFill)
 
-foreign import bsFillFileCodeFill_ :: ReactIcon
+foreign import _bsFillFileCodeFill :: ReactIcon
 
 bsFillFileCodeFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillFileCodeFill = element (unsafeCoerce bsFillFileCodeFill_)
+bsFillFileCodeFill = element (unsafeCoerce _bsFillFileCodeFill)
 
-foreign import bsFillFileDiffFill_ :: ReactIcon
+foreign import _bsFillFileDiffFill :: ReactIcon
 
 bsFillFileDiffFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillFileDiffFill = element (unsafeCoerce bsFillFileDiffFill_)
+bsFillFileDiffFill = element (unsafeCoerce _bsFillFileDiffFill)
 
-foreign import bsFillFileEarmarkArrowDownFill_ :: ReactIcon
+foreign import _bsFillFileEarmarkArrowDownFill :: ReactIcon
 
 bsFillFileEarmarkArrowDownFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillFileEarmarkArrowDownFill = element (unsafeCoerce bsFillFileEarmarkArrowDownFill_)
+bsFillFileEarmarkArrowDownFill = element (unsafeCoerce _bsFillFileEarmarkArrowDownFill)
 
-foreign import bsFillFileEarmarkArrowUpFill_ :: ReactIcon
+foreign import _bsFillFileEarmarkArrowUpFill :: ReactIcon
 
 bsFillFileEarmarkArrowUpFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillFileEarmarkArrowUpFill = element (unsafeCoerce bsFillFileEarmarkArrowUpFill_)
+bsFillFileEarmarkArrowUpFill = element (unsafeCoerce _bsFillFileEarmarkArrowUpFill)
 
-foreign import bsFillFileEarmarkBarGraphFill_ :: ReactIcon
+foreign import _bsFillFileEarmarkBarGraphFill :: ReactIcon
 
 bsFillFileEarmarkBarGraphFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillFileEarmarkBarGraphFill = element (unsafeCoerce bsFillFileEarmarkBarGraphFill_)
+bsFillFileEarmarkBarGraphFill = element (unsafeCoerce _bsFillFileEarmarkBarGraphFill)
 
-foreign import bsFillFileEarmarkBinaryFill_ :: ReactIcon
+foreign import _bsFillFileEarmarkBinaryFill :: ReactIcon
 
 bsFillFileEarmarkBinaryFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillFileEarmarkBinaryFill = element (unsafeCoerce bsFillFileEarmarkBinaryFill_)
+bsFillFileEarmarkBinaryFill = element (unsafeCoerce _bsFillFileEarmarkBinaryFill)
 
-foreign import bsFillFileEarmarkBreakFill_ :: ReactIcon
+foreign import _bsFillFileEarmarkBreakFill :: ReactIcon
 
 bsFillFileEarmarkBreakFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillFileEarmarkBreakFill = element (unsafeCoerce bsFillFileEarmarkBreakFill_)
+bsFillFileEarmarkBreakFill = element (unsafeCoerce _bsFillFileEarmarkBreakFill)
 
-foreign import bsFillFileEarmarkCheckFill_ :: ReactIcon
+foreign import _bsFillFileEarmarkCheckFill :: ReactIcon
 
 bsFillFileEarmarkCheckFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillFileEarmarkCheckFill = element (unsafeCoerce bsFillFileEarmarkCheckFill_)
+bsFillFileEarmarkCheckFill = element (unsafeCoerce _bsFillFileEarmarkCheckFill)
 
-foreign import bsFillFileEarmarkCodeFill_ :: ReactIcon
+foreign import _bsFillFileEarmarkCodeFill :: ReactIcon
 
 bsFillFileEarmarkCodeFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillFileEarmarkCodeFill = element (unsafeCoerce bsFillFileEarmarkCodeFill_)
+bsFillFileEarmarkCodeFill = element (unsafeCoerce _bsFillFileEarmarkCodeFill)
 
-foreign import bsFillFileEarmarkDiffFill_ :: ReactIcon
+foreign import _bsFillFileEarmarkDiffFill :: ReactIcon
 
 bsFillFileEarmarkDiffFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillFileEarmarkDiffFill = element (unsafeCoerce bsFillFileEarmarkDiffFill_)
+bsFillFileEarmarkDiffFill = element (unsafeCoerce _bsFillFileEarmarkDiffFill)
 
-foreign import bsFillFileEarmarkEaselFill_ :: ReactIcon
+foreign import _bsFillFileEarmarkEaselFill :: ReactIcon
 
 bsFillFileEarmarkEaselFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillFileEarmarkEaselFill = element (unsafeCoerce bsFillFileEarmarkEaselFill_)
+bsFillFileEarmarkEaselFill = element (unsafeCoerce _bsFillFileEarmarkEaselFill)
 
-foreign import bsFillFileEarmarkExcelFill_ :: ReactIcon
+foreign import _bsFillFileEarmarkExcelFill :: ReactIcon
 
 bsFillFileEarmarkExcelFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillFileEarmarkExcelFill = element (unsafeCoerce bsFillFileEarmarkExcelFill_)
+bsFillFileEarmarkExcelFill = element (unsafeCoerce _bsFillFileEarmarkExcelFill)
 
-foreign import bsFillFileEarmarkFill_ :: ReactIcon
+foreign import _bsFillFileEarmarkFill :: ReactIcon
 
 bsFillFileEarmarkFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillFileEarmarkFill = element (unsafeCoerce bsFillFileEarmarkFill_)
+bsFillFileEarmarkFill = element (unsafeCoerce _bsFillFileEarmarkFill)
 
-foreign import bsFillFileEarmarkFontFill_ :: ReactIcon
+foreign import _bsFillFileEarmarkFontFill :: ReactIcon
 
 bsFillFileEarmarkFontFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillFileEarmarkFontFill = element (unsafeCoerce bsFillFileEarmarkFontFill_)
+bsFillFileEarmarkFontFill = element (unsafeCoerce _bsFillFileEarmarkFontFill)
 
-foreign import bsFillFileEarmarkImageFill_ :: ReactIcon
+foreign import _bsFillFileEarmarkImageFill :: ReactIcon
 
 bsFillFileEarmarkImageFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillFileEarmarkImageFill = element (unsafeCoerce bsFillFileEarmarkImageFill_)
+bsFillFileEarmarkImageFill = element (unsafeCoerce _bsFillFileEarmarkImageFill)
 
-foreign import bsFillFileEarmarkLockFill_ :: ReactIcon
+foreign import _bsFillFileEarmarkLockFill :: ReactIcon
 
 bsFillFileEarmarkLockFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillFileEarmarkLockFill = element (unsafeCoerce bsFillFileEarmarkLockFill_)
+bsFillFileEarmarkLockFill = element (unsafeCoerce _bsFillFileEarmarkLockFill)
 
-foreign import bsFillFileEarmarkMedicalFill_ :: ReactIcon
+foreign import _bsFillFileEarmarkMedicalFill :: ReactIcon
 
 bsFillFileEarmarkMedicalFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillFileEarmarkMedicalFill = element (unsafeCoerce bsFillFileEarmarkMedicalFill_)
+bsFillFileEarmarkMedicalFill = element (unsafeCoerce _bsFillFileEarmarkMedicalFill)
 
-foreign import bsFillFileEarmarkMinusFill_ :: ReactIcon
+foreign import _bsFillFileEarmarkMinusFill :: ReactIcon
 
 bsFillFileEarmarkMinusFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillFileEarmarkMinusFill = element (unsafeCoerce bsFillFileEarmarkMinusFill_)
+bsFillFileEarmarkMinusFill = element (unsafeCoerce _bsFillFileEarmarkMinusFill)
 
-foreign import bsFillFileEarmarkMusicFill_ :: ReactIcon
+foreign import _bsFillFileEarmarkMusicFill :: ReactIcon
 
 bsFillFileEarmarkMusicFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillFileEarmarkMusicFill = element (unsafeCoerce bsFillFileEarmarkMusicFill_)
+bsFillFileEarmarkMusicFill = element (unsafeCoerce _bsFillFileEarmarkMusicFill)
 
-foreign import bsFillFileEarmarkPdfFill_ :: ReactIcon
+foreign import _bsFillFileEarmarkPdfFill :: ReactIcon
 
 bsFillFileEarmarkPdfFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillFileEarmarkPdfFill = element (unsafeCoerce bsFillFileEarmarkPdfFill_)
+bsFillFileEarmarkPdfFill = element (unsafeCoerce _bsFillFileEarmarkPdfFill)
 
-foreign import bsFillFileEarmarkPersonFill_ :: ReactIcon
+foreign import _bsFillFileEarmarkPersonFill :: ReactIcon
 
 bsFillFileEarmarkPersonFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillFileEarmarkPersonFill = element (unsafeCoerce bsFillFileEarmarkPersonFill_)
+bsFillFileEarmarkPersonFill = element (unsafeCoerce _bsFillFileEarmarkPersonFill)
 
-foreign import bsFillFileEarmarkPlayFill_ :: ReactIcon
+foreign import _bsFillFileEarmarkPlayFill :: ReactIcon
 
 bsFillFileEarmarkPlayFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillFileEarmarkPlayFill = element (unsafeCoerce bsFillFileEarmarkPlayFill_)
+bsFillFileEarmarkPlayFill = element (unsafeCoerce _bsFillFileEarmarkPlayFill)
 
-foreign import bsFillFileEarmarkPlusFill_ :: ReactIcon
+foreign import _bsFillFileEarmarkPlusFill :: ReactIcon
 
 bsFillFileEarmarkPlusFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillFileEarmarkPlusFill = element (unsafeCoerce bsFillFileEarmarkPlusFill_)
+bsFillFileEarmarkPlusFill = element (unsafeCoerce _bsFillFileEarmarkPlusFill)
 
-foreign import bsFillFileEarmarkPostFill_ :: ReactIcon
+foreign import _bsFillFileEarmarkPostFill :: ReactIcon
 
 bsFillFileEarmarkPostFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillFileEarmarkPostFill = element (unsafeCoerce bsFillFileEarmarkPostFill_)
+bsFillFileEarmarkPostFill = element (unsafeCoerce _bsFillFileEarmarkPostFill)
 
-foreign import bsFillFileEarmarkPptFill_ :: ReactIcon
+foreign import _bsFillFileEarmarkPptFill :: ReactIcon
 
 bsFillFileEarmarkPptFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillFileEarmarkPptFill = element (unsafeCoerce bsFillFileEarmarkPptFill_)
+bsFillFileEarmarkPptFill = element (unsafeCoerce _bsFillFileEarmarkPptFill)
 
-foreign import bsFillFileEarmarkRichtextFill_ :: ReactIcon
+foreign import _bsFillFileEarmarkRichtextFill :: ReactIcon
 
 bsFillFileEarmarkRichtextFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillFileEarmarkRichtextFill = element (unsafeCoerce bsFillFileEarmarkRichtextFill_)
+bsFillFileEarmarkRichtextFill = element (unsafeCoerce _bsFillFileEarmarkRichtextFill)
 
-foreign import bsFillFileEarmarkRuledFill_ :: ReactIcon
+foreign import _bsFillFileEarmarkRuledFill :: ReactIcon
 
 bsFillFileEarmarkRuledFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillFileEarmarkRuledFill = element (unsafeCoerce bsFillFileEarmarkRuledFill_)
+bsFillFileEarmarkRuledFill = element (unsafeCoerce _bsFillFileEarmarkRuledFill)
 
-foreign import bsFillFileEarmarkSlidesFill_ :: ReactIcon
+foreign import _bsFillFileEarmarkSlidesFill :: ReactIcon
 
 bsFillFileEarmarkSlidesFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillFileEarmarkSlidesFill = element (unsafeCoerce bsFillFileEarmarkSlidesFill_)
+bsFillFileEarmarkSlidesFill = element (unsafeCoerce _bsFillFileEarmarkSlidesFill)
 
-foreign import bsFillFileEarmarkSpreadsheetFill_ :: ReactIcon
+foreign import _bsFillFileEarmarkSpreadsheetFill :: ReactIcon
 
 bsFillFileEarmarkSpreadsheetFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillFileEarmarkSpreadsheetFill = element (unsafeCoerce bsFillFileEarmarkSpreadsheetFill_)
+bsFillFileEarmarkSpreadsheetFill = element (unsafeCoerce _bsFillFileEarmarkSpreadsheetFill)
 
-foreign import bsFillFileEarmarkTextFill_ :: ReactIcon
+foreign import _bsFillFileEarmarkTextFill :: ReactIcon
 
 bsFillFileEarmarkTextFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillFileEarmarkTextFill = element (unsafeCoerce bsFillFileEarmarkTextFill_)
+bsFillFileEarmarkTextFill = element (unsafeCoerce _bsFillFileEarmarkTextFill)
 
-foreign import bsFillFileEarmarkWordFill_ :: ReactIcon
+foreign import _bsFillFileEarmarkWordFill :: ReactIcon
 
 bsFillFileEarmarkWordFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillFileEarmarkWordFill = element (unsafeCoerce bsFillFileEarmarkWordFill_)
+bsFillFileEarmarkWordFill = element (unsafeCoerce _bsFillFileEarmarkWordFill)
 
-foreign import bsFillFileEarmarkXFill_ :: ReactIcon
+foreign import _bsFillFileEarmarkXFill :: ReactIcon
 
 bsFillFileEarmarkXFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillFileEarmarkXFill = element (unsafeCoerce bsFillFileEarmarkXFill_)
+bsFillFileEarmarkXFill = element (unsafeCoerce _bsFillFileEarmarkXFill)
 
-foreign import bsFillFileEarmarkZipFill_ :: ReactIcon
+foreign import _bsFillFileEarmarkZipFill :: ReactIcon
 
 bsFillFileEarmarkZipFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillFileEarmarkZipFill = element (unsafeCoerce bsFillFileEarmarkZipFill_)
+bsFillFileEarmarkZipFill = element (unsafeCoerce _bsFillFileEarmarkZipFill)
 
-foreign import bsFillFileEaselFill_ :: ReactIcon
+foreign import _bsFillFileEaselFill :: ReactIcon
 
 bsFillFileEaselFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillFileEaselFill = element (unsafeCoerce bsFillFileEaselFill_)
+bsFillFileEaselFill = element (unsafeCoerce _bsFillFileEaselFill)
 
-foreign import bsFillFileExcelFill_ :: ReactIcon
+foreign import _bsFillFileExcelFill :: ReactIcon
 
 bsFillFileExcelFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillFileExcelFill = element (unsafeCoerce bsFillFileExcelFill_)
+bsFillFileExcelFill = element (unsafeCoerce _bsFillFileExcelFill)
 
-foreign import bsFillFileFill_ :: ReactIcon
+foreign import _bsFillFileFill :: ReactIcon
 
 bsFillFileFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillFileFill = element (unsafeCoerce bsFillFileFill_)
+bsFillFileFill = element (unsafeCoerce _bsFillFileFill)
 
-foreign import bsFillFileFontFill_ :: ReactIcon
+foreign import _bsFillFileFontFill :: ReactIcon
 
 bsFillFileFontFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillFileFontFill = element (unsafeCoerce bsFillFileFontFill_)
+bsFillFileFontFill = element (unsafeCoerce _bsFillFileFontFill)
 
-foreign import bsFillFileImageFill_ :: ReactIcon
+foreign import _bsFillFileImageFill :: ReactIcon
 
 bsFillFileImageFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillFileImageFill = element (unsafeCoerce bsFillFileImageFill_)
+bsFillFileImageFill = element (unsafeCoerce _bsFillFileImageFill)
 
-foreign import bsFillFileLockFill_ :: ReactIcon
+foreign import _bsFillFileLockFill :: ReactIcon
 
 bsFillFileLockFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillFileLockFill = element (unsafeCoerce bsFillFileLockFill_)
+bsFillFileLockFill = element (unsafeCoerce _bsFillFileLockFill)
 
-foreign import bsFillFileMedicalFill_ :: ReactIcon
+foreign import _bsFillFileMedicalFill :: ReactIcon
 
 bsFillFileMedicalFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillFileMedicalFill = element (unsafeCoerce bsFillFileMedicalFill_)
+bsFillFileMedicalFill = element (unsafeCoerce _bsFillFileMedicalFill)
 
-foreign import bsFillFileMinusFill_ :: ReactIcon
+foreign import _bsFillFileMinusFill :: ReactIcon
 
 bsFillFileMinusFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillFileMinusFill = element (unsafeCoerce bsFillFileMinusFill_)
+bsFillFileMinusFill = element (unsafeCoerce _bsFillFileMinusFill)
 
-foreign import bsFillFileMusicFill_ :: ReactIcon
+foreign import _bsFillFileMusicFill :: ReactIcon
 
 bsFillFileMusicFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillFileMusicFill = element (unsafeCoerce bsFillFileMusicFill_)
+bsFillFileMusicFill = element (unsafeCoerce _bsFillFileMusicFill)
 
-foreign import bsFillFilePdfFill_ :: ReactIcon
+foreign import _bsFillFilePdfFill :: ReactIcon
 
 bsFillFilePdfFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillFilePdfFill = element (unsafeCoerce bsFillFilePdfFill_)
+bsFillFilePdfFill = element (unsafeCoerce _bsFillFilePdfFill)
 
-foreign import bsFillFilePersonFill_ :: ReactIcon
+foreign import _bsFillFilePersonFill :: ReactIcon
 
 bsFillFilePersonFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillFilePersonFill = element (unsafeCoerce bsFillFilePersonFill_)
+bsFillFilePersonFill = element (unsafeCoerce _bsFillFilePersonFill)
 
-foreign import bsFillFilePlayFill_ :: ReactIcon
+foreign import _bsFillFilePlayFill :: ReactIcon
 
 bsFillFilePlayFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillFilePlayFill = element (unsafeCoerce bsFillFilePlayFill_)
+bsFillFilePlayFill = element (unsafeCoerce _bsFillFilePlayFill)
 
-foreign import bsFillFilePlusFill_ :: ReactIcon
+foreign import _bsFillFilePlusFill :: ReactIcon
 
 bsFillFilePlusFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillFilePlusFill = element (unsafeCoerce bsFillFilePlusFill_)
+bsFillFilePlusFill = element (unsafeCoerce _bsFillFilePlusFill)
 
-foreign import bsFillFilePostFill_ :: ReactIcon
+foreign import _bsFillFilePostFill :: ReactIcon
 
 bsFillFilePostFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillFilePostFill = element (unsafeCoerce bsFillFilePostFill_)
+bsFillFilePostFill = element (unsafeCoerce _bsFillFilePostFill)
 
-foreign import bsFillFilePptFill_ :: ReactIcon
+foreign import _bsFillFilePptFill :: ReactIcon
 
 bsFillFilePptFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillFilePptFill = element (unsafeCoerce bsFillFilePptFill_)
+bsFillFilePptFill = element (unsafeCoerce _bsFillFilePptFill)
 
-foreign import bsFillFileRichtextFill_ :: ReactIcon
+foreign import _bsFillFileRichtextFill :: ReactIcon
 
 bsFillFileRichtextFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillFileRichtextFill = element (unsafeCoerce bsFillFileRichtextFill_)
+bsFillFileRichtextFill = element (unsafeCoerce _bsFillFileRichtextFill)
 
-foreign import bsFillFileRuledFill_ :: ReactIcon
+foreign import _bsFillFileRuledFill :: ReactIcon
 
 bsFillFileRuledFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillFileRuledFill = element (unsafeCoerce bsFillFileRuledFill_)
+bsFillFileRuledFill = element (unsafeCoerce _bsFillFileRuledFill)
 
-foreign import bsFillFileSlidesFill_ :: ReactIcon
+foreign import _bsFillFileSlidesFill :: ReactIcon
 
 bsFillFileSlidesFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillFileSlidesFill = element (unsafeCoerce bsFillFileSlidesFill_)
+bsFillFileSlidesFill = element (unsafeCoerce _bsFillFileSlidesFill)
 
-foreign import bsFillFileSpreadsheetFill_ :: ReactIcon
+foreign import _bsFillFileSpreadsheetFill :: ReactIcon
 
 bsFillFileSpreadsheetFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillFileSpreadsheetFill = element (unsafeCoerce bsFillFileSpreadsheetFill_)
+bsFillFileSpreadsheetFill = element (unsafeCoerce _bsFillFileSpreadsheetFill)
 
-foreign import bsFillFileTextFill_ :: ReactIcon
+foreign import _bsFillFileTextFill :: ReactIcon
 
 bsFillFileTextFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillFileTextFill = element (unsafeCoerce bsFillFileTextFill_)
+bsFillFileTextFill = element (unsafeCoerce _bsFillFileTextFill)
 
-foreign import bsFillFileWordFill_ :: ReactIcon
+foreign import _bsFillFileWordFill :: ReactIcon
 
 bsFillFileWordFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillFileWordFill = element (unsafeCoerce bsFillFileWordFill_)
+bsFillFileWordFill = element (unsafeCoerce _bsFillFileWordFill)
 
-foreign import bsFillFileXFill_ :: ReactIcon
+foreign import _bsFillFileXFill :: ReactIcon
 
 bsFillFileXFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillFileXFill = element (unsafeCoerce bsFillFileXFill_)
+bsFillFileXFill = element (unsafeCoerce _bsFillFileXFill)
 
-foreign import bsFillFileZipFill_ :: ReactIcon
+foreign import _bsFillFileZipFill :: ReactIcon
 
 bsFillFileZipFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillFileZipFill = element (unsafeCoerce bsFillFileZipFill_)
+bsFillFileZipFill = element (unsafeCoerce _bsFillFileZipFill)
 
-foreign import bsFillFilterCircleFill_ :: ReactIcon
+foreign import _bsFillFilterCircleFill :: ReactIcon
 
 bsFillFilterCircleFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillFilterCircleFill = element (unsafeCoerce bsFillFilterCircleFill_)
+bsFillFilterCircleFill = element (unsafeCoerce _bsFillFilterCircleFill)
 
-foreign import bsFillFilterSquareFill_ :: ReactIcon
+foreign import _bsFillFilterSquareFill :: ReactIcon
 
 bsFillFilterSquareFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillFilterSquareFill = element (unsafeCoerce bsFillFilterSquareFill_)
+bsFillFilterSquareFill = element (unsafeCoerce _bsFillFilterSquareFill)
 
-foreign import bsFillFlagFill_ :: ReactIcon
+foreign import _bsFillFlagFill :: ReactIcon
 
 bsFillFlagFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillFlagFill = element (unsafeCoerce bsFillFlagFill_)
+bsFillFlagFill = element (unsafeCoerce _bsFillFlagFill)
 
-foreign import bsFillFolderFill_ :: ReactIcon
+foreign import _bsFillFolderFill :: ReactIcon
 
 bsFillFolderFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillFolderFill = element (unsafeCoerce bsFillFolderFill_)
+bsFillFolderFill = element (unsafeCoerce _bsFillFolderFill)
 
-foreign import bsFillFolderSymlinkFill_ :: ReactIcon
+foreign import _bsFillFolderSymlinkFill :: ReactIcon
 
 bsFillFolderSymlinkFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillFolderSymlinkFill = element (unsafeCoerce bsFillFolderSymlinkFill_)
+bsFillFolderSymlinkFill = element (unsafeCoerce _bsFillFolderSymlinkFill)
 
-foreign import bsFillForwardFill_ :: ReactIcon
+foreign import _bsFillForwardFill :: ReactIcon
 
 bsFillForwardFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillForwardFill = element (unsafeCoerce bsFillForwardFill_)
+bsFillForwardFill = element (unsafeCoerce _bsFillForwardFill)
 
-foreign import bsFillFunnelFill_ :: ReactIcon
+foreign import _bsFillFunnelFill :: ReactIcon
 
 bsFillFunnelFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillFunnelFill = element (unsafeCoerce bsFillFunnelFill_)
+bsFillFunnelFill = element (unsafeCoerce _bsFillFunnelFill)
 
-foreign import bsFillGearFill_ :: ReactIcon
+foreign import _bsFillGearFill :: ReactIcon
 
 bsFillGearFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillGearFill = element (unsafeCoerce bsFillGearFill_)
+bsFillGearFill = element (unsafeCoerce _bsFillGearFill)
 
-foreign import bsFillGeoAltFill_ :: ReactIcon
+foreign import _bsFillGeoAltFill :: ReactIcon
 
 bsFillGeoAltFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillGeoAltFill = element (unsafeCoerce bsFillGeoAltFill_)
+bsFillGeoAltFill = element (unsafeCoerce _bsFillGeoAltFill)
 
-foreign import bsFillGeoFill_ :: ReactIcon
+foreign import _bsFillGeoFill :: ReactIcon
 
 bsFillGeoFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillGeoFill = element (unsafeCoerce bsFillGeoFill_)
+bsFillGeoFill = element (unsafeCoerce _bsFillGeoFill)
 
-foreign import bsFillGiftFill_ :: ReactIcon
+foreign import _bsFillGiftFill :: ReactIcon
 
 bsFillGiftFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillGiftFill = element (unsafeCoerce bsFillGiftFill_)
+bsFillGiftFill = element (unsafeCoerce _bsFillGiftFill)
 
-foreign import bsFillGridFill_ :: ReactIcon
+foreign import _bsFillGridFill :: ReactIcon
 
 bsFillGridFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillGridFill = element (unsafeCoerce bsFillGridFill_)
+bsFillGridFill = element (unsafeCoerce _bsFillGridFill)
 
-foreign import bsFillHandbagFill_ :: ReactIcon
+foreign import _bsFillHandbagFill :: ReactIcon
 
 bsFillHandbagFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillHandbagFill = element (unsafeCoerce bsFillHandbagFill_)
+bsFillHandbagFill = element (unsafeCoerce _bsFillHandbagFill)
 
-foreign import bsFillHandIndexFill_ :: ReactIcon
+foreign import _bsFillHandIndexFill :: ReactIcon
 
 bsFillHandIndexFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillHandIndexFill = element (unsafeCoerce bsFillHandIndexFill_)
+bsFillHandIndexFill = element (unsafeCoerce _bsFillHandIndexFill)
 
-foreign import bsFillHandIndexThumbFill_ :: ReactIcon
+foreign import _bsFillHandIndexThumbFill :: ReactIcon
 
 bsFillHandIndexThumbFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillHandIndexThumbFill = element (unsafeCoerce bsFillHandIndexThumbFill_)
+bsFillHandIndexThumbFill = element (unsafeCoerce _bsFillHandIndexThumbFill)
 
-foreign import bsFillHandThumbsDownFill_ :: ReactIcon
+foreign import _bsFillHandThumbsDownFill :: ReactIcon
 
 bsFillHandThumbsDownFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillHandThumbsDownFill = element (unsafeCoerce bsFillHandThumbsDownFill_)
+bsFillHandThumbsDownFill = element (unsafeCoerce _bsFillHandThumbsDownFill)
 
-foreign import bsFillHandThumbsUpFill_ :: ReactIcon
+foreign import _bsFillHandThumbsUpFill :: ReactIcon
 
 bsFillHandThumbsUpFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillHandThumbsUpFill = element (unsafeCoerce bsFillHandThumbsUpFill_)
+bsFillHandThumbsUpFill = element (unsafeCoerce _bsFillHandThumbsUpFill)
 
-foreign import bsFillHddFill_ :: ReactIcon
+foreign import _bsFillHddFill :: ReactIcon
 
 bsFillHddFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillHddFill = element (unsafeCoerce bsFillHddFill_)
+bsFillHddFill = element (unsafeCoerce _bsFillHddFill)
 
-foreign import bsFillHddNetworkFill_ :: ReactIcon
+foreign import _bsFillHddNetworkFill :: ReactIcon
 
 bsFillHddNetworkFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillHddNetworkFill = element (unsafeCoerce bsFillHddNetworkFill_)
+bsFillHddNetworkFill = element (unsafeCoerce _bsFillHddNetworkFill)
 
-foreign import bsFillHddRackFill_ :: ReactIcon
+foreign import _bsFillHddRackFill :: ReactIcon
 
 bsFillHddRackFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillHddRackFill = element (unsafeCoerce bsFillHddRackFill_)
+bsFillHddRackFill = element (unsafeCoerce _bsFillHddRackFill)
 
-foreign import bsFillHddStackFill_ :: ReactIcon
+foreign import _bsFillHddStackFill :: ReactIcon
 
 bsFillHddStackFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillHddStackFill = element (unsafeCoerce bsFillHddStackFill_)
+bsFillHddStackFill = element (unsafeCoerce _bsFillHddStackFill)
 
-foreign import bsFillHeartFill_ :: ReactIcon
+foreign import _bsFillHeartFill :: ReactIcon
 
 bsFillHeartFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillHeartFill = element (unsafeCoerce bsFillHeartFill_)
+bsFillHeartFill = element (unsafeCoerce _bsFillHeartFill)
 
-foreign import bsFillHeptagonFill_ :: ReactIcon
+foreign import _bsFillHeptagonFill :: ReactIcon
 
 bsFillHeptagonFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillHeptagonFill = element (unsafeCoerce bsFillHeptagonFill_)
+bsFillHeptagonFill = element (unsafeCoerce _bsFillHeptagonFill)
 
-foreign import bsFillHexagonFill_ :: ReactIcon
+foreign import _bsFillHexagonFill :: ReactIcon
 
 bsFillHexagonFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillHexagonFill = element (unsafeCoerce bsFillHexagonFill_)
+bsFillHexagonFill = element (unsafeCoerce _bsFillHexagonFill)
 
-foreign import bsFillHouseDoorFill_ :: ReactIcon
+foreign import _bsFillHouseDoorFill :: ReactIcon
 
 bsFillHouseDoorFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillHouseDoorFill = element (unsafeCoerce bsFillHouseDoorFill_)
+bsFillHouseDoorFill = element (unsafeCoerce _bsFillHouseDoorFill)
 
-foreign import bsFillHouseFill_ :: ReactIcon
+foreign import _bsFillHouseFill :: ReactIcon
 
 bsFillHouseFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillHouseFill = element (unsafeCoerce bsFillHouseFill_)
+bsFillHouseFill = element (unsafeCoerce _bsFillHouseFill)
 
-foreign import bsFillImageFill_ :: ReactIcon
+foreign import _bsFillImageFill :: ReactIcon
 
 bsFillImageFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillImageFill = element (unsafeCoerce bsFillImageFill_)
+bsFillImageFill = element (unsafeCoerce _bsFillImageFill)
 
-foreign import bsFillInboxesFill_ :: ReactIcon
+foreign import _bsFillInboxesFill :: ReactIcon
 
 bsFillInboxesFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillInboxesFill = element (unsafeCoerce bsFillInboxesFill_)
+bsFillInboxesFill = element (unsafeCoerce _bsFillInboxesFill)
 
-foreign import bsFillInboxFill_ :: ReactIcon
+foreign import _bsFillInboxFill :: ReactIcon
 
 bsFillInboxFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillInboxFill = element (unsafeCoerce bsFillInboxFill_)
+bsFillInboxFill = element (unsafeCoerce _bsFillInboxFill)
 
-foreign import bsFillInfoCircleFill_ :: ReactIcon
+foreign import _bsFillInfoCircleFill :: ReactIcon
 
 bsFillInfoCircleFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillInfoCircleFill = element (unsafeCoerce bsFillInfoCircleFill_)
+bsFillInfoCircleFill = element (unsafeCoerce _bsFillInfoCircleFill)
 
-foreign import bsFillInfoSquareFill_ :: ReactIcon
+foreign import _bsFillInfoSquareFill :: ReactIcon
 
 bsFillInfoSquareFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillInfoSquareFill = element (unsafeCoerce bsFillInfoSquareFill_)
+bsFillInfoSquareFill = element (unsafeCoerce _bsFillInfoSquareFill)
 
-foreign import bsFillJournalBookmarkFill_ :: ReactIcon
+foreign import _bsFillJournalBookmarkFill :: ReactIcon
 
 bsFillJournalBookmarkFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillJournalBookmarkFill = element (unsafeCoerce bsFillJournalBookmarkFill_)
+bsFillJournalBookmarkFill = element (unsafeCoerce _bsFillJournalBookmarkFill)
 
-foreign import bsFillKanbanFill_ :: ReactIcon
+foreign import _bsFillKanbanFill :: ReactIcon
 
 bsFillKanbanFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillKanbanFill = element (unsafeCoerce bsFillKanbanFill_)
+bsFillKanbanFill = element (unsafeCoerce _bsFillKanbanFill)
 
-foreign import bsFillKeyboardFill_ :: ReactIcon
+foreign import _bsFillKeyboardFill :: ReactIcon
 
 bsFillKeyboardFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillKeyboardFill = element (unsafeCoerce bsFillKeyboardFill_)
+bsFillKeyboardFill = element (unsafeCoerce _bsFillKeyboardFill)
 
-foreign import bsFillKeyFill_ :: ReactIcon
+foreign import _bsFillKeyFill :: ReactIcon
 
 bsFillKeyFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillKeyFill = element (unsafeCoerce bsFillKeyFill_)
+bsFillKeyFill = element (unsafeCoerce _bsFillKeyFill)
 
-foreign import bsFillLampFill_ :: ReactIcon
+foreign import _bsFillLampFill :: ReactIcon
 
 bsFillLampFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillLampFill = element (unsafeCoerce bsFillLampFill_)
+bsFillLampFill = element (unsafeCoerce _bsFillLampFill)
 
-foreign import bsFillLaptopFill_ :: ReactIcon
+foreign import _bsFillLaptopFill :: ReactIcon
 
 bsFillLaptopFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillLaptopFill = element (unsafeCoerce bsFillLaptopFill_)
+bsFillLaptopFill = element (unsafeCoerce _bsFillLaptopFill)
 
-foreign import bsFillLayersFill_ :: ReactIcon
+foreign import _bsFillLayersFill :: ReactIcon
 
 bsFillLayersFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillLayersFill = element (unsafeCoerce bsFillLayersFill_)
+bsFillLayersFill = element (unsafeCoerce _bsFillLayersFill)
 
-foreign import bsFillLightbulbFill_ :: ReactIcon
+foreign import _bsFillLightbulbFill :: ReactIcon
 
 bsFillLightbulbFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillLightbulbFill = element (unsafeCoerce bsFillLightbulbFill_)
+bsFillLightbulbFill = element (unsafeCoerce _bsFillLightbulbFill)
 
-foreign import bsFillLightbulbOffFill_ :: ReactIcon
+foreign import _bsFillLightbulbOffFill :: ReactIcon
 
 bsFillLightbulbOffFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillLightbulbOffFill = element (unsafeCoerce bsFillLightbulbOffFill_)
+bsFillLightbulbOffFill = element (unsafeCoerce _bsFillLightbulbOffFill)
 
-foreign import bsFillLightningChargeFill_ :: ReactIcon
+foreign import _bsFillLightningChargeFill :: ReactIcon
 
 bsFillLightningChargeFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillLightningChargeFill = element (unsafeCoerce bsFillLightningChargeFill_)
+bsFillLightningChargeFill = element (unsafeCoerce _bsFillLightningChargeFill)
 
-foreign import bsFillLightningFill_ :: ReactIcon
+foreign import _bsFillLightningFill :: ReactIcon
 
 bsFillLightningFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillLightningFill = element (unsafeCoerce bsFillLightningFill_)
+bsFillLightningFill = element (unsafeCoerce _bsFillLightningFill)
 
-foreign import bsFillLockFill_ :: ReactIcon
+foreign import _bsFillLockFill :: ReactIcon
 
 bsFillLockFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillLockFill = element (unsafeCoerce bsFillLockFill_)
+bsFillLockFill = element (unsafeCoerce _bsFillLockFill)
 
-foreign import bsFillMapFill_ :: ReactIcon
+foreign import _bsFillMapFill :: ReactIcon
 
 bsFillMapFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillMapFill = element (unsafeCoerce bsFillMapFill_)
+bsFillMapFill = element (unsafeCoerce _bsFillMapFill)
 
-foreign import bsFillMarkdownFill_ :: ReactIcon
+foreign import _bsFillMarkdownFill :: ReactIcon
 
 bsFillMarkdownFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillMarkdownFill = element (unsafeCoerce bsFillMarkdownFill_)
+bsFillMarkdownFill = element (unsafeCoerce _bsFillMarkdownFill)
 
-foreign import bsFillMegaphoneFill_ :: ReactIcon
+foreign import _bsFillMegaphoneFill :: ReactIcon
 
 bsFillMegaphoneFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillMegaphoneFill = element (unsafeCoerce bsFillMegaphoneFill_)
+bsFillMegaphoneFill = element (unsafeCoerce _bsFillMegaphoneFill)
 
-foreign import bsFillMenuAppFill_ :: ReactIcon
+foreign import _bsFillMenuAppFill :: ReactIcon
 
 bsFillMenuAppFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillMenuAppFill = element (unsafeCoerce bsFillMenuAppFill_)
+bsFillMenuAppFill = element (unsafeCoerce _bsFillMenuAppFill)
 
-foreign import bsFillMenuButtonFill_ :: ReactIcon
+foreign import _bsFillMenuButtonFill :: ReactIcon
 
 bsFillMenuButtonFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillMenuButtonFill = element (unsafeCoerce bsFillMenuButtonFill_)
+bsFillMenuButtonFill = element (unsafeCoerce _bsFillMenuButtonFill)
 
-foreign import bsFillMenuButtonWideFill_ :: ReactIcon
+foreign import _bsFillMenuButtonWideFill :: ReactIcon
 
 bsFillMenuButtonWideFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillMenuButtonWideFill = element (unsafeCoerce bsFillMenuButtonWideFill_)
+bsFillMenuButtonWideFill = element (unsafeCoerce _bsFillMenuButtonWideFill)
 
-foreign import bsFillMicFill_ :: ReactIcon
+foreign import _bsFillMicFill :: ReactIcon
 
 bsFillMicFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillMicFill = element (unsafeCoerce bsFillMicFill_)
+bsFillMicFill = element (unsafeCoerce _bsFillMicFill)
 
-foreign import bsFillMicMuteFill_ :: ReactIcon
+foreign import _bsFillMicMuteFill :: ReactIcon
 
 bsFillMicMuteFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillMicMuteFill = element (unsafeCoerce bsFillMicMuteFill_)
+bsFillMicMuteFill = element (unsafeCoerce _bsFillMicMuteFill)
 
-foreign import bsFillMoonFill_ :: ReactIcon
+foreign import _bsFillMoonFill :: ReactIcon
 
 bsFillMoonFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillMoonFill = element (unsafeCoerce bsFillMoonFill_)
+bsFillMoonFill = element (unsafeCoerce _bsFillMoonFill)
 
-foreign import bsFillMoonStarsFill_ :: ReactIcon
+foreign import _bsFillMoonStarsFill :: ReactIcon
 
 bsFillMoonStarsFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillMoonStarsFill = element (unsafeCoerce bsFillMoonStarsFill_)
+bsFillMoonStarsFill = element (unsafeCoerce _bsFillMoonStarsFill)
 
-foreign import bsFillMouseFill_ :: ReactIcon
+foreign import _bsFillMouseFill :: ReactIcon
 
 bsFillMouseFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillMouseFill = element (unsafeCoerce bsFillMouseFill_)
+bsFillMouseFill = element (unsafeCoerce _bsFillMouseFill)
 
-foreign import bsFillMusicPlayerFill_ :: ReactIcon
+foreign import _bsFillMusicPlayerFill :: ReactIcon
 
 bsFillMusicPlayerFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillMusicPlayerFill = element (unsafeCoerce bsFillMusicPlayerFill_)
+bsFillMusicPlayerFill = element (unsafeCoerce _bsFillMusicPlayerFill)
 
-foreign import bsFillNodeMinusFill_ :: ReactIcon
+foreign import _bsFillNodeMinusFill :: ReactIcon
 
 bsFillNodeMinusFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillNodeMinusFill = element (unsafeCoerce bsFillNodeMinusFill_)
+bsFillNodeMinusFill = element (unsafeCoerce _bsFillNodeMinusFill)
 
-foreign import bsFillNodePlusFill_ :: ReactIcon
+foreign import _bsFillNodePlusFill :: ReactIcon
 
 bsFillNodePlusFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillNodePlusFill = element (unsafeCoerce bsFillNodePlusFill_)
+bsFillNodePlusFill = element (unsafeCoerce _bsFillNodePlusFill)
 
-foreign import bsFillNutFill_ :: ReactIcon
+foreign import _bsFillNutFill :: ReactIcon
 
 bsFillNutFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillNutFill = element (unsafeCoerce bsFillNutFill_)
+bsFillNutFill = element (unsafeCoerce _bsFillNutFill)
 
-foreign import bsFillOctagonFill_ :: ReactIcon
+foreign import _bsFillOctagonFill :: ReactIcon
 
 bsFillOctagonFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillOctagonFill = element (unsafeCoerce bsFillOctagonFill_)
+bsFillOctagonFill = element (unsafeCoerce _bsFillOctagonFill)
 
-foreign import bsFillPaletteFill_ :: ReactIcon
+foreign import _bsFillPaletteFill :: ReactIcon
 
 bsFillPaletteFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillPaletteFill = element (unsafeCoerce bsFillPaletteFill_)
+bsFillPaletteFill = element (unsafeCoerce _bsFillPaletteFill)
 
-foreign import bsFillPatchCheckFill_ :: ReactIcon
+foreign import _bsFillPatchCheckFill :: ReactIcon
 
 bsFillPatchCheckFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillPatchCheckFill = element (unsafeCoerce bsFillPatchCheckFill_)
+bsFillPatchCheckFill = element (unsafeCoerce _bsFillPatchCheckFill)
 
-foreign import bsFillPatchExclamationFill_ :: ReactIcon
+foreign import _bsFillPatchExclamationFill :: ReactIcon
 
 bsFillPatchExclamationFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillPatchExclamationFill = element (unsafeCoerce bsFillPatchExclamationFill_)
+bsFillPatchExclamationFill = element (unsafeCoerce _bsFillPatchExclamationFill)
 
-foreign import bsFillPatchMinusFill_ :: ReactIcon
+foreign import _bsFillPatchMinusFill :: ReactIcon
 
 bsFillPatchMinusFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillPatchMinusFill = element (unsafeCoerce bsFillPatchMinusFill_)
+bsFillPatchMinusFill = element (unsafeCoerce _bsFillPatchMinusFill)
 
-foreign import bsFillPatchPlusFill_ :: ReactIcon
+foreign import _bsFillPatchPlusFill :: ReactIcon
 
 bsFillPatchPlusFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillPatchPlusFill = element (unsafeCoerce bsFillPatchPlusFill_)
+bsFillPatchPlusFill = element (unsafeCoerce _bsFillPatchPlusFill)
 
-foreign import bsFillPatchQuestionFill_ :: ReactIcon
+foreign import _bsFillPatchQuestionFill :: ReactIcon
 
 bsFillPatchQuestionFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillPatchQuestionFill = element (unsafeCoerce bsFillPatchQuestionFill_)
+bsFillPatchQuestionFill = element (unsafeCoerce _bsFillPatchQuestionFill)
 
-foreign import bsFillPauseBtnFill_ :: ReactIcon
+foreign import _bsFillPauseBtnFill :: ReactIcon
 
 bsFillPauseBtnFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillPauseBtnFill = element (unsafeCoerce bsFillPauseBtnFill_)
+bsFillPauseBtnFill = element (unsafeCoerce _bsFillPauseBtnFill)
 
-foreign import bsFillPauseCircleFill_ :: ReactIcon
+foreign import _bsFillPauseCircleFill :: ReactIcon
 
 bsFillPauseCircleFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillPauseCircleFill = element (unsafeCoerce bsFillPauseCircleFill_)
+bsFillPauseCircleFill = element (unsafeCoerce _bsFillPauseCircleFill)
 
-foreign import bsFillPauseFill_ :: ReactIcon
+foreign import _bsFillPauseFill :: ReactIcon
 
 bsFillPauseFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillPauseFill = element (unsafeCoerce bsFillPauseFill_)
+bsFillPauseFill = element (unsafeCoerce _bsFillPauseFill)
 
-foreign import bsFillPeaceFill_ :: ReactIcon
+foreign import _bsFillPeaceFill :: ReactIcon
 
 bsFillPeaceFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillPeaceFill = element (unsafeCoerce bsFillPeaceFill_)
+bsFillPeaceFill = element (unsafeCoerce _bsFillPeaceFill)
 
-foreign import bsFillPencilFill_ :: ReactIcon
+foreign import _bsFillPencilFill :: ReactIcon
 
 bsFillPencilFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillPencilFill = element (unsafeCoerce bsFillPencilFill_)
+bsFillPencilFill = element (unsafeCoerce _bsFillPencilFill)
 
-foreign import bsFillPenFill_ :: ReactIcon
+foreign import _bsFillPenFill :: ReactIcon
 
 bsFillPenFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillPenFill = element (unsafeCoerce bsFillPenFill_)
+bsFillPenFill = element (unsafeCoerce _bsFillPenFill)
 
-foreign import bsFillPentagonFill_ :: ReactIcon
+foreign import _bsFillPentagonFill :: ReactIcon
 
 bsFillPentagonFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillPentagonFill = element (unsafeCoerce bsFillPentagonFill_)
+bsFillPentagonFill = element (unsafeCoerce _bsFillPentagonFill)
 
-foreign import bsFillPeopleFill_ :: ReactIcon
+foreign import _bsFillPeopleFill :: ReactIcon
 
 bsFillPeopleFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillPeopleFill = element (unsafeCoerce bsFillPeopleFill_)
+bsFillPeopleFill = element (unsafeCoerce _bsFillPeopleFill)
 
-foreign import bsFillPersonBadgeFill_ :: ReactIcon
+foreign import _bsFillPersonBadgeFill :: ReactIcon
 
 bsFillPersonBadgeFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillPersonBadgeFill = element (unsafeCoerce bsFillPersonBadgeFill_)
+bsFillPersonBadgeFill = element (unsafeCoerce _bsFillPersonBadgeFill)
 
-foreign import bsFillPersonCheckFill_ :: ReactIcon
+foreign import _bsFillPersonCheckFill :: ReactIcon
 
 bsFillPersonCheckFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillPersonCheckFill = element (unsafeCoerce bsFillPersonCheckFill_)
+bsFillPersonCheckFill = element (unsafeCoerce _bsFillPersonCheckFill)
 
-foreign import bsFillPersonDashFill_ :: ReactIcon
+foreign import _bsFillPersonDashFill :: ReactIcon
 
 bsFillPersonDashFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillPersonDashFill = element (unsafeCoerce bsFillPersonDashFill_)
+bsFillPersonDashFill = element (unsafeCoerce _bsFillPersonDashFill)
 
-foreign import bsFillPersonFill_ :: ReactIcon
+foreign import _bsFillPersonFill :: ReactIcon
 
 bsFillPersonFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillPersonFill = element (unsafeCoerce bsFillPersonFill_)
+bsFillPersonFill = element (unsafeCoerce _bsFillPersonFill)
 
-foreign import bsFillPersonLinesFill_ :: ReactIcon
+foreign import _bsFillPersonLinesFill :: ReactIcon
 
 bsFillPersonLinesFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillPersonLinesFill = element (unsafeCoerce bsFillPersonLinesFill_)
+bsFillPersonLinesFill = element (unsafeCoerce _bsFillPersonLinesFill)
 
-foreign import bsFillPersonPlusFill_ :: ReactIcon
+foreign import _bsFillPersonPlusFill :: ReactIcon
 
 bsFillPersonPlusFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillPersonPlusFill = element (unsafeCoerce bsFillPersonPlusFill_)
+bsFillPersonPlusFill = element (unsafeCoerce _bsFillPersonPlusFill)
 
-foreign import bsFillPersonXFill_ :: ReactIcon
+foreign import _bsFillPersonXFill :: ReactIcon
 
 bsFillPersonXFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillPersonXFill = element (unsafeCoerce bsFillPersonXFill_)
+bsFillPersonXFill = element (unsafeCoerce _bsFillPersonXFill)
 
-foreign import bsFillPhoneFill_ :: ReactIcon
+foreign import _bsFillPhoneFill :: ReactIcon
 
 bsFillPhoneFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillPhoneFill = element (unsafeCoerce bsFillPhoneFill_)
+bsFillPhoneFill = element (unsafeCoerce _bsFillPhoneFill)
 
-foreign import bsFillPhoneLandscapeFill_ :: ReactIcon
+foreign import _bsFillPhoneLandscapeFill :: ReactIcon
 
 bsFillPhoneLandscapeFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillPhoneLandscapeFill = element (unsafeCoerce bsFillPhoneLandscapeFill_)
+bsFillPhoneLandscapeFill = element (unsafeCoerce _bsFillPhoneLandscapeFill)
 
-foreign import bsFillPhoneVibrateFill_ :: ReactIcon
+foreign import _bsFillPhoneVibrateFill :: ReactIcon
 
 bsFillPhoneVibrateFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillPhoneVibrateFill = element (unsafeCoerce bsFillPhoneVibrateFill_)
+bsFillPhoneVibrateFill = element (unsafeCoerce _bsFillPhoneVibrateFill)
 
-foreign import bsFillPieChartFill_ :: ReactIcon
+foreign import _bsFillPieChartFill :: ReactIcon
 
 bsFillPieChartFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillPieChartFill = element (unsafeCoerce bsFillPieChartFill_)
+bsFillPieChartFill = element (unsafeCoerce _bsFillPieChartFill)
 
-foreign import bsFillPiggyBankFill_ :: ReactIcon
+foreign import _bsFillPiggyBankFill :: ReactIcon
 
 bsFillPiggyBankFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillPiggyBankFill = element (unsafeCoerce bsFillPiggyBankFill_)
+bsFillPiggyBankFill = element (unsafeCoerce _bsFillPiggyBankFill)
 
-foreign import bsFillPinAngleFill_ :: ReactIcon
+foreign import _bsFillPinAngleFill :: ReactIcon
 
 bsFillPinAngleFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillPinAngleFill = element (unsafeCoerce bsFillPinAngleFill_)
+bsFillPinAngleFill = element (unsafeCoerce _bsFillPinAngleFill)
 
-foreign import bsFillPinFill_ :: ReactIcon
+foreign import _bsFillPinFill :: ReactIcon
 
 bsFillPinFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillPinFill = element (unsafeCoerce bsFillPinFill_)
+bsFillPinFill = element (unsafeCoerce _bsFillPinFill)
 
-foreign import bsFillPinMapFill_ :: ReactIcon
+foreign import _bsFillPinMapFill :: ReactIcon
 
 bsFillPinMapFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillPinMapFill = element (unsafeCoerce bsFillPinMapFill_)
+bsFillPinMapFill = element (unsafeCoerce _bsFillPinMapFill)
 
-foreign import bsFillPipFill_ :: ReactIcon
+foreign import _bsFillPipFill :: ReactIcon
 
 bsFillPipFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillPipFill = element (unsafeCoerce bsFillPipFill_)
+bsFillPipFill = element (unsafeCoerce _bsFillPipFill)
 
-foreign import bsFillPlayBtnFill_ :: ReactIcon
+foreign import _bsFillPlayBtnFill :: ReactIcon
 
 bsFillPlayBtnFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillPlayBtnFill = element (unsafeCoerce bsFillPlayBtnFill_)
+bsFillPlayBtnFill = element (unsafeCoerce _bsFillPlayBtnFill)
 
-foreign import bsFillPlayCircleFill_ :: ReactIcon
+foreign import _bsFillPlayCircleFill :: ReactIcon
 
 bsFillPlayCircleFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillPlayCircleFill = element (unsafeCoerce bsFillPlayCircleFill_)
+bsFillPlayCircleFill = element (unsafeCoerce _bsFillPlayCircleFill)
 
-foreign import bsFillPlayFill_ :: ReactIcon
+foreign import _bsFillPlayFill :: ReactIcon
 
 bsFillPlayFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillPlayFill = element (unsafeCoerce bsFillPlayFill_)
+bsFillPlayFill = element (unsafeCoerce _bsFillPlayFill)
 
-foreign import bsFillPlugFill_ :: ReactIcon
+foreign import _bsFillPlugFill :: ReactIcon
 
 bsFillPlugFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillPlugFill = element (unsafeCoerce bsFillPlugFill_)
+bsFillPlugFill = element (unsafeCoerce _bsFillPlugFill)
 
-foreign import bsFillPlusCircleFill_ :: ReactIcon
+foreign import _bsFillPlusCircleFill :: ReactIcon
 
 bsFillPlusCircleFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillPlusCircleFill = element (unsafeCoerce bsFillPlusCircleFill_)
+bsFillPlusCircleFill = element (unsafeCoerce _bsFillPlusCircleFill)
 
-foreign import bsFillPlusSquareFill_ :: ReactIcon
+foreign import _bsFillPlusSquareFill :: ReactIcon
 
 bsFillPlusSquareFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillPlusSquareFill = element (unsafeCoerce bsFillPlusSquareFill_)
+bsFillPlusSquareFill = element (unsafeCoerce _bsFillPlusSquareFill)
 
-foreign import bsFillPrinterFill_ :: ReactIcon
+foreign import _bsFillPrinterFill :: ReactIcon
 
 bsFillPrinterFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillPrinterFill = element (unsafeCoerce bsFillPrinterFill_)
+bsFillPrinterFill = element (unsafeCoerce _bsFillPrinterFill)
 
-foreign import bsFillPuzzleFill_ :: ReactIcon
+foreign import _bsFillPuzzleFill :: ReactIcon
 
 bsFillPuzzleFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillPuzzleFill = element (unsafeCoerce bsFillPuzzleFill_)
+bsFillPuzzleFill = element (unsafeCoerce _bsFillPuzzleFill)
 
-foreign import bsFillQuestionCircleFill_ :: ReactIcon
+foreign import _bsFillQuestionCircleFill :: ReactIcon
 
 bsFillQuestionCircleFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillQuestionCircleFill = element (unsafeCoerce bsFillQuestionCircleFill_)
+bsFillQuestionCircleFill = element (unsafeCoerce _bsFillQuestionCircleFill)
 
-foreign import bsFillQuestionDiamondFill_ :: ReactIcon
+foreign import _bsFillQuestionDiamondFill :: ReactIcon
 
 bsFillQuestionDiamondFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillQuestionDiamondFill = element (unsafeCoerce bsFillQuestionDiamondFill_)
+bsFillQuestionDiamondFill = element (unsafeCoerce _bsFillQuestionDiamondFill)
 
-foreign import bsFillQuestionOctagonFill_ :: ReactIcon
+foreign import _bsFillQuestionOctagonFill :: ReactIcon
 
 bsFillQuestionOctagonFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillQuestionOctagonFill = element (unsafeCoerce bsFillQuestionOctagonFill_)
+bsFillQuestionOctagonFill = element (unsafeCoerce _bsFillQuestionOctagonFill)
 
-foreign import bsFillQuestionSquareFill_ :: ReactIcon
+foreign import _bsFillQuestionSquareFill :: ReactIcon
 
 bsFillQuestionSquareFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillQuestionSquareFill = element (unsafeCoerce bsFillQuestionSquareFill_)
+bsFillQuestionSquareFill = element (unsafeCoerce _bsFillQuestionSquareFill)
 
-foreign import bsFillRecordBtnFill_ :: ReactIcon
+foreign import _bsFillRecordBtnFill :: ReactIcon
 
 bsFillRecordBtnFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillRecordBtnFill = element (unsafeCoerce bsFillRecordBtnFill_)
+bsFillRecordBtnFill = element (unsafeCoerce _bsFillRecordBtnFill)
 
-foreign import bsFillRecordCircleFill_ :: ReactIcon
+foreign import _bsFillRecordCircleFill :: ReactIcon
 
 bsFillRecordCircleFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillRecordCircleFill = element (unsafeCoerce bsFillRecordCircleFill_)
+bsFillRecordCircleFill = element (unsafeCoerce _bsFillRecordCircleFill)
 
-foreign import bsFillRecordFill_ :: ReactIcon
+foreign import _bsFillRecordFill :: ReactIcon
 
 bsFillRecordFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillRecordFill = element (unsafeCoerce bsFillRecordFill_)
+bsFillRecordFill = element (unsafeCoerce _bsFillRecordFill)
 
-foreign import bsFillReplyAllFill_ :: ReactIcon
+foreign import _bsFillReplyAllFill :: ReactIcon
 
 bsFillReplyAllFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillReplyAllFill = element (unsafeCoerce bsFillReplyAllFill_)
+bsFillReplyAllFill = element (unsafeCoerce _bsFillReplyAllFill)
 
-foreign import bsFillReplyFill_ :: ReactIcon
+foreign import _bsFillReplyFill :: ReactIcon
 
 bsFillReplyFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillReplyFill = element (unsafeCoerce bsFillReplyFill_)
+bsFillReplyFill = element (unsafeCoerce _bsFillReplyFill)
 
-foreign import bsFillRssFill_ :: ReactIcon
+foreign import _bsFillRssFill :: ReactIcon
 
 bsFillRssFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillRssFill = element (unsafeCoerce bsFillRssFill_)
+bsFillRssFill = element (unsafeCoerce _bsFillRssFill)
 
-foreign import bsFillSafeFill_ :: ReactIcon
+foreign import _bsFillSafeFill :: ReactIcon
 
 bsFillSafeFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillSafeFill = element (unsafeCoerce bsFillSafeFill_)
+bsFillSafeFill = element (unsafeCoerce _bsFillSafeFill)
 
-foreign import bsFillSaveFill_ :: ReactIcon
+foreign import _bsFillSaveFill :: ReactIcon
 
 bsFillSaveFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillSaveFill = element (unsafeCoerce bsFillSaveFill_)
+bsFillSaveFill = element (unsafeCoerce _bsFillSaveFill)
 
-foreign import bsFillSdCardFill_ :: ReactIcon
+foreign import _bsFillSdCardFill :: ReactIcon
 
 bsFillSdCardFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillSdCardFill = element (unsafeCoerce bsFillSdCardFill_)
+bsFillSdCardFill = element (unsafeCoerce _bsFillSdCardFill)
 
-foreign import bsFillShareFill_ :: ReactIcon
+foreign import _bsFillShareFill :: ReactIcon
 
 bsFillShareFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillShareFill = element (unsafeCoerce bsFillShareFill_)
+bsFillShareFill = element (unsafeCoerce _bsFillShareFill)
 
-foreign import bsFillShieldFill_ :: ReactIcon
+foreign import _bsFillShieldFill :: ReactIcon
 
 bsFillShieldFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillShieldFill = element (unsafeCoerce bsFillShieldFill_)
+bsFillShieldFill = element (unsafeCoerce _bsFillShieldFill)
 
-foreign import bsFillShieldLockFill_ :: ReactIcon
+foreign import _bsFillShieldLockFill :: ReactIcon
 
 bsFillShieldLockFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillShieldLockFill = element (unsafeCoerce bsFillShieldLockFill_)
+bsFillShieldLockFill = element (unsafeCoerce _bsFillShieldLockFill)
 
-foreign import bsFillShieldSlashFill_ :: ReactIcon
+foreign import _bsFillShieldSlashFill :: ReactIcon
 
 bsFillShieldSlashFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillShieldSlashFill = element (unsafeCoerce bsFillShieldSlashFill_)
+bsFillShieldSlashFill = element (unsafeCoerce _bsFillShieldSlashFill)
 
-foreign import bsFillShiftFill_ :: ReactIcon
+foreign import _bsFillShiftFill :: ReactIcon
 
 bsFillShiftFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillShiftFill = element (unsafeCoerce bsFillShiftFill_)
+bsFillShiftFill = element (unsafeCoerce _bsFillShiftFill)
 
-foreign import bsFillSignpostFill_ :: ReactIcon
+foreign import _bsFillSignpostFill :: ReactIcon
 
 bsFillSignpostFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillSignpostFill = element (unsafeCoerce bsFillSignpostFill_)
+bsFillSignpostFill = element (unsafeCoerce _bsFillSignpostFill)
 
-foreign import bsFillSignpostSplitFill_ :: ReactIcon
+foreign import _bsFillSignpostSplitFill :: ReactIcon
 
 bsFillSignpostSplitFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillSignpostSplitFill = element (unsafeCoerce bsFillSignpostSplitFill_)
+bsFillSignpostSplitFill = element (unsafeCoerce _bsFillSignpostSplitFill)
 
-foreign import bsFillSimFill_ :: ReactIcon
+foreign import _bsFillSimFill :: ReactIcon
 
 bsFillSimFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillSimFill = element (unsafeCoerce bsFillSimFill_)
+bsFillSimFill = element (unsafeCoerce _bsFillSimFill)
 
-foreign import bsFillSkipBackwardBtnFill_ :: ReactIcon
+foreign import _bsFillSkipBackwardBtnFill :: ReactIcon
 
 bsFillSkipBackwardBtnFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillSkipBackwardBtnFill = element (unsafeCoerce bsFillSkipBackwardBtnFill_)
+bsFillSkipBackwardBtnFill = element (unsafeCoerce _bsFillSkipBackwardBtnFill)
 
-foreign import bsFillSkipBackwardCircleFill_ :: ReactIcon
+foreign import _bsFillSkipBackwardCircleFill :: ReactIcon
 
 bsFillSkipBackwardCircleFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillSkipBackwardCircleFill = element (unsafeCoerce bsFillSkipBackwardCircleFill_)
+bsFillSkipBackwardCircleFill = element (unsafeCoerce _bsFillSkipBackwardCircleFill)
 
-foreign import bsFillSkipBackwardFill_ :: ReactIcon
+foreign import _bsFillSkipBackwardFill :: ReactIcon
 
 bsFillSkipBackwardFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillSkipBackwardFill = element (unsafeCoerce bsFillSkipBackwardFill_)
+bsFillSkipBackwardFill = element (unsafeCoerce _bsFillSkipBackwardFill)
 
-foreign import bsFillSkipEndBtnFill_ :: ReactIcon
+foreign import _bsFillSkipEndBtnFill :: ReactIcon
 
 bsFillSkipEndBtnFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillSkipEndBtnFill = element (unsafeCoerce bsFillSkipEndBtnFill_)
+bsFillSkipEndBtnFill = element (unsafeCoerce _bsFillSkipEndBtnFill)
 
-foreign import bsFillSkipEndCircleFill_ :: ReactIcon
+foreign import _bsFillSkipEndCircleFill :: ReactIcon
 
 bsFillSkipEndCircleFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillSkipEndCircleFill = element (unsafeCoerce bsFillSkipEndCircleFill_)
+bsFillSkipEndCircleFill = element (unsafeCoerce _bsFillSkipEndCircleFill)
 
-foreign import bsFillSkipEndFill_ :: ReactIcon
+foreign import _bsFillSkipEndFill :: ReactIcon
 
 bsFillSkipEndFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillSkipEndFill = element (unsafeCoerce bsFillSkipEndFill_)
+bsFillSkipEndFill = element (unsafeCoerce _bsFillSkipEndFill)
 
-foreign import bsFillSkipForwardBtnFill_ :: ReactIcon
+foreign import _bsFillSkipForwardBtnFill :: ReactIcon
 
 bsFillSkipForwardBtnFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillSkipForwardBtnFill = element (unsafeCoerce bsFillSkipForwardBtnFill_)
+bsFillSkipForwardBtnFill = element (unsafeCoerce _bsFillSkipForwardBtnFill)
 
-foreign import bsFillSkipForwardCircleFill_ :: ReactIcon
+foreign import _bsFillSkipForwardCircleFill :: ReactIcon
 
 bsFillSkipForwardCircleFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillSkipForwardCircleFill = element (unsafeCoerce bsFillSkipForwardCircleFill_)
+bsFillSkipForwardCircleFill = element (unsafeCoerce _bsFillSkipForwardCircleFill)
 
-foreign import bsFillSkipForwardFill_ :: ReactIcon
+foreign import _bsFillSkipForwardFill :: ReactIcon
 
 bsFillSkipForwardFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillSkipForwardFill = element (unsafeCoerce bsFillSkipForwardFill_)
+bsFillSkipForwardFill = element (unsafeCoerce _bsFillSkipForwardFill)
 
-foreign import bsFillSkipStartBtnFill_ :: ReactIcon
+foreign import _bsFillSkipStartBtnFill :: ReactIcon
 
 bsFillSkipStartBtnFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillSkipStartBtnFill = element (unsafeCoerce bsFillSkipStartBtnFill_)
+bsFillSkipStartBtnFill = element (unsafeCoerce _bsFillSkipStartBtnFill)
 
-foreign import bsFillSkipStartCircleFill_ :: ReactIcon
+foreign import _bsFillSkipStartCircleFill :: ReactIcon
 
 bsFillSkipStartCircleFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillSkipStartCircleFill = element (unsafeCoerce bsFillSkipStartCircleFill_)
+bsFillSkipStartCircleFill = element (unsafeCoerce _bsFillSkipStartCircleFill)
 
-foreign import bsFillSkipStartFill_ :: ReactIcon
+foreign import _bsFillSkipStartFill :: ReactIcon
 
 bsFillSkipStartFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillSkipStartFill = element (unsafeCoerce bsFillSkipStartFill_)
+bsFillSkipStartFill = element (unsafeCoerce _bsFillSkipStartFill)
 
-foreign import bsFillSlashCircleFill_ :: ReactIcon
+foreign import _bsFillSlashCircleFill :: ReactIcon
 
 bsFillSlashCircleFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillSlashCircleFill = element (unsafeCoerce bsFillSlashCircleFill_)
+bsFillSlashCircleFill = element (unsafeCoerce _bsFillSlashCircleFill)
 
-foreign import bsFillSlashSquareFill_ :: ReactIcon
+foreign import _bsFillSlashSquareFill :: ReactIcon
 
 bsFillSlashSquareFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillSlashSquareFill = element (unsafeCoerce bsFillSlashSquareFill_)
+bsFillSlashSquareFill = element (unsafeCoerce _bsFillSlashSquareFill)
 
-foreign import bsFillSpeakerFill_ :: ReactIcon
+foreign import _bsFillSpeakerFill :: ReactIcon
 
 bsFillSpeakerFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillSpeakerFill = element (unsafeCoerce bsFillSpeakerFill_)
+bsFillSpeakerFill = element (unsafeCoerce _bsFillSpeakerFill)
 
-foreign import bsFillSquareFill_ :: ReactIcon
+foreign import _bsFillSquareFill :: ReactIcon
 
 bsFillSquareFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillSquareFill = element (unsafeCoerce bsFillSquareFill_)
+bsFillSquareFill = element (unsafeCoerce _bsFillSquareFill)
 
-foreign import bsFillStarFill_ :: ReactIcon
+foreign import _bsFillStarFill :: ReactIcon
 
 bsFillStarFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillStarFill = element (unsafeCoerce bsFillStarFill_)
+bsFillStarFill = element (unsafeCoerce _bsFillStarFill)
 
-foreign import bsFillStickiesFill_ :: ReactIcon
+foreign import _bsFillStickiesFill :: ReactIcon
 
 bsFillStickiesFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillStickiesFill = element (unsafeCoerce bsFillStickiesFill_)
+bsFillStickiesFill = element (unsafeCoerce _bsFillStickiesFill)
 
-foreign import bsFillStickyFill_ :: ReactIcon
+foreign import _bsFillStickyFill :: ReactIcon
 
 bsFillStickyFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillStickyFill = element (unsafeCoerce bsFillStickyFill_)
+bsFillStickyFill = element (unsafeCoerce _bsFillStickyFill)
 
-foreign import bsFillStopBtnFill_ :: ReactIcon
+foreign import _bsFillStopBtnFill :: ReactIcon
 
 bsFillStopBtnFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillStopBtnFill = element (unsafeCoerce bsFillStopBtnFill_)
+bsFillStopBtnFill = element (unsafeCoerce _bsFillStopBtnFill)
 
-foreign import bsFillStopCircleFill_ :: ReactIcon
+foreign import _bsFillStopCircleFill :: ReactIcon
 
 bsFillStopCircleFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillStopCircleFill = element (unsafeCoerce bsFillStopCircleFill_)
+bsFillStopCircleFill = element (unsafeCoerce _bsFillStopCircleFill)
 
-foreign import bsFillStopFill_ :: ReactIcon
+foreign import _bsFillStopFill :: ReactIcon
 
 bsFillStopFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillStopFill = element (unsafeCoerce bsFillStopFill_)
+bsFillStopFill = element (unsafeCoerce _bsFillStopFill)
 
-foreign import bsFillStoplightsFill_ :: ReactIcon
+foreign import _bsFillStoplightsFill :: ReactIcon
 
 bsFillStoplightsFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillStoplightsFill = element (unsafeCoerce bsFillStoplightsFill_)
+bsFillStoplightsFill = element (unsafeCoerce _bsFillStoplightsFill)
 
-foreign import bsFillStopwatchFill_ :: ReactIcon
+foreign import _bsFillStopwatchFill :: ReactIcon
 
 bsFillStopwatchFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillStopwatchFill = element (unsafeCoerce bsFillStopwatchFill_)
+bsFillStopwatchFill = element (unsafeCoerce _bsFillStopwatchFill)
 
-foreign import bsFillSuitClubFill_ :: ReactIcon
+foreign import _bsFillSuitClubFill :: ReactIcon
 
 bsFillSuitClubFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillSuitClubFill = element (unsafeCoerce bsFillSuitClubFill_)
+bsFillSuitClubFill = element (unsafeCoerce _bsFillSuitClubFill)
 
-foreign import bsFillSuitDiamondFill_ :: ReactIcon
+foreign import _bsFillSuitDiamondFill :: ReactIcon
 
 bsFillSuitDiamondFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillSuitDiamondFill = element (unsafeCoerce bsFillSuitDiamondFill_)
+bsFillSuitDiamondFill = element (unsafeCoerce _bsFillSuitDiamondFill)
 
-foreign import bsFillSuitHeartFill_ :: ReactIcon
+foreign import _bsFillSuitHeartFill :: ReactIcon
 
 bsFillSuitHeartFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillSuitHeartFill = element (unsafeCoerce bsFillSuitHeartFill_)
+bsFillSuitHeartFill = element (unsafeCoerce _bsFillSuitHeartFill)
 
-foreign import bsFillSuitSpadeFill_ :: ReactIcon
+foreign import _bsFillSuitSpadeFill :: ReactIcon
 
 bsFillSuitSpadeFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillSuitSpadeFill = element (unsafeCoerce bsFillSuitSpadeFill_)
+bsFillSuitSpadeFill = element (unsafeCoerce _bsFillSuitSpadeFill)
 
-foreign import bsFillSunFill_ :: ReactIcon
+foreign import _bsFillSunFill :: ReactIcon
 
 bsFillSunFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillSunFill = element (unsafeCoerce bsFillSunFill_)
+bsFillSunFill = element (unsafeCoerce _bsFillSunFill)
 
-foreign import bsFillSunriseFill_ :: ReactIcon
+foreign import _bsFillSunriseFill :: ReactIcon
 
 bsFillSunriseFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillSunriseFill = element (unsafeCoerce bsFillSunriseFill_)
+bsFillSunriseFill = element (unsafeCoerce _bsFillSunriseFill)
 
-foreign import bsFillSunsetFill_ :: ReactIcon
+foreign import _bsFillSunsetFill :: ReactIcon
 
 bsFillSunsetFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillSunsetFill = element (unsafeCoerce bsFillSunsetFill_)
+bsFillSunsetFill = element (unsafeCoerce _bsFillSunsetFill)
 
-foreign import bsFillTabletFill_ :: ReactIcon
+foreign import _bsFillTabletFill :: ReactIcon
 
 bsFillTabletFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillTabletFill = element (unsafeCoerce bsFillTabletFill_)
+bsFillTabletFill = element (unsafeCoerce _bsFillTabletFill)
 
-foreign import bsFillTabletLandscapeFill_ :: ReactIcon
+foreign import _bsFillTabletLandscapeFill :: ReactIcon
 
 bsFillTabletLandscapeFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillTabletLandscapeFill = element (unsafeCoerce bsFillTabletLandscapeFill_)
+bsFillTabletLandscapeFill = element (unsafeCoerce _bsFillTabletLandscapeFill)
 
-foreign import bsFillTagFill_ :: ReactIcon
+foreign import _bsFillTagFill :: ReactIcon
 
 bsFillTagFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillTagFill = element (unsafeCoerce bsFillTagFill_)
+bsFillTagFill = element (unsafeCoerce _bsFillTagFill)
 
-foreign import bsFillTagsFill_ :: ReactIcon
+foreign import _bsFillTagsFill :: ReactIcon
 
 bsFillTagsFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillTagsFill = element (unsafeCoerce bsFillTagsFill_)
+bsFillTagsFill = element (unsafeCoerce _bsFillTagsFill)
 
-foreign import bsFillTelephoneFill_ :: ReactIcon
+foreign import _bsFillTelephoneFill :: ReactIcon
 
 bsFillTelephoneFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillTelephoneFill = element (unsafeCoerce bsFillTelephoneFill_)
+bsFillTelephoneFill = element (unsafeCoerce _bsFillTelephoneFill)
 
-foreign import bsFillTelephoneForwardFill_ :: ReactIcon
+foreign import _bsFillTelephoneForwardFill :: ReactIcon
 
 bsFillTelephoneForwardFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillTelephoneForwardFill = element (unsafeCoerce bsFillTelephoneForwardFill_)
+bsFillTelephoneForwardFill = element (unsafeCoerce _bsFillTelephoneForwardFill)
 
-foreign import bsFillTelephoneInboundFill_ :: ReactIcon
+foreign import _bsFillTelephoneInboundFill :: ReactIcon
 
 bsFillTelephoneInboundFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillTelephoneInboundFill = element (unsafeCoerce bsFillTelephoneInboundFill_)
+bsFillTelephoneInboundFill = element (unsafeCoerce _bsFillTelephoneInboundFill)
 
-foreign import bsFillTelephoneMinusFill_ :: ReactIcon
+foreign import _bsFillTelephoneMinusFill :: ReactIcon
 
 bsFillTelephoneMinusFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillTelephoneMinusFill = element (unsafeCoerce bsFillTelephoneMinusFill_)
+bsFillTelephoneMinusFill = element (unsafeCoerce _bsFillTelephoneMinusFill)
 
-foreign import bsFillTelephoneOutboundFill_ :: ReactIcon
+foreign import _bsFillTelephoneOutboundFill :: ReactIcon
 
 bsFillTelephoneOutboundFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillTelephoneOutboundFill = element (unsafeCoerce bsFillTelephoneOutboundFill_)
+bsFillTelephoneOutboundFill = element (unsafeCoerce _bsFillTelephoneOutboundFill)
 
-foreign import bsFillTelephonePlusFill_ :: ReactIcon
+foreign import _bsFillTelephonePlusFill :: ReactIcon
 
 bsFillTelephonePlusFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillTelephonePlusFill = element (unsafeCoerce bsFillTelephonePlusFill_)
+bsFillTelephonePlusFill = element (unsafeCoerce _bsFillTelephonePlusFill)
 
-foreign import bsFillTelephoneXFill_ :: ReactIcon
+foreign import _bsFillTelephoneXFill :: ReactIcon
 
 bsFillTelephoneXFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillTelephoneXFill = element (unsafeCoerce bsFillTelephoneXFill_)
+bsFillTelephoneXFill = element (unsafeCoerce _bsFillTelephoneXFill)
 
-foreign import bsFillTerminalFill_ :: ReactIcon
+foreign import _bsFillTerminalFill :: ReactIcon
 
 bsFillTerminalFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillTerminalFill = element (unsafeCoerce bsFillTerminalFill_)
+bsFillTerminalFill = element (unsafeCoerce _bsFillTerminalFill)
 
-foreign import bsFillTrashFill_ :: ReactIcon
+foreign import _bsFillTrashFill :: ReactIcon
 
 bsFillTrashFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillTrashFill = element (unsafeCoerce bsFillTrashFill_)
+bsFillTrashFill = element (unsafeCoerce _bsFillTrashFill)
 
-foreign import bsFillTreeFill_ :: ReactIcon
+foreign import _bsFillTreeFill :: ReactIcon
 
 bsFillTreeFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillTreeFill = element (unsafeCoerce bsFillTreeFill_)
+bsFillTreeFill = element (unsafeCoerce _bsFillTreeFill)
 
-foreign import bsFillTriangleFill_ :: ReactIcon
+foreign import _bsFillTriangleFill :: ReactIcon
 
 bsFillTriangleFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillTriangleFill = element (unsafeCoerce bsFillTriangleFill_)
+bsFillTriangleFill = element (unsafeCoerce _bsFillTriangleFill)
 
-foreign import bsFillTrophyFill_ :: ReactIcon
+foreign import _bsFillTrophyFill :: ReactIcon
 
 bsFillTrophyFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillTrophyFill = element (unsafeCoerce bsFillTrophyFill_)
+bsFillTrophyFill = element (unsafeCoerce _bsFillTrophyFill)
 
-foreign import bsFillTvFill_ :: ReactIcon
+foreign import _bsFillTvFill :: ReactIcon
 
 bsFillTvFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillTvFill = element (unsafeCoerce bsFillTvFill_)
+bsFillTvFill = element (unsafeCoerce _bsFillTvFill)
 
-foreign import bsFillUmbrellaFill_ :: ReactIcon
+foreign import _bsFillUmbrellaFill :: ReactIcon
 
 bsFillUmbrellaFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillUmbrellaFill = element (unsafeCoerce bsFillUmbrellaFill_)
+bsFillUmbrellaFill = element (unsafeCoerce _bsFillUmbrellaFill)
 
-foreign import bsFillUnlockFill_ :: ReactIcon
+foreign import _bsFillUnlockFill :: ReactIcon
 
 bsFillUnlockFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillUnlockFill = element (unsafeCoerce bsFillUnlockFill_)
+bsFillUnlockFill = element (unsafeCoerce _bsFillUnlockFill)
 
-foreign import bsFillVinylFill_ :: ReactIcon
+foreign import _bsFillVinylFill :: ReactIcon
 
 bsFillVinylFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillVinylFill = element (unsafeCoerce bsFillVinylFill_)
+bsFillVinylFill = element (unsafeCoerce _bsFillVinylFill)
 
-foreign import bsFillVolumeDownFill_ :: ReactIcon
+foreign import _bsFillVolumeDownFill :: ReactIcon
 
 bsFillVolumeDownFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillVolumeDownFill = element (unsafeCoerce bsFillVolumeDownFill_)
+bsFillVolumeDownFill = element (unsafeCoerce _bsFillVolumeDownFill)
 
-foreign import bsFillVolumeMuteFill_ :: ReactIcon
+foreign import _bsFillVolumeMuteFill :: ReactIcon
 
 bsFillVolumeMuteFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillVolumeMuteFill = element (unsafeCoerce bsFillVolumeMuteFill_)
+bsFillVolumeMuteFill = element (unsafeCoerce _bsFillVolumeMuteFill)
 
-foreign import bsFillVolumeOffFill_ :: ReactIcon
+foreign import _bsFillVolumeOffFill :: ReactIcon
 
 bsFillVolumeOffFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillVolumeOffFill = element (unsafeCoerce bsFillVolumeOffFill_)
+bsFillVolumeOffFill = element (unsafeCoerce _bsFillVolumeOffFill)
 
-foreign import bsFillVolumeUpFill_ :: ReactIcon
+foreign import _bsFillVolumeUpFill :: ReactIcon
 
 bsFillVolumeUpFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillVolumeUpFill = element (unsafeCoerce bsFillVolumeUpFill_)
+bsFillVolumeUpFill = element (unsafeCoerce _bsFillVolumeUpFill)
 
-foreign import bsFillWalletFill_ :: ReactIcon
+foreign import _bsFillWalletFill :: ReactIcon
 
 bsFillWalletFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillWalletFill = element (unsafeCoerce bsFillWalletFill_)
+bsFillWalletFill = element (unsafeCoerce _bsFillWalletFill)
 
-foreign import bsFillXCircleFill_ :: ReactIcon
+foreign import _bsFillXCircleFill :: ReactIcon
 
 bsFillXCircleFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillXCircleFill = element (unsafeCoerce bsFillXCircleFill_)
+bsFillXCircleFill = element (unsafeCoerce _bsFillXCircleFill)
 
-foreign import bsFillXDiamondFill_ :: ReactIcon
+foreign import _bsFillXDiamondFill :: ReactIcon
 
 bsFillXDiamondFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillXDiamondFill = element (unsafeCoerce bsFillXDiamondFill_)
+bsFillXDiamondFill = element (unsafeCoerce _bsFillXDiamondFill)
 
-foreign import bsFillXOctagonFill_ :: ReactIcon
+foreign import _bsFillXOctagonFill :: ReactIcon
 
 bsFillXOctagonFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillXOctagonFill = element (unsafeCoerce bsFillXOctagonFill_)
+bsFillXOctagonFill = element (unsafeCoerce _bsFillXOctagonFill)
 
-foreign import bsFillXSquareFill_ :: ReactIcon
+foreign import _bsFillXSquareFill :: ReactIcon
 
 bsFillXSquareFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFillXSquareFill = element (unsafeCoerce bsFillXSquareFill_)
+bsFillXSquareFill = element (unsafeCoerce _bsFillXSquareFill)
 
-foreign import bsFilm_ :: ReactIcon
+foreign import _bsFilm :: ReactIcon
 
 bsFilm :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFilm = element (unsafeCoerce bsFilm_)
+bsFilm = element (unsafeCoerce _bsFilm)
 
-foreign import bsFilter_ :: ReactIcon
+foreign import _bsFilter :: ReactIcon
 
 bsFilter :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFilter = element (unsafeCoerce bsFilter_)
+bsFilter = element (unsafeCoerce _bsFilter)
 
-foreign import bsFilterCircle_ :: ReactIcon
+foreign import _bsFilterCircle :: ReactIcon
 
 bsFilterCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFilterCircle = element (unsafeCoerce bsFilterCircle_)
+bsFilterCircle = element (unsafeCoerce _bsFilterCircle)
 
-foreign import bsFilterCircleFill_ :: ReactIcon
+foreign import _bsFilterCircleFill :: ReactIcon
 
 bsFilterCircleFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFilterCircleFill = element (unsafeCoerce bsFilterCircleFill_)
+bsFilterCircleFill = element (unsafeCoerce _bsFilterCircleFill)
 
-foreign import bsFilterLeft_ :: ReactIcon
+foreign import _bsFilterLeft :: ReactIcon
 
 bsFilterLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFilterLeft = element (unsafeCoerce bsFilterLeft_)
+bsFilterLeft = element (unsafeCoerce _bsFilterLeft)
 
-foreign import bsFilterRight_ :: ReactIcon
+foreign import _bsFilterRight :: ReactIcon
 
 bsFilterRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFilterRight = element (unsafeCoerce bsFilterRight_)
+bsFilterRight = element (unsafeCoerce _bsFilterRight)
 
-foreign import bsFilterSquare_ :: ReactIcon
+foreign import _bsFilterSquare :: ReactIcon
 
 bsFilterSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFilterSquare = element (unsafeCoerce bsFilterSquare_)
+bsFilterSquare = element (unsafeCoerce _bsFilterSquare)
 
-foreign import bsFilterSquareFill_ :: ReactIcon
+foreign import _bsFilterSquareFill :: ReactIcon
 
 bsFilterSquareFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFilterSquareFill = element (unsafeCoerce bsFilterSquareFill_)
+bsFilterSquareFill = element (unsafeCoerce _bsFilterSquareFill)
 
-foreign import bsFlag_ :: ReactIcon
+foreign import _bsFlag :: ReactIcon
 
 bsFlag :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFlag = element (unsafeCoerce bsFlag_)
+bsFlag = element (unsafeCoerce _bsFlag)
 
-foreign import bsFlagFill_ :: ReactIcon
+foreign import _bsFlagFill :: ReactIcon
 
 bsFlagFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFlagFill = element (unsafeCoerce bsFlagFill_)
+bsFlagFill = element (unsafeCoerce _bsFlagFill)
 
-foreign import bsFolder_ :: ReactIcon
+foreign import _bsFolder :: ReactIcon
 
 bsFolder :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFolder = element (unsafeCoerce bsFolder_)
+bsFolder = element (unsafeCoerce _bsFolder)
 
-foreign import bsFolderCheck_ :: ReactIcon
+foreign import _bsFolderCheck :: ReactIcon
 
 bsFolderCheck :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFolderCheck = element (unsafeCoerce bsFolderCheck_)
+bsFolderCheck = element (unsafeCoerce _bsFolderCheck)
 
-foreign import bsFolderFill_ :: ReactIcon
+foreign import _bsFolderFill :: ReactIcon
 
 bsFolderFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFolderFill = element (unsafeCoerce bsFolderFill_)
+bsFolderFill = element (unsafeCoerce _bsFolderFill)
 
-foreign import bsFolderMinus_ :: ReactIcon
+foreign import _bsFolderMinus :: ReactIcon
 
 bsFolderMinus :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFolderMinus = element (unsafeCoerce bsFolderMinus_)
+bsFolderMinus = element (unsafeCoerce _bsFolderMinus)
 
-foreign import bsFolderPlus_ :: ReactIcon
+foreign import _bsFolderPlus :: ReactIcon
 
 bsFolderPlus :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFolderPlus = element (unsafeCoerce bsFolderPlus_)
+bsFolderPlus = element (unsafeCoerce _bsFolderPlus)
 
-foreign import bsFolderSymlink_ :: ReactIcon
+foreign import _bsFolderSymlink :: ReactIcon
 
 bsFolderSymlink :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFolderSymlink = element (unsafeCoerce bsFolderSymlink_)
+bsFolderSymlink = element (unsafeCoerce _bsFolderSymlink)
 
-foreign import bsFolderSymlinkFill_ :: ReactIcon
+foreign import _bsFolderSymlinkFill :: ReactIcon
 
 bsFolderSymlinkFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFolderSymlinkFill = element (unsafeCoerce bsFolderSymlinkFill_)
+bsFolderSymlinkFill = element (unsafeCoerce _bsFolderSymlinkFill)
 
-foreign import bsFolderX_ :: ReactIcon
+foreign import _bsFolderX :: ReactIcon
 
 bsFolderX :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFolderX = element (unsafeCoerce bsFolderX_)
+bsFolderX = element (unsafeCoerce _bsFolderX)
 
-foreign import bsFonts_ :: ReactIcon
+foreign import _bsFonts :: ReactIcon
 
 bsFonts :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFonts = element (unsafeCoerce bsFonts_)
+bsFonts = element (unsafeCoerce _bsFonts)
 
-foreign import bsForward_ :: ReactIcon
+foreign import _bsForward :: ReactIcon
 
 bsForward :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsForward = element (unsafeCoerce bsForward_)
+bsForward = element (unsafeCoerce _bsForward)
 
-foreign import bsForwardFill_ :: ReactIcon
+foreign import _bsForwardFill :: ReactIcon
 
 bsForwardFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsForwardFill = element (unsafeCoerce bsForwardFill_)
+bsForwardFill = element (unsafeCoerce _bsForwardFill)
 
-foreign import bsFront_ :: ReactIcon
+foreign import _bsFront :: ReactIcon
 
 bsFront :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFront = element (unsafeCoerce bsFront_)
+bsFront = element (unsafeCoerce _bsFront)
 
-foreign import bsFullscreen_ :: ReactIcon
+foreign import _bsFullscreen :: ReactIcon
 
 bsFullscreen :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFullscreen = element (unsafeCoerce bsFullscreen_)
+bsFullscreen = element (unsafeCoerce _bsFullscreen)
 
-foreign import bsFullscreenExit_ :: ReactIcon
+foreign import _bsFullscreenExit :: ReactIcon
 
 bsFullscreenExit :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFullscreenExit = element (unsafeCoerce bsFullscreenExit_)
+bsFullscreenExit = element (unsafeCoerce _bsFullscreenExit)
 
-foreign import bsFunnel_ :: ReactIcon
+foreign import _bsFunnel :: ReactIcon
 
 bsFunnel :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFunnel = element (unsafeCoerce bsFunnel_)
+bsFunnel = element (unsafeCoerce _bsFunnel)
 
-foreign import bsFunnelFill_ :: ReactIcon
+foreign import _bsFunnelFill :: ReactIcon
 
 bsFunnelFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsFunnelFill = element (unsafeCoerce bsFunnelFill_)
+bsFunnelFill = element (unsafeCoerce _bsFunnelFill)
 
-foreign import bsGear_ :: ReactIcon
+foreign import _bsGear :: ReactIcon
 
 bsGear :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsGear = element (unsafeCoerce bsGear_)
+bsGear = element (unsafeCoerce _bsGear)
 
-foreign import bsGearFill_ :: ReactIcon
+foreign import _bsGearFill :: ReactIcon
 
 bsGearFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsGearFill = element (unsafeCoerce bsGearFill_)
+bsGearFill = element (unsafeCoerce _bsGearFill)
 
-foreign import bsGearWide_ :: ReactIcon
+foreign import _bsGearWide :: ReactIcon
 
 bsGearWide :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsGearWide = element (unsafeCoerce bsGearWide_)
+bsGearWide = element (unsafeCoerce _bsGearWide)
 
-foreign import bsGearWideConnected_ :: ReactIcon
+foreign import _bsGearWideConnected :: ReactIcon
 
 bsGearWideConnected :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsGearWideConnected = element (unsafeCoerce bsGearWideConnected_)
+bsGearWideConnected = element (unsafeCoerce _bsGearWideConnected)
 
-foreign import bsGem_ :: ReactIcon
+foreign import _bsGem :: ReactIcon
 
 bsGem :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsGem = element (unsafeCoerce bsGem_)
+bsGem = element (unsafeCoerce _bsGem)
 
-foreign import bsGenderAmbiguous_ :: ReactIcon
+foreign import _bsGenderAmbiguous :: ReactIcon
 
 bsGenderAmbiguous :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsGenderAmbiguous = element (unsafeCoerce bsGenderAmbiguous_)
+bsGenderAmbiguous = element (unsafeCoerce _bsGenderAmbiguous)
 
-foreign import bsGenderFemale_ :: ReactIcon
+foreign import _bsGenderFemale :: ReactIcon
 
 bsGenderFemale :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsGenderFemale = element (unsafeCoerce bsGenderFemale_)
+bsGenderFemale = element (unsafeCoerce _bsGenderFemale)
 
-foreign import bsGenderMale_ :: ReactIcon
+foreign import _bsGenderMale :: ReactIcon
 
 bsGenderMale :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsGenderMale = element (unsafeCoerce bsGenderMale_)
+bsGenderMale = element (unsafeCoerce _bsGenderMale)
 
-foreign import bsGenderTrans_ :: ReactIcon
+foreign import _bsGenderTrans :: ReactIcon
 
 bsGenderTrans :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsGenderTrans = element (unsafeCoerce bsGenderTrans_)
+bsGenderTrans = element (unsafeCoerce _bsGenderTrans)
 
-foreign import bsGeo_ :: ReactIcon
+foreign import _bsGeo :: ReactIcon
 
 bsGeo :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsGeo = element (unsafeCoerce bsGeo_)
+bsGeo = element (unsafeCoerce _bsGeo)
 
-foreign import bsGeoAlt_ :: ReactIcon
+foreign import _bsGeoAlt :: ReactIcon
 
 bsGeoAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsGeoAlt = element (unsafeCoerce bsGeoAlt_)
+bsGeoAlt = element (unsafeCoerce _bsGeoAlt)
 
-foreign import bsGeoAltFill_ :: ReactIcon
+foreign import _bsGeoAltFill :: ReactIcon
 
 bsGeoAltFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsGeoAltFill = element (unsafeCoerce bsGeoAltFill_)
+bsGeoAltFill = element (unsafeCoerce _bsGeoAltFill)
 
-foreign import bsGeoFill_ :: ReactIcon
+foreign import _bsGeoFill :: ReactIcon
 
 bsGeoFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsGeoFill = element (unsafeCoerce bsGeoFill_)
+bsGeoFill = element (unsafeCoerce _bsGeoFill)
 
-foreign import bsGift_ :: ReactIcon
+foreign import _bsGift :: ReactIcon
 
 bsGift :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsGift = element (unsafeCoerce bsGift_)
+bsGift = element (unsafeCoerce _bsGift)
 
-foreign import bsGiftFill_ :: ReactIcon
+foreign import _bsGiftFill :: ReactIcon
 
 bsGiftFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsGiftFill = element (unsafeCoerce bsGiftFill_)
+bsGiftFill = element (unsafeCoerce _bsGiftFill)
 
-foreign import bsGithub_ :: ReactIcon
+foreign import _bsGithub :: ReactIcon
 
 bsGithub :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsGithub = element (unsafeCoerce bsGithub_)
+bsGithub = element (unsafeCoerce _bsGithub)
 
-foreign import bsGlobe_ :: ReactIcon
+foreign import _bsGlobe :: ReactIcon
 
 bsGlobe :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsGlobe = element (unsafeCoerce bsGlobe_)
+bsGlobe = element (unsafeCoerce _bsGlobe)
 
-foreign import bsGoogle_ :: ReactIcon
+foreign import _bsGoogle :: ReactIcon
 
 bsGoogle :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsGoogle = element (unsafeCoerce bsGoogle_)
+bsGoogle = element (unsafeCoerce _bsGoogle)
 
-foreign import bsGraphDown_ :: ReactIcon
+foreign import _bsGraphDown :: ReactIcon
 
 bsGraphDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsGraphDown = element (unsafeCoerce bsGraphDown_)
+bsGraphDown = element (unsafeCoerce _bsGraphDown)
 
-foreign import bsGraphUp_ :: ReactIcon
+foreign import _bsGraphUp :: ReactIcon
 
 bsGraphUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsGraphUp = element (unsafeCoerce bsGraphUp_)
+bsGraphUp = element (unsafeCoerce _bsGraphUp)
 
-foreign import bsGrid_ :: ReactIcon
+foreign import _bsGrid :: ReactIcon
 
 bsGrid :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsGrid = element (unsafeCoerce bsGrid_)
+bsGrid = element (unsafeCoerce _bsGrid)
 
-foreign import bsGridFill_ :: ReactIcon
+foreign import _bsGridFill :: ReactIcon
 
 bsGridFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsGridFill = element (unsafeCoerce bsGridFill_)
+bsGridFill = element (unsafeCoerce _bsGridFill)
 
-foreign import bsGripHorizontal_ :: ReactIcon
+foreign import _bsGripHorizontal :: ReactIcon
 
 bsGripHorizontal :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsGripHorizontal = element (unsafeCoerce bsGripHorizontal_)
+bsGripHorizontal = element (unsafeCoerce _bsGripHorizontal)
 
-foreign import bsGripVertical_ :: ReactIcon
+foreign import _bsGripVertical :: ReactIcon
 
 bsGripVertical :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsGripVertical = element (unsafeCoerce bsGripVertical_)
+bsGripVertical = element (unsafeCoerce _bsGripVertical)
 
-foreign import bsHammer_ :: ReactIcon
+foreign import _bsHammer :: ReactIcon
 
 bsHammer :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsHammer = element (unsafeCoerce bsHammer_)
+bsHammer = element (unsafeCoerce _bsHammer)
 
-foreign import bsHandbag_ :: ReactIcon
+foreign import _bsHandbag :: ReactIcon
 
 bsHandbag :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsHandbag = element (unsafeCoerce bsHandbag_)
+bsHandbag = element (unsafeCoerce _bsHandbag)
 
-foreign import bsHandbagFill_ :: ReactIcon
+foreign import _bsHandbagFill :: ReactIcon
 
 bsHandbagFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsHandbagFill = element (unsafeCoerce bsHandbagFill_)
+bsHandbagFill = element (unsafeCoerce _bsHandbagFill)
 
-foreign import bsHandIndex_ :: ReactIcon
+foreign import _bsHandIndex :: ReactIcon
 
 bsHandIndex :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsHandIndex = element (unsafeCoerce bsHandIndex_)
+bsHandIndex = element (unsafeCoerce _bsHandIndex)
 
-foreign import bsHandIndexFill_ :: ReactIcon
+foreign import _bsHandIndexFill :: ReactIcon
 
 bsHandIndexFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsHandIndexFill = element (unsafeCoerce bsHandIndexFill_)
+bsHandIndexFill = element (unsafeCoerce _bsHandIndexFill)
 
-foreign import bsHandIndexThumb_ :: ReactIcon
+foreign import _bsHandIndexThumb :: ReactIcon
 
 bsHandIndexThumb :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsHandIndexThumb = element (unsafeCoerce bsHandIndexThumb_)
+bsHandIndexThumb = element (unsafeCoerce _bsHandIndexThumb)
 
-foreign import bsHandIndexThumbFill_ :: ReactIcon
+foreign import _bsHandIndexThumbFill :: ReactIcon
 
 bsHandIndexThumbFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsHandIndexThumbFill = element (unsafeCoerce bsHandIndexThumbFill_)
+bsHandIndexThumbFill = element (unsafeCoerce _bsHandIndexThumbFill)
 
-foreign import bsHandThumbsDown_ :: ReactIcon
+foreign import _bsHandThumbsDown :: ReactIcon
 
 bsHandThumbsDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsHandThumbsDown = element (unsafeCoerce bsHandThumbsDown_)
+bsHandThumbsDown = element (unsafeCoerce _bsHandThumbsDown)
 
-foreign import bsHandThumbsDownFill_ :: ReactIcon
+foreign import _bsHandThumbsDownFill :: ReactIcon
 
 bsHandThumbsDownFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsHandThumbsDownFill = element (unsafeCoerce bsHandThumbsDownFill_)
+bsHandThumbsDownFill = element (unsafeCoerce _bsHandThumbsDownFill)
 
-foreign import bsHandThumbsUp_ :: ReactIcon
+foreign import _bsHandThumbsUp :: ReactIcon
 
 bsHandThumbsUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsHandThumbsUp = element (unsafeCoerce bsHandThumbsUp_)
+bsHandThumbsUp = element (unsafeCoerce _bsHandThumbsUp)
 
-foreign import bsHandThumbsUpFill_ :: ReactIcon
+foreign import _bsHandThumbsUpFill :: ReactIcon
 
 bsHandThumbsUpFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsHandThumbsUpFill = element (unsafeCoerce bsHandThumbsUpFill_)
+bsHandThumbsUpFill = element (unsafeCoerce _bsHandThumbsUpFill)
 
-foreign import bsHash_ :: ReactIcon
+foreign import _bsHash :: ReactIcon
 
 bsHash :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsHash = element (unsafeCoerce bsHash_)
+bsHash = element (unsafeCoerce _bsHash)
 
-foreign import bsHdd_ :: ReactIcon
+foreign import _bsHdd :: ReactIcon
 
 bsHdd :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsHdd = element (unsafeCoerce bsHdd_)
+bsHdd = element (unsafeCoerce _bsHdd)
 
-foreign import bsHddFill_ :: ReactIcon
+foreign import _bsHddFill :: ReactIcon
 
 bsHddFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsHddFill = element (unsafeCoerce bsHddFill_)
+bsHddFill = element (unsafeCoerce _bsHddFill)
 
-foreign import bsHddNetwork_ :: ReactIcon
+foreign import _bsHddNetwork :: ReactIcon
 
 bsHddNetwork :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsHddNetwork = element (unsafeCoerce bsHddNetwork_)
+bsHddNetwork = element (unsafeCoerce _bsHddNetwork)
 
-foreign import bsHddNetworkFill_ :: ReactIcon
+foreign import _bsHddNetworkFill :: ReactIcon
 
 bsHddNetworkFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsHddNetworkFill = element (unsafeCoerce bsHddNetworkFill_)
+bsHddNetworkFill = element (unsafeCoerce _bsHddNetworkFill)
 
-foreign import bsHddRack_ :: ReactIcon
+foreign import _bsHddRack :: ReactIcon
 
 bsHddRack :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsHddRack = element (unsafeCoerce bsHddRack_)
+bsHddRack = element (unsafeCoerce _bsHddRack)
 
-foreign import bsHddRackFill_ :: ReactIcon
+foreign import _bsHddRackFill :: ReactIcon
 
 bsHddRackFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsHddRackFill = element (unsafeCoerce bsHddRackFill_)
+bsHddRackFill = element (unsafeCoerce _bsHddRackFill)
 
-foreign import bsHddStack_ :: ReactIcon
+foreign import _bsHddStack :: ReactIcon
 
 bsHddStack :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsHddStack = element (unsafeCoerce bsHddStack_)
+bsHddStack = element (unsafeCoerce _bsHddStack)
 
-foreign import bsHddStackFill_ :: ReactIcon
+foreign import _bsHddStackFill :: ReactIcon
 
 bsHddStackFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsHddStackFill = element (unsafeCoerce bsHddStackFill_)
+bsHddStackFill = element (unsafeCoerce _bsHddStackFill)
 
-foreign import bsHeadphones_ :: ReactIcon
+foreign import _bsHeadphones :: ReactIcon
 
 bsHeadphones :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsHeadphones = element (unsafeCoerce bsHeadphones_)
+bsHeadphones = element (unsafeCoerce _bsHeadphones)
 
-foreign import bsHeadset_ :: ReactIcon
+foreign import _bsHeadset :: ReactIcon
 
 bsHeadset :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsHeadset = element (unsafeCoerce bsHeadset_)
+bsHeadset = element (unsafeCoerce _bsHeadset)
 
-foreign import bsHeadsetVr_ :: ReactIcon
+foreign import _bsHeadsetVr :: ReactIcon
 
 bsHeadsetVr :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsHeadsetVr = element (unsafeCoerce bsHeadsetVr_)
+bsHeadsetVr = element (unsafeCoerce _bsHeadsetVr)
 
-foreign import bsHeart_ :: ReactIcon
+foreign import _bsHeart :: ReactIcon
 
 bsHeart :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsHeart = element (unsafeCoerce bsHeart_)
+bsHeart = element (unsafeCoerce _bsHeart)
 
-foreign import bsHeartFill_ :: ReactIcon
+foreign import _bsHeartFill :: ReactIcon
 
 bsHeartFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsHeartFill = element (unsafeCoerce bsHeartFill_)
+bsHeartFill = element (unsafeCoerce _bsHeartFill)
 
-foreign import bsHeartHalf_ :: ReactIcon
+foreign import _bsHeartHalf :: ReactIcon
 
 bsHeartHalf :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsHeartHalf = element (unsafeCoerce bsHeartHalf_)
+bsHeartHalf = element (unsafeCoerce _bsHeartHalf)
 
-foreign import bsHeptagon_ :: ReactIcon
+foreign import _bsHeptagon :: ReactIcon
 
 bsHeptagon :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsHeptagon = element (unsafeCoerce bsHeptagon_)
+bsHeptagon = element (unsafeCoerce _bsHeptagon)
 
-foreign import bsHeptagonFill_ :: ReactIcon
+foreign import _bsHeptagonFill :: ReactIcon
 
 bsHeptagonFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsHeptagonFill = element (unsafeCoerce bsHeptagonFill_)
+bsHeptagonFill = element (unsafeCoerce _bsHeptagonFill)
 
-foreign import bsHeptagonHalf_ :: ReactIcon
+foreign import _bsHeptagonHalf :: ReactIcon
 
 bsHeptagonHalf :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsHeptagonHalf = element (unsafeCoerce bsHeptagonHalf_)
+bsHeptagonHalf = element (unsafeCoerce _bsHeptagonHalf)
 
-foreign import bsHexagon_ :: ReactIcon
+foreign import _bsHexagon :: ReactIcon
 
 bsHexagon :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsHexagon = element (unsafeCoerce bsHexagon_)
+bsHexagon = element (unsafeCoerce _bsHexagon)
 
-foreign import bsHexagonFill_ :: ReactIcon
+foreign import _bsHexagonFill :: ReactIcon
 
 bsHexagonFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsHexagonFill = element (unsafeCoerce bsHexagonFill_)
+bsHexagonFill = element (unsafeCoerce _bsHexagonFill)
 
-foreign import bsHexagonHalf_ :: ReactIcon
+foreign import _bsHexagonHalf :: ReactIcon
 
 bsHexagonHalf :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsHexagonHalf = element (unsafeCoerce bsHexagonHalf_)
+bsHexagonHalf = element (unsafeCoerce _bsHexagonHalf)
 
-foreign import bsHourglass_ :: ReactIcon
+foreign import _bsHourglass :: ReactIcon
 
 bsHourglass :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsHourglass = element (unsafeCoerce bsHourglass_)
+bsHourglass = element (unsafeCoerce _bsHourglass)
 
-foreign import bsHourglassBottom_ :: ReactIcon
+foreign import _bsHourglassBottom :: ReactIcon
 
 bsHourglassBottom :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsHourglassBottom = element (unsafeCoerce bsHourglassBottom_)
+bsHourglassBottom = element (unsafeCoerce _bsHourglassBottom)
 
-foreign import bsHourglassSplit_ :: ReactIcon
+foreign import _bsHourglassSplit :: ReactIcon
 
 bsHourglassSplit :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsHourglassSplit = element (unsafeCoerce bsHourglassSplit_)
+bsHourglassSplit = element (unsafeCoerce _bsHourglassSplit)
 
-foreign import bsHourglassTop_ :: ReactIcon
+foreign import _bsHourglassTop :: ReactIcon
 
 bsHourglassTop :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsHourglassTop = element (unsafeCoerce bsHourglassTop_)
+bsHourglassTop = element (unsafeCoerce _bsHourglassTop)
 
-foreign import bsHouse_ :: ReactIcon
+foreign import _bsHouse :: ReactIcon
 
 bsHouse :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsHouse = element (unsafeCoerce bsHouse_)
+bsHouse = element (unsafeCoerce _bsHouse)
 
-foreign import bsHouseDoor_ :: ReactIcon
+foreign import _bsHouseDoor :: ReactIcon
 
 bsHouseDoor :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsHouseDoor = element (unsafeCoerce bsHouseDoor_)
+bsHouseDoor = element (unsafeCoerce _bsHouseDoor)
 
-foreign import bsHouseDoorFill_ :: ReactIcon
+foreign import _bsHouseDoorFill :: ReactIcon
 
 bsHouseDoorFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsHouseDoorFill = element (unsafeCoerce bsHouseDoorFill_)
+bsHouseDoorFill = element (unsafeCoerce _bsHouseDoorFill)
 
-foreign import bsHouseFill_ :: ReactIcon
+foreign import _bsHouseFill :: ReactIcon
 
 bsHouseFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsHouseFill = element (unsafeCoerce bsHouseFill_)
+bsHouseFill = element (unsafeCoerce _bsHouseFill)
 
-foreign import bsHr_ :: ReactIcon
+foreign import _bsHr :: ReactIcon
 
 bsHr :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsHr = element (unsafeCoerce bsHr_)
+bsHr = element (unsafeCoerce _bsHr)
 
-foreign import bsHurricane_ :: ReactIcon
+foreign import _bsHurricane :: ReactIcon
 
 bsHurricane :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsHurricane = element (unsafeCoerce bsHurricane_)
+bsHurricane = element (unsafeCoerce _bsHurricane)
 
-foreign import bsImage_ :: ReactIcon
+foreign import _bsImage :: ReactIcon
 
 bsImage :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsImage = element (unsafeCoerce bsImage_)
+bsImage = element (unsafeCoerce _bsImage)
 
-foreign import bsImageAlt_ :: ReactIcon
+foreign import _bsImageAlt :: ReactIcon
 
 bsImageAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsImageAlt = element (unsafeCoerce bsImageAlt_)
+bsImageAlt = element (unsafeCoerce _bsImageAlt)
 
-foreign import bsImageFill_ :: ReactIcon
+foreign import _bsImageFill :: ReactIcon
 
 bsImageFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsImageFill = element (unsafeCoerce bsImageFill_)
+bsImageFill = element (unsafeCoerce _bsImageFill)
 
-foreign import bsImages_ :: ReactIcon
+foreign import _bsImages :: ReactIcon
 
 bsImages :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsImages = element (unsafeCoerce bsImages_)
+bsImages = element (unsafeCoerce _bsImages)
 
-foreign import bsInbox_ :: ReactIcon
+foreign import _bsInbox :: ReactIcon
 
 bsInbox :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsInbox = element (unsafeCoerce bsInbox_)
+bsInbox = element (unsafeCoerce _bsInbox)
 
-foreign import bsInboxes_ :: ReactIcon
+foreign import _bsInboxes :: ReactIcon
 
 bsInboxes :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsInboxes = element (unsafeCoerce bsInboxes_)
+bsInboxes = element (unsafeCoerce _bsInboxes)
 
-foreign import bsInboxesFill_ :: ReactIcon
+foreign import _bsInboxesFill :: ReactIcon
 
 bsInboxesFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsInboxesFill = element (unsafeCoerce bsInboxesFill_)
+bsInboxesFill = element (unsafeCoerce _bsInboxesFill)
 
-foreign import bsInboxFill_ :: ReactIcon
+foreign import _bsInboxFill :: ReactIcon
 
 bsInboxFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsInboxFill = element (unsafeCoerce bsInboxFill_)
+bsInboxFill = element (unsafeCoerce _bsInboxFill)
 
-foreign import bsInfo_ :: ReactIcon
+foreign import _bsInfo :: ReactIcon
 
 bsInfo :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsInfo = element (unsafeCoerce bsInfo_)
+bsInfo = element (unsafeCoerce _bsInfo)
 
-foreign import bsInfoCircle_ :: ReactIcon
+foreign import _bsInfoCircle :: ReactIcon
 
 bsInfoCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsInfoCircle = element (unsafeCoerce bsInfoCircle_)
+bsInfoCircle = element (unsafeCoerce _bsInfoCircle)
 
-foreign import bsInfoCircleFill_ :: ReactIcon
+foreign import _bsInfoCircleFill :: ReactIcon
 
 bsInfoCircleFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsInfoCircleFill = element (unsafeCoerce bsInfoCircleFill_)
+bsInfoCircleFill = element (unsafeCoerce _bsInfoCircleFill)
 
-foreign import bsInfoLg_ :: ReactIcon
+foreign import _bsInfoLg :: ReactIcon
 
 bsInfoLg :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsInfoLg = element (unsafeCoerce bsInfoLg_)
+bsInfoLg = element (unsafeCoerce _bsInfoLg)
 
-foreign import bsInfoSquare_ :: ReactIcon
+foreign import _bsInfoSquare :: ReactIcon
 
 bsInfoSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsInfoSquare = element (unsafeCoerce bsInfoSquare_)
+bsInfoSquare = element (unsafeCoerce _bsInfoSquare)
 
-foreign import bsInfoSquareFill_ :: ReactIcon
+foreign import _bsInfoSquareFill :: ReactIcon
 
 bsInfoSquareFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsInfoSquareFill = element (unsafeCoerce bsInfoSquareFill_)
+bsInfoSquareFill = element (unsafeCoerce _bsInfoSquareFill)
 
-foreign import bsInputCursor_ :: ReactIcon
+foreign import _bsInputCursor :: ReactIcon
 
 bsInputCursor :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsInputCursor = element (unsafeCoerce bsInputCursor_)
+bsInputCursor = element (unsafeCoerce _bsInputCursor)
 
-foreign import bsInputCursorText_ :: ReactIcon
+foreign import _bsInputCursorText :: ReactIcon
 
 bsInputCursorText :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsInputCursorText = element (unsafeCoerce bsInputCursorText_)
+bsInputCursorText = element (unsafeCoerce _bsInputCursorText)
 
-foreign import bsInstagram_ :: ReactIcon
+foreign import _bsInstagram :: ReactIcon
 
 bsInstagram :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsInstagram = element (unsafeCoerce bsInstagram_)
+bsInstagram = element (unsafeCoerce _bsInstagram)
 
-foreign import bsIntersect_ :: ReactIcon
+foreign import _bsIntersect :: ReactIcon
 
 bsIntersect :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsIntersect = element (unsafeCoerce bsIntersect_)
+bsIntersect = element (unsafeCoerce _bsIntersect)
 
-foreign import bsJournal_ :: ReactIcon
+foreign import _bsJournal :: ReactIcon
 
 bsJournal :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsJournal = element (unsafeCoerce bsJournal_)
+bsJournal = element (unsafeCoerce _bsJournal)
 
-foreign import bsJournalAlbum_ :: ReactIcon
+foreign import _bsJournalAlbum :: ReactIcon
 
 bsJournalAlbum :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsJournalAlbum = element (unsafeCoerce bsJournalAlbum_)
+bsJournalAlbum = element (unsafeCoerce _bsJournalAlbum)
 
-foreign import bsJournalArrowDown_ :: ReactIcon
+foreign import _bsJournalArrowDown :: ReactIcon
 
 bsJournalArrowDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsJournalArrowDown = element (unsafeCoerce bsJournalArrowDown_)
+bsJournalArrowDown = element (unsafeCoerce _bsJournalArrowDown)
 
-foreign import bsJournalArrowUp_ :: ReactIcon
+foreign import _bsJournalArrowUp :: ReactIcon
 
 bsJournalArrowUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsJournalArrowUp = element (unsafeCoerce bsJournalArrowUp_)
+bsJournalArrowUp = element (unsafeCoerce _bsJournalArrowUp)
 
-foreign import bsJournalBookmark_ :: ReactIcon
+foreign import _bsJournalBookmark :: ReactIcon
 
 bsJournalBookmark :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsJournalBookmark = element (unsafeCoerce bsJournalBookmark_)
+bsJournalBookmark = element (unsafeCoerce _bsJournalBookmark)
 
-foreign import bsJournalBookmarkFill_ :: ReactIcon
+foreign import _bsJournalBookmarkFill :: ReactIcon
 
 bsJournalBookmarkFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsJournalBookmarkFill = element (unsafeCoerce bsJournalBookmarkFill_)
+bsJournalBookmarkFill = element (unsafeCoerce _bsJournalBookmarkFill)
 
-foreign import bsJournalCheck_ :: ReactIcon
+foreign import _bsJournalCheck :: ReactIcon
 
 bsJournalCheck :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsJournalCheck = element (unsafeCoerce bsJournalCheck_)
+bsJournalCheck = element (unsafeCoerce _bsJournalCheck)
 
-foreign import bsJournalCode_ :: ReactIcon
+foreign import _bsJournalCode :: ReactIcon
 
 bsJournalCode :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsJournalCode = element (unsafeCoerce bsJournalCode_)
+bsJournalCode = element (unsafeCoerce _bsJournalCode)
 
-foreign import bsJournalMedical_ :: ReactIcon
+foreign import _bsJournalMedical :: ReactIcon
 
 bsJournalMedical :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsJournalMedical = element (unsafeCoerce bsJournalMedical_)
+bsJournalMedical = element (unsafeCoerce _bsJournalMedical)
 
-foreign import bsJournalMinus_ :: ReactIcon
+foreign import _bsJournalMinus :: ReactIcon
 
 bsJournalMinus :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsJournalMinus = element (unsafeCoerce bsJournalMinus_)
+bsJournalMinus = element (unsafeCoerce _bsJournalMinus)
 
-foreign import bsJournalPlus_ :: ReactIcon
+foreign import _bsJournalPlus :: ReactIcon
 
 bsJournalPlus :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsJournalPlus = element (unsafeCoerce bsJournalPlus_)
+bsJournalPlus = element (unsafeCoerce _bsJournalPlus)
 
-foreign import bsJournalRichtext_ :: ReactIcon
+foreign import _bsJournalRichtext :: ReactIcon
 
 bsJournalRichtext :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsJournalRichtext = element (unsafeCoerce bsJournalRichtext_)
+bsJournalRichtext = element (unsafeCoerce _bsJournalRichtext)
 
-foreign import bsJournals_ :: ReactIcon
+foreign import _bsJournals :: ReactIcon
 
 bsJournals :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsJournals = element (unsafeCoerce bsJournals_)
+bsJournals = element (unsafeCoerce _bsJournals)
 
-foreign import bsJournalText_ :: ReactIcon
+foreign import _bsJournalText :: ReactIcon
 
 bsJournalText :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsJournalText = element (unsafeCoerce bsJournalText_)
+bsJournalText = element (unsafeCoerce _bsJournalText)
 
-foreign import bsJournalX_ :: ReactIcon
+foreign import _bsJournalX :: ReactIcon
 
 bsJournalX :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsJournalX = element (unsafeCoerce bsJournalX_)
+bsJournalX = element (unsafeCoerce _bsJournalX)
 
-foreign import bsJoystick_ :: ReactIcon
+foreign import _bsJoystick :: ReactIcon
 
 bsJoystick :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsJoystick = element (unsafeCoerce bsJoystick_)
+bsJoystick = element (unsafeCoerce _bsJoystick)
 
-foreign import bsJustify_ :: ReactIcon
+foreign import _bsJustify :: ReactIcon
 
 bsJustify :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsJustify = element (unsafeCoerce bsJustify_)
+bsJustify = element (unsafeCoerce _bsJustify)
 
-foreign import bsJustifyLeft_ :: ReactIcon
+foreign import _bsJustifyLeft :: ReactIcon
 
 bsJustifyLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsJustifyLeft = element (unsafeCoerce bsJustifyLeft_)
+bsJustifyLeft = element (unsafeCoerce _bsJustifyLeft)
 
-foreign import bsJustifyRight_ :: ReactIcon
+foreign import _bsJustifyRight :: ReactIcon
 
 bsJustifyRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsJustifyRight = element (unsafeCoerce bsJustifyRight_)
+bsJustifyRight = element (unsafeCoerce _bsJustifyRight)
 
-foreign import bsKanban_ :: ReactIcon
+foreign import _bsKanban :: ReactIcon
 
 bsKanban :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsKanban = element (unsafeCoerce bsKanban_)
+bsKanban = element (unsafeCoerce _bsKanban)
 
-foreign import bsKanbanFill_ :: ReactIcon
+foreign import _bsKanbanFill :: ReactIcon
 
 bsKanbanFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsKanbanFill = element (unsafeCoerce bsKanbanFill_)
+bsKanbanFill = element (unsafeCoerce _bsKanbanFill)
 
-foreign import bsKey_ :: ReactIcon
+foreign import _bsKey :: ReactIcon
 
 bsKey :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsKey = element (unsafeCoerce bsKey_)
+bsKey = element (unsafeCoerce _bsKey)
 
-foreign import bsKeyboard_ :: ReactIcon
+foreign import _bsKeyboard :: ReactIcon
 
 bsKeyboard :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsKeyboard = element (unsafeCoerce bsKeyboard_)
+bsKeyboard = element (unsafeCoerce _bsKeyboard)
 
-foreign import bsKeyboardFill_ :: ReactIcon
+foreign import _bsKeyboardFill :: ReactIcon
 
 bsKeyboardFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsKeyboardFill = element (unsafeCoerce bsKeyboardFill_)
+bsKeyboardFill = element (unsafeCoerce _bsKeyboardFill)
 
-foreign import bsKeyFill_ :: ReactIcon
+foreign import _bsKeyFill :: ReactIcon
 
 bsKeyFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsKeyFill = element (unsafeCoerce bsKeyFill_)
+bsKeyFill = element (unsafeCoerce _bsKeyFill)
 
-foreign import bsLadder_ :: ReactIcon
+foreign import _bsLadder :: ReactIcon
 
 bsLadder :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsLadder = element (unsafeCoerce bsLadder_)
+bsLadder = element (unsafeCoerce _bsLadder)
 
-foreign import bsLamp_ :: ReactIcon
+foreign import _bsLamp :: ReactIcon
 
 bsLamp :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsLamp = element (unsafeCoerce bsLamp_)
+bsLamp = element (unsafeCoerce _bsLamp)
 
-foreign import bsLampFill_ :: ReactIcon
+foreign import _bsLampFill :: ReactIcon
 
 bsLampFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsLampFill = element (unsafeCoerce bsLampFill_)
+bsLampFill = element (unsafeCoerce _bsLampFill)
 
-foreign import bsLaptop_ :: ReactIcon
+foreign import _bsLaptop :: ReactIcon
 
 bsLaptop :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsLaptop = element (unsafeCoerce bsLaptop_)
+bsLaptop = element (unsafeCoerce _bsLaptop)
 
-foreign import bsLaptopFill_ :: ReactIcon
+foreign import _bsLaptopFill :: ReactIcon
 
 bsLaptopFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsLaptopFill = element (unsafeCoerce bsLaptopFill_)
+bsLaptopFill = element (unsafeCoerce _bsLaptopFill)
 
-foreign import bsLayerBackward_ :: ReactIcon
+foreign import _bsLayerBackward :: ReactIcon
 
 bsLayerBackward :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsLayerBackward = element (unsafeCoerce bsLayerBackward_)
+bsLayerBackward = element (unsafeCoerce _bsLayerBackward)
 
-foreign import bsLayerForward_ :: ReactIcon
+foreign import _bsLayerForward :: ReactIcon
 
 bsLayerForward :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsLayerForward = element (unsafeCoerce bsLayerForward_)
+bsLayerForward = element (unsafeCoerce _bsLayerForward)
 
-foreign import bsLayers_ :: ReactIcon
+foreign import _bsLayers :: ReactIcon
 
 bsLayers :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsLayers = element (unsafeCoerce bsLayers_)
+bsLayers = element (unsafeCoerce _bsLayers)
 
-foreign import bsLayersFill_ :: ReactIcon
+foreign import _bsLayersFill :: ReactIcon
 
 bsLayersFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsLayersFill = element (unsafeCoerce bsLayersFill_)
+bsLayersFill = element (unsafeCoerce _bsLayersFill)
 
-foreign import bsLayersHalf_ :: ReactIcon
+foreign import _bsLayersHalf :: ReactIcon
 
 bsLayersHalf :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsLayersHalf = element (unsafeCoerce bsLayersHalf_)
+bsLayersHalf = element (unsafeCoerce _bsLayersHalf)
 
-foreign import bsLayoutSidebar_ :: ReactIcon
+foreign import _bsLayoutSidebar :: ReactIcon
 
 bsLayoutSidebar :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsLayoutSidebar = element (unsafeCoerce bsLayoutSidebar_)
+bsLayoutSidebar = element (unsafeCoerce _bsLayoutSidebar)
 
-foreign import bsLayoutSidebarInset_ :: ReactIcon
+foreign import _bsLayoutSidebarInset :: ReactIcon
 
 bsLayoutSidebarInset :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsLayoutSidebarInset = element (unsafeCoerce bsLayoutSidebarInset_)
+bsLayoutSidebarInset = element (unsafeCoerce _bsLayoutSidebarInset)
 
-foreign import bsLayoutSidebarInsetReverse_ :: ReactIcon
+foreign import _bsLayoutSidebarInsetReverse :: ReactIcon
 
 bsLayoutSidebarInsetReverse :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsLayoutSidebarInsetReverse = element (unsafeCoerce bsLayoutSidebarInsetReverse_)
+bsLayoutSidebarInsetReverse = element (unsafeCoerce _bsLayoutSidebarInsetReverse)
 
-foreign import bsLayoutSidebarReverse_ :: ReactIcon
+foreign import _bsLayoutSidebarReverse :: ReactIcon
 
 bsLayoutSidebarReverse :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsLayoutSidebarReverse = element (unsafeCoerce bsLayoutSidebarReverse_)
+bsLayoutSidebarReverse = element (unsafeCoerce _bsLayoutSidebarReverse)
 
-foreign import bsLayoutSplit_ :: ReactIcon
+foreign import _bsLayoutSplit :: ReactIcon
 
 bsLayoutSplit :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsLayoutSplit = element (unsafeCoerce bsLayoutSplit_)
+bsLayoutSplit = element (unsafeCoerce _bsLayoutSplit)
 
-foreign import bsLayoutTextSidebar_ :: ReactIcon
+foreign import _bsLayoutTextSidebar :: ReactIcon
 
 bsLayoutTextSidebar :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsLayoutTextSidebar = element (unsafeCoerce bsLayoutTextSidebar_)
+bsLayoutTextSidebar = element (unsafeCoerce _bsLayoutTextSidebar)
 
-foreign import bsLayoutTextSidebarReverse_ :: ReactIcon
+foreign import _bsLayoutTextSidebarReverse :: ReactIcon
 
 bsLayoutTextSidebarReverse :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsLayoutTextSidebarReverse = element (unsafeCoerce bsLayoutTextSidebarReverse_)
+bsLayoutTextSidebarReverse = element (unsafeCoerce _bsLayoutTextSidebarReverse)
 
-foreign import bsLayoutTextWindow_ :: ReactIcon
+foreign import _bsLayoutTextWindow :: ReactIcon
 
 bsLayoutTextWindow :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsLayoutTextWindow = element (unsafeCoerce bsLayoutTextWindow_)
+bsLayoutTextWindow = element (unsafeCoerce _bsLayoutTextWindow)
 
-foreign import bsLayoutTextWindowReverse_ :: ReactIcon
+foreign import _bsLayoutTextWindowReverse :: ReactIcon
 
 bsLayoutTextWindowReverse :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsLayoutTextWindowReverse = element (unsafeCoerce bsLayoutTextWindowReverse_)
+bsLayoutTextWindowReverse = element (unsafeCoerce _bsLayoutTextWindowReverse)
 
-foreign import bsLayoutThreeColumns_ :: ReactIcon
+foreign import _bsLayoutThreeColumns :: ReactIcon
 
 bsLayoutThreeColumns :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsLayoutThreeColumns = element (unsafeCoerce bsLayoutThreeColumns_)
+bsLayoutThreeColumns = element (unsafeCoerce _bsLayoutThreeColumns)
 
-foreign import bsLayoutWtf_ :: ReactIcon
+foreign import _bsLayoutWtf :: ReactIcon
 
 bsLayoutWtf :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsLayoutWtf = element (unsafeCoerce bsLayoutWtf_)
+bsLayoutWtf = element (unsafeCoerce _bsLayoutWtf)
 
-foreign import bsLifePreserver_ :: ReactIcon
+foreign import _bsLifePreserver :: ReactIcon
 
 bsLifePreserver :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsLifePreserver = element (unsafeCoerce bsLifePreserver_)
+bsLifePreserver = element (unsafeCoerce _bsLifePreserver)
 
-foreign import bsLightbulb_ :: ReactIcon
+foreign import _bsLightbulb :: ReactIcon
 
 bsLightbulb :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsLightbulb = element (unsafeCoerce bsLightbulb_)
+bsLightbulb = element (unsafeCoerce _bsLightbulb)
 
-foreign import bsLightbulbFill_ :: ReactIcon
+foreign import _bsLightbulbFill :: ReactIcon
 
 bsLightbulbFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsLightbulbFill = element (unsafeCoerce bsLightbulbFill_)
+bsLightbulbFill = element (unsafeCoerce _bsLightbulbFill)
 
-foreign import bsLightbulbOff_ :: ReactIcon
+foreign import _bsLightbulbOff :: ReactIcon
 
 bsLightbulbOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsLightbulbOff = element (unsafeCoerce bsLightbulbOff_)
+bsLightbulbOff = element (unsafeCoerce _bsLightbulbOff)
 
-foreign import bsLightbulbOffFill_ :: ReactIcon
+foreign import _bsLightbulbOffFill :: ReactIcon
 
 bsLightbulbOffFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsLightbulbOffFill = element (unsafeCoerce bsLightbulbOffFill_)
+bsLightbulbOffFill = element (unsafeCoerce _bsLightbulbOffFill)
 
-foreign import bsLightning_ :: ReactIcon
+foreign import _bsLightning :: ReactIcon
 
 bsLightning :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsLightning = element (unsafeCoerce bsLightning_)
+bsLightning = element (unsafeCoerce _bsLightning)
 
-foreign import bsLightningCharge_ :: ReactIcon
+foreign import _bsLightningCharge :: ReactIcon
 
 bsLightningCharge :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsLightningCharge = element (unsafeCoerce bsLightningCharge_)
+bsLightningCharge = element (unsafeCoerce _bsLightningCharge)
 
-foreign import bsLightningChargeFill_ :: ReactIcon
+foreign import _bsLightningChargeFill :: ReactIcon
 
 bsLightningChargeFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsLightningChargeFill = element (unsafeCoerce bsLightningChargeFill_)
+bsLightningChargeFill = element (unsafeCoerce _bsLightningChargeFill)
 
-foreign import bsLightningFill_ :: ReactIcon
+foreign import _bsLightningFill :: ReactIcon
 
 bsLightningFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsLightningFill = element (unsafeCoerce bsLightningFill_)
+bsLightningFill = element (unsafeCoerce _bsLightningFill)
 
-foreign import bsLine_ :: ReactIcon
+foreign import _bsLine :: ReactIcon
 
 bsLine :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsLine = element (unsafeCoerce bsLine_)
+bsLine = element (unsafeCoerce _bsLine)
 
-foreign import bsLink_ :: ReactIcon
+foreign import _bsLink :: ReactIcon
 
 bsLink :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsLink = element (unsafeCoerce bsLink_)
+bsLink = element (unsafeCoerce _bsLink)
 
-foreign import bsLinkedin_ :: ReactIcon
+foreign import _bsLinkedin :: ReactIcon
 
 bsLinkedin :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsLinkedin = element (unsafeCoerce bsLinkedin_)
+bsLinkedin = element (unsafeCoerce _bsLinkedin)
 
-foreign import bsList_ :: ReactIcon
+foreign import _bsList :: ReactIcon
 
 bsList :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsList = element (unsafeCoerce bsList_)
+bsList = element (unsafeCoerce _bsList)
 
-foreign import bsListCheck_ :: ReactIcon
+foreign import _bsListCheck :: ReactIcon
 
 bsListCheck :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsListCheck = element (unsafeCoerce bsListCheck_)
+bsListCheck = element (unsafeCoerce _bsListCheck)
 
-foreign import bsListNested_ :: ReactIcon
+foreign import _bsListNested :: ReactIcon
 
 bsListNested :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsListNested = element (unsafeCoerce bsListNested_)
+bsListNested = element (unsafeCoerce _bsListNested)
 
-foreign import bsListOl_ :: ReactIcon
+foreign import _bsListOl :: ReactIcon
 
 bsListOl :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsListOl = element (unsafeCoerce bsListOl_)
+bsListOl = element (unsafeCoerce _bsListOl)
 
-foreign import bsListStars_ :: ReactIcon
+foreign import _bsListStars :: ReactIcon
 
 bsListStars :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsListStars = element (unsafeCoerce bsListStars_)
+bsListStars = element (unsafeCoerce _bsListStars)
 
-foreign import bsListTask_ :: ReactIcon
+foreign import _bsListTask :: ReactIcon
 
 bsListTask :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsListTask = element (unsafeCoerce bsListTask_)
+bsListTask = element (unsafeCoerce _bsListTask)
 
-foreign import bsListUl_ :: ReactIcon
+foreign import _bsListUl :: ReactIcon
 
 bsListUl :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsListUl = element (unsafeCoerce bsListUl_)
+bsListUl = element (unsafeCoerce _bsListUl)
 
-foreign import bsLock_ :: ReactIcon
+foreign import _bsLock :: ReactIcon
 
 bsLock :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsLock = element (unsafeCoerce bsLock_)
+bsLock = element (unsafeCoerce _bsLock)
 
-foreign import bsLockFill_ :: ReactIcon
+foreign import _bsLockFill :: ReactIcon
 
 bsLockFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsLockFill = element (unsafeCoerce bsLockFill_)
+bsLockFill = element (unsafeCoerce _bsLockFill)
 
-foreign import bsMailbox_ :: ReactIcon
+foreign import _bsMailbox :: ReactIcon
 
 bsMailbox :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsMailbox = element (unsafeCoerce bsMailbox_)
+bsMailbox = element (unsafeCoerce _bsMailbox)
 
-foreign import bsMap_ :: ReactIcon
+foreign import _bsMap :: ReactIcon
 
 bsMap :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsMap = element (unsafeCoerce bsMap_)
+bsMap = element (unsafeCoerce _bsMap)
 
-foreign import bsMapFill_ :: ReactIcon
+foreign import _bsMapFill :: ReactIcon
 
 bsMapFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsMapFill = element (unsafeCoerce bsMapFill_)
+bsMapFill = element (unsafeCoerce _bsMapFill)
 
-foreign import bsMarkdown_ :: ReactIcon
+foreign import _bsMarkdown :: ReactIcon
 
 bsMarkdown :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsMarkdown = element (unsafeCoerce bsMarkdown_)
+bsMarkdown = element (unsafeCoerce _bsMarkdown)
 
-foreign import bsMarkdownFill_ :: ReactIcon
+foreign import _bsMarkdownFill :: ReactIcon
 
 bsMarkdownFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsMarkdownFill = element (unsafeCoerce bsMarkdownFill_)
+bsMarkdownFill = element (unsafeCoerce _bsMarkdownFill)
 
-foreign import bsMask_ :: ReactIcon
+foreign import _bsMask :: ReactIcon
 
 bsMask :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsMask = element (unsafeCoerce bsMask_)
+bsMask = element (unsafeCoerce _bsMask)
 
-foreign import bsMastodon_ :: ReactIcon
+foreign import _bsMastodon :: ReactIcon
 
 bsMastodon :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsMastodon = element (unsafeCoerce bsMastodon_)
+bsMastodon = element (unsafeCoerce _bsMastodon)
 
-foreign import bsMedium_ :: ReactIcon
+foreign import _bsMedium :: ReactIcon
 
 bsMedium :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsMedium = element (unsafeCoerce bsMedium_)
+bsMedium = element (unsafeCoerce _bsMedium)
 
-foreign import bsMegaphone_ :: ReactIcon
+foreign import _bsMegaphone :: ReactIcon
 
 bsMegaphone :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsMegaphone = element (unsafeCoerce bsMegaphone_)
+bsMegaphone = element (unsafeCoerce _bsMegaphone)
 
-foreign import bsMegaphoneFill_ :: ReactIcon
+foreign import _bsMegaphoneFill :: ReactIcon
 
 bsMegaphoneFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsMegaphoneFill = element (unsafeCoerce bsMegaphoneFill_)
+bsMegaphoneFill = element (unsafeCoerce _bsMegaphoneFill)
 
-foreign import bsMenuApp_ :: ReactIcon
+foreign import _bsMenuApp :: ReactIcon
 
 bsMenuApp :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsMenuApp = element (unsafeCoerce bsMenuApp_)
+bsMenuApp = element (unsafeCoerce _bsMenuApp)
 
-foreign import bsMenuAppFill_ :: ReactIcon
+foreign import _bsMenuAppFill :: ReactIcon
 
 bsMenuAppFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsMenuAppFill = element (unsafeCoerce bsMenuAppFill_)
+bsMenuAppFill = element (unsafeCoerce _bsMenuAppFill)
 
-foreign import bsMenuButton_ :: ReactIcon
+foreign import _bsMenuButton :: ReactIcon
 
 bsMenuButton :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsMenuButton = element (unsafeCoerce bsMenuButton_)
+bsMenuButton = element (unsafeCoerce _bsMenuButton)
 
-foreign import bsMenuButtonFill_ :: ReactIcon
+foreign import _bsMenuButtonFill :: ReactIcon
 
 bsMenuButtonFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsMenuButtonFill = element (unsafeCoerce bsMenuButtonFill_)
+bsMenuButtonFill = element (unsafeCoerce _bsMenuButtonFill)
 
-foreign import bsMenuButtonWide_ :: ReactIcon
+foreign import _bsMenuButtonWide :: ReactIcon
 
 bsMenuButtonWide :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsMenuButtonWide = element (unsafeCoerce bsMenuButtonWide_)
+bsMenuButtonWide = element (unsafeCoerce _bsMenuButtonWide)
 
-foreign import bsMenuButtonWideFill_ :: ReactIcon
+foreign import _bsMenuButtonWideFill :: ReactIcon
 
 bsMenuButtonWideFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsMenuButtonWideFill = element (unsafeCoerce bsMenuButtonWideFill_)
+bsMenuButtonWideFill = element (unsafeCoerce _bsMenuButtonWideFill)
 
-foreign import bsMenuDown_ :: ReactIcon
+foreign import _bsMenuDown :: ReactIcon
 
 bsMenuDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsMenuDown = element (unsafeCoerce bsMenuDown_)
+bsMenuDown = element (unsafeCoerce _bsMenuDown)
 
-foreign import bsMenuUp_ :: ReactIcon
+foreign import _bsMenuUp :: ReactIcon
 
 bsMenuUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsMenuUp = element (unsafeCoerce bsMenuUp_)
+bsMenuUp = element (unsafeCoerce _bsMenuUp)
 
-foreign import bsMessenger_ :: ReactIcon
+foreign import _bsMessenger :: ReactIcon
 
 bsMessenger :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsMessenger = element (unsafeCoerce bsMessenger_)
+bsMessenger = element (unsafeCoerce _bsMessenger)
 
-foreign import bsMic_ :: ReactIcon
+foreign import _bsMic :: ReactIcon
 
 bsMic :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsMic = element (unsafeCoerce bsMic_)
+bsMic = element (unsafeCoerce _bsMic)
 
-foreign import bsMicFill_ :: ReactIcon
+foreign import _bsMicFill :: ReactIcon
 
 bsMicFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsMicFill = element (unsafeCoerce bsMicFill_)
+bsMicFill = element (unsafeCoerce _bsMicFill)
 
-foreign import bsMicMute_ :: ReactIcon
+foreign import _bsMicMute :: ReactIcon
 
 bsMicMute :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsMicMute = element (unsafeCoerce bsMicMute_)
+bsMicMute = element (unsafeCoerce _bsMicMute)
 
-foreign import bsMicMuteFill_ :: ReactIcon
+foreign import _bsMicMuteFill :: ReactIcon
 
 bsMicMuteFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsMicMuteFill = element (unsafeCoerce bsMicMuteFill_)
+bsMicMuteFill = element (unsafeCoerce _bsMicMuteFill)
 
-foreign import bsMicrosoft_ :: ReactIcon
+foreign import _bsMicrosoft :: ReactIcon
 
 bsMicrosoft :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsMicrosoft = element (unsafeCoerce bsMicrosoft_)
+bsMicrosoft = element (unsafeCoerce _bsMicrosoft)
 
-foreign import bsMinecart_ :: ReactIcon
+foreign import _bsMinecart :: ReactIcon
 
 bsMinecart :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsMinecart = element (unsafeCoerce bsMinecart_)
+bsMinecart = element (unsafeCoerce _bsMinecart)
 
-foreign import bsMinecartLoaded_ :: ReactIcon
+foreign import _bsMinecartLoaded :: ReactIcon
 
 bsMinecartLoaded :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsMinecartLoaded = element (unsafeCoerce bsMinecartLoaded_)
+bsMinecartLoaded = element (unsafeCoerce _bsMinecartLoaded)
 
-foreign import bsMoisture_ :: ReactIcon
+foreign import _bsMoisture :: ReactIcon
 
 bsMoisture :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsMoisture = element (unsafeCoerce bsMoisture_)
+bsMoisture = element (unsafeCoerce _bsMoisture)
 
-foreign import bsMoon_ :: ReactIcon
+foreign import _bsMoon :: ReactIcon
 
 bsMoon :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsMoon = element (unsafeCoerce bsMoon_)
+bsMoon = element (unsafeCoerce _bsMoon)
 
-foreign import bsMoonFill_ :: ReactIcon
+foreign import _bsMoonFill :: ReactIcon
 
 bsMoonFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsMoonFill = element (unsafeCoerce bsMoonFill_)
+bsMoonFill = element (unsafeCoerce _bsMoonFill)
 
-foreign import bsMoonStars_ :: ReactIcon
+foreign import _bsMoonStars :: ReactIcon
 
 bsMoonStars :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsMoonStars = element (unsafeCoerce bsMoonStars_)
+bsMoonStars = element (unsafeCoerce _bsMoonStars)
 
-foreign import bsMoonStarsFill_ :: ReactIcon
+foreign import _bsMoonStarsFill :: ReactIcon
 
 bsMoonStarsFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsMoonStarsFill = element (unsafeCoerce bsMoonStarsFill_)
+bsMoonStarsFill = element (unsafeCoerce _bsMoonStarsFill)
 
-foreign import bsMouse_ :: ReactIcon
+foreign import _bsMouse :: ReactIcon
 
 bsMouse :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsMouse = element (unsafeCoerce bsMouse_)
+bsMouse = element (unsafeCoerce _bsMouse)
 
-foreign import bsMouseFill_ :: ReactIcon
+foreign import _bsMouseFill :: ReactIcon
 
 bsMouseFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsMouseFill = element (unsafeCoerce bsMouseFill_)
+bsMouseFill = element (unsafeCoerce _bsMouseFill)
 
-foreign import bsMusicNote_ :: ReactIcon
+foreign import _bsMusicNote :: ReactIcon
 
 bsMusicNote :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsMusicNote = element (unsafeCoerce bsMusicNote_)
+bsMusicNote = element (unsafeCoerce _bsMusicNote)
 
-foreign import bsMusicNoteBeamed_ :: ReactIcon
+foreign import _bsMusicNoteBeamed :: ReactIcon
 
 bsMusicNoteBeamed :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsMusicNoteBeamed = element (unsafeCoerce bsMusicNoteBeamed_)
+bsMusicNoteBeamed = element (unsafeCoerce _bsMusicNoteBeamed)
 
-foreign import bsMusicNoteList_ :: ReactIcon
+foreign import _bsMusicNoteList :: ReactIcon
 
 bsMusicNoteList :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsMusicNoteList = element (unsafeCoerce bsMusicNoteList_)
+bsMusicNoteList = element (unsafeCoerce _bsMusicNoteList)
 
-foreign import bsMusicPlayer_ :: ReactIcon
+foreign import _bsMusicPlayer :: ReactIcon
 
 bsMusicPlayer :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsMusicPlayer = element (unsafeCoerce bsMusicPlayer_)
+bsMusicPlayer = element (unsafeCoerce _bsMusicPlayer)
 
-foreign import bsMusicPlayerFill_ :: ReactIcon
+foreign import _bsMusicPlayerFill :: ReactIcon
 
 bsMusicPlayerFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsMusicPlayerFill = element (unsafeCoerce bsMusicPlayerFill_)
+bsMusicPlayerFill = element (unsafeCoerce _bsMusicPlayerFill)
 
-foreign import bsNewspaper_ :: ReactIcon
+foreign import _bsNewspaper :: ReactIcon
 
 bsNewspaper :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsNewspaper = element (unsafeCoerce bsNewspaper_)
+bsNewspaper = element (unsafeCoerce _bsNewspaper)
 
-foreign import bsNodeMinus_ :: ReactIcon
+foreign import _bsNodeMinus :: ReactIcon
 
 bsNodeMinus :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsNodeMinus = element (unsafeCoerce bsNodeMinus_)
+bsNodeMinus = element (unsafeCoerce _bsNodeMinus)
 
-foreign import bsNodeMinusFill_ :: ReactIcon
+foreign import _bsNodeMinusFill :: ReactIcon
 
 bsNodeMinusFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsNodeMinusFill = element (unsafeCoerce bsNodeMinusFill_)
+bsNodeMinusFill = element (unsafeCoerce _bsNodeMinusFill)
 
-foreign import bsNodePlus_ :: ReactIcon
+foreign import _bsNodePlus :: ReactIcon
 
 bsNodePlus :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsNodePlus = element (unsafeCoerce bsNodePlus_)
+bsNodePlus = element (unsafeCoerce _bsNodePlus)
 
-foreign import bsNodePlusFill_ :: ReactIcon
+foreign import _bsNodePlusFill :: ReactIcon
 
 bsNodePlusFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsNodePlusFill = element (unsafeCoerce bsNodePlusFill_)
+bsNodePlusFill = element (unsafeCoerce _bsNodePlusFill)
 
-foreign import bsNut_ :: ReactIcon
+foreign import _bsNut :: ReactIcon
 
 bsNut :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsNut = element (unsafeCoerce bsNut_)
+bsNut = element (unsafeCoerce _bsNut)
 
-foreign import bsNutFill_ :: ReactIcon
+foreign import _bsNutFill :: ReactIcon
 
 bsNutFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsNutFill = element (unsafeCoerce bsNutFill_)
+bsNutFill = element (unsafeCoerce _bsNutFill)
 
-foreign import bsOctagon_ :: ReactIcon
+foreign import _bsOctagon :: ReactIcon
 
 bsOctagon :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsOctagon = element (unsafeCoerce bsOctagon_)
+bsOctagon = element (unsafeCoerce _bsOctagon)
 
-foreign import bsOctagonFill_ :: ReactIcon
+foreign import _bsOctagonFill :: ReactIcon
 
 bsOctagonFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsOctagonFill = element (unsafeCoerce bsOctagonFill_)
+bsOctagonFill = element (unsafeCoerce _bsOctagonFill)
 
-foreign import bsOctagonHalf_ :: ReactIcon
+foreign import _bsOctagonHalf :: ReactIcon
 
 bsOctagonHalf :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsOctagonHalf = element (unsafeCoerce bsOctagonHalf_)
+bsOctagonHalf = element (unsafeCoerce _bsOctagonHalf)
 
-foreign import bsOption_ :: ReactIcon
+foreign import _bsOption :: ReactIcon
 
 bsOption :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsOption = element (unsafeCoerce bsOption_)
+bsOption = element (unsafeCoerce _bsOption)
 
-foreign import bsOutlet_ :: ReactIcon
+foreign import _bsOutlet :: ReactIcon
 
 bsOutlet :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsOutlet = element (unsafeCoerce bsOutlet_)
+bsOutlet = element (unsafeCoerce _bsOutlet)
 
-foreign import bsPaintBucket_ :: ReactIcon
+foreign import _bsPaintBucket :: ReactIcon
 
 bsPaintBucket :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsPaintBucket = element (unsafeCoerce bsPaintBucket_)
+bsPaintBucket = element (unsafeCoerce _bsPaintBucket)
 
-foreign import bsPalette_ :: ReactIcon
+foreign import _bsPalette :: ReactIcon
 
 bsPalette :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsPalette = element (unsafeCoerce bsPalette_)
+bsPalette = element (unsafeCoerce _bsPalette)
 
-foreign import bsPaletteFill_ :: ReactIcon
+foreign import _bsPaletteFill :: ReactIcon
 
 bsPaletteFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsPaletteFill = element (unsafeCoerce bsPaletteFill_)
+bsPaletteFill = element (unsafeCoerce _bsPaletteFill)
 
-foreign import bsPaperclip_ :: ReactIcon
+foreign import _bsPaperclip :: ReactIcon
 
 bsPaperclip :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsPaperclip = element (unsafeCoerce bsPaperclip_)
+bsPaperclip = element (unsafeCoerce _bsPaperclip)
 
-foreign import bsParagraph_ :: ReactIcon
+foreign import _bsParagraph :: ReactIcon
 
 bsParagraph :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsParagraph = element (unsafeCoerce bsParagraph_)
+bsParagraph = element (unsafeCoerce _bsParagraph)
 
-foreign import bsPatchCheck_ :: ReactIcon
+foreign import _bsPatchCheck :: ReactIcon
 
 bsPatchCheck :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsPatchCheck = element (unsafeCoerce bsPatchCheck_)
+bsPatchCheck = element (unsafeCoerce _bsPatchCheck)
 
-foreign import bsPatchCheckFill_ :: ReactIcon
+foreign import _bsPatchCheckFill :: ReactIcon
 
 bsPatchCheckFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsPatchCheckFill = element (unsafeCoerce bsPatchCheckFill_)
+bsPatchCheckFill = element (unsafeCoerce _bsPatchCheckFill)
 
-foreign import bsPatchExclamation_ :: ReactIcon
+foreign import _bsPatchExclamation :: ReactIcon
 
 bsPatchExclamation :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsPatchExclamation = element (unsafeCoerce bsPatchExclamation_)
+bsPatchExclamation = element (unsafeCoerce _bsPatchExclamation)
 
-foreign import bsPatchExclamationFill_ :: ReactIcon
+foreign import _bsPatchExclamationFill :: ReactIcon
 
 bsPatchExclamationFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsPatchExclamationFill = element (unsafeCoerce bsPatchExclamationFill_)
+bsPatchExclamationFill = element (unsafeCoerce _bsPatchExclamationFill)
 
-foreign import bsPatchMinus_ :: ReactIcon
+foreign import _bsPatchMinus :: ReactIcon
 
 bsPatchMinus :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsPatchMinus = element (unsafeCoerce bsPatchMinus_)
+bsPatchMinus = element (unsafeCoerce _bsPatchMinus)
 
-foreign import bsPatchMinusFill_ :: ReactIcon
+foreign import _bsPatchMinusFill :: ReactIcon
 
 bsPatchMinusFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsPatchMinusFill = element (unsafeCoerce bsPatchMinusFill_)
+bsPatchMinusFill = element (unsafeCoerce _bsPatchMinusFill)
 
-foreign import bsPatchPlus_ :: ReactIcon
+foreign import _bsPatchPlus :: ReactIcon
 
 bsPatchPlus :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsPatchPlus = element (unsafeCoerce bsPatchPlus_)
+bsPatchPlus = element (unsafeCoerce _bsPatchPlus)
 
-foreign import bsPatchPlusFill_ :: ReactIcon
+foreign import _bsPatchPlusFill :: ReactIcon
 
 bsPatchPlusFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsPatchPlusFill = element (unsafeCoerce bsPatchPlusFill_)
+bsPatchPlusFill = element (unsafeCoerce _bsPatchPlusFill)
 
-foreign import bsPatchQuestion_ :: ReactIcon
+foreign import _bsPatchQuestion :: ReactIcon
 
 bsPatchQuestion :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsPatchQuestion = element (unsafeCoerce bsPatchQuestion_)
+bsPatchQuestion = element (unsafeCoerce _bsPatchQuestion)
 
-foreign import bsPatchQuestionFill_ :: ReactIcon
+foreign import _bsPatchQuestionFill :: ReactIcon
 
 bsPatchQuestionFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsPatchQuestionFill = element (unsafeCoerce bsPatchQuestionFill_)
+bsPatchQuestionFill = element (unsafeCoerce _bsPatchQuestionFill)
 
-foreign import bsPause_ :: ReactIcon
+foreign import _bsPause :: ReactIcon
 
 bsPause :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsPause = element (unsafeCoerce bsPause_)
+bsPause = element (unsafeCoerce _bsPause)
 
-foreign import bsPauseBtn_ :: ReactIcon
+foreign import _bsPauseBtn :: ReactIcon
 
 bsPauseBtn :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsPauseBtn = element (unsafeCoerce bsPauseBtn_)
+bsPauseBtn = element (unsafeCoerce _bsPauseBtn)
 
-foreign import bsPauseBtnFill_ :: ReactIcon
+foreign import _bsPauseBtnFill :: ReactIcon
 
 bsPauseBtnFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsPauseBtnFill = element (unsafeCoerce bsPauseBtnFill_)
+bsPauseBtnFill = element (unsafeCoerce _bsPauseBtnFill)
 
-foreign import bsPauseCircle_ :: ReactIcon
+foreign import _bsPauseCircle :: ReactIcon
 
 bsPauseCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsPauseCircle = element (unsafeCoerce bsPauseCircle_)
+bsPauseCircle = element (unsafeCoerce _bsPauseCircle)
 
-foreign import bsPauseCircleFill_ :: ReactIcon
+foreign import _bsPauseCircleFill :: ReactIcon
 
 bsPauseCircleFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsPauseCircleFill = element (unsafeCoerce bsPauseCircleFill_)
+bsPauseCircleFill = element (unsafeCoerce _bsPauseCircleFill)
 
-foreign import bsPauseFill_ :: ReactIcon
+foreign import _bsPauseFill :: ReactIcon
 
 bsPauseFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsPauseFill = element (unsafeCoerce bsPauseFill_)
+bsPauseFill = element (unsafeCoerce _bsPauseFill)
 
-foreign import bsPaypal_ :: ReactIcon
+foreign import _bsPaypal :: ReactIcon
 
 bsPaypal :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsPaypal = element (unsafeCoerce bsPaypal_)
+bsPaypal = element (unsafeCoerce _bsPaypal)
 
-foreign import bsPeace_ :: ReactIcon
+foreign import _bsPeace :: ReactIcon
 
 bsPeace :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsPeace = element (unsafeCoerce bsPeace_)
+bsPeace = element (unsafeCoerce _bsPeace)
 
-foreign import bsPeaceFill_ :: ReactIcon
+foreign import _bsPeaceFill :: ReactIcon
 
 bsPeaceFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsPeaceFill = element (unsafeCoerce bsPeaceFill_)
+bsPeaceFill = element (unsafeCoerce _bsPeaceFill)
 
-foreign import bsPen_ :: ReactIcon
+foreign import _bsPen :: ReactIcon
 
 bsPen :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsPen = element (unsafeCoerce bsPen_)
+bsPen = element (unsafeCoerce _bsPen)
 
-foreign import bsPencil_ :: ReactIcon
+foreign import _bsPencil :: ReactIcon
 
 bsPencil :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsPencil = element (unsafeCoerce bsPencil_)
+bsPencil = element (unsafeCoerce _bsPencil)
 
-foreign import bsPencilFill_ :: ReactIcon
+foreign import _bsPencilFill :: ReactIcon
 
 bsPencilFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsPencilFill = element (unsafeCoerce bsPencilFill_)
+bsPencilFill = element (unsafeCoerce _bsPencilFill)
 
-foreign import bsPencilSquare_ :: ReactIcon
+foreign import _bsPencilSquare :: ReactIcon
 
 bsPencilSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsPencilSquare = element (unsafeCoerce bsPencilSquare_)
+bsPencilSquare = element (unsafeCoerce _bsPencilSquare)
 
-foreign import bsPenFill_ :: ReactIcon
+foreign import _bsPenFill :: ReactIcon
 
 bsPenFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsPenFill = element (unsafeCoerce bsPenFill_)
+bsPenFill = element (unsafeCoerce _bsPenFill)
 
-foreign import bsPentagon_ :: ReactIcon
+foreign import _bsPentagon :: ReactIcon
 
 bsPentagon :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsPentagon = element (unsafeCoerce bsPentagon_)
+bsPentagon = element (unsafeCoerce _bsPentagon)
 
-foreign import bsPentagonFill_ :: ReactIcon
+foreign import _bsPentagonFill :: ReactIcon
 
 bsPentagonFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsPentagonFill = element (unsafeCoerce bsPentagonFill_)
+bsPentagonFill = element (unsafeCoerce _bsPentagonFill)
 
-foreign import bsPentagonHalf_ :: ReactIcon
+foreign import _bsPentagonHalf :: ReactIcon
 
 bsPentagonHalf :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsPentagonHalf = element (unsafeCoerce bsPentagonHalf_)
+bsPentagonHalf = element (unsafeCoerce _bsPentagonHalf)
 
-foreign import bsPeople_ :: ReactIcon
+foreign import _bsPeople :: ReactIcon
 
 bsPeople :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsPeople = element (unsafeCoerce bsPeople_)
+bsPeople = element (unsafeCoerce _bsPeople)
 
-foreign import bsPeopleFill_ :: ReactIcon
+foreign import _bsPeopleFill :: ReactIcon
 
 bsPeopleFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsPeopleFill = element (unsafeCoerce bsPeopleFill_)
+bsPeopleFill = element (unsafeCoerce _bsPeopleFill)
 
-foreign import bsPercent_ :: ReactIcon
+foreign import _bsPercent :: ReactIcon
 
 bsPercent :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsPercent = element (unsafeCoerce bsPercent_)
+bsPercent = element (unsafeCoerce _bsPercent)
 
-foreign import bsPerson_ :: ReactIcon
+foreign import _bsPerson :: ReactIcon
 
 bsPerson :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsPerson = element (unsafeCoerce bsPerson_)
+bsPerson = element (unsafeCoerce _bsPerson)
 
-foreign import bsPersonBadge_ :: ReactIcon
+foreign import _bsPersonBadge :: ReactIcon
 
 bsPersonBadge :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsPersonBadge = element (unsafeCoerce bsPersonBadge_)
+bsPersonBadge = element (unsafeCoerce _bsPersonBadge)
 
-foreign import bsPersonBadgeFill_ :: ReactIcon
+foreign import _bsPersonBadgeFill :: ReactIcon
 
 bsPersonBadgeFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsPersonBadgeFill = element (unsafeCoerce bsPersonBadgeFill_)
+bsPersonBadgeFill = element (unsafeCoerce _bsPersonBadgeFill)
 
-foreign import bsPersonBoundingBox_ :: ReactIcon
+foreign import _bsPersonBoundingBox :: ReactIcon
 
 bsPersonBoundingBox :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsPersonBoundingBox = element (unsafeCoerce bsPersonBoundingBox_)
+bsPersonBoundingBox = element (unsafeCoerce _bsPersonBoundingBox)
 
-foreign import bsPersonCheck_ :: ReactIcon
+foreign import _bsPersonCheck :: ReactIcon
 
 bsPersonCheck :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsPersonCheck = element (unsafeCoerce bsPersonCheck_)
+bsPersonCheck = element (unsafeCoerce _bsPersonCheck)
 
-foreign import bsPersonCheckFill_ :: ReactIcon
+foreign import _bsPersonCheckFill :: ReactIcon
 
 bsPersonCheckFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsPersonCheckFill = element (unsafeCoerce bsPersonCheckFill_)
+bsPersonCheckFill = element (unsafeCoerce _bsPersonCheckFill)
 
-foreign import bsPersonCircle_ :: ReactIcon
+foreign import _bsPersonCircle :: ReactIcon
 
 bsPersonCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsPersonCircle = element (unsafeCoerce bsPersonCircle_)
+bsPersonCircle = element (unsafeCoerce _bsPersonCircle)
 
-foreign import bsPersonDash_ :: ReactIcon
+foreign import _bsPersonDash :: ReactIcon
 
 bsPersonDash :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsPersonDash = element (unsafeCoerce bsPersonDash_)
+bsPersonDash = element (unsafeCoerce _bsPersonDash)
 
-foreign import bsPersonDashFill_ :: ReactIcon
+foreign import _bsPersonDashFill :: ReactIcon
 
 bsPersonDashFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsPersonDashFill = element (unsafeCoerce bsPersonDashFill_)
+bsPersonDashFill = element (unsafeCoerce _bsPersonDashFill)
 
-foreign import bsPersonFill_ :: ReactIcon
+foreign import _bsPersonFill :: ReactIcon
 
 bsPersonFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsPersonFill = element (unsafeCoerce bsPersonFill_)
+bsPersonFill = element (unsafeCoerce _bsPersonFill)
 
-foreign import bsPersonLinesFill_ :: ReactIcon
+foreign import _bsPersonLinesFill :: ReactIcon
 
 bsPersonLinesFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsPersonLinesFill = element (unsafeCoerce bsPersonLinesFill_)
+bsPersonLinesFill = element (unsafeCoerce _bsPersonLinesFill)
 
-foreign import bsPersonPlus_ :: ReactIcon
+foreign import _bsPersonPlus :: ReactIcon
 
 bsPersonPlus :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsPersonPlus = element (unsafeCoerce bsPersonPlus_)
+bsPersonPlus = element (unsafeCoerce _bsPersonPlus)
 
-foreign import bsPersonPlusFill_ :: ReactIcon
+foreign import _bsPersonPlusFill :: ReactIcon
 
 bsPersonPlusFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsPersonPlusFill = element (unsafeCoerce bsPersonPlusFill_)
+bsPersonPlusFill = element (unsafeCoerce _bsPersonPlusFill)
 
-foreign import bsPersonSquare_ :: ReactIcon
+foreign import _bsPersonSquare :: ReactIcon
 
 bsPersonSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsPersonSquare = element (unsafeCoerce bsPersonSquare_)
+bsPersonSquare = element (unsafeCoerce _bsPersonSquare)
 
-foreign import bsPersonX_ :: ReactIcon
+foreign import _bsPersonX :: ReactIcon
 
 bsPersonX :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsPersonX = element (unsafeCoerce bsPersonX_)
+bsPersonX = element (unsafeCoerce _bsPersonX)
 
-foreign import bsPersonXFill_ :: ReactIcon
+foreign import _bsPersonXFill :: ReactIcon
 
 bsPersonXFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsPersonXFill = element (unsafeCoerce bsPersonXFill_)
+bsPersonXFill = element (unsafeCoerce _bsPersonXFill)
 
-foreign import bsPhone_ :: ReactIcon
+foreign import _bsPhone :: ReactIcon
 
 bsPhone :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsPhone = element (unsafeCoerce bsPhone_)
+bsPhone = element (unsafeCoerce _bsPhone)
 
-foreign import bsPhoneFill_ :: ReactIcon
+foreign import _bsPhoneFill :: ReactIcon
 
 bsPhoneFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsPhoneFill = element (unsafeCoerce bsPhoneFill_)
+bsPhoneFill = element (unsafeCoerce _bsPhoneFill)
 
-foreign import bsPhoneLandscape_ :: ReactIcon
+foreign import _bsPhoneLandscape :: ReactIcon
 
 bsPhoneLandscape :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsPhoneLandscape = element (unsafeCoerce bsPhoneLandscape_)
+bsPhoneLandscape = element (unsafeCoerce _bsPhoneLandscape)
 
-foreign import bsPhoneLandscapeFill_ :: ReactIcon
+foreign import _bsPhoneLandscapeFill :: ReactIcon
 
 bsPhoneLandscapeFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsPhoneLandscapeFill = element (unsafeCoerce bsPhoneLandscapeFill_)
+bsPhoneLandscapeFill = element (unsafeCoerce _bsPhoneLandscapeFill)
 
-foreign import bsPhoneVibrate_ :: ReactIcon
+foreign import _bsPhoneVibrate :: ReactIcon
 
 bsPhoneVibrate :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsPhoneVibrate = element (unsafeCoerce bsPhoneVibrate_)
+bsPhoneVibrate = element (unsafeCoerce _bsPhoneVibrate)
 
-foreign import bsPhoneVibrateFill_ :: ReactIcon
+foreign import _bsPhoneVibrateFill :: ReactIcon
 
 bsPhoneVibrateFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsPhoneVibrateFill = element (unsafeCoerce bsPhoneVibrateFill_)
+bsPhoneVibrateFill = element (unsafeCoerce _bsPhoneVibrateFill)
 
-foreign import bsPieChart_ :: ReactIcon
+foreign import _bsPieChart :: ReactIcon
 
 bsPieChart :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsPieChart = element (unsafeCoerce bsPieChart_)
+bsPieChart = element (unsafeCoerce _bsPieChart)
 
-foreign import bsPieChartFill_ :: ReactIcon
+foreign import _bsPieChartFill :: ReactIcon
 
 bsPieChartFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsPieChartFill = element (unsafeCoerce bsPieChartFill_)
+bsPieChartFill = element (unsafeCoerce _bsPieChartFill)
 
-foreign import bsPiggyBank_ :: ReactIcon
+foreign import _bsPiggyBank :: ReactIcon
 
 bsPiggyBank :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsPiggyBank = element (unsafeCoerce bsPiggyBank_)
+bsPiggyBank = element (unsafeCoerce _bsPiggyBank)
 
-foreign import bsPiggyBankFill_ :: ReactIcon
+foreign import _bsPiggyBankFill :: ReactIcon
 
 bsPiggyBankFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsPiggyBankFill = element (unsafeCoerce bsPiggyBankFill_)
+bsPiggyBankFill = element (unsafeCoerce _bsPiggyBankFill)
 
-foreign import bsPin_ :: ReactIcon
+foreign import _bsPin :: ReactIcon
 
 bsPin :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsPin = element (unsafeCoerce bsPin_)
+bsPin = element (unsafeCoerce _bsPin)
 
-foreign import bsPinAngle_ :: ReactIcon
+foreign import _bsPinAngle :: ReactIcon
 
 bsPinAngle :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsPinAngle = element (unsafeCoerce bsPinAngle_)
+bsPinAngle = element (unsafeCoerce _bsPinAngle)
 
-foreign import bsPinAngleFill_ :: ReactIcon
+foreign import _bsPinAngleFill :: ReactIcon
 
 bsPinAngleFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsPinAngleFill = element (unsafeCoerce bsPinAngleFill_)
+bsPinAngleFill = element (unsafeCoerce _bsPinAngleFill)
 
-foreign import bsPinFill_ :: ReactIcon
+foreign import _bsPinFill :: ReactIcon
 
 bsPinFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsPinFill = element (unsafeCoerce bsPinFill_)
+bsPinFill = element (unsafeCoerce _bsPinFill)
 
-foreign import bsPinMap_ :: ReactIcon
+foreign import _bsPinMap :: ReactIcon
 
 bsPinMap :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsPinMap = element (unsafeCoerce bsPinMap_)
+bsPinMap = element (unsafeCoerce _bsPinMap)
 
-foreign import bsPinMapFill_ :: ReactIcon
+foreign import _bsPinMapFill :: ReactIcon
 
 bsPinMapFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsPinMapFill = element (unsafeCoerce bsPinMapFill_)
+bsPinMapFill = element (unsafeCoerce _bsPinMapFill)
 
-foreign import bsPinterest_ :: ReactIcon
+foreign import _bsPinterest :: ReactIcon
 
 bsPinterest :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsPinterest = element (unsafeCoerce bsPinterest_)
+bsPinterest = element (unsafeCoerce _bsPinterest)
 
-foreign import bsPip_ :: ReactIcon
+foreign import _bsPip :: ReactIcon
 
 bsPip :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsPip = element (unsafeCoerce bsPip_)
+bsPip = element (unsafeCoerce _bsPip)
 
-foreign import bsPipFill_ :: ReactIcon
+foreign import _bsPipFill :: ReactIcon
 
 bsPipFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsPipFill = element (unsafeCoerce bsPipFill_)
+bsPipFill = element (unsafeCoerce _bsPipFill)
 
-foreign import bsPlay_ :: ReactIcon
+foreign import _bsPlay :: ReactIcon
 
 bsPlay :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsPlay = element (unsafeCoerce bsPlay_)
+bsPlay = element (unsafeCoerce _bsPlay)
 
-foreign import bsPlayBtn_ :: ReactIcon
+foreign import _bsPlayBtn :: ReactIcon
 
 bsPlayBtn :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsPlayBtn = element (unsafeCoerce bsPlayBtn_)
+bsPlayBtn = element (unsafeCoerce _bsPlayBtn)
 
-foreign import bsPlayBtnFill_ :: ReactIcon
+foreign import _bsPlayBtnFill :: ReactIcon
 
 bsPlayBtnFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsPlayBtnFill = element (unsafeCoerce bsPlayBtnFill_)
+bsPlayBtnFill = element (unsafeCoerce _bsPlayBtnFill)
 
-foreign import bsPlayCircle_ :: ReactIcon
+foreign import _bsPlayCircle :: ReactIcon
 
 bsPlayCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsPlayCircle = element (unsafeCoerce bsPlayCircle_)
+bsPlayCircle = element (unsafeCoerce _bsPlayCircle)
 
-foreign import bsPlayCircleFill_ :: ReactIcon
+foreign import _bsPlayCircleFill :: ReactIcon
 
 bsPlayCircleFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsPlayCircleFill = element (unsafeCoerce bsPlayCircleFill_)
+bsPlayCircleFill = element (unsafeCoerce _bsPlayCircleFill)
 
-foreign import bsPlayFill_ :: ReactIcon
+foreign import _bsPlayFill :: ReactIcon
 
 bsPlayFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsPlayFill = element (unsafeCoerce bsPlayFill_)
+bsPlayFill = element (unsafeCoerce _bsPlayFill)
 
-foreign import bsPlug_ :: ReactIcon
+foreign import _bsPlug :: ReactIcon
 
 bsPlug :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsPlug = element (unsafeCoerce bsPlug_)
+bsPlug = element (unsafeCoerce _bsPlug)
 
-foreign import bsPlugFill_ :: ReactIcon
+foreign import _bsPlugFill :: ReactIcon
 
 bsPlugFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsPlugFill = element (unsafeCoerce bsPlugFill_)
+bsPlugFill = element (unsafeCoerce _bsPlugFill)
 
-foreign import bsPlus_ :: ReactIcon
+foreign import _bsPlus :: ReactIcon
 
 bsPlus :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsPlus = element (unsafeCoerce bsPlus_)
+bsPlus = element (unsafeCoerce _bsPlus)
 
-foreign import bsPlusCircle_ :: ReactIcon
+foreign import _bsPlusCircle :: ReactIcon
 
 bsPlusCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsPlusCircle = element (unsafeCoerce bsPlusCircle_)
+bsPlusCircle = element (unsafeCoerce _bsPlusCircle)
 
-foreign import bsPlusCircleDotted_ :: ReactIcon
+foreign import _bsPlusCircleDotted :: ReactIcon
 
 bsPlusCircleDotted :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsPlusCircleDotted = element (unsafeCoerce bsPlusCircleDotted_)
+bsPlusCircleDotted = element (unsafeCoerce _bsPlusCircleDotted)
 
-foreign import bsPlusCircleFill_ :: ReactIcon
+foreign import _bsPlusCircleFill :: ReactIcon
 
 bsPlusCircleFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsPlusCircleFill = element (unsafeCoerce bsPlusCircleFill_)
+bsPlusCircleFill = element (unsafeCoerce _bsPlusCircleFill)
 
-foreign import bsPlusLg_ :: ReactIcon
+foreign import _bsPlusLg :: ReactIcon
 
 bsPlusLg :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsPlusLg = element (unsafeCoerce bsPlusLg_)
+bsPlusLg = element (unsafeCoerce _bsPlusLg)
 
-foreign import bsPlusSquare_ :: ReactIcon
+foreign import _bsPlusSquare :: ReactIcon
 
 bsPlusSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsPlusSquare = element (unsafeCoerce bsPlusSquare_)
+bsPlusSquare = element (unsafeCoerce _bsPlusSquare)
 
-foreign import bsPlusSquareDotted_ :: ReactIcon
+foreign import _bsPlusSquareDotted :: ReactIcon
 
 bsPlusSquareDotted :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsPlusSquareDotted = element (unsafeCoerce bsPlusSquareDotted_)
+bsPlusSquareDotted = element (unsafeCoerce _bsPlusSquareDotted)
 
-foreign import bsPlusSquareFill_ :: ReactIcon
+foreign import _bsPlusSquareFill :: ReactIcon
 
 bsPlusSquareFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsPlusSquareFill = element (unsafeCoerce bsPlusSquareFill_)
+bsPlusSquareFill = element (unsafeCoerce _bsPlusSquareFill)
 
-foreign import bsPower_ :: ReactIcon
+foreign import _bsPower :: ReactIcon
 
 bsPower :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsPower = element (unsafeCoerce bsPower_)
+bsPower = element (unsafeCoerce _bsPower)
 
-foreign import bsPrinter_ :: ReactIcon
+foreign import _bsPrinter :: ReactIcon
 
 bsPrinter :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsPrinter = element (unsafeCoerce bsPrinter_)
+bsPrinter = element (unsafeCoerce _bsPrinter)
 
-foreign import bsPrinterFill_ :: ReactIcon
+foreign import _bsPrinterFill :: ReactIcon
 
 bsPrinterFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsPrinterFill = element (unsafeCoerce bsPrinterFill_)
+bsPrinterFill = element (unsafeCoerce _bsPrinterFill)
 
-foreign import bsPuzzle_ :: ReactIcon
+foreign import _bsPuzzle :: ReactIcon
 
 bsPuzzle :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsPuzzle = element (unsafeCoerce bsPuzzle_)
+bsPuzzle = element (unsafeCoerce _bsPuzzle)
 
-foreign import bsPuzzleFill_ :: ReactIcon
+foreign import _bsPuzzleFill :: ReactIcon
 
 bsPuzzleFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsPuzzleFill = element (unsafeCoerce bsPuzzleFill_)
+bsPuzzleFill = element (unsafeCoerce _bsPuzzleFill)
 
-foreign import bsQuestion_ :: ReactIcon
+foreign import _bsQuestion :: ReactIcon
 
 bsQuestion :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsQuestion = element (unsafeCoerce bsQuestion_)
+bsQuestion = element (unsafeCoerce _bsQuestion)
 
-foreign import bsQuestionCircle_ :: ReactIcon
+foreign import _bsQuestionCircle :: ReactIcon
 
 bsQuestionCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsQuestionCircle = element (unsafeCoerce bsQuestionCircle_)
+bsQuestionCircle = element (unsafeCoerce _bsQuestionCircle)
 
-foreign import bsQuestionCircleFill_ :: ReactIcon
+foreign import _bsQuestionCircleFill :: ReactIcon
 
 bsQuestionCircleFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsQuestionCircleFill = element (unsafeCoerce bsQuestionCircleFill_)
+bsQuestionCircleFill = element (unsafeCoerce _bsQuestionCircleFill)
 
-foreign import bsQuestionDiamond_ :: ReactIcon
+foreign import _bsQuestionDiamond :: ReactIcon
 
 bsQuestionDiamond :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsQuestionDiamond = element (unsafeCoerce bsQuestionDiamond_)
+bsQuestionDiamond = element (unsafeCoerce _bsQuestionDiamond)
 
-foreign import bsQuestionDiamondFill_ :: ReactIcon
+foreign import _bsQuestionDiamondFill :: ReactIcon
 
 bsQuestionDiamondFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsQuestionDiamondFill = element (unsafeCoerce bsQuestionDiamondFill_)
+bsQuestionDiamondFill = element (unsafeCoerce _bsQuestionDiamondFill)
 
-foreign import bsQuestionLg_ :: ReactIcon
+foreign import _bsQuestionLg :: ReactIcon
 
 bsQuestionLg :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsQuestionLg = element (unsafeCoerce bsQuestionLg_)
+bsQuestionLg = element (unsafeCoerce _bsQuestionLg)
 
-foreign import bsQuestionOctagon_ :: ReactIcon
+foreign import _bsQuestionOctagon :: ReactIcon
 
 bsQuestionOctagon :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsQuestionOctagon = element (unsafeCoerce bsQuestionOctagon_)
+bsQuestionOctagon = element (unsafeCoerce _bsQuestionOctagon)
 
-foreign import bsQuestionOctagonFill_ :: ReactIcon
+foreign import _bsQuestionOctagonFill :: ReactIcon
 
 bsQuestionOctagonFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsQuestionOctagonFill = element (unsafeCoerce bsQuestionOctagonFill_)
+bsQuestionOctagonFill = element (unsafeCoerce _bsQuestionOctagonFill)
 
-foreign import bsQuestionSquare_ :: ReactIcon
+foreign import _bsQuestionSquare :: ReactIcon
 
 bsQuestionSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsQuestionSquare = element (unsafeCoerce bsQuestionSquare_)
+bsQuestionSquare = element (unsafeCoerce _bsQuestionSquare)
 
-foreign import bsQuestionSquareFill_ :: ReactIcon
+foreign import _bsQuestionSquareFill :: ReactIcon
 
 bsQuestionSquareFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsQuestionSquareFill = element (unsafeCoerce bsQuestionSquareFill_)
+bsQuestionSquareFill = element (unsafeCoerce _bsQuestionSquareFill)
 
-foreign import bsRainbow_ :: ReactIcon
+foreign import _bsRainbow :: ReactIcon
 
 bsRainbow :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsRainbow = element (unsafeCoerce bsRainbow_)
+bsRainbow = element (unsafeCoerce _bsRainbow)
 
-foreign import bsReceipt_ :: ReactIcon
+foreign import _bsReceipt :: ReactIcon
 
 bsReceipt :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsReceipt = element (unsafeCoerce bsReceipt_)
+bsReceipt = element (unsafeCoerce _bsReceipt)
 
-foreign import bsReceiptCutoff_ :: ReactIcon
+foreign import _bsReceiptCutoff :: ReactIcon
 
 bsReceiptCutoff :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsReceiptCutoff = element (unsafeCoerce bsReceiptCutoff_)
+bsReceiptCutoff = element (unsafeCoerce _bsReceiptCutoff)
 
-foreign import bsRecord_ :: ReactIcon
+foreign import _bsRecord :: ReactIcon
 
 bsRecord :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsRecord = element (unsafeCoerce bsRecord_)
+bsRecord = element (unsafeCoerce _bsRecord)
 
-foreign import bsRecordBtn_ :: ReactIcon
+foreign import _bsRecordBtn :: ReactIcon
 
 bsRecordBtn :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsRecordBtn = element (unsafeCoerce bsRecordBtn_)
+bsRecordBtn = element (unsafeCoerce _bsRecordBtn)
 
-foreign import bsRecordBtnFill_ :: ReactIcon
+foreign import _bsRecordBtnFill :: ReactIcon
 
 bsRecordBtnFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsRecordBtnFill = element (unsafeCoerce bsRecordBtnFill_)
+bsRecordBtnFill = element (unsafeCoerce _bsRecordBtnFill)
 
-foreign import bsRecordCircle_ :: ReactIcon
+foreign import _bsRecordCircle :: ReactIcon
 
 bsRecordCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsRecordCircle = element (unsafeCoerce bsRecordCircle_)
+bsRecordCircle = element (unsafeCoerce _bsRecordCircle)
 
-foreign import bsRecordCircleFill_ :: ReactIcon
+foreign import _bsRecordCircleFill :: ReactIcon
 
 bsRecordCircleFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsRecordCircleFill = element (unsafeCoerce bsRecordCircleFill_)
+bsRecordCircleFill = element (unsafeCoerce _bsRecordCircleFill)
 
-foreign import bsRecordFill_ :: ReactIcon
+foreign import _bsRecordFill :: ReactIcon
 
 bsRecordFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsRecordFill = element (unsafeCoerce bsRecordFill_)
+bsRecordFill = element (unsafeCoerce _bsRecordFill)
 
-foreign import bsRecycle_ :: ReactIcon
+foreign import _bsRecycle :: ReactIcon
 
 bsRecycle :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsRecycle = element (unsafeCoerce bsRecycle_)
+bsRecycle = element (unsafeCoerce _bsRecycle)
 
-foreign import bsReddit_ :: ReactIcon
+foreign import _bsReddit :: ReactIcon
 
 bsReddit :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsReddit = element (unsafeCoerce bsReddit_)
+bsReddit = element (unsafeCoerce _bsReddit)
 
-foreign import bsReply_ :: ReactIcon
+foreign import _bsReply :: ReactIcon
 
 bsReply :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsReply = element (unsafeCoerce bsReply_)
+bsReply = element (unsafeCoerce _bsReply)
 
-foreign import bsReplyAll_ :: ReactIcon
+foreign import _bsReplyAll :: ReactIcon
 
 bsReplyAll :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsReplyAll = element (unsafeCoerce bsReplyAll_)
+bsReplyAll = element (unsafeCoerce _bsReplyAll)
 
-foreign import bsReplyAllFill_ :: ReactIcon
+foreign import _bsReplyAllFill :: ReactIcon
 
 bsReplyAllFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsReplyAllFill = element (unsafeCoerce bsReplyAllFill_)
+bsReplyAllFill = element (unsafeCoerce _bsReplyAllFill)
 
-foreign import bsReplyFill_ :: ReactIcon
+foreign import _bsReplyFill :: ReactIcon
 
 bsReplyFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsReplyFill = element (unsafeCoerce bsReplyFill_)
+bsReplyFill = element (unsafeCoerce _bsReplyFill)
 
-foreign import bsReverseBackspaceReverse_ :: ReactIcon
+foreign import _bsReverseBackspaceReverse :: ReactIcon
 
 bsReverseBackspaceReverse :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsReverseBackspaceReverse = element (unsafeCoerce bsReverseBackspaceReverse_)
+bsReverseBackspaceReverse = element (unsafeCoerce _bsReverseBackspaceReverse)
 
-foreign import bsReverseLayoutSidebarInsetReverse_ :: ReactIcon
+foreign import _bsReverseLayoutSidebarInsetReverse :: ReactIcon
 
 bsReverseLayoutSidebarInsetReverse :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsReverseLayoutSidebarInsetReverse = element (unsafeCoerce bsReverseLayoutSidebarInsetReverse_)
+bsReverseLayoutSidebarInsetReverse = element (unsafeCoerce _bsReverseLayoutSidebarInsetReverse)
 
-foreign import bsReverseLayoutSidebarReverse_ :: ReactIcon
+foreign import _bsReverseLayoutSidebarReverse :: ReactIcon
 
 bsReverseLayoutSidebarReverse :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsReverseLayoutSidebarReverse = element (unsafeCoerce bsReverseLayoutSidebarReverse_)
+bsReverseLayoutSidebarReverse = element (unsafeCoerce _bsReverseLayoutSidebarReverse)
 
-foreign import bsReverseLayoutTextSidebarReverse_ :: ReactIcon
+foreign import _bsReverseLayoutTextSidebarReverse :: ReactIcon
 
 bsReverseLayoutTextSidebarReverse :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsReverseLayoutTextSidebarReverse = element (unsafeCoerce bsReverseLayoutTextSidebarReverse_)
+bsReverseLayoutTextSidebarReverse = element (unsafeCoerce _bsReverseLayoutTextSidebarReverse)
 
-foreign import bsReverseLayoutTextWindowReverse_ :: ReactIcon
+foreign import _bsReverseLayoutTextWindowReverse :: ReactIcon
 
 bsReverseLayoutTextWindowReverse :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsReverseLayoutTextWindowReverse = element (unsafeCoerce bsReverseLayoutTextWindowReverse_)
+bsReverseLayoutTextWindowReverse = element (unsafeCoerce _bsReverseLayoutTextWindowReverse)
 
-foreign import bsRss_ :: ReactIcon
+foreign import _bsRss :: ReactIcon
 
 bsRss :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsRss = element (unsafeCoerce bsRss_)
+bsRss = element (unsafeCoerce _bsRss)
 
-foreign import bsRssFill_ :: ReactIcon
+foreign import _bsRssFill :: ReactIcon
 
 bsRssFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsRssFill = element (unsafeCoerce bsRssFill_)
+bsRssFill = element (unsafeCoerce _bsRssFill)
 
-foreign import bsRulers_ :: ReactIcon
+foreign import _bsRulers :: ReactIcon
 
 bsRulers :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsRulers = element (unsafeCoerce bsRulers_)
+bsRulers = element (unsafeCoerce _bsRulers)
 
-foreign import bsSafe_ :: ReactIcon
+foreign import _bsSafe :: ReactIcon
 
 bsSafe :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsSafe = element (unsafeCoerce bsSafe_)
+bsSafe = element (unsafeCoerce _bsSafe)
 
-foreign import bsSafeFill_ :: ReactIcon
+foreign import _bsSafeFill :: ReactIcon
 
 bsSafeFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsSafeFill = element (unsafeCoerce bsSafeFill_)
+bsSafeFill = element (unsafeCoerce _bsSafeFill)
 
-foreign import bsSave_ :: ReactIcon
+foreign import _bsSave :: ReactIcon
 
 bsSave :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsSave = element (unsafeCoerce bsSave_)
+bsSave = element (unsafeCoerce _bsSave)
 
-foreign import bsSaveFill_ :: ReactIcon
+foreign import _bsSaveFill :: ReactIcon
 
 bsSaveFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsSaveFill = element (unsafeCoerce bsSaveFill_)
+bsSaveFill = element (unsafeCoerce _bsSaveFill)
 
-foreign import bsScissors_ :: ReactIcon
+foreign import _bsScissors :: ReactIcon
 
 bsScissors :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsScissors = element (unsafeCoerce bsScissors_)
+bsScissors = element (unsafeCoerce _bsScissors)
 
-foreign import bsScrewdriver_ :: ReactIcon
+foreign import _bsScrewdriver :: ReactIcon
 
 bsScrewdriver :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsScrewdriver = element (unsafeCoerce bsScrewdriver_)
+bsScrewdriver = element (unsafeCoerce _bsScrewdriver)
 
-foreign import bsSdCard_ :: ReactIcon
+foreign import _bsSdCard :: ReactIcon
 
 bsSdCard :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsSdCard = element (unsafeCoerce bsSdCard_)
+bsSdCard = element (unsafeCoerce _bsSdCard)
 
-foreign import bsSdCardFill_ :: ReactIcon
+foreign import _bsSdCardFill :: ReactIcon
 
 bsSdCardFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsSdCardFill = element (unsafeCoerce bsSdCardFill_)
+bsSdCardFill = element (unsafeCoerce _bsSdCardFill)
 
-foreign import bsSearch_ :: ReactIcon
+foreign import _bsSearch :: ReactIcon
 
 bsSearch :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsSearch = element (unsafeCoerce bsSearch_)
+bsSearch = element (unsafeCoerce _bsSearch)
 
-foreign import bsSegmentedNav_ :: ReactIcon
+foreign import _bsSegmentedNav :: ReactIcon
 
 bsSegmentedNav :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsSegmentedNav = element (unsafeCoerce bsSegmentedNav_)
+bsSegmentedNav = element (unsafeCoerce _bsSegmentedNav)
 
-foreign import bsServer_ :: ReactIcon
+foreign import _bsServer :: ReactIcon
 
 bsServer :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsServer = element (unsafeCoerce bsServer_)
+bsServer = element (unsafeCoerce _bsServer)
 
-foreign import bsShare_ :: ReactIcon
+foreign import _bsShare :: ReactIcon
 
 bsShare :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsShare = element (unsafeCoerce bsShare_)
+bsShare = element (unsafeCoerce _bsShare)
 
-foreign import bsShareFill_ :: ReactIcon
+foreign import _bsShareFill :: ReactIcon
 
 bsShareFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsShareFill = element (unsafeCoerce bsShareFill_)
+bsShareFill = element (unsafeCoerce _bsShareFill)
 
-foreign import bsShield_ :: ReactIcon
+foreign import _bsShield :: ReactIcon
 
 bsShield :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsShield = element (unsafeCoerce bsShield_)
+bsShield = element (unsafeCoerce _bsShield)
 
-foreign import bsShieldCheck_ :: ReactIcon
+foreign import _bsShieldCheck :: ReactIcon
 
 bsShieldCheck :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsShieldCheck = element (unsafeCoerce bsShieldCheck_)
+bsShieldCheck = element (unsafeCoerce _bsShieldCheck)
 
-foreign import bsShieldExclamation_ :: ReactIcon
+foreign import _bsShieldExclamation :: ReactIcon
 
 bsShieldExclamation :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsShieldExclamation = element (unsafeCoerce bsShieldExclamation_)
+bsShieldExclamation = element (unsafeCoerce _bsShieldExclamation)
 
-foreign import bsShieldFill_ :: ReactIcon
+foreign import _bsShieldFill :: ReactIcon
 
 bsShieldFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsShieldFill = element (unsafeCoerce bsShieldFill_)
+bsShieldFill = element (unsafeCoerce _bsShieldFill)
 
-foreign import bsShieldFillCheck_ :: ReactIcon
+foreign import _bsShieldFillCheck :: ReactIcon
 
 bsShieldFillCheck :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsShieldFillCheck = element (unsafeCoerce bsShieldFillCheck_)
+bsShieldFillCheck = element (unsafeCoerce _bsShieldFillCheck)
 
-foreign import bsShieldFillExclamation_ :: ReactIcon
+foreign import _bsShieldFillExclamation :: ReactIcon
 
 bsShieldFillExclamation :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsShieldFillExclamation = element (unsafeCoerce bsShieldFillExclamation_)
+bsShieldFillExclamation = element (unsafeCoerce _bsShieldFillExclamation)
 
-foreign import bsShieldFillMinus_ :: ReactIcon
+foreign import _bsShieldFillMinus :: ReactIcon
 
 bsShieldFillMinus :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsShieldFillMinus = element (unsafeCoerce bsShieldFillMinus_)
+bsShieldFillMinus = element (unsafeCoerce _bsShieldFillMinus)
 
-foreign import bsShieldFillPlus_ :: ReactIcon
+foreign import _bsShieldFillPlus :: ReactIcon
 
 bsShieldFillPlus :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsShieldFillPlus = element (unsafeCoerce bsShieldFillPlus_)
+bsShieldFillPlus = element (unsafeCoerce _bsShieldFillPlus)
 
-foreign import bsShieldFillX_ :: ReactIcon
+foreign import _bsShieldFillX :: ReactIcon
 
 bsShieldFillX :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsShieldFillX = element (unsafeCoerce bsShieldFillX_)
+bsShieldFillX = element (unsafeCoerce _bsShieldFillX)
 
-foreign import bsShieldLock_ :: ReactIcon
+foreign import _bsShieldLock :: ReactIcon
 
 bsShieldLock :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsShieldLock = element (unsafeCoerce bsShieldLock_)
+bsShieldLock = element (unsafeCoerce _bsShieldLock)
 
-foreign import bsShieldLockFill_ :: ReactIcon
+foreign import _bsShieldLockFill :: ReactIcon
 
 bsShieldLockFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsShieldLockFill = element (unsafeCoerce bsShieldLockFill_)
+bsShieldLockFill = element (unsafeCoerce _bsShieldLockFill)
 
-foreign import bsShieldMinus_ :: ReactIcon
+foreign import _bsShieldMinus :: ReactIcon
 
 bsShieldMinus :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsShieldMinus = element (unsafeCoerce bsShieldMinus_)
+bsShieldMinus = element (unsafeCoerce _bsShieldMinus)
 
-foreign import bsShieldPlus_ :: ReactIcon
+foreign import _bsShieldPlus :: ReactIcon
 
 bsShieldPlus :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsShieldPlus = element (unsafeCoerce bsShieldPlus_)
+bsShieldPlus = element (unsafeCoerce _bsShieldPlus)
 
-foreign import bsShieldShaded_ :: ReactIcon
+foreign import _bsShieldShaded :: ReactIcon
 
 bsShieldShaded :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsShieldShaded = element (unsafeCoerce bsShieldShaded_)
+bsShieldShaded = element (unsafeCoerce _bsShieldShaded)
 
-foreign import bsShieldSlash_ :: ReactIcon
+foreign import _bsShieldSlash :: ReactIcon
 
 bsShieldSlash :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsShieldSlash = element (unsafeCoerce bsShieldSlash_)
+bsShieldSlash = element (unsafeCoerce _bsShieldSlash)
 
-foreign import bsShieldSlashFill_ :: ReactIcon
+foreign import _bsShieldSlashFill :: ReactIcon
 
 bsShieldSlashFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsShieldSlashFill = element (unsafeCoerce bsShieldSlashFill_)
+bsShieldSlashFill = element (unsafeCoerce _bsShieldSlashFill)
 
-foreign import bsShieldX_ :: ReactIcon
+foreign import _bsShieldX :: ReactIcon
 
 bsShieldX :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsShieldX = element (unsafeCoerce bsShieldX_)
+bsShieldX = element (unsafeCoerce _bsShieldX)
 
-foreign import bsShift_ :: ReactIcon
+foreign import _bsShift :: ReactIcon
 
 bsShift :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsShift = element (unsafeCoerce bsShift_)
+bsShift = element (unsafeCoerce _bsShift)
 
-foreign import bsShiftFill_ :: ReactIcon
+foreign import _bsShiftFill :: ReactIcon
 
 bsShiftFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsShiftFill = element (unsafeCoerce bsShiftFill_)
+bsShiftFill = element (unsafeCoerce _bsShiftFill)
 
-foreign import bsShop_ :: ReactIcon
+foreign import _bsShop :: ReactIcon
 
 bsShop :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsShop = element (unsafeCoerce bsShop_)
+bsShop = element (unsafeCoerce _bsShop)
 
-foreign import bsShopWindow_ :: ReactIcon
+foreign import _bsShopWindow :: ReactIcon
 
 bsShopWindow :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsShopWindow = element (unsafeCoerce bsShopWindow_)
+bsShopWindow = element (unsafeCoerce _bsShopWindow)
 
-foreign import bsShuffle_ :: ReactIcon
+foreign import _bsShuffle :: ReactIcon
 
 bsShuffle :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsShuffle = element (unsafeCoerce bsShuffle_)
+bsShuffle = element (unsafeCoerce _bsShuffle)
 
-foreign import bsSignal_ :: ReactIcon
+foreign import _bsSignal :: ReactIcon
 
 bsSignal :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsSignal = element (unsafeCoerce bsSignal_)
+bsSignal = element (unsafeCoerce _bsSignal)
 
-foreign import bsSignpost_ :: ReactIcon
+foreign import _bsSignpost :: ReactIcon
 
 bsSignpost :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsSignpost = element (unsafeCoerce bsSignpost_)
+bsSignpost = element (unsafeCoerce _bsSignpost)
 
-foreign import bsSignpostFill_ :: ReactIcon
+foreign import _bsSignpostFill :: ReactIcon
 
 bsSignpostFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsSignpostFill = element (unsafeCoerce bsSignpostFill_)
+bsSignpostFill = element (unsafeCoerce _bsSignpostFill)
 
-foreign import bsSignpostSplit_ :: ReactIcon
+foreign import _bsSignpostSplit :: ReactIcon
 
 bsSignpostSplit :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsSignpostSplit = element (unsafeCoerce bsSignpostSplit_)
+bsSignpostSplit = element (unsafeCoerce _bsSignpostSplit)
 
-foreign import bsSignpostSplitFill_ :: ReactIcon
+foreign import _bsSignpostSplitFill :: ReactIcon
 
 bsSignpostSplitFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsSignpostSplitFill = element (unsafeCoerce bsSignpostSplitFill_)
+bsSignpostSplitFill = element (unsafeCoerce _bsSignpostSplitFill)
 
-foreign import bsSim_ :: ReactIcon
+foreign import _bsSim :: ReactIcon
 
 bsSim :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsSim = element (unsafeCoerce bsSim_)
+bsSim = element (unsafeCoerce _bsSim)
 
-foreign import bsSimFill_ :: ReactIcon
+foreign import _bsSimFill :: ReactIcon
 
 bsSimFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsSimFill = element (unsafeCoerce bsSimFill_)
+bsSimFill = element (unsafeCoerce _bsSimFill)
 
-foreign import bsSkipBackward_ :: ReactIcon
+foreign import _bsSkipBackward :: ReactIcon
 
 bsSkipBackward :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsSkipBackward = element (unsafeCoerce bsSkipBackward_)
+bsSkipBackward = element (unsafeCoerce _bsSkipBackward)
 
-foreign import bsSkipBackwardBtn_ :: ReactIcon
+foreign import _bsSkipBackwardBtn :: ReactIcon
 
 bsSkipBackwardBtn :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsSkipBackwardBtn = element (unsafeCoerce bsSkipBackwardBtn_)
+bsSkipBackwardBtn = element (unsafeCoerce _bsSkipBackwardBtn)
 
-foreign import bsSkipBackwardBtnFill_ :: ReactIcon
+foreign import _bsSkipBackwardBtnFill :: ReactIcon
 
 bsSkipBackwardBtnFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsSkipBackwardBtnFill = element (unsafeCoerce bsSkipBackwardBtnFill_)
+bsSkipBackwardBtnFill = element (unsafeCoerce _bsSkipBackwardBtnFill)
 
-foreign import bsSkipBackwardCircle_ :: ReactIcon
+foreign import _bsSkipBackwardCircle :: ReactIcon
 
 bsSkipBackwardCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsSkipBackwardCircle = element (unsafeCoerce bsSkipBackwardCircle_)
+bsSkipBackwardCircle = element (unsafeCoerce _bsSkipBackwardCircle)
 
-foreign import bsSkipBackwardCircleFill_ :: ReactIcon
+foreign import _bsSkipBackwardCircleFill :: ReactIcon
 
 bsSkipBackwardCircleFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsSkipBackwardCircleFill = element (unsafeCoerce bsSkipBackwardCircleFill_)
+bsSkipBackwardCircleFill = element (unsafeCoerce _bsSkipBackwardCircleFill)
 
-foreign import bsSkipBackwardFill_ :: ReactIcon
+foreign import _bsSkipBackwardFill :: ReactIcon
 
 bsSkipBackwardFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsSkipBackwardFill = element (unsafeCoerce bsSkipBackwardFill_)
+bsSkipBackwardFill = element (unsafeCoerce _bsSkipBackwardFill)
 
-foreign import bsSkipEnd_ :: ReactIcon
+foreign import _bsSkipEnd :: ReactIcon
 
 bsSkipEnd :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsSkipEnd = element (unsafeCoerce bsSkipEnd_)
+bsSkipEnd = element (unsafeCoerce _bsSkipEnd)
 
-foreign import bsSkipEndBtn_ :: ReactIcon
+foreign import _bsSkipEndBtn :: ReactIcon
 
 bsSkipEndBtn :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsSkipEndBtn = element (unsafeCoerce bsSkipEndBtn_)
+bsSkipEndBtn = element (unsafeCoerce _bsSkipEndBtn)
 
-foreign import bsSkipEndBtnFill_ :: ReactIcon
+foreign import _bsSkipEndBtnFill :: ReactIcon
 
 bsSkipEndBtnFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsSkipEndBtnFill = element (unsafeCoerce bsSkipEndBtnFill_)
+bsSkipEndBtnFill = element (unsafeCoerce _bsSkipEndBtnFill)
 
-foreign import bsSkipEndCircle_ :: ReactIcon
+foreign import _bsSkipEndCircle :: ReactIcon
 
 bsSkipEndCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsSkipEndCircle = element (unsafeCoerce bsSkipEndCircle_)
+bsSkipEndCircle = element (unsafeCoerce _bsSkipEndCircle)
 
-foreign import bsSkipEndCircleFill_ :: ReactIcon
+foreign import _bsSkipEndCircleFill :: ReactIcon
 
 bsSkipEndCircleFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsSkipEndCircleFill = element (unsafeCoerce bsSkipEndCircleFill_)
+bsSkipEndCircleFill = element (unsafeCoerce _bsSkipEndCircleFill)
 
-foreign import bsSkipEndFill_ :: ReactIcon
+foreign import _bsSkipEndFill :: ReactIcon
 
 bsSkipEndFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsSkipEndFill = element (unsafeCoerce bsSkipEndFill_)
+bsSkipEndFill = element (unsafeCoerce _bsSkipEndFill)
 
-foreign import bsSkipForward_ :: ReactIcon
+foreign import _bsSkipForward :: ReactIcon
 
 bsSkipForward :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsSkipForward = element (unsafeCoerce bsSkipForward_)
+bsSkipForward = element (unsafeCoerce _bsSkipForward)
 
-foreign import bsSkipForwardBtn_ :: ReactIcon
+foreign import _bsSkipForwardBtn :: ReactIcon
 
 bsSkipForwardBtn :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsSkipForwardBtn = element (unsafeCoerce bsSkipForwardBtn_)
+bsSkipForwardBtn = element (unsafeCoerce _bsSkipForwardBtn)
 
-foreign import bsSkipForwardBtnFill_ :: ReactIcon
+foreign import _bsSkipForwardBtnFill :: ReactIcon
 
 bsSkipForwardBtnFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsSkipForwardBtnFill = element (unsafeCoerce bsSkipForwardBtnFill_)
+bsSkipForwardBtnFill = element (unsafeCoerce _bsSkipForwardBtnFill)
 
-foreign import bsSkipForwardCircle_ :: ReactIcon
+foreign import _bsSkipForwardCircle :: ReactIcon
 
 bsSkipForwardCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsSkipForwardCircle = element (unsafeCoerce bsSkipForwardCircle_)
+bsSkipForwardCircle = element (unsafeCoerce _bsSkipForwardCircle)
 
-foreign import bsSkipForwardCircleFill_ :: ReactIcon
+foreign import _bsSkipForwardCircleFill :: ReactIcon
 
 bsSkipForwardCircleFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsSkipForwardCircleFill = element (unsafeCoerce bsSkipForwardCircleFill_)
+bsSkipForwardCircleFill = element (unsafeCoerce _bsSkipForwardCircleFill)
 
-foreign import bsSkipForwardFill_ :: ReactIcon
+foreign import _bsSkipForwardFill :: ReactIcon
 
 bsSkipForwardFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsSkipForwardFill = element (unsafeCoerce bsSkipForwardFill_)
+bsSkipForwardFill = element (unsafeCoerce _bsSkipForwardFill)
 
-foreign import bsSkipStart_ :: ReactIcon
+foreign import _bsSkipStart :: ReactIcon
 
 bsSkipStart :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsSkipStart = element (unsafeCoerce bsSkipStart_)
+bsSkipStart = element (unsafeCoerce _bsSkipStart)
 
-foreign import bsSkipStartBtn_ :: ReactIcon
+foreign import _bsSkipStartBtn :: ReactIcon
 
 bsSkipStartBtn :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsSkipStartBtn = element (unsafeCoerce bsSkipStartBtn_)
+bsSkipStartBtn = element (unsafeCoerce _bsSkipStartBtn)
 
-foreign import bsSkipStartBtnFill_ :: ReactIcon
+foreign import _bsSkipStartBtnFill :: ReactIcon
 
 bsSkipStartBtnFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsSkipStartBtnFill = element (unsafeCoerce bsSkipStartBtnFill_)
+bsSkipStartBtnFill = element (unsafeCoerce _bsSkipStartBtnFill)
 
-foreign import bsSkipStartCircle_ :: ReactIcon
+foreign import _bsSkipStartCircle :: ReactIcon
 
 bsSkipStartCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsSkipStartCircle = element (unsafeCoerce bsSkipStartCircle_)
+bsSkipStartCircle = element (unsafeCoerce _bsSkipStartCircle)
 
-foreign import bsSkipStartCircleFill_ :: ReactIcon
+foreign import _bsSkipStartCircleFill :: ReactIcon
 
 bsSkipStartCircleFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsSkipStartCircleFill = element (unsafeCoerce bsSkipStartCircleFill_)
+bsSkipStartCircleFill = element (unsafeCoerce _bsSkipStartCircleFill)
 
-foreign import bsSkipStartFill_ :: ReactIcon
+foreign import _bsSkipStartFill :: ReactIcon
 
 bsSkipStartFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsSkipStartFill = element (unsafeCoerce bsSkipStartFill_)
+bsSkipStartFill = element (unsafeCoerce _bsSkipStartFill)
 
-foreign import bsSkype_ :: ReactIcon
+foreign import _bsSkype :: ReactIcon
 
 bsSkype :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsSkype = element (unsafeCoerce bsSkype_)
+bsSkype = element (unsafeCoerce _bsSkype)
 
-foreign import bsSlack_ :: ReactIcon
+foreign import _bsSlack :: ReactIcon
 
 bsSlack :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsSlack = element (unsafeCoerce bsSlack_)
+bsSlack = element (unsafeCoerce _bsSlack)
 
-foreign import bsSlash_ :: ReactIcon
+foreign import _bsSlash :: ReactIcon
 
 bsSlash :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsSlash = element (unsafeCoerce bsSlash_)
+bsSlash = element (unsafeCoerce _bsSlash)
 
-foreign import bsSlashCircle_ :: ReactIcon
+foreign import _bsSlashCircle :: ReactIcon
 
 bsSlashCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsSlashCircle = element (unsafeCoerce bsSlashCircle_)
+bsSlashCircle = element (unsafeCoerce _bsSlashCircle)
 
-foreign import bsSlashCircleFill_ :: ReactIcon
+foreign import _bsSlashCircleFill :: ReactIcon
 
 bsSlashCircleFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsSlashCircleFill = element (unsafeCoerce bsSlashCircleFill_)
+bsSlashCircleFill = element (unsafeCoerce _bsSlashCircleFill)
 
-foreign import bsSlashLg_ :: ReactIcon
+foreign import _bsSlashLg :: ReactIcon
 
 bsSlashLg :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsSlashLg = element (unsafeCoerce bsSlashLg_)
+bsSlashLg = element (unsafeCoerce _bsSlashLg)
 
-foreign import bsSlashSquare_ :: ReactIcon
+foreign import _bsSlashSquare :: ReactIcon
 
 bsSlashSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsSlashSquare = element (unsafeCoerce bsSlashSquare_)
+bsSlashSquare = element (unsafeCoerce _bsSlashSquare)
 
-foreign import bsSlashSquareFill_ :: ReactIcon
+foreign import _bsSlashSquareFill :: ReactIcon
 
 bsSlashSquareFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsSlashSquareFill = element (unsafeCoerce bsSlashSquareFill_)
+bsSlashSquareFill = element (unsafeCoerce _bsSlashSquareFill)
 
-foreign import bsSliders_ :: ReactIcon
+foreign import _bsSliders :: ReactIcon
 
 bsSliders :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsSliders = element (unsafeCoerce bsSliders_)
+bsSliders = element (unsafeCoerce _bsSliders)
 
-foreign import bsSmartwatch_ :: ReactIcon
+foreign import _bsSmartwatch :: ReactIcon
 
 bsSmartwatch :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsSmartwatch = element (unsafeCoerce bsSmartwatch_)
+bsSmartwatch = element (unsafeCoerce _bsSmartwatch)
 
-foreign import bsSnapchat_ :: ReactIcon
+foreign import _bsSnapchat :: ReactIcon
 
 bsSnapchat :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsSnapchat = element (unsafeCoerce bsSnapchat_)
+bsSnapchat = element (unsafeCoerce _bsSnapchat)
 
-foreign import bsSnow_ :: ReactIcon
+foreign import _bsSnow :: ReactIcon
 
 bsSnow :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsSnow = element (unsafeCoerce bsSnow_)
+bsSnow = element (unsafeCoerce _bsSnow)
 
-foreign import bsSortAlphaDown_ :: ReactIcon
+foreign import _bsSortAlphaDown :: ReactIcon
 
 bsSortAlphaDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsSortAlphaDown = element (unsafeCoerce bsSortAlphaDown_)
+bsSortAlphaDown = element (unsafeCoerce _bsSortAlphaDown)
 
-foreign import bsSortAlphaDownAlt_ :: ReactIcon
+foreign import _bsSortAlphaDownAlt :: ReactIcon
 
 bsSortAlphaDownAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsSortAlphaDownAlt = element (unsafeCoerce bsSortAlphaDownAlt_)
+bsSortAlphaDownAlt = element (unsafeCoerce _bsSortAlphaDownAlt)
 
-foreign import bsSortAlphaUp_ :: ReactIcon
+foreign import _bsSortAlphaUp :: ReactIcon
 
 bsSortAlphaUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsSortAlphaUp = element (unsafeCoerce bsSortAlphaUp_)
+bsSortAlphaUp = element (unsafeCoerce _bsSortAlphaUp)
 
-foreign import bsSortAlphaUpAlt_ :: ReactIcon
+foreign import _bsSortAlphaUpAlt :: ReactIcon
 
 bsSortAlphaUpAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsSortAlphaUpAlt = element (unsafeCoerce bsSortAlphaUpAlt_)
+bsSortAlphaUpAlt = element (unsafeCoerce _bsSortAlphaUpAlt)
 
-foreign import bsSortDown_ :: ReactIcon
+foreign import _bsSortDown :: ReactIcon
 
 bsSortDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsSortDown = element (unsafeCoerce bsSortDown_)
+bsSortDown = element (unsafeCoerce _bsSortDown)
 
-foreign import bsSortDownAlt_ :: ReactIcon
+foreign import _bsSortDownAlt :: ReactIcon
 
 bsSortDownAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsSortDownAlt = element (unsafeCoerce bsSortDownAlt_)
+bsSortDownAlt = element (unsafeCoerce _bsSortDownAlt)
 
-foreign import bsSortNumericDown_ :: ReactIcon
+foreign import _bsSortNumericDown :: ReactIcon
 
 bsSortNumericDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsSortNumericDown = element (unsafeCoerce bsSortNumericDown_)
+bsSortNumericDown = element (unsafeCoerce _bsSortNumericDown)
 
-foreign import bsSortNumericDownAlt_ :: ReactIcon
+foreign import _bsSortNumericDownAlt :: ReactIcon
 
 bsSortNumericDownAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsSortNumericDownAlt = element (unsafeCoerce bsSortNumericDownAlt_)
+bsSortNumericDownAlt = element (unsafeCoerce _bsSortNumericDownAlt)
 
-foreign import bsSortNumericUp_ :: ReactIcon
+foreign import _bsSortNumericUp :: ReactIcon
 
 bsSortNumericUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsSortNumericUp = element (unsafeCoerce bsSortNumericUp_)
+bsSortNumericUp = element (unsafeCoerce _bsSortNumericUp)
 
-foreign import bsSortNumericUpAlt_ :: ReactIcon
+foreign import _bsSortNumericUpAlt :: ReactIcon
 
 bsSortNumericUpAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsSortNumericUpAlt = element (unsafeCoerce bsSortNumericUpAlt_)
+bsSortNumericUpAlt = element (unsafeCoerce _bsSortNumericUpAlt)
 
-foreign import bsSortUp_ :: ReactIcon
+foreign import _bsSortUp :: ReactIcon
 
 bsSortUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsSortUp = element (unsafeCoerce bsSortUp_)
+bsSortUp = element (unsafeCoerce _bsSortUp)
 
-foreign import bsSortUpAlt_ :: ReactIcon
+foreign import _bsSortUpAlt :: ReactIcon
 
 bsSortUpAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsSortUpAlt = element (unsafeCoerce bsSortUpAlt_)
+bsSortUpAlt = element (unsafeCoerce _bsSortUpAlt)
 
-foreign import bsSoundwave_ :: ReactIcon
+foreign import _bsSoundwave :: ReactIcon
 
 bsSoundwave :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsSoundwave = element (unsafeCoerce bsSoundwave_)
+bsSoundwave = element (unsafeCoerce _bsSoundwave)
 
-foreign import bsSpeaker_ :: ReactIcon
+foreign import _bsSpeaker :: ReactIcon
 
 bsSpeaker :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsSpeaker = element (unsafeCoerce bsSpeaker_)
+bsSpeaker = element (unsafeCoerce _bsSpeaker)
 
-foreign import bsSpeakerFill_ :: ReactIcon
+foreign import _bsSpeakerFill :: ReactIcon
 
 bsSpeakerFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsSpeakerFill = element (unsafeCoerce bsSpeakerFill_)
+bsSpeakerFill = element (unsafeCoerce _bsSpeakerFill)
 
-foreign import bsSpeedometer_ :: ReactIcon
+foreign import _bsSpeedometer :: ReactIcon
 
 bsSpeedometer :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsSpeedometer = element (unsafeCoerce bsSpeedometer_)
+bsSpeedometer = element (unsafeCoerce _bsSpeedometer)
 
-foreign import bsSpellcheck_ :: ReactIcon
+foreign import _bsSpellcheck :: ReactIcon
 
 bsSpellcheck :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsSpellcheck = element (unsafeCoerce bsSpellcheck_)
+bsSpellcheck = element (unsafeCoerce _bsSpellcheck)
 
-foreign import bsSpotify_ :: ReactIcon
+foreign import _bsSpotify :: ReactIcon
 
 bsSpotify :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsSpotify = element (unsafeCoerce bsSpotify_)
+bsSpotify = element (unsafeCoerce _bsSpotify)
 
-foreign import bsSquare_ :: ReactIcon
+foreign import _bsSquare :: ReactIcon
 
 bsSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsSquare = element (unsafeCoerce bsSquare_)
+bsSquare = element (unsafeCoerce _bsSquare)
 
-foreign import bsSquareFill_ :: ReactIcon
+foreign import _bsSquareFill :: ReactIcon
 
 bsSquareFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsSquareFill = element (unsafeCoerce bsSquareFill_)
+bsSquareFill = element (unsafeCoerce _bsSquareFill)
 
-foreign import bsSquareHalf_ :: ReactIcon
+foreign import _bsSquareHalf :: ReactIcon
 
 bsSquareHalf :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsSquareHalf = element (unsafeCoerce bsSquareHalf_)
+bsSquareHalf = element (unsafeCoerce _bsSquareHalf)
 
-foreign import bsStack_ :: ReactIcon
+foreign import _bsStack :: ReactIcon
 
 bsStack :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsStack = element (unsafeCoerce bsStack_)
+bsStack = element (unsafeCoerce _bsStack)
 
-foreign import bsStackOverflow_ :: ReactIcon
+foreign import _bsStackOverflow :: ReactIcon
 
 bsStackOverflow :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsStackOverflow = element (unsafeCoerce bsStackOverflow_)
+bsStackOverflow = element (unsafeCoerce _bsStackOverflow)
 
-foreign import bsStar_ :: ReactIcon
+foreign import _bsStar :: ReactIcon
 
 bsStar :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsStar = element (unsafeCoerce bsStar_)
+bsStar = element (unsafeCoerce _bsStar)
 
-foreign import bsStarFill_ :: ReactIcon
+foreign import _bsStarFill :: ReactIcon
 
 bsStarFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsStarFill = element (unsafeCoerce bsStarFill_)
+bsStarFill = element (unsafeCoerce _bsStarFill)
 
-foreign import bsStarHalf_ :: ReactIcon
+foreign import _bsStarHalf :: ReactIcon
 
 bsStarHalf :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsStarHalf = element (unsafeCoerce bsStarHalf_)
+bsStarHalf = element (unsafeCoerce _bsStarHalf)
 
-foreign import bsStars_ :: ReactIcon
+foreign import _bsStars :: ReactIcon
 
 bsStars :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsStars = element (unsafeCoerce bsStars_)
+bsStars = element (unsafeCoerce _bsStars)
 
-foreign import bsStickies_ :: ReactIcon
+foreign import _bsStickies :: ReactIcon
 
 bsStickies :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsStickies = element (unsafeCoerce bsStickies_)
+bsStickies = element (unsafeCoerce _bsStickies)
 
-foreign import bsStickiesFill_ :: ReactIcon
+foreign import _bsStickiesFill :: ReactIcon
 
 bsStickiesFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsStickiesFill = element (unsafeCoerce bsStickiesFill_)
+bsStickiesFill = element (unsafeCoerce _bsStickiesFill)
 
-foreign import bsSticky_ :: ReactIcon
+foreign import _bsSticky :: ReactIcon
 
 bsSticky :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsSticky = element (unsafeCoerce bsSticky_)
+bsSticky = element (unsafeCoerce _bsSticky)
 
-foreign import bsStickyFill_ :: ReactIcon
+foreign import _bsStickyFill :: ReactIcon
 
 bsStickyFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsStickyFill = element (unsafeCoerce bsStickyFill_)
+bsStickyFill = element (unsafeCoerce _bsStickyFill)
 
-foreign import bsStop_ :: ReactIcon
+foreign import _bsStop :: ReactIcon
 
 bsStop :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsStop = element (unsafeCoerce bsStop_)
+bsStop = element (unsafeCoerce _bsStop)
 
-foreign import bsStopBtn_ :: ReactIcon
+foreign import _bsStopBtn :: ReactIcon
 
 bsStopBtn :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsStopBtn = element (unsafeCoerce bsStopBtn_)
+bsStopBtn = element (unsafeCoerce _bsStopBtn)
 
-foreign import bsStopBtnFill_ :: ReactIcon
+foreign import _bsStopBtnFill :: ReactIcon
 
 bsStopBtnFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsStopBtnFill = element (unsafeCoerce bsStopBtnFill_)
+bsStopBtnFill = element (unsafeCoerce _bsStopBtnFill)
 
-foreign import bsStopCircle_ :: ReactIcon
+foreign import _bsStopCircle :: ReactIcon
 
 bsStopCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsStopCircle = element (unsafeCoerce bsStopCircle_)
+bsStopCircle = element (unsafeCoerce _bsStopCircle)
 
-foreign import bsStopCircleFill_ :: ReactIcon
+foreign import _bsStopCircleFill :: ReactIcon
 
 bsStopCircleFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsStopCircleFill = element (unsafeCoerce bsStopCircleFill_)
+bsStopCircleFill = element (unsafeCoerce _bsStopCircleFill)
 
-foreign import bsStopFill_ :: ReactIcon
+foreign import _bsStopFill :: ReactIcon
 
 bsStopFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsStopFill = element (unsafeCoerce bsStopFill_)
+bsStopFill = element (unsafeCoerce _bsStopFill)
 
-foreign import bsStoplights_ :: ReactIcon
+foreign import _bsStoplights :: ReactIcon
 
 bsStoplights :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsStoplights = element (unsafeCoerce bsStoplights_)
+bsStoplights = element (unsafeCoerce _bsStoplights)
 
-foreign import bsStoplightsFill_ :: ReactIcon
+foreign import _bsStoplightsFill :: ReactIcon
 
 bsStoplightsFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsStoplightsFill = element (unsafeCoerce bsStoplightsFill_)
+bsStoplightsFill = element (unsafeCoerce _bsStoplightsFill)
 
-foreign import bsStopwatch_ :: ReactIcon
+foreign import _bsStopwatch :: ReactIcon
 
 bsStopwatch :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsStopwatch = element (unsafeCoerce bsStopwatch_)
+bsStopwatch = element (unsafeCoerce _bsStopwatch)
 
-foreign import bsStopwatchFill_ :: ReactIcon
+foreign import _bsStopwatchFill :: ReactIcon
 
 bsStopwatchFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsStopwatchFill = element (unsafeCoerce bsStopwatchFill_)
+bsStopwatchFill = element (unsafeCoerce _bsStopwatchFill)
 
-foreign import bsStrava_ :: ReactIcon
+foreign import _bsStrava :: ReactIcon
 
 bsStrava :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsStrava = element (unsafeCoerce bsStrava_)
+bsStrava = element (unsafeCoerce _bsStrava)
 
-foreign import bsSubtract_ :: ReactIcon
+foreign import _bsSubtract :: ReactIcon
 
 bsSubtract :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsSubtract = element (unsafeCoerce bsSubtract_)
+bsSubtract = element (unsafeCoerce _bsSubtract)
 
-foreign import bsSuitClub_ :: ReactIcon
+foreign import _bsSuitClub :: ReactIcon
 
 bsSuitClub :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsSuitClub = element (unsafeCoerce bsSuitClub_)
+bsSuitClub = element (unsafeCoerce _bsSuitClub)
 
-foreign import bsSuitClubFill_ :: ReactIcon
+foreign import _bsSuitClubFill :: ReactIcon
 
 bsSuitClubFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsSuitClubFill = element (unsafeCoerce bsSuitClubFill_)
+bsSuitClubFill = element (unsafeCoerce _bsSuitClubFill)
 
-foreign import bsSuitDiamond_ :: ReactIcon
+foreign import _bsSuitDiamond :: ReactIcon
 
 bsSuitDiamond :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsSuitDiamond = element (unsafeCoerce bsSuitDiamond_)
+bsSuitDiamond = element (unsafeCoerce _bsSuitDiamond)
 
-foreign import bsSuitDiamondFill_ :: ReactIcon
+foreign import _bsSuitDiamondFill :: ReactIcon
 
 bsSuitDiamondFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsSuitDiamondFill = element (unsafeCoerce bsSuitDiamondFill_)
+bsSuitDiamondFill = element (unsafeCoerce _bsSuitDiamondFill)
 
-foreign import bsSuitHeart_ :: ReactIcon
+foreign import _bsSuitHeart :: ReactIcon
 
 bsSuitHeart :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsSuitHeart = element (unsafeCoerce bsSuitHeart_)
+bsSuitHeart = element (unsafeCoerce _bsSuitHeart)
 
-foreign import bsSuitHeartFill_ :: ReactIcon
+foreign import _bsSuitHeartFill :: ReactIcon
 
 bsSuitHeartFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsSuitHeartFill = element (unsafeCoerce bsSuitHeartFill_)
+bsSuitHeartFill = element (unsafeCoerce _bsSuitHeartFill)
 
-foreign import bsSuitSpade_ :: ReactIcon
+foreign import _bsSuitSpade :: ReactIcon
 
 bsSuitSpade :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsSuitSpade = element (unsafeCoerce bsSuitSpade_)
+bsSuitSpade = element (unsafeCoerce _bsSuitSpade)
 
-foreign import bsSuitSpadeFill_ :: ReactIcon
+foreign import _bsSuitSpadeFill :: ReactIcon
 
 bsSuitSpadeFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsSuitSpadeFill = element (unsafeCoerce bsSuitSpadeFill_)
+bsSuitSpadeFill = element (unsafeCoerce _bsSuitSpadeFill)
 
-foreign import bsSun_ :: ReactIcon
+foreign import _bsSun :: ReactIcon
 
 bsSun :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsSun = element (unsafeCoerce bsSun_)
+bsSun = element (unsafeCoerce _bsSun)
 
-foreign import bsSunFill_ :: ReactIcon
+foreign import _bsSunFill :: ReactIcon
 
 bsSunFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsSunFill = element (unsafeCoerce bsSunFill_)
+bsSunFill = element (unsafeCoerce _bsSunFill)
 
-foreign import bsSunglasses_ :: ReactIcon
+foreign import _bsSunglasses :: ReactIcon
 
 bsSunglasses :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsSunglasses = element (unsafeCoerce bsSunglasses_)
+bsSunglasses = element (unsafeCoerce _bsSunglasses)
 
-foreign import bsSunrise_ :: ReactIcon
+foreign import _bsSunrise :: ReactIcon
 
 bsSunrise :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsSunrise = element (unsafeCoerce bsSunrise_)
+bsSunrise = element (unsafeCoerce _bsSunrise)
 
-foreign import bsSunriseFill_ :: ReactIcon
+foreign import _bsSunriseFill :: ReactIcon
 
 bsSunriseFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsSunriseFill = element (unsafeCoerce bsSunriseFill_)
+bsSunriseFill = element (unsafeCoerce _bsSunriseFill)
 
-foreign import bsSunset_ :: ReactIcon
+foreign import _bsSunset :: ReactIcon
 
 bsSunset :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsSunset = element (unsafeCoerce bsSunset_)
+bsSunset = element (unsafeCoerce _bsSunset)
 
-foreign import bsSunsetFill_ :: ReactIcon
+foreign import _bsSunsetFill :: ReactIcon
 
 bsSunsetFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsSunsetFill = element (unsafeCoerce bsSunsetFill_)
+bsSunsetFill = element (unsafeCoerce _bsSunsetFill)
 
-foreign import bsSymmetryHorizontal_ :: ReactIcon
+foreign import _bsSymmetryHorizontal :: ReactIcon
 
 bsSymmetryHorizontal :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsSymmetryHorizontal = element (unsafeCoerce bsSymmetryHorizontal_)
+bsSymmetryHorizontal = element (unsafeCoerce _bsSymmetryHorizontal)
 
-foreign import bsSymmetryVertical_ :: ReactIcon
+foreign import _bsSymmetryVertical :: ReactIcon
 
 bsSymmetryVertical :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsSymmetryVertical = element (unsafeCoerce bsSymmetryVertical_)
+bsSymmetryVertical = element (unsafeCoerce _bsSymmetryVertical)
 
-foreign import bsTable_ :: ReactIcon
+foreign import _bsTable :: ReactIcon
 
 bsTable :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsTable = element (unsafeCoerce bsTable_)
+bsTable = element (unsafeCoerce _bsTable)
 
-foreign import bsTablet_ :: ReactIcon
+foreign import _bsTablet :: ReactIcon
 
 bsTablet :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsTablet = element (unsafeCoerce bsTablet_)
+bsTablet = element (unsafeCoerce _bsTablet)
 
-foreign import bsTabletFill_ :: ReactIcon
+foreign import _bsTabletFill :: ReactIcon
 
 bsTabletFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsTabletFill = element (unsafeCoerce bsTabletFill_)
+bsTabletFill = element (unsafeCoerce _bsTabletFill)
 
-foreign import bsTabletLandscape_ :: ReactIcon
+foreign import _bsTabletLandscape :: ReactIcon
 
 bsTabletLandscape :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsTabletLandscape = element (unsafeCoerce bsTabletLandscape_)
+bsTabletLandscape = element (unsafeCoerce _bsTabletLandscape)
 
-foreign import bsTabletLandscapeFill_ :: ReactIcon
+foreign import _bsTabletLandscapeFill :: ReactIcon
 
 bsTabletLandscapeFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsTabletLandscapeFill = element (unsafeCoerce bsTabletLandscapeFill_)
+bsTabletLandscapeFill = element (unsafeCoerce _bsTabletLandscapeFill)
 
-foreign import bsTag_ :: ReactIcon
+foreign import _bsTag :: ReactIcon
 
 bsTag :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsTag = element (unsafeCoerce bsTag_)
+bsTag = element (unsafeCoerce _bsTag)
 
-foreign import bsTagFill_ :: ReactIcon
+foreign import _bsTagFill :: ReactIcon
 
 bsTagFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsTagFill = element (unsafeCoerce bsTagFill_)
+bsTagFill = element (unsafeCoerce _bsTagFill)
 
-foreign import bsTags_ :: ReactIcon
+foreign import _bsTags :: ReactIcon
 
 bsTags :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsTags = element (unsafeCoerce bsTags_)
+bsTags = element (unsafeCoerce _bsTags)
 
-foreign import bsTagsFill_ :: ReactIcon
+foreign import _bsTagsFill :: ReactIcon
 
 bsTagsFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsTagsFill = element (unsafeCoerce bsTagsFill_)
+bsTagsFill = element (unsafeCoerce _bsTagsFill)
 
-foreign import bsTelegram_ :: ReactIcon
+foreign import _bsTelegram :: ReactIcon
 
 bsTelegram :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsTelegram = element (unsafeCoerce bsTelegram_)
+bsTelegram = element (unsafeCoerce _bsTelegram)
 
-foreign import bsTelephone_ :: ReactIcon
+foreign import _bsTelephone :: ReactIcon
 
 bsTelephone :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsTelephone = element (unsafeCoerce bsTelephone_)
+bsTelephone = element (unsafeCoerce _bsTelephone)
 
-foreign import bsTelephoneFill_ :: ReactIcon
+foreign import _bsTelephoneFill :: ReactIcon
 
 bsTelephoneFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsTelephoneFill = element (unsafeCoerce bsTelephoneFill_)
+bsTelephoneFill = element (unsafeCoerce _bsTelephoneFill)
 
-foreign import bsTelephoneForward_ :: ReactIcon
+foreign import _bsTelephoneForward :: ReactIcon
 
 bsTelephoneForward :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsTelephoneForward = element (unsafeCoerce bsTelephoneForward_)
+bsTelephoneForward = element (unsafeCoerce _bsTelephoneForward)
 
-foreign import bsTelephoneForwardFill_ :: ReactIcon
+foreign import _bsTelephoneForwardFill :: ReactIcon
 
 bsTelephoneForwardFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsTelephoneForwardFill = element (unsafeCoerce bsTelephoneForwardFill_)
+bsTelephoneForwardFill = element (unsafeCoerce _bsTelephoneForwardFill)
 
-foreign import bsTelephoneInbound_ :: ReactIcon
+foreign import _bsTelephoneInbound :: ReactIcon
 
 bsTelephoneInbound :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsTelephoneInbound = element (unsafeCoerce bsTelephoneInbound_)
+bsTelephoneInbound = element (unsafeCoerce _bsTelephoneInbound)
 
-foreign import bsTelephoneInboundFill_ :: ReactIcon
+foreign import _bsTelephoneInboundFill :: ReactIcon
 
 bsTelephoneInboundFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsTelephoneInboundFill = element (unsafeCoerce bsTelephoneInboundFill_)
+bsTelephoneInboundFill = element (unsafeCoerce _bsTelephoneInboundFill)
 
-foreign import bsTelephoneMinus_ :: ReactIcon
+foreign import _bsTelephoneMinus :: ReactIcon
 
 bsTelephoneMinus :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsTelephoneMinus = element (unsafeCoerce bsTelephoneMinus_)
+bsTelephoneMinus = element (unsafeCoerce _bsTelephoneMinus)
 
-foreign import bsTelephoneMinusFill_ :: ReactIcon
+foreign import _bsTelephoneMinusFill :: ReactIcon
 
 bsTelephoneMinusFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsTelephoneMinusFill = element (unsafeCoerce bsTelephoneMinusFill_)
+bsTelephoneMinusFill = element (unsafeCoerce _bsTelephoneMinusFill)
 
-foreign import bsTelephoneOutbound_ :: ReactIcon
+foreign import _bsTelephoneOutbound :: ReactIcon
 
 bsTelephoneOutbound :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsTelephoneOutbound = element (unsafeCoerce bsTelephoneOutbound_)
+bsTelephoneOutbound = element (unsafeCoerce _bsTelephoneOutbound)
 
-foreign import bsTelephoneOutboundFill_ :: ReactIcon
+foreign import _bsTelephoneOutboundFill :: ReactIcon
 
 bsTelephoneOutboundFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsTelephoneOutboundFill = element (unsafeCoerce bsTelephoneOutboundFill_)
+bsTelephoneOutboundFill = element (unsafeCoerce _bsTelephoneOutboundFill)
 
-foreign import bsTelephonePlus_ :: ReactIcon
+foreign import _bsTelephonePlus :: ReactIcon
 
 bsTelephonePlus :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsTelephonePlus = element (unsafeCoerce bsTelephonePlus_)
+bsTelephonePlus = element (unsafeCoerce _bsTelephonePlus)
 
-foreign import bsTelephonePlusFill_ :: ReactIcon
+foreign import _bsTelephonePlusFill :: ReactIcon
 
 bsTelephonePlusFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsTelephonePlusFill = element (unsafeCoerce bsTelephonePlusFill_)
+bsTelephonePlusFill = element (unsafeCoerce _bsTelephonePlusFill)
 
-foreign import bsTelephoneX_ :: ReactIcon
+foreign import _bsTelephoneX :: ReactIcon
 
 bsTelephoneX :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsTelephoneX = element (unsafeCoerce bsTelephoneX_)
+bsTelephoneX = element (unsafeCoerce _bsTelephoneX)
 
-foreign import bsTelephoneXFill_ :: ReactIcon
+foreign import _bsTelephoneXFill :: ReactIcon
 
 bsTelephoneXFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsTelephoneXFill = element (unsafeCoerce bsTelephoneXFill_)
+bsTelephoneXFill = element (unsafeCoerce _bsTelephoneXFill)
 
-foreign import bsTerminal_ :: ReactIcon
+foreign import _bsTerminal :: ReactIcon
 
 bsTerminal :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsTerminal = element (unsafeCoerce bsTerminal_)
+bsTerminal = element (unsafeCoerce _bsTerminal)
 
-foreign import bsTerminalFill_ :: ReactIcon
+foreign import _bsTerminalFill :: ReactIcon
 
 bsTerminalFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsTerminalFill = element (unsafeCoerce bsTerminalFill_)
+bsTerminalFill = element (unsafeCoerce _bsTerminalFill)
 
-foreign import bsTextarea_ :: ReactIcon
+foreign import _bsTextarea :: ReactIcon
 
 bsTextarea :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsTextarea = element (unsafeCoerce bsTextarea_)
+bsTextarea = element (unsafeCoerce _bsTextarea)
 
-foreign import bsTextareaResize_ :: ReactIcon
+foreign import _bsTextareaResize :: ReactIcon
 
 bsTextareaResize :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsTextareaResize = element (unsafeCoerce bsTextareaResize_)
+bsTextareaResize = element (unsafeCoerce _bsTextareaResize)
 
-foreign import bsTextareaT_ :: ReactIcon
+foreign import _bsTextareaT :: ReactIcon
 
 bsTextareaT :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsTextareaT = element (unsafeCoerce bsTextareaT_)
+bsTextareaT = element (unsafeCoerce _bsTextareaT)
 
-foreign import bsTextCenter_ :: ReactIcon
+foreign import _bsTextCenter :: ReactIcon
 
 bsTextCenter :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsTextCenter = element (unsafeCoerce bsTextCenter_)
+bsTextCenter = element (unsafeCoerce _bsTextCenter)
 
-foreign import bsTextIndentLeft_ :: ReactIcon
+foreign import _bsTextIndentLeft :: ReactIcon
 
 bsTextIndentLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsTextIndentLeft = element (unsafeCoerce bsTextIndentLeft_)
+bsTextIndentLeft = element (unsafeCoerce _bsTextIndentLeft)
 
-foreign import bsTextIndentRight_ :: ReactIcon
+foreign import _bsTextIndentRight :: ReactIcon
 
 bsTextIndentRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsTextIndentRight = element (unsafeCoerce bsTextIndentRight_)
+bsTextIndentRight = element (unsafeCoerce _bsTextIndentRight)
 
-foreign import bsTextLeft_ :: ReactIcon
+foreign import _bsTextLeft :: ReactIcon
 
 bsTextLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsTextLeft = element (unsafeCoerce bsTextLeft_)
+bsTextLeft = element (unsafeCoerce _bsTextLeft)
 
-foreign import bsTextParagraph_ :: ReactIcon
+foreign import _bsTextParagraph :: ReactIcon
 
 bsTextParagraph :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsTextParagraph = element (unsafeCoerce bsTextParagraph_)
+bsTextParagraph = element (unsafeCoerce _bsTextParagraph)
 
-foreign import bsTextRight_ :: ReactIcon
+foreign import _bsTextRight :: ReactIcon
 
 bsTextRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsTextRight = element (unsafeCoerce bsTextRight_)
+bsTextRight = element (unsafeCoerce _bsTextRight)
 
-foreign import bsThermometer_ :: ReactIcon
+foreign import _bsThermometer :: ReactIcon
 
 bsThermometer :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsThermometer = element (unsafeCoerce bsThermometer_)
+bsThermometer = element (unsafeCoerce _bsThermometer)
 
-foreign import bsThermometerHalf_ :: ReactIcon
+foreign import _bsThermometerHalf :: ReactIcon
 
 bsThermometerHalf :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsThermometerHalf = element (unsafeCoerce bsThermometerHalf_)
+bsThermometerHalf = element (unsafeCoerce _bsThermometerHalf)
 
-foreign import bsThermometerHigh_ :: ReactIcon
+foreign import _bsThermometerHigh :: ReactIcon
 
 bsThermometerHigh :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsThermometerHigh = element (unsafeCoerce bsThermometerHigh_)
+bsThermometerHigh = element (unsafeCoerce _bsThermometerHigh)
 
-foreign import bsThermometerLow_ :: ReactIcon
+foreign import _bsThermometerLow :: ReactIcon
 
 bsThermometerLow :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsThermometerLow = element (unsafeCoerce bsThermometerLow_)
+bsThermometerLow = element (unsafeCoerce _bsThermometerLow)
 
-foreign import bsThermometerSnow_ :: ReactIcon
+foreign import _bsThermometerSnow :: ReactIcon
 
 bsThermometerSnow :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsThermometerSnow = element (unsafeCoerce bsThermometerSnow_)
+bsThermometerSnow = element (unsafeCoerce _bsThermometerSnow)
 
-foreign import bsThermometerSun_ :: ReactIcon
+foreign import _bsThermometerSun :: ReactIcon
 
 bsThermometerSun :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsThermometerSun = element (unsafeCoerce bsThermometerSun_)
+bsThermometerSun = element (unsafeCoerce _bsThermometerSun)
 
-foreign import bsThreeDots_ :: ReactIcon
+foreign import _bsThreeDots :: ReactIcon
 
 bsThreeDots :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsThreeDots = element (unsafeCoerce bsThreeDots_)
+bsThreeDots = element (unsafeCoerce _bsThreeDots)
 
-foreign import bsThreeDotsVertical_ :: ReactIcon
+foreign import _bsThreeDotsVertical :: ReactIcon
 
 bsThreeDotsVertical :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsThreeDotsVertical = element (unsafeCoerce bsThreeDotsVertical_)
+bsThreeDotsVertical = element (unsafeCoerce _bsThreeDotsVertical)
 
-foreign import bsToggleOff_ :: ReactIcon
+foreign import _bsToggleOff :: ReactIcon
 
 bsToggleOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsToggleOff = element (unsafeCoerce bsToggleOff_)
+bsToggleOff = element (unsafeCoerce _bsToggleOff)
 
-foreign import bsToggleOn_ :: ReactIcon
+foreign import _bsToggleOn :: ReactIcon
 
 bsToggleOn :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsToggleOn = element (unsafeCoerce bsToggleOn_)
+bsToggleOn = element (unsafeCoerce _bsToggleOn)
 
-foreign import bsToggles_ :: ReactIcon
+foreign import _bsToggles :: ReactIcon
 
 bsToggles :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsToggles = element (unsafeCoerce bsToggles_)
+bsToggles = element (unsafeCoerce _bsToggles)
 
-foreign import bsTools_ :: ReactIcon
+foreign import _bsTools :: ReactIcon
 
 bsTools :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsTools = element (unsafeCoerce bsTools_)
+bsTools = element (unsafeCoerce _bsTools)
 
-foreign import bsTornado_ :: ReactIcon
+foreign import _bsTornado :: ReactIcon
 
 bsTornado :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsTornado = element (unsafeCoerce bsTornado_)
+bsTornado = element (unsafeCoerce _bsTornado)
 
-foreign import bsTranslate_ :: ReactIcon
+foreign import _bsTranslate :: ReactIcon
 
 bsTranslate :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsTranslate = element (unsafeCoerce bsTranslate_)
+bsTranslate = element (unsafeCoerce _bsTranslate)
 
-foreign import bsTrash_ :: ReactIcon
+foreign import _bsTrash :: ReactIcon
 
 bsTrash :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsTrash = element (unsafeCoerce bsTrash_)
+bsTrash = element (unsafeCoerce _bsTrash)
 
-foreign import bsTrashFill_ :: ReactIcon
+foreign import _bsTrashFill :: ReactIcon
 
 bsTrashFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsTrashFill = element (unsafeCoerce bsTrashFill_)
+bsTrashFill = element (unsafeCoerce _bsTrashFill)
 
-foreign import bsTree_ :: ReactIcon
+foreign import _bsTree :: ReactIcon
 
 bsTree :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsTree = element (unsafeCoerce bsTree_)
+bsTree = element (unsafeCoerce _bsTree)
 
-foreign import bsTreeFill_ :: ReactIcon
+foreign import _bsTreeFill :: ReactIcon
 
 bsTreeFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsTreeFill = element (unsafeCoerce bsTreeFill_)
+bsTreeFill = element (unsafeCoerce _bsTreeFill)
 
-foreign import bsTriangle_ :: ReactIcon
+foreign import _bsTriangle :: ReactIcon
 
 bsTriangle :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsTriangle = element (unsafeCoerce bsTriangle_)
+bsTriangle = element (unsafeCoerce _bsTriangle)
 
-foreign import bsTriangleFill_ :: ReactIcon
+foreign import _bsTriangleFill :: ReactIcon
 
 bsTriangleFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsTriangleFill = element (unsafeCoerce bsTriangleFill_)
+bsTriangleFill = element (unsafeCoerce _bsTriangleFill)
 
-foreign import bsTriangleHalf_ :: ReactIcon
+foreign import _bsTriangleHalf :: ReactIcon
 
 bsTriangleHalf :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsTriangleHalf = element (unsafeCoerce bsTriangleHalf_)
+bsTriangleHalf = element (unsafeCoerce _bsTriangleHalf)
 
-foreign import bsTrophy_ :: ReactIcon
+foreign import _bsTrophy :: ReactIcon
 
 bsTrophy :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsTrophy = element (unsafeCoerce bsTrophy_)
+bsTrophy = element (unsafeCoerce _bsTrophy)
 
-foreign import bsTrophyFill_ :: ReactIcon
+foreign import _bsTrophyFill :: ReactIcon
 
 bsTrophyFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsTrophyFill = element (unsafeCoerce bsTrophyFill_)
+bsTrophyFill = element (unsafeCoerce _bsTrophyFill)
 
-foreign import bsTropicalStorm_ :: ReactIcon
+foreign import _bsTropicalStorm :: ReactIcon
 
 bsTropicalStorm :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsTropicalStorm = element (unsafeCoerce bsTropicalStorm_)
+bsTropicalStorm = element (unsafeCoerce _bsTropicalStorm)
 
-foreign import bsTruck_ :: ReactIcon
+foreign import _bsTruck :: ReactIcon
 
 bsTruck :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsTruck = element (unsafeCoerce bsTruck_)
+bsTruck = element (unsafeCoerce _bsTruck)
 
-foreign import bsTruckFlatbed_ :: ReactIcon
+foreign import _bsTruckFlatbed :: ReactIcon
 
 bsTruckFlatbed :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsTruckFlatbed = element (unsafeCoerce bsTruckFlatbed_)
+bsTruckFlatbed = element (unsafeCoerce _bsTruckFlatbed)
 
-foreign import bsTsunami_ :: ReactIcon
+foreign import _bsTsunami :: ReactIcon
 
 bsTsunami :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsTsunami = element (unsafeCoerce bsTsunami_)
+bsTsunami = element (unsafeCoerce _bsTsunami)
 
-foreign import bsTv_ :: ReactIcon
+foreign import _bsTv :: ReactIcon
 
 bsTv :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsTv = element (unsafeCoerce bsTv_)
+bsTv = element (unsafeCoerce _bsTv)
 
-foreign import bsTvFill_ :: ReactIcon
+foreign import _bsTvFill :: ReactIcon
 
 bsTvFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsTvFill = element (unsafeCoerce bsTvFill_)
+bsTvFill = element (unsafeCoerce _bsTvFill)
 
-foreign import bsTwitch_ :: ReactIcon
+foreign import _bsTwitch :: ReactIcon
 
 bsTwitch :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsTwitch = element (unsafeCoerce bsTwitch_)
+bsTwitch = element (unsafeCoerce _bsTwitch)
 
-foreign import bsTwitter_ :: ReactIcon
+foreign import _bsTwitter :: ReactIcon
 
 bsTwitter :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsTwitter = element (unsafeCoerce bsTwitter_)
+bsTwitter = element (unsafeCoerce _bsTwitter)
 
-foreign import bsType_ :: ReactIcon
+foreign import _bsType :: ReactIcon
 
 bsType :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsType = element (unsafeCoerce bsType_)
+bsType = element (unsafeCoerce _bsType)
 
-foreign import bsTypeBold_ :: ReactIcon
+foreign import _bsTypeBold :: ReactIcon
 
 bsTypeBold :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsTypeBold = element (unsafeCoerce bsTypeBold_)
+bsTypeBold = element (unsafeCoerce _bsTypeBold)
 
-foreign import bsTypeItalic_ :: ReactIcon
+foreign import _bsTypeItalic :: ReactIcon
 
 bsTypeItalic :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsTypeItalic = element (unsafeCoerce bsTypeItalic_)
+bsTypeItalic = element (unsafeCoerce _bsTypeItalic)
 
-foreign import bsTypeStrikethrough_ :: ReactIcon
+foreign import _bsTypeStrikethrough :: ReactIcon
 
 bsTypeStrikethrough :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsTypeStrikethrough = element (unsafeCoerce bsTypeStrikethrough_)
+bsTypeStrikethrough = element (unsafeCoerce _bsTypeStrikethrough)
 
-foreign import bsTypeUnderline_ :: ReactIcon
+foreign import _bsTypeUnderline :: ReactIcon
 
 bsTypeUnderline :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsTypeUnderline = element (unsafeCoerce bsTypeUnderline_)
+bsTypeUnderline = element (unsafeCoerce _bsTypeUnderline)
 
-foreign import bsUiChecks_ :: ReactIcon
+foreign import _bsUiChecks :: ReactIcon
 
 bsUiChecks :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsUiChecks = element (unsafeCoerce bsUiChecks_)
+bsUiChecks = element (unsafeCoerce _bsUiChecks)
 
-foreign import bsUiChecksGrid_ :: ReactIcon
+foreign import _bsUiChecksGrid :: ReactIcon
 
 bsUiChecksGrid :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsUiChecksGrid = element (unsafeCoerce bsUiChecksGrid_)
+bsUiChecksGrid = element (unsafeCoerce _bsUiChecksGrid)
 
-foreign import bsUiRadios_ :: ReactIcon
+foreign import _bsUiRadios :: ReactIcon
 
 bsUiRadios :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsUiRadios = element (unsafeCoerce bsUiRadios_)
+bsUiRadios = element (unsafeCoerce _bsUiRadios)
 
-foreign import bsUiRadiosGrid_ :: ReactIcon
+foreign import _bsUiRadiosGrid :: ReactIcon
 
 bsUiRadiosGrid :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsUiRadiosGrid = element (unsafeCoerce bsUiRadiosGrid_)
+bsUiRadiosGrid = element (unsafeCoerce _bsUiRadiosGrid)
 
-foreign import bsUmbrella_ :: ReactIcon
+foreign import _bsUmbrella :: ReactIcon
 
 bsUmbrella :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsUmbrella = element (unsafeCoerce bsUmbrella_)
+bsUmbrella = element (unsafeCoerce _bsUmbrella)
 
-foreign import bsUmbrellaFill_ :: ReactIcon
+foreign import _bsUmbrellaFill :: ReactIcon
 
 bsUmbrellaFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsUmbrellaFill = element (unsafeCoerce bsUmbrellaFill_)
+bsUmbrellaFill = element (unsafeCoerce _bsUmbrellaFill)
 
-foreign import bsUnion_ :: ReactIcon
+foreign import _bsUnion :: ReactIcon
 
 bsUnion :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsUnion = element (unsafeCoerce bsUnion_)
+bsUnion = element (unsafeCoerce _bsUnion)
 
-foreign import bsUnlock_ :: ReactIcon
+foreign import _bsUnlock :: ReactIcon
 
 bsUnlock :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsUnlock = element (unsafeCoerce bsUnlock_)
+bsUnlock = element (unsafeCoerce _bsUnlock)
 
-foreign import bsUnlockFill_ :: ReactIcon
+foreign import _bsUnlockFill :: ReactIcon
 
 bsUnlockFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsUnlockFill = element (unsafeCoerce bsUnlockFill_)
+bsUnlockFill = element (unsafeCoerce _bsUnlockFill)
 
-foreign import bsUpc_ :: ReactIcon
+foreign import _bsUpc :: ReactIcon
 
 bsUpc :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsUpc = element (unsafeCoerce bsUpc_)
+bsUpc = element (unsafeCoerce _bsUpc)
 
-foreign import bsUpcScan_ :: ReactIcon
+foreign import _bsUpcScan :: ReactIcon
 
 bsUpcScan :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsUpcScan = element (unsafeCoerce bsUpcScan_)
+bsUpcScan = element (unsafeCoerce _bsUpcScan)
 
-foreign import bsUpload_ :: ReactIcon
+foreign import _bsUpload :: ReactIcon
 
 bsUpload :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsUpload = element (unsafeCoerce bsUpload_)
+bsUpload = element (unsafeCoerce _bsUpload)
 
-foreign import bsVectorPen_ :: ReactIcon
+foreign import _bsVectorPen :: ReactIcon
 
 bsVectorPen :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsVectorPen = element (unsafeCoerce bsVectorPen_)
+bsVectorPen = element (unsafeCoerce _bsVectorPen)
 
-foreign import bsViewList_ :: ReactIcon
+foreign import _bsViewList :: ReactIcon
 
 bsViewList :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsViewList = element (unsafeCoerce bsViewList_)
+bsViewList = element (unsafeCoerce _bsViewList)
 
-foreign import bsViewStacked_ :: ReactIcon
+foreign import _bsViewStacked :: ReactIcon
 
 bsViewStacked :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsViewStacked = element (unsafeCoerce bsViewStacked_)
+bsViewStacked = element (unsafeCoerce _bsViewStacked)
 
-foreign import bsVimeo_ :: ReactIcon
+foreign import _bsVimeo :: ReactIcon
 
 bsVimeo :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsVimeo = element (unsafeCoerce bsVimeo_)
+bsVimeo = element (unsafeCoerce _bsVimeo)
 
-foreign import bsVinyl_ :: ReactIcon
+foreign import _bsVinyl :: ReactIcon
 
 bsVinyl :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsVinyl = element (unsafeCoerce bsVinyl_)
+bsVinyl = element (unsafeCoerce _bsVinyl)
 
-foreign import bsVinylFill_ :: ReactIcon
+foreign import _bsVinylFill :: ReactIcon
 
 bsVinylFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsVinylFill = element (unsafeCoerce bsVinylFill_)
+bsVinylFill = element (unsafeCoerce _bsVinylFill)
 
-foreign import bsVoicemail_ :: ReactIcon
+foreign import _bsVoicemail :: ReactIcon
 
 bsVoicemail :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsVoicemail = element (unsafeCoerce bsVoicemail_)
+bsVoicemail = element (unsafeCoerce _bsVoicemail)
 
-foreign import bsVolumeDown_ :: ReactIcon
+foreign import _bsVolumeDown :: ReactIcon
 
 bsVolumeDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsVolumeDown = element (unsafeCoerce bsVolumeDown_)
+bsVolumeDown = element (unsafeCoerce _bsVolumeDown)
 
-foreign import bsVolumeDownFill_ :: ReactIcon
+foreign import _bsVolumeDownFill :: ReactIcon
 
 bsVolumeDownFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsVolumeDownFill = element (unsafeCoerce bsVolumeDownFill_)
+bsVolumeDownFill = element (unsafeCoerce _bsVolumeDownFill)
 
-foreign import bsVolumeMute_ :: ReactIcon
+foreign import _bsVolumeMute :: ReactIcon
 
 bsVolumeMute :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsVolumeMute = element (unsafeCoerce bsVolumeMute_)
+bsVolumeMute = element (unsafeCoerce _bsVolumeMute)
 
-foreign import bsVolumeMuteFill_ :: ReactIcon
+foreign import _bsVolumeMuteFill :: ReactIcon
 
 bsVolumeMuteFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsVolumeMuteFill = element (unsafeCoerce bsVolumeMuteFill_)
+bsVolumeMuteFill = element (unsafeCoerce _bsVolumeMuteFill)
 
-foreign import bsVolumeOff_ :: ReactIcon
+foreign import _bsVolumeOff :: ReactIcon
 
 bsVolumeOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsVolumeOff = element (unsafeCoerce bsVolumeOff_)
+bsVolumeOff = element (unsafeCoerce _bsVolumeOff)
 
-foreign import bsVolumeOffFill_ :: ReactIcon
+foreign import _bsVolumeOffFill :: ReactIcon
 
 bsVolumeOffFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsVolumeOffFill = element (unsafeCoerce bsVolumeOffFill_)
+bsVolumeOffFill = element (unsafeCoerce _bsVolumeOffFill)
 
-foreign import bsVolumeUp_ :: ReactIcon
+foreign import _bsVolumeUp :: ReactIcon
 
 bsVolumeUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsVolumeUp = element (unsafeCoerce bsVolumeUp_)
+bsVolumeUp = element (unsafeCoerce _bsVolumeUp)
 
-foreign import bsVolumeUpFill_ :: ReactIcon
+foreign import _bsVolumeUpFill :: ReactIcon
 
 bsVolumeUpFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsVolumeUpFill = element (unsafeCoerce bsVolumeUpFill_)
+bsVolumeUpFill = element (unsafeCoerce _bsVolumeUpFill)
 
-foreign import bsVr_ :: ReactIcon
+foreign import _bsVr :: ReactIcon
 
 bsVr :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsVr = element (unsafeCoerce bsVr_)
+bsVr = element (unsafeCoerce _bsVr)
 
-foreign import bsWallet_ :: ReactIcon
+foreign import _bsWallet :: ReactIcon
 
 bsWallet :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsWallet = element (unsafeCoerce bsWallet_)
+bsWallet = element (unsafeCoerce _bsWallet)
 
-foreign import bsWalletFill_ :: ReactIcon
+foreign import _bsWalletFill :: ReactIcon
 
 bsWalletFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsWalletFill = element (unsafeCoerce bsWalletFill_)
+bsWalletFill = element (unsafeCoerce _bsWalletFill)
 
-foreign import bsWatch_ :: ReactIcon
+foreign import _bsWatch :: ReactIcon
 
 bsWatch :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsWatch = element (unsafeCoerce bsWatch_)
+bsWatch = element (unsafeCoerce _bsWatch)
 
-foreign import bsWater_ :: ReactIcon
+foreign import _bsWater :: ReactIcon
 
 bsWater :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsWater = element (unsafeCoerce bsWater_)
+bsWater = element (unsafeCoerce _bsWater)
 
-foreign import bsWhatsapp_ :: ReactIcon
+foreign import _bsWhatsapp :: ReactIcon
 
 bsWhatsapp :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsWhatsapp = element (unsafeCoerce bsWhatsapp_)
+bsWhatsapp = element (unsafeCoerce _bsWhatsapp)
 
-foreign import bsWifi_ :: ReactIcon
+foreign import _bsWifi :: ReactIcon
 
 bsWifi :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsWifi = element (unsafeCoerce bsWifi_)
+bsWifi = element (unsafeCoerce _bsWifi)
 
-foreign import bsWifiOff_ :: ReactIcon
+foreign import _bsWifiOff :: ReactIcon
 
 bsWifiOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsWifiOff = element (unsafeCoerce bsWifiOff_)
+bsWifiOff = element (unsafeCoerce _bsWifiOff)
 
-foreign import bsWind_ :: ReactIcon
+foreign import _bsWind :: ReactIcon
 
 bsWind :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsWind = element (unsafeCoerce bsWind_)
+bsWind = element (unsafeCoerce _bsWind)
 
-foreign import bsWindow_ :: ReactIcon
+foreign import _bsWindow :: ReactIcon
 
 bsWindow :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsWindow = element (unsafeCoerce bsWindow_)
+bsWindow = element (unsafeCoerce _bsWindow)
 
-foreign import bsWindowDock_ :: ReactIcon
+foreign import _bsWindowDock :: ReactIcon
 
 bsWindowDock :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsWindowDock = element (unsafeCoerce bsWindowDock_)
+bsWindowDock = element (unsafeCoerce _bsWindowDock)
 
-foreign import bsWindows_ :: ReactIcon
+foreign import _bsWindows :: ReactIcon
 
 bsWindows :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsWindows = element (unsafeCoerce bsWindows_)
+bsWindows = element (unsafeCoerce _bsWindows)
 
-foreign import bsWindowSidebar_ :: ReactIcon
+foreign import _bsWindowSidebar :: ReactIcon
 
 bsWindowSidebar :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsWindowSidebar = element (unsafeCoerce bsWindowSidebar_)
+bsWindowSidebar = element (unsafeCoerce _bsWindowSidebar)
 
-foreign import bsWordpress_ :: ReactIcon
+foreign import _bsWordpress :: ReactIcon
 
 bsWordpress :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsWordpress = element (unsafeCoerce bsWordpress_)
+bsWordpress = element (unsafeCoerce _bsWordpress)
 
-foreign import bsWrench_ :: ReactIcon
+foreign import _bsWrench :: ReactIcon
 
 bsWrench :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsWrench = element (unsafeCoerce bsWrench_)
+bsWrench = element (unsafeCoerce _bsWrench)
 
-foreign import bsX_ :: ReactIcon
+foreign import _bsX :: ReactIcon
 
 bsX :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsX = element (unsafeCoerce bsX_)
+bsX = element (unsafeCoerce _bsX)
 
-foreign import bsXCircle_ :: ReactIcon
+foreign import _bsXCircle :: ReactIcon
 
 bsXCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsXCircle = element (unsafeCoerce bsXCircle_)
+bsXCircle = element (unsafeCoerce _bsXCircle)
 
-foreign import bsXCircleFill_ :: ReactIcon
+foreign import _bsXCircleFill :: ReactIcon
 
 bsXCircleFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsXCircleFill = element (unsafeCoerce bsXCircleFill_)
+bsXCircleFill = element (unsafeCoerce _bsXCircleFill)
 
-foreign import bsXDiamond_ :: ReactIcon
+foreign import _bsXDiamond :: ReactIcon
 
 bsXDiamond :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsXDiamond = element (unsafeCoerce bsXDiamond_)
+bsXDiamond = element (unsafeCoerce _bsXDiamond)
 
-foreign import bsXDiamondFill_ :: ReactIcon
+foreign import _bsXDiamondFill :: ReactIcon
 
 bsXDiamondFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsXDiamondFill = element (unsafeCoerce bsXDiamondFill_)
+bsXDiamondFill = element (unsafeCoerce _bsXDiamondFill)
 
-foreign import bsXLg_ :: ReactIcon
+foreign import _bsXLg :: ReactIcon
 
 bsXLg :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsXLg = element (unsafeCoerce bsXLg_)
+bsXLg = element (unsafeCoerce _bsXLg)
 
-foreign import bsXOctagon_ :: ReactIcon
+foreign import _bsXOctagon :: ReactIcon
 
 bsXOctagon :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsXOctagon = element (unsafeCoerce bsXOctagon_)
+bsXOctagon = element (unsafeCoerce _bsXOctagon)
 
-foreign import bsXOctagonFill_ :: ReactIcon
+foreign import _bsXOctagonFill :: ReactIcon
 
 bsXOctagonFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsXOctagonFill = element (unsafeCoerce bsXOctagonFill_)
+bsXOctagonFill = element (unsafeCoerce _bsXOctagonFill)
 
-foreign import bsXSquare_ :: ReactIcon
+foreign import _bsXSquare :: ReactIcon
 
 bsXSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsXSquare = element (unsafeCoerce bsXSquare_)
+bsXSquare = element (unsafeCoerce _bsXSquare)
 
-foreign import bsXSquareFill_ :: ReactIcon
+foreign import _bsXSquareFill :: ReactIcon
 
 bsXSquareFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsXSquareFill = element (unsafeCoerce bsXSquareFill_)
+bsXSquareFill = element (unsafeCoerce _bsXSquareFill)
 
-foreign import bsYoutube_ :: ReactIcon
+foreign import _bsYoutube :: ReactIcon
 
 bsYoutube :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsYoutube = element (unsafeCoerce bsYoutube_)
+bsYoutube = element (unsafeCoerce _bsYoutube)
 
-foreign import bsZoomIn_ :: ReactIcon
+foreign import _bsZoomIn :: ReactIcon
 
 bsZoomIn :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsZoomIn = element (unsafeCoerce bsZoomIn_)
+bsZoomIn = element (unsafeCoerce _bsZoomIn)
 
-foreign import bsZoomOut_ :: ReactIcon
+foreign import _bsZoomOut :: ReactIcon
 
 bsZoomOut :: forall a b. Union a b PropsIcon => Record a -> JSX
-bsZoomOut = element (unsafeCoerce bsZoomOut_)
+bsZoomOut = element (unsafeCoerce _bsZoomOut)

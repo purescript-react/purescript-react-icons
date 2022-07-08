@@ -9,3472 +9,3472 @@ import React.Basic (JSX, element)
 import React.Icons.Types (ReactIcon, PropsIcon)
 import Unsafe.Coerce (unsafeCoerce)
 
-foreign import ioIosAdd_ :: ReactIcon
+foreign import _ioIosAdd :: ReactIcon
 
 ioIosAdd :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosAdd = element (unsafeCoerce ioIosAdd_)
+ioIosAdd = element (unsafeCoerce _ioIosAdd)
 
-foreign import ioIosAddCircle_ :: ReactIcon
+foreign import _ioIosAddCircle :: ReactIcon
 
 ioIosAddCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosAddCircle = element (unsafeCoerce ioIosAddCircle_)
+ioIosAddCircle = element (unsafeCoerce _ioIosAddCircle)
 
-foreign import ioIosAddCircleOutline_ :: ReactIcon
+foreign import _ioIosAddCircleOutline :: ReactIcon
 
 ioIosAddCircleOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosAddCircleOutline = element (unsafeCoerce ioIosAddCircleOutline_)
+ioIosAddCircleOutline = element (unsafeCoerce _ioIosAddCircleOutline)
 
-foreign import ioIosAirplane_ :: ReactIcon
+foreign import _ioIosAirplane :: ReactIcon
 
 ioIosAirplane :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosAirplane = element (unsafeCoerce ioIosAirplane_)
+ioIosAirplane = element (unsafeCoerce _ioIosAirplane)
 
-foreign import ioIosAlarm_ :: ReactIcon
+foreign import _ioIosAlarm :: ReactIcon
 
 ioIosAlarm :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosAlarm = element (unsafeCoerce ioIosAlarm_)
+ioIosAlarm = element (unsafeCoerce _ioIosAlarm)
 
-foreign import ioIosAlbums_ :: ReactIcon
+foreign import _ioIosAlbums :: ReactIcon
 
 ioIosAlbums :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosAlbums = element (unsafeCoerce ioIosAlbums_)
+ioIosAlbums = element (unsafeCoerce _ioIosAlbums)
 
-foreign import ioIosAlert_ :: ReactIcon
+foreign import _ioIosAlert :: ReactIcon
 
 ioIosAlert :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosAlert = element (unsafeCoerce ioIosAlert_)
+ioIosAlert = element (unsafeCoerce _ioIosAlert)
 
-foreign import ioIosAmericanFootball_ :: ReactIcon
+foreign import _ioIosAmericanFootball :: ReactIcon
 
 ioIosAmericanFootball :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosAmericanFootball = element (unsafeCoerce ioIosAmericanFootball_)
+ioIosAmericanFootball = element (unsafeCoerce _ioIosAmericanFootball)
 
-foreign import ioIosAnalytics_ :: ReactIcon
+foreign import _ioIosAnalytics :: ReactIcon
 
 ioIosAnalytics :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosAnalytics = element (unsafeCoerce ioIosAnalytics_)
+ioIosAnalytics = element (unsafeCoerce _ioIosAnalytics)
 
-foreign import ioIosAperture_ :: ReactIcon
+foreign import _ioIosAperture :: ReactIcon
 
 ioIosAperture :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosAperture = element (unsafeCoerce ioIosAperture_)
+ioIosAperture = element (unsafeCoerce _ioIosAperture)
 
-foreign import ioIosApps_ :: ReactIcon
+foreign import _ioIosApps :: ReactIcon
 
 ioIosApps :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosApps = element (unsafeCoerce ioIosApps_)
+ioIosApps = element (unsafeCoerce _ioIosApps)
 
-foreign import ioIosAppstore_ :: ReactIcon
+foreign import _ioIosAppstore :: ReactIcon
 
 ioIosAppstore :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosAppstore = element (unsafeCoerce ioIosAppstore_)
+ioIosAppstore = element (unsafeCoerce _ioIosAppstore)
 
-foreign import ioIosArchive_ :: ReactIcon
+foreign import _ioIosArchive :: ReactIcon
 
 ioIosArchive :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosArchive = element (unsafeCoerce ioIosArchive_)
+ioIosArchive = element (unsafeCoerce _ioIosArchive)
 
-foreign import ioIosArrowBack_ :: ReactIcon
+foreign import _ioIosArrowBack :: ReactIcon
 
 ioIosArrowBack :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosArrowBack = element (unsafeCoerce ioIosArrowBack_)
+ioIosArrowBack = element (unsafeCoerce _ioIosArrowBack)
 
-foreign import ioIosArrowDown_ :: ReactIcon
+foreign import _ioIosArrowDown :: ReactIcon
 
 ioIosArrowDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosArrowDown = element (unsafeCoerce ioIosArrowDown_)
+ioIosArrowDown = element (unsafeCoerce _ioIosArrowDown)
 
-foreign import ioIosArrowDropdown_ :: ReactIcon
+foreign import _ioIosArrowDropdown :: ReactIcon
 
 ioIosArrowDropdown :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosArrowDropdown = element (unsafeCoerce ioIosArrowDropdown_)
+ioIosArrowDropdown = element (unsafeCoerce _ioIosArrowDropdown)
 
-foreign import ioIosArrowDropdownCircle_ :: ReactIcon
+foreign import _ioIosArrowDropdownCircle :: ReactIcon
 
 ioIosArrowDropdownCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosArrowDropdownCircle = element (unsafeCoerce ioIosArrowDropdownCircle_)
+ioIosArrowDropdownCircle = element (unsafeCoerce _ioIosArrowDropdownCircle)
 
-foreign import ioIosArrowDropleft_ :: ReactIcon
+foreign import _ioIosArrowDropleft :: ReactIcon
 
 ioIosArrowDropleft :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosArrowDropleft = element (unsafeCoerce ioIosArrowDropleft_)
+ioIosArrowDropleft = element (unsafeCoerce _ioIosArrowDropleft)
 
-foreign import ioIosArrowDropleftCircle_ :: ReactIcon
+foreign import _ioIosArrowDropleftCircle :: ReactIcon
 
 ioIosArrowDropleftCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosArrowDropleftCircle = element (unsafeCoerce ioIosArrowDropleftCircle_)
+ioIosArrowDropleftCircle = element (unsafeCoerce _ioIosArrowDropleftCircle)
 
-foreign import ioIosArrowDropright_ :: ReactIcon
+foreign import _ioIosArrowDropright :: ReactIcon
 
 ioIosArrowDropright :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosArrowDropright = element (unsafeCoerce ioIosArrowDropright_)
+ioIosArrowDropright = element (unsafeCoerce _ioIosArrowDropright)
 
-foreign import ioIosArrowDroprightCircle_ :: ReactIcon
+foreign import _ioIosArrowDroprightCircle :: ReactIcon
 
 ioIosArrowDroprightCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosArrowDroprightCircle = element (unsafeCoerce ioIosArrowDroprightCircle_)
+ioIosArrowDroprightCircle = element (unsafeCoerce _ioIosArrowDroprightCircle)
 
-foreign import ioIosArrowDropup_ :: ReactIcon
+foreign import _ioIosArrowDropup :: ReactIcon
 
 ioIosArrowDropup :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosArrowDropup = element (unsafeCoerce ioIosArrowDropup_)
+ioIosArrowDropup = element (unsafeCoerce _ioIosArrowDropup)
 
-foreign import ioIosArrowDropupCircle_ :: ReactIcon
+foreign import _ioIosArrowDropupCircle :: ReactIcon
 
 ioIosArrowDropupCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosArrowDropupCircle = element (unsafeCoerce ioIosArrowDropupCircle_)
+ioIosArrowDropupCircle = element (unsafeCoerce _ioIosArrowDropupCircle)
 
-foreign import ioIosArrowForward_ :: ReactIcon
+foreign import _ioIosArrowForward :: ReactIcon
 
 ioIosArrowForward :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosArrowForward = element (unsafeCoerce ioIosArrowForward_)
+ioIosArrowForward = element (unsafeCoerce _ioIosArrowForward)
 
-foreign import ioIosArrowRoundBack_ :: ReactIcon
+foreign import _ioIosArrowRoundBack :: ReactIcon
 
 ioIosArrowRoundBack :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosArrowRoundBack = element (unsafeCoerce ioIosArrowRoundBack_)
+ioIosArrowRoundBack = element (unsafeCoerce _ioIosArrowRoundBack)
 
-foreign import ioIosArrowRoundDown_ :: ReactIcon
+foreign import _ioIosArrowRoundDown :: ReactIcon
 
 ioIosArrowRoundDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosArrowRoundDown = element (unsafeCoerce ioIosArrowRoundDown_)
+ioIosArrowRoundDown = element (unsafeCoerce _ioIosArrowRoundDown)
 
-foreign import ioIosArrowRoundForward_ :: ReactIcon
+foreign import _ioIosArrowRoundForward :: ReactIcon
 
 ioIosArrowRoundForward :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosArrowRoundForward = element (unsafeCoerce ioIosArrowRoundForward_)
+ioIosArrowRoundForward = element (unsafeCoerce _ioIosArrowRoundForward)
 
-foreign import ioIosArrowRoundUp_ :: ReactIcon
+foreign import _ioIosArrowRoundUp :: ReactIcon
 
 ioIosArrowRoundUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosArrowRoundUp = element (unsafeCoerce ioIosArrowRoundUp_)
+ioIosArrowRoundUp = element (unsafeCoerce _ioIosArrowRoundUp)
 
-foreign import ioIosArrowUp_ :: ReactIcon
+foreign import _ioIosArrowUp :: ReactIcon
 
 ioIosArrowUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosArrowUp = element (unsafeCoerce ioIosArrowUp_)
+ioIosArrowUp = element (unsafeCoerce _ioIosArrowUp)
 
-foreign import ioIosAt_ :: ReactIcon
+foreign import _ioIosAt :: ReactIcon
 
 ioIosAt :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosAt = element (unsafeCoerce ioIosAt_)
+ioIosAt = element (unsafeCoerce _ioIosAt)
 
-foreign import ioIosAttach_ :: ReactIcon
+foreign import _ioIosAttach :: ReactIcon
 
 ioIosAttach :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosAttach = element (unsafeCoerce ioIosAttach_)
+ioIosAttach = element (unsafeCoerce _ioIosAttach)
 
-foreign import ioIosBackspace_ :: ReactIcon
+foreign import _ioIosBackspace :: ReactIcon
 
 ioIosBackspace :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosBackspace = element (unsafeCoerce ioIosBackspace_)
+ioIosBackspace = element (unsafeCoerce _ioIosBackspace)
 
-foreign import ioIosBarcode_ :: ReactIcon
+foreign import _ioIosBarcode :: ReactIcon
 
 ioIosBarcode :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosBarcode = element (unsafeCoerce ioIosBarcode_)
+ioIosBarcode = element (unsafeCoerce _ioIosBarcode)
 
-foreign import ioIosBaseball_ :: ReactIcon
+foreign import _ioIosBaseball :: ReactIcon
 
 ioIosBaseball :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosBaseball = element (unsafeCoerce ioIosBaseball_)
+ioIosBaseball = element (unsafeCoerce _ioIosBaseball)
 
-foreign import ioIosBasket_ :: ReactIcon
+foreign import _ioIosBasket :: ReactIcon
 
 ioIosBasket :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosBasket = element (unsafeCoerce ioIosBasket_)
+ioIosBasket = element (unsafeCoerce _ioIosBasket)
 
-foreign import ioIosBasketball_ :: ReactIcon
+foreign import _ioIosBasketball :: ReactIcon
 
 ioIosBasketball :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosBasketball = element (unsafeCoerce ioIosBasketball_)
+ioIosBasketball = element (unsafeCoerce _ioIosBasketball)
 
-foreign import ioIosBatteryCharging_ :: ReactIcon
+foreign import _ioIosBatteryCharging :: ReactIcon
 
 ioIosBatteryCharging :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosBatteryCharging = element (unsafeCoerce ioIosBatteryCharging_)
+ioIosBatteryCharging = element (unsafeCoerce _ioIosBatteryCharging)
 
-foreign import ioIosBatteryDead_ :: ReactIcon
+foreign import _ioIosBatteryDead :: ReactIcon
 
 ioIosBatteryDead :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosBatteryDead = element (unsafeCoerce ioIosBatteryDead_)
+ioIosBatteryDead = element (unsafeCoerce _ioIosBatteryDead)
 
-foreign import ioIosBatteryFull_ :: ReactIcon
+foreign import _ioIosBatteryFull :: ReactIcon
 
 ioIosBatteryFull :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosBatteryFull = element (unsafeCoerce ioIosBatteryFull_)
+ioIosBatteryFull = element (unsafeCoerce _ioIosBatteryFull)
 
-foreign import ioIosBeaker_ :: ReactIcon
+foreign import _ioIosBeaker :: ReactIcon
 
 ioIosBeaker :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosBeaker = element (unsafeCoerce ioIosBeaker_)
+ioIosBeaker = element (unsafeCoerce _ioIosBeaker)
 
-foreign import ioIosBed_ :: ReactIcon
+foreign import _ioIosBed :: ReactIcon
 
 ioIosBed :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosBed = element (unsafeCoerce ioIosBed_)
+ioIosBed = element (unsafeCoerce _ioIosBed)
 
-foreign import ioIosBeer_ :: ReactIcon
+foreign import _ioIosBeer :: ReactIcon
 
 ioIosBeer :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosBeer = element (unsafeCoerce ioIosBeer_)
+ioIosBeer = element (unsafeCoerce _ioIosBeer)
 
-foreign import ioIosBicycle_ :: ReactIcon
+foreign import _ioIosBicycle :: ReactIcon
 
 ioIosBicycle :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosBicycle = element (unsafeCoerce ioIosBicycle_)
+ioIosBicycle = element (unsafeCoerce _ioIosBicycle)
 
-foreign import ioIosBluetooth_ :: ReactIcon
+foreign import _ioIosBluetooth :: ReactIcon
 
 ioIosBluetooth :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosBluetooth = element (unsafeCoerce ioIosBluetooth_)
+ioIosBluetooth = element (unsafeCoerce _ioIosBluetooth)
 
-foreign import ioIosBoat_ :: ReactIcon
+foreign import _ioIosBoat :: ReactIcon
 
 ioIosBoat :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosBoat = element (unsafeCoerce ioIosBoat_)
+ioIosBoat = element (unsafeCoerce _ioIosBoat)
 
-foreign import ioIosBody_ :: ReactIcon
+foreign import _ioIosBody :: ReactIcon
 
 ioIosBody :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosBody = element (unsafeCoerce ioIosBody_)
+ioIosBody = element (unsafeCoerce _ioIosBody)
 
-foreign import ioIosBonfire_ :: ReactIcon
+foreign import _ioIosBonfire :: ReactIcon
 
 ioIosBonfire :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosBonfire = element (unsafeCoerce ioIosBonfire_)
+ioIosBonfire = element (unsafeCoerce _ioIosBonfire)
 
-foreign import ioIosBook_ :: ReactIcon
+foreign import _ioIosBook :: ReactIcon
 
 ioIosBook :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosBook = element (unsafeCoerce ioIosBook_)
+ioIosBook = element (unsafeCoerce _ioIosBook)
 
-foreign import ioIosBookmark_ :: ReactIcon
+foreign import _ioIosBookmark :: ReactIcon
 
 ioIosBookmark :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosBookmark = element (unsafeCoerce ioIosBookmark_)
+ioIosBookmark = element (unsafeCoerce _ioIosBookmark)
 
-foreign import ioIosBookmarks_ :: ReactIcon
+foreign import _ioIosBookmarks :: ReactIcon
 
 ioIosBookmarks :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosBookmarks = element (unsafeCoerce ioIosBookmarks_)
+ioIosBookmarks = element (unsafeCoerce _ioIosBookmarks)
 
-foreign import ioIosBowtie_ :: ReactIcon
+foreign import _ioIosBowtie :: ReactIcon
 
 ioIosBowtie :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosBowtie = element (unsafeCoerce ioIosBowtie_)
+ioIosBowtie = element (unsafeCoerce _ioIosBowtie)
 
-foreign import ioIosBriefcase_ :: ReactIcon
+foreign import _ioIosBriefcase :: ReactIcon
 
 ioIosBriefcase :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosBriefcase = element (unsafeCoerce ioIosBriefcase_)
+ioIosBriefcase = element (unsafeCoerce _ioIosBriefcase)
 
-foreign import ioIosBrowsers_ :: ReactIcon
+foreign import _ioIosBrowsers :: ReactIcon
 
 ioIosBrowsers :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosBrowsers = element (unsafeCoerce ioIosBrowsers_)
+ioIosBrowsers = element (unsafeCoerce _ioIosBrowsers)
 
-foreign import ioIosBrush_ :: ReactIcon
+foreign import _ioIosBrush :: ReactIcon
 
 ioIosBrush :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosBrush = element (unsafeCoerce ioIosBrush_)
+ioIosBrush = element (unsafeCoerce _ioIosBrush)
 
-foreign import ioIosBug_ :: ReactIcon
+foreign import _ioIosBug :: ReactIcon
 
 ioIosBug :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosBug = element (unsafeCoerce ioIosBug_)
+ioIosBug = element (unsafeCoerce _ioIosBug)
 
-foreign import ioIosBuild_ :: ReactIcon
+foreign import _ioIosBuild :: ReactIcon
 
 ioIosBuild :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosBuild = element (unsafeCoerce ioIosBuild_)
+ioIosBuild = element (unsafeCoerce _ioIosBuild)
 
-foreign import ioIosBulb_ :: ReactIcon
+foreign import _ioIosBulb :: ReactIcon
 
 ioIosBulb :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosBulb = element (unsafeCoerce ioIosBulb_)
+ioIosBulb = element (unsafeCoerce _ioIosBulb)
 
-foreign import ioIosBus_ :: ReactIcon
+foreign import _ioIosBus :: ReactIcon
 
 ioIosBus :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosBus = element (unsafeCoerce ioIosBus_)
+ioIosBus = element (unsafeCoerce _ioIosBus)
 
-foreign import ioIosBusiness_ :: ReactIcon
+foreign import _ioIosBusiness :: ReactIcon
 
 ioIosBusiness :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosBusiness = element (unsafeCoerce ioIosBusiness_)
+ioIosBusiness = element (unsafeCoerce _ioIosBusiness)
 
-foreign import ioIosCafe_ :: ReactIcon
+foreign import _ioIosCafe :: ReactIcon
 
 ioIosCafe :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosCafe = element (unsafeCoerce ioIosCafe_)
+ioIosCafe = element (unsafeCoerce _ioIosCafe)
 
-foreign import ioIosCalculator_ :: ReactIcon
+foreign import _ioIosCalculator :: ReactIcon
 
 ioIosCalculator :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosCalculator = element (unsafeCoerce ioIosCalculator_)
+ioIosCalculator = element (unsafeCoerce _ioIosCalculator)
 
-foreign import ioIosCalendar_ :: ReactIcon
+foreign import _ioIosCalendar :: ReactIcon
 
 ioIosCalendar :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosCalendar = element (unsafeCoerce ioIosCalendar_)
+ioIosCalendar = element (unsafeCoerce _ioIosCalendar)
 
-foreign import ioIosCall_ :: ReactIcon
+foreign import _ioIosCall :: ReactIcon
 
 ioIosCall :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosCall = element (unsafeCoerce ioIosCall_)
+ioIosCall = element (unsafeCoerce _ioIosCall)
 
-foreign import ioIosCamera_ :: ReactIcon
+foreign import _ioIosCamera :: ReactIcon
 
 ioIosCamera :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosCamera = element (unsafeCoerce ioIosCamera_)
+ioIosCamera = element (unsafeCoerce _ioIosCamera)
 
-foreign import ioIosCar_ :: ReactIcon
+foreign import _ioIosCar :: ReactIcon
 
 ioIosCar :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosCar = element (unsafeCoerce ioIosCar_)
+ioIosCar = element (unsafeCoerce _ioIosCar)
 
-foreign import ioIosCard_ :: ReactIcon
+foreign import _ioIosCard :: ReactIcon
 
 ioIosCard :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosCard = element (unsafeCoerce ioIosCard_)
+ioIosCard = element (unsafeCoerce _ioIosCard)
 
-foreign import ioIosCart_ :: ReactIcon
+foreign import _ioIosCart :: ReactIcon
 
 ioIosCart :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosCart = element (unsafeCoerce ioIosCart_)
+ioIosCart = element (unsafeCoerce _ioIosCart)
 
-foreign import ioIosCash_ :: ReactIcon
+foreign import _ioIosCash :: ReactIcon
 
 ioIosCash :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosCash = element (unsafeCoerce ioIosCash_)
+ioIosCash = element (unsafeCoerce _ioIosCash)
 
-foreign import ioIosCellular_ :: ReactIcon
+foreign import _ioIosCellular :: ReactIcon
 
 ioIosCellular :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosCellular = element (unsafeCoerce ioIosCellular_)
+ioIosCellular = element (unsafeCoerce _ioIosCellular)
 
-foreign import ioIosChatboxes_ :: ReactIcon
+foreign import _ioIosChatboxes :: ReactIcon
 
 ioIosChatboxes :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosChatboxes = element (unsafeCoerce ioIosChatboxes_)
+ioIosChatboxes = element (unsafeCoerce _ioIosChatboxes)
 
-foreign import ioIosChatbubbles_ :: ReactIcon
+foreign import _ioIosChatbubbles :: ReactIcon
 
 ioIosChatbubbles :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosChatbubbles = element (unsafeCoerce ioIosChatbubbles_)
+ioIosChatbubbles = element (unsafeCoerce _ioIosChatbubbles)
 
-foreign import ioIosCheckbox_ :: ReactIcon
+foreign import _ioIosCheckbox :: ReactIcon
 
 ioIosCheckbox :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosCheckbox = element (unsafeCoerce ioIosCheckbox_)
+ioIosCheckbox = element (unsafeCoerce _ioIosCheckbox)
 
-foreign import ioIosCheckboxOutline_ :: ReactIcon
+foreign import _ioIosCheckboxOutline :: ReactIcon
 
 ioIosCheckboxOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosCheckboxOutline = element (unsafeCoerce ioIosCheckboxOutline_)
+ioIosCheckboxOutline = element (unsafeCoerce _ioIosCheckboxOutline)
 
-foreign import ioIosCheckmark_ :: ReactIcon
+foreign import _ioIosCheckmark :: ReactIcon
 
 ioIosCheckmark :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosCheckmark = element (unsafeCoerce ioIosCheckmark_)
+ioIosCheckmark = element (unsafeCoerce _ioIosCheckmark)
 
-foreign import ioIosCheckmarkCircle_ :: ReactIcon
+foreign import _ioIosCheckmarkCircle :: ReactIcon
 
 ioIosCheckmarkCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosCheckmarkCircle = element (unsafeCoerce ioIosCheckmarkCircle_)
+ioIosCheckmarkCircle = element (unsafeCoerce _ioIosCheckmarkCircle)
 
-foreign import ioIosCheckmarkCircleOutline_ :: ReactIcon
+foreign import _ioIosCheckmarkCircleOutline :: ReactIcon
 
 ioIosCheckmarkCircleOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosCheckmarkCircleOutline = element (unsafeCoerce ioIosCheckmarkCircleOutline_)
+ioIosCheckmarkCircleOutline = element (unsafeCoerce _ioIosCheckmarkCircleOutline)
 
-foreign import ioIosClipboard_ :: ReactIcon
+foreign import _ioIosClipboard :: ReactIcon
 
 ioIosClipboard :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosClipboard = element (unsafeCoerce ioIosClipboard_)
+ioIosClipboard = element (unsafeCoerce _ioIosClipboard)
 
-foreign import ioIosClock_ :: ReactIcon
+foreign import _ioIosClock :: ReactIcon
 
 ioIosClock :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosClock = element (unsafeCoerce ioIosClock_)
+ioIosClock = element (unsafeCoerce _ioIosClock)
 
-foreign import ioIosClose_ :: ReactIcon
+foreign import _ioIosClose :: ReactIcon
 
 ioIosClose :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosClose = element (unsafeCoerce ioIosClose_)
+ioIosClose = element (unsafeCoerce _ioIosClose)
 
-foreign import ioIosCloseCircle_ :: ReactIcon
+foreign import _ioIosCloseCircle :: ReactIcon
 
 ioIosCloseCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosCloseCircle = element (unsafeCoerce ioIosCloseCircle_)
+ioIosCloseCircle = element (unsafeCoerce _ioIosCloseCircle)
 
-foreign import ioIosCloseCircleOutline_ :: ReactIcon
+foreign import _ioIosCloseCircleOutline :: ReactIcon
 
 ioIosCloseCircleOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosCloseCircleOutline = element (unsafeCoerce ioIosCloseCircleOutline_)
+ioIosCloseCircleOutline = element (unsafeCoerce _ioIosCloseCircleOutline)
 
-foreign import ioIosCloud_ :: ReactIcon
+foreign import _ioIosCloud :: ReactIcon
 
 ioIosCloud :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosCloud = element (unsafeCoerce ioIosCloud_)
+ioIosCloud = element (unsafeCoerce _ioIosCloud)
 
-foreign import ioIosCloudCircle_ :: ReactIcon
+foreign import _ioIosCloudCircle :: ReactIcon
 
 ioIosCloudCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosCloudCircle = element (unsafeCoerce ioIosCloudCircle_)
+ioIosCloudCircle = element (unsafeCoerce _ioIosCloudCircle)
 
-foreign import ioIosCloudDone_ :: ReactIcon
+foreign import _ioIosCloudDone :: ReactIcon
 
 ioIosCloudDone :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosCloudDone = element (unsafeCoerce ioIosCloudDone_)
+ioIosCloudDone = element (unsafeCoerce _ioIosCloudDone)
 
-foreign import ioIosCloudDownload_ :: ReactIcon
+foreign import _ioIosCloudDownload :: ReactIcon
 
 ioIosCloudDownload :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosCloudDownload = element (unsafeCoerce ioIosCloudDownload_)
+ioIosCloudDownload = element (unsafeCoerce _ioIosCloudDownload)
 
-foreign import ioIosCloudOutline_ :: ReactIcon
+foreign import _ioIosCloudOutline :: ReactIcon
 
 ioIosCloudOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosCloudOutline = element (unsafeCoerce ioIosCloudOutline_)
+ioIosCloudOutline = element (unsafeCoerce _ioIosCloudOutline)
 
-foreign import ioIosCloudUpload_ :: ReactIcon
+foreign import _ioIosCloudUpload :: ReactIcon
 
 ioIosCloudUpload :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosCloudUpload = element (unsafeCoerce ioIosCloudUpload_)
+ioIosCloudUpload = element (unsafeCoerce _ioIosCloudUpload)
 
-foreign import ioIosCloudy_ :: ReactIcon
+foreign import _ioIosCloudy :: ReactIcon
 
 ioIosCloudy :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosCloudy = element (unsafeCoerce ioIosCloudy_)
+ioIosCloudy = element (unsafeCoerce _ioIosCloudy)
 
-foreign import ioIosCloudyNight_ :: ReactIcon
+foreign import _ioIosCloudyNight :: ReactIcon
 
 ioIosCloudyNight :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosCloudyNight = element (unsafeCoerce ioIosCloudyNight_)
+ioIosCloudyNight = element (unsafeCoerce _ioIosCloudyNight)
 
-foreign import ioIosCode_ :: ReactIcon
+foreign import _ioIosCode :: ReactIcon
 
 ioIosCode :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosCode = element (unsafeCoerce ioIosCode_)
+ioIosCode = element (unsafeCoerce _ioIosCode)
 
-foreign import ioIosCodeDownload_ :: ReactIcon
+foreign import _ioIosCodeDownload :: ReactIcon
 
 ioIosCodeDownload :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosCodeDownload = element (unsafeCoerce ioIosCodeDownload_)
+ioIosCodeDownload = element (unsafeCoerce _ioIosCodeDownload)
 
-foreign import ioIosCodeWorking_ :: ReactIcon
+foreign import _ioIosCodeWorking :: ReactIcon
 
 ioIosCodeWorking :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosCodeWorking = element (unsafeCoerce ioIosCodeWorking_)
+ioIosCodeWorking = element (unsafeCoerce _ioIosCodeWorking)
 
-foreign import ioIosCog_ :: ReactIcon
+foreign import _ioIosCog :: ReactIcon
 
 ioIosCog :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosCog = element (unsafeCoerce ioIosCog_)
+ioIosCog = element (unsafeCoerce _ioIosCog)
 
-foreign import ioIosColorFill_ :: ReactIcon
+foreign import _ioIosColorFill :: ReactIcon
 
 ioIosColorFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosColorFill = element (unsafeCoerce ioIosColorFill_)
+ioIosColorFill = element (unsafeCoerce _ioIosColorFill)
 
-foreign import ioIosColorFilter_ :: ReactIcon
+foreign import _ioIosColorFilter :: ReactIcon
 
 ioIosColorFilter :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosColorFilter = element (unsafeCoerce ioIosColorFilter_)
+ioIosColorFilter = element (unsafeCoerce _ioIosColorFilter)
 
-foreign import ioIosColorPalette_ :: ReactIcon
+foreign import _ioIosColorPalette :: ReactIcon
 
 ioIosColorPalette :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosColorPalette = element (unsafeCoerce ioIosColorPalette_)
+ioIosColorPalette = element (unsafeCoerce _ioIosColorPalette)
 
-foreign import ioIosColorWand_ :: ReactIcon
+foreign import _ioIosColorWand :: ReactIcon
 
 ioIosColorWand :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosColorWand = element (unsafeCoerce ioIosColorWand_)
+ioIosColorWand = element (unsafeCoerce _ioIosColorWand)
 
-foreign import ioIosCompass_ :: ReactIcon
+foreign import _ioIosCompass :: ReactIcon
 
 ioIosCompass :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosCompass = element (unsafeCoerce ioIosCompass_)
+ioIosCompass = element (unsafeCoerce _ioIosCompass)
 
-foreign import ioIosConstruct_ :: ReactIcon
+foreign import _ioIosConstruct :: ReactIcon
 
 ioIosConstruct :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosConstruct = element (unsafeCoerce ioIosConstruct_)
+ioIosConstruct = element (unsafeCoerce _ioIosConstruct)
 
-foreign import ioIosContact_ :: ReactIcon
+foreign import _ioIosContact :: ReactIcon
 
 ioIosContact :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosContact = element (unsafeCoerce ioIosContact_)
+ioIosContact = element (unsafeCoerce _ioIosContact)
 
-foreign import ioIosContacts_ :: ReactIcon
+foreign import _ioIosContacts :: ReactIcon
 
 ioIosContacts :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosContacts = element (unsafeCoerce ioIosContacts_)
+ioIosContacts = element (unsafeCoerce _ioIosContacts)
 
-foreign import ioIosContract_ :: ReactIcon
+foreign import _ioIosContract :: ReactIcon
 
 ioIosContract :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosContract = element (unsafeCoerce ioIosContract_)
+ioIosContract = element (unsafeCoerce _ioIosContract)
 
-foreign import ioIosContrast_ :: ReactIcon
+foreign import _ioIosContrast :: ReactIcon
 
 ioIosContrast :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosContrast = element (unsafeCoerce ioIosContrast_)
+ioIosContrast = element (unsafeCoerce _ioIosContrast)
 
-foreign import ioIosCopy_ :: ReactIcon
+foreign import _ioIosCopy :: ReactIcon
 
 ioIosCopy :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosCopy = element (unsafeCoerce ioIosCopy_)
+ioIosCopy = element (unsafeCoerce _ioIosCopy)
 
-foreign import ioIosCreate_ :: ReactIcon
+foreign import _ioIosCreate :: ReactIcon
 
 ioIosCreate :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosCreate = element (unsafeCoerce ioIosCreate_)
+ioIosCreate = element (unsafeCoerce _ioIosCreate)
 
-foreign import ioIosCrop_ :: ReactIcon
+foreign import _ioIosCrop :: ReactIcon
 
 ioIosCrop :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosCrop = element (unsafeCoerce ioIosCrop_)
+ioIosCrop = element (unsafeCoerce _ioIosCrop)
 
-foreign import ioIosCube_ :: ReactIcon
+foreign import _ioIosCube :: ReactIcon
 
 ioIosCube :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosCube = element (unsafeCoerce ioIosCube_)
+ioIosCube = element (unsafeCoerce _ioIosCube)
 
-foreign import ioIosCut_ :: ReactIcon
+foreign import _ioIosCut :: ReactIcon
 
 ioIosCut :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosCut = element (unsafeCoerce ioIosCut_)
+ioIosCut = element (unsafeCoerce _ioIosCut)
 
-foreign import ioIosDesktop_ :: ReactIcon
+foreign import _ioIosDesktop :: ReactIcon
 
 ioIosDesktop :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosDesktop = element (unsafeCoerce ioIosDesktop_)
+ioIosDesktop = element (unsafeCoerce _ioIosDesktop)
 
-foreign import ioIosDisc_ :: ReactIcon
+foreign import _ioIosDisc :: ReactIcon
 
 ioIosDisc :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosDisc = element (unsafeCoerce ioIosDisc_)
+ioIosDisc = element (unsafeCoerce _ioIosDisc)
 
-foreign import ioIosDocument_ :: ReactIcon
+foreign import _ioIosDocument :: ReactIcon
 
 ioIosDocument :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosDocument = element (unsafeCoerce ioIosDocument_)
+ioIosDocument = element (unsafeCoerce _ioIosDocument)
 
-foreign import ioIosDoneAll_ :: ReactIcon
+foreign import _ioIosDoneAll :: ReactIcon
 
 ioIosDoneAll :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosDoneAll = element (unsafeCoerce ioIosDoneAll_)
+ioIosDoneAll = element (unsafeCoerce _ioIosDoneAll)
 
-foreign import ioIosDownload_ :: ReactIcon
+foreign import _ioIosDownload :: ReactIcon
 
 ioIosDownload :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosDownload = element (unsafeCoerce ioIosDownload_)
+ioIosDownload = element (unsafeCoerce _ioIosDownload)
 
-foreign import ioIosEasel_ :: ReactIcon
+foreign import _ioIosEasel :: ReactIcon
 
 ioIosEasel :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosEasel = element (unsafeCoerce ioIosEasel_)
+ioIosEasel = element (unsafeCoerce _ioIosEasel)
 
-foreign import ioIosEgg_ :: ReactIcon
+foreign import _ioIosEgg :: ReactIcon
 
 ioIosEgg :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosEgg = element (unsafeCoerce ioIosEgg_)
+ioIosEgg = element (unsafeCoerce _ioIosEgg)
 
-foreign import ioIosExit_ :: ReactIcon
+foreign import _ioIosExit :: ReactIcon
 
 ioIosExit :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosExit = element (unsafeCoerce ioIosExit_)
+ioIosExit = element (unsafeCoerce _ioIosExit)
 
-foreign import ioIosExpand_ :: ReactIcon
+foreign import _ioIosExpand :: ReactIcon
 
 ioIosExpand :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosExpand = element (unsafeCoerce ioIosExpand_)
+ioIosExpand = element (unsafeCoerce _ioIosExpand)
 
-foreign import ioIosEye_ :: ReactIcon
+foreign import _ioIosEye :: ReactIcon
 
 ioIosEye :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosEye = element (unsafeCoerce ioIosEye_)
+ioIosEye = element (unsafeCoerce _ioIosEye)
 
-foreign import ioIosEyeOff_ :: ReactIcon
+foreign import _ioIosEyeOff :: ReactIcon
 
 ioIosEyeOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosEyeOff = element (unsafeCoerce ioIosEyeOff_)
+ioIosEyeOff = element (unsafeCoerce _ioIosEyeOff)
 
-foreign import ioIosFastforward_ :: ReactIcon
+foreign import _ioIosFastforward :: ReactIcon
 
 ioIosFastforward :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosFastforward = element (unsafeCoerce ioIosFastforward_)
+ioIosFastforward = element (unsafeCoerce _ioIosFastforward)
 
-foreign import ioIosFemale_ :: ReactIcon
+foreign import _ioIosFemale :: ReactIcon
 
 ioIosFemale :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosFemale = element (unsafeCoerce ioIosFemale_)
+ioIosFemale = element (unsafeCoerce _ioIosFemale)
 
-foreign import ioIosFiling_ :: ReactIcon
+foreign import _ioIosFiling :: ReactIcon
 
 ioIosFiling :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosFiling = element (unsafeCoerce ioIosFiling_)
+ioIosFiling = element (unsafeCoerce _ioIosFiling)
 
-foreign import ioIosFilm_ :: ReactIcon
+foreign import _ioIosFilm :: ReactIcon
 
 ioIosFilm :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosFilm = element (unsafeCoerce ioIosFilm_)
+ioIosFilm = element (unsafeCoerce _ioIosFilm)
 
-foreign import ioIosFingerPrint_ :: ReactIcon
+foreign import _ioIosFingerPrint :: ReactIcon
 
 ioIosFingerPrint :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosFingerPrint = element (unsafeCoerce ioIosFingerPrint_)
+ioIosFingerPrint = element (unsafeCoerce _ioIosFingerPrint)
 
-foreign import ioIosFitness_ :: ReactIcon
+foreign import _ioIosFitness :: ReactIcon
 
 ioIosFitness :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosFitness = element (unsafeCoerce ioIosFitness_)
+ioIosFitness = element (unsafeCoerce _ioIosFitness)
 
-foreign import ioIosFlag_ :: ReactIcon
+foreign import _ioIosFlag :: ReactIcon
 
 ioIosFlag :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosFlag = element (unsafeCoerce ioIosFlag_)
+ioIosFlag = element (unsafeCoerce _ioIosFlag)
 
-foreign import ioIosFlame_ :: ReactIcon
+foreign import _ioIosFlame :: ReactIcon
 
 ioIosFlame :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosFlame = element (unsafeCoerce ioIosFlame_)
+ioIosFlame = element (unsafeCoerce _ioIosFlame)
 
-foreign import ioIosFlash_ :: ReactIcon
+foreign import _ioIosFlash :: ReactIcon
 
 ioIosFlash :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosFlash = element (unsafeCoerce ioIosFlash_)
+ioIosFlash = element (unsafeCoerce _ioIosFlash)
 
-foreign import ioIosFlashlight_ :: ReactIcon
+foreign import _ioIosFlashlight :: ReactIcon
 
 ioIosFlashlight :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosFlashlight = element (unsafeCoerce ioIosFlashlight_)
+ioIosFlashlight = element (unsafeCoerce _ioIosFlashlight)
 
-foreign import ioIosFlashOff_ :: ReactIcon
+foreign import _ioIosFlashOff :: ReactIcon
 
 ioIosFlashOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosFlashOff = element (unsafeCoerce ioIosFlashOff_)
+ioIosFlashOff = element (unsafeCoerce _ioIosFlashOff)
 
-foreign import ioIosFlask_ :: ReactIcon
+foreign import _ioIosFlask :: ReactIcon
 
 ioIosFlask :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosFlask = element (unsafeCoerce ioIosFlask_)
+ioIosFlask = element (unsafeCoerce _ioIosFlask)
 
-foreign import ioIosFlower_ :: ReactIcon
+foreign import _ioIosFlower :: ReactIcon
 
 ioIosFlower :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosFlower = element (unsafeCoerce ioIosFlower_)
+ioIosFlower = element (unsafeCoerce _ioIosFlower)
 
-foreign import ioIosFolder_ :: ReactIcon
+foreign import _ioIosFolder :: ReactIcon
 
 ioIosFolder :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosFolder = element (unsafeCoerce ioIosFolder_)
+ioIosFolder = element (unsafeCoerce _ioIosFolder)
 
-foreign import ioIosFolderOpen_ :: ReactIcon
+foreign import _ioIosFolderOpen :: ReactIcon
 
 ioIosFolderOpen :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosFolderOpen = element (unsafeCoerce ioIosFolderOpen_)
+ioIosFolderOpen = element (unsafeCoerce _ioIosFolderOpen)
 
-foreign import ioIosFootball_ :: ReactIcon
+foreign import _ioIosFootball :: ReactIcon
 
 ioIosFootball :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosFootball = element (unsafeCoerce ioIosFootball_)
+ioIosFootball = element (unsafeCoerce _ioIosFootball)
 
-foreign import ioIosFunnel_ :: ReactIcon
+foreign import _ioIosFunnel :: ReactIcon
 
 ioIosFunnel :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosFunnel = element (unsafeCoerce ioIosFunnel_)
+ioIosFunnel = element (unsafeCoerce _ioIosFunnel)
 
-foreign import ioIosGift_ :: ReactIcon
+foreign import _ioIosGift :: ReactIcon
 
 ioIosGift :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosGift = element (unsafeCoerce ioIosGift_)
+ioIosGift = element (unsafeCoerce _ioIosGift)
 
-foreign import ioIosGitBranch_ :: ReactIcon
+foreign import _ioIosGitBranch :: ReactIcon
 
 ioIosGitBranch :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosGitBranch = element (unsafeCoerce ioIosGitBranch_)
+ioIosGitBranch = element (unsafeCoerce _ioIosGitBranch)
 
-foreign import ioIosGitCommit_ :: ReactIcon
+foreign import _ioIosGitCommit :: ReactIcon
 
 ioIosGitCommit :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosGitCommit = element (unsafeCoerce ioIosGitCommit_)
+ioIosGitCommit = element (unsafeCoerce _ioIosGitCommit)
 
-foreign import ioIosGitCompare_ :: ReactIcon
+foreign import _ioIosGitCompare :: ReactIcon
 
 ioIosGitCompare :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosGitCompare = element (unsafeCoerce ioIosGitCompare_)
+ioIosGitCompare = element (unsafeCoerce _ioIosGitCompare)
 
-foreign import ioIosGitMerge_ :: ReactIcon
+foreign import _ioIosGitMerge :: ReactIcon
 
 ioIosGitMerge :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosGitMerge = element (unsafeCoerce ioIosGitMerge_)
+ioIosGitMerge = element (unsafeCoerce _ioIosGitMerge)
 
-foreign import ioIosGitNetwork_ :: ReactIcon
+foreign import _ioIosGitNetwork :: ReactIcon
 
 ioIosGitNetwork :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosGitNetwork = element (unsafeCoerce ioIosGitNetwork_)
+ioIosGitNetwork = element (unsafeCoerce _ioIosGitNetwork)
 
-foreign import ioIosGitPullRequest_ :: ReactIcon
+foreign import _ioIosGitPullRequest :: ReactIcon
 
 ioIosGitPullRequest :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosGitPullRequest = element (unsafeCoerce ioIosGitPullRequest_)
+ioIosGitPullRequest = element (unsafeCoerce _ioIosGitPullRequest)
 
-foreign import ioIosGlasses_ :: ReactIcon
+foreign import _ioIosGlasses :: ReactIcon
 
 ioIosGlasses :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosGlasses = element (unsafeCoerce ioIosGlasses_)
+ioIosGlasses = element (unsafeCoerce _ioIosGlasses)
 
-foreign import ioIosGlobe_ :: ReactIcon
+foreign import _ioIosGlobe :: ReactIcon
 
 ioIosGlobe :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosGlobe = element (unsafeCoerce ioIosGlobe_)
+ioIosGlobe = element (unsafeCoerce _ioIosGlobe)
 
-foreign import ioIosGrid_ :: ReactIcon
+foreign import _ioIosGrid :: ReactIcon
 
 ioIosGrid :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosGrid = element (unsafeCoerce ioIosGrid_)
+ioIosGrid = element (unsafeCoerce _ioIosGrid)
 
-foreign import ioIosHammer_ :: ReactIcon
+foreign import _ioIosHammer :: ReactIcon
 
 ioIosHammer :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosHammer = element (unsafeCoerce ioIosHammer_)
+ioIosHammer = element (unsafeCoerce _ioIosHammer)
 
-foreign import ioIosHand_ :: ReactIcon
+foreign import _ioIosHand :: ReactIcon
 
 ioIosHand :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosHand = element (unsafeCoerce ioIosHand_)
+ioIosHand = element (unsafeCoerce _ioIosHand)
 
-foreign import ioIosHappy_ :: ReactIcon
+foreign import _ioIosHappy :: ReactIcon
 
 ioIosHappy :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosHappy = element (unsafeCoerce ioIosHappy_)
+ioIosHappy = element (unsafeCoerce _ioIosHappy)
 
-foreign import ioIosHeadset_ :: ReactIcon
+foreign import _ioIosHeadset :: ReactIcon
 
 ioIosHeadset :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosHeadset = element (unsafeCoerce ioIosHeadset_)
+ioIosHeadset = element (unsafeCoerce _ioIosHeadset)
 
-foreign import ioIosHeart_ :: ReactIcon
+foreign import _ioIosHeart :: ReactIcon
 
 ioIosHeart :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosHeart = element (unsafeCoerce ioIosHeart_)
+ioIosHeart = element (unsafeCoerce _ioIosHeart)
 
-foreign import ioIosHeartDislike_ :: ReactIcon
+foreign import _ioIosHeartDislike :: ReactIcon
 
 ioIosHeartDislike :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosHeartDislike = element (unsafeCoerce ioIosHeartDislike_)
+ioIosHeartDislike = element (unsafeCoerce _ioIosHeartDislike)
 
-foreign import ioIosHeartEmpty_ :: ReactIcon
+foreign import _ioIosHeartEmpty :: ReactIcon
 
 ioIosHeartEmpty :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosHeartEmpty = element (unsafeCoerce ioIosHeartEmpty_)
+ioIosHeartEmpty = element (unsafeCoerce _ioIosHeartEmpty)
 
-foreign import ioIosHeartHalf_ :: ReactIcon
+foreign import _ioIosHeartHalf :: ReactIcon
 
 ioIosHeartHalf :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosHeartHalf = element (unsafeCoerce ioIosHeartHalf_)
+ioIosHeartHalf = element (unsafeCoerce _ioIosHeartHalf)
 
-foreign import ioIosHelp_ :: ReactIcon
+foreign import _ioIosHelp :: ReactIcon
 
 ioIosHelp :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosHelp = element (unsafeCoerce ioIosHelp_)
+ioIosHelp = element (unsafeCoerce _ioIosHelp)
 
-foreign import ioIosHelpBuoy_ :: ReactIcon
+foreign import _ioIosHelpBuoy :: ReactIcon
 
 ioIosHelpBuoy :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosHelpBuoy = element (unsafeCoerce ioIosHelpBuoy_)
+ioIosHelpBuoy = element (unsafeCoerce _ioIosHelpBuoy)
 
-foreign import ioIosHelpCircle_ :: ReactIcon
+foreign import _ioIosHelpCircle :: ReactIcon
 
 ioIosHelpCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosHelpCircle = element (unsafeCoerce ioIosHelpCircle_)
+ioIosHelpCircle = element (unsafeCoerce _ioIosHelpCircle)
 
-foreign import ioIosHelpCircleOutline_ :: ReactIcon
+foreign import _ioIosHelpCircleOutline :: ReactIcon
 
 ioIosHelpCircleOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosHelpCircleOutline = element (unsafeCoerce ioIosHelpCircleOutline_)
+ioIosHelpCircleOutline = element (unsafeCoerce _ioIosHelpCircleOutline)
 
-foreign import ioIosHome_ :: ReactIcon
+foreign import _ioIosHome :: ReactIcon
 
 ioIosHome :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosHome = element (unsafeCoerce ioIosHome_)
+ioIosHome = element (unsafeCoerce _ioIosHome)
 
-foreign import ioIosHourglass_ :: ReactIcon
+foreign import _ioIosHourglass :: ReactIcon
 
 ioIosHourglass :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosHourglass = element (unsafeCoerce ioIosHourglass_)
+ioIosHourglass = element (unsafeCoerce _ioIosHourglass)
 
-foreign import ioIosIceCream_ :: ReactIcon
+foreign import _ioIosIceCream :: ReactIcon
 
 ioIosIceCream :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosIceCream = element (unsafeCoerce ioIosIceCream_)
+ioIosIceCream = element (unsafeCoerce _ioIosIceCream)
 
-foreign import ioIosImage_ :: ReactIcon
+foreign import _ioIosImage :: ReactIcon
 
 ioIosImage :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosImage = element (unsafeCoerce ioIosImage_)
+ioIosImage = element (unsafeCoerce _ioIosImage)
 
-foreign import ioIosImages_ :: ReactIcon
+foreign import _ioIosImages :: ReactIcon
 
 ioIosImages :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosImages = element (unsafeCoerce ioIosImages_)
+ioIosImages = element (unsafeCoerce _ioIosImages)
 
-foreign import ioIosInfinite_ :: ReactIcon
+foreign import _ioIosInfinite :: ReactIcon
 
 ioIosInfinite :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosInfinite = element (unsafeCoerce ioIosInfinite_)
+ioIosInfinite = element (unsafeCoerce _ioIosInfinite)
 
-foreign import ioIosInformation_ :: ReactIcon
+foreign import _ioIosInformation :: ReactIcon
 
 ioIosInformation :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosInformation = element (unsafeCoerce ioIosInformation_)
+ioIosInformation = element (unsafeCoerce _ioIosInformation)
 
-foreign import ioIosInformationCircle_ :: ReactIcon
+foreign import _ioIosInformationCircle :: ReactIcon
 
 ioIosInformationCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosInformationCircle = element (unsafeCoerce ioIosInformationCircle_)
+ioIosInformationCircle = element (unsafeCoerce _ioIosInformationCircle)
 
-foreign import ioIosInformationCircleOutline_ :: ReactIcon
+foreign import _ioIosInformationCircleOutline :: ReactIcon
 
 ioIosInformationCircleOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosInformationCircleOutline = element (unsafeCoerce ioIosInformationCircleOutline_)
+ioIosInformationCircleOutline = element (unsafeCoerce _ioIosInformationCircleOutline)
 
-foreign import ioIosJet_ :: ReactIcon
+foreign import _ioIosJet :: ReactIcon
 
 ioIosJet :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosJet = element (unsafeCoerce ioIosJet_)
+ioIosJet = element (unsafeCoerce _ioIosJet)
 
-foreign import ioIosJournal_ :: ReactIcon
+foreign import _ioIosJournal :: ReactIcon
 
 ioIosJournal :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosJournal = element (unsafeCoerce ioIosJournal_)
+ioIosJournal = element (unsafeCoerce _ioIosJournal)
 
-foreign import ioIosKey_ :: ReactIcon
+foreign import _ioIosKey :: ReactIcon
 
 ioIosKey :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosKey = element (unsafeCoerce ioIosKey_)
+ioIosKey = element (unsafeCoerce _ioIosKey)
 
-foreign import ioIosKeypad_ :: ReactIcon
+foreign import _ioIosKeypad :: ReactIcon
 
 ioIosKeypad :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosKeypad = element (unsafeCoerce ioIosKeypad_)
+ioIosKeypad = element (unsafeCoerce _ioIosKeypad)
 
-foreign import ioIosLaptop_ :: ReactIcon
+foreign import _ioIosLaptop :: ReactIcon
 
 ioIosLaptop :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosLaptop = element (unsafeCoerce ioIosLaptop_)
+ioIosLaptop = element (unsafeCoerce _ioIosLaptop)
 
-foreign import ioIosLeaf_ :: ReactIcon
+foreign import _ioIosLeaf :: ReactIcon
 
 ioIosLeaf :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosLeaf = element (unsafeCoerce ioIosLeaf_)
+ioIosLeaf = element (unsafeCoerce _ioIosLeaf)
 
-foreign import ioIosLink_ :: ReactIcon
+foreign import _ioIosLink :: ReactIcon
 
 ioIosLink :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosLink = element (unsafeCoerce ioIosLink_)
+ioIosLink = element (unsafeCoerce _ioIosLink)
 
-foreign import ioIosList_ :: ReactIcon
+foreign import _ioIosList :: ReactIcon
 
 ioIosList :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosList = element (unsafeCoerce ioIosList_)
+ioIosList = element (unsafeCoerce _ioIosList)
 
-foreign import ioIosListBox_ :: ReactIcon
+foreign import _ioIosListBox :: ReactIcon
 
 ioIosListBox :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosListBox = element (unsafeCoerce ioIosListBox_)
+ioIosListBox = element (unsafeCoerce _ioIosListBox)
 
-foreign import ioIosLocate_ :: ReactIcon
+foreign import _ioIosLocate :: ReactIcon
 
 ioIosLocate :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosLocate = element (unsafeCoerce ioIosLocate_)
+ioIosLocate = element (unsafeCoerce _ioIosLocate)
 
-foreign import ioIosLock_ :: ReactIcon
+foreign import _ioIosLock :: ReactIcon
 
 ioIosLock :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosLock = element (unsafeCoerce ioIosLock_)
+ioIosLock = element (unsafeCoerce _ioIosLock)
 
-foreign import ioIosLogIn_ :: ReactIcon
+foreign import _ioIosLogIn :: ReactIcon
 
 ioIosLogIn :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosLogIn = element (unsafeCoerce ioIosLogIn_)
+ioIosLogIn = element (unsafeCoerce _ioIosLogIn)
 
-foreign import ioIosLogOut_ :: ReactIcon
+foreign import _ioIosLogOut :: ReactIcon
 
 ioIosLogOut :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosLogOut = element (unsafeCoerce ioIosLogOut_)
+ioIosLogOut = element (unsafeCoerce _ioIosLogOut)
 
-foreign import ioIosMagnet_ :: ReactIcon
+foreign import _ioIosMagnet :: ReactIcon
 
 ioIosMagnet :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosMagnet = element (unsafeCoerce ioIosMagnet_)
+ioIosMagnet = element (unsafeCoerce _ioIosMagnet)
 
-foreign import ioIosMail_ :: ReactIcon
+foreign import _ioIosMail :: ReactIcon
 
 ioIosMail :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosMail = element (unsafeCoerce ioIosMail_)
+ioIosMail = element (unsafeCoerce _ioIosMail)
 
-foreign import ioIosMailOpen_ :: ReactIcon
+foreign import _ioIosMailOpen :: ReactIcon
 
 ioIosMailOpen :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosMailOpen = element (unsafeCoerce ioIosMailOpen_)
+ioIosMailOpen = element (unsafeCoerce _ioIosMailOpen)
 
-foreign import ioIosMailUnread_ :: ReactIcon
+foreign import _ioIosMailUnread :: ReactIcon
 
 ioIosMailUnread :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosMailUnread = element (unsafeCoerce ioIosMailUnread_)
+ioIosMailUnread = element (unsafeCoerce _ioIosMailUnread)
 
-foreign import ioIosMale_ :: ReactIcon
+foreign import _ioIosMale :: ReactIcon
 
 ioIosMale :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosMale = element (unsafeCoerce ioIosMale_)
+ioIosMale = element (unsafeCoerce _ioIosMale)
 
-foreign import ioIosMan_ :: ReactIcon
+foreign import _ioIosMan :: ReactIcon
 
 ioIosMan :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosMan = element (unsafeCoerce ioIosMan_)
+ioIosMan = element (unsafeCoerce _ioIosMan)
 
-foreign import ioIosMap_ :: ReactIcon
+foreign import _ioIosMap :: ReactIcon
 
 ioIosMap :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosMap = element (unsafeCoerce ioIosMap_)
+ioIosMap = element (unsafeCoerce _ioIosMap)
 
-foreign import ioIosMedal_ :: ReactIcon
+foreign import _ioIosMedal :: ReactIcon
 
 ioIosMedal :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosMedal = element (unsafeCoerce ioIosMedal_)
+ioIosMedal = element (unsafeCoerce _ioIosMedal)
 
-foreign import ioIosMedical_ :: ReactIcon
+foreign import _ioIosMedical :: ReactIcon
 
 ioIosMedical :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosMedical = element (unsafeCoerce ioIosMedical_)
+ioIosMedical = element (unsafeCoerce _ioIosMedical)
 
-foreign import ioIosMedkit_ :: ReactIcon
+foreign import _ioIosMedkit :: ReactIcon
 
 ioIosMedkit :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosMedkit = element (unsafeCoerce ioIosMedkit_)
+ioIosMedkit = element (unsafeCoerce _ioIosMedkit)
 
-foreign import ioIosMegaphone_ :: ReactIcon
+foreign import _ioIosMegaphone :: ReactIcon
 
 ioIosMegaphone :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosMegaphone = element (unsafeCoerce ioIosMegaphone_)
+ioIosMegaphone = element (unsafeCoerce _ioIosMegaphone)
 
-foreign import ioIosMenu_ :: ReactIcon
+foreign import _ioIosMenu :: ReactIcon
 
 ioIosMenu :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosMenu = element (unsafeCoerce ioIosMenu_)
+ioIosMenu = element (unsafeCoerce _ioIosMenu)
 
-foreign import ioIosMic_ :: ReactIcon
+foreign import _ioIosMic :: ReactIcon
 
 ioIosMic :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosMic = element (unsafeCoerce ioIosMic_)
+ioIosMic = element (unsafeCoerce _ioIosMic)
 
-foreign import ioIosMicOff_ :: ReactIcon
+foreign import _ioIosMicOff :: ReactIcon
 
 ioIosMicOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosMicOff = element (unsafeCoerce ioIosMicOff_)
+ioIosMicOff = element (unsafeCoerce _ioIosMicOff)
 
-foreign import ioIosMicrophone_ :: ReactIcon
+foreign import _ioIosMicrophone :: ReactIcon
 
 ioIosMicrophone :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosMicrophone = element (unsafeCoerce ioIosMicrophone_)
+ioIosMicrophone = element (unsafeCoerce _ioIosMicrophone)
 
-foreign import ioIosMoon_ :: ReactIcon
+foreign import _ioIosMoon :: ReactIcon
 
 ioIosMoon :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosMoon = element (unsafeCoerce ioIosMoon_)
+ioIosMoon = element (unsafeCoerce _ioIosMoon)
 
-foreign import ioIosMore_ :: ReactIcon
+foreign import _ioIosMore :: ReactIcon
 
 ioIosMore :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosMore = element (unsafeCoerce ioIosMore_)
+ioIosMore = element (unsafeCoerce _ioIosMore)
 
-foreign import ioIosMove_ :: ReactIcon
+foreign import _ioIosMove :: ReactIcon
 
 ioIosMove :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosMove = element (unsafeCoerce ioIosMove_)
+ioIosMove = element (unsafeCoerce _ioIosMove)
 
-foreign import ioIosMusicalNote_ :: ReactIcon
+foreign import _ioIosMusicalNote :: ReactIcon
 
 ioIosMusicalNote :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosMusicalNote = element (unsafeCoerce ioIosMusicalNote_)
+ioIosMusicalNote = element (unsafeCoerce _ioIosMusicalNote)
 
-foreign import ioIosMusicalNotes_ :: ReactIcon
+foreign import _ioIosMusicalNotes :: ReactIcon
 
 ioIosMusicalNotes :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosMusicalNotes = element (unsafeCoerce ioIosMusicalNotes_)
+ioIosMusicalNotes = element (unsafeCoerce _ioIosMusicalNotes)
 
-foreign import ioIosNavigate_ :: ReactIcon
+foreign import _ioIosNavigate :: ReactIcon
 
 ioIosNavigate :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosNavigate = element (unsafeCoerce ioIosNavigate_)
+ioIosNavigate = element (unsafeCoerce _ioIosNavigate)
 
-foreign import ioIosNotifications_ :: ReactIcon
+foreign import _ioIosNotifications :: ReactIcon
 
 ioIosNotifications :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosNotifications = element (unsafeCoerce ioIosNotifications_)
+ioIosNotifications = element (unsafeCoerce _ioIosNotifications)
 
-foreign import ioIosNotificationsOff_ :: ReactIcon
+foreign import _ioIosNotificationsOff :: ReactIcon
 
 ioIosNotificationsOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosNotificationsOff = element (unsafeCoerce ioIosNotificationsOff_)
+ioIosNotificationsOff = element (unsafeCoerce _ioIosNotificationsOff)
 
-foreign import ioIosNotificationsOutline_ :: ReactIcon
+foreign import _ioIosNotificationsOutline :: ReactIcon
 
 ioIosNotificationsOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosNotificationsOutline = element (unsafeCoerce ioIosNotificationsOutline_)
+ioIosNotificationsOutline = element (unsafeCoerce _ioIosNotificationsOutline)
 
-foreign import ioIosNuclear_ :: ReactIcon
+foreign import _ioIosNuclear :: ReactIcon
 
 ioIosNuclear :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosNuclear = element (unsafeCoerce ioIosNuclear_)
+ioIosNuclear = element (unsafeCoerce _ioIosNuclear)
 
-foreign import ioIosNutrition_ :: ReactIcon
+foreign import _ioIosNutrition :: ReactIcon
 
 ioIosNutrition :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosNutrition = element (unsafeCoerce ioIosNutrition_)
+ioIosNutrition = element (unsafeCoerce _ioIosNutrition)
 
-foreign import ioIosOpen_ :: ReactIcon
+foreign import _ioIosOpen :: ReactIcon
 
 ioIosOpen :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosOpen = element (unsafeCoerce ioIosOpen_)
+ioIosOpen = element (unsafeCoerce _ioIosOpen)
 
-foreign import ioIosOptions_ :: ReactIcon
+foreign import _ioIosOptions :: ReactIcon
 
 ioIosOptions :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosOptions = element (unsafeCoerce ioIosOptions_)
+ioIosOptions = element (unsafeCoerce _ioIosOptions)
 
-foreign import ioIosOutlet_ :: ReactIcon
+foreign import _ioIosOutlet :: ReactIcon
 
 ioIosOutlet :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosOutlet = element (unsafeCoerce ioIosOutlet_)
+ioIosOutlet = element (unsafeCoerce _ioIosOutlet)
 
-foreign import ioIosPaper_ :: ReactIcon
+foreign import _ioIosPaper :: ReactIcon
 
 ioIosPaper :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosPaper = element (unsafeCoerce ioIosPaper_)
+ioIosPaper = element (unsafeCoerce _ioIosPaper)
 
-foreign import ioIosPaperPlane_ :: ReactIcon
+foreign import _ioIosPaperPlane :: ReactIcon
 
 ioIosPaperPlane :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosPaperPlane = element (unsafeCoerce ioIosPaperPlane_)
+ioIosPaperPlane = element (unsafeCoerce _ioIosPaperPlane)
 
-foreign import ioIosPartlySunny_ :: ReactIcon
+foreign import _ioIosPartlySunny :: ReactIcon
 
 ioIosPartlySunny :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosPartlySunny = element (unsafeCoerce ioIosPartlySunny_)
+ioIosPartlySunny = element (unsafeCoerce _ioIosPartlySunny)
 
-foreign import ioIosPause_ :: ReactIcon
+foreign import _ioIosPause :: ReactIcon
 
 ioIosPause :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosPause = element (unsafeCoerce ioIosPause_)
+ioIosPause = element (unsafeCoerce _ioIosPause)
 
-foreign import ioIosPaw_ :: ReactIcon
+foreign import _ioIosPaw :: ReactIcon
 
 ioIosPaw :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosPaw = element (unsafeCoerce ioIosPaw_)
+ioIosPaw = element (unsafeCoerce _ioIosPaw)
 
-foreign import ioIosPeople_ :: ReactIcon
+foreign import _ioIosPeople :: ReactIcon
 
 ioIosPeople :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosPeople = element (unsafeCoerce ioIosPeople_)
+ioIosPeople = element (unsafeCoerce _ioIosPeople)
 
-foreign import ioIosPerson_ :: ReactIcon
+foreign import _ioIosPerson :: ReactIcon
 
 ioIosPerson :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosPerson = element (unsafeCoerce ioIosPerson_)
+ioIosPerson = element (unsafeCoerce _ioIosPerson)
 
-foreign import ioIosPersonAdd_ :: ReactIcon
+foreign import _ioIosPersonAdd :: ReactIcon
 
 ioIosPersonAdd :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosPersonAdd = element (unsafeCoerce ioIosPersonAdd_)
+ioIosPersonAdd = element (unsafeCoerce _ioIosPersonAdd)
 
-foreign import ioIosPhoneLandscape_ :: ReactIcon
+foreign import _ioIosPhoneLandscape :: ReactIcon
 
 ioIosPhoneLandscape :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosPhoneLandscape = element (unsafeCoerce ioIosPhoneLandscape_)
+ioIosPhoneLandscape = element (unsafeCoerce _ioIosPhoneLandscape)
 
-foreign import ioIosPhonePortrait_ :: ReactIcon
+foreign import _ioIosPhonePortrait :: ReactIcon
 
 ioIosPhonePortrait :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosPhonePortrait = element (unsafeCoerce ioIosPhonePortrait_)
+ioIosPhonePortrait = element (unsafeCoerce _ioIosPhonePortrait)
 
-foreign import ioIosPhotos_ :: ReactIcon
+foreign import _ioIosPhotos :: ReactIcon
 
 ioIosPhotos :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosPhotos = element (unsafeCoerce ioIosPhotos_)
+ioIosPhotos = element (unsafeCoerce _ioIosPhotos)
 
-foreign import ioIosPie_ :: ReactIcon
+foreign import _ioIosPie :: ReactIcon
 
 ioIosPie :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosPie = element (unsafeCoerce ioIosPie_)
+ioIosPie = element (unsafeCoerce _ioIosPie)
 
-foreign import ioIosPin_ :: ReactIcon
+foreign import _ioIosPin :: ReactIcon
 
 ioIosPin :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosPin = element (unsafeCoerce ioIosPin_)
+ioIosPin = element (unsafeCoerce _ioIosPin)
 
-foreign import ioIosPint_ :: ReactIcon
+foreign import _ioIosPint :: ReactIcon
 
 ioIosPint :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosPint = element (unsafeCoerce ioIosPint_)
+ioIosPint = element (unsafeCoerce _ioIosPint)
 
-foreign import ioIosPizza_ :: ReactIcon
+foreign import _ioIosPizza :: ReactIcon
 
 ioIosPizza :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosPizza = element (unsafeCoerce ioIosPizza_)
+ioIosPizza = element (unsafeCoerce _ioIosPizza)
 
-foreign import ioIosPlanet_ :: ReactIcon
+foreign import _ioIosPlanet :: ReactIcon
 
 ioIosPlanet :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosPlanet = element (unsafeCoerce ioIosPlanet_)
+ioIosPlanet = element (unsafeCoerce _ioIosPlanet)
 
-foreign import ioIosPlay_ :: ReactIcon
+foreign import _ioIosPlay :: ReactIcon
 
 ioIosPlay :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosPlay = element (unsafeCoerce ioIosPlay_)
+ioIosPlay = element (unsafeCoerce _ioIosPlay)
 
-foreign import ioIosPlayCircle_ :: ReactIcon
+foreign import _ioIosPlayCircle :: ReactIcon
 
 ioIosPlayCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosPlayCircle = element (unsafeCoerce ioIosPlayCircle_)
+ioIosPlayCircle = element (unsafeCoerce _ioIosPlayCircle)
 
-foreign import ioIosPodium_ :: ReactIcon
+foreign import _ioIosPodium :: ReactIcon
 
 ioIosPodium :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosPodium = element (unsafeCoerce ioIosPodium_)
+ioIosPodium = element (unsafeCoerce _ioIosPodium)
 
-foreign import ioIosPower_ :: ReactIcon
+foreign import _ioIosPower :: ReactIcon
 
 ioIosPower :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosPower = element (unsafeCoerce ioIosPower_)
+ioIosPower = element (unsafeCoerce _ioIosPower)
 
-foreign import ioIosPricetag_ :: ReactIcon
+foreign import _ioIosPricetag :: ReactIcon
 
 ioIosPricetag :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosPricetag = element (unsafeCoerce ioIosPricetag_)
+ioIosPricetag = element (unsafeCoerce _ioIosPricetag)
 
-foreign import ioIosPricetags_ :: ReactIcon
+foreign import _ioIosPricetags :: ReactIcon
 
 ioIosPricetags :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosPricetags = element (unsafeCoerce ioIosPricetags_)
+ioIosPricetags = element (unsafeCoerce _ioIosPricetags)
 
-foreign import ioIosPrint_ :: ReactIcon
+foreign import _ioIosPrint :: ReactIcon
 
 ioIosPrint :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosPrint = element (unsafeCoerce ioIosPrint_)
+ioIosPrint = element (unsafeCoerce _ioIosPrint)
 
-foreign import ioIosPulse_ :: ReactIcon
+foreign import _ioIosPulse :: ReactIcon
 
 ioIosPulse :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosPulse = element (unsafeCoerce ioIosPulse_)
+ioIosPulse = element (unsafeCoerce _ioIosPulse)
 
-foreign import ioIosQrScanner_ :: ReactIcon
+foreign import _ioIosQrScanner :: ReactIcon
 
 ioIosQrScanner :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosQrScanner = element (unsafeCoerce ioIosQrScanner_)
+ioIosQrScanner = element (unsafeCoerce _ioIosQrScanner)
 
-foreign import ioIosQuote_ :: ReactIcon
+foreign import _ioIosQuote :: ReactIcon
 
 ioIosQuote :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosQuote = element (unsafeCoerce ioIosQuote_)
+ioIosQuote = element (unsafeCoerce _ioIosQuote)
 
-foreign import ioIosRadio_ :: ReactIcon
+foreign import _ioIosRadio :: ReactIcon
 
 ioIosRadio :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosRadio = element (unsafeCoerce ioIosRadio_)
+ioIosRadio = element (unsafeCoerce _ioIosRadio)
 
-foreign import ioIosRadioButtonOff_ :: ReactIcon
+foreign import _ioIosRadioButtonOff :: ReactIcon
 
 ioIosRadioButtonOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosRadioButtonOff = element (unsafeCoerce ioIosRadioButtonOff_)
+ioIosRadioButtonOff = element (unsafeCoerce _ioIosRadioButtonOff)
 
-foreign import ioIosRadioButtonOn_ :: ReactIcon
+foreign import _ioIosRadioButtonOn :: ReactIcon
 
 ioIosRadioButtonOn :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosRadioButtonOn = element (unsafeCoerce ioIosRadioButtonOn_)
+ioIosRadioButtonOn = element (unsafeCoerce _ioIosRadioButtonOn)
 
-foreign import ioIosRainy_ :: ReactIcon
+foreign import _ioIosRainy :: ReactIcon
 
 ioIosRainy :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosRainy = element (unsafeCoerce ioIosRainy_)
+ioIosRainy = element (unsafeCoerce _ioIosRainy)
 
-foreign import ioIosRecording_ :: ReactIcon
+foreign import _ioIosRecording :: ReactIcon
 
 ioIosRecording :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosRecording = element (unsafeCoerce ioIosRecording_)
+ioIosRecording = element (unsafeCoerce _ioIosRecording)
 
-foreign import ioIosRedo_ :: ReactIcon
+foreign import _ioIosRedo :: ReactIcon
 
 ioIosRedo :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosRedo = element (unsafeCoerce ioIosRedo_)
+ioIosRedo = element (unsafeCoerce _ioIosRedo)
 
-foreign import ioIosRefresh_ :: ReactIcon
+foreign import _ioIosRefresh :: ReactIcon
 
 ioIosRefresh :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosRefresh = element (unsafeCoerce ioIosRefresh_)
+ioIosRefresh = element (unsafeCoerce _ioIosRefresh)
 
-foreign import ioIosRefreshCircle_ :: ReactIcon
+foreign import _ioIosRefreshCircle :: ReactIcon
 
 ioIosRefreshCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosRefreshCircle = element (unsafeCoerce ioIosRefreshCircle_)
+ioIosRefreshCircle = element (unsafeCoerce _ioIosRefreshCircle)
 
-foreign import ioIosRemove_ :: ReactIcon
+foreign import _ioIosRemove :: ReactIcon
 
 ioIosRemove :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosRemove = element (unsafeCoerce ioIosRemove_)
+ioIosRemove = element (unsafeCoerce _ioIosRemove)
 
-foreign import ioIosRemoveCircle_ :: ReactIcon
+foreign import _ioIosRemoveCircle :: ReactIcon
 
 ioIosRemoveCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosRemoveCircle = element (unsafeCoerce ioIosRemoveCircle_)
+ioIosRemoveCircle = element (unsafeCoerce _ioIosRemoveCircle)
 
-foreign import ioIosRemoveCircleOutline_ :: ReactIcon
+foreign import _ioIosRemoveCircleOutline :: ReactIcon
 
 ioIosRemoveCircleOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosRemoveCircleOutline = element (unsafeCoerce ioIosRemoveCircleOutline_)
+ioIosRemoveCircleOutline = element (unsafeCoerce _ioIosRemoveCircleOutline)
 
-foreign import ioIosReorder_ :: ReactIcon
+foreign import _ioIosReorder :: ReactIcon
 
 ioIosReorder :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosReorder = element (unsafeCoerce ioIosReorder_)
+ioIosReorder = element (unsafeCoerce _ioIosReorder)
 
-foreign import ioIosRepeat_ :: ReactIcon
+foreign import _ioIosRepeat :: ReactIcon
 
 ioIosRepeat :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosRepeat = element (unsafeCoerce ioIosRepeat_)
+ioIosRepeat = element (unsafeCoerce _ioIosRepeat)
 
-foreign import ioIosResize_ :: ReactIcon
+foreign import _ioIosResize :: ReactIcon
 
 ioIosResize :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosResize = element (unsafeCoerce ioIosResize_)
+ioIosResize = element (unsafeCoerce _ioIosResize)
 
-foreign import ioIosRestaurant_ :: ReactIcon
+foreign import _ioIosRestaurant :: ReactIcon
 
 ioIosRestaurant :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosRestaurant = element (unsafeCoerce ioIosRestaurant_)
+ioIosRestaurant = element (unsafeCoerce _ioIosRestaurant)
 
-foreign import ioIosReturnLeft_ :: ReactIcon
+foreign import _ioIosReturnLeft :: ReactIcon
 
 ioIosReturnLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosReturnLeft = element (unsafeCoerce ioIosReturnLeft_)
+ioIosReturnLeft = element (unsafeCoerce _ioIosReturnLeft)
 
-foreign import ioIosReturnRight_ :: ReactIcon
+foreign import _ioIosReturnRight :: ReactIcon
 
 ioIosReturnRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosReturnRight = element (unsafeCoerce ioIosReturnRight_)
+ioIosReturnRight = element (unsafeCoerce _ioIosReturnRight)
 
-foreign import ioIosReverseCamera_ :: ReactIcon
+foreign import _ioIosReverseCamera :: ReactIcon
 
 ioIosReverseCamera :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosReverseCamera = element (unsafeCoerce ioIosReverseCamera_)
+ioIosReverseCamera = element (unsafeCoerce _ioIosReverseCamera)
 
-foreign import ioIosRewind_ :: ReactIcon
+foreign import _ioIosRewind :: ReactIcon
 
 ioIosRewind :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosRewind = element (unsafeCoerce ioIosRewind_)
+ioIosRewind = element (unsafeCoerce _ioIosRewind)
 
-foreign import ioIosRibbon_ :: ReactIcon
+foreign import _ioIosRibbon :: ReactIcon
 
 ioIosRibbon :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosRibbon = element (unsafeCoerce ioIosRibbon_)
+ioIosRibbon = element (unsafeCoerce _ioIosRibbon)
 
-foreign import ioIosRocket_ :: ReactIcon
+foreign import _ioIosRocket :: ReactIcon
 
 ioIosRocket :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosRocket = element (unsafeCoerce ioIosRocket_)
+ioIosRocket = element (unsafeCoerce _ioIosRocket)
 
-foreign import ioIosRose_ :: ReactIcon
+foreign import _ioIosRose :: ReactIcon
 
 ioIosRose :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosRose = element (unsafeCoerce ioIosRose_)
+ioIosRose = element (unsafeCoerce _ioIosRose)
 
-foreign import ioIosSad_ :: ReactIcon
+foreign import _ioIosSad :: ReactIcon
 
 ioIosSad :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosSad = element (unsafeCoerce ioIosSad_)
+ioIosSad = element (unsafeCoerce _ioIosSad)
 
-foreign import ioIosSave_ :: ReactIcon
+foreign import _ioIosSave :: ReactIcon
 
 ioIosSave :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosSave = element (unsafeCoerce ioIosSave_)
+ioIosSave = element (unsafeCoerce _ioIosSave)
 
-foreign import ioIosSchool_ :: ReactIcon
+foreign import _ioIosSchool :: ReactIcon
 
 ioIosSchool :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosSchool = element (unsafeCoerce ioIosSchool_)
+ioIosSchool = element (unsafeCoerce _ioIosSchool)
 
-foreign import ioIosSearch_ :: ReactIcon
+foreign import _ioIosSearch :: ReactIcon
 
 ioIosSearch :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosSearch = element (unsafeCoerce ioIosSearch_)
+ioIosSearch = element (unsafeCoerce _ioIosSearch)
 
-foreign import ioIosSend_ :: ReactIcon
+foreign import _ioIosSend :: ReactIcon
 
 ioIosSend :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosSend = element (unsafeCoerce ioIosSend_)
+ioIosSend = element (unsafeCoerce _ioIosSend)
 
-foreign import ioIosSettings_ :: ReactIcon
+foreign import _ioIosSettings :: ReactIcon
 
 ioIosSettings :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosSettings = element (unsafeCoerce ioIosSettings_)
+ioIosSettings = element (unsafeCoerce _ioIosSettings)
 
-foreign import ioIosShare_ :: ReactIcon
+foreign import _ioIosShare :: ReactIcon
 
 ioIosShare :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosShare = element (unsafeCoerce ioIosShare_)
+ioIosShare = element (unsafeCoerce _ioIosShare)
 
-foreign import ioIosShareAlt_ :: ReactIcon
+foreign import _ioIosShareAlt :: ReactIcon
 
 ioIosShareAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosShareAlt = element (unsafeCoerce ioIosShareAlt_)
+ioIosShareAlt = element (unsafeCoerce _ioIosShareAlt)
 
-foreign import ioIosShirt_ :: ReactIcon
+foreign import _ioIosShirt :: ReactIcon
 
 ioIosShirt :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosShirt = element (unsafeCoerce ioIosShirt_)
+ioIosShirt = element (unsafeCoerce _ioIosShirt)
 
-foreign import ioIosShuffle_ :: ReactIcon
+foreign import _ioIosShuffle :: ReactIcon
 
 ioIosShuffle :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosShuffle = element (unsafeCoerce ioIosShuffle_)
+ioIosShuffle = element (unsafeCoerce _ioIosShuffle)
 
-foreign import ioIosSkipBackward_ :: ReactIcon
+foreign import _ioIosSkipBackward :: ReactIcon
 
 ioIosSkipBackward :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosSkipBackward = element (unsafeCoerce ioIosSkipBackward_)
+ioIosSkipBackward = element (unsafeCoerce _ioIosSkipBackward)
 
-foreign import ioIosSkipForward_ :: ReactIcon
+foreign import _ioIosSkipForward :: ReactIcon
 
 ioIosSkipForward :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosSkipForward = element (unsafeCoerce ioIosSkipForward_)
+ioIosSkipForward = element (unsafeCoerce _ioIosSkipForward)
 
-foreign import ioIosSnow_ :: ReactIcon
+foreign import _ioIosSnow :: ReactIcon
 
 ioIosSnow :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosSnow = element (unsafeCoerce ioIosSnow_)
+ioIosSnow = element (unsafeCoerce _ioIosSnow)
 
-foreign import ioIosSpeedometer_ :: ReactIcon
+foreign import _ioIosSpeedometer :: ReactIcon
 
 ioIosSpeedometer :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosSpeedometer = element (unsafeCoerce ioIosSpeedometer_)
+ioIosSpeedometer = element (unsafeCoerce _ioIosSpeedometer)
 
-foreign import ioIosSquare_ :: ReactIcon
+foreign import _ioIosSquare :: ReactIcon
 
 ioIosSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosSquare = element (unsafeCoerce ioIosSquare_)
+ioIosSquare = element (unsafeCoerce _ioIosSquare)
 
-foreign import ioIosSquareOutline_ :: ReactIcon
+foreign import _ioIosSquareOutline :: ReactIcon
 
 ioIosSquareOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosSquareOutline = element (unsafeCoerce ioIosSquareOutline_)
+ioIosSquareOutline = element (unsafeCoerce _ioIosSquareOutline)
 
-foreign import ioIosStar_ :: ReactIcon
+foreign import _ioIosStar :: ReactIcon
 
 ioIosStar :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosStar = element (unsafeCoerce ioIosStar_)
+ioIosStar = element (unsafeCoerce _ioIosStar)
 
-foreign import ioIosStarHalf_ :: ReactIcon
+foreign import _ioIosStarHalf :: ReactIcon
 
 ioIosStarHalf :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosStarHalf = element (unsafeCoerce ioIosStarHalf_)
+ioIosStarHalf = element (unsafeCoerce _ioIosStarHalf)
 
-foreign import ioIosStarOutline_ :: ReactIcon
+foreign import _ioIosStarOutline :: ReactIcon
 
 ioIosStarOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosStarOutline = element (unsafeCoerce ioIosStarOutline_)
+ioIosStarOutline = element (unsafeCoerce _ioIosStarOutline)
 
-foreign import ioIosStats_ :: ReactIcon
+foreign import _ioIosStats :: ReactIcon
 
 ioIosStats :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosStats = element (unsafeCoerce ioIosStats_)
+ioIosStats = element (unsafeCoerce _ioIosStats)
 
-foreign import ioIosStopwatch_ :: ReactIcon
+foreign import _ioIosStopwatch :: ReactIcon
 
 ioIosStopwatch :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosStopwatch = element (unsafeCoerce ioIosStopwatch_)
+ioIosStopwatch = element (unsafeCoerce _ioIosStopwatch)
 
-foreign import ioIosSubway_ :: ReactIcon
+foreign import _ioIosSubway :: ReactIcon
 
 ioIosSubway :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosSubway = element (unsafeCoerce ioIosSubway_)
+ioIosSubway = element (unsafeCoerce _ioIosSubway)
 
-foreign import ioIosSunny_ :: ReactIcon
+foreign import _ioIosSunny :: ReactIcon
 
 ioIosSunny :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosSunny = element (unsafeCoerce ioIosSunny_)
+ioIosSunny = element (unsafeCoerce _ioIosSunny)
 
-foreign import ioIosSwap_ :: ReactIcon
+foreign import _ioIosSwap :: ReactIcon
 
 ioIosSwap :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosSwap = element (unsafeCoerce ioIosSwap_)
+ioIosSwap = element (unsafeCoerce _ioIosSwap)
 
-foreign import ioIosSwitch_ :: ReactIcon
+foreign import _ioIosSwitch :: ReactIcon
 
 ioIosSwitch :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosSwitch = element (unsafeCoerce ioIosSwitch_)
+ioIosSwitch = element (unsafeCoerce _ioIosSwitch)
 
-foreign import ioIosSync_ :: ReactIcon
+foreign import _ioIosSync :: ReactIcon
 
 ioIosSync :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosSync = element (unsafeCoerce ioIosSync_)
+ioIosSync = element (unsafeCoerce _ioIosSync)
 
-foreign import ioIosTabletLandscape_ :: ReactIcon
+foreign import _ioIosTabletLandscape :: ReactIcon
 
 ioIosTabletLandscape :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosTabletLandscape = element (unsafeCoerce ioIosTabletLandscape_)
+ioIosTabletLandscape = element (unsafeCoerce _ioIosTabletLandscape)
 
-foreign import ioIosTabletPortrait_ :: ReactIcon
+foreign import _ioIosTabletPortrait :: ReactIcon
 
 ioIosTabletPortrait :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosTabletPortrait = element (unsafeCoerce ioIosTabletPortrait_)
+ioIosTabletPortrait = element (unsafeCoerce _ioIosTabletPortrait)
 
-foreign import ioIosTennisball_ :: ReactIcon
+foreign import _ioIosTennisball :: ReactIcon
 
 ioIosTennisball :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosTennisball = element (unsafeCoerce ioIosTennisball_)
+ioIosTennisball = element (unsafeCoerce _ioIosTennisball)
 
-foreign import ioIosText_ :: ReactIcon
+foreign import _ioIosText :: ReactIcon
 
 ioIosText :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosText = element (unsafeCoerce ioIosText_)
+ioIosText = element (unsafeCoerce _ioIosText)
 
-foreign import ioIosThermometer_ :: ReactIcon
+foreign import _ioIosThermometer :: ReactIcon
 
 ioIosThermometer :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosThermometer = element (unsafeCoerce ioIosThermometer_)
+ioIosThermometer = element (unsafeCoerce _ioIosThermometer)
 
-foreign import ioIosThumbsDown_ :: ReactIcon
+foreign import _ioIosThumbsDown :: ReactIcon
 
 ioIosThumbsDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosThumbsDown = element (unsafeCoerce ioIosThumbsDown_)
+ioIosThumbsDown = element (unsafeCoerce _ioIosThumbsDown)
 
-foreign import ioIosThumbsUp_ :: ReactIcon
+foreign import _ioIosThumbsUp :: ReactIcon
 
 ioIosThumbsUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosThumbsUp = element (unsafeCoerce ioIosThumbsUp_)
+ioIosThumbsUp = element (unsafeCoerce _ioIosThumbsUp)
 
-foreign import ioIosThunderstorm_ :: ReactIcon
+foreign import _ioIosThunderstorm :: ReactIcon
 
 ioIosThunderstorm :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosThunderstorm = element (unsafeCoerce ioIosThunderstorm_)
+ioIosThunderstorm = element (unsafeCoerce _ioIosThunderstorm)
 
-foreign import ioIosTime_ :: ReactIcon
+foreign import _ioIosTime :: ReactIcon
 
 ioIosTime :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosTime = element (unsafeCoerce ioIosTime_)
+ioIosTime = element (unsafeCoerce _ioIosTime)
 
-foreign import ioIosTimer_ :: ReactIcon
+foreign import _ioIosTimer :: ReactIcon
 
 ioIosTimer :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosTimer = element (unsafeCoerce ioIosTimer_)
+ioIosTimer = element (unsafeCoerce _ioIosTimer)
 
-foreign import ioIosToday_ :: ReactIcon
+foreign import _ioIosToday :: ReactIcon
 
 ioIosToday :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosToday = element (unsafeCoerce ioIosToday_)
+ioIosToday = element (unsafeCoerce _ioIosToday)
 
-foreign import ioIosTrain_ :: ReactIcon
+foreign import _ioIosTrain :: ReactIcon
 
 ioIosTrain :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosTrain = element (unsafeCoerce ioIosTrain_)
+ioIosTrain = element (unsafeCoerce _ioIosTrain)
 
-foreign import ioIosTransgender_ :: ReactIcon
+foreign import _ioIosTransgender :: ReactIcon
 
 ioIosTransgender :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosTransgender = element (unsafeCoerce ioIosTransgender_)
+ioIosTransgender = element (unsafeCoerce _ioIosTransgender)
 
-foreign import ioIosTrash_ :: ReactIcon
+foreign import _ioIosTrash :: ReactIcon
 
 ioIosTrash :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosTrash = element (unsafeCoerce ioIosTrash_)
+ioIosTrash = element (unsafeCoerce _ioIosTrash)
 
-foreign import ioIosTrendingDown_ :: ReactIcon
+foreign import _ioIosTrendingDown :: ReactIcon
 
 ioIosTrendingDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosTrendingDown = element (unsafeCoerce ioIosTrendingDown_)
+ioIosTrendingDown = element (unsafeCoerce _ioIosTrendingDown)
 
-foreign import ioIosTrendingUp_ :: ReactIcon
+foreign import _ioIosTrendingUp :: ReactIcon
 
 ioIosTrendingUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosTrendingUp = element (unsafeCoerce ioIosTrendingUp_)
+ioIosTrendingUp = element (unsafeCoerce _ioIosTrendingUp)
 
-foreign import ioIosTrophy_ :: ReactIcon
+foreign import _ioIosTrophy :: ReactIcon
 
 ioIosTrophy :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosTrophy = element (unsafeCoerce ioIosTrophy_)
+ioIosTrophy = element (unsafeCoerce _ioIosTrophy)
 
-foreign import ioIosTv_ :: ReactIcon
+foreign import _ioIosTv :: ReactIcon
 
 ioIosTv :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosTv = element (unsafeCoerce ioIosTv_)
+ioIosTv = element (unsafeCoerce _ioIosTv)
 
-foreign import ioIosUmbrella_ :: ReactIcon
+foreign import _ioIosUmbrella :: ReactIcon
 
 ioIosUmbrella :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosUmbrella = element (unsafeCoerce ioIosUmbrella_)
+ioIosUmbrella = element (unsafeCoerce _ioIosUmbrella)
 
-foreign import ioIosUndo_ :: ReactIcon
+foreign import _ioIosUndo :: ReactIcon
 
 ioIosUndo :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosUndo = element (unsafeCoerce ioIosUndo_)
+ioIosUndo = element (unsafeCoerce _ioIosUndo)
 
-foreign import ioIosUnlock_ :: ReactIcon
+foreign import _ioIosUnlock :: ReactIcon
 
 ioIosUnlock :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosUnlock = element (unsafeCoerce ioIosUnlock_)
+ioIosUnlock = element (unsafeCoerce _ioIosUnlock)
 
-foreign import ioIosVideocam_ :: ReactIcon
+foreign import _ioIosVideocam :: ReactIcon
 
 ioIosVideocam :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosVideocam = element (unsafeCoerce ioIosVideocam_)
+ioIosVideocam = element (unsafeCoerce _ioIosVideocam)
 
-foreign import ioIosVolumeHigh_ :: ReactIcon
+foreign import _ioIosVolumeHigh :: ReactIcon
 
 ioIosVolumeHigh :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosVolumeHigh = element (unsafeCoerce ioIosVolumeHigh_)
+ioIosVolumeHigh = element (unsafeCoerce _ioIosVolumeHigh)
 
-foreign import ioIosVolumeLow_ :: ReactIcon
+foreign import _ioIosVolumeLow :: ReactIcon
 
 ioIosVolumeLow :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosVolumeLow = element (unsafeCoerce ioIosVolumeLow_)
+ioIosVolumeLow = element (unsafeCoerce _ioIosVolumeLow)
 
-foreign import ioIosVolumeMute_ :: ReactIcon
+foreign import _ioIosVolumeMute :: ReactIcon
 
 ioIosVolumeMute :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosVolumeMute = element (unsafeCoerce ioIosVolumeMute_)
+ioIosVolumeMute = element (unsafeCoerce _ioIosVolumeMute)
 
-foreign import ioIosVolumeOff_ :: ReactIcon
+foreign import _ioIosVolumeOff :: ReactIcon
 
 ioIosVolumeOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosVolumeOff = element (unsafeCoerce ioIosVolumeOff_)
+ioIosVolumeOff = element (unsafeCoerce _ioIosVolumeOff)
 
-foreign import ioIosWalk_ :: ReactIcon
+foreign import _ioIosWalk :: ReactIcon
 
 ioIosWalk :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosWalk = element (unsafeCoerce ioIosWalk_)
+ioIosWalk = element (unsafeCoerce _ioIosWalk)
 
-foreign import ioIosWallet_ :: ReactIcon
+foreign import _ioIosWallet :: ReactIcon
 
 ioIosWallet :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosWallet = element (unsafeCoerce ioIosWallet_)
+ioIosWallet = element (unsafeCoerce _ioIosWallet)
 
-foreign import ioIosWarning_ :: ReactIcon
+foreign import _ioIosWarning :: ReactIcon
 
 ioIosWarning :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosWarning = element (unsafeCoerce ioIosWarning_)
+ioIosWarning = element (unsafeCoerce _ioIosWarning)
 
-foreign import ioIosWatch_ :: ReactIcon
+foreign import _ioIosWatch :: ReactIcon
 
 ioIosWatch :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosWatch = element (unsafeCoerce ioIosWatch_)
+ioIosWatch = element (unsafeCoerce _ioIosWatch)
 
-foreign import ioIosWater_ :: ReactIcon
+foreign import _ioIosWater :: ReactIcon
 
 ioIosWater :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosWater = element (unsafeCoerce ioIosWater_)
+ioIosWater = element (unsafeCoerce _ioIosWater)
 
-foreign import ioIosWifi_ :: ReactIcon
+foreign import _ioIosWifi :: ReactIcon
 
 ioIosWifi :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosWifi = element (unsafeCoerce ioIosWifi_)
+ioIosWifi = element (unsafeCoerce _ioIosWifi)
 
-foreign import ioIosWine_ :: ReactIcon
+foreign import _ioIosWine :: ReactIcon
 
 ioIosWine :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosWine = element (unsafeCoerce ioIosWine_)
+ioIosWine = element (unsafeCoerce _ioIosWine)
 
-foreign import ioIosWoman_ :: ReactIcon
+foreign import _ioIosWoman :: ReactIcon
 
 ioIosWoman :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioIosWoman = element (unsafeCoerce ioIosWoman_)
+ioIosWoman = element (unsafeCoerce _ioIosWoman)
 
-foreign import ioLogoAndroid_ :: ReactIcon
+foreign import _ioLogoAndroid :: ReactIcon
 
 ioLogoAndroid :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioLogoAndroid = element (unsafeCoerce ioLogoAndroid_)
+ioLogoAndroid = element (unsafeCoerce _ioLogoAndroid)
 
-foreign import ioLogoAngular_ :: ReactIcon
+foreign import _ioLogoAngular :: ReactIcon
 
 ioLogoAngular :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioLogoAngular = element (unsafeCoerce ioLogoAngular_)
+ioLogoAngular = element (unsafeCoerce _ioLogoAngular)
 
-foreign import ioLogoApple_ :: ReactIcon
+foreign import _ioLogoApple :: ReactIcon
 
 ioLogoApple :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioLogoApple = element (unsafeCoerce ioLogoApple_)
+ioLogoApple = element (unsafeCoerce _ioLogoApple)
 
-foreign import ioLogoBitbucket_ :: ReactIcon
+foreign import _ioLogoBitbucket :: ReactIcon
 
 ioLogoBitbucket :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioLogoBitbucket = element (unsafeCoerce ioLogoBitbucket_)
+ioLogoBitbucket = element (unsafeCoerce _ioLogoBitbucket)
 
-foreign import ioLogoBitcoin_ :: ReactIcon
+foreign import _ioLogoBitcoin :: ReactIcon
 
 ioLogoBitcoin :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioLogoBitcoin = element (unsafeCoerce ioLogoBitcoin_)
+ioLogoBitcoin = element (unsafeCoerce _ioLogoBitcoin)
 
-foreign import ioLogoBuffer_ :: ReactIcon
+foreign import _ioLogoBuffer :: ReactIcon
 
 ioLogoBuffer :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioLogoBuffer = element (unsafeCoerce ioLogoBuffer_)
+ioLogoBuffer = element (unsafeCoerce _ioLogoBuffer)
 
-foreign import ioLogoChrome_ :: ReactIcon
+foreign import _ioLogoChrome :: ReactIcon
 
 ioLogoChrome :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioLogoChrome = element (unsafeCoerce ioLogoChrome_)
+ioLogoChrome = element (unsafeCoerce _ioLogoChrome)
 
-foreign import ioLogoClosedCaptioning_ :: ReactIcon
+foreign import _ioLogoClosedCaptioning :: ReactIcon
 
 ioLogoClosedCaptioning :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioLogoClosedCaptioning = element (unsafeCoerce ioLogoClosedCaptioning_)
+ioLogoClosedCaptioning = element (unsafeCoerce _ioLogoClosedCaptioning)
 
-foreign import ioLogoCodepen_ :: ReactIcon
+foreign import _ioLogoCodepen :: ReactIcon
 
 ioLogoCodepen :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioLogoCodepen = element (unsafeCoerce ioLogoCodepen_)
+ioLogoCodepen = element (unsafeCoerce _ioLogoCodepen)
 
-foreign import ioLogoDesignernews_ :: ReactIcon
+foreign import _ioLogoDesignernews :: ReactIcon
 
 ioLogoDesignernews :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioLogoDesignernews = element (unsafeCoerce ioLogoDesignernews_)
+ioLogoDesignernews = element (unsafeCoerce _ioLogoDesignernews)
 
-foreign import ioLogoDribbble_ :: ReactIcon
+foreign import _ioLogoDribbble :: ReactIcon
 
 ioLogoDribbble :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioLogoDribbble = element (unsafeCoerce ioLogoDribbble_)
+ioLogoDribbble = element (unsafeCoerce _ioLogoDribbble)
 
-foreign import ioLogoDropbox_ :: ReactIcon
+foreign import _ioLogoDropbox :: ReactIcon
 
 ioLogoDropbox :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioLogoDropbox = element (unsafeCoerce ioLogoDropbox_)
+ioLogoDropbox = element (unsafeCoerce _ioLogoDropbox)
 
-foreign import ioLogoEuro_ :: ReactIcon
+foreign import _ioLogoEuro :: ReactIcon
 
 ioLogoEuro :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioLogoEuro = element (unsafeCoerce ioLogoEuro_)
+ioLogoEuro = element (unsafeCoerce _ioLogoEuro)
 
-foreign import ioLogoFacebook_ :: ReactIcon
+foreign import _ioLogoFacebook :: ReactIcon
 
 ioLogoFacebook :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioLogoFacebook = element (unsafeCoerce ioLogoFacebook_)
+ioLogoFacebook = element (unsafeCoerce _ioLogoFacebook)
 
-foreign import ioLogoFlickr_ :: ReactIcon
+foreign import _ioLogoFlickr :: ReactIcon
 
 ioLogoFlickr :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioLogoFlickr = element (unsafeCoerce ioLogoFlickr_)
+ioLogoFlickr = element (unsafeCoerce _ioLogoFlickr)
 
-foreign import ioLogoFoursquare_ :: ReactIcon
+foreign import _ioLogoFoursquare :: ReactIcon
 
 ioLogoFoursquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioLogoFoursquare = element (unsafeCoerce ioLogoFoursquare_)
+ioLogoFoursquare = element (unsafeCoerce _ioLogoFoursquare)
 
-foreign import ioLogoFreebsdDevil_ :: ReactIcon
+foreign import _ioLogoFreebsdDevil :: ReactIcon
 
 ioLogoFreebsdDevil :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioLogoFreebsdDevil = element (unsafeCoerce ioLogoFreebsdDevil_)
+ioLogoFreebsdDevil = element (unsafeCoerce _ioLogoFreebsdDevil)
 
-foreign import ioLogoGameControllerA_ :: ReactIcon
+foreign import _ioLogoGameControllerA :: ReactIcon
 
 ioLogoGameControllerA :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioLogoGameControllerA = element (unsafeCoerce ioLogoGameControllerA_)
+ioLogoGameControllerA = element (unsafeCoerce _ioLogoGameControllerA)
 
-foreign import ioLogoGameControllerB_ :: ReactIcon
+foreign import _ioLogoGameControllerB :: ReactIcon
 
 ioLogoGameControllerB :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioLogoGameControllerB = element (unsafeCoerce ioLogoGameControllerB_)
+ioLogoGameControllerB = element (unsafeCoerce _ioLogoGameControllerB)
 
-foreign import ioLogoGithub_ :: ReactIcon
+foreign import _ioLogoGithub :: ReactIcon
 
 ioLogoGithub :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioLogoGithub = element (unsafeCoerce ioLogoGithub_)
+ioLogoGithub = element (unsafeCoerce _ioLogoGithub)
 
-foreign import ioLogoGoogle_ :: ReactIcon
+foreign import _ioLogoGoogle :: ReactIcon
 
 ioLogoGoogle :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioLogoGoogle = element (unsafeCoerce ioLogoGoogle_)
+ioLogoGoogle = element (unsafeCoerce _ioLogoGoogle)
 
-foreign import ioLogoGoogleplus_ :: ReactIcon
+foreign import _ioLogoGoogleplus :: ReactIcon
 
 ioLogoGoogleplus :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioLogoGoogleplus = element (unsafeCoerce ioLogoGoogleplus_)
+ioLogoGoogleplus = element (unsafeCoerce _ioLogoGoogleplus)
 
-foreign import ioLogoHackernews_ :: ReactIcon
+foreign import _ioLogoHackernews :: ReactIcon
 
 ioLogoHackernews :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioLogoHackernews = element (unsafeCoerce ioLogoHackernews_)
+ioLogoHackernews = element (unsafeCoerce _ioLogoHackernews)
 
-foreign import ioLogoInstagram_ :: ReactIcon
+foreign import _ioLogoInstagram :: ReactIcon
 
 ioLogoInstagram :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioLogoInstagram = element (unsafeCoerce ioLogoInstagram_)
+ioLogoInstagram = element (unsafeCoerce _ioLogoInstagram)
 
-foreign import ioLogoIonic_ :: ReactIcon
+foreign import _ioLogoIonic :: ReactIcon
 
 ioLogoIonic :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioLogoIonic = element (unsafeCoerce ioLogoIonic_)
+ioLogoIonic = element (unsafeCoerce _ioLogoIonic)
 
-foreign import ioLogoIonitron_ :: ReactIcon
+foreign import _ioLogoIonitron :: ReactIcon
 
 ioLogoIonitron :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioLogoIonitron = element (unsafeCoerce ioLogoIonitron_)
+ioLogoIonitron = element (unsafeCoerce _ioLogoIonitron)
 
-foreign import ioLogoJavascript_ :: ReactIcon
+foreign import _ioLogoJavascript :: ReactIcon
 
 ioLogoJavascript :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioLogoJavascript = element (unsafeCoerce ioLogoJavascript_)
+ioLogoJavascript = element (unsafeCoerce _ioLogoJavascript)
 
-foreign import ioLogoLinkedin_ :: ReactIcon
+foreign import _ioLogoLinkedin :: ReactIcon
 
 ioLogoLinkedin :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioLogoLinkedin = element (unsafeCoerce ioLogoLinkedin_)
+ioLogoLinkedin = element (unsafeCoerce _ioLogoLinkedin)
 
-foreign import ioLogoMarkdown_ :: ReactIcon
+foreign import _ioLogoMarkdown :: ReactIcon
 
 ioLogoMarkdown :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioLogoMarkdown = element (unsafeCoerce ioLogoMarkdown_)
+ioLogoMarkdown = element (unsafeCoerce _ioLogoMarkdown)
 
-foreign import ioLogoModelS_ :: ReactIcon
+foreign import _ioLogoModelS :: ReactIcon
 
 ioLogoModelS :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioLogoModelS = element (unsafeCoerce ioLogoModelS_)
+ioLogoModelS = element (unsafeCoerce _ioLogoModelS)
 
-foreign import ioLogoNodejs_ :: ReactIcon
+foreign import _ioLogoNodejs :: ReactIcon
 
 ioLogoNodejs :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioLogoNodejs = element (unsafeCoerce ioLogoNodejs_)
+ioLogoNodejs = element (unsafeCoerce _ioLogoNodejs)
 
-foreign import ioLogoNoSmoking_ :: ReactIcon
+foreign import _ioLogoNoSmoking :: ReactIcon
 
 ioLogoNoSmoking :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioLogoNoSmoking = element (unsafeCoerce ioLogoNoSmoking_)
+ioLogoNoSmoking = element (unsafeCoerce _ioLogoNoSmoking)
 
-foreign import ioLogoNpm_ :: ReactIcon
+foreign import _ioLogoNpm :: ReactIcon
 
 ioLogoNpm :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioLogoNpm = element (unsafeCoerce ioLogoNpm_)
+ioLogoNpm = element (unsafeCoerce _ioLogoNpm)
 
-foreign import ioLogoOctocat_ :: ReactIcon
+foreign import _ioLogoOctocat :: ReactIcon
 
 ioLogoOctocat :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioLogoOctocat = element (unsafeCoerce ioLogoOctocat_)
+ioLogoOctocat = element (unsafeCoerce _ioLogoOctocat)
 
-foreign import ioLogoPinterest_ :: ReactIcon
+foreign import _ioLogoPinterest :: ReactIcon
 
 ioLogoPinterest :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioLogoPinterest = element (unsafeCoerce ioLogoPinterest_)
+ioLogoPinterest = element (unsafeCoerce _ioLogoPinterest)
 
-foreign import ioLogoPlaystation_ :: ReactIcon
+foreign import _ioLogoPlaystation :: ReactIcon
 
 ioLogoPlaystation :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioLogoPlaystation = element (unsafeCoerce ioLogoPlaystation_)
+ioLogoPlaystation = element (unsafeCoerce _ioLogoPlaystation)
 
-foreign import ioLogoPolymer_ :: ReactIcon
+foreign import _ioLogoPolymer :: ReactIcon
 
 ioLogoPolymer :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioLogoPolymer = element (unsafeCoerce ioLogoPolymer_)
+ioLogoPolymer = element (unsafeCoerce _ioLogoPolymer)
 
-foreign import ioLogoPython_ :: ReactIcon
+foreign import _ioLogoPython :: ReactIcon
 
 ioLogoPython :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioLogoPython = element (unsafeCoerce ioLogoPython_)
+ioLogoPython = element (unsafeCoerce _ioLogoPython)
 
-foreign import ioLogoReddit_ :: ReactIcon
+foreign import _ioLogoReddit :: ReactIcon
 
 ioLogoReddit :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioLogoReddit = element (unsafeCoerce ioLogoReddit_)
+ioLogoReddit = element (unsafeCoerce _ioLogoReddit)
 
-foreign import ioLogoRss_ :: ReactIcon
+foreign import _ioLogoRss :: ReactIcon
 
 ioLogoRss :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioLogoRss = element (unsafeCoerce ioLogoRss_)
+ioLogoRss = element (unsafeCoerce _ioLogoRss)
 
-foreign import ioLogoSass_ :: ReactIcon
+foreign import _ioLogoSass :: ReactIcon
 
 ioLogoSass :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioLogoSass = element (unsafeCoerce ioLogoSass_)
+ioLogoSass = element (unsafeCoerce _ioLogoSass)
 
-foreign import ioLogoSkype_ :: ReactIcon
+foreign import _ioLogoSkype :: ReactIcon
 
 ioLogoSkype :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioLogoSkype = element (unsafeCoerce ioLogoSkype_)
+ioLogoSkype = element (unsafeCoerce _ioLogoSkype)
 
-foreign import ioLogoSlack_ :: ReactIcon
+foreign import _ioLogoSlack :: ReactIcon
 
 ioLogoSlack :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioLogoSlack = element (unsafeCoerce ioLogoSlack_)
+ioLogoSlack = element (unsafeCoerce _ioLogoSlack)
 
-foreign import ioLogoSnapchat_ :: ReactIcon
+foreign import _ioLogoSnapchat :: ReactIcon
 
 ioLogoSnapchat :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioLogoSnapchat = element (unsafeCoerce ioLogoSnapchat_)
+ioLogoSnapchat = element (unsafeCoerce _ioLogoSnapchat)
 
-foreign import ioLogoSteam_ :: ReactIcon
+foreign import _ioLogoSteam :: ReactIcon
 
 ioLogoSteam :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioLogoSteam = element (unsafeCoerce ioLogoSteam_)
+ioLogoSteam = element (unsafeCoerce _ioLogoSteam)
 
-foreign import ioLogoTumblr_ :: ReactIcon
+foreign import _ioLogoTumblr :: ReactIcon
 
 ioLogoTumblr :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioLogoTumblr = element (unsafeCoerce ioLogoTumblr_)
+ioLogoTumblr = element (unsafeCoerce _ioLogoTumblr)
 
-foreign import ioLogoTux_ :: ReactIcon
+foreign import _ioLogoTux :: ReactIcon
 
 ioLogoTux :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioLogoTux = element (unsafeCoerce ioLogoTux_)
+ioLogoTux = element (unsafeCoerce _ioLogoTux)
 
-foreign import ioLogoTwitch_ :: ReactIcon
+foreign import _ioLogoTwitch :: ReactIcon
 
 ioLogoTwitch :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioLogoTwitch = element (unsafeCoerce ioLogoTwitch_)
+ioLogoTwitch = element (unsafeCoerce _ioLogoTwitch)
 
-foreign import ioLogoTwitter_ :: ReactIcon
+foreign import _ioLogoTwitter :: ReactIcon
 
 ioLogoTwitter :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioLogoTwitter = element (unsafeCoerce ioLogoTwitter_)
+ioLogoTwitter = element (unsafeCoerce _ioLogoTwitter)
 
-foreign import ioLogoUsd_ :: ReactIcon
+foreign import _ioLogoUsd :: ReactIcon
 
 ioLogoUsd :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioLogoUsd = element (unsafeCoerce ioLogoUsd_)
+ioLogoUsd = element (unsafeCoerce _ioLogoUsd)
 
-foreign import ioLogoVimeo_ :: ReactIcon
+foreign import _ioLogoVimeo :: ReactIcon
 
 ioLogoVimeo :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioLogoVimeo = element (unsafeCoerce ioLogoVimeo_)
+ioLogoVimeo = element (unsafeCoerce _ioLogoVimeo)
 
-foreign import ioLogoVk_ :: ReactIcon
+foreign import _ioLogoVk :: ReactIcon
 
 ioLogoVk :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioLogoVk = element (unsafeCoerce ioLogoVk_)
+ioLogoVk = element (unsafeCoerce _ioLogoVk)
 
-foreign import ioLogoWhatsapp_ :: ReactIcon
+foreign import _ioLogoWhatsapp :: ReactIcon
 
 ioLogoWhatsapp :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioLogoWhatsapp = element (unsafeCoerce ioLogoWhatsapp_)
+ioLogoWhatsapp = element (unsafeCoerce _ioLogoWhatsapp)
 
-foreign import ioLogoWindows_ :: ReactIcon
+foreign import _ioLogoWindows :: ReactIcon
 
 ioLogoWindows :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioLogoWindows = element (unsafeCoerce ioLogoWindows_)
+ioLogoWindows = element (unsafeCoerce _ioLogoWindows)
 
-foreign import ioLogoWordpress_ :: ReactIcon
+foreign import _ioLogoWordpress :: ReactIcon
 
 ioLogoWordpress :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioLogoWordpress = element (unsafeCoerce ioLogoWordpress_)
+ioLogoWordpress = element (unsafeCoerce _ioLogoWordpress)
 
-foreign import ioLogoXbox_ :: ReactIcon
+foreign import _ioLogoXbox :: ReactIcon
 
 ioLogoXbox :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioLogoXbox = element (unsafeCoerce ioLogoXbox_)
+ioLogoXbox = element (unsafeCoerce _ioLogoXbox)
 
-foreign import ioLogoXing_ :: ReactIcon
+foreign import _ioLogoXing :: ReactIcon
 
 ioLogoXing :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioLogoXing = element (unsafeCoerce ioLogoXing_)
+ioLogoXing = element (unsafeCoerce _ioLogoXing)
 
-foreign import ioLogoYahoo_ :: ReactIcon
+foreign import _ioLogoYahoo :: ReactIcon
 
 ioLogoYahoo :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioLogoYahoo = element (unsafeCoerce ioLogoYahoo_)
+ioLogoYahoo = element (unsafeCoerce _ioLogoYahoo)
 
-foreign import ioLogoYen_ :: ReactIcon
+foreign import _ioLogoYen :: ReactIcon
 
 ioLogoYen :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioLogoYen = element (unsafeCoerce ioLogoYen_)
+ioLogoYen = element (unsafeCoerce _ioLogoYen)
 
-foreign import ioLogoYoutube_ :: ReactIcon
+foreign import _ioLogoYoutube :: ReactIcon
 
 ioLogoYoutube :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioLogoYoutube = element (unsafeCoerce ioLogoYoutube_)
+ioLogoYoutube = element (unsafeCoerce _ioLogoYoutube)
 
-foreign import ioMdAdd_ :: ReactIcon
+foreign import _ioMdAdd :: ReactIcon
 
 ioMdAdd :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdAdd = element (unsafeCoerce ioMdAdd_)
+ioMdAdd = element (unsafeCoerce _ioMdAdd)
 
-foreign import ioMdAddCircle_ :: ReactIcon
+foreign import _ioMdAddCircle :: ReactIcon
 
 ioMdAddCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdAddCircle = element (unsafeCoerce ioMdAddCircle_)
+ioMdAddCircle = element (unsafeCoerce _ioMdAddCircle)
 
-foreign import ioMdAddCircleOutline_ :: ReactIcon
+foreign import _ioMdAddCircleOutline :: ReactIcon
 
 ioMdAddCircleOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdAddCircleOutline = element (unsafeCoerce ioMdAddCircleOutline_)
+ioMdAddCircleOutline = element (unsafeCoerce _ioMdAddCircleOutline)
 
-foreign import ioMdAirplane_ :: ReactIcon
+foreign import _ioMdAirplane :: ReactIcon
 
 ioMdAirplane :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdAirplane = element (unsafeCoerce ioMdAirplane_)
+ioMdAirplane = element (unsafeCoerce _ioMdAirplane)
 
-foreign import ioMdAlarm_ :: ReactIcon
+foreign import _ioMdAlarm :: ReactIcon
 
 ioMdAlarm :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdAlarm = element (unsafeCoerce ioMdAlarm_)
+ioMdAlarm = element (unsafeCoerce _ioMdAlarm)
 
-foreign import ioMdAlbums_ :: ReactIcon
+foreign import _ioMdAlbums :: ReactIcon
 
 ioMdAlbums :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdAlbums = element (unsafeCoerce ioMdAlbums_)
+ioMdAlbums = element (unsafeCoerce _ioMdAlbums)
 
-foreign import ioMdAlert_ :: ReactIcon
+foreign import _ioMdAlert :: ReactIcon
 
 ioMdAlert :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdAlert = element (unsafeCoerce ioMdAlert_)
+ioMdAlert = element (unsafeCoerce _ioMdAlert)
 
-foreign import ioMdAmericanFootball_ :: ReactIcon
+foreign import _ioMdAmericanFootball :: ReactIcon
 
 ioMdAmericanFootball :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdAmericanFootball = element (unsafeCoerce ioMdAmericanFootball_)
+ioMdAmericanFootball = element (unsafeCoerce _ioMdAmericanFootball)
 
-foreign import ioMdAnalytics_ :: ReactIcon
+foreign import _ioMdAnalytics :: ReactIcon
 
 ioMdAnalytics :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdAnalytics = element (unsafeCoerce ioMdAnalytics_)
+ioMdAnalytics = element (unsafeCoerce _ioMdAnalytics)
 
-foreign import ioMdAperture_ :: ReactIcon
+foreign import _ioMdAperture :: ReactIcon
 
 ioMdAperture :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdAperture = element (unsafeCoerce ioMdAperture_)
+ioMdAperture = element (unsafeCoerce _ioMdAperture)
 
-foreign import ioMdApps_ :: ReactIcon
+foreign import _ioMdApps :: ReactIcon
 
 ioMdApps :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdApps = element (unsafeCoerce ioMdApps_)
+ioMdApps = element (unsafeCoerce _ioMdApps)
 
-foreign import ioMdAppstore_ :: ReactIcon
+foreign import _ioMdAppstore :: ReactIcon
 
 ioMdAppstore :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdAppstore = element (unsafeCoerce ioMdAppstore_)
+ioMdAppstore = element (unsafeCoerce _ioMdAppstore)
 
-foreign import ioMdArchive_ :: ReactIcon
+foreign import _ioMdArchive :: ReactIcon
 
 ioMdArchive :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdArchive = element (unsafeCoerce ioMdArchive_)
+ioMdArchive = element (unsafeCoerce _ioMdArchive)
 
-foreign import ioMdArrowBack_ :: ReactIcon
+foreign import _ioMdArrowBack :: ReactIcon
 
 ioMdArrowBack :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdArrowBack = element (unsafeCoerce ioMdArrowBack_)
+ioMdArrowBack = element (unsafeCoerce _ioMdArrowBack)
 
-foreign import ioMdArrowDown_ :: ReactIcon
+foreign import _ioMdArrowDown :: ReactIcon
 
 ioMdArrowDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdArrowDown = element (unsafeCoerce ioMdArrowDown_)
+ioMdArrowDown = element (unsafeCoerce _ioMdArrowDown)
 
-foreign import ioMdArrowDropdown_ :: ReactIcon
+foreign import _ioMdArrowDropdown :: ReactIcon
 
 ioMdArrowDropdown :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdArrowDropdown = element (unsafeCoerce ioMdArrowDropdown_)
+ioMdArrowDropdown = element (unsafeCoerce _ioMdArrowDropdown)
 
-foreign import ioMdArrowDropdownCircle_ :: ReactIcon
+foreign import _ioMdArrowDropdownCircle :: ReactIcon
 
 ioMdArrowDropdownCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdArrowDropdownCircle = element (unsafeCoerce ioMdArrowDropdownCircle_)
+ioMdArrowDropdownCircle = element (unsafeCoerce _ioMdArrowDropdownCircle)
 
-foreign import ioMdArrowDropleft_ :: ReactIcon
+foreign import _ioMdArrowDropleft :: ReactIcon
 
 ioMdArrowDropleft :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdArrowDropleft = element (unsafeCoerce ioMdArrowDropleft_)
+ioMdArrowDropleft = element (unsafeCoerce _ioMdArrowDropleft)
 
-foreign import ioMdArrowDropleftCircle_ :: ReactIcon
+foreign import _ioMdArrowDropleftCircle :: ReactIcon
 
 ioMdArrowDropleftCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdArrowDropleftCircle = element (unsafeCoerce ioMdArrowDropleftCircle_)
+ioMdArrowDropleftCircle = element (unsafeCoerce _ioMdArrowDropleftCircle)
 
-foreign import ioMdArrowDropright_ :: ReactIcon
+foreign import _ioMdArrowDropright :: ReactIcon
 
 ioMdArrowDropright :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdArrowDropright = element (unsafeCoerce ioMdArrowDropright_)
+ioMdArrowDropright = element (unsafeCoerce _ioMdArrowDropright)
 
-foreign import ioMdArrowDroprightCircle_ :: ReactIcon
+foreign import _ioMdArrowDroprightCircle :: ReactIcon
 
 ioMdArrowDroprightCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdArrowDroprightCircle = element (unsafeCoerce ioMdArrowDroprightCircle_)
+ioMdArrowDroprightCircle = element (unsafeCoerce _ioMdArrowDroprightCircle)
 
-foreign import ioMdArrowDropup_ :: ReactIcon
+foreign import _ioMdArrowDropup :: ReactIcon
 
 ioMdArrowDropup :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdArrowDropup = element (unsafeCoerce ioMdArrowDropup_)
+ioMdArrowDropup = element (unsafeCoerce _ioMdArrowDropup)
 
-foreign import ioMdArrowDropupCircle_ :: ReactIcon
+foreign import _ioMdArrowDropupCircle :: ReactIcon
 
 ioMdArrowDropupCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdArrowDropupCircle = element (unsafeCoerce ioMdArrowDropupCircle_)
+ioMdArrowDropupCircle = element (unsafeCoerce _ioMdArrowDropupCircle)
 
-foreign import ioMdArrowForward_ :: ReactIcon
+foreign import _ioMdArrowForward :: ReactIcon
 
 ioMdArrowForward :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdArrowForward = element (unsafeCoerce ioMdArrowForward_)
+ioMdArrowForward = element (unsafeCoerce _ioMdArrowForward)
 
-foreign import ioMdArrowRoundBack_ :: ReactIcon
+foreign import _ioMdArrowRoundBack :: ReactIcon
 
 ioMdArrowRoundBack :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdArrowRoundBack = element (unsafeCoerce ioMdArrowRoundBack_)
+ioMdArrowRoundBack = element (unsafeCoerce _ioMdArrowRoundBack)
 
-foreign import ioMdArrowRoundDown_ :: ReactIcon
+foreign import _ioMdArrowRoundDown :: ReactIcon
 
 ioMdArrowRoundDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdArrowRoundDown = element (unsafeCoerce ioMdArrowRoundDown_)
+ioMdArrowRoundDown = element (unsafeCoerce _ioMdArrowRoundDown)
 
-foreign import ioMdArrowRoundForward_ :: ReactIcon
+foreign import _ioMdArrowRoundForward :: ReactIcon
 
 ioMdArrowRoundForward :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdArrowRoundForward = element (unsafeCoerce ioMdArrowRoundForward_)
+ioMdArrowRoundForward = element (unsafeCoerce _ioMdArrowRoundForward)
 
-foreign import ioMdArrowRoundUp_ :: ReactIcon
+foreign import _ioMdArrowRoundUp :: ReactIcon
 
 ioMdArrowRoundUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdArrowRoundUp = element (unsafeCoerce ioMdArrowRoundUp_)
+ioMdArrowRoundUp = element (unsafeCoerce _ioMdArrowRoundUp)
 
-foreign import ioMdArrowUp_ :: ReactIcon
+foreign import _ioMdArrowUp :: ReactIcon
 
 ioMdArrowUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdArrowUp = element (unsafeCoerce ioMdArrowUp_)
+ioMdArrowUp = element (unsafeCoerce _ioMdArrowUp)
 
-foreign import ioMdAt_ :: ReactIcon
+foreign import _ioMdAt :: ReactIcon
 
 ioMdAt :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdAt = element (unsafeCoerce ioMdAt_)
+ioMdAt = element (unsafeCoerce _ioMdAt)
 
-foreign import ioMdAttach_ :: ReactIcon
+foreign import _ioMdAttach :: ReactIcon
 
 ioMdAttach :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdAttach = element (unsafeCoerce ioMdAttach_)
+ioMdAttach = element (unsafeCoerce _ioMdAttach)
 
-foreign import ioMdBackspace_ :: ReactIcon
+foreign import _ioMdBackspace :: ReactIcon
 
 ioMdBackspace :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdBackspace = element (unsafeCoerce ioMdBackspace_)
+ioMdBackspace = element (unsafeCoerce _ioMdBackspace)
 
-foreign import ioMdBarcode_ :: ReactIcon
+foreign import _ioMdBarcode :: ReactIcon
 
 ioMdBarcode :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdBarcode = element (unsafeCoerce ioMdBarcode_)
+ioMdBarcode = element (unsafeCoerce _ioMdBarcode)
 
-foreign import ioMdBaseball_ :: ReactIcon
+foreign import _ioMdBaseball :: ReactIcon
 
 ioMdBaseball :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdBaseball = element (unsafeCoerce ioMdBaseball_)
+ioMdBaseball = element (unsafeCoerce _ioMdBaseball)
 
-foreign import ioMdBasket_ :: ReactIcon
+foreign import _ioMdBasket :: ReactIcon
 
 ioMdBasket :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdBasket = element (unsafeCoerce ioMdBasket_)
+ioMdBasket = element (unsafeCoerce _ioMdBasket)
 
-foreign import ioMdBasketball_ :: ReactIcon
+foreign import _ioMdBasketball :: ReactIcon
 
 ioMdBasketball :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdBasketball = element (unsafeCoerce ioMdBasketball_)
+ioMdBasketball = element (unsafeCoerce _ioMdBasketball)
 
-foreign import ioMdBatteryCharging_ :: ReactIcon
+foreign import _ioMdBatteryCharging :: ReactIcon
 
 ioMdBatteryCharging :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdBatteryCharging = element (unsafeCoerce ioMdBatteryCharging_)
+ioMdBatteryCharging = element (unsafeCoerce _ioMdBatteryCharging)
 
-foreign import ioMdBatteryDead_ :: ReactIcon
+foreign import _ioMdBatteryDead :: ReactIcon
 
 ioMdBatteryDead :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdBatteryDead = element (unsafeCoerce ioMdBatteryDead_)
+ioMdBatteryDead = element (unsafeCoerce _ioMdBatteryDead)
 
-foreign import ioMdBatteryFull_ :: ReactIcon
+foreign import _ioMdBatteryFull :: ReactIcon
 
 ioMdBatteryFull :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdBatteryFull = element (unsafeCoerce ioMdBatteryFull_)
+ioMdBatteryFull = element (unsafeCoerce _ioMdBatteryFull)
 
-foreign import ioMdBeaker_ :: ReactIcon
+foreign import _ioMdBeaker :: ReactIcon
 
 ioMdBeaker :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdBeaker = element (unsafeCoerce ioMdBeaker_)
+ioMdBeaker = element (unsafeCoerce _ioMdBeaker)
 
-foreign import ioMdBed_ :: ReactIcon
+foreign import _ioMdBed :: ReactIcon
 
 ioMdBed :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdBed = element (unsafeCoerce ioMdBed_)
+ioMdBed = element (unsafeCoerce _ioMdBed)
 
-foreign import ioMdBeer_ :: ReactIcon
+foreign import _ioMdBeer :: ReactIcon
 
 ioMdBeer :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdBeer = element (unsafeCoerce ioMdBeer_)
+ioMdBeer = element (unsafeCoerce _ioMdBeer)
 
-foreign import ioMdBicycle_ :: ReactIcon
+foreign import _ioMdBicycle :: ReactIcon
 
 ioMdBicycle :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdBicycle = element (unsafeCoerce ioMdBicycle_)
+ioMdBicycle = element (unsafeCoerce _ioMdBicycle)
 
-foreign import ioMdBluetooth_ :: ReactIcon
+foreign import _ioMdBluetooth :: ReactIcon
 
 ioMdBluetooth :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdBluetooth = element (unsafeCoerce ioMdBluetooth_)
+ioMdBluetooth = element (unsafeCoerce _ioMdBluetooth)
 
-foreign import ioMdBoat_ :: ReactIcon
+foreign import _ioMdBoat :: ReactIcon
 
 ioMdBoat :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdBoat = element (unsafeCoerce ioMdBoat_)
+ioMdBoat = element (unsafeCoerce _ioMdBoat)
 
-foreign import ioMdBody_ :: ReactIcon
+foreign import _ioMdBody :: ReactIcon
 
 ioMdBody :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdBody = element (unsafeCoerce ioMdBody_)
+ioMdBody = element (unsafeCoerce _ioMdBody)
 
-foreign import ioMdBonfire_ :: ReactIcon
+foreign import _ioMdBonfire :: ReactIcon
 
 ioMdBonfire :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdBonfire = element (unsafeCoerce ioMdBonfire_)
+ioMdBonfire = element (unsafeCoerce _ioMdBonfire)
 
-foreign import ioMdBook_ :: ReactIcon
+foreign import _ioMdBook :: ReactIcon
 
 ioMdBook :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdBook = element (unsafeCoerce ioMdBook_)
+ioMdBook = element (unsafeCoerce _ioMdBook)
 
-foreign import ioMdBookmark_ :: ReactIcon
+foreign import _ioMdBookmark :: ReactIcon
 
 ioMdBookmark :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdBookmark = element (unsafeCoerce ioMdBookmark_)
+ioMdBookmark = element (unsafeCoerce _ioMdBookmark)
 
-foreign import ioMdBookmarks_ :: ReactIcon
+foreign import _ioMdBookmarks :: ReactIcon
 
 ioMdBookmarks :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdBookmarks = element (unsafeCoerce ioMdBookmarks_)
+ioMdBookmarks = element (unsafeCoerce _ioMdBookmarks)
 
-foreign import ioMdBowtie_ :: ReactIcon
+foreign import _ioMdBowtie :: ReactIcon
 
 ioMdBowtie :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdBowtie = element (unsafeCoerce ioMdBowtie_)
+ioMdBowtie = element (unsafeCoerce _ioMdBowtie)
 
-foreign import ioMdBriefcase_ :: ReactIcon
+foreign import _ioMdBriefcase :: ReactIcon
 
 ioMdBriefcase :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdBriefcase = element (unsafeCoerce ioMdBriefcase_)
+ioMdBriefcase = element (unsafeCoerce _ioMdBriefcase)
 
-foreign import ioMdBrowsers_ :: ReactIcon
+foreign import _ioMdBrowsers :: ReactIcon
 
 ioMdBrowsers :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdBrowsers = element (unsafeCoerce ioMdBrowsers_)
+ioMdBrowsers = element (unsafeCoerce _ioMdBrowsers)
 
-foreign import ioMdBrush_ :: ReactIcon
+foreign import _ioMdBrush :: ReactIcon
 
 ioMdBrush :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdBrush = element (unsafeCoerce ioMdBrush_)
+ioMdBrush = element (unsafeCoerce _ioMdBrush)
 
-foreign import ioMdBug_ :: ReactIcon
+foreign import _ioMdBug :: ReactIcon
 
 ioMdBug :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdBug = element (unsafeCoerce ioMdBug_)
+ioMdBug = element (unsafeCoerce _ioMdBug)
 
-foreign import ioMdBuild_ :: ReactIcon
+foreign import _ioMdBuild :: ReactIcon
 
 ioMdBuild :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdBuild = element (unsafeCoerce ioMdBuild_)
+ioMdBuild = element (unsafeCoerce _ioMdBuild)
 
-foreign import ioMdBulb_ :: ReactIcon
+foreign import _ioMdBulb :: ReactIcon
 
 ioMdBulb :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdBulb = element (unsafeCoerce ioMdBulb_)
+ioMdBulb = element (unsafeCoerce _ioMdBulb)
 
-foreign import ioMdBus_ :: ReactIcon
+foreign import _ioMdBus :: ReactIcon
 
 ioMdBus :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdBus = element (unsafeCoerce ioMdBus_)
+ioMdBus = element (unsafeCoerce _ioMdBus)
 
-foreign import ioMdBusiness_ :: ReactIcon
+foreign import _ioMdBusiness :: ReactIcon
 
 ioMdBusiness :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdBusiness = element (unsafeCoerce ioMdBusiness_)
+ioMdBusiness = element (unsafeCoerce _ioMdBusiness)
 
-foreign import ioMdCafe_ :: ReactIcon
+foreign import _ioMdCafe :: ReactIcon
 
 ioMdCafe :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdCafe = element (unsafeCoerce ioMdCafe_)
+ioMdCafe = element (unsafeCoerce _ioMdCafe)
 
-foreign import ioMdCalculator_ :: ReactIcon
+foreign import _ioMdCalculator :: ReactIcon
 
 ioMdCalculator :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdCalculator = element (unsafeCoerce ioMdCalculator_)
+ioMdCalculator = element (unsafeCoerce _ioMdCalculator)
 
-foreign import ioMdCalendar_ :: ReactIcon
+foreign import _ioMdCalendar :: ReactIcon
 
 ioMdCalendar :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdCalendar = element (unsafeCoerce ioMdCalendar_)
+ioMdCalendar = element (unsafeCoerce _ioMdCalendar)
 
-foreign import ioMdCall_ :: ReactIcon
+foreign import _ioMdCall :: ReactIcon
 
 ioMdCall :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdCall = element (unsafeCoerce ioMdCall_)
+ioMdCall = element (unsafeCoerce _ioMdCall)
 
-foreign import ioMdCamera_ :: ReactIcon
+foreign import _ioMdCamera :: ReactIcon
 
 ioMdCamera :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdCamera = element (unsafeCoerce ioMdCamera_)
+ioMdCamera = element (unsafeCoerce _ioMdCamera)
 
-foreign import ioMdCar_ :: ReactIcon
+foreign import _ioMdCar :: ReactIcon
 
 ioMdCar :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdCar = element (unsafeCoerce ioMdCar_)
+ioMdCar = element (unsafeCoerce _ioMdCar)
 
-foreign import ioMdCard_ :: ReactIcon
+foreign import _ioMdCard :: ReactIcon
 
 ioMdCard :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdCard = element (unsafeCoerce ioMdCard_)
+ioMdCard = element (unsafeCoerce _ioMdCard)
 
-foreign import ioMdCart_ :: ReactIcon
+foreign import _ioMdCart :: ReactIcon
 
 ioMdCart :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdCart = element (unsafeCoerce ioMdCart_)
+ioMdCart = element (unsafeCoerce _ioMdCart)
 
-foreign import ioMdCash_ :: ReactIcon
+foreign import _ioMdCash :: ReactIcon
 
 ioMdCash :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdCash = element (unsafeCoerce ioMdCash_)
+ioMdCash = element (unsafeCoerce _ioMdCash)
 
-foreign import ioMdCellular_ :: ReactIcon
+foreign import _ioMdCellular :: ReactIcon
 
 ioMdCellular :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdCellular = element (unsafeCoerce ioMdCellular_)
+ioMdCellular = element (unsafeCoerce _ioMdCellular)
 
-foreign import ioMdChatboxes_ :: ReactIcon
+foreign import _ioMdChatboxes :: ReactIcon
 
 ioMdChatboxes :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdChatboxes = element (unsafeCoerce ioMdChatboxes_)
+ioMdChatboxes = element (unsafeCoerce _ioMdChatboxes)
 
-foreign import ioMdChatbubbles_ :: ReactIcon
+foreign import _ioMdChatbubbles :: ReactIcon
 
 ioMdChatbubbles :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdChatbubbles = element (unsafeCoerce ioMdChatbubbles_)
+ioMdChatbubbles = element (unsafeCoerce _ioMdChatbubbles)
 
-foreign import ioMdCheckbox_ :: ReactIcon
+foreign import _ioMdCheckbox :: ReactIcon
 
 ioMdCheckbox :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdCheckbox = element (unsafeCoerce ioMdCheckbox_)
+ioMdCheckbox = element (unsafeCoerce _ioMdCheckbox)
 
-foreign import ioMdCheckboxOutline_ :: ReactIcon
+foreign import _ioMdCheckboxOutline :: ReactIcon
 
 ioMdCheckboxOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdCheckboxOutline = element (unsafeCoerce ioMdCheckboxOutline_)
+ioMdCheckboxOutline = element (unsafeCoerce _ioMdCheckboxOutline)
 
-foreign import ioMdCheckmark_ :: ReactIcon
+foreign import _ioMdCheckmark :: ReactIcon
 
 ioMdCheckmark :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdCheckmark = element (unsafeCoerce ioMdCheckmark_)
+ioMdCheckmark = element (unsafeCoerce _ioMdCheckmark)
 
-foreign import ioMdCheckmarkCircle_ :: ReactIcon
+foreign import _ioMdCheckmarkCircle :: ReactIcon
 
 ioMdCheckmarkCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdCheckmarkCircle = element (unsafeCoerce ioMdCheckmarkCircle_)
+ioMdCheckmarkCircle = element (unsafeCoerce _ioMdCheckmarkCircle)
 
-foreign import ioMdCheckmarkCircleOutline_ :: ReactIcon
+foreign import _ioMdCheckmarkCircleOutline :: ReactIcon
 
 ioMdCheckmarkCircleOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdCheckmarkCircleOutline = element (unsafeCoerce ioMdCheckmarkCircleOutline_)
+ioMdCheckmarkCircleOutline = element (unsafeCoerce _ioMdCheckmarkCircleOutline)
 
-foreign import ioMdClipboard_ :: ReactIcon
+foreign import _ioMdClipboard :: ReactIcon
 
 ioMdClipboard :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdClipboard = element (unsafeCoerce ioMdClipboard_)
+ioMdClipboard = element (unsafeCoerce _ioMdClipboard)
 
-foreign import ioMdClock_ :: ReactIcon
+foreign import _ioMdClock :: ReactIcon
 
 ioMdClock :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdClock = element (unsafeCoerce ioMdClock_)
+ioMdClock = element (unsafeCoerce _ioMdClock)
 
-foreign import ioMdClose_ :: ReactIcon
+foreign import _ioMdClose :: ReactIcon
 
 ioMdClose :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdClose = element (unsafeCoerce ioMdClose_)
+ioMdClose = element (unsafeCoerce _ioMdClose)
 
-foreign import ioMdCloseCircle_ :: ReactIcon
+foreign import _ioMdCloseCircle :: ReactIcon
 
 ioMdCloseCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdCloseCircle = element (unsafeCoerce ioMdCloseCircle_)
+ioMdCloseCircle = element (unsafeCoerce _ioMdCloseCircle)
 
-foreign import ioMdCloseCircleOutline_ :: ReactIcon
+foreign import _ioMdCloseCircleOutline :: ReactIcon
 
 ioMdCloseCircleOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdCloseCircleOutline = element (unsafeCoerce ioMdCloseCircleOutline_)
+ioMdCloseCircleOutline = element (unsafeCoerce _ioMdCloseCircleOutline)
 
-foreign import ioMdCloud_ :: ReactIcon
+foreign import _ioMdCloud :: ReactIcon
 
 ioMdCloud :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdCloud = element (unsafeCoerce ioMdCloud_)
+ioMdCloud = element (unsafeCoerce _ioMdCloud)
 
-foreign import ioMdCloudCircle_ :: ReactIcon
+foreign import _ioMdCloudCircle :: ReactIcon
 
 ioMdCloudCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdCloudCircle = element (unsafeCoerce ioMdCloudCircle_)
+ioMdCloudCircle = element (unsafeCoerce _ioMdCloudCircle)
 
-foreign import ioMdCloudDone_ :: ReactIcon
+foreign import _ioMdCloudDone :: ReactIcon
 
 ioMdCloudDone :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdCloudDone = element (unsafeCoerce ioMdCloudDone_)
+ioMdCloudDone = element (unsafeCoerce _ioMdCloudDone)
 
-foreign import ioMdCloudDownload_ :: ReactIcon
+foreign import _ioMdCloudDownload :: ReactIcon
 
 ioMdCloudDownload :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdCloudDownload = element (unsafeCoerce ioMdCloudDownload_)
+ioMdCloudDownload = element (unsafeCoerce _ioMdCloudDownload)
 
-foreign import ioMdCloudOutline_ :: ReactIcon
+foreign import _ioMdCloudOutline :: ReactIcon
 
 ioMdCloudOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdCloudOutline = element (unsafeCoerce ioMdCloudOutline_)
+ioMdCloudOutline = element (unsafeCoerce _ioMdCloudOutline)
 
-foreign import ioMdCloudUpload_ :: ReactIcon
+foreign import _ioMdCloudUpload :: ReactIcon
 
 ioMdCloudUpload :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdCloudUpload = element (unsafeCoerce ioMdCloudUpload_)
+ioMdCloudUpload = element (unsafeCoerce _ioMdCloudUpload)
 
-foreign import ioMdCloudy_ :: ReactIcon
+foreign import _ioMdCloudy :: ReactIcon
 
 ioMdCloudy :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdCloudy = element (unsafeCoerce ioMdCloudy_)
+ioMdCloudy = element (unsafeCoerce _ioMdCloudy)
 
-foreign import ioMdCloudyNight_ :: ReactIcon
+foreign import _ioMdCloudyNight :: ReactIcon
 
 ioMdCloudyNight :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdCloudyNight = element (unsafeCoerce ioMdCloudyNight_)
+ioMdCloudyNight = element (unsafeCoerce _ioMdCloudyNight)
 
-foreign import ioMdCode_ :: ReactIcon
+foreign import _ioMdCode :: ReactIcon
 
 ioMdCode :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdCode = element (unsafeCoerce ioMdCode_)
+ioMdCode = element (unsafeCoerce _ioMdCode)
 
-foreign import ioMdCodeDownload_ :: ReactIcon
+foreign import _ioMdCodeDownload :: ReactIcon
 
 ioMdCodeDownload :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdCodeDownload = element (unsafeCoerce ioMdCodeDownload_)
+ioMdCodeDownload = element (unsafeCoerce _ioMdCodeDownload)
 
-foreign import ioMdCodeWorking_ :: ReactIcon
+foreign import _ioMdCodeWorking :: ReactIcon
 
 ioMdCodeWorking :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdCodeWorking = element (unsafeCoerce ioMdCodeWorking_)
+ioMdCodeWorking = element (unsafeCoerce _ioMdCodeWorking)
 
-foreign import ioMdCog_ :: ReactIcon
+foreign import _ioMdCog :: ReactIcon
 
 ioMdCog :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdCog = element (unsafeCoerce ioMdCog_)
+ioMdCog = element (unsafeCoerce _ioMdCog)
 
-foreign import ioMdColorFill_ :: ReactIcon
+foreign import _ioMdColorFill :: ReactIcon
 
 ioMdColorFill :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdColorFill = element (unsafeCoerce ioMdColorFill_)
+ioMdColorFill = element (unsafeCoerce _ioMdColorFill)
 
-foreign import ioMdColorFilter_ :: ReactIcon
+foreign import _ioMdColorFilter :: ReactIcon
 
 ioMdColorFilter :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdColorFilter = element (unsafeCoerce ioMdColorFilter_)
+ioMdColorFilter = element (unsafeCoerce _ioMdColorFilter)
 
-foreign import ioMdColorPalette_ :: ReactIcon
+foreign import _ioMdColorPalette :: ReactIcon
 
 ioMdColorPalette :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdColorPalette = element (unsafeCoerce ioMdColorPalette_)
+ioMdColorPalette = element (unsafeCoerce _ioMdColorPalette)
 
-foreign import ioMdColorWand_ :: ReactIcon
+foreign import _ioMdColorWand :: ReactIcon
 
 ioMdColorWand :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdColorWand = element (unsafeCoerce ioMdColorWand_)
+ioMdColorWand = element (unsafeCoerce _ioMdColorWand)
 
-foreign import ioMdCompass_ :: ReactIcon
+foreign import _ioMdCompass :: ReactIcon
 
 ioMdCompass :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdCompass = element (unsafeCoerce ioMdCompass_)
+ioMdCompass = element (unsafeCoerce _ioMdCompass)
 
-foreign import ioMdConstruct_ :: ReactIcon
+foreign import _ioMdConstruct :: ReactIcon
 
 ioMdConstruct :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdConstruct = element (unsafeCoerce ioMdConstruct_)
+ioMdConstruct = element (unsafeCoerce _ioMdConstruct)
 
-foreign import ioMdContact_ :: ReactIcon
+foreign import _ioMdContact :: ReactIcon
 
 ioMdContact :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdContact = element (unsafeCoerce ioMdContact_)
+ioMdContact = element (unsafeCoerce _ioMdContact)
 
-foreign import ioMdContacts_ :: ReactIcon
+foreign import _ioMdContacts :: ReactIcon
 
 ioMdContacts :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdContacts = element (unsafeCoerce ioMdContacts_)
+ioMdContacts = element (unsafeCoerce _ioMdContacts)
 
-foreign import ioMdContract_ :: ReactIcon
+foreign import _ioMdContract :: ReactIcon
 
 ioMdContract :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdContract = element (unsafeCoerce ioMdContract_)
+ioMdContract = element (unsafeCoerce _ioMdContract)
 
-foreign import ioMdContrast_ :: ReactIcon
+foreign import _ioMdContrast :: ReactIcon
 
 ioMdContrast :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdContrast = element (unsafeCoerce ioMdContrast_)
+ioMdContrast = element (unsafeCoerce _ioMdContrast)
 
-foreign import ioMdCopy_ :: ReactIcon
+foreign import _ioMdCopy :: ReactIcon
 
 ioMdCopy :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdCopy = element (unsafeCoerce ioMdCopy_)
+ioMdCopy = element (unsafeCoerce _ioMdCopy)
 
-foreign import ioMdCreate_ :: ReactIcon
+foreign import _ioMdCreate :: ReactIcon
 
 ioMdCreate :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdCreate = element (unsafeCoerce ioMdCreate_)
+ioMdCreate = element (unsafeCoerce _ioMdCreate)
 
-foreign import ioMdCrop_ :: ReactIcon
+foreign import _ioMdCrop :: ReactIcon
 
 ioMdCrop :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdCrop = element (unsafeCoerce ioMdCrop_)
+ioMdCrop = element (unsafeCoerce _ioMdCrop)
 
-foreign import ioMdCube_ :: ReactIcon
+foreign import _ioMdCube :: ReactIcon
 
 ioMdCube :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdCube = element (unsafeCoerce ioMdCube_)
+ioMdCube = element (unsafeCoerce _ioMdCube)
 
-foreign import ioMdCut_ :: ReactIcon
+foreign import _ioMdCut :: ReactIcon
 
 ioMdCut :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdCut = element (unsafeCoerce ioMdCut_)
+ioMdCut = element (unsafeCoerce _ioMdCut)
 
-foreign import ioMdDesktop_ :: ReactIcon
+foreign import _ioMdDesktop :: ReactIcon
 
 ioMdDesktop :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdDesktop = element (unsafeCoerce ioMdDesktop_)
+ioMdDesktop = element (unsafeCoerce _ioMdDesktop)
 
-foreign import ioMdDisc_ :: ReactIcon
+foreign import _ioMdDisc :: ReactIcon
 
 ioMdDisc :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdDisc = element (unsafeCoerce ioMdDisc_)
+ioMdDisc = element (unsafeCoerce _ioMdDisc)
 
-foreign import ioMdDocument_ :: ReactIcon
+foreign import _ioMdDocument :: ReactIcon
 
 ioMdDocument :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdDocument = element (unsafeCoerce ioMdDocument_)
+ioMdDocument = element (unsafeCoerce _ioMdDocument)
 
-foreign import ioMdDoneAll_ :: ReactIcon
+foreign import _ioMdDoneAll :: ReactIcon
 
 ioMdDoneAll :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdDoneAll = element (unsafeCoerce ioMdDoneAll_)
+ioMdDoneAll = element (unsafeCoerce _ioMdDoneAll)
 
-foreign import ioMdDownload_ :: ReactIcon
+foreign import _ioMdDownload :: ReactIcon
 
 ioMdDownload :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdDownload = element (unsafeCoerce ioMdDownload_)
+ioMdDownload = element (unsafeCoerce _ioMdDownload)
 
-foreign import ioMdEasel_ :: ReactIcon
+foreign import _ioMdEasel :: ReactIcon
 
 ioMdEasel :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdEasel = element (unsafeCoerce ioMdEasel_)
+ioMdEasel = element (unsafeCoerce _ioMdEasel)
 
-foreign import ioMdEgg_ :: ReactIcon
+foreign import _ioMdEgg :: ReactIcon
 
 ioMdEgg :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdEgg = element (unsafeCoerce ioMdEgg_)
+ioMdEgg = element (unsafeCoerce _ioMdEgg)
 
-foreign import ioMdExit_ :: ReactIcon
+foreign import _ioMdExit :: ReactIcon
 
 ioMdExit :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdExit = element (unsafeCoerce ioMdExit_)
+ioMdExit = element (unsafeCoerce _ioMdExit)
 
-foreign import ioMdExpand_ :: ReactIcon
+foreign import _ioMdExpand :: ReactIcon
 
 ioMdExpand :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdExpand = element (unsafeCoerce ioMdExpand_)
+ioMdExpand = element (unsafeCoerce _ioMdExpand)
 
-foreign import ioMdEye_ :: ReactIcon
+foreign import _ioMdEye :: ReactIcon
 
 ioMdEye :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdEye = element (unsafeCoerce ioMdEye_)
+ioMdEye = element (unsafeCoerce _ioMdEye)
 
-foreign import ioMdEyeOff_ :: ReactIcon
+foreign import _ioMdEyeOff :: ReactIcon
 
 ioMdEyeOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdEyeOff = element (unsafeCoerce ioMdEyeOff_)
+ioMdEyeOff = element (unsafeCoerce _ioMdEyeOff)
 
-foreign import ioMdFastforward_ :: ReactIcon
+foreign import _ioMdFastforward :: ReactIcon
 
 ioMdFastforward :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdFastforward = element (unsafeCoerce ioMdFastforward_)
+ioMdFastforward = element (unsafeCoerce _ioMdFastforward)
 
-foreign import ioMdFemale_ :: ReactIcon
+foreign import _ioMdFemale :: ReactIcon
 
 ioMdFemale :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdFemale = element (unsafeCoerce ioMdFemale_)
+ioMdFemale = element (unsafeCoerce _ioMdFemale)
 
-foreign import ioMdFiling_ :: ReactIcon
+foreign import _ioMdFiling :: ReactIcon
 
 ioMdFiling :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdFiling = element (unsafeCoerce ioMdFiling_)
+ioMdFiling = element (unsafeCoerce _ioMdFiling)
 
-foreign import ioMdFilm_ :: ReactIcon
+foreign import _ioMdFilm :: ReactIcon
 
 ioMdFilm :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdFilm = element (unsafeCoerce ioMdFilm_)
+ioMdFilm = element (unsafeCoerce _ioMdFilm)
 
-foreign import ioMdFingerPrint_ :: ReactIcon
+foreign import _ioMdFingerPrint :: ReactIcon
 
 ioMdFingerPrint :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdFingerPrint = element (unsafeCoerce ioMdFingerPrint_)
+ioMdFingerPrint = element (unsafeCoerce _ioMdFingerPrint)
 
-foreign import ioMdFitness_ :: ReactIcon
+foreign import _ioMdFitness :: ReactIcon
 
 ioMdFitness :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdFitness = element (unsafeCoerce ioMdFitness_)
+ioMdFitness = element (unsafeCoerce _ioMdFitness)
 
-foreign import ioMdFlag_ :: ReactIcon
+foreign import _ioMdFlag :: ReactIcon
 
 ioMdFlag :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdFlag = element (unsafeCoerce ioMdFlag_)
+ioMdFlag = element (unsafeCoerce _ioMdFlag)
 
-foreign import ioMdFlame_ :: ReactIcon
+foreign import _ioMdFlame :: ReactIcon
 
 ioMdFlame :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdFlame = element (unsafeCoerce ioMdFlame_)
+ioMdFlame = element (unsafeCoerce _ioMdFlame)
 
-foreign import ioMdFlash_ :: ReactIcon
+foreign import _ioMdFlash :: ReactIcon
 
 ioMdFlash :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdFlash = element (unsafeCoerce ioMdFlash_)
+ioMdFlash = element (unsafeCoerce _ioMdFlash)
 
-foreign import ioMdFlashlight_ :: ReactIcon
+foreign import _ioMdFlashlight :: ReactIcon
 
 ioMdFlashlight :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdFlashlight = element (unsafeCoerce ioMdFlashlight_)
+ioMdFlashlight = element (unsafeCoerce _ioMdFlashlight)
 
-foreign import ioMdFlashOff_ :: ReactIcon
+foreign import _ioMdFlashOff :: ReactIcon
 
 ioMdFlashOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdFlashOff = element (unsafeCoerce ioMdFlashOff_)
+ioMdFlashOff = element (unsafeCoerce _ioMdFlashOff)
 
-foreign import ioMdFlask_ :: ReactIcon
+foreign import _ioMdFlask :: ReactIcon
 
 ioMdFlask :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdFlask = element (unsafeCoerce ioMdFlask_)
+ioMdFlask = element (unsafeCoerce _ioMdFlask)
 
-foreign import ioMdFlower_ :: ReactIcon
+foreign import _ioMdFlower :: ReactIcon
 
 ioMdFlower :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdFlower = element (unsafeCoerce ioMdFlower_)
+ioMdFlower = element (unsafeCoerce _ioMdFlower)
 
-foreign import ioMdFolder_ :: ReactIcon
+foreign import _ioMdFolder :: ReactIcon
 
 ioMdFolder :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdFolder = element (unsafeCoerce ioMdFolder_)
+ioMdFolder = element (unsafeCoerce _ioMdFolder)
 
-foreign import ioMdFolderOpen_ :: ReactIcon
+foreign import _ioMdFolderOpen :: ReactIcon
 
 ioMdFolderOpen :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdFolderOpen = element (unsafeCoerce ioMdFolderOpen_)
+ioMdFolderOpen = element (unsafeCoerce _ioMdFolderOpen)
 
-foreign import ioMdFootball_ :: ReactIcon
+foreign import _ioMdFootball :: ReactIcon
 
 ioMdFootball :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdFootball = element (unsafeCoerce ioMdFootball_)
+ioMdFootball = element (unsafeCoerce _ioMdFootball)
 
-foreign import ioMdFunnel_ :: ReactIcon
+foreign import _ioMdFunnel :: ReactIcon
 
 ioMdFunnel :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdFunnel = element (unsafeCoerce ioMdFunnel_)
+ioMdFunnel = element (unsafeCoerce _ioMdFunnel)
 
-foreign import ioMdGift_ :: ReactIcon
+foreign import _ioMdGift :: ReactIcon
 
 ioMdGift :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdGift = element (unsafeCoerce ioMdGift_)
+ioMdGift = element (unsafeCoerce _ioMdGift)
 
-foreign import ioMdGitBranch_ :: ReactIcon
+foreign import _ioMdGitBranch :: ReactIcon
 
 ioMdGitBranch :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdGitBranch = element (unsafeCoerce ioMdGitBranch_)
+ioMdGitBranch = element (unsafeCoerce _ioMdGitBranch)
 
-foreign import ioMdGitCommit_ :: ReactIcon
+foreign import _ioMdGitCommit :: ReactIcon
 
 ioMdGitCommit :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdGitCommit = element (unsafeCoerce ioMdGitCommit_)
+ioMdGitCommit = element (unsafeCoerce _ioMdGitCommit)
 
-foreign import ioMdGitCompare_ :: ReactIcon
+foreign import _ioMdGitCompare :: ReactIcon
 
 ioMdGitCompare :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdGitCompare = element (unsafeCoerce ioMdGitCompare_)
+ioMdGitCompare = element (unsafeCoerce _ioMdGitCompare)
 
-foreign import ioMdGitMerge_ :: ReactIcon
+foreign import _ioMdGitMerge :: ReactIcon
 
 ioMdGitMerge :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdGitMerge = element (unsafeCoerce ioMdGitMerge_)
+ioMdGitMerge = element (unsafeCoerce _ioMdGitMerge)
 
-foreign import ioMdGitNetwork_ :: ReactIcon
+foreign import _ioMdGitNetwork :: ReactIcon
 
 ioMdGitNetwork :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdGitNetwork = element (unsafeCoerce ioMdGitNetwork_)
+ioMdGitNetwork = element (unsafeCoerce _ioMdGitNetwork)
 
-foreign import ioMdGitPullRequest_ :: ReactIcon
+foreign import _ioMdGitPullRequest :: ReactIcon
 
 ioMdGitPullRequest :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdGitPullRequest = element (unsafeCoerce ioMdGitPullRequest_)
+ioMdGitPullRequest = element (unsafeCoerce _ioMdGitPullRequest)
 
-foreign import ioMdGlasses_ :: ReactIcon
+foreign import _ioMdGlasses :: ReactIcon
 
 ioMdGlasses :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdGlasses = element (unsafeCoerce ioMdGlasses_)
+ioMdGlasses = element (unsafeCoerce _ioMdGlasses)
 
-foreign import ioMdGlobe_ :: ReactIcon
+foreign import _ioMdGlobe :: ReactIcon
 
 ioMdGlobe :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdGlobe = element (unsafeCoerce ioMdGlobe_)
+ioMdGlobe = element (unsafeCoerce _ioMdGlobe)
 
-foreign import ioMdGrid_ :: ReactIcon
+foreign import _ioMdGrid :: ReactIcon
 
 ioMdGrid :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdGrid = element (unsafeCoerce ioMdGrid_)
+ioMdGrid = element (unsafeCoerce _ioMdGrid)
 
-foreign import ioMdHammer_ :: ReactIcon
+foreign import _ioMdHammer :: ReactIcon
 
 ioMdHammer :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdHammer = element (unsafeCoerce ioMdHammer_)
+ioMdHammer = element (unsafeCoerce _ioMdHammer)
 
-foreign import ioMdHand_ :: ReactIcon
+foreign import _ioMdHand :: ReactIcon
 
 ioMdHand :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdHand = element (unsafeCoerce ioMdHand_)
+ioMdHand = element (unsafeCoerce _ioMdHand)
 
-foreign import ioMdHappy_ :: ReactIcon
+foreign import _ioMdHappy :: ReactIcon
 
 ioMdHappy :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdHappy = element (unsafeCoerce ioMdHappy_)
+ioMdHappy = element (unsafeCoerce _ioMdHappy)
 
-foreign import ioMdHeadset_ :: ReactIcon
+foreign import _ioMdHeadset :: ReactIcon
 
 ioMdHeadset :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdHeadset = element (unsafeCoerce ioMdHeadset_)
+ioMdHeadset = element (unsafeCoerce _ioMdHeadset)
 
-foreign import ioMdHeart_ :: ReactIcon
+foreign import _ioMdHeart :: ReactIcon
 
 ioMdHeart :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdHeart = element (unsafeCoerce ioMdHeart_)
+ioMdHeart = element (unsafeCoerce _ioMdHeart)
 
-foreign import ioMdHeartDislike_ :: ReactIcon
+foreign import _ioMdHeartDislike :: ReactIcon
 
 ioMdHeartDislike :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdHeartDislike = element (unsafeCoerce ioMdHeartDislike_)
+ioMdHeartDislike = element (unsafeCoerce _ioMdHeartDislike)
 
-foreign import ioMdHeartEmpty_ :: ReactIcon
+foreign import _ioMdHeartEmpty :: ReactIcon
 
 ioMdHeartEmpty :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdHeartEmpty = element (unsafeCoerce ioMdHeartEmpty_)
+ioMdHeartEmpty = element (unsafeCoerce _ioMdHeartEmpty)
 
-foreign import ioMdHeartHalf_ :: ReactIcon
+foreign import _ioMdHeartHalf :: ReactIcon
 
 ioMdHeartHalf :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdHeartHalf = element (unsafeCoerce ioMdHeartHalf_)
+ioMdHeartHalf = element (unsafeCoerce _ioMdHeartHalf)
 
-foreign import ioMdHelp_ :: ReactIcon
+foreign import _ioMdHelp :: ReactIcon
 
 ioMdHelp :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdHelp = element (unsafeCoerce ioMdHelp_)
+ioMdHelp = element (unsafeCoerce _ioMdHelp)
 
-foreign import ioMdHelpBuoy_ :: ReactIcon
+foreign import _ioMdHelpBuoy :: ReactIcon
 
 ioMdHelpBuoy :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdHelpBuoy = element (unsafeCoerce ioMdHelpBuoy_)
+ioMdHelpBuoy = element (unsafeCoerce _ioMdHelpBuoy)
 
-foreign import ioMdHelpCircle_ :: ReactIcon
+foreign import _ioMdHelpCircle :: ReactIcon
 
 ioMdHelpCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdHelpCircle = element (unsafeCoerce ioMdHelpCircle_)
+ioMdHelpCircle = element (unsafeCoerce _ioMdHelpCircle)
 
-foreign import ioMdHelpCircleOutline_ :: ReactIcon
+foreign import _ioMdHelpCircleOutline :: ReactIcon
 
 ioMdHelpCircleOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdHelpCircleOutline = element (unsafeCoerce ioMdHelpCircleOutline_)
+ioMdHelpCircleOutline = element (unsafeCoerce _ioMdHelpCircleOutline)
 
-foreign import ioMdHome_ :: ReactIcon
+foreign import _ioMdHome :: ReactIcon
 
 ioMdHome :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdHome = element (unsafeCoerce ioMdHome_)
+ioMdHome = element (unsafeCoerce _ioMdHome)
 
-foreign import ioMdHourglass_ :: ReactIcon
+foreign import _ioMdHourglass :: ReactIcon
 
 ioMdHourglass :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdHourglass = element (unsafeCoerce ioMdHourglass_)
+ioMdHourglass = element (unsafeCoerce _ioMdHourglass)
 
-foreign import ioMdIceCream_ :: ReactIcon
+foreign import _ioMdIceCream :: ReactIcon
 
 ioMdIceCream :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdIceCream = element (unsafeCoerce ioMdIceCream_)
+ioMdIceCream = element (unsafeCoerce _ioMdIceCream)
 
-foreign import ioMdImage_ :: ReactIcon
+foreign import _ioMdImage :: ReactIcon
 
 ioMdImage :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdImage = element (unsafeCoerce ioMdImage_)
+ioMdImage = element (unsafeCoerce _ioMdImage)
 
-foreign import ioMdImages_ :: ReactIcon
+foreign import _ioMdImages :: ReactIcon
 
 ioMdImages :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdImages = element (unsafeCoerce ioMdImages_)
+ioMdImages = element (unsafeCoerce _ioMdImages)
 
-foreign import ioMdInfinite_ :: ReactIcon
+foreign import _ioMdInfinite :: ReactIcon
 
 ioMdInfinite :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdInfinite = element (unsafeCoerce ioMdInfinite_)
+ioMdInfinite = element (unsafeCoerce _ioMdInfinite)
 
-foreign import ioMdInformation_ :: ReactIcon
+foreign import _ioMdInformation :: ReactIcon
 
 ioMdInformation :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdInformation = element (unsafeCoerce ioMdInformation_)
+ioMdInformation = element (unsafeCoerce _ioMdInformation)
 
-foreign import ioMdInformationCircle_ :: ReactIcon
+foreign import _ioMdInformationCircle :: ReactIcon
 
 ioMdInformationCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdInformationCircle = element (unsafeCoerce ioMdInformationCircle_)
+ioMdInformationCircle = element (unsafeCoerce _ioMdInformationCircle)
 
-foreign import ioMdInformationCircleOutline_ :: ReactIcon
+foreign import _ioMdInformationCircleOutline :: ReactIcon
 
 ioMdInformationCircleOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdInformationCircleOutline = element (unsafeCoerce ioMdInformationCircleOutline_)
+ioMdInformationCircleOutline = element (unsafeCoerce _ioMdInformationCircleOutline)
 
-foreign import ioMdJet_ :: ReactIcon
+foreign import _ioMdJet :: ReactIcon
 
 ioMdJet :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdJet = element (unsafeCoerce ioMdJet_)
+ioMdJet = element (unsafeCoerce _ioMdJet)
 
-foreign import ioMdJournal_ :: ReactIcon
+foreign import _ioMdJournal :: ReactIcon
 
 ioMdJournal :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdJournal = element (unsafeCoerce ioMdJournal_)
+ioMdJournal = element (unsafeCoerce _ioMdJournal)
 
-foreign import ioMdKey_ :: ReactIcon
+foreign import _ioMdKey :: ReactIcon
 
 ioMdKey :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdKey = element (unsafeCoerce ioMdKey_)
+ioMdKey = element (unsafeCoerce _ioMdKey)
 
-foreign import ioMdKeypad_ :: ReactIcon
+foreign import _ioMdKeypad :: ReactIcon
 
 ioMdKeypad :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdKeypad = element (unsafeCoerce ioMdKeypad_)
+ioMdKeypad = element (unsafeCoerce _ioMdKeypad)
 
-foreign import ioMdLaptop_ :: ReactIcon
+foreign import _ioMdLaptop :: ReactIcon
 
 ioMdLaptop :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdLaptop = element (unsafeCoerce ioMdLaptop_)
+ioMdLaptop = element (unsafeCoerce _ioMdLaptop)
 
-foreign import ioMdLeaf_ :: ReactIcon
+foreign import _ioMdLeaf :: ReactIcon
 
 ioMdLeaf :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdLeaf = element (unsafeCoerce ioMdLeaf_)
+ioMdLeaf = element (unsafeCoerce _ioMdLeaf)
 
-foreign import ioMdLink_ :: ReactIcon
+foreign import _ioMdLink :: ReactIcon
 
 ioMdLink :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdLink = element (unsafeCoerce ioMdLink_)
+ioMdLink = element (unsafeCoerce _ioMdLink)
 
-foreign import ioMdList_ :: ReactIcon
+foreign import _ioMdList :: ReactIcon
 
 ioMdList :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdList = element (unsafeCoerce ioMdList_)
+ioMdList = element (unsafeCoerce _ioMdList)
 
-foreign import ioMdListBox_ :: ReactIcon
+foreign import _ioMdListBox :: ReactIcon
 
 ioMdListBox :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdListBox = element (unsafeCoerce ioMdListBox_)
+ioMdListBox = element (unsafeCoerce _ioMdListBox)
 
-foreign import ioMdLocate_ :: ReactIcon
+foreign import _ioMdLocate :: ReactIcon
 
 ioMdLocate :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdLocate = element (unsafeCoerce ioMdLocate_)
+ioMdLocate = element (unsafeCoerce _ioMdLocate)
 
-foreign import ioMdLock_ :: ReactIcon
+foreign import _ioMdLock :: ReactIcon
 
 ioMdLock :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdLock = element (unsafeCoerce ioMdLock_)
+ioMdLock = element (unsafeCoerce _ioMdLock)
 
-foreign import ioMdLogIn_ :: ReactIcon
+foreign import _ioMdLogIn :: ReactIcon
 
 ioMdLogIn :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdLogIn = element (unsafeCoerce ioMdLogIn_)
+ioMdLogIn = element (unsafeCoerce _ioMdLogIn)
 
-foreign import ioMdLogOut_ :: ReactIcon
+foreign import _ioMdLogOut :: ReactIcon
 
 ioMdLogOut :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdLogOut = element (unsafeCoerce ioMdLogOut_)
+ioMdLogOut = element (unsafeCoerce _ioMdLogOut)
 
-foreign import ioMdMagnet_ :: ReactIcon
+foreign import _ioMdMagnet :: ReactIcon
 
 ioMdMagnet :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdMagnet = element (unsafeCoerce ioMdMagnet_)
+ioMdMagnet = element (unsafeCoerce _ioMdMagnet)
 
-foreign import ioMdMail_ :: ReactIcon
+foreign import _ioMdMail :: ReactIcon
 
 ioMdMail :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdMail = element (unsafeCoerce ioMdMail_)
+ioMdMail = element (unsafeCoerce _ioMdMail)
 
-foreign import ioMdMailOpen_ :: ReactIcon
+foreign import _ioMdMailOpen :: ReactIcon
 
 ioMdMailOpen :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdMailOpen = element (unsafeCoerce ioMdMailOpen_)
+ioMdMailOpen = element (unsafeCoerce _ioMdMailOpen)
 
-foreign import ioMdMailUnread_ :: ReactIcon
+foreign import _ioMdMailUnread :: ReactIcon
 
 ioMdMailUnread :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdMailUnread = element (unsafeCoerce ioMdMailUnread_)
+ioMdMailUnread = element (unsafeCoerce _ioMdMailUnread)
 
-foreign import ioMdMale_ :: ReactIcon
+foreign import _ioMdMale :: ReactIcon
 
 ioMdMale :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdMale = element (unsafeCoerce ioMdMale_)
+ioMdMale = element (unsafeCoerce _ioMdMale)
 
-foreign import ioMdMan_ :: ReactIcon
+foreign import _ioMdMan :: ReactIcon
 
 ioMdMan :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdMan = element (unsafeCoerce ioMdMan_)
+ioMdMan = element (unsafeCoerce _ioMdMan)
 
-foreign import ioMdMap_ :: ReactIcon
+foreign import _ioMdMap :: ReactIcon
 
 ioMdMap :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdMap = element (unsafeCoerce ioMdMap_)
+ioMdMap = element (unsafeCoerce _ioMdMap)
 
-foreign import ioMdMedal_ :: ReactIcon
+foreign import _ioMdMedal :: ReactIcon
 
 ioMdMedal :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdMedal = element (unsafeCoerce ioMdMedal_)
+ioMdMedal = element (unsafeCoerce _ioMdMedal)
 
-foreign import ioMdMedical_ :: ReactIcon
+foreign import _ioMdMedical :: ReactIcon
 
 ioMdMedical :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdMedical = element (unsafeCoerce ioMdMedical_)
+ioMdMedical = element (unsafeCoerce _ioMdMedical)
 
-foreign import ioMdMedkit_ :: ReactIcon
+foreign import _ioMdMedkit :: ReactIcon
 
 ioMdMedkit :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdMedkit = element (unsafeCoerce ioMdMedkit_)
+ioMdMedkit = element (unsafeCoerce _ioMdMedkit)
 
-foreign import ioMdMegaphone_ :: ReactIcon
+foreign import _ioMdMegaphone :: ReactIcon
 
 ioMdMegaphone :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdMegaphone = element (unsafeCoerce ioMdMegaphone_)
+ioMdMegaphone = element (unsafeCoerce _ioMdMegaphone)
 
-foreign import ioMdMenu_ :: ReactIcon
+foreign import _ioMdMenu :: ReactIcon
 
 ioMdMenu :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdMenu = element (unsafeCoerce ioMdMenu_)
+ioMdMenu = element (unsafeCoerce _ioMdMenu)
 
-foreign import ioMdMic_ :: ReactIcon
+foreign import _ioMdMic :: ReactIcon
 
 ioMdMic :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdMic = element (unsafeCoerce ioMdMic_)
+ioMdMic = element (unsafeCoerce _ioMdMic)
 
-foreign import ioMdMicOff_ :: ReactIcon
+foreign import _ioMdMicOff :: ReactIcon
 
 ioMdMicOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdMicOff = element (unsafeCoerce ioMdMicOff_)
+ioMdMicOff = element (unsafeCoerce _ioMdMicOff)
 
-foreign import ioMdMicrophone_ :: ReactIcon
+foreign import _ioMdMicrophone :: ReactIcon
 
 ioMdMicrophone :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdMicrophone = element (unsafeCoerce ioMdMicrophone_)
+ioMdMicrophone = element (unsafeCoerce _ioMdMicrophone)
 
-foreign import ioMdMoon_ :: ReactIcon
+foreign import _ioMdMoon :: ReactIcon
 
 ioMdMoon :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdMoon = element (unsafeCoerce ioMdMoon_)
+ioMdMoon = element (unsafeCoerce _ioMdMoon)
 
-foreign import ioMdMore_ :: ReactIcon
+foreign import _ioMdMore :: ReactIcon
 
 ioMdMore :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdMore = element (unsafeCoerce ioMdMore_)
+ioMdMore = element (unsafeCoerce _ioMdMore)
 
-foreign import ioMdMove_ :: ReactIcon
+foreign import _ioMdMove :: ReactIcon
 
 ioMdMove :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdMove = element (unsafeCoerce ioMdMove_)
+ioMdMove = element (unsafeCoerce _ioMdMove)
 
-foreign import ioMdMusicalNote_ :: ReactIcon
+foreign import _ioMdMusicalNote :: ReactIcon
 
 ioMdMusicalNote :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdMusicalNote = element (unsafeCoerce ioMdMusicalNote_)
+ioMdMusicalNote = element (unsafeCoerce _ioMdMusicalNote)
 
-foreign import ioMdMusicalNotes_ :: ReactIcon
+foreign import _ioMdMusicalNotes :: ReactIcon
 
 ioMdMusicalNotes :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdMusicalNotes = element (unsafeCoerce ioMdMusicalNotes_)
+ioMdMusicalNotes = element (unsafeCoerce _ioMdMusicalNotes)
 
-foreign import ioMdNavigate_ :: ReactIcon
+foreign import _ioMdNavigate :: ReactIcon
 
 ioMdNavigate :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdNavigate = element (unsafeCoerce ioMdNavigate_)
+ioMdNavigate = element (unsafeCoerce _ioMdNavigate)
 
-foreign import ioMdNotifications_ :: ReactIcon
+foreign import _ioMdNotifications :: ReactIcon
 
 ioMdNotifications :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdNotifications = element (unsafeCoerce ioMdNotifications_)
+ioMdNotifications = element (unsafeCoerce _ioMdNotifications)
 
-foreign import ioMdNotificationsOff_ :: ReactIcon
+foreign import _ioMdNotificationsOff :: ReactIcon
 
 ioMdNotificationsOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdNotificationsOff = element (unsafeCoerce ioMdNotificationsOff_)
+ioMdNotificationsOff = element (unsafeCoerce _ioMdNotificationsOff)
 
-foreign import ioMdNotificationsOutline_ :: ReactIcon
+foreign import _ioMdNotificationsOutline :: ReactIcon
 
 ioMdNotificationsOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdNotificationsOutline = element (unsafeCoerce ioMdNotificationsOutline_)
+ioMdNotificationsOutline = element (unsafeCoerce _ioMdNotificationsOutline)
 
-foreign import ioMdNuclear_ :: ReactIcon
+foreign import _ioMdNuclear :: ReactIcon
 
 ioMdNuclear :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdNuclear = element (unsafeCoerce ioMdNuclear_)
+ioMdNuclear = element (unsafeCoerce _ioMdNuclear)
 
-foreign import ioMdNutrition_ :: ReactIcon
+foreign import _ioMdNutrition :: ReactIcon
 
 ioMdNutrition :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdNutrition = element (unsafeCoerce ioMdNutrition_)
+ioMdNutrition = element (unsafeCoerce _ioMdNutrition)
 
-foreign import ioMdOpen_ :: ReactIcon
+foreign import _ioMdOpen :: ReactIcon
 
 ioMdOpen :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdOpen = element (unsafeCoerce ioMdOpen_)
+ioMdOpen = element (unsafeCoerce _ioMdOpen)
 
-foreign import ioMdOptions_ :: ReactIcon
+foreign import _ioMdOptions :: ReactIcon
 
 ioMdOptions :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdOptions = element (unsafeCoerce ioMdOptions_)
+ioMdOptions = element (unsafeCoerce _ioMdOptions)
 
-foreign import ioMdOutlet_ :: ReactIcon
+foreign import _ioMdOutlet :: ReactIcon
 
 ioMdOutlet :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdOutlet = element (unsafeCoerce ioMdOutlet_)
+ioMdOutlet = element (unsafeCoerce _ioMdOutlet)
 
-foreign import ioMdPaper_ :: ReactIcon
+foreign import _ioMdPaper :: ReactIcon
 
 ioMdPaper :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdPaper = element (unsafeCoerce ioMdPaper_)
+ioMdPaper = element (unsafeCoerce _ioMdPaper)
 
-foreign import ioMdPaperPlane_ :: ReactIcon
+foreign import _ioMdPaperPlane :: ReactIcon
 
 ioMdPaperPlane :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdPaperPlane = element (unsafeCoerce ioMdPaperPlane_)
+ioMdPaperPlane = element (unsafeCoerce _ioMdPaperPlane)
 
-foreign import ioMdPartlySunny_ :: ReactIcon
+foreign import _ioMdPartlySunny :: ReactIcon
 
 ioMdPartlySunny :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdPartlySunny = element (unsafeCoerce ioMdPartlySunny_)
+ioMdPartlySunny = element (unsafeCoerce _ioMdPartlySunny)
 
-foreign import ioMdPause_ :: ReactIcon
+foreign import _ioMdPause :: ReactIcon
 
 ioMdPause :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdPause = element (unsafeCoerce ioMdPause_)
+ioMdPause = element (unsafeCoerce _ioMdPause)
 
-foreign import ioMdPaw_ :: ReactIcon
+foreign import _ioMdPaw :: ReactIcon
 
 ioMdPaw :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdPaw = element (unsafeCoerce ioMdPaw_)
+ioMdPaw = element (unsafeCoerce _ioMdPaw)
 
-foreign import ioMdPeople_ :: ReactIcon
+foreign import _ioMdPeople :: ReactIcon
 
 ioMdPeople :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdPeople = element (unsafeCoerce ioMdPeople_)
+ioMdPeople = element (unsafeCoerce _ioMdPeople)
 
-foreign import ioMdPerson_ :: ReactIcon
+foreign import _ioMdPerson :: ReactIcon
 
 ioMdPerson :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdPerson = element (unsafeCoerce ioMdPerson_)
+ioMdPerson = element (unsafeCoerce _ioMdPerson)
 
-foreign import ioMdPersonAdd_ :: ReactIcon
+foreign import _ioMdPersonAdd :: ReactIcon
 
 ioMdPersonAdd :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdPersonAdd = element (unsafeCoerce ioMdPersonAdd_)
+ioMdPersonAdd = element (unsafeCoerce _ioMdPersonAdd)
 
-foreign import ioMdPhoneLandscape_ :: ReactIcon
+foreign import _ioMdPhoneLandscape :: ReactIcon
 
 ioMdPhoneLandscape :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdPhoneLandscape = element (unsafeCoerce ioMdPhoneLandscape_)
+ioMdPhoneLandscape = element (unsafeCoerce _ioMdPhoneLandscape)
 
-foreign import ioMdPhonePortrait_ :: ReactIcon
+foreign import _ioMdPhonePortrait :: ReactIcon
 
 ioMdPhonePortrait :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdPhonePortrait = element (unsafeCoerce ioMdPhonePortrait_)
+ioMdPhonePortrait = element (unsafeCoerce _ioMdPhonePortrait)
 
-foreign import ioMdPhotos_ :: ReactIcon
+foreign import _ioMdPhotos :: ReactIcon
 
 ioMdPhotos :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdPhotos = element (unsafeCoerce ioMdPhotos_)
+ioMdPhotos = element (unsafeCoerce _ioMdPhotos)
 
-foreign import ioMdPie_ :: ReactIcon
+foreign import _ioMdPie :: ReactIcon
 
 ioMdPie :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdPie = element (unsafeCoerce ioMdPie_)
+ioMdPie = element (unsafeCoerce _ioMdPie)
 
-foreign import ioMdPin_ :: ReactIcon
+foreign import _ioMdPin :: ReactIcon
 
 ioMdPin :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdPin = element (unsafeCoerce ioMdPin_)
+ioMdPin = element (unsafeCoerce _ioMdPin)
 
-foreign import ioMdPint_ :: ReactIcon
+foreign import _ioMdPint :: ReactIcon
 
 ioMdPint :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdPint = element (unsafeCoerce ioMdPint_)
+ioMdPint = element (unsafeCoerce _ioMdPint)
 
-foreign import ioMdPizza_ :: ReactIcon
+foreign import _ioMdPizza :: ReactIcon
 
 ioMdPizza :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdPizza = element (unsafeCoerce ioMdPizza_)
+ioMdPizza = element (unsafeCoerce _ioMdPizza)
 
-foreign import ioMdPlanet_ :: ReactIcon
+foreign import _ioMdPlanet :: ReactIcon
 
 ioMdPlanet :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdPlanet = element (unsafeCoerce ioMdPlanet_)
+ioMdPlanet = element (unsafeCoerce _ioMdPlanet)
 
-foreign import ioMdPlay_ :: ReactIcon
+foreign import _ioMdPlay :: ReactIcon
 
 ioMdPlay :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdPlay = element (unsafeCoerce ioMdPlay_)
+ioMdPlay = element (unsafeCoerce _ioMdPlay)
 
-foreign import ioMdPlayCircle_ :: ReactIcon
+foreign import _ioMdPlayCircle :: ReactIcon
 
 ioMdPlayCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdPlayCircle = element (unsafeCoerce ioMdPlayCircle_)
+ioMdPlayCircle = element (unsafeCoerce _ioMdPlayCircle)
 
-foreign import ioMdPodium_ :: ReactIcon
+foreign import _ioMdPodium :: ReactIcon
 
 ioMdPodium :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdPodium = element (unsafeCoerce ioMdPodium_)
+ioMdPodium = element (unsafeCoerce _ioMdPodium)
 
-foreign import ioMdPower_ :: ReactIcon
+foreign import _ioMdPower :: ReactIcon
 
 ioMdPower :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdPower = element (unsafeCoerce ioMdPower_)
+ioMdPower = element (unsafeCoerce _ioMdPower)
 
-foreign import ioMdPricetag_ :: ReactIcon
+foreign import _ioMdPricetag :: ReactIcon
 
 ioMdPricetag :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdPricetag = element (unsafeCoerce ioMdPricetag_)
+ioMdPricetag = element (unsafeCoerce _ioMdPricetag)
 
-foreign import ioMdPricetags_ :: ReactIcon
+foreign import _ioMdPricetags :: ReactIcon
 
 ioMdPricetags :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdPricetags = element (unsafeCoerce ioMdPricetags_)
+ioMdPricetags = element (unsafeCoerce _ioMdPricetags)
 
-foreign import ioMdPrint_ :: ReactIcon
+foreign import _ioMdPrint :: ReactIcon
 
 ioMdPrint :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdPrint = element (unsafeCoerce ioMdPrint_)
+ioMdPrint = element (unsafeCoerce _ioMdPrint)
 
-foreign import ioMdPulse_ :: ReactIcon
+foreign import _ioMdPulse :: ReactIcon
 
 ioMdPulse :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdPulse = element (unsafeCoerce ioMdPulse_)
+ioMdPulse = element (unsafeCoerce _ioMdPulse)
 
-foreign import ioMdQrScanner_ :: ReactIcon
+foreign import _ioMdQrScanner :: ReactIcon
 
 ioMdQrScanner :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdQrScanner = element (unsafeCoerce ioMdQrScanner_)
+ioMdQrScanner = element (unsafeCoerce _ioMdQrScanner)
 
-foreign import ioMdQuote_ :: ReactIcon
+foreign import _ioMdQuote :: ReactIcon
 
 ioMdQuote :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdQuote = element (unsafeCoerce ioMdQuote_)
+ioMdQuote = element (unsafeCoerce _ioMdQuote)
 
-foreign import ioMdRadio_ :: ReactIcon
+foreign import _ioMdRadio :: ReactIcon
 
 ioMdRadio :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdRadio = element (unsafeCoerce ioMdRadio_)
+ioMdRadio = element (unsafeCoerce _ioMdRadio)
 
-foreign import ioMdRadioButtonOff_ :: ReactIcon
+foreign import _ioMdRadioButtonOff :: ReactIcon
 
 ioMdRadioButtonOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdRadioButtonOff = element (unsafeCoerce ioMdRadioButtonOff_)
+ioMdRadioButtonOff = element (unsafeCoerce _ioMdRadioButtonOff)
 
-foreign import ioMdRadioButtonOn_ :: ReactIcon
+foreign import _ioMdRadioButtonOn :: ReactIcon
 
 ioMdRadioButtonOn :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdRadioButtonOn = element (unsafeCoerce ioMdRadioButtonOn_)
+ioMdRadioButtonOn = element (unsafeCoerce _ioMdRadioButtonOn)
 
-foreign import ioMdRainy_ :: ReactIcon
+foreign import _ioMdRainy :: ReactIcon
 
 ioMdRainy :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdRainy = element (unsafeCoerce ioMdRainy_)
+ioMdRainy = element (unsafeCoerce _ioMdRainy)
 
-foreign import ioMdRecording_ :: ReactIcon
+foreign import _ioMdRecording :: ReactIcon
 
 ioMdRecording :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdRecording = element (unsafeCoerce ioMdRecording_)
+ioMdRecording = element (unsafeCoerce _ioMdRecording)
 
-foreign import ioMdRedo_ :: ReactIcon
+foreign import _ioMdRedo :: ReactIcon
 
 ioMdRedo :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdRedo = element (unsafeCoerce ioMdRedo_)
+ioMdRedo = element (unsafeCoerce _ioMdRedo)
 
-foreign import ioMdRefresh_ :: ReactIcon
+foreign import _ioMdRefresh :: ReactIcon
 
 ioMdRefresh :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdRefresh = element (unsafeCoerce ioMdRefresh_)
+ioMdRefresh = element (unsafeCoerce _ioMdRefresh)
 
-foreign import ioMdRefreshCircle_ :: ReactIcon
+foreign import _ioMdRefreshCircle :: ReactIcon
 
 ioMdRefreshCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdRefreshCircle = element (unsafeCoerce ioMdRefreshCircle_)
+ioMdRefreshCircle = element (unsafeCoerce _ioMdRefreshCircle)
 
-foreign import ioMdRemove_ :: ReactIcon
+foreign import _ioMdRemove :: ReactIcon
 
 ioMdRemove :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdRemove = element (unsafeCoerce ioMdRemove_)
+ioMdRemove = element (unsafeCoerce _ioMdRemove)
 
-foreign import ioMdRemoveCircle_ :: ReactIcon
+foreign import _ioMdRemoveCircle :: ReactIcon
 
 ioMdRemoveCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdRemoveCircle = element (unsafeCoerce ioMdRemoveCircle_)
+ioMdRemoveCircle = element (unsafeCoerce _ioMdRemoveCircle)
 
-foreign import ioMdRemoveCircleOutline_ :: ReactIcon
+foreign import _ioMdRemoveCircleOutline :: ReactIcon
 
 ioMdRemoveCircleOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdRemoveCircleOutline = element (unsafeCoerce ioMdRemoveCircleOutline_)
+ioMdRemoveCircleOutline = element (unsafeCoerce _ioMdRemoveCircleOutline)
 
-foreign import ioMdReorder_ :: ReactIcon
+foreign import _ioMdReorder :: ReactIcon
 
 ioMdReorder :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdReorder = element (unsafeCoerce ioMdReorder_)
+ioMdReorder = element (unsafeCoerce _ioMdReorder)
 
-foreign import ioMdRepeat_ :: ReactIcon
+foreign import _ioMdRepeat :: ReactIcon
 
 ioMdRepeat :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdRepeat = element (unsafeCoerce ioMdRepeat_)
+ioMdRepeat = element (unsafeCoerce _ioMdRepeat)
 
-foreign import ioMdResize_ :: ReactIcon
+foreign import _ioMdResize :: ReactIcon
 
 ioMdResize :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdResize = element (unsafeCoerce ioMdResize_)
+ioMdResize = element (unsafeCoerce _ioMdResize)
 
-foreign import ioMdRestaurant_ :: ReactIcon
+foreign import _ioMdRestaurant :: ReactIcon
 
 ioMdRestaurant :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdRestaurant = element (unsafeCoerce ioMdRestaurant_)
+ioMdRestaurant = element (unsafeCoerce _ioMdRestaurant)
 
-foreign import ioMdReturnLeft_ :: ReactIcon
+foreign import _ioMdReturnLeft :: ReactIcon
 
 ioMdReturnLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdReturnLeft = element (unsafeCoerce ioMdReturnLeft_)
+ioMdReturnLeft = element (unsafeCoerce _ioMdReturnLeft)
 
-foreign import ioMdReturnRight_ :: ReactIcon
+foreign import _ioMdReturnRight :: ReactIcon
 
 ioMdReturnRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdReturnRight = element (unsafeCoerce ioMdReturnRight_)
+ioMdReturnRight = element (unsafeCoerce _ioMdReturnRight)
 
-foreign import ioMdReverseCamera_ :: ReactIcon
+foreign import _ioMdReverseCamera :: ReactIcon
 
 ioMdReverseCamera :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdReverseCamera = element (unsafeCoerce ioMdReverseCamera_)
+ioMdReverseCamera = element (unsafeCoerce _ioMdReverseCamera)
 
-foreign import ioMdRewind_ :: ReactIcon
+foreign import _ioMdRewind :: ReactIcon
 
 ioMdRewind :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdRewind = element (unsafeCoerce ioMdRewind_)
+ioMdRewind = element (unsafeCoerce _ioMdRewind)
 
-foreign import ioMdRibbon_ :: ReactIcon
+foreign import _ioMdRibbon :: ReactIcon
 
 ioMdRibbon :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdRibbon = element (unsafeCoerce ioMdRibbon_)
+ioMdRibbon = element (unsafeCoerce _ioMdRibbon)
 
-foreign import ioMdRocket_ :: ReactIcon
+foreign import _ioMdRocket :: ReactIcon
 
 ioMdRocket :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdRocket = element (unsafeCoerce ioMdRocket_)
+ioMdRocket = element (unsafeCoerce _ioMdRocket)
 
-foreign import ioMdRose_ :: ReactIcon
+foreign import _ioMdRose :: ReactIcon
 
 ioMdRose :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdRose = element (unsafeCoerce ioMdRose_)
+ioMdRose = element (unsafeCoerce _ioMdRose)
 
-foreign import ioMdSad_ :: ReactIcon
+foreign import _ioMdSad :: ReactIcon
 
 ioMdSad :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdSad = element (unsafeCoerce ioMdSad_)
+ioMdSad = element (unsafeCoerce _ioMdSad)
 
-foreign import ioMdSave_ :: ReactIcon
+foreign import _ioMdSave :: ReactIcon
 
 ioMdSave :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdSave = element (unsafeCoerce ioMdSave_)
+ioMdSave = element (unsafeCoerce _ioMdSave)
 
-foreign import ioMdSchool_ :: ReactIcon
+foreign import _ioMdSchool :: ReactIcon
 
 ioMdSchool :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdSchool = element (unsafeCoerce ioMdSchool_)
+ioMdSchool = element (unsafeCoerce _ioMdSchool)
 
-foreign import ioMdSearch_ :: ReactIcon
+foreign import _ioMdSearch :: ReactIcon
 
 ioMdSearch :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdSearch = element (unsafeCoerce ioMdSearch_)
+ioMdSearch = element (unsafeCoerce _ioMdSearch)
 
-foreign import ioMdSend_ :: ReactIcon
+foreign import _ioMdSend :: ReactIcon
 
 ioMdSend :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdSend = element (unsafeCoerce ioMdSend_)
+ioMdSend = element (unsafeCoerce _ioMdSend)
 
-foreign import ioMdSettings_ :: ReactIcon
+foreign import _ioMdSettings :: ReactIcon
 
 ioMdSettings :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdSettings = element (unsafeCoerce ioMdSettings_)
+ioMdSettings = element (unsafeCoerce _ioMdSettings)
 
-foreign import ioMdShare_ :: ReactIcon
+foreign import _ioMdShare :: ReactIcon
 
 ioMdShare :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdShare = element (unsafeCoerce ioMdShare_)
+ioMdShare = element (unsafeCoerce _ioMdShare)
 
-foreign import ioMdShareAlt_ :: ReactIcon
+foreign import _ioMdShareAlt :: ReactIcon
 
 ioMdShareAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdShareAlt = element (unsafeCoerce ioMdShareAlt_)
+ioMdShareAlt = element (unsafeCoerce _ioMdShareAlt)
 
-foreign import ioMdShirt_ :: ReactIcon
+foreign import _ioMdShirt :: ReactIcon
 
 ioMdShirt :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdShirt = element (unsafeCoerce ioMdShirt_)
+ioMdShirt = element (unsafeCoerce _ioMdShirt)
 
-foreign import ioMdShuffle_ :: ReactIcon
+foreign import _ioMdShuffle :: ReactIcon
 
 ioMdShuffle :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdShuffle = element (unsafeCoerce ioMdShuffle_)
+ioMdShuffle = element (unsafeCoerce _ioMdShuffle)
 
-foreign import ioMdSkipBackward_ :: ReactIcon
+foreign import _ioMdSkipBackward :: ReactIcon
 
 ioMdSkipBackward :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdSkipBackward = element (unsafeCoerce ioMdSkipBackward_)
+ioMdSkipBackward = element (unsafeCoerce _ioMdSkipBackward)
 
-foreign import ioMdSkipForward_ :: ReactIcon
+foreign import _ioMdSkipForward :: ReactIcon
 
 ioMdSkipForward :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdSkipForward = element (unsafeCoerce ioMdSkipForward_)
+ioMdSkipForward = element (unsafeCoerce _ioMdSkipForward)
 
-foreign import ioMdSnow_ :: ReactIcon
+foreign import _ioMdSnow :: ReactIcon
 
 ioMdSnow :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdSnow = element (unsafeCoerce ioMdSnow_)
+ioMdSnow = element (unsafeCoerce _ioMdSnow)
 
-foreign import ioMdSpeedometer_ :: ReactIcon
+foreign import _ioMdSpeedometer :: ReactIcon
 
 ioMdSpeedometer :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdSpeedometer = element (unsafeCoerce ioMdSpeedometer_)
+ioMdSpeedometer = element (unsafeCoerce _ioMdSpeedometer)
 
-foreign import ioMdSquare_ :: ReactIcon
+foreign import _ioMdSquare :: ReactIcon
 
 ioMdSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdSquare = element (unsafeCoerce ioMdSquare_)
+ioMdSquare = element (unsafeCoerce _ioMdSquare)
 
-foreign import ioMdSquareOutline_ :: ReactIcon
+foreign import _ioMdSquareOutline :: ReactIcon
 
 ioMdSquareOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdSquareOutline = element (unsafeCoerce ioMdSquareOutline_)
+ioMdSquareOutline = element (unsafeCoerce _ioMdSquareOutline)
 
-foreign import ioMdStar_ :: ReactIcon
+foreign import _ioMdStar :: ReactIcon
 
 ioMdStar :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdStar = element (unsafeCoerce ioMdStar_)
+ioMdStar = element (unsafeCoerce _ioMdStar)
 
-foreign import ioMdStarHalf_ :: ReactIcon
+foreign import _ioMdStarHalf :: ReactIcon
 
 ioMdStarHalf :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdStarHalf = element (unsafeCoerce ioMdStarHalf_)
+ioMdStarHalf = element (unsafeCoerce _ioMdStarHalf)
 
-foreign import ioMdStarOutline_ :: ReactIcon
+foreign import _ioMdStarOutline :: ReactIcon
 
 ioMdStarOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdStarOutline = element (unsafeCoerce ioMdStarOutline_)
+ioMdStarOutline = element (unsafeCoerce _ioMdStarOutline)
 
-foreign import ioMdStats_ :: ReactIcon
+foreign import _ioMdStats :: ReactIcon
 
 ioMdStats :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdStats = element (unsafeCoerce ioMdStats_)
+ioMdStats = element (unsafeCoerce _ioMdStats)
 
-foreign import ioMdStopwatch_ :: ReactIcon
+foreign import _ioMdStopwatch :: ReactIcon
 
 ioMdStopwatch :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdStopwatch = element (unsafeCoerce ioMdStopwatch_)
+ioMdStopwatch = element (unsafeCoerce _ioMdStopwatch)
 
-foreign import ioMdSubway_ :: ReactIcon
+foreign import _ioMdSubway :: ReactIcon
 
 ioMdSubway :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdSubway = element (unsafeCoerce ioMdSubway_)
+ioMdSubway = element (unsafeCoerce _ioMdSubway)
 
-foreign import ioMdSunny_ :: ReactIcon
+foreign import _ioMdSunny :: ReactIcon
 
 ioMdSunny :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdSunny = element (unsafeCoerce ioMdSunny_)
+ioMdSunny = element (unsafeCoerce _ioMdSunny)
 
-foreign import ioMdSwap_ :: ReactIcon
+foreign import _ioMdSwap :: ReactIcon
 
 ioMdSwap :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdSwap = element (unsafeCoerce ioMdSwap_)
+ioMdSwap = element (unsafeCoerce _ioMdSwap)
 
-foreign import ioMdSwitch_ :: ReactIcon
+foreign import _ioMdSwitch :: ReactIcon
 
 ioMdSwitch :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdSwitch = element (unsafeCoerce ioMdSwitch_)
+ioMdSwitch = element (unsafeCoerce _ioMdSwitch)
 
-foreign import ioMdSync_ :: ReactIcon
+foreign import _ioMdSync :: ReactIcon
 
 ioMdSync :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdSync = element (unsafeCoerce ioMdSync_)
+ioMdSync = element (unsafeCoerce _ioMdSync)
 
-foreign import ioMdTabletLandscape_ :: ReactIcon
+foreign import _ioMdTabletLandscape :: ReactIcon
 
 ioMdTabletLandscape :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdTabletLandscape = element (unsafeCoerce ioMdTabletLandscape_)
+ioMdTabletLandscape = element (unsafeCoerce _ioMdTabletLandscape)
 
-foreign import ioMdTabletPortrait_ :: ReactIcon
+foreign import _ioMdTabletPortrait :: ReactIcon
 
 ioMdTabletPortrait :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdTabletPortrait = element (unsafeCoerce ioMdTabletPortrait_)
+ioMdTabletPortrait = element (unsafeCoerce _ioMdTabletPortrait)
 
-foreign import ioMdTennisball_ :: ReactIcon
+foreign import _ioMdTennisball :: ReactIcon
 
 ioMdTennisball :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdTennisball = element (unsafeCoerce ioMdTennisball_)
+ioMdTennisball = element (unsafeCoerce _ioMdTennisball)
 
-foreign import ioMdText_ :: ReactIcon
+foreign import _ioMdText :: ReactIcon
 
 ioMdText :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdText = element (unsafeCoerce ioMdText_)
+ioMdText = element (unsafeCoerce _ioMdText)
 
-foreign import ioMdThermometer_ :: ReactIcon
+foreign import _ioMdThermometer :: ReactIcon
 
 ioMdThermometer :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdThermometer = element (unsafeCoerce ioMdThermometer_)
+ioMdThermometer = element (unsafeCoerce _ioMdThermometer)
 
-foreign import ioMdThumbsDown_ :: ReactIcon
+foreign import _ioMdThumbsDown :: ReactIcon
 
 ioMdThumbsDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdThumbsDown = element (unsafeCoerce ioMdThumbsDown_)
+ioMdThumbsDown = element (unsafeCoerce _ioMdThumbsDown)
 
-foreign import ioMdThumbsUp_ :: ReactIcon
+foreign import _ioMdThumbsUp :: ReactIcon
 
 ioMdThumbsUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdThumbsUp = element (unsafeCoerce ioMdThumbsUp_)
+ioMdThumbsUp = element (unsafeCoerce _ioMdThumbsUp)
 
-foreign import ioMdThunderstorm_ :: ReactIcon
+foreign import _ioMdThunderstorm :: ReactIcon
 
 ioMdThunderstorm :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdThunderstorm = element (unsafeCoerce ioMdThunderstorm_)
+ioMdThunderstorm = element (unsafeCoerce _ioMdThunderstorm)
 
-foreign import ioMdTime_ :: ReactIcon
+foreign import _ioMdTime :: ReactIcon
 
 ioMdTime :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdTime = element (unsafeCoerce ioMdTime_)
+ioMdTime = element (unsafeCoerce _ioMdTime)
 
-foreign import ioMdTimer_ :: ReactIcon
+foreign import _ioMdTimer :: ReactIcon
 
 ioMdTimer :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdTimer = element (unsafeCoerce ioMdTimer_)
+ioMdTimer = element (unsafeCoerce _ioMdTimer)
 
-foreign import ioMdToday_ :: ReactIcon
+foreign import _ioMdToday :: ReactIcon
 
 ioMdToday :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdToday = element (unsafeCoerce ioMdToday_)
+ioMdToday = element (unsafeCoerce _ioMdToday)
 
-foreign import ioMdTrain_ :: ReactIcon
+foreign import _ioMdTrain :: ReactIcon
 
 ioMdTrain :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdTrain = element (unsafeCoerce ioMdTrain_)
+ioMdTrain = element (unsafeCoerce _ioMdTrain)
 
-foreign import ioMdTransgender_ :: ReactIcon
+foreign import _ioMdTransgender :: ReactIcon
 
 ioMdTransgender :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdTransgender = element (unsafeCoerce ioMdTransgender_)
+ioMdTransgender = element (unsafeCoerce _ioMdTransgender)
 
-foreign import ioMdTrash_ :: ReactIcon
+foreign import _ioMdTrash :: ReactIcon
 
 ioMdTrash :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdTrash = element (unsafeCoerce ioMdTrash_)
+ioMdTrash = element (unsafeCoerce _ioMdTrash)
 
-foreign import ioMdTrendingDown_ :: ReactIcon
+foreign import _ioMdTrendingDown :: ReactIcon
 
 ioMdTrendingDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdTrendingDown = element (unsafeCoerce ioMdTrendingDown_)
+ioMdTrendingDown = element (unsafeCoerce _ioMdTrendingDown)
 
-foreign import ioMdTrendingUp_ :: ReactIcon
+foreign import _ioMdTrendingUp :: ReactIcon
 
 ioMdTrendingUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdTrendingUp = element (unsafeCoerce ioMdTrendingUp_)
+ioMdTrendingUp = element (unsafeCoerce _ioMdTrendingUp)
 
-foreign import ioMdTrophy_ :: ReactIcon
+foreign import _ioMdTrophy :: ReactIcon
 
 ioMdTrophy :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdTrophy = element (unsafeCoerce ioMdTrophy_)
+ioMdTrophy = element (unsafeCoerce _ioMdTrophy)
 
-foreign import ioMdTv_ :: ReactIcon
+foreign import _ioMdTv :: ReactIcon
 
 ioMdTv :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdTv = element (unsafeCoerce ioMdTv_)
+ioMdTv = element (unsafeCoerce _ioMdTv)
 
-foreign import ioMdUmbrella_ :: ReactIcon
+foreign import _ioMdUmbrella :: ReactIcon
 
 ioMdUmbrella :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdUmbrella = element (unsafeCoerce ioMdUmbrella_)
+ioMdUmbrella = element (unsafeCoerce _ioMdUmbrella)
 
-foreign import ioMdUndo_ :: ReactIcon
+foreign import _ioMdUndo :: ReactIcon
 
 ioMdUndo :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdUndo = element (unsafeCoerce ioMdUndo_)
+ioMdUndo = element (unsafeCoerce _ioMdUndo)
 
-foreign import ioMdUnlock_ :: ReactIcon
+foreign import _ioMdUnlock :: ReactIcon
 
 ioMdUnlock :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdUnlock = element (unsafeCoerce ioMdUnlock_)
+ioMdUnlock = element (unsafeCoerce _ioMdUnlock)
 
-foreign import ioMdVideocam_ :: ReactIcon
+foreign import _ioMdVideocam :: ReactIcon
 
 ioMdVideocam :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdVideocam = element (unsafeCoerce ioMdVideocam_)
+ioMdVideocam = element (unsafeCoerce _ioMdVideocam)
 
-foreign import ioMdVolumeHigh_ :: ReactIcon
+foreign import _ioMdVolumeHigh :: ReactIcon
 
 ioMdVolumeHigh :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdVolumeHigh = element (unsafeCoerce ioMdVolumeHigh_)
+ioMdVolumeHigh = element (unsafeCoerce _ioMdVolumeHigh)
 
-foreign import ioMdVolumeLow_ :: ReactIcon
+foreign import _ioMdVolumeLow :: ReactIcon
 
 ioMdVolumeLow :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdVolumeLow = element (unsafeCoerce ioMdVolumeLow_)
+ioMdVolumeLow = element (unsafeCoerce _ioMdVolumeLow)
 
-foreign import ioMdVolumeMute_ :: ReactIcon
+foreign import _ioMdVolumeMute :: ReactIcon
 
 ioMdVolumeMute :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdVolumeMute = element (unsafeCoerce ioMdVolumeMute_)
+ioMdVolumeMute = element (unsafeCoerce _ioMdVolumeMute)
 
-foreign import ioMdVolumeOff_ :: ReactIcon
+foreign import _ioMdVolumeOff :: ReactIcon
 
 ioMdVolumeOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdVolumeOff = element (unsafeCoerce ioMdVolumeOff_)
+ioMdVolumeOff = element (unsafeCoerce _ioMdVolumeOff)
 
-foreign import ioMdWalk_ :: ReactIcon
+foreign import _ioMdWalk :: ReactIcon
 
 ioMdWalk :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdWalk = element (unsafeCoerce ioMdWalk_)
+ioMdWalk = element (unsafeCoerce _ioMdWalk)
 
-foreign import ioMdWallet_ :: ReactIcon
+foreign import _ioMdWallet :: ReactIcon
 
 ioMdWallet :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdWallet = element (unsafeCoerce ioMdWallet_)
+ioMdWallet = element (unsafeCoerce _ioMdWallet)
 
-foreign import ioMdWarning_ :: ReactIcon
+foreign import _ioMdWarning :: ReactIcon
 
 ioMdWarning :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdWarning = element (unsafeCoerce ioMdWarning_)
+ioMdWarning = element (unsafeCoerce _ioMdWarning)
 
-foreign import ioMdWatch_ :: ReactIcon
+foreign import _ioMdWatch :: ReactIcon
 
 ioMdWatch :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdWatch = element (unsafeCoerce ioMdWatch_)
+ioMdWatch = element (unsafeCoerce _ioMdWatch)
 
-foreign import ioMdWater_ :: ReactIcon
+foreign import _ioMdWater :: ReactIcon
 
 ioMdWater :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdWater = element (unsafeCoerce ioMdWater_)
+ioMdWater = element (unsafeCoerce _ioMdWater)
 
-foreign import ioMdWifi_ :: ReactIcon
+foreign import _ioMdWifi :: ReactIcon
 
 ioMdWifi :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdWifi = element (unsafeCoerce ioMdWifi_)
+ioMdWifi = element (unsafeCoerce _ioMdWifi)
 
-foreign import ioMdWine_ :: ReactIcon
+foreign import _ioMdWine :: ReactIcon
 
 ioMdWine :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdWine = element (unsafeCoerce ioMdWine_)
+ioMdWine = element (unsafeCoerce _ioMdWine)
 
-foreign import ioMdWoman_ :: ReactIcon
+foreign import _ioMdWoman :: ReactIcon
 
 ioMdWoman :: forall a b. Union a b PropsIcon => Record a -> JSX
-ioMdWoman = element (unsafeCoerce ioMdWoman_)
+ioMdWoman = element (unsafeCoerce _ioMdWoman)
