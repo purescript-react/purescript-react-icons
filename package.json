@@ -1,0 +1,24 @@
+{
+  "name": "purescript-react-icons",
+  "version": "1.0.0",
+  "description": "PureScript bindings for react-icons",
+  "type": "module",
+  "author": "andys8",
+  "license": "MIT-0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andys8/purescript-react-icons.git"
+  },
+  "scripts": {
+    "postinstall": "spago install",
+    "build": "spago build"
+  },
+  "dependencies": {
+    "react-icons": "^4.4.0"
+  },
+  "devDependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "spago": "^0.20.9"
+  }
+}
