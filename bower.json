@@ -1,0 +1,21 @@
+{
+    "name": "purescript-react-icons",
+    "license": [
+        "MIT-0"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/andys8/purescript-react-icons.git"
+    },
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "output"
+    ],
+    "dependencies": {
+        "purescript-react-basic": "^v17.0.0",
+        "purescript-react-basic-dom": "https://github.com/lumihq/purescript-react-basic-dom.git#v5.0.0",
+        "purescript-unsafe-coerce": "^v6.0.0"
+    }
+}
