@@ -1,3931 +1,789 @@
-module React.Icons.Ai (aiFillAccountBook, aiFillAlert, aiFillAlipayCircle, aiFillAlipaySquare, aiFillAliwangwang, aiFillAmazonCircle, aiFillAmazonSquare, aiFillAndroid, aiFillApi, aiFillApple, aiFillAppstore, aiFillAudio, aiFillBackward, aiFillBank, aiFillBehanceCircle, aiFillBehanceSquare, aiFillBell, aiFillBook, aiFillBoxPlot, aiFillBug, aiFillBuild, aiFillBulb, aiFillCalculator, aiFillCalendar, aiFillCamera, aiFillCar, aiFillCaretDown, aiFillCaretLeft, aiFillCaretRight, aiFillCaretUp, aiFillCarryOut, aiFillCheckCircle, aiFillCheckSquare, aiFillChrome, aiFillCiCircle, aiFillClockCircle, aiFillCloseCircle, aiFillCloseSquare, aiFillCloud, aiFillCode, aiFillCodepenCircle, aiFillCodepenSquare, aiFillCodeSandboxCircle, aiFillCodeSandboxSquare, aiFillCompass, aiFillContacts, aiFillContainer, aiFillControl, aiFillCopy, aiFillCopyrightCircle, aiFillCreditCard, aiFillCrown, aiFillCustomerService, aiFillDashboard, aiFillDatabase, aiFillDelete, aiFillDiff, aiFillDingtalkCircle, aiFillDingtalkSquare, aiFillDislike, aiFillDollarCircle, aiFillDownCircle, aiFillDownSquare, aiFillDribbbleCircle, aiFillDribbbleSquare, aiFillDropboxCircle, aiFillDropboxSquare, aiFillEdit, aiFillEnvironment, aiFillEuroCircle, aiFillExclamationCircle, aiFillExperiment, aiFillEye, aiFillEyeInvisible, aiFillFacebook, aiFillFastBackward, aiFillFastForward, aiFillFile, aiFillFileAdd, aiFillFileExcel, aiFillFileExclamation, aiFillFileImage, aiFillFileMarkdown, aiFillFilePdf, aiFillFilePpt, aiFillFileText, aiFillFileUnknown, aiFillFileWord, aiFillFileZip, aiFillFilter, aiFillFire, aiFillFlag, aiFillFolder, aiFillFolderAdd, aiFillFolderOpen, aiFillFormatPainter, aiFillForward, aiFillFrown, aiFillFund, aiFillFunnelPlot, aiFillGift, aiFillGithub, aiFillGitlab, aiFillGold, aiFillGolden, aiFillGoogleCircle, aiFillGooglePlusCircle, aiFillGooglePlusSquare, aiFillGoogleSquare, aiFillHdd, aiFillHeart, aiFillHighlight, aiFillHome, aiFillHourglass, aiFillIdcard, aiFillIeCircle, aiFillIeSquare, aiFillInfoCircle, aiFillInstagram, aiFillInsurance, aiFillInteraction, aiFillLayout, aiFillLeftCircle, aiFillLeftSquare, aiFillLike, aiFillLinkedin, aiFillLock, aiFillMacCommand, aiFillMail, aiFillMedicineBox, aiFillMediumCircle, aiFillMediumSquare, aiFillMeh, aiFillMessage, aiFillMinusCircle, aiFillMinusSquare, aiFillMobile, aiFillMoneyCollect, aiFillNotification, aiFillPauseCircle, aiFillPayCircle, aiFillPhone, aiFillPicture, aiFillPieChart, aiFillPlayCircle, aiFillPlaySquare, aiFillPlusCircle, aiFillPlusSquare, aiFillPoundCircle, aiFillPrinter, aiFillProfile, aiFillProject, aiFillPropertySafety, aiFillPushpin, aiFillQqCircle, aiFillQqSquare, aiFillQuestionCircle, aiFillRead, aiFillReconciliation, aiFillRedditCircle, aiFillRedditSquare, aiFillRedEnvelope, aiFillRest, aiFillRightCircle, aiFillRightSquare, aiFillRobot, aiFillRocket, aiFillSafetyCertificate, aiFillSave, aiFillSchedule, aiFillSecurityScan, aiFillSetting, aiFillShop, aiFillShopping, aiFillSignal, aiFillSketchCircle, aiFillSketchSquare, aiFillSkin, aiFillSkype, aiFillSlackCircle, aiFillSlackSquare, aiFillSliders, aiFillSmile, aiFillSnippets, aiFillSound, aiFillStar, aiFillStepBackward, aiFillStepForward, aiFillStop, aiFillSwitcher, aiFillTablet, aiFillTag, aiFillTags, aiFillTaobaoCircle, aiFillTaobaoSquare, aiFillThunderbolt, aiFillTool, aiFillTrademarkCircle, aiFillTrophy, aiFillTwitterCircle, aiFillTwitterSquare, aiFillUnlock, aiFillUpCircle, aiFillUpSquare, aiFillUsb, aiFillVideoCamera, aiFillWallet, aiFillWarning, aiFillWechat, aiFillWeiboCircle, aiFillWeiboSquare, aiFillWindows, aiFillYahoo, aiFillYoutube, aiFillYuque, aiFillZhihuCircle, aiFillZhihuSquare, aiOutlineAccountBook, aiOutlineAim, aiOutlineAlert, aiOutlineAlibaba, aiOutlineAlignCenter, aiOutlineAlignLeft, aiOutlineAlignRight, aiOutlineAlipay, aiOutlineAlipayCircle, aiOutlineAliwangwang, aiOutlineAliyun, aiOutlineAmazon, aiOutlineAndroid, aiOutlineAntCloud, aiOutlineAntDesign, aiOutlineApartment, aiOutlineApi, aiOutlineApple, aiOutlineAppstore, aiOutlineAppstoreAdd, aiOutlineAreaChart, aiOutlineArrowDown, aiOutlineArrowLeft, aiOutlineArrowRight, aiOutlineArrowsAlt, aiOutlineArrowUp, aiOutlineAudio, aiOutlineAudioMuted, aiOutlineAudit, aiOutlineBackward, aiOutlineBank, aiOutlineBarChart, aiOutlineBarcode, aiOutlineBars, aiOutlineBehance, aiOutlineBehanceSquare, aiOutlineBell, aiOutlineBgColors, aiOutlineBlock, aiOutlineBold, aiOutlineBook, aiOutlineBorder, aiOutlineBorderBottom, aiOutlineBorderHorizontal, aiOutlineBorderInner, aiOutlineBorderLeft, aiOutlineBorderlessTable, aiOutlineBorderOuter, aiOutlineBorderRight, aiOutlineBorderTop, aiOutlineBorderVerticle, aiOutlineBoxPlot, aiOutlineBranches, aiOutlineBug, aiOutlineBuild, aiOutlineBulb, aiOutlineCalculator, aiOutlineCalendar, aiOutlineCamera, aiOutlineCar, aiOutlineCaretDown, aiOutlineCaretLeft, aiOutlineCaretRight, aiOutlineCaretUp, aiOutlineCarryOut, aiOutlineCheck, aiOutlineCheckCircle, aiOutlineCheckSquare, aiOutlineChrome, aiOutlineCi, aiOutlineCiCircle, aiOutlineClear, aiOutlineClockCircle, aiOutlineClose, aiOutlineCloseCircle, aiOutlineCloseSquare, aiOutlineCloud, aiOutlineCloudDownload, aiOutlineCloudServer, aiOutlineCloudSync, aiOutlineCloudUpload, aiOutlineCluster, aiOutlineCode, aiOutlineCodepen, aiOutlineCodepenCircle, aiOutlineCodeSandbox, aiOutlineCoffee, aiOutlineColumnHeight, aiOutlineColumnWidth, aiOutlineComment, aiOutlineCompass, aiOutlineCompress, aiOutlineConsoleSql, aiOutlineContacts, aiOutlineContainer, aiOutlineControl, aiOutlineCopy, aiOutlineCopyright, aiOutlineCopyrightCircle, aiOutlineCreditCard, aiOutlineCrown, aiOutlineCustomerService, aiOutlineDash, aiOutlineDashboard, aiOutlineDatabase, aiOutlineDelete, aiOutlineDeleteColumn, aiOutlineDeleteRow, aiOutlineDeliveredProcedure, aiOutlineDeploymentUnit, aiOutlineDesktop, aiOutlineDiff, aiOutlineDingding, aiOutlineDingtalk, aiOutlineDisconnect, aiOutlineDislike, aiOutlineDollar, aiOutlineDollarCircle, aiOutlineDotChart, aiOutlineDoubleLeft, aiOutlineDoubleRight, aiOutlineDown, aiOutlineDownCircle, aiOutlineDownload, aiOutlineDownSquare, aiOutlineDrag, aiOutlineDribbble, aiOutlineDribbbleSquare, aiOutlineDropbox, aiOutlineEdit, aiOutlineEllipsis, aiOutlineEnter, aiOutlineEnvironment, aiOutlineEuro, aiOutlineEuroCircle, aiOutlineException, aiOutlineExclamation, aiOutlineExclamationCircle, aiOutlineExpand, aiOutlineExpandAlt, aiOutlineExperiment, aiOutlineExport, aiOutlineEye, aiOutlineEyeInvisible, aiOutlineFacebook, aiOutlineFall, aiOutlineFastBackward, aiOutlineFastForward, aiOutlineFieldBinary, aiOutlineFieldNumber, aiOutlineFieldString, aiOutlineFieldTime, aiOutlineFile, aiOutlineFileAdd, aiOutlineFileDone, aiOutlineFileExcel, aiOutlineFileExclamation, aiOutlineFileGif, aiOutlineFileImage, aiOutlineFileJpg, aiOutlineFileMarkdown, aiOutlineFilePdf, aiOutlineFilePpt, aiOutlineFileProtect, aiOutlineFileSearch, aiOutlineFileSync, aiOutlineFileText, aiOutlineFileUnknown, aiOutlineFileWord, aiOutlineFileZip, aiOutlineFilter, aiOutlineFire, aiOutlineFlag, aiOutlineFolder, aiOutlineFolderAdd, aiOutlineFolderOpen, aiOutlineFolderView, aiOutlineFontColors, aiOutlineFontSize, aiOutlineFork, aiOutlineForm, aiOutlineFormatPainter, aiOutlineForward, aiOutlineFrown, aiOutlineFullscreen, aiOutlineFullscreenExit, aiOutlineFunction, aiOutlineFund, aiOutlineFundProjectionScreen, aiOutlineFundView, aiOutlineFunnelPlot, aiOutlineGateway, aiOutlineGif, aiOutlineGift, aiOutlineGithub, aiOutlineGitlab, aiOutlineGlobal, aiOutlineGold, aiOutlineGoogle, aiOutlineGooglePlus, aiOutlineGroup, aiOutlineHdd, aiOutlineHeart, aiOutlineHeatMap, aiOutlineHighlight, aiOutlineHistory, aiOutlineHolder, aiOutlineHome, aiOutlineHourglass, aiOutlineIdcard, aiOutlineIe, aiOutlineImport, aiOutlineInbox, aiOutlineInfo, aiOutlineInfoCircle, aiOutlineInsertRowAbove, aiOutlineInsertRowBelow, aiOutlineInsertRowLeft, aiOutlineInsertRowRight, aiOutlineInstagram, aiOutlineInsurance, aiOutlineInteraction, aiOutlineIssuesClose, aiOutlineItalic, aiOutlineKey, aiOutlineLaptop, aiOutlineLayout, aiOutlineLeft, aiOutlineLeftCircle, aiOutlineLeftSquare, aiOutlineLike, aiOutlineLine, aiOutlineLineChart, aiOutlineLineHeight, aiOutlineLink, aiOutlineLinkedin, aiOutlineLoading, aiOutlineLock, aiOutlineLogin, aiOutlineLogout, aiOutlineMacCommand, aiOutlineMail, aiOutlineMan, aiOutlineMedicineBox, aiOutlineMedium, aiOutlineMediumWorkmark, aiOutlineMeh, aiOutlineMenu, aiOutlineMenuFold, aiOutlineMenuUnfold, aiOutlineMergeCells, aiOutlineMessage, aiOutlineMinus, aiOutlineMinusCircle, aiOutlineMinusSquare, aiOutlineMobile, aiOutlineMoneyCollect, aiOutlineMonitor, aiOutlineMore, aiOutlineNodeCollapse, aiOutlineNodeExpand, aiOutlineNodeIndex, aiOutlineNotification, aiOutlineNumber, aiOutlineOneToOne, aiOutlineOrderedList, aiOutlinePaperClip, aiOutlinePartition, aiOutlinePause, aiOutlinePauseCircle, aiOutlinePayCircle, aiOutlinePercentage, aiOutlinePhone, aiOutlinePicCenter, aiOutlinePicLeft, aiOutlinePicRight, aiOutlinePicture, aiOutlinePieChart, aiOutlinePlayCircle, aiOutlinePlaySquare, aiOutlinePlus, aiOutlinePlusCircle, aiOutlinePlusSquare, aiOutlinePound, aiOutlinePoundCircle, aiOutlinePoweroff, aiOutlinePrinter, aiOutlineProfile, aiOutlineProject, aiOutlinePropertySafety, aiOutlinePullRequest, aiOutlinePushpin, aiOutlineQq, aiOutlineQrcode, aiOutlineQuestion, aiOutlineQuestionCircle, aiOutlineRadarChart, aiOutlineRadiusBottomleft, aiOutlineRadiusBottomright, aiOutlineRadiusSetting, aiOutlineRadiusUpleft, aiOutlineRadiusUpright, aiOutlineRead, aiOutlineReconciliation, aiOutlineReddit, aiOutlineRedEnvelope, aiOutlineRedo, aiOutlineReload, aiOutlineRest, aiOutlineRetweet, aiOutlineRight, aiOutlineRightCircle, aiOutlineRightSquare, aiOutlineRise, aiOutlineRobot, aiOutlineRocket, aiOutlineRollback, aiOutlineRotateLeft, aiOutlineRotateRight, aiOutlineSafety, aiOutlineSafetyCertificate, aiOutlineSave, aiOutlineScan, aiOutlineSchedule, aiOutlineScissor, aiOutlineSearch, aiOutlineSecurityScan, aiOutlineSelect, aiOutlineSend, aiOutlineSetting, aiOutlineShake, aiOutlineShareAlt, aiOutlineShop, aiOutlineShopping, aiOutlineShoppingCart, aiOutlineShrink, aiOutlineSisternode, aiOutlineSketch, aiOutlineSkin, aiOutlineSkype, aiOutlineSlack, aiOutlineSlackSquare, aiOutlineSliders, aiOutlineSmallDash, aiOutlineSmile, aiOutlineSnippets, aiOutlineSolution, aiOutlineSortAscending, aiOutlineSortDescending, aiOutlineSound, aiOutlineSplitCells, aiOutlineStar, aiOutlineStepBackward, aiOutlineStepForward, aiOutlineStock, aiOutlineStop, aiOutlineStrikethrough, aiOutlineSubnode, aiOutlineSwap, aiOutlineSwapLeft, aiOutlineSwapRight, aiOutlineSwitcher, aiOutlineSync, aiOutlineTable, aiOutlineTablet, aiOutlineTag, aiOutlineTags, aiOutlineTaobao, aiOutlineTaobaoCircle, aiOutlineTeam, aiOutlineThunderbolt, aiOutlineTool, aiOutlineToTop, aiOutlineTrademark, aiOutlineTrademarkCircle, aiOutlineTransaction, aiOutlineTranslation, aiOutlineTrophy, aiOutlineTwitter, aiOutlineUnderline, aiOutlineUndo, aiOutlineUngroup, aiOutlineUnlock, aiOutlineUnorderedList, aiOutlineUp, aiOutlineUpCircle, aiOutlineUpload, aiOutlineUpSquare, aiOutlineUsb, aiOutlineUser, aiOutlineUserAdd, aiOutlineUserDelete, aiOutlineUsergroupAdd, aiOutlineUsergroupDelete, aiOutlineUserSwitch, aiOutlineVerified, aiOutlineVerticalAlignBottom, aiOutlineVerticalAlignMiddle, aiOutlineVerticalAlignTop, aiOutlineVerticalLeft, aiOutlineVerticalRight, aiOutlineVideoCamera, aiOutlineVideoCameraAdd, aiOutlineWallet, aiOutlineWarning, aiOutlineWechat, aiOutlineWeibo, aiOutlineWeiboCircle, aiOutlineWeiboSquare, aiOutlineWhatsApp, aiOutlineWifi, aiOutlineWindows, aiOutlineWoman, aiOutlineYahoo, aiOutlineYoutube, aiOutlineYuque, aiOutlineZhihu, aiOutlineZoomIn, aiOutlineZoomOut, aiTwotoneAccountBook, aiTwotoneAlert, aiTwotoneApi, aiTwotoneAppstore, aiTwotoneAudio, aiTwotoneBank, aiTwotoneBell, aiTwotoneBook, aiTwotoneBoxPlot, aiTwotoneBug, aiTwotoneBuild, aiTwotoneBulb, aiTwotoneCalculator, aiTwotoneCalendar, aiTwotoneCamera, aiTwotoneCar, aiTwotoneCarryOut, aiTwotoneCheckCircle, aiTwotoneCheckSquare, aiTwotoneCi, aiTwotoneCiCircle, aiTwotoneClockCircle, aiTwotoneCloseCircle, aiTwotoneCloseSquare, aiTwotoneCloud, aiTwotoneCode, aiTwotoneCompass, aiTwotoneContacts, aiTwotoneContainer, aiTwotoneControl, aiTwotoneCopy, aiTwotoneCopyright, aiTwotoneCopyrightCircle, aiTwotoneCreditCard, aiTwotoneCrown, aiTwotoneCustomerService, aiTwotoneDashboard, aiTwotoneDatabase, aiTwotoneDelete, aiTwotoneDiff, aiTwotoneDislike, aiTwotoneDollar, aiTwotoneDollarCircle, aiTwotoneDownCircle, aiTwotoneDownSquare, aiTwotoneEdit, aiTwotoneEnvironment, aiTwotoneEuro, aiTwotoneEuroCircle, aiTwotoneExclamationCircle, aiTwotoneExperiment, aiTwotoneEye, aiTwotoneEyeInvisible, aiTwotoneFile, aiTwotoneFileAdd, aiTwotoneFileExcel, aiTwotoneFileExclamation, aiTwotoneFileImage, aiTwotoneFileMarkdown, aiTwotoneFilePdf, aiTwotoneFilePpt, aiTwotoneFileText, aiTwotoneFileUnknown, aiTwotoneFileWord, aiTwotoneFileZip, aiTwotoneFilter, aiTwotoneFire, aiTwotoneFlag, aiTwotoneFolder, aiTwotoneFolderAdd, aiTwotoneFolderOpen, aiTwotoneFrown, aiTwotoneFund, aiTwotoneFunnelPlot, aiTwotoneGift, aiTwotoneGold, aiTwotoneHdd, aiTwotoneHeart, aiTwotoneHighlight, aiTwotoneHome, aiTwotoneHourglass, aiTwotoneIdcard, aiTwotoneInfoCircle, aiTwotoneInsurance, aiTwotoneInteraction, aiTwotoneLayout, aiTwotoneLeftCircle, aiTwotoneLeftSquare, aiTwotoneLike, aiTwotoneLock, aiTwotoneMail, aiTwotoneMedicineBox, aiTwotoneMeh, aiTwotoneMessage, aiTwotoneMinusCircle, aiTwotoneMinusSquare, aiTwotoneMobile, aiTwotoneMoneyCollect, aiTwotoneNotification, aiTwotonePauseCircle, aiTwotonePhone, aiTwotonePicture, aiTwotonePieChart, aiTwotonePlayCircle, aiTwotonePlaySquare, aiTwotonePlusCircle, aiTwotonePlusSquare, aiTwotonePoundCircle, aiTwotonePrinter, aiTwotoneProfile, aiTwotoneProject, aiTwotonePropertySafety, aiTwotonePushpin, aiTwotoneQuestionCircle, aiTwotoneReconciliation, aiTwotoneRedEnvelope, aiTwotoneRest, aiTwotoneRightCircle, aiTwotoneRightSquare, aiTwotoneRocket, aiTwotoneSafetyCertificate, aiTwotoneSave, aiTwotoneSchedule, aiTwotoneSecurityScan, aiTwotoneSetting, aiTwotoneShop, aiTwotoneShopping, aiTwotoneSkin, aiTwotoneSliders, aiTwotoneSmile, aiTwotoneSnippets, aiTwotoneSound, aiTwotoneStar, aiTwotoneStop, aiTwotoneSwitcher, aiTwotoneTablet, aiTwotoneTag, aiTwotoneTags, aiTwotoneThunderbolt, aiTwotoneTool, aiTwotoneTrademarkCircle, aiTwotoneTrophy, aiTwotoneUnlock, aiTwotoneUpCircle, aiTwotoneUpSquare, aiTwotoneUsb, aiTwotoneVideoCamera, aiTwotoneWallet, aiTwotoneWarning) where
-
-import Prim.Row (class Union)
-import React.Basic (JSX, element)
-import React.Icons.Types (ReactIcon, PropsIcon)
-import Unsafe.Coerce (unsafeCoerce)
-
-foreign import _aiFillAccountBook :: ReactIcon
-
-aiFillAccountBook :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillAccountBook = element (unsafeCoerce _aiFillAccountBook)
-
-foreign import _aiFillAlert :: ReactIcon
-
-aiFillAlert :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillAlert = element (unsafeCoerce _aiFillAlert)
-
-foreign import _aiFillAlipayCircle :: ReactIcon
-
-aiFillAlipayCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillAlipayCircle = element (unsafeCoerce _aiFillAlipayCircle)
-
-foreign import _aiFillAlipaySquare :: ReactIcon
-
-aiFillAlipaySquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillAlipaySquare = element (unsafeCoerce _aiFillAlipaySquare)
-
-foreign import _aiFillAliwangwang :: ReactIcon
-
-aiFillAliwangwang :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillAliwangwang = element (unsafeCoerce _aiFillAliwangwang)
-
-foreign import _aiFillAmazonCircle :: ReactIcon
-
-aiFillAmazonCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillAmazonCircle = element (unsafeCoerce _aiFillAmazonCircle)
-
-foreign import _aiFillAmazonSquare :: ReactIcon
-
-aiFillAmazonSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillAmazonSquare = element (unsafeCoerce _aiFillAmazonSquare)
-
-foreign import _aiFillAndroid :: ReactIcon
-
-aiFillAndroid :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillAndroid = element (unsafeCoerce _aiFillAndroid)
-
-foreign import _aiFillApi :: ReactIcon
-
-aiFillApi :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillApi = element (unsafeCoerce _aiFillApi)
-
-foreign import _aiFillApple :: ReactIcon
-
-aiFillApple :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillApple = element (unsafeCoerce _aiFillApple)
-
-foreign import _aiFillAppstore :: ReactIcon
-
-aiFillAppstore :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillAppstore = element (unsafeCoerce _aiFillAppstore)
-
-foreign import _aiFillAudio :: ReactIcon
-
-aiFillAudio :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillAudio = element (unsafeCoerce _aiFillAudio)
-
-foreign import _aiFillBackward :: ReactIcon
-
-aiFillBackward :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillBackward = element (unsafeCoerce _aiFillBackward)
-
-foreign import _aiFillBank :: ReactIcon
-
-aiFillBank :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillBank = element (unsafeCoerce _aiFillBank)
-
-foreign import _aiFillBehanceCircle :: ReactIcon
-
-aiFillBehanceCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillBehanceCircle = element (unsafeCoerce _aiFillBehanceCircle)
-
-foreign import _aiFillBehanceSquare :: ReactIcon
-
-aiFillBehanceSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillBehanceSquare = element (unsafeCoerce _aiFillBehanceSquare)
-
-foreign import _aiFillBell :: ReactIcon
-
-aiFillBell :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillBell = element (unsafeCoerce _aiFillBell)
-
-foreign import _aiFillBook :: ReactIcon
-
-aiFillBook :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillBook = element (unsafeCoerce _aiFillBook)
-
-foreign import _aiFillBoxPlot :: ReactIcon
-
-aiFillBoxPlot :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillBoxPlot = element (unsafeCoerce _aiFillBoxPlot)
-
-foreign import _aiFillBug :: ReactIcon
-
-aiFillBug :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillBug = element (unsafeCoerce _aiFillBug)
-
-foreign import _aiFillBuild :: ReactIcon
-
-aiFillBuild :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillBuild = element (unsafeCoerce _aiFillBuild)
-
-foreign import _aiFillBulb :: ReactIcon
-
-aiFillBulb :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillBulb = element (unsafeCoerce _aiFillBulb)
-
-foreign import _aiFillCalculator :: ReactIcon
-
-aiFillCalculator :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillCalculator = element (unsafeCoerce _aiFillCalculator)
-
-foreign import _aiFillCalendar :: ReactIcon
-
-aiFillCalendar :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillCalendar = element (unsafeCoerce _aiFillCalendar)
-
-foreign import _aiFillCamera :: ReactIcon
-
-aiFillCamera :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillCamera = element (unsafeCoerce _aiFillCamera)
-
-foreign import _aiFillCar :: ReactIcon
-
-aiFillCar :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillCar = element (unsafeCoerce _aiFillCar)
-
-foreign import _aiFillCaretDown :: ReactIcon
-
-aiFillCaretDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillCaretDown = element (unsafeCoerce _aiFillCaretDown)
-
-foreign import _aiFillCaretLeft :: ReactIcon
-
-aiFillCaretLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillCaretLeft = element (unsafeCoerce _aiFillCaretLeft)
-
-foreign import _aiFillCaretRight :: ReactIcon
-
-aiFillCaretRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillCaretRight = element (unsafeCoerce _aiFillCaretRight)
-
-foreign import _aiFillCaretUp :: ReactIcon
-
-aiFillCaretUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillCaretUp = element (unsafeCoerce _aiFillCaretUp)
-
-foreign import _aiFillCarryOut :: ReactIcon
-
-aiFillCarryOut :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillCarryOut = element (unsafeCoerce _aiFillCarryOut)
-
-foreign import _aiFillCheckCircle :: ReactIcon
-
-aiFillCheckCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillCheckCircle = element (unsafeCoerce _aiFillCheckCircle)
-
-foreign import _aiFillCheckSquare :: ReactIcon
-
-aiFillCheckSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillCheckSquare = element (unsafeCoerce _aiFillCheckSquare)
-
-foreign import _aiFillChrome :: ReactIcon
-
-aiFillChrome :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillChrome = element (unsafeCoerce _aiFillChrome)
-
-foreign import _aiFillCiCircle :: ReactIcon
-
-aiFillCiCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillCiCircle = element (unsafeCoerce _aiFillCiCircle)
-
-foreign import _aiFillClockCircle :: ReactIcon
-
-aiFillClockCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillClockCircle = element (unsafeCoerce _aiFillClockCircle)
-
-foreign import _aiFillCloseCircle :: ReactIcon
-
-aiFillCloseCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillCloseCircle = element (unsafeCoerce _aiFillCloseCircle)
-
-foreign import _aiFillCloseSquare :: ReactIcon
-
-aiFillCloseSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillCloseSquare = element (unsafeCoerce _aiFillCloseSquare)
-
-foreign import _aiFillCloud :: ReactIcon
-
-aiFillCloud :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillCloud = element (unsafeCoerce _aiFillCloud)
-
-foreign import _aiFillCode :: ReactIcon
-
-aiFillCode :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillCode = element (unsafeCoerce _aiFillCode)
-
-foreign import _aiFillCodepenCircle :: ReactIcon
-
-aiFillCodepenCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillCodepenCircle = element (unsafeCoerce _aiFillCodepenCircle)
-
-foreign import _aiFillCodepenSquare :: ReactIcon
-
-aiFillCodepenSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillCodepenSquare = element (unsafeCoerce _aiFillCodepenSquare)
-
-foreign import _aiFillCodeSandboxCircle :: ReactIcon
-
-aiFillCodeSandboxCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillCodeSandboxCircle = element (unsafeCoerce _aiFillCodeSandboxCircle)
-
-foreign import _aiFillCodeSandboxSquare :: ReactIcon
-
-aiFillCodeSandboxSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillCodeSandboxSquare = element (unsafeCoerce _aiFillCodeSandboxSquare)
-
-foreign import _aiFillCompass :: ReactIcon
-
-aiFillCompass :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillCompass = element (unsafeCoerce _aiFillCompass)
-
-foreign import _aiFillContacts :: ReactIcon
-
-aiFillContacts :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillContacts = element (unsafeCoerce _aiFillContacts)
-
-foreign import _aiFillContainer :: ReactIcon
-
-aiFillContainer :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillContainer = element (unsafeCoerce _aiFillContainer)
-
-foreign import _aiFillControl :: ReactIcon
-
-aiFillControl :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillControl = element (unsafeCoerce _aiFillControl)
-
-foreign import _aiFillCopy :: ReactIcon
-
-aiFillCopy :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillCopy = element (unsafeCoerce _aiFillCopy)
-
-foreign import _aiFillCopyrightCircle :: ReactIcon
-
-aiFillCopyrightCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillCopyrightCircle = element (unsafeCoerce _aiFillCopyrightCircle)
-
-foreign import _aiFillCreditCard :: ReactIcon
-
-aiFillCreditCard :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillCreditCard = element (unsafeCoerce _aiFillCreditCard)
-
-foreign import _aiFillCrown :: ReactIcon
-
-aiFillCrown :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillCrown = element (unsafeCoerce _aiFillCrown)
-
-foreign import _aiFillCustomerService :: ReactIcon
-
-aiFillCustomerService :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillCustomerService = element (unsafeCoerce _aiFillCustomerService)
-
-foreign import _aiFillDashboard :: ReactIcon
-
-aiFillDashboard :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillDashboard = element (unsafeCoerce _aiFillDashboard)
-
-foreign import _aiFillDatabase :: ReactIcon
-
-aiFillDatabase :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillDatabase = element (unsafeCoerce _aiFillDatabase)
-
-foreign import _aiFillDelete :: ReactIcon
-
-aiFillDelete :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillDelete = element (unsafeCoerce _aiFillDelete)
-
-foreign import _aiFillDiff :: ReactIcon
-
-aiFillDiff :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillDiff = element (unsafeCoerce _aiFillDiff)
-
-foreign import _aiFillDingtalkCircle :: ReactIcon
-
-aiFillDingtalkCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillDingtalkCircle = element (unsafeCoerce _aiFillDingtalkCircle)
-
-foreign import _aiFillDingtalkSquare :: ReactIcon
-
-aiFillDingtalkSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillDingtalkSquare = element (unsafeCoerce _aiFillDingtalkSquare)
-
-foreign import _aiFillDislike :: ReactIcon
-
-aiFillDislike :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillDislike = element (unsafeCoerce _aiFillDislike)
-
-foreign import _aiFillDollarCircle :: ReactIcon
-
-aiFillDollarCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillDollarCircle = element (unsafeCoerce _aiFillDollarCircle)
-
-foreign import _aiFillDownCircle :: ReactIcon
-
-aiFillDownCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillDownCircle = element (unsafeCoerce _aiFillDownCircle)
-
-foreign import _aiFillDownSquare :: ReactIcon
-
-aiFillDownSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillDownSquare = element (unsafeCoerce _aiFillDownSquare)
-
-foreign import _aiFillDribbbleCircle :: ReactIcon
-
-aiFillDribbbleCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillDribbbleCircle = element (unsafeCoerce _aiFillDribbbleCircle)
-
-foreign import _aiFillDribbbleSquare :: ReactIcon
-
-aiFillDribbbleSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillDribbbleSquare = element (unsafeCoerce _aiFillDribbbleSquare)
-
-foreign import _aiFillDropboxCircle :: ReactIcon
-
-aiFillDropboxCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillDropboxCircle = element (unsafeCoerce _aiFillDropboxCircle)
-
-foreign import _aiFillDropboxSquare :: ReactIcon
-
-aiFillDropboxSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillDropboxSquare = element (unsafeCoerce _aiFillDropboxSquare)
-
-foreign import _aiFillEdit :: ReactIcon
-
-aiFillEdit :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillEdit = element (unsafeCoerce _aiFillEdit)
-
-foreign import _aiFillEnvironment :: ReactIcon
-
-aiFillEnvironment :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillEnvironment = element (unsafeCoerce _aiFillEnvironment)
-
-foreign import _aiFillEuroCircle :: ReactIcon
-
-aiFillEuroCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillEuroCircle = element (unsafeCoerce _aiFillEuroCircle)
-
-foreign import _aiFillExclamationCircle :: ReactIcon
-
-aiFillExclamationCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillExclamationCircle = element (unsafeCoerce _aiFillExclamationCircle)
-
-foreign import _aiFillExperiment :: ReactIcon
-
-aiFillExperiment :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillExperiment = element (unsafeCoerce _aiFillExperiment)
-
-foreign import _aiFillEye :: ReactIcon
-
-aiFillEye :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillEye = element (unsafeCoerce _aiFillEye)
-
-foreign import _aiFillEyeInvisible :: ReactIcon
-
-aiFillEyeInvisible :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillEyeInvisible = element (unsafeCoerce _aiFillEyeInvisible)
-
-foreign import _aiFillFacebook :: ReactIcon
-
-aiFillFacebook :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillFacebook = element (unsafeCoerce _aiFillFacebook)
-
-foreign import _aiFillFastBackward :: ReactIcon
-
-aiFillFastBackward :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillFastBackward = element (unsafeCoerce _aiFillFastBackward)
-
-foreign import _aiFillFastForward :: ReactIcon
-
-aiFillFastForward :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillFastForward = element (unsafeCoerce _aiFillFastForward)
-
-foreign import _aiFillFile :: ReactIcon
-
-aiFillFile :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillFile = element (unsafeCoerce _aiFillFile)
-
-foreign import _aiFillFileAdd :: ReactIcon
-
-aiFillFileAdd :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillFileAdd = element (unsafeCoerce _aiFillFileAdd)
-
-foreign import _aiFillFileExcel :: ReactIcon
-
-aiFillFileExcel :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillFileExcel = element (unsafeCoerce _aiFillFileExcel)
-
-foreign import _aiFillFileExclamation :: ReactIcon
-
-aiFillFileExclamation :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillFileExclamation = element (unsafeCoerce _aiFillFileExclamation)
-
-foreign import _aiFillFileImage :: ReactIcon
-
-aiFillFileImage :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillFileImage = element (unsafeCoerce _aiFillFileImage)
-
-foreign import _aiFillFileMarkdown :: ReactIcon
-
-aiFillFileMarkdown :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillFileMarkdown = element (unsafeCoerce _aiFillFileMarkdown)
-
-foreign import _aiFillFilePdf :: ReactIcon
-
-aiFillFilePdf :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillFilePdf = element (unsafeCoerce _aiFillFilePdf)
-
-foreign import _aiFillFilePpt :: ReactIcon
-
-aiFillFilePpt :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillFilePpt = element (unsafeCoerce _aiFillFilePpt)
-
-foreign import _aiFillFileText :: ReactIcon
-
-aiFillFileText :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillFileText = element (unsafeCoerce _aiFillFileText)
-
-foreign import _aiFillFileUnknown :: ReactIcon
-
-aiFillFileUnknown :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillFileUnknown = element (unsafeCoerce _aiFillFileUnknown)
-
-foreign import _aiFillFileWord :: ReactIcon
-
-aiFillFileWord :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillFileWord = element (unsafeCoerce _aiFillFileWord)
-
-foreign import _aiFillFileZip :: ReactIcon
-
-aiFillFileZip :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillFileZip = element (unsafeCoerce _aiFillFileZip)
-
-foreign import _aiFillFilter :: ReactIcon
-
-aiFillFilter :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillFilter = element (unsafeCoerce _aiFillFilter)
-
-foreign import _aiFillFire :: ReactIcon
-
-aiFillFire :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillFire = element (unsafeCoerce _aiFillFire)
-
-foreign import _aiFillFlag :: ReactIcon
-
-aiFillFlag :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillFlag = element (unsafeCoerce _aiFillFlag)
-
-foreign import _aiFillFolder :: ReactIcon
-
-aiFillFolder :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillFolder = element (unsafeCoerce _aiFillFolder)
-
-foreign import _aiFillFolderAdd :: ReactIcon
-
-aiFillFolderAdd :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillFolderAdd = element (unsafeCoerce _aiFillFolderAdd)
-
-foreign import _aiFillFolderOpen :: ReactIcon
-
-aiFillFolderOpen :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillFolderOpen = element (unsafeCoerce _aiFillFolderOpen)
-
-foreign import _aiFillFormatPainter :: ReactIcon
-
-aiFillFormatPainter :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillFormatPainter = element (unsafeCoerce _aiFillFormatPainter)
-
-foreign import _aiFillForward :: ReactIcon
-
-aiFillForward :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillForward = element (unsafeCoerce _aiFillForward)
-
-foreign import _aiFillFrown :: ReactIcon
-
-aiFillFrown :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillFrown = element (unsafeCoerce _aiFillFrown)
-
-foreign import _aiFillFund :: ReactIcon
-
-aiFillFund :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillFund = element (unsafeCoerce _aiFillFund)
-
-foreign import _aiFillFunnelPlot :: ReactIcon
-
-aiFillFunnelPlot :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillFunnelPlot = element (unsafeCoerce _aiFillFunnelPlot)
-
-foreign import _aiFillGift :: ReactIcon
-
-aiFillGift :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillGift = element (unsafeCoerce _aiFillGift)
-
-foreign import _aiFillGithub :: ReactIcon
-
-aiFillGithub :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillGithub = element (unsafeCoerce _aiFillGithub)
-
-foreign import _aiFillGitlab :: ReactIcon
-
-aiFillGitlab :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillGitlab = element (unsafeCoerce _aiFillGitlab)
-
-foreign import _aiFillGold :: ReactIcon
-
-aiFillGold :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillGold = element (unsafeCoerce _aiFillGold)
-
-foreign import _aiFillGolden :: ReactIcon
-
-aiFillGolden :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillGolden = element (unsafeCoerce _aiFillGolden)
-
-foreign import _aiFillGoogleCircle :: ReactIcon
-
-aiFillGoogleCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillGoogleCircle = element (unsafeCoerce _aiFillGoogleCircle)
-
-foreign import _aiFillGooglePlusCircle :: ReactIcon
-
-aiFillGooglePlusCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillGooglePlusCircle = element (unsafeCoerce _aiFillGooglePlusCircle)
-
-foreign import _aiFillGooglePlusSquare :: ReactIcon
-
-aiFillGooglePlusSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillGooglePlusSquare = element (unsafeCoerce _aiFillGooglePlusSquare)
-
-foreign import _aiFillGoogleSquare :: ReactIcon
-
-aiFillGoogleSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillGoogleSquare = element (unsafeCoerce _aiFillGoogleSquare)
-
-foreign import _aiFillHdd :: ReactIcon
-
-aiFillHdd :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillHdd = element (unsafeCoerce _aiFillHdd)
-
-foreign import _aiFillHeart :: ReactIcon
-
-aiFillHeart :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillHeart = element (unsafeCoerce _aiFillHeart)
-
-foreign import _aiFillHighlight :: ReactIcon
-
-aiFillHighlight :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillHighlight = element (unsafeCoerce _aiFillHighlight)
-
-foreign import _aiFillHome :: ReactIcon
-
-aiFillHome :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillHome = element (unsafeCoerce _aiFillHome)
-
-foreign import _aiFillHourglass :: ReactIcon
-
-aiFillHourglass :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillHourglass = element (unsafeCoerce _aiFillHourglass)
-
-foreign import _aiFillIdcard :: ReactIcon
-
-aiFillIdcard :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillIdcard = element (unsafeCoerce _aiFillIdcard)
-
-foreign import _aiFillIeCircle :: ReactIcon
-
-aiFillIeCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillIeCircle = element (unsafeCoerce _aiFillIeCircle)
-
-foreign import _aiFillIeSquare :: ReactIcon
-
-aiFillIeSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillIeSquare = element (unsafeCoerce _aiFillIeSquare)
-
-foreign import _aiFillInfoCircle :: ReactIcon
-
-aiFillInfoCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillInfoCircle = element (unsafeCoerce _aiFillInfoCircle)
-
-foreign import _aiFillInstagram :: ReactIcon
-
-aiFillInstagram :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillInstagram = element (unsafeCoerce _aiFillInstagram)
-
-foreign import _aiFillInsurance :: ReactIcon
-
-aiFillInsurance :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillInsurance = element (unsafeCoerce _aiFillInsurance)
-
-foreign import _aiFillInteraction :: ReactIcon
-
-aiFillInteraction :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillInteraction = element (unsafeCoerce _aiFillInteraction)
-
-foreign import _aiFillLayout :: ReactIcon
-
-aiFillLayout :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillLayout = element (unsafeCoerce _aiFillLayout)
-
-foreign import _aiFillLeftCircle :: ReactIcon
-
-aiFillLeftCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillLeftCircle = element (unsafeCoerce _aiFillLeftCircle)
-
-foreign import _aiFillLeftSquare :: ReactIcon
-
-aiFillLeftSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillLeftSquare = element (unsafeCoerce _aiFillLeftSquare)
-
-foreign import _aiFillLike :: ReactIcon
-
-aiFillLike :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillLike = element (unsafeCoerce _aiFillLike)
-
-foreign import _aiFillLinkedin :: ReactIcon
-
-aiFillLinkedin :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillLinkedin = element (unsafeCoerce _aiFillLinkedin)
-
-foreign import _aiFillLock :: ReactIcon
-
-aiFillLock :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillLock = element (unsafeCoerce _aiFillLock)
-
-foreign import _aiFillMacCommand :: ReactIcon
-
-aiFillMacCommand :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillMacCommand = element (unsafeCoerce _aiFillMacCommand)
-
-foreign import _aiFillMail :: ReactIcon
-
-aiFillMail :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillMail = element (unsafeCoerce _aiFillMail)
-
-foreign import _aiFillMedicineBox :: ReactIcon
-
-aiFillMedicineBox :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillMedicineBox = element (unsafeCoerce _aiFillMedicineBox)
-
-foreign import _aiFillMediumCircle :: ReactIcon
-
-aiFillMediumCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillMediumCircle = element (unsafeCoerce _aiFillMediumCircle)
-
-foreign import _aiFillMediumSquare :: ReactIcon
-
-aiFillMediumSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillMediumSquare = element (unsafeCoerce _aiFillMediumSquare)
-
-foreign import _aiFillMeh :: ReactIcon
-
-aiFillMeh :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillMeh = element (unsafeCoerce _aiFillMeh)
-
-foreign import _aiFillMessage :: ReactIcon
-
-aiFillMessage :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillMessage = element (unsafeCoerce _aiFillMessage)
-
-foreign import _aiFillMinusCircle :: ReactIcon
-
-aiFillMinusCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillMinusCircle = element (unsafeCoerce _aiFillMinusCircle)
-
-foreign import _aiFillMinusSquare :: ReactIcon
-
-aiFillMinusSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillMinusSquare = element (unsafeCoerce _aiFillMinusSquare)
-
-foreign import _aiFillMobile :: ReactIcon
-
-aiFillMobile :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillMobile = element (unsafeCoerce _aiFillMobile)
-
-foreign import _aiFillMoneyCollect :: ReactIcon
-
-aiFillMoneyCollect :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillMoneyCollect = element (unsafeCoerce _aiFillMoneyCollect)
-
-foreign import _aiFillNotification :: ReactIcon
-
-aiFillNotification :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillNotification = element (unsafeCoerce _aiFillNotification)
-
-foreign import _aiFillPauseCircle :: ReactIcon
-
-aiFillPauseCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillPauseCircle = element (unsafeCoerce _aiFillPauseCircle)
-
-foreign import _aiFillPayCircle :: ReactIcon
-
-aiFillPayCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillPayCircle = element (unsafeCoerce _aiFillPayCircle)
-
-foreign import _aiFillPhone :: ReactIcon
-
-aiFillPhone :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillPhone = element (unsafeCoerce _aiFillPhone)
-
-foreign import _aiFillPicture :: ReactIcon
-
-aiFillPicture :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillPicture = element (unsafeCoerce _aiFillPicture)
-
-foreign import _aiFillPieChart :: ReactIcon
-
-aiFillPieChart :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillPieChart = element (unsafeCoerce _aiFillPieChart)
-
-foreign import _aiFillPlayCircle :: ReactIcon
-
-aiFillPlayCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillPlayCircle = element (unsafeCoerce _aiFillPlayCircle)
-
-foreign import _aiFillPlaySquare :: ReactIcon
-
-aiFillPlaySquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillPlaySquare = element (unsafeCoerce _aiFillPlaySquare)
-
-foreign import _aiFillPlusCircle :: ReactIcon
-
-aiFillPlusCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillPlusCircle = element (unsafeCoerce _aiFillPlusCircle)
-
-foreign import _aiFillPlusSquare :: ReactIcon
-
-aiFillPlusSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillPlusSquare = element (unsafeCoerce _aiFillPlusSquare)
-
-foreign import _aiFillPoundCircle :: ReactIcon
-
-aiFillPoundCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillPoundCircle = element (unsafeCoerce _aiFillPoundCircle)
-
-foreign import _aiFillPrinter :: ReactIcon
-
-aiFillPrinter :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillPrinter = element (unsafeCoerce _aiFillPrinter)
-
-foreign import _aiFillProfile :: ReactIcon
-
-aiFillProfile :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillProfile = element (unsafeCoerce _aiFillProfile)
-
-foreign import _aiFillProject :: ReactIcon
-
-aiFillProject :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillProject = element (unsafeCoerce _aiFillProject)
-
-foreign import _aiFillPropertySafety :: ReactIcon
-
-aiFillPropertySafety :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillPropertySafety = element (unsafeCoerce _aiFillPropertySafety)
-
-foreign import _aiFillPushpin :: ReactIcon
-
-aiFillPushpin :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillPushpin = element (unsafeCoerce _aiFillPushpin)
-
-foreign import _aiFillQqCircle :: ReactIcon
-
-aiFillQqCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillQqCircle = element (unsafeCoerce _aiFillQqCircle)
-
-foreign import _aiFillQqSquare :: ReactIcon
-
-aiFillQqSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillQqSquare = element (unsafeCoerce _aiFillQqSquare)
-
-foreign import _aiFillQuestionCircle :: ReactIcon
-
-aiFillQuestionCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillQuestionCircle = element (unsafeCoerce _aiFillQuestionCircle)
-
-foreign import _aiFillRead :: ReactIcon
-
-aiFillRead :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillRead = element (unsafeCoerce _aiFillRead)
-
-foreign import _aiFillReconciliation :: ReactIcon
-
-aiFillReconciliation :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillReconciliation = element (unsafeCoerce _aiFillReconciliation)
-
-foreign import _aiFillRedditCircle :: ReactIcon
-
-aiFillRedditCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillRedditCircle = element (unsafeCoerce _aiFillRedditCircle)
-
-foreign import _aiFillRedditSquare :: ReactIcon
-
-aiFillRedditSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillRedditSquare = element (unsafeCoerce _aiFillRedditSquare)
-
-foreign import _aiFillRedEnvelope :: ReactIcon
-
-aiFillRedEnvelope :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillRedEnvelope = element (unsafeCoerce _aiFillRedEnvelope)
-
-foreign import _aiFillRest :: ReactIcon
-
-aiFillRest :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillRest = element (unsafeCoerce _aiFillRest)
-
-foreign import _aiFillRightCircle :: ReactIcon
-
-aiFillRightCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillRightCircle = element (unsafeCoerce _aiFillRightCircle)
-
-foreign import _aiFillRightSquare :: ReactIcon
-
-aiFillRightSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillRightSquare = element (unsafeCoerce _aiFillRightSquare)
-
-foreign import _aiFillRobot :: ReactIcon
-
-aiFillRobot :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillRobot = element (unsafeCoerce _aiFillRobot)
-
-foreign import _aiFillRocket :: ReactIcon
-
-aiFillRocket :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillRocket = element (unsafeCoerce _aiFillRocket)
-
-foreign import _aiFillSafetyCertificate :: ReactIcon
-
-aiFillSafetyCertificate :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillSafetyCertificate = element (unsafeCoerce _aiFillSafetyCertificate)
-
-foreign import _aiFillSave :: ReactIcon
-
-aiFillSave :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillSave = element (unsafeCoerce _aiFillSave)
-
-foreign import _aiFillSchedule :: ReactIcon
-
-aiFillSchedule :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillSchedule = element (unsafeCoerce _aiFillSchedule)
-
-foreign import _aiFillSecurityScan :: ReactIcon
-
-aiFillSecurityScan :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillSecurityScan = element (unsafeCoerce _aiFillSecurityScan)
-
-foreign import _aiFillSetting :: ReactIcon
-
-aiFillSetting :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillSetting = element (unsafeCoerce _aiFillSetting)
-
-foreign import _aiFillShop :: ReactIcon
-
-aiFillShop :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillShop = element (unsafeCoerce _aiFillShop)
-
-foreign import _aiFillShopping :: ReactIcon
-
-aiFillShopping :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillShopping = element (unsafeCoerce _aiFillShopping)
-
-foreign import _aiFillSignal :: ReactIcon
-
-aiFillSignal :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillSignal = element (unsafeCoerce _aiFillSignal)
-
-foreign import _aiFillSketchCircle :: ReactIcon
-
-aiFillSketchCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillSketchCircle = element (unsafeCoerce _aiFillSketchCircle)
-
-foreign import _aiFillSketchSquare :: ReactIcon
-
-aiFillSketchSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillSketchSquare = element (unsafeCoerce _aiFillSketchSquare)
-
-foreign import _aiFillSkin :: ReactIcon
-
-aiFillSkin :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillSkin = element (unsafeCoerce _aiFillSkin)
-
-foreign import _aiFillSkype :: ReactIcon
-
-aiFillSkype :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillSkype = element (unsafeCoerce _aiFillSkype)
-
-foreign import _aiFillSlackCircle :: ReactIcon
-
-aiFillSlackCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillSlackCircle = element (unsafeCoerce _aiFillSlackCircle)
-
-foreign import _aiFillSlackSquare :: ReactIcon
-
-aiFillSlackSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillSlackSquare = element (unsafeCoerce _aiFillSlackSquare)
-
-foreign import _aiFillSliders :: ReactIcon
-
-aiFillSliders :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillSliders = element (unsafeCoerce _aiFillSliders)
-
-foreign import _aiFillSmile :: ReactIcon
-
-aiFillSmile :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillSmile = element (unsafeCoerce _aiFillSmile)
-
-foreign import _aiFillSnippets :: ReactIcon
-
-aiFillSnippets :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillSnippets = element (unsafeCoerce _aiFillSnippets)
-
-foreign import _aiFillSound :: ReactIcon
-
-aiFillSound :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillSound = element (unsafeCoerce _aiFillSound)
-
-foreign import _aiFillStar :: ReactIcon
-
-aiFillStar :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillStar = element (unsafeCoerce _aiFillStar)
-
-foreign import _aiFillStepBackward :: ReactIcon
-
-aiFillStepBackward :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillStepBackward = element (unsafeCoerce _aiFillStepBackward)
-
-foreign import _aiFillStepForward :: ReactIcon
-
-aiFillStepForward :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillStepForward = element (unsafeCoerce _aiFillStepForward)
-
-foreign import _aiFillStop :: ReactIcon
-
-aiFillStop :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillStop = element (unsafeCoerce _aiFillStop)
-
-foreign import _aiFillSwitcher :: ReactIcon
-
-aiFillSwitcher :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillSwitcher = element (unsafeCoerce _aiFillSwitcher)
-
-foreign import _aiFillTablet :: ReactIcon
-
-aiFillTablet :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillTablet = element (unsafeCoerce _aiFillTablet)
-
-foreign import _aiFillTag :: ReactIcon
-
-aiFillTag :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillTag = element (unsafeCoerce _aiFillTag)
-
-foreign import _aiFillTags :: ReactIcon
-
-aiFillTags :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillTags = element (unsafeCoerce _aiFillTags)
-
-foreign import _aiFillTaobaoCircle :: ReactIcon
-
-aiFillTaobaoCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillTaobaoCircle = element (unsafeCoerce _aiFillTaobaoCircle)
-
-foreign import _aiFillTaobaoSquare :: ReactIcon
-
-aiFillTaobaoSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillTaobaoSquare = element (unsafeCoerce _aiFillTaobaoSquare)
-
-foreign import _aiFillThunderbolt :: ReactIcon
-
-aiFillThunderbolt :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillThunderbolt = element (unsafeCoerce _aiFillThunderbolt)
-
-foreign import _aiFillTool :: ReactIcon
-
-aiFillTool :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillTool = element (unsafeCoerce _aiFillTool)
-
-foreign import _aiFillTrademarkCircle :: ReactIcon
-
-aiFillTrademarkCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillTrademarkCircle = element (unsafeCoerce _aiFillTrademarkCircle)
-
-foreign import _aiFillTrophy :: ReactIcon
-
-aiFillTrophy :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillTrophy = element (unsafeCoerce _aiFillTrophy)
-
-foreign import _aiFillTwitterCircle :: ReactIcon
-
-aiFillTwitterCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillTwitterCircle = element (unsafeCoerce _aiFillTwitterCircle)
-
-foreign import _aiFillTwitterSquare :: ReactIcon
-
-aiFillTwitterSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillTwitterSquare = element (unsafeCoerce _aiFillTwitterSquare)
-
-foreign import _aiFillUnlock :: ReactIcon
-
-aiFillUnlock :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillUnlock = element (unsafeCoerce _aiFillUnlock)
-
-foreign import _aiFillUpCircle :: ReactIcon
-
-aiFillUpCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillUpCircle = element (unsafeCoerce _aiFillUpCircle)
-
-foreign import _aiFillUpSquare :: ReactIcon
-
-aiFillUpSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillUpSquare = element (unsafeCoerce _aiFillUpSquare)
-
-foreign import _aiFillUsb :: ReactIcon
-
-aiFillUsb :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillUsb = element (unsafeCoerce _aiFillUsb)
-
-foreign import _aiFillVideoCamera :: ReactIcon
-
-aiFillVideoCamera :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillVideoCamera = element (unsafeCoerce _aiFillVideoCamera)
-
-foreign import _aiFillWallet :: ReactIcon
-
-aiFillWallet :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillWallet = element (unsafeCoerce _aiFillWallet)
-
-foreign import _aiFillWarning :: ReactIcon
-
-aiFillWarning :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillWarning = element (unsafeCoerce _aiFillWarning)
-
-foreign import _aiFillWechat :: ReactIcon
-
-aiFillWechat :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillWechat = element (unsafeCoerce _aiFillWechat)
-
-foreign import _aiFillWeiboCircle :: ReactIcon
-
-aiFillWeiboCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillWeiboCircle = element (unsafeCoerce _aiFillWeiboCircle)
-
-foreign import _aiFillWeiboSquare :: ReactIcon
-
-aiFillWeiboSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillWeiboSquare = element (unsafeCoerce _aiFillWeiboSquare)
-
-foreign import _aiFillWindows :: ReactIcon
-
-aiFillWindows :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillWindows = element (unsafeCoerce _aiFillWindows)
-
-foreign import _aiFillYahoo :: ReactIcon
-
-aiFillYahoo :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillYahoo = element (unsafeCoerce _aiFillYahoo)
-
-foreign import _aiFillYoutube :: ReactIcon
-
-aiFillYoutube :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillYoutube = element (unsafeCoerce _aiFillYoutube)
-
-foreign import _aiFillYuque :: ReactIcon
-
-aiFillYuque :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillYuque = element (unsafeCoerce _aiFillYuque)
-
-foreign import _aiFillZhihuCircle :: ReactIcon
-
-aiFillZhihuCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillZhihuCircle = element (unsafeCoerce _aiFillZhihuCircle)
-
-foreign import _aiFillZhihuSquare :: ReactIcon
-
-aiFillZhihuSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiFillZhihuSquare = element (unsafeCoerce _aiFillZhihuSquare)
-
-foreign import _aiOutlineAccountBook :: ReactIcon
-
-aiOutlineAccountBook :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineAccountBook = element (unsafeCoerce _aiOutlineAccountBook)
-
-foreign import _aiOutlineAim :: ReactIcon
-
-aiOutlineAim :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineAim = element (unsafeCoerce _aiOutlineAim)
-
-foreign import _aiOutlineAlert :: ReactIcon
-
-aiOutlineAlert :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineAlert = element (unsafeCoerce _aiOutlineAlert)
-
-foreign import _aiOutlineAlibaba :: ReactIcon
-
-aiOutlineAlibaba :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineAlibaba = element (unsafeCoerce _aiOutlineAlibaba)
-
-foreign import _aiOutlineAlignCenter :: ReactIcon
-
-aiOutlineAlignCenter :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineAlignCenter = element (unsafeCoerce _aiOutlineAlignCenter)
-
-foreign import _aiOutlineAlignLeft :: ReactIcon
-
-aiOutlineAlignLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineAlignLeft = element (unsafeCoerce _aiOutlineAlignLeft)
-
-foreign import _aiOutlineAlignRight :: ReactIcon
-
-aiOutlineAlignRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineAlignRight = element (unsafeCoerce _aiOutlineAlignRight)
-
-foreign import _aiOutlineAlipay :: ReactIcon
-
-aiOutlineAlipay :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineAlipay = element (unsafeCoerce _aiOutlineAlipay)
-
-foreign import _aiOutlineAlipayCircle :: ReactIcon
-
-aiOutlineAlipayCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineAlipayCircle = element (unsafeCoerce _aiOutlineAlipayCircle)
-
-foreign import _aiOutlineAliwangwang :: ReactIcon
-
-aiOutlineAliwangwang :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineAliwangwang = element (unsafeCoerce _aiOutlineAliwangwang)
-
-foreign import _aiOutlineAliyun :: ReactIcon
-
-aiOutlineAliyun :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineAliyun = element (unsafeCoerce _aiOutlineAliyun)
-
-foreign import _aiOutlineAmazon :: ReactIcon
-
-aiOutlineAmazon :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineAmazon = element (unsafeCoerce _aiOutlineAmazon)
-
-foreign import _aiOutlineAndroid :: ReactIcon
-
-aiOutlineAndroid :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineAndroid = element (unsafeCoerce _aiOutlineAndroid)
-
-foreign import _aiOutlineAntCloud :: ReactIcon
-
-aiOutlineAntCloud :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineAntCloud = element (unsafeCoerce _aiOutlineAntCloud)
-
-foreign import _aiOutlineAntDesign :: ReactIcon
-
-aiOutlineAntDesign :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineAntDesign = element (unsafeCoerce _aiOutlineAntDesign)
-
-foreign import _aiOutlineApartment :: ReactIcon
-
-aiOutlineApartment :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineApartment = element (unsafeCoerce _aiOutlineApartment)
-
-foreign import _aiOutlineApi :: ReactIcon
-
-aiOutlineApi :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineApi = element (unsafeCoerce _aiOutlineApi)
-
-foreign import _aiOutlineApple :: ReactIcon
-
-aiOutlineApple :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineApple = element (unsafeCoerce _aiOutlineApple)
-
-foreign import _aiOutlineAppstore :: ReactIcon
-
-aiOutlineAppstore :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineAppstore = element (unsafeCoerce _aiOutlineAppstore)
-
-foreign import _aiOutlineAppstoreAdd :: ReactIcon
-
-aiOutlineAppstoreAdd :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineAppstoreAdd = element (unsafeCoerce _aiOutlineAppstoreAdd)
-
-foreign import _aiOutlineAreaChart :: ReactIcon
-
-aiOutlineAreaChart :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineAreaChart = element (unsafeCoerce _aiOutlineAreaChart)
-
-foreign import _aiOutlineArrowDown :: ReactIcon
-
-aiOutlineArrowDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineArrowDown = element (unsafeCoerce _aiOutlineArrowDown)
-
-foreign import _aiOutlineArrowLeft :: ReactIcon
-
-aiOutlineArrowLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineArrowLeft = element (unsafeCoerce _aiOutlineArrowLeft)
-
-foreign import _aiOutlineArrowRight :: ReactIcon
-
-aiOutlineArrowRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineArrowRight = element (unsafeCoerce _aiOutlineArrowRight)
-
-foreign import _aiOutlineArrowsAlt :: ReactIcon
-
-aiOutlineArrowsAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineArrowsAlt = element (unsafeCoerce _aiOutlineArrowsAlt)
-
-foreign import _aiOutlineArrowUp :: ReactIcon
-
-aiOutlineArrowUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineArrowUp = element (unsafeCoerce _aiOutlineArrowUp)
-
-foreign import _aiOutlineAudio :: ReactIcon
-
-aiOutlineAudio :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineAudio = element (unsafeCoerce _aiOutlineAudio)
-
-foreign import _aiOutlineAudioMuted :: ReactIcon
-
-aiOutlineAudioMuted :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineAudioMuted = element (unsafeCoerce _aiOutlineAudioMuted)
-
-foreign import _aiOutlineAudit :: ReactIcon
-
-aiOutlineAudit :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineAudit = element (unsafeCoerce _aiOutlineAudit)
-
-foreign import _aiOutlineBackward :: ReactIcon
-
-aiOutlineBackward :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineBackward = element (unsafeCoerce _aiOutlineBackward)
-
-foreign import _aiOutlineBank :: ReactIcon
-
-aiOutlineBank :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineBank = element (unsafeCoerce _aiOutlineBank)
-
-foreign import _aiOutlineBarChart :: ReactIcon
-
-aiOutlineBarChart :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineBarChart = element (unsafeCoerce _aiOutlineBarChart)
-
-foreign import _aiOutlineBarcode :: ReactIcon
-
-aiOutlineBarcode :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineBarcode = element (unsafeCoerce _aiOutlineBarcode)
-
-foreign import _aiOutlineBars :: ReactIcon
-
-aiOutlineBars :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineBars = element (unsafeCoerce _aiOutlineBars)
-
-foreign import _aiOutlineBehance :: ReactIcon
-
-aiOutlineBehance :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineBehance = element (unsafeCoerce _aiOutlineBehance)
-
-foreign import _aiOutlineBehanceSquare :: ReactIcon
-
-aiOutlineBehanceSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineBehanceSquare = element (unsafeCoerce _aiOutlineBehanceSquare)
-
-foreign import _aiOutlineBell :: ReactIcon
-
-aiOutlineBell :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineBell = element (unsafeCoerce _aiOutlineBell)
-
-foreign import _aiOutlineBgColors :: ReactIcon
-
-aiOutlineBgColors :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineBgColors = element (unsafeCoerce _aiOutlineBgColors)
-
-foreign import _aiOutlineBlock :: ReactIcon
-
-aiOutlineBlock :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineBlock = element (unsafeCoerce _aiOutlineBlock)
-
-foreign import _aiOutlineBold :: ReactIcon
-
-aiOutlineBold :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineBold = element (unsafeCoerce _aiOutlineBold)
-
-foreign import _aiOutlineBook :: ReactIcon
-
-aiOutlineBook :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineBook = element (unsafeCoerce _aiOutlineBook)
-
-foreign import _aiOutlineBorder :: ReactIcon
-
-aiOutlineBorder :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineBorder = element (unsafeCoerce _aiOutlineBorder)
-
-foreign import _aiOutlineBorderBottom :: ReactIcon
-
-aiOutlineBorderBottom :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineBorderBottom = element (unsafeCoerce _aiOutlineBorderBottom)
-
-foreign import _aiOutlineBorderHorizontal :: ReactIcon
-
-aiOutlineBorderHorizontal :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineBorderHorizontal = element (unsafeCoerce _aiOutlineBorderHorizontal)
-
-foreign import _aiOutlineBorderInner :: ReactIcon
-
-aiOutlineBorderInner :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineBorderInner = element (unsafeCoerce _aiOutlineBorderInner)
-
-foreign import _aiOutlineBorderLeft :: ReactIcon
-
-aiOutlineBorderLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineBorderLeft = element (unsafeCoerce _aiOutlineBorderLeft)
-
-foreign import _aiOutlineBorderlessTable :: ReactIcon
-
-aiOutlineBorderlessTable :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineBorderlessTable = element (unsafeCoerce _aiOutlineBorderlessTable)
-
-foreign import _aiOutlineBorderOuter :: ReactIcon
-
-aiOutlineBorderOuter :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineBorderOuter = element (unsafeCoerce _aiOutlineBorderOuter)
-
-foreign import _aiOutlineBorderRight :: ReactIcon
-
-aiOutlineBorderRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineBorderRight = element (unsafeCoerce _aiOutlineBorderRight)
-
-foreign import _aiOutlineBorderTop :: ReactIcon
-
-aiOutlineBorderTop :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineBorderTop = element (unsafeCoerce _aiOutlineBorderTop)
-
-foreign import _aiOutlineBorderVerticle :: ReactIcon
-
-aiOutlineBorderVerticle :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineBorderVerticle = element (unsafeCoerce _aiOutlineBorderVerticle)
-
-foreign import _aiOutlineBoxPlot :: ReactIcon
-
-aiOutlineBoxPlot :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineBoxPlot = element (unsafeCoerce _aiOutlineBoxPlot)
-
-foreign import _aiOutlineBranches :: ReactIcon
-
-aiOutlineBranches :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineBranches = element (unsafeCoerce _aiOutlineBranches)
-
-foreign import _aiOutlineBug :: ReactIcon
-
-aiOutlineBug :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineBug = element (unsafeCoerce _aiOutlineBug)
-
-foreign import _aiOutlineBuild :: ReactIcon
-
-aiOutlineBuild :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineBuild = element (unsafeCoerce _aiOutlineBuild)
-
-foreign import _aiOutlineBulb :: ReactIcon
-
-aiOutlineBulb :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineBulb = element (unsafeCoerce _aiOutlineBulb)
-
-foreign import _aiOutlineCalculator :: ReactIcon
-
-aiOutlineCalculator :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineCalculator = element (unsafeCoerce _aiOutlineCalculator)
-
-foreign import _aiOutlineCalendar :: ReactIcon
-
-aiOutlineCalendar :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineCalendar = element (unsafeCoerce _aiOutlineCalendar)
-
-foreign import _aiOutlineCamera :: ReactIcon
-
-aiOutlineCamera :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineCamera = element (unsafeCoerce _aiOutlineCamera)
-
-foreign import _aiOutlineCar :: ReactIcon
-
-aiOutlineCar :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineCar = element (unsafeCoerce _aiOutlineCar)
-
-foreign import _aiOutlineCaretDown :: ReactIcon
-
-aiOutlineCaretDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineCaretDown = element (unsafeCoerce _aiOutlineCaretDown)
-
-foreign import _aiOutlineCaretLeft :: ReactIcon
-
-aiOutlineCaretLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineCaretLeft = element (unsafeCoerce _aiOutlineCaretLeft)
-
-foreign import _aiOutlineCaretRight :: ReactIcon
-
-aiOutlineCaretRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineCaretRight = element (unsafeCoerce _aiOutlineCaretRight)
-
-foreign import _aiOutlineCaretUp :: ReactIcon
-
-aiOutlineCaretUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineCaretUp = element (unsafeCoerce _aiOutlineCaretUp)
-
-foreign import _aiOutlineCarryOut :: ReactIcon
-
-aiOutlineCarryOut :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineCarryOut = element (unsafeCoerce _aiOutlineCarryOut)
-
-foreign import _aiOutlineCheck :: ReactIcon
-
-aiOutlineCheck :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineCheck = element (unsafeCoerce _aiOutlineCheck)
-
-foreign import _aiOutlineCheckCircle :: ReactIcon
-
-aiOutlineCheckCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineCheckCircle = element (unsafeCoerce _aiOutlineCheckCircle)
-
-foreign import _aiOutlineCheckSquare :: ReactIcon
-
-aiOutlineCheckSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineCheckSquare = element (unsafeCoerce _aiOutlineCheckSquare)
-
-foreign import _aiOutlineChrome :: ReactIcon
-
-aiOutlineChrome :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineChrome = element (unsafeCoerce _aiOutlineChrome)
-
-foreign import _aiOutlineCi :: ReactIcon
-
-aiOutlineCi :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineCi = element (unsafeCoerce _aiOutlineCi)
-
-foreign import _aiOutlineCiCircle :: ReactIcon
-
-aiOutlineCiCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineCiCircle = element (unsafeCoerce _aiOutlineCiCircle)
-
-foreign import _aiOutlineClear :: ReactIcon
-
-aiOutlineClear :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineClear = element (unsafeCoerce _aiOutlineClear)
-
-foreign import _aiOutlineClockCircle :: ReactIcon
-
-aiOutlineClockCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineClockCircle = element (unsafeCoerce _aiOutlineClockCircle)
-
-foreign import _aiOutlineClose :: ReactIcon
-
-aiOutlineClose :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineClose = element (unsafeCoerce _aiOutlineClose)
-
-foreign import _aiOutlineCloseCircle :: ReactIcon
-
-aiOutlineCloseCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineCloseCircle = element (unsafeCoerce _aiOutlineCloseCircle)
-
-foreign import _aiOutlineCloseSquare :: ReactIcon
-
-aiOutlineCloseSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineCloseSquare = element (unsafeCoerce _aiOutlineCloseSquare)
-
-foreign import _aiOutlineCloud :: ReactIcon
-
-aiOutlineCloud :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineCloud = element (unsafeCoerce _aiOutlineCloud)
-
-foreign import _aiOutlineCloudDownload :: ReactIcon
-
-aiOutlineCloudDownload :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineCloudDownload = element (unsafeCoerce _aiOutlineCloudDownload)
-
-foreign import _aiOutlineCloudServer :: ReactIcon
-
-aiOutlineCloudServer :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineCloudServer = element (unsafeCoerce _aiOutlineCloudServer)
-
-foreign import _aiOutlineCloudSync :: ReactIcon
-
-aiOutlineCloudSync :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineCloudSync = element (unsafeCoerce _aiOutlineCloudSync)
-
-foreign import _aiOutlineCloudUpload :: ReactIcon
-
-aiOutlineCloudUpload :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineCloudUpload = element (unsafeCoerce _aiOutlineCloudUpload)
-
-foreign import _aiOutlineCluster :: ReactIcon
-
-aiOutlineCluster :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineCluster = element (unsafeCoerce _aiOutlineCluster)
-
-foreign import _aiOutlineCode :: ReactIcon
-
-aiOutlineCode :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineCode = element (unsafeCoerce _aiOutlineCode)
-
-foreign import _aiOutlineCodepen :: ReactIcon
-
-aiOutlineCodepen :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineCodepen = element (unsafeCoerce _aiOutlineCodepen)
-
-foreign import _aiOutlineCodepenCircle :: ReactIcon
-
-aiOutlineCodepenCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineCodepenCircle = element (unsafeCoerce _aiOutlineCodepenCircle)
-
-foreign import _aiOutlineCodeSandbox :: ReactIcon
-
-aiOutlineCodeSandbox :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineCodeSandbox = element (unsafeCoerce _aiOutlineCodeSandbox)
-
-foreign import _aiOutlineCoffee :: ReactIcon
-
-aiOutlineCoffee :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineCoffee = element (unsafeCoerce _aiOutlineCoffee)
-
-foreign import _aiOutlineColumnHeight :: ReactIcon
-
-aiOutlineColumnHeight :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineColumnHeight = element (unsafeCoerce _aiOutlineColumnHeight)
-
-foreign import _aiOutlineColumnWidth :: ReactIcon
-
-aiOutlineColumnWidth :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineColumnWidth = element (unsafeCoerce _aiOutlineColumnWidth)
-
-foreign import _aiOutlineComment :: ReactIcon
-
-aiOutlineComment :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineComment = element (unsafeCoerce _aiOutlineComment)
-
-foreign import _aiOutlineCompass :: ReactIcon
-
-aiOutlineCompass :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineCompass = element (unsafeCoerce _aiOutlineCompass)
-
-foreign import _aiOutlineCompress :: ReactIcon
-
-aiOutlineCompress :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineCompress = element (unsafeCoerce _aiOutlineCompress)
-
-foreign import _aiOutlineConsoleSql :: ReactIcon
-
-aiOutlineConsoleSql :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineConsoleSql = element (unsafeCoerce _aiOutlineConsoleSql)
-
-foreign import _aiOutlineContacts :: ReactIcon
-
-aiOutlineContacts :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineContacts = element (unsafeCoerce _aiOutlineContacts)
-
-foreign import _aiOutlineContainer :: ReactIcon
-
-aiOutlineContainer :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineContainer = element (unsafeCoerce _aiOutlineContainer)
-
-foreign import _aiOutlineControl :: ReactIcon
-
-aiOutlineControl :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineControl = element (unsafeCoerce _aiOutlineControl)
-
-foreign import _aiOutlineCopy :: ReactIcon
-
-aiOutlineCopy :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineCopy = element (unsafeCoerce _aiOutlineCopy)
-
-foreign import _aiOutlineCopyright :: ReactIcon
-
-aiOutlineCopyright :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineCopyright = element (unsafeCoerce _aiOutlineCopyright)
-
-foreign import _aiOutlineCopyrightCircle :: ReactIcon
-
-aiOutlineCopyrightCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineCopyrightCircle = element (unsafeCoerce _aiOutlineCopyrightCircle)
-
-foreign import _aiOutlineCreditCard :: ReactIcon
-
-aiOutlineCreditCard :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineCreditCard = element (unsafeCoerce _aiOutlineCreditCard)
-
-foreign import _aiOutlineCrown :: ReactIcon
-
-aiOutlineCrown :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineCrown = element (unsafeCoerce _aiOutlineCrown)
-
-foreign import _aiOutlineCustomerService :: ReactIcon
-
-aiOutlineCustomerService :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineCustomerService = element (unsafeCoerce _aiOutlineCustomerService)
-
-foreign import _aiOutlineDash :: ReactIcon
-
-aiOutlineDash :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineDash = element (unsafeCoerce _aiOutlineDash)
-
-foreign import _aiOutlineDashboard :: ReactIcon
-
-aiOutlineDashboard :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineDashboard = element (unsafeCoerce _aiOutlineDashboard)
-
-foreign import _aiOutlineDatabase :: ReactIcon
-
-aiOutlineDatabase :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineDatabase = element (unsafeCoerce _aiOutlineDatabase)
-
-foreign import _aiOutlineDelete :: ReactIcon
-
-aiOutlineDelete :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineDelete = element (unsafeCoerce _aiOutlineDelete)
-
-foreign import _aiOutlineDeleteColumn :: ReactIcon
-
-aiOutlineDeleteColumn :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineDeleteColumn = element (unsafeCoerce _aiOutlineDeleteColumn)
-
-foreign import _aiOutlineDeleteRow :: ReactIcon
-
-aiOutlineDeleteRow :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineDeleteRow = element (unsafeCoerce _aiOutlineDeleteRow)
-
-foreign import _aiOutlineDeliveredProcedure :: ReactIcon
-
-aiOutlineDeliveredProcedure :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineDeliveredProcedure = element (unsafeCoerce _aiOutlineDeliveredProcedure)
-
-foreign import _aiOutlineDeploymentUnit :: ReactIcon
-
-aiOutlineDeploymentUnit :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineDeploymentUnit = element (unsafeCoerce _aiOutlineDeploymentUnit)
-
-foreign import _aiOutlineDesktop :: ReactIcon
-
-aiOutlineDesktop :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineDesktop = element (unsafeCoerce _aiOutlineDesktop)
-
-foreign import _aiOutlineDiff :: ReactIcon
-
-aiOutlineDiff :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineDiff = element (unsafeCoerce _aiOutlineDiff)
-
-foreign import _aiOutlineDingding :: ReactIcon
-
-aiOutlineDingding :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineDingding = element (unsafeCoerce _aiOutlineDingding)
-
-foreign import _aiOutlineDingtalk :: ReactIcon
-
-aiOutlineDingtalk :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineDingtalk = element (unsafeCoerce _aiOutlineDingtalk)
-
-foreign import _aiOutlineDisconnect :: ReactIcon
-
-aiOutlineDisconnect :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineDisconnect = element (unsafeCoerce _aiOutlineDisconnect)
-
-foreign import _aiOutlineDislike :: ReactIcon
-
-aiOutlineDislike :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineDislike = element (unsafeCoerce _aiOutlineDislike)
-
-foreign import _aiOutlineDollar :: ReactIcon
-
-aiOutlineDollar :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineDollar = element (unsafeCoerce _aiOutlineDollar)
-
-foreign import _aiOutlineDollarCircle :: ReactIcon
-
-aiOutlineDollarCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineDollarCircle = element (unsafeCoerce _aiOutlineDollarCircle)
-
-foreign import _aiOutlineDotChart :: ReactIcon
-
-aiOutlineDotChart :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineDotChart = element (unsafeCoerce _aiOutlineDotChart)
-
-foreign import _aiOutlineDoubleLeft :: ReactIcon
-
-aiOutlineDoubleLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineDoubleLeft = element (unsafeCoerce _aiOutlineDoubleLeft)
-
-foreign import _aiOutlineDoubleRight :: ReactIcon
-
-aiOutlineDoubleRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineDoubleRight = element (unsafeCoerce _aiOutlineDoubleRight)
-
-foreign import _aiOutlineDown :: ReactIcon
-
-aiOutlineDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineDown = element (unsafeCoerce _aiOutlineDown)
-
-foreign import _aiOutlineDownCircle :: ReactIcon
-
-aiOutlineDownCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineDownCircle = element (unsafeCoerce _aiOutlineDownCircle)
-
-foreign import _aiOutlineDownload :: ReactIcon
-
-aiOutlineDownload :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineDownload = element (unsafeCoerce _aiOutlineDownload)
-
-foreign import _aiOutlineDownSquare :: ReactIcon
-
-aiOutlineDownSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineDownSquare = element (unsafeCoerce _aiOutlineDownSquare)
-
-foreign import _aiOutlineDrag :: ReactIcon
-
-aiOutlineDrag :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineDrag = element (unsafeCoerce _aiOutlineDrag)
-
-foreign import _aiOutlineDribbble :: ReactIcon
-
-aiOutlineDribbble :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineDribbble = element (unsafeCoerce _aiOutlineDribbble)
-
-foreign import _aiOutlineDribbbleSquare :: ReactIcon
-
-aiOutlineDribbbleSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineDribbbleSquare = element (unsafeCoerce _aiOutlineDribbbleSquare)
-
-foreign import _aiOutlineDropbox :: ReactIcon
-
-aiOutlineDropbox :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineDropbox = element (unsafeCoerce _aiOutlineDropbox)
-
-foreign import _aiOutlineEdit :: ReactIcon
-
-aiOutlineEdit :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineEdit = element (unsafeCoerce _aiOutlineEdit)
-
-foreign import _aiOutlineEllipsis :: ReactIcon
-
-aiOutlineEllipsis :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineEllipsis = element (unsafeCoerce _aiOutlineEllipsis)
-
-foreign import _aiOutlineEnter :: ReactIcon
-
-aiOutlineEnter :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineEnter = element (unsafeCoerce _aiOutlineEnter)
-
-foreign import _aiOutlineEnvironment :: ReactIcon
-
-aiOutlineEnvironment :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineEnvironment = element (unsafeCoerce _aiOutlineEnvironment)
-
-foreign import _aiOutlineEuro :: ReactIcon
-
-aiOutlineEuro :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineEuro = element (unsafeCoerce _aiOutlineEuro)
-
-foreign import _aiOutlineEuroCircle :: ReactIcon
-
-aiOutlineEuroCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineEuroCircle = element (unsafeCoerce _aiOutlineEuroCircle)
-
-foreign import _aiOutlineException :: ReactIcon
-
-aiOutlineException :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineException = element (unsafeCoerce _aiOutlineException)
-
-foreign import _aiOutlineExclamation :: ReactIcon
-
-aiOutlineExclamation :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineExclamation = element (unsafeCoerce _aiOutlineExclamation)
-
-foreign import _aiOutlineExclamationCircle :: ReactIcon
-
-aiOutlineExclamationCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineExclamationCircle = element (unsafeCoerce _aiOutlineExclamationCircle)
-
-foreign import _aiOutlineExpand :: ReactIcon
-
-aiOutlineExpand :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineExpand = element (unsafeCoerce _aiOutlineExpand)
-
-foreign import _aiOutlineExpandAlt :: ReactIcon
-
-aiOutlineExpandAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineExpandAlt = element (unsafeCoerce _aiOutlineExpandAlt)
-
-foreign import _aiOutlineExperiment :: ReactIcon
-
-aiOutlineExperiment :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineExperiment = element (unsafeCoerce _aiOutlineExperiment)
-
-foreign import _aiOutlineExport :: ReactIcon
-
-aiOutlineExport :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineExport = element (unsafeCoerce _aiOutlineExport)
-
-foreign import _aiOutlineEye :: ReactIcon
-
-aiOutlineEye :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineEye = element (unsafeCoerce _aiOutlineEye)
-
-foreign import _aiOutlineEyeInvisible :: ReactIcon
-
-aiOutlineEyeInvisible :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineEyeInvisible = element (unsafeCoerce _aiOutlineEyeInvisible)
-
-foreign import _aiOutlineFacebook :: ReactIcon
-
-aiOutlineFacebook :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineFacebook = element (unsafeCoerce _aiOutlineFacebook)
-
-foreign import _aiOutlineFall :: ReactIcon
-
-aiOutlineFall :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineFall = element (unsafeCoerce _aiOutlineFall)
-
-foreign import _aiOutlineFastBackward :: ReactIcon
-
-aiOutlineFastBackward :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineFastBackward = element (unsafeCoerce _aiOutlineFastBackward)
-
-foreign import _aiOutlineFastForward :: ReactIcon
-
-aiOutlineFastForward :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineFastForward = element (unsafeCoerce _aiOutlineFastForward)
-
-foreign import _aiOutlineFieldBinary :: ReactIcon
-
-aiOutlineFieldBinary :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineFieldBinary = element (unsafeCoerce _aiOutlineFieldBinary)
-
-foreign import _aiOutlineFieldNumber :: ReactIcon
-
-aiOutlineFieldNumber :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineFieldNumber = element (unsafeCoerce _aiOutlineFieldNumber)
-
-foreign import _aiOutlineFieldString :: ReactIcon
-
-aiOutlineFieldString :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineFieldString = element (unsafeCoerce _aiOutlineFieldString)
-
-foreign import _aiOutlineFieldTime :: ReactIcon
-
-aiOutlineFieldTime :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineFieldTime = element (unsafeCoerce _aiOutlineFieldTime)
-
-foreign import _aiOutlineFile :: ReactIcon
-
-aiOutlineFile :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineFile = element (unsafeCoerce _aiOutlineFile)
-
-foreign import _aiOutlineFileAdd :: ReactIcon
-
-aiOutlineFileAdd :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineFileAdd = element (unsafeCoerce _aiOutlineFileAdd)
-
-foreign import _aiOutlineFileDone :: ReactIcon
-
-aiOutlineFileDone :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineFileDone = element (unsafeCoerce _aiOutlineFileDone)
-
-foreign import _aiOutlineFileExcel :: ReactIcon
-
-aiOutlineFileExcel :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineFileExcel = element (unsafeCoerce _aiOutlineFileExcel)
-
-foreign import _aiOutlineFileExclamation :: ReactIcon
-
-aiOutlineFileExclamation :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineFileExclamation = element (unsafeCoerce _aiOutlineFileExclamation)
-
-foreign import _aiOutlineFileGif :: ReactIcon
-
-aiOutlineFileGif :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineFileGif = element (unsafeCoerce _aiOutlineFileGif)
-
-foreign import _aiOutlineFileImage :: ReactIcon
-
-aiOutlineFileImage :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineFileImage = element (unsafeCoerce _aiOutlineFileImage)
-
-foreign import _aiOutlineFileJpg :: ReactIcon
-
-aiOutlineFileJpg :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineFileJpg = element (unsafeCoerce _aiOutlineFileJpg)
-
-foreign import _aiOutlineFileMarkdown :: ReactIcon
-
-aiOutlineFileMarkdown :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineFileMarkdown = element (unsafeCoerce _aiOutlineFileMarkdown)
-
-foreign import _aiOutlineFilePdf :: ReactIcon
-
-aiOutlineFilePdf :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineFilePdf = element (unsafeCoerce _aiOutlineFilePdf)
-
-foreign import _aiOutlineFilePpt :: ReactIcon
-
-aiOutlineFilePpt :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineFilePpt = element (unsafeCoerce _aiOutlineFilePpt)
-
-foreign import _aiOutlineFileProtect :: ReactIcon
-
-aiOutlineFileProtect :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineFileProtect = element (unsafeCoerce _aiOutlineFileProtect)
-
-foreign import _aiOutlineFileSearch :: ReactIcon
-
-aiOutlineFileSearch :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineFileSearch = element (unsafeCoerce _aiOutlineFileSearch)
-
-foreign import _aiOutlineFileSync :: ReactIcon
-
-aiOutlineFileSync :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineFileSync = element (unsafeCoerce _aiOutlineFileSync)
-
-foreign import _aiOutlineFileText :: ReactIcon
-
-aiOutlineFileText :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineFileText = element (unsafeCoerce _aiOutlineFileText)
-
-foreign import _aiOutlineFileUnknown :: ReactIcon
-
-aiOutlineFileUnknown :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineFileUnknown = element (unsafeCoerce _aiOutlineFileUnknown)
-
-foreign import _aiOutlineFileWord :: ReactIcon
-
-aiOutlineFileWord :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineFileWord = element (unsafeCoerce _aiOutlineFileWord)
-
-foreign import _aiOutlineFileZip :: ReactIcon
-
-aiOutlineFileZip :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineFileZip = element (unsafeCoerce _aiOutlineFileZip)
-
-foreign import _aiOutlineFilter :: ReactIcon
-
-aiOutlineFilter :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineFilter = element (unsafeCoerce _aiOutlineFilter)
-
-foreign import _aiOutlineFire :: ReactIcon
-
-aiOutlineFire :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineFire = element (unsafeCoerce _aiOutlineFire)
-
-foreign import _aiOutlineFlag :: ReactIcon
-
-aiOutlineFlag :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineFlag = element (unsafeCoerce _aiOutlineFlag)
-
-foreign import _aiOutlineFolder :: ReactIcon
-
-aiOutlineFolder :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineFolder = element (unsafeCoerce _aiOutlineFolder)
-
-foreign import _aiOutlineFolderAdd :: ReactIcon
-
-aiOutlineFolderAdd :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineFolderAdd = element (unsafeCoerce _aiOutlineFolderAdd)
-
-foreign import _aiOutlineFolderOpen :: ReactIcon
-
-aiOutlineFolderOpen :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineFolderOpen = element (unsafeCoerce _aiOutlineFolderOpen)
-
-foreign import _aiOutlineFolderView :: ReactIcon
-
-aiOutlineFolderView :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineFolderView = element (unsafeCoerce _aiOutlineFolderView)
-
-foreign import _aiOutlineFontColors :: ReactIcon
-
-aiOutlineFontColors :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineFontColors = element (unsafeCoerce _aiOutlineFontColors)
-
-foreign import _aiOutlineFontSize :: ReactIcon
-
-aiOutlineFontSize :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineFontSize = element (unsafeCoerce _aiOutlineFontSize)
-
-foreign import _aiOutlineFork :: ReactIcon
-
-aiOutlineFork :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineFork = element (unsafeCoerce _aiOutlineFork)
-
-foreign import _aiOutlineForm :: ReactIcon
-
-aiOutlineForm :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineForm = element (unsafeCoerce _aiOutlineForm)
-
-foreign import _aiOutlineFormatPainter :: ReactIcon
-
-aiOutlineFormatPainter :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineFormatPainter = element (unsafeCoerce _aiOutlineFormatPainter)
-
-foreign import _aiOutlineForward :: ReactIcon
-
-aiOutlineForward :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineForward = element (unsafeCoerce _aiOutlineForward)
-
-foreign import _aiOutlineFrown :: ReactIcon
-
-aiOutlineFrown :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineFrown = element (unsafeCoerce _aiOutlineFrown)
-
-foreign import _aiOutlineFullscreen :: ReactIcon
-
-aiOutlineFullscreen :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineFullscreen = element (unsafeCoerce _aiOutlineFullscreen)
-
-foreign import _aiOutlineFullscreenExit :: ReactIcon
-
-aiOutlineFullscreenExit :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineFullscreenExit = element (unsafeCoerce _aiOutlineFullscreenExit)
-
-foreign import _aiOutlineFunction :: ReactIcon
-
-aiOutlineFunction :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineFunction = element (unsafeCoerce _aiOutlineFunction)
-
-foreign import _aiOutlineFund :: ReactIcon
-
-aiOutlineFund :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineFund = element (unsafeCoerce _aiOutlineFund)
-
-foreign import _aiOutlineFundProjectionScreen :: ReactIcon
-
-aiOutlineFundProjectionScreen :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineFundProjectionScreen = element (unsafeCoerce _aiOutlineFundProjectionScreen)
-
-foreign import _aiOutlineFundView :: ReactIcon
-
-aiOutlineFundView :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineFundView = element (unsafeCoerce _aiOutlineFundView)
-
-foreign import _aiOutlineFunnelPlot :: ReactIcon
-
-aiOutlineFunnelPlot :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineFunnelPlot = element (unsafeCoerce _aiOutlineFunnelPlot)
-
-foreign import _aiOutlineGateway :: ReactIcon
-
-aiOutlineGateway :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineGateway = element (unsafeCoerce _aiOutlineGateway)
-
-foreign import _aiOutlineGif :: ReactIcon
-
-aiOutlineGif :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineGif = element (unsafeCoerce _aiOutlineGif)
-
-foreign import _aiOutlineGift :: ReactIcon
-
-aiOutlineGift :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineGift = element (unsafeCoerce _aiOutlineGift)
-
-foreign import _aiOutlineGithub :: ReactIcon
-
-aiOutlineGithub :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineGithub = element (unsafeCoerce _aiOutlineGithub)
-
-foreign import _aiOutlineGitlab :: ReactIcon
-
-aiOutlineGitlab :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineGitlab = element (unsafeCoerce _aiOutlineGitlab)
-
-foreign import _aiOutlineGlobal :: ReactIcon
-
-aiOutlineGlobal :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineGlobal = element (unsafeCoerce _aiOutlineGlobal)
-
-foreign import _aiOutlineGold :: ReactIcon
-
-aiOutlineGold :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineGold = element (unsafeCoerce _aiOutlineGold)
-
-foreign import _aiOutlineGoogle :: ReactIcon
-
-aiOutlineGoogle :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineGoogle = element (unsafeCoerce _aiOutlineGoogle)
-
-foreign import _aiOutlineGooglePlus :: ReactIcon
-
-aiOutlineGooglePlus :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineGooglePlus = element (unsafeCoerce _aiOutlineGooglePlus)
-
-foreign import _aiOutlineGroup :: ReactIcon
-
-aiOutlineGroup :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineGroup = element (unsafeCoerce _aiOutlineGroup)
-
-foreign import _aiOutlineHdd :: ReactIcon
-
-aiOutlineHdd :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineHdd = element (unsafeCoerce _aiOutlineHdd)
-
-foreign import _aiOutlineHeart :: ReactIcon
-
-aiOutlineHeart :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineHeart = element (unsafeCoerce _aiOutlineHeart)
-
-foreign import _aiOutlineHeatMap :: ReactIcon
-
-aiOutlineHeatMap :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineHeatMap = element (unsafeCoerce _aiOutlineHeatMap)
-
-foreign import _aiOutlineHighlight :: ReactIcon
-
-aiOutlineHighlight :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineHighlight = element (unsafeCoerce _aiOutlineHighlight)
-
-foreign import _aiOutlineHistory :: ReactIcon
-
-aiOutlineHistory :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineHistory = element (unsafeCoerce _aiOutlineHistory)
-
-foreign import _aiOutlineHolder :: ReactIcon
-
-aiOutlineHolder :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineHolder = element (unsafeCoerce _aiOutlineHolder)
-
-foreign import _aiOutlineHome :: ReactIcon
-
-aiOutlineHome :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineHome = element (unsafeCoerce _aiOutlineHome)
-
-foreign import _aiOutlineHourglass :: ReactIcon
-
-aiOutlineHourglass :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineHourglass = element (unsafeCoerce _aiOutlineHourglass)
-
-foreign import _aiOutlineIdcard :: ReactIcon
-
-aiOutlineIdcard :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineIdcard = element (unsafeCoerce _aiOutlineIdcard)
-
-foreign import _aiOutlineIe :: ReactIcon
-
-aiOutlineIe :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineIe = element (unsafeCoerce _aiOutlineIe)
-
-foreign import _aiOutlineImport :: ReactIcon
-
-aiOutlineImport :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineImport = element (unsafeCoerce _aiOutlineImport)
-
-foreign import _aiOutlineInbox :: ReactIcon
-
-aiOutlineInbox :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineInbox = element (unsafeCoerce _aiOutlineInbox)
-
-foreign import _aiOutlineInfo :: ReactIcon
-
-aiOutlineInfo :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineInfo = element (unsafeCoerce _aiOutlineInfo)
-
-foreign import _aiOutlineInfoCircle :: ReactIcon
-
-aiOutlineInfoCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineInfoCircle = element (unsafeCoerce _aiOutlineInfoCircle)
-
-foreign import _aiOutlineInsertRowAbove :: ReactIcon
-
-aiOutlineInsertRowAbove :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineInsertRowAbove = element (unsafeCoerce _aiOutlineInsertRowAbove)
-
-foreign import _aiOutlineInsertRowBelow :: ReactIcon
-
-aiOutlineInsertRowBelow :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineInsertRowBelow = element (unsafeCoerce _aiOutlineInsertRowBelow)
-
-foreign import _aiOutlineInsertRowLeft :: ReactIcon
-
-aiOutlineInsertRowLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineInsertRowLeft = element (unsafeCoerce _aiOutlineInsertRowLeft)
-
-foreign import _aiOutlineInsertRowRight :: ReactIcon
-
-aiOutlineInsertRowRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineInsertRowRight = element (unsafeCoerce _aiOutlineInsertRowRight)
-
-foreign import _aiOutlineInstagram :: ReactIcon
-
-aiOutlineInstagram :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineInstagram = element (unsafeCoerce _aiOutlineInstagram)
-
-foreign import _aiOutlineInsurance :: ReactIcon
-
-aiOutlineInsurance :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineInsurance = element (unsafeCoerce _aiOutlineInsurance)
-
-foreign import _aiOutlineInteraction :: ReactIcon
-
-aiOutlineInteraction :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineInteraction = element (unsafeCoerce _aiOutlineInteraction)
-
-foreign import _aiOutlineIssuesClose :: ReactIcon
-
-aiOutlineIssuesClose :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineIssuesClose = element (unsafeCoerce _aiOutlineIssuesClose)
-
-foreign import _aiOutlineItalic :: ReactIcon
-
-aiOutlineItalic :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineItalic = element (unsafeCoerce _aiOutlineItalic)
-
-foreign import _aiOutlineKey :: ReactIcon
-
-aiOutlineKey :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineKey = element (unsafeCoerce _aiOutlineKey)
-
-foreign import _aiOutlineLaptop :: ReactIcon
-
-aiOutlineLaptop :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineLaptop = element (unsafeCoerce _aiOutlineLaptop)
-
-foreign import _aiOutlineLayout :: ReactIcon
-
-aiOutlineLayout :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineLayout = element (unsafeCoerce _aiOutlineLayout)
-
-foreign import _aiOutlineLeft :: ReactIcon
-
-aiOutlineLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineLeft = element (unsafeCoerce _aiOutlineLeft)
-
-foreign import _aiOutlineLeftCircle :: ReactIcon
-
-aiOutlineLeftCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineLeftCircle = element (unsafeCoerce _aiOutlineLeftCircle)
-
-foreign import _aiOutlineLeftSquare :: ReactIcon
-
-aiOutlineLeftSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineLeftSquare = element (unsafeCoerce _aiOutlineLeftSquare)
-
-foreign import _aiOutlineLike :: ReactIcon
-
-aiOutlineLike :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineLike = element (unsafeCoerce _aiOutlineLike)
-
-foreign import _aiOutlineLine :: ReactIcon
-
-aiOutlineLine :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineLine = element (unsafeCoerce _aiOutlineLine)
-
-foreign import _aiOutlineLineChart :: ReactIcon
-
-aiOutlineLineChart :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineLineChart = element (unsafeCoerce _aiOutlineLineChart)
-
-foreign import _aiOutlineLineHeight :: ReactIcon
-
-aiOutlineLineHeight :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineLineHeight = element (unsafeCoerce _aiOutlineLineHeight)
-
-foreign import _aiOutlineLink :: ReactIcon
-
-aiOutlineLink :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineLink = element (unsafeCoerce _aiOutlineLink)
-
-foreign import _aiOutlineLinkedin :: ReactIcon
-
-aiOutlineLinkedin :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineLinkedin = element (unsafeCoerce _aiOutlineLinkedin)
-
-foreign import _aiOutlineLoading :: ReactIcon
-
-aiOutlineLoading :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineLoading = element (unsafeCoerce _aiOutlineLoading)
-
-foreign import _aiOutlineLock :: ReactIcon
-
-aiOutlineLock :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineLock = element (unsafeCoerce _aiOutlineLock)
-
-foreign import _aiOutlineLogin :: ReactIcon
-
-aiOutlineLogin :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineLogin = element (unsafeCoerce _aiOutlineLogin)
-
-foreign import _aiOutlineLogout :: ReactIcon
-
-aiOutlineLogout :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineLogout = element (unsafeCoerce _aiOutlineLogout)
-
-foreign import _aiOutlineMacCommand :: ReactIcon
-
-aiOutlineMacCommand :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineMacCommand = element (unsafeCoerce _aiOutlineMacCommand)
-
-foreign import _aiOutlineMail :: ReactIcon
-
-aiOutlineMail :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineMail = element (unsafeCoerce _aiOutlineMail)
-
-foreign import _aiOutlineMan :: ReactIcon
-
-aiOutlineMan :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineMan = element (unsafeCoerce _aiOutlineMan)
-
-foreign import _aiOutlineMedicineBox :: ReactIcon
-
-aiOutlineMedicineBox :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineMedicineBox = element (unsafeCoerce _aiOutlineMedicineBox)
-
-foreign import _aiOutlineMedium :: ReactIcon
-
-aiOutlineMedium :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineMedium = element (unsafeCoerce _aiOutlineMedium)
-
-foreign import _aiOutlineMediumWorkmark :: ReactIcon
-
-aiOutlineMediumWorkmark :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineMediumWorkmark = element (unsafeCoerce _aiOutlineMediumWorkmark)
-
-foreign import _aiOutlineMeh :: ReactIcon
-
-aiOutlineMeh :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineMeh = element (unsafeCoerce _aiOutlineMeh)
-
-foreign import _aiOutlineMenu :: ReactIcon
-
-aiOutlineMenu :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineMenu = element (unsafeCoerce _aiOutlineMenu)
-
-foreign import _aiOutlineMenuFold :: ReactIcon
-
-aiOutlineMenuFold :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineMenuFold = element (unsafeCoerce _aiOutlineMenuFold)
-
-foreign import _aiOutlineMenuUnfold :: ReactIcon
-
-aiOutlineMenuUnfold :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineMenuUnfold = element (unsafeCoerce _aiOutlineMenuUnfold)
-
-foreign import _aiOutlineMergeCells :: ReactIcon
-
-aiOutlineMergeCells :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineMergeCells = element (unsafeCoerce _aiOutlineMergeCells)
-
-foreign import _aiOutlineMessage :: ReactIcon
-
-aiOutlineMessage :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineMessage = element (unsafeCoerce _aiOutlineMessage)
-
-foreign import _aiOutlineMinus :: ReactIcon
-
-aiOutlineMinus :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineMinus = element (unsafeCoerce _aiOutlineMinus)
-
-foreign import _aiOutlineMinusCircle :: ReactIcon
-
-aiOutlineMinusCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineMinusCircle = element (unsafeCoerce _aiOutlineMinusCircle)
-
-foreign import _aiOutlineMinusSquare :: ReactIcon
-
-aiOutlineMinusSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineMinusSquare = element (unsafeCoerce _aiOutlineMinusSquare)
-
-foreign import _aiOutlineMobile :: ReactIcon
-
-aiOutlineMobile :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineMobile = element (unsafeCoerce _aiOutlineMobile)
-
-foreign import _aiOutlineMoneyCollect :: ReactIcon
-
-aiOutlineMoneyCollect :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineMoneyCollect = element (unsafeCoerce _aiOutlineMoneyCollect)
-
-foreign import _aiOutlineMonitor :: ReactIcon
-
-aiOutlineMonitor :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineMonitor = element (unsafeCoerce _aiOutlineMonitor)
-
-foreign import _aiOutlineMore :: ReactIcon
-
-aiOutlineMore :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineMore = element (unsafeCoerce _aiOutlineMore)
-
-foreign import _aiOutlineNodeCollapse :: ReactIcon
-
-aiOutlineNodeCollapse :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineNodeCollapse = element (unsafeCoerce _aiOutlineNodeCollapse)
-
-foreign import _aiOutlineNodeExpand :: ReactIcon
-
-aiOutlineNodeExpand :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineNodeExpand = element (unsafeCoerce _aiOutlineNodeExpand)
-
-foreign import _aiOutlineNodeIndex :: ReactIcon
-
-aiOutlineNodeIndex :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineNodeIndex = element (unsafeCoerce _aiOutlineNodeIndex)
-
-foreign import _aiOutlineNotification :: ReactIcon
-
-aiOutlineNotification :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineNotification = element (unsafeCoerce _aiOutlineNotification)
-
-foreign import _aiOutlineNumber :: ReactIcon
-
-aiOutlineNumber :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineNumber = element (unsafeCoerce _aiOutlineNumber)
-
-foreign import _aiOutlineOneToOne :: ReactIcon
-
-aiOutlineOneToOne :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineOneToOne = element (unsafeCoerce _aiOutlineOneToOne)
-
-foreign import _aiOutlineOrderedList :: ReactIcon
-
-aiOutlineOrderedList :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineOrderedList = element (unsafeCoerce _aiOutlineOrderedList)
-
-foreign import _aiOutlinePaperClip :: ReactIcon
-
-aiOutlinePaperClip :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlinePaperClip = element (unsafeCoerce _aiOutlinePaperClip)
-
-foreign import _aiOutlinePartition :: ReactIcon
-
-aiOutlinePartition :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlinePartition = element (unsafeCoerce _aiOutlinePartition)
-
-foreign import _aiOutlinePause :: ReactIcon
-
-aiOutlinePause :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlinePause = element (unsafeCoerce _aiOutlinePause)
-
-foreign import _aiOutlinePauseCircle :: ReactIcon
-
-aiOutlinePauseCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlinePauseCircle = element (unsafeCoerce _aiOutlinePauseCircle)
-
-foreign import _aiOutlinePayCircle :: ReactIcon
-
-aiOutlinePayCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlinePayCircle = element (unsafeCoerce _aiOutlinePayCircle)
-
-foreign import _aiOutlinePercentage :: ReactIcon
-
-aiOutlinePercentage :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlinePercentage = element (unsafeCoerce _aiOutlinePercentage)
-
-foreign import _aiOutlinePhone :: ReactIcon
-
-aiOutlinePhone :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlinePhone = element (unsafeCoerce _aiOutlinePhone)
-
-foreign import _aiOutlinePicCenter :: ReactIcon
-
-aiOutlinePicCenter :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlinePicCenter = element (unsafeCoerce _aiOutlinePicCenter)
-
-foreign import _aiOutlinePicLeft :: ReactIcon
-
-aiOutlinePicLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlinePicLeft = element (unsafeCoerce _aiOutlinePicLeft)
-
-foreign import _aiOutlinePicRight :: ReactIcon
-
-aiOutlinePicRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlinePicRight = element (unsafeCoerce _aiOutlinePicRight)
-
-foreign import _aiOutlinePicture :: ReactIcon
-
-aiOutlinePicture :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlinePicture = element (unsafeCoerce _aiOutlinePicture)
-
-foreign import _aiOutlinePieChart :: ReactIcon
-
-aiOutlinePieChart :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlinePieChart = element (unsafeCoerce _aiOutlinePieChart)
-
-foreign import _aiOutlinePlayCircle :: ReactIcon
-
-aiOutlinePlayCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlinePlayCircle = element (unsafeCoerce _aiOutlinePlayCircle)
-
-foreign import _aiOutlinePlaySquare :: ReactIcon
-
-aiOutlinePlaySquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlinePlaySquare = element (unsafeCoerce _aiOutlinePlaySquare)
-
-foreign import _aiOutlinePlus :: ReactIcon
-
-aiOutlinePlus :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlinePlus = element (unsafeCoerce _aiOutlinePlus)
-
-foreign import _aiOutlinePlusCircle :: ReactIcon
-
-aiOutlinePlusCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlinePlusCircle = element (unsafeCoerce _aiOutlinePlusCircle)
-
-foreign import _aiOutlinePlusSquare :: ReactIcon
-
-aiOutlinePlusSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlinePlusSquare = element (unsafeCoerce _aiOutlinePlusSquare)
-
-foreign import _aiOutlinePound :: ReactIcon
-
-aiOutlinePound :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlinePound = element (unsafeCoerce _aiOutlinePound)
-
-foreign import _aiOutlinePoundCircle :: ReactIcon
-
-aiOutlinePoundCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlinePoundCircle = element (unsafeCoerce _aiOutlinePoundCircle)
-
-foreign import _aiOutlinePoweroff :: ReactIcon
-
-aiOutlinePoweroff :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlinePoweroff = element (unsafeCoerce _aiOutlinePoweroff)
-
-foreign import _aiOutlinePrinter :: ReactIcon
-
-aiOutlinePrinter :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlinePrinter = element (unsafeCoerce _aiOutlinePrinter)
-
-foreign import _aiOutlineProfile :: ReactIcon
-
-aiOutlineProfile :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineProfile = element (unsafeCoerce _aiOutlineProfile)
-
-foreign import _aiOutlineProject :: ReactIcon
-
-aiOutlineProject :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineProject = element (unsafeCoerce _aiOutlineProject)
-
-foreign import _aiOutlinePropertySafety :: ReactIcon
-
-aiOutlinePropertySafety :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlinePropertySafety = element (unsafeCoerce _aiOutlinePropertySafety)
-
-foreign import _aiOutlinePullRequest :: ReactIcon
-
-aiOutlinePullRequest :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlinePullRequest = element (unsafeCoerce _aiOutlinePullRequest)
-
-foreign import _aiOutlinePushpin :: ReactIcon
-
-aiOutlinePushpin :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlinePushpin = element (unsafeCoerce _aiOutlinePushpin)
-
-foreign import _aiOutlineQq :: ReactIcon
-
-aiOutlineQq :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineQq = element (unsafeCoerce _aiOutlineQq)
-
-foreign import _aiOutlineQrcode :: ReactIcon
-
-aiOutlineQrcode :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineQrcode = element (unsafeCoerce _aiOutlineQrcode)
-
-foreign import _aiOutlineQuestion :: ReactIcon
-
-aiOutlineQuestion :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineQuestion = element (unsafeCoerce _aiOutlineQuestion)
-
-foreign import _aiOutlineQuestionCircle :: ReactIcon
-
-aiOutlineQuestionCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineQuestionCircle = element (unsafeCoerce _aiOutlineQuestionCircle)
-
-foreign import _aiOutlineRadarChart :: ReactIcon
-
-aiOutlineRadarChart :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineRadarChart = element (unsafeCoerce _aiOutlineRadarChart)
-
-foreign import _aiOutlineRadiusBottomleft :: ReactIcon
-
-aiOutlineRadiusBottomleft :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineRadiusBottomleft = element (unsafeCoerce _aiOutlineRadiusBottomleft)
-
-foreign import _aiOutlineRadiusBottomright :: ReactIcon
-
-aiOutlineRadiusBottomright :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineRadiusBottomright = element (unsafeCoerce _aiOutlineRadiusBottomright)
-
-foreign import _aiOutlineRadiusSetting :: ReactIcon
-
-aiOutlineRadiusSetting :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineRadiusSetting = element (unsafeCoerce _aiOutlineRadiusSetting)
-
-foreign import _aiOutlineRadiusUpleft :: ReactIcon
-
-aiOutlineRadiusUpleft :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineRadiusUpleft = element (unsafeCoerce _aiOutlineRadiusUpleft)
-
-foreign import _aiOutlineRadiusUpright :: ReactIcon
-
-aiOutlineRadiusUpright :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineRadiusUpright = element (unsafeCoerce _aiOutlineRadiusUpright)
-
-foreign import _aiOutlineRead :: ReactIcon
-
-aiOutlineRead :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineRead = element (unsafeCoerce _aiOutlineRead)
-
-foreign import _aiOutlineReconciliation :: ReactIcon
-
-aiOutlineReconciliation :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineReconciliation = element (unsafeCoerce _aiOutlineReconciliation)
-
-foreign import _aiOutlineReddit :: ReactIcon
-
-aiOutlineReddit :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineReddit = element (unsafeCoerce _aiOutlineReddit)
-
-foreign import _aiOutlineRedEnvelope :: ReactIcon
-
-aiOutlineRedEnvelope :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineRedEnvelope = element (unsafeCoerce _aiOutlineRedEnvelope)
-
-foreign import _aiOutlineRedo :: ReactIcon
-
-aiOutlineRedo :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineRedo = element (unsafeCoerce _aiOutlineRedo)
-
-foreign import _aiOutlineReload :: ReactIcon
-
-aiOutlineReload :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineReload = element (unsafeCoerce _aiOutlineReload)
-
-foreign import _aiOutlineRest :: ReactIcon
-
-aiOutlineRest :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineRest = element (unsafeCoerce _aiOutlineRest)
-
-foreign import _aiOutlineRetweet :: ReactIcon
-
-aiOutlineRetweet :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineRetweet = element (unsafeCoerce _aiOutlineRetweet)
-
-foreign import _aiOutlineRight :: ReactIcon
-
-aiOutlineRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineRight = element (unsafeCoerce _aiOutlineRight)
-
-foreign import _aiOutlineRightCircle :: ReactIcon
-
-aiOutlineRightCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineRightCircle = element (unsafeCoerce _aiOutlineRightCircle)
-
-foreign import _aiOutlineRightSquare :: ReactIcon
-
-aiOutlineRightSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineRightSquare = element (unsafeCoerce _aiOutlineRightSquare)
-
-foreign import _aiOutlineRise :: ReactIcon
-
-aiOutlineRise :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineRise = element (unsafeCoerce _aiOutlineRise)
-
-foreign import _aiOutlineRobot :: ReactIcon
-
-aiOutlineRobot :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineRobot = element (unsafeCoerce _aiOutlineRobot)
-
-foreign import _aiOutlineRocket :: ReactIcon
-
-aiOutlineRocket :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineRocket = element (unsafeCoerce _aiOutlineRocket)
-
-foreign import _aiOutlineRollback :: ReactIcon
-
-aiOutlineRollback :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineRollback = element (unsafeCoerce _aiOutlineRollback)
-
-foreign import _aiOutlineRotateLeft :: ReactIcon
-
-aiOutlineRotateLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineRotateLeft = element (unsafeCoerce _aiOutlineRotateLeft)
-
-foreign import _aiOutlineRotateRight :: ReactIcon
-
-aiOutlineRotateRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineRotateRight = element (unsafeCoerce _aiOutlineRotateRight)
-
-foreign import _aiOutlineSafety :: ReactIcon
-
-aiOutlineSafety :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineSafety = element (unsafeCoerce _aiOutlineSafety)
-
-foreign import _aiOutlineSafetyCertificate :: ReactIcon
-
-aiOutlineSafetyCertificate :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineSafetyCertificate = element (unsafeCoerce _aiOutlineSafetyCertificate)
-
-foreign import _aiOutlineSave :: ReactIcon
-
-aiOutlineSave :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineSave = element (unsafeCoerce _aiOutlineSave)
-
-foreign import _aiOutlineScan :: ReactIcon
-
-aiOutlineScan :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineScan = element (unsafeCoerce _aiOutlineScan)
-
-foreign import _aiOutlineSchedule :: ReactIcon
-
-aiOutlineSchedule :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineSchedule = element (unsafeCoerce _aiOutlineSchedule)
-
-foreign import _aiOutlineScissor :: ReactIcon
-
-aiOutlineScissor :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineScissor = element (unsafeCoerce _aiOutlineScissor)
-
-foreign import _aiOutlineSearch :: ReactIcon
-
-aiOutlineSearch :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineSearch = element (unsafeCoerce _aiOutlineSearch)
-
-foreign import _aiOutlineSecurityScan :: ReactIcon
-
-aiOutlineSecurityScan :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineSecurityScan = element (unsafeCoerce _aiOutlineSecurityScan)
-
-foreign import _aiOutlineSelect :: ReactIcon
-
-aiOutlineSelect :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineSelect = element (unsafeCoerce _aiOutlineSelect)
-
-foreign import _aiOutlineSend :: ReactIcon
-
-aiOutlineSend :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineSend = element (unsafeCoerce _aiOutlineSend)
-
-foreign import _aiOutlineSetting :: ReactIcon
-
-aiOutlineSetting :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineSetting = element (unsafeCoerce _aiOutlineSetting)
-
-foreign import _aiOutlineShake :: ReactIcon
-
-aiOutlineShake :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineShake = element (unsafeCoerce _aiOutlineShake)
-
-foreign import _aiOutlineShareAlt :: ReactIcon
-
-aiOutlineShareAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineShareAlt = element (unsafeCoerce _aiOutlineShareAlt)
-
-foreign import _aiOutlineShop :: ReactIcon
-
-aiOutlineShop :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineShop = element (unsafeCoerce _aiOutlineShop)
-
-foreign import _aiOutlineShopping :: ReactIcon
-
-aiOutlineShopping :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineShopping = element (unsafeCoerce _aiOutlineShopping)
-
-foreign import _aiOutlineShoppingCart :: ReactIcon
-
-aiOutlineShoppingCart :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineShoppingCart = element (unsafeCoerce _aiOutlineShoppingCart)
-
-foreign import _aiOutlineShrink :: ReactIcon
-
-aiOutlineShrink :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineShrink = element (unsafeCoerce _aiOutlineShrink)
-
-foreign import _aiOutlineSisternode :: ReactIcon
-
-aiOutlineSisternode :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineSisternode = element (unsafeCoerce _aiOutlineSisternode)
-
-foreign import _aiOutlineSketch :: ReactIcon
-
-aiOutlineSketch :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineSketch = element (unsafeCoerce _aiOutlineSketch)
-
-foreign import _aiOutlineSkin :: ReactIcon
-
-aiOutlineSkin :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineSkin = element (unsafeCoerce _aiOutlineSkin)
-
-foreign import _aiOutlineSkype :: ReactIcon
-
-aiOutlineSkype :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineSkype = element (unsafeCoerce _aiOutlineSkype)
-
-foreign import _aiOutlineSlack :: ReactIcon
-
-aiOutlineSlack :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineSlack = element (unsafeCoerce _aiOutlineSlack)
-
-foreign import _aiOutlineSlackSquare :: ReactIcon
-
-aiOutlineSlackSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineSlackSquare = element (unsafeCoerce _aiOutlineSlackSquare)
-
-foreign import _aiOutlineSliders :: ReactIcon
-
-aiOutlineSliders :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineSliders = element (unsafeCoerce _aiOutlineSliders)
-
-foreign import _aiOutlineSmallDash :: ReactIcon
-
-aiOutlineSmallDash :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineSmallDash = element (unsafeCoerce _aiOutlineSmallDash)
-
-foreign import _aiOutlineSmile :: ReactIcon
-
-aiOutlineSmile :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineSmile = element (unsafeCoerce _aiOutlineSmile)
-
-foreign import _aiOutlineSnippets :: ReactIcon
-
-aiOutlineSnippets :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineSnippets = element (unsafeCoerce _aiOutlineSnippets)
-
-foreign import _aiOutlineSolution :: ReactIcon
-
-aiOutlineSolution :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineSolution = element (unsafeCoerce _aiOutlineSolution)
-
-foreign import _aiOutlineSortAscending :: ReactIcon
-
-aiOutlineSortAscending :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineSortAscending = element (unsafeCoerce _aiOutlineSortAscending)
-
-foreign import _aiOutlineSortDescending :: ReactIcon
-
-aiOutlineSortDescending :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineSortDescending = element (unsafeCoerce _aiOutlineSortDescending)
-
-foreign import _aiOutlineSound :: ReactIcon
-
-aiOutlineSound :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineSound = element (unsafeCoerce _aiOutlineSound)
-
-foreign import _aiOutlineSplitCells :: ReactIcon
-
-aiOutlineSplitCells :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineSplitCells = element (unsafeCoerce _aiOutlineSplitCells)
-
-foreign import _aiOutlineStar :: ReactIcon
-
-aiOutlineStar :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineStar = element (unsafeCoerce _aiOutlineStar)
-
-foreign import _aiOutlineStepBackward :: ReactIcon
-
-aiOutlineStepBackward :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineStepBackward = element (unsafeCoerce _aiOutlineStepBackward)
-
-foreign import _aiOutlineStepForward :: ReactIcon
-
-aiOutlineStepForward :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineStepForward = element (unsafeCoerce _aiOutlineStepForward)
-
-foreign import _aiOutlineStock :: ReactIcon
-
-aiOutlineStock :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineStock = element (unsafeCoerce _aiOutlineStock)
-
-foreign import _aiOutlineStop :: ReactIcon
-
-aiOutlineStop :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineStop = element (unsafeCoerce _aiOutlineStop)
-
-foreign import _aiOutlineStrikethrough :: ReactIcon
-
-aiOutlineStrikethrough :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineStrikethrough = element (unsafeCoerce _aiOutlineStrikethrough)
-
-foreign import _aiOutlineSubnode :: ReactIcon
-
-aiOutlineSubnode :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineSubnode = element (unsafeCoerce _aiOutlineSubnode)
-
-foreign import _aiOutlineSwap :: ReactIcon
-
-aiOutlineSwap :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineSwap = element (unsafeCoerce _aiOutlineSwap)
-
-foreign import _aiOutlineSwapLeft :: ReactIcon
-
-aiOutlineSwapLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineSwapLeft = element (unsafeCoerce _aiOutlineSwapLeft)
-
-foreign import _aiOutlineSwapRight :: ReactIcon
-
-aiOutlineSwapRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineSwapRight = element (unsafeCoerce _aiOutlineSwapRight)
-
-foreign import _aiOutlineSwitcher :: ReactIcon
-
-aiOutlineSwitcher :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineSwitcher = element (unsafeCoerce _aiOutlineSwitcher)
-
-foreign import _aiOutlineSync :: ReactIcon
-
-aiOutlineSync :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineSync = element (unsafeCoerce _aiOutlineSync)
-
-foreign import _aiOutlineTable :: ReactIcon
-
-aiOutlineTable :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineTable = element (unsafeCoerce _aiOutlineTable)
-
-foreign import _aiOutlineTablet :: ReactIcon
-
-aiOutlineTablet :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineTablet = element (unsafeCoerce _aiOutlineTablet)
-
-foreign import _aiOutlineTag :: ReactIcon
-
-aiOutlineTag :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineTag = element (unsafeCoerce _aiOutlineTag)
-
-foreign import _aiOutlineTags :: ReactIcon
-
-aiOutlineTags :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineTags = element (unsafeCoerce _aiOutlineTags)
-
-foreign import _aiOutlineTaobao :: ReactIcon
-
-aiOutlineTaobao :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineTaobao = element (unsafeCoerce _aiOutlineTaobao)
-
-foreign import _aiOutlineTaobaoCircle :: ReactIcon
-
-aiOutlineTaobaoCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineTaobaoCircle = element (unsafeCoerce _aiOutlineTaobaoCircle)
-
-foreign import _aiOutlineTeam :: ReactIcon
-
-aiOutlineTeam :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineTeam = element (unsafeCoerce _aiOutlineTeam)
-
-foreign import _aiOutlineThunderbolt :: ReactIcon
-
-aiOutlineThunderbolt :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineThunderbolt = element (unsafeCoerce _aiOutlineThunderbolt)
-
-foreign import _aiOutlineTool :: ReactIcon
-
-aiOutlineTool :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineTool = element (unsafeCoerce _aiOutlineTool)
-
-foreign import _aiOutlineToTop :: ReactIcon
-
-aiOutlineToTop :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineToTop = element (unsafeCoerce _aiOutlineToTop)
-
-foreign import _aiOutlineTrademark :: ReactIcon
-
-aiOutlineTrademark :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineTrademark = element (unsafeCoerce _aiOutlineTrademark)
-
-foreign import _aiOutlineTrademarkCircle :: ReactIcon
-
-aiOutlineTrademarkCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineTrademarkCircle = element (unsafeCoerce _aiOutlineTrademarkCircle)
-
-foreign import _aiOutlineTransaction :: ReactIcon
-
-aiOutlineTransaction :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineTransaction = element (unsafeCoerce _aiOutlineTransaction)
-
-foreign import _aiOutlineTranslation :: ReactIcon
-
-aiOutlineTranslation :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineTranslation = element (unsafeCoerce _aiOutlineTranslation)
-
-foreign import _aiOutlineTrophy :: ReactIcon
-
-aiOutlineTrophy :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineTrophy = element (unsafeCoerce _aiOutlineTrophy)
-
-foreign import _aiOutlineTwitter :: ReactIcon
-
-aiOutlineTwitter :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineTwitter = element (unsafeCoerce _aiOutlineTwitter)
-
-foreign import _aiOutlineUnderline :: ReactIcon
-
-aiOutlineUnderline :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineUnderline = element (unsafeCoerce _aiOutlineUnderline)
-
-foreign import _aiOutlineUndo :: ReactIcon
-
-aiOutlineUndo :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineUndo = element (unsafeCoerce _aiOutlineUndo)
-
-foreign import _aiOutlineUngroup :: ReactIcon
-
-aiOutlineUngroup :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineUngroup = element (unsafeCoerce _aiOutlineUngroup)
-
-foreign import _aiOutlineUnlock :: ReactIcon
-
-aiOutlineUnlock :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineUnlock = element (unsafeCoerce _aiOutlineUnlock)
-
-foreign import _aiOutlineUnorderedList :: ReactIcon
-
-aiOutlineUnorderedList :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineUnorderedList = element (unsafeCoerce _aiOutlineUnorderedList)
-
-foreign import _aiOutlineUp :: ReactIcon
-
-aiOutlineUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineUp = element (unsafeCoerce _aiOutlineUp)
-
-foreign import _aiOutlineUpCircle :: ReactIcon
-
-aiOutlineUpCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineUpCircle = element (unsafeCoerce _aiOutlineUpCircle)
-
-foreign import _aiOutlineUpload :: ReactIcon
-
-aiOutlineUpload :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineUpload = element (unsafeCoerce _aiOutlineUpload)
-
-foreign import _aiOutlineUpSquare :: ReactIcon
-
-aiOutlineUpSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineUpSquare = element (unsafeCoerce _aiOutlineUpSquare)
-
-foreign import _aiOutlineUsb :: ReactIcon
-
-aiOutlineUsb :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineUsb = element (unsafeCoerce _aiOutlineUsb)
-
-foreign import _aiOutlineUser :: ReactIcon
-
-aiOutlineUser :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineUser = element (unsafeCoerce _aiOutlineUser)
-
-foreign import _aiOutlineUserAdd :: ReactIcon
-
-aiOutlineUserAdd :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineUserAdd = element (unsafeCoerce _aiOutlineUserAdd)
-
-foreign import _aiOutlineUserDelete :: ReactIcon
-
-aiOutlineUserDelete :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineUserDelete = element (unsafeCoerce _aiOutlineUserDelete)
-
-foreign import _aiOutlineUsergroupAdd :: ReactIcon
-
-aiOutlineUsergroupAdd :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineUsergroupAdd = element (unsafeCoerce _aiOutlineUsergroupAdd)
-
-foreign import _aiOutlineUsergroupDelete :: ReactIcon
-
-aiOutlineUsergroupDelete :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineUsergroupDelete = element (unsafeCoerce _aiOutlineUsergroupDelete)
-
-foreign import _aiOutlineUserSwitch :: ReactIcon
-
-aiOutlineUserSwitch :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineUserSwitch = element (unsafeCoerce _aiOutlineUserSwitch)
-
-foreign import _aiOutlineVerified :: ReactIcon
-
-aiOutlineVerified :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineVerified = element (unsafeCoerce _aiOutlineVerified)
-
-foreign import _aiOutlineVerticalAlignBottom :: ReactIcon
-
-aiOutlineVerticalAlignBottom :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineVerticalAlignBottom = element (unsafeCoerce _aiOutlineVerticalAlignBottom)
-
-foreign import _aiOutlineVerticalAlignMiddle :: ReactIcon
-
-aiOutlineVerticalAlignMiddle :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineVerticalAlignMiddle = element (unsafeCoerce _aiOutlineVerticalAlignMiddle)
-
-foreign import _aiOutlineVerticalAlignTop :: ReactIcon
-
-aiOutlineVerticalAlignTop :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineVerticalAlignTop = element (unsafeCoerce _aiOutlineVerticalAlignTop)
-
-foreign import _aiOutlineVerticalLeft :: ReactIcon
-
-aiOutlineVerticalLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineVerticalLeft = element (unsafeCoerce _aiOutlineVerticalLeft)
-
-foreign import _aiOutlineVerticalRight :: ReactIcon
-
-aiOutlineVerticalRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineVerticalRight = element (unsafeCoerce _aiOutlineVerticalRight)
-
-foreign import _aiOutlineVideoCamera :: ReactIcon
-
-aiOutlineVideoCamera :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineVideoCamera = element (unsafeCoerce _aiOutlineVideoCamera)
-
-foreign import _aiOutlineVideoCameraAdd :: ReactIcon
-
-aiOutlineVideoCameraAdd :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineVideoCameraAdd = element (unsafeCoerce _aiOutlineVideoCameraAdd)
-
-foreign import _aiOutlineWallet :: ReactIcon
-
-aiOutlineWallet :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineWallet = element (unsafeCoerce _aiOutlineWallet)
-
-foreign import _aiOutlineWarning :: ReactIcon
-
-aiOutlineWarning :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineWarning = element (unsafeCoerce _aiOutlineWarning)
-
-foreign import _aiOutlineWechat :: ReactIcon
-
-aiOutlineWechat :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineWechat = element (unsafeCoerce _aiOutlineWechat)
-
-foreign import _aiOutlineWeibo :: ReactIcon
-
-aiOutlineWeibo :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineWeibo = element (unsafeCoerce _aiOutlineWeibo)
-
-foreign import _aiOutlineWeiboCircle :: ReactIcon
-
-aiOutlineWeiboCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineWeiboCircle = element (unsafeCoerce _aiOutlineWeiboCircle)
-
-foreign import _aiOutlineWeiboSquare :: ReactIcon
-
-aiOutlineWeiboSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineWeiboSquare = element (unsafeCoerce _aiOutlineWeiboSquare)
-
-foreign import _aiOutlineWhatsApp :: ReactIcon
-
-aiOutlineWhatsApp :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineWhatsApp = element (unsafeCoerce _aiOutlineWhatsApp)
-
-foreign import _aiOutlineWifi :: ReactIcon
-
-aiOutlineWifi :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineWifi = element (unsafeCoerce _aiOutlineWifi)
-
-foreign import _aiOutlineWindows :: ReactIcon
-
-aiOutlineWindows :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineWindows = element (unsafeCoerce _aiOutlineWindows)
-
-foreign import _aiOutlineWoman :: ReactIcon
-
-aiOutlineWoman :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineWoman = element (unsafeCoerce _aiOutlineWoman)
-
-foreign import _aiOutlineYahoo :: ReactIcon
-
-aiOutlineYahoo :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineYahoo = element (unsafeCoerce _aiOutlineYahoo)
-
-foreign import _aiOutlineYoutube :: ReactIcon
-
-aiOutlineYoutube :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineYoutube = element (unsafeCoerce _aiOutlineYoutube)
-
-foreign import _aiOutlineYuque :: ReactIcon
-
-aiOutlineYuque :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineYuque = element (unsafeCoerce _aiOutlineYuque)
-
-foreign import _aiOutlineZhihu :: ReactIcon
-
-aiOutlineZhihu :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineZhihu = element (unsafeCoerce _aiOutlineZhihu)
-
-foreign import _aiOutlineZoomIn :: ReactIcon
-
-aiOutlineZoomIn :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineZoomIn = element (unsafeCoerce _aiOutlineZoomIn)
-
-foreign import _aiOutlineZoomOut :: ReactIcon
-
-aiOutlineZoomOut :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiOutlineZoomOut = element (unsafeCoerce _aiOutlineZoomOut)
-
-foreign import _aiTwotoneAccountBook :: ReactIcon
-
-aiTwotoneAccountBook :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneAccountBook = element (unsafeCoerce _aiTwotoneAccountBook)
-
-foreign import _aiTwotoneAlert :: ReactIcon
-
-aiTwotoneAlert :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneAlert = element (unsafeCoerce _aiTwotoneAlert)
-
-foreign import _aiTwotoneApi :: ReactIcon
-
-aiTwotoneApi :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneApi = element (unsafeCoerce _aiTwotoneApi)
-
-foreign import _aiTwotoneAppstore :: ReactIcon
-
-aiTwotoneAppstore :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneAppstore = element (unsafeCoerce _aiTwotoneAppstore)
-
-foreign import _aiTwotoneAudio :: ReactIcon
-
-aiTwotoneAudio :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneAudio = element (unsafeCoerce _aiTwotoneAudio)
-
-foreign import _aiTwotoneBank :: ReactIcon
-
-aiTwotoneBank :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneBank = element (unsafeCoerce _aiTwotoneBank)
-
-foreign import _aiTwotoneBell :: ReactIcon
-
-aiTwotoneBell :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneBell = element (unsafeCoerce _aiTwotoneBell)
-
-foreign import _aiTwotoneBook :: ReactIcon
-
-aiTwotoneBook :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneBook = element (unsafeCoerce _aiTwotoneBook)
-
-foreign import _aiTwotoneBoxPlot :: ReactIcon
-
-aiTwotoneBoxPlot :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneBoxPlot = element (unsafeCoerce _aiTwotoneBoxPlot)
-
-foreign import _aiTwotoneBug :: ReactIcon
-
-aiTwotoneBug :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneBug = element (unsafeCoerce _aiTwotoneBug)
-
-foreign import _aiTwotoneBuild :: ReactIcon
-
-aiTwotoneBuild :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneBuild = element (unsafeCoerce _aiTwotoneBuild)
-
-foreign import _aiTwotoneBulb :: ReactIcon
-
-aiTwotoneBulb :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneBulb = element (unsafeCoerce _aiTwotoneBulb)
-
-foreign import _aiTwotoneCalculator :: ReactIcon
-
-aiTwotoneCalculator :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneCalculator = element (unsafeCoerce _aiTwotoneCalculator)
-
-foreign import _aiTwotoneCalendar :: ReactIcon
-
-aiTwotoneCalendar :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneCalendar = element (unsafeCoerce _aiTwotoneCalendar)
-
-foreign import _aiTwotoneCamera :: ReactIcon
-
-aiTwotoneCamera :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneCamera = element (unsafeCoerce _aiTwotoneCamera)
-
-foreign import _aiTwotoneCar :: ReactIcon
-
-aiTwotoneCar :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneCar = element (unsafeCoerce _aiTwotoneCar)
-
-foreign import _aiTwotoneCarryOut :: ReactIcon
-
-aiTwotoneCarryOut :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneCarryOut = element (unsafeCoerce _aiTwotoneCarryOut)
-
-foreign import _aiTwotoneCheckCircle :: ReactIcon
-
-aiTwotoneCheckCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneCheckCircle = element (unsafeCoerce _aiTwotoneCheckCircle)
-
-foreign import _aiTwotoneCheckSquare :: ReactIcon
-
-aiTwotoneCheckSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneCheckSquare = element (unsafeCoerce _aiTwotoneCheckSquare)
-
-foreign import _aiTwotoneCi :: ReactIcon
-
-aiTwotoneCi :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneCi = element (unsafeCoerce _aiTwotoneCi)
-
-foreign import _aiTwotoneCiCircle :: ReactIcon
-
-aiTwotoneCiCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneCiCircle = element (unsafeCoerce _aiTwotoneCiCircle)
-
-foreign import _aiTwotoneClockCircle :: ReactIcon
-
-aiTwotoneClockCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneClockCircle = element (unsafeCoerce _aiTwotoneClockCircle)
-
-foreign import _aiTwotoneCloseCircle :: ReactIcon
-
-aiTwotoneCloseCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneCloseCircle = element (unsafeCoerce _aiTwotoneCloseCircle)
-
-foreign import _aiTwotoneCloseSquare :: ReactIcon
-
-aiTwotoneCloseSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneCloseSquare = element (unsafeCoerce _aiTwotoneCloseSquare)
-
-foreign import _aiTwotoneCloud :: ReactIcon
-
-aiTwotoneCloud :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneCloud = element (unsafeCoerce _aiTwotoneCloud)
-
-foreign import _aiTwotoneCode :: ReactIcon
-
-aiTwotoneCode :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneCode = element (unsafeCoerce _aiTwotoneCode)
-
-foreign import _aiTwotoneCompass :: ReactIcon
-
-aiTwotoneCompass :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneCompass = element (unsafeCoerce _aiTwotoneCompass)
-
-foreign import _aiTwotoneContacts :: ReactIcon
-
-aiTwotoneContacts :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneContacts = element (unsafeCoerce _aiTwotoneContacts)
-
-foreign import _aiTwotoneContainer :: ReactIcon
-
-aiTwotoneContainer :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneContainer = element (unsafeCoerce _aiTwotoneContainer)
-
-foreign import _aiTwotoneControl :: ReactIcon
-
-aiTwotoneControl :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneControl = element (unsafeCoerce _aiTwotoneControl)
-
-foreign import _aiTwotoneCopy :: ReactIcon
-
-aiTwotoneCopy :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneCopy = element (unsafeCoerce _aiTwotoneCopy)
-
-foreign import _aiTwotoneCopyright :: ReactIcon
-
-aiTwotoneCopyright :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneCopyright = element (unsafeCoerce _aiTwotoneCopyright)
-
-foreign import _aiTwotoneCopyrightCircle :: ReactIcon
-
-aiTwotoneCopyrightCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneCopyrightCircle = element (unsafeCoerce _aiTwotoneCopyrightCircle)
-
-foreign import _aiTwotoneCreditCard :: ReactIcon
-
-aiTwotoneCreditCard :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneCreditCard = element (unsafeCoerce _aiTwotoneCreditCard)
-
-foreign import _aiTwotoneCrown :: ReactIcon
-
-aiTwotoneCrown :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneCrown = element (unsafeCoerce _aiTwotoneCrown)
-
-foreign import _aiTwotoneCustomerService :: ReactIcon
-
-aiTwotoneCustomerService :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneCustomerService = element (unsafeCoerce _aiTwotoneCustomerService)
-
-foreign import _aiTwotoneDashboard :: ReactIcon
-
-aiTwotoneDashboard :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneDashboard = element (unsafeCoerce _aiTwotoneDashboard)
-
-foreign import _aiTwotoneDatabase :: ReactIcon
-
-aiTwotoneDatabase :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneDatabase = element (unsafeCoerce _aiTwotoneDatabase)
-
-foreign import _aiTwotoneDelete :: ReactIcon
-
-aiTwotoneDelete :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneDelete = element (unsafeCoerce _aiTwotoneDelete)
-
-foreign import _aiTwotoneDiff :: ReactIcon
-
-aiTwotoneDiff :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneDiff = element (unsafeCoerce _aiTwotoneDiff)
-
-foreign import _aiTwotoneDislike :: ReactIcon
-
-aiTwotoneDislike :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneDislike = element (unsafeCoerce _aiTwotoneDislike)
-
-foreign import _aiTwotoneDollar :: ReactIcon
-
-aiTwotoneDollar :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneDollar = element (unsafeCoerce _aiTwotoneDollar)
-
-foreign import _aiTwotoneDollarCircle :: ReactIcon
-
-aiTwotoneDollarCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneDollarCircle = element (unsafeCoerce _aiTwotoneDollarCircle)
-
-foreign import _aiTwotoneDownCircle :: ReactIcon
-
-aiTwotoneDownCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneDownCircle = element (unsafeCoerce _aiTwotoneDownCircle)
-
-foreign import _aiTwotoneDownSquare :: ReactIcon
-
-aiTwotoneDownSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneDownSquare = element (unsafeCoerce _aiTwotoneDownSquare)
-
-foreign import _aiTwotoneEdit :: ReactIcon
-
-aiTwotoneEdit :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneEdit = element (unsafeCoerce _aiTwotoneEdit)
-
-foreign import _aiTwotoneEnvironment :: ReactIcon
-
-aiTwotoneEnvironment :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneEnvironment = element (unsafeCoerce _aiTwotoneEnvironment)
-
-foreign import _aiTwotoneEuro :: ReactIcon
-
-aiTwotoneEuro :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneEuro = element (unsafeCoerce _aiTwotoneEuro)
-
-foreign import _aiTwotoneEuroCircle :: ReactIcon
-
-aiTwotoneEuroCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneEuroCircle = element (unsafeCoerce _aiTwotoneEuroCircle)
-
-foreign import _aiTwotoneExclamationCircle :: ReactIcon
-
-aiTwotoneExclamationCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneExclamationCircle = element (unsafeCoerce _aiTwotoneExclamationCircle)
-
-foreign import _aiTwotoneExperiment :: ReactIcon
-
-aiTwotoneExperiment :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneExperiment = element (unsafeCoerce _aiTwotoneExperiment)
-
-foreign import _aiTwotoneEye :: ReactIcon
-
-aiTwotoneEye :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneEye = element (unsafeCoerce _aiTwotoneEye)
-
-foreign import _aiTwotoneEyeInvisible :: ReactIcon
-
-aiTwotoneEyeInvisible :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneEyeInvisible = element (unsafeCoerce _aiTwotoneEyeInvisible)
-
-foreign import _aiTwotoneFile :: ReactIcon
-
-aiTwotoneFile :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneFile = element (unsafeCoerce _aiTwotoneFile)
-
-foreign import _aiTwotoneFileAdd :: ReactIcon
-
-aiTwotoneFileAdd :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneFileAdd = element (unsafeCoerce _aiTwotoneFileAdd)
-
-foreign import _aiTwotoneFileExcel :: ReactIcon
-
-aiTwotoneFileExcel :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneFileExcel = element (unsafeCoerce _aiTwotoneFileExcel)
-
-foreign import _aiTwotoneFileExclamation :: ReactIcon
-
-aiTwotoneFileExclamation :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneFileExclamation = element (unsafeCoerce _aiTwotoneFileExclamation)
-
-foreign import _aiTwotoneFileImage :: ReactIcon
-
-aiTwotoneFileImage :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneFileImage = element (unsafeCoerce _aiTwotoneFileImage)
-
-foreign import _aiTwotoneFileMarkdown :: ReactIcon
-
-aiTwotoneFileMarkdown :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneFileMarkdown = element (unsafeCoerce _aiTwotoneFileMarkdown)
-
-foreign import _aiTwotoneFilePdf :: ReactIcon
-
-aiTwotoneFilePdf :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneFilePdf = element (unsafeCoerce _aiTwotoneFilePdf)
-
-foreign import _aiTwotoneFilePpt :: ReactIcon
-
-aiTwotoneFilePpt :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneFilePpt = element (unsafeCoerce _aiTwotoneFilePpt)
-
-foreign import _aiTwotoneFileText :: ReactIcon
-
-aiTwotoneFileText :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneFileText = element (unsafeCoerce _aiTwotoneFileText)
-
-foreign import _aiTwotoneFileUnknown :: ReactIcon
-
-aiTwotoneFileUnknown :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneFileUnknown = element (unsafeCoerce _aiTwotoneFileUnknown)
-
-foreign import _aiTwotoneFileWord :: ReactIcon
-
-aiTwotoneFileWord :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneFileWord = element (unsafeCoerce _aiTwotoneFileWord)
-
-foreign import _aiTwotoneFileZip :: ReactIcon
-
-aiTwotoneFileZip :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneFileZip = element (unsafeCoerce _aiTwotoneFileZip)
-
-foreign import _aiTwotoneFilter :: ReactIcon
-
-aiTwotoneFilter :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneFilter = element (unsafeCoerce _aiTwotoneFilter)
-
-foreign import _aiTwotoneFire :: ReactIcon
-
-aiTwotoneFire :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneFire = element (unsafeCoerce _aiTwotoneFire)
-
-foreign import _aiTwotoneFlag :: ReactIcon
-
-aiTwotoneFlag :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneFlag = element (unsafeCoerce _aiTwotoneFlag)
-
-foreign import _aiTwotoneFolder :: ReactIcon
-
-aiTwotoneFolder :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneFolder = element (unsafeCoerce _aiTwotoneFolder)
-
-foreign import _aiTwotoneFolderAdd :: ReactIcon
-
-aiTwotoneFolderAdd :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneFolderAdd = element (unsafeCoerce _aiTwotoneFolderAdd)
-
-foreign import _aiTwotoneFolderOpen :: ReactIcon
-
-aiTwotoneFolderOpen :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneFolderOpen = element (unsafeCoerce _aiTwotoneFolderOpen)
-
-foreign import _aiTwotoneFrown :: ReactIcon
-
-aiTwotoneFrown :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneFrown = element (unsafeCoerce _aiTwotoneFrown)
-
-foreign import _aiTwotoneFund :: ReactIcon
-
-aiTwotoneFund :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneFund = element (unsafeCoerce _aiTwotoneFund)
-
-foreign import _aiTwotoneFunnelPlot :: ReactIcon
-
-aiTwotoneFunnelPlot :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneFunnelPlot = element (unsafeCoerce _aiTwotoneFunnelPlot)
-
-foreign import _aiTwotoneGift :: ReactIcon
-
-aiTwotoneGift :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneGift = element (unsafeCoerce _aiTwotoneGift)
-
-foreign import _aiTwotoneGold :: ReactIcon
-
-aiTwotoneGold :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneGold = element (unsafeCoerce _aiTwotoneGold)
-
-foreign import _aiTwotoneHdd :: ReactIcon
-
-aiTwotoneHdd :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneHdd = element (unsafeCoerce _aiTwotoneHdd)
-
-foreign import _aiTwotoneHeart :: ReactIcon
-
-aiTwotoneHeart :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneHeart = element (unsafeCoerce _aiTwotoneHeart)
-
-foreign import _aiTwotoneHighlight :: ReactIcon
-
-aiTwotoneHighlight :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneHighlight = element (unsafeCoerce _aiTwotoneHighlight)
-
-foreign import _aiTwotoneHome :: ReactIcon
-
-aiTwotoneHome :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneHome = element (unsafeCoerce _aiTwotoneHome)
-
-foreign import _aiTwotoneHourglass :: ReactIcon
-
-aiTwotoneHourglass :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneHourglass = element (unsafeCoerce _aiTwotoneHourglass)
-
-foreign import _aiTwotoneIdcard :: ReactIcon
-
-aiTwotoneIdcard :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneIdcard = element (unsafeCoerce _aiTwotoneIdcard)
-
-foreign import _aiTwotoneInfoCircle :: ReactIcon
-
-aiTwotoneInfoCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneInfoCircle = element (unsafeCoerce _aiTwotoneInfoCircle)
-
-foreign import _aiTwotoneInsurance :: ReactIcon
-
-aiTwotoneInsurance :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneInsurance = element (unsafeCoerce _aiTwotoneInsurance)
-
-foreign import _aiTwotoneInteraction :: ReactIcon
-
-aiTwotoneInteraction :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneInteraction = element (unsafeCoerce _aiTwotoneInteraction)
-
-foreign import _aiTwotoneLayout :: ReactIcon
-
-aiTwotoneLayout :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneLayout = element (unsafeCoerce _aiTwotoneLayout)
-
-foreign import _aiTwotoneLeftCircle :: ReactIcon
-
-aiTwotoneLeftCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneLeftCircle = element (unsafeCoerce _aiTwotoneLeftCircle)
-
-foreign import _aiTwotoneLeftSquare :: ReactIcon
-
-aiTwotoneLeftSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneLeftSquare = element (unsafeCoerce _aiTwotoneLeftSquare)
-
-foreign import _aiTwotoneLike :: ReactIcon
-
-aiTwotoneLike :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneLike = element (unsafeCoerce _aiTwotoneLike)
-
-foreign import _aiTwotoneLock :: ReactIcon
-
-aiTwotoneLock :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneLock = element (unsafeCoerce _aiTwotoneLock)
-
-foreign import _aiTwotoneMail :: ReactIcon
-
-aiTwotoneMail :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneMail = element (unsafeCoerce _aiTwotoneMail)
-
-foreign import _aiTwotoneMedicineBox :: ReactIcon
-
-aiTwotoneMedicineBox :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneMedicineBox = element (unsafeCoerce _aiTwotoneMedicineBox)
-
-foreign import _aiTwotoneMeh :: ReactIcon
-
-aiTwotoneMeh :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneMeh = element (unsafeCoerce _aiTwotoneMeh)
-
-foreign import _aiTwotoneMessage :: ReactIcon
-
-aiTwotoneMessage :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneMessage = element (unsafeCoerce _aiTwotoneMessage)
-
-foreign import _aiTwotoneMinusCircle :: ReactIcon
-
-aiTwotoneMinusCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneMinusCircle = element (unsafeCoerce _aiTwotoneMinusCircle)
-
-foreign import _aiTwotoneMinusSquare :: ReactIcon
-
-aiTwotoneMinusSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneMinusSquare = element (unsafeCoerce _aiTwotoneMinusSquare)
-
-foreign import _aiTwotoneMobile :: ReactIcon
-
-aiTwotoneMobile :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneMobile = element (unsafeCoerce _aiTwotoneMobile)
-
-foreign import _aiTwotoneMoneyCollect :: ReactIcon
-
-aiTwotoneMoneyCollect :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneMoneyCollect = element (unsafeCoerce _aiTwotoneMoneyCollect)
-
-foreign import _aiTwotoneNotification :: ReactIcon
-
-aiTwotoneNotification :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneNotification = element (unsafeCoerce _aiTwotoneNotification)
-
-foreign import _aiTwotonePauseCircle :: ReactIcon
-
-aiTwotonePauseCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotonePauseCircle = element (unsafeCoerce _aiTwotonePauseCircle)
-
-foreign import _aiTwotonePhone :: ReactIcon
-
-aiTwotonePhone :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotonePhone = element (unsafeCoerce _aiTwotonePhone)
-
-foreign import _aiTwotonePicture :: ReactIcon
-
-aiTwotonePicture :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotonePicture = element (unsafeCoerce _aiTwotonePicture)
-
-foreign import _aiTwotonePieChart :: ReactIcon
-
-aiTwotonePieChart :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotonePieChart = element (unsafeCoerce _aiTwotonePieChart)
-
-foreign import _aiTwotonePlayCircle :: ReactIcon
-
-aiTwotonePlayCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotonePlayCircle = element (unsafeCoerce _aiTwotonePlayCircle)
-
-foreign import _aiTwotonePlaySquare :: ReactIcon
-
-aiTwotonePlaySquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotonePlaySquare = element (unsafeCoerce _aiTwotonePlaySquare)
-
-foreign import _aiTwotonePlusCircle :: ReactIcon
-
-aiTwotonePlusCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotonePlusCircle = element (unsafeCoerce _aiTwotonePlusCircle)
-
-foreign import _aiTwotonePlusSquare :: ReactIcon
-
-aiTwotonePlusSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotonePlusSquare = element (unsafeCoerce _aiTwotonePlusSquare)
-
-foreign import _aiTwotonePoundCircle :: ReactIcon
-
-aiTwotonePoundCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotonePoundCircle = element (unsafeCoerce _aiTwotonePoundCircle)
-
-foreign import _aiTwotonePrinter :: ReactIcon
-
-aiTwotonePrinter :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotonePrinter = element (unsafeCoerce _aiTwotonePrinter)
-
-foreign import _aiTwotoneProfile :: ReactIcon
-
-aiTwotoneProfile :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneProfile = element (unsafeCoerce _aiTwotoneProfile)
-
-foreign import _aiTwotoneProject :: ReactIcon
-
-aiTwotoneProject :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneProject = element (unsafeCoerce _aiTwotoneProject)
-
-foreign import _aiTwotonePropertySafety :: ReactIcon
-
-aiTwotonePropertySafety :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotonePropertySafety = element (unsafeCoerce _aiTwotonePropertySafety)
-
-foreign import _aiTwotonePushpin :: ReactIcon
-
-aiTwotonePushpin :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotonePushpin = element (unsafeCoerce _aiTwotonePushpin)
-
-foreign import _aiTwotoneQuestionCircle :: ReactIcon
-
-aiTwotoneQuestionCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneQuestionCircle = element (unsafeCoerce _aiTwotoneQuestionCircle)
-
-foreign import _aiTwotoneReconciliation :: ReactIcon
-
-aiTwotoneReconciliation :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneReconciliation = element (unsafeCoerce _aiTwotoneReconciliation)
-
-foreign import _aiTwotoneRedEnvelope :: ReactIcon
-
-aiTwotoneRedEnvelope :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneRedEnvelope = element (unsafeCoerce _aiTwotoneRedEnvelope)
-
-foreign import _aiTwotoneRest :: ReactIcon
-
-aiTwotoneRest :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneRest = element (unsafeCoerce _aiTwotoneRest)
-
-foreign import _aiTwotoneRightCircle :: ReactIcon
-
-aiTwotoneRightCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneRightCircle = element (unsafeCoerce _aiTwotoneRightCircle)
-
-foreign import _aiTwotoneRightSquare :: ReactIcon
-
-aiTwotoneRightSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneRightSquare = element (unsafeCoerce _aiTwotoneRightSquare)
-
-foreign import _aiTwotoneRocket :: ReactIcon
-
-aiTwotoneRocket :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneRocket = element (unsafeCoerce _aiTwotoneRocket)
-
-foreign import _aiTwotoneSafetyCertificate :: ReactIcon
-
-aiTwotoneSafetyCertificate :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneSafetyCertificate = element (unsafeCoerce _aiTwotoneSafetyCertificate)
-
-foreign import _aiTwotoneSave :: ReactIcon
-
-aiTwotoneSave :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneSave = element (unsafeCoerce _aiTwotoneSave)
-
-foreign import _aiTwotoneSchedule :: ReactIcon
-
-aiTwotoneSchedule :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneSchedule = element (unsafeCoerce _aiTwotoneSchedule)
-
-foreign import _aiTwotoneSecurityScan :: ReactIcon
-
-aiTwotoneSecurityScan :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneSecurityScan = element (unsafeCoerce _aiTwotoneSecurityScan)
-
-foreign import _aiTwotoneSetting :: ReactIcon
-
-aiTwotoneSetting :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneSetting = element (unsafeCoerce _aiTwotoneSetting)
-
-foreign import _aiTwotoneShop :: ReactIcon
-
-aiTwotoneShop :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneShop = element (unsafeCoerce _aiTwotoneShop)
-
-foreign import _aiTwotoneShopping :: ReactIcon
-
-aiTwotoneShopping :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneShopping = element (unsafeCoerce _aiTwotoneShopping)
-
-foreign import _aiTwotoneSkin :: ReactIcon
-
-aiTwotoneSkin :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneSkin = element (unsafeCoerce _aiTwotoneSkin)
-
-foreign import _aiTwotoneSliders :: ReactIcon
-
-aiTwotoneSliders :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneSliders = element (unsafeCoerce _aiTwotoneSliders)
-
-foreign import _aiTwotoneSmile :: ReactIcon
-
-aiTwotoneSmile :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneSmile = element (unsafeCoerce _aiTwotoneSmile)
-
-foreign import _aiTwotoneSnippets :: ReactIcon
-
-aiTwotoneSnippets :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneSnippets = element (unsafeCoerce _aiTwotoneSnippets)
-
-foreign import _aiTwotoneSound :: ReactIcon
-
-aiTwotoneSound :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneSound = element (unsafeCoerce _aiTwotoneSound)
-
-foreign import _aiTwotoneStar :: ReactIcon
-
-aiTwotoneStar :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneStar = element (unsafeCoerce _aiTwotoneStar)
-
-foreign import _aiTwotoneStop :: ReactIcon
-
-aiTwotoneStop :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneStop = element (unsafeCoerce _aiTwotoneStop)
-
-foreign import _aiTwotoneSwitcher :: ReactIcon
-
-aiTwotoneSwitcher :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneSwitcher = element (unsafeCoerce _aiTwotoneSwitcher)
-
-foreign import _aiTwotoneTablet :: ReactIcon
-
-aiTwotoneTablet :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneTablet = element (unsafeCoerce _aiTwotoneTablet)
-
-foreign import _aiTwotoneTag :: ReactIcon
-
-aiTwotoneTag :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneTag = element (unsafeCoerce _aiTwotoneTag)
-
-foreign import _aiTwotoneTags :: ReactIcon
-
-aiTwotoneTags :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneTags = element (unsafeCoerce _aiTwotoneTags)
-
-foreign import _aiTwotoneThunderbolt :: ReactIcon
-
-aiTwotoneThunderbolt :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneThunderbolt = element (unsafeCoerce _aiTwotoneThunderbolt)
-
-foreign import _aiTwotoneTool :: ReactIcon
-
-aiTwotoneTool :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneTool = element (unsafeCoerce _aiTwotoneTool)
-
-foreign import _aiTwotoneTrademarkCircle :: ReactIcon
-
-aiTwotoneTrademarkCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneTrademarkCircle = element (unsafeCoerce _aiTwotoneTrademarkCircle)
-
-foreign import _aiTwotoneTrophy :: ReactIcon
-
-aiTwotoneTrophy :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneTrophy = element (unsafeCoerce _aiTwotoneTrophy)
-
-foreign import _aiTwotoneUnlock :: ReactIcon
-
-aiTwotoneUnlock :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneUnlock = element (unsafeCoerce _aiTwotoneUnlock)
-
-foreign import _aiTwotoneUpCircle :: ReactIcon
-
-aiTwotoneUpCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneUpCircle = element (unsafeCoerce _aiTwotoneUpCircle)
-
-foreign import _aiTwotoneUpSquare :: ReactIcon
-
-aiTwotoneUpSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneUpSquare = element (unsafeCoerce _aiTwotoneUpSquare)
-
-foreign import _aiTwotoneUsb :: ReactIcon
-
-aiTwotoneUsb :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneUsb = element (unsafeCoerce _aiTwotoneUsb)
-
-foreign import _aiTwotoneVideoCamera :: ReactIcon
-
-aiTwotoneVideoCamera :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneVideoCamera = element (unsafeCoerce _aiTwotoneVideoCamera)
-
-foreign import _aiTwotoneWallet :: ReactIcon
-
-aiTwotoneWallet :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneWallet = element (unsafeCoerce _aiTwotoneWallet)
-
-foreign import _aiTwotoneWarning :: ReactIcon
-
-aiTwotoneWarning :: forall a b. Union a b PropsIcon => Record a -> JSX
-aiTwotoneWarning = element (unsafeCoerce _aiTwotoneWarning)
+module React.Icons.Ai where
+
+import React.Icons.Types (ReactIcon)
+
+foreign import aiFillAccountBook :: ReactIcon
+foreign import aiFillAlert :: ReactIcon
+foreign import aiFillAlipayCircle :: ReactIcon
+foreign import aiFillAlipaySquare :: ReactIcon
+foreign import aiFillAliwangwang :: ReactIcon
+foreign import aiFillAmazonCircle :: ReactIcon
+foreign import aiFillAmazonSquare :: ReactIcon
+foreign import aiFillAndroid :: ReactIcon
+foreign import aiFillApi :: ReactIcon
+foreign import aiFillApple :: ReactIcon
+foreign import aiFillAppstore :: ReactIcon
+foreign import aiFillAudio :: ReactIcon
+foreign import aiFillBackward :: ReactIcon
+foreign import aiFillBank :: ReactIcon
+foreign import aiFillBehanceCircle :: ReactIcon
+foreign import aiFillBehanceSquare :: ReactIcon
+foreign import aiFillBell :: ReactIcon
+foreign import aiFillBook :: ReactIcon
+foreign import aiFillBoxPlot :: ReactIcon
+foreign import aiFillBug :: ReactIcon
+foreign import aiFillBuild :: ReactIcon
+foreign import aiFillBulb :: ReactIcon
+foreign import aiFillCalculator :: ReactIcon
+foreign import aiFillCalendar :: ReactIcon
+foreign import aiFillCamera :: ReactIcon
+foreign import aiFillCar :: ReactIcon
+foreign import aiFillCaretDown :: ReactIcon
+foreign import aiFillCaretLeft :: ReactIcon
+foreign import aiFillCaretRight :: ReactIcon
+foreign import aiFillCaretUp :: ReactIcon
+foreign import aiFillCarryOut :: ReactIcon
+foreign import aiFillCheckCircle :: ReactIcon
+foreign import aiFillCheckSquare :: ReactIcon
+foreign import aiFillChrome :: ReactIcon
+foreign import aiFillCiCircle :: ReactIcon
+foreign import aiFillClockCircle :: ReactIcon
+foreign import aiFillCloseCircle :: ReactIcon
+foreign import aiFillCloseSquare :: ReactIcon
+foreign import aiFillCloud :: ReactIcon
+foreign import aiFillCode :: ReactIcon
+foreign import aiFillCodepenCircle :: ReactIcon
+foreign import aiFillCodepenSquare :: ReactIcon
+foreign import aiFillCodeSandboxCircle :: ReactIcon
+foreign import aiFillCodeSandboxSquare :: ReactIcon
+foreign import aiFillCompass :: ReactIcon
+foreign import aiFillContacts :: ReactIcon
+foreign import aiFillContainer :: ReactIcon
+foreign import aiFillControl :: ReactIcon
+foreign import aiFillCopy :: ReactIcon
+foreign import aiFillCopyrightCircle :: ReactIcon
+foreign import aiFillCreditCard :: ReactIcon
+foreign import aiFillCrown :: ReactIcon
+foreign import aiFillCustomerService :: ReactIcon
+foreign import aiFillDashboard :: ReactIcon
+foreign import aiFillDatabase :: ReactIcon
+foreign import aiFillDelete :: ReactIcon
+foreign import aiFillDiff :: ReactIcon
+foreign import aiFillDingtalkCircle :: ReactIcon
+foreign import aiFillDingtalkSquare :: ReactIcon
+foreign import aiFillDislike :: ReactIcon
+foreign import aiFillDollarCircle :: ReactIcon
+foreign import aiFillDownCircle :: ReactIcon
+foreign import aiFillDownSquare :: ReactIcon
+foreign import aiFillDribbbleCircle :: ReactIcon
+foreign import aiFillDribbbleSquare :: ReactIcon
+foreign import aiFillDropboxCircle :: ReactIcon
+foreign import aiFillDropboxSquare :: ReactIcon
+foreign import aiFillEdit :: ReactIcon
+foreign import aiFillEnvironment :: ReactIcon
+foreign import aiFillEuroCircle :: ReactIcon
+foreign import aiFillExclamationCircle :: ReactIcon
+foreign import aiFillExperiment :: ReactIcon
+foreign import aiFillEye :: ReactIcon
+foreign import aiFillEyeInvisible :: ReactIcon
+foreign import aiFillFacebook :: ReactIcon
+foreign import aiFillFastBackward :: ReactIcon
+foreign import aiFillFastForward :: ReactIcon
+foreign import aiFillFile :: ReactIcon
+foreign import aiFillFileAdd :: ReactIcon
+foreign import aiFillFileExcel :: ReactIcon
+foreign import aiFillFileExclamation :: ReactIcon
+foreign import aiFillFileImage :: ReactIcon
+foreign import aiFillFileMarkdown :: ReactIcon
+foreign import aiFillFilePdf :: ReactIcon
+foreign import aiFillFilePpt :: ReactIcon
+foreign import aiFillFileText :: ReactIcon
+foreign import aiFillFileUnknown :: ReactIcon
+foreign import aiFillFileWord :: ReactIcon
+foreign import aiFillFileZip :: ReactIcon
+foreign import aiFillFilter :: ReactIcon
+foreign import aiFillFire :: ReactIcon
+foreign import aiFillFlag :: ReactIcon
+foreign import aiFillFolder :: ReactIcon
+foreign import aiFillFolderAdd :: ReactIcon
+foreign import aiFillFolderOpen :: ReactIcon
+foreign import aiFillFormatPainter :: ReactIcon
+foreign import aiFillForward :: ReactIcon
+foreign import aiFillFrown :: ReactIcon
+foreign import aiFillFund :: ReactIcon
+foreign import aiFillFunnelPlot :: ReactIcon
+foreign import aiFillGift :: ReactIcon
+foreign import aiFillGithub :: ReactIcon
+foreign import aiFillGitlab :: ReactIcon
+foreign import aiFillGold :: ReactIcon
+foreign import aiFillGolden :: ReactIcon
+foreign import aiFillGoogleCircle :: ReactIcon
+foreign import aiFillGooglePlusCircle :: ReactIcon
+foreign import aiFillGooglePlusSquare :: ReactIcon
+foreign import aiFillGoogleSquare :: ReactIcon
+foreign import aiFillHdd :: ReactIcon
+foreign import aiFillHeart :: ReactIcon
+foreign import aiFillHighlight :: ReactIcon
+foreign import aiFillHome :: ReactIcon
+foreign import aiFillHourglass :: ReactIcon
+foreign import aiFillIdcard :: ReactIcon
+foreign import aiFillIeCircle :: ReactIcon
+foreign import aiFillIeSquare :: ReactIcon
+foreign import aiFillInfoCircle :: ReactIcon
+foreign import aiFillInstagram :: ReactIcon
+foreign import aiFillInsurance :: ReactIcon
+foreign import aiFillInteraction :: ReactIcon
+foreign import aiFillLayout :: ReactIcon
+foreign import aiFillLeftCircle :: ReactIcon
+foreign import aiFillLeftSquare :: ReactIcon
+foreign import aiFillLike :: ReactIcon
+foreign import aiFillLinkedin :: ReactIcon
+foreign import aiFillLock :: ReactIcon
+foreign import aiFillMacCommand :: ReactIcon
+foreign import aiFillMail :: ReactIcon
+foreign import aiFillMedicineBox :: ReactIcon
+foreign import aiFillMediumCircle :: ReactIcon
+foreign import aiFillMediumSquare :: ReactIcon
+foreign import aiFillMeh :: ReactIcon
+foreign import aiFillMessage :: ReactIcon
+foreign import aiFillMinusCircle :: ReactIcon
+foreign import aiFillMinusSquare :: ReactIcon
+foreign import aiFillMobile :: ReactIcon
+foreign import aiFillMoneyCollect :: ReactIcon
+foreign import aiFillNotification :: ReactIcon
+foreign import aiFillPauseCircle :: ReactIcon
+foreign import aiFillPayCircle :: ReactIcon
+foreign import aiFillPhone :: ReactIcon
+foreign import aiFillPicture :: ReactIcon
+foreign import aiFillPieChart :: ReactIcon
+foreign import aiFillPlayCircle :: ReactIcon
+foreign import aiFillPlaySquare :: ReactIcon
+foreign import aiFillPlusCircle :: ReactIcon
+foreign import aiFillPlusSquare :: ReactIcon
+foreign import aiFillPoundCircle :: ReactIcon
+foreign import aiFillPrinter :: ReactIcon
+foreign import aiFillProfile :: ReactIcon
+foreign import aiFillProject :: ReactIcon
+foreign import aiFillPropertySafety :: ReactIcon
+foreign import aiFillPushpin :: ReactIcon
+foreign import aiFillQqCircle :: ReactIcon
+foreign import aiFillQqSquare :: ReactIcon
+foreign import aiFillQuestionCircle :: ReactIcon
+foreign import aiFillRead :: ReactIcon
+foreign import aiFillReconciliation :: ReactIcon
+foreign import aiFillRedditCircle :: ReactIcon
+foreign import aiFillRedditSquare :: ReactIcon
+foreign import aiFillRedEnvelope :: ReactIcon
+foreign import aiFillRest :: ReactIcon
+foreign import aiFillRightCircle :: ReactIcon
+foreign import aiFillRightSquare :: ReactIcon
+foreign import aiFillRobot :: ReactIcon
+foreign import aiFillRocket :: ReactIcon
+foreign import aiFillSafetyCertificate :: ReactIcon
+foreign import aiFillSave :: ReactIcon
+foreign import aiFillSchedule :: ReactIcon
+foreign import aiFillSecurityScan :: ReactIcon
+foreign import aiFillSetting :: ReactIcon
+foreign import aiFillShop :: ReactIcon
+foreign import aiFillShopping :: ReactIcon
+foreign import aiFillSignal :: ReactIcon
+foreign import aiFillSketchCircle :: ReactIcon
+foreign import aiFillSketchSquare :: ReactIcon
+foreign import aiFillSkin :: ReactIcon
+foreign import aiFillSkype :: ReactIcon
+foreign import aiFillSlackCircle :: ReactIcon
+foreign import aiFillSlackSquare :: ReactIcon
+foreign import aiFillSliders :: ReactIcon
+foreign import aiFillSmile :: ReactIcon
+foreign import aiFillSnippets :: ReactIcon
+foreign import aiFillSound :: ReactIcon
+foreign import aiFillStar :: ReactIcon
+foreign import aiFillStepBackward :: ReactIcon
+foreign import aiFillStepForward :: ReactIcon
+foreign import aiFillStop :: ReactIcon
+foreign import aiFillSwitcher :: ReactIcon
+foreign import aiFillTablet :: ReactIcon
+foreign import aiFillTag :: ReactIcon
+foreign import aiFillTags :: ReactIcon
+foreign import aiFillTaobaoCircle :: ReactIcon
+foreign import aiFillTaobaoSquare :: ReactIcon
+foreign import aiFillThunderbolt :: ReactIcon
+foreign import aiFillTool :: ReactIcon
+foreign import aiFillTrademarkCircle :: ReactIcon
+foreign import aiFillTrophy :: ReactIcon
+foreign import aiFillTwitterCircle :: ReactIcon
+foreign import aiFillTwitterSquare :: ReactIcon
+foreign import aiFillUnlock :: ReactIcon
+foreign import aiFillUpCircle :: ReactIcon
+foreign import aiFillUpSquare :: ReactIcon
+foreign import aiFillUsb :: ReactIcon
+foreign import aiFillVideoCamera :: ReactIcon
+foreign import aiFillWallet :: ReactIcon
+foreign import aiFillWarning :: ReactIcon
+foreign import aiFillWechat :: ReactIcon
+foreign import aiFillWeiboCircle :: ReactIcon
+foreign import aiFillWeiboSquare :: ReactIcon
+foreign import aiFillWindows :: ReactIcon
+foreign import aiFillYahoo :: ReactIcon
+foreign import aiFillYoutube :: ReactIcon
+foreign import aiFillYuque :: ReactIcon
+foreign import aiFillZhihuCircle :: ReactIcon
+foreign import aiFillZhihuSquare :: ReactIcon
+foreign import aiOutlineAccountBook :: ReactIcon
+foreign import aiOutlineAim :: ReactIcon
+foreign import aiOutlineAlert :: ReactIcon
+foreign import aiOutlineAlibaba :: ReactIcon
+foreign import aiOutlineAlignCenter :: ReactIcon
+foreign import aiOutlineAlignLeft :: ReactIcon
+foreign import aiOutlineAlignRight :: ReactIcon
+foreign import aiOutlineAlipay :: ReactIcon
+foreign import aiOutlineAlipayCircle :: ReactIcon
+foreign import aiOutlineAliwangwang :: ReactIcon
+foreign import aiOutlineAliyun :: ReactIcon
+foreign import aiOutlineAmazon :: ReactIcon
+foreign import aiOutlineAndroid :: ReactIcon
+foreign import aiOutlineAntCloud :: ReactIcon
+foreign import aiOutlineAntDesign :: ReactIcon
+foreign import aiOutlineApartment :: ReactIcon
+foreign import aiOutlineApi :: ReactIcon
+foreign import aiOutlineApple :: ReactIcon
+foreign import aiOutlineAppstore :: ReactIcon
+foreign import aiOutlineAppstoreAdd :: ReactIcon
+foreign import aiOutlineAreaChart :: ReactIcon
+foreign import aiOutlineArrowDown :: ReactIcon
+foreign import aiOutlineArrowLeft :: ReactIcon
+foreign import aiOutlineArrowRight :: ReactIcon
+foreign import aiOutlineArrowsAlt :: ReactIcon
+foreign import aiOutlineArrowUp :: ReactIcon
+foreign import aiOutlineAudio :: ReactIcon
+foreign import aiOutlineAudioMuted :: ReactIcon
+foreign import aiOutlineAudit :: ReactIcon
+foreign import aiOutlineBackward :: ReactIcon
+foreign import aiOutlineBank :: ReactIcon
+foreign import aiOutlineBarChart :: ReactIcon
+foreign import aiOutlineBarcode :: ReactIcon
+foreign import aiOutlineBars :: ReactIcon
+foreign import aiOutlineBehance :: ReactIcon
+foreign import aiOutlineBehanceSquare :: ReactIcon
+foreign import aiOutlineBell :: ReactIcon
+foreign import aiOutlineBgColors :: ReactIcon
+foreign import aiOutlineBlock :: ReactIcon
+foreign import aiOutlineBold :: ReactIcon
+foreign import aiOutlineBook :: ReactIcon
+foreign import aiOutlineBorder :: ReactIcon
+foreign import aiOutlineBorderBottom :: ReactIcon
+foreign import aiOutlineBorderHorizontal :: ReactIcon
+foreign import aiOutlineBorderInner :: ReactIcon
+foreign import aiOutlineBorderLeft :: ReactIcon
+foreign import aiOutlineBorderlessTable :: ReactIcon
+foreign import aiOutlineBorderOuter :: ReactIcon
+foreign import aiOutlineBorderRight :: ReactIcon
+foreign import aiOutlineBorderTop :: ReactIcon
+foreign import aiOutlineBorderVerticle :: ReactIcon
+foreign import aiOutlineBoxPlot :: ReactIcon
+foreign import aiOutlineBranches :: ReactIcon
+foreign import aiOutlineBug :: ReactIcon
+foreign import aiOutlineBuild :: ReactIcon
+foreign import aiOutlineBulb :: ReactIcon
+foreign import aiOutlineCalculator :: ReactIcon
+foreign import aiOutlineCalendar :: ReactIcon
+foreign import aiOutlineCamera :: ReactIcon
+foreign import aiOutlineCar :: ReactIcon
+foreign import aiOutlineCaretDown :: ReactIcon
+foreign import aiOutlineCaretLeft :: ReactIcon
+foreign import aiOutlineCaretRight :: ReactIcon
+foreign import aiOutlineCaretUp :: ReactIcon
+foreign import aiOutlineCarryOut :: ReactIcon
+foreign import aiOutlineCheck :: ReactIcon
+foreign import aiOutlineCheckCircle :: ReactIcon
+foreign import aiOutlineCheckSquare :: ReactIcon
+foreign import aiOutlineChrome :: ReactIcon
+foreign import aiOutlineCi :: ReactIcon
+foreign import aiOutlineCiCircle :: ReactIcon
+foreign import aiOutlineClear :: ReactIcon
+foreign import aiOutlineClockCircle :: ReactIcon
+foreign import aiOutlineClose :: ReactIcon
+foreign import aiOutlineCloseCircle :: ReactIcon
+foreign import aiOutlineCloseSquare :: ReactIcon
+foreign import aiOutlineCloud :: ReactIcon
+foreign import aiOutlineCloudDownload :: ReactIcon
+foreign import aiOutlineCloudServer :: ReactIcon
+foreign import aiOutlineCloudSync :: ReactIcon
+foreign import aiOutlineCloudUpload :: ReactIcon
+foreign import aiOutlineCluster :: ReactIcon
+foreign import aiOutlineCode :: ReactIcon
+foreign import aiOutlineCodepen :: ReactIcon
+foreign import aiOutlineCodepenCircle :: ReactIcon
+foreign import aiOutlineCodeSandbox :: ReactIcon
+foreign import aiOutlineCoffee :: ReactIcon
+foreign import aiOutlineColumnHeight :: ReactIcon
+foreign import aiOutlineColumnWidth :: ReactIcon
+foreign import aiOutlineComment :: ReactIcon
+foreign import aiOutlineCompass :: ReactIcon
+foreign import aiOutlineCompress :: ReactIcon
+foreign import aiOutlineConsoleSql :: ReactIcon
+foreign import aiOutlineContacts :: ReactIcon
+foreign import aiOutlineContainer :: ReactIcon
+foreign import aiOutlineControl :: ReactIcon
+foreign import aiOutlineCopy :: ReactIcon
+foreign import aiOutlineCopyright :: ReactIcon
+foreign import aiOutlineCopyrightCircle :: ReactIcon
+foreign import aiOutlineCreditCard :: ReactIcon
+foreign import aiOutlineCrown :: ReactIcon
+foreign import aiOutlineCustomerService :: ReactIcon
+foreign import aiOutlineDash :: ReactIcon
+foreign import aiOutlineDashboard :: ReactIcon
+foreign import aiOutlineDatabase :: ReactIcon
+foreign import aiOutlineDelete :: ReactIcon
+foreign import aiOutlineDeleteColumn :: ReactIcon
+foreign import aiOutlineDeleteRow :: ReactIcon
+foreign import aiOutlineDeliveredProcedure :: ReactIcon
+foreign import aiOutlineDeploymentUnit :: ReactIcon
+foreign import aiOutlineDesktop :: ReactIcon
+foreign import aiOutlineDiff :: ReactIcon
+foreign import aiOutlineDingding :: ReactIcon
+foreign import aiOutlineDingtalk :: ReactIcon
+foreign import aiOutlineDisconnect :: ReactIcon
+foreign import aiOutlineDislike :: ReactIcon
+foreign import aiOutlineDollar :: ReactIcon
+foreign import aiOutlineDollarCircle :: ReactIcon
+foreign import aiOutlineDotChart :: ReactIcon
+foreign import aiOutlineDoubleLeft :: ReactIcon
+foreign import aiOutlineDoubleRight :: ReactIcon
+foreign import aiOutlineDown :: ReactIcon
+foreign import aiOutlineDownCircle :: ReactIcon
+foreign import aiOutlineDownload :: ReactIcon
+foreign import aiOutlineDownSquare :: ReactIcon
+foreign import aiOutlineDrag :: ReactIcon
+foreign import aiOutlineDribbble :: ReactIcon
+foreign import aiOutlineDribbbleSquare :: ReactIcon
+foreign import aiOutlineDropbox :: ReactIcon
+foreign import aiOutlineEdit :: ReactIcon
+foreign import aiOutlineEllipsis :: ReactIcon
+foreign import aiOutlineEnter :: ReactIcon
+foreign import aiOutlineEnvironment :: ReactIcon
+foreign import aiOutlineEuro :: ReactIcon
+foreign import aiOutlineEuroCircle :: ReactIcon
+foreign import aiOutlineException :: ReactIcon
+foreign import aiOutlineExclamation :: ReactIcon
+foreign import aiOutlineExclamationCircle :: ReactIcon
+foreign import aiOutlineExpand :: ReactIcon
+foreign import aiOutlineExpandAlt :: ReactIcon
+foreign import aiOutlineExperiment :: ReactIcon
+foreign import aiOutlineExport :: ReactIcon
+foreign import aiOutlineEye :: ReactIcon
+foreign import aiOutlineEyeInvisible :: ReactIcon
+foreign import aiOutlineFacebook :: ReactIcon
+foreign import aiOutlineFall :: ReactIcon
+foreign import aiOutlineFastBackward :: ReactIcon
+foreign import aiOutlineFastForward :: ReactIcon
+foreign import aiOutlineFieldBinary :: ReactIcon
+foreign import aiOutlineFieldNumber :: ReactIcon
+foreign import aiOutlineFieldString :: ReactIcon
+foreign import aiOutlineFieldTime :: ReactIcon
+foreign import aiOutlineFile :: ReactIcon
+foreign import aiOutlineFileAdd :: ReactIcon
+foreign import aiOutlineFileDone :: ReactIcon
+foreign import aiOutlineFileExcel :: ReactIcon
+foreign import aiOutlineFileExclamation :: ReactIcon
+foreign import aiOutlineFileGif :: ReactIcon
+foreign import aiOutlineFileImage :: ReactIcon
+foreign import aiOutlineFileJpg :: ReactIcon
+foreign import aiOutlineFileMarkdown :: ReactIcon
+foreign import aiOutlineFilePdf :: ReactIcon
+foreign import aiOutlineFilePpt :: ReactIcon
+foreign import aiOutlineFileProtect :: ReactIcon
+foreign import aiOutlineFileSearch :: ReactIcon
+foreign import aiOutlineFileSync :: ReactIcon
+foreign import aiOutlineFileText :: ReactIcon
+foreign import aiOutlineFileUnknown :: ReactIcon
+foreign import aiOutlineFileWord :: ReactIcon
+foreign import aiOutlineFileZip :: ReactIcon
+foreign import aiOutlineFilter :: ReactIcon
+foreign import aiOutlineFire :: ReactIcon
+foreign import aiOutlineFlag :: ReactIcon
+foreign import aiOutlineFolder :: ReactIcon
+foreign import aiOutlineFolderAdd :: ReactIcon
+foreign import aiOutlineFolderOpen :: ReactIcon
+foreign import aiOutlineFolderView :: ReactIcon
+foreign import aiOutlineFontColors :: ReactIcon
+foreign import aiOutlineFontSize :: ReactIcon
+foreign import aiOutlineFork :: ReactIcon
+foreign import aiOutlineForm :: ReactIcon
+foreign import aiOutlineFormatPainter :: ReactIcon
+foreign import aiOutlineForward :: ReactIcon
+foreign import aiOutlineFrown :: ReactIcon
+foreign import aiOutlineFullscreen :: ReactIcon
+foreign import aiOutlineFullscreenExit :: ReactIcon
+foreign import aiOutlineFunction :: ReactIcon
+foreign import aiOutlineFund :: ReactIcon
+foreign import aiOutlineFundProjectionScreen :: ReactIcon
+foreign import aiOutlineFundView :: ReactIcon
+foreign import aiOutlineFunnelPlot :: ReactIcon
+foreign import aiOutlineGateway :: ReactIcon
+foreign import aiOutlineGif :: ReactIcon
+foreign import aiOutlineGift :: ReactIcon
+foreign import aiOutlineGithub :: ReactIcon
+foreign import aiOutlineGitlab :: ReactIcon
+foreign import aiOutlineGlobal :: ReactIcon
+foreign import aiOutlineGold :: ReactIcon
+foreign import aiOutlineGoogle :: ReactIcon
+foreign import aiOutlineGooglePlus :: ReactIcon
+foreign import aiOutlineGroup :: ReactIcon
+foreign import aiOutlineHdd :: ReactIcon
+foreign import aiOutlineHeart :: ReactIcon
+foreign import aiOutlineHeatMap :: ReactIcon
+foreign import aiOutlineHighlight :: ReactIcon
+foreign import aiOutlineHistory :: ReactIcon
+foreign import aiOutlineHolder :: ReactIcon
+foreign import aiOutlineHome :: ReactIcon
+foreign import aiOutlineHourglass :: ReactIcon
+foreign import aiOutlineIdcard :: ReactIcon
+foreign import aiOutlineIe :: ReactIcon
+foreign import aiOutlineImport :: ReactIcon
+foreign import aiOutlineInbox :: ReactIcon
+foreign import aiOutlineInfo :: ReactIcon
+foreign import aiOutlineInfoCircle :: ReactIcon
+foreign import aiOutlineInsertRowAbove :: ReactIcon
+foreign import aiOutlineInsertRowBelow :: ReactIcon
+foreign import aiOutlineInsertRowLeft :: ReactIcon
+foreign import aiOutlineInsertRowRight :: ReactIcon
+foreign import aiOutlineInstagram :: ReactIcon
+foreign import aiOutlineInsurance :: ReactIcon
+foreign import aiOutlineInteraction :: ReactIcon
+foreign import aiOutlineIssuesClose :: ReactIcon
+foreign import aiOutlineItalic :: ReactIcon
+foreign import aiOutlineKey :: ReactIcon
+foreign import aiOutlineLaptop :: ReactIcon
+foreign import aiOutlineLayout :: ReactIcon
+foreign import aiOutlineLeft :: ReactIcon
+foreign import aiOutlineLeftCircle :: ReactIcon
+foreign import aiOutlineLeftSquare :: ReactIcon
+foreign import aiOutlineLike :: ReactIcon
+foreign import aiOutlineLine :: ReactIcon
+foreign import aiOutlineLineChart :: ReactIcon
+foreign import aiOutlineLineHeight :: ReactIcon
+foreign import aiOutlineLink :: ReactIcon
+foreign import aiOutlineLinkedin :: ReactIcon
+foreign import aiOutlineLoading :: ReactIcon
+foreign import aiOutlineLock :: ReactIcon
+foreign import aiOutlineLogin :: ReactIcon
+foreign import aiOutlineLogout :: ReactIcon
+foreign import aiOutlineMacCommand :: ReactIcon
+foreign import aiOutlineMail :: ReactIcon
+foreign import aiOutlineMan :: ReactIcon
+foreign import aiOutlineMedicineBox :: ReactIcon
+foreign import aiOutlineMedium :: ReactIcon
+foreign import aiOutlineMediumWorkmark :: ReactIcon
+foreign import aiOutlineMeh :: ReactIcon
+foreign import aiOutlineMenu :: ReactIcon
+foreign import aiOutlineMenuFold :: ReactIcon
+foreign import aiOutlineMenuUnfold :: ReactIcon
+foreign import aiOutlineMergeCells :: ReactIcon
+foreign import aiOutlineMessage :: ReactIcon
+foreign import aiOutlineMinus :: ReactIcon
+foreign import aiOutlineMinusCircle :: ReactIcon
+foreign import aiOutlineMinusSquare :: ReactIcon
+foreign import aiOutlineMobile :: ReactIcon
+foreign import aiOutlineMoneyCollect :: ReactIcon
+foreign import aiOutlineMonitor :: ReactIcon
+foreign import aiOutlineMore :: ReactIcon
+foreign import aiOutlineNodeCollapse :: ReactIcon
+foreign import aiOutlineNodeExpand :: ReactIcon
+foreign import aiOutlineNodeIndex :: ReactIcon
+foreign import aiOutlineNotification :: ReactIcon
+foreign import aiOutlineNumber :: ReactIcon
+foreign import aiOutlineOneToOne :: ReactIcon
+foreign import aiOutlineOrderedList :: ReactIcon
+foreign import aiOutlinePaperClip :: ReactIcon
+foreign import aiOutlinePartition :: ReactIcon
+foreign import aiOutlinePause :: ReactIcon
+foreign import aiOutlinePauseCircle :: ReactIcon
+foreign import aiOutlinePayCircle :: ReactIcon
+foreign import aiOutlinePercentage :: ReactIcon
+foreign import aiOutlinePhone :: ReactIcon
+foreign import aiOutlinePicCenter :: ReactIcon
+foreign import aiOutlinePicLeft :: ReactIcon
+foreign import aiOutlinePicRight :: ReactIcon
+foreign import aiOutlinePicture :: ReactIcon
+foreign import aiOutlinePieChart :: ReactIcon
+foreign import aiOutlinePlayCircle :: ReactIcon
+foreign import aiOutlinePlaySquare :: ReactIcon
+foreign import aiOutlinePlus :: ReactIcon
+foreign import aiOutlinePlusCircle :: ReactIcon
+foreign import aiOutlinePlusSquare :: ReactIcon
+foreign import aiOutlinePound :: ReactIcon
+foreign import aiOutlinePoundCircle :: ReactIcon
+foreign import aiOutlinePoweroff :: ReactIcon
+foreign import aiOutlinePrinter :: ReactIcon
+foreign import aiOutlineProfile :: ReactIcon
+foreign import aiOutlineProject :: ReactIcon
+foreign import aiOutlinePropertySafety :: ReactIcon
+foreign import aiOutlinePullRequest :: ReactIcon
+foreign import aiOutlinePushpin :: ReactIcon
+foreign import aiOutlineQq :: ReactIcon
+foreign import aiOutlineQrcode :: ReactIcon
+foreign import aiOutlineQuestion :: ReactIcon
+foreign import aiOutlineQuestionCircle :: ReactIcon
+foreign import aiOutlineRadarChart :: ReactIcon
+foreign import aiOutlineRadiusBottomleft :: ReactIcon
+foreign import aiOutlineRadiusBottomright :: ReactIcon
+foreign import aiOutlineRadiusSetting :: ReactIcon
+foreign import aiOutlineRadiusUpleft :: ReactIcon
+foreign import aiOutlineRadiusUpright :: ReactIcon
+foreign import aiOutlineRead :: ReactIcon
+foreign import aiOutlineReconciliation :: ReactIcon
+foreign import aiOutlineReddit :: ReactIcon
+foreign import aiOutlineRedEnvelope :: ReactIcon
+foreign import aiOutlineRedo :: ReactIcon
+foreign import aiOutlineReload :: ReactIcon
+foreign import aiOutlineRest :: ReactIcon
+foreign import aiOutlineRetweet :: ReactIcon
+foreign import aiOutlineRight :: ReactIcon
+foreign import aiOutlineRightCircle :: ReactIcon
+foreign import aiOutlineRightSquare :: ReactIcon
+foreign import aiOutlineRise :: ReactIcon
+foreign import aiOutlineRobot :: ReactIcon
+foreign import aiOutlineRocket :: ReactIcon
+foreign import aiOutlineRollback :: ReactIcon
+foreign import aiOutlineRotateLeft :: ReactIcon
+foreign import aiOutlineRotateRight :: ReactIcon
+foreign import aiOutlineSafety :: ReactIcon
+foreign import aiOutlineSafetyCertificate :: ReactIcon
+foreign import aiOutlineSave :: ReactIcon
+foreign import aiOutlineScan :: ReactIcon
+foreign import aiOutlineSchedule :: ReactIcon
+foreign import aiOutlineScissor :: ReactIcon
+foreign import aiOutlineSearch :: ReactIcon
+foreign import aiOutlineSecurityScan :: ReactIcon
+foreign import aiOutlineSelect :: ReactIcon
+foreign import aiOutlineSend :: ReactIcon
+foreign import aiOutlineSetting :: ReactIcon
+foreign import aiOutlineShake :: ReactIcon
+foreign import aiOutlineShareAlt :: ReactIcon
+foreign import aiOutlineShop :: ReactIcon
+foreign import aiOutlineShopping :: ReactIcon
+foreign import aiOutlineShoppingCart :: ReactIcon
+foreign import aiOutlineShrink :: ReactIcon
+foreign import aiOutlineSisternode :: ReactIcon
+foreign import aiOutlineSketch :: ReactIcon
+foreign import aiOutlineSkin :: ReactIcon
+foreign import aiOutlineSkype :: ReactIcon
+foreign import aiOutlineSlack :: ReactIcon
+foreign import aiOutlineSlackSquare :: ReactIcon
+foreign import aiOutlineSliders :: ReactIcon
+foreign import aiOutlineSmallDash :: ReactIcon
+foreign import aiOutlineSmile :: ReactIcon
+foreign import aiOutlineSnippets :: ReactIcon
+foreign import aiOutlineSolution :: ReactIcon
+foreign import aiOutlineSortAscending :: ReactIcon
+foreign import aiOutlineSortDescending :: ReactIcon
+foreign import aiOutlineSound :: ReactIcon
+foreign import aiOutlineSplitCells :: ReactIcon
+foreign import aiOutlineStar :: ReactIcon
+foreign import aiOutlineStepBackward :: ReactIcon
+foreign import aiOutlineStepForward :: ReactIcon
+foreign import aiOutlineStock :: ReactIcon
+foreign import aiOutlineStop :: ReactIcon
+foreign import aiOutlineStrikethrough :: ReactIcon
+foreign import aiOutlineSubnode :: ReactIcon
+foreign import aiOutlineSwap :: ReactIcon
+foreign import aiOutlineSwapLeft :: ReactIcon
+foreign import aiOutlineSwapRight :: ReactIcon
+foreign import aiOutlineSwitcher :: ReactIcon
+foreign import aiOutlineSync :: ReactIcon
+foreign import aiOutlineTable :: ReactIcon
+foreign import aiOutlineTablet :: ReactIcon
+foreign import aiOutlineTag :: ReactIcon
+foreign import aiOutlineTags :: ReactIcon
+foreign import aiOutlineTaobao :: ReactIcon
+foreign import aiOutlineTaobaoCircle :: ReactIcon
+foreign import aiOutlineTeam :: ReactIcon
+foreign import aiOutlineThunderbolt :: ReactIcon
+foreign import aiOutlineTool :: ReactIcon
+foreign import aiOutlineToTop :: ReactIcon
+foreign import aiOutlineTrademark :: ReactIcon
+foreign import aiOutlineTrademarkCircle :: ReactIcon
+foreign import aiOutlineTransaction :: ReactIcon
+foreign import aiOutlineTranslation :: ReactIcon
+foreign import aiOutlineTrophy :: ReactIcon
+foreign import aiOutlineTwitter :: ReactIcon
+foreign import aiOutlineUnderline :: ReactIcon
+foreign import aiOutlineUndo :: ReactIcon
+foreign import aiOutlineUngroup :: ReactIcon
+foreign import aiOutlineUnlock :: ReactIcon
+foreign import aiOutlineUnorderedList :: ReactIcon
+foreign import aiOutlineUp :: ReactIcon
+foreign import aiOutlineUpCircle :: ReactIcon
+foreign import aiOutlineUpload :: ReactIcon
+foreign import aiOutlineUpSquare :: ReactIcon
+foreign import aiOutlineUsb :: ReactIcon
+foreign import aiOutlineUser :: ReactIcon
+foreign import aiOutlineUserAdd :: ReactIcon
+foreign import aiOutlineUserDelete :: ReactIcon
+foreign import aiOutlineUsergroupAdd :: ReactIcon
+foreign import aiOutlineUsergroupDelete :: ReactIcon
+foreign import aiOutlineUserSwitch :: ReactIcon
+foreign import aiOutlineVerified :: ReactIcon
+foreign import aiOutlineVerticalAlignBottom :: ReactIcon
+foreign import aiOutlineVerticalAlignMiddle :: ReactIcon
+foreign import aiOutlineVerticalAlignTop :: ReactIcon
+foreign import aiOutlineVerticalLeft :: ReactIcon
+foreign import aiOutlineVerticalRight :: ReactIcon
+foreign import aiOutlineVideoCamera :: ReactIcon
+foreign import aiOutlineVideoCameraAdd :: ReactIcon
+foreign import aiOutlineWallet :: ReactIcon
+foreign import aiOutlineWarning :: ReactIcon
+foreign import aiOutlineWechat :: ReactIcon
+foreign import aiOutlineWeibo :: ReactIcon
+foreign import aiOutlineWeiboCircle :: ReactIcon
+foreign import aiOutlineWeiboSquare :: ReactIcon
+foreign import aiOutlineWhatsApp :: ReactIcon
+foreign import aiOutlineWifi :: ReactIcon
+foreign import aiOutlineWindows :: ReactIcon
+foreign import aiOutlineWoman :: ReactIcon
+foreign import aiOutlineYahoo :: ReactIcon
+foreign import aiOutlineYoutube :: ReactIcon
+foreign import aiOutlineYuque :: ReactIcon
+foreign import aiOutlineZhihu :: ReactIcon
+foreign import aiOutlineZoomIn :: ReactIcon
+foreign import aiOutlineZoomOut :: ReactIcon
+foreign import aiTwotoneAccountBook :: ReactIcon
+foreign import aiTwotoneAlert :: ReactIcon
+foreign import aiTwotoneApi :: ReactIcon
+foreign import aiTwotoneAppstore :: ReactIcon
+foreign import aiTwotoneAudio :: ReactIcon
+foreign import aiTwotoneBank :: ReactIcon
+foreign import aiTwotoneBell :: ReactIcon
+foreign import aiTwotoneBook :: ReactIcon
+foreign import aiTwotoneBoxPlot :: ReactIcon
+foreign import aiTwotoneBug :: ReactIcon
+foreign import aiTwotoneBuild :: ReactIcon
+foreign import aiTwotoneBulb :: ReactIcon
+foreign import aiTwotoneCalculator :: ReactIcon
+foreign import aiTwotoneCalendar :: ReactIcon
+foreign import aiTwotoneCamera :: ReactIcon
+foreign import aiTwotoneCar :: ReactIcon
+foreign import aiTwotoneCarryOut :: ReactIcon
+foreign import aiTwotoneCheckCircle :: ReactIcon
+foreign import aiTwotoneCheckSquare :: ReactIcon
+foreign import aiTwotoneCi :: ReactIcon
+foreign import aiTwotoneCiCircle :: ReactIcon
+foreign import aiTwotoneClockCircle :: ReactIcon
+foreign import aiTwotoneCloseCircle :: ReactIcon
+foreign import aiTwotoneCloseSquare :: ReactIcon
+foreign import aiTwotoneCloud :: ReactIcon
+foreign import aiTwotoneCode :: ReactIcon
+foreign import aiTwotoneCompass :: ReactIcon
+foreign import aiTwotoneContacts :: ReactIcon
+foreign import aiTwotoneContainer :: ReactIcon
+foreign import aiTwotoneControl :: ReactIcon
+foreign import aiTwotoneCopy :: ReactIcon
+foreign import aiTwotoneCopyright :: ReactIcon
+foreign import aiTwotoneCopyrightCircle :: ReactIcon
+foreign import aiTwotoneCreditCard :: ReactIcon
+foreign import aiTwotoneCrown :: ReactIcon
+foreign import aiTwotoneCustomerService :: ReactIcon
+foreign import aiTwotoneDashboard :: ReactIcon
+foreign import aiTwotoneDatabase :: ReactIcon
+foreign import aiTwotoneDelete :: ReactIcon
+foreign import aiTwotoneDiff :: ReactIcon
+foreign import aiTwotoneDislike :: ReactIcon
+foreign import aiTwotoneDollar :: ReactIcon
+foreign import aiTwotoneDollarCircle :: ReactIcon
+foreign import aiTwotoneDownCircle :: ReactIcon
+foreign import aiTwotoneDownSquare :: ReactIcon
+foreign import aiTwotoneEdit :: ReactIcon
+foreign import aiTwotoneEnvironment :: ReactIcon
+foreign import aiTwotoneEuro :: ReactIcon
+foreign import aiTwotoneEuroCircle :: ReactIcon
+foreign import aiTwotoneExclamationCircle :: ReactIcon
+foreign import aiTwotoneExperiment :: ReactIcon
+foreign import aiTwotoneEye :: ReactIcon
+foreign import aiTwotoneEyeInvisible :: ReactIcon
+foreign import aiTwotoneFile :: ReactIcon
+foreign import aiTwotoneFileAdd :: ReactIcon
+foreign import aiTwotoneFileExcel :: ReactIcon
+foreign import aiTwotoneFileExclamation :: ReactIcon
+foreign import aiTwotoneFileImage :: ReactIcon
+foreign import aiTwotoneFileMarkdown :: ReactIcon
+foreign import aiTwotoneFilePdf :: ReactIcon
+foreign import aiTwotoneFilePpt :: ReactIcon
+foreign import aiTwotoneFileText :: ReactIcon
+foreign import aiTwotoneFileUnknown :: ReactIcon
+foreign import aiTwotoneFileWord :: ReactIcon
+foreign import aiTwotoneFileZip :: ReactIcon
+foreign import aiTwotoneFilter :: ReactIcon
+foreign import aiTwotoneFire :: ReactIcon
+foreign import aiTwotoneFlag :: ReactIcon
+foreign import aiTwotoneFolder :: ReactIcon
+foreign import aiTwotoneFolderAdd :: ReactIcon
+foreign import aiTwotoneFolderOpen :: ReactIcon
+foreign import aiTwotoneFrown :: ReactIcon
+foreign import aiTwotoneFund :: ReactIcon
+foreign import aiTwotoneFunnelPlot :: ReactIcon
+foreign import aiTwotoneGift :: ReactIcon
+foreign import aiTwotoneGold :: ReactIcon
+foreign import aiTwotoneHdd :: ReactIcon
+foreign import aiTwotoneHeart :: ReactIcon
+foreign import aiTwotoneHighlight :: ReactIcon
+foreign import aiTwotoneHome :: ReactIcon
+foreign import aiTwotoneHourglass :: ReactIcon
+foreign import aiTwotoneIdcard :: ReactIcon
+foreign import aiTwotoneInfoCircle :: ReactIcon
+foreign import aiTwotoneInsurance :: ReactIcon
+foreign import aiTwotoneInteraction :: ReactIcon
+foreign import aiTwotoneLayout :: ReactIcon
+foreign import aiTwotoneLeftCircle :: ReactIcon
+foreign import aiTwotoneLeftSquare :: ReactIcon
+foreign import aiTwotoneLike :: ReactIcon
+foreign import aiTwotoneLock :: ReactIcon
+foreign import aiTwotoneMail :: ReactIcon
+foreign import aiTwotoneMedicineBox :: ReactIcon
+foreign import aiTwotoneMeh :: ReactIcon
+foreign import aiTwotoneMessage :: ReactIcon
+foreign import aiTwotoneMinusCircle :: ReactIcon
+foreign import aiTwotoneMinusSquare :: ReactIcon
+foreign import aiTwotoneMobile :: ReactIcon
+foreign import aiTwotoneMoneyCollect :: ReactIcon
+foreign import aiTwotoneNotification :: ReactIcon
+foreign import aiTwotonePauseCircle :: ReactIcon
+foreign import aiTwotonePhone :: ReactIcon
+foreign import aiTwotonePicture :: ReactIcon
+foreign import aiTwotonePieChart :: ReactIcon
+foreign import aiTwotonePlayCircle :: ReactIcon
+foreign import aiTwotonePlaySquare :: ReactIcon
+foreign import aiTwotonePlusCircle :: ReactIcon
+foreign import aiTwotonePlusSquare :: ReactIcon
+foreign import aiTwotonePoundCircle :: ReactIcon
+foreign import aiTwotonePrinter :: ReactIcon
+foreign import aiTwotoneProfile :: ReactIcon
+foreign import aiTwotoneProject :: ReactIcon
+foreign import aiTwotonePropertySafety :: ReactIcon
+foreign import aiTwotonePushpin :: ReactIcon
+foreign import aiTwotoneQuestionCircle :: ReactIcon
+foreign import aiTwotoneReconciliation :: ReactIcon
+foreign import aiTwotoneRedEnvelope :: ReactIcon
+foreign import aiTwotoneRest :: ReactIcon
+foreign import aiTwotoneRightCircle :: ReactIcon
+foreign import aiTwotoneRightSquare :: ReactIcon
+foreign import aiTwotoneRocket :: ReactIcon
+foreign import aiTwotoneSafetyCertificate :: ReactIcon
+foreign import aiTwotoneSave :: ReactIcon
+foreign import aiTwotoneSchedule :: ReactIcon
+foreign import aiTwotoneSecurityScan :: ReactIcon
+foreign import aiTwotoneSetting :: ReactIcon
+foreign import aiTwotoneShop :: ReactIcon
+foreign import aiTwotoneShopping :: ReactIcon
+foreign import aiTwotoneSkin :: ReactIcon
+foreign import aiTwotoneSliders :: ReactIcon
+foreign import aiTwotoneSmile :: ReactIcon
+foreign import aiTwotoneSnippets :: ReactIcon
+foreign import aiTwotoneSound :: ReactIcon
+foreign import aiTwotoneStar :: ReactIcon
+foreign import aiTwotoneStop :: ReactIcon
+foreign import aiTwotoneSwitcher :: ReactIcon
+foreign import aiTwotoneTablet :: ReactIcon
+foreign import aiTwotoneTag :: ReactIcon
+foreign import aiTwotoneTags :: ReactIcon
+foreign import aiTwotoneThunderbolt :: ReactIcon
+foreign import aiTwotoneTool :: ReactIcon
+foreign import aiTwotoneTrademarkCircle :: ReactIcon
+foreign import aiTwotoneTrophy :: ReactIcon
+foreign import aiTwotoneUnlock :: ReactIcon
+foreign import aiTwotoneUpCircle :: ReactIcon
+foreign import aiTwotoneUpSquare :: ReactIcon
+foreign import aiTwotoneUsb :: ReactIcon
+foreign import aiTwotoneVideoCamera :: ReactIcon
+foreign import aiTwotoneWallet :: ReactIcon
+foreign import aiTwotoneWarning :: ReactIcon

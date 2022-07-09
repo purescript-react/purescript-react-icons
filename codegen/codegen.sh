@@ -25,13 +25,13 @@ allLibsFile="$libDir/all.d.ts"
 }
 
 toPureScript() {
-    outputPs+="\n$(sed -e "s/\${icon}/${1,}/g" "$dir/templateIcon.txt")\n"
+    outputPs+="\n$(sed -e "s/\${icon}/${1,}/g" "$dir/templateIcon.txt")"
 }
 
 toJavaScript() {
     nameLib="$1"
     nameImport="$2"
-    nameExport="_${2,}"
+    nameExport="${2,}"
 
     outputJs+=$(
         sed -e "s/\${nameImport}/$nameImport/g" \
@@ -50,11 +50,8 @@ for lib in $libs; do
     regex='s/export declare const ([A-Za-z]+): IconType;/\1/p'
     iconNames=$(sed -nr "$regex" "$iconFile" | sort -u)
 
-    # PureScript exports
-    exportsPs="$(printf "%b" "$iconNames" | sed -e 's/\(.\)/\L\1/' | xargs | sed -e 's/ /, /g')"
-
     # PureScript and JS defintions
-    outputPs="$(sed -e "s/\${lib}/${lib^}/" -e "s/\${exports}/${exportsPs}/" "$dir/templateModule.txt")\n"
+    outputPs="$(sed -e "s/\${lib}/${lib^}/" "$dir/templateModule.txt")\n"
     outputJs=""
     for name in $iconNames; do
         echo "- $name"
