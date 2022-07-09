@@ -25,13 +25,13 @@ allLibsFile="$libDir/all.d.ts"
 }
 
 toPureScript() {
-    outputPs+="\n$(sed -e "s/\${icon}/${1,}/g" "$dir/templateIcon.txt")\n"
+    outputPs+="\n$(sed -e "s/\${icon}/${1,}/g" "$dir/templateIcon.txt")"
 }
 
 toJavaScript() {
     nameLib="$1"
     nameImport="$2"
-    nameExport="_${2,}"
+    nameExport="${2,}"
 
     outputJs+=$(
         sed -e "s/\${nameImport}/$nameImport/g" \

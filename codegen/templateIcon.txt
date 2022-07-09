@@ -1,4 +1,1 @@
-foreign import _${icon} :: ReactIcon
-
-${icon} :: Icon
-${icon} = element _${icon}
+foreign import ${icon} :: ReactIcon

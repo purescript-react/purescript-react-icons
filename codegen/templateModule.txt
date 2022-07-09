@@ -1,4 +1,3 @@
 module React.Icons.${lib} (${exports}) where
 
-import React.Basic (element)
-import React.Icons.Types (ReactIcon, Icon)
+import React.Icons.Types (ReactIcon)
