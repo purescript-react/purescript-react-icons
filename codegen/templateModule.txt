@@ -1,8 +1,4 @@
--- | ----------------------------------------
--- | THIS FILE IS GENERATED -- DO NOT EDIT IT
--- | ----------------------------------------
-
-module React.Icons.${lib} where
+module React.Icons.${lib} (${exports}) where
 
 import Prim.Row (class Union)
 import React.Basic (JSX, element)

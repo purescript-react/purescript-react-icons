@@ -7,6 +7,14 @@ command -v "sed" >/dev/null 2>&1 || {
     echo "Error: sed has to be installed." && exit 1
 }
 
+command -v "xargs" >/dev/null 2>&1 || {
+    echo "Error: xargs has to be installed." && exit 1
+}
+
+command -v "sort" >/dev/null 2>&1 || {
+    echo "Error: sort has to be installed." && exit 1
+}
+
 dir="$(cd "$(dirname "${BASH_SOURCE[0]}")" >/dev/null 2>&1 && pwd)"
 libDir="$dir/../node_modules/react-icons"
 allLibsFile="$libDir/all.d.ts"
@@ -41,7 +49,12 @@ for lib in $libs; do
     iconFile="$libDir/$lib/index.d.ts"
     regex='s/export declare const ([A-Za-z]+): IconType;/\1/p'
     iconNames=$(sed -nr "$regex" "$iconFile" | sort -u)
-    outputPs="$(sed -e "s/\${lib}/${lib^}/g" "$dir/templateModule.txt")\n"
+
+    # PureScript exports
+    exportsPs="$(printf "%b" "$iconNames" | sed -e 's/\(.\)/\L\1/' | xargs | sed -e 's/ /, /g')"
+
+    # PureScript and JS defintions
+    outputPs="$(sed -e "s/\${lib}/${lib^}/" -e "s/\${exports}/${exportsPs}/" "$dir/templateModule.txt")\n"
     outputJs=""
     for name in $iconNames; do
         echo "- $name"
