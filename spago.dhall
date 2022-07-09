@@ -1,5 +1,5 @@
 { name = "react-icons"
-, dependencies = [ "react-basic", "react-basic-dom", "unsafe-coerce" ]
+, dependencies = [ "react-basic", "react-basic-dom" ]
 , packages = ./packages.dhall
 , sources = [ "src/**/*.purs" ]
 , license = "MIT-0"

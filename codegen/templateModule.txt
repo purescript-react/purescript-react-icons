@@ -1,6 +1,4 @@
 module React.Icons.${lib} (${exports}) where
 
-import Prim.Row (class Union)
-import React.Basic (JSX, element)
-import React.Icons.Types (ReactIcon, PropsIcon)
-import Unsafe.Coerce (unsafeCoerce)
+import React.Basic (element)
+import React.Icons.Types (ReactIcon, Icon)

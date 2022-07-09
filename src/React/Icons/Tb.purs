@@ -1,8891 +1,8889 @@
 module React.Icons.Tb (tbAB, tbAbacus, tbABOff, tbAccessible, tbAccessibleOff, tbAccessPoint, tbAccessPointOff, tbActivity, tbActivityHeartbeat, tbAd, tbAddressBook, tbAdjustments, tbAdjustmentsAlt, tbAdjustmentsHorizontal, tbAdjustmentsOff, tbAerialLift, tbAffiliate, tbAlarm, tbAlarmOff, tbAlbum, tbAlertCircle, tbAlertOctagon, tbAlertTriangle, tbAlien, tbAlignCenter, tbAlignJustified, tbAlignLeft, tbAlignRight, tbAmbulance, tbAnchor, tbAnchorOff, tbAngle, tbAnkh, tbAntenna, tbAntennaBarsOff, tbAperture, tbApi, tbApiApp, tbApiAppOff, tbApiOff, tbApple, tbApps, tbAppsOff, tbAppWindow, tbArchive, tbArchiveOff, tbArmchair, tbArrowAutofitContent, tbArrowAutofitDown, tbArrowAutofitHeight, tbArrowAutofitLeft, tbArrowAutofitRight, tbArrowAutofitUp, tbArrowAutofitWidth, tbArrowBack, tbArrowBackUp, tbArrowBarDown, tbArrowBarLeft, tbArrowBarRight, tbArrowBarToDown, tbArrowBarToLeft, tbArrowBarToRight, tbArrowBarToUp, tbArrowBarUp, tbArrowBearLeft, tbArrowBearRight, tbArrowBigDown, tbArrowBigDownLine, tbArrowBigDownLines, tbArrowBigLeft, tbArrowBigLeftLine, tbArrowBigLeftLines, tbArrowBigRight, tbArrowBigRightLine, tbArrowBigRightLines, tbArrowBigTop, tbArrowBigUpLine, tbArrowBigUpLines, tbArrowBottomBar, tbArrowBottomCircle, tbArrowBottomSquare, tbArrowBottomTail, tbArrowCurveLeft, tbArrowCurveRight, tbArrowDown, tbArrowDownCircle, tbArrowDownLeft, tbArrowDownLeftCircle, tbArrowDownRight, tbArrowDownRightCircle, tbArrowFork, tbArrowForward, tbArrowForwardUp, tbArrowLeft, tbArrowLeftBar, tbArrowLeftCircle, tbArrowLeftRight, tbArrowLeftSquare, tbArrowLeftTail, tbArrowLoopLeft, tbArrowLoopRight, tbArrowMerge, tbArrowNarrowDown, tbArrowNarrowLeft, tbArrowNarrowRight, tbArrowNarrowUp, tbArrowRampLeft, tbArrowRampRight, tbArrowRight, tbArrowRightBar, tbArrowRightCircle, tbArrowRightSquare, tbArrowRightTail, tbArrowRotaryFirstLeft, tbArrowRotaryFirstRight, tbArrowRotaryLastLeft, tbArrowRotaryLastRight, tbArrowRotaryLeft, tbArrowRotaryRight, tbArrowRotaryStraight, tbArrowsCross, tbArrowsDiagonal, tbArrowsDiagonalMinimize, tbArrowsDoubleNeSw, tbArrowsDoubleNwSe, tbArrowsDoubleSeNw, tbArrowsDoubleSwNe, tbArrowsDown, tbArrowsDownUp, tbArrowSharpTurnLeft, tbArrowSharpTurnRight, tbArrowsHorizontal, tbArrowsJoin, tbArrowsLeft, tbArrowsLeftDown, tbArrowsLeftRight, tbArrowsMaximize, tbArrowsMinimize, tbArrowsRandom, tbArrowsRight, tbArrowsRightDown, tbArrowsRightLeft, tbArrowsShuffle, tbArrowsSort, tbArrowsSplit, tbArrowsUp, tbArrowsUpDown, tbArrowsUpLeft, tbArrowsUpRight, tbArrowsVertical, tbArrowTopBar, tbArrowTopCircle, tbArrowTopSquare, tbArrowTopTail, tbArrowUp, tbArrowUpCircle, tbArrowUpLeft, tbArrowUpLeftCircle, tbArrowUpRight, tbArrowUpRightCircle, tbArrowWaveLeftDown, tbArrowWaveLeftUp, tbArrowWaveRightDown, tbArrowWaveRightUp, tbArtboard, tbArtboardOff, tbAspectRatio, tbAspectRatioOff, tbAsset, tbAsterisk, tbAsteriskSimple, tbAt, tbAtOff, tbAtom, tbAtomOff, tbAugmentedReality, tbAward, tbAwardOff, tbAxe, tbAxisX, tbAxisY, tbBabyCarriage, tbBackhoe, tbBackpack, tbBackspace, tbBadge, tbBadgeOff, tbBadges, tbBadgesOff, tbBallAmericanFootball, tbBallBaseball, tbBallBasketball, tbBallBowling, tbBallFootball, tbBallFootballOff, tbBallon, tbBallonOff, tbBallpen, tbBallpenOff, tbBallTennis, tbBallVolleyball, tbBan, tbBandage, tbBarbell, tbBarbellOff, tbBarcode, tbBarcodeOff, tbBarrel, tbBarrelOff, tbBarrierBlock, tbBarrierBlockOff, tbBaseline, tbBasket, tbBasketOff, tbBath, tbBathOff, tbBattery, tbBatteryAutomotive, tbBatteryCharging, tbBatteryEco, tbBatteryOff, tbBeach, tbBeachOff, tbBed, tbBedOff, tbBeer, tbBeerOff, tbBell, tbBellMinus, tbBellOff, tbBellPlus, tbBellRinging, tbBellSchool, tbBellX, tbBellZ, tbBible, tbBike, tbBikeOff, tbBinary, tbBiohazard, tbBiohazardOff, tbBlockquote, tbBluetooth, tbBluetoothConnected, tbBluetoothOff, tbBluetoothX, tbBlur, tbBold, tbBoldOff, tbBolt, tbBoltOff, tbBone, tbBoneOff, tbBook, tbBookDownload, tbBookmark, tbBookmarkOff, tbBookmarks, tbBookmarksOff, tbBookOff, tbBooks, tbBooksOff, tbBookUpload, tbBorderAll, tbBorderBottom, tbBorderHorizontal, tbBorderInner, tbBorderLeft, tbBorderNone, tbBorderOuter, tbBorderRadius, tbBorderRight, tbBorderStyle, tbBorderTop, tbBorderVertical, tbBottle, tbBow, tbBox, tbBoxMargin, tbBoxModel, tbBoxMultiple, tbBoxOff, tbBoxPadding, tbBraces, tbBracesOff, tbBrackets, tbBracketsOff, tbBrandAdobe, tbBrandAirbnb, tbBrandAirtable, tbBrandAndroid, tbBrandAngular, tbBrandApple, tbBrandAppleArcade, tbBrandAppstore, tbBrandAsana, tbBrandBehance, tbBrandBing, tbBrandBitbucket, tbBrandBooking, tbBrandBootstrap, tbBrandChrome, tbBrandCodepen, tbBrandCodesandbox, tbBrandCucumber, tbBrandDebian, tbBrandDeviantart, tbBrandDiscord, tbBrandDisqus, tbBrandDocker, tbBrandDoctrine, tbBrandDribbble, tbBrandEdge, tbBrandFacebook, tbBrandFigma, tbBrandFirebase, tbBrandFirefox, tbBrandFlickr, tbBrandFoursquare, tbBrandFramer, tbBrandGit, tbBrandGithub, tbBrandGitlab, tbBrandGmail, tbBrandGoogle, tbBrandGoogleAnalytics, tbBrandGoogleDrive, tbBrandGooglePlay, tbBrandGravatar, tbBrandHipchat, tbBrandInstagram, tbBrandIntercom, tbBrandJavascript, tbBrandKickstarter, tbBrandKotlin, tbBrandLastfm, tbBrandLinkedin, tbBrandLoom, tbBrandMastercard, tbBrandMedium, tbBrandMercedes, tbBrandMessenger, tbBrandMeta, tbBrandNetbeans, tbBrandNetflix, tbBrandNextjs, tbBrandNotion, tbBrandNuxt, tbBrandNytimes, tbBrandOpenSource, tbBrandOpera, tbBrandPagekit, tbBrandPatreon, tbBrandPaypal, tbBrandPhp, tbBrandPinterest, tbBrandPocket, tbBrandProducthunt, tbBrandPython, tbBrandReactNative, tbBrandReddit, tbBrandSafari, tbBrandSass, tbBrandSentry, tbBrandShazam, tbBrandSketch, tbBrandSkype, tbBrandSlack, tbBrandSnapchat, tbBrandSoundcloud, tbBrandSpotify, tbBrandStackoverflow, tbBrandSteam, tbBrandStripe, tbBrandSublimeText, tbBrandSvelte, tbBrandTabler, tbBrandTailwind, tbBrandTelegram, tbBrandTidal, tbBrandTiktok, tbBrandTinder, tbBrandTripadvisor, tbBrandTumblr, tbBrandTwitch, tbBrandTwitter, tbBrandUber, tbBrandUbuntu, tbBrandUnsplash, tbBrandVercel, tbBrandVimeo, tbBrandVisualStudio, tbBrandVk, tbBrandVue, tbBrandWhatsapp, tbBrandWindows, tbBrandYahoo, tbBrandYcombinator, tbBrandYoutube, tbBread, tbBriefcase, tbBrightness, tbBrightnessDown, tbBrightnessHalf, tbBrightnessUp, tbBrowser, tbBrowserCheck, tbBrowserOff, tbBrowserPlus, tbBrowserX, tbBrush, tbBrushOff, tbBucket, tbBucketOff, tbBug, tbBugOff, tbBuilding, tbBuildingArch, tbBuildingBank, tbBuildingBridge, tbBuildingCarousel, tbBuildingCastle, tbBuildingChurch, tbBuildingCommunity, tbBuildingCottage, tbBuildingFactory, tbBuildingFortress, tbBuildingHospital, tbBuildingLighthouse, tbBuildingMonument, tbBuildingPavilon, tbBuildingSkyscraper, tbBuildingStore, tbBuildingWarehouse, tbBulb, tbBulbOff, tbBulldozer, tbBus, tbBusinessplan, tbButterfly, tbCake, tbCakeOff, tbCalculator, tbCalculatorOff, tbCalendar, tbCalendarEvent, tbCalendarMinus, tbCalendarOff, tbCalendarPlus, tbCalendarStats, tbCalendarTime, tbCamera, tbCameraMinus, tbCameraOff, tbCameraPlus, tbCameraRotate, tbCameraSelfie, tbCandle, tbCandy, tbCandyOff, tbCapture, tbCaptureOff, tbCar, tbCaravan, tbCarCrane, tbCarCrash, tbCardboards, tbCardboardsOff, tbCaretDown, tbCaretLeft, tbCaretRight, tbCaretUp, tbCarOff, tbCash, tbCashBanknote, tbCashBanknoteOff, tbCashOff, tbCast, tbCastOff, tbCe, tbCell, tbCellSignalOff, tbCeOff, tbCertificate, tbCertificateOff, tbChargingPile, tbChartArcs, tbChartArea, tbChartAreaLine, tbChartArrows, tbChartArrowsVertical, tbChartBar, tbChartBubble, tbChartCandle, tbChartCircles, tbChartDonut, tbChartDots, tbChartInfographic, tbChartLine, tbChartPie, tbChartRadar, tbCheck, tbCheckbox, tbChecklist, tbChecks, tbCheckupList, tbCheese, tbChevronDown, tbChevronDownLeft, tbChevronDownRight, tbChevronLeft, tbChevronRight, tbChevronsDown, tbChevronsDownLeft, tbChevronsDownRight, tbChevronsLeft, tbChevronsRight, tbChevronsUp, tbChevronsUpLeft, tbChevronsUpRight, tbChevronUp, tbChevronUpLeft, tbChevronUpRight, tbChristmasTree, tbCircle, tbCircleCheck, tbCircleDashed, tbCircleDot, tbCircleDotted, tbCircleHalf, tbCircleHalfVertical, tbCircleMinus, tbCircleOff, tbCirclePlus, tbCircleRectangle, tbCircleRectangleOff, tbCircles, tbCircleSquare, tbCircleTriangle, tbCircleX, tbClearAll, tbClearFormatting, tbClick, tbClipboard, tbClipboardCheck, tbClipboardList, tbClipboardOff, tbClipboardPlus, tbClipboardText, tbClipboardX, tbClock, tbClockOff, tbCloud, tbCloudComputing, tbCloudDataConnection, tbCloudDownload, tbCloudFog, tbCloudLock, tbCloudLockOpen, tbCloudOff, tbCloudRain, tbCloudSnow, tbCloudStorm, tbCloudUpload, tbClubs, tbCode, tbCodeMinus, tbCodeOff, tbCodePlus, tbCoffee, tbCoffeeOff, tbCoin, tbCoinOff, tbColorPicker, tbColorPickerOff, tbColorSwatch, tbColorSwatchOff, tbColumnInsertLeft, tbColumnInsertRight, tbColumns, tbColumnsOff, tbComet, tbCommand, tbCompass, tbCompassOff, tbComponents, tbComponentsOff, tbCone, tbConfetti, tbContainer, tbContainerOff, tbContrast, tbCookie, tbCookieOff, tbCopy, tbCopyleft, tbCopyleftOff, tbCopyOff, tbCopyright, tbCopyrightOff, tbCornerDownLeft, tbCornerDownLeftDouble, tbCornerDownRight, tbCornerDownRightDouble, tbCornerLeftDown, tbCornerLeftDownDouble, tbCornerLeftUp, tbCornerLeftUpDouble, tbCornerRightDown, tbCornerRightDownDouble, tbCornerRightUp, tbCornerRightUpDouble, tbCornerUpLeft, tbCornerUpLeftDouble, tbCornerUpRight, tbCornerUpRightDouble, tbCpu, tbCpuOff, tbCrane, tbCraneOff, tbCreativeCommons, tbCreativeCommonsOff, tbCreditCard, tbCreditCardOff, tbCricket, tbCrop, tbCross, tbCrosshair, tbCrossOff, tbCrown, tbCrownOff, tbCrutches, tbCrutchesOff, tbCSharp, tbCup, tbCupOff, tbCurling, tbCurlyLoop, tbCurrency, tbCurrencyBahraini, tbCurrencyBaht, tbCurrencyBitcoin, tbCurrencyCent, tbCurrencyDinar, tbCurrencyDirham, tbCurrencyDogecoin, tbCurrencyDollar, tbCurrencyDollarAustralian, tbCurrencyDollarCanadian, tbCurrencyDollarSingapore, tbCurrencyEthereum, tbCurrencyEuro, tbCurrencyForint, tbCurrencyFrank, tbCurrencyKroneCzech, tbCurrencyKroneDanish, tbCurrencyKroneSwedish, tbCurrencyLeu, tbCurrencyLira, tbCurrencyLitecoin, tbCurrencyNaira, tbCurrencyPound, tbCurrencyReal, tbCurrencyRenminbi, tbCurrencyRipple, tbCurrencyRiyal, tbCurrencyRubel, tbCurrencyRupee, tbCurrencyShekel, tbCurrencyTaka, tbCurrencyTugrik, tbCurrencyWon, tbCurrencyYen, tbCurrencyZloty, tbCurrentLocation, tbCurrentLocationOff, tbCursorOff, tbCursorText, tbCut, tbDashboard, tbDatabase, tbDatabaseExport, tbDatabaseImport, tbDatabaseOff, tbDental, tbDentalOff, tbDetails, tbDeviceAnalytics, tbDeviceAudioTape, tbDeviceCctv, tbDeviceComputerCamera, tbDeviceComputerCameraOff, tbDeviceDesktop, tbDeviceDesktopAnalytics, tbDeviceDesktopOff, tbDeviceFloppy, tbDeviceGamepad, tbDeviceHeartMonitor, tbDeviceLaptop, tbDeviceLaptopOff, tbDeviceMobile, tbDeviceMobileMessage, tbDeviceMobileOff, tbDeviceMobileRotated, tbDeviceMobileVibration, tbDeviceNintendo, tbDeviceNintendoOff, tbDevices, tbDevicesOff, tbDevicesPc, tbDevicesPcOff, tbDeviceSpeaker, tbDeviceSpeakerOff, tbDeviceTablet, tbDeviceTabletOff, tbDeviceTv, tbDeviceTvOff, tbDeviceTvOld, tbDeviceWatch, tbDeviceWatchOff, tbDeviceWatchStats, tbDialpad, tbDialpadOff, tbDiamond, tbDiamondOff, tbDiamonds, tbDice, tbDimensions, tbDirection, tbDirectionHorizontal, tbDirections, tbDirectionsOff, tbDisabled, tbDisabledOff, tbDisc, tbDiscOff, tbDiscount, tbDivide, tbDna, tbDnaOff, tbDogBowl, tbDoor, tbDoorEnter, tbDoorExit, tbDoorOff, tbDots, tbDotsCircleHorizontal, tbDotsDiagonal, tbDotsVertical, tbDownload, tbDownloadOff, tbDragDrop, tbDrone, tbDroneOff, tbDropCircle, tbDroplet, tbDropletFilled, tbDropletHalf, tbDropletOff, tbEar, tbEarOff, tbEdit, tbEditCircle, tbEditCircleOff, tbEditOff, tbEgg, tbEggOff, tbElevator, tbEmergencyBed, tbEmphasis, tbEngine, tbEngineOff, tbEqual, tbEqualNot, tbEraser, tbEraserOff, tbExchange, tbExchangeOff, tbExclamationMark, tbExclamationMarkOff, tbExposure, tbExternalLink, tbExternalLinkOff, tbEye, tbEyeCheck, tbEyeglass, tbEyeglassOff, tbEyeOff, tbEyeTable, tbFaceId, tbFaceIdError, tbFaceMask, tbFaceMaskOff, tbFall, tbFeather, tbFeatherOff, tbFence, tbFenceOff, tbFidgetSpinner, tbFile, tbFileAlert, tbFileAnalytics, tbFileArrowLeft, tbFileArrowRight, tbFileBarcode, tbFileCertificate, tbFileChart, tbFileCheck, tbFileCode, tbFileDatabase, tbFileDescription, tbFileDiff, tbFileDigit, tbFileDislike, tbFileDollar, tbFileDots, tbFileDownload, tbFileEuro, tbFileExport, tbFileHorizontal, tbFileImport, tbFileInfo, tbFileInvoice, tbFileLike, tbFileMinus, tbFileMusic, tbFileOff, tbFilePencil, tbFilePhone, tbFilePlus, tbFilePower, tbFileReport, tbFileRss, tbFiles, tbFileScissors, tbFileSearch, tbFileSettings, tbFileShredder, tbFileSignal, tbFilesOff, tbFileSpreadsheet, tbFileStar, tbFileSymlink, tbFileText, tbFileTime, tbFileTypography, tbFileUnknown, tbFileUpload, tbFileVector, tbFileX, tbFileZip, tbFilter, tbFilterOff, tbFingerprint, tbFingerprintOff, tbFiretruck, tbFirstAidKit, tbFish, tbFishOff, tbFlag, tbFlagOff, tbFlame, tbFlameOff, tbFlare, tbFlask, tbFlaskOff, tbFlipHorizontal, tbFlipVertical, tbFloatCenter, tbFloatLeft, tbFloatNone, tbFloatRight, tbFlower, tbFlowerOff, tbFocus, tbFocusCentered, tbFold, tbFoldDown, tbFolder, tbFolderMinus, tbFolderOff, tbFolderPlus, tbFolders, tbFoldersOff, tbFolderX, tbFoldUp, tbForbid, tbForklift, tbForms, tbFountain, tbFountainOff, tbFrame, tbFrameOff, tbFreeRights, tbFriends, tbFriendsOff, tbGasStation, tbGasStationOff, tbGauge, tbGaugeOff, tbGavel, tbGenderAgender, tbGenderAndrogyne, tbGenderBigender, tbGenderDemiboy, tbGenderDemigirl, tbGenderEpicene, tbGenderFemale, tbGenderFemme, tbGenderGenderfluid, tbGenderGenderless, tbGenderGenderqueer, tbGenderHermaphrodite, tbGenderIntergender, tbGenderMale, tbGenderNeutrois, tbGenderThird, tbGenderTransgender, tbGenderTrasvesti, tbGeometry, tbGhost, tbGift, tbGitBranch, tbGitCommit, tbGitCompare, tbGitFork, tbGitMerge, tbGitPullRequest, tbGitPullRequestClosed, tbGitPullRequestDraft, tbGizmo, tbGlass, tbGlassFull, tbGlassOff, tbGlobe, tbGlobeOff, tbGolf, tbGolfOff, tbGps, tbGrain, tbGridDots, tbGridPattern, tbGrill, tbGrillOff, tbGripHorizontal, tbGripVertical, tbGrowth, tbHammer, tbHammerOff, tbHandClick, tbHandFinger, tbHandFingerOff, tbHandGrab, tbHandLittleFinger, tbHandMiddleFinger, tbHandMove, tbHandOff, tbHandRingFinger, tbHandRock, tbHandStop, tbHandThreeFingers, tbHandTwoFingers, tbHanger, tbHangerOff, tbHash, tbHaze, tbHeading, tbHeadingOff, tbHeadphones, tbHeadphonesOff, tbHeadset, tbHeart, tbHeartbeat, tbHeartBroken, tbHeartHandshake, tbHeartMinus, tbHeartOff, tbHeartPlus, tbHeartRateMonitor, tbHelicopter, tbHelicopterLanding, tbHelmet, tbHelmetOff, tbHelp, tbHexagon, tbHexagonOff, tbHexagons, tbHierarchy, tbHighlight, tbHighlightOff, tbHistory, tbHome, tbHomeOff, tbHotelService, tbHourglass, tbHourglassEmpty, tbHourglassHigh, tbHourglassLow, tbHourglassOff, tbIceCream, tbIceCreamOff, tbIceSkating, tbIcons, tbId, tbIdBadge, tbIdOff, tbInbox, tbInboxOff, tbIndentDecrease, tbIndentIncrease, tbInfinity, tbInfoCircle, tbInfoSquare, tbItalic, tbJewishStar, tbJumpRope, tbKarate, tbKayak, tbKering, tbKey, tbKeyboard, tbKeyboardHide, tbKeyboardOff, tbKeyboardShow, tbKeyOff, tbLadder, tbLadderOff, tbLamp, tbLampOff, tbLanguage, tbLanguageHiragana, tbLanguageKatakana, tbLanguageOff, tbLasso, tbLassoOff, tbLayersDifference, tbLayersIntersect, tbLayersLinked, tbLayersOff, tbLayersSubtract, tbLayersUnion, tbLayout, tbLayoutAlignBottom, tbLayoutAlignCenter, tbLayoutAlignLeft, tbLayoutAlignMiddle, tbLayoutAlignRight, tbLayoutAlignTop, tbLayoutBoard, tbLayoutBoardSplit, tbLayoutBottombar, tbLayoutCards, tbLayoutColumns, tbLayoutDashboard, tbLayoutDistributeHorizontal, tbLayoutDistributeVertical, tbLayoutGrid, tbLayoutGridAdd, tbLayoutKanban, tbLayoutList, tbLayoutNavbar, tbLayoutOff, tbLayoutRows, tbLayoutSidebar, tbLayoutSidebarLeftCollapse, tbLayoutSidebarLeftExpand, tbLayoutSidebarRight, tbLayoutSidebarRightCollapse, tbLayoutSidebarRightExpand, tbLeaf, tbLeafOff, tbLego, tbLemon, tbLetterA, tbLetterB, tbLetterC, tbLetterCase, tbLetterCaseLower, tbLetterCaseToggle, tbLetterCaseUpper, tbLetterD, tbLetterE, tbLetterF, tbLetterG, tbLetterH, tbLetterI, tbLetterJ, tbLetterK, tbLetterL, tbLetterM, tbLetterN, tbLetterO, tbLetterP, tbLetterQ, tbLetterR, tbLetterS, tbLetterSpacing, tbLetterT, tbLetterU, tbLetterV, tbLetterW, tbLetterX, tbLetterY, tbLetterZ, tbLicense, tbLicenseOff, tbLifebuoy, tbLifebuoyOff, tbLine, tbLineDashed, tbLineDotted, tbLineHeight, tbLink, tbList, tbListCheck, tbListDetails, tbListNumbers, tbListSearch, tbLivePhoto, tbLiveView, tbLoader, tbLoaderQuarter, tbLocation, tbLocationOff, tbLock, tbLockAccess, tbLockOff, tbLockOpen, tbLockOpenOff, tbLockSquare, tbLogin, tbLogout, tbLollipop, tbLollipopOff, tbLuggage, tbLuggageOff, tbLungs, tbMacro, tbMagnet, tbMagnetOff, tbMail, tbMailbox, tbMailboxOff, tbMailFast, tbMailForward, tbMailOff, tbMailOpened, tbMan, tbManualGearbox, tbMap, tbMapOff, tbMapPin, tbMapPinOff, tbMapPins, tbMapSearch, tbMarkdown, tbMarquee, tbMarqueeOff, tbMars, tbMask, tbMaskOff, tbMassage, tbMath, tbMathAvg, tbMathFunction, tbMathFunctionOff, tbMathMax, tbMathMin, tbMathSymbols, tbMaximize, tbMaximizeOff, tbMeat, tbMedal, tbMedicalCross, tbMedicalCrossOff, tbMedicineSyrup, tbMenu, tbMessage, tbMessageCircle, tbMessageCircleOff, tbMessageCode, tbMessageDots, tbMessageLanguage, tbMessageOff, tbMessagePlus, tbMessageReport, tbMessages, tbMessageShare, tbMessagesOff, tbMicrophone, tbMicrophoneOff, tbMicroscope, tbMilitaryAward, tbMilitaryRank, tbMilk, tbMinimize, tbMinus, tbMinusVertical, tbMist, tbMoodBoy, tbMoodConfuzed, tbMoodCrazyHappy, tbMoodCry, tbMoodEmpty, tbMoodHappy, tbMoodKid, tbMoodNervous, tbMoodNeutral, tbMoodOff, tbMoodSad, tbMoodSmile, tbMoodSuprised, tbMoodTongue, tbMoon, tbMoonOff, tbMoonStars, tbMoped, tbMotorbike, tbMountain, tbMouse, tbMouseOff, tbMovie, tbMovieOff, tbMug, tbMugOff, tbMushroom, tbMusic, tbMusicOff, tbNetwork, tbNews, tbNewSection, tbNewsOff, tbNfc, tbNfcOff, tbNoCopyright, tbNoCreativeCommons, tbNoDerivatives, tbNorthStar, tbNote, tbNotebook, tbNoteOff, tbNotes, tbNotesOff, tbNotification, tbNotificationOff, tbNumbers, tbNurse, tbOctagon, tbOctagonOff, tbOld, tbOlympics, tbOmega, tbOutlet, tbOval, tbOvalVertical, tbOverline, tbPackage, tbPackageOff, tbPackgeExport, tbPackgeImport, tbPacman, tbPageBreak, tbPaint, tbPaintOff, tbPalette, tbPaletteOff, tbPanoramaHorizontal, tbPanoramaVertical, tbPaperBag, tbPaperBagOff, tbPaperclip, tbParachute, tbParachuteOff, tbParentheses, tbParenthesesOff, tbParking, tbParkingOff, tbPaw, tbPeace, tbPencil, tbPencilOff, tbPennant, tbPennantOff, tbPentagon, tbPepper, tbPepperOff, tbPercentage, tbPerspective, tbPerspectiveOff, tbPhone, tbPhoneCall, tbPhoneCalling, tbPhoneCheck, tbPhoneIncoming, tbPhoneOff, tbPhoneOutgoing, tbPhonePause, tbPhonePlus, tbPhoneX, tbPhoto, tbPhotoOff, tbPhysotherapist, tbPictureInPicture, tbPictureInPictureOff, tbPictureInPictureOn, tbPictureInPictureTop, tbPig, tbPigOff, tbPill, tbPillOff, tbPills, tbPin, tbPinned, tbPinnedOff, tbPizza, tbPizzaOff, tbPlane, tbPlaneArrival, tbPlaneDeparture, tbPlaneInflight, tbPlaneOff, tbPlanet, tbPlanetOff, tbPlant, tbPlantOff, tbPlayCard, tbPlayCardOff, tbPlayerEject, tbPlayerPause, tbPlayerPlay, tbPlayerRecord, tbPlayerSkipBack, tbPlayerSkipForward, tbPlayerStop, tbPlayerTrackNext, tbPlayerTrackPrev, tbPlaylist, tbPlaylistAdd, tbPlaylistOff, tbPlaylistX, tbPlug, tbPlugConnected, tbPlugConnectedX, tbPlugOff, tbPlugX, tbPlus, tbPodium, tbPoint, tbPointOff, tbPokeball, tbPolaroid, tbPolygon, tbPolygonOff, tbPool, tbPower, tbPray, tbPremiumRights, tbPrescription, tbPresentation, tbPresentationAnalytics, tbPresentationOff, tbPrinter, tbPrinterOff, tbPrison, tbPrompt, tbPropeller, tbPropellerOff, tbPuzzle, tbPuzzleOff, tbPyramid, tbPyramidOff, tbQrcode, tbQuestionMark, tbQuote, tbQuoteOff, tbRadar, tbRadio, tbRadioactive, tbRadioactiveOff, tbRadiusBottomLeft, tbRadiusBottomRight, tbRadiusTopLeft, tbRadiusTopRight, tbRainbow, tbRainbowOff, tbReceipt, tbReceiptOff, tbReceiptRefund, tbReceiptTax, tbRecharging, tbRecordMail, tbRecordMailOff, tbRectangle, tbRectangleVertical, tbRecycle, tbRecycleOff, tbRefresh, tbRefreshAlert, tbRefreshDot, tbRefreshOff, tbRegistered, tbRelationManyToMany, tbRelationOneToMany, tbRelationOneToOne, tbRepeat, tbRepeatOff, tbRepeatOnce, tbReplace, tbReport, tbReportAnalytics, tbReportMedical, tbReportMoney, tbReportOff, tbReportSearch, tbResize, tbRipple, tbRippleOff, tbRoad, tbRoadOff, tbRoadSign, tbRobot, tbRobotOff, tbRocket, tbRocketOff, tbRollercoaster, tbRollerSkating, tbRotate, tbRotateClockwise, tbRotateDot, tbRotateRectangle, tbRoute, tbRouteOff, tbRouter, tbRowInsertBottom, tbRowInsertTop, tbRss, tbRuler, tbRulerOff, tbRun, tbSailboat, tbSalt, tbSatellite, tbSatelliteOff, tbSausage, tbScale, tbScaleOff, tbScaleOutline, tbScaleOutlineOff, tbScan, tbSchool, tbSchoolOff, tbScissors, tbScissorsOff, tbScooter, tbScooterElectric, tbScreenShare, tbScreenShareOff, tbScribble, tbScubaMask, tbSearch, tbSearchOff, tbSection, tbSectionSign, tbSeeding, tbSeedingOff, tbSelect, tbSelector, tbSend, tbSeparator, tbSeparatorHorizontal, tbSeparatorVertical, tbServer, tbServerOff, tbServicemark, tbSettings, tbSettingsAutomation, tbSettingsOff, tbShadow, tbShadowOff, tbShape, tbShapeOff, tbShare, tbShareOff, tbShield, tbShieldCheck, tbShieldCheckered, tbShieldChevron, tbShieldLock, tbShieldOff, tbShieldX, tbShip, tbShirt, tbShirtOff, tbShoe, tbShoeOff, tbShoppingCart, tbShoppingCartDiscount, tbShoppingCartOff, tbShoppingCartPlus, tbShoppingCartX, tbShovel, tbShredder, tbSignature, tbSignatureOff, tbSignLeft, tbSignRight, tbSitemap, tbSitemapOff, tbSkateboard, tbSleigh, tbSlice, tbSlideshow, tbSmartHome, tbSmartHomeOff, tbSmoking, tbSmokingNo, tbSnowflake, tbSnowflakeOff, tbSoccerField, tbSocial, tbSocialOff, tbSock, tbSofa, tbSortAscending, tbSortAscendingLetters, tbSortAscendingNumbers, tbSortDescending, tbSortDescendingLetters, tbSortDescendingNumbers, tbSoup, tbSpace, tbSpaceOff, tbSpacingHorizontal, tbSpacingVertical, tbSpade, tbSpeakerphone, tbSpeedboat, tbSportBillard, tbSquare, tbSquareAsterisk, tbSquareCheck, tbSquareDot, tbSquareForbid, tbSquareHalf, tbSquareMinus, tbSquareOff, tbSquarePlus, tbSquareRoot, tbSquareRotated, tbSquareRotatedForbid, tbSquareRotatedOff, tbSquaresDiagonal, tbSquaresFilled, tbSquareToggle, tbSquareToggleHorizontal, tbSquareX, tbStack, tbStairs, tbStairsDown, tbStairsUp, tbStar, tbStarHalf, tbStarOff, tbStars, tbSteeringWheel, tbStepInto, tbStepOut, tbStethoscope, tbSticker, tbStrikethrough, tbSubmarine, tbSubscript, tbSubtask, tbSum, tbSumOff, tbSun, tbSunOff, tbSunrise, tbSunset, tbSuperscript, tbSwimming, tbSwitch, tbSwitchHorizontal, tbSwitchVertical, tbSword, tbSwordOff, tbSwords, tbTable, tbTableExport, tbTableImport, tbTableOff, tbTag, tbTagOff, tbTags, tbTagsOff, tbTallymarks, tbTank, tbTarget, tbTargetOff, tbTelescope, tbTelescopeOff, tbTemperature, tbTemperatureCelsius, tbTemperatureFahrenheit, tbTemperatureMinus, tbTemperatureOff, tbTemperaturePlus, tbTemplate, tbTemplateOff, tbTent, tbTerminal, tbTestPipe, tbTestPipeOff, tbTextDirectionLtr, tbTextDirectionRtl, tbTextResize, tbTextWrap, tbTextWrapDisabled, tbThermometer, tbThumbDown, tbThumbUp, tbTicket, tbTicketOff, tbTie, tbTiltShift, tbTiltShiftOff, tbTimeline, tbTir, tbToggleLeft, tbToggleRight, tbToiletPaper, tbToiletPaperOff, tbTool, tbTools, tbToolsKitchen, tbToolsKitchenOff, tbToolsOff, tbTornado, tbTournament, tbTrack, tbTractor, tbTrademark, tbTrafficCone, tbTrafficConeOff, tbTrafficLights, tbTrafficLightsOff, tbTrain, tbTransferIn, tbTransferOut, tbTrash, tbTrashOff, tbTrashX, tbTree, tbTrees, tbTrendingDown, tbTrendingUp, tbTriangle, tbTriangleInverted, tbTriangleOff, tbTriangles, tbTriangleSquareCircle, tbTrident, tbTrophy, tbTruck, tbTruckDelivery, tbTruckLoading, tbTruckOff, tbTruckReturn, tbTypography, tbTypographyOff, tbUmbrella, tbUmbrellaOff, tbUnderline, tbUnlink, tbUpload, tbUrgent, tbUsb, tbUser, tbUserCheck, tbUserCircle, tbUserExclamation, tbUserMinus, tbUserOff, tbUserPlus, tbUsers, tbUserSearch, tbUserX, tbVaccine, tbVaccineBottle, tbVaccineOff, tbVariable, tbVariableOff, tbVector, tbVectorBezier, tbVectorOff, tbVectorTriangle, tbVectorTriangleOff, tbVenus, tbVersions, tbVersionsOff, tbVideo, tbVideoMinus, tbVideoOff, tbVideoPlus, tbViewfinder, tbViewfinderOff, tbViewportNarrow, tbViewportWide, tbVinyl, tbVirus, tbVirusOff, tbVirusSearch, tbVocabulary, tbVolume, tbVolumeOff, tbWalk, tbWall, tbWallet, tbWalletOff, tbWallpaper, tbWallpaperOff, tbWand, tbWandOff, tbWaveSawTool, tbWaveSine, tbWaveSquare, tbWebhook, tbWheelchair, tbWifi, tbWifiOff, tbWind, tbWindmill, tbWindmillOff, tbWindOff, tbWindow, tbWindowOff, tbWindsock, tbWiper, tbWiperWash, tbWoman, tbWorld, tbWorldDownload, tbWorldLatitude, tbWorldLongitude, tbWorldOff, tbWorldUpload, tbWreckingBall, tbWriting, tbWritingOff, tbWritingSign, tbWritingSignOff, tbX, tbYinYang, tbYoga, tbZodiacAquarius, tbZodiacAries, tbZodiacCancer, tbZodiacCapricorn, tbZodiacGemini, tbZodiacLeo, tbZodiacLibra, tbZodiacPisces, tbZodiacSagittarius, tbZodiacScorpio, tbZodiacTaurus, tbZodiacVirgo, tbZoomCancel, tbZoomCheck, tbZoomCode, tbZoomExclamation, tbZoomIn, tbZoomInArea, tbZoomMoney, tbZoomOut, tbZoomOutArea, tbZoomPan, tbZoomQuestion) where
 
-import Prim.Row (class Union)
-import React.Basic (JSX, element)
-import React.Icons.Types (ReactIcon, PropsIcon)
-import Unsafe.Coerce (unsafeCoerce)
+import React.Basic (element)
+import React.Icons.Types (ReactIcon, Icon)
 
 foreign import _tbAB :: ReactIcon
 
-tbAB :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbAB = element (unsafeCoerce _tbAB)
+tbAB :: Icon
+tbAB = element _tbAB
 
 foreign import _tbAbacus :: ReactIcon
 
-tbAbacus :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbAbacus = element (unsafeCoerce _tbAbacus)
+tbAbacus :: Icon
+tbAbacus = element _tbAbacus
 
 foreign import _tbABOff :: ReactIcon
 
-tbABOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbABOff = element (unsafeCoerce _tbABOff)
+tbABOff :: Icon
+tbABOff = element _tbABOff
 
 foreign import _tbAccessible :: ReactIcon
 
-tbAccessible :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbAccessible = element (unsafeCoerce _tbAccessible)
+tbAccessible :: Icon
+tbAccessible = element _tbAccessible
 
 foreign import _tbAccessibleOff :: ReactIcon
 
-tbAccessibleOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbAccessibleOff = element (unsafeCoerce _tbAccessibleOff)
+tbAccessibleOff :: Icon
+tbAccessibleOff = element _tbAccessibleOff
 
 foreign import _tbAccessPoint :: ReactIcon
 
-tbAccessPoint :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbAccessPoint = element (unsafeCoerce _tbAccessPoint)
+tbAccessPoint :: Icon
+tbAccessPoint = element _tbAccessPoint
 
 foreign import _tbAccessPointOff :: ReactIcon
 
-tbAccessPointOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbAccessPointOff = element (unsafeCoerce _tbAccessPointOff)
+tbAccessPointOff :: Icon
+tbAccessPointOff = element _tbAccessPointOff
 
 foreign import _tbActivity :: ReactIcon
 
-tbActivity :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbActivity = element (unsafeCoerce _tbActivity)
+tbActivity :: Icon
+tbActivity = element _tbActivity
 
 foreign import _tbActivityHeartbeat :: ReactIcon
 
-tbActivityHeartbeat :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbActivityHeartbeat = element (unsafeCoerce _tbActivityHeartbeat)
+tbActivityHeartbeat :: Icon
+tbActivityHeartbeat = element _tbActivityHeartbeat
 
 foreign import _tbAd :: ReactIcon
 
-tbAd :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbAd = element (unsafeCoerce _tbAd)
+tbAd :: Icon
+tbAd = element _tbAd
 
 foreign import _tbAddressBook :: ReactIcon
 
-tbAddressBook :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbAddressBook = element (unsafeCoerce _tbAddressBook)
+tbAddressBook :: Icon
+tbAddressBook = element _tbAddressBook
 
 foreign import _tbAdjustments :: ReactIcon
 
-tbAdjustments :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbAdjustments = element (unsafeCoerce _tbAdjustments)
+tbAdjustments :: Icon
+tbAdjustments = element _tbAdjustments
 
 foreign import _tbAdjustmentsAlt :: ReactIcon
 
-tbAdjustmentsAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbAdjustmentsAlt = element (unsafeCoerce _tbAdjustmentsAlt)
+tbAdjustmentsAlt :: Icon
+tbAdjustmentsAlt = element _tbAdjustmentsAlt
 
 foreign import _tbAdjustmentsHorizontal :: ReactIcon
 
-tbAdjustmentsHorizontal :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbAdjustmentsHorizontal = element (unsafeCoerce _tbAdjustmentsHorizontal)
+tbAdjustmentsHorizontal :: Icon
+tbAdjustmentsHorizontal = element _tbAdjustmentsHorizontal
 
 foreign import _tbAdjustmentsOff :: ReactIcon
 
-tbAdjustmentsOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbAdjustmentsOff = element (unsafeCoerce _tbAdjustmentsOff)
+tbAdjustmentsOff :: Icon
+tbAdjustmentsOff = element _tbAdjustmentsOff
 
 foreign import _tbAerialLift :: ReactIcon
 
-tbAerialLift :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbAerialLift = element (unsafeCoerce _tbAerialLift)
+tbAerialLift :: Icon
+tbAerialLift = element _tbAerialLift
 
 foreign import _tbAffiliate :: ReactIcon
 
-tbAffiliate :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbAffiliate = element (unsafeCoerce _tbAffiliate)
+tbAffiliate :: Icon
+tbAffiliate = element _tbAffiliate
 
 foreign import _tbAlarm :: ReactIcon
 
-tbAlarm :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbAlarm = element (unsafeCoerce _tbAlarm)
+tbAlarm :: Icon
+tbAlarm = element _tbAlarm
 
 foreign import _tbAlarmOff :: ReactIcon
 
-tbAlarmOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbAlarmOff = element (unsafeCoerce _tbAlarmOff)
+tbAlarmOff :: Icon
+tbAlarmOff = element _tbAlarmOff
 
 foreign import _tbAlbum :: ReactIcon
 
-tbAlbum :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbAlbum = element (unsafeCoerce _tbAlbum)
+tbAlbum :: Icon
+tbAlbum = element _tbAlbum
 
 foreign import _tbAlertCircle :: ReactIcon
 
-tbAlertCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbAlertCircle = element (unsafeCoerce _tbAlertCircle)
+tbAlertCircle :: Icon
+tbAlertCircle = element _tbAlertCircle
 
 foreign import _tbAlertOctagon :: ReactIcon
 
-tbAlertOctagon :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbAlertOctagon = element (unsafeCoerce _tbAlertOctagon)
+tbAlertOctagon :: Icon
+tbAlertOctagon = element _tbAlertOctagon
 
 foreign import _tbAlertTriangle :: ReactIcon
 
-tbAlertTriangle :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbAlertTriangle = element (unsafeCoerce _tbAlertTriangle)
+tbAlertTriangle :: Icon
+tbAlertTriangle = element _tbAlertTriangle
 
 foreign import _tbAlien :: ReactIcon
 
-tbAlien :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbAlien = element (unsafeCoerce _tbAlien)
+tbAlien :: Icon
+tbAlien = element _tbAlien
 
 foreign import _tbAlignCenter :: ReactIcon
 
-tbAlignCenter :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbAlignCenter = element (unsafeCoerce _tbAlignCenter)
+tbAlignCenter :: Icon
+tbAlignCenter = element _tbAlignCenter
 
 foreign import _tbAlignJustified :: ReactIcon
 
-tbAlignJustified :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbAlignJustified = element (unsafeCoerce _tbAlignJustified)
+tbAlignJustified :: Icon
+tbAlignJustified = element _tbAlignJustified
 
 foreign import _tbAlignLeft :: ReactIcon
 
-tbAlignLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbAlignLeft = element (unsafeCoerce _tbAlignLeft)
+tbAlignLeft :: Icon
+tbAlignLeft = element _tbAlignLeft
 
 foreign import _tbAlignRight :: ReactIcon
 
-tbAlignRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbAlignRight = element (unsafeCoerce _tbAlignRight)
+tbAlignRight :: Icon
+tbAlignRight = element _tbAlignRight
 
 foreign import _tbAmbulance :: ReactIcon
 
-tbAmbulance :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbAmbulance = element (unsafeCoerce _tbAmbulance)
+tbAmbulance :: Icon
+tbAmbulance = element _tbAmbulance
 
 foreign import _tbAnchor :: ReactIcon
 
-tbAnchor :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbAnchor = element (unsafeCoerce _tbAnchor)
+tbAnchor :: Icon
+tbAnchor = element _tbAnchor
 
 foreign import _tbAnchorOff :: ReactIcon
 
-tbAnchorOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbAnchorOff = element (unsafeCoerce _tbAnchorOff)
+tbAnchorOff :: Icon
+tbAnchorOff = element _tbAnchorOff
 
 foreign import _tbAngle :: ReactIcon
 
-tbAngle :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbAngle = element (unsafeCoerce _tbAngle)
+tbAngle :: Icon
+tbAngle = element _tbAngle
 
 foreign import _tbAnkh :: ReactIcon
 
-tbAnkh :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbAnkh = element (unsafeCoerce _tbAnkh)
+tbAnkh :: Icon
+tbAnkh = element _tbAnkh
 
 foreign import _tbAntenna :: ReactIcon
 
-tbAntenna :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbAntenna = element (unsafeCoerce _tbAntenna)
+tbAntenna :: Icon
+tbAntenna = element _tbAntenna
 
 foreign import _tbAntennaBarsOff :: ReactIcon
 
-tbAntennaBarsOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbAntennaBarsOff = element (unsafeCoerce _tbAntennaBarsOff)
+tbAntennaBarsOff :: Icon
+tbAntennaBarsOff = element _tbAntennaBarsOff
 
 foreign import _tbAperture :: ReactIcon
 
-tbAperture :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbAperture = element (unsafeCoerce _tbAperture)
+tbAperture :: Icon
+tbAperture = element _tbAperture
 
 foreign import _tbApi :: ReactIcon
 
-tbApi :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbApi = element (unsafeCoerce _tbApi)
+tbApi :: Icon
+tbApi = element _tbApi
 
 foreign import _tbApiApp :: ReactIcon
 
-tbApiApp :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbApiApp = element (unsafeCoerce _tbApiApp)
+tbApiApp :: Icon
+tbApiApp = element _tbApiApp
 
 foreign import _tbApiAppOff :: ReactIcon
 
-tbApiAppOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbApiAppOff = element (unsafeCoerce _tbApiAppOff)
+tbApiAppOff :: Icon
+tbApiAppOff = element _tbApiAppOff
 
 foreign import _tbApiOff :: ReactIcon
 
-tbApiOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbApiOff = element (unsafeCoerce _tbApiOff)
+tbApiOff :: Icon
+tbApiOff = element _tbApiOff
 
 foreign import _tbApple :: ReactIcon
 
-tbApple :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbApple = element (unsafeCoerce _tbApple)
+tbApple :: Icon
+tbApple = element _tbApple
 
 foreign import _tbApps :: ReactIcon
 
-tbApps :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbApps = element (unsafeCoerce _tbApps)
+tbApps :: Icon
+tbApps = element _tbApps
 
 foreign import _tbAppsOff :: ReactIcon
 
-tbAppsOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbAppsOff = element (unsafeCoerce _tbAppsOff)
+tbAppsOff :: Icon
+tbAppsOff = element _tbAppsOff
 
 foreign import _tbAppWindow :: ReactIcon
 
-tbAppWindow :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbAppWindow = element (unsafeCoerce _tbAppWindow)
+tbAppWindow :: Icon
+tbAppWindow = element _tbAppWindow
 
 foreign import _tbArchive :: ReactIcon
 
-tbArchive :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArchive = element (unsafeCoerce _tbArchive)
+tbArchive :: Icon
+tbArchive = element _tbArchive
 
 foreign import _tbArchiveOff :: ReactIcon
 
-tbArchiveOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArchiveOff = element (unsafeCoerce _tbArchiveOff)
+tbArchiveOff :: Icon
+tbArchiveOff = element _tbArchiveOff
 
 foreign import _tbArmchair :: ReactIcon
 
-tbArmchair :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArmchair = element (unsafeCoerce _tbArmchair)
+tbArmchair :: Icon
+tbArmchair = element _tbArmchair
 
 foreign import _tbArrowAutofitContent :: ReactIcon
 
-tbArrowAutofitContent :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowAutofitContent = element (unsafeCoerce _tbArrowAutofitContent)
+tbArrowAutofitContent :: Icon
+tbArrowAutofitContent = element _tbArrowAutofitContent
 
 foreign import _tbArrowAutofitDown :: ReactIcon
 
-tbArrowAutofitDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowAutofitDown = element (unsafeCoerce _tbArrowAutofitDown)
+tbArrowAutofitDown :: Icon
+tbArrowAutofitDown = element _tbArrowAutofitDown
 
 foreign import _tbArrowAutofitHeight :: ReactIcon
 
-tbArrowAutofitHeight :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowAutofitHeight = element (unsafeCoerce _tbArrowAutofitHeight)
+tbArrowAutofitHeight :: Icon
+tbArrowAutofitHeight = element _tbArrowAutofitHeight
 
 foreign import _tbArrowAutofitLeft :: ReactIcon
 
-tbArrowAutofitLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowAutofitLeft = element (unsafeCoerce _tbArrowAutofitLeft)
+tbArrowAutofitLeft :: Icon
+tbArrowAutofitLeft = element _tbArrowAutofitLeft
 
 foreign import _tbArrowAutofitRight :: ReactIcon
 
-tbArrowAutofitRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowAutofitRight = element (unsafeCoerce _tbArrowAutofitRight)
+tbArrowAutofitRight :: Icon
+tbArrowAutofitRight = element _tbArrowAutofitRight
 
 foreign import _tbArrowAutofitUp :: ReactIcon
 
-tbArrowAutofitUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowAutofitUp = element (unsafeCoerce _tbArrowAutofitUp)
+tbArrowAutofitUp :: Icon
+tbArrowAutofitUp = element _tbArrowAutofitUp
 
 foreign import _tbArrowAutofitWidth :: ReactIcon
 
-tbArrowAutofitWidth :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowAutofitWidth = element (unsafeCoerce _tbArrowAutofitWidth)
+tbArrowAutofitWidth :: Icon
+tbArrowAutofitWidth = element _tbArrowAutofitWidth
 
 foreign import _tbArrowBack :: ReactIcon
 
-tbArrowBack :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowBack = element (unsafeCoerce _tbArrowBack)
+tbArrowBack :: Icon
+tbArrowBack = element _tbArrowBack
 
 foreign import _tbArrowBackUp :: ReactIcon
 
-tbArrowBackUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowBackUp = element (unsafeCoerce _tbArrowBackUp)
+tbArrowBackUp :: Icon
+tbArrowBackUp = element _tbArrowBackUp
 
 foreign import _tbArrowBarDown :: ReactIcon
 
-tbArrowBarDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowBarDown = element (unsafeCoerce _tbArrowBarDown)
+tbArrowBarDown :: Icon
+tbArrowBarDown = element _tbArrowBarDown
 
 foreign import _tbArrowBarLeft :: ReactIcon
 
-tbArrowBarLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowBarLeft = element (unsafeCoerce _tbArrowBarLeft)
+tbArrowBarLeft :: Icon
+tbArrowBarLeft = element _tbArrowBarLeft
 
 foreign import _tbArrowBarRight :: ReactIcon
 
-tbArrowBarRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowBarRight = element (unsafeCoerce _tbArrowBarRight)
+tbArrowBarRight :: Icon
+tbArrowBarRight = element _tbArrowBarRight
 
 foreign import _tbArrowBarToDown :: ReactIcon
 
-tbArrowBarToDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowBarToDown = element (unsafeCoerce _tbArrowBarToDown)
+tbArrowBarToDown :: Icon
+tbArrowBarToDown = element _tbArrowBarToDown
 
 foreign import _tbArrowBarToLeft :: ReactIcon
 
-tbArrowBarToLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowBarToLeft = element (unsafeCoerce _tbArrowBarToLeft)
+tbArrowBarToLeft :: Icon
+tbArrowBarToLeft = element _tbArrowBarToLeft
 
 foreign import _tbArrowBarToRight :: ReactIcon
 
-tbArrowBarToRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowBarToRight = element (unsafeCoerce _tbArrowBarToRight)
+tbArrowBarToRight :: Icon
+tbArrowBarToRight = element _tbArrowBarToRight
 
 foreign import _tbArrowBarToUp :: ReactIcon
 
-tbArrowBarToUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowBarToUp = element (unsafeCoerce _tbArrowBarToUp)
+tbArrowBarToUp :: Icon
+tbArrowBarToUp = element _tbArrowBarToUp
 
 foreign import _tbArrowBarUp :: ReactIcon
 
-tbArrowBarUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowBarUp = element (unsafeCoerce _tbArrowBarUp)
+tbArrowBarUp :: Icon
+tbArrowBarUp = element _tbArrowBarUp
 
 foreign import _tbArrowBearLeft :: ReactIcon
 
-tbArrowBearLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowBearLeft = element (unsafeCoerce _tbArrowBearLeft)
+tbArrowBearLeft :: Icon
+tbArrowBearLeft = element _tbArrowBearLeft
 
 foreign import _tbArrowBearRight :: ReactIcon
 
-tbArrowBearRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowBearRight = element (unsafeCoerce _tbArrowBearRight)
+tbArrowBearRight :: Icon
+tbArrowBearRight = element _tbArrowBearRight
 
 foreign import _tbArrowBigDown :: ReactIcon
 
-tbArrowBigDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowBigDown = element (unsafeCoerce _tbArrowBigDown)
+tbArrowBigDown :: Icon
+tbArrowBigDown = element _tbArrowBigDown
 
 foreign import _tbArrowBigDownLine :: ReactIcon
 
-tbArrowBigDownLine :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowBigDownLine = element (unsafeCoerce _tbArrowBigDownLine)
+tbArrowBigDownLine :: Icon
+tbArrowBigDownLine = element _tbArrowBigDownLine
 
 foreign import _tbArrowBigDownLines :: ReactIcon
 
-tbArrowBigDownLines :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowBigDownLines = element (unsafeCoerce _tbArrowBigDownLines)
+tbArrowBigDownLines :: Icon
+tbArrowBigDownLines = element _tbArrowBigDownLines
 
 foreign import _tbArrowBigLeft :: ReactIcon
 
-tbArrowBigLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowBigLeft = element (unsafeCoerce _tbArrowBigLeft)
+tbArrowBigLeft :: Icon
+tbArrowBigLeft = element _tbArrowBigLeft
 
 foreign import _tbArrowBigLeftLine :: ReactIcon
 
-tbArrowBigLeftLine :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowBigLeftLine = element (unsafeCoerce _tbArrowBigLeftLine)
+tbArrowBigLeftLine :: Icon
+tbArrowBigLeftLine = element _tbArrowBigLeftLine
 
 foreign import _tbArrowBigLeftLines :: ReactIcon
 
-tbArrowBigLeftLines :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowBigLeftLines = element (unsafeCoerce _tbArrowBigLeftLines)
+tbArrowBigLeftLines :: Icon
+tbArrowBigLeftLines = element _tbArrowBigLeftLines
 
 foreign import _tbArrowBigRight :: ReactIcon
 
-tbArrowBigRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowBigRight = element (unsafeCoerce _tbArrowBigRight)
+tbArrowBigRight :: Icon
+tbArrowBigRight = element _tbArrowBigRight
 
 foreign import _tbArrowBigRightLine :: ReactIcon
 
-tbArrowBigRightLine :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowBigRightLine = element (unsafeCoerce _tbArrowBigRightLine)
+tbArrowBigRightLine :: Icon
+tbArrowBigRightLine = element _tbArrowBigRightLine
 
 foreign import _tbArrowBigRightLines :: ReactIcon
 
-tbArrowBigRightLines :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowBigRightLines = element (unsafeCoerce _tbArrowBigRightLines)
+tbArrowBigRightLines :: Icon
+tbArrowBigRightLines = element _tbArrowBigRightLines
 
 foreign import _tbArrowBigTop :: ReactIcon
 
-tbArrowBigTop :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowBigTop = element (unsafeCoerce _tbArrowBigTop)
+tbArrowBigTop :: Icon
+tbArrowBigTop = element _tbArrowBigTop
 
 foreign import _tbArrowBigUpLine :: ReactIcon
 
-tbArrowBigUpLine :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowBigUpLine = element (unsafeCoerce _tbArrowBigUpLine)
+tbArrowBigUpLine :: Icon
+tbArrowBigUpLine = element _tbArrowBigUpLine
 
 foreign import _tbArrowBigUpLines :: ReactIcon
 
-tbArrowBigUpLines :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowBigUpLines = element (unsafeCoerce _tbArrowBigUpLines)
+tbArrowBigUpLines :: Icon
+tbArrowBigUpLines = element _tbArrowBigUpLines
 
 foreign import _tbArrowBottomBar :: ReactIcon
 
-tbArrowBottomBar :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowBottomBar = element (unsafeCoerce _tbArrowBottomBar)
+tbArrowBottomBar :: Icon
+tbArrowBottomBar = element _tbArrowBottomBar
 
 foreign import _tbArrowBottomCircle :: ReactIcon
 
-tbArrowBottomCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowBottomCircle = element (unsafeCoerce _tbArrowBottomCircle)
+tbArrowBottomCircle :: Icon
+tbArrowBottomCircle = element _tbArrowBottomCircle
 
 foreign import _tbArrowBottomSquare :: ReactIcon
 
-tbArrowBottomSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowBottomSquare = element (unsafeCoerce _tbArrowBottomSquare)
+tbArrowBottomSquare :: Icon
+tbArrowBottomSquare = element _tbArrowBottomSquare
 
 foreign import _tbArrowBottomTail :: ReactIcon
 
-tbArrowBottomTail :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowBottomTail = element (unsafeCoerce _tbArrowBottomTail)
+tbArrowBottomTail :: Icon
+tbArrowBottomTail = element _tbArrowBottomTail
 
 foreign import _tbArrowCurveLeft :: ReactIcon
 
-tbArrowCurveLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowCurveLeft = element (unsafeCoerce _tbArrowCurveLeft)
+tbArrowCurveLeft :: Icon
+tbArrowCurveLeft = element _tbArrowCurveLeft
 
 foreign import _tbArrowCurveRight :: ReactIcon
 
-tbArrowCurveRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowCurveRight = element (unsafeCoerce _tbArrowCurveRight)
+tbArrowCurveRight :: Icon
+tbArrowCurveRight = element _tbArrowCurveRight
 
 foreign import _tbArrowDown :: ReactIcon
 
-tbArrowDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowDown = element (unsafeCoerce _tbArrowDown)
+tbArrowDown :: Icon
+tbArrowDown = element _tbArrowDown
 
 foreign import _tbArrowDownCircle :: ReactIcon
 
-tbArrowDownCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowDownCircle = element (unsafeCoerce _tbArrowDownCircle)
+tbArrowDownCircle :: Icon
+tbArrowDownCircle = element _tbArrowDownCircle
 
 foreign import _tbArrowDownLeft :: ReactIcon
 
-tbArrowDownLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowDownLeft = element (unsafeCoerce _tbArrowDownLeft)
+tbArrowDownLeft :: Icon
+tbArrowDownLeft = element _tbArrowDownLeft
 
 foreign import _tbArrowDownLeftCircle :: ReactIcon
 
-tbArrowDownLeftCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowDownLeftCircle = element (unsafeCoerce _tbArrowDownLeftCircle)
+tbArrowDownLeftCircle :: Icon
+tbArrowDownLeftCircle = element _tbArrowDownLeftCircle
 
 foreign import _tbArrowDownRight :: ReactIcon
 
-tbArrowDownRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowDownRight = element (unsafeCoerce _tbArrowDownRight)
+tbArrowDownRight :: Icon
+tbArrowDownRight = element _tbArrowDownRight
 
 foreign import _tbArrowDownRightCircle :: ReactIcon
 
-tbArrowDownRightCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowDownRightCircle = element (unsafeCoerce _tbArrowDownRightCircle)
+tbArrowDownRightCircle :: Icon
+tbArrowDownRightCircle = element _tbArrowDownRightCircle
 
 foreign import _tbArrowFork :: ReactIcon
 
-tbArrowFork :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowFork = element (unsafeCoerce _tbArrowFork)
+tbArrowFork :: Icon
+tbArrowFork = element _tbArrowFork
 
 foreign import _tbArrowForward :: ReactIcon
 
-tbArrowForward :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowForward = element (unsafeCoerce _tbArrowForward)
+tbArrowForward :: Icon
+tbArrowForward = element _tbArrowForward
 
 foreign import _tbArrowForwardUp :: ReactIcon
 
-tbArrowForwardUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowForwardUp = element (unsafeCoerce _tbArrowForwardUp)
+tbArrowForwardUp :: Icon
+tbArrowForwardUp = element _tbArrowForwardUp
 
 foreign import _tbArrowLeft :: ReactIcon
 
-tbArrowLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowLeft = element (unsafeCoerce _tbArrowLeft)
+tbArrowLeft :: Icon
+tbArrowLeft = element _tbArrowLeft
 
 foreign import _tbArrowLeftBar :: ReactIcon
 
-tbArrowLeftBar :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowLeftBar = element (unsafeCoerce _tbArrowLeftBar)
+tbArrowLeftBar :: Icon
+tbArrowLeftBar = element _tbArrowLeftBar
 
 foreign import _tbArrowLeftCircle :: ReactIcon
 
-tbArrowLeftCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowLeftCircle = element (unsafeCoerce _tbArrowLeftCircle)
+tbArrowLeftCircle :: Icon
+tbArrowLeftCircle = element _tbArrowLeftCircle
 
 foreign import _tbArrowLeftRight :: ReactIcon
 
-tbArrowLeftRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowLeftRight = element (unsafeCoerce _tbArrowLeftRight)
+tbArrowLeftRight :: Icon
+tbArrowLeftRight = element _tbArrowLeftRight
 
 foreign import _tbArrowLeftSquare :: ReactIcon
 
-tbArrowLeftSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowLeftSquare = element (unsafeCoerce _tbArrowLeftSquare)
+tbArrowLeftSquare :: Icon
+tbArrowLeftSquare = element _tbArrowLeftSquare
 
 foreign import _tbArrowLeftTail :: ReactIcon
 
-tbArrowLeftTail :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowLeftTail = element (unsafeCoerce _tbArrowLeftTail)
+tbArrowLeftTail :: Icon
+tbArrowLeftTail = element _tbArrowLeftTail
 
 foreign import _tbArrowLoopLeft :: ReactIcon
 
-tbArrowLoopLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowLoopLeft = element (unsafeCoerce _tbArrowLoopLeft)
+tbArrowLoopLeft :: Icon
+tbArrowLoopLeft = element _tbArrowLoopLeft
 
 foreign import _tbArrowLoopRight :: ReactIcon
 
-tbArrowLoopRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowLoopRight = element (unsafeCoerce _tbArrowLoopRight)
+tbArrowLoopRight :: Icon
+tbArrowLoopRight = element _tbArrowLoopRight
 
 foreign import _tbArrowMerge :: ReactIcon
 
-tbArrowMerge :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowMerge = element (unsafeCoerce _tbArrowMerge)
+tbArrowMerge :: Icon
+tbArrowMerge = element _tbArrowMerge
 
 foreign import _tbArrowNarrowDown :: ReactIcon
 
-tbArrowNarrowDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowNarrowDown = element (unsafeCoerce _tbArrowNarrowDown)
+tbArrowNarrowDown :: Icon
+tbArrowNarrowDown = element _tbArrowNarrowDown
 
 foreign import _tbArrowNarrowLeft :: ReactIcon
 
-tbArrowNarrowLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowNarrowLeft = element (unsafeCoerce _tbArrowNarrowLeft)
+tbArrowNarrowLeft :: Icon
+tbArrowNarrowLeft = element _tbArrowNarrowLeft
 
 foreign import _tbArrowNarrowRight :: ReactIcon
 
-tbArrowNarrowRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowNarrowRight = element (unsafeCoerce _tbArrowNarrowRight)
+tbArrowNarrowRight :: Icon
+tbArrowNarrowRight = element _tbArrowNarrowRight
 
 foreign import _tbArrowNarrowUp :: ReactIcon
 
-tbArrowNarrowUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowNarrowUp = element (unsafeCoerce _tbArrowNarrowUp)
+tbArrowNarrowUp :: Icon
+tbArrowNarrowUp = element _tbArrowNarrowUp
 
 foreign import _tbArrowRampLeft :: ReactIcon
 
-tbArrowRampLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowRampLeft = element (unsafeCoerce _tbArrowRampLeft)
+tbArrowRampLeft :: Icon
+tbArrowRampLeft = element _tbArrowRampLeft
 
 foreign import _tbArrowRampRight :: ReactIcon
 
-tbArrowRampRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowRampRight = element (unsafeCoerce _tbArrowRampRight)
+tbArrowRampRight :: Icon
+tbArrowRampRight = element _tbArrowRampRight
 
 foreign import _tbArrowRight :: ReactIcon
 
-tbArrowRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowRight = element (unsafeCoerce _tbArrowRight)
+tbArrowRight :: Icon
+tbArrowRight = element _tbArrowRight
 
 foreign import _tbArrowRightBar :: ReactIcon
 
-tbArrowRightBar :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowRightBar = element (unsafeCoerce _tbArrowRightBar)
+tbArrowRightBar :: Icon
+tbArrowRightBar = element _tbArrowRightBar
 
 foreign import _tbArrowRightCircle :: ReactIcon
 
-tbArrowRightCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowRightCircle = element (unsafeCoerce _tbArrowRightCircle)
+tbArrowRightCircle :: Icon
+tbArrowRightCircle = element _tbArrowRightCircle
 
 foreign import _tbArrowRightSquare :: ReactIcon
 
-tbArrowRightSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowRightSquare = element (unsafeCoerce _tbArrowRightSquare)
+tbArrowRightSquare :: Icon
+tbArrowRightSquare = element _tbArrowRightSquare
 
 foreign import _tbArrowRightTail :: ReactIcon
 
-tbArrowRightTail :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowRightTail = element (unsafeCoerce _tbArrowRightTail)
+tbArrowRightTail :: Icon
+tbArrowRightTail = element _tbArrowRightTail
 
 foreign import _tbArrowRotaryFirstLeft :: ReactIcon
 
-tbArrowRotaryFirstLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowRotaryFirstLeft = element (unsafeCoerce _tbArrowRotaryFirstLeft)
+tbArrowRotaryFirstLeft :: Icon
+tbArrowRotaryFirstLeft = element _tbArrowRotaryFirstLeft
 
 foreign import _tbArrowRotaryFirstRight :: ReactIcon
 
-tbArrowRotaryFirstRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowRotaryFirstRight = element (unsafeCoerce _tbArrowRotaryFirstRight)
+tbArrowRotaryFirstRight :: Icon
+tbArrowRotaryFirstRight = element _tbArrowRotaryFirstRight
 
 foreign import _tbArrowRotaryLastLeft :: ReactIcon
 
-tbArrowRotaryLastLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowRotaryLastLeft = element (unsafeCoerce _tbArrowRotaryLastLeft)
+tbArrowRotaryLastLeft :: Icon
+tbArrowRotaryLastLeft = element _tbArrowRotaryLastLeft
 
 foreign import _tbArrowRotaryLastRight :: ReactIcon
 
-tbArrowRotaryLastRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowRotaryLastRight = element (unsafeCoerce _tbArrowRotaryLastRight)
+tbArrowRotaryLastRight :: Icon
+tbArrowRotaryLastRight = element _tbArrowRotaryLastRight
 
 foreign import _tbArrowRotaryLeft :: ReactIcon
 
-tbArrowRotaryLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowRotaryLeft = element (unsafeCoerce _tbArrowRotaryLeft)
+tbArrowRotaryLeft :: Icon
+tbArrowRotaryLeft = element _tbArrowRotaryLeft
 
 foreign import _tbArrowRotaryRight :: ReactIcon
 
-tbArrowRotaryRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowRotaryRight = element (unsafeCoerce _tbArrowRotaryRight)
+tbArrowRotaryRight :: Icon
+tbArrowRotaryRight = element _tbArrowRotaryRight
 
 foreign import _tbArrowRotaryStraight :: ReactIcon
 
-tbArrowRotaryStraight :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowRotaryStraight = element (unsafeCoerce _tbArrowRotaryStraight)
+tbArrowRotaryStraight :: Icon
+tbArrowRotaryStraight = element _tbArrowRotaryStraight
 
 foreign import _tbArrowsCross :: ReactIcon
 
-tbArrowsCross :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowsCross = element (unsafeCoerce _tbArrowsCross)
+tbArrowsCross :: Icon
+tbArrowsCross = element _tbArrowsCross
 
 foreign import _tbArrowsDiagonal :: ReactIcon
 
-tbArrowsDiagonal :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowsDiagonal = element (unsafeCoerce _tbArrowsDiagonal)
+tbArrowsDiagonal :: Icon
+tbArrowsDiagonal = element _tbArrowsDiagonal
 
 foreign import _tbArrowsDiagonalMinimize :: ReactIcon
 
-tbArrowsDiagonalMinimize :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowsDiagonalMinimize = element (unsafeCoerce _tbArrowsDiagonalMinimize)
+tbArrowsDiagonalMinimize :: Icon
+tbArrowsDiagonalMinimize = element _tbArrowsDiagonalMinimize
 
 foreign import _tbArrowsDoubleNeSw :: ReactIcon
 
-tbArrowsDoubleNeSw :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowsDoubleNeSw = element (unsafeCoerce _tbArrowsDoubleNeSw)
+tbArrowsDoubleNeSw :: Icon
+tbArrowsDoubleNeSw = element _tbArrowsDoubleNeSw
 
 foreign import _tbArrowsDoubleNwSe :: ReactIcon
 
-tbArrowsDoubleNwSe :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowsDoubleNwSe = element (unsafeCoerce _tbArrowsDoubleNwSe)
+tbArrowsDoubleNwSe :: Icon
+tbArrowsDoubleNwSe = element _tbArrowsDoubleNwSe
 
 foreign import _tbArrowsDoubleSeNw :: ReactIcon
 
-tbArrowsDoubleSeNw :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowsDoubleSeNw = element (unsafeCoerce _tbArrowsDoubleSeNw)
+tbArrowsDoubleSeNw :: Icon
+tbArrowsDoubleSeNw = element _tbArrowsDoubleSeNw
 
 foreign import _tbArrowsDoubleSwNe :: ReactIcon
 
-tbArrowsDoubleSwNe :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowsDoubleSwNe = element (unsafeCoerce _tbArrowsDoubleSwNe)
+tbArrowsDoubleSwNe :: Icon
+tbArrowsDoubleSwNe = element _tbArrowsDoubleSwNe
 
 foreign import _tbArrowsDown :: ReactIcon
 
-tbArrowsDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowsDown = element (unsafeCoerce _tbArrowsDown)
+tbArrowsDown :: Icon
+tbArrowsDown = element _tbArrowsDown
 
 foreign import _tbArrowsDownUp :: ReactIcon
 
-tbArrowsDownUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowsDownUp = element (unsafeCoerce _tbArrowsDownUp)
+tbArrowsDownUp :: Icon
+tbArrowsDownUp = element _tbArrowsDownUp
 
 foreign import _tbArrowSharpTurnLeft :: ReactIcon
 
-tbArrowSharpTurnLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowSharpTurnLeft = element (unsafeCoerce _tbArrowSharpTurnLeft)
+tbArrowSharpTurnLeft :: Icon
+tbArrowSharpTurnLeft = element _tbArrowSharpTurnLeft
 
 foreign import _tbArrowSharpTurnRight :: ReactIcon
 
-tbArrowSharpTurnRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowSharpTurnRight = element (unsafeCoerce _tbArrowSharpTurnRight)
+tbArrowSharpTurnRight :: Icon
+tbArrowSharpTurnRight = element _tbArrowSharpTurnRight
 
 foreign import _tbArrowsHorizontal :: ReactIcon
 
-tbArrowsHorizontal :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowsHorizontal = element (unsafeCoerce _tbArrowsHorizontal)
+tbArrowsHorizontal :: Icon
+tbArrowsHorizontal = element _tbArrowsHorizontal
 
 foreign import _tbArrowsJoin :: ReactIcon
 
-tbArrowsJoin :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowsJoin = element (unsafeCoerce _tbArrowsJoin)
+tbArrowsJoin :: Icon
+tbArrowsJoin = element _tbArrowsJoin
 
 foreign import _tbArrowsLeft :: ReactIcon
 
-tbArrowsLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowsLeft = element (unsafeCoerce _tbArrowsLeft)
+tbArrowsLeft :: Icon
+tbArrowsLeft = element _tbArrowsLeft
 
 foreign import _tbArrowsLeftDown :: ReactIcon
 
-tbArrowsLeftDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowsLeftDown = element (unsafeCoerce _tbArrowsLeftDown)
+tbArrowsLeftDown :: Icon
+tbArrowsLeftDown = element _tbArrowsLeftDown
 
 foreign import _tbArrowsLeftRight :: ReactIcon
 
-tbArrowsLeftRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowsLeftRight = element (unsafeCoerce _tbArrowsLeftRight)
+tbArrowsLeftRight :: Icon
+tbArrowsLeftRight = element _tbArrowsLeftRight
 
 foreign import _tbArrowsMaximize :: ReactIcon
 
-tbArrowsMaximize :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowsMaximize = element (unsafeCoerce _tbArrowsMaximize)
+tbArrowsMaximize :: Icon
+tbArrowsMaximize = element _tbArrowsMaximize
 
 foreign import _tbArrowsMinimize :: ReactIcon
 
-tbArrowsMinimize :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowsMinimize = element (unsafeCoerce _tbArrowsMinimize)
+tbArrowsMinimize :: Icon
+tbArrowsMinimize = element _tbArrowsMinimize
 
 foreign import _tbArrowsRandom :: ReactIcon
 
-tbArrowsRandom :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowsRandom = element (unsafeCoerce _tbArrowsRandom)
+tbArrowsRandom :: Icon
+tbArrowsRandom = element _tbArrowsRandom
 
 foreign import _tbArrowsRight :: ReactIcon
 
-tbArrowsRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowsRight = element (unsafeCoerce _tbArrowsRight)
+tbArrowsRight :: Icon
+tbArrowsRight = element _tbArrowsRight
 
 foreign import _tbArrowsRightDown :: ReactIcon
 
-tbArrowsRightDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowsRightDown = element (unsafeCoerce _tbArrowsRightDown)
+tbArrowsRightDown :: Icon
+tbArrowsRightDown = element _tbArrowsRightDown
 
 foreign import _tbArrowsRightLeft :: ReactIcon
 
-tbArrowsRightLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowsRightLeft = element (unsafeCoerce _tbArrowsRightLeft)
+tbArrowsRightLeft :: Icon
+tbArrowsRightLeft = element _tbArrowsRightLeft
 
 foreign import _tbArrowsShuffle :: ReactIcon
 
-tbArrowsShuffle :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowsShuffle = element (unsafeCoerce _tbArrowsShuffle)
+tbArrowsShuffle :: Icon
+tbArrowsShuffle = element _tbArrowsShuffle
 
 foreign import _tbArrowsSort :: ReactIcon
 
-tbArrowsSort :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowsSort = element (unsafeCoerce _tbArrowsSort)
+tbArrowsSort :: Icon
+tbArrowsSort = element _tbArrowsSort
 
 foreign import _tbArrowsSplit :: ReactIcon
 
-tbArrowsSplit :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowsSplit = element (unsafeCoerce _tbArrowsSplit)
+tbArrowsSplit :: Icon
+tbArrowsSplit = element _tbArrowsSplit
 
 foreign import _tbArrowsUp :: ReactIcon
 
-tbArrowsUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowsUp = element (unsafeCoerce _tbArrowsUp)
+tbArrowsUp :: Icon
+tbArrowsUp = element _tbArrowsUp
 
 foreign import _tbArrowsUpDown :: ReactIcon
 
-tbArrowsUpDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowsUpDown = element (unsafeCoerce _tbArrowsUpDown)
+tbArrowsUpDown :: Icon
+tbArrowsUpDown = element _tbArrowsUpDown
 
 foreign import _tbArrowsUpLeft :: ReactIcon
 
-tbArrowsUpLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowsUpLeft = element (unsafeCoerce _tbArrowsUpLeft)
+tbArrowsUpLeft :: Icon
+tbArrowsUpLeft = element _tbArrowsUpLeft
 
 foreign import _tbArrowsUpRight :: ReactIcon
 
-tbArrowsUpRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowsUpRight = element (unsafeCoerce _tbArrowsUpRight)
+tbArrowsUpRight :: Icon
+tbArrowsUpRight = element _tbArrowsUpRight
 
 foreign import _tbArrowsVertical :: ReactIcon
 
-tbArrowsVertical :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowsVertical = element (unsafeCoerce _tbArrowsVertical)
+tbArrowsVertical :: Icon
+tbArrowsVertical = element _tbArrowsVertical
 
 foreign import _tbArrowTopBar :: ReactIcon
 
-tbArrowTopBar :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowTopBar = element (unsafeCoerce _tbArrowTopBar)
+tbArrowTopBar :: Icon
+tbArrowTopBar = element _tbArrowTopBar
 
 foreign import _tbArrowTopCircle :: ReactIcon
 
-tbArrowTopCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowTopCircle = element (unsafeCoerce _tbArrowTopCircle)
+tbArrowTopCircle :: Icon
+tbArrowTopCircle = element _tbArrowTopCircle
 
 foreign import _tbArrowTopSquare :: ReactIcon
 
-tbArrowTopSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowTopSquare = element (unsafeCoerce _tbArrowTopSquare)
+tbArrowTopSquare :: Icon
+tbArrowTopSquare = element _tbArrowTopSquare
 
 foreign import _tbArrowTopTail :: ReactIcon
 
-tbArrowTopTail :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowTopTail = element (unsafeCoerce _tbArrowTopTail)
+tbArrowTopTail :: Icon
+tbArrowTopTail = element _tbArrowTopTail
 
 foreign import _tbArrowUp :: ReactIcon
 
-tbArrowUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowUp = element (unsafeCoerce _tbArrowUp)
+tbArrowUp :: Icon
+tbArrowUp = element _tbArrowUp
 
 foreign import _tbArrowUpCircle :: ReactIcon
 
-tbArrowUpCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowUpCircle = element (unsafeCoerce _tbArrowUpCircle)
+tbArrowUpCircle :: Icon
+tbArrowUpCircle = element _tbArrowUpCircle
 
 foreign import _tbArrowUpLeft :: ReactIcon
 
-tbArrowUpLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowUpLeft = element (unsafeCoerce _tbArrowUpLeft)
+tbArrowUpLeft :: Icon
+tbArrowUpLeft = element _tbArrowUpLeft
 
 foreign import _tbArrowUpLeftCircle :: ReactIcon
 
-tbArrowUpLeftCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowUpLeftCircle = element (unsafeCoerce _tbArrowUpLeftCircle)
+tbArrowUpLeftCircle :: Icon
+tbArrowUpLeftCircle = element _tbArrowUpLeftCircle
 
 foreign import _tbArrowUpRight :: ReactIcon
 
-tbArrowUpRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowUpRight = element (unsafeCoerce _tbArrowUpRight)
+tbArrowUpRight :: Icon
+tbArrowUpRight = element _tbArrowUpRight
 
 foreign import _tbArrowUpRightCircle :: ReactIcon
 
-tbArrowUpRightCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowUpRightCircle = element (unsafeCoerce _tbArrowUpRightCircle)
+tbArrowUpRightCircle :: Icon
+tbArrowUpRightCircle = element _tbArrowUpRightCircle
 
 foreign import _tbArrowWaveLeftDown :: ReactIcon
 
-tbArrowWaveLeftDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowWaveLeftDown = element (unsafeCoerce _tbArrowWaveLeftDown)
+tbArrowWaveLeftDown :: Icon
+tbArrowWaveLeftDown = element _tbArrowWaveLeftDown
 
 foreign import _tbArrowWaveLeftUp :: ReactIcon
 
-tbArrowWaveLeftUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowWaveLeftUp = element (unsafeCoerce _tbArrowWaveLeftUp)
+tbArrowWaveLeftUp :: Icon
+tbArrowWaveLeftUp = element _tbArrowWaveLeftUp
 
 foreign import _tbArrowWaveRightDown :: ReactIcon
 
-tbArrowWaveRightDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowWaveRightDown = element (unsafeCoerce _tbArrowWaveRightDown)
+tbArrowWaveRightDown :: Icon
+tbArrowWaveRightDown = element _tbArrowWaveRightDown
 
 foreign import _tbArrowWaveRightUp :: ReactIcon
 
-tbArrowWaveRightUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArrowWaveRightUp = element (unsafeCoerce _tbArrowWaveRightUp)
+tbArrowWaveRightUp :: Icon
+tbArrowWaveRightUp = element _tbArrowWaveRightUp
 
 foreign import _tbArtboard :: ReactIcon
 
-tbArtboard :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArtboard = element (unsafeCoerce _tbArtboard)
+tbArtboard :: Icon
+tbArtboard = element _tbArtboard
 
 foreign import _tbArtboardOff :: ReactIcon
 
-tbArtboardOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbArtboardOff = element (unsafeCoerce _tbArtboardOff)
+tbArtboardOff :: Icon
+tbArtboardOff = element _tbArtboardOff
 
 foreign import _tbAspectRatio :: ReactIcon
 
-tbAspectRatio :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbAspectRatio = element (unsafeCoerce _tbAspectRatio)
+tbAspectRatio :: Icon
+tbAspectRatio = element _tbAspectRatio
 
 foreign import _tbAspectRatioOff :: ReactIcon
 
-tbAspectRatioOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbAspectRatioOff = element (unsafeCoerce _tbAspectRatioOff)
+tbAspectRatioOff :: Icon
+tbAspectRatioOff = element _tbAspectRatioOff
 
 foreign import _tbAsset :: ReactIcon
 
-tbAsset :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbAsset = element (unsafeCoerce _tbAsset)
+tbAsset :: Icon
+tbAsset = element _tbAsset
 
 foreign import _tbAsterisk :: ReactIcon
 
-tbAsterisk :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbAsterisk = element (unsafeCoerce _tbAsterisk)
+tbAsterisk :: Icon
+tbAsterisk = element _tbAsterisk
 
 foreign import _tbAsteriskSimple :: ReactIcon
 
-tbAsteriskSimple :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbAsteriskSimple = element (unsafeCoerce _tbAsteriskSimple)
+tbAsteriskSimple :: Icon
+tbAsteriskSimple = element _tbAsteriskSimple
 
 foreign import _tbAt :: ReactIcon
 
-tbAt :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbAt = element (unsafeCoerce _tbAt)
+tbAt :: Icon
+tbAt = element _tbAt
 
 foreign import _tbAtOff :: ReactIcon
 
-tbAtOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbAtOff = element (unsafeCoerce _tbAtOff)
+tbAtOff :: Icon
+tbAtOff = element _tbAtOff
 
 foreign import _tbAtom :: ReactIcon
 
-tbAtom :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbAtom = element (unsafeCoerce _tbAtom)
+tbAtom :: Icon
+tbAtom = element _tbAtom
 
 foreign import _tbAtomOff :: ReactIcon
 
-tbAtomOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbAtomOff = element (unsafeCoerce _tbAtomOff)
+tbAtomOff :: Icon
+tbAtomOff = element _tbAtomOff
 
 foreign import _tbAugmentedReality :: ReactIcon
 
-tbAugmentedReality :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbAugmentedReality = element (unsafeCoerce _tbAugmentedReality)
+tbAugmentedReality :: Icon
+tbAugmentedReality = element _tbAugmentedReality
 
 foreign import _tbAward :: ReactIcon
 
-tbAward :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbAward = element (unsafeCoerce _tbAward)
+tbAward :: Icon
+tbAward = element _tbAward
 
 foreign import _tbAwardOff :: ReactIcon
 
-tbAwardOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbAwardOff = element (unsafeCoerce _tbAwardOff)
+tbAwardOff :: Icon
+tbAwardOff = element _tbAwardOff
 
 foreign import _tbAxe :: ReactIcon
 
-tbAxe :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbAxe = element (unsafeCoerce _tbAxe)
+tbAxe :: Icon
+tbAxe = element _tbAxe
 
 foreign import _tbAxisX :: ReactIcon
 
-tbAxisX :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbAxisX = element (unsafeCoerce _tbAxisX)
+tbAxisX :: Icon
+tbAxisX = element _tbAxisX
 
 foreign import _tbAxisY :: ReactIcon
 
-tbAxisY :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbAxisY = element (unsafeCoerce _tbAxisY)
+tbAxisY :: Icon
+tbAxisY = element _tbAxisY
 
 foreign import _tbBabyCarriage :: ReactIcon
 
-tbBabyCarriage :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBabyCarriage = element (unsafeCoerce _tbBabyCarriage)
+tbBabyCarriage :: Icon
+tbBabyCarriage = element _tbBabyCarriage
 
 foreign import _tbBackhoe :: ReactIcon
 
-tbBackhoe :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBackhoe = element (unsafeCoerce _tbBackhoe)
+tbBackhoe :: Icon
+tbBackhoe = element _tbBackhoe
 
 foreign import _tbBackpack :: ReactIcon
 
-tbBackpack :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBackpack = element (unsafeCoerce _tbBackpack)
+tbBackpack :: Icon
+tbBackpack = element _tbBackpack
 
 foreign import _tbBackspace :: ReactIcon
 
-tbBackspace :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBackspace = element (unsafeCoerce _tbBackspace)
+tbBackspace :: Icon
+tbBackspace = element _tbBackspace
 
 foreign import _tbBadge :: ReactIcon
 
-tbBadge :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBadge = element (unsafeCoerce _tbBadge)
+tbBadge :: Icon
+tbBadge = element _tbBadge
 
 foreign import _tbBadgeOff :: ReactIcon
 
-tbBadgeOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBadgeOff = element (unsafeCoerce _tbBadgeOff)
+tbBadgeOff :: Icon
+tbBadgeOff = element _tbBadgeOff
 
 foreign import _tbBadges :: ReactIcon
 
-tbBadges :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBadges = element (unsafeCoerce _tbBadges)
+tbBadges :: Icon
+tbBadges = element _tbBadges
 
 foreign import _tbBadgesOff :: ReactIcon
 
-tbBadgesOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBadgesOff = element (unsafeCoerce _tbBadgesOff)
+tbBadgesOff :: Icon
+tbBadgesOff = element _tbBadgesOff
 
 foreign import _tbBallAmericanFootball :: ReactIcon
 
-tbBallAmericanFootball :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBallAmericanFootball = element (unsafeCoerce _tbBallAmericanFootball)
+tbBallAmericanFootball :: Icon
+tbBallAmericanFootball = element _tbBallAmericanFootball
 
 foreign import _tbBallBaseball :: ReactIcon
 
-tbBallBaseball :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBallBaseball = element (unsafeCoerce _tbBallBaseball)
+tbBallBaseball :: Icon
+tbBallBaseball = element _tbBallBaseball
 
 foreign import _tbBallBasketball :: ReactIcon
 
-tbBallBasketball :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBallBasketball = element (unsafeCoerce _tbBallBasketball)
+tbBallBasketball :: Icon
+tbBallBasketball = element _tbBallBasketball
 
 foreign import _tbBallBowling :: ReactIcon
 
-tbBallBowling :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBallBowling = element (unsafeCoerce _tbBallBowling)
+tbBallBowling :: Icon
+tbBallBowling = element _tbBallBowling
 
 foreign import _tbBallFootball :: ReactIcon
 
-tbBallFootball :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBallFootball = element (unsafeCoerce _tbBallFootball)
+tbBallFootball :: Icon
+tbBallFootball = element _tbBallFootball
 
 foreign import _tbBallFootballOff :: ReactIcon
 
-tbBallFootballOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBallFootballOff = element (unsafeCoerce _tbBallFootballOff)
+tbBallFootballOff :: Icon
+tbBallFootballOff = element _tbBallFootballOff
 
 foreign import _tbBallon :: ReactIcon
 
-tbBallon :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBallon = element (unsafeCoerce _tbBallon)
+tbBallon :: Icon
+tbBallon = element _tbBallon
 
 foreign import _tbBallonOff :: ReactIcon
 
-tbBallonOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBallonOff = element (unsafeCoerce _tbBallonOff)
+tbBallonOff :: Icon
+tbBallonOff = element _tbBallonOff
 
 foreign import _tbBallpen :: ReactIcon
 
-tbBallpen :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBallpen = element (unsafeCoerce _tbBallpen)
+tbBallpen :: Icon
+tbBallpen = element _tbBallpen
 
 foreign import _tbBallpenOff :: ReactIcon
 
-tbBallpenOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBallpenOff = element (unsafeCoerce _tbBallpenOff)
+tbBallpenOff :: Icon
+tbBallpenOff = element _tbBallpenOff
 
 foreign import _tbBallTennis :: ReactIcon
 
-tbBallTennis :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBallTennis = element (unsafeCoerce _tbBallTennis)
+tbBallTennis :: Icon
+tbBallTennis = element _tbBallTennis
 
 foreign import _tbBallVolleyball :: ReactIcon
 
-tbBallVolleyball :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBallVolleyball = element (unsafeCoerce _tbBallVolleyball)
+tbBallVolleyball :: Icon
+tbBallVolleyball = element _tbBallVolleyball
 
 foreign import _tbBan :: ReactIcon
 
-tbBan :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBan = element (unsafeCoerce _tbBan)
+tbBan :: Icon
+tbBan = element _tbBan
 
 foreign import _tbBandage :: ReactIcon
 
-tbBandage :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBandage = element (unsafeCoerce _tbBandage)
+tbBandage :: Icon
+tbBandage = element _tbBandage
 
 foreign import _tbBarbell :: ReactIcon
 
-tbBarbell :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBarbell = element (unsafeCoerce _tbBarbell)
+tbBarbell :: Icon
+tbBarbell = element _tbBarbell
 
 foreign import _tbBarbellOff :: ReactIcon
 
-tbBarbellOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBarbellOff = element (unsafeCoerce _tbBarbellOff)
+tbBarbellOff :: Icon
+tbBarbellOff = element _tbBarbellOff
 
 foreign import _tbBarcode :: ReactIcon
 
-tbBarcode :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBarcode = element (unsafeCoerce _tbBarcode)
+tbBarcode :: Icon
+tbBarcode = element _tbBarcode
 
 foreign import _tbBarcodeOff :: ReactIcon
 
-tbBarcodeOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBarcodeOff = element (unsafeCoerce _tbBarcodeOff)
+tbBarcodeOff :: Icon
+tbBarcodeOff = element _tbBarcodeOff
 
 foreign import _tbBarrel :: ReactIcon
 
-tbBarrel :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBarrel = element (unsafeCoerce _tbBarrel)
+tbBarrel :: Icon
+tbBarrel = element _tbBarrel
 
 foreign import _tbBarrelOff :: ReactIcon
 
-tbBarrelOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBarrelOff = element (unsafeCoerce _tbBarrelOff)
+tbBarrelOff :: Icon
+tbBarrelOff = element _tbBarrelOff
 
 foreign import _tbBarrierBlock :: ReactIcon
 
-tbBarrierBlock :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBarrierBlock = element (unsafeCoerce _tbBarrierBlock)
+tbBarrierBlock :: Icon
+tbBarrierBlock = element _tbBarrierBlock
 
 foreign import _tbBarrierBlockOff :: ReactIcon
 
-tbBarrierBlockOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBarrierBlockOff = element (unsafeCoerce _tbBarrierBlockOff)
+tbBarrierBlockOff :: Icon
+tbBarrierBlockOff = element _tbBarrierBlockOff
 
 foreign import _tbBaseline :: ReactIcon
 
-tbBaseline :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBaseline = element (unsafeCoerce _tbBaseline)
+tbBaseline :: Icon
+tbBaseline = element _tbBaseline
 
 foreign import _tbBasket :: ReactIcon
 
-tbBasket :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBasket = element (unsafeCoerce _tbBasket)
+tbBasket :: Icon
+tbBasket = element _tbBasket
 
 foreign import _tbBasketOff :: ReactIcon
 
-tbBasketOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBasketOff = element (unsafeCoerce _tbBasketOff)
+tbBasketOff :: Icon
+tbBasketOff = element _tbBasketOff
 
 foreign import _tbBath :: ReactIcon
 
-tbBath :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBath = element (unsafeCoerce _tbBath)
+tbBath :: Icon
+tbBath = element _tbBath
 
 foreign import _tbBathOff :: ReactIcon
 
-tbBathOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBathOff = element (unsafeCoerce _tbBathOff)
+tbBathOff :: Icon
+tbBathOff = element _tbBathOff
 
 foreign import _tbBattery :: ReactIcon
 
-tbBattery :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBattery = element (unsafeCoerce _tbBattery)
+tbBattery :: Icon
+tbBattery = element _tbBattery
 
 foreign import _tbBatteryAutomotive :: ReactIcon
 
-tbBatteryAutomotive :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBatteryAutomotive = element (unsafeCoerce _tbBatteryAutomotive)
+tbBatteryAutomotive :: Icon
+tbBatteryAutomotive = element _tbBatteryAutomotive
 
 foreign import _tbBatteryCharging :: ReactIcon
 
-tbBatteryCharging :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBatteryCharging = element (unsafeCoerce _tbBatteryCharging)
+tbBatteryCharging :: Icon
+tbBatteryCharging = element _tbBatteryCharging
 
 foreign import _tbBatteryEco :: ReactIcon
 
-tbBatteryEco :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBatteryEco = element (unsafeCoerce _tbBatteryEco)
+tbBatteryEco :: Icon
+tbBatteryEco = element _tbBatteryEco
 
 foreign import _tbBatteryOff :: ReactIcon
 
-tbBatteryOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBatteryOff = element (unsafeCoerce _tbBatteryOff)
+tbBatteryOff :: Icon
+tbBatteryOff = element _tbBatteryOff
 
 foreign import _tbBeach :: ReactIcon
 
-tbBeach :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBeach = element (unsafeCoerce _tbBeach)
+tbBeach :: Icon
+tbBeach = element _tbBeach
 
 foreign import _tbBeachOff :: ReactIcon
 
-tbBeachOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBeachOff = element (unsafeCoerce _tbBeachOff)
+tbBeachOff :: Icon
+tbBeachOff = element _tbBeachOff
 
 foreign import _tbBed :: ReactIcon
 
-tbBed :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBed = element (unsafeCoerce _tbBed)
+tbBed :: Icon
+tbBed = element _tbBed
 
 foreign import _tbBedOff :: ReactIcon
 
-tbBedOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBedOff = element (unsafeCoerce _tbBedOff)
+tbBedOff :: Icon
+tbBedOff = element _tbBedOff
 
 foreign import _tbBeer :: ReactIcon
 
-tbBeer :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBeer = element (unsafeCoerce _tbBeer)
+tbBeer :: Icon
+tbBeer = element _tbBeer
 
 foreign import _tbBeerOff :: ReactIcon
 
-tbBeerOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBeerOff = element (unsafeCoerce _tbBeerOff)
+tbBeerOff :: Icon
+tbBeerOff = element _tbBeerOff
 
 foreign import _tbBell :: ReactIcon
 
-tbBell :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBell = element (unsafeCoerce _tbBell)
+tbBell :: Icon
+tbBell = element _tbBell
 
 foreign import _tbBellMinus :: ReactIcon
 
-tbBellMinus :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBellMinus = element (unsafeCoerce _tbBellMinus)
+tbBellMinus :: Icon
+tbBellMinus = element _tbBellMinus
 
 foreign import _tbBellOff :: ReactIcon
 
-tbBellOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBellOff = element (unsafeCoerce _tbBellOff)
+tbBellOff :: Icon
+tbBellOff = element _tbBellOff
 
 foreign import _tbBellPlus :: ReactIcon
 
-tbBellPlus :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBellPlus = element (unsafeCoerce _tbBellPlus)
+tbBellPlus :: Icon
+tbBellPlus = element _tbBellPlus
 
 foreign import _tbBellRinging :: ReactIcon
 
-tbBellRinging :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBellRinging = element (unsafeCoerce _tbBellRinging)
+tbBellRinging :: Icon
+tbBellRinging = element _tbBellRinging
 
 foreign import _tbBellSchool :: ReactIcon
 
-tbBellSchool :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBellSchool = element (unsafeCoerce _tbBellSchool)
+tbBellSchool :: Icon
+tbBellSchool = element _tbBellSchool
 
 foreign import _tbBellX :: ReactIcon
 
-tbBellX :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBellX = element (unsafeCoerce _tbBellX)
+tbBellX :: Icon
+tbBellX = element _tbBellX
 
 foreign import _tbBellZ :: ReactIcon
 
-tbBellZ :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBellZ = element (unsafeCoerce _tbBellZ)
+tbBellZ :: Icon
+tbBellZ = element _tbBellZ
 
 foreign import _tbBible :: ReactIcon
 
-tbBible :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBible = element (unsafeCoerce _tbBible)
+tbBible :: Icon
+tbBible = element _tbBible
 
 foreign import _tbBike :: ReactIcon
 
-tbBike :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBike = element (unsafeCoerce _tbBike)
+tbBike :: Icon
+tbBike = element _tbBike
 
 foreign import _tbBikeOff :: ReactIcon
 
-tbBikeOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBikeOff = element (unsafeCoerce _tbBikeOff)
+tbBikeOff :: Icon
+tbBikeOff = element _tbBikeOff
 
 foreign import _tbBinary :: ReactIcon
 
-tbBinary :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBinary = element (unsafeCoerce _tbBinary)
+tbBinary :: Icon
+tbBinary = element _tbBinary
 
 foreign import _tbBiohazard :: ReactIcon
 
-tbBiohazard :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBiohazard = element (unsafeCoerce _tbBiohazard)
+tbBiohazard :: Icon
+tbBiohazard = element _tbBiohazard
 
 foreign import _tbBiohazardOff :: ReactIcon
 
-tbBiohazardOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBiohazardOff = element (unsafeCoerce _tbBiohazardOff)
+tbBiohazardOff :: Icon
+tbBiohazardOff = element _tbBiohazardOff
 
 foreign import _tbBlockquote :: ReactIcon
 
-tbBlockquote :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBlockquote = element (unsafeCoerce _tbBlockquote)
+tbBlockquote :: Icon
+tbBlockquote = element _tbBlockquote
 
 foreign import _tbBluetooth :: ReactIcon
 
-tbBluetooth :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBluetooth = element (unsafeCoerce _tbBluetooth)
+tbBluetooth :: Icon
+tbBluetooth = element _tbBluetooth
 
 foreign import _tbBluetoothConnected :: ReactIcon
 
-tbBluetoothConnected :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBluetoothConnected = element (unsafeCoerce _tbBluetoothConnected)
+tbBluetoothConnected :: Icon
+tbBluetoothConnected = element _tbBluetoothConnected
 
 foreign import _tbBluetoothOff :: ReactIcon
 
-tbBluetoothOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBluetoothOff = element (unsafeCoerce _tbBluetoothOff)
+tbBluetoothOff :: Icon
+tbBluetoothOff = element _tbBluetoothOff
 
 foreign import _tbBluetoothX :: ReactIcon
 
-tbBluetoothX :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBluetoothX = element (unsafeCoerce _tbBluetoothX)
+tbBluetoothX :: Icon
+tbBluetoothX = element _tbBluetoothX
 
 foreign import _tbBlur :: ReactIcon
 
-tbBlur :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBlur = element (unsafeCoerce _tbBlur)
+tbBlur :: Icon
+tbBlur = element _tbBlur
 
 foreign import _tbBold :: ReactIcon
 
-tbBold :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBold = element (unsafeCoerce _tbBold)
+tbBold :: Icon
+tbBold = element _tbBold
 
 foreign import _tbBoldOff :: ReactIcon
 
-tbBoldOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBoldOff = element (unsafeCoerce _tbBoldOff)
+tbBoldOff :: Icon
+tbBoldOff = element _tbBoldOff
 
 foreign import _tbBolt :: ReactIcon
 
-tbBolt :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBolt = element (unsafeCoerce _tbBolt)
+tbBolt :: Icon
+tbBolt = element _tbBolt
 
 foreign import _tbBoltOff :: ReactIcon
 
-tbBoltOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBoltOff = element (unsafeCoerce _tbBoltOff)
+tbBoltOff :: Icon
+tbBoltOff = element _tbBoltOff
 
 foreign import _tbBone :: ReactIcon
 
-tbBone :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBone = element (unsafeCoerce _tbBone)
+tbBone :: Icon
+tbBone = element _tbBone
 
 foreign import _tbBoneOff :: ReactIcon
 
-tbBoneOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBoneOff = element (unsafeCoerce _tbBoneOff)
+tbBoneOff :: Icon
+tbBoneOff = element _tbBoneOff
 
 foreign import _tbBook :: ReactIcon
 
-tbBook :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBook = element (unsafeCoerce _tbBook)
+tbBook :: Icon
+tbBook = element _tbBook
 
 foreign import _tbBookDownload :: ReactIcon
 
-tbBookDownload :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBookDownload = element (unsafeCoerce _tbBookDownload)
+tbBookDownload :: Icon
+tbBookDownload = element _tbBookDownload
 
 foreign import _tbBookmark :: ReactIcon
 
-tbBookmark :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBookmark = element (unsafeCoerce _tbBookmark)
+tbBookmark :: Icon
+tbBookmark = element _tbBookmark
 
 foreign import _tbBookmarkOff :: ReactIcon
 
-tbBookmarkOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBookmarkOff = element (unsafeCoerce _tbBookmarkOff)
+tbBookmarkOff :: Icon
+tbBookmarkOff = element _tbBookmarkOff
 
 foreign import _tbBookmarks :: ReactIcon
 
-tbBookmarks :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBookmarks = element (unsafeCoerce _tbBookmarks)
+tbBookmarks :: Icon
+tbBookmarks = element _tbBookmarks
 
 foreign import _tbBookmarksOff :: ReactIcon
 
-tbBookmarksOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBookmarksOff = element (unsafeCoerce _tbBookmarksOff)
+tbBookmarksOff :: Icon
+tbBookmarksOff = element _tbBookmarksOff
 
 foreign import _tbBookOff :: ReactIcon
 
-tbBookOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBookOff = element (unsafeCoerce _tbBookOff)
+tbBookOff :: Icon
+tbBookOff = element _tbBookOff
 
 foreign import _tbBooks :: ReactIcon
 
-tbBooks :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBooks = element (unsafeCoerce _tbBooks)
+tbBooks :: Icon
+tbBooks = element _tbBooks
 
 foreign import _tbBooksOff :: ReactIcon
 
-tbBooksOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBooksOff = element (unsafeCoerce _tbBooksOff)
+tbBooksOff :: Icon
+tbBooksOff = element _tbBooksOff
 
 foreign import _tbBookUpload :: ReactIcon
 
-tbBookUpload :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBookUpload = element (unsafeCoerce _tbBookUpload)
+tbBookUpload :: Icon
+tbBookUpload = element _tbBookUpload
 
 foreign import _tbBorderAll :: ReactIcon
 
-tbBorderAll :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBorderAll = element (unsafeCoerce _tbBorderAll)
+tbBorderAll :: Icon
+tbBorderAll = element _tbBorderAll
 
 foreign import _tbBorderBottom :: ReactIcon
 
-tbBorderBottom :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBorderBottom = element (unsafeCoerce _tbBorderBottom)
+tbBorderBottom :: Icon
+tbBorderBottom = element _tbBorderBottom
 
 foreign import _tbBorderHorizontal :: ReactIcon
 
-tbBorderHorizontal :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBorderHorizontal = element (unsafeCoerce _tbBorderHorizontal)
+tbBorderHorizontal :: Icon
+tbBorderHorizontal = element _tbBorderHorizontal
 
 foreign import _tbBorderInner :: ReactIcon
 
-tbBorderInner :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBorderInner = element (unsafeCoerce _tbBorderInner)
+tbBorderInner :: Icon
+tbBorderInner = element _tbBorderInner
 
 foreign import _tbBorderLeft :: ReactIcon
 
-tbBorderLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBorderLeft = element (unsafeCoerce _tbBorderLeft)
+tbBorderLeft :: Icon
+tbBorderLeft = element _tbBorderLeft
 
 foreign import _tbBorderNone :: ReactIcon
 
-tbBorderNone :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBorderNone = element (unsafeCoerce _tbBorderNone)
+tbBorderNone :: Icon
+tbBorderNone = element _tbBorderNone
 
 foreign import _tbBorderOuter :: ReactIcon
 
-tbBorderOuter :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBorderOuter = element (unsafeCoerce _tbBorderOuter)
+tbBorderOuter :: Icon
+tbBorderOuter = element _tbBorderOuter
 
 foreign import _tbBorderRadius :: ReactIcon
 
-tbBorderRadius :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBorderRadius = element (unsafeCoerce _tbBorderRadius)
+tbBorderRadius :: Icon
+tbBorderRadius = element _tbBorderRadius
 
 foreign import _tbBorderRight :: ReactIcon
 
-tbBorderRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBorderRight = element (unsafeCoerce _tbBorderRight)
+tbBorderRight :: Icon
+tbBorderRight = element _tbBorderRight
 
 foreign import _tbBorderStyle :: ReactIcon
 
-tbBorderStyle :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBorderStyle = element (unsafeCoerce _tbBorderStyle)
+tbBorderStyle :: Icon
+tbBorderStyle = element _tbBorderStyle
 
 foreign import _tbBorderTop :: ReactIcon
 
-tbBorderTop :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBorderTop = element (unsafeCoerce _tbBorderTop)
+tbBorderTop :: Icon
+tbBorderTop = element _tbBorderTop
 
 foreign import _tbBorderVertical :: ReactIcon
 
-tbBorderVertical :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBorderVertical = element (unsafeCoerce _tbBorderVertical)
+tbBorderVertical :: Icon
+tbBorderVertical = element _tbBorderVertical
 
 foreign import _tbBottle :: ReactIcon
 
-tbBottle :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBottle = element (unsafeCoerce _tbBottle)
+tbBottle :: Icon
+tbBottle = element _tbBottle
 
 foreign import _tbBow :: ReactIcon
 
-tbBow :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBow = element (unsafeCoerce _tbBow)
+tbBow :: Icon
+tbBow = element _tbBow
 
 foreign import _tbBox :: ReactIcon
 
-tbBox :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBox = element (unsafeCoerce _tbBox)
+tbBox :: Icon
+tbBox = element _tbBox
 
 foreign import _tbBoxMargin :: ReactIcon
 
-tbBoxMargin :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBoxMargin = element (unsafeCoerce _tbBoxMargin)
+tbBoxMargin :: Icon
+tbBoxMargin = element _tbBoxMargin
 
 foreign import _tbBoxModel :: ReactIcon
 
-tbBoxModel :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBoxModel = element (unsafeCoerce _tbBoxModel)
+tbBoxModel :: Icon
+tbBoxModel = element _tbBoxModel
 
 foreign import _tbBoxMultiple :: ReactIcon
 
-tbBoxMultiple :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBoxMultiple = element (unsafeCoerce _tbBoxMultiple)
+tbBoxMultiple :: Icon
+tbBoxMultiple = element _tbBoxMultiple
 
 foreign import _tbBoxOff :: ReactIcon
 
-tbBoxOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBoxOff = element (unsafeCoerce _tbBoxOff)
+tbBoxOff :: Icon
+tbBoxOff = element _tbBoxOff
 
 foreign import _tbBoxPadding :: ReactIcon
 
-tbBoxPadding :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBoxPadding = element (unsafeCoerce _tbBoxPadding)
+tbBoxPadding :: Icon
+tbBoxPadding = element _tbBoxPadding
 
 foreign import _tbBraces :: ReactIcon
 
-tbBraces :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBraces = element (unsafeCoerce _tbBraces)
+tbBraces :: Icon
+tbBraces = element _tbBraces
 
 foreign import _tbBracesOff :: ReactIcon
 
-tbBracesOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBracesOff = element (unsafeCoerce _tbBracesOff)
+tbBracesOff :: Icon
+tbBracesOff = element _tbBracesOff
 
 foreign import _tbBrackets :: ReactIcon
 
-tbBrackets :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrackets = element (unsafeCoerce _tbBrackets)
+tbBrackets :: Icon
+tbBrackets = element _tbBrackets
 
 foreign import _tbBracketsOff :: ReactIcon
 
-tbBracketsOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBracketsOff = element (unsafeCoerce _tbBracketsOff)
+tbBracketsOff :: Icon
+tbBracketsOff = element _tbBracketsOff
 
 foreign import _tbBrandAdobe :: ReactIcon
 
-tbBrandAdobe :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrandAdobe = element (unsafeCoerce _tbBrandAdobe)
+tbBrandAdobe :: Icon
+tbBrandAdobe = element _tbBrandAdobe
 
 foreign import _tbBrandAirbnb :: ReactIcon
 
-tbBrandAirbnb :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrandAirbnb = element (unsafeCoerce _tbBrandAirbnb)
+tbBrandAirbnb :: Icon
+tbBrandAirbnb = element _tbBrandAirbnb
 
 foreign import _tbBrandAirtable :: ReactIcon
 
-tbBrandAirtable :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrandAirtable = element (unsafeCoerce _tbBrandAirtable)
+tbBrandAirtable :: Icon
+tbBrandAirtable = element _tbBrandAirtable
 
 foreign import _tbBrandAndroid :: ReactIcon
 
-tbBrandAndroid :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrandAndroid = element (unsafeCoerce _tbBrandAndroid)
+tbBrandAndroid :: Icon
+tbBrandAndroid = element _tbBrandAndroid
 
 foreign import _tbBrandAngular :: ReactIcon
 
-tbBrandAngular :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrandAngular = element (unsafeCoerce _tbBrandAngular)
+tbBrandAngular :: Icon
+tbBrandAngular = element _tbBrandAngular
 
 foreign import _tbBrandApple :: ReactIcon
 
-tbBrandApple :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrandApple = element (unsafeCoerce _tbBrandApple)
+tbBrandApple :: Icon
+tbBrandApple = element _tbBrandApple
 
 foreign import _tbBrandAppleArcade :: ReactIcon
 
-tbBrandAppleArcade :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrandAppleArcade = element (unsafeCoerce _tbBrandAppleArcade)
+tbBrandAppleArcade :: Icon
+tbBrandAppleArcade = element _tbBrandAppleArcade
 
 foreign import _tbBrandAppstore :: ReactIcon
 
-tbBrandAppstore :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrandAppstore = element (unsafeCoerce _tbBrandAppstore)
+tbBrandAppstore :: Icon
+tbBrandAppstore = element _tbBrandAppstore
 
 foreign import _tbBrandAsana :: ReactIcon
 
-tbBrandAsana :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrandAsana = element (unsafeCoerce _tbBrandAsana)
+tbBrandAsana :: Icon
+tbBrandAsana = element _tbBrandAsana
 
 foreign import _tbBrandBehance :: ReactIcon
 
-tbBrandBehance :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrandBehance = element (unsafeCoerce _tbBrandBehance)
+tbBrandBehance :: Icon
+tbBrandBehance = element _tbBrandBehance
 
 foreign import _tbBrandBing :: ReactIcon
 
-tbBrandBing :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrandBing = element (unsafeCoerce _tbBrandBing)
+tbBrandBing :: Icon
+tbBrandBing = element _tbBrandBing
 
 foreign import _tbBrandBitbucket :: ReactIcon
 
-tbBrandBitbucket :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrandBitbucket = element (unsafeCoerce _tbBrandBitbucket)
+tbBrandBitbucket :: Icon
+tbBrandBitbucket = element _tbBrandBitbucket
 
 foreign import _tbBrandBooking :: ReactIcon
 
-tbBrandBooking :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrandBooking = element (unsafeCoerce _tbBrandBooking)
+tbBrandBooking :: Icon
+tbBrandBooking = element _tbBrandBooking
 
 foreign import _tbBrandBootstrap :: ReactIcon
 
-tbBrandBootstrap :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrandBootstrap = element (unsafeCoerce _tbBrandBootstrap)
+tbBrandBootstrap :: Icon
+tbBrandBootstrap = element _tbBrandBootstrap
 
 foreign import _tbBrandChrome :: ReactIcon
 
-tbBrandChrome :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrandChrome = element (unsafeCoerce _tbBrandChrome)
+tbBrandChrome :: Icon
+tbBrandChrome = element _tbBrandChrome
 
 foreign import _tbBrandCodepen :: ReactIcon
 
-tbBrandCodepen :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrandCodepen = element (unsafeCoerce _tbBrandCodepen)
+tbBrandCodepen :: Icon
+tbBrandCodepen = element _tbBrandCodepen
 
 foreign import _tbBrandCodesandbox :: ReactIcon
 
-tbBrandCodesandbox :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrandCodesandbox = element (unsafeCoerce _tbBrandCodesandbox)
+tbBrandCodesandbox :: Icon
+tbBrandCodesandbox = element _tbBrandCodesandbox
 
 foreign import _tbBrandCucumber :: ReactIcon
 
-tbBrandCucumber :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrandCucumber = element (unsafeCoerce _tbBrandCucumber)
+tbBrandCucumber :: Icon
+tbBrandCucumber = element _tbBrandCucumber
 
 foreign import _tbBrandDebian :: ReactIcon
 
-tbBrandDebian :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrandDebian = element (unsafeCoerce _tbBrandDebian)
+tbBrandDebian :: Icon
+tbBrandDebian = element _tbBrandDebian
 
 foreign import _tbBrandDeviantart :: ReactIcon
 
-tbBrandDeviantart :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrandDeviantart = element (unsafeCoerce _tbBrandDeviantart)
+tbBrandDeviantart :: Icon
+tbBrandDeviantart = element _tbBrandDeviantart
 
 foreign import _tbBrandDiscord :: ReactIcon
 
-tbBrandDiscord :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrandDiscord = element (unsafeCoerce _tbBrandDiscord)
+tbBrandDiscord :: Icon
+tbBrandDiscord = element _tbBrandDiscord
 
 foreign import _tbBrandDisqus :: ReactIcon
 
-tbBrandDisqus :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrandDisqus = element (unsafeCoerce _tbBrandDisqus)
+tbBrandDisqus :: Icon
+tbBrandDisqus = element _tbBrandDisqus
 
 foreign import _tbBrandDocker :: ReactIcon
 
-tbBrandDocker :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrandDocker = element (unsafeCoerce _tbBrandDocker)
+tbBrandDocker :: Icon
+tbBrandDocker = element _tbBrandDocker
 
 foreign import _tbBrandDoctrine :: ReactIcon
 
-tbBrandDoctrine :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrandDoctrine = element (unsafeCoerce _tbBrandDoctrine)
+tbBrandDoctrine :: Icon
+tbBrandDoctrine = element _tbBrandDoctrine
 
 foreign import _tbBrandDribbble :: ReactIcon
 
-tbBrandDribbble :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrandDribbble = element (unsafeCoerce _tbBrandDribbble)
+tbBrandDribbble :: Icon
+tbBrandDribbble = element _tbBrandDribbble
 
 foreign import _tbBrandEdge :: ReactIcon
 
-tbBrandEdge :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrandEdge = element (unsafeCoerce _tbBrandEdge)
+tbBrandEdge :: Icon
+tbBrandEdge = element _tbBrandEdge
 
 foreign import _tbBrandFacebook :: ReactIcon
 
-tbBrandFacebook :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrandFacebook = element (unsafeCoerce _tbBrandFacebook)
+tbBrandFacebook :: Icon
+tbBrandFacebook = element _tbBrandFacebook
 
 foreign import _tbBrandFigma :: ReactIcon
 
-tbBrandFigma :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrandFigma = element (unsafeCoerce _tbBrandFigma)
+tbBrandFigma :: Icon
+tbBrandFigma = element _tbBrandFigma
 
 foreign import _tbBrandFirebase :: ReactIcon
 
-tbBrandFirebase :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrandFirebase = element (unsafeCoerce _tbBrandFirebase)
+tbBrandFirebase :: Icon
+tbBrandFirebase = element _tbBrandFirebase
 
 foreign import _tbBrandFirefox :: ReactIcon
 
-tbBrandFirefox :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrandFirefox = element (unsafeCoerce _tbBrandFirefox)
+tbBrandFirefox :: Icon
+tbBrandFirefox = element _tbBrandFirefox
 
 foreign import _tbBrandFlickr :: ReactIcon
 
-tbBrandFlickr :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrandFlickr = element (unsafeCoerce _tbBrandFlickr)
+tbBrandFlickr :: Icon
+tbBrandFlickr = element _tbBrandFlickr
 
 foreign import _tbBrandFoursquare :: ReactIcon
 
-tbBrandFoursquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrandFoursquare = element (unsafeCoerce _tbBrandFoursquare)
+tbBrandFoursquare :: Icon
+tbBrandFoursquare = element _tbBrandFoursquare
 
 foreign import _tbBrandFramer :: ReactIcon
 
-tbBrandFramer :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrandFramer = element (unsafeCoerce _tbBrandFramer)
+tbBrandFramer :: Icon
+tbBrandFramer = element _tbBrandFramer
 
 foreign import _tbBrandGit :: ReactIcon
 
-tbBrandGit :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrandGit = element (unsafeCoerce _tbBrandGit)
+tbBrandGit :: Icon
+tbBrandGit = element _tbBrandGit
 
 foreign import _tbBrandGithub :: ReactIcon
 
-tbBrandGithub :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrandGithub = element (unsafeCoerce _tbBrandGithub)
+tbBrandGithub :: Icon
+tbBrandGithub = element _tbBrandGithub
 
 foreign import _tbBrandGitlab :: ReactIcon
 
-tbBrandGitlab :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrandGitlab = element (unsafeCoerce _tbBrandGitlab)
+tbBrandGitlab :: Icon
+tbBrandGitlab = element _tbBrandGitlab
 
 foreign import _tbBrandGmail :: ReactIcon
 
-tbBrandGmail :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrandGmail = element (unsafeCoerce _tbBrandGmail)
+tbBrandGmail :: Icon
+tbBrandGmail = element _tbBrandGmail
 
 foreign import _tbBrandGoogle :: ReactIcon
 
-tbBrandGoogle :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrandGoogle = element (unsafeCoerce _tbBrandGoogle)
+tbBrandGoogle :: Icon
+tbBrandGoogle = element _tbBrandGoogle
 
 foreign import _tbBrandGoogleAnalytics :: ReactIcon
 
-tbBrandGoogleAnalytics :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrandGoogleAnalytics = element (unsafeCoerce _tbBrandGoogleAnalytics)
+tbBrandGoogleAnalytics :: Icon
+tbBrandGoogleAnalytics = element _tbBrandGoogleAnalytics
 
 foreign import _tbBrandGoogleDrive :: ReactIcon
 
-tbBrandGoogleDrive :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrandGoogleDrive = element (unsafeCoerce _tbBrandGoogleDrive)
+tbBrandGoogleDrive :: Icon
+tbBrandGoogleDrive = element _tbBrandGoogleDrive
 
 foreign import _tbBrandGooglePlay :: ReactIcon
 
-tbBrandGooglePlay :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrandGooglePlay = element (unsafeCoerce _tbBrandGooglePlay)
+tbBrandGooglePlay :: Icon
+tbBrandGooglePlay = element _tbBrandGooglePlay
 
 foreign import _tbBrandGravatar :: ReactIcon
 
-tbBrandGravatar :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrandGravatar = element (unsafeCoerce _tbBrandGravatar)
+tbBrandGravatar :: Icon
+tbBrandGravatar = element _tbBrandGravatar
 
 foreign import _tbBrandHipchat :: ReactIcon
 
-tbBrandHipchat :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrandHipchat = element (unsafeCoerce _tbBrandHipchat)
+tbBrandHipchat :: Icon
+tbBrandHipchat = element _tbBrandHipchat
 
 foreign import _tbBrandInstagram :: ReactIcon
 
-tbBrandInstagram :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrandInstagram = element (unsafeCoerce _tbBrandInstagram)
+tbBrandInstagram :: Icon
+tbBrandInstagram = element _tbBrandInstagram
 
 foreign import _tbBrandIntercom :: ReactIcon
 
-tbBrandIntercom :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrandIntercom = element (unsafeCoerce _tbBrandIntercom)
+tbBrandIntercom :: Icon
+tbBrandIntercom = element _tbBrandIntercom
 
 foreign import _tbBrandJavascript :: ReactIcon
 
-tbBrandJavascript :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrandJavascript = element (unsafeCoerce _tbBrandJavascript)
+tbBrandJavascript :: Icon
+tbBrandJavascript = element _tbBrandJavascript
 
 foreign import _tbBrandKickstarter :: ReactIcon
 
-tbBrandKickstarter :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrandKickstarter = element (unsafeCoerce _tbBrandKickstarter)
+tbBrandKickstarter :: Icon
+tbBrandKickstarter = element _tbBrandKickstarter
 
 foreign import _tbBrandKotlin :: ReactIcon
 
-tbBrandKotlin :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrandKotlin = element (unsafeCoerce _tbBrandKotlin)
+tbBrandKotlin :: Icon
+tbBrandKotlin = element _tbBrandKotlin
 
 foreign import _tbBrandLastfm :: ReactIcon
 
-tbBrandLastfm :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrandLastfm = element (unsafeCoerce _tbBrandLastfm)
+tbBrandLastfm :: Icon
+tbBrandLastfm = element _tbBrandLastfm
 
 foreign import _tbBrandLinkedin :: ReactIcon
 
-tbBrandLinkedin :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrandLinkedin = element (unsafeCoerce _tbBrandLinkedin)
+tbBrandLinkedin :: Icon
+tbBrandLinkedin = element _tbBrandLinkedin
 
 foreign import _tbBrandLoom :: ReactIcon
 
-tbBrandLoom :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrandLoom = element (unsafeCoerce _tbBrandLoom)
+tbBrandLoom :: Icon
+tbBrandLoom = element _tbBrandLoom
 
 foreign import _tbBrandMastercard :: ReactIcon
 
-tbBrandMastercard :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrandMastercard = element (unsafeCoerce _tbBrandMastercard)
+tbBrandMastercard :: Icon
+tbBrandMastercard = element _tbBrandMastercard
 
 foreign import _tbBrandMedium :: ReactIcon
 
-tbBrandMedium :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrandMedium = element (unsafeCoerce _tbBrandMedium)
+tbBrandMedium :: Icon
+tbBrandMedium = element _tbBrandMedium
 
 foreign import _tbBrandMercedes :: ReactIcon
 
-tbBrandMercedes :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrandMercedes = element (unsafeCoerce _tbBrandMercedes)
+tbBrandMercedes :: Icon
+tbBrandMercedes = element _tbBrandMercedes
 
 foreign import _tbBrandMessenger :: ReactIcon
 
-tbBrandMessenger :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrandMessenger = element (unsafeCoerce _tbBrandMessenger)
+tbBrandMessenger :: Icon
+tbBrandMessenger = element _tbBrandMessenger
 
 foreign import _tbBrandMeta :: ReactIcon
 
-tbBrandMeta :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrandMeta = element (unsafeCoerce _tbBrandMeta)
+tbBrandMeta :: Icon
+tbBrandMeta = element _tbBrandMeta
 
 foreign import _tbBrandNetbeans :: ReactIcon
 
-tbBrandNetbeans :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrandNetbeans = element (unsafeCoerce _tbBrandNetbeans)
+tbBrandNetbeans :: Icon
+tbBrandNetbeans = element _tbBrandNetbeans
 
 foreign import _tbBrandNetflix :: ReactIcon
 
-tbBrandNetflix :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrandNetflix = element (unsafeCoerce _tbBrandNetflix)
+tbBrandNetflix :: Icon
+tbBrandNetflix = element _tbBrandNetflix
 
 foreign import _tbBrandNextjs :: ReactIcon
 
-tbBrandNextjs :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrandNextjs = element (unsafeCoerce _tbBrandNextjs)
+tbBrandNextjs :: Icon
+tbBrandNextjs = element _tbBrandNextjs
 
 foreign import _tbBrandNotion :: ReactIcon
 
-tbBrandNotion :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrandNotion = element (unsafeCoerce _tbBrandNotion)
+tbBrandNotion :: Icon
+tbBrandNotion = element _tbBrandNotion
 
 foreign import _tbBrandNuxt :: ReactIcon
 
-tbBrandNuxt :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrandNuxt = element (unsafeCoerce _tbBrandNuxt)
+tbBrandNuxt :: Icon
+tbBrandNuxt = element _tbBrandNuxt
 
 foreign import _tbBrandNytimes :: ReactIcon
 
-tbBrandNytimes :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrandNytimes = element (unsafeCoerce _tbBrandNytimes)
+tbBrandNytimes :: Icon
+tbBrandNytimes = element _tbBrandNytimes
 
 foreign import _tbBrandOpenSource :: ReactIcon
 
-tbBrandOpenSource :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrandOpenSource = element (unsafeCoerce _tbBrandOpenSource)
+tbBrandOpenSource :: Icon
+tbBrandOpenSource = element _tbBrandOpenSource
 
 foreign import _tbBrandOpera :: ReactIcon
 
-tbBrandOpera :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrandOpera = element (unsafeCoerce _tbBrandOpera)
+tbBrandOpera :: Icon
+tbBrandOpera = element _tbBrandOpera
 
 foreign import _tbBrandPagekit :: ReactIcon
 
-tbBrandPagekit :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrandPagekit = element (unsafeCoerce _tbBrandPagekit)
+tbBrandPagekit :: Icon
+tbBrandPagekit = element _tbBrandPagekit
 
 foreign import _tbBrandPatreon :: ReactIcon
 
-tbBrandPatreon :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrandPatreon = element (unsafeCoerce _tbBrandPatreon)
+tbBrandPatreon :: Icon
+tbBrandPatreon = element _tbBrandPatreon
 
 foreign import _tbBrandPaypal :: ReactIcon
 
-tbBrandPaypal :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrandPaypal = element (unsafeCoerce _tbBrandPaypal)
+tbBrandPaypal :: Icon
+tbBrandPaypal = element _tbBrandPaypal
 
 foreign import _tbBrandPhp :: ReactIcon
 
-tbBrandPhp :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrandPhp = element (unsafeCoerce _tbBrandPhp)
+tbBrandPhp :: Icon
+tbBrandPhp = element _tbBrandPhp
 
 foreign import _tbBrandPinterest :: ReactIcon
 
-tbBrandPinterest :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrandPinterest = element (unsafeCoerce _tbBrandPinterest)
+tbBrandPinterest :: Icon
+tbBrandPinterest = element _tbBrandPinterest
 
 foreign import _tbBrandPocket :: ReactIcon
 
-tbBrandPocket :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrandPocket = element (unsafeCoerce _tbBrandPocket)
+tbBrandPocket :: Icon
+tbBrandPocket = element _tbBrandPocket
 
 foreign import _tbBrandProducthunt :: ReactIcon
 
-tbBrandProducthunt :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrandProducthunt = element (unsafeCoerce _tbBrandProducthunt)
+tbBrandProducthunt :: Icon
+tbBrandProducthunt = element _tbBrandProducthunt
 
 foreign import _tbBrandPython :: ReactIcon
 
-tbBrandPython :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrandPython = element (unsafeCoerce _tbBrandPython)
+tbBrandPython :: Icon
+tbBrandPython = element _tbBrandPython
 
 foreign import _tbBrandReactNative :: ReactIcon
 
-tbBrandReactNative :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrandReactNative = element (unsafeCoerce _tbBrandReactNative)
+tbBrandReactNative :: Icon
+tbBrandReactNative = element _tbBrandReactNative
 
 foreign import _tbBrandReddit :: ReactIcon
 
-tbBrandReddit :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrandReddit = element (unsafeCoerce _tbBrandReddit)
+tbBrandReddit :: Icon
+tbBrandReddit = element _tbBrandReddit
 
 foreign import _tbBrandSafari :: ReactIcon
 
-tbBrandSafari :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrandSafari = element (unsafeCoerce _tbBrandSafari)
+tbBrandSafari :: Icon
+tbBrandSafari = element _tbBrandSafari
 
 foreign import _tbBrandSass :: ReactIcon
 
-tbBrandSass :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrandSass = element (unsafeCoerce _tbBrandSass)
+tbBrandSass :: Icon
+tbBrandSass = element _tbBrandSass
 
 foreign import _tbBrandSentry :: ReactIcon
 
-tbBrandSentry :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrandSentry = element (unsafeCoerce _tbBrandSentry)
+tbBrandSentry :: Icon
+tbBrandSentry = element _tbBrandSentry
 
 foreign import _tbBrandShazam :: ReactIcon
 
-tbBrandShazam :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrandShazam = element (unsafeCoerce _tbBrandShazam)
+tbBrandShazam :: Icon
+tbBrandShazam = element _tbBrandShazam
 
 foreign import _tbBrandSketch :: ReactIcon
 
-tbBrandSketch :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrandSketch = element (unsafeCoerce _tbBrandSketch)
+tbBrandSketch :: Icon
+tbBrandSketch = element _tbBrandSketch
 
 foreign import _tbBrandSkype :: ReactIcon
 
-tbBrandSkype :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrandSkype = element (unsafeCoerce _tbBrandSkype)
+tbBrandSkype :: Icon
+tbBrandSkype = element _tbBrandSkype
 
 foreign import _tbBrandSlack :: ReactIcon
 
-tbBrandSlack :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrandSlack = element (unsafeCoerce _tbBrandSlack)
+tbBrandSlack :: Icon
+tbBrandSlack = element _tbBrandSlack
 
 foreign import _tbBrandSnapchat :: ReactIcon
 
-tbBrandSnapchat :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrandSnapchat = element (unsafeCoerce _tbBrandSnapchat)
+tbBrandSnapchat :: Icon
+tbBrandSnapchat = element _tbBrandSnapchat
 
 foreign import _tbBrandSoundcloud :: ReactIcon
 
-tbBrandSoundcloud :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrandSoundcloud = element (unsafeCoerce _tbBrandSoundcloud)
+tbBrandSoundcloud :: Icon
+tbBrandSoundcloud = element _tbBrandSoundcloud
 
 foreign import _tbBrandSpotify :: ReactIcon
 
-tbBrandSpotify :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrandSpotify = element (unsafeCoerce _tbBrandSpotify)
+tbBrandSpotify :: Icon
+tbBrandSpotify = element _tbBrandSpotify
 
 foreign import _tbBrandStackoverflow :: ReactIcon
 
-tbBrandStackoverflow :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrandStackoverflow = element (unsafeCoerce _tbBrandStackoverflow)
+tbBrandStackoverflow :: Icon
+tbBrandStackoverflow = element _tbBrandStackoverflow
 
 foreign import _tbBrandSteam :: ReactIcon
 
-tbBrandSteam :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrandSteam = element (unsafeCoerce _tbBrandSteam)
+tbBrandSteam :: Icon
+tbBrandSteam = element _tbBrandSteam
 
 foreign import _tbBrandStripe :: ReactIcon
 
-tbBrandStripe :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrandStripe = element (unsafeCoerce _tbBrandStripe)
+tbBrandStripe :: Icon
+tbBrandStripe = element _tbBrandStripe
 
 foreign import _tbBrandSublimeText :: ReactIcon
 
-tbBrandSublimeText :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrandSublimeText = element (unsafeCoerce _tbBrandSublimeText)
+tbBrandSublimeText :: Icon
+tbBrandSublimeText = element _tbBrandSublimeText
 
 foreign import _tbBrandSvelte :: ReactIcon
 
-tbBrandSvelte :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrandSvelte = element (unsafeCoerce _tbBrandSvelte)
+tbBrandSvelte :: Icon
+tbBrandSvelte = element _tbBrandSvelte
 
 foreign import _tbBrandTabler :: ReactIcon
 
-tbBrandTabler :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrandTabler = element (unsafeCoerce _tbBrandTabler)
+tbBrandTabler :: Icon
+tbBrandTabler = element _tbBrandTabler
 
 foreign import _tbBrandTailwind :: ReactIcon
 
-tbBrandTailwind :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrandTailwind = element (unsafeCoerce _tbBrandTailwind)
+tbBrandTailwind :: Icon
+tbBrandTailwind = element _tbBrandTailwind
 
 foreign import _tbBrandTelegram :: ReactIcon
 
-tbBrandTelegram :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrandTelegram = element (unsafeCoerce _tbBrandTelegram)
+tbBrandTelegram :: Icon
+tbBrandTelegram = element _tbBrandTelegram
 
 foreign import _tbBrandTidal :: ReactIcon
 
-tbBrandTidal :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrandTidal = element (unsafeCoerce _tbBrandTidal)
+tbBrandTidal :: Icon
+tbBrandTidal = element _tbBrandTidal
 
 foreign import _tbBrandTiktok :: ReactIcon
 
-tbBrandTiktok :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrandTiktok = element (unsafeCoerce _tbBrandTiktok)
+tbBrandTiktok :: Icon
+tbBrandTiktok = element _tbBrandTiktok
 
 foreign import _tbBrandTinder :: ReactIcon
 
-tbBrandTinder :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrandTinder = element (unsafeCoerce _tbBrandTinder)
+tbBrandTinder :: Icon
+tbBrandTinder = element _tbBrandTinder
 
 foreign import _tbBrandTripadvisor :: ReactIcon
 
-tbBrandTripadvisor :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrandTripadvisor = element (unsafeCoerce _tbBrandTripadvisor)
+tbBrandTripadvisor :: Icon
+tbBrandTripadvisor = element _tbBrandTripadvisor
 
 foreign import _tbBrandTumblr :: ReactIcon
 
-tbBrandTumblr :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrandTumblr = element (unsafeCoerce _tbBrandTumblr)
+tbBrandTumblr :: Icon
+tbBrandTumblr = element _tbBrandTumblr
 
 foreign import _tbBrandTwitch :: ReactIcon
 
-tbBrandTwitch :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrandTwitch = element (unsafeCoerce _tbBrandTwitch)
+tbBrandTwitch :: Icon
+tbBrandTwitch = element _tbBrandTwitch
 
 foreign import _tbBrandTwitter :: ReactIcon
 
-tbBrandTwitter :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrandTwitter = element (unsafeCoerce _tbBrandTwitter)
+tbBrandTwitter :: Icon
+tbBrandTwitter = element _tbBrandTwitter
 
 foreign import _tbBrandUber :: ReactIcon
 
-tbBrandUber :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrandUber = element (unsafeCoerce _tbBrandUber)
+tbBrandUber :: Icon
+tbBrandUber = element _tbBrandUber
 
 foreign import _tbBrandUbuntu :: ReactIcon
 
-tbBrandUbuntu :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrandUbuntu = element (unsafeCoerce _tbBrandUbuntu)
+tbBrandUbuntu :: Icon
+tbBrandUbuntu = element _tbBrandUbuntu
 
 foreign import _tbBrandUnsplash :: ReactIcon
 
-tbBrandUnsplash :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrandUnsplash = element (unsafeCoerce _tbBrandUnsplash)
+tbBrandUnsplash :: Icon
+tbBrandUnsplash = element _tbBrandUnsplash
 
 foreign import _tbBrandVercel :: ReactIcon
 
-tbBrandVercel :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrandVercel = element (unsafeCoerce _tbBrandVercel)
+tbBrandVercel :: Icon
+tbBrandVercel = element _tbBrandVercel
 
 foreign import _tbBrandVimeo :: ReactIcon
 
-tbBrandVimeo :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrandVimeo = element (unsafeCoerce _tbBrandVimeo)
+tbBrandVimeo :: Icon
+tbBrandVimeo = element _tbBrandVimeo
 
 foreign import _tbBrandVisualStudio :: ReactIcon
 
-tbBrandVisualStudio :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrandVisualStudio = element (unsafeCoerce _tbBrandVisualStudio)
+tbBrandVisualStudio :: Icon
+tbBrandVisualStudio = element _tbBrandVisualStudio
 
 foreign import _tbBrandVk :: ReactIcon
 
-tbBrandVk :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrandVk = element (unsafeCoerce _tbBrandVk)
+tbBrandVk :: Icon
+tbBrandVk = element _tbBrandVk
 
 foreign import _tbBrandVue :: ReactIcon
 
-tbBrandVue :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrandVue = element (unsafeCoerce _tbBrandVue)
+tbBrandVue :: Icon
+tbBrandVue = element _tbBrandVue
 
 foreign import _tbBrandWhatsapp :: ReactIcon
 
-tbBrandWhatsapp :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrandWhatsapp = element (unsafeCoerce _tbBrandWhatsapp)
+tbBrandWhatsapp :: Icon
+tbBrandWhatsapp = element _tbBrandWhatsapp
 
 foreign import _tbBrandWindows :: ReactIcon
 
-tbBrandWindows :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrandWindows = element (unsafeCoerce _tbBrandWindows)
+tbBrandWindows :: Icon
+tbBrandWindows = element _tbBrandWindows
 
 foreign import _tbBrandYahoo :: ReactIcon
 
-tbBrandYahoo :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrandYahoo = element (unsafeCoerce _tbBrandYahoo)
+tbBrandYahoo :: Icon
+tbBrandYahoo = element _tbBrandYahoo
 
 foreign import _tbBrandYcombinator :: ReactIcon
 
-tbBrandYcombinator :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrandYcombinator = element (unsafeCoerce _tbBrandYcombinator)
+tbBrandYcombinator :: Icon
+tbBrandYcombinator = element _tbBrandYcombinator
 
 foreign import _tbBrandYoutube :: ReactIcon
 
-tbBrandYoutube :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrandYoutube = element (unsafeCoerce _tbBrandYoutube)
+tbBrandYoutube :: Icon
+tbBrandYoutube = element _tbBrandYoutube
 
 foreign import _tbBread :: ReactIcon
 
-tbBread :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBread = element (unsafeCoerce _tbBread)
+tbBread :: Icon
+tbBread = element _tbBread
 
 foreign import _tbBriefcase :: ReactIcon
 
-tbBriefcase :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBriefcase = element (unsafeCoerce _tbBriefcase)
+tbBriefcase :: Icon
+tbBriefcase = element _tbBriefcase
 
 foreign import _tbBrightness :: ReactIcon
 
-tbBrightness :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrightness = element (unsafeCoerce _tbBrightness)
+tbBrightness :: Icon
+tbBrightness = element _tbBrightness
 
 foreign import _tbBrightnessDown :: ReactIcon
 
-tbBrightnessDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrightnessDown = element (unsafeCoerce _tbBrightnessDown)
+tbBrightnessDown :: Icon
+tbBrightnessDown = element _tbBrightnessDown
 
 foreign import _tbBrightnessHalf :: ReactIcon
 
-tbBrightnessHalf :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrightnessHalf = element (unsafeCoerce _tbBrightnessHalf)
+tbBrightnessHalf :: Icon
+tbBrightnessHalf = element _tbBrightnessHalf
 
 foreign import _tbBrightnessUp :: ReactIcon
 
-tbBrightnessUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrightnessUp = element (unsafeCoerce _tbBrightnessUp)
+tbBrightnessUp :: Icon
+tbBrightnessUp = element _tbBrightnessUp
 
 foreign import _tbBrowser :: ReactIcon
 
-tbBrowser :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrowser = element (unsafeCoerce _tbBrowser)
+tbBrowser :: Icon
+tbBrowser = element _tbBrowser
 
 foreign import _tbBrowserCheck :: ReactIcon
 
-tbBrowserCheck :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrowserCheck = element (unsafeCoerce _tbBrowserCheck)
+tbBrowserCheck :: Icon
+tbBrowserCheck = element _tbBrowserCheck
 
 foreign import _tbBrowserOff :: ReactIcon
 
-tbBrowserOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrowserOff = element (unsafeCoerce _tbBrowserOff)
+tbBrowserOff :: Icon
+tbBrowserOff = element _tbBrowserOff
 
 foreign import _tbBrowserPlus :: ReactIcon
 
-tbBrowserPlus :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrowserPlus = element (unsafeCoerce _tbBrowserPlus)
+tbBrowserPlus :: Icon
+tbBrowserPlus = element _tbBrowserPlus
 
 foreign import _tbBrowserX :: ReactIcon
 
-tbBrowserX :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrowserX = element (unsafeCoerce _tbBrowserX)
+tbBrowserX :: Icon
+tbBrowserX = element _tbBrowserX
 
 foreign import _tbBrush :: ReactIcon
 
-tbBrush :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrush = element (unsafeCoerce _tbBrush)
+tbBrush :: Icon
+tbBrush = element _tbBrush
 
 foreign import _tbBrushOff :: ReactIcon
 
-tbBrushOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBrushOff = element (unsafeCoerce _tbBrushOff)
+tbBrushOff :: Icon
+tbBrushOff = element _tbBrushOff
 
 foreign import _tbBucket :: ReactIcon
 
-tbBucket :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBucket = element (unsafeCoerce _tbBucket)
+tbBucket :: Icon
+tbBucket = element _tbBucket
 
 foreign import _tbBucketOff :: ReactIcon
 
-tbBucketOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBucketOff = element (unsafeCoerce _tbBucketOff)
+tbBucketOff :: Icon
+tbBucketOff = element _tbBucketOff
 
 foreign import _tbBug :: ReactIcon
 
-tbBug :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBug = element (unsafeCoerce _tbBug)
+tbBug :: Icon
+tbBug = element _tbBug
 
 foreign import _tbBugOff :: ReactIcon
 
-tbBugOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBugOff = element (unsafeCoerce _tbBugOff)
+tbBugOff :: Icon
+tbBugOff = element _tbBugOff
 
 foreign import _tbBuilding :: ReactIcon
 
-tbBuilding :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBuilding = element (unsafeCoerce _tbBuilding)
+tbBuilding :: Icon
+tbBuilding = element _tbBuilding
 
 foreign import _tbBuildingArch :: ReactIcon
 
-tbBuildingArch :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBuildingArch = element (unsafeCoerce _tbBuildingArch)
+tbBuildingArch :: Icon
+tbBuildingArch = element _tbBuildingArch
 
 foreign import _tbBuildingBank :: ReactIcon
 
-tbBuildingBank :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBuildingBank = element (unsafeCoerce _tbBuildingBank)
+tbBuildingBank :: Icon
+tbBuildingBank = element _tbBuildingBank
 
 foreign import _tbBuildingBridge :: ReactIcon
 
-tbBuildingBridge :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBuildingBridge = element (unsafeCoerce _tbBuildingBridge)
+tbBuildingBridge :: Icon
+tbBuildingBridge = element _tbBuildingBridge
 
 foreign import _tbBuildingCarousel :: ReactIcon
 
-tbBuildingCarousel :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBuildingCarousel = element (unsafeCoerce _tbBuildingCarousel)
+tbBuildingCarousel :: Icon
+tbBuildingCarousel = element _tbBuildingCarousel
 
 foreign import _tbBuildingCastle :: ReactIcon
 
-tbBuildingCastle :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBuildingCastle = element (unsafeCoerce _tbBuildingCastle)
+tbBuildingCastle :: Icon
+tbBuildingCastle = element _tbBuildingCastle
 
 foreign import _tbBuildingChurch :: ReactIcon
 
-tbBuildingChurch :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBuildingChurch = element (unsafeCoerce _tbBuildingChurch)
+tbBuildingChurch :: Icon
+tbBuildingChurch = element _tbBuildingChurch
 
 foreign import _tbBuildingCommunity :: ReactIcon
 
-tbBuildingCommunity :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBuildingCommunity = element (unsafeCoerce _tbBuildingCommunity)
+tbBuildingCommunity :: Icon
+tbBuildingCommunity = element _tbBuildingCommunity
 
 foreign import _tbBuildingCottage :: ReactIcon
 
-tbBuildingCottage :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBuildingCottage = element (unsafeCoerce _tbBuildingCottage)
+tbBuildingCottage :: Icon
+tbBuildingCottage = element _tbBuildingCottage
 
 foreign import _tbBuildingFactory :: ReactIcon
 
-tbBuildingFactory :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBuildingFactory = element (unsafeCoerce _tbBuildingFactory)
+tbBuildingFactory :: Icon
+tbBuildingFactory = element _tbBuildingFactory
 
 foreign import _tbBuildingFortress :: ReactIcon
 
-tbBuildingFortress :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBuildingFortress = element (unsafeCoerce _tbBuildingFortress)
+tbBuildingFortress :: Icon
+tbBuildingFortress = element _tbBuildingFortress
 
 foreign import _tbBuildingHospital :: ReactIcon
 
-tbBuildingHospital :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBuildingHospital = element (unsafeCoerce _tbBuildingHospital)
+tbBuildingHospital :: Icon
+tbBuildingHospital = element _tbBuildingHospital
 
 foreign import _tbBuildingLighthouse :: ReactIcon
 
-tbBuildingLighthouse :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBuildingLighthouse = element (unsafeCoerce _tbBuildingLighthouse)
+tbBuildingLighthouse :: Icon
+tbBuildingLighthouse = element _tbBuildingLighthouse
 
 foreign import _tbBuildingMonument :: ReactIcon
 
-tbBuildingMonument :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBuildingMonument = element (unsafeCoerce _tbBuildingMonument)
+tbBuildingMonument :: Icon
+tbBuildingMonument = element _tbBuildingMonument
 
 foreign import _tbBuildingPavilon :: ReactIcon
 
-tbBuildingPavilon :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBuildingPavilon = element (unsafeCoerce _tbBuildingPavilon)
+tbBuildingPavilon :: Icon
+tbBuildingPavilon = element _tbBuildingPavilon
 
 foreign import _tbBuildingSkyscraper :: ReactIcon
 
-tbBuildingSkyscraper :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBuildingSkyscraper = element (unsafeCoerce _tbBuildingSkyscraper)
+tbBuildingSkyscraper :: Icon
+tbBuildingSkyscraper = element _tbBuildingSkyscraper
 
 foreign import _tbBuildingStore :: ReactIcon
 
-tbBuildingStore :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBuildingStore = element (unsafeCoerce _tbBuildingStore)
+tbBuildingStore :: Icon
+tbBuildingStore = element _tbBuildingStore
 
 foreign import _tbBuildingWarehouse :: ReactIcon
 
-tbBuildingWarehouse :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBuildingWarehouse = element (unsafeCoerce _tbBuildingWarehouse)
+tbBuildingWarehouse :: Icon
+tbBuildingWarehouse = element _tbBuildingWarehouse
 
 foreign import _tbBulb :: ReactIcon
 
-tbBulb :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBulb = element (unsafeCoerce _tbBulb)
+tbBulb :: Icon
+tbBulb = element _tbBulb
 
 foreign import _tbBulbOff :: ReactIcon
 
-tbBulbOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBulbOff = element (unsafeCoerce _tbBulbOff)
+tbBulbOff :: Icon
+tbBulbOff = element _tbBulbOff
 
 foreign import _tbBulldozer :: ReactIcon
 
-tbBulldozer :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBulldozer = element (unsafeCoerce _tbBulldozer)
+tbBulldozer :: Icon
+tbBulldozer = element _tbBulldozer
 
 foreign import _tbBus :: ReactIcon
 
-tbBus :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBus = element (unsafeCoerce _tbBus)
+tbBus :: Icon
+tbBus = element _tbBus
 
 foreign import _tbBusinessplan :: ReactIcon
 
-tbBusinessplan :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbBusinessplan = element (unsafeCoerce _tbBusinessplan)
+tbBusinessplan :: Icon
+tbBusinessplan = element _tbBusinessplan
 
 foreign import _tbButterfly :: ReactIcon
 
-tbButterfly :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbButterfly = element (unsafeCoerce _tbButterfly)
+tbButterfly :: Icon
+tbButterfly = element _tbButterfly
 
 foreign import _tbCake :: ReactIcon
 
-tbCake :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCake = element (unsafeCoerce _tbCake)
+tbCake :: Icon
+tbCake = element _tbCake
 
 foreign import _tbCakeOff :: ReactIcon
 
-tbCakeOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCakeOff = element (unsafeCoerce _tbCakeOff)
+tbCakeOff :: Icon
+tbCakeOff = element _tbCakeOff
 
 foreign import _tbCalculator :: ReactIcon
 
-tbCalculator :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCalculator = element (unsafeCoerce _tbCalculator)
+tbCalculator :: Icon
+tbCalculator = element _tbCalculator
 
 foreign import _tbCalculatorOff :: ReactIcon
 
-tbCalculatorOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCalculatorOff = element (unsafeCoerce _tbCalculatorOff)
+tbCalculatorOff :: Icon
+tbCalculatorOff = element _tbCalculatorOff
 
 foreign import _tbCalendar :: ReactIcon
 
-tbCalendar :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCalendar = element (unsafeCoerce _tbCalendar)
+tbCalendar :: Icon
+tbCalendar = element _tbCalendar
 
 foreign import _tbCalendarEvent :: ReactIcon
 
-tbCalendarEvent :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCalendarEvent = element (unsafeCoerce _tbCalendarEvent)
+tbCalendarEvent :: Icon
+tbCalendarEvent = element _tbCalendarEvent
 
 foreign import _tbCalendarMinus :: ReactIcon
 
-tbCalendarMinus :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCalendarMinus = element (unsafeCoerce _tbCalendarMinus)
+tbCalendarMinus :: Icon
+tbCalendarMinus = element _tbCalendarMinus
 
 foreign import _tbCalendarOff :: ReactIcon
 
-tbCalendarOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCalendarOff = element (unsafeCoerce _tbCalendarOff)
+tbCalendarOff :: Icon
+tbCalendarOff = element _tbCalendarOff
 
 foreign import _tbCalendarPlus :: ReactIcon
 
-tbCalendarPlus :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCalendarPlus = element (unsafeCoerce _tbCalendarPlus)
+tbCalendarPlus :: Icon
+tbCalendarPlus = element _tbCalendarPlus
 
 foreign import _tbCalendarStats :: ReactIcon
 
-tbCalendarStats :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCalendarStats = element (unsafeCoerce _tbCalendarStats)
+tbCalendarStats :: Icon
+tbCalendarStats = element _tbCalendarStats
 
 foreign import _tbCalendarTime :: ReactIcon
 
-tbCalendarTime :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCalendarTime = element (unsafeCoerce _tbCalendarTime)
+tbCalendarTime :: Icon
+tbCalendarTime = element _tbCalendarTime
 
 foreign import _tbCamera :: ReactIcon
 
-tbCamera :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCamera = element (unsafeCoerce _tbCamera)
+tbCamera :: Icon
+tbCamera = element _tbCamera
 
 foreign import _tbCameraMinus :: ReactIcon
 
-tbCameraMinus :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCameraMinus = element (unsafeCoerce _tbCameraMinus)
+tbCameraMinus :: Icon
+tbCameraMinus = element _tbCameraMinus
 
 foreign import _tbCameraOff :: ReactIcon
 
-tbCameraOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCameraOff = element (unsafeCoerce _tbCameraOff)
+tbCameraOff :: Icon
+tbCameraOff = element _tbCameraOff
 
 foreign import _tbCameraPlus :: ReactIcon
 
-tbCameraPlus :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCameraPlus = element (unsafeCoerce _tbCameraPlus)
+tbCameraPlus :: Icon
+tbCameraPlus = element _tbCameraPlus
 
 foreign import _tbCameraRotate :: ReactIcon
 
-tbCameraRotate :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCameraRotate = element (unsafeCoerce _tbCameraRotate)
+tbCameraRotate :: Icon
+tbCameraRotate = element _tbCameraRotate
 
 foreign import _tbCameraSelfie :: ReactIcon
 
-tbCameraSelfie :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCameraSelfie = element (unsafeCoerce _tbCameraSelfie)
+tbCameraSelfie :: Icon
+tbCameraSelfie = element _tbCameraSelfie
 
 foreign import _tbCandle :: ReactIcon
 
-tbCandle :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCandle = element (unsafeCoerce _tbCandle)
+tbCandle :: Icon
+tbCandle = element _tbCandle
 
 foreign import _tbCandy :: ReactIcon
 
-tbCandy :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCandy = element (unsafeCoerce _tbCandy)
+tbCandy :: Icon
+tbCandy = element _tbCandy
 
 foreign import _tbCandyOff :: ReactIcon
 
-tbCandyOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCandyOff = element (unsafeCoerce _tbCandyOff)
+tbCandyOff :: Icon
+tbCandyOff = element _tbCandyOff
 
 foreign import _tbCapture :: ReactIcon
 
-tbCapture :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCapture = element (unsafeCoerce _tbCapture)
+tbCapture :: Icon
+tbCapture = element _tbCapture
 
 foreign import _tbCaptureOff :: ReactIcon
 
-tbCaptureOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCaptureOff = element (unsafeCoerce _tbCaptureOff)
+tbCaptureOff :: Icon
+tbCaptureOff = element _tbCaptureOff
 
 foreign import _tbCar :: ReactIcon
 
-tbCar :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCar = element (unsafeCoerce _tbCar)
+tbCar :: Icon
+tbCar = element _tbCar
 
 foreign import _tbCaravan :: ReactIcon
 
-tbCaravan :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCaravan = element (unsafeCoerce _tbCaravan)
+tbCaravan :: Icon
+tbCaravan = element _tbCaravan
 
 foreign import _tbCarCrane :: ReactIcon
 
-tbCarCrane :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCarCrane = element (unsafeCoerce _tbCarCrane)
+tbCarCrane :: Icon
+tbCarCrane = element _tbCarCrane
 
 foreign import _tbCarCrash :: ReactIcon
 
-tbCarCrash :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCarCrash = element (unsafeCoerce _tbCarCrash)
+tbCarCrash :: Icon
+tbCarCrash = element _tbCarCrash
 
 foreign import _tbCardboards :: ReactIcon
 
-tbCardboards :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCardboards = element (unsafeCoerce _tbCardboards)
+tbCardboards :: Icon
+tbCardboards = element _tbCardboards
 
 foreign import _tbCardboardsOff :: ReactIcon
 
-tbCardboardsOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCardboardsOff = element (unsafeCoerce _tbCardboardsOff)
+tbCardboardsOff :: Icon
+tbCardboardsOff = element _tbCardboardsOff
 
 foreign import _tbCaretDown :: ReactIcon
 
-tbCaretDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCaretDown = element (unsafeCoerce _tbCaretDown)
+tbCaretDown :: Icon
+tbCaretDown = element _tbCaretDown
 
 foreign import _tbCaretLeft :: ReactIcon
 
-tbCaretLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCaretLeft = element (unsafeCoerce _tbCaretLeft)
+tbCaretLeft :: Icon
+tbCaretLeft = element _tbCaretLeft
 
 foreign import _tbCaretRight :: ReactIcon
 
-tbCaretRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCaretRight = element (unsafeCoerce _tbCaretRight)
+tbCaretRight :: Icon
+tbCaretRight = element _tbCaretRight
 
 foreign import _tbCaretUp :: ReactIcon
 
-tbCaretUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCaretUp = element (unsafeCoerce _tbCaretUp)
+tbCaretUp :: Icon
+tbCaretUp = element _tbCaretUp
 
 foreign import _tbCarOff :: ReactIcon
 
-tbCarOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCarOff = element (unsafeCoerce _tbCarOff)
+tbCarOff :: Icon
+tbCarOff = element _tbCarOff
 
 foreign import _tbCash :: ReactIcon
 
-tbCash :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCash = element (unsafeCoerce _tbCash)
+tbCash :: Icon
+tbCash = element _tbCash
 
 foreign import _tbCashBanknote :: ReactIcon
 
-tbCashBanknote :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCashBanknote = element (unsafeCoerce _tbCashBanknote)
+tbCashBanknote :: Icon
+tbCashBanknote = element _tbCashBanknote
 
 foreign import _tbCashBanknoteOff :: ReactIcon
 
-tbCashBanknoteOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCashBanknoteOff = element (unsafeCoerce _tbCashBanknoteOff)
+tbCashBanknoteOff :: Icon
+tbCashBanknoteOff = element _tbCashBanknoteOff
 
 foreign import _tbCashOff :: ReactIcon
 
-tbCashOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCashOff = element (unsafeCoerce _tbCashOff)
+tbCashOff :: Icon
+tbCashOff = element _tbCashOff
 
 foreign import _tbCast :: ReactIcon
 
-tbCast :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCast = element (unsafeCoerce _tbCast)
+tbCast :: Icon
+tbCast = element _tbCast
 
 foreign import _tbCastOff :: ReactIcon
 
-tbCastOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCastOff = element (unsafeCoerce _tbCastOff)
+tbCastOff :: Icon
+tbCastOff = element _tbCastOff
 
 foreign import _tbCe :: ReactIcon
 
-tbCe :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCe = element (unsafeCoerce _tbCe)
+tbCe :: Icon
+tbCe = element _tbCe
 
 foreign import _tbCell :: ReactIcon
 
-tbCell :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCell = element (unsafeCoerce _tbCell)
+tbCell :: Icon
+tbCell = element _tbCell
 
 foreign import _tbCellSignalOff :: ReactIcon
 
-tbCellSignalOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCellSignalOff = element (unsafeCoerce _tbCellSignalOff)
+tbCellSignalOff :: Icon
+tbCellSignalOff = element _tbCellSignalOff
 
 foreign import _tbCeOff :: ReactIcon
 
-tbCeOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCeOff = element (unsafeCoerce _tbCeOff)
+tbCeOff :: Icon
+tbCeOff = element _tbCeOff
 
 foreign import _tbCertificate :: ReactIcon
 
-tbCertificate :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCertificate = element (unsafeCoerce _tbCertificate)
+tbCertificate :: Icon
+tbCertificate = element _tbCertificate
 
 foreign import _tbCertificateOff :: ReactIcon
 
-tbCertificateOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCertificateOff = element (unsafeCoerce _tbCertificateOff)
+tbCertificateOff :: Icon
+tbCertificateOff = element _tbCertificateOff
 
 foreign import _tbChargingPile :: ReactIcon
 
-tbChargingPile :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbChargingPile = element (unsafeCoerce _tbChargingPile)
+tbChargingPile :: Icon
+tbChargingPile = element _tbChargingPile
 
 foreign import _tbChartArcs :: ReactIcon
 
-tbChartArcs :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbChartArcs = element (unsafeCoerce _tbChartArcs)
+tbChartArcs :: Icon
+tbChartArcs = element _tbChartArcs
 
 foreign import _tbChartArea :: ReactIcon
 
-tbChartArea :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbChartArea = element (unsafeCoerce _tbChartArea)
+tbChartArea :: Icon
+tbChartArea = element _tbChartArea
 
 foreign import _tbChartAreaLine :: ReactIcon
 
-tbChartAreaLine :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbChartAreaLine = element (unsafeCoerce _tbChartAreaLine)
+tbChartAreaLine :: Icon
+tbChartAreaLine = element _tbChartAreaLine
 
 foreign import _tbChartArrows :: ReactIcon
 
-tbChartArrows :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbChartArrows = element (unsafeCoerce _tbChartArrows)
+tbChartArrows :: Icon
+tbChartArrows = element _tbChartArrows
 
 foreign import _tbChartArrowsVertical :: ReactIcon
 
-tbChartArrowsVertical :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbChartArrowsVertical = element (unsafeCoerce _tbChartArrowsVertical)
+tbChartArrowsVertical :: Icon
+tbChartArrowsVertical = element _tbChartArrowsVertical
 
 foreign import _tbChartBar :: ReactIcon
 
-tbChartBar :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbChartBar = element (unsafeCoerce _tbChartBar)
+tbChartBar :: Icon
+tbChartBar = element _tbChartBar
 
 foreign import _tbChartBubble :: ReactIcon
 
-tbChartBubble :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbChartBubble = element (unsafeCoerce _tbChartBubble)
+tbChartBubble :: Icon
+tbChartBubble = element _tbChartBubble
 
 foreign import _tbChartCandle :: ReactIcon
 
-tbChartCandle :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbChartCandle = element (unsafeCoerce _tbChartCandle)
+tbChartCandle :: Icon
+tbChartCandle = element _tbChartCandle
 
 foreign import _tbChartCircles :: ReactIcon
 
-tbChartCircles :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbChartCircles = element (unsafeCoerce _tbChartCircles)
+tbChartCircles :: Icon
+tbChartCircles = element _tbChartCircles
 
 foreign import _tbChartDonut :: ReactIcon
 
-tbChartDonut :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbChartDonut = element (unsafeCoerce _tbChartDonut)
+tbChartDonut :: Icon
+tbChartDonut = element _tbChartDonut
 
 foreign import _tbChartDots :: ReactIcon
 
-tbChartDots :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbChartDots = element (unsafeCoerce _tbChartDots)
+tbChartDots :: Icon
+tbChartDots = element _tbChartDots
 
 foreign import _tbChartInfographic :: ReactIcon
 
-tbChartInfographic :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbChartInfographic = element (unsafeCoerce _tbChartInfographic)
+tbChartInfographic :: Icon
+tbChartInfographic = element _tbChartInfographic
 
 foreign import _tbChartLine :: ReactIcon
 
-tbChartLine :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbChartLine = element (unsafeCoerce _tbChartLine)
+tbChartLine :: Icon
+tbChartLine = element _tbChartLine
 
 foreign import _tbChartPie :: ReactIcon
 
-tbChartPie :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbChartPie = element (unsafeCoerce _tbChartPie)
+tbChartPie :: Icon
+tbChartPie = element _tbChartPie
 
 foreign import _tbChartRadar :: ReactIcon
 
-tbChartRadar :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbChartRadar = element (unsafeCoerce _tbChartRadar)
+tbChartRadar :: Icon
+tbChartRadar = element _tbChartRadar
 
 foreign import _tbCheck :: ReactIcon
 
-tbCheck :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCheck = element (unsafeCoerce _tbCheck)
+tbCheck :: Icon
+tbCheck = element _tbCheck
 
 foreign import _tbCheckbox :: ReactIcon
 
-tbCheckbox :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCheckbox = element (unsafeCoerce _tbCheckbox)
+tbCheckbox :: Icon
+tbCheckbox = element _tbCheckbox
 
 foreign import _tbChecklist :: ReactIcon
 
-tbChecklist :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbChecklist = element (unsafeCoerce _tbChecklist)
+tbChecklist :: Icon
+tbChecklist = element _tbChecklist
 
 foreign import _tbChecks :: ReactIcon
 
-tbChecks :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbChecks = element (unsafeCoerce _tbChecks)
+tbChecks :: Icon
+tbChecks = element _tbChecks
 
 foreign import _tbCheckupList :: ReactIcon
 
-tbCheckupList :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCheckupList = element (unsafeCoerce _tbCheckupList)
+tbCheckupList :: Icon
+tbCheckupList = element _tbCheckupList
 
 foreign import _tbCheese :: ReactIcon
 
-tbCheese :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCheese = element (unsafeCoerce _tbCheese)
+tbCheese :: Icon
+tbCheese = element _tbCheese
 
 foreign import _tbChevronDown :: ReactIcon
 
-tbChevronDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbChevronDown = element (unsafeCoerce _tbChevronDown)
+tbChevronDown :: Icon
+tbChevronDown = element _tbChevronDown
 
 foreign import _tbChevronDownLeft :: ReactIcon
 
-tbChevronDownLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbChevronDownLeft = element (unsafeCoerce _tbChevronDownLeft)
+tbChevronDownLeft :: Icon
+tbChevronDownLeft = element _tbChevronDownLeft
 
 foreign import _tbChevronDownRight :: ReactIcon
 
-tbChevronDownRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbChevronDownRight = element (unsafeCoerce _tbChevronDownRight)
+tbChevronDownRight :: Icon
+tbChevronDownRight = element _tbChevronDownRight
 
 foreign import _tbChevronLeft :: ReactIcon
 
-tbChevronLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbChevronLeft = element (unsafeCoerce _tbChevronLeft)
+tbChevronLeft :: Icon
+tbChevronLeft = element _tbChevronLeft
 
 foreign import _tbChevronRight :: ReactIcon
 
-tbChevronRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbChevronRight = element (unsafeCoerce _tbChevronRight)
+tbChevronRight :: Icon
+tbChevronRight = element _tbChevronRight
 
 foreign import _tbChevronsDown :: ReactIcon
 
-tbChevronsDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbChevronsDown = element (unsafeCoerce _tbChevronsDown)
+tbChevronsDown :: Icon
+tbChevronsDown = element _tbChevronsDown
 
 foreign import _tbChevronsDownLeft :: ReactIcon
 
-tbChevronsDownLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbChevronsDownLeft = element (unsafeCoerce _tbChevronsDownLeft)
+tbChevronsDownLeft :: Icon
+tbChevronsDownLeft = element _tbChevronsDownLeft
 
 foreign import _tbChevronsDownRight :: ReactIcon
 
-tbChevronsDownRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbChevronsDownRight = element (unsafeCoerce _tbChevronsDownRight)
+tbChevronsDownRight :: Icon
+tbChevronsDownRight = element _tbChevronsDownRight
 
 foreign import _tbChevronsLeft :: ReactIcon
 
-tbChevronsLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbChevronsLeft = element (unsafeCoerce _tbChevronsLeft)
+tbChevronsLeft :: Icon
+tbChevronsLeft = element _tbChevronsLeft
 
 foreign import _tbChevronsRight :: ReactIcon
 
-tbChevronsRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbChevronsRight = element (unsafeCoerce _tbChevronsRight)
+tbChevronsRight :: Icon
+tbChevronsRight = element _tbChevronsRight
 
 foreign import _tbChevronsUp :: ReactIcon
 
-tbChevronsUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbChevronsUp = element (unsafeCoerce _tbChevronsUp)
+tbChevronsUp :: Icon
+tbChevronsUp = element _tbChevronsUp
 
 foreign import _tbChevronsUpLeft :: ReactIcon
 
-tbChevronsUpLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbChevronsUpLeft = element (unsafeCoerce _tbChevronsUpLeft)
+tbChevronsUpLeft :: Icon
+tbChevronsUpLeft = element _tbChevronsUpLeft
 
 foreign import _tbChevronsUpRight :: ReactIcon
 
-tbChevronsUpRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbChevronsUpRight = element (unsafeCoerce _tbChevronsUpRight)
+tbChevronsUpRight :: Icon
+tbChevronsUpRight = element _tbChevronsUpRight
 
 foreign import _tbChevronUp :: ReactIcon
 
-tbChevronUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbChevronUp = element (unsafeCoerce _tbChevronUp)
+tbChevronUp :: Icon
+tbChevronUp = element _tbChevronUp
 
 foreign import _tbChevronUpLeft :: ReactIcon
 
-tbChevronUpLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbChevronUpLeft = element (unsafeCoerce _tbChevronUpLeft)
+tbChevronUpLeft :: Icon
+tbChevronUpLeft = element _tbChevronUpLeft
 
 foreign import _tbChevronUpRight :: ReactIcon
 
-tbChevronUpRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbChevronUpRight = element (unsafeCoerce _tbChevronUpRight)
+tbChevronUpRight :: Icon
+tbChevronUpRight = element _tbChevronUpRight
 
 foreign import _tbChristmasTree :: ReactIcon
 
-tbChristmasTree :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbChristmasTree = element (unsafeCoerce _tbChristmasTree)
+tbChristmasTree :: Icon
+tbChristmasTree = element _tbChristmasTree
 
 foreign import _tbCircle :: ReactIcon
 
-tbCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCircle = element (unsafeCoerce _tbCircle)
+tbCircle :: Icon
+tbCircle = element _tbCircle
 
 foreign import _tbCircleCheck :: ReactIcon
 
-tbCircleCheck :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCircleCheck = element (unsafeCoerce _tbCircleCheck)
+tbCircleCheck :: Icon
+tbCircleCheck = element _tbCircleCheck
 
 foreign import _tbCircleDashed :: ReactIcon
 
-tbCircleDashed :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCircleDashed = element (unsafeCoerce _tbCircleDashed)
+tbCircleDashed :: Icon
+tbCircleDashed = element _tbCircleDashed
 
 foreign import _tbCircleDot :: ReactIcon
 
-tbCircleDot :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCircleDot = element (unsafeCoerce _tbCircleDot)
+tbCircleDot :: Icon
+tbCircleDot = element _tbCircleDot
 
 foreign import _tbCircleDotted :: ReactIcon
 
-tbCircleDotted :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCircleDotted = element (unsafeCoerce _tbCircleDotted)
+tbCircleDotted :: Icon
+tbCircleDotted = element _tbCircleDotted
 
 foreign import _tbCircleHalf :: ReactIcon
 
-tbCircleHalf :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCircleHalf = element (unsafeCoerce _tbCircleHalf)
+tbCircleHalf :: Icon
+tbCircleHalf = element _tbCircleHalf
 
 foreign import _tbCircleHalfVertical :: ReactIcon
 
-tbCircleHalfVertical :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCircleHalfVertical = element (unsafeCoerce _tbCircleHalfVertical)
+tbCircleHalfVertical :: Icon
+tbCircleHalfVertical = element _tbCircleHalfVertical
 
 foreign import _tbCircleMinus :: ReactIcon
 
-tbCircleMinus :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCircleMinus = element (unsafeCoerce _tbCircleMinus)
+tbCircleMinus :: Icon
+tbCircleMinus = element _tbCircleMinus
 
 foreign import _tbCircleOff :: ReactIcon
 
-tbCircleOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCircleOff = element (unsafeCoerce _tbCircleOff)
+tbCircleOff :: Icon
+tbCircleOff = element _tbCircleOff
 
 foreign import _tbCirclePlus :: ReactIcon
 
-tbCirclePlus :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCirclePlus = element (unsafeCoerce _tbCirclePlus)
+tbCirclePlus :: Icon
+tbCirclePlus = element _tbCirclePlus
 
 foreign import _tbCircleRectangle :: ReactIcon
 
-tbCircleRectangle :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCircleRectangle = element (unsafeCoerce _tbCircleRectangle)
+tbCircleRectangle :: Icon
+tbCircleRectangle = element _tbCircleRectangle
 
 foreign import _tbCircleRectangleOff :: ReactIcon
 
-tbCircleRectangleOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCircleRectangleOff = element (unsafeCoerce _tbCircleRectangleOff)
+tbCircleRectangleOff :: Icon
+tbCircleRectangleOff = element _tbCircleRectangleOff
 
 foreign import _tbCircles :: ReactIcon
 
-tbCircles :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCircles = element (unsafeCoerce _tbCircles)
+tbCircles :: Icon
+tbCircles = element _tbCircles
 
 foreign import _tbCircleSquare :: ReactIcon
 
-tbCircleSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCircleSquare = element (unsafeCoerce _tbCircleSquare)
+tbCircleSquare :: Icon
+tbCircleSquare = element _tbCircleSquare
 
 foreign import _tbCircleTriangle :: ReactIcon
 
-tbCircleTriangle :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCircleTriangle = element (unsafeCoerce _tbCircleTriangle)
+tbCircleTriangle :: Icon
+tbCircleTriangle = element _tbCircleTriangle
 
 foreign import _tbCircleX :: ReactIcon
 
-tbCircleX :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCircleX = element (unsafeCoerce _tbCircleX)
+tbCircleX :: Icon
+tbCircleX = element _tbCircleX
 
 foreign import _tbClearAll :: ReactIcon
 
-tbClearAll :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbClearAll = element (unsafeCoerce _tbClearAll)
+tbClearAll :: Icon
+tbClearAll = element _tbClearAll
 
 foreign import _tbClearFormatting :: ReactIcon
 
-tbClearFormatting :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbClearFormatting = element (unsafeCoerce _tbClearFormatting)
+tbClearFormatting :: Icon
+tbClearFormatting = element _tbClearFormatting
 
 foreign import _tbClick :: ReactIcon
 
-tbClick :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbClick = element (unsafeCoerce _tbClick)
+tbClick :: Icon
+tbClick = element _tbClick
 
 foreign import _tbClipboard :: ReactIcon
 
-tbClipboard :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbClipboard = element (unsafeCoerce _tbClipboard)
+tbClipboard :: Icon
+tbClipboard = element _tbClipboard
 
 foreign import _tbClipboardCheck :: ReactIcon
 
-tbClipboardCheck :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbClipboardCheck = element (unsafeCoerce _tbClipboardCheck)
+tbClipboardCheck :: Icon
+tbClipboardCheck = element _tbClipboardCheck
 
 foreign import _tbClipboardList :: ReactIcon
 
-tbClipboardList :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbClipboardList = element (unsafeCoerce _tbClipboardList)
+tbClipboardList :: Icon
+tbClipboardList = element _tbClipboardList
 
 foreign import _tbClipboardOff :: ReactIcon
 
-tbClipboardOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbClipboardOff = element (unsafeCoerce _tbClipboardOff)
+tbClipboardOff :: Icon
+tbClipboardOff = element _tbClipboardOff
 
 foreign import _tbClipboardPlus :: ReactIcon
 
-tbClipboardPlus :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbClipboardPlus = element (unsafeCoerce _tbClipboardPlus)
+tbClipboardPlus :: Icon
+tbClipboardPlus = element _tbClipboardPlus
 
 foreign import _tbClipboardText :: ReactIcon
 
-tbClipboardText :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbClipboardText = element (unsafeCoerce _tbClipboardText)
+tbClipboardText :: Icon
+tbClipboardText = element _tbClipboardText
 
 foreign import _tbClipboardX :: ReactIcon
 
-tbClipboardX :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbClipboardX = element (unsafeCoerce _tbClipboardX)
+tbClipboardX :: Icon
+tbClipboardX = element _tbClipboardX
 
 foreign import _tbClock :: ReactIcon
 
-tbClock :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbClock = element (unsafeCoerce _tbClock)
+tbClock :: Icon
+tbClock = element _tbClock
 
 foreign import _tbClockOff :: ReactIcon
 
-tbClockOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbClockOff = element (unsafeCoerce _tbClockOff)
+tbClockOff :: Icon
+tbClockOff = element _tbClockOff
 
 foreign import _tbCloud :: ReactIcon
 
-tbCloud :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCloud = element (unsafeCoerce _tbCloud)
+tbCloud :: Icon
+tbCloud = element _tbCloud
 
 foreign import _tbCloudComputing :: ReactIcon
 
-tbCloudComputing :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCloudComputing = element (unsafeCoerce _tbCloudComputing)
+tbCloudComputing :: Icon
+tbCloudComputing = element _tbCloudComputing
 
 foreign import _tbCloudDataConnection :: ReactIcon
 
-tbCloudDataConnection :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCloudDataConnection = element (unsafeCoerce _tbCloudDataConnection)
+tbCloudDataConnection :: Icon
+tbCloudDataConnection = element _tbCloudDataConnection
 
 foreign import _tbCloudDownload :: ReactIcon
 
-tbCloudDownload :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCloudDownload = element (unsafeCoerce _tbCloudDownload)
+tbCloudDownload :: Icon
+tbCloudDownload = element _tbCloudDownload
 
 foreign import _tbCloudFog :: ReactIcon
 
-tbCloudFog :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCloudFog = element (unsafeCoerce _tbCloudFog)
+tbCloudFog :: Icon
+tbCloudFog = element _tbCloudFog
 
 foreign import _tbCloudLock :: ReactIcon
 
-tbCloudLock :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCloudLock = element (unsafeCoerce _tbCloudLock)
+tbCloudLock :: Icon
+tbCloudLock = element _tbCloudLock
 
 foreign import _tbCloudLockOpen :: ReactIcon
 
-tbCloudLockOpen :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCloudLockOpen = element (unsafeCoerce _tbCloudLockOpen)
+tbCloudLockOpen :: Icon
+tbCloudLockOpen = element _tbCloudLockOpen
 
 foreign import _tbCloudOff :: ReactIcon
 
-tbCloudOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCloudOff = element (unsafeCoerce _tbCloudOff)
+tbCloudOff :: Icon
+tbCloudOff = element _tbCloudOff
 
 foreign import _tbCloudRain :: ReactIcon
 
-tbCloudRain :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCloudRain = element (unsafeCoerce _tbCloudRain)
+tbCloudRain :: Icon
+tbCloudRain = element _tbCloudRain
 
 foreign import _tbCloudSnow :: ReactIcon
 
-tbCloudSnow :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCloudSnow = element (unsafeCoerce _tbCloudSnow)
+tbCloudSnow :: Icon
+tbCloudSnow = element _tbCloudSnow
 
 foreign import _tbCloudStorm :: ReactIcon
 
-tbCloudStorm :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCloudStorm = element (unsafeCoerce _tbCloudStorm)
+tbCloudStorm :: Icon
+tbCloudStorm = element _tbCloudStorm
 
 foreign import _tbCloudUpload :: ReactIcon
 
-tbCloudUpload :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCloudUpload = element (unsafeCoerce _tbCloudUpload)
+tbCloudUpload :: Icon
+tbCloudUpload = element _tbCloudUpload
 
 foreign import _tbClubs :: ReactIcon
 
-tbClubs :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbClubs = element (unsafeCoerce _tbClubs)
+tbClubs :: Icon
+tbClubs = element _tbClubs
 
 foreign import _tbCode :: ReactIcon
 
-tbCode :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCode = element (unsafeCoerce _tbCode)
+tbCode :: Icon
+tbCode = element _tbCode
 
 foreign import _tbCodeMinus :: ReactIcon
 
-tbCodeMinus :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCodeMinus = element (unsafeCoerce _tbCodeMinus)
+tbCodeMinus :: Icon
+tbCodeMinus = element _tbCodeMinus
 
 foreign import _tbCodeOff :: ReactIcon
 
-tbCodeOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCodeOff = element (unsafeCoerce _tbCodeOff)
+tbCodeOff :: Icon
+tbCodeOff = element _tbCodeOff
 
 foreign import _tbCodePlus :: ReactIcon
 
-tbCodePlus :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCodePlus = element (unsafeCoerce _tbCodePlus)
+tbCodePlus :: Icon
+tbCodePlus = element _tbCodePlus
 
 foreign import _tbCoffee :: ReactIcon
 
-tbCoffee :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCoffee = element (unsafeCoerce _tbCoffee)
+tbCoffee :: Icon
+tbCoffee = element _tbCoffee
 
 foreign import _tbCoffeeOff :: ReactIcon
 
-tbCoffeeOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCoffeeOff = element (unsafeCoerce _tbCoffeeOff)
+tbCoffeeOff :: Icon
+tbCoffeeOff = element _tbCoffeeOff
 
 foreign import _tbCoin :: ReactIcon
 
-tbCoin :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCoin = element (unsafeCoerce _tbCoin)
+tbCoin :: Icon
+tbCoin = element _tbCoin
 
 foreign import _tbCoinOff :: ReactIcon
 
-tbCoinOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCoinOff = element (unsafeCoerce _tbCoinOff)
+tbCoinOff :: Icon
+tbCoinOff = element _tbCoinOff
 
 foreign import _tbColorPicker :: ReactIcon
 
-tbColorPicker :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbColorPicker = element (unsafeCoerce _tbColorPicker)
+tbColorPicker :: Icon
+tbColorPicker = element _tbColorPicker
 
 foreign import _tbColorPickerOff :: ReactIcon
 
-tbColorPickerOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbColorPickerOff = element (unsafeCoerce _tbColorPickerOff)
+tbColorPickerOff :: Icon
+tbColorPickerOff = element _tbColorPickerOff
 
 foreign import _tbColorSwatch :: ReactIcon
 
-tbColorSwatch :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbColorSwatch = element (unsafeCoerce _tbColorSwatch)
+tbColorSwatch :: Icon
+tbColorSwatch = element _tbColorSwatch
 
 foreign import _tbColorSwatchOff :: ReactIcon
 
-tbColorSwatchOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbColorSwatchOff = element (unsafeCoerce _tbColorSwatchOff)
+tbColorSwatchOff :: Icon
+tbColorSwatchOff = element _tbColorSwatchOff
 
 foreign import _tbColumnInsertLeft :: ReactIcon
 
-tbColumnInsertLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbColumnInsertLeft = element (unsafeCoerce _tbColumnInsertLeft)
+tbColumnInsertLeft :: Icon
+tbColumnInsertLeft = element _tbColumnInsertLeft
 
 foreign import _tbColumnInsertRight :: ReactIcon
 
-tbColumnInsertRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbColumnInsertRight = element (unsafeCoerce _tbColumnInsertRight)
+tbColumnInsertRight :: Icon
+tbColumnInsertRight = element _tbColumnInsertRight
 
 foreign import _tbColumns :: ReactIcon
 
-tbColumns :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbColumns = element (unsafeCoerce _tbColumns)
+tbColumns :: Icon
+tbColumns = element _tbColumns
 
 foreign import _tbColumnsOff :: ReactIcon
 
-tbColumnsOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbColumnsOff = element (unsafeCoerce _tbColumnsOff)
+tbColumnsOff :: Icon
+tbColumnsOff = element _tbColumnsOff
 
 foreign import _tbComet :: ReactIcon
 
-tbComet :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbComet = element (unsafeCoerce _tbComet)
+tbComet :: Icon
+tbComet = element _tbComet
 
 foreign import _tbCommand :: ReactIcon
 
-tbCommand :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCommand = element (unsafeCoerce _tbCommand)
+tbCommand :: Icon
+tbCommand = element _tbCommand
 
 foreign import _tbCompass :: ReactIcon
 
-tbCompass :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCompass = element (unsafeCoerce _tbCompass)
+tbCompass :: Icon
+tbCompass = element _tbCompass
 
 foreign import _tbCompassOff :: ReactIcon
 
-tbCompassOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCompassOff = element (unsafeCoerce _tbCompassOff)
+tbCompassOff :: Icon
+tbCompassOff = element _tbCompassOff
 
 foreign import _tbComponents :: ReactIcon
 
-tbComponents :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbComponents = element (unsafeCoerce _tbComponents)
+tbComponents :: Icon
+tbComponents = element _tbComponents
 
 foreign import _tbComponentsOff :: ReactIcon
 
-tbComponentsOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbComponentsOff = element (unsafeCoerce _tbComponentsOff)
+tbComponentsOff :: Icon
+tbComponentsOff = element _tbComponentsOff
 
 foreign import _tbCone :: ReactIcon
 
-tbCone :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCone = element (unsafeCoerce _tbCone)
+tbCone :: Icon
+tbCone = element _tbCone
 
 foreign import _tbConfetti :: ReactIcon
 
-tbConfetti :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbConfetti = element (unsafeCoerce _tbConfetti)
+tbConfetti :: Icon
+tbConfetti = element _tbConfetti
 
 foreign import _tbContainer :: ReactIcon
 
-tbContainer :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbContainer = element (unsafeCoerce _tbContainer)
+tbContainer :: Icon
+tbContainer = element _tbContainer
 
 foreign import _tbContainerOff :: ReactIcon
 
-tbContainerOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbContainerOff = element (unsafeCoerce _tbContainerOff)
+tbContainerOff :: Icon
+tbContainerOff = element _tbContainerOff
 
 foreign import _tbContrast :: ReactIcon
 
-tbContrast :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbContrast = element (unsafeCoerce _tbContrast)
+tbContrast :: Icon
+tbContrast = element _tbContrast
 
 foreign import _tbCookie :: ReactIcon
 
-tbCookie :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCookie = element (unsafeCoerce _tbCookie)
+tbCookie :: Icon
+tbCookie = element _tbCookie
 
 foreign import _tbCookieOff :: ReactIcon
 
-tbCookieOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCookieOff = element (unsafeCoerce _tbCookieOff)
+tbCookieOff :: Icon
+tbCookieOff = element _tbCookieOff
 
 foreign import _tbCopy :: ReactIcon
 
-tbCopy :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCopy = element (unsafeCoerce _tbCopy)
+tbCopy :: Icon
+tbCopy = element _tbCopy
 
 foreign import _tbCopyleft :: ReactIcon
 
-tbCopyleft :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCopyleft = element (unsafeCoerce _tbCopyleft)
+tbCopyleft :: Icon
+tbCopyleft = element _tbCopyleft
 
 foreign import _tbCopyleftOff :: ReactIcon
 
-tbCopyleftOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCopyleftOff = element (unsafeCoerce _tbCopyleftOff)
+tbCopyleftOff :: Icon
+tbCopyleftOff = element _tbCopyleftOff
 
 foreign import _tbCopyOff :: ReactIcon
 
-tbCopyOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCopyOff = element (unsafeCoerce _tbCopyOff)
+tbCopyOff :: Icon
+tbCopyOff = element _tbCopyOff
 
 foreign import _tbCopyright :: ReactIcon
 
-tbCopyright :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCopyright = element (unsafeCoerce _tbCopyright)
+tbCopyright :: Icon
+tbCopyright = element _tbCopyright
 
 foreign import _tbCopyrightOff :: ReactIcon
 
-tbCopyrightOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCopyrightOff = element (unsafeCoerce _tbCopyrightOff)
+tbCopyrightOff :: Icon
+tbCopyrightOff = element _tbCopyrightOff
 
 foreign import _tbCornerDownLeft :: ReactIcon
 
-tbCornerDownLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCornerDownLeft = element (unsafeCoerce _tbCornerDownLeft)
+tbCornerDownLeft :: Icon
+tbCornerDownLeft = element _tbCornerDownLeft
 
 foreign import _tbCornerDownLeftDouble :: ReactIcon
 
-tbCornerDownLeftDouble :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCornerDownLeftDouble = element (unsafeCoerce _tbCornerDownLeftDouble)
+tbCornerDownLeftDouble :: Icon
+tbCornerDownLeftDouble = element _tbCornerDownLeftDouble
 
 foreign import _tbCornerDownRight :: ReactIcon
 
-tbCornerDownRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCornerDownRight = element (unsafeCoerce _tbCornerDownRight)
+tbCornerDownRight :: Icon
+tbCornerDownRight = element _tbCornerDownRight
 
 foreign import _tbCornerDownRightDouble :: ReactIcon
 
-tbCornerDownRightDouble :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCornerDownRightDouble = element (unsafeCoerce _tbCornerDownRightDouble)
+tbCornerDownRightDouble :: Icon
+tbCornerDownRightDouble = element _tbCornerDownRightDouble
 
 foreign import _tbCornerLeftDown :: ReactIcon
 
-tbCornerLeftDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCornerLeftDown = element (unsafeCoerce _tbCornerLeftDown)
+tbCornerLeftDown :: Icon
+tbCornerLeftDown = element _tbCornerLeftDown
 
 foreign import _tbCornerLeftDownDouble :: ReactIcon
 
-tbCornerLeftDownDouble :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCornerLeftDownDouble = element (unsafeCoerce _tbCornerLeftDownDouble)
+tbCornerLeftDownDouble :: Icon
+tbCornerLeftDownDouble = element _tbCornerLeftDownDouble
 
 foreign import _tbCornerLeftUp :: ReactIcon
 
-tbCornerLeftUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCornerLeftUp = element (unsafeCoerce _tbCornerLeftUp)
+tbCornerLeftUp :: Icon
+tbCornerLeftUp = element _tbCornerLeftUp
 
 foreign import _tbCornerLeftUpDouble :: ReactIcon
 
-tbCornerLeftUpDouble :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCornerLeftUpDouble = element (unsafeCoerce _tbCornerLeftUpDouble)
+tbCornerLeftUpDouble :: Icon
+tbCornerLeftUpDouble = element _tbCornerLeftUpDouble
 
 foreign import _tbCornerRightDown :: ReactIcon
 
-tbCornerRightDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCornerRightDown = element (unsafeCoerce _tbCornerRightDown)
+tbCornerRightDown :: Icon
+tbCornerRightDown = element _tbCornerRightDown
 
 foreign import _tbCornerRightDownDouble :: ReactIcon
 
-tbCornerRightDownDouble :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCornerRightDownDouble = element (unsafeCoerce _tbCornerRightDownDouble)
+tbCornerRightDownDouble :: Icon
+tbCornerRightDownDouble = element _tbCornerRightDownDouble
 
 foreign import _tbCornerRightUp :: ReactIcon
 
-tbCornerRightUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCornerRightUp = element (unsafeCoerce _tbCornerRightUp)
+tbCornerRightUp :: Icon
+tbCornerRightUp = element _tbCornerRightUp
 
 foreign import _tbCornerRightUpDouble :: ReactIcon
 
-tbCornerRightUpDouble :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCornerRightUpDouble = element (unsafeCoerce _tbCornerRightUpDouble)
+tbCornerRightUpDouble :: Icon
+tbCornerRightUpDouble = element _tbCornerRightUpDouble
 
 foreign import _tbCornerUpLeft :: ReactIcon
 
-tbCornerUpLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCornerUpLeft = element (unsafeCoerce _tbCornerUpLeft)
+tbCornerUpLeft :: Icon
+tbCornerUpLeft = element _tbCornerUpLeft
 
 foreign import _tbCornerUpLeftDouble :: ReactIcon
 
-tbCornerUpLeftDouble :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCornerUpLeftDouble = element (unsafeCoerce _tbCornerUpLeftDouble)
+tbCornerUpLeftDouble :: Icon
+tbCornerUpLeftDouble = element _tbCornerUpLeftDouble
 
 foreign import _tbCornerUpRight :: ReactIcon
 
-tbCornerUpRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCornerUpRight = element (unsafeCoerce _tbCornerUpRight)
+tbCornerUpRight :: Icon
+tbCornerUpRight = element _tbCornerUpRight
 
 foreign import _tbCornerUpRightDouble :: ReactIcon
 
-tbCornerUpRightDouble :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCornerUpRightDouble = element (unsafeCoerce _tbCornerUpRightDouble)
+tbCornerUpRightDouble :: Icon
+tbCornerUpRightDouble = element _tbCornerUpRightDouble
 
 foreign import _tbCpu :: ReactIcon
 
-tbCpu :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCpu = element (unsafeCoerce _tbCpu)
+tbCpu :: Icon
+tbCpu = element _tbCpu
 
 foreign import _tbCpuOff :: ReactIcon
 
-tbCpuOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCpuOff = element (unsafeCoerce _tbCpuOff)
+tbCpuOff :: Icon
+tbCpuOff = element _tbCpuOff
 
 foreign import _tbCrane :: ReactIcon
 
-tbCrane :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCrane = element (unsafeCoerce _tbCrane)
+tbCrane :: Icon
+tbCrane = element _tbCrane
 
 foreign import _tbCraneOff :: ReactIcon
 
-tbCraneOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCraneOff = element (unsafeCoerce _tbCraneOff)
+tbCraneOff :: Icon
+tbCraneOff = element _tbCraneOff
 
 foreign import _tbCreativeCommons :: ReactIcon
 
-tbCreativeCommons :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCreativeCommons = element (unsafeCoerce _tbCreativeCommons)
+tbCreativeCommons :: Icon
+tbCreativeCommons = element _tbCreativeCommons
 
 foreign import _tbCreativeCommonsOff :: ReactIcon
 
-tbCreativeCommonsOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCreativeCommonsOff = element (unsafeCoerce _tbCreativeCommonsOff)
+tbCreativeCommonsOff :: Icon
+tbCreativeCommonsOff = element _tbCreativeCommonsOff
 
 foreign import _tbCreditCard :: ReactIcon
 
-tbCreditCard :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCreditCard = element (unsafeCoerce _tbCreditCard)
+tbCreditCard :: Icon
+tbCreditCard = element _tbCreditCard
 
 foreign import _tbCreditCardOff :: ReactIcon
 
-tbCreditCardOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCreditCardOff = element (unsafeCoerce _tbCreditCardOff)
+tbCreditCardOff :: Icon
+tbCreditCardOff = element _tbCreditCardOff
 
 foreign import _tbCricket :: ReactIcon
 
-tbCricket :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCricket = element (unsafeCoerce _tbCricket)
+tbCricket :: Icon
+tbCricket = element _tbCricket
 
 foreign import _tbCrop :: ReactIcon
 
-tbCrop :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCrop = element (unsafeCoerce _tbCrop)
+tbCrop :: Icon
+tbCrop = element _tbCrop
 
 foreign import _tbCross :: ReactIcon
 
-tbCross :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCross = element (unsafeCoerce _tbCross)
+tbCross :: Icon
+tbCross = element _tbCross
 
 foreign import _tbCrosshair :: ReactIcon
 
-tbCrosshair :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCrosshair = element (unsafeCoerce _tbCrosshair)
+tbCrosshair :: Icon
+tbCrosshair = element _tbCrosshair
 
 foreign import _tbCrossOff :: ReactIcon
 
-tbCrossOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCrossOff = element (unsafeCoerce _tbCrossOff)
+tbCrossOff :: Icon
+tbCrossOff = element _tbCrossOff
 
 foreign import _tbCrown :: ReactIcon
 
-tbCrown :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCrown = element (unsafeCoerce _tbCrown)
+tbCrown :: Icon
+tbCrown = element _tbCrown
 
 foreign import _tbCrownOff :: ReactIcon
 
-tbCrownOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCrownOff = element (unsafeCoerce _tbCrownOff)
+tbCrownOff :: Icon
+tbCrownOff = element _tbCrownOff
 
 foreign import _tbCrutches :: ReactIcon
 
-tbCrutches :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCrutches = element (unsafeCoerce _tbCrutches)
+tbCrutches :: Icon
+tbCrutches = element _tbCrutches
 
 foreign import _tbCrutchesOff :: ReactIcon
 
-tbCrutchesOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCrutchesOff = element (unsafeCoerce _tbCrutchesOff)
+tbCrutchesOff :: Icon
+tbCrutchesOff = element _tbCrutchesOff
 
 foreign import _tbCSharp :: ReactIcon
 
-tbCSharp :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCSharp = element (unsafeCoerce _tbCSharp)
+tbCSharp :: Icon
+tbCSharp = element _tbCSharp
 
 foreign import _tbCup :: ReactIcon
 
-tbCup :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCup = element (unsafeCoerce _tbCup)
+tbCup :: Icon
+tbCup = element _tbCup
 
 foreign import _tbCupOff :: ReactIcon
 
-tbCupOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCupOff = element (unsafeCoerce _tbCupOff)
+tbCupOff :: Icon
+tbCupOff = element _tbCupOff
 
 foreign import _tbCurling :: ReactIcon
 
-tbCurling :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCurling = element (unsafeCoerce _tbCurling)
+tbCurling :: Icon
+tbCurling = element _tbCurling
 
 foreign import _tbCurlyLoop :: ReactIcon
 
-tbCurlyLoop :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCurlyLoop = element (unsafeCoerce _tbCurlyLoop)
+tbCurlyLoop :: Icon
+tbCurlyLoop = element _tbCurlyLoop
 
 foreign import _tbCurrency :: ReactIcon
 
-tbCurrency :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCurrency = element (unsafeCoerce _tbCurrency)
+tbCurrency :: Icon
+tbCurrency = element _tbCurrency
 
 foreign import _tbCurrencyBahraini :: ReactIcon
 
-tbCurrencyBahraini :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCurrencyBahraini = element (unsafeCoerce _tbCurrencyBahraini)
+tbCurrencyBahraini :: Icon
+tbCurrencyBahraini = element _tbCurrencyBahraini
 
 foreign import _tbCurrencyBaht :: ReactIcon
 
-tbCurrencyBaht :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCurrencyBaht = element (unsafeCoerce _tbCurrencyBaht)
+tbCurrencyBaht :: Icon
+tbCurrencyBaht = element _tbCurrencyBaht
 
 foreign import _tbCurrencyBitcoin :: ReactIcon
 
-tbCurrencyBitcoin :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCurrencyBitcoin = element (unsafeCoerce _tbCurrencyBitcoin)
+tbCurrencyBitcoin :: Icon
+tbCurrencyBitcoin = element _tbCurrencyBitcoin
 
 foreign import _tbCurrencyCent :: ReactIcon
 
-tbCurrencyCent :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCurrencyCent = element (unsafeCoerce _tbCurrencyCent)
+tbCurrencyCent :: Icon
+tbCurrencyCent = element _tbCurrencyCent
 
 foreign import _tbCurrencyDinar :: ReactIcon
 
-tbCurrencyDinar :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCurrencyDinar = element (unsafeCoerce _tbCurrencyDinar)
+tbCurrencyDinar :: Icon
+tbCurrencyDinar = element _tbCurrencyDinar
 
 foreign import _tbCurrencyDirham :: ReactIcon
 
-tbCurrencyDirham :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCurrencyDirham = element (unsafeCoerce _tbCurrencyDirham)
+tbCurrencyDirham :: Icon
+tbCurrencyDirham = element _tbCurrencyDirham
 
 foreign import _tbCurrencyDogecoin :: ReactIcon
 
-tbCurrencyDogecoin :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCurrencyDogecoin = element (unsafeCoerce _tbCurrencyDogecoin)
+tbCurrencyDogecoin :: Icon
+tbCurrencyDogecoin = element _tbCurrencyDogecoin
 
 foreign import _tbCurrencyDollar :: ReactIcon
 
-tbCurrencyDollar :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCurrencyDollar = element (unsafeCoerce _tbCurrencyDollar)
+tbCurrencyDollar :: Icon
+tbCurrencyDollar = element _tbCurrencyDollar
 
 foreign import _tbCurrencyDollarAustralian :: ReactIcon
 
-tbCurrencyDollarAustralian :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCurrencyDollarAustralian = element (unsafeCoerce _tbCurrencyDollarAustralian)
+tbCurrencyDollarAustralian :: Icon
+tbCurrencyDollarAustralian = element _tbCurrencyDollarAustralian
 
 foreign import _tbCurrencyDollarCanadian :: ReactIcon
 
-tbCurrencyDollarCanadian :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCurrencyDollarCanadian = element (unsafeCoerce _tbCurrencyDollarCanadian)
+tbCurrencyDollarCanadian :: Icon
+tbCurrencyDollarCanadian = element _tbCurrencyDollarCanadian
 
 foreign import _tbCurrencyDollarSingapore :: ReactIcon
 
-tbCurrencyDollarSingapore :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCurrencyDollarSingapore = element (unsafeCoerce _tbCurrencyDollarSingapore)
+tbCurrencyDollarSingapore :: Icon
+tbCurrencyDollarSingapore = element _tbCurrencyDollarSingapore
 
 foreign import _tbCurrencyEthereum :: ReactIcon
 
-tbCurrencyEthereum :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCurrencyEthereum = element (unsafeCoerce _tbCurrencyEthereum)
+tbCurrencyEthereum :: Icon
+tbCurrencyEthereum = element _tbCurrencyEthereum
 
 foreign import _tbCurrencyEuro :: ReactIcon
 
-tbCurrencyEuro :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCurrencyEuro = element (unsafeCoerce _tbCurrencyEuro)
+tbCurrencyEuro :: Icon
+tbCurrencyEuro = element _tbCurrencyEuro
 
 foreign import _tbCurrencyForint :: ReactIcon
 
-tbCurrencyForint :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCurrencyForint = element (unsafeCoerce _tbCurrencyForint)
+tbCurrencyForint :: Icon
+tbCurrencyForint = element _tbCurrencyForint
 
 foreign import _tbCurrencyFrank :: ReactIcon
 
-tbCurrencyFrank :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCurrencyFrank = element (unsafeCoerce _tbCurrencyFrank)
+tbCurrencyFrank :: Icon
+tbCurrencyFrank = element _tbCurrencyFrank
 
 foreign import _tbCurrencyKroneCzech :: ReactIcon
 
-tbCurrencyKroneCzech :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCurrencyKroneCzech = element (unsafeCoerce _tbCurrencyKroneCzech)
+tbCurrencyKroneCzech :: Icon
+tbCurrencyKroneCzech = element _tbCurrencyKroneCzech
 
 foreign import _tbCurrencyKroneDanish :: ReactIcon
 
-tbCurrencyKroneDanish :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCurrencyKroneDanish = element (unsafeCoerce _tbCurrencyKroneDanish)
+tbCurrencyKroneDanish :: Icon
+tbCurrencyKroneDanish = element _tbCurrencyKroneDanish
 
 foreign import _tbCurrencyKroneSwedish :: ReactIcon
 
-tbCurrencyKroneSwedish :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCurrencyKroneSwedish = element (unsafeCoerce _tbCurrencyKroneSwedish)
+tbCurrencyKroneSwedish :: Icon
+tbCurrencyKroneSwedish = element _tbCurrencyKroneSwedish
 
 foreign import _tbCurrencyLeu :: ReactIcon
 
-tbCurrencyLeu :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCurrencyLeu = element (unsafeCoerce _tbCurrencyLeu)
+tbCurrencyLeu :: Icon
+tbCurrencyLeu = element _tbCurrencyLeu
 
 foreign import _tbCurrencyLira :: ReactIcon
 
-tbCurrencyLira :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCurrencyLira = element (unsafeCoerce _tbCurrencyLira)
+tbCurrencyLira :: Icon
+tbCurrencyLira = element _tbCurrencyLira
 
 foreign import _tbCurrencyLitecoin :: ReactIcon
 
-tbCurrencyLitecoin :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCurrencyLitecoin = element (unsafeCoerce _tbCurrencyLitecoin)
+tbCurrencyLitecoin :: Icon
+tbCurrencyLitecoin = element _tbCurrencyLitecoin
 
 foreign import _tbCurrencyNaira :: ReactIcon
 
-tbCurrencyNaira :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCurrencyNaira = element (unsafeCoerce _tbCurrencyNaira)
+tbCurrencyNaira :: Icon
+tbCurrencyNaira = element _tbCurrencyNaira
 
 foreign import _tbCurrencyPound :: ReactIcon
 
-tbCurrencyPound :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCurrencyPound = element (unsafeCoerce _tbCurrencyPound)
+tbCurrencyPound :: Icon
+tbCurrencyPound = element _tbCurrencyPound
 
 foreign import _tbCurrencyReal :: ReactIcon
 
-tbCurrencyReal :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCurrencyReal = element (unsafeCoerce _tbCurrencyReal)
+tbCurrencyReal :: Icon
+tbCurrencyReal = element _tbCurrencyReal
 
 foreign import _tbCurrencyRenminbi :: ReactIcon
 
-tbCurrencyRenminbi :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCurrencyRenminbi = element (unsafeCoerce _tbCurrencyRenminbi)
+tbCurrencyRenminbi :: Icon
+tbCurrencyRenminbi = element _tbCurrencyRenminbi
 
 foreign import _tbCurrencyRipple :: ReactIcon
 
-tbCurrencyRipple :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCurrencyRipple = element (unsafeCoerce _tbCurrencyRipple)
+tbCurrencyRipple :: Icon
+tbCurrencyRipple = element _tbCurrencyRipple
 
 foreign import _tbCurrencyRiyal :: ReactIcon
 
-tbCurrencyRiyal :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCurrencyRiyal = element (unsafeCoerce _tbCurrencyRiyal)
+tbCurrencyRiyal :: Icon
+tbCurrencyRiyal = element _tbCurrencyRiyal
 
 foreign import _tbCurrencyRubel :: ReactIcon
 
-tbCurrencyRubel :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCurrencyRubel = element (unsafeCoerce _tbCurrencyRubel)
+tbCurrencyRubel :: Icon
+tbCurrencyRubel = element _tbCurrencyRubel
 
 foreign import _tbCurrencyRupee :: ReactIcon
 
-tbCurrencyRupee :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCurrencyRupee = element (unsafeCoerce _tbCurrencyRupee)
+tbCurrencyRupee :: Icon
+tbCurrencyRupee = element _tbCurrencyRupee
 
 foreign import _tbCurrencyShekel :: ReactIcon
 
-tbCurrencyShekel :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCurrencyShekel = element (unsafeCoerce _tbCurrencyShekel)
+tbCurrencyShekel :: Icon
+tbCurrencyShekel = element _tbCurrencyShekel
 
 foreign import _tbCurrencyTaka :: ReactIcon
 
-tbCurrencyTaka :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCurrencyTaka = element (unsafeCoerce _tbCurrencyTaka)
+tbCurrencyTaka :: Icon
+tbCurrencyTaka = element _tbCurrencyTaka
 
 foreign import _tbCurrencyTugrik :: ReactIcon
 
-tbCurrencyTugrik :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCurrencyTugrik = element (unsafeCoerce _tbCurrencyTugrik)
+tbCurrencyTugrik :: Icon
+tbCurrencyTugrik = element _tbCurrencyTugrik
 
 foreign import _tbCurrencyWon :: ReactIcon
 
-tbCurrencyWon :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCurrencyWon = element (unsafeCoerce _tbCurrencyWon)
+tbCurrencyWon :: Icon
+tbCurrencyWon = element _tbCurrencyWon
 
 foreign import _tbCurrencyYen :: ReactIcon
 
-tbCurrencyYen :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCurrencyYen = element (unsafeCoerce _tbCurrencyYen)
+tbCurrencyYen :: Icon
+tbCurrencyYen = element _tbCurrencyYen
 
 foreign import _tbCurrencyZloty :: ReactIcon
 
-tbCurrencyZloty :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCurrencyZloty = element (unsafeCoerce _tbCurrencyZloty)
+tbCurrencyZloty :: Icon
+tbCurrencyZloty = element _tbCurrencyZloty
 
 foreign import _tbCurrentLocation :: ReactIcon
 
-tbCurrentLocation :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCurrentLocation = element (unsafeCoerce _tbCurrentLocation)
+tbCurrentLocation :: Icon
+tbCurrentLocation = element _tbCurrentLocation
 
 foreign import _tbCurrentLocationOff :: ReactIcon
 
-tbCurrentLocationOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCurrentLocationOff = element (unsafeCoerce _tbCurrentLocationOff)
+tbCurrentLocationOff :: Icon
+tbCurrentLocationOff = element _tbCurrentLocationOff
 
 foreign import _tbCursorOff :: ReactIcon
 
-tbCursorOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCursorOff = element (unsafeCoerce _tbCursorOff)
+tbCursorOff :: Icon
+tbCursorOff = element _tbCursorOff
 
 foreign import _tbCursorText :: ReactIcon
 
-tbCursorText :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCursorText = element (unsafeCoerce _tbCursorText)
+tbCursorText :: Icon
+tbCursorText = element _tbCursorText
 
 foreign import _tbCut :: ReactIcon
 
-tbCut :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbCut = element (unsafeCoerce _tbCut)
+tbCut :: Icon
+tbCut = element _tbCut
 
 foreign import _tbDashboard :: ReactIcon
 
-tbDashboard :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbDashboard = element (unsafeCoerce _tbDashboard)
+tbDashboard :: Icon
+tbDashboard = element _tbDashboard
 
 foreign import _tbDatabase :: ReactIcon
 
-tbDatabase :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbDatabase = element (unsafeCoerce _tbDatabase)
+tbDatabase :: Icon
+tbDatabase = element _tbDatabase
 
 foreign import _tbDatabaseExport :: ReactIcon
 
-tbDatabaseExport :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbDatabaseExport = element (unsafeCoerce _tbDatabaseExport)
+tbDatabaseExport :: Icon
+tbDatabaseExport = element _tbDatabaseExport
 
 foreign import _tbDatabaseImport :: ReactIcon
 
-tbDatabaseImport :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbDatabaseImport = element (unsafeCoerce _tbDatabaseImport)
+tbDatabaseImport :: Icon
+tbDatabaseImport = element _tbDatabaseImport
 
 foreign import _tbDatabaseOff :: ReactIcon
 
-tbDatabaseOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbDatabaseOff = element (unsafeCoerce _tbDatabaseOff)
+tbDatabaseOff :: Icon
+tbDatabaseOff = element _tbDatabaseOff
 
 foreign import _tbDental :: ReactIcon
 
-tbDental :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbDental = element (unsafeCoerce _tbDental)
+tbDental :: Icon
+tbDental = element _tbDental
 
 foreign import _tbDentalOff :: ReactIcon
 
-tbDentalOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbDentalOff = element (unsafeCoerce _tbDentalOff)
+tbDentalOff :: Icon
+tbDentalOff = element _tbDentalOff
 
 foreign import _tbDetails :: ReactIcon
 
-tbDetails :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbDetails = element (unsafeCoerce _tbDetails)
+tbDetails :: Icon
+tbDetails = element _tbDetails
 
 foreign import _tbDeviceAnalytics :: ReactIcon
 
-tbDeviceAnalytics :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbDeviceAnalytics = element (unsafeCoerce _tbDeviceAnalytics)
+tbDeviceAnalytics :: Icon
+tbDeviceAnalytics = element _tbDeviceAnalytics
 
 foreign import _tbDeviceAudioTape :: ReactIcon
 
-tbDeviceAudioTape :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbDeviceAudioTape = element (unsafeCoerce _tbDeviceAudioTape)
+tbDeviceAudioTape :: Icon
+tbDeviceAudioTape = element _tbDeviceAudioTape
 
 foreign import _tbDeviceCctv :: ReactIcon
 
-tbDeviceCctv :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbDeviceCctv = element (unsafeCoerce _tbDeviceCctv)
+tbDeviceCctv :: Icon
+tbDeviceCctv = element _tbDeviceCctv
 
 foreign import _tbDeviceComputerCamera :: ReactIcon
 
-tbDeviceComputerCamera :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbDeviceComputerCamera = element (unsafeCoerce _tbDeviceComputerCamera)
+tbDeviceComputerCamera :: Icon
+tbDeviceComputerCamera = element _tbDeviceComputerCamera
 
 foreign import _tbDeviceComputerCameraOff :: ReactIcon
 
-tbDeviceComputerCameraOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbDeviceComputerCameraOff = element (unsafeCoerce _tbDeviceComputerCameraOff)
+tbDeviceComputerCameraOff :: Icon
+tbDeviceComputerCameraOff = element _tbDeviceComputerCameraOff
 
 foreign import _tbDeviceDesktop :: ReactIcon
 
-tbDeviceDesktop :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbDeviceDesktop = element (unsafeCoerce _tbDeviceDesktop)
+tbDeviceDesktop :: Icon
+tbDeviceDesktop = element _tbDeviceDesktop
 
 foreign import _tbDeviceDesktopAnalytics :: ReactIcon
 
-tbDeviceDesktopAnalytics :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbDeviceDesktopAnalytics = element (unsafeCoerce _tbDeviceDesktopAnalytics)
+tbDeviceDesktopAnalytics :: Icon
+tbDeviceDesktopAnalytics = element _tbDeviceDesktopAnalytics
 
 foreign import _tbDeviceDesktopOff :: ReactIcon
 
-tbDeviceDesktopOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbDeviceDesktopOff = element (unsafeCoerce _tbDeviceDesktopOff)
+tbDeviceDesktopOff :: Icon
+tbDeviceDesktopOff = element _tbDeviceDesktopOff
 
 foreign import _tbDeviceFloppy :: ReactIcon
 
-tbDeviceFloppy :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbDeviceFloppy = element (unsafeCoerce _tbDeviceFloppy)
+tbDeviceFloppy :: Icon
+tbDeviceFloppy = element _tbDeviceFloppy
 
 foreign import _tbDeviceGamepad :: ReactIcon
 
-tbDeviceGamepad :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbDeviceGamepad = element (unsafeCoerce _tbDeviceGamepad)
+tbDeviceGamepad :: Icon
+tbDeviceGamepad = element _tbDeviceGamepad
 
 foreign import _tbDeviceHeartMonitor :: ReactIcon
 
-tbDeviceHeartMonitor :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbDeviceHeartMonitor = element (unsafeCoerce _tbDeviceHeartMonitor)
+tbDeviceHeartMonitor :: Icon
+tbDeviceHeartMonitor = element _tbDeviceHeartMonitor
 
 foreign import _tbDeviceLaptop :: ReactIcon
 
-tbDeviceLaptop :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbDeviceLaptop = element (unsafeCoerce _tbDeviceLaptop)
+tbDeviceLaptop :: Icon
+tbDeviceLaptop = element _tbDeviceLaptop
 
 foreign import _tbDeviceLaptopOff :: ReactIcon
 
-tbDeviceLaptopOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbDeviceLaptopOff = element (unsafeCoerce _tbDeviceLaptopOff)
+tbDeviceLaptopOff :: Icon
+tbDeviceLaptopOff = element _tbDeviceLaptopOff
 
 foreign import _tbDeviceMobile :: ReactIcon
 
-tbDeviceMobile :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbDeviceMobile = element (unsafeCoerce _tbDeviceMobile)
+tbDeviceMobile :: Icon
+tbDeviceMobile = element _tbDeviceMobile
 
 foreign import _tbDeviceMobileMessage :: ReactIcon
 
-tbDeviceMobileMessage :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbDeviceMobileMessage = element (unsafeCoerce _tbDeviceMobileMessage)
+tbDeviceMobileMessage :: Icon
+tbDeviceMobileMessage = element _tbDeviceMobileMessage
 
 foreign import _tbDeviceMobileOff :: ReactIcon
 
-tbDeviceMobileOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbDeviceMobileOff = element (unsafeCoerce _tbDeviceMobileOff)
+tbDeviceMobileOff :: Icon
+tbDeviceMobileOff = element _tbDeviceMobileOff
 
 foreign import _tbDeviceMobileRotated :: ReactIcon
 
-tbDeviceMobileRotated :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbDeviceMobileRotated = element (unsafeCoerce _tbDeviceMobileRotated)
+tbDeviceMobileRotated :: Icon
+tbDeviceMobileRotated = element _tbDeviceMobileRotated
 
 foreign import _tbDeviceMobileVibration :: ReactIcon
 
-tbDeviceMobileVibration :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbDeviceMobileVibration = element (unsafeCoerce _tbDeviceMobileVibration)
+tbDeviceMobileVibration :: Icon
+tbDeviceMobileVibration = element _tbDeviceMobileVibration
 
 foreign import _tbDeviceNintendo :: ReactIcon
 
-tbDeviceNintendo :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbDeviceNintendo = element (unsafeCoerce _tbDeviceNintendo)
+tbDeviceNintendo :: Icon
+tbDeviceNintendo = element _tbDeviceNintendo
 
 foreign import _tbDeviceNintendoOff :: ReactIcon
 
-tbDeviceNintendoOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbDeviceNintendoOff = element (unsafeCoerce _tbDeviceNintendoOff)
+tbDeviceNintendoOff :: Icon
+tbDeviceNintendoOff = element _tbDeviceNintendoOff
 
 foreign import _tbDevices :: ReactIcon
 
-tbDevices :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbDevices = element (unsafeCoerce _tbDevices)
+tbDevices :: Icon
+tbDevices = element _tbDevices
 
 foreign import _tbDevicesOff :: ReactIcon
 
-tbDevicesOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbDevicesOff = element (unsafeCoerce _tbDevicesOff)
+tbDevicesOff :: Icon
+tbDevicesOff = element _tbDevicesOff
 
 foreign import _tbDevicesPc :: ReactIcon
 
-tbDevicesPc :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbDevicesPc = element (unsafeCoerce _tbDevicesPc)
+tbDevicesPc :: Icon
+tbDevicesPc = element _tbDevicesPc
 
 foreign import _tbDevicesPcOff :: ReactIcon
 
-tbDevicesPcOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbDevicesPcOff = element (unsafeCoerce _tbDevicesPcOff)
+tbDevicesPcOff :: Icon
+tbDevicesPcOff = element _tbDevicesPcOff
 
 foreign import _tbDeviceSpeaker :: ReactIcon
 
-tbDeviceSpeaker :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbDeviceSpeaker = element (unsafeCoerce _tbDeviceSpeaker)
+tbDeviceSpeaker :: Icon
+tbDeviceSpeaker = element _tbDeviceSpeaker
 
 foreign import _tbDeviceSpeakerOff :: ReactIcon
 
-tbDeviceSpeakerOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbDeviceSpeakerOff = element (unsafeCoerce _tbDeviceSpeakerOff)
+tbDeviceSpeakerOff :: Icon
+tbDeviceSpeakerOff = element _tbDeviceSpeakerOff
 
 foreign import _tbDeviceTablet :: ReactIcon
 
-tbDeviceTablet :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbDeviceTablet = element (unsafeCoerce _tbDeviceTablet)
+tbDeviceTablet :: Icon
+tbDeviceTablet = element _tbDeviceTablet
 
 foreign import _tbDeviceTabletOff :: ReactIcon
 
-tbDeviceTabletOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbDeviceTabletOff = element (unsafeCoerce _tbDeviceTabletOff)
+tbDeviceTabletOff :: Icon
+tbDeviceTabletOff = element _tbDeviceTabletOff
 
 foreign import _tbDeviceTv :: ReactIcon
 
-tbDeviceTv :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbDeviceTv = element (unsafeCoerce _tbDeviceTv)
+tbDeviceTv :: Icon
+tbDeviceTv = element _tbDeviceTv
 
 foreign import _tbDeviceTvOff :: ReactIcon
 
-tbDeviceTvOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbDeviceTvOff = element (unsafeCoerce _tbDeviceTvOff)
+tbDeviceTvOff :: Icon
+tbDeviceTvOff = element _tbDeviceTvOff
 
 foreign import _tbDeviceTvOld :: ReactIcon
 
-tbDeviceTvOld :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbDeviceTvOld = element (unsafeCoerce _tbDeviceTvOld)
+tbDeviceTvOld :: Icon
+tbDeviceTvOld = element _tbDeviceTvOld
 
 foreign import _tbDeviceWatch :: ReactIcon
 
-tbDeviceWatch :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbDeviceWatch = element (unsafeCoerce _tbDeviceWatch)
+tbDeviceWatch :: Icon
+tbDeviceWatch = element _tbDeviceWatch
 
 foreign import _tbDeviceWatchOff :: ReactIcon
 
-tbDeviceWatchOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbDeviceWatchOff = element (unsafeCoerce _tbDeviceWatchOff)
+tbDeviceWatchOff :: Icon
+tbDeviceWatchOff = element _tbDeviceWatchOff
 
 foreign import _tbDeviceWatchStats :: ReactIcon
 
-tbDeviceWatchStats :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbDeviceWatchStats = element (unsafeCoerce _tbDeviceWatchStats)
+tbDeviceWatchStats :: Icon
+tbDeviceWatchStats = element _tbDeviceWatchStats
 
 foreign import _tbDialpad :: ReactIcon
 
-tbDialpad :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbDialpad = element (unsafeCoerce _tbDialpad)
+tbDialpad :: Icon
+tbDialpad = element _tbDialpad
 
 foreign import _tbDialpadOff :: ReactIcon
 
-tbDialpadOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbDialpadOff = element (unsafeCoerce _tbDialpadOff)
+tbDialpadOff :: Icon
+tbDialpadOff = element _tbDialpadOff
 
 foreign import _tbDiamond :: ReactIcon
 
-tbDiamond :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbDiamond = element (unsafeCoerce _tbDiamond)
+tbDiamond :: Icon
+tbDiamond = element _tbDiamond
 
 foreign import _tbDiamondOff :: ReactIcon
 
-tbDiamondOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbDiamondOff = element (unsafeCoerce _tbDiamondOff)
+tbDiamondOff :: Icon
+tbDiamondOff = element _tbDiamondOff
 
 foreign import _tbDiamonds :: ReactIcon
 
-tbDiamonds :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbDiamonds = element (unsafeCoerce _tbDiamonds)
+tbDiamonds :: Icon
+tbDiamonds = element _tbDiamonds
 
 foreign import _tbDice :: ReactIcon
 
-tbDice :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbDice = element (unsafeCoerce _tbDice)
+tbDice :: Icon
+tbDice = element _tbDice
 
 foreign import _tbDimensions :: ReactIcon
 
-tbDimensions :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbDimensions = element (unsafeCoerce _tbDimensions)
+tbDimensions :: Icon
+tbDimensions = element _tbDimensions
 
 foreign import _tbDirection :: ReactIcon
 
-tbDirection :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbDirection = element (unsafeCoerce _tbDirection)
+tbDirection :: Icon
+tbDirection = element _tbDirection
 
 foreign import _tbDirectionHorizontal :: ReactIcon
 
-tbDirectionHorizontal :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbDirectionHorizontal = element (unsafeCoerce _tbDirectionHorizontal)
+tbDirectionHorizontal :: Icon
+tbDirectionHorizontal = element _tbDirectionHorizontal
 
 foreign import _tbDirections :: ReactIcon
 
-tbDirections :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbDirections = element (unsafeCoerce _tbDirections)
+tbDirections :: Icon
+tbDirections = element _tbDirections
 
 foreign import _tbDirectionsOff :: ReactIcon
 
-tbDirectionsOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbDirectionsOff = element (unsafeCoerce _tbDirectionsOff)
+tbDirectionsOff :: Icon
+tbDirectionsOff = element _tbDirectionsOff
 
 foreign import _tbDisabled :: ReactIcon
 
-tbDisabled :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbDisabled = element (unsafeCoerce _tbDisabled)
+tbDisabled :: Icon
+tbDisabled = element _tbDisabled
 
 foreign import _tbDisabledOff :: ReactIcon
 
-tbDisabledOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbDisabledOff = element (unsafeCoerce _tbDisabledOff)
+tbDisabledOff :: Icon
+tbDisabledOff = element _tbDisabledOff
 
 foreign import _tbDisc :: ReactIcon
 
-tbDisc :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbDisc = element (unsafeCoerce _tbDisc)
+tbDisc :: Icon
+tbDisc = element _tbDisc
 
 foreign import _tbDiscOff :: ReactIcon
 
-tbDiscOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbDiscOff = element (unsafeCoerce _tbDiscOff)
+tbDiscOff :: Icon
+tbDiscOff = element _tbDiscOff
 
 foreign import _tbDiscount :: ReactIcon
 
-tbDiscount :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbDiscount = element (unsafeCoerce _tbDiscount)
+tbDiscount :: Icon
+tbDiscount = element _tbDiscount
 
 foreign import _tbDivide :: ReactIcon
 
-tbDivide :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbDivide = element (unsafeCoerce _tbDivide)
+tbDivide :: Icon
+tbDivide = element _tbDivide
 
 foreign import _tbDna :: ReactIcon
 
-tbDna :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbDna = element (unsafeCoerce _tbDna)
+tbDna :: Icon
+tbDna = element _tbDna
 
 foreign import _tbDnaOff :: ReactIcon
 
-tbDnaOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbDnaOff = element (unsafeCoerce _tbDnaOff)
+tbDnaOff :: Icon
+tbDnaOff = element _tbDnaOff
 
 foreign import _tbDogBowl :: ReactIcon
 
-tbDogBowl :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbDogBowl = element (unsafeCoerce _tbDogBowl)
+tbDogBowl :: Icon
+tbDogBowl = element _tbDogBowl
 
 foreign import _tbDoor :: ReactIcon
 
-tbDoor :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbDoor = element (unsafeCoerce _tbDoor)
+tbDoor :: Icon
+tbDoor = element _tbDoor
 
 foreign import _tbDoorEnter :: ReactIcon
 
-tbDoorEnter :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbDoorEnter = element (unsafeCoerce _tbDoorEnter)
+tbDoorEnter :: Icon
+tbDoorEnter = element _tbDoorEnter
 
 foreign import _tbDoorExit :: ReactIcon
 
-tbDoorExit :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbDoorExit = element (unsafeCoerce _tbDoorExit)
+tbDoorExit :: Icon
+tbDoorExit = element _tbDoorExit
 
 foreign import _tbDoorOff :: ReactIcon
 
-tbDoorOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbDoorOff = element (unsafeCoerce _tbDoorOff)
+tbDoorOff :: Icon
+tbDoorOff = element _tbDoorOff
 
 foreign import _tbDots :: ReactIcon
 
-tbDots :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbDots = element (unsafeCoerce _tbDots)
+tbDots :: Icon
+tbDots = element _tbDots
 
 foreign import _tbDotsCircleHorizontal :: ReactIcon
 
-tbDotsCircleHorizontal :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbDotsCircleHorizontal = element (unsafeCoerce _tbDotsCircleHorizontal)
+tbDotsCircleHorizontal :: Icon
+tbDotsCircleHorizontal = element _tbDotsCircleHorizontal
 
 foreign import _tbDotsDiagonal :: ReactIcon
 
-tbDotsDiagonal :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbDotsDiagonal = element (unsafeCoerce _tbDotsDiagonal)
+tbDotsDiagonal :: Icon
+tbDotsDiagonal = element _tbDotsDiagonal
 
 foreign import _tbDotsVertical :: ReactIcon
 
-tbDotsVertical :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbDotsVertical = element (unsafeCoerce _tbDotsVertical)
+tbDotsVertical :: Icon
+tbDotsVertical = element _tbDotsVertical
 
 foreign import _tbDownload :: ReactIcon
 
-tbDownload :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbDownload = element (unsafeCoerce _tbDownload)
+tbDownload :: Icon
+tbDownload = element _tbDownload
 
 foreign import _tbDownloadOff :: ReactIcon
 
-tbDownloadOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbDownloadOff = element (unsafeCoerce _tbDownloadOff)
+tbDownloadOff :: Icon
+tbDownloadOff = element _tbDownloadOff
 
 foreign import _tbDragDrop :: ReactIcon
 
-tbDragDrop :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbDragDrop = element (unsafeCoerce _tbDragDrop)
+tbDragDrop :: Icon
+tbDragDrop = element _tbDragDrop
 
 foreign import _tbDrone :: ReactIcon
 
-tbDrone :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbDrone = element (unsafeCoerce _tbDrone)
+tbDrone :: Icon
+tbDrone = element _tbDrone
 
 foreign import _tbDroneOff :: ReactIcon
 
-tbDroneOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbDroneOff = element (unsafeCoerce _tbDroneOff)
+tbDroneOff :: Icon
+tbDroneOff = element _tbDroneOff
 
 foreign import _tbDropCircle :: ReactIcon
 
-tbDropCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbDropCircle = element (unsafeCoerce _tbDropCircle)
+tbDropCircle :: Icon
+tbDropCircle = element _tbDropCircle
 
 foreign import _tbDroplet :: ReactIcon
 
-tbDroplet :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbDroplet = element (unsafeCoerce _tbDroplet)
+tbDroplet :: Icon
+tbDroplet = element _tbDroplet
 
 foreign import _tbDropletFilled :: ReactIcon
 
-tbDropletFilled :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbDropletFilled = element (unsafeCoerce _tbDropletFilled)
+tbDropletFilled :: Icon
+tbDropletFilled = element _tbDropletFilled
 
 foreign import _tbDropletHalf :: ReactIcon
 
-tbDropletHalf :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbDropletHalf = element (unsafeCoerce _tbDropletHalf)
+tbDropletHalf :: Icon
+tbDropletHalf = element _tbDropletHalf
 
 foreign import _tbDropletOff :: ReactIcon
 
-tbDropletOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbDropletOff = element (unsafeCoerce _tbDropletOff)
+tbDropletOff :: Icon
+tbDropletOff = element _tbDropletOff
 
 foreign import _tbEar :: ReactIcon
 
-tbEar :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbEar = element (unsafeCoerce _tbEar)
+tbEar :: Icon
+tbEar = element _tbEar
 
 foreign import _tbEarOff :: ReactIcon
 
-tbEarOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbEarOff = element (unsafeCoerce _tbEarOff)
+tbEarOff :: Icon
+tbEarOff = element _tbEarOff
 
 foreign import _tbEdit :: ReactIcon
 
-tbEdit :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbEdit = element (unsafeCoerce _tbEdit)
+tbEdit :: Icon
+tbEdit = element _tbEdit
 
 foreign import _tbEditCircle :: ReactIcon
 
-tbEditCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbEditCircle = element (unsafeCoerce _tbEditCircle)
+tbEditCircle :: Icon
+tbEditCircle = element _tbEditCircle
 
 foreign import _tbEditCircleOff :: ReactIcon
 
-tbEditCircleOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbEditCircleOff = element (unsafeCoerce _tbEditCircleOff)
+tbEditCircleOff :: Icon
+tbEditCircleOff = element _tbEditCircleOff
 
 foreign import _tbEditOff :: ReactIcon
 
-tbEditOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbEditOff = element (unsafeCoerce _tbEditOff)
+tbEditOff :: Icon
+tbEditOff = element _tbEditOff
 
 foreign import _tbEgg :: ReactIcon
 
-tbEgg :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbEgg = element (unsafeCoerce _tbEgg)
+tbEgg :: Icon
+tbEgg = element _tbEgg
 
 foreign import _tbEggOff :: ReactIcon
 
-tbEggOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbEggOff = element (unsafeCoerce _tbEggOff)
+tbEggOff :: Icon
+tbEggOff = element _tbEggOff
 
 foreign import _tbElevator :: ReactIcon
 
-tbElevator :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbElevator = element (unsafeCoerce _tbElevator)
+tbElevator :: Icon
+tbElevator = element _tbElevator
 
 foreign import _tbEmergencyBed :: ReactIcon
 
-tbEmergencyBed :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbEmergencyBed = element (unsafeCoerce _tbEmergencyBed)
+tbEmergencyBed :: Icon
+tbEmergencyBed = element _tbEmergencyBed
 
 foreign import _tbEmphasis :: ReactIcon
 
-tbEmphasis :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbEmphasis = element (unsafeCoerce _tbEmphasis)
+tbEmphasis :: Icon
+tbEmphasis = element _tbEmphasis
 
 foreign import _tbEngine :: ReactIcon
 
-tbEngine :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbEngine = element (unsafeCoerce _tbEngine)
+tbEngine :: Icon
+tbEngine = element _tbEngine
 
 foreign import _tbEngineOff :: ReactIcon
 
-tbEngineOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbEngineOff = element (unsafeCoerce _tbEngineOff)
+tbEngineOff :: Icon
+tbEngineOff = element _tbEngineOff
 
 foreign import _tbEqual :: ReactIcon
 
-tbEqual :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbEqual = element (unsafeCoerce _tbEqual)
+tbEqual :: Icon
+tbEqual = element _tbEqual
 
 foreign import _tbEqualNot :: ReactIcon
 
-tbEqualNot :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbEqualNot = element (unsafeCoerce _tbEqualNot)
+tbEqualNot :: Icon
+tbEqualNot = element _tbEqualNot
 
 foreign import _tbEraser :: ReactIcon
 
-tbEraser :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbEraser = element (unsafeCoerce _tbEraser)
+tbEraser :: Icon
+tbEraser = element _tbEraser
 
 foreign import _tbEraserOff :: ReactIcon
 
-tbEraserOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbEraserOff = element (unsafeCoerce _tbEraserOff)
+tbEraserOff :: Icon
+tbEraserOff = element _tbEraserOff
 
 foreign import _tbExchange :: ReactIcon
 
-tbExchange :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbExchange = element (unsafeCoerce _tbExchange)
+tbExchange :: Icon
+tbExchange = element _tbExchange
 
 foreign import _tbExchangeOff :: ReactIcon
 
-tbExchangeOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbExchangeOff = element (unsafeCoerce _tbExchangeOff)
+tbExchangeOff :: Icon
+tbExchangeOff = element _tbExchangeOff
 
 foreign import _tbExclamationMark :: ReactIcon
 
-tbExclamationMark :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbExclamationMark = element (unsafeCoerce _tbExclamationMark)
+tbExclamationMark :: Icon
+tbExclamationMark = element _tbExclamationMark
 
 foreign import _tbExclamationMarkOff :: ReactIcon
 
-tbExclamationMarkOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbExclamationMarkOff = element (unsafeCoerce _tbExclamationMarkOff)
+tbExclamationMarkOff :: Icon
+tbExclamationMarkOff = element _tbExclamationMarkOff
 
 foreign import _tbExposure :: ReactIcon
 
-tbExposure :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbExposure = element (unsafeCoerce _tbExposure)
+tbExposure :: Icon
+tbExposure = element _tbExposure
 
 foreign import _tbExternalLink :: ReactIcon
 
-tbExternalLink :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbExternalLink = element (unsafeCoerce _tbExternalLink)
+tbExternalLink :: Icon
+tbExternalLink = element _tbExternalLink
 
 foreign import _tbExternalLinkOff :: ReactIcon
 
-tbExternalLinkOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbExternalLinkOff = element (unsafeCoerce _tbExternalLinkOff)
+tbExternalLinkOff :: Icon
+tbExternalLinkOff = element _tbExternalLinkOff
 
 foreign import _tbEye :: ReactIcon
 
-tbEye :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbEye = element (unsafeCoerce _tbEye)
+tbEye :: Icon
+tbEye = element _tbEye
 
 foreign import _tbEyeCheck :: ReactIcon
 
-tbEyeCheck :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbEyeCheck = element (unsafeCoerce _tbEyeCheck)
+tbEyeCheck :: Icon
+tbEyeCheck = element _tbEyeCheck
 
 foreign import _tbEyeglass :: ReactIcon
 
-tbEyeglass :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbEyeglass = element (unsafeCoerce _tbEyeglass)
+tbEyeglass :: Icon
+tbEyeglass = element _tbEyeglass
 
 foreign import _tbEyeglassOff :: ReactIcon
 
-tbEyeglassOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbEyeglassOff = element (unsafeCoerce _tbEyeglassOff)
+tbEyeglassOff :: Icon
+tbEyeglassOff = element _tbEyeglassOff
 
 foreign import _tbEyeOff :: ReactIcon
 
-tbEyeOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbEyeOff = element (unsafeCoerce _tbEyeOff)
+tbEyeOff :: Icon
+tbEyeOff = element _tbEyeOff
 
 foreign import _tbEyeTable :: ReactIcon
 
-tbEyeTable :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbEyeTable = element (unsafeCoerce _tbEyeTable)
+tbEyeTable :: Icon
+tbEyeTable = element _tbEyeTable
 
 foreign import _tbFaceId :: ReactIcon
 
-tbFaceId :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbFaceId = element (unsafeCoerce _tbFaceId)
+tbFaceId :: Icon
+tbFaceId = element _tbFaceId
 
 foreign import _tbFaceIdError :: ReactIcon
 
-tbFaceIdError :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbFaceIdError = element (unsafeCoerce _tbFaceIdError)
+tbFaceIdError :: Icon
+tbFaceIdError = element _tbFaceIdError
 
 foreign import _tbFaceMask :: ReactIcon
 
-tbFaceMask :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbFaceMask = element (unsafeCoerce _tbFaceMask)
+tbFaceMask :: Icon
+tbFaceMask = element _tbFaceMask
 
 foreign import _tbFaceMaskOff :: ReactIcon
 
-tbFaceMaskOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbFaceMaskOff = element (unsafeCoerce _tbFaceMaskOff)
+tbFaceMaskOff :: Icon
+tbFaceMaskOff = element _tbFaceMaskOff
 
 foreign import _tbFall :: ReactIcon
 
-tbFall :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbFall = element (unsafeCoerce _tbFall)
+tbFall :: Icon
+tbFall = element _tbFall
 
 foreign import _tbFeather :: ReactIcon
 
-tbFeather :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbFeather = element (unsafeCoerce _tbFeather)
+tbFeather :: Icon
+tbFeather = element _tbFeather
 
 foreign import _tbFeatherOff :: ReactIcon
 
-tbFeatherOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbFeatherOff = element (unsafeCoerce _tbFeatherOff)
+tbFeatherOff :: Icon
+tbFeatherOff = element _tbFeatherOff
 
 foreign import _tbFence :: ReactIcon
 
-tbFence :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbFence = element (unsafeCoerce _tbFence)
+tbFence :: Icon
+tbFence = element _tbFence
 
 foreign import _tbFenceOff :: ReactIcon
 
-tbFenceOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbFenceOff = element (unsafeCoerce _tbFenceOff)
+tbFenceOff :: Icon
+tbFenceOff = element _tbFenceOff
 
 foreign import _tbFidgetSpinner :: ReactIcon
 
-tbFidgetSpinner :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbFidgetSpinner = element (unsafeCoerce _tbFidgetSpinner)
+tbFidgetSpinner :: Icon
+tbFidgetSpinner = element _tbFidgetSpinner
 
 foreign import _tbFile :: ReactIcon
 
-tbFile :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbFile = element (unsafeCoerce _tbFile)
+tbFile :: Icon
+tbFile = element _tbFile
 
 foreign import _tbFileAlert :: ReactIcon
 
-tbFileAlert :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbFileAlert = element (unsafeCoerce _tbFileAlert)
+tbFileAlert :: Icon
+tbFileAlert = element _tbFileAlert
 
 foreign import _tbFileAnalytics :: ReactIcon
 
-tbFileAnalytics :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbFileAnalytics = element (unsafeCoerce _tbFileAnalytics)
+tbFileAnalytics :: Icon
+tbFileAnalytics = element _tbFileAnalytics
 
 foreign import _tbFileArrowLeft :: ReactIcon
 
-tbFileArrowLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbFileArrowLeft = element (unsafeCoerce _tbFileArrowLeft)
+tbFileArrowLeft :: Icon
+tbFileArrowLeft = element _tbFileArrowLeft
 
 foreign import _tbFileArrowRight :: ReactIcon
 
-tbFileArrowRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbFileArrowRight = element (unsafeCoerce _tbFileArrowRight)
+tbFileArrowRight :: Icon
+tbFileArrowRight = element _tbFileArrowRight
 
 foreign import _tbFileBarcode :: ReactIcon
 
-tbFileBarcode :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbFileBarcode = element (unsafeCoerce _tbFileBarcode)
+tbFileBarcode :: Icon
+tbFileBarcode = element _tbFileBarcode
 
 foreign import _tbFileCertificate :: ReactIcon
 
-tbFileCertificate :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbFileCertificate = element (unsafeCoerce _tbFileCertificate)
+tbFileCertificate :: Icon
+tbFileCertificate = element _tbFileCertificate
 
 foreign import _tbFileChart :: ReactIcon
 
-tbFileChart :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbFileChart = element (unsafeCoerce _tbFileChart)
+tbFileChart :: Icon
+tbFileChart = element _tbFileChart
 
 foreign import _tbFileCheck :: ReactIcon
 
-tbFileCheck :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbFileCheck = element (unsafeCoerce _tbFileCheck)
+tbFileCheck :: Icon
+tbFileCheck = element _tbFileCheck
 
 foreign import _tbFileCode :: ReactIcon
 
-tbFileCode :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbFileCode = element (unsafeCoerce _tbFileCode)
+tbFileCode :: Icon
+tbFileCode = element _tbFileCode
 
 foreign import _tbFileDatabase :: ReactIcon
 
-tbFileDatabase :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbFileDatabase = element (unsafeCoerce _tbFileDatabase)
+tbFileDatabase :: Icon
+tbFileDatabase = element _tbFileDatabase
 
 foreign import _tbFileDescription :: ReactIcon
 
-tbFileDescription :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbFileDescription = element (unsafeCoerce _tbFileDescription)
+tbFileDescription :: Icon
+tbFileDescription = element _tbFileDescription
 
 foreign import _tbFileDiff :: ReactIcon
 
-tbFileDiff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbFileDiff = element (unsafeCoerce _tbFileDiff)
+tbFileDiff :: Icon
+tbFileDiff = element _tbFileDiff
 
 foreign import _tbFileDigit :: ReactIcon
 
-tbFileDigit :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbFileDigit = element (unsafeCoerce _tbFileDigit)
+tbFileDigit :: Icon
+tbFileDigit = element _tbFileDigit
 
 foreign import _tbFileDislike :: ReactIcon
 
-tbFileDislike :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbFileDislike = element (unsafeCoerce _tbFileDislike)
+tbFileDislike :: Icon
+tbFileDislike = element _tbFileDislike
 
 foreign import _tbFileDollar :: ReactIcon
 
-tbFileDollar :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbFileDollar = element (unsafeCoerce _tbFileDollar)
+tbFileDollar :: Icon
+tbFileDollar = element _tbFileDollar
 
 foreign import _tbFileDots :: ReactIcon
 
-tbFileDots :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbFileDots = element (unsafeCoerce _tbFileDots)
+tbFileDots :: Icon
+tbFileDots = element _tbFileDots
 
 foreign import _tbFileDownload :: ReactIcon
 
-tbFileDownload :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbFileDownload = element (unsafeCoerce _tbFileDownload)
+tbFileDownload :: Icon
+tbFileDownload = element _tbFileDownload
 
 foreign import _tbFileEuro :: ReactIcon
 
-tbFileEuro :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbFileEuro = element (unsafeCoerce _tbFileEuro)
+tbFileEuro :: Icon
+tbFileEuro = element _tbFileEuro
 
 foreign import _tbFileExport :: ReactIcon
 
-tbFileExport :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbFileExport = element (unsafeCoerce _tbFileExport)
+tbFileExport :: Icon
+tbFileExport = element _tbFileExport
 
 foreign import _tbFileHorizontal :: ReactIcon
 
-tbFileHorizontal :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbFileHorizontal = element (unsafeCoerce _tbFileHorizontal)
+tbFileHorizontal :: Icon
+tbFileHorizontal = element _tbFileHorizontal
 
 foreign import _tbFileImport :: ReactIcon
 
-tbFileImport :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbFileImport = element (unsafeCoerce _tbFileImport)
+tbFileImport :: Icon
+tbFileImport = element _tbFileImport
 
 foreign import _tbFileInfo :: ReactIcon
 
-tbFileInfo :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbFileInfo = element (unsafeCoerce _tbFileInfo)
+tbFileInfo :: Icon
+tbFileInfo = element _tbFileInfo
 
 foreign import _tbFileInvoice :: ReactIcon
 
-tbFileInvoice :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbFileInvoice = element (unsafeCoerce _tbFileInvoice)
+tbFileInvoice :: Icon
+tbFileInvoice = element _tbFileInvoice
 
 foreign import _tbFileLike :: ReactIcon
 
-tbFileLike :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbFileLike = element (unsafeCoerce _tbFileLike)
+tbFileLike :: Icon
+tbFileLike = element _tbFileLike
 
 foreign import _tbFileMinus :: ReactIcon
 
-tbFileMinus :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbFileMinus = element (unsafeCoerce _tbFileMinus)
+tbFileMinus :: Icon
+tbFileMinus = element _tbFileMinus
 
 foreign import _tbFileMusic :: ReactIcon
 
-tbFileMusic :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbFileMusic = element (unsafeCoerce _tbFileMusic)
+tbFileMusic :: Icon
+tbFileMusic = element _tbFileMusic
 
 foreign import _tbFileOff :: ReactIcon
 
-tbFileOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbFileOff = element (unsafeCoerce _tbFileOff)
+tbFileOff :: Icon
+tbFileOff = element _tbFileOff
 
 foreign import _tbFilePencil :: ReactIcon
 
-tbFilePencil :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbFilePencil = element (unsafeCoerce _tbFilePencil)
+tbFilePencil :: Icon
+tbFilePencil = element _tbFilePencil
 
 foreign import _tbFilePhone :: ReactIcon
 
-tbFilePhone :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbFilePhone = element (unsafeCoerce _tbFilePhone)
+tbFilePhone :: Icon
+tbFilePhone = element _tbFilePhone
 
 foreign import _tbFilePlus :: ReactIcon
 
-tbFilePlus :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbFilePlus = element (unsafeCoerce _tbFilePlus)
+tbFilePlus :: Icon
+tbFilePlus = element _tbFilePlus
 
 foreign import _tbFilePower :: ReactIcon
 
-tbFilePower :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbFilePower = element (unsafeCoerce _tbFilePower)
+tbFilePower :: Icon
+tbFilePower = element _tbFilePower
 
 foreign import _tbFileReport :: ReactIcon
 
-tbFileReport :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbFileReport = element (unsafeCoerce _tbFileReport)
+tbFileReport :: Icon
+tbFileReport = element _tbFileReport
 
 foreign import _tbFileRss :: ReactIcon
 
-tbFileRss :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbFileRss = element (unsafeCoerce _tbFileRss)
+tbFileRss :: Icon
+tbFileRss = element _tbFileRss
 
 foreign import _tbFiles :: ReactIcon
 
-tbFiles :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbFiles = element (unsafeCoerce _tbFiles)
+tbFiles :: Icon
+tbFiles = element _tbFiles
 
 foreign import _tbFileScissors :: ReactIcon
 
-tbFileScissors :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbFileScissors = element (unsafeCoerce _tbFileScissors)
+tbFileScissors :: Icon
+tbFileScissors = element _tbFileScissors
 
 foreign import _tbFileSearch :: ReactIcon
 
-tbFileSearch :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbFileSearch = element (unsafeCoerce _tbFileSearch)
+tbFileSearch :: Icon
+tbFileSearch = element _tbFileSearch
 
 foreign import _tbFileSettings :: ReactIcon
 
-tbFileSettings :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbFileSettings = element (unsafeCoerce _tbFileSettings)
+tbFileSettings :: Icon
+tbFileSettings = element _tbFileSettings
 
 foreign import _tbFileShredder :: ReactIcon
 
-tbFileShredder :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbFileShredder = element (unsafeCoerce _tbFileShredder)
+tbFileShredder :: Icon
+tbFileShredder = element _tbFileShredder
 
 foreign import _tbFileSignal :: ReactIcon
 
-tbFileSignal :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbFileSignal = element (unsafeCoerce _tbFileSignal)
+tbFileSignal :: Icon
+tbFileSignal = element _tbFileSignal
 
 foreign import _tbFilesOff :: ReactIcon
 
-tbFilesOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbFilesOff = element (unsafeCoerce _tbFilesOff)
+tbFilesOff :: Icon
+tbFilesOff = element _tbFilesOff
 
 foreign import _tbFileSpreadsheet :: ReactIcon
 
-tbFileSpreadsheet :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbFileSpreadsheet = element (unsafeCoerce _tbFileSpreadsheet)
+tbFileSpreadsheet :: Icon
+tbFileSpreadsheet = element _tbFileSpreadsheet
 
 foreign import _tbFileStar :: ReactIcon
 
-tbFileStar :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbFileStar = element (unsafeCoerce _tbFileStar)
+tbFileStar :: Icon
+tbFileStar = element _tbFileStar
 
 foreign import _tbFileSymlink :: ReactIcon
 
-tbFileSymlink :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbFileSymlink = element (unsafeCoerce _tbFileSymlink)
+tbFileSymlink :: Icon
+tbFileSymlink = element _tbFileSymlink
 
 foreign import _tbFileText :: ReactIcon
 
-tbFileText :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbFileText = element (unsafeCoerce _tbFileText)
+tbFileText :: Icon
+tbFileText = element _tbFileText
 
 foreign import _tbFileTime :: ReactIcon
 
-tbFileTime :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbFileTime = element (unsafeCoerce _tbFileTime)
+tbFileTime :: Icon
+tbFileTime = element _tbFileTime
 
 foreign import _tbFileTypography :: ReactIcon
 
-tbFileTypography :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbFileTypography = element (unsafeCoerce _tbFileTypography)
+tbFileTypography :: Icon
+tbFileTypography = element _tbFileTypography
 
 foreign import _tbFileUnknown :: ReactIcon
 
-tbFileUnknown :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbFileUnknown = element (unsafeCoerce _tbFileUnknown)
+tbFileUnknown :: Icon
+tbFileUnknown = element _tbFileUnknown
 
 foreign import _tbFileUpload :: ReactIcon
 
-tbFileUpload :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbFileUpload = element (unsafeCoerce _tbFileUpload)
+tbFileUpload :: Icon
+tbFileUpload = element _tbFileUpload
 
 foreign import _tbFileVector :: ReactIcon
 
-tbFileVector :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbFileVector = element (unsafeCoerce _tbFileVector)
+tbFileVector :: Icon
+tbFileVector = element _tbFileVector
 
 foreign import _tbFileX :: ReactIcon
 
-tbFileX :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbFileX = element (unsafeCoerce _tbFileX)
+tbFileX :: Icon
+tbFileX = element _tbFileX
 
 foreign import _tbFileZip :: ReactIcon
 
-tbFileZip :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbFileZip = element (unsafeCoerce _tbFileZip)
+tbFileZip :: Icon
+tbFileZip = element _tbFileZip
 
 foreign import _tbFilter :: ReactIcon
 
-tbFilter :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbFilter = element (unsafeCoerce _tbFilter)
+tbFilter :: Icon
+tbFilter = element _tbFilter
 
 foreign import _tbFilterOff :: ReactIcon
 
-tbFilterOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbFilterOff = element (unsafeCoerce _tbFilterOff)
+tbFilterOff :: Icon
+tbFilterOff = element _tbFilterOff
 
 foreign import _tbFingerprint :: ReactIcon
 
-tbFingerprint :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbFingerprint = element (unsafeCoerce _tbFingerprint)
+tbFingerprint :: Icon
+tbFingerprint = element _tbFingerprint
 
 foreign import _tbFingerprintOff :: ReactIcon
 
-tbFingerprintOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbFingerprintOff = element (unsafeCoerce _tbFingerprintOff)
+tbFingerprintOff :: Icon
+tbFingerprintOff = element _tbFingerprintOff
 
 foreign import _tbFiretruck :: ReactIcon
 
-tbFiretruck :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbFiretruck = element (unsafeCoerce _tbFiretruck)
+tbFiretruck :: Icon
+tbFiretruck = element _tbFiretruck
 
 foreign import _tbFirstAidKit :: ReactIcon
 
-tbFirstAidKit :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbFirstAidKit = element (unsafeCoerce _tbFirstAidKit)
+tbFirstAidKit :: Icon
+tbFirstAidKit = element _tbFirstAidKit
 
 foreign import _tbFish :: ReactIcon
 
-tbFish :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbFish = element (unsafeCoerce _tbFish)
+tbFish :: Icon
+tbFish = element _tbFish
 
 foreign import _tbFishOff :: ReactIcon
 
-tbFishOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbFishOff = element (unsafeCoerce _tbFishOff)
+tbFishOff :: Icon
+tbFishOff = element _tbFishOff
 
 foreign import _tbFlag :: ReactIcon
 
-tbFlag :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbFlag = element (unsafeCoerce _tbFlag)
+tbFlag :: Icon
+tbFlag = element _tbFlag
 
 foreign import _tbFlagOff :: ReactIcon
 
-tbFlagOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbFlagOff = element (unsafeCoerce _tbFlagOff)
+tbFlagOff :: Icon
+tbFlagOff = element _tbFlagOff
 
 foreign import _tbFlame :: ReactIcon
 
-tbFlame :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbFlame = element (unsafeCoerce _tbFlame)
+tbFlame :: Icon
+tbFlame = element _tbFlame
 
 foreign import _tbFlameOff :: ReactIcon
 
-tbFlameOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbFlameOff = element (unsafeCoerce _tbFlameOff)
+tbFlameOff :: Icon
+tbFlameOff = element _tbFlameOff
 
 foreign import _tbFlare :: ReactIcon
 
-tbFlare :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbFlare = element (unsafeCoerce _tbFlare)
+tbFlare :: Icon
+tbFlare = element _tbFlare
 
 foreign import _tbFlask :: ReactIcon
 
-tbFlask :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbFlask = element (unsafeCoerce _tbFlask)
+tbFlask :: Icon
+tbFlask = element _tbFlask
 
 foreign import _tbFlaskOff :: ReactIcon
 
-tbFlaskOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbFlaskOff = element (unsafeCoerce _tbFlaskOff)
+tbFlaskOff :: Icon
+tbFlaskOff = element _tbFlaskOff
 
 foreign import _tbFlipHorizontal :: ReactIcon
 
-tbFlipHorizontal :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbFlipHorizontal = element (unsafeCoerce _tbFlipHorizontal)
+tbFlipHorizontal :: Icon
+tbFlipHorizontal = element _tbFlipHorizontal
 
 foreign import _tbFlipVertical :: ReactIcon
 
-tbFlipVertical :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbFlipVertical = element (unsafeCoerce _tbFlipVertical)
+tbFlipVertical :: Icon
+tbFlipVertical = element _tbFlipVertical
 
 foreign import _tbFloatCenter :: ReactIcon
 
-tbFloatCenter :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbFloatCenter = element (unsafeCoerce _tbFloatCenter)
+tbFloatCenter :: Icon
+tbFloatCenter = element _tbFloatCenter
 
 foreign import _tbFloatLeft :: ReactIcon
 
-tbFloatLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbFloatLeft = element (unsafeCoerce _tbFloatLeft)
+tbFloatLeft :: Icon
+tbFloatLeft = element _tbFloatLeft
 
 foreign import _tbFloatNone :: ReactIcon
 
-tbFloatNone :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbFloatNone = element (unsafeCoerce _tbFloatNone)
+tbFloatNone :: Icon
+tbFloatNone = element _tbFloatNone
 
 foreign import _tbFloatRight :: ReactIcon
 
-tbFloatRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbFloatRight = element (unsafeCoerce _tbFloatRight)
+tbFloatRight :: Icon
+tbFloatRight = element _tbFloatRight
 
 foreign import _tbFlower :: ReactIcon
 
-tbFlower :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbFlower = element (unsafeCoerce _tbFlower)
+tbFlower :: Icon
+tbFlower = element _tbFlower
 
 foreign import _tbFlowerOff :: ReactIcon
 
-tbFlowerOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbFlowerOff = element (unsafeCoerce _tbFlowerOff)
+tbFlowerOff :: Icon
+tbFlowerOff = element _tbFlowerOff
 
 foreign import _tbFocus :: ReactIcon
 
-tbFocus :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbFocus = element (unsafeCoerce _tbFocus)
+tbFocus :: Icon
+tbFocus = element _tbFocus
 
 foreign import _tbFocusCentered :: ReactIcon
 
-tbFocusCentered :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbFocusCentered = element (unsafeCoerce _tbFocusCentered)
+tbFocusCentered :: Icon
+tbFocusCentered = element _tbFocusCentered
 
 foreign import _tbFold :: ReactIcon
 
-tbFold :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbFold = element (unsafeCoerce _tbFold)
+tbFold :: Icon
+tbFold = element _tbFold
 
 foreign import _tbFoldDown :: ReactIcon
 
-tbFoldDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbFoldDown = element (unsafeCoerce _tbFoldDown)
+tbFoldDown :: Icon
+tbFoldDown = element _tbFoldDown
 
 foreign import _tbFolder :: ReactIcon
 
-tbFolder :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbFolder = element (unsafeCoerce _tbFolder)
+tbFolder :: Icon
+tbFolder = element _tbFolder
 
 foreign import _tbFolderMinus :: ReactIcon
 
-tbFolderMinus :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbFolderMinus = element (unsafeCoerce _tbFolderMinus)
+tbFolderMinus :: Icon
+tbFolderMinus = element _tbFolderMinus
 
 foreign import _tbFolderOff :: ReactIcon
 
-tbFolderOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbFolderOff = element (unsafeCoerce _tbFolderOff)
+tbFolderOff :: Icon
+tbFolderOff = element _tbFolderOff
 
 foreign import _tbFolderPlus :: ReactIcon
 
-tbFolderPlus :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbFolderPlus = element (unsafeCoerce _tbFolderPlus)
+tbFolderPlus :: Icon
+tbFolderPlus = element _tbFolderPlus
 
 foreign import _tbFolders :: ReactIcon
 
-tbFolders :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbFolders = element (unsafeCoerce _tbFolders)
+tbFolders :: Icon
+tbFolders = element _tbFolders
 
 foreign import _tbFoldersOff :: ReactIcon
 
-tbFoldersOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbFoldersOff = element (unsafeCoerce _tbFoldersOff)
+tbFoldersOff :: Icon
+tbFoldersOff = element _tbFoldersOff
 
 foreign import _tbFolderX :: ReactIcon
 
-tbFolderX :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbFolderX = element (unsafeCoerce _tbFolderX)
+tbFolderX :: Icon
+tbFolderX = element _tbFolderX
 
 foreign import _tbFoldUp :: ReactIcon
 
-tbFoldUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbFoldUp = element (unsafeCoerce _tbFoldUp)
+tbFoldUp :: Icon
+tbFoldUp = element _tbFoldUp
 
 foreign import _tbForbid :: ReactIcon
 
-tbForbid :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbForbid = element (unsafeCoerce _tbForbid)
+tbForbid :: Icon
+tbForbid = element _tbForbid
 
 foreign import _tbForklift :: ReactIcon
 
-tbForklift :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbForklift = element (unsafeCoerce _tbForklift)
+tbForklift :: Icon
+tbForklift = element _tbForklift
 
 foreign import _tbForms :: ReactIcon
 
-tbForms :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbForms = element (unsafeCoerce _tbForms)
+tbForms :: Icon
+tbForms = element _tbForms
 
 foreign import _tbFountain :: ReactIcon
 
-tbFountain :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbFountain = element (unsafeCoerce _tbFountain)
+tbFountain :: Icon
+tbFountain = element _tbFountain
 
 foreign import _tbFountainOff :: ReactIcon
 
-tbFountainOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbFountainOff = element (unsafeCoerce _tbFountainOff)
+tbFountainOff :: Icon
+tbFountainOff = element _tbFountainOff
 
 foreign import _tbFrame :: ReactIcon
 
-tbFrame :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbFrame = element (unsafeCoerce _tbFrame)
+tbFrame :: Icon
+tbFrame = element _tbFrame
 
 foreign import _tbFrameOff :: ReactIcon
 
-tbFrameOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbFrameOff = element (unsafeCoerce _tbFrameOff)
+tbFrameOff :: Icon
+tbFrameOff = element _tbFrameOff
 
 foreign import _tbFreeRights :: ReactIcon
 
-tbFreeRights :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbFreeRights = element (unsafeCoerce _tbFreeRights)
+tbFreeRights :: Icon
+tbFreeRights = element _tbFreeRights
 
 foreign import _tbFriends :: ReactIcon
 
-tbFriends :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbFriends = element (unsafeCoerce _tbFriends)
+tbFriends :: Icon
+tbFriends = element _tbFriends
 
 foreign import _tbFriendsOff :: ReactIcon
 
-tbFriendsOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbFriendsOff = element (unsafeCoerce _tbFriendsOff)
+tbFriendsOff :: Icon
+tbFriendsOff = element _tbFriendsOff
 
 foreign import _tbGasStation :: ReactIcon
 
-tbGasStation :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbGasStation = element (unsafeCoerce _tbGasStation)
+tbGasStation :: Icon
+tbGasStation = element _tbGasStation
 
 foreign import _tbGasStationOff :: ReactIcon
 
-tbGasStationOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbGasStationOff = element (unsafeCoerce _tbGasStationOff)
+tbGasStationOff :: Icon
+tbGasStationOff = element _tbGasStationOff
 
 foreign import _tbGauge :: ReactIcon
 
-tbGauge :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbGauge = element (unsafeCoerce _tbGauge)
+tbGauge :: Icon
+tbGauge = element _tbGauge
 
 foreign import _tbGaugeOff :: ReactIcon
 
-tbGaugeOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbGaugeOff = element (unsafeCoerce _tbGaugeOff)
+tbGaugeOff :: Icon
+tbGaugeOff = element _tbGaugeOff
 
 foreign import _tbGavel :: ReactIcon
 
-tbGavel :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbGavel = element (unsafeCoerce _tbGavel)
+tbGavel :: Icon
+tbGavel = element _tbGavel
 
 foreign import _tbGenderAgender :: ReactIcon
 
-tbGenderAgender :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbGenderAgender = element (unsafeCoerce _tbGenderAgender)
+tbGenderAgender :: Icon
+tbGenderAgender = element _tbGenderAgender
 
 foreign import _tbGenderAndrogyne :: ReactIcon
 
-tbGenderAndrogyne :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbGenderAndrogyne = element (unsafeCoerce _tbGenderAndrogyne)
+tbGenderAndrogyne :: Icon
+tbGenderAndrogyne = element _tbGenderAndrogyne
 
 foreign import _tbGenderBigender :: ReactIcon
 
-tbGenderBigender :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbGenderBigender = element (unsafeCoerce _tbGenderBigender)
+tbGenderBigender :: Icon
+tbGenderBigender = element _tbGenderBigender
 
 foreign import _tbGenderDemiboy :: ReactIcon
 
-tbGenderDemiboy :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbGenderDemiboy = element (unsafeCoerce _tbGenderDemiboy)
+tbGenderDemiboy :: Icon
+tbGenderDemiboy = element _tbGenderDemiboy
 
 foreign import _tbGenderDemigirl :: ReactIcon
 
-tbGenderDemigirl :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbGenderDemigirl = element (unsafeCoerce _tbGenderDemigirl)
+tbGenderDemigirl :: Icon
+tbGenderDemigirl = element _tbGenderDemigirl
 
 foreign import _tbGenderEpicene :: ReactIcon
 
-tbGenderEpicene :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbGenderEpicene = element (unsafeCoerce _tbGenderEpicene)
+tbGenderEpicene :: Icon
+tbGenderEpicene = element _tbGenderEpicene
 
 foreign import _tbGenderFemale :: ReactIcon
 
-tbGenderFemale :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbGenderFemale = element (unsafeCoerce _tbGenderFemale)
+tbGenderFemale :: Icon
+tbGenderFemale = element _tbGenderFemale
 
 foreign import _tbGenderFemme :: ReactIcon
 
-tbGenderFemme :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbGenderFemme = element (unsafeCoerce _tbGenderFemme)
+tbGenderFemme :: Icon
+tbGenderFemme = element _tbGenderFemme
 
 foreign import _tbGenderGenderfluid :: ReactIcon
 
-tbGenderGenderfluid :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbGenderGenderfluid = element (unsafeCoerce _tbGenderGenderfluid)
+tbGenderGenderfluid :: Icon
+tbGenderGenderfluid = element _tbGenderGenderfluid
 
 foreign import _tbGenderGenderless :: ReactIcon
 
-tbGenderGenderless :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbGenderGenderless = element (unsafeCoerce _tbGenderGenderless)
+tbGenderGenderless :: Icon
+tbGenderGenderless = element _tbGenderGenderless
 
 foreign import _tbGenderGenderqueer :: ReactIcon
 
-tbGenderGenderqueer :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbGenderGenderqueer = element (unsafeCoerce _tbGenderGenderqueer)
+tbGenderGenderqueer :: Icon
+tbGenderGenderqueer = element _tbGenderGenderqueer
 
 foreign import _tbGenderHermaphrodite :: ReactIcon
 
-tbGenderHermaphrodite :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbGenderHermaphrodite = element (unsafeCoerce _tbGenderHermaphrodite)
+tbGenderHermaphrodite :: Icon
+tbGenderHermaphrodite = element _tbGenderHermaphrodite
 
 foreign import _tbGenderIntergender :: ReactIcon
 
-tbGenderIntergender :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbGenderIntergender = element (unsafeCoerce _tbGenderIntergender)
+tbGenderIntergender :: Icon
+tbGenderIntergender = element _tbGenderIntergender
 
 foreign import _tbGenderMale :: ReactIcon
 
-tbGenderMale :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbGenderMale = element (unsafeCoerce _tbGenderMale)
+tbGenderMale :: Icon
+tbGenderMale = element _tbGenderMale
 
 foreign import _tbGenderNeutrois :: ReactIcon
 
-tbGenderNeutrois :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbGenderNeutrois = element (unsafeCoerce _tbGenderNeutrois)
+tbGenderNeutrois :: Icon
+tbGenderNeutrois = element _tbGenderNeutrois
 
 foreign import _tbGenderThird :: ReactIcon
 
-tbGenderThird :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbGenderThird = element (unsafeCoerce _tbGenderThird)
+tbGenderThird :: Icon
+tbGenderThird = element _tbGenderThird
 
 foreign import _tbGenderTransgender :: ReactIcon
 
-tbGenderTransgender :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbGenderTransgender = element (unsafeCoerce _tbGenderTransgender)
+tbGenderTransgender :: Icon
+tbGenderTransgender = element _tbGenderTransgender
 
 foreign import _tbGenderTrasvesti :: ReactIcon
 
-tbGenderTrasvesti :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbGenderTrasvesti = element (unsafeCoerce _tbGenderTrasvesti)
+tbGenderTrasvesti :: Icon
+tbGenderTrasvesti = element _tbGenderTrasvesti
 
 foreign import _tbGeometry :: ReactIcon
 
-tbGeometry :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbGeometry = element (unsafeCoerce _tbGeometry)
+tbGeometry :: Icon
+tbGeometry = element _tbGeometry
 
 foreign import _tbGhost :: ReactIcon
 
-tbGhost :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbGhost = element (unsafeCoerce _tbGhost)
+tbGhost :: Icon
+tbGhost = element _tbGhost
 
 foreign import _tbGift :: ReactIcon
 
-tbGift :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbGift = element (unsafeCoerce _tbGift)
+tbGift :: Icon
+tbGift = element _tbGift
 
 foreign import _tbGitBranch :: ReactIcon
 
-tbGitBranch :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbGitBranch = element (unsafeCoerce _tbGitBranch)
+tbGitBranch :: Icon
+tbGitBranch = element _tbGitBranch
 
 foreign import _tbGitCommit :: ReactIcon
 
-tbGitCommit :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbGitCommit = element (unsafeCoerce _tbGitCommit)
+tbGitCommit :: Icon
+tbGitCommit = element _tbGitCommit
 
 foreign import _tbGitCompare :: ReactIcon
 
-tbGitCompare :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbGitCompare = element (unsafeCoerce _tbGitCompare)
+tbGitCompare :: Icon
+tbGitCompare = element _tbGitCompare
 
 foreign import _tbGitFork :: ReactIcon
 
-tbGitFork :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbGitFork = element (unsafeCoerce _tbGitFork)
+tbGitFork :: Icon
+tbGitFork = element _tbGitFork
 
 foreign import _tbGitMerge :: ReactIcon
 
-tbGitMerge :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbGitMerge = element (unsafeCoerce _tbGitMerge)
+tbGitMerge :: Icon
+tbGitMerge = element _tbGitMerge
 
 foreign import _tbGitPullRequest :: ReactIcon
 
-tbGitPullRequest :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbGitPullRequest = element (unsafeCoerce _tbGitPullRequest)
+tbGitPullRequest :: Icon
+tbGitPullRequest = element _tbGitPullRequest
 
 foreign import _tbGitPullRequestClosed :: ReactIcon
 
-tbGitPullRequestClosed :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbGitPullRequestClosed = element (unsafeCoerce _tbGitPullRequestClosed)
+tbGitPullRequestClosed :: Icon
+tbGitPullRequestClosed = element _tbGitPullRequestClosed
 
 foreign import _tbGitPullRequestDraft :: ReactIcon
 
-tbGitPullRequestDraft :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbGitPullRequestDraft = element (unsafeCoerce _tbGitPullRequestDraft)
+tbGitPullRequestDraft :: Icon
+tbGitPullRequestDraft = element _tbGitPullRequestDraft
 
 foreign import _tbGizmo :: ReactIcon
 
-tbGizmo :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbGizmo = element (unsafeCoerce _tbGizmo)
+tbGizmo :: Icon
+tbGizmo = element _tbGizmo
 
 foreign import _tbGlass :: ReactIcon
 
-tbGlass :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbGlass = element (unsafeCoerce _tbGlass)
+tbGlass :: Icon
+tbGlass = element _tbGlass
 
 foreign import _tbGlassFull :: ReactIcon
 
-tbGlassFull :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbGlassFull = element (unsafeCoerce _tbGlassFull)
+tbGlassFull :: Icon
+tbGlassFull = element _tbGlassFull
 
 foreign import _tbGlassOff :: ReactIcon
 
-tbGlassOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbGlassOff = element (unsafeCoerce _tbGlassOff)
+tbGlassOff :: Icon
+tbGlassOff = element _tbGlassOff
 
 foreign import _tbGlobe :: ReactIcon
 
-tbGlobe :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbGlobe = element (unsafeCoerce _tbGlobe)
+tbGlobe :: Icon
+tbGlobe = element _tbGlobe
 
 foreign import _tbGlobeOff :: ReactIcon
 
-tbGlobeOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbGlobeOff = element (unsafeCoerce _tbGlobeOff)
+tbGlobeOff :: Icon
+tbGlobeOff = element _tbGlobeOff
 
 foreign import _tbGolf :: ReactIcon
 
-tbGolf :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbGolf = element (unsafeCoerce _tbGolf)
+tbGolf :: Icon
+tbGolf = element _tbGolf
 
 foreign import _tbGolfOff :: ReactIcon
 
-tbGolfOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbGolfOff = element (unsafeCoerce _tbGolfOff)
+tbGolfOff :: Icon
+tbGolfOff = element _tbGolfOff
 
 foreign import _tbGps :: ReactIcon
 
-tbGps :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbGps = element (unsafeCoerce _tbGps)
+tbGps :: Icon
+tbGps = element _tbGps
 
 foreign import _tbGrain :: ReactIcon
 
-tbGrain :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbGrain = element (unsafeCoerce _tbGrain)
+tbGrain :: Icon
+tbGrain = element _tbGrain
 
 foreign import _tbGridDots :: ReactIcon
 
-tbGridDots :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbGridDots = element (unsafeCoerce _tbGridDots)
+tbGridDots :: Icon
+tbGridDots = element _tbGridDots
 
 foreign import _tbGridPattern :: ReactIcon
 
-tbGridPattern :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbGridPattern = element (unsafeCoerce _tbGridPattern)
+tbGridPattern :: Icon
+tbGridPattern = element _tbGridPattern
 
 foreign import _tbGrill :: ReactIcon
 
-tbGrill :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbGrill = element (unsafeCoerce _tbGrill)
+tbGrill :: Icon
+tbGrill = element _tbGrill
 
 foreign import _tbGrillOff :: ReactIcon
 
-tbGrillOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbGrillOff = element (unsafeCoerce _tbGrillOff)
+tbGrillOff :: Icon
+tbGrillOff = element _tbGrillOff
 
 foreign import _tbGripHorizontal :: ReactIcon
 
-tbGripHorizontal :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbGripHorizontal = element (unsafeCoerce _tbGripHorizontal)
+tbGripHorizontal :: Icon
+tbGripHorizontal = element _tbGripHorizontal
 
 foreign import _tbGripVertical :: ReactIcon
 
-tbGripVertical :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbGripVertical = element (unsafeCoerce _tbGripVertical)
+tbGripVertical :: Icon
+tbGripVertical = element _tbGripVertical
 
 foreign import _tbGrowth :: ReactIcon
 
-tbGrowth :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbGrowth = element (unsafeCoerce _tbGrowth)
+tbGrowth :: Icon
+tbGrowth = element _tbGrowth
 
 foreign import _tbHammer :: ReactIcon
 
-tbHammer :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbHammer = element (unsafeCoerce _tbHammer)
+tbHammer :: Icon
+tbHammer = element _tbHammer
 
 foreign import _tbHammerOff :: ReactIcon
 
-tbHammerOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbHammerOff = element (unsafeCoerce _tbHammerOff)
+tbHammerOff :: Icon
+tbHammerOff = element _tbHammerOff
 
 foreign import _tbHandClick :: ReactIcon
 
-tbHandClick :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbHandClick = element (unsafeCoerce _tbHandClick)
+tbHandClick :: Icon
+tbHandClick = element _tbHandClick
 
 foreign import _tbHandFinger :: ReactIcon
 
-tbHandFinger :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbHandFinger = element (unsafeCoerce _tbHandFinger)
+tbHandFinger :: Icon
+tbHandFinger = element _tbHandFinger
 
 foreign import _tbHandFingerOff :: ReactIcon
 
-tbHandFingerOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbHandFingerOff = element (unsafeCoerce _tbHandFingerOff)
+tbHandFingerOff :: Icon
+tbHandFingerOff = element _tbHandFingerOff
 
 foreign import _tbHandGrab :: ReactIcon
 
-tbHandGrab :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbHandGrab = element (unsafeCoerce _tbHandGrab)
+tbHandGrab :: Icon
+tbHandGrab = element _tbHandGrab
 
 foreign import _tbHandLittleFinger :: ReactIcon
 
-tbHandLittleFinger :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbHandLittleFinger = element (unsafeCoerce _tbHandLittleFinger)
+tbHandLittleFinger :: Icon
+tbHandLittleFinger = element _tbHandLittleFinger
 
 foreign import _tbHandMiddleFinger :: ReactIcon
 
-tbHandMiddleFinger :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbHandMiddleFinger = element (unsafeCoerce _tbHandMiddleFinger)
+tbHandMiddleFinger :: Icon
+tbHandMiddleFinger = element _tbHandMiddleFinger
 
 foreign import _tbHandMove :: ReactIcon
 
-tbHandMove :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbHandMove = element (unsafeCoerce _tbHandMove)
+tbHandMove :: Icon
+tbHandMove = element _tbHandMove
 
 foreign import _tbHandOff :: ReactIcon
 
-tbHandOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbHandOff = element (unsafeCoerce _tbHandOff)
+tbHandOff :: Icon
+tbHandOff = element _tbHandOff
 
 foreign import _tbHandRingFinger :: ReactIcon
 
-tbHandRingFinger :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbHandRingFinger = element (unsafeCoerce _tbHandRingFinger)
+tbHandRingFinger :: Icon
+tbHandRingFinger = element _tbHandRingFinger
 
 foreign import _tbHandRock :: ReactIcon
 
-tbHandRock :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbHandRock = element (unsafeCoerce _tbHandRock)
+tbHandRock :: Icon
+tbHandRock = element _tbHandRock
 
 foreign import _tbHandStop :: ReactIcon
 
-tbHandStop :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbHandStop = element (unsafeCoerce _tbHandStop)
+tbHandStop :: Icon
+tbHandStop = element _tbHandStop
 
 foreign import _tbHandThreeFingers :: ReactIcon
 
-tbHandThreeFingers :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbHandThreeFingers = element (unsafeCoerce _tbHandThreeFingers)
+tbHandThreeFingers :: Icon
+tbHandThreeFingers = element _tbHandThreeFingers
 
 foreign import _tbHandTwoFingers :: ReactIcon
 
-tbHandTwoFingers :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbHandTwoFingers = element (unsafeCoerce _tbHandTwoFingers)
+tbHandTwoFingers :: Icon
+tbHandTwoFingers = element _tbHandTwoFingers
 
 foreign import _tbHanger :: ReactIcon
 
-tbHanger :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbHanger = element (unsafeCoerce _tbHanger)
+tbHanger :: Icon
+tbHanger = element _tbHanger
 
 foreign import _tbHangerOff :: ReactIcon
 
-tbHangerOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbHangerOff = element (unsafeCoerce _tbHangerOff)
+tbHangerOff :: Icon
+tbHangerOff = element _tbHangerOff
 
 foreign import _tbHash :: ReactIcon
 
-tbHash :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbHash = element (unsafeCoerce _tbHash)
+tbHash :: Icon
+tbHash = element _tbHash
 
 foreign import _tbHaze :: ReactIcon
 
-tbHaze :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbHaze = element (unsafeCoerce _tbHaze)
+tbHaze :: Icon
+tbHaze = element _tbHaze
 
 foreign import _tbHeading :: ReactIcon
 
-tbHeading :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbHeading = element (unsafeCoerce _tbHeading)
+tbHeading :: Icon
+tbHeading = element _tbHeading
 
 foreign import _tbHeadingOff :: ReactIcon
 
-tbHeadingOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbHeadingOff = element (unsafeCoerce _tbHeadingOff)
+tbHeadingOff :: Icon
+tbHeadingOff = element _tbHeadingOff
 
 foreign import _tbHeadphones :: ReactIcon
 
-tbHeadphones :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbHeadphones = element (unsafeCoerce _tbHeadphones)
+tbHeadphones :: Icon
+tbHeadphones = element _tbHeadphones
 
 foreign import _tbHeadphonesOff :: ReactIcon
 
-tbHeadphonesOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbHeadphonesOff = element (unsafeCoerce _tbHeadphonesOff)
+tbHeadphonesOff :: Icon
+tbHeadphonesOff = element _tbHeadphonesOff
 
 foreign import _tbHeadset :: ReactIcon
 
-tbHeadset :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbHeadset = element (unsafeCoerce _tbHeadset)
+tbHeadset :: Icon
+tbHeadset = element _tbHeadset
 
 foreign import _tbHeart :: ReactIcon
 
-tbHeart :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbHeart = element (unsafeCoerce _tbHeart)
+tbHeart :: Icon
+tbHeart = element _tbHeart
 
 foreign import _tbHeartbeat :: ReactIcon
 
-tbHeartbeat :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbHeartbeat = element (unsafeCoerce _tbHeartbeat)
+tbHeartbeat :: Icon
+tbHeartbeat = element _tbHeartbeat
 
 foreign import _tbHeartBroken :: ReactIcon
 
-tbHeartBroken :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbHeartBroken = element (unsafeCoerce _tbHeartBroken)
+tbHeartBroken :: Icon
+tbHeartBroken = element _tbHeartBroken
 
 foreign import _tbHeartHandshake :: ReactIcon
 
-tbHeartHandshake :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbHeartHandshake = element (unsafeCoerce _tbHeartHandshake)
+tbHeartHandshake :: Icon
+tbHeartHandshake = element _tbHeartHandshake
 
 foreign import _tbHeartMinus :: ReactIcon
 
-tbHeartMinus :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbHeartMinus = element (unsafeCoerce _tbHeartMinus)
+tbHeartMinus :: Icon
+tbHeartMinus = element _tbHeartMinus
 
 foreign import _tbHeartOff :: ReactIcon
 
-tbHeartOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbHeartOff = element (unsafeCoerce _tbHeartOff)
+tbHeartOff :: Icon
+tbHeartOff = element _tbHeartOff
 
 foreign import _tbHeartPlus :: ReactIcon
 
-tbHeartPlus :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbHeartPlus = element (unsafeCoerce _tbHeartPlus)
+tbHeartPlus :: Icon
+tbHeartPlus = element _tbHeartPlus
 
 foreign import _tbHeartRateMonitor :: ReactIcon
 
-tbHeartRateMonitor :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbHeartRateMonitor = element (unsafeCoerce _tbHeartRateMonitor)
+tbHeartRateMonitor :: Icon
+tbHeartRateMonitor = element _tbHeartRateMonitor
 
 foreign import _tbHelicopter :: ReactIcon
 
-tbHelicopter :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbHelicopter = element (unsafeCoerce _tbHelicopter)
+tbHelicopter :: Icon
+tbHelicopter = element _tbHelicopter
 
 foreign import _tbHelicopterLanding :: ReactIcon
 
-tbHelicopterLanding :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbHelicopterLanding = element (unsafeCoerce _tbHelicopterLanding)
+tbHelicopterLanding :: Icon
+tbHelicopterLanding = element _tbHelicopterLanding
 
 foreign import _tbHelmet :: ReactIcon
 
-tbHelmet :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbHelmet = element (unsafeCoerce _tbHelmet)
+tbHelmet :: Icon
+tbHelmet = element _tbHelmet
 
 foreign import _tbHelmetOff :: ReactIcon
 
-tbHelmetOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbHelmetOff = element (unsafeCoerce _tbHelmetOff)
+tbHelmetOff :: Icon
+tbHelmetOff = element _tbHelmetOff
 
 foreign import _tbHelp :: ReactIcon
 
-tbHelp :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbHelp = element (unsafeCoerce _tbHelp)
+tbHelp :: Icon
+tbHelp = element _tbHelp
 
 foreign import _tbHexagon :: ReactIcon
 
-tbHexagon :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbHexagon = element (unsafeCoerce _tbHexagon)
+tbHexagon :: Icon
+tbHexagon = element _tbHexagon
 
 foreign import _tbHexagonOff :: ReactIcon
 
-tbHexagonOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbHexagonOff = element (unsafeCoerce _tbHexagonOff)
+tbHexagonOff :: Icon
+tbHexagonOff = element _tbHexagonOff
 
 foreign import _tbHexagons :: ReactIcon
 
-tbHexagons :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbHexagons = element (unsafeCoerce _tbHexagons)
+tbHexagons :: Icon
+tbHexagons = element _tbHexagons
 
 foreign import _tbHierarchy :: ReactIcon
 
-tbHierarchy :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbHierarchy = element (unsafeCoerce _tbHierarchy)
+tbHierarchy :: Icon
+tbHierarchy = element _tbHierarchy
 
 foreign import _tbHighlight :: ReactIcon
 
-tbHighlight :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbHighlight = element (unsafeCoerce _tbHighlight)
+tbHighlight :: Icon
+tbHighlight = element _tbHighlight
 
 foreign import _tbHighlightOff :: ReactIcon
 
-tbHighlightOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbHighlightOff = element (unsafeCoerce _tbHighlightOff)
+tbHighlightOff :: Icon
+tbHighlightOff = element _tbHighlightOff
 
 foreign import _tbHistory :: ReactIcon
 
-tbHistory :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbHistory = element (unsafeCoerce _tbHistory)
+tbHistory :: Icon
+tbHistory = element _tbHistory
 
 foreign import _tbHome :: ReactIcon
 
-tbHome :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbHome = element (unsafeCoerce _tbHome)
+tbHome :: Icon
+tbHome = element _tbHome
 
 foreign import _tbHomeOff :: ReactIcon
 
-tbHomeOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbHomeOff = element (unsafeCoerce _tbHomeOff)
+tbHomeOff :: Icon
+tbHomeOff = element _tbHomeOff
 
 foreign import _tbHotelService :: ReactIcon
 
-tbHotelService :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbHotelService = element (unsafeCoerce _tbHotelService)
+tbHotelService :: Icon
+tbHotelService = element _tbHotelService
 
 foreign import _tbHourglass :: ReactIcon
 
-tbHourglass :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbHourglass = element (unsafeCoerce _tbHourglass)
+tbHourglass :: Icon
+tbHourglass = element _tbHourglass
 
 foreign import _tbHourglassEmpty :: ReactIcon
 
-tbHourglassEmpty :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbHourglassEmpty = element (unsafeCoerce _tbHourglassEmpty)
+tbHourglassEmpty :: Icon
+tbHourglassEmpty = element _tbHourglassEmpty
 
 foreign import _tbHourglassHigh :: ReactIcon
 
-tbHourglassHigh :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbHourglassHigh = element (unsafeCoerce _tbHourglassHigh)
+tbHourglassHigh :: Icon
+tbHourglassHigh = element _tbHourglassHigh
 
 foreign import _tbHourglassLow :: ReactIcon
 
-tbHourglassLow :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbHourglassLow = element (unsafeCoerce _tbHourglassLow)
+tbHourglassLow :: Icon
+tbHourglassLow = element _tbHourglassLow
 
 foreign import _tbHourglassOff :: ReactIcon
 
-tbHourglassOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbHourglassOff = element (unsafeCoerce _tbHourglassOff)
+tbHourglassOff :: Icon
+tbHourglassOff = element _tbHourglassOff
 
 foreign import _tbIceCream :: ReactIcon
 
-tbIceCream :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbIceCream = element (unsafeCoerce _tbIceCream)
+tbIceCream :: Icon
+tbIceCream = element _tbIceCream
 
 foreign import _tbIceCreamOff :: ReactIcon
 
-tbIceCreamOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbIceCreamOff = element (unsafeCoerce _tbIceCreamOff)
+tbIceCreamOff :: Icon
+tbIceCreamOff = element _tbIceCreamOff
 
 foreign import _tbIceSkating :: ReactIcon
 
-tbIceSkating :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbIceSkating = element (unsafeCoerce _tbIceSkating)
+tbIceSkating :: Icon
+tbIceSkating = element _tbIceSkating
 
 foreign import _tbIcons :: ReactIcon
 
-tbIcons :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbIcons = element (unsafeCoerce _tbIcons)
+tbIcons :: Icon
+tbIcons = element _tbIcons
 
 foreign import _tbId :: ReactIcon
 
-tbId :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbId = element (unsafeCoerce _tbId)
+tbId :: Icon
+tbId = element _tbId
 
 foreign import _tbIdBadge :: ReactIcon
 
-tbIdBadge :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbIdBadge = element (unsafeCoerce _tbIdBadge)
+tbIdBadge :: Icon
+tbIdBadge = element _tbIdBadge
 
 foreign import _tbIdOff :: ReactIcon
 
-tbIdOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbIdOff = element (unsafeCoerce _tbIdOff)
+tbIdOff :: Icon
+tbIdOff = element _tbIdOff
 
 foreign import _tbInbox :: ReactIcon
 
-tbInbox :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbInbox = element (unsafeCoerce _tbInbox)
+tbInbox :: Icon
+tbInbox = element _tbInbox
 
 foreign import _tbInboxOff :: ReactIcon
 
-tbInboxOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbInboxOff = element (unsafeCoerce _tbInboxOff)
+tbInboxOff :: Icon
+tbInboxOff = element _tbInboxOff
 
 foreign import _tbIndentDecrease :: ReactIcon
 
-tbIndentDecrease :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbIndentDecrease = element (unsafeCoerce _tbIndentDecrease)
+tbIndentDecrease :: Icon
+tbIndentDecrease = element _tbIndentDecrease
 
 foreign import _tbIndentIncrease :: ReactIcon
 
-tbIndentIncrease :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbIndentIncrease = element (unsafeCoerce _tbIndentIncrease)
+tbIndentIncrease :: Icon
+tbIndentIncrease = element _tbIndentIncrease
 
 foreign import _tbInfinity :: ReactIcon
 
-tbInfinity :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbInfinity = element (unsafeCoerce _tbInfinity)
+tbInfinity :: Icon
+tbInfinity = element _tbInfinity
 
 foreign import _tbInfoCircle :: ReactIcon
 
-tbInfoCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbInfoCircle = element (unsafeCoerce _tbInfoCircle)
+tbInfoCircle :: Icon
+tbInfoCircle = element _tbInfoCircle
 
 foreign import _tbInfoSquare :: ReactIcon
 
-tbInfoSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbInfoSquare = element (unsafeCoerce _tbInfoSquare)
+tbInfoSquare :: Icon
+tbInfoSquare = element _tbInfoSquare
 
 foreign import _tbItalic :: ReactIcon
 
-tbItalic :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbItalic = element (unsafeCoerce _tbItalic)
+tbItalic :: Icon
+tbItalic = element _tbItalic
 
 foreign import _tbJewishStar :: ReactIcon
 
-tbJewishStar :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbJewishStar = element (unsafeCoerce _tbJewishStar)
+tbJewishStar :: Icon
+tbJewishStar = element _tbJewishStar
 
 foreign import _tbJumpRope :: ReactIcon
 
-tbJumpRope :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbJumpRope = element (unsafeCoerce _tbJumpRope)
+tbJumpRope :: Icon
+tbJumpRope = element _tbJumpRope
 
 foreign import _tbKarate :: ReactIcon
 
-tbKarate :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbKarate = element (unsafeCoerce _tbKarate)
+tbKarate :: Icon
+tbKarate = element _tbKarate
 
 foreign import _tbKayak :: ReactIcon
 
-tbKayak :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbKayak = element (unsafeCoerce _tbKayak)
+tbKayak :: Icon
+tbKayak = element _tbKayak
 
 foreign import _tbKering :: ReactIcon
 
-tbKering :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbKering = element (unsafeCoerce _tbKering)
+tbKering :: Icon
+tbKering = element _tbKering
 
 foreign import _tbKey :: ReactIcon
 
-tbKey :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbKey = element (unsafeCoerce _tbKey)
+tbKey :: Icon
+tbKey = element _tbKey
 
 foreign import _tbKeyboard :: ReactIcon
 
-tbKeyboard :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbKeyboard = element (unsafeCoerce _tbKeyboard)
+tbKeyboard :: Icon
+tbKeyboard = element _tbKeyboard
 
 foreign import _tbKeyboardHide :: ReactIcon
 
-tbKeyboardHide :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbKeyboardHide = element (unsafeCoerce _tbKeyboardHide)
+tbKeyboardHide :: Icon
+tbKeyboardHide = element _tbKeyboardHide
 
 foreign import _tbKeyboardOff :: ReactIcon
 
-tbKeyboardOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbKeyboardOff = element (unsafeCoerce _tbKeyboardOff)
+tbKeyboardOff :: Icon
+tbKeyboardOff = element _tbKeyboardOff
 
 foreign import _tbKeyboardShow :: ReactIcon
 
-tbKeyboardShow :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbKeyboardShow = element (unsafeCoerce _tbKeyboardShow)
+tbKeyboardShow :: Icon
+tbKeyboardShow = element _tbKeyboardShow
 
 foreign import _tbKeyOff :: ReactIcon
 
-tbKeyOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbKeyOff = element (unsafeCoerce _tbKeyOff)
+tbKeyOff :: Icon
+tbKeyOff = element _tbKeyOff
 
 foreign import _tbLadder :: ReactIcon
 
-tbLadder :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbLadder = element (unsafeCoerce _tbLadder)
+tbLadder :: Icon
+tbLadder = element _tbLadder
 
 foreign import _tbLadderOff :: ReactIcon
 
-tbLadderOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbLadderOff = element (unsafeCoerce _tbLadderOff)
+tbLadderOff :: Icon
+tbLadderOff = element _tbLadderOff
 
 foreign import _tbLamp :: ReactIcon
 
-tbLamp :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbLamp = element (unsafeCoerce _tbLamp)
+tbLamp :: Icon
+tbLamp = element _tbLamp
 
 foreign import _tbLampOff :: ReactIcon
 
-tbLampOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbLampOff = element (unsafeCoerce _tbLampOff)
+tbLampOff :: Icon
+tbLampOff = element _tbLampOff
 
 foreign import _tbLanguage :: ReactIcon
 
-tbLanguage :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbLanguage = element (unsafeCoerce _tbLanguage)
+tbLanguage :: Icon
+tbLanguage = element _tbLanguage
 
 foreign import _tbLanguageHiragana :: ReactIcon
 
-tbLanguageHiragana :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbLanguageHiragana = element (unsafeCoerce _tbLanguageHiragana)
+tbLanguageHiragana :: Icon
+tbLanguageHiragana = element _tbLanguageHiragana
 
 foreign import _tbLanguageKatakana :: ReactIcon
 
-tbLanguageKatakana :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbLanguageKatakana = element (unsafeCoerce _tbLanguageKatakana)
+tbLanguageKatakana :: Icon
+tbLanguageKatakana = element _tbLanguageKatakana
 
 foreign import _tbLanguageOff :: ReactIcon
 
-tbLanguageOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbLanguageOff = element (unsafeCoerce _tbLanguageOff)
+tbLanguageOff :: Icon
+tbLanguageOff = element _tbLanguageOff
 
 foreign import _tbLasso :: ReactIcon
 
-tbLasso :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbLasso = element (unsafeCoerce _tbLasso)
+tbLasso :: Icon
+tbLasso = element _tbLasso
 
 foreign import _tbLassoOff :: ReactIcon
 
-tbLassoOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbLassoOff = element (unsafeCoerce _tbLassoOff)
+tbLassoOff :: Icon
+tbLassoOff = element _tbLassoOff
 
 foreign import _tbLayersDifference :: ReactIcon
 
-tbLayersDifference :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbLayersDifference = element (unsafeCoerce _tbLayersDifference)
+tbLayersDifference :: Icon
+tbLayersDifference = element _tbLayersDifference
 
 foreign import _tbLayersIntersect :: ReactIcon
 
-tbLayersIntersect :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbLayersIntersect = element (unsafeCoerce _tbLayersIntersect)
+tbLayersIntersect :: Icon
+tbLayersIntersect = element _tbLayersIntersect
 
 foreign import _tbLayersLinked :: ReactIcon
 
-tbLayersLinked :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbLayersLinked = element (unsafeCoerce _tbLayersLinked)
+tbLayersLinked :: Icon
+tbLayersLinked = element _tbLayersLinked
 
 foreign import _tbLayersOff :: ReactIcon
 
-tbLayersOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbLayersOff = element (unsafeCoerce _tbLayersOff)
+tbLayersOff :: Icon
+tbLayersOff = element _tbLayersOff
 
 foreign import _tbLayersSubtract :: ReactIcon
 
-tbLayersSubtract :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbLayersSubtract = element (unsafeCoerce _tbLayersSubtract)
+tbLayersSubtract :: Icon
+tbLayersSubtract = element _tbLayersSubtract
 
 foreign import _tbLayersUnion :: ReactIcon
 
-tbLayersUnion :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbLayersUnion = element (unsafeCoerce _tbLayersUnion)
+tbLayersUnion :: Icon
+tbLayersUnion = element _tbLayersUnion
 
 foreign import _tbLayout :: ReactIcon
 
-tbLayout :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbLayout = element (unsafeCoerce _tbLayout)
+tbLayout :: Icon
+tbLayout = element _tbLayout
 
 foreign import _tbLayoutAlignBottom :: ReactIcon
 
-tbLayoutAlignBottom :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbLayoutAlignBottom = element (unsafeCoerce _tbLayoutAlignBottom)
+tbLayoutAlignBottom :: Icon
+tbLayoutAlignBottom = element _tbLayoutAlignBottom
 
 foreign import _tbLayoutAlignCenter :: ReactIcon
 
-tbLayoutAlignCenter :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbLayoutAlignCenter = element (unsafeCoerce _tbLayoutAlignCenter)
+tbLayoutAlignCenter :: Icon
+tbLayoutAlignCenter = element _tbLayoutAlignCenter
 
 foreign import _tbLayoutAlignLeft :: ReactIcon
 
-tbLayoutAlignLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbLayoutAlignLeft = element (unsafeCoerce _tbLayoutAlignLeft)
+tbLayoutAlignLeft :: Icon
+tbLayoutAlignLeft = element _tbLayoutAlignLeft
 
 foreign import _tbLayoutAlignMiddle :: ReactIcon
 
-tbLayoutAlignMiddle :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbLayoutAlignMiddle = element (unsafeCoerce _tbLayoutAlignMiddle)
+tbLayoutAlignMiddle :: Icon
+tbLayoutAlignMiddle = element _tbLayoutAlignMiddle
 
 foreign import _tbLayoutAlignRight :: ReactIcon
 
-tbLayoutAlignRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbLayoutAlignRight = element (unsafeCoerce _tbLayoutAlignRight)
+tbLayoutAlignRight :: Icon
+tbLayoutAlignRight = element _tbLayoutAlignRight
 
 foreign import _tbLayoutAlignTop :: ReactIcon
 
-tbLayoutAlignTop :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbLayoutAlignTop = element (unsafeCoerce _tbLayoutAlignTop)
+tbLayoutAlignTop :: Icon
+tbLayoutAlignTop = element _tbLayoutAlignTop
 
 foreign import _tbLayoutBoard :: ReactIcon
 
-tbLayoutBoard :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbLayoutBoard = element (unsafeCoerce _tbLayoutBoard)
+tbLayoutBoard :: Icon
+tbLayoutBoard = element _tbLayoutBoard
 
 foreign import _tbLayoutBoardSplit :: ReactIcon
 
-tbLayoutBoardSplit :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbLayoutBoardSplit = element (unsafeCoerce _tbLayoutBoardSplit)
+tbLayoutBoardSplit :: Icon
+tbLayoutBoardSplit = element _tbLayoutBoardSplit
 
 foreign import _tbLayoutBottombar :: ReactIcon
 
-tbLayoutBottombar :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbLayoutBottombar = element (unsafeCoerce _tbLayoutBottombar)
+tbLayoutBottombar :: Icon
+tbLayoutBottombar = element _tbLayoutBottombar
 
 foreign import _tbLayoutCards :: ReactIcon
 
-tbLayoutCards :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbLayoutCards = element (unsafeCoerce _tbLayoutCards)
+tbLayoutCards :: Icon
+tbLayoutCards = element _tbLayoutCards
 
 foreign import _tbLayoutColumns :: ReactIcon
 
-tbLayoutColumns :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbLayoutColumns = element (unsafeCoerce _tbLayoutColumns)
+tbLayoutColumns :: Icon
+tbLayoutColumns = element _tbLayoutColumns
 
 foreign import _tbLayoutDashboard :: ReactIcon
 
-tbLayoutDashboard :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbLayoutDashboard = element (unsafeCoerce _tbLayoutDashboard)
+tbLayoutDashboard :: Icon
+tbLayoutDashboard = element _tbLayoutDashboard
 
 foreign import _tbLayoutDistributeHorizontal :: ReactIcon
 
-tbLayoutDistributeHorizontal :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbLayoutDistributeHorizontal = element (unsafeCoerce _tbLayoutDistributeHorizontal)
+tbLayoutDistributeHorizontal :: Icon
+tbLayoutDistributeHorizontal = element _tbLayoutDistributeHorizontal
 
 foreign import _tbLayoutDistributeVertical :: ReactIcon
 
-tbLayoutDistributeVertical :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbLayoutDistributeVertical = element (unsafeCoerce _tbLayoutDistributeVertical)
+tbLayoutDistributeVertical :: Icon
+tbLayoutDistributeVertical = element _tbLayoutDistributeVertical
 
 foreign import _tbLayoutGrid :: ReactIcon
 
-tbLayoutGrid :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbLayoutGrid = element (unsafeCoerce _tbLayoutGrid)
+tbLayoutGrid :: Icon
+tbLayoutGrid = element _tbLayoutGrid
 
 foreign import _tbLayoutGridAdd :: ReactIcon
 
-tbLayoutGridAdd :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbLayoutGridAdd = element (unsafeCoerce _tbLayoutGridAdd)
+tbLayoutGridAdd :: Icon
+tbLayoutGridAdd = element _tbLayoutGridAdd
 
 foreign import _tbLayoutKanban :: ReactIcon
 
-tbLayoutKanban :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbLayoutKanban = element (unsafeCoerce _tbLayoutKanban)
+tbLayoutKanban :: Icon
+tbLayoutKanban = element _tbLayoutKanban
 
 foreign import _tbLayoutList :: ReactIcon
 
-tbLayoutList :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbLayoutList = element (unsafeCoerce _tbLayoutList)
+tbLayoutList :: Icon
+tbLayoutList = element _tbLayoutList
 
 foreign import _tbLayoutNavbar :: ReactIcon
 
-tbLayoutNavbar :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbLayoutNavbar = element (unsafeCoerce _tbLayoutNavbar)
+tbLayoutNavbar :: Icon
+tbLayoutNavbar = element _tbLayoutNavbar
 
 foreign import _tbLayoutOff :: ReactIcon
 
-tbLayoutOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbLayoutOff = element (unsafeCoerce _tbLayoutOff)
+tbLayoutOff :: Icon
+tbLayoutOff = element _tbLayoutOff
 
 foreign import _tbLayoutRows :: ReactIcon
 
-tbLayoutRows :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbLayoutRows = element (unsafeCoerce _tbLayoutRows)
+tbLayoutRows :: Icon
+tbLayoutRows = element _tbLayoutRows
 
 foreign import _tbLayoutSidebar :: ReactIcon
 
-tbLayoutSidebar :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbLayoutSidebar = element (unsafeCoerce _tbLayoutSidebar)
+tbLayoutSidebar :: Icon
+tbLayoutSidebar = element _tbLayoutSidebar
 
 foreign import _tbLayoutSidebarLeftCollapse :: ReactIcon
 
-tbLayoutSidebarLeftCollapse :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbLayoutSidebarLeftCollapse = element (unsafeCoerce _tbLayoutSidebarLeftCollapse)
+tbLayoutSidebarLeftCollapse :: Icon
+tbLayoutSidebarLeftCollapse = element _tbLayoutSidebarLeftCollapse
 
 foreign import _tbLayoutSidebarLeftExpand :: ReactIcon
 
-tbLayoutSidebarLeftExpand :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbLayoutSidebarLeftExpand = element (unsafeCoerce _tbLayoutSidebarLeftExpand)
+tbLayoutSidebarLeftExpand :: Icon
+tbLayoutSidebarLeftExpand = element _tbLayoutSidebarLeftExpand
 
 foreign import _tbLayoutSidebarRight :: ReactIcon
 
-tbLayoutSidebarRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbLayoutSidebarRight = element (unsafeCoerce _tbLayoutSidebarRight)
+tbLayoutSidebarRight :: Icon
+tbLayoutSidebarRight = element _tbLayoutSidebarRight
 
 foreign import _tbLayoutSidebarRightCollapse :: ReactIcon
 
-tbLayoutSidebarRightCollapse :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbLayoutSidebarRightCollapse = element (unsafeCoerce _tbLayoutSidebarRightCollapse)
+tbLayoutSidebarRightCollapse :: Icon
+tbLayoutSidebarRightCollapse = element _tbLayoutSidebarRightCollapse
 
 foreign import _tbLayoutSidebarRightExpand :: ReactIcon
 
-tbLayoutSidebarRightExpand :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbLayoutSidebarRightExpand = element (unsafeCoerce _tbLayoutSidebarRightExpand)
+tbLayoutSidebarRightExpand :: Icon
+tbLayoutSidebarRightExpand = element _tbLayoutSidebarRightExpand
 
 foreign import _tbLeaf :: ReactIcon
 
-tbLeaf :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbLeaf = element (unsafeCoerce _tbLeaf)
+tbLeaf :: Icon
+tbLeaf = element _tbLeaf
 
 foreign import _tbLeafOff :: ReactIcon
 
-tbLeafOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbLeafOff = element (unsafeCoerce _tbLeafOff)
+tbLeafOff :: Icon
+tbLeafOff = element _tbLeafOff
 
 foreign import _tbLego :: ReactIcon
 
-tbLego :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbLego = element (unsafeCoerce _tbLego)
+tbLego :: Icon
+tbLego = element _tbLego
 
 foreign import _tbLemon :: ReactIcon
 
-tbLemon :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbLemon = element (unsafeCoerce _tbLemon)
+tbLemon :: Icon
+tbLemon = element _tbLemon
 
 foreign import _tbLetterA :: ReactIcon
 
-tbLetterA :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbLetterA = element (unsafeCoerce _tbLetterA)
+tbLetterA :: Icon
+tbLetterA = element _tbLetterA
 
 foreign import _tbLetterB :: ReactIcon
 
-tbLetterB :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbLetterB = element (unsafeCoerce _tbLetterB)
+tbLetterB :: Icon
+tbLetterB = element _tbLetterB
 
 foreign import _tbLetterC :: ReactIcon
 
-tbLetterC :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbLetterC = element (unsafeCoerce _tbLetterC)
+tbLetterC :: Icon
+tbLetterC = element _tbLetterC
 
 foreign import _tbLetterCase :: ReactIcon
 
-tbLetterCase :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbLetterCase = element (unsafeCoerce _tbLetterCase)
+tbLetterCase :: Icon
+tbLetterCase = element _tbLetterCase
 
 foreign import _tbLetterCaseLower :: ReactIcon
 
-tbLetterCaseLower :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbLetterCaseLower = element (unsafeCoerce _tbLetterCaseLower)
+tbLetterCaseLower :: Icon
+tbLetterCaseLower = element _tbLetterCaseLower
 
 foreign import _tbLetterCaseToggle :: ReactIcon
 
-tbLetterCaseToggle :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbLetterCaseToggle = element (unsafeCoerce _tbLetterCaseToggle)
+tbLetterCaseToggle :: Icon
+tbLetterCaseToggle = element _tbLetterCaseToggle
 
 foreign import _tbLetterCaseUpper :: ReactIcon
 
-tbLetterCaseUpper :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbLetterCaseUpper = element (unsafeCoerce _tbLetterCaseUpper)
+tbLetterCaseUpper :: Icon
+tbLetterCaseUpper = element _tbLetterCaseUpper
 
 foreign import _tbLetterD :: ReactIcon
 
-tbLetterD :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbLetterD = element (unsafeCoerce _tbLetterD)
+tbLetterD :: Icon
+tbLetterD = element _tbLetterD
 
 foreign import _tbLetterE :: ReactIcon
 
-tbLetterE :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbLetterE = element (unsafeCoerce _tbLetterE)
+tbLetterE :: Icon
+tbLetterE = element _tbLetterE
 
 foreign import _tbLetterF :: ReactIcon
 
-tbLetterF :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbLetterF = element (unsafeCoerce _tbLetterF)
+tbLetterF :: Icon
+tbLetterF = element _tbLetterF
 
 foreign import _tbLetterG :: ReactIcon
 
-tbLetterG :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbLetterG = element (unsafeCoerce _tbLetterG)
+tbLetterG :: Icon
+tbLetterG = element _tbLetterG
 
 foreign import _tbLetterH :: ReactIcon
 
-tbLetterH :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbLetterH = element (unsafeCoerce _tbLetterH)
+tbLetterH :: Icon
+tbLetterH = element _tbLetterH
 
 foreign import _tbLetterI :: ReactIcon
 
-tbLetterI :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbLetterI = element (unsafeCoerce _tbLetterI)
+tbLetterI :: Icon
+tbLetterI = element _tbLetterI
 
 foreign import _tbLetterJ :: ReactIcon
 
-tbLetterJ :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbLetterJ = element (unsafeCoerce _tbLetterJ)
+tbLetterJ :: Icon
+tbLetterJ = element _tbLetterJ
 
 foreign import _tbLetterK :: ReactIcon
 
-tbLetterK :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbLetterK = element (unsafeCoerce _tbLetterK)
+tbLetterK :: Icon
+tbLetterK = element _tbLetterK
 
 foreign import _tbLetterL :: ReactIcon
 
-tbLetterL :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbLetterL = element (unsafeCoerce _tbLetterL)
+tbLetterL :: Icon
+tbLetterL = element _tbLetterL
 
 foreign import _tbLetterM :: ReactIcon
 
-tbLetterM :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbLetterM = element (unsafeCoerce _tbLetterM)
+tbLetterM :: Icon
+tbLetterM = element _tbLetterM
 
 foreign import _tbLetterN :: ReactIcon
 
-tbLetterN :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbLetterN = element (unsafeCoerce _tbLetterN)
+tbLetterN :: Icon
+tbLetterN = element _tbLetterN
 
 foreign import _tbLetterO :: ReactIcon
 
-tbLetterO :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbLetterO = element (unsafeCoerce _tbLetterO)
+tbLetterO :: Icon
+tbLetterO = element _tbLetterO
 
 foreign import _tbLetterP :: ReactIcon
 
-tbLetterP :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbLetterP = element (unsafeCoerce _tbLetterP)
+tbLetterP :: Icon
+tbLetterP = element _tbLetterP
 
 foreign import _tbLetterQ :: ReactIcon
 
-tbLetterQ :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbLetterQ = element (unsafeCoerce _tbLetterQ)
+tbLetterQ :: Icon
+tbLetterQ = element _tbLetterQ
 
 foreign import _tbLetterR :: ReactIcon
 
-tbLetterR :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbLetterR = element (unsafeCoerce _tbLetterR)
+tbLetterR :: Icon
+tbLetterR = element _tbLetterR
 
 foreign import _tbLetterS :: ReactIcon
 
-tbLetterS :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbLetterS = element (unsafeCoerce _tbLetterS)
+tbLetterS :: Icon
+tbLetterS = element _tbLetterS
 
 foreign import _tbLetterSpacing :: ReactIcon
 
-tbLetterSpacing :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbLetterSpacing = element (unsafeCoerce _tbLetterSpacing)
+tbLetterSpacing :: Icon
+tbLetterSpacing = element _tbLetterSpacing
 
 foreign import _tbLetterT :: ReactIcon
 
-tbLetterT :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbLetterT = element (unsafeCoerce _tbLetterT)
+tbLetterT :: Icon
+tbLetterT = element _tbLetterT
 
 foreign import _tbLetterU :: ReactIcon
 
-tbLetterU :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbLetterU = element (unsafeCoerce _tbLetterU)
+tbLetterU :: Icon
+tbLetterU = element _tbLetterU
 
 foreign import _tbLetterV :: ReactIcon
 
-tbLetterV :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbLetterV = element (unsafeCoerce _tbLetterV)
+tbLetterV :: Icon
+tbLetterV = element _tbLetterV
 
 foreign import _tbLetterW :: ReactIcon
 
-tbLetterW :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbLetterW = element (unsafeCoerce _tbLetterW)
+tbLetterW :: Icon
+tbLetterW = element _tbLetterW
 
 foreign import _tbLetterX :: ReactIcon
 
-tbLetterX :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbLetterX = element (unsafeCoerce _tbLetterX)
+tbLetterX :: Icon
+tbLetterX = element _tbLetterX
 
 foreign import _tbLetterY :: ReactIcon
 
-tbLetterY :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbLetterY = element (unsafeCoerce _tbLetterY)
+tbLetterY :: Icon
+tbLetterY = element _tbLetterY
 
 foreign import _tbLetterZ :: ReactIcon
 
-tbLetterZ :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbLetterZ = element (unsafeCoerce _tbLetterZ)
+tbLetterZ :: Icon
+tbLetterZ = element _tbLetterZ
 
 foreign import _tbLicense :: ReactIcon
 
-tbLicense :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbLicense = element (unsafeCoerce _tbLicense)
+tbLicense :: Icon
+tbLicense = element _tbLicense
 
 foreign import _tbLicenseOff :: ReactIcon
 
-tbLicenseOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbLicenseOff = element (unsafeCoerce _tbLicenseOff)
+tbLicenseOff :: Icon
+tbLicenseOff = element _tbLicenseOff
 
 foreign import _tbLifebuoy :: ReactIcon
 
-tbLifebuoy :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbLifebuoy = element (unsafeCoerce _tbLifebuoy)
+tbLifebuoy :: Icon
+tbLifebuoy = element _tbLifebuoy
 
 foreign import _tbLifebuoyOff :: ReactIcon
 
-tbLifebuoyOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbLifebuoyOff = element (unsafeCoerce _tbLifebuoyOff)
+tbLifebuoyOff :: Icon
+tbLifebuoyOff = element _tbLifebuoyOff
 
 foreign import _tbLine :: ReactIcon
 
-tbLine :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbLine = element (unsafeCoerce _tbLine)
+tbLine :: Icon
+tbLine = element _tbLine
 
 foreign import _tbLineDashed :: ReactIcon
 
-tbLineDashed :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbLineDashed = element (unsafeCoerce _tbLineDashed)
+tbLineDashed :: Icon
+tbLineDashed = element _tbLineDashed
 
 foreign import _tbLineDotted :: ReactIcon
 
-tbLineDotted :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbLineDotted = element (unsafeCoerce _tbLineDotted)
+tbLineDotted :: Icon
+tbLineDotted = element _tbLineDotted
 
 foreign import _tbLineHeight :: ReactIcon
 
-tbLineHeight :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbLineHeight = element (unsafeCoerce _tbLineHeight)
+tbLineHeight :: Icon
+tbLineHeight = element _tbLineHeight
 
 foreign import _tbLink :: ReactIcon
 
-tbLink :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbLink = element (unsafeCoerce _tbLink)
+tbLink :: Icon
+tbLink = element _tbLink
 
 foreign import _tbList :: ReactIcon
 
-tbList :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbList = element (unsafeCoerce _tbList)
+tbList :: Icon
+tbList = element _tbList
 
 foreign import _tbListCheck :: ReactIcon
 
-tbListCheck :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbListCheck = element (unsafeCoerce _tbListCheck)
+tbListCheck :: Icon
+tbListCheck = element _tbListCheck
 
 foreign import _tbListDetails :: ReactIcon
 
-tbListDetails :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbListDetails = element (unsafeCoerce _tbListDetails)
+tbListDetails :: Icon
+tbListDetails = element _tbListDetails
 
 foreign import _tbListNumbers :: ReactIcon
 
-tbListNumbers :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbListNumbers = element (unsafeCoerce _tbListNumbers)
+tbListNumbers :: Icon
+tbListNumbers = element _tbListNumbers
 
 foreign import _tbListSearch :: ReactIcon
 
-tbListSearch :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbListSearch = element (unsafeCoerce _tbListSearch)
+tbListSearch :: Icon
+tbListSearch = element _tbListSearch
 
 foreign import _tbLivePhoto :: ReactIcon
 
-tbLivePhoto :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbLivePhoto = element (unsafeCoerce _tbLivePhoto)
+tbLivePhoto :: Icon
+tbLivePhoto = element _tbLivePhoto
 
 foreign import _tbLiveView :: ReactIcon
 
-tbLiveView :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbLiveView = element (unsafeCoerce _tbLiveView)
+tbLiveView :: Icon
+tbLiveView = element _tbLiveView
 
 foreign import _tbLoader :: ReactIcon
 
-tbLoader :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbLoader = element (unsafeCoerce _tbLoader)
+tbLoader :: Icon
+tbLoader = element _tbLoader
 
 foreign import _tbLoaderQuarter :: ReactIcon
 
-tbLoaderQuarter :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbLoaderQuarter = element (unsafeCoerce _tbLoaderQuarter)
+tbLoaderQuarter :: Icon
+tbLoaderQuarter = element _tbLoaderQuarter
 
 foreign import _tbLocation :: ReactIcon
 
-tbLocation :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbLocation = element (unsafeCoerce _tbLocation)
+tbLocation :: Icon
+tbLocation = element _tbLocation
 
 foreign import _tbLocationOff :: ReactIcon
 
-tbLocationOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbLocationOff = element (unsafeCoerce _tbLocationOff)
+tbLocationOff :: Icon
+tbLocationOff = element _tbLocationOff
 
 foreign import _tbLock :: ReactIcon
 
-tbLock :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbLock = element (unsafeCoerce _tbLock)
+tbLock :: Icon
+tbLock = element _tbLock
 
 foreign import _tbLockAccess :: ReactIcon
 
-tbLockAccess :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbLockAccess = element (unsafeCoerce _tbLockAccess)
+tbLockAccess :: Icon
+tbLockAccess = element _tbLockAccess
 
 foreign import _tbLockOff :: ReactIcon
 
-tbLockOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbLockOff = element (unsafeCoerce _tbLockOff)
+tbLockOff :: Icon
+tbLockOff = element _tbLockOff
 
 foreign import _tbLockOpen :: ReactIcon
 
-tbLockOpen :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbLockOpen = element (unsafeCoerce _tbLockOpen)
+tbLockOpen :: Icon
+tbLockOpen = element _tbLockOpen
 
 foreign import _tbLockOpenOff :: ReactIcon
 
-tbLockOpenOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbLockOpenOff = element (unsafeCoerce _tbLockOpenOff)
+tbLockOpenOff :: Icon
+tbLockOpenOff = element _tbLockOpenOff
 
 foreign import _tbLockSquare :: ReactIcon
 
-tbLockSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbLockSquare = element (unsafeCoerce _tbLockSquare)
+tbLockSquare :: Icon
+tbLockSquare = element _tbLockSquare
 
 foreign import _tbLogin :: ReactIcon
 
-tbLogin :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbLogin = element (unsafeCoerce _tbLogin)
+tbLogin :: Icon
+tbLogin = element _tbLogin
 
 foreign import _tbLogout :: ReactIcon
 
-tbLogout :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbLogout = element (unsafeCoerce _tbLogout)
+tbLogout :: Icon
+tbLogout = element _tbLogout
 
 foreign import _tbLollipop :: ReactIcon
 
-tbLollipop :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbLollipop = element (unsafeCoerce _tbLollipop)
+tbLollipop :: Icon
+tbLollipop = element _tbLollipop
 
 foreign import _tbLollipopOff :: ReactIcon
 
-tbLollipopOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbLollipopOff = element (unsafeCoerce _tbLollipopOff)
+tbLollipopOff :: Icon
+tbLollipopOff = element _tbLollipopOff
 
 foreign import _tbLuggage :: ReactIcon
 
-tbLuggage :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbLuggage = element (unsafeCoerce _tbLuggage)
+tbLuggage :: Icon
+tbLuggage = element _tbLuggage
 
 foreign import _tbLuggageOff :: ReactIcon
 
-tbLuggageOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbLuggageOff = element (unsafeCoerce _tbLuggageOff)
+tbLuggageOff :: Icon
+tbLuggageOff = element _tbLuggageOff
 
 foreign import _tbLungs :: ReactIcon
 
-tbLungs :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbLungs = element (unsafeCoerce _tbLungs)
+tbLungs :: Icon
+tbLungs = element _tbLungs
 
 foreign import _tbMacro :: ReactIcon
 
-tbMacro :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbMacro = element (unsafeCoerce _tbMacro)
+tbMacro :: Icon
+tbMacro = element _tbMacro
 
 foreign import _tbMagnet :: ReactIcon
 
-tbMagnet :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbMagnet = element (unsafeCoerce _tbMagnet)
+tbMagnet :: Icon
+tbMagnet = element _tbMagnet
 
 foreign import _tbMagnetOff :: ReactIcon
 
-tbMagnetOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbMagnetOff = element (unsafeCoerce _tbMagnetOff)
+tbMagnetOff :: Icon
+tbMagnetOff = element _tbMagnetOff
 
 foreign import _tbMail :: ReactIcon
 
-tbMail :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbMail = element (unsafeCoerce _tbMail)
+tbMail :: Icon
+tbMail = element _tbMail
 
 foreign import _tbMailbox :: ReactIcon
 
-tbMailbox :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbMailbox = element (unsafeCoerce _tbMailbox)
+tbMailbox :: Icon
+tbMailbox = element _tbMailbox
 
 foreign import _tbMailboxOff :: ReactIcon
 
-tbMailboxOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbMailboxOff = element (unsafeCoerce _tbMailboxOff)
+tbMailboxOff :: Icon
+tbMailboxOff = element _tbMailboxOff
 
 foreign import _tbMailFast :: ReactIcon
 
-tbMailFast :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbMailFast = element (unsafeCoerce _tbMailFast)
+tbMailFast :: Icon
+tbMailFast = element _tbMailFast
 
 foreign import _tbMailForward :: ReactIcon
 
-tbMailForward :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbMailForward = element (unsafeCoerce _tbMailForward)
+tbMailForward :: Icon
+tbMailForward = element _tbMailForward
 
 foreign import _tbMailOff :: ReactIcon
 
-tbMailOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbMailOff = element (unsafeCoerce _tbMailOff)
+tbMailOff :: Icon
+tbMailOff = element _tbMailOff
 
 foreign import _tbMailOpened :: ReactIcon
 
-tbMailOpened :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbMailOpened = element (unsafeCoerce _tbMailOpened)
+tbMailOpened :: Icon
+tbMailOpened = element _tbMailOpened
 
 foreign import _tbMan :: ReactIcon
 
-tbMan :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbMan = element (unsafeCoerce _tbMan)
+tbMan :: Icon
+tbMan = element _tbMan
 
 foreign import _tbManualGearbox :: ReactIcon
 
-tbManualGearbox :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbManualGearbox = element (unsafeCoerce _tbManualGearbox)
+tbManualGearbox :: Icon
+tbManualGearbox = element _tbManualGearbox
 
 foreign import _tbMap :: ReactIcon
 
-tbMap :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbMap = element (unsafeCoerce _tbMap)
+tbMap :: Icon
+tbMap = element _tbMap
 
 foreign import _tbMapOff :: ReactIcon
 
-tbMapOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbMapOff = element (unsafeCoerce _tbMapOff)
+tbMapOff :: Icon
+tbMapOff = element _tbMapOff
 
 foreign import _tbMapPin :: ReactIcon
 
-tbMapPin :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbMapPin = element (unsafeCoerce _tbMapPin)
+tbMapPin :: Icon
+tbMapPin = element _tbMapPin
 
 foreign import _tbMapPinOff :: ReactIcon
 
-tbMapPinOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbMapPinOff = element (unsafeCoerce _tbMapPinOff)
+tbMapPinOff :: Icon
+tbMapPinOff = element _tbMapPinOff
 
 foreign import _tbMapPins :: ReactIcon
 
-tbMapPins :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbMapPins = element (unsafeCoerce _tbMapPins)
+tbMapPins :: Icon
+tbMapPins = element _tbMapPins
 
 foreign import _tbMapSearch :: ReactIcon
 
-tbMapSearch :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbMapSearch = element (unsafeCoerce _tbMapSearch)
+tbMapSearch :: Icon
+tbMapSearch = element _tbMapSearch
 
 foreign import _tbMarkdown :: ReactIcon
 
-tbMarkdown :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbMarkdown = element (unsafeCoerce _tbMarkdown)
+tbMarkdown :: Icon
+tbMarkdown = element _tbMarkdown
 
 foreign import _tbMarquee :: ReactIcon
 
-tbMarquee :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbMarquee = element (unsafeCoerce _tbMarquee)
+tbMarquee :: Icon
+tbMarquee = element _tbMarquee
 
 foreign import _tbMarqueeOff :: ReactIcon
 
-tbMarqueeOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbMarqueeOff = element (unsafeCoerce _tbMarqueeOff)
+tbMarqueeOff :: Icon
+tbMarqueeOff = element _tbMarqueeOff
 
 foreign import _tbMars :: ReactIcon
 
-tbMars :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbMars = element (unsafeCoerce _tbMars)
+tbMars :: Icon
+tbMars = element _tbMars
 
 foreign import _tbMask :: ReactIcon
 
-tbMask :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbMask = element (unsafeCoerce _tbMask)
+tbMask :: Icon
+tbMask = element _tbMask
 
 foreign import _tbMaskOff :: ReactIcon
 
-tbMaskOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbMaskOff = element (unsafeCoerce _tbMaskOff)
+tbMaskOff :: Icon
+tbMaskOff = element _tbMaskOff
 
 foreign import _tbMassage :: ReactIcon
 
-tbMassage :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbMassage = element (unsafeCoerce _tbMassage)
+tbMassage :: Icon
+tbMassage = element _tbMassage
 
 foreign import _tbMath :: ReactIcon
 
-tbMath :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbMath = element (unsafeCoerce _tbMath)
+tbMath :: Icon
+tbMath = element _tbMath
 
 foreign import _tbMathAvg :: ReactIcon
 
-tbMathAvg :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbMathAvg = element (unsafeCoerce _tbMathAvg)
+tbMathAvg :: Icon
+tbMathAvg = element _tbMathAvg
 
 foreign import _tbMathFunction :: ReactIcon
 
-tbMathFunction :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbMathFunction = element (unsafeCoerce _tbMathFunction)
+tbMathFunction :: Icon
+tbMathFunction = element _tbMathFunction
 
 foreign import _tbMathFunctionOff :: ReactIcon
 
-tbMathFunctionOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbMathFunctionOff = element (unsafeCoerce _tbMathFunctionOff)
+tbMathFunctionOff :: Icon
+tbMathFunctionOff = element _tbMathFunctionOff
 
 foreign import _tbMathMax :: ReactIcon
 
-tbMathMax :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbMathMax = element (unsafeCoerce _tbMathMax)
+tbMathMax :: Icon
+tbMathMax = element _tbMathMax
 
 foreign import _tbMathMin :: ReactIcon
 
-tbMathMin :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbMathMin = element (unsafeCoerce _tbMathMin)
+tbMathMin :: Icon
+tbMathMin = element _tbMathMin
 
 foreign import _tbMathSymbols :: ReactIcon
 
-tbMathSymbols :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbMathSymbols = element (unsafeCoerce _tbMathSymbols)
+tbMathSymbols :: Icon
+tbMathSymbols = element _tbMathSymbols
 
 foreign import _tbMaximize :: ReactIcon
 
-tbMaximize :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbMaximize = element (unsafeCoerce _tbMaximize)
+tbMaximize :: Icon
+tbMaximize = element _tbMaximize
 
 foreign import _tbMaximizeOff :: ReactIcon
 
-tbMaximizeOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbMaximizeOff = element (unsafeCoerce _tbMaximizeOff)
+tbMaximizeOff :: Icon
+tbMaximizeOff = element _tbMaximizeOff
 
 foreign import _tbMeat :: ReactIcon
 
-tbMeat :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbMeat = element (unsafeCoerce _tbMeat)
+tbMeat :: Icon
+tbMeat = element _tbMeat
 
 foreign import _tbMedal :: ReactIcon
 
-tbMedal :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbMedal = element (unsafeCoerce _tbMedal)
+tbMedal :: Icon
+tbMedal = element _tbMedal
 
 foreign import _tbMedicalCross :: ReactIcon
 
-tbMedicalCross :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbMedicalCross = element (unsafeCoerce _tbMedicalCross)
+tbMedicalCross :: Icon
+tbMedicalCross = element _tbMedicalCross
 
 foreign import _tbMedicalCrossOff :: ReactIcon
 
-tbMedicalCrossOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbMedicalCrossOff = element (unsafeCoerce _tbMedicalCrossOff)
+tbMedicalCrossOff :: Icon
+tbMedicalCrossOff = element _tbMedicalCrossOff
 
 foreign import _tbMedicineSyrup :: ReactIcon
 
-tbMedicineSyrup :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbMedicineSyrup = element (unsafeCoerce _tbMedicineSyrup)
+tbMedicineSyrup :: Icon
+tbMedicineSyrup = element _tbMedicineSyrup
 
 foreign import _tbMenu :: ReactIcon
 
-tbMenu :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbMenu = element (unsafeCoerce _tbMenu)
+tbMenu :: Icon
+tbMenu = element _tbMenu
 
 foreign import _tbMessage :: ReactIcon
 
-tbMessage :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbMessage = element (unsafeCoerce _tbMessage)
+tbMessage :: Icon
+tbMessage = element _tbMessage
 
 foreign import _tbMessageCircle :: ReactIcon
 
-tbMessageCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbMessageCircle = element (unsafeCoerce _tbMessageCircle)
+tbMessageCircle :: Icon
+tbMessageCircle = element _tbMessageCircle
 
 foreign import _tbMessageCircleOff :: ReactIcon
 
-tbMessageCircleOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbMessageCircleOff = element (unsafeCoerce _tbMessageCircleOff)
+tbMessageCircleOff :: Icon
+tbMessageCircleOff = element _tbMessageCircleOff
 
 foreign import _tbMessageCode :: ReactIcon
 
-tbMessageCode :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbMessageCode = element (unsafeCoerce _tbMessageCode)
+tbMessageCode :: Icon
+tbMessageCode = element _tbMessageCode
 
 foreign import _tbMessageDots :: ReactIcon
 
-tbMessageDots :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbMessageDots = element (unsafeCoerce _tbMessageDots)
+tbMessageDots :: Icon
+tbMessageDots = element _tbMessageDots
 
 foreign import _tbMessageLanguage :: ReactIcon
 
-tbMessageLanguage :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbMessageLanguage = element (unsafeCoerce _tbMessageLanguage)
+tbMessageLanguage :: Icon
+tbMessageLanguage = element _tbMessageLanguage
 
 foreign import _tbMessageOff :: ReactIcon
 
-tbMessageOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbMessageOff = element (unsafeCoerce _tbMessageOff)
+tbMessageOff :: Icon
+tbMessageOff = element _tbMessageOff
 
 foreign import _tbMessagePlus :: ReactIcon
 
-tbMessagePlus :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbMessagePlus = element (unsafeCoerce _tbMessagePlus)
+tbMessagePlus :: Icon
+tbMessagePlus = element _tbMessagePlus
 
 foreign import _tbMessageReport :: ReactIcon
 
-tbMessageReport :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbMessageReport = element (unsafeCoerce _tbMessageReport)
+tbMessageReport :: Icon
+tbMessageReport = element _tbMessageReport
 
 foreign import _tbMessages :: ReactIcon
 
-tbMessages :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbMessages = element (unsafeCoerce _tbMessages)
+tbMessages :: Icon
+tbMessages = element _tbMessages
 
 foreign import _tbMessageShare :: ReactIcon
 
-tbMessageShare :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbMessageShare = element (unsafeCoerce _tbMessageShare)
+tbMessageShare :: Icon
+tbMessageShare = element _tbMessageShare
 
 foreign import _tbMessagesOff :: ReactIcon
 
-tbMessagesOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbMessagesOff = element (unsafeCoerce _tbMessagesOff)
+tbMessagesOff :: Icon
+tbMessagesOff = element _tbMessagesOff
 
 foreign import _tbMicrophone :: ReactIcon
 
-tbMicrophone :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbMicrophone = element (unsafeCoerce _tbMicrophone)
+tbMicrophone :: Icon
+tbMicrophone = element _tbMicrophone
 
 foreign import _tbMicrophoneOff :: ReactIcon
 
-tbMicrophoneOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbMicrophoneOff = element (unsafeCoerce _tbMicrophoneOff)
+tbMicrophoneOff :: Icon
+tbMicrophoneOff = element _tbMicrophoneOff
 
 foreign import _tbMicroscope :: ReactIcon
 
-tbMicroscope :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbMicroscope = element (unsafeCoerce _tbMicroscope)
+tbMicroscope :: Icon
+tbMicroscope = element _tbMicroscope
 
 foreign import _tbMilitaryAward :: ReactIcon
 
-tbMilitaryAward :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbMilitaryAward = element (unsafeCoerce _tbMilitaryAward)
+tbMilitaryAward :: Icon
+tbMilitaryAward = element _tbMilitaryAward
 
 foreign import _tbMilitaryRank :: ReactIcon
 
-tbMilitaryRank :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbMilitaryRank = element (unsafeCoerce _tbMilitaryRank)
+tbMilitaryRank :: Icon
+tbMilitaryRank = element _tbMilitaryRank
 
 foreign import _tbMilk :: ReactIcon
 
-tbMilk :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbMilk = element (unsafeCoerce _tbMilk)
+tbMilk :: Icon
+tbMilk = element _tbMilk
 
 foreign import _tbMinimize :: ReactIcon
 
-tbMinimize :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbMinimize = element (unsafeCoerce _tbMinimize)
+tbMinimize :: Icon
+tbMinimize = element _tbMinimize
 
 foreign import _tbMinus :: ReactIcon
 
-tbMinus :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbMinus = element (unsafeCoerce _tbMinus)
+tbMinus :: Icon
+tbMinus = element _tbMinus
 
 foreign import _tbMinusVertical :: ReactIcon
 
-tbMinusVertical :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbMinusVertical = element (unsafeCoerce _tbMinusVertical)
+tbMinusVertical :: Icon
+tbMinusVertical = element _tbMinusVertical
 
 foreign import _tbMist :: ReactIcon
 
-tbMist :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbMist = element (unsafeCoerce _tbMist)
+tbMist :: Icon
+tbMist = element _tbMist
 
 foreign import _tbMoodBoy :: ReactIcon
 
-tbMoodBoy :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbMoodBoy = element (unsafeCoerce _tbMoodBoy)
+tbMoodBoy :: Icon
+tbMoodBoy = element _tbMoodBoy
 
 foreign import _tbMoodConfuzed :: ReactIcon
 
-tbMoodConfuzed :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbMoodConfuzed = element (unsafeCoerce _tbMoodConfuzed)
+tbMoodConfuzed :: Icon
+tbMoodConfuzed = element _tbMoodConfuzed
 
 foreign import _tbMoodCrazyHappy :: ReactIcon
 
-tbMoodCrazyHappy :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbMoodCrazyHappy = element (unsafeCoerce _tbMoodCrazyHappy)
+tbMoodCrazyHappy :: Icon
+tbMoodCrazyHappy = element _tbMoodCrazyHappy
 
 foreign import _tbMoodCry :: ReactIcon
 
-tbMoodCry :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbMoodCry = element (unsafeCoerce _tbMoodCry)
+tbMoodCry :: Icon
+tbMoodCry = element _tbMoodCry
 
 foreign import _tbMoodEmpty :: ReactIcon
 
-tbMoodEmpty :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbMoodEmpty = element (unsafeCoerce _tbMoodEmpty)
+tbMoodEmpty :: Icon
+tbMoodEmpty = element _tbMoodEmpty
 
 foreign import _tbMoodHappy :: ReactIcon
 
-tbMoodHappy :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbMoodHappy = element (unsafeCoerce _tbMoodHappy)
+tbMoodHappy :: Icon
+tbMoodHappy = element _tbMoodHappy
 
 foreign import _tbMoodKid :: ReactIcon
 
-tbMoodKid :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbMoodKid = element (unsafeCoerce _tbMoodKid)
+tbMoodKid :: Icon
+tbMoodKid = element _tbMoodKid
 
 foreign import _tbMoodNervous :: ReactIcon
 
-tbMoodNervous :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbMoodNervous = element (unsafeCoerce _tbMoodNervous)
+tbMoodNervous :: Icon
+tbMoodNervous = element _tbMoodNervous
 
 foreign import _tbMoodNeutral :: ReactIcon
 
-tbMoodNeutral :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbMoodNeutral = element (unsafeCoerce _tbMoodNeutral)
+tbMoodNeutral :: Icon
+tbMoodNeutral = element _tbMoodNeutral
 
 foreign import _tbMoodOff :: ReactIcon
 
-tbMoodOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbMoodOff = element (unsafeCoerce _tbMoodOff)
+tbMoodOff :: Icon
+tbMoodOff = element _tbMoodOff
 
 foreign import _tbMoodSad :: ReactIcon
 
-tbMoodSad :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbMoodSad = element (unsafeCoerce _tbMoodSad)
+tbMoodSad :: Icon
+tbMoodSad = element _tbMoodSad
 
 foreign import _tbMoodSmile :: ReactIcon
 
-tbMoodSmile :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbMoodSmile = element (unsafeCoerce _tbMoodSmile)
+tbMoodSmile :: Icon
+tbMoodSmile = element _tbMoodSmile
 
 foreign import _tbMoodSuprised :: ReactIcon
 
-tbMoodSuprised :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbMoodSuprised = element (unsafeCoerce _tbMoodSuprised)
+tbMoodSuprised :: Icon
+tbMoodSuprised = element _tbMoodSuprised
 
 foreign import _tbMoodTongue :: ReactIcon
 
-tbMoodTongue :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbMoodTongue = element (unsafeCoerce _tbMoodTongue)
+tbMoodTongue :: Icon
+tbMoodTongue = element _tbMoodTongue
 
 foreign import _tbMoon :: ReactIcon
 
-tbMoon :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbMoon = element (unsafeCoerce _tbMoon)
+tbMoon :: Icon
+tbMoon = element _tbMoon
 
 foreign import _tbMoonOff :: ReactIcon
 
-tbMoonOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbMoonOff = element (unsafeCoerce _tbMoonOff)
+tbMoonOff :: Icon
+tbMoonOff = element _tbMoonOff
 
 foreign import _tbMoonStars :: ReactIcon
 
-tbMoonStars :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbMoonStars = element (unsafeCoerce _tbMoonStars)
+tbMoonStars :: Icon
+tbMoonStars = element _tbMoonStars
 
 foreign import _tbMoped :: ReactIcon
 
-tbMoped :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbMoped = element (unsafeCoerce _tbMoped)
+tbMoped :: Icon
+tbMoped = element _tbMoped
 
 foreign import _tbMotorbike :: ReactIcon
 
-tbMotorbike :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbMotorbike = element (unsafeCoerce _tbMotorbike)
+tbMotorbike :: Icon
+tbMotorbike = element _tbMotorbike
 
 foreign import _tbMountain :: ReactIcon
 
-tbMountain :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbMountain = element (unsafeCoerce _tbMountain)
+tbMountain :: Icon
+tbMountain = element _tbMountain
 
 foreign import _tbMouse :: ReactIcon
 
-tbMouse :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbMouse = element (unsafeCoerce _tbMouse)
+tbMouse :: Icon
+tbMouse = element _tbMouse
 
 foreign import _tbMouseOff :: ReactIcon
 
-tbMouseOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbMouseOff = element (unsafeCoerce _tbMouseOff)
+tbMouseOff :: Icon
+tbMouseOff = element _tbMouseOff
 
 foreign import _tbMovie :: ReactIcon
 
-tbMovie :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbMovie = element (unsafeCoerce _tbMovie)
+tbMovie :: Icon
+tbMovie = element _tbMovie
 
 foreign import _tbMovieOff :: ReactIcon
 
-tbMovieOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbMovieOff = element (unsafeCoerce _tbMovieOff)
+tbMovieOff :: Icon
+tbMovieOff = element _tbMovieOff
 
 foreign import _tbMug :: ReactIcon
 
-tbMug :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbMug = element (unsafeCoerce _tbMug)
+tbMug :: Icon
+tbMug = element _tbMug
 
 foreign import _tbMugOff :: ReactIcon
 
-tbMugOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbMugOff = element (unsafeCoerce _tbMugOff)
+tbMugOff :: Icon
+tbMugOff = element _tbMugOff
 
 foreign import _tbMushroom :: ReactIcon
 
-tbMushroom :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbMushroom = element (unsafeCoerce _tbMushroom)
+tbMushroom :: Icon
+tbMushroom = element _tbMushroom
 
 foreign import _tbMusic :: ReactIcon
 
-tbMusic :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbMusic = element (unsafeCoerce _tbMusic)
+tbMusic :: Icon
+tbMusic = element _tbMusic
 
 foreign import _tbMusicOff :: ReactIcon
 
-tbMusicOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbMusicOff = element (unsafeCoerce _tbMusicOff)
+tbMusicOff :: Icon
+tbMusicOff = element _tbMusicOff
 
 foreign import _tbNetwork :: ReactIcon
 
-tbNetwork :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbNetwork = element (unsafeCoerce _tbNetwork)
+tbNetwork :: Icon
+tbNetwork = element _tbNetwork
 
 foreign import _tbNews :: ReactIcon
 
-tbNews :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbNews = element (unsafeCoerce _tbNews)
+tbNews :: Icon
+tbNews = element _tbNews
 
 foreign import _tbNewSection :: ReactIcon
 
-tbNewSection :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbNewSection = element (unsafeCoerce _tbNewSection)
+tbNewSection :: Icon
+tbNewSection = element _tbNewSection
 
 foreign import _tbNewsOff :: ReactIcon
 
-tbNewsOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbNewsOff = element (unsafeCoerce _tbNewsOff)
+tbNewsOff :: Icon
+tbNewsOff = element _tbNewsOff
 
 foreign import _tbNfc :: ReactIcon
 
-tbNfc :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbNfc = element (unsafeCoerce _tbNfc)
+tbNfc :: Icon
+tbNfc = element _tbNfc
 
 foreign import _tbNfcOff :: ReactIcon
 
-tbNfcOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbNfcOff = element (unsafeCoerce _tbNfcOff)
+tbNfcOff :: Icon
+tbNfcOff = element _tbNfcOff
 
 foreign import _tbNoCopyright :: ReactIcon
 
-tbNoCopyright :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbNoCopyright = element (unsafeCoerce _tbNoCopyright)
+tbNoCopyright :: Icon
+tbNoCopyright = element _tbNoCopyright
 
 foreign import _tbNoCreativeCommons :: ReactIcon
 
-tbNoCreativeCommons :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbNoCreativeCommons = element (unsafeCoerce _tbNoCreativeCommons)
+tbNoCreativeCommons :: Icon
+tbNoCreativeCommons = element _tbNoCreativeCommons
 
 foreign import _tbNoDerivatives :: ReactIcon
 
-tbNoDerivatives :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbNoDerivatives = element (unsafeCoerce _tbNoDerivatives)
+tbNoDerivatives :: Icon
+tbNoDerivatives = element _tbNoDerivatives
 
 foreign import _tbNorthStar :: ReactIcon
 
-tbNorthStar :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbNorthStar = element (unsafeCoerce _tbNorthStar)
+tbNorthStar :: Icon
+tbNorthStar = element _tbNorthStar
 
 foreign import _tbNote :: ReactIcon
 
-tbNote :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbNote = element (unsafeCoerce _tbNote)
+tbNote :: Icon
+tbNote = element _tbNote
 
 foreign import _tbNotebook :: ReactIcon
 
-tbNotebook :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbNotebook = element (unsafeCoerce _tbNotebook)
+tbNotebook :: Icon
+tbNotebook = element _tbNotebook
 
 foreign import _tbNoteOff :: ReactIcon
 
-tbNoteOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbNoteOff = element (unsafeCoerce _tbNoteOff)
+tbNoteOff :: Icon
+tbNoteOff = element _tbNoteOff
 
 foreign import _tbNotes :: ReactIcon
 
-tbNotes :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbNotes = element (unsafeCoerce _tbNotes)
+tbNotes :: Icon
+tbNotes = element _tbNotes
 
 foreign import _tbNotesOff :: ReactIcon
 
-tbNotesOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbNotesOff = element (unsafeCoerce _tbNotesOff)
+tbNotesOff :: Icon
+tbNotesOff = element _tbNotesOff
 
 foreign import _tbNotification :: ReactIcon
 
-tbNotification :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbNotification = element (unsafeCoerce _tbNotification)
+tbNotification :: Icon
+tbNotification = element _tbNotification
 
 foreign import _tbNotificationOff :: ReactIcon
 
-tbNotificationOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbNotificationOff = element (unsafeCoerce _tbNotificationOff)
+tbNotificationOff :: Icon
+tbNotificationOff = element _tbNotificationOff
 
 foreign import _tbNumbers :: ReactIcon
 
-tbNumbers :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbNumbers = element (unsafeCoerce _tbNumbers)
+tbNumbers :: Icon
+tbNumbers = element _tbNumbers
 
 foreign import _tbNurse :: ReactIcon
 
-tbNurse :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbNurse = element (unsafeCoerce _tbNurse)
+tbNurse :: Icon
+tbNurse = element _tbNurse
 
 foreign import _tbOctagon :: ReactIcon
 
-tbOctagon :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbOctagon = element (unsafeCoerce _tbOctagon)
+tbOctagon :: Icon
+tbOctagon = element _tbOctagon
 
 foreign import _tbOctagonOff :: ReactIcon
 
-tbOctagonOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbOctagonOff = element (unsafeCoerce _tbOctagonOff)
+tbOctagonOff :: Icon
+tbOctagonOff = element _tbOctagonOff
 
 foreign import _tbOld :: ReactIcon
 
-tbOld :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbOld = element (unsafeCoerce _tbOld)
+tbOld :: Icon
+tbOld = element _tbOld
 
 foreign import _tbOlympics :: ReactIcon
 
-tbOlympics :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbOlympics = element (unsafeCoerce _tbOlympics)
+tbOlympics :: Icon
+tbOlympics = element _tbOlympics
 
 foreign import _tbOmega :: ReactIcon
 
-tbOmega :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbOmega = element (unsafeCoerce _tbOmega)
+tbOmega :: Icon
+tbOmega = element _tbOmega
 
 foreign import _tbOutlet :: ReactIcon
 
-tbOutlet :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbOutlet = element (unsafeCoerce _tbOutlet)
+tbOutlet :: Icon
+tbOutlet = element _tbOutlet
 
 foreign import _tbOval :: ReactIcon
 
-tbOval :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbOval = element (unsafeCoerce _tbOval)
+tbOval :: Icon
+tbOval = element _tbOval
 
 foreign import _tbOvalVertical :: ReactIcon
 
-tbOvalVertical :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbOvalVertical = element (unsafeCoerce _tbOvalVertical)
+tbOvalVertical :: Icon
+tbOvalVertical = element _tbOvalVertical
 
 foreign import _tbOverline :: ReactIcon
 
-tbOverline :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbOverline = element (unsafeCoerce _tbOverline)
+tbOverline :: Icon
+tbOverline = element _tbOverline
 
 foreign import _tbPackage :: ReactIcon
 
-tbPackage :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbPackage = element (unsafeCoerce _tbPackage)
+tbPackage :: Icon
+tbPackage = element _tbPackage
 
 foreign import _tbPackageOff :: ReactIcon
 
-tbPackageOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbPackageOff = element (unsafeCoerce _tbPackageOff)
+tbPackageOff :: Icon
+tbPackageOff = element _tbPackageOff
 
 foreign import _tbPackgeExport :: ReactIcon
 
-tbPackgeExport :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbPackgeExport = element (unsafeCoerce _tbPackgeExport)
+tbPackgeExport :: Icon
+tbPackgeExport = element _tbPackgeExport
 
 foreign import _tbPackgeImport :: ReactIcon
 
-tbPackgeImport :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbPackgeImport = element (unsafeCoerce _tbPackgeImport)
+tbPackgeImport :: Icon
+tbPackgeImport = element _tbPackgeImport
 
 foreign import _tbPacman :: ReactIcon
 
-tbPacman :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbPacman = element (unsafeCoerce _tbPacman)
+tbPacman :: Icon
+tbPacman = element _tbPacman
 
 foreign import _tbPageBreak :: ReactIcon
 
-tbPageBreak :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbPageBreak = element (unsafeCoerce _tbPageBreak)
+tbPageBreak :: Icon
+tbPageBreak = element _tbPageBreak
 
 foreign import _tbPaint :: ReactIcon
 
-tbPaint :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbPaint = element (unsafeCoerce _tbPaint)
+tbPaint :: Icon
+tbPaint = element _tbPaint
 
 foreign import _tbPaintOff :: ReactIcon
 
-tbPaintOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbPaintOff = element (unsafeCoerce _tbPaintOff)
+tbPaintOff :: Icon
+tbPaintOff = element _tbPaintOff
 
 foreign import _tbPalette :: ReactIcon
 
-tbPalette :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbPalette = element (unsafeCoerce _tbPalette)
+tbPalette :: Icon
+tbPalette = element _tbPalette
 
 foreign import _tbPaletteOff :: ReactIcon
 
-tbPaletteOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbPaletteOff = element (unsafeCoerce _tbPaletteOff)
+tbPaletteOff :: Icon
+tbPaletteOff = element _tbPaletteOff
 
 foreign import _tbPanoramaHorizontal :: ReactIcon
 
-tbPanoramaHorizontal :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbPanoramaHorizontal = element (unsafeCoerce _tbPanoramaHorizontal)
+tbPanoramaHorizontal :: Icon
+tbPanoramaHorizontal = element _tbPanoramaHorizontal
 
 foreign import _tbPanoramaVertical :: ReactIcon
 
-tbPanoramaVertical :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbPanoramaVertical = element (unsafeCoerce _tbPanoramaVertical)
+tbPanoramaVertical :: Icon
+tbPanoramaVertical = element _tbPanoramaVertical
 
 foreign import _tbPaperBag :: ReactIcon
 
-tbPaperBag :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbPaperBag = element (unsafeCoerce _tbPaperBag)
+tbPaperBag :: Icon
+tbPaperBag = element _tbPaperBag
 
 foreign import _tbPaperBagOff :: ReactIcon
 
-tbPaperBagOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbPaperBagOff = element (unsafeCoerce _tbPaperBagOff)
+tbPaperBagOff :: Icon
+tbPaperBagOff = element _tbPaperBagOff
 
 foreign import _tbPaperclip :: ReactIcon
 
-tbPaperclip :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbPaperclip = element (unsafeCoerce _tbPaperclip)
+tbPaperclip :: Icon
+tbPaperclip = element _tbPaperclip
 
 foreign import _tbParachute :: ReactIcon
 
-tbParachute :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbParachute = element (unsafeCoerce _tbParachute)
+tbParachute :: Icon
+tbParachute = element _tbParachute
 
 foreign import _tbParachuteOff :: ReactIcon
 
-tbParachuteOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbParachuteOff = element (unsafeCoerce _tbParachuteOff)
+tbParachuteOff :: Icon
+tbParachuteOff = element _tbParachuteOff
 
 foreign import _tbParentheses :: ReactIcon
 
-tbParentheses :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbParentheses = element (unsafeCoerce _tbParentheses)
+tbParentheses :: Icon
+tbParentheses = element _tbParentheses
 
 foreign import _tbParenthesesOff :: ReactIcon
 
-tbParenthesesOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbParenthesesOff = element (unsafeCoerce _tbParenthesesOff)
+tbParenthesesOff :: Icon
+tbParenthesesOff = element _tbParenthesesOff
 
 foreign import _tbParking :: ReactIcon
 
-tbParking :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbParking = element (unsafeCoerce _tbParking)
+tbParking :: Icon
+tbParking = element _tbParking
 
 foreign import _tbParkingOff :: ReactIcon
 
-tbParkingOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbParkingOff = element (unsafeCoerce _tbParkingOff)
+tbParkingOff :: Icon
+tbParkingOff = element _tbParkingOff
 
 foreign import _tbPaw :: ReactIcon
 
-tbPaw :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbPaw = element (unsafeCoerce _tbPaw)
+tbPaw :: Icon
+tbPaw = element _tbPaw
 
 foreign import _tbPeace :: ReactIcon
 
-tbPeace :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbPeace = element (unsafeCoerce _tbPeace)
+tbPeace :: Icon
+tbPeace = element _tbPeace
 
 foreign import _tbPencil :: ReactIcon
 
-tbPencil :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbPencil = element (unsafeCoerce _tbPencil)
+tbPencil :: Icon
+tbPencil = element _tbPencil
 
 foreign import _tbPencilOff :: ReactIcon
 
-tbPencilOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbPencilOff = element (unsafeCoerce _tbPencilOff)
+tbPencilOff :: Icon
+tbPencilOff = element _tbPencilOff
 
 foreign import _tbPennant :: ReactIcon
 
-tbPennant :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbPennant = element (unsafeCoerce _tbPennant)
+tbPennant :: Icon
+tbPennant = element _tbPennant
 
 foreign import _tbPennantOff :: ReactIcon
 
-tbPennantOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbPennantOff = element (unsafeCoerce _tbPennantOff)
+tbPennantOff :: Icon
+tbPennantOff = element _tbPennantOff
 
 foreign import _tbPentagon :: ReactIcon
 
-tbPentagon :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbPentagon = element (unsafeCoerce _tbPentagon)
+tbPentagon :: Icon
+tbPentagon = element _tbPentagon
 
 foreign import _tbPepper :: ReactIcon
 
-tbPepper :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbPepper = element (unsafeCoerce _tbPepper)
+tbPepper :: Icon
+tbPepper = element _tbPepper
 
 foreign import _tbPepperOff :: ReactIcon
 
-tbPepperOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbPepperOff = element (unsafeCoerce _tbPepperOff)
+tbPepperOff :: Icon
+tbPepperOff = element _tbPepperOff
 
 foreign import _tbPercentage :: ReactIcon
 
-tbPercentage :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbPercentage = element (unsafeCoerce _tbPercentage)
+tbPercentage :: Icon
+tbPercentage = element _tbPercentage
 
 foreign import _tbPerspective :: ReactIcon
 
-tbPerspective :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbPerspective = element (unsafeCoerce _tbPerspective)
+tbPerspective :: Icon
+tbPerspective = element _tbPerspective
 
 foreign import _tbPerspectiveOff :: ReactIcon
 
-tbPerspectiveOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbPerspectiveOff = element (unsafeCoerce _tbPerspectiveOff)
+tbPerspectiveOff :: Icon
+tbPerspectiveOff = element _tbPerspectiveOff
 
 foreign import _tbPhone :: ReactIcon
 
-tbPhone :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbPhone = element (unsafeCoerce _tbPhone)
+tbPhone :: Icon
+tbPhone = element _tbPhone
 
 foreign import _tbPhoneCall :: ReactIcon
 
-tbPhoneCall :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbPhoneCall = element (unsafeCoerce _tbPhoneCall)
+tbPhoneCall :: Icon
+tbPhoneCall = element _tbPhoneCall
 
 foreign import _tbPhoneCalling :: ReactIcon
 
-tbPhoneCalling :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbPhoneCalling = element (unsafeCoerce _tbPhoneCalling)
+tbPhoneCalling :: Icon
+tbPhoneCalling = element _tbPhoneCalling
 
 foreign import _tbPhoneCheck :: ReactIcon
 
-tbPhoneCheck :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbPhoneCheck = element (unsafeCoerce _tbPhoneCheck)
+tbPhoneCheck :: Icon
+tbPhoneCheck = element _tbPhoneCheck
 
 foreign import _tbPhoneIncoming :: ReactIcon
 
-tbPhoneIncoming :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbPhoneIncoming = element (unsafeCoerce _tbPhoneIncoming)
+tbPhoneIncoming :: Icon
+tbPhoneIncoming = element _tbPhoneIncoming
 
 foreign import _tbPhoneOff :: ReactIcon
 
-tbPhoneOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbPhoneOff = element (unsafeCoerce _tbPhoneOff)
+tbPhoneOff :: Icon
+tbPhoneOff = element _tbPhoneOff
 
 foreign import _tbPhoneOutgoing :: ReactIcon
 
-tbPhoneOutgoing :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbPhoneOutgoing = element (unsafeCoerce _tbPhoneOutgoing)
+tbPhoneOutgoing :: Icon
+tbPhoneOutgoing = element _tbPhoneOutgoing
 
 foreign import _tbPhonePause :: ReactIcon
 
-tbPhonePause :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbPhonePause = element (unsafeCoerce _tbPhonePause)
+tbPhonePause :: Icon
+tbPhonePause = element _tbPhonePause
 
 foreign import _tbPhonePlus :: ReactIcon
 
-tbPhonePlus :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbPhonePlus = element (unsafeCoerce _tbPhonePlus)
+tbPhonePlus :: Icon
+tbPhonePlus = element _tbPhonePlus
 
 foreign import _tbPhoneX :: ReactIcon
 
-tbPhoneX :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbPhoneX = element (unsafeCoerce _tbPhoneX)
+tbPhoneX :: Icon
+tbPhoneX = element _tbPhoneX
 
 foreign import _tbPhoto :: ReactIcon
 
-tbPhoto :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbPhoto = element (unsafeCoerce _tbPhoto)
+tbPhoto :: Icon
+tbPhoto = element _tbPhoto
 
 foreign import _tbPhotoOff :: ReactIcon
 
-tbPhotoOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbPhotoOff = element (unsafeCoerce _tbPhotoOff)
+tbPhotoOff :: Icon
+tbPhotoOff = element _tbPhotoOff
 
 foreign import _tbPhysotherapist :: ReactIcon
 
-tbPhysotherapist :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbPhysotherapist = element (unsafeCoerce _tbPhysotherapist)
+tbPhysotherapist :: Icon
+tbPhysotherapist = element _tbPhysotherapist
 
 foreign import _tbPictureInPicture :: ReactIcon
 
-tbPictureInPicture :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbPictureInPicture = element (unsafeCoerce _tbPictureInPicture)
+tbPictureInPicture :: Icon
+tbPictureInPicture = element _tbPictureInPicture
 
 foreign import _tbPictureInPictureOff :: ReactIcon
 
-tbPictureInPictureOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbPictureInPictureOff = element (unsafeCoerce _tbPictureInPictureOff)
+tbPictureInPictureOff :: Icon
+tbPictureInPictureOff = element _tbPictureInPictureOff
 
 foreign import _tbPictureInPictureOn :: ReactIcon
 
-tbPictureInPictureOn :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbPictureInPictureOn = element (unsafeCoerce _tbPictureInPictureOn)
+tbPictureInPictureOn :: Icon
+tbPictureInPictureOn = element _tbPictureInPictureOn
 
 foreign import _tbPictureInPictureTop :: ReactIcon
 
-tbPictureInPictureTop :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbPictureInPictureTop = element (unsafeCoerce _tbPictureInPictureTop)
+tbPictureInPictureTop :: Icon
+tbPictureInPictureTop = element _tbPictureInPictureTop
 
 foreign import _tbPig :: ReactIcon
 
-tbPig :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbPig = element (unsafeCoerce _tbPig)
+tbPig :: Icon
+tbPig = element _tbPig
 
 foreign import _tbPigOff :: ReactIcon
 
-tbPigOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbPigOff = element (unsafeCoerce _tbPigOff)
+tbPigOff :: Icon
+tbPigOff = element _tbPigOff
 
 foreign import _tbPill :: ReactIcon
 
-tbPill :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbPill = element (unsafeCoerce _tbPill)
+tbPill :: Icon
+tbPill = element _tbPill
 
 foreign import _tbPillOff :: ReactIcon
 
-tbPillOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbPillOff = element (unsafeCoerce _tbPillOff)
+tbPillOff :: Icon
+tbPillOff = element _tbPillOff
 
 foreign import _tbPills :: ReactIcon
 
-tbPills :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbPills = element (unsafeCoerce _tbPills)
+tbPills :: Icon
+tbPills = element _tbPills
 
 foreign import _tbPin :: ReactIcon
 
-tbPin :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbPin = element (unsafeCoerce _tbPin)
+tbPin :: Icon
+tbPin = element _tbPin
 
 foreign import _tbPinned :: ReactIcon
 
-tbPinned :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbPinned = element (unsafeCoerce _tbPinned)
+tbPinned :: Icon
+tbPinned = element _tbPinned
 
 foreign import _tbPinnedOff :: ReactIcon
 
-tbPinnedOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbPinnedOff = element (unsafeCoerce _tbPinnedOff)
+tbPinnedOff :: Icon
+tbPinnedOff = element _tbPinnedOff
 
 foreign import _tbPizza :: ReactIcon
 
-tbPizza :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbPizza = element (unsafeCoerce _tbPizza)
+tbPizza :: Icon
+tbPizza = element _tbPizza
 
 foreign import _tbPizzaOff :: ReactIcon
 
-tbPizzaOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbPizzaOff = element (unsafeCoerce _tbPizzaOff)
+tbPizzaOff :: Icon
+tbPizzaOff = element _tbPizzaOff
 
 foreign import _tbPlane :: ReactIcon
 
-tbPlane :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbPlane = element (unsafeCoerce _tbPlane)
+tbPlane :: Icon
+tbPlane = element _tbPlane
 
 foreign import _tbPlaneArrival :: ReactIcon
 
-tbPlaneArrival :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbPlaneArrival = element (unsafeCoerce _tbPlaneArrival)
+tbPlaneArrival :: Icon
+tbPlaneArrival = element _tbPlaneArrival
 
 foreign import _tbPlaneDeparture :: ReactIcon
 
-tbPlaneDeparture :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbPlaneDeparture = element (unsafeCoerce _tbPlaneDeparture)
+tbPlaneDeparture :: Icon
+tbPlaneDeparture = element _tbPlaneDeparture
 
 foreign import _tbPlaneInflight :: ReactIcon
 
-tbPlaneInflight :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbPlaneInflight = element (unsafeCoerce _tbPlaneInflight)
+tbPlaneInflight :: Icon
+tbPlaneInflight = element _tbPlaneInflight
 
 foreign import _tbPlaneOff :: ReactIcon
 
-tbPlaneOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbPlaneOff = element (unsafeCoerce _tbPlaneOff)
+tbPlaneOff :: Icon
+tbPlaneOff = element _tbPlaneOff
 
 foreign import _tbPlanet :: ReactIcon
 
-tbPlanet :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbPlanet = element (unsafeCoerce _tbPlanet)
+tbPlanet :: Icon
+tbPlanet = element _tbPlanet
 
 foreign import _tbPlanetOff :: ReactIcon
 
-tbPlanetOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbPlanetOff = element (unsafeCoerce _tbPlanetOff)
+tbPlanetOff :: Icon
+tbPlanetOff = element _tbPlanetOff
 
 foreign import _tbPlant :: ReactIcon
 
-tbPlant :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbPlant = element (unsafeCoerce _tbPlant)
+tbPlant :: Icon
+tbPlant = element _tbPlant
 
 foreign import _tbPlantOff :: ReactIcon
 
-tbPlantOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbPlantOff = element (unsafeCoerce _tbPlantOff)
+tbPlantOff :: Icon
+tbPlantOff = element _tbPlantOff
 
 foreign import _tbPlayCard :: ReactIcon
 
-tbPlayCard :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbPlayCard = element (unsafeCoerce _tbPlayCard)
+tbPlayCard :: Icon
+tbPlayCard = element _tbPlayCard
 
 foreign import _tbPlayCardOff :: ReactIcon
 
-tbPlayCardOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbPlayCardOff = element (unsafeCoerce _tbPlayCardOff)
+tbPlayCardOff :: Icon
+tbPlayCardOff = element _tbPlayCardOff
 
 foreign import _tbPlayerEject :: ReactIcon
 
-tbPlayerEject :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbPlayerEject = element (unsafeCoerce _tbPlayerEject)
+tbPlayerEject :: Icon
+tbPlayerEject = element _tbPlayerEject
 
 foreign import _tbPlayerPause :: ReactIcon
 
-tbPlayerPause :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbPlayerPause = element (unsafeCoerce _tbPlayerPause)
+tbPlayerPause :: Icon
+tbPlayerPause = element _tbPlayerPause
 
 foreign import _tbPlayerPlay :: ReactIcon
 
-tbPlayerPlay :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbPlayerPlay = element (unsafeCoerce _tbPlayerPlay)
+tbPlayerPlay :: Icon
+tbPlayerPlay = element _tbPlayerPlay
 
 foreign import _tbPlayerRecord :: ReactIcon
 
-tbPlayerRecord :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbPlayerRecord = element (unsafeCoerce _tbPlayerRecord)
+tbPlayerRecord :: Icon
+tbPlayerRecord = element _tbPlayerRecord
 
 foreign import _tbPlayerSkipBack :: ReactIcon
 
-tbPlayerSkipBack :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbPlayerSkipBack = element (unsafeCoerce _tbPlayerSkipBack)
+tbPlayerSkipBack :: Icon
+tbPlayerSkipBack = element _tbPlayerSkipBack
 
 foreign import _tbPlayerSkipForward :: ReactIcon
 
-tbPlayerSkipForward :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbPlayerSkipForward = element (unsafeCoerce _tbPlayerSkipForward)
+tbPlayerSkipForward :: Icon
+tbPlayerSkipForward = element _tbPlayerSkipForward
 
 foreign import _tbPlayerStop :: ReactIcon
 
-tbPlayerStop :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbPlayerStop = element (unsafeCoerce _tbPlayerStop)
+tbPlayerStop :: Icon
+tbPlayerStop = element _tbPlayerStop
 
 foreign import _tbPlayerTrackNext :: ReactIcon
 
-tbPlayerTrackNext :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbPlayerTrackNext = element (unsafeCoerce _tbPlayerTrackNext)
+tbPlayerTrackNext :: Icon
+tbPlayerTrackNext = element _tbPlayerTrackNext
 
 foreign import _tbPlayerTrackPrev :: ReactIcon
 
-tbPlayerTrackPrev :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbPlayerTrackPrev = element (unsafeCoerce _tbPlayerTrackPrev)
+tbPlayerTrackPrev :: Icon
+tbPlayerTrackPrev = element _tbPlayerTrackPrev
 
 foreign import _tbPlaylist :: ReactIcon
 
-tbPlaylist :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbPlaylist = element (unsafeCoerce _tbPlaylist)
+tbPlaylist :: Icon
+tbPlaylist = element _tbPlaylist
 
 foreign import _tbPlaylistAdd :: ReactIcon
 
-tbPlaylistAdd :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbPlaylistAdd = element (unsafeCoerce _tbPlaylistAdd)
+tbPlaylistAdd :: Icon
+tbPlaylistAdd = element _tbPlaylistAdd
 
 foreign import _tbPlaylistOff :: ReactIcon
 
-tbPlaylistOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbPlaylistOff = element (unsafeCoerce _tbPlaylistOff)
+tbPlaylistOff :: Icon
+tbPlaylistOff = element _tbPlaylistOff
 
 foreign import _tbPlaylistX :: ReactIcon
 
-tbPlaylistX :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbPlaylistX = element (unsafeCoerce _tbPlaylistX)
+tbPlaylistX :: Icon
+tbPlaylistX = element _tbPlaylistX
 
 foreign import _tbPlug :: ReactIcon
 
-tbPlug :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbPlug = element (unsafeCoerce _tbPlug)
+tbPlug :: Icon
+tbPlug = element _tbPlug
 
 foreign import _tbPlugConnected :: ReactIcon
 
-tbPlugConnected :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbPlugConnected = element (unsafeCoerce _tbPlugConnected)
+tbPlugConnected :: Icon
+tbPlugConnected = element _tbPlugConnected
 
 foreign import _tbPlugConnectedX :: ReactIcon
 
-tbPlugConnectedX :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbPlugConnectedX = element (unsafeCoerce _tbPlugConnectedX)
+tbPlugConnectedX :: Icon
+tbPlugConnectedX = element _tbPlugConnectedX
 
 foreign import _tbPlugOff :: ReactIcon
 
-tbPlugOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbPlugOff = element (unsafeCoerce _tbPlugOff)
+tbPlugOff :: Icon
+tbPlugOff = element _tbPlugOff
 
 foreign import _tbPlugX :: ReactIcon
 
-tbPlugX :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbPlugX = element (unsafeCoerce _tbPlugX)
+tbPlugX :: Icon
+tbPlugX = element _tbPlugX
 
 foreign import _tbPlus :: ReactIcon
 
-tbPlus :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbPlus = element (unsafeCoerce _tbPlus)
+tbPlus :: Icon
+tbPlus = element _tbPlus
 
 foreign import _tbPodium :: ReactIcon
 
-tbPodium :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbPodium = element (unsafeCoerce _tbPodium)
+tbPodium :: Icon
+tbPodium = element _tbPodium
 
 foreign import _tbPoint :: ReactIcon
 
-tbPoint :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbPoint = element (unsafeCoerce _tbPoint)
+tbPoint :: Icon
+tbPoint = element _tbPoint
 
 foreign import _tbPointOff :: ReactIcon
 
-tbPointOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbPointOff = element (unsafeCoerce _tbPointOff)
+tbPointOff :: Icon
+tbPointOff = element _tbPointOff
 
 foreign import _tbPokeball :: ReactIcon
 
-tbPokeball :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbPokeball = element (unsafeCoerce _tbPokeball)
+tbPokeball :: Icon
+tbPokeball = element _tbPokeball
 
 foreign import _tbPolaroid :: ReactIcon
 
-tbPolaroid :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbPolaroid = element (unsafeCoerce _tbPolaroid)
+tbPolaroid :: Icon
+tbPolaroid = element _tbPolaroid
 
 foreign import _tbPolygon :: ReactIcon
 
-tbPolygon :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbPolygon = element (unsafeCoerce _tbPolygon)
+tbPolygon :: Icon
+tbPolygon = element _tbPolygon
 
 foreign import _tbPolygonOff :: ReactIcon
 
-tbPolygonOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbPolygonOff = element (unsafeCoerce _tbPolygonOff)
+tbPolygonOff :: Icon
+tbPolygonOff = element _tbPolygonOff
 
 foreign import _tbPool :: ReactIcon
 
-tbPool :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbPool = element (unsafeCoerce _tbPool)
+tbPool :: Icon
+tbPool = element _tbPool
 
 foreign import _tbPower :: ReactIcon
 
-tbPower :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbPower = element (unsafeCoerce _tbPower)
+tbPower :: Icon
+tbPower = element _tbPower
 
 foreign import _tbPray :: ReactIcon
 
-tbPray :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbPray = element (unsafeCoerce _tbPray)
+tbPray :: Icon
+tbPray = element _tbPray
 
 foreign import _tbPremiumRights :: ReactIcon
 
-tbPremiumRights :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbPremiumRights = element (unsafeCoerce _tbPremiumRights)
+tbPremiumRights :: Icon
+tbPremiumRights = element _tbPremiumRights
 
 foreign import _tbPrescription :: ReactIcon
 
-tbPrescription :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbPrescription = element (unsafeCoerce _tbPrescription)
+tbPrescription :: Icon
+tbPrescription = element _tbPrescription
 
 foreign import _tbPresentation :: ReactIcon
 
-tbPresentation :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbPresentation = element (unsafeCoerce _tbPresentation)
+tbPresentation :: Icon
+tbPresentation = element _tbPresentation
 
 foreign import _tbPresentationAnalytics :: ReactIcon
 
-tbPresentationAnalytics :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbPresentationAnalytics = element (unsafeCoerce _tbPresentationAnalytics)
+tbPresentationAnalytics :: Icon
+tbPresentationAnalytics = element _tbPresentationAnalytics
 
 foreign import _tbPresentationOff :: ReactIcon
 
-tbPresentationOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbPresentationOff = element (unsafeCoerce _tbPresentationOff)
+tbPresentationOff :: Icon
+tbPresentationOff = element _tbPresentationOff
 
 foreign import _tbPrinter :: ReactIcon
 
-tbPrinter :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbPrinter = element (unsafeCoerce _tbPrinter)
+tbPrinter :: Icon
+tbPrinter = element _tbPrinter
 
 foreign import _tbPrinterOff :: ReactIcon
 
-tbPrinterOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbPrinterOff = element (unsafeCoerce _tbPrinterOff)
+tbPrinterOff :: Icon
+tbPrinterOff = element _tbPrinterOff
 
 foreign import _tbPrison :: ReactIcon
 
-tbPrison :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbPrison = element (unsafeCoerce _tbPrison)
+tbPrison :: Icon
+tbPrison = element _tbPrison
 
 foreign import _tbPrompt :: ReactIcon
 
-tbPrompt :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbPrompt = element (unsafeCoerce _tbPrompt)
+tbPrompt :: Icon
+tbPrompt = element _tbPrompt
 
 foreign import _tbPropeller :: ReactIcon
 
-tbPropeller :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbPropeller = element (unsafeCoerce _tbPropeller)
+tbPropeller :: Icon
+tbPropeller = element _tbPropeller
 
 foreign import _tbPropellerOff :: ReactIcon
 
-tbPropellerOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbPropellerOff = element (unsafeCoerce _tbPropellerOff)
+tbPropellerOff :: Icon
+tbPropellerOff = element _tbPropellerOff
 
 foreign import _tbPuzzle :: ReactIcon
 
-tbPuzzle :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbPuzzle = element (unsafeCoerce _tbPuzzle)
+tbPuzzle :: Icon
+tbPuzzle = element _tbPuzzle
 
 foreign import _tbPuzzleOff :: ReactIcon
 
-tbPuzzleOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbPuzzleOff = element (unsafeCoerce _tbPuzzleOff)
+tbPuzzleOff :: Icon
+tbPuzzleOff = element _tbPuzzleOff
 
 foreign import _tbPyramid :: ReactIcon
 
-tbPyramid :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbPyramid = element (unsafeCoerce _tbPyramid)
+tbPyramid :: Icon
+tbPyramid = element _tbPyramid
 
 foreign import _tbPyramidOff :: ReactIcon
 
-tbPyramidOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbPyramidOff = element (unsafeCoerce _tbPyramidOff)
+tbPyramidOff :: Icon
+tbPyramidOff = element _tbPyramidOff
 
 foreign import _tbQrcode :: ReactIcon
 
-tbQrcode :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbQrcode = element (unsafeCoerce _tbQrcode)
+tbQrcode :: Icon
+tbQrcode = element _tbQrcode
 
 foreign import _tbQuestionMark :: ReactIcon
 
-tbQuestionMark :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbQuestionMark = element (unsafeCoerce _tbQuestionMark)
+tbQuestionMark :: Icon
+tbQuestionMark = element _tbQuestionMark
 
 foreign import _tbQuote :: ReactIcon
 
-tbQuote :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbQuote = element (unsafeCoerce _tbQuote)
+tbQuote :: Icon
+tbQuote = element _tbQuote
 
 foreign import _tbQuoteOff :: ReactIcon
 
-tbQuoteOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbQuoteOff = element (unsafeCoerce _tbQuoteOff)
+tbQuoteOff :: Icon
+tbQuoteOff = element _tbQuoteOff
 
 foreign import _tbRadar :: ReactIcon
 
-tbRadar :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbRadar = element (unsafeCoerce _tbRadar)
+tbRadar :: Icon
+tbRadar = element _tbRadar
 
 foreign import _tbRadio :: ReactIcon
 
-tbRadio :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbRadio = element (unsafeCoerce _tbRadio)
+tbRadio :: Icon
+tbRadio = element _tbRadio
 
 foreign import _tbRadioactive :: ReactIcon
 
-tbRadioactive :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbRadioactive = element (unsafeCoerce _tbRadioactive)
+tbRadioactive :: Icon
+tbRadioactive = element _tbRadioactive
 
 foreign import _tbRadioactiveOff :: ReactIcon
 
-tbRadioactiveOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbRadioactiveOff = element (unsafeCoerce _tbRadioactiveOff)
+tbRadioactiveOff :: Icon
+tbRadioactiveOff = element _tbRadioactiveOff
 
 foreign import _tbRadiusBottomLeft :: ReactIcon
 
-tbRadiusBottomLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbRadiusBottomLeft = element (unsafeCoerce _tbRadiusBottomLeft)
+tbRadiusBottomLeft :: Icon
+tbRadiusBottomLeft = element _tbRadiusBottomLeft
 
 foreign import _tbRadiusBottomRight :: ReactIcon
 
-tbRadiusBottomRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbRadiusBottomRight = element (unsafeCoerce _tbRadiusBottomRight)
+tbRadiusBottomRight :: Icon
+tbRadiusBottomRight = element _tbRadiusBottomRight
 
 foreign import _tbRadiusTopLeft :: ReactIcon
 
-tbRadiusTopLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbRadiusTopLeft = element (unsafeCoerce _tbRadiusTopLeft)
+tbRadiusTopLeft :: Icon
+tbRadiusTopLeft = element _tbRadiusTopLeft
 
 foreign import _tbRadiusTopRight :: ReactIcon
 
-tbRadiusTopRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbRadiusTopRight = element (unsafeCoerce _tbRadiusTopRight)
+tbRadiusTopRight :: Icon
+tbRadiusTopRight = element _tbRadiusTopRight
 
 foreign import _tbRainbow :: ReactIcon
 
-tbRainbow :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbRainbow = element (unsafeCoerce _tbRainbow)
+tbRainbow :: Icon
+tbRainbow = element _tbRainbow
 
 foreign import _tbRainbowOff :: ReactIcon
 
-tbRainbowOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbRainbowOff = element (unsafeCoerce _tbRainbowOff)
+tbRainbowOff :: Icon
+tbRainbowOff = element _tbRainbowOff
 
 foreign import _tbReceipt :: ReactIcon
 
-tbReceipt :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbReceipt = element (unsafeCoerce _tbReceipt)
+tbReceipt :: Icon
+tbReceipt = element _tbReceipt
 
 foreign import _tbReceiptOff :: ReactIcon
 
-tbReceiptOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbReceiptOff = element (unsafeCoerce _tbReceiptOff)
+tbReceiptOff :: Icon
+tbReceiptOff = element _tbReceiptOff
 
 foreign import _tbReceiptRefund :: ReactIcon
 
-tbReceiptRefund :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbReceiptRefund = element (unsafeCoerce _tbReceiptRefund)
+tbReceiptRefund :: Icon
+tbReceiptRefund = element _tbReceiptRefund
 
 foreign import _tbReceiptTax :: ReactIcon
 
-tbReceiptTax :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbReceiptTax = element (unsafeCoerce _tbReceiptTax)
+tbReceiptTax :: Icon
+tbReceiptTax = element _tbReceiptTax
 
 foreign import _tbRecharging :: ReactIcon
 
-tbRecharging :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbRecharging = element (unsafeCoerce _tbRecharging)
+tbRecharging :: Icon
+tbRecharging = element _tbRecharging
 
 foreign import _tbRecordMail :: ReactIcon
 
-tbRecordMail :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbRecordMail = element (unsafeCoerce _tbRecordMail)
+tbRecordMail :: Icon
+tbRecordMail = element _tbRecordMail
 
 foreign import _tbRecordMailOff :: ReactIcon
 
-tbRecordMailOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbRecordMailOff = element (unsafeCoerce _tbRecordMailOff)
+tbRecordMailOff :: Icon
+tbRecordMailOff = element _tbRecordMailOff
 
 foreign import _tbRectangle :: ReactIcon
 
-tbRectangle :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbRectangle = element (unsafeCoerce _tbRectangle)
+tbRectangle :: Icon
+tbRectangle = element _tbRectangle
 
 foreign import _tbRectangleVertical :: ReactIcon
 
-tbRectangleVertical :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbRectangleVertical = element (unsafeCoerce _tbRectangleVertical)
+tbRectangleVertical :: Icon
+tbRectangleVertical = element _tbRectangleVertical
 
 foreign import _tbRecycle :: ReactIcon
 
-tbRecycle :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbRecycle = element (unsafeCoerce _tbRecycle)
+tbRecycle :: Icon
+tbRecycle = element _tbRecycle
 
 foreign import _tbRecycleOff :: ReactIcon
 
-tbRecycleOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbRecycleOff = element (unsafeCoerce _tbRecycleOff)
+tbRecycleOff :: Icon
+tbRecycleOff = element _tbRecycleOff
 
 foreign import _tbRefresh :: ReactIcon
 
-tbRefresh :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbRefresh = element (unsafeCoerce _tbRefresh)
+tbRefresh :: Icon
+tbRefresh = element _tbRefresh
 
 foreign import _tbRefreshAlert :: ReactIcon
 
-tbRefreshAlert :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbRefreshAlert = element (unsafeCoerce _tbRefreshAlert)
+tbRefreshAlert :: Icon
+tbRefreshAlert = element _tbRefreshAlert
 
 foreign import _tbRefreshDot :: ReactIcon
 
-tbRefreshDot :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbRefreshDot = element (unsafeCoerce _tbRefreshDot)
+tbRefreshDot :: Icon
+tbRefreshDot = element _tbRefreshDot
 
 foreign import _tbRefreshOff :: ReactIcon
 
-tbRefreshOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbRefreshOff = element (unsafeCoerce _tbRefreshOff)
+tbRefreshOff :: Icon
+tbRefreshOff = element _tbRefreshOff
 
 foreign import _tbRegistered :: ReactIcon
 
-tbRegistered :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbRegistered = element (unsafeCoerce _tbRegistered)
+tbRegistered :: Icon
+tbRegistered = element _tbRegistered
 
 foreign import _tbRelationManyToMany :: ReactIcon
 
-tbRelationManyToMany :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbRelationManyToMany = element (unsafeCoerce _tbRelationManyToMany)
+tbRelationManyToMany :: Icon
+tbRelationManyToMany = element _tbRelationManyToMany
 
 foreign import _tbRelationOneToMany :: ReactIcon
 
-tbRelationOneToMany :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbRelationOneToMany = element (unsafeCoerce _tbRelationOneToMany)
+tbRelationOneToMany :: Icon
+tbRelationOneToMany = element _tbRelationOneToMany
 
 foreign import _tbRelationOneToOne :: ReactIcon
 
-tbRelationOneToOne :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbRelationOneToOne = element (unsafeCoerce _tbRelationOneToOne)
+tbRelationOneToOne :: Icon
+tbRelationOneToOne = element _tbRelationOneToOne
 
 foreign import _tbRepeat :: ReactIcon
 
-tbRepeat :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbRepeat = element (unsafeCoerce _tbRepeat)
+tbRepeat :: Icon
+tbRepeat = element _tbRepeat
 
 foreign import _tbRepeatOff :: ReactIcon
 
-tbRepeatOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbRepeatOff = element (unsafeCoerce _tbRepeatOff)
+tbRepeatOff :: Icon
+tbRepeatOff = element _tbRepeatOff
 
 foreign import _tbRepeatOnce :: ReactIcon
 
-tbRepeatOnce :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbRepeatOnce = element (unsafeCoerce _tbRepeatOnce)
+tbRepeatOnce :: Icon
+tbRepeatOnce = element _tbRepeatOnce
 
 foreign import _tbReplace :: ReactIcon
 
-tbReplace :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbReplace = element (unsafeCoerce _tbReplace)
+tbReplace :: Icon
+tbReplace = element _tbReplace
 
 foreign import _tbReport :: ReactIcon
 
-tbReport :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbReport = element (unsafeCoerce _tbReport)
+tbReport :: Icon
+tbReport = element _tbReport
 
 foreign import _tbReportAnalytics :: ReactIcon
 
-tbReportAnalytics :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbReportAnalytics = element (unsafeCoerce _tbReportAnalytics)
+tbReportAnalytics :: Icon
+tbReportAnalytics = element _tbReportAnalytics
 
 foreign import _tbReportMedical :: ReactIcon
 
-tbReportMedical :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbReportMedical = element (unsafeCoerce _tbReportMedical)
+tbReportMedical :: Icon
+tbReportMedical = element _tbReportMedical
 
 foreign import _tbReportMoney :: ReactIcon
 
-tbReportMoney :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbReportMoney = element (unsafeCoerce _tbReportMoney)
+tbReportMoney :: Icon
+tbReportMoney = element _tbReportMoney
 
 foreign import _tbReportOff :: ReactIcon
 
-tbReportOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbReportOff = element (unsafeCoerce _tbReportOff)
+tbReportOff :: Icon
+tbReportOff = element _tbReportOff
 
 foreign import _tbReportSearch :: ReactIcon
 
-tbReportSearch :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbReportSearch = element (unsafeCoerce _tbReportSearch)
+tbReportSearch :: Icon
+tbReportSearch = element _tbReportSearch
 
 foreign import _tbResize :: ReactIcon
 
-tbResize :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbResize = element (unsafeCoerce _tbResize)
+tbResize :: Icon
+tbResize = element _tbResize
 
 foreign import _tbRipple :: ReactIcon
 
-tbRipple :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbRipple = element (unsafeCoerce _tbRipple)
+tbRipple :: Icon
+tbRipple = element _tbRipple
 
 foreign import _tbRippleOff :: ReactIcon
 
-tbRippleOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbRippleOff = element (unsafeCoerce _tbRippleOff)
+tbRippleOff :: Icon
+tbRippleOff = element _tbRippleOff
 
 foreign import _tbRoad :: ReactIcon
 
-tbRoad :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbRoad = element (unsafeCoerce _tbRoad)
+tbRoad :: Icon
+tbRoad = element _tbRoad
 
 foreign import _tbRoadOff :: ReactIcon
 
-tbRoadOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbRoadOff = element (unsafeCoerce _tbRoadOff)
+tbRoadOff :: Icon
+tbRoadOff = element _tbRoadOff
 
 foreign import _tbRoadSign :: ReactIcon
 
-tbRoadSign :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbRoadSign = element (unsafeCoerce _tbRoadSign)
+tbRoadSign :: Icon
+tbRoadSign = element _tbRoadSign
 
 foreign import _tbRobot :: ReactIcon
 
-tbRobot :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbRobot = element (unsafeCoerce _tbRobot)
+tbRobot :: Icon
+tbRobot = element _tbRobot
 
 foreign import _tbRobotOff :: ReactIcon
 
-tbRobotOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbRobotOff = element (unsafeCoerce _tbRobotOff)
+tbRobotOff :: Icon
+tbRobotOff = element _tbRobotOff
 
 foreign import _tbRocket :: ReactIcon
 
-tbRocket :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbRocket = element (unsafeCoerce _tbRocket)
+tbRocket :: Icon
+tbRocket = element _tbRocket
 
 foreign import _tbRocketOff :: ReactIcon
 
-tbRocketOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbRocketOff = element (unsafeCoerce _tbRocketOff)
+tbRocketOff :: Icon
+tbRocketOff = element _tbRocketOff
 
 foreign import _tbRollercoaster :: ReactIcon
 
-tbRollercoaster :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbRollercoaster = element (unsafeCoerce _tbRollercoaster)
+tbRollercoaster :: Icon
+tbRollercoaster = element _tbRollercoaster
 
 foreign import _tbRollerSkating :: ReactIcon
 
-tbRollerSkating :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbRollerSkating = element (unsafeCoerce _tbRollerSkating)
+tbRollerSkating :: Icon
+tbRollerSkating = element _tbRollerSkating
 
 foreign import _tbRotate :: ReactIcon
 
-tbRotate :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbRotate = element (unsafeCoerce _tbRotate)
+tbRotate :: Icon
+tbRotate = element _tbRotate
 
 foreign import _tbRotateClockwise :: ReactIcon
 
-tbRotateClockwise :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbRotateClockwise = element (unsafeCoerce _tbRotateClockwise)
+tbRotateClockwise :: Icon
+tbRotateClockwise = element _tbRotateClockwise
 
 foreign import _tbRotateDot :: ReactIcon
 
-tbRotateDot :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbRotateDot = element (unsafeCoerce _tbRotateDot)
+tbRotateDot :: Icon
+tbRotateDot = element _tbRotateDot
 
 foreign import _tbRotateRectangle :: ReactIcon
 
-tbRotateRectangle :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbRotateRectangle = element (unsafeCoerce _tbRotateRectangle)
+tbRotateRectangle :: Icon
+tbRotateRectangle = element _tbRotateRectangle
 
 foreign import _tbRoute :: ReactIcon
 
-tbRoute :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbRoute = element (unsafeCoerce _tbRoute)
+tbRoute :: Icon
+tbRoute = element _tbRoute
 
 foreign import _tbRouteOff :: ReactIcon
 
-tbRouteOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbRouteOff = element (unsafeCoerce _tbRouteOff)
+tbRouteOff :: Icon
+tbRouteOff = element _tbRouteOff
 
 foreign import _tbRouter :: ReactIcon
 
-tbRouter :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbRouter = element (unsafeCoerce _tbRouter)
+tbRouter :: Icon
+tbRouter = element _tbRouter
 
 foreign import _tbRowInsertBottom :: ReactIcon
 
-tbRowInsertBottom :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbRowInsertBottom = element (unsafeCoerce _tbRowInsertBottom)
+tbRowInsertBottom :: Icon
+tbRowInsertBottom = element _tbRowInsertBottom
 
 foreign import _tbRowInsertTop :: ReactIcon
 
-tbRowInsertTop :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbRowInsertTop = element (unsafeCoerce _tbRowInsertTop)
+tbRowInsertTop :: Icon
+tbRowInsertTop = element _tbRowInsertTop
 
 foreign import _tbRss :: ReactIcon
 
-tbRss :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbRss = element (unsafeCoerce _tbRss)
+tbRss :: Icon
+tbRss = element _tbRss
 
 foreign import _tbRuler :: ReactIcon
 
-tbRuler :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbRuler = element (unsafeCoerce _tbRuler)
+tbRuler :: Icon
+tbRuler = element _tbRuler
 
 foreign import _tbRulerOff :: ReactIcon
 
-tbRulerOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbRulerOff = element (unsafeCoerce _tbRulerOff)
+tbRulerOff :: Icon
+tbRulerOff = element _tbRulerOff
 
 foreign import _tbRun :: ReactIcon
 
-tbRun :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbRun = element (unsafeCoerce _tbRun)
+tbRun :: Icon
+tbRun = element _tbRun
 
 foreign import _tbSailboat :: ReactIcon
 
-tbSailboat :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbSailboat = element (unsafeCoerce _tbSailboat)
+tbSailboat :: Icon
+tbSailboat = element _tbSailboat
 
 foreign import _tbSalt :: ReactIcon
 
-tbSalt :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbSalt = element (unsafeCoerce _tbSalt)
+tbSalt :: Icon
+tbSalt = element _tbSalt
 
 foreign import _tbSatellite :: ReactIcon
 
-tbSatellite :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbSatellite = element (unsafeCoerce _tbSatellite)
+tbSatellite :: Icon
+tbSatellite = element _tbSatellite
 
 foreign import _tbSatelliteOff :: ReactIcon
 
-tbSatelliteOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbSatelliteOff = element (unsafeCoerce _tbSatelliteOff)
+tbSatelliteOff :: Icon
+tbSatelliteOff = element _tbSatelliteOff
 
 foreign import _tbSausage :: ReactIcon
 
-tbSausage :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbSausage = element (unsafeCoerce _tbSausage)
+tbSausage :: Icon
+tbSausage = element _tbSausage
 
 foreign import _tbScale :: ReactIcon
 
-tbScale :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbScale = element (unsafeCoerce _tbScale)
+tbScale :: Icon
+tbScale = element _tbScale
 
 foreign import _tbScaleOff :: ReactIcon
 
-tbScaleOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbScaleOff = element (unsafeCoerce _tbScaleOff)
+tbScaleOff :: Icon
+tbScaleOff = element _tbScaleOff
 
 foreign import _tbScaleOutline :: ReactIcon
 
-tbScaleOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbScaleOutline = element (unsafeCoerce _tbScaleOutline)
+tbScaleOutline :: Icon
+tbScaleOutline = element _tbScaleOutline
 
 foreign import _tbScaleOutlineOff :: ReactIcon
 
-tbScaleOutlineOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbScaleOutlineOff = element (unsafeCoerce _tbScaleOutlineOff)
+tbScaleOutlineOff :: Icon
+tbScaleOutlineOff = element _tbScaleOutlineOff
 
 foreign import _tbScan :: ReactIcon
 
-tbScan :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbScan = element (unsafeCoerce _tbScan)
+tbScan :: Icon
+tbScan = element _tbScan
 
 foreign import _tbSchool :: ReactIcon
 
-tbSchool :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbSchool = element (unsafeCoerce _tbSchool)
+tbSchool :: Icon
+tbSchool = element _tbSchool
 
 foreign import _tbSchoolOff :: ReactIcon
 
-tbSchoolOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbSchoolOff = element (unsafeCoerce _tbSchoolOff)
+tbSchoolOff :: Icon
+tbSchoolOff = element _tbSchoolOff
 
 foreign import _tbScissors :: ReactIcon
 
-tbScissors :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbScissors = element (unsafeCoerce _tbScissors)
+tbScissors :: Icon
+tbScissors = element _tbScissors
 
 foreign import _tbScissorsOff :: ReactIcon
 
-tbScissorsOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbScissorsOff = element (unsafeCoerce _tbScissorsOff)
+tbScissorsOff :: Icon
+tbScissorsOff = element _tbScissorsOff
 
 foreign import _tbScooter :: ReactIcon
 
-tbScooter :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbScooter = element (unsafeCoerce _tbScooter)
+tbScooter :: Icon
+tbScooter = element _tbScooter
 
 foreign import _tbScooterElectric :: ReactIcon
 
-tbScooterElectric :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbScooterElectric = element (unsafeCoerce _tbScooterElectric)
+tbScooterElectric :: Icon
+tbScooterElectric = element _tbScooterElectric
 
 foreign import _tbScreenShare :: ReactIcon
 
-tbScreenShare :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbScreenShare = element (unsafeCoerce _tbScreenShare)
+tbScreenShare :: Icon
+tbScreenShare = element _tbScreenShare
 
 foreign import _tbScreenShareOff :: ReactIcon
 
-tbScreenShareOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbScreenShareOff = element (unsafeCoerce _tbScreenShareOff)
+tbScreenShareOff :: Icon
+tbScreenShareOff = element _tbScreenShareOff
 
 foreign import _tbScribble :: ReactIcon
 
-tbScribble :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbScribble = element (unsafeCoerce _tbScribble)
+tbScribble :: Icon
+tbScribble = element _tbScribble
 
 foreign import _tbScubaMask :: ReactIcon
 
-tbScubaMask :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbScubaMask = element (unsafeCoerce _tbScubaMask)
+tbScubaMask :: Icon
+tbScubaMask = element _tbScubaMask
 
 foreign import _tbSearch :: ReactIcon
 
-tbSearch :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbSearch = element (unsafeCoerce _tbSearch)
+tbSearch :: Icon
+tbSearch = element _tbSearch
 
 foreign import _tbSearchOff :: ReactIcon
 
-tbSearchOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbSearchOff = element (unsafeCoerce _tbSearchOff)
+tbSearchOff :: Icon
+tbSearchOff = element _tbSearchOff
 
 foreign import _tbSection :: ReactIcon
 
-tbSection :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbSection = element (unsafeCoerce _tbSection)
+tbSection :: Icon
+tbSection = element _tbSection
 
 foreign import _tbSectionSign :: ReactIcon
 
-tbSectionSign :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbSectionSign = element (unsafeCoerce _tbSectionSign)
+tbSectionSign :: Icon
+tbSectionSign = element _tbSectionSign
 
 foreign import _tbSeeding :: ReactIcon
 
-tbSeeding :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbSeeding = element (unsafeCoerce _tbSeeding)
+tbSeeding :: Icon
+tbSeeding = element _tbSeeding
 
 foreign import _tbSeedingOff :: ReactIcon
 
-tbSeedingOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbSeedingOff = element (unsafeCoerce _tbSeedingOff)
+tbSeedingOff :: Icon
+tbSeedingOff = element _tbSeedingOff
 
 foreign import _tbSelect :: ReactIcon
 
-tbSelect :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbSelect = element (unsafeCoerce _tbSelect)
+tbSelect :: Icon
+tbSelect = element _tbSelect
 
 foreign import _tbSelector :: ReactIcon
 
-tbSelector :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbSelector = element (unsafeCoerce _tbSelector)
+tbSelector :: Icon
+tbSelector = element _tbSelector
 
 foreign import _tbSend :: ReactIcon
 
-tbSend :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbSend = element (unsafeCoerce _tbSend)
+tbSend :: Icon
+tbSend = element _tbSend
 
 foreign import _tbSeparator :: ReactIcon
 
-tbSeparator :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbSeparator = element (unsafeCoerce _tbSeparator)
+tbSeparator :: Icon
+tbSeparator = element _tbSeparator
 
 foreign import _tbSeparatorHorizontal :: ReactIcon
 
-tbSeparatorHorizontal :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbSeparatorHorizontal = element (unsafeCoerce _tbSeparatorHorizontal)
+tbSeparatorHorizontal :: Icon
+tbSeparatorHorizontal = element _tbSeparatorHorizontal
 
 foreign import _tbSeparatorVertical :: ReactIcon
 
-tbSeparatorVertical :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbSeparatorVertical = element (unsafeCoerce _tbSeparatorVertical)
+tbSeparatorVertical :: Icon
+tbSeparatorVertical = element _tbSeparatorVertical
 
 foreign import _tbServer :: ReactIcon
 
-tbServer :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbServer = element (unsafeCoerce _tbServer)
+tbServer :: Icon
+tbServer = element _tbServer
 
 foreign import _tbServerOff :: ReactIcon
 
-tbServerOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbServerOff = element (unsafeCoerce _tbServerOff)
+tbServerOff :: Icon
+tbServerOff = element _tbServerOff
 
 foreign import _tbServicemark :: ReactIcon
 
-tbServicemark :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbServicemark = element (unsafeCoerce _tbServicemark)
+tbServicemark :: Icon
+tbServicemark = element _tbServicemark
 
 foreign import _tbSettings :: ReactIcon
 
-tbSettings :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbSettings = element (unsafeCoerce _tbSettings)
+tbSettings :: Icon
+tbSettings = element _tbSettings
 
 foreign import _tbSettingsAutomation :: ReactIcon
 
-tbSettingsAutomation :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbSettingsAutomation = element (unsafeCoerce _tbSettingsAutomation)
+tbSettingsAutomation :: Icon
+tbSettingsAutomation = element _tbSettingsAutomation
 
 foreign import _tbSettingsOff :: ReactIcon
 
-tbSettingsOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbSettingsOff = element (unsafeCoerce _tbSettingsOff)
+tbSettingsOff :: Icon
+tbSettingsOff = element _tbSettingsOff
 
 foreign import _tbShadow :: ReactIcon
 
-tbShadow :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbShadow = element (unsafeCoerce _tbShadow)
+tbShadow :: Icon
+tbShadow = element _tbShadow
 
 foreign import _tbShadowOff :: ReactIcon
 
-tbShadowOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbShadowOff = element (unsafeCoerce _tbShadowOff)
+tbShadowOff :: Icon
+tbShadowOff = element _tbShadowOff
 
 foreign import _tbShape :: ReactIcon
 
-tbShape :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbShape = element (unsafeCoerce _tbShape)
+tbShape :: Icon
+tbShape = element _tbShape
 
 foreign import _tbShapeOff :: ReactIcon
 
-tbShapeOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbShapeOff = element (unsafeCoerce _tbShapeOff)
+tbShapeOff :: Icon
+tbShapeOff = element _tbShapeOff
 
 foreign import _tbShare :: ReactIcon
 
-tbShare :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbShare = element (unsafeCoerce _tbShare)
+tbShare :: Icon
+tbShare = element _tbShare
 
 foreign import _tbShareOff :: ReactIcon
 
-tbShareOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbShareOff = element (unsafeCoerce _tbShareOff)
+tbShareOff :: Icon
+tbShareOff = element _tbShareOff
 
 foreign import _tbShield :: ReactIcon
 
-tbShield :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbShield = element (unsafeCoerce _tbShield)
+tbShield :: Icon
+tbShield = element _tbShield
 
 foreign import _tbShieldCheck :: ReactIcon
 
-tbShieldCheck :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbShieldCheck = element (unsafeCoerce _tbShieldCheck)
+tbShieldCheck :: Icon
+tbShieldCheck = element _tbShieldCheck
 
 foreign import _tbShieldCheckered :: ReactIcon
 
-tbShieldCheckered :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbShieldCheckered = element (unsafeCoerce _tbShieldCheckered)
+tbShieldCheckered :: Icon
+tbShieldCheckered = element _tbShieldCheckered
 
 foreign import _tbShieldChevron :: ReactIcon
 
-tbShieldChevron :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbShieldChevron = element (unsafeCoerce _tbShieldChevron)
+tbShieldChevron :: Icon
+tbShieldChevron = element _tbShieldChevron
 
 foreign import _tbShieldLock :: ReactIcon
 
-tbShieldLock :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbShieldLock = element (unsafeCoerce _tbShieldLock)
+tbShieldLock :: Icon
+tbShieldLock = element _tbShieldLock
 
 foreign import _tbShieldOff :: ReactIcon
 
-tbShieldOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbShieldOff = element (unsafeCoerce _tbShieldOff)
+tbShieldOff :: Icon
+tbShieldOff = element _tbShieldOff
 
 foreign import _tbShieldX :: ReactIcon
 
-tbShieldX :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbShieldX = element (unsafeCoerce _tbShieldX)
+tbShieldX :: Icon
+tbShieldX = element _tbShieldX
 
 foreign import _tbShip :: ReactIcon
 
-tbShip :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbShip = element (unsafeCoerce _tbShip)
+tbShip :: Icon
+tbShip = element _tbShip
 
 foreign import _tbShirt :: ReactIcon
 
-tbShirt :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbShirt = element (unsafeCoerce _tbShirt)
+tbShirt :: Icon
+tbShirt = element _tbShirt
 
 foreign import _tbShirtOff :: ReactIcon
 
-tbShirtOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbShirtOff = element (unsafeCoerce _tbShirtOff)
+tbShirtOff :: Icon
+tbShirtOff = element _tbShirtOff
 
 foreign import _tbShoe :: ReactIcon
 
-tbShoe :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbShoe = element (unsafeCoerce _tbShoe)
+tbShoe :: Icon
+tbShoe = element _tbShoe
 
 foreign import _tbShoeOff :: ReactIcon
 
-tbShoeOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbShoeOff = element (unsafeCoerce _tbShoeOff)
+tbShoeOff :: Icon
+tbShoeOff = element _tbShoeOff
 
 foreign import _tbShoppingCart :: ReactIcon
 
-tbShoppingCart :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbShoppingCart = element (unsafeCoerce _tbShoppingCart)
+tbShoppingCart :: Icon
+tbShoppingCart = element _tbShoppingCart
 
 foreign import _tbShoppingCartDiscount :: ReactIcon
 
-tbShoppingCartDiscount :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbShoppingCartDiscount = element (unsafeCoerce _tbShoppingCartDiscount)
+tbShoppingCartDiscount :: Icon
+tbShoppingCartDiscount = element _tbShoppingCartDiscount
 
 foreign import _tbShoppingCartOff :: ReactIcon
 
-tbShoppingCartOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbShoppingCartOff = element (unsafeCoerce _tbShoppingCartOff)
+tbShoppingCartOff :: Icon
+tbShoppingCartOff = element _tbShoppingCartOff
 
 foreign import _tbShoppingCartPlus :: ReactIcon
 
-tbShoppingCartPlus :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbShoppingCartPlus = element (unsafeCoerce _tbShoppingCartPlus)
+tbShoppingCartPlus :: Icon
+tbShoppingCartPlus = element _tbShoppingCartPlus
 
 foreign import _tbShoppingCartX :: ReactIcon
 
-tbShoppingCartX :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbShoppingCartX = element (unsafeCoerce _tbShoppingCartX)
+tbShoppingCartX :: Icon
+tbShoppingCartX = element _tbShoppingCartX
 
 foreign import _tbShovel :: ReactIcon
 
-tbShovel :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbShovel = element (unsafeCoerce _tbShovel)
+tbShovel :: Icon
+tbShovel = element _tbShovel
 
 foreign import _tbShredder :: ReactIcon
 
-tbShredder :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbShredder = element (unsafeCoerce _tbShredder)
+tbShredder :: Icon
+tbShredder = element _tbShredder
 
 foreign import _tbSignature :: ReactIcon
 
-tbSignature :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbSignature = element (unsafeCoerce _tbSignature)
+tbSignature :: Icon
+tbSignature = element _tbSignature
 
 foreign import _tbSignatureOff :: ReactIcon
 
-tbSignatureOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbSignatureOff = element (unsafeCoerce _tbSignatureOff)
+tbSignatureOff :: Icon
+tbSignatureOff = element _tbSignatureOff
 
 foreign import _tbSignLeft :: ReactIcon
 
-tbSignLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbSignLeft = element (unsafeCoerce _tbSignLeft)
+tbSignLeft :: Icon
+tbSignLeft = element _tbSignLeft
 
 foreign import _tbSignRight :: ReactIcon
 
-tbSignRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbSignRight = element (unsafeCoerce _tbSignRight)
+tbSignRight :: Icon
+tbSignRight = element _tbSignRight
 
 foreign import _tbSitemap :: ReactIcon
 
-tbSitemap :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbSitemap = element (unsafeCoerce _tbSitemap)
+tbSitemap :: Icon
+tbSitemap = element _tbSitemap
 
 foreign import _tbSitemapOff :: ReactIcon
 
-tbSitemapOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbSitemapOff = element (unsafeCoerce _tbSitemapOff)
+tbSitemapOff :: Icon
+tbSitemapOff = element _tbSitemapOff
 
 foreign import _tbSkateboard :: ReactIcon
 
-tbSkateboard :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbSkateboard = element (unsafeCoerce _tbSkateboard)
+tbSkateboard :: Icon
+tbSkateboard = element _tbSkateboard
 
 foreign import _tbSleigh :: ReactIcon
 
-tbSleigh :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbSleigh = element (unsafeCoerce _tbSleigh)
+tbSleigh :: Icon
+tbSleigh = element _tbSleigh
 
 foreign import _tbSlice :: ReactIcon
 
-tbSlice :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbSlice = element (unsafeCoerce _tbSlice)
+tbSlice :: Icon
+tbSlice = element _tbSlice
 
 foreign import _tbSlideshow :: ReactIcon
 
-tbSlideshow :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbSlideshow = element (unsafeCoerce _tbSlideshow)
+tbSlideshow :: Icon
+tbSlideshow = element _tbSlideshow
 
 foreign import _tbSmartHome :: ReactIcon
 
-tbSmartHome :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbSmartHome = element (unsafeCoerce _tbSmartHome)
+tbSmartHome :: Icon
+tbSmartHome = element _tbSmartHome
 
 foreign import _tbSmartHomeOff :: ReactIcon
 
-tbSmartHomeOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbSmartHomeOff = element (unsafeCoerce _tbSmartHomeOff)
+tbSmartHomeOff :: Icon
+tbSmartHomeOff = element _tbSmartHomeOff
 
 foreign import _tbSmoking :: ReactIcon
 
-tbSmoking :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbSmoking = element (unsafeCoerce _tbSmoking)
+tbSmoking :: Icon
+tbSmoking = element _tbSmoking
 
 foreign import _tbSmokingNo :: ReactIcon
 
-tbSmokingNo :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbSmokingNo = element (unsafeCoerce _tbSmokingNo)
+tbSmokingNo :: Icon
+tbSmokingNo = element _tbSmokingNo
 
 foreign import _tbSnowflake :: ReactIcon
 
-tbSnowflake :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbSnowflake = element (unsafeCoerce _tbSnowflake)
+tbSnowflake :: Icon
+tbSnowflake = element _tbSnowflake
 
 foreign import _tbSnowflakeOff :: ReactIcon
 
-tbSnowflakeOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbSnowflakeOff = element (unsafeCoerce _tbSnowflakeOff)
+tbSnowflakeOff :: Icon
+tbSnowflakeOff = element _tbSnowflakeOff
 
 foreign import _tbSoccerField :: ReactIcon
 
-tbSoccerField :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbSoccerField = element (unsafeCoerce _tbSoccerField)
+tbSoccerField :: Icon
+tbSoccerField = element _tbSoccerField
 
 foreign import _tbSocial :: ReactIcon
 
-tbSocial :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbSocial = element (unsafeCoerce _tbSocial)
+tbSocial :: Icon
+tbSocial = element _tbSocial
 
 foreign import _tbSocialOff :: ReactIcon
 
-tbSocialOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbSocialOff = element (unsafeCoerce _tbSocialOff)
+tbSocialOff :: Icon
+tbSocialOff = element _tbSocialOff
 
 foreign import _tbSock :: ReactIcon
 
-tbSock :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbSock = element (unsafeCoerce _tbSock)
+tbSock :: Icon
+tbSock = element _tbSock
 
 foreign import _tbSofa :: ReactIcon
 
-tbSofa :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbSofa = element (unsafeCoerce _tbSofa)
+tbSofa :: Icon
+tbSofa = element _tbSofa
 
 foreign import _tbSortAscending :: ReactIcon
 
-tbSortAscending :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbSortAscending = element (unsafeCoerce _tbSortAscending)
+tbSortAscending :: Icon
+tbSortAscending = element _tbSortAscending
 
 foreign import _tbSortAscendingLetters :: ReactIcon
 
-tbSortAscendingLetters :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbSortAscendingLetters = element (unsafeCoerce _tbSortAscendingLetters)
+tbSortAscendingLetters :: Icon
+tbSortAscendingLetters = element _tbSortAscendingLetters
 
 foreign import _tbSortAscendingNumbers :: ReactIcon
 
-tbSortAscendingNumbers :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbSortAscendingNumbers = element (unsafeCoerce _tbSortAscendingNumbers)
+tbSortAscendingNumbers :: Icon
+tbSortAscendingNumbers = element _tbSortAscendingNumbers
 
 foreign import _tbSortDescending :: ReactIcon
 
-tbSortDescending :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbSortDescending = element (unsafeCoerce _tbSortDescending)
+tbSortDescending :: Icon
+tbSortDescending = element _tbSortDescending
 
 foreign import _tbSortDescendingLetters :: ReactIcon
 
-tbSortDescendingLetters :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbSortDescendingLetters = element (unsafeCoerce _tbSortDescendingLetters)
+tbSortDescendingLetters :: Icon
+tbSortDescendingLetters = element _tbSortDescendingLetters
 
 foreign import _tbSortDescendingNumbers :: ReactIcon
 
-tbSortDescendingNumbers :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbSortDescendingNumbers = element (unsafeCoerce _tbSortDescendingNumbers)
+tbSortDescendingNumbers :: Icon
+tbSortDescendingNumbers = element _tbSortDescendingNumbers
 
 foreign import _tbSoup :: ReactIcon
 
-tbSoup :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbSoup = element (unsafeCoerce _tbSoup)
+tbSoup :: Icon
+tbSoup = element _tbSoup
 
 foreign import _tbSpace :: ReactIcon
 
-tbSpace :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbSpace = element (unsafeCoerce _tbSpace)
+tbSpace :: Icon
+tbSpace = element _tbSpace
 
 foreign import _tbSpaceOff :: ReactIcon
 
-tbSpaceOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbSpaceOff = element (unsafeCoerce _tbSpaceOff)
+tbSpaceOff :: Icon
+tbSpaceOff = element _tbSpaceOff
 
 foreign import _tbSpacingHorizontal :: ReactIcon
 
-tbSpacingHorizontal :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbSpacingHorizontal = element (unsafeCoerce _tbSpacingHorizontal)
+tbSpacingHorizontal :: Icon
+tbSpacingHorizontal = element _tbSpacingHorizontal
 
 foreign import _tbSpacingVertical :: ReactIcon
 
-tbSpacingVertical :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbSpacingVertical = element (unsafeCoerce _tbSpacingVertical)
+tbSpacingVertical :: Icon
+tbSpacingVertical = element _tbSpacingVertical
 
 foreign import _tbSpade :: ReactIcon
 
-tbSpade :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbSpade = element (unsafeCoerce _tbSpade)
+tbSpade :: Icon
+tbSpade = element _tbSpade
 
 foreign import _tbSpeakerphone :: ReactIcon
 
-tbSpeakerphone :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbSpeakerphone = element (unsafeCoerce _tbSpeakerphone)
+tbSpeakerphone :: Icon
+tbSpeakerphone = element _tbSpeakerphone
 
 foreign import _tbSpeedboat :: ReactIcon
 
-tbSpeedboat :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbSpeedboat = element (unsafeCoerce _tbSpeedboat)
+tbSpeedboat :: Icon
+tbSpeedboat = element _tbSpeedboat
 
 foreign import _tbSportBillard :: ReactIcon
 
-tbSportBillard :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbSportBillard = element (unsafeCoerce _tbSportBillard)
+tbSportBillard :: Icon
+tbSportBillard = element _tbSportBillard
 
 foreign import _tbSquare :: ReactIcon
 
-tbSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbSquare = element (unsafeCoerce _tbSquare)
+tbSquare :: Icon
+tbSquare = element _tbSquare
 
 foreign import _tbSquareAsterisk :: ReactIcon
 
-tbSquareAsterisk :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbSquareAsterisk = element (unsafeCoerce _tbSquareAsterisk)
+tbSquareAsterisk :: Icon
+tbSquareAsterisk = element _tbSquareAsterisk
 
 foreign import _tbSquareCheck :: ReactIcon
 
-tbSquareCheck :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbSquareCheck = element (unsafeCoerce _tbSquareCheck)
+tbSquareCheck :: Icon
+tbSquareCheck = element _tbSquareCheck
 
 foreign import _tbSquareDot :: ReactIcon
 
-tbSquareDot :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbSquareDot = element (unsafeCoerce _tbSquareDot)
+tbSquareDot :: Icon
+tbSquareDot = element _tbSquareDot
 
 foreign import _tbSquareForbid :: ReactIcon
 
-tbSquareForbid :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbSquareForbid = element (unsafeCoerce _tbSquareForbid)
+tbSquareForbid :: Icon
+tbSquareForbid = element _tbSquareForbid
 
 foreign import _tbSquareHalf :: ReactIcon
 
-tbSquareHalf :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbSquareHalf = element (unsafeCoerce _tbSquareHalf)
+tbSquareHalf :: Icon
+tbSquareHalf = element _tbSquareHalf
 
 foreign import _tbSquareMinus :: ReactIcon
 
-tbSquareMinus :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbSquareMinus = element (unsafeCoerce _tbSquareMinus)
+tbSquareMinus :: Icon
+tbSquareMinus = element _tbSquareMinus
 
 foreign import _tbSquareOff :: ReactIcon
 
-tbSquareOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbSquareOff = element (unsafeCoerce _tbSquareOff)
+tbSquareOff :: Icon
+tbSquareOff = element _tbSquareOff
 
 foreign import _tbSquarePlus :: ReactIcon
 
-tbSquarePlus :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbSquarePlus = element (unsafeCoerce _tbSquarePlus)
+tbSquarePlus :: Icon
+tbSquarePlus = element _tbSquarePlus
 
 foreign import _tbSquareRoot :: ReactIcon
 
-tbSquareRoot :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbSquareRoot = element (unsafeCoerce _tbSquareRoot)
+tbSquareRoot :: Icon
+tbSquareRoot = element _tbSquareRoot
 
 foreign import _tbSquareRotated :: ReactIcon
 
-tbSquareRotated :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbSquareRotated = element (unsafeCoerce _tbSquareRotated)
+tbSquareRotated :: Icon
+tbSquareRotated = element _tbSquareRotated
 
 foreign import _tbSquareRotatedForbid :: ReactIcon
 
-tbSquareRotatedForbid :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbSquareRotatedForbid = element (unsafeCoerce _tbSquareRotatedForbid)
+tbSquareRotatedForbid :: Icon
+tbSquareRotatedForbid = element _tbSquareRotatedForbid
 
 foreign import _tbSquareRotatedOff :: ReactIcon
 
-tbSquareRotatedOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbSquareRotatedOff = element (unsafeCoerce _tbSquareRotatedOff)
+tbSquareRotatedOff :: Icon
+tbSquareRotatedOff = element _tbSquareRotatedOff
 
 foreign import _tbSquaresDiagonal :: ReactIcon
 
-tbSquaresDiagonal :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbSquaresDiagonal = element (unsafeCoerce _tbSquaresDiagonal)
+tbSquaresDiagonal :: Icon
+tbSquaresDiagonal = element _tbSquaresDiagonal
 
 foreign import _tbSquaresFilled :: ReactIcon
 
-tbSquaresFilled :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbSquaresFilled = element (unsafeCoerce _tbSquaresFilled)
+tbSquaresFilled :: Icon
+tbSquaresFilled = element _tbSquaresFilled
 
 foreign import _tbSquareToggle :: ReactIcon
 
-tbSquareToggle :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbSquareToggle = element (unsafeCoerce _tbSquareToggle)
+tbSquareToggle :: Icon
+tbSquareToggle = element _tbSquareToggle
 
 foreign import _tbSquareToggleHorizontal :: ReactIcon
 
-tbSquareToggleHorizontal :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbSquareToggleHorizontal = element (unsafeCoerce _tbSquareToggleHorizontal)
+tbSquareToggleHorizontal :: Icon
+tbSquareToggleHorizontal = element _tbSquareToggleHorizontal
 
 foreign import _tbSquareX :: ReactIcon
 
-tbSquareX :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbSquareX = element (unsafeCoerce _tbSquareX)
+tbSquareX :: Icon
+tbSquareX = element _tbSquareX
 
 foreign import _tbStack :: ReactIcon
 
-tbStack :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbStack = element (unsafeCoerce _tbStack)
+tbStack :: Icon
+tbStack = element _tbStack
 
 foreign import _tbStairs :: ReactIcon
 
-tbStairs :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbStairs = element (unsafeCoerce _tbStairs)
+tbStairs :: Icon
+tbStairs = element _tbStairs
 
 foreign import _tbStairsDown :: ReactIcon
 
-tbStairsDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbStairsDown = element (unsafeCoerce _tbStairsDown)
+tbStairsDown :: Icon
+tbStairsDown = element _tbStairsDown
 
 foreign import _tbStairsUp :: ReactIcon
 
-tbStairsUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbStairsUp = element (unsafeCoerce _tbStairsUp)
+tbStairsUp :: Icon
+tbStairsUp = element _tbStairsUp
 
 foreign import _tbStar :: ReactIcon
 
-tbStar :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbStar = element (unsafeCoerce _tbStar)
+tbStar :: Icon
+tbStar = element _tbStar
 
 foreign import _tbStarHalf :: ReactIcon
 
-tbStarHalf :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbStarHalf = element (unsafeCoerce _tbStarHalf)
+tbStarHalf :: Icon
+tbStarHalf = element _tbStarHalf
 
 foreign import _tbStarOff :: ReactIcon
 
-tbStarOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbStarOff = element (unsafeCoerce _tbStarOff)
+tbStarOff :: Icon
+tbStarOff = element _tbStarOff
 
 foreign import _tbStars :: ReactIcon
 
-tbStars :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbStars = element (unsafeCoerce _tbStars)
+tbStars :: Icon
+tbStars = element _tbStars
 
 foreign import _tbSteeringWheel :: ReactIcon
 
-tbSteeringWheel :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbSteeringWheel = element (unsafeCoerce _tbSteeringWheel)
+tbSteeringWheel :: Icon
+tbSteeringWheel = element _tbSteeringWheel
 
 foreign import _tbStepInto :: ReactIcon
 
-tbStepInto :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbStepInto = element (unsafeCoerce _tbStepInto)
+tbStepInto :: Icon
+tbStepInto = element _tbStepInto
 
 foreign import _tbStepOut :: ReactIcon
 
-tbStepOut :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbStepOut = element (unsafeCoerce _tbStepOut)
+tbStepOut :: Icon
+tbStepOut = element _tbStepOut
 
 foreign import _tbStethoscope :: ReactIcon
 
-tbStethoscope :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbStethoscope = element (unsafeCoerce _tbStethoscope)
+tbStethoscope :: Icon
+tbStethoscope = element _tbStethoscope
 
 foreign import _tbSticker :: ReactIcon
 
-tbSticker :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbSticker = element (unsafeCoerce _tbSticker)
+tbSticker :: Icon
+tbSticker = element _tbSticker
 
 foreign import _tbStrikethrough :: ReactIcon
 
-tbStrikethrough :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbStrikethrough = element (unsafeCoerce _tbStrikethrough)
+tbStrikethrough :: Icon
+tbStrikethrough = element _tbStrikethrough
 
 foreign import _tbSubmarine :: ReactIcon
 
-tbSubmarine :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbSubmarine = element (unsafeCoerce _tbSubmarine)
+tbSubmarine :: Icon
+tbSubmarine = element _tbSubmarine
 
 foreign import _tbSubscript :: ReactIcon
 
-tbSubscript :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbSubscript = element (unsafeCoerce _tbSubscript)
+tbSubscript :: Icon
+tbSubscript = element _tbSubscript
 
 foreign import _tbSubtask :: ReactIcon
 
-tbSubtask :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbSubtask = element (unsafeCoerce _tbSubtask)
+tbSubtask :: Icon
+tbSubtask = element _tbSubtask
 
 foreign import _tbSum :: ReactIcon
 
-tbSum :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbSum = element (unsafeCoerce _tbSum)
+tbSum :: Icon
+tbSum = element _tbSum
 
 foreign import _tbSumOff :: ReactIcon
 
-tbSumOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbSumOff = element (unsafeCoerce _tbSumOff)
+tbSumOff :: Icon
+tbSumOff = element _tbSumOff
 
 foreign import _tbSun :: ReactIcon
 
-tbSun :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbSun = element (unsafeCoerce _tbSun)
+tbSun :: Icon
+tbSun = element _tbSun
 
 foreign import _tbSunOff :: ReactIcon
 
-tbSunOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbSunOff = element (unsafeCoerce _tbSunOff)
+tbSunOff :: Icon
+tbSunOff = element _tbSunOff
 
 foreign import _tbSunrise :: ReactIcon
 
-tbSunrise :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbSunrise = element (unsafeCoerce _tbSunrise)
+tbSunrise :: Icon
+tbSunrise = element _tbSunrise
 
 foreign import _tbSunset :: ReactIcon
 
-tbSunset :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbSunset = element (unsafeCoerce _tbSunset)
+tbSunset :: Icon
+tbSunset = element _tbSunset
 
 foreign import _tbSuperscript :: ReactIcon
 
-tbSuperscript :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbSuperscript = element (unsafeCoerce _tbSuperscript)
+tbSuperscript :: Icon
+tbSuperscript = element _tbSuperscript
 
 foreign import _tbSwimming :: ReactIcon
 
-tbSwimming :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbSwimming = element (unsafeCoerce _tbSwimming)
+tbSwimming :: Icon
+tbSwimming = element _tbSwimming
 
 foreign import _tbSwitch :: ReactIcon
 
-tbSwitch :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbSwitch = element (unsafeCoerce _tbSwitch)
+tbSwitch :: Icon
+tbSwitch = element _tbSwitch
 
 foreign import _tbSwitchHorizontal :: ReactIcon
 
-tbSwitchHorizontal :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbSwitchHorizontal = element (unsafeCoerce _tbSwitchHorizontal)
+tbSwitchHorizontal :: Icon
+tbSwitchHorizontal = element _tbSwitchHorizontal
 
 foreign import _tbSwitchVertical :: ReactIcon
 
-tbSwitchVertical :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbSwitchVertical = element (unsafeCoerce _tbSwitchVertical)
+tbSwitchVertical :: Icon
+tbSwitchVertical = element _tbSwitchVertical
 
 foreign import _tbSword :: ReactIcon
 
-tbSword :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbSword = element (unsafeCoerce _tbSword)
+tbSword :: Icon
+tbSword = element _tbSword
 
 foreign import _tbSwordOff :: ReactIcon
 
-tbSwordOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbSwordOff = element (unsafeCoerce _tbSwordOff)
+tbSwordOff :: Icon
+tbSwordOff = element _tbSwordOff
 
 foreign import _tbSwords :: ReactIcon
 
-tbSwords :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbSwords = element (unsafeCoerce _tbSwords)
+tbSwords :: Icon
+tbSwords = element _tbSwords
 
 foreign import _tbTable :: ReactIcon
 
-tbTable :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbTable = element (unsafeCoerce _tbTable)
+tbTable :: Icon
+tbTable = element _tbTable
 
 foreign import _tbTableExport :: ReactIcon
 
-tbTableExport :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbTableExport = element (unsafeCoerce _tbTableExport)
+tbTableExport :: Icon
+tbTableExport = element _tbTableExport
 
 foreign import _tbTableImport :: ReactIcon
 
-tbTableImport :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbTableImport = element (unsafeCoerce _tbTableImport)
+tbTableImport :: Icon
+tbTableImport = element _tbTableImport
 
 foreign import _tbTableOff :: ReactIcon
 
-tbTableOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbTableOff = element (unsafeCoerce _tbTableOff)
+tbTableOff :: Icon
+tbTableOff = element _tbTableOff
 
 foreign import _tbTag :: ReactIcon
 
-tbTag :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbTag = element (unsafeCoerce _tbTag)
+tbTag :: Icon
+tbTag = element _tbTag
 
 foreign import _tbTagOff :: ReactIcon
 
-tbTagOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbTagOff = element (unsafeCoerce _tbTagOff)
+tbTagOff :: Icon
+tbTagOff = element _tbTagOff
 
 foreign import _tbTags :: ReactIcon
 
-tbTags :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbTags = element (unsafeCoerce _tbTags)
+tbTags :: Icon
+tbTags = element _tbTags
 
 foreign import _tbTagsOff :: ReactIcon
 
-tbTagsOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbTagsOff = element (unsafeCoerce _tbTagsOff)
+tbTagsOff :: Icon
+tbTagsOff = element _tbTagsOff
 
 foreign import _tbTallymarks :: ReactIcon
 
-tbTallymarks :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbTallymarks = element (unsafeCoerce _tbTallymarks)
+tbTallymarks :: Icon
+tbTallymarks = element _tbTallymarks
 
 foreign import _tbTank :: ReactIcon
 
-tbTank :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbTank = element (unsafeCoerce _tbTank)
+tbTank :: Icon
+tbTank = element _tbTank
 
 foreign import _tbTarget :: ReactIcon
 
-tbTarget :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbTarget = element (unsafeCoerce _tbTarget)
+tbTarget :: Icon
+tbTarget = element _tbTarget
 
 foreign import _tbTargetOff :: ReactIcon
 
-tbTargetOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbTargetOff = element (unsafeCoerce _tbTargetOff)
+tbTargetOff :: Icon
+tbTargetOff = element _tbTargetOff
 
 foreign import _tbTelescope :: ReactIcon
 
-tbTelescope :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbTelescope = element (unsafeCoerce _tbTelescope)
+tbTelescope :: Icon
+tbTelescope = element _tbTelescope
 
 foreign import _tbTelescopeOff :: ReactIcon
 
-tbTelescopeOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbTelescopeOff = element (unsafeCoerce _tbTelescopeOff)
+tbTelescopeOff :: Icon
+tbTelescopeOff = element _tbTelescopeOff
 
 foreign import _tbTemperature :: ReactIcon
 
-tbTemperature :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbTemperature = element (unsafeCoerce _tbTemperature)
+tbTemperature :: Icon
+tbTemperature = element _tbTemperature
 
 foreign import _tbTemperatureCelsius :: ReactIcon
 
-tbTemperatureCelsius :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbTemperatureCelsius = element (unsafeCoerce _tbTemperatureCelsius)
+tbTemperatureCelsius :: Icon
+tbTemperatureCelsius = element _tbTemperatureCelsius
 
 foreign import _tbTemperatureFahrenheit :: ReactIcon
 
-tbTemperatureFahrenheit :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbTemperatureFahrenheit = element (unsafeCoerce _tbTemperatureFahrenheit)
+tbTemperatureFahrenheit :: Icon
+tbTemperatureFahrenheit = element _tbTemperatureFahrenheit
 
 foreign import _tbTemperatureMinus :: ReactIcon
 
-tbTemperatureMinus :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbTemperatureMinus = element (unsafeCoerce _tbTemperatureMinus)
+tbTemperatureMinus :: Icon
+tbTemperatureMinus = element _tbTemperatureMinus
 
 foreign import _tbTemperatureOff :: ReactIcon
 
-tbTemperatureOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbTemperatureOff = element (unsafeCoerce _tbTemperatureOff)
+tbTemperatureOff :: Icon
+tbTemperatureOff = element _tbTemperatureOff
 
 foreign import _tbTemperaturePlus :: ReactIcon
 
-tbTemperaturePlus :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbTemperaturePlus = element (unsafeCoerce _tbTemperaturePlus)
+tbTemperaturePlus :: Icon
+tbTemperaturePlus = element _tbTemperaturePlus
 
 foreign import _tbTemplate :: ReactIcon
 
-tbTemplate :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbTemplate = element (unsafeCoerce _tbTemplate)
+tbTemplate :: Icon
+tbTemplate = element _tbTemplate
 
 foreign import _tbTemplateOff :: ReactIcon
 
-tbTemplateOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbTemplateOff = element (unsafeCoerce _tbTemplateOff)
+tbTemplateOff :: Icon
+tbTemplateOff = element _tbTemplateOff
 
 foreign import _tbTent :: ReactIcon
 
-tbTent :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbTent = element (unsafeCoerce _tbTent)
+tbTent :: Icon
+tbTent = element _tbTent
 
 foreign import _tbTerminal :: ReactIcon
 
-tbTerminal :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbTerminal = element (unsafeCoerce _tbTerminal)
+tbTerminal :: Icon
+tbTerminal = element _tbTerminal
 
 foreign import _tbTestPipe :: ReactIcon
 
-tbTestPipe :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbTestPipe = element (unsafeCoerce _tbTestPipe)
+tbTestPipe :: Icon
+tbTestPipe = element _tbTestPipe
 
 foreign import _tbTestPipeOff :: ReactIcon
 
-tbTestPipeOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbTestPipeOff = element (unsafeCoerce _tbTestPipeOff)
+tbTestPipeOff :: Icon
+tbTestPipeOff = element _tbTestPipeOff
 
 foreign import _tbTextDirectionLtr :: ReactIcon
 
-tbTextDirectionLtr :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbTextDirectionLtr = element (unsafeCoerce _tbTextDirectionLtr)
+tbTextDirectionLtr :: Icon
+tbTextDirectionLtr = element _tbTextDirectionLtr
 
 foreign import _tbTextDirectionRtl :: ReactIcon
 
-tbTextDirectionRtl :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbTextDirectionRtl = element (unsafeCoerce _tbTextDirectionRtl)
+tbTextDirectionRtl :: Icon
+tbTextDirectionRtl = element _tbTextDirectionRtl
 
 foreign import _tbTextResize :: ReactIcon
 
-tbTextResize :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbTextResize = element (unsafeCoerce _tbTextResize)
+tbTextResize :: Icon
+tbTextResize = element _tbTextResize
 
 foreign import _tbTextWrap :: ReactIcon
 
-tbTextWrap :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbTextWrap = element (unsafeCoerce _tbTextWrap)
+tbTextWrap :: Icon
+tbTextWrap = element _tbTextWrap
 
 foreign import _tbTextWrapDisabled :: ReactIcon
 
-tbTextWrapDisabled :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbTextWrapDisabled = element (unsafeCoerce _tbTextWrapDisabled)
+tbTextWrapDisabled :: Icon
+tbTextWrapDisabled = element _tbTextWrapDisabled
 
 foreign import _tbThermometer :: ReactIcon
 
-tbThermometer :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbThermometer = element (unsafeCoerce _tbThermometer)
+tbThermometer :: Icon
+tbThermometer = element _tbThermometer
 
 foreign import _tbThumbDown :: ReactIcon
 
-tbThumbDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbThumbDown = element (unsafeCoerce _tbThumbDown)
+tbThumbDown :: Icon
+tbThumbDown = element _tbThumbDown
 
 foreign import _tbThumbUp :: ReactIcon
 
-tbThumbUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbThumbUp = element (unsafeCoerce _tbThumbUp)
+tbThumbUp :: Icon
+tbThumbUp = element _tbThumbUp
 
 foreign import _tbTicket :: ReactIcon
 
-tbTicket :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbTicket = element (unsafeCoerce _tbTicket)
+tbTicket :: Icon
+tbTicket = element _tbTicket
 
 foreign import _tbTicketOff :: ReactIcon
 
-tbTicketOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbTicketOff = element (unsafeCoerce _tbTicketOff)
+tbTicketOff :: Icon
+tbTicketOff = element _tbTicketOff
 
 foreign import _tbTie :: ReactIcon
 
-tbTie :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbTie = element (unsafeCoerce _tbTie)
+tbTie :: Icon
+tbTie = element _tbTie
 
 foreign import _tbTiltShift :: ReactIcon
 
-tbTiltShift :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbTiltShift = element (unsafeCoerce _tbTiltShift)
+tbTiltShift :: Icon
+tbTiltShift = element _tbTiltShift
 
 foreign import _tbTiltShiftOff :: ReactIcon
 
-tbTiltShiftOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbTiltShiftOff = element (unsafeCoerce _tbTiltShiftOff)
+tbTiltShiftOff :: Icon
+tbTiltShiftOff = element _tbTiltShiftOff
 
 foreign import _tbTimeline :: ReactIcon
 
-tbTimeline :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbTimeline = element (unsafeCoerce _tbTimeline)
+tbTimeline :: Icon
+tbTimeline = element _tbTimeline
 
 foreign import _tbTir :: ReactIcon
 
-tbTir :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbTir = element (unsafeCoerce _tbTir)
+tbTir :: Icon
+tbTir = element _tbTir
 
 foreign import _tbToggleLeft :: ReactIcon
 
-tbToggleLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbToggleLeft = element (unsafeCoerce _tbToggleLeft)
+tbToggleLeft :: Icon
+tbToggleLeft = element _tbToggleLeft
 
 foreign import _tbToggleRight :: ReactIcon
 
-tbToggleRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbToggleRight = element (unsafeCoerce _tbToggleRight)
+tbToggleRight :: Icon
+tbToggleRight = element _tbToggleRight
 
 foreign import _tbToiletPaper :: ReactIcon
 
-tbToiletPaper :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbToiletPaper = element (unsafeCoerce _tbToiletPaper)
+tbToiletPaper :: Icon
+tbToiletPaper = element _tbToiletPaper
 
 foreign import _tbToiletPaperOff :: ReactIcon
 
-tbToiletPaperOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbToiletPaperOff = element (unsafeCoerce _tbToiletPaperOff)
+tbToiletPaperOff :: Icon
+tbToiletPaperOff = element _tbToiletPaperOff
 
 foreign import _tbTool :: ReactIcon
 
-tbTool :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbTool = element (unsafeCoerce _tbTool)
+tbTool :: Icon
+tbTool = element _tbTool
 
 foreign import _tbTools :: ReactIcon
 
-tbTools :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbTools = element (unsafeCoerce _tbTools)
+tbTools :: Icon
+tbTools = element _tbTools
 
 foreign import _tbToolsKitchen :: ReactIcon
 
-tbToolsKitchen :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbToolsKitchen = element (unsafeCoerce _tbToolsKitchen)
+tbToolsKitchen :: Icon
+tbToolsKitchen = element _tbToolsKitchen
 
 foreign import _tbToolsKitchenOff :: ReactIcon
 
-tbToolsKitchenOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbToolsKitchenOff = element (unsafeCoerce _tbToolsKitchenOff)
+tbToolsKitchenOff :: Icon
+tbToolsKitchenOff = element _tbToolsKitchenOff
 
 foreign import _tbToolsOff :: ReactIcon
 
-tbToolsOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbToolsOff = element (unsafeCoerce _tbToolsOff)
+tbToolsOff :: Icon
+tbToolsOff = element _tbToolsOff
 
 foreign import _tbTornado :: ReactIcon
 
-tbTornado :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbTornado = element (unsafeCoerce _tbTornado)
+tbTornado :: Icon
+tbTornado = element _tbTornado
 
 foreign import _tbTournament :: ReactIcon
 
-tbTournament :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbTournament = element (unsafeCoerce _tbTournament)
+tbTournament :: Icon
+tbTournament = element _tbTournament
 
 foreign import _tbTrack :: ReactIcon
 
-tbTrack :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbTrack = element (unsafeCoerce _tbTrack)
+tbTrack :: Icon
+tbTrack = element _tbTrack
 
 foreign import _tbTractor :: ReactIcon
 
-tbTractor :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbTractor = element (unsafeCoerce _tbTractor)
+tbTractor :: Icon
+tbTractor = element _tbTractor
 
 foreign import _tbTrademark :: ReactIcon
 
-tbTrademark :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbTrademark = element (unsafeCoerce _tbTrademark)
+tbTrademark :: Icon
+tbTrademark = element _tbTrademark
 
 foreign import _tbTrafficCone :: ReactIcon
 
-tbTrafficCone :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbTrafficCone = element (unsafeCoerce _tbTrafficCone)
+tbTrafficCone :: Icon
+tbTrafficCone = element _tbTrafficCone
 
 foreign import _tbTrafficConeOff :: ReactIcon
 
-tbTrafficConeOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbTrafficConeOff = element (unsafeCoerce _tbTrafficConeOff)
+tbTrafficConeOff :: Icon
+tbTrafficConeOff = element _tbTrafficConeOff
 
 foreign import _tbTrafficLights :: ReactIcon
 
-tbTrafficLights :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbTrafficLights = element (unsafeCoerce _tbTrafficLights)
+tbTrafficLights :: Icon
+tbTrafficLights = element _tbTrafficLights
 
 foreign import _tbTrafficLightsOff :: ReactIcon
 
-tbTrafficLightsOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbTrafficLightsOff = element (unsafeCoerce _tbTrafficLightsOff)
+tbTrafficLightsOff :: Icon
+tbTrafficLightsOff = element _tbTrafficLightsOff
 
 foreign import _tbTrain :: ReactIcon
 
-tbTrain :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbTrain = element (unsafeCoerce _tbTrain)
+tbTrain :: Icon
+tbTrain = element _tbTrain
 
 foreign import _tbTransferIn :: ReactIcon
 
-tbTransferIn :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbTransferIn = element (unsafeCoerce _tbTransferIn)
+tbTransferIn :: Icon
+tbTransferIn = element _tbTransferIn
 
 foreign import _tbTransferOut :: ReactIcon
 
-tbTransferOut :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbTransferOut = element (unsafeCoerce _tbTransferOut)
+tbTransferOut :: Icon
+tbTransferOut = element _tbTransferOut
 
 foreign import _tbTrash :: ReactIcon
 
-tbTrash :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbTrash = element (unsafeCoerce _tbTrash)
+tbTrash :: Icon
+tbTrash = element _tbTrash
 
 foreign import _tbTrashOff :: ReactIcon
 
-tbTrashOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbTrashOff = element (unsafeCoerce _tbTrashOff)
+tbTrashOff :: Icon
+tbTrashOff = element _tbTrashOff
 
 foreign import _tbTrashX :: ReactIcon
 
-tbTrashX :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbTrashX = element (unsafeCoerce _tbTrashX)
+tbTrashX :: Icon
+tbTrashX = element _tbTrashX
 
 foreign import _tbTree :: ReactIcon
 
-tbTree :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbTree = element (unsafeCoerce _tbTree)
+tbTree :: Icon
+tbTree = element _tbTree
 
 foreign import _tbTrees :: ReactIcon
 
-tbTrees :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbTrees = element (unsafeCoerce _tbTrees)
+tbTrees :: Icon
+tbTrees = element _tbTrees
 
 foreign import _tbTrendingDown :: ReactIcon
 
-tbTrendingDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbTrendingDown = element (unsafeCoerce _tbTrendingDown)
+tbTrendingDown :: Icon
+tbTrendingDown = element _tbTrendingDown
 
 foreign import _tbTrendingUp :: ReactIcon
 
-tbTrendingUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbTrendingUp = element (unsafeCoerce _tbTrendingUp)
+tbTrendingUp :: Icon
+tbTrendingUp = element _tbTrendingUp
 
 foreign import _tbTriangle :: ReactIcon
 
-tbTriangle :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbTriangle = element (unsafeCoerce _tbTriangle)
+tbTriangle :: Icon
+tbTriangle = element _tbTriangle
 
 foreign import _tbTriangleInverted :: ReactIcon
 
-tbTriangleInverted :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbTriangleInverted = element (unsafeCoerce _tbTriangleInverted)
+tbTriangleInverted :: Icon
+tbTriangleInverted = element _tbTriangleInverted
 
 foreign import _tbTriangleOff :: ReactIcon
 
-tbTriangleOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbTriangleOff = element (unsafeCoerce _tbTriangleOff)
+tbTriangleOff :: Icon
+tbTriangleOff = element _tbTriangleOff
 
 foreign import _tbTriangles :: ReactIcon
 
-tbTriangles :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbTriangles = element (unsafeCoerce _tbTriangles)
+tbTriangles :: Icon
+tbTriangles = element _tbTriangles
 
 foreign import _tbTriangleSquareCircle :: ReactIcon
 
-tbTriangleSquareCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbTriangleSquareCircle = element (unsafeCoerce _tbTriangleSquareCircle)
+tbTriangleSquareCircle :: Icon
+tbTriangleSquareCircle = element _tbTriangleSquareCircle
 
 foreign import _tbTrident :: ReactIcon
 
-tbTrident :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbTrident = element (unsafeCoerce _tbTrident)
+tbTrident :: Icon
+tbTrident = element _tbTrident
 
 foreign import _tbTrophy :: ReactIcon
 
-tbTrophy :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbTrophy = element (unsafeCoerce _tbTrophy)
+tbTrophy :: Icon
+tbTrophy = element _tbTrophy
 
 foreign import _tbTruck :: ReactIcon
 
-tbTruck :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbTruck = element (unsafeCoerce _tbTruck)
+tbTruck :: Icon
+tbTruck = element _tbTruck
 
 foreign import _tbTruckDelivery :: ReactIcon
 
-tbTruckDelivery :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbTruckDelivery = element (unsafeCoerce _tbTruckDelivery)
+tbTruckDelivery :: Icon
+tbTruckDelivery = element _tbTruckDelivery
 
 foreign import _tbTruckLoading :: ReactIcon
 
-tbTruckLoading :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbTruckLoading = element (unsafeCoerce _tbTruckLoading)
+tbTruckLoading :: Icon
+tbTruckLoading = element _tbTruckLoading
 
 foreign import _tbTruckOff :: ReactIcon
 
-tbTruckOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbTruckOff = element (unsafeCoerce _tbTruckOff)
+tbTruckOff :: Icon
+tbTruckOff = element _tbTruckOff
 
 foreign import _tbTruckReturn :: ReactIcon
 
-tbTruckReturn :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbTruckReturn = element (unsafeCoerce _tbTruckReturn)
+tbTruckReturn :: Icon
+tbTruckReturn = element _tbTruckReturn
 
 foreign import _tbTypography :: ReactIcon
 
-tbTypography :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbTypography = element (unsafeCoerce _tbTypography)
+tbTypography :: Icon
+tbTypography = element _tbTypography
 
 foreign import _tbTypographyOff :: ReactIcon
 
-tbTypographyOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbTypographyOff = element (unsafeCoerce _tbTypographyOff)
+tbTypographyOff :: Icon
+tbTypographyOff = element _tbTypographyOff
 
 foreign import _tbUmbrella :: ReactIcon
 
-tbUmbrella :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbUmbrella = element (unsafeCoerce _tbUmbrella)
+tbUmbrella :: Icon
+tbUmbrella = element _tbUmbrella
 
 foreign import _tbUmbrellaOff :: ReactIcon
 
-tbUmbrellaOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbUmbrellaOff = element (unsafeCoerce _tbUmbrellaOff)
+tbUmbrellaOff :: Icon
+tbUmbrellaOff = element _tbUmbrellaOff
 
 foreign import _tbUnderline :: ReactIcon
 
-tbUnderline :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbUnderline = element (unsafeCoerce _tbUnderline)
+tbUnderline :: Icon
+tbUnderline = element _tbUnderline
 
 foreign import _tbUnlink :: ReactIcon
 
-tbUnlink :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbUnlink = element (unsafeCoerce _tbUnlink)
+tbUnlink :: Icon
+tbUnlink = element _tbUnlink
 
 foreign import _tbUpload :: ReactIcon
 
-tbUpload :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbUpload = element (unsafeCoerce _tbUpload)
+tbUpload :: Icon
+tbUpload = element _tbUpload
 
 foreign import _tbUrgent :: ReactIcon
 
-tbUrgent :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbUrgent = element (unsafeCoerce _tbUrgent)
+tbUrgent :: Icon
+tbUrgent = element _tbUrgent
 
 foreign import _tbUsb :: ReactIcon
 
-tbUsb :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbUsb = element (unsafeCoerce _tbUsb)
+tbUsb :: Icon
+tbUsb = element _tbUsb
 
 foreign import _tbUser :: ReactIcon
 
-tbUser :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbUser = element (unsafeCoerce _tbUser)
+tbUser :: Icon
+tbUser = element _tbUser
 
 foreign import _tbUserCheck :: ReactIcon
 
-tbUserCheck :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbUserCheck = element (unsafeCoerce _tbUserCheck)
+tbUserCheck :: Icon
+tbUserCheck = element _tbUserCheck
 
 foreign import _tbUserCircle :: ReactIcon
 
-tbUserCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbUserCircle = element (unsafeCoerce _tbUserCircle)
+tbUserCircle :: Icon
+tbUserCircle = element _tbUserCircle
 
 foreign import _tbUserExclamation :: ReactIcon
 
-tbUserExclamation :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbUserExclamation = element (unsafeCoerce _tbUserExclamation)
+tbUserExclamation :: Icon
+tbUserExclamation = element _tbUserExclamation
 
 foreign import _tbUserMinus :: ReactIcon
 
-tbUserMinus :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbUserMinus = element (unsafeCoerce _tbUserMinus)
+tbUserMinus :: Icon
+tbUserMinus = element _tbUserMinus
 
 foreign import _tbUserOff :: ReactIcon
 
-tbUserOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbUserOff = element (unsafeCoerce _tbUserOff)
+tbUserOff :: Icon
+tbUserOff = element _tbUserOff
 
 foreign import _tbUserPlus :: ReactIcon
 
-tbUserPlus :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbUserPlus = element (unsafeCoerce _tbUserPlus)
+tbUserPlus :: Icon
+tbUserPlus = element _tbUserPlus
 
 foreign import _tbUsers :: ReactIcon
 
-tbUsers :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbUsers = element (unsafeCoerce _tbUsers)
+tbUsers :: Icon
+tbUsers = element _tbUsers
 
 foreign import _tbUserSearch :: ReactIcon
 
-tbUserSearch :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbUserSearch = element (unsafeCoerce _tbUserSearch)
+tbUserSearch :: Icon
+tbUserSearch = element _tbUserSearch
 
 foreign import _tbUserX :: ReactIcon
 
-tbUserX :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbUserX = element (unsafeCoerce _tbUserX)
+tbUserX :: Icon
+tbUserX = element _tbUserX
 
 foreign import _tbVaccine :: ReactIcon
 
-tbVaccine :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbVaccine = element (unsafeCoerce _tbVaccine)
+tbVaccine :: Icon
+tbVaccine = element _tbVaccine
 
 foreign import _tbVaccineBottle :: ReactIcon
 
-tbVaccineBottle :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbVaccineBottle = element (unsafeCoerce _tbVaccineBottle)
+tbVaccineBottle :: Icon
+tbVaccineBottle = element _tbVaccineBottle
 
 foreign import _tbVaccineOff :: ReactIcon
 
-tbVaccineOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbVaccineOff = element (unsafeCoerce _tbVaccineOff)
+tbVaccineOff :: Icon
+tbVaccineOff = element _tbVaccineOff
 
 foreign import _tbVariable :: ReactIcon
 
-tbVariable :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbVariable = element (unsafeCoerce _tbVariable)
+tbVariable :: Icon
+tbVariable = element _tbVariable
 
 foreign import _tbVariableOff :: ReactIcon
 
-tbVariableOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbVariableOff = element (unsafeCoerce _tbVariableOff)
+tbVariableOff :: Icon
+tbVariableOff = element _tbVariableOff
 
 foreign import _tbVector :: ReactIcon
 
-tbVector :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbVector = element (unsafeCoerce _tbVector)
+tbVector :: Icon
+tbVector = element _tbVector
 
 foreign import _tbVectorBezier :: ReactIcon
 
-tbVectorBezier :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbVectorBezier = element (unsafeCoerce _tbVectorBezier)
+tbVectorBezier :: Icon
+tbVectorBezier = element _tbVectorBezier
 
 foreign import _tbVectorOff :: ReactIcon
 
-tbVectorOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbVectorOff = element (unsafeCoerce _tbVectorOff)
+tbVectorOff :: Icon
+tbVectorOff = element _tbVectorOff
 
 foreign import _tbVectorTriangle :: ReactIcon
 
-tbVectorTriangle :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbVectorTriangle = element (unsafeCoerce _tbVectorTriangle)
+tbVectorTriangle :: Icon
+tbVectorTriangle = element _tbVectorTriangle
 
 foreign import _tbVectorTriangleOff :: ReactIcon
 
-tbVectorTriangleOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbVectorTriangleOff = element (unsafeCoerce _tbVectorTriangleOff)
+tbVectorTriangleOff :: Icon
+tbVectorTriangleOff = element _tbVectorTriangleOff
 
 foreign import _tbVenus :: ReactIcon
 
-tbVenus :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbVenus = element (unsafeCoerce _tbVenus)
+tbVenus :: Icon
+tbVenus = element _tbVenus
 
 foreign import _tbVersions :: ReactIcon
 
-tbVersions :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbVersions = element (unsafeCoerce _tbVersions)
+tbVersions :: Icon
+tbVersions = element _tbVersions
 
 foreign import _tbVersionsOff :: ReactIcon
 
-tbVersionsOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbVersionsOff = element (unsafeCoerce _tbVersionsOff)
+tbVersionsOff :: Icon
+tbVersionsOff = element _tbVersionsOff
 
 foreign import _tbVideo :: ReactIcon
 
-tbVideo :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbVideo = element (unsafeCoerce _tbVideo)
+tbVideo :: Icon
+tbVideo = element _tbVideo
 
 foreign import _tbVideoMinus :: ReactIcon
 
-tbVideoMinus :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbVideoMinus = element (unsafeCoerce _tbVideoMinus)
+tbVideoMinus :: Icon
+tbVideoMinus = element _tbVideoMinus
 
 foreign import _tbVideoOff :: ReactIcon
 
-tbVideoOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbVideoOff = element (unsafeCoerce _tbVideoOff)
+tbVideoOff :: Icon
+tbVideoOff = element _tbVideoOff
 
 foreign import _tbVideoPlus :: ReactIcon
 
-tbVideoPlus :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbVideoPlus = element (unsafeCoerce _tbVideoPlus)
+tbVideoPlus :: Icon
+tbVideoPlus = element _tbVideoPlus
 
 foreign import _tbViewfinder :: ReactIcon
 
-tbViewfinder :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbViewfinder = element (unsafeCoerce _tbViewfinder)
+tbViewfinder :: Icon
+tbViewfinder = element _tbViewfinder
 
 foreign import _tbViewfinderOff :: ReactIcon
 
-tbViewfinderOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbViewfinderOff = element (unsafeCoerce _tbViewfinderOff)
+tbViewfinderOff :: Icon
+tbViewfinderOff = element _tbViewfinderOff
 
 foreign import _tbViewportNarrow :: ReactIcon
 
-tbViewportNarrow :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbViewportNarrow = element (unsafeCoerce _tbViewportNarrow)
+tbViewportNarrow :: Icon
+tbViewportNarrow = element _tbViewportNarrow
 
 foreign import _tbViewportWide :: ReactIcon
 
-tbViewportWide :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbViewportWide = element (unsafeCoerce _tbViewportWide)
+tbViewportWide :: Icon
+tbViewportWide = element _tbViewportWide
 
 foreign import _tbVinyl :: ReactIcon
 
-tbVinyl :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbVinyl = element (unsafeCoerce _tbVinyl)
+tbVinyl :: Icon
+tbVinyl = element _tbVinyl
 
 foreign import _tbVirus :: ReactIcon
 
-tbVirus :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbVirus = element (unsafeCoerce _tbVirus)
+tbVirus :: Icon
+tbVirus = element _tbVirus
 
 foreign import _tbVirusOff :: ReactIcon
 
-tbVirusOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbVirusOff = element (unsafeCoerce _tbVirusOff)
+tbVirusOff :: Icon
+tbVirusOff = element _tbVirusOff
 
 foreign import _tbVirusSearch :: ReactIcon
 
-tbVirusSearch :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbVirusSearch = element (unsafeCoerce _tbVirusSearch)
+tbVirusSearch :: Icon
+tbVirusSearch = element _tbVirusSearch
 
 foreign import _tbVocabulary :: ReactIcon
 
-tbVocabulary :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbVocabulary = element (unsafeCoerce _tbVocabulary)
+tbVocabulary :: Icon
+tbVocabulary = element _tbVocabulary
 
 foreign import _tbVolume :: ReactIcon
 
-tbVolume :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbVolume = element (unsafeCoerce _tbVolume)
+tbVolume :: Icon
+tbVolume = element _tbVolume
 
 foreign import _tbVolumeOff :: ReactIcon
 
-tbVolumeOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbVolumeOff = element (unsafeCoerce _tbVolumeOff)
+tbVolumeOff :: Icon
+tbVolumeOff = element _tbVolumeOff
 
 foreign import _tbWalk :: ReactIcon
 
-tbWalk :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbWalk = element (unsafeCoerce _tbWalk)
+tbWalk :: Icon
+tbWalk = element _tbWalk
 
 foreign import _tbWall :: ReactIcon
 
-tbWall :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbWall = element (unsafeCoerce _tbWall)
+tbWall :: Icon
+tbWall = element _tbWall
 
 foreign import _tbWallet :: ReactIcon
 
-tbWallet :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbWallet = element (unsafeCoerce _tbWallet)
+tbWallet :: Icon
+tbWallet = element _tbWallet
 
 foreign import _tbWalletOff :: ReactIcon
 
-tbWalletOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbWalletOff = element (unsafeCoerce _tbWalletOff)
+tbWalletOff :: Icon
+tbWalletOff = element _tbWalletOff
 
 foreign import _tbWallpaper :: ReactIcon
 
-tbWallpaper :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbWallpaper = element (unsafeCoerce _tbWallpaper)
+tbWallpaper :: Icon
+tbWallpaper = element _tbWallpaper
 
 foreign import _tbWallpaperOff :: ReactIcon
 
-tbWallpaperOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbWallpaperOff = element (unsafeCoerce _tbWallpaperOff)
+tbWallpaperOff :: Icon
+tbWallpaperOff = element _tbWallpaperOff
 
 foreign import _tbWand :: ReactIcon
 
-tbWand :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbWand = element (unsafeCoerce _tbWand)
+tbWand :: Icon
+tbWand = element _tbWand
 
 foreign import _tbWandOff :: ReactIcon
 
-tbWandOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbWandOff = element (unsafeCoerce _tbWandOff)
+tbWandOff :: Icon
+tbWandOff = element _tbWandOff
 
 foreign import _tbWaveSawTool :: ReactIcon
 
-tbWaveSawTool :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbWaveSawTool = element (unsafeCoerce _tbWaveSawTool)
+tbWaveSawTool :: Icon
+tbWaveSawTool = element _tbWaveSawTool
 
 foreign import _tbWaveSine :: ReactIcon
 
-tbWaveSine :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbWaveSine = element (unsafeCoerce _tbWaveSine)
+tbWaveSine :: Icon
+tbWaveSine = element _tbWaveSine
 
 foreign import _tbWaveSquare :: ReactIcon
 
-tbWaveSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbWaveSquare = element (unsafeCoerce _tbWaveSquare)
+tbWaveSquare :: Icon
+tbWaveSquare = element _tbWaveSquare
 
 foreign import _tbWebhook :: ReactIcon
 
-tbWebhook :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbWebhook = element (unsafeCoerce _tbWebhook)
+tbWebhook :: Icon
+tbWebhook = element _tbWebhook
 
 foreign import _tbWheelchair :: ReactIcon
 
-tbWheelchair :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbWheelchair = element (unsafeCoerce _tbWheelchair)
+tbWheelchair :: Icon
+tbWheelchair = element _tbWheelchair
 
 foreign import _tbWifi :: ReactIcon
 
-tbWifi :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbWifi = element (unsafeCoerce _tbWifi)
+tbWifi :: Icon
+tbWifi = element _tbWifi
 
 foreign import _tbWifiOff :: ReactIcon
 
-tbWifiOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbWifiOff = element (unsafeCoerce _tbWifiOff)
+tbWifiOff :: Icon
+tbWifiOff = element _tbWifiOff
 
 foreign import _tbWind :: ReactIcon
 
-tbWind :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbWind = element (unsafeCoerce _tbWind)
+tbWind :: Icon
+tbWind = element _tbWind
 
 foreign import _tbWindmill :: ReactIcon
 
-tbWindmill :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbWindmill = element (unsafeCoerce _tbWindmill)
+tbWindmill :: Icon
+tbWindmill = element _tbWindmill
 
 foreign import _tbWindmillOff :: ReactIcon
 
-tbWindmillOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbWindmillOff = element (unsafeCoerce _tbWindmillOff)
+tbWindmillOff :: Icon
+tbWindmillOff = element _tbWindmillOff
 
 foreign import _tbWindOff :: ReactIcon
 
-tbWindOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbWindOff = element (unsafeCoerce _tbWindOff)
+tbWindOff :: Icon
+tbWindOff = element _tbWindOff
 
 foreign import _tbWindow :: ReactIcon
 
-tbWindow :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbWindow = element (unsafeCoerce _tbWindow)
+tbWindow :: Icon
+tbWindow = element _tbWindow
 
 foreign import _tbWindowOff :: ReactIcon
 
-tbWindowOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbWindowOff = element (unsafeCoerce _tbWindowOff)
+tbWindowOff :: Icon
+tbWindowOff = element _tbWindowOff
 
 foreign import _tbWindsock :: ReactIcon
 
-tbWindsock :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbWindsock = element (unsafeCoerce _tbWindsock)
+tbWindsock :: Icon
+tbWindsock = element _tbWindsock
 
 foreign import _tbWiper :: ReactIcon
 
-tbWiper :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbWiper = element (unsafeCoerce _tbWiper)
+tbWiper :: Icon
+tbWiper = element _tbWiper
 
 foreign import _tbWiperWash :: ReactIcon
 
-tbWiperWash :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbWiperWash = element (unsafeCoerce _tbWiperWash)
+tbWiperWash :: Icon
+tbWiperWash = element _tbWiperWash
 
 foreign import _tbWoman :: ReactIcon
 
-tbWoman :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbWoman = element (unsafeCoerce _tbWoman)
+tbWoman :: Icon
+tbWoman = element _tbWoman
 
 foreign import _tbWorld :: ReactIcon
 
-tbWorld :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbWorld = element (unsafeCoerce _tbWorld)
+tbWorld :: Icon
+tbWorld = element _tbWorld
 
 foreign import _tbWorldDownload :: ReactIcon
 
-tbWorldDownload :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbWorldDownload = element (unsafeCoerce _tbWorldDownload)
+tbWorldDownload :: Icon
+tbWorldDownload = element _tbWorldDownload
 
 foreign import _tbWorldLatitude :: ReactIcon
 
-tbWorldLatitude :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbWorldLatitude = element (unsafeCoerce _tbWorldLatitude)
+tbWorldLatitude :: Icon
+tbWorldLatitude = element _tbWorldLatitude
 
 foreign import _tbWorldLongitude :: ReactIcon
 
-tbWorldLongitude :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbWorldLongitude = element (unsafeCoerce _tbWorldLongitude)
+tbWorldLongitude :: Icon
+tbWorldLongitude = element _tbWorldLongitude
 
 foreign import _tbWorldOff :: ReactIcon
 
-tbWorldOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbWorldOff = element (unsafeCoerce _tbWorldOff)
+tbWorldOff :: Icon
+tbWorldOff = element _tbWorldOff
 
 foreign import _tbWorldUpload :: ReactIcon
 
-tbWorldUpload :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbWorldUpload = element (unsafeCoerce _tbWorldUpload)
+tbWorldUpload :: Icon
+tbWorldUpload = element _tbWorldUpload
 
 foreign import _tbWreckingBall :: ReactIcon
 
-tbWreckingBall :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbWreckingBall = element (unsafeCoerce _tbWreckingBall)
+tbWreckingBall :: Icon
+tbWreckingBall = element _tbWreckingBall
 
 foreign import _tbWriting :: ReactIcon
 
-tbWriting :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbWriting = element (unsafeCoerce _tbWriting)
+tbWriting :: Icon
+tbWriting = element _tbWriting
 
 foreign import _tbWritingOff :: ReactIcon
 
-tbWritingOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbWritingOff = element (unsafeCoerce _tbWritingOff)
+tbWritingOff :: Icon
+tbWritingOff = element _tbWritingOff
 
 foreign import _tbWritingSign :: ReactIcon
 
-tbWritingSign :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbWritingSign = element (unsafeCoerce _tbWritingSign)
+tbWritingSign :: Icon
+tbWritingSign = element _tbWritingSign
 
 foreign import _tbWritingSignOff :: ReactIcon
 
-tbWritingSignOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbWritingSignOff = element (unsafeCoerce _tbWritingSignOff)
+tbWritingSignOff :: Icon
+tbWritingSignOff = element _tbWritingSignOff
 
 foreign import _tbX :: ReactIcon
 
-tbX :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbX = element (unsafeCoerce _tbX)
+tbX :: Icon
+tbX = element _tbX
 
 foreign import _tbYinYang :: ReactIcon
 
-tbYinYang :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbYinYang = element (unsafeCoerce _tbYinYang)
+tbYinYang :: Icon
+tbYinYang = element _tbYinYang
 
 foreign import _tbYoga :: ReactIcon
 
-tbYoga :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbYoga = element (unsafeCoerce _tbYoga)
+tbYoga :: Icon
+tbYoga = element _tbYoga
 
 foreign import _tbZodiacAquarius :: ReactIcon
 
-tbZodiacAquarius :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbZodiacAquarius = element (unsafeCoerce _tbZodiacAquarius)
+tbZodiacAquarius :: Icon
+tbZodiacAquarius = element _tbZodiacAquarius
 
 foreign import _tbZodiacAries :: ReactIcon
 
-tbZodiacAries :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbZodiacAries = element (unsafeCoerce _tbZodiacAries)
+tbZodiacAries :: Icon
+tbZodiacAries = element _tbZodiacAries
 
 foreign import _tbZodiacCancer :: ReactIcon
 
-tbZodiacCancer :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbZodiacCancer = element (unsafeCoerce _tbZodiacCancer)
+tbZodiacCancer :: Icon
+tbZodiacCancer = element _tbZodiacCancer
 
 foreign import _tbZodiacCapricorn :: ReactIcon
 
-tbZodiacCapricorn :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbZodiacCapricorn = element (unsafeCoerce _tbZodiacCapricorn)
+tbZodiacCapricorn :: Icon
+tbZodiacCapricorn = element _tbZodiacCapricorn
 
 foreign import _tbZodiacGemini :: ReactIcon
 
-tbZodiacGemini :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbZodiacGemini = element (unsafeCoerce _tbZodiacGemini)
+tbZodiacGemini :: Icon
+tbZodiacGemini = element _tbZodiacGemini
 
 foreign import _tbZodiacLeo :: ReactIcon
 
-tbZodiacLeo :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbZodiacLeo = element (unsafeCoerce _tbZodiacLeo)
+tbZodiacLeo :: Icon
+tbZodiacLeo = element _tbZodiacLeo
 
 foreign import _tbZodiacLibra :: ReactIcon
 
-tbZodiacLibra :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbZodiacLibra = element (unsafeCoerce _tbZodiacLibra)
+tbZodiacLibra :: Icon
+tbZodiacLibra = element _tbZodiacLibra
 
 foreign import _tbZodiacPisces :: ReactIcon
 
-tbZodiacPisces :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbZodiacPisces = element (unsafeCoerce _tbZodiacPisces)
+tbZodiacPisces :: Icon
+tbZodiacPisces = element _tbZodiacPisces
 
 foreign import _tbZodiacSagittarius :: ReactIcon
 
-tbZodiacSagittarius :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbZodiacSagittarius = element (unsafeCoerce _tbZodiacSagittarius)
+tbZodiacSagittarius :: Icon
+tbZodiacSagittarius = element _tbZodiacSagittarius
 
 foreign import _tbZodiacScorpio :: ReactIcon
 
-tbZodiacScorpio :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbZodiacScorpio = element (unsafeCoerce _tbZodiacScorpio)
+tbZodiacScorpio :: Icon
+tbZodiacScorpio = element _tbZodiacScorpio
 
 foreign import _tbZodiacTaurus :: ReactIcon
 
-tbZodiacTaurus :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbZodiacTaurus = element (unsafeCoerce _tbZodiacTaurus)
+tbZodiacTaurus :: Icon
+tbZodiacTaurus = element _tbZodiacTaurus
 
 foreign import _tbZodiacVirgo :: ReactIcon
 
-tbZodiacVirgo :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbZodiacVirgo = element (unsafeCoerce _tbZodiacVirgo)
+tbZodiacVirgo :: Icon
+tbZodiacVirgo = element _tbZodiacVirgo
 
 foreign import _tbZoomCancel :: ReactIcon
 
-tbZoomCancel :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbZoomCancel = element (unsafeCoerce _tbZoomCancel)
+tbZoomCancel :: Icon
+tbZoomCancel = element _tbZoomCancel
 
 foreign import _tbZoomCheck :: ReactIcon
 
-tbZoomCheck :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbZoomCheck = element (unsafeCoerce _tbZoomCheck)
+tbZoomCheck :: Icon
+tbZoomCheck = element _tbZoomCheck
 
 foreign import _tbZoomCode :: ReactIcon
 
-tbZoomCode :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbZoomCode = element (unsafeCoerce _tbZoomCode)
+tbZoomCode :: Icon
+tbZoomCode = element _tbZoomCode
 
 foreign import _tbZoomExclamation :: ReactIcon
 
-tbZoomExclamation :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbZoomExclamation = element (unsafeCoerce _tbZoomExclamation)
+tbZoomExclamation :: Icon
+tbZoomExclamation = element _tbZoomExclamation
 
 foreign import _tbZoomIn :: ReactIcon
 
-tbZoomIn :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbZoomIn = element (unsafeCoerce _tbZoomIn)
+tbZoomIn :: Icon
+tbZoomIn = element _tbZoomIn
 
 foreign import _tbZoomInArea :: ReactIcon
 
-tbZoomInArea :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbZoomInArea = element (unsafeCoerce _tbZoomInArea)
+tbZoomInArea :: Icon
+tbZoomInArea = element _tbZoomInArea
 
 foreign import _tbZoomMoney :: ReactIcon
 
-tbZoomMoney :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbZoomMoney = element (unsafeCoerce _tbZoomMoney)
+tbZoomMoney :: Icon
+tbZoomMoney = element _tbZoomMoney
 
 foreign import _tbZoomOut :: ReactIcon
 
-tbZoomOut :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbZoomOut = element (unsafeCoerce _tbZoomOut)
+tbZoomOut :: Icon
+tbZoomOut = element _tbZoomOut
 
 foreign import _tbZoomOutArea :: ReactIcon
 
-tbZoomOutArea :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbZoomOutArea = element (unsafeCoerce _tbZoomOutArea)
+tbZoomOutArea :: Icon
+tbZoomOutArea = element _tbZoomOutArea
 
 foreign import _tbZoomPan :: ReactIcon
 
-tbZoomPan :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbZoomPan = element (unsafeCoerce _tbZoomPan)
+tbZoomPan :: Icon
+tbZoomPan = element _tbZoomPan
 
 foreign import _tbZoomQuestion :: ReactIcon
 
-tbZoomQuestion :: forall a b. Union a b PropsIcon => Record a -> JSX
-tbZoomQuestion = element (unsafeCoerce _tbZoomQuestion)
+tbZoomQuestion :: Icon
+tbZoomQuestion = element _tbZoomQuestion

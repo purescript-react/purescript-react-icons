@@ -1,19211 +1,19209 @@
 module React.Icons.Gi (giAbacus, giAbbotMeeple, giAbdominalArmor, giAccordion, giAce, giAchievement, giAchillesHeel, giAcid, giAcidBlob, giAcidTube, giAcorn, giAcousticMegaphone, giAcrobatic, giAerialSignal, giAerodynamicHarpoon, giAerosol, giAfrica, giAfterburn, giAgave, giAges, giAirBalloon, giAirForce, giAirMan, giAirplane, giAirplaneArrival, giAirplaneDeparture, giAirtightHatch, giAirZigzag, giAkhet, giAlarmClock, giAlgae, giAlgeria, giAlienBug, giAlienEgg, giAlienFire, giAlienSkull, giAlienStare, giAllForOne, giAlliedStar, giAlligatorClip, giAllSeeingEye, giAlmond, giAmberMosquito, giAmbulance, giAmericanFootballBall, giAmericanFootballHelmet, giAmericanFootballPlayer, giAmericanShield, giAmethyst, giAmmoBox, giAmmonite, giAmmoniteFossil, giAmphora, giAmpleDress, giAmplitude, giAmputation, giAnarchy, giAnatomy, giAnchor, giAncientColumns, giAncientRuins, giAncientScrew, giAncientSword, giAndroidMask, giAndromedaChain, giAngelOutfit, giAngelWings, giAnglerFish, giAngola, giAngryEyes, giAngularSpider, giAnimalHide, giAnimalSkull, giAnkh, giAnnexation, giAnt, giAntarctica, giAnteater, giAnthem, giAntiAircraftGun, giAntibody, giAnticlockwiseRotation, giAnts, giAnubis, giAnvil, giAnvilImpact, giApc, giApolloCapsule, giApothecary, giAppleCore, giAppleMaggot, giAppleSeeds, giAquarium, giAquarius, giAqueduct, giArabicDoor, giArchaeopteryxFossil, giArchBridge, giArcher, giArcheryTarget, giArchitectMask, giArchiveRegister, giArchiveResearch, giArcingBolt, giArcTriomphe, giArena, giAries, giArm, giArmadillo, giArmadilloTail, giArmBandage, giArmorDowngrade, giArmoredBoomerang, giArmoredPants, giArmorPunch, giArmorUpgrade, giArmorVest, giArmouredShell, giArmSling, giArrest, giArrowCluster, giArrowCursor, giArrowDunk, giArrowed, giArrowFlights, giArrowhead, giArrowScope, giArrowsShield, giArrowWings, giArson, giArtificialHive, giArtificialIntelligence, giArtilleryShell, giAscendingBlock, giAsianLantern, giAsparagus, giAspergillum, giAssassinPocket, giAsteroid, giAstrolabe, giAstronautHelmet, giAtlas, giAtom, giAtomCore, giAtomicSlashes, giAtSea, giAttachedShield, giAubergine, giAudioCassette, giAura, giAustralia, giAutogun, giAutomaticSas, giAutoRepair, giAvocado, giAvoidance, giAwareness, giAxeInLog, giAxeInStump, giAxeSwing, giAxeSword, giAxolotl, giAztecCalendarSun, giAzulFlake, giBabyBottle, giBabyFace, giBabyfootPlayers, giBackboneShell, giBackForth, giBackgammon, giBackpack, giBackPain, giBackstab, giBackup, giBackwardTime, giBacon, giBadBreath, giBadGnome, giBagpipes, giBalaclava, giBalkenkreuz, giBallerinaShoes, giBallGlow, giBallHeart, giBallista, giBalloonDog, giBalloons, giBallPyramid, giBamboo, giBambooFountain, giBanana, giBananaBunch, giBananaPeel, giBananaPeeled, giBandaged, giBandageRoll, giBandana, giBandit, giBangingGavel, giBanjo, giBank, giBanknote, giBaobab, giBarbarian, giBarbecue, giBarbedArrow, giBarbedCoil, giBarbedNails, giBarbedSpear, giBarbedStar, giBarbedSun, giBarbedWire, giBarbute, giBarefoot, giBarn, giBarracks, giBarracksTent, giBarrel, giBarrelLeak, giBarricade, giBarrier, giBarStool, giBaseballBat, giBaseballGlove, giBaseDome, giBasket, giBasketballBall, giBasketballBasket, giBasketballJersey, giBassetHoundHead, giBassoon, giBastet, giBat, giBatBlade, giBathtub, giBatLeth, giBatMask, giBaton, giBatteredAxe, giBatteries, giBatteryMinus, giBatteryPack, giBatteryPackAlt, giBatteryPlus, giBattleAxe, giBattleGear, giBattleMech, giBattleship, giBattleTank, giBatWing, giBatwingEmblem, giBayonet, giBeachBag, giBeachBall, giBeachBucket, giBeamSatellite, giBeamsAura, giBeamWake, giBeanstalk, giBeard, giBearFace, giBearHead, giBeastEye, giBeaver, giBed, giBedLamp, giBee, giBeech, giBeehive, giBeerBottle, giBeerHorn, giBeerStein, giBeet, giBeetleShell, giBehold, giBelgium, giBellows, giBellPepper, giBellShield, giBelt, giBeltArmor, giBeltBuckles, giBerriesBowl, giBerryBush, giBestialFangs, giBeveledStar, giBiceps, giBigDiamondRing, giBigEgg, giBigGear, giBigWave, giBilledCap, giBindle, giBinoculars, giBiohazard, giBiplane, giBirchTrees, giBirdCage, giBirdClaw, giBirdHouse, giBirdLimb, giBirdMask, giBirdTwitter, giBison, giBlackball, giBlackBar, giBlackBelt, giBlackBook, giBlackBridge, giBlackcurrant, giBlackFlag, giBlackHandShield, giBlackHoleBolas, giBlackKnightHelm, giBlackSea, giBlacksmith, giBladeBite, giBladeDrag, giBladeFall, giBlast, giBlaster, giBleedingEye, giBleedingHeart, giBleedingWound, giBlender, giBlindfold, giBlockHouse, giBlood, giBloodyStash, giBloodySword, giBlunderbuss, giBo, giBoar, giBoarEnsign, giBoarTusks, giBoatEngine, giBoatFishing, giBoatHorizon, giBoatPropeller, giBoba, giBodyBalance, giBodyHeight, giBodySwapping, giBoilingBubbles, giBokChoy, giBolas, giBolivia, giBoltBomb, giBoltCutter, giBoltDrop, giBolterGun, giBoltEye, giBoltSaw, giBoltShield, giBoltSpellCast, giBomber, giBombingRun, giBoneGnawer, giBoneKnife, giBoneMace, giBonsaiTree, giBookAura, giBookCover, giBookmark, giBookmarklet, giBookPile, giBookshelf, giBookStorm, giBoombox, giBoomerang, giBoomerangCross, giBoomerangSun, giBootKick, giBootPrints, giBoots, giBootStomp, giBooze, giBorderedShield, giBossKey, giBottleCap, giBottledBolt, giBottledShadow, giBottleVapors, giBoulderDash, giBouncingSpring, giBouncingSword, giBowArrow, giBowels, giBowenKnot, giBowieKnife, giBowlingAlley, giBowlingPin, giBowlingPropulsion, giBowlingStrike, giBowlOfRice, giBowlSpiral, giBowman, giBowString, giBowTie, giBowTieRibbon, giBoxCutter, giBoxingGlove, giBoxingGloveSurprise, giBoxingRing, giBoxTrap, giBoxUnpacking, giBracer, giBracers, giBrain, giBrainDump, giBrainFreeze, giBrainLeak, giBrainStem, giBrainstorm, giBrainTentacle, giBranchArrow, giBrandyBottle, giBrasero, giBrassEye, giBrassKnuckles, giBrazil, giBrazilFlag, giBread, giBreadSlice, giBreakingChain, giBreastplate, giBrickPile, giBrickWall, giBridge, giBriefcase, giBrightExplosion, giBroadDagger, giBroadheadArrow, giBroadsword, giBroccoli, giBrodieHelmet, giBrokenArrow, giBrokenAxe, giBrokenBone, giBrokenBottle, giBrokenHeart, giBrokenHeartZone, giBrokenPottery, giBrokenRibbon, giBrokenShield, giBrokenSkull, giBrokenTablet, giBrokenWall, giBroom, giBrutalHelm, giBrute, giBubbleField, giBubbles, giBubblingBeam, giBubblingBowl, giBubblingFlask, giBud, giBuffaloHead, giBugleCall, giBugNet, giBulb, giBulgaria, giBull, giBulldozer, giBulletBill, giBulletImpacts, giBullets, giBullHorns, giBullseye, giBullyMinion, giBundleGrenade, giBunkBeds, giBunker, giBunkerAssault, giBunnySlippers, giBuoy, giBurn, giBurningBlobs, giBurningBook, giBurningDot, giBurningEmbers, giBurningEye, giBurningForest, giBurningMeteor, giBurningPassion, giBurningRoundShot, giBurningSkull, giBurningTree, giBurstBlob, giBus, giBusDoors, giBusStop, giButter, giButterfly, giButterflyFlower, giButterflyKnife, giButterflyWarning, giButterToast, giButtonFinger, giBuyCard, giByzantinTemple, giCabbage, giCableStayedBridge, giCactus, giCactusPot, giCactusTap, giCadillacHelm, giCaduceus, giCaesar, giCage, giCagedBall, giCakeSlice, giCalavera, giCalculator, giCaldera, giCalendar, giCalendarHalfYear, giCaltrops, giCamargueCross, giCambodia, giCamel, giCamelHead, giCampCookingPot, giCampfire, giCampingTent, giCancel, giCancer, giCandlebright, giCandleFlame, giCandleHolder, giCandleLight, giCandles, giCandleSkull, giCandlestickPhone, giCandyCanes, giCannedFish, giCannister, giCannon, giCannonBall, giCannonShot, giCanoe, giCantua, giCape, giCapeArmor, giCapitol, giCapricorn, giCaptainHatProfile, giCapybara, giCarabiner, giCarambola, giCaravan, giCaravel, giCarBattery, giCardAceClubs, giCardAceDiamonds, giCardAceHearts, giCardAceSpades, giCardboardBox, giCardboardBoxClosed, giCardBurn, giCardDiscard, giCardDraw, giCardExchange, giCardJackClubs, giCardJackDiamonds, giCardJackHearts, giCardJackSpades, giCardJoker, giCardKingClubs, giCardKingDiamonds, giCardKingHearts, giCardKingSpades, giCarDoor, giCardPick, giCardPickup, giCardPlay, giCardQueenClubs, giCardQueenDiamonds, giCardQueenHearts, giCardQueenSpades, giCardRandom, giCargoCrane, giCargoCrate, giCargoShip, giCarillon, giCarKey, giCarnivalMask, giCarnivoreMouth, giCarnivorousPlant, giCarnyx, giCarousel, giCarpetBombing, giCarrier, giCarrion, giCarrot, giCarSeat, giCartwheel, giCarWheel, giCash, giCassowaryHead, giCastle, giCastleRuins, giCat, giCatapult, giCatch, giCaterpillar, giCauldron, giCavalry, giCaveEntrance, giCaveman, giCctvCamera, giCeilingBarnacle, giCeilingLight, giCelebrationFire, giCellarBarrels, giCementShoes, giCentaur, giCentaurHeart, giCentipede, giCenturionHelmet, giCeremonialMask, giChainedArrowHeads, giChainedHeart, giChaingun, giChainLightning, giChainMail, giChainsaw, giChakram, giChaliceDrops, giChalkOutlineMurder, giChameleonGlyph, giChampagneCork, giChampions, giChanterelles, giCharacter, giCharcuterie, giChargedArrow, giCharging, giChargingBull, giChariot, giCharm, giChart, giChatBubble, giCheckboxTree, giCheckedShield, giCheckeredDiamond, giCheckeredFlag, giChecklist, giCheckMark, giCheerful, giCheeseWedge, giChefToque, giChelseaBoot, giChemicalArrow, giChemicalBolt, giChemicalDrop, giChemicalTank, giCherish, giCherry, giChessBishop, giChessKing, giChessKnight, giChessPawn, giChessQueen, giChessRook, giChest, giChestArmor, giChestnutLeaf, giChewedHeart, giChewedSkull, giChicken, giChickenLeg, giChickenOven, giChiliPepper, giChimney, giChipsBag, giChisel, giChocolateBar, giChoice, giChoppedSkull, giChopsticks, giChurch, giCigale, giCigar, giCigarette, giCircle, giCircleCage, giCircleClaws, giCircleForest, giCircleSparks, giCirclingFish, giCircuitry, giCircularSaw, giCircularSawblade, giCityCar, giClamp, giClapperboard, giClarinet, giClassicalKnowledge, giClaw, giClawHammer, giClaws, giClawSlashes, giClawString, giClayBrick, giClaymoreExplosive, giCleaver, giCleopatra, giClick, giCliffCrossing, giCloak, giCloakDagger, giClockwiseRotation, giClockwork, giClosedBarbute, giClosedDoors, giClothes, giClothesline, giClothespin, giClothJar, giCloudDownload, giCloudRing, giCloudUpload, giCloudyFork, giClout, giClover, giCloverSpiked, giClown, giClownfish, giClubs, giClusterBomb, giCoaDeJima, giCoalPile, giCoalWagon, giCobra, giCobweb, giCoconuts, giCoffeeBeans, giCoffeeCup, giCoffeeMug, giCoffeePot, giCoffin, giCog, giCogLock, giCogsplosion, giCoiledNail, giCoilingCurl, giCoinflip, giCoins, giCoinsPile, giColdHeart, giColiseum, giColombia, giColombianStatue, giColumnVase, giComa, giComb, giCombinationLock, giCometSpark, giCommercialAirplane, giCompactDisc, giCompanionCube, giCompass, giComputerFan, giComputing, giConcentrationOrb, giConcentricCrescents, giConcreteBag, giCondorEmblem, giCondyluraSkull, giConfirmed, giConfrontation, giCongress, giConqueror, giConsoleController, giContortionist, giContract, giControlTower, giConvergenceTarget, giConversation, giConverseShoe, giConvict, giConvince, giConwayLifeGlider, giCook, giCookie, giCookingGlove, giCookingPot, giCooler, giCoolSpices, giCootieCatcher, giCoral, giCorkedTube, giCorkHat, giCorkscrew, giCorn, giCornerExplosion, giCornerFlag, giCornucopia, giCoronation, giCorporal, giCorset, giCorsica, giCosmicEgg, giCottonFlower, giCoveredJar, giCow, giCowboyBoot, giCowboyHolster, giCowled, giCpu, giCpuShot, giCrab, giCrabClaw, giCrackedAlienSkull, giCrackedBallDunk, giCrackedDisc, giCrackedGlass, giCrackedHelm, giCrackedMask, giCrackedSaber, giCrackedShield, giCrafting, giCrags, giCrane, giCreditsCurrency, giCrenelCrown, giCrenulatedShield, giCrescentBlade, giCrescentStaff, giCrestedHelmet, giCricket, giCricketBat, giCrimeSceneTape, giCrocJaws, giCrocSword, giCroissant, giCroissantsPupil, giCrookFlail, giCrossbow, giCrosscutSaw, giCrossedAirFlows, giCrossedAxes, giCrossedBones, giCrossedChains, giCrossedClaws, giCrossedPistols, giCrossedSabres, giCrossedSlashes, giCrossedSwords, giCrossFlare, giCrosshair, giCrosshairArrow, giCrossMark, giCrossroad, giCrossShield, giCrowbar, giCrowDive, giCrown, giCrownCoin, giCrownedExplosion, giCrownedHeart, giCrownedSkull, giCrowNest, giCrownOfThorns, giCrucifix, giCruiser, giCrumblingBall, giCrush, giCryoChamber, giCryptEntrance, giCrystalBall, giCrystalBars, giCrystalCluster, giCrystalEarrings, giCrystalEye, giCrystalGrowth, giCrystalize, giCrystalShine, giCrystalShrine, giCrystalWand, giCuauhtli, giCube, giCubeforce, giCubes, giCuckooClock, giCultist, giCupcake, giCupidonArrow, giCurledLeaf, giCurledTentacle, giCurlingStone, giCurlingVines, giCurlyMask, giCurlyWing, giCursedStar, giCurvyKnife, giCustodianHelmet, giCutDiamond, giCutLemon, giCutPalm, giCyberEye, giCyborgFace, giCycle, giCycling, giCyclops, giCzSkorpion, giDaemonPull, giDaemonSkull, giDaggerRose, giDaggers, giDaisy, giDam, giDamagedHouse, giDandelionFlower, giDango, giDarkSquad, giDart, giDatabase, giDeadEye, giDeadHead, giDeadlyStrike, giDeadWood, giDeathcab, giDeathJuice, giDeathNote, giDeathSkull, giDeathStar, giDeathZone, giDecapitation, giDeer, giDeerHead, giDeerTrack, giDefenseSatellite, giDefensiveWall, giDefibrilate, giDekuTree, giDelicatePerfume, giDelighted, giDeliveryDrone, giDemolish, giDervishSwords, giDesert, giDesertEagle, giDesertSkull, giDeshretRedCrown, giDesk, giDeskLamp, giDespair, giDetonator, giDetour, giDevilMask, giDew, giDiabloSkull, giDiagram, giDialPadlock, giDiamondHard, giDiamondHilt, giDiamondRing, giDiamonds, giDiamondsSmile, giDiamondTrophy, giDiceEightFacesEight, giDiceFire, giDiceShield, giDiceSixFacesFive, giDiceSixFacesFour, giDiceSixFacesOne, giDiceSixFacesSix, giDiceSixFacesThree, giDiceSixFacesTwo, giDiceTarget, giDiceTwentyFacesOne, giDiceTwentyFacesTwenty, giDigDug, giDigHole, giDigitalTrace, giDimetrodon, giDinosaurBones, giDinosaurEgg, giDinosaurRex, giDiplodocus, giDiploma, giDirectionSign, giDirectionSigns, giDirectorChair, giDirewolf, giDisc, giDiscGolfBag, giDiscGolfBasket, giDiscobolus, giDiscussion, giDisintegrate, giDistraction, giDistressSignal, giDivergence, giDivert, giDividedSpiral, giDividedSquare, giDivingDagger, giDivingHelmet, giDjedPillar, giDjembe, giDjinn, giDoctorFace, giDodge, giDodging, giDogBowl, giDogHouse, giDolmen, giDolphin, giDominoMask, giDominoTiles, giDonerKebab, giDonkey, giDonut, giDoor, giDoorHandle, giDoorRingHandle, giDoorWatcher, giDoorway, giDorsalScales, giDoubled, giDoubleDiaphragm, giDoubleDragon, giDoubleFaceMask, giDoubleFish, giDoubleNecklace, giDoubleQuaver, giDoubleRingedOrb, giDoubleShot, giDoubleStreetLights, giDoughRoller, giDove, giDozen, giDragonBalls, giDragonBreath, giDragonfly, giDragonHead, giDragonOrb, giDragonShield, giDragonSpiral, giDrakkar, giDrakkarDragon, giDramaMasks, giDrawbridge, giDread, giDreadnought, giDreadSkull, giDreamCatcher, giDress, giDrill, giDrinking, giDrinkMe, giDrippingBlade, giDrippingGoo, giDrippingHoney, giDrippingKnife, giDrippingStar, giDrippingStone, giDrippingSword, giDrippingTube, giDrop, giDropEarrings, giDroplets, giDropletSplash, giDropWeapon, giDrowning, giDrum, giDrumKit, giDuality, giDualityMask, giDuck, giDuckPalm, giDuel, giDuffelBag, giDumpling, giDumplingBao, giDunceCap, giDungeonGate, giDungeonLight, giDuration, giDustCloud, giDutchBike, giDwarfFace, giDwarfHelmet, giDwarfKing, giDwennimmen, giDynamite, giEagleEmblem, giEagleHead, giEarbuds, giEarrings, giEarthAfricaEurope, giEarthAmerica, giEarthAsiaOceania, giEarthCrack, giEarthSpit, giEarthWorm, giEarwig, giEasel, giEasterEgg, giEating, giEatingPelican, giEchoRipples, giEclipse, giEclipseFlare, giEclipseSaw, giEcology, giEdgeCrack, giEdgedShield, giEel, giEggClutch, giEggDefense, giEggEye, giEggPod, giEgypt, giEgyptianBird, giEgyptianProfile, giEgyptianPyramids, giEgyptianSphinx, giEgyptianTemple, giEgyptianUrns, giEgyptianWalk, giEightBall, giElbowPad, giElderberry, giElectric, giElectricalCrescent, giElectricalResistance, giElectricalSocket, giElectricWhip, giElephant, giElephantHead, giElevator, giElfEar, giElfHelmet, giElvenCastle, giEmberShot, giEmbrassedEnergy, giEmbryo, giEmerald, giEmeraldNecklace, giEmptyChessboard, giEmptyHourglass, giEmptyMetalBucket, giEmptyMetalBucketHandle, giEmptyWoodBucket, giEmptyWoodBucketHandle, giEncirclement, giEnergise, giEnergyArrow, giEnergyBreath, giEnergyShield, giEnergySword, giEnergyTank, giEngagementRing, giEnlightenment, giEnrage, giEntangledTyphoon, giEntMouth, giEntryDoor, giEnvelope, giErlenmeyer, giErmine, giEruption, giEscalator, giEskimo, giEternalLove, giEuropeanFlag, giEvasion, giEvilBat, giEvilBook, giEvilBud, giEvilComet, giEvilEyes, giEvilFork, giEvilHand, giEvilLove, giEvilMinion, giEvilMoon, giEvilTower, giEvilTree, giEvilWings, giExecutionerHood, giExitDoor, giExpand, giExpandedRays, giExpander, giExpense, giExplodingPlanet, giExplosionRays, giExplosiveMaterials, giExplosiveMeeting, giExtractionOrb, giExtraLucid, giExtraTime, giEyeball, giEyedropper, giEyelashes, giEyeOfHorus, giEyepatch, giEyeShield, giEyestalk, giEyeTarget, giFaceToFace, giFactory, giFactoryArm, giFairy, giFairyWand, giFairyWings, giFalconMoon, giFallDown, giFalling, giFallingBlob, giFallingBomb, giFallingBoulder, giFallingEye, giFallingLeaf, giFallingOvoid, giFallingRocks, giFallingStar, giFalloutShelter, giFamas, giFamilyHouse, giFamilyTree, giFangedSkull, giFangs, giFangsCircle, giFarmer, giFarmTractor, giFastArrow, giFastBackwardButton, giFastForwardButton, giFastNoodles, giFat, giFClef, giFeather, giFeatheredWing, giFeatherNecklace, giFeatherWound, giFedora, giFeline, giFemale, giFemaleLegs, giFemaleVampire, giFencer, giFern, giFertilizerBag, giFetus, giFez, giField, giFieldGun, giFigurehead, giFiles, giFilmProjector, giFilmSpool, giFilmStrip, giFinch, giFingernail, giFingerPrint, giFingersCrossed, giFinishLine, giFire, giFireAce, giFireAxe, giFireball, giFireBomb, giFireBottle, giFireBowl, giFireBreath, giFireDash, giFireExtinguisher, giFireflake, giFireFlower, giFireGem, giFireplace, giFirePunch, giFireRay, giFireRing, giFireShield, giFireShrine, giFireSilhouette, giFireSpellCast, giFireTail, giFirewall, giFireWave, giFireworkRocket, giFireZone, giFirstAidKit, giFishbone, giFishBucket, giFishCooked, giFishCorpse, giFishEggs, giFishEscape, giFishhookFork, giFishing, giFishingBoat, giFishingHook, giFishingJig, giFishingLure, giFishingNet, giFishingPole, giFishingSpoon, giFishMonster, giFishScales, giFishSmoking, giFission, giFist, giFizzingFlask, giFlagObjective, giFlail, giFlake, giFlame, giFlameClaws, giFlamedLeaf, giFlamer, giFlameSpin, giFlamethrower, giFlamethrowerSoldier, giFlameTunnel, giFlamingArrow, giFlamingClaw, giFlamingo, giFlamingSheet, giFlamingTrident, giFlangedMace, giFlashGrenade, giFlashlight, giFlatbed, giFlatbedCovered, giFlatfish, giFlatHammer, giFlatPawPrint, giFlatPlatform, giFlatStar, giFlatTire, giFlax, giFleshyMass, giFleurDeLys, giFlexibleLamp, giFlexibleStar, giFlintSpark, giFlipFlops, giFloatingCrystal, giFloatingGhost, giFloatingPlatforms, giFloatingTentacles, giFlood, giFloorHatch, giFloorPolisher, giFlour, giFlowerEmblem, giFlowerHat, giFlowerPot, giFlowers, giFlowerStar, giFlowerTwirl, giFluffyCloud, giFluffyFlame, giFluffySwirl, giFluffyTrefoil, giFluffyWing, giFlute, giFly, giFlyingBeetle, giFlyingDagger, giFlyingFlag, giFlyingFox, giFlyingShuriken, giFlyingTarget, giFlyingTrout, giFnFal, giFoam, giFoamyDisc, giFocusedLightning, giFog, giFogLight, giFoldedPaper, giFomorian, giFoodChain, giFoodTruck, giFootPlaster, giFootprint, giFootsteps, giFootTrip, giFootyField, giForearm, giForest, giForestCamp, giForestEntrance, giForkKnifeSpoon, giForklift, giForwardField, giForwardSun, giFossil, giFoundryBucket, giFountain, giFountainPen, giFox, giFoxHead, giFoxTail, giFragmentedMeteor, giFragmentedSword, giFragrance, giFrance, giFrankensteinCreature, giFrayedArrow, giFreedomDove, giFreemasonry, giFrenchFries, giFrenchHorn, giFriedEggs, giFriedFish, giFrisbee, giFroeAndMallet, giFrog, giFrogFoot, giFrogPrince, giFrontalLobe, giFrontTeeth, giFrostfire, giFrozenArrow, giFrozenBlock, giFrozenBody, giFrozenOrb, giFrozenRing, giFruitBowl, giFruiting, giFruitTree, giFuelTank, giFuji, giFulguroPunch, giFullFolder, giFullMetalBucket, giFullMetalBucketHandle, giFullMotorcycleHelmet, giFullPizza, giFullWoodBucket, giFullWoodBucketHandle, giFunnel, giFurBoot, giFurnace, giFurShirt, giGalaxy, giGalea, giGalleon, giGalley, giGameConsole, giGamepad, giGamepadCross, giGardeningShears, giGargoyle, giGarlic, giGasMask, giGasPump, giGasStove, giGate, giGaulsHelm, giGauntlet, giGavel, giGaze, giGClef, giGearHammer, giGears, giGearStick, giGearStickPattern, giGecko, giGemChain, giGemini, giGemNecklace, giGemPendant, giGems, giGhost, giGhostAlly, giGiant, giGiantSquid, giGibbet, giGiftOfKnowledge, giGiftTrap, giGingerbreadMan, giGinkgoLeaf, giGladius, giGlaive, giGlassBall, giGlassCelebration, giGlassHeart, giGlassShot, giGlider, giGlobe, giGlobeRing, giGlock, giGloop, giGloves, giGlowingArtifact, giGlowingHands, giGluttonousSmile, giGluttony, giGoalKeeper, giGoat, giGoblinCamp, giGoblinHead, giGoldBar, giGoldMine, giGoldNuggets, giGoldScarab, giGoldShell, giGoldStack, giGolemHead, giGolfFlag, giGolfTee, giGong, giGooExplosion, giGooeyDaemon, giGooeyEyedSun, giGooeyImpact, giGooeyMolecule, giGooeySword, giGoose, giGooSkull, giGooSpurt, giGorilla, giGothicCross, giGps, giGrab, giGraduateCap, giGrain, giGrainBundle, giGranary, giGrandPiano, giGrapes, giGrapple, giGraspingClaws, giGraspingSlug, giGrass, giGrassMushroom, giGraveFlowers, giGraveyard, giGreaseTrap, giGreatPyramid, giGreatWarTank, giGreaves, giGreekSphinx, giGreekTemple, giGreenhouse, giGreenPower, giGrenade, giGriffinShield, giGriffinSymbol, giGrimReaper, giGroundbreaker, giGroundSprout, giGroupedDrops, giGrowth, giGuardedTower, giGuards, giGuatemala, giGuillotine, giGuitar, giGuitarBassHead, giGuitarHead, giGunRose, giGunshot, giGunStock, giGymBag, giHabitatDome, giHadesSymbol, giHairStrands, giHalberd, giHalberdShuriken, giHalfBodyCrawling, giHalfDead, giHalfHeart, giHalfLog, giHalfTornado, giHalt, giHamburger, giHamburgerMenu, giHammerBreak, giHammerDrop, giHammerNails, giHammerSickle, giHamShank, giHand, giHandBag, giHandBandage, giHandcuffed, giHandcuffs, giHandGrip, giHandheldFan, giHandOfGod, giHandOk, giHandSaw, giHandTruck, giHandWing, giHanger, giHangGlider, giHangingSign, giHangingSpider, giHappySkull, giHarborDock, giHarp, giHarpoonChain, giHarpoonTrident, giHarpy, giHarryPotterSkull, giHastyGrave, giHatchet, giHatchets, giHaunting, giHawkEmblem, giHazardSign, giHazmatSuit, giHeadbandKnot, giHeadphones, giHeadshot, giHeadShot, giHealing, giHealingShield, giHealthCapsule, giHealthDecrease, giHealthIncrease, giHealthNormal, giHealthPotion, giHearingDisabled, giHeartArmor, giHeartBattery, giHeartBeats, giHeartBottle, giHeartburn, giHeartDrop, giHeartEarrings, giHeartInside, giHeartKey, giHeartMinus, giHeartNecklace, giHeartOrgan, giHeartPlus, giHearts, giHeartShield, giHeartStake, giHeartTower, giHeartWings, giHeatHaze, giHeavenGate, giHeavyArrow, giHeavyBullets, giHeavyCollar, giHeavyFall, giHeavyFighter, giHeavyHelm, giHeavyLightning, giHeavyRain, giHeavyThornyTriskelion, giHeavyTimer, giHedgehog, giHedjetWhiteCrown, giHelicoprion, giHelicopter, giHelicopterTail, giHellCrosses, giHelmet, giHelmetHeadShot, giHelp, giHemp, giHeptagram, giHeraldicSun, giHerbsBundle, giHeron, giHexagonalNut, giHexes, giHidden, giHieroglyphLegs, giHieroglyphY, giHighFive, giHighGrass, giHighHeel, giHighKick, giHighlighter, giHighPunch, giHighShot, giHighTide, giHiking, giHillConquest, giHillFort, giHills, giHistogram, giHive, giHiveMind, giHobbitDoor, giHobbitDwelling, giHockey, giHole, giHoleLadder, giHollowCat, giHolosphere, giHolyGrail, giHolyHandGrenade, giHolyOak, giHolySymbol, giHolyWater, giHomeGarage, giHoneycomb, giHoneyJar, giHoneypot, giHood, giHoodedAssassin, giHoodedFigure, giHoodie, giHoof, giHook, giHops, giHorizonRoad, giHorizontalFlip, giHornedHelm, giHornedReptile, giHornedSkull, giHornInternal, giHorseHead, giHorseshoe, giHorus, giHospital, giHospitalCross, giHotDog, giHotMeal, giHotSpices, giHotSurface, giHound, giHourglass, giHouse, giHouseKeys, giHumanCannonball, giHumanEar, giHumanPyramid, giHumanTarget, giHummingbird, giHungary, giHunterEyes, giHuntingBolas, giHuntingHorn, giHut, giHutsVillage, giHydra, giHydraShot, giHyenaHead, giHypersonicBolt, giHypersonicMelon, giHypodermicTest, giIBeam, giIbis, giIBrick, giIcarus, giIceberg, giIcebergs, giIceBolt, giIceBomb, giIceCreamCone, giIceCreamScoop, giIceCube, giIceCubes, giIceGolem, giIceIris, giIceland, giIcePop, giIceShield, giIceSkate, giIceSpear, giIceSpellCast, giIciclesAura, giIciclesFence, giIdCard, giIdea, giIfrit, giIgloo, giImbricatedArrows, giImp, giImpactPoint, giImperialCrown, giImpLaugh, giImplosion, giImprisoned, giInauguration, giIncense, giIncisors, giIncomingRocket, giIncubator, giIndiaGate, giIndianPalace, giInfernoBomb, giInfestedMass, giInfinity, giInfo, giInjustice, giInkSwirl, giInnerSelf, giInsectJaws, giInspiration, giInterceptorShip, giInterdiction, giInterlacedTentacles, giInterleavedArrows, giInterleavedClaws, giInternalInjury, giInternalOrgan, giInterstellarPath, giIntricateNecklace, giInvisible, giInvisibleFace, giIonCannonBlast, giIonicColumn, giIraq, giIronCross, giIronHulledWarship, giIronMask, giIsland, giItalia, giIvoryTusks, giJackPlug, giJamesBondAperture, giJapan, giJapaneseBridge, giJasmine, giJasonMask, giJawbone, giJawlessCyclop, giJBrick, giJeep, giJelly, giJellyBeans, giJellyfish, giJerrycan, giJerusalemCross, giJesterHat, giJetFighter, giJetpack, giJetPack, giJewelCrown, giJeweledChalice, giJigsawBox, giJigsawPiece, giJoin, giJoint, giJourney, giJoystick, giJug, giJuggler, giJugglingClubs, giJugglingSeal, giJumpAcross, giJumpingDog, giJumpingRope, giJungle, giJupiter, giJusticeStar, giKaleidoscopePearls, giKangaroo, giKatana, giKebabSpit, giKenkuHead, giKenya, giKetchup, giKevlar, giKevlarVest, giKey, giKeyboard, giKeyCard, giKeyLock, giKeyring, giKickScooter, giKidneys, giKidSlide, giKimono, giKindle, giKing, giKingJuMask, giKitchenKnives, giKitchenScale, giKitchenTap, giKite, giKiwiBird, giKiwiFruit, giKlingon, giKnapsack, giKneeBandage, giKneeCap, giKneeling, giKneePad, giKnifeFork, giKnifeThrust, giKnightBanner, giKnockedOutStars, giKnockout, giKnot, giKoala, giKoholintEgg, giKrakenTentacle, giKusarigama, giLabCoat, giLabradorHead, giLadder, giLaddersPlatform, giLadle, giLadybug, giLamellar, giLampreyMouth, giLandMine, giLantern, giLanternFlame, giLaptop, giLargeDress, giLargePaintBrush, giLargeWound, giLaserBlast, giLaserburn, giLaserBurst, giLaserGun, giLaserPrecision, giLaserSparks, giLaserTurret, giLaserWarning, giLasso, giLatvia, giLaurelCrown, giLaurels, giLaurelsTrophy, giLava, giLawStar, giLayeredArmor, giLBrick, giLeadPipe, giLeafSkeleton, giLeafSwirl, giLeak, giLeakySkull, giLeapfrog, giLeatherArmor, giLeatherBoot, giLeatherVest, giLed, giLeechingWorm, giLeeEnfield, giLeek, giLeg, giLegArmor, giLemon, giLeo, giLetterBomb, giLevelCrossing, giLevelEndFlag, giLevelFour, giLevelFourAdvanced, giLevelThree, giLevelThreeAdvanced, giLevelTwo, giLevelTwoAdvanced, giLever, giLiar, giLibertyWing, giLibra, giLibya, giLifeBar, giLifeBuoy, giLifeInTheBalance, giLifeJacket, giLifeSupport, giLifeTap, giLift, giLightBackpack, giLightBulb, giLighter, giLightFighter, giLightHelm, giLighthouse, giLightningArc, giLightningBow, giLightningBranches, giLightningDissipation, giLightningDome, giLightningElectron, giLightningFlame, giLightningFrequency, giLightningHelix, giLightningMask, giLightningSaber, giLightningShadow, giLightningShield, giLightningShout, giLightningSlashes, giLightningSpanner, giLightningStorm, giLightningTear, giLightningTree, giLightningTrio, giLightProjector, giLightSabers, giLightThornyTriskelion, giLilyPads, giLindenLeaf, giLinkedRings, giLion, giLips, giLipstick, giLiquidSoap, giLitCandelabra, giLiver, giLizardman, giLizardTongue, giLoad, giLobArrow, giLockedBox, giLockedChest, giLockedDoor, giLockedFortress, giLockedHeart, giLockers, giLockPicking, giLockpicks, giLockSpy, giLog, giLogging, giLogicGateAnd, giLogicGateNand, giLogicGateNor, giLogicGateNot, giLogicGateNxor, giLogicGateOr, giLogicGateXor, giLoincloth, giLongAntennaeBug, giLongLeggedSpider, giLookAt, giLorgnette, giLostLimb, giLotus, giLotusFlower, giLouvrePyramid, giLoveHowl, giLoveInjection, giLoveLetter, giLoveMystery, giLovers, giLoveSong, giLowTide, giLuchador, giLuciferCannon, giLuckyFisherman, giLuger, giLunarModule, giLunarWand, giLungs, giLynxHead, giLyre, giMaceHead, giMachete, giMachineGun, giMachineGunMagazine, giMadScientist, giMaggot, giMagicAxe, giMagicBroom, giMagicGate, giMagicHat, giMagickTrick, giMagicLamp, giMagicPalm, giMagicPortal, giMagicPotion, giMagicShield, giMagicSwirl, giMagicTrident, giMagnet, giMagnetBlast, giMagnetMan, giMagnifyingGlass, giMailbox, giMailedFist, giMailShirt, giMale, giMammoth, giManacles, giMandrillHead, giMantaRay, giMantrap, giManualJuicer, giManualMeatGrinder, giMapleLeaf, giMaracas, giMarbles, giMarbleTap, giMarrowDrain, giMarsCuriosity, giMarshmallows, giMarsPathfinder, giMartini, giMartyrMemorial, giMaskedSpider, giMasonJar, giMassDriver, giMasterOfArms, giMatchbox, giMatchHead, giMatchTip, giMaterialsScience, giMatryoshkaDolls, giMatterStates, giMayanPyramid, giMaze, giMazeCornea, giMazeSaw, giMeal, giMeat, giMeatCleaver, giMeatHook, giMechaHead, giMechaMask, giMechanicalArm, giMechanicGarage, giMedal, giMedallist, giMedalSkull, giMedicalDrip, giMedicalPack, giMedicalPackAlt, giMedicalThermometer, giMedicinePills, giMedicines, giMedievalBarracks, giMedievalGate, giMedievalPavilion, giMeditation, giMedusaHead, giMeeple, giMeepleArmy, giMeepleCircle, giMeepleGroup, giMeepleKing, giMegabot, giMegaphone, giMeltingIceCube, giMeltingMetal, giMenhir, giMermaid, giMeshBall, giMeshNetwork, giMetalBar, giMetalBoot, giMetalDisc, giMetalGolemHead, giMetalHand, giMetalPlate, giMetalScales, giMetalSkirt, giMeteorImpact, giMetroid, giMetronome, giMexico, giMicrochip, giMicrophone, giMicroscope, giMicroscopeLens, giMiddleArrow, giMidnightClaw, giMightyBoosh, giMightyForce, giMightyHorn, giMightySpanner, giMilitaryAmbulance, giMilitaryFort, giMilkCarton, giMilleniumKey, giMimicChest, giMineExplosion, giMinefield, giMiner, giMineralHeart, giMineralPearls, giMinerals, giMineTruck, giMineWagon, giMinigun, giMining, giMiningHelmet, giMinions, giMiniSubmarine, giMinotaur, giMiracleMedecine, giMirrorMirror, giMisdirection, giMissileLauncher, giMissileMech, giMissilePod, giMissileSwarm, giMite, giMiteAlt, giMoai, giModernCity, giMoebiusStar, giMoebiusTrefoil, giMoebiusTriangle, giMokaPot, giMoldova, giMolecule, giMolotov, giMonaLisa, giMonclerJacket, giMoneyStack, giMongolia, giMonkey, giMonkeyWrench, giMonkFace, giMonoWheelRobot, giMonsteraLeaf, giMonsterGrasp, giMonumentValley, giMoon, giMoonBats, giMoonClaws, giMoonOrbit, giMooringBollard, giMorbidHumour, giMorgueFeet, giMorphBall, giMortar, giMountainCave, giMountainClimbing, giMountainRoad, giMountains, giMountaintop, giMountedKnight, giMouse, giMouthWatering, giMove, giMovementSensor, giMucousPillar, giMugShot, giMultiDirections, giMultipleTargets, giMummyHead, giMuscleFat, giMuscleUp, giMuscularTorso, giMushroom, giMushroomCloud, giMushroomGills, giMushroomHouse, giMushrooms, giMushroomsCluster, giMusicalKeyboard, giMusicalNotes, giMusicalScore, giMusicSpell, giMusket, giMussel, giMustache, giMute, giNachos, giNailedFoot, giNailedHead, giNails, giNanoBot, giNautilusShell, giNeckBite, giNecklace, giNecklaceDisplay, giNeedleDrill, giNeedleJaws, giNefertiti, giNestBirds, giNestedEclipses, giNestedHearts, giNestedHexagons, giNestEggs, giNetworkBars, giNewBorn, giNewShoot, giNewspaper, giNextButton, giNigeria, giNightSky, giNightSleep, giNightVision, giNinjaArmor, giNinjaHead, giNinjaHeroicStance, giNinjaMask, giNinjaStar, giNinjaVelociraptor, giNodular, giNoodleBall, giNoodles, giNorthStarShuriken, giNoseFront, giNoseSide, giNotebook, giNothingToSay, giNuclear, giNuclearBomb, giNuclearPlant, giNuclearWaste, giNunchaku, giNunFace, giNurseFemale, giNurseMale, giOak, giOakLeaf, giOasis, giOat, giObelisk, giOBrick, giObservatory, giOcarina, giOccupy, giOctogonalEye, giOctoman, giOctopus, giOden, giOfficeChair, giOffshorePlatform, giOgre, giOilDrum, giOilPump, giOilRig, giOilySpiral, giOldKing, giOldLantern, giOldMicrophone, giOldWagon, giOlive, giOmega, giOneEyed, giOni, giOnigori, giOnSight, giOnTarget, giOpenBook, giOpenChest, giOpenedFoodCan, giOpenFolder, giOpenGate, giOpeningShell, giOpenPalm, giOpenTreasureChest, giOpenWound, giOphiuchus, giOppidum, giOppositeHearts, giOppression, giOrange, giOrangeSlice, giOrbDirection, giOrbit, giOrbital, giOrbitalRays, giOrbWand, giOrcHead, giOre, giOrganigram, giOstrich, giOuroboros, giOutbackHat, giOverdose, giOverdrive, giOverhead, giOverInfinity, giOverkill, giOverlordHelm, giOvermind, giOwl, giOyster, giOysterPearl, giPackedPlanks, giPaddles, giPaddleSteamer, giPadlock, giPadlockOpen, giPagoda, giPaintBrush, giPaintBucket, giPaintedPottery, giPaintRoller, giPalette, giPalisade, giPalm, giPalmTree, giPanda, giPanFlute, giPangolin, giPanzerfaust, giPaper, giPaperArrow, giPaperBagCrumpled, giPaperBagFolded, giPaperBagOpen, giPaperBoat, giPaperBomb, giPaperClip, giPaperCrane, giPaperFrog, giPaperLantern, giPaperPlane, giPapers, giPaperTray, giPaperWindmill, giPapyrus, giParachute, giParaguay, giParanoia, giParasaurolophus, giParkBench, giParmecia, giParrotHead, giPartyFlags, giPartyHat, giPartyPopper, giPassport, giPathDistance, giPathTile, giPauldrons, giPauseButton, giPaw, giPawFront, giPawHeart, giPawn, giPawPrint, giPayMoney, giPc, giPeaceDove, giPeach, giPeaks, giPeanut, giPear, giPearlEarring, giPearlNecklace, giPeas, giPegasus, giPelvisBone, giPencil, giPencilBrush, giPencilRuler, giPendantKey, giPendulumSwing, giPenguin, giPentacle, giPentagramRose, giPentarrowsTornado, giPerfumeBottle, giPeriscope, giPerpendicularRings, giPerson, giPersonInBed, giPerspectiveDiceFive, giPerspectiveDiceFour, giPerspectiveDiceOne, giPerspectiveDiceSix, giPerspectiveDiceSixFacesFive, giPerspectiveDiceSixFacesFour, giPerspectiveDiceSixFacesOne, giPerspectiveDiceSixFacesRandom, giPerspectiveDiceSixFacesSix, giPerspectiveDiceSixFacesThree, giPerspectiveDiceSixFacesTwo, giPerspectiveDiceThree, giPerspectiveDiceTwo, giPeru, giPestleMortar, giPharoah, giPhone, giPhotoCamera, giPhrygianCap, giPianist, giPianoKeys, giPickelhaube, giPickle, giPickOfDestiny, giPieceSkull, giPieChart, giPiercedBody, giPiercedHeart, giPiercingSword, giPieSlice, giPig, giPigFace, giPiggyBank, giPikeman, giPilgrimHat, giPill, giPillDrop, giPillow, giPimiento, giPin, giPinata, giPinballFlipper, giPincers, giPineapple, giPineTree, giPingPongBat, giPipeOrgan, giPipes, giPiranha, giPirateCannon, giPirateCaptain, giPirateCoat, giPirateFlag, giPirateGrave, giPirateHat, giPirateHook, giPirateSkull, giPisaTower, giPisces, giPistolGun, giPitchfork, giPizzaCutter, giPizzaSlice, giPlagueDoctorProfile, giPlainArrow, giPlainCircle, giPlainDagger, giPlainSquare, giPlanePilot, giPlanetConquest, giPlanetCore, giPlaneWing, giPlanks, giPlantRoots, giPlantsAndAnimals, giPlantSeed, giPlantWatering, giPlasmaBolt, giPlasticDuck, giPlastron, giPlateClaw, giPlatform, giPlayButton, giPlayerBase, giPlayerNext, giPlayerPrevious, giPlayerTime, giPlesiosaurus, giPlow, giPlug, giPlunger, giPocketBow, giPocketRadio, giPocketWatch, giPodium, giPodiumSecond, giPodiumThird, giPodiumWinner, giPointing, giPointyHat, giPointySword, giPoison, giPoisonBottle, giPoisonCloud, giPoisonGas, giPokecog, giPokerHand, giPoland, giPolarBear, giPolarStar, giPoliceBadge, giPoliceCar, giPoliceOfficerHead, giPoliceTarget, giPollenDust, giPoloShirt, giPoncho, giPoolDive, giPoolTableCorner, giPoolTriangle, giPopcorn, giPopeCrown, giPoppy, giPorcelainVase, giPorcupine, giPorcupinefish, giPortal, giPortculis, giPortrait, giPortugal, giPositionMarker, giPostOffice, giPostStamp, giPotato, giPotionBall, giPotionOfMadness, giPounce, giPouringChalice, giPouringPot, giPowder, giPowderBag, giPowerButton, giPowerGenerator, giPowerLightning, giPowerRing, giPrayer, giPrayerBeads, giPrayingMantis, giPresent, giPressureCooker, giPrettyFangs, giPretzel, giPreviousButton, giPriceTag, giPrimitiveNecklace, giPrimitiveTorch, giPrism, giPrisoner, giPrivate, giPrivateFirstClass, giProcessor, giProfit, giProgression, giPropellerBeanie, giProtectionGlasses, giPschentDoubleCrown, giPsychicWaves, giPterodactylus, giPteruges, giPublicSpeaker, giPull, giPulleyHook, giPulse, giPummeled, giPumpkin, giPumpkinLantern, giPumpkinMask, giPunch, giPunchBlast, giPunchingBag, giPuppet, giPurpleTentacle, giPush, giPuzzle, giPylon, giPyre, giPyromaniac, giQaitbayCitadel, giQuakeStomp, giQueenCrown, giQuickMan, giQuicksand, giQuickSlash, giQuill, giQuillInk, giQuiver, giRabbit, giRabbitHead, giRaccoonHead, giRaceCar, giRadarCrossSection, giRadarDish, giRadarSweep, giRaddish, giRadialBalance, giRadiations, giRadioactive, giRadioTower, giRaft, giRaggedWound, giRailRoad, giRailway, giRainbowStar, giRaining, giRaiseSkeleton, giRaiseZombie, giRake, giRallyTheTroops, giRam, giRamProfile, giRanchGate, giRapidshareArrow, giRaspberry, giRat, giRattlesnake, giRaven, giRawEgg, giRayGun, giRazor, giRazorBlade, giReactor, giRead, giReaperScythe, giRearAura, giReceiveMoney, giRecycle, giRedCarpet, giReed, giRefinery, giRegeneration, giRelationshipBounds, giRelicBlade, giReloadGunBarrel, giRemedy, giRempart, giReptileTail, giResize, giResonance, giRestingVampire, giReticule, giRetroController, giReturnArrow, giRevolt, giRevolver, giRhinocerosHorn, giRialtoBridge, giRibbon, giRibbonMedal, giRibbonShield, giRibcage, giRiceCooker, giRifle, giRing, giRingBox, giRingedBeam, giRingedPlanet, giRingingAlarm, giRingingBell, giRingmaster, giRingMould, giRiotShield, giRiver, giRoad, giRoastChicken, giRobber, giRobberHand, giRobberMask, giRobe, giRobinHoodHat, giRobotAntennas, giRobotGolem, giRobotGrab, giRobotHelmet, giRobotLeg, giRock, giRocket, giRocketFlight, giRocketThruster, giRockGolem, giRockingChair, giRodOfAsclepius, giRogue, giRolledCloth, giRollerSkate, giRollingBomb, giRollingDiceCup, giRollingDices, giRollingEnergy, giRollingSuitcase, giRomanShield, giRomanToga, giRooster, giRootTip, giRopeBridge, giRopeCoil, giRopeDart, giRopeway, giRosaShield, giRose, giRotaryPhone, giRoughWound, giRoundBottomFlask, giRoundKnob, giRoundShield, giRoundSilo, giRoundStar, giRoundStrawBale, giRoundStruck, giRoundTable, giRoyalLove, giRss, giRubberBoot, giRubElHizb, giRugbyConversion, giRuleBook, giRun, giRuneStone, giRuneSword, giRunningNinja, giRunningShoe, giRupee, giRustySword, giSaberAndPistol, giSabersChoc, giSaberSlash, giSaberTooth, giSaberToothedCatHead, giSacrificialDagger, giSadCrab, giSaddle, giSafetyPin, giSagittarius, giSai, giSail, giSailboat, giSaintBasilCathedral, giSaiyanSuit, giSalamander, giSalmon, giSaloon, giSaloonDoors, giSaltShaker, giSamaraMosque, giSamuraiHelmet, giSamusHelmet, giSandal, giSandCastle, giSandSnake, giSandsOfTime, giSandstorm, giSandwich, giSaphir, giSarcophagus, giSasquatch, giSatelliteCommunication, giSattelite, giSaucepan, giSauropodHead, giSauropodSkeleton, giSausage, giSausagesRibbon, giSave, giSaveArrow, giSawClaw, giSawedOffShotgun, giSaxophone, giSBrick, giScabbard, giScaleMail, giScales, giScallop, giScalpel, giScalpelStrike, giScarabBeetle, giScarecrow, giScarWound, giSchoolBag, giSchoolOfFish, giScissors, giScooter, giScorpio, giScorpion, giScorpionTail, giScoutShip, giScreaming, giScreenImpact, giScrew, giScrewdriver, giScrollQuill, giScrollUnfurled, giScubaMask, giScubaTanks, giScythe, giSeaCliff, giSeaCreature, giSeaDragon, giSeagull, giSeahorse, giSeaSerpent, giSeaStar, giSeatedMouse, giSeaTurtle, giSecretBook, giSecretDoor, giSecurityGate, giSeedling, giSelect, giSelfLove, giSellCard, giSemiClosedEye, giSensuousness, giSentryGun, giSergeant, giSerratedSlash, giServerRack, giSesame, giSettingsKnobs, giSevenPointedStar, giSeveredHand, giSewedShell, giSewingMachine, giSewingNeedle, giSewingString, giSextant, giShadowFollower, giShadowGrasp, giShakingHands, giShamblingMound, giShamblingZombie, giShamrock, giShardSword, giShare, giSharkBite, giSharkFin, giSharkJaws, giSharpAxe, giSharpCrown, giSharpedTeethSkull, giSharpHalberd, giSharpLips, giSharpShuriken, giSharpSmile, giShatter, giShatteredGlass, giShatteredHeart, giShatteredSword, giShears, giSheep, giSheikahEye, giShepherdsCrook, giSherlockHolmes, giShield, giShieldBash, giShieldBounces, giShieldcomb, giShieldDisabled, giShieldEchoes, giShieldImpact, giShieldOpposition, giShieldReflect, giShiningClaw, giShiningHeart, giShiningSword, giShintoShrine, giShintoShrineMirror, giShinyApple, giShinyEntrance, giShinyIris, giShinyOmega, giShinyPurse, giShipBow, giShipWheel, giShipWreck, giShirt, giShirtButton, giShoebillStork, giShoonerSailboat, giShop, giShoppingBag, giShoppingCart, giShorts, giShotgun, giShotgunRounds, giShoulderArmor, giShoulderBag, giShoulderScales, giShouting, giShower, giShrimp, giShrug, giShuriken, giShurikenAperture, giShutRose, giShuttlecock, giSickle, giSideswipe, giSiegeRam, giSiegeTower, giSightDisabled, giSilence, giSilenced, giSilex, giSilverBullet, giSinagot, giSing, giSinkingShip, giSinkingTrap, giSinusoidalBeam, giSiren, giSittingDog, giSixEyes, giSkateboard, giSkeletalHand, giSkeleton, giSkeletonInside, giSkeletonKey, giSkiBoot, giSkidMark, giSkier, giSkills, giSkippingRope, giSkirt, giSkis, giSkullBolt, giSkullCrack, giSkullCrossedBones, giSkullInJar, giSkullMask, giSkullRing, giSkullSabertooth, giSkullShield, giSkullSignet, giSkullSlices, giSkullStaff, giSkullWithSyringe, giSlalom, giSlap, giSlashedShield, giSlaveryWhip, giSleepingBag, giSleepy, giSleevelessJacket, giSleevelessTop, giSlicedBread, giSlicedMushroom, giSlicedSausage, giSlicingArrow, giSlime, giSling, giSlingshot, giSlipknot, giSlippers, giSloth, giSlowBlob, giSlumberingSanctuary, giSly, giSmallFire, giSmallFishingSailboat, giSmart, giSmartphone, giSmashArrows, giSmitten, giSmokeBomb, giSmokingFinger, giSmokingOrb, giSmokingPipe, giSmokingVolcano, giSnail, giSnailEyes, giSnake, giSnakeBite, giSnakeEgg, giSnakeJar, giSnakeSpiral, giSnakeTongue, giSnakeTotem, giSnatch, giSniffingDog, giSnitchQuidditchBall, giSnorkel, giSnout, giSnowboard, giSnowBottle, giSnowing, giSnowman, giSoap, giSoapExperiment, giSoccerBall, giSoccerField, giSoccerKick, giSocks, giSodaCan, giSofa, giSolarPower, giSolarSystem, giSolarTime, giSolderingIron, giSolidLeaf, giSombrero, giSonicBoom, giSonicLightning, giSonicScreech, giSonicShoes, giSonicShout, giSoulVessel, giSoundOff, giSoundOn, giSoundWaves, giSouthAfrica, giSouthAfricaFlag, giSouthAmerica, giSouthKorea, giSpaceNeedle, giSpaceship, giSpaceShuttle, giSpaceSuit, giSpade, giSpades, giSpadeSkull, giSpain, giSpanner, giSparkles, giSparklingSabre, giSparkPlug, giSparkSpirit, giSparkyBomb, giSparrow, giSpartan, giSpartanHelmet, giSpatter, giSpawnNode, giSpeaker, giSpeakerOff, giSpearFeather, giSpearfishing, giSpearHook, giSpears, giSpectacleLenses, giSpectacles, giSpectre, giSpeedBoat, giSpeedometer, giSpellBook, giSpermWhale, giSpiderAlt, giSpiderBot, giSpiderEye, giSpiderFace, giSpiderMask, giSpiderWeb, giSpikeball, giSpikedArmor, giSpikedBall, giSpikedBat, giSpikedCollar, giSpikedDragonHead, giSpikedFence, giSpikedHalo, giSpikedMace, giSpikedShell, giSpikedShield, giSpikedShoulderArmor, giSpikedSnail, giSpikedTail, giSpikedTentacle, giSpikedTrunk, giSpikedWall, giSpikes, giSpikesFull, giSpikesHalf, giSpikesInit, giSpikyEclipse, giSpikyExplosion, giSpikyField, giSpikyPit, giSpikyWing, giSpill, giSpinalCoil, giSpineArrow, giSpinningBlades, giSpinningRibbons, giSpinningSword, giSpinningTop, giSpinningWheel, giSpiralArrow, giSpiralBloom, giSpiralBottle, giSpiralHilt, giSpiralLollipop, giSpiralShell, giSpiralTentacle, giSpiralThrust, giSplash, giSplashyStream, giSplitArrows, giSplitBody, giSplitCross, giSplurt, giSpockHand, giSpookyHouse, giSpoon, giSportMedal, giSpotedFlower, giSpottedArrowhead, giSpottedBug, giSpottedMushroom, giSpottedWound, giSpoutnik, giSpray, giSpring, giSprint, giSprout, giSproutDisc, giSpy, giSpyglass, giSquare, giSquareBottle, giSquib, giSquid, giSquidHead, giSquirrel, giSriLanka, giStabbedNote, giStable, giStack, giStagHead, giStahlhelm, giStairs, giStairsCake, giStairsGoal, giStakeHammer, giStakesFence, giStalactites, giStalagtite, giStamper, giStandingPotion, giStapler, giStaplerHeavyDuty, giStaplerPneumatic, giStarAltar, giStarCycle, giStarfighter, giStarFlag, giStarFormation, giStarGate, giStarKey, giStarMedal, giStarProminences, giStarPupil, giStarSattelites, giStarShuriken, giStarSkull, giStarsStack, giStarStruck, giStarSwirl, giStaryu, giStatic, giStaticGuard, giStaticWaves, giSteak, giStealthBomber, giSteam, giSteamBlast, giSteamLocomotive, giSteampunkGoggles, giSteelClaws, giSteelDoor, giSteeltoeBoots, giSteelwingEmblem, giSteeringWheel, giStegosaurusScales, giStethoscope, giSteyrAug, giStickFrame, giStickGrenade, giStickingPlaster, giStickSplitting, giStickyBoot, giStigmata, giStiletto, giStitchedWound, giStockpiles, giStomach, giStomp, giStompTornado, giStoneAxe, giStoneBlock, giStoneBridge, giStoneBust, giStoneCrafting, giStonedSkull, giStonePath, giStonePile, giStoneSpear, giStoneSphere, giStoneStack, giStoneTablet, giStoneThrone, giStoneTower, giStoneWall, giStoneWheel, giStopSign, giStopwatch, giStorkDelivery, giStrafe, giStraightPipe, giStrawberry, giStreetLight, giStrikingArrows, giStrikingBalls, giStrikingClamps, giStrikingDiamonds, giStrikingSplinter, giStripedSun, giStripedSword, giStrong, giStrongbox, giStrongMan, giStumpRegrowth, giStunGrenade, giSubmarine, giSubmarineMissile, giSubway, giSuckeredTentacle, giSugarCane, giSuicide, giSuitcase, giSuits, giSummits, giSun, giSunbeams, giSunCloud, giSundial, giSunflower, giSunglasses, giSunkenEye, giSunPriest, giSunRadiations, giSunrise, giSunset, giSunSpear, giSuperMushroom, giSupersonicArrow, giSupersonicBullet, giSurfBoard, giSurferVan, giSurprised, giSurprisedSkull, giSurroundedEye, giSurroundedShield, giSushis, giSuspensionBridge, giSuspicious, giSverdIFjell, giSwallow, giSwallower, giSwamp, giSwampBat, giSwan, giSwanBreeze, giSwapBag, giSwimfins, giSwipeCard, giSwirledShell, giSwirlRing, giSwirlString, giSwissArmyKnife, giSwitchblade, giSwitchWeapon, giSwitzerland, giSwordAltar, giSwordArray, giSwordBrandish, giSwordBreak, giSwordClash, giSwordHilt, giSwordInStone, giSwordman, giSwordMold, giSwordsEmblem, giSwordSlice, giSwordSmithing, giSwordSpade, giSwordSpin, giSwordsPower, giSwordTie, giSwordwoman, giSwordWound, giSydneyOperaHouse, giSyringe, giTabiBoot, giTable, giTablet, giTabletopPlayers, giTacos, giTadpole, giTakeMyMoney, giTalk, giTallBridge, giTambourine, giTangerine, giTank, giTankTop, giTankTread, giTanzania, giTap, giTapir, giTargetArrows, giTargetDummy, giTargeted, giTargeting, giTargetLaser, giTargetPoster, giTargetPrize, giTargetShot, giTatteredBanner, giTaurus, giTavernSign, giTBrick, giTeacher, giTeamDowngrade, giTeamIdea, giTeamUpgrade, giTeapot, giTeapotLeaves, giTearing, giTearTracks, giTechnoHeart, giTeePipe, giTelefrag, giTelepathy, giTeleport, giTelescopicBaton, giTellerMine, giTemplarEye, giTemplarHeart, giTemplarShield, giTempleDoor, giTempleGate, giTemporaryShield, giTemptation, giTennisBall, giTennisCourt, giTennisRacket, giTensionSnowflake, giTentacleHeart, giTentaclesBarrier, giTentaclesSkull, giTentacleStrike, giTentacurl, giTerror, giTesla, giTeslaCoil, giTeslaTurret, giTestTubes, giTexas, giTheater, giTheaterCurtains, giThermometerCold, giThermometerHot, giThermometerScale, giThink, giThirdEye, giThorFist, giThorHammer, giThornedArrow, giThornHelix, giThornyTentacle, giThornyVine, giThreeBurningBalls, giThreeFriends, giThreeKeys, giThreeLeaves, giThreePointedShuriken, giThroneKing, giThrowingBall, giThrownCharcoal, giThrownDaggers, giThrownKnife, giThrownSpear, giThrust, giThrustBend, giThumbDown, giThumbUp, giThunderball, giThunderBlade, giThunderSkull, giThunderStruck, giThwomp, giTiara, giTick, giTicket, giTicTacToe, giTie, giTiedScroll, giTiger, giTigerHead, giTightrope, giTimeBomb, giTimeDynamite, giTimeSynchronization, giTimeTrap, giTinker, giTipi, giTiredEye, giTireIron, giTireIronCross, giTireTracks, giToadTeeth, giToaster, giToggles, giToken, giTomahawk, giTomato, giTombstone, giTongue, giToolbox, giTooth, giToothbrush, giTopaz, giTopHat, giTopPaw, giTorc, giTorch, giTornado, giTornadoDiscs, giTorpedo, giTortoise, giTotem, giTotemHead, giTotemMask, giToucan, giTowel, giTowerBridge, giTowerFall, giTowerFlag, giTowTruck, giToyMallet, giTrackedRobot, giTrade, giTrafficCone, giTrafficLightsGreen, giTrafficLightsOrange, giTrafficLightsReadyToGo, giTrafficLightsRed, giTrail, giTrample, giTransform, giTransfuse, giTransparentSlime, giTransparentTubes, giTransportationRings, giTrapMask, giTrashCan, giTravelDress, giTread, giTreasureMap, giTrebuchet, giTreeBeehive, giTreeBranch, giTreeDoor, giTreeFace, giTreeGrowth, giTreehouse, giTreeRoots, giTreeSwing, giTrefoilLily, giTrefoilShuriken, giTrenchAssault, giTrenchBodyArmor, giTrenchKnife, giTrenchSpade, giTRexSkull, giTriangleTarget, giTribalGear, giTribalMask, giTribalPendant, giTribalShield, giTribunalJury, giTriceratopsHead, giTrident, giTridentShield, giTriforce, giTriggerHurt, giTrilobite, giTrinacria, giTriorb, giTripleBeak, giTripleClaws, giTripleCorn, giTripleGate, giTripleLock, giTripleNeedle, giTriplePlier, giTripleScratches, giTripleShells, giTripleSkulls, giTripleYin, giTripwire, giTriquetra, giTrireme, giTritonHead, giTroglodyte, giTrojanHorse, giTroll, giTrombone, giTronArrow, giTrophiesShelf, giTrophy, giTrophyCup, giTropicalFish, giTrousers, giTrowel, giTruce, giTruck, giTrumpet, giTrumpetFlag, giTrunkMushroom, giTShirt, giTuba, giTumbleweed, giTumor, giTumulus, giTunePitch, giTunisia, giTurban, giTurbine, giTurd, giTurnstile, giTurret, giTurtle, giTurtleShell, giTusksFlag, giTv, giTvRemote, giTvTower, giTwinShell, giTwirlCenter, giTwirlyFlower, giTwister, giTwoCoins, giTwoFeathers, giTwoHandedSword, giTwoShadows, giTyre, giUbisoftSun, giUdder, giUfo, giUltrasound, giUluru, giUmbrella, giUmbrellaBayonet, giUnbalanced, giUncertainty, giUndergroundCave, giUnderhand, giUnderwear, giUnderwearShorts, giUnfriendlyFire, giUnicorn, giUnicycle, giUnionJack, giUnlitBomb, giUnlitCandelabra, giUnlocking, giUnplugged, giUnstableOrb, giUnstableProjectile, giUpCard, giUpgrade, giUprising, giUrsaMajor, giUruguay, giUsable, giUsaFlag, giUsbKey, giUshanka, giUzi, giVacuumCleaner, giValley, giValve, giVampireCape, giVampireDracula, giVanDammeSplit, giVanillaFlower, giVelocipede, giVelociraptor, giVelociraptorTracks, giVendingMachine, giVenezuela, giVenusFlytrap, giVenusOfWillendorf, giVerticalBanner, giVerticalFlip, giVhs, giVial, giVibratingBall, giVibratingShield, giVibratingSmartphone, giVideoCamera, giVideoConference, giVikingChurch, giVikingHead, giVikingHelmet, giVikingLonghouse, giVikingShield, giVileFluid, giVillage, giVineFlower, giVineLeaf, giVines, giVineWhip, giVintageRobot, giViola, giViolin, giVirgo, giVirtualMarker, giVirus, giVisoredHelm, giVitruvianMan, giVolcano, giVolleyballBall, giVomiting, giVoodooDoll, giVortex, giVote, giVrHeadset, giVulture, giVuvuzelas, giWalk, giWalkieTalkie, giWalkingBoot, giWalkingScout, giWalkingTurret, giWallet, giWallLight, giWalrusHead, giWaltherPpk, giWantedReward, giWarAxe, giWarBonnet, giWarhammer, giWarlockEye, giWarlockHood, giWarPick, giWarpPipe, giWashingMachine, giWaspSting, giWatch, giWatchtower, giWaterBolt, giWaterBottle, giWaterDivinerStick, giWaterDrop, giWaterfall, giWaterFlask, giWaterFountain, giWaterGallon, giWaterGun, giWateringCan, giWatermelon, giWaterMill, giWaterPolo, giWaterRecycling, giWaterSplash, giWaterTank, giWaterTower, giWaveCrest, giWaves, giWaveStrike, giWaveSurfer, giWavyChains, giWavyItinerary, giWaxSeal, giWaxTablet, giWebSpit, giWeight, giWeightCrush, giWeightLiftingDown, giWeightLiftingUp, giWeightScale, giWell, giWerewolf, giWesternHat, giWhaleTail, giWheat, giWheelbarrow, giWhip, giWhiplash, giWhirlpoolShuriken, giWhirlwind, giWhisk, giWhistle, giWhiteBook, giWhiteTower, giWideArrowDunk, giWifiRouter, giWildfires, giWilliamTell, giWilliamTellSkull, giWillowTree, giWinchesterRifle, giWindchimes, giWindHole, giWindmill, giWindow, giWindowBars, giWindpump, giWindSlap, giWindsock, giWindTurbine, giWindyStripes, giWineBottle, giWineGlass, giWingCloak, giWingedArrow, giWingedEmblem, giWingedLeg, giWingedScepter, giWingedShield, giWingedSword, giWingfoot, giWinterGloves, giWinterHat, giWireCoil, giWireframeGlobe, giWisdom, giWitchFace, giWitchFlight, giWizardFace, giWizardStaff, giWok, giWolfHead, giWolfHowl, giWolfTrap, giWolverineClaws, giWomanElfFace, giWoodAxe, giWoodBeam, giWoodCabin, giWoodCanoe, giWoodClub, giWoodenChair, giWoodenClogs, giWoodenCrate, giWoodenDoor, giWoodenFence, giWoodenHelmet, giWoodenPegleg, giWoodenPier, giWoodenSign, giWoodFrame, giWoodPile, giWoodStick, giWool, giWorld, giWormMouth, giWorms, giWorriedEyes, giWrappedHeart, giWrappedSweet, giWrappingStar, giWreckingBall, giWrench, giWyvern, giXylophone, giYarn, giYinYang, giYunluo, giZatGun, giZBrick, giZebraShield, giZeppelin, giZeusSword, giZigArrow, giZigzagCage, giZigzagHieroglyph, giZigzagLeaf, giZigzagTune, giZipper) where
 
-import Prim.Row (class Union)
-import React.Basic (JSX, element)
-import React.Icons.Types (ReactIcon, PropsIcon)
-import Unsafe.Coerce (unsafeCoerce)
+import React.Basic (element)
+import React.Icons.Types (ReactIcon, Icon)
 
 foreign import _giAbacus :: ReactIcon
 
-giAbacus :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAbacus = element (unsafeCoerce _giAbacus)
+giAbacus :: Icon
+giAbacus = element _giAbacus
 
 foreign import _giAbbotMeeple :: ReactIcon
 
-giAbbotMeeple :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAbbotMeeple = element (unsafeCoerce _giAbbotMeeple)
+giAbbotMeeple :: Icon
+giAbbotMeeple = element _giAbbotMeeple
 
 foreign import _giAbdominalArmor :: ReactIcon
 
-giAbdominalArmor :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAbdominalArmor = element (unsafeCoerce _giAbdominalArmor)
+giAbdominalArmor :: Icon
+giAbdominalArmor = element _giAbdominalArmor
 
 foreign import _giAccordion :: ReactIcon
 
-giAccordion :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAccordion = element (unsafeCoerce _giAccordion)
+giAccordion :: Icon
+giAccordion = element _giAccordion
 
 foreign import _giAce :: ReactIcon
 
-giAce :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAce = element (unsafeCoerce _giAce)
+giAce :: Icon
+giAce = element _giAce
 
 foreign import _giAchievement :: ReactIcon
 
-giAchievement :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAchievement = element (unsafeCoerce _giAchievement)
+giAchievement :: Icon
+giAchievement = element _giAchievement
 
 foreign import _giAchillesHeel :: ReactIcon
 
-giAchillesHeel :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAchillesHeel = element (unsafeCoerce _giAchillesHeel)
+giAchillesHeel :: Icon
+giAchillesHeel = element _giAchillesHeel
 
 foreign import _giAcid :: ReactIcon
 
-giAcid :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAcid = element (unsafeCoerce _giAcid)
+giAcid :: Icon
+giAcid = element _giAcid
 
 foreign import _giAcidBlob :: ReactIcon
 
-giAcidBlob :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAcidBlob = element (unsafeCoerce _giAcidBlob)
+giAcidBlob :: Icon
+giAcidBlob = element _giAcidBlob
 
 foreign import _giAcidTube :: ReactIcon
 
-giAcidTube :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAcidTube = element (unsafeCoerce _giAcidTube)
+giAcidTube :: Icon
+giAcidTube = element _giAcidTube
 
 foreign import _giAcorn :: ReactIcon
 
-giAcorn :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAcorn = element (unsafeCoerce _giAcorn)
+giAcorn :: Icon
+giAcorn = element _giAcorn
 
 foreign import _giAcousticMegaphone :: ReactIcon
 
-giAcousticMegaphone :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAcousticMegaphone = element (unsafeCoerce _giAcousticMegaphone)
+giAcousticMegaphone :: Icon
+giAcousticMegaphone = element _giAcousticMegaphone
 
 foreign import _giAcrobatic :: ReactIcon
 
-giAcrobatic :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAcrobatic = element (unsafeCoerce _giAcrobatic)
+giAcrobatic :: Icon
+giAcrobatic = element _giAcrobatic
 
 foreign import _giAerialSignal :: ReactIcon
 
-giAerialSignal :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAerialSignal = element (unsafeCoerce _giAerialSignal)
+giAerialSignal :: Icon
+giAerialSignal = element _giAerialSignal
 
 foreign import _giAerodynamicHarpoon :: ReactIcon
 
-giAerodynamicHarpoon :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAerodynamicHarpoon = element (unsafeCoerce _giAerodynamicHarpoon)
+giAerodynamicHarpoon :: Icon
+giAerodynamicHarpoon = element _giAerodynamicHarpoon
 
 foreign import _giAerosol :: ReactIcon
 
-giAerosol :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAerosol = element (unsafeCoerce _giAerosol)
+giAerosol :: Icon
+giAerosol = element _giAerosol
 
 foreign import _giAfrica :: ReactIcon
 
-giAfrica :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAfrica = element (unsafeCoerce _giAfrica)
+giAfrica :: Icon
+giAfrica = element _giAfrica
 
 foreign import _giAfterburn :: ReactIcon
 
-giAfterburn :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAfterburn = element (unsafeCoerce _giAfterburn)
+giAfterburn :: Icon
+giAfterburn = element _giAfterburn
 
 foreign import _giAgave :: ReactIcon
 
-giAgave :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAgave = element (unsafeCoerce _giAgave)
+giAgave :: Icon
+giAgave = element _giAgave
 
 foreign import _giAges :: ReactIcon
 
-giAges :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAges = element (unsafeCoerce _giAges)
+giAges :: Icon
+giAges = element _giAges
 
 foreign import _giAirBalloon :: ReactIcon
 
-giAirBalloon :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAirBalloon = element (unsafeCoerce _giAirBalloon)
+giAirBalloon :: Icon
+giAirBalloon = element _giAirBalloon
 
 foreign import _giAirForce :: ReactIcon
 
-giAirForce :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAirForce = element (unsafeCoerce _giAirForce)
+giAirForce :: Icon
+giAirForce = element _giAirForce
 
 foreign import _giAirMan :: ReactIcon
 
-giAirMan :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAirMan = element (unsafeCoerce _giAirMan)
+giAirMan :: Icon
+giAirMan = element _giAirMan
 
 foreign import _giAirplane :: ReactIcon
 
-giAirplane :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAirplane = element (unsafeCoerce _giAirplane)
+giAirplane :: Icon
+giAirplane = element _giAirplane
 
 foreign import _giAirplaneArrival :: ReactIcon
 
-giAirplaneArrival :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAirplaneArrival = element (unsafeCoerce _giAirplaneArrival)
+giAirplaneArrival :: Icon
+giAirplaneArrival = element _giAirplaneArrival
 
 foreign import _giAirplaneDeparture :: ReactIcon
 
-giAirplaneDeparture :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAirplaneDeparture = element (unsafeCoerce _giAirplaneDeparture)
+giAirplaneDeparture :: Icon
+giAirplaneDeparture = element _giAirplaneDeparture
 
 foreign import _giAirtightHatch :: ReactIcon
 
-giAirtightHatch :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAirtightHatch = element (unsafeCoerce _giAirtightHatch)
+giAirtightHatch :: Icon
+giAirtightHatch = element _giAirtightHatch
 
 foreign import _giAirZigzag :: ReactIcon
 
-giAirZigzag :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAirZigzag = element (unsafeCoerce _giAirZigzag)
+giAirZigzag :: Icon
+giAirZigzag = element _giAirZigzag
 
 foreign import _giAkhet :: ReactIcon
 
-giAkhet :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAkhet = element (unsafeCoerce _giAkhet)
+giAkhet :: Icon
+giAkhet = element _giAkhet
 
 foreign import _giAlarmClock :: ReactIcon
 
-giAlarmClock :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAlarmClock = element (unsafeCoerce _giAlarmClock)
+giAlarmClock :: Icon
+giAlarmClock = element _giAlarmClock
 
 foreign import _giAlgae :: ReactIcon
 
-giAlgae :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAlgae = element (unsafeCoerce _giAlgae)
+giAlgae :: Icon
+giAlgae = element _giAlgae
 
 foreign import _giAlgeria :: ReactIcon
 
-giAlgeria :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAlgeria = element (unsafeCoerce _giAlgeria)
+giAlgeria :: Icon
+giAlgeria = element _giAlgeria
 
 foreign import _giAlienBug :: ReactIcon
 
-giAlienBug :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAlienBug = element (unsafeCoerce _giAlienBug)
+giAlienBug :: Icon
+giAlienBug = element _giAlienBug
 
 foreign import _giAlienEgg :: ReactIcon
 
-giAlienEgg :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAlienEgg = element (unsafeCoerce _giAlienEgg)
+giAlienEgg :: Icon
+giAlienEgg = element _giAlienEgg
 
 foreign import _giAlienFire :: ReactIcon
 
-giAlienFire :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAlienFire = element (unsafeCoerce _giAlienFire)
+giAlienFire :: Icon
+giAlienFire = element _giAlienFire
 
 foreign import _giAlienSkull :: ReactIcon
 
-giAlienSkull :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAlienSkull = element (unsafeCoerce _giAlienSkull)
+giAlienSkull :: Icon
+giAlienSkull = element _giAlienSkull
 
 foreign import _giAlienStare :: ReactIcon
 
-giAlienStare :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAlienStare = element (unsafeCoerce _giAlienStare)
+giAlienStare :: Icon
+giAlienStare = element _giAlienStare
 
 foreign import _giAllForOne :: ReactIcon
 
-giAllForOne :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAllForOne = element (unsafeCoerce _giAllForOne)
+giAllForOne :: Icon
+giAllForOne = element _giAllForOne
 
 foreign import _giAlliedStar :: ReactIcon
 
-giAlliedStar :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAlliedStar = element (unsafeCoerce _giAlliedStar)
+giAlliedStar :: Icon
+giAlliedStar = element _giAlliedStar
 
 foreign import _giAlligatorClip :: ReactIcon
 
-giAlligatorClip :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAlligatorClip = element (unsafeCoerce _giAlligatorClip)
+giAlligatorClip :: Icon
+giAlligatorClip = element _giAlligatorClip
 
 foreign import _giAllSeeingEye :: ReactIcon
 
-giAllSeeingEye :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAllSeeingEye = element (unsafeCoerce _giAllSeeingEye)
+giAllSeeingEye :: Icon
+giAllSeeingEye = element _giAllSeeingEye
 
 foreign import _giAlmond :: ReactIcon
 
-giAlmond :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAlmond = element (unsafeCoerce _giAlmond)
+giAlmond :: Icon
+giAlmond = element _giAlmond
 
 foreign import _giAmberMosquito :: ReactIcon
 
-giAmberMosquito :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAmberMosquito = element (unsafeCoerce _giAmberMosquito)
+giAmberMosquito :: Icon
+giAmberMosquito = element _giAmberMosquito
 
 foreign import _giAmbulance :: ReactIcon
 
-giAmbulance :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAmbulance = element (unsafeCoerce _giAmbulance)
+giAmbulance :: Icon
+giAmbulance = element _giAmbulance
 
 foreign import _giAmericanFootballBall :: ReactIcon
 
-giAmericanFootballBall :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAmericanFootballBall = element (unsafeCoerce _giAmericanFootballBall)
+giAmericanFootballBall :: Icon
+giAmericanFootballBall = element _giAmericanFootballBall
 
 foreign import _giAmericanFootballHelmet :: ReactIcon
 
-giAmericanFootballHelmet :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAmericanFootballHelmet = element (unsafeCoerce _giAmericanFootballHelmet)
+giAmericanFootballHelmet :: Icon
+giAmericanFootballHelmet = element _giAmericanFootballHelmet
 
 foreign import _giAmericanFootballPlayer :: ReactIcon
 
-giAmericanFootballPlayer :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAmericanFootballPlayer = element (unsafeCoerce _giAmericanFootballPlayer)
+giAmericanFootballPlayer :: Icon
+giAmericanFootballPlayer = element _giAmericanFootballPlayer
 
 foreign import _giAmericanShield :: ReactIcon
 
-giAmericanShield :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAmericanShield = element (unsafeCoerce _giAmericanShield)
+giAmericanShield :: Icon
+giAmericanShield = element _giAmericanShield
 
 foreign import _giAmethyst :: ReactIcon
 
-giAmethyst :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAmethyst = element (unsafeCoerce _giAmethyst)
+giAmethyst :: Icon
+giAmethyst = element _giAmethyst
 
 foreign import _giAmmoBox :: ReactIcon
 
-giAmmoBox :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAmmoBox = element (unsafeCoerce _giAmmoBox)
+giAmmoBox :: Icon
+giAmmoBox = element _giAmmoBox
 
 foreign import _giAmmonite :: ReactIcon
 
-giAmmonite :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAmmonite = element (unsafeCoerce _giAmmonite)
+giAmmonite :: Icon
+giAmmonite = element _giAmmonite
 
 foreign import _giAmmoniteFossil :: ReactIcon
 
-giAmmoniteFossil :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAmmoniteFossil = element (unsafeCoerce _giAmmoniteFossil)
+giAmmoniteFossil :: Icon
+giAmmoniteFossil = element _giAmmoniteFossil
 
 foreign import _giAmphora :: ReactIcon
 
-giAmphora :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAmphora = element (unsafeCoerce _giAmphora)
+giAmphora :: Icon
+giAmphora = element _giAmphora
 
 foreign import _giAmpleDress :: ReactIcon
 
-giAmpleDress :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAmpleDress = element (unsafeCoerce _giAmpleDress)
+giAmpleDress :: Icon
+giAmpleDress = element _giAmpleDress
 
 foreign import _giAmplitude :: ReactIcon
 
-giAmplitude :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAmplitude = element (unsafeCoerce _giAmplitude)
+giAmplitude :: Icon
+giAmplitude = element _giAmplitude
 
 foreign import _giAmputation :: ReactIcon
 
-giAmputation :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAmputation = element (unsafeCoerce _giAmputation)
+giAmputation :: Icon
+giAmputation = element _giAmputation
 
 foreign import _giAnarchy :: ReactIcon
 
-giAnarchy :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAnarchy = element (unsafeCoerce _giAnarchy)
+giAnarchy :: Icon
+giAnarchy = element _giAnarchy
 
 foreign import _giAnatomy :: ReactIcon
 
-giAnatomy :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAnatomy = element (unsafeCoerce _giAnatomy)
+giAnatomy :: Icon
+giAnatomy = element _giAnatomy
 
 foreign import _giAnchor :: ReactIcon
 
-giAnchor :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAnchor = element (unsafeCoerce _giAnchor)
+giAnchor :: Icon
+giAnchor = element _giAnchor
 
 foreign import _giAncientColumns :: ReactIcon
 
-giAncientColumns :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAncientColumns = element (unsafeCoerce _giAncientColumns)
+giAncientColumns :: Icon
+giAncientColumns = element _giAncientColumns
 
 foreign import _giAncientRuins :: ReactIcon
 
-giAncientRuins :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAncientRuins = element (unsafeCoerce _giAncientRuins)
+giAncientRuins :: Icon
+giAncientRuins = element _giAncientRuins
 
 foreign import _giAncientScrew :: ReactIcon
 
-giAncientScrew :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAncientScrew = element (unsafeCoerce _giAncientScrew)
+giAncientScrew :: Icon
+giAncientScrew = element _giAncientScrew
 
 foreign import _giAncientSword :: ReactIcon
 
-giAncientSword :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAncientSword = element (unsafeCoerce _giAncientSword)
+giAncientSword :: Icon
+giAncientSword = element _giAncientSword
 
 foreign import _giAndroidMask :: ReactIcon
 
-giAndroidMask :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAndroidMask = element (unsafeCoerce _giAndroidMask)
+giAndroidMask :: Icon
+giAndroidMask = element _giAndroidMask
 
 foreign import _giAndromedaChain :: ReactIcon
 
-giAndromedaChain :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAndromedaChain = element (unsafeCoerce _giAndromedaChain)
+giAndromedaChain :: Icon
+giAndromedaChain = element _giAndromedaChain
 
 foreign import _giAngelOutfit :: ReactIcon
 
-giAngelOutfit :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAngelOutfit = element (unsafeCoerce _giAngelOutfit)
+giAngelOutfit :: Icon
+giAngelOutfit = element _giAngelOutfit
 
 foreign import _giAngelWings :: ReactIcon
 
-giAngelWings :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAngelWings = element (unsafeCoerce _giAngelWings)
+giAngelWings :: Icon
+giAngelWings = element _giAngelWings
 
 foreign import _giAnglerFish :: ReactIcon
 
-giAnglerFish :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAnglerFish = element (unsafeCoerce _giAnglerFish)
+giAnglerFish :: Icon
+giAnglerFish = element _giAnglerFish
 
 foreign import _giAngola :: ReactIcon
 
-giAngola :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAngola = element (unsafeCoerce _giAngola)
+giAngola :: Icon
+giAngola = element _giAngola
 
 foreign import _giAngryEyes :: ReactIcon
 
-giAngryEyes :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAngryEyes = element (unsafeCoerce _giAngryEyes)
+giAngryEyes :: Icon
+giAngryEyes = element _giAngryEyes
 
 foreign import _giAngularSpider :: ReactIcon
 
-giAngularSpider :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAngularSpider = element (unsafeCoerce _giAngularSpider)
+giAngularSpider :: Icon
+giAngularSpider = element _giAngularSpider
 
 foreign import _giAnimalHide :: ReactIcon
 
-giAnimalHide :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAnimalHide = element (unsafeCoerce _giAnimalHide)
+giAnimalHide :: Icon
+giAnimalHide = element _giAnimalHide
 
 foreign import _giAnimalSkull :: ReactIcon
 
-giAnimalSkull :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAnimalSkull = element (unsafeCoerce _giAnimalSkull)
+giAnimalSkull :: Icon
+giAnimalSkull = element _giAnimalSkull
 
 foreign import _giAnkh :: ReactIcon
 
-giAnkh :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAnkh = element (unsafeCoerce _giAnkh)
+giAnkh :: Icon
+giAnkh = element _giAnkh
 
 foreign import _giAnnexation :: ReactIcon
 
-giAnnexation :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAnnexation = element (unsafeCoerce _giAnnexation)
+giAnnexation :: Icon
+giAnnexation = element _giAnnexation
 
 foreign import _giAnt :: ReactIcon
 
-giAnt :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAnt = element (unsafeCoerce _giAnt)
+giAnt :: Icon
+giAnt = element _giAnt
 
 foreign import _giAntarctica :: ReactIcon
 
-giAntarctica :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAntarctica = element (unsafeCoerce _giAntarctica)
+giAntarctica :: Icon
+giAntarctica = element _giAntarctica
 
 foreign import _giAnteater :: ReactIcon
 
-giAnteater :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAnteater = element (unsafeCoerce _giAnteater)
+giAnteater :: Icon
+giAnteater = element _giAnteater
 
 foreign import _giAnthem :: ReactIcon
 
-giAnthem :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAnthem = element (unsafeCoerce _giAnthem)
+giAnthem :: Icon
+giAnthem = element _giAnthem
 
 foreign import _giAntiAircraftGun :: ReactIcon
 
-giAntiAircraftGun :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAntiAircraftGun = element (unsafeCoerce _giAntiAircraftGun)
+giAntiAircraftGun :: Icon
+giAntiAircraftGun = element _giAntiAircraftGun
 
 foreign import _giAntibody :: ReactIcon
 
-giAntibody :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAntibody = element (unsafeCoerce _giAntibody)
+giAntibody :: Icon
+giAntibody = element _giAntibody
 
 foreign import _giAnticlockwiseRotation :: ReactIcon
 
-giAnticlockwiseRotation :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAnticlockwiseRotation = element (unsafeCoerce _giAnticlockwiseRotation)
+giAnticlockwiseRotation :: Icon
+giAnticlockwiseRotation = element _giAnticlockwiseRotation
 
 foreign import _giAnts :: ReactIcon
 
-giAnts :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAnts = element (unsafeCoerce _giAnts)
+giAnts :: Icon
+giAnts = element _giAnts
 
 foreign import _giAnubis :: ReactIcon
 
-giAnubis :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAnubis = element (unsafeCoerce _giAnubis)
+giAnubis :: Icon
+giAnubis = element _giAnubis
 
 foreign import _giAnvil :: ReactIcon
 
-giAnvil :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAnvil = element (unsafeCoerce _giAnvil)
+giAnvil :: Icon
+giAnvil = element _giAnvil
 
 foreign import _giAnvilImpact :: ReactIcon
 
-giAnvilImpact :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAnvilImpact = element (unsafeCoerce _giAnvilImpact)
+giAnvilImpact :: Icon
+giAnvilImpact = element _giAnvilImpact
 
 foreign import _giApc :: ReactIcon
 
-giApc :: forall a b. Union a b PropsIcon => Record a -> JSX
-giApc = element (unsafeCoerce _giApc)
+giApc :: Icon
+giApc = element _giApc
 
 foreign import _giApolloCapsule :: ReactIcon
 
-giApolloCapsule :: forall a b. Union a b PropsIcon => Record a -> JSX
-giApolloCapsule = element (unsafeCoerce _giApolloCapsule)
+giApolloCapsule :: Icon
+giApolloCapsule = element _giApolloCapsule
 
 foreign import _giApothecary :: ReactIcon
 
-giApothecary :: forall a b. Union a b PropsIcon => Record a -> JSX
-giApothecary = element (unsafeCoerce _giApothecary)
+giApothecary :: Icon
+giApothecary = element _giApothecary
 
 foreign import _giAppleCore :: ReactIcon
 
-giAppleCore :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAppleCore = element (unsafeCoerce _giAppleCore)
+giAppleCore :: Icon
+giAppleCore = element _giAppleCore
 
 foreign import _giAppleMaggot :: ReactIcon
 
-giAppleMaggot :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAppleMaggot = element (unsafeCoerce _giAppleMaggot)
+giAppleMaggot :: Icon
+giAppleMaggot = element _giAppleMaggot
 
 foreign import _giAppleSeeds :: ReactIcon
 
-giAppleSeeds :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAppleSeeds = element (unsafeCoerce _giAppleSeeds)
+giAppleSeeds :: Icon
+giAppleSeeds = element _giAppleSeeds
 
 foreign import _giAquarium :: ReactIcon
 
-giAquarium :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAquarium = element (unsafeCoerce _giAquarium)
+giAquarium :: Icon
+giAquarium = element _giAquarium
 
 foreign import _giAquarius :: ReactIcon
 
-giAquarius :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAquarius = element (unsafeCoerce _giAquarius)
+giAquarius :: Icon
+giAquarius = element _giAquarius
 
 foreign import _giAqueduct :: ReactIcon
 
-giAqueduct :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAqueduct = element (unsafeCoerce _giAqueduct)
+giAqueduct :: Icon
+giAqueduct = element _giAqueduct
 
 foreign import _giArabicDoor :: ReactIcon
 
-giArabicDoor :: forall a b. Union a b PropsIcon => Record a -> JSX
-giArabicDoor = element (unsafeCoerce _giArabicDoor)
+giArabicDoor :: Icon
+giArabicDoor = element _giArabicDoor
 
 foreign import _giArchaeopteryxFossil :: ReactIcon
 
-giArchaeopteryxFossil :: forall a b. Union a b PropsIcon => Record a -> JSX
-giArchaeopteryxFossil = element (unsafeCoerce _giArchaeopteryxFossil)
+giArchaeopteryxFossil :: Icon
+giArchaeopteryxFossil = element _giArchaeopteryxFossil
 
 foreign import _giArchBridge :: ReactIcon
 
-giArchBridge :: forall a b. Union a b PropsIcon => Record a -> JSX
-giArchBridge = element (unsafeCoerce _giArchBridge)
+giArchBridge :: Icon
+giArchBridge = element _giArchBridge
 
 foreign import _giArcher :: ReactIcon
 
-giArcher :: forall a b. Union a b PropsIcon => Record a -> JSX
-giArcher = element (unsafeCoerce _giArcher)
+giArcher :: Icon
+giArcher = element _giArcher
 
 foreign import _giArcheryTarget :: ReactIcon
 
-giArcheryTarget :: forall a b. Union a b PropsIcon => Record a -> JSX
-giArcheryTarget = element (unsafeCoerce _giArcheryTarget)
+giArcheryTarget :: Icon
+giArcheryTarget = element _giArcheryTarget
 
 foreign import _giArchitectMask :: ReactIcon
 
-giArchitectMask :: forall a b. Union a b PropsIcon => Record a -> JSX
-giArchitectMask = element (unsafeCoerce _giArchitectMask)
+giArchitectMask :: Icon
+giArchitectMask = element _giArchitectMask
 
 foreign import _giArchiveRegister :: ReactIcon
 
-giArchiveRegister :: forall a b. Union a b PropsIcon => Record a -> JSX
-giArchiveRegister = element (unsafeCoerce _giArchiveRegister)
+giArchiveRegister :: Icon
+giArchiveRegister = element _giArchiveRegister
 
 foreign import _giArchiveResearch :: ReactIcon
 
-giArchiveResearch :: forall a b. Union a b PropsIcon => Record a -> JSX
-giArchiveResearch = element (unsafeCoerce _giArchiveResearch)
+giArchiveResearch :: Icon
+giArchiveResearch = element _giArchiveResearch
 
 foreign import _giArcingBolt :: ReactIcon
 
-giArcingBolt :: forall a b. Union a b PropsIcon => Record a -> JSX
-giArcingBolt = element (unsafeCoerce _giArcingBolt)
+giArcingBolt :: Icon
+giArcingBolt = element _giArcingBolt
 
 foreign import _giArcTriomphe :: ReactIcon
 
-giArcTriomphe :: forall a b. Union a b PropsIcon => Record a -> JSX
-giArcTriomphe = element (unsafeCoerce _giArcTriomphe)
+giArcTriomphe :: Icon
+giArcTriomphe = element _giArcTriomphe
 
 foreign import _giArena :: ReactIcon
 
-giArena :: forall a b. Union a b PropsIcon => Record a -> JSX
-giArena = element (unsafeCoerce _giArena)
+giArena :: Icon
+giArena = element _giArena
 
 foreign import _giAries :: ReactIcon
 
-giAries :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAries = element (unsafeCoerce _giAries)
+giAries :: Icon
+giAries = element _giAries
 
 foreign import _giArm :: ReactIcon
 
-giArm :: forall a b. Union a b PropsIcon => Record a -> JSX
-giArm = element (unsafeCoerce _giArm)
+giArm :: Icon
+giArm = element _giArm
 
 foreign import _giArmadillo :: ReactIcon
 
-giArmadillo :: forall a b. Union a b PropsIcon => Record a -> JSX
-giArmadillo = element (unsafeCoerce _giArmadillo)
+giArmadillo :: Icon
+giArmadillo = element _giArmadillo
 
 foreign import _giArmadilloTail :: ReactIcon
 
-giArmadilloTail :: forall a b. Union a b PropsIcon => Record a -> JSX
-giArmadilloTail = element (unsafeCoerce _giArmadilloTail)
+giArmadilloTail :: Icon
+giArmadilloTail = element _giArmadilloTail
 
 foreign import _giArmBandage :: ReactIcon
 
-giArmBandage :: forall a b. Union a b PropsIcon => Record a -> JSX
-giArmBandage = element (unsafeCoerce _giArmBandage)
+giArmBandage :: Icon
+giArmBandage = element _giArmBandage
 
 foreign import _giArmorDowngrade :: ReactIcon
 
-giArmorDowngrade :: forall a b. Union a b PropsIcon => Record a -> JSX
-giArmorDowngrade = element (unsafeCoerce _giArmorDowngrade)
+giArmorDowngrade :: Icon
+giArmorDowngrade = element _giArmorDowngrade
 
 foreign import _giArmoredBoomerang :: ReactIcon
 
-giArmoredBoomerang :: forall a b. Union a b PropsIcon => Record a -> JSX
-giArmoredBoomerang = element (unsafeCoerce _giArmoredBoomerang)
+giArmoredBoomerang :: Icon
+giArmoredBoomerang = element _giArmoredBoomerang
 
 foreign import _giArmoredPants :: ReactIcon
 
-giArmoredPants :: forall a b. Union a b PropsIcon => Record a -> JSX
-giArmoredPants = element (unsafeCoerce _giArmoredPants)
+giArmoredPants :: Icon
+giArmoredPants = element _giArmoredPants
 
 foreign import _giArmorPunch :: ReactIcon
 
-giArmorPunch :: forall a b. Union a b PropsIcon => Record a -> JSX
-giArmorPunch = element (unsafeCoerce _giArmorPunch)
+giArmorPunch :: Icon
+giArmorPunch = element _giArmorPunch
 
 foreign import _giArmorUpgrade :: ReactIcon
 
-giArmorUpgrade :: forall a b. Union a b PropsIcon => Record a -> JSX
-giArmorUpgrade = element (unsafeCoerce _giArmorUpgrade)
+giArmorUpgrade :: Icon
+giArmorUpgrade = element _giArmorUpgrade
 
 foreign import _giArmorVest :: ReactIcon
 
-giArmorVest :: forall a b. Union a b PropsIcon => Record a -> JSX
-giArmorVest = element (unsafeCoerce _giArmorVest)
+giArmorVest :: Icon
+giArmorVest = element _giArmorVest
 
 foreign import _giArmouredShell :: ReactIcon
 
-giArmouredShell :: forall a b. Union a b PropsIcon => Record a -> JSX
-giArmouredShell = element (unsafeCoerce _giArmouredShell)
+giArmouredShell :: Icon
+giArmouredShell = element _giArmouredShell
 
 foreign import _giArmSling :: ReactIcon
 
-giArmSling :: forall a b. Union a b PropsIcon => Record a -> JSX
-giArmSling = element (unsafeCoerce _giArmSling)
+giArmSling :: Icon
+giArmSling = element _giArmSling
 
 foreign import _giArrest :: ReactIcon
 
-giArrest :: forall a b. Union a b PropsIcon => Record a -> JSX
-giArrest = element (unsafeCoerce _giArrest)
+giArrest :: Icon
+giArrest = element _giArrest
 
 foreign import _giArrowCluster :: ReactIcon
 
-giArrowCluster :: forall a b. Union a b PropsIcon => Record a -> JSX
-giArrowCluster = element (unsafeCoerce _giArrowCluster)
+giArrowCluster :: Icon
+giArrowCluster = element _giArrowCluster
 
 foreign import _giArrowCursor :: ReactIcon
 
-giArrowCursor :: forall a b. Union a b PropsIcon => Record a -> JSX
-giArrowCursor = element (unsafeCoerce _giArrowCursor)
+giArrowCursor :: Icon
+giArrowCursor = element _giArrowCursor
 
 foreign import _giArrowDunk :: ReactIcon
 
-giArrowDunk :: forall a b. Union a b PropsIcon => Record a -> JSX
-giArrowDunk = element (unsafeCoerce _giArrowDunk)
+giArrowDunk :: Icon
+giArrowDunk = element _giArrowDunk
 
 foreign import _giArrowed :: ReactIcon
 
-giArrowed :: forall a b. Union a b PropsIcon => Record a -> JSX
-giArrowed = element (unsafeCoerce _giArrowed)
+giArrowed :: Icon
+giArrowed = element _giArrowed
 
 foreign import _giArrowFlights :: ReactIcon
 
-giArrowFlights :: forall a b. Union a b PropsIcon => Record a -> JSX
-giArrowFlights = element (unsafeCoerce _giArrowFlights)
+giArrowFlights :: Icon
+giArrowFlights = element _giArrowFlights
 
 foreign import _giArrowhead :: ReactIcon
 
-giArrowhead :: forall a b. Union a b PropsIcon => Record a -> JSX
-giArrowhead = element (unsafeCoerce _giArrowhead)
+giArrowhead :: Icon
+giArrowhead = element _giArrowhead
 
 foreign import _giArrowScope :: ReactIcon
 
-giArrowScope :: forall a b. Union a b PropsIcon => Record a -> JSX
-giArrowScope = element (unsafeCoerce _giArrowScope)
+giArrowScope :: Icon
+giArrowScope = element _giArrowScope
 
 foreign import _giArrowsShield :: ReactIcon
 
-giArrowsShield :: forall a b. Union a b PropsIcon => Record a -> JSX
-giArrowsShield = element (unsafeCoerce _giArrowsShield)
+giArrowsShield :: Icon
+giArrowsShield = element _giArrowsShield
 
 foreign import _giArrowWings :: ReactIcon
 
-giArrowWings :: forall a b. Union a b PropsIcon => Record a -> JSX
-giArrowWings = element (unsafeCoerce _giArrowWings)
+giArrowWings :: Icon
+giArrowWings = element _giArrowWings
 
 foreign import _giArson :: ReactIcon
 
-giArson :: forall a b. Union a b PropsIcon => Record a -> JSX
-giArson = element (unsafeCoerce _giArson)
+giArson :: Icon
+giArson = element _giArson
 
 foreign import _giArtificialHive :: ReactIcon
 
-giArtificialHive :: forall a b. Union a b PropsIcon => Record a -> JSX
-giArtificialHive = element (unsafeCoerce _giArtificialHive)
+giArtificialHive :: Icon
+giArtificialHive = element _giArtificialHive
 
 foreign import _giArtificialIntelligence :: ReactIcon
 
-giArtificialIntelligence :: forall a b. Union a b PropsIcon => Record a -> JSX
-giArtificialIntelligence = element (unsafeCoerce _giArtificialIntelligence)
+giArtificialIntelligence :: Icon
+giArtificialIntelligence = element _giArtificialIntelligence
 
 foreign import _giArtilleryShell :: ReactIcon
 
-giArtilleryShell :: forall a b. Union a b PropsIcon => Record a -> JSX
-giArtilleryShell = element (unsafeCoerce _giArtilleryShell)
+giArtilleryShell :: Icon
+giArtilleryShell = element _giArtilleryShell
 
 foreign import _giAscendingBlock :: ReactIcon
 
-giAscendingBlock :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAscendingBlock = element (unsafeCoerce _giAscendingBlock)
+giAscendingBlock :: Icon
+giAscendingBlock = element _giAscendingBlock
 
 foreign import _giAsianLantern :: ReactIcon
 
-giAsianLantern :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAsianLantern = element (unsafeCoerce _giAsianLantern)
+giAsianLantern :: Icon
+giAsianLantern = element _giAsianLantern
 
 foreign import _giAsparagus :: ReactIcon
 
-giAsparagus :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAsparagus = element (unsafeCoerce _giAsparagus)
+giAsparagus :: Icon
+giAsparagus = element _giAsparagus
 
 foreign import _giAspergillum :: ReactIcon
 
-giAspergillum :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAspergillum = element (unsafeCoerce _giAspergillum)
+giAspergillum :: Icon
+giAspergillum = element _giAspergillum
 
 foreign import _giAssassinPocket :: ReactIcon
 
-giAssassinPocket :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAssassinPocket = element (unsafeCoerce _giAssassinPocket)
+giAssassinPocket :: Icon
+giAssassinPocket = element _giAssassinPocket
 
 foreign import _giAsteroid :: ReactIcon
 
-giAsteroid :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAsteroid = element (unsafeCoerce _giAsteroid)
+giAsteroid :: Icon
+giAsteroid = element _giAsteroid
 
 foreign import _giAstrolabe :: ReactIcon
 
-giAstrolabe :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAstrolabe = element (unsafeCoerce _giAstrolabe)
+giAstrolabe :: Icon
+giAstrolabe = element _giAstrolabe
 
 foreign import _giAstronautHelmet :: ReactIcon
 
-giAstronautHelmet :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAstronautHelmet = element (unsafeCoerce _giAstronautHelmet)
+giAstronautHelmet :: Icon
+giAstronautHelmet = element _giAstronautHelmet
 
 foreign import _giAtlas :: ReactIcon
 
-giAtlas :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAtlas = element (unsafeCoerce _giAtlas)
+giAtlas :: Icon
+giAtlas = element _giAtlas
 
 foreign import _giAtom :: ReactIcon
 
-giAtom :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAtom = element (unsafeCoerce _giAtom)
+giAtom :: Icon
+giAtom = element _giAtom
 
 foreign import _giAtomCore :: ReactIcon
 
-giAtomCore :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAtomCore = element (unsafeCoerce _giAtomCore)
+giAtomCore :: Icon
+giAtomCore = element _giAtomCore
 
 foreign import _giAtomicSlashes :: ReactIcon
 
-giAtomicSlashes :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAtomicSlashes = element (unsafeCoerce _giAtomicSlashes)
+giAtomicSlashes :: Icon
+giAtomicSlashes = element _giAtomicSlashes
 
 foreign import _giAtSea :: ReactIcon
 
-giAtSea :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAtSea = element (unsafeCoerce _giAtSea)
+giAtSea :: Icon
+giAtSea = element _giAtSea
 
 foreign import _giAttachedShield :: ReactIcon
 
-giAttachedShield :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAttachedShield = element (unsafeCoerce _giAttachedShield)
+giAttachedShield :: Icon
+giAttachedShield = element _giAttachedShield
 
 foreign import _giAubergine :: ReactIcon
 
-giAubergine :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAubergine = element (unsafeCoerce _giAubergine)
+giAubergine :: Icon
+giAubergine = element _giAubergine
 
 foreign import _giAudioCassette :: ReactIcon
 
-giAudioCassette :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAudioCassette = element (unsafeCoerce _giAudioCassette)
+giAudioCassette :: Icon
+giAudioCassette = element _giAudioCassette
 
 foreign import _giAura :: ReactIcon
 
-giAura :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAura = element (unsafeCoerce _giAura)
+giAura :: Icon
+giAura = element _giAura
 
 foreign import _giAustralia :: ReactIcon
 
-giAustralia :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAustralia = element (unsafeCoerce _giAustralia)
+giAustralia :: Icon
+giAustralia = element _giAustralia
 
 foreign import _giAutogun :: ReactIcon
 
-giAutogun :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAutogun = element (unsafeCoerce _giAutogun)
+giAutogun :: Icon
+giAutogun = element _giAutogun
 
 foreign import _giAutomaticSas :: ReactIcon
 
-giAutomaticSas :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAutomaticSas = element (unsafeCoerce _giAutomaticSas)
+giAutomaticSas :: Icon
+giAutomaticSas = element _giAutomaticSas
 
 foreign import _giAutoRepair :: ReactIcon
 
-giAutoRepair :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAutoRepair = element (unsafeCoerce _giAutoRepair)
+giAutoRepair :: Icon
+giAutoRepair = element _giAutoRepair
 
 foreign import _giAvocado :: ReactIcon
 
-giAvocado :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAvocado = element (unsafeCoerce _giAvocado)
+giAvocado :: Icon
+giAvocado = element _giAvocado
 
 foreign import _giAvoidance :: ReactIcon
 
-giAvoidance :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAvoidance = element (unsafeCoerce _giAvoidance)
+giAvoidance :: Icon
+giAvoidance = element _giAvoidance
 
 foreign import _giAwareness :: ReactIcon
 
-giAwareness :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAwareness = element (unsafeCoerce _giAwareness)
+giAwareness :: Icon
+giAwareness = element _giAwareness
 
 foreign import _giAxeInLog :: ReactIcon
 
-giAxeInLog :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAxeInLog = element (unsafeCoerce _giAxeInLog)
+giAxeInLog :: Icon
+giAxeInLog = element _giAxeInLog
 
 foreign import _giAxeInStump :: ReactIcon
 
-giAxeInStump :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAxeInStump = element (unsafeCoerce _giAxeInStump)
+giAxeInStump :: Icon
+giAxeInStump = element _giAxeInStump
 
 foreign import _giAxeSwing :: ReactIcon
 
-giAxeSwing :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAxeSwing = element (unsafeCoerce _giAxeSwing)
+giAxeSwing :: Icon
+giAxeSwing = element _giAxeSwing
 
 foreign import _giAxeSword :: ReactIcon
 
-giAxeSword :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAxeSword = element (unsafeCoerce _giAxeSword)
+giAxeSword :: Icon
+giAxeSword = element _giAxeSword
 
 foreign import _giAxolotl :: ReactIcon
 
-giAxolotl :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAxolotl = element (unsafeCoerce _giAxolotl)
+giAxolotl :: Icon
+giAxolotl = element _giAxolotl
 
 foreign import _giAztecCalendarSun :: ReactIcon
 
-giAztecCalendarSun :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAztecCalendarSun = element (unsafeCoerce _giAztecCalendarSun)
+giAztecCalendarSun :: Icon
+giAztecCalendarSun = element _giAztecCalendarSun
 
 foreign import _giAzulFlake :: ReactIcon
 
-giAzulFlake :: forall a b. Union a b PropsIcon => Record a -> JSX
-giAzulFlake = element (unsafeCoerce _giAzulFlake)
+giAzulFlake :: Icon
+giAzulFlake = element _giAzulFlake
 
 foreign import _giBabyBottle :: ReactIcon
 
-giBabyBottle :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBabyBottle = element (unsafeCoerce _giBabyBottle)
+giBabyBottle :: Icon
+giBabyBottle = element _giBabyBottle
 
 foreign import _giBabyFace :: ReactIcon
 
-giBabyFace :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBabyFace = element (unsafeCoerce _giBabyFace)
+giBabyFace :: Icon
+giBabyFace = element _giBabyFace
 
 foreign import _giBabyfootPlayers :: ReactIcon
 
-giBabyfootPlayers :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBabyfootPlayers = element (unsafeCoerce _giBabyfootPlayers)
+giBabyfootPlayers :: Icon
+giBabyfootPlayers = element _giBabyfootPlayers
 
 foreign import _giBackboneShell :: ReactIcon
 
-giBackboneShell :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBackboneShell = element (unsafeCoerce _giBackboneShell)
+giBackboneShell :: Icon
+giBackboneShell = element _giBackboneShell
 
 foreign import _giBackForth :: ReactIcon
 
-giBackForth :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBackForth = element (unsafeCoerce _giBackForth)
+giBackForth :: Icon
+giBackForth = element _giBackForth
 
 foreign import _giBackgammon :: ReactIcon
 
-giBackgammon :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBackgammon = element (unsafeCoerce _giBackgammon)
+giBackgammon :: Icon
+giBackgammon = element _giBackgammon
 
 foreign import _giBackpack :: ReactIcon
 
-giBackpack :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBackpack = element (unsafeCoerce _giBackpack)
+giBackpack :: Icon
+giBackpack = element _giBackpack
 
 foreign import _giBackPain :: ReactIcon
 
-giBackPain :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBackPain = element (unsafeCoerce _giBackPain)
+giBackPain :: Icon
+giBackPain = element _giBackPain
 
 foreign import _giBackstab :: ReactIcon
 
-giBackstab :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBackstab = element (unsafeCoerce _giBackstab)
+giBackstab :: Icon
+giBackstab = element _giBackstab
 
 foreign import _giBackup :: ReactIcon
 
-giBackup :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBackup = element (unsafeCoerce _giBackup)
+giBackup :: Icon
+giBackup = element _giBackup
 
 foreign import _giBackwardTime :: ReactIcon
 
-giBackwardTime :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBackwardTime = element (unsafeCoerce _giBackwardTime)
+giBackwardTime :: Icon
+giBackwardTime = element _giBackwardTime
 
 foreign import _giBacon :: ReactIcon
 
-giBacon :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBacon = element (unsafeCoerce _giBacon)
+giBacon :: Icon
+giBacon = element _giBacon
 
 foreign import _giBadBreath :: ReactIcon
 
-giBadBreath :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBadBreath = element (unsafeCoerce _giBadBreath)
+giBadBreath :: Icon
+giBadBreath = element _giBadBreath
 
 foreign import _giBadGnome :: ReactIcon
 
-giBadGnome :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBadGnome = element (unsafeCoerce _giBadGnome)
+giBadGnome :: Icon
+giBadGnome = element _giBadGnome
 
 foreign import _giBagpipes :: ReactIcon
 
-giBagpipes :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBagpipes = element (unsafeCoerce _giBagpipes)
+giBagpipes :: Icon
+giBagpipes = element _giBagpipes
 
 foreign import _giBalaclava :: ReactIcon
 
-giBalaclava :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBalaclava = element (unsafeCoerce _giBalaclava)
+giBalaclava :: Icon
+giBalaclava = element _giBalaclava
 
 foreign import _giBalkenkreuz :: ReactIcon
 
-giBalkenkreuz :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBalkenkreuz = element (unsafeCoerce _giBalkenkreuz)
+giBalkenkreuz :: Icon
+giBalkenkreuz = element _giBalkenkreuz
 
 foreign import _giBallerinaShoes :: ReactIcon
 
-giBallerinaShoes :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBallerinaShoes = element (unsafeCoerce _giBallerinaShoes)
+giBallerinaShoes :: Icon
+giBallerinaShoes = element _giBallerinaShoes
 
 foreign import _giBallGlow :: ReactIcon
 
-giBallGlow :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBallGlow = element (unsafeCoerce _giBallGlow)
+giBallGlow :: Icon
+giBallGlow = element _giBallGlow
 
 foreign import _giBallHeart :: ReactIcon
 
-giBallHeart :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBallHeart = element (unsafeCoerce _giBallHeart)
+giBallHeart :: Icon
+giBallHeart = element _giBallHeart
 
 foreign import _giBallista :: ReactIcon
 
-giBallista :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBallista = element (unsafeCoerce _giBallista)
+giBallista :: Icon
+giBallista = element _giBallista
 
 foreign import _giBalloonDog :: ReactIcon
 
-giBalloonDog :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBalloonDog = element (unsafeCoerce _giBalloonDog)
+giBalloonDog :: Icon
+giBalloonDog = element _giBalloonDog
 
 foreign import _giBalloons :: ReactIcon
 
-giBalloons :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBalloons = element (unsafeCoerce _giBalloons)
+giBalloons :: Icon
+giBalloons = element _giBalloons
 
 foreign import _giBallPyramid :: ReactIcon
 
-giBallPyramid :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBallPyramid = element (unsafeCoerce _giBallPyramid)
+giBallPyramid :: Icon
+giBallPyramid = element _giBallPyramid
 
 foreign import _giBamboo :: ReactIcon
 
-giBamboo :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBamboo = element (unsafeCoerce _giBamboo)
+giBamboo :: Icon
+giBamboo = element _giBamboo
 
 foreign import _giBambooFountain :: ReactIcon
 
-giBambooFountain :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBambooFountain = element (unsafeCoerce _giBambooFountain)
+giBambooFountain :: Icon
+giBambooFountain = element _giBambooFountain
 
 foreign import _giBanana :: ReactIcon
 
-giBanana :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBanana = element (unsafeCoerce _giBanana)
+giBanana :: Icon
+giBanana = element _giBanana
 
 foreign import _giBananaBunch :: ReactIcon
 
-giBananaBunch :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBananaBunch = element (unsafeCoerce _giBananaBunch)
+giBananaBunch :: Icon
+giBananaBunch = element _giBananaBunch
 
 foreign import _giBananaPeel :: ReactIcon
 
-giBananaPeel :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBananaPeel = element (unsafeCoerce _giBananaPeel)
+giBananaPeel :: Icon
+giBananaPeel = element _giBananaPeel
 
 foreign import _giBananaPeeled :: ReactIcon
 
-giBananaPeeled :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBananaPeeled = element (unsafeCoerce _giBananaPeeled)
+giBananaPeeled :: Icon
+giBananaPeeled = element _giBananaPeeled
 
 foreign import _giBandaged :: ReactIcon
 
-giBandaged :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBandaged = element (unsafeCoerce _giBandaged)
+giBandaged :: Icon
+giBandaged = element _giBandaged
 
 foreign import _giBandageRoll :: ReactIcon
 
-giBandageRoll :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBandageRoll = element (unsafeCoerce _giBandageRoll)
+giBandageRoll :: Icon
+giBandageRoll = element _giBandageRoll
 
 foreign import _giBandana :: ReactIcon
 
-giBandana :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBandana = element (unsafeCoerce _giBandana)
+giBandana :: Icon
+giBandana = element _giBandana
 
 foreign import _giBandit :: ReactIcon
 
-giBandit :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBandit = element (unsafeCoerce _giBandit)
+giBandit :: Icon
+giBandit = element _giBandit
 
 foreign import _giBangingGavel :: ReactIcon
 
-giBangingGavel :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBangingGavel = element (unsafeCoerce _giBangingGavel)
+giBangingGavel :: Icon
+giBangingGavel = element _giBangingGavel
 
 foreign import _giBanjo :: ReactIcon
 
-giBanjo :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBanjo = element (unsafeCoerce _giBanjo)
+giBanjo :: Icon
+giBanjo = element _giBanjo
 
 foreign import _giBank :: ReactIcon
 
-giBank :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBank = element (unsafeCoerce _giBank)
+giBank :: Icon
+giBank = element _giBank
 
 foreign import _giBanknote :: ReactIcon
 
-giBanknote :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBanknote = element (unsafeCoerce _giBanknote)
+giBanknote :: Icon
+giBanknote = element _giBanknote
 
 foreign import _giBaobab :: ReactIcon
 
-giBaobab :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBaobab = element (unsafeCoerce _giBaobab)
+giBaobab :: Icon
+giBaobab = element _giBaobab
 
 foreign import _giBarbarian :: ReactIcon
 
-giBarbarian :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBarbarian = element (unsafeCoerce _giBarbarian)
+giBarbarian :: Icon
+giBarbarian = element _giBarbarian
 
 foreign import _giBarbecue :: ReactIcon
 
-giBarbecue :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBarbecue = element (unsafeCoerce _giBarbecue)
+giBarbecue :: Icon
+giBarbecue = element _giBarbecue
 
 foreign import _giBarbedArrow :: ReactIcon
 
-giBarbedArrow :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBarbedArrow = element (unsafeCoerce _giBarbedArrow)
+giBarbedArrow :: Icon
+giBarbedArrow = element _giBarbedArrow
 
 foreign import _giBarbedCoil :: ReactIcon
 
-giBarbedCoil :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBarbedCoil = element (unsafeCoerce _giBarbedCoil)
+giBarbedCoil :: Icon
+giBarbedCoil = element _giBarbedCoil
 
 foreign import _giBarbedNails :: ReactIcon
 
-giBarbedNails :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBarbedNails = element (unsafeCoerce _giBarbedNails)
+giBarbedNails :: Icon
+giBarbedNails = element _giBarbedNails
 
 foreign import _giBarbedSpear :: ReactIcon
 
-giBarbedSpear :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBarbedSpear = element (unsafeCoerce _giBarbedSpear)
+giBarbedSpear :: Icon
+giBarbedSpear = element _giBarbedSpear
 
 foreign import _giBarbedStar :: ReactIcon
 
-giBarbedStar :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBarbedStar = element (unsafeCoerce _giBarbedStar)
+giBarbedStar :: Icon
+giBarbedStar = element _giBarbedStar
 
 foreign import _giBarbedSun :: ReactIcon
 
-giBarbedSun :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBarbedSun = element (unsafeCoerce _giBarbedSun)
+giBarbedSun :: Icon
+giBarbedSun = element _giBarbedSun
 
 foreign import _giBarbedWire :: ReactIcon
 
-giBarbedWire :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBarbedWire = element (unsafeCoerce _giBarbedWire)
+giBarbedWire :: Icon
+giBarbedWire = element _giBarbedWire
 
 foreign import _giBarbute :: ReactIcon
 
-giBarbute :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBarbute = element (unsafeCoerce _giBarbute)
+giBarbute :: Icon
+giBarbute = element _giBarbute
 
 foreign import _giBarefoot :: ReactIcon
 
-giBarefoot :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBarefoot = element (unsafeCoerce _giBarefoot)
+giBarefoot :: Icon
+giBarefoot = element _giBarefoot
 
 foreign import _giBarn :: ReactIcon
 
-giBarn :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBarn = element (unsafeCoerce _giBarn)
+giBarn :: Icon
+giBarn = element _giBarn
 
 foreign import _giBarracks :: ReactIcon
 
-giBarracks :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBarracks = element (unsafeCoerce _giBarracks)
+giBarracks :: Icon
+giBarracks = element _giBarracks
 
 foreign import _giBarracksTent :: ReactIcon
 
-giBarracksTent :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBarracksTent = element (unsafeCoerce _giBarracksTent)
+giBarracksTent :: Icon
+giBarracksTent = element _giBarracksTent
 
 foreign import _giBarrel :: ReactIcon
 
-giBarrel :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBarrel = element (unsafeCoerce _giBarrel)
+giBarrel :: Icon
+giBarrel = element _giBarrel
 
 foreign import _giBarrelLeak :: ReactIcon
 
-giBarrelLeak :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBarrelLeak = element (unsafeCoerce _giBarrelLeak)
+giBarrelLeak :: Icon
+giBarrelLeak = element _giBarrelLeak
 
 foreign import _giBarricade :: ReactIcon
 
-giBarricade :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBarricade = element (unsafeCoerce _giBarricade)
+giBarricade :: Icon
+giBarricade = element _giBarricade
 
 foreign import _giBarrier :: ReactIcon
 
-giBarrier :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBarrier = element (unsafeCoerce _giBarrier)
+giBarrier :: Icon
+giBarrier = element _giBarrier
 
 foreign import _giBarStool :: ReactIcon
 
-giBarStool :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBarStool = element (unsafeCoerce _giBarStool)
+giBarStool :: Icon
+giBarStool = element _giBarStool
 
 foreign import _giBaseballBat :: ReactIcon
 
-giBaseballBat :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBaseballBat = element (unsafeCoerce _giBaseballBat)
+giBaseballBat :: Icon
+giBaseballBat = element _giBaseballBat
 
 foreign import _giBaseballGlove :: ReactIcon
 
-giBaseballGlove :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBaseballGlove = element (unsafeCoerce _giBaseballGlove)
+giBaseballGlove :: Icon
+giBaseballGlove = element _giBaseballGlove
 
 foreign import _giBaseDome :: ReactIcon
 
-giBaseDome :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBaseDome = element (unsafeCoerce _giBaseDome)
+giBaseDome :: Icon
+giBaseDome = element _giBaseDome
 
 foreign import _giBasket :: ReactIcon
 
-giBasket :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBasket = element (unsafeCoerce _giBasket)
+giBasket :: Icon
+giBasket = element _giBasket
 
 foreign import _giBasketballBall :: ReactIcon
 
-giBasketballBall :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBasketballBall = element (unsafeCoerce _giBasketballBall)
+giBasketballBall :: Icon
+giBasketballBall = element _giBasketballBall
 
 foreign import _giBasketballBasket :: ReactIcon
 
-giBasketballBasket :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBasketballBasket = element (unsafeCoerce _giBasketballBasket)
+giBasketballBasket :: Icon
+giBasketballBasket = element _giBasketballBasket
 
 foreign import _giBasketballJersey :: ReactIcon
 
-giBasketballJersey :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBasketballJersey = element (unsafeCoerce _giBasketballJersey)
+giBasketballJersey :: Icon
+giBasketballJersey = element _giBasketballJersey
 
 foreign import _giBassetHoundHead :: ReactIcon
 
-giBassetHoundHead :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBassetHoundHead = element (unsafeCoerce _giBassetHoundHead)
+giBassetHoundHead :: Icon
+giBassetHoundHead = element _giBassetHoundHead
 
 foreign import _giBassoon :: ReactIcon
 
-giBassoon :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBassoon = element (unsafeCoerce _giBassoon)
+giBassoon :: Icon
+giBassoon = element _giBassoon
 
 foreign import _giBastet :: ReactIcon
 
-giBastet :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBastet = element (unsafeCoerce _giBastet)
+giBastet :: Icon
+giBastet = element _giBastet
 
 foreign import _giBat :: ReactIcon
 
-giBat :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBat = element (unsafeCoerce _giBat)
+giBat :: Icon
+giBat = element _giBat
 
 foreign import _giBatBlade :: ReactIcon
 
-giBatBlade :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBatBlade = element (unsafeCoerce _giBatBlade)
+giBatBlade :: Icon
+giBatBlade = element _giBatBlade
 
 foreign import _giBathtub :: ReactIcon
 
-giBathtub :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBathtub = element (unsafeCoerce _giBathtub)
+giBathtub :: Icon
+giBathtub = element _giBathtub
 
 foreign import _giBatLeth :: ReactIcon
 
-giBatLeth :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBatLeth = element (unsafeCoerce _giBatLeth)
+giBatLeth :: Icon
+giBatLeth = element _giBatLeth
 
 foreign import _giBatMask :: ReactIcon
 
-giBatMask :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBatMask = element (unsafeCoerce _giBatMask)
+giBatMask :: Icon
+giBatMask = element _giBatMask
 
 foreign import _giBaton :: ReactIcon
 
-giBaton :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBaton = element (unsafeCoerce _giBaton)
+giBaton :: Icon
+giBaton = element _giBaton
 
 foreign import _giBatteredAxe :: ReactIcon
 
-giBatteredAxe :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBatteredAxe = element (unsafeCoerce _giBatteredAxe)
+giBatteredAxe :: Icon
+giBatteredAxe = element _giBatteredAxe
 
 foreign import _giBatteries :: ReactIcon
 
-giBatteries :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBatteries = element (unsafeCoerce _giBatteries)
+giBatteries :: Icon
+giBatteries = element _giBatteries
 
 foreign import _giBatteryMinus :: ReactIcon
 
-giBatteryMinus :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBatteryMinus = element (unsafeCoerce _giBatteryMinus)
+giBatteryMinus :: Icon
+giBatteryMinus = element _giBatteryMinus
 
 foreign import _giBatteryPack :: ReactIcon
 
-giBatteryPack :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBatteryPack = element (unsafeCoerce _giBatteryPack)
+giBatteryPack :: Icon
+giBatteryPack = element _giBatteryPack
 
 foreign import _giBatteryPackAlt :: ReactIcon
 
-giBatteryPackAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBatteryPackAlt = element (unsafeCoerce _giBatteryPackAlt)
+giBatteryPackAlt :: Icon
+giBatteryPackAlt = element _giBatteryPackAlt
 
 foreign import _giBatteryPlus :: ReactIcon
 
-giBatteryPlus :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBatteryPlus = element (unsafeCoerce _giBatteryPlus)
+giBatteryPlus :: Icon
+giBatteryPlus = element _giBatteryPlus
 
 foreign import _giBattleAxe :: ReactIcon
 
-giBattleAxe :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBattleAxe = element (unsafeCoerce _giBattleAxe)
+giBattleAxe :: Icon
+giBattleAxe = element _giBattleAxe
 
 foreign import _giBattleGear :: ReactIcon
 
-giBattleGear :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBattleGear = element (unsafeCoerce _giBattleGear)
+giBattleGear :: Icon
+giBattleGear = element _giBattleGear
 
 foreign import _giBattleMech :: ReactIcon
 
-giBattleMech :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBattleMech = element (unsafeCoerce _giBattleMech)
+giBattleMech :: Icon
+giBattleMech = element _giBattleMech
 
 foreign import _giBattleship :: ReactIcon
 
-giBattleship :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBattleship = element (unsafeCoerce _giBattleship)
+giBattleship :: Icon
+giBattleship = element _giBattleship
 
 foreign import _giBattleTank :: ReactIcon
 
-giBattleTank :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBattleTank = element (unsafeCoerce _giBattleTank)
+giBattleTank :: Icon
+giBattleTank = element _giBattleTank
 
 foreign import _giBatWing :: ReactIcon
 
-giBatWing :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBatWing = element (unsafeCoerce _giBatWing)
+giBatWing :: Icon
+giBatWing = element _giBatWing
 
 foreign import _giBatwingEmblem :: ReactIcon
 
-giBatwingEmblem :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBatwingEmblem = element (unsafeCoerce _giBatwingEmblem)
+giBatwingEmblem :: Icon
+giBatwingEmblem = element _giBatwingEmblem
 
 foreign import _giBayonet :: ReactIcon
 
-giBayonet :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBayonet = element (unsafeCoerce _giBayonet)
+giBayonet :: Icon
+giBayonet = element _giBayonet
 
 foreign import _giBeachBag :: ReactIcon
 
-giBeachBag :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBeachBag = element (unsafeCoerce _giBeachBag)
+giBeachBag :: Icon
+giBeachBag = element _giBeachBag
 
 foreign import _giBeachBall :: ReactIcon
 
-giBeachBall :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBeachBall = element (unsafeCoerce _giBeachBall)
+giBeachBall :: Icon
+giBeachBall = element _giBeachBall
 
 foreign import _giBeachBucket :: ReactIcon
 
-giBeachBucket :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBeachBucket = element (unsafeCoerce _giBeachBucket)
+giBeachBucket :: Icon
+giBeachBucket = element _giBeachBucket
 
 foreign import _giBeamSatellite :: ReactIcon
 
-giBeamSatellite :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBeamSatellite = element (unsafeCoerce _giBeamSatellite)
+giBeamSatellite :: Icon
+giBeamSatellite = element _giBeamSatellite
 
 foreign import _giBeamsAura :: ReactIcon
 
-giBeamsAura :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBeamsAura = element (unsafeCoerce _giBeamsAura)
+giBeamsAura :: Icon
+giBeamsAura = element _giBeamsAura
 
 foreign import _giBeamWake :: ReactIcon
 
-giBeamWake :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBeamWake = element (unsafeCoerce _giBeamWake)
+giBeamWake :: Icon
+giBeamWake = element _giBeamWake
 
 foreign import _giBeanstalk :: ReactIcon
 
-giBeanstalk :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBeanstalk = element (unsafeCoerce _giBeanstalk)
+giBeanstalk :: Icon
+giBeanstalk = element _giBeanstalk
 
 foreign import _giBeard :: ReactIcon
 
-giBeard :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBeard = element (unsafeCoerce _giBeard)
+giBeard :: Icon
+giBeard = element _giBeard
 
 foreign import _giBearFace :: ReactIcon
 
-giBearFace :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBearFace = element (unsafeCoerce _giBearFace)
+giBearFace :: Icon
+giBearFace = element _giBearFace
 
 foreign import _giBearHead :: ReactIcon
 
-giBearHead :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBearHead = element (unsafeCoerce _giBearHead)
+giBearHead :: Icon
+giBearHead = element _giBearHead
 
 foreign import _giBeastEye :: ReactIcon
 
-giBeastEye :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBeastEye = element (unsafeCoerce _giBeastEye)
+giBeastEye :: Icon
+giBeastEye = element _giBeastEye
 
 foreign import _giBeaver :: ReactIcon
 
-giBeaver :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBeaver = element (unsafeCoerce _giBeaver)
+giBeaver :: Icon
+giBeaver = element _giBeaver
 
 foreign import _giBed :: ReactIcon
 
-giBed :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBed = element (unsafeCoerce _giBed)
+giBed :: Icon
+giBed = element _giBed
 
 foreign import _giBedLamp :: ReactIcon
 
-giBedLamp :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBedLamp = element (unsafeCoerce _giBedLamp)
+giBedLamp :: Icon
+giBedLamp = element _giBedLamp
 
 foreign import _giBee :: ReactIcon
 
-giBee :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBee = element (unsafeCoerce _giBee)
+giBee :: Icon
+giBee = element _giBee
 
 foreign import _giBeech :: ReactIcon
 
-giBeech :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBeech = element (unsafeCoerce _giBeech)
+giBeech :: Icon
+giBeech = element _giBeech
 
 foreign import _giBeehive :: ReactIcon
 
-giBeehive :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBeehive = element (unsafeCoerce _giBeehive)
+giBeehive :: Icon
+giBeehive = element _giBeehive
 
 foreign import _giBeerBottle :: ReactIcon
 
-giBeerBottle :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBeerBottle = element (unsafeCoerce _giBeerBottle)
+giBeerBottle :: Icon
+giBeerBottle = element _giBeerBottle
 
 foreign import _giBeerHorn :: ReactIcon
 
-giBeerHorn :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBeerHorn = element (unsafeCoerce _giBeerHorn)
+giBeerHorn :: Icon
+giBeerHorn = element _giBeerHorn
 
 foreign import _giBeerStein :: ReactIcon
 
-giBeerStein :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBeerStein = element (unsafeCoerce _giBeerStein)
+giBeerStein :: Icon
+giBeerStein = element _giBeerStein
 
 foreign import _giBeet :: ReactIcon
 
-giBeet :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBeet = element (unsafeCoerce _giBeet)
+giBeet :: Icon
+giBeet = element _giBeet
 
 foreign import _giBeetleShell :: ReactIcon
 
-giBeetleShell :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBeetleShell = element (unsafeCoerce _giBeetleShell)
+giBeetleShell :: Icon
+giBeetleShell = element _giBeetleShell
 
 foreign import _giBehold :: ReactIcon
 
-giBehold :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBehold = element (unsafeCoerce _giBehold)
+giBehold :: Icon
+giBehold = element _giBehold
 
 foreign import _giBelgium :: ReactIcon
 
-giBelgium :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBelgium = element (unsafeCoerce _giBelgium)
+giBelgium :: Icon
+giBelgium = element _giBelgium
 
 foreign import _giBellows :: ReactIcon
 
-giBellows :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBellows = element (unsafeCoerce _giBellows)
+giBellows :: Icon
+giBellows = element _giBellows
 
 foreign import _giBellPepper :: ReactIcon
 
-giBellPepper :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBellPepper = element (unsafeCoerce _giBellPepper)
+giBellPepper :: Icon
+giBellPepper = element _giBellPepper
 
 foreign import _giBellShield :: ReactIcon
 
-giBellShield :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBellShield = element (unsafeCoerce _giBellShield)
+giBellShield :: Icon
+giBellShield = element _giBellShield
 
 foreign import _giBelt :: ReactIcon
 
-giBelt :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBelt = element (unsafeCoerce _giBelt)
+giBelt :: Icon
+giBelt = element _giBelt
 
 foreign import _giBeltArmor :: ReactIcon
 
-giBeltArmor :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBeltArmor = element (unsafeCoerce _giBeltArmor)
+giBeltArmor :: Icon
+giBeltArmor = element _giBeltArmor
 
 foreign import _giBeltBuckles :: ReactIcon
 
-giBeltBuckles :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBeltBuckles = element (unsafeCoerce _giBeltBuckles)
+giBeltBuckles :: Icon
+giBeltBuckles = element _giBeltBuckles
 
 foreign import _giBerriesBowl :: ReactIcon
 
-giBerriesBowl :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBerriesBowl = element (unsafeCoerce _giBerriesBowl)
+giBerriesBowl :: Icon
+giBerriesBowl = element _giBerriesBowl
 
 foreign import _giBerryBush :: ReactIcon
 
-giBerryBush :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBerryBush = element (unsafeCoerce _giBerryBush)
+giBerryBush :: Icon
+giBerryBush = element _giBerryBush
 
 foreign import _giBestialFangs :: ReactIcon
 
-giBestialFangs :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBestialFangs = element (unsafeCoerce _giBestialFangs)
+giBestialFangs :: Icon
+giBestialFangs = element _giBestialFangs
 
 foreign import _giBeveledStar :: ReactIcon
 
-giBeveledStar :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBeveledStar = element (unsafeCoerce _giBeveledStar)
+giBeveledStar :: Icon
+giBeveledStar = element _giBeveledStar
 
 foreign import _giBiceps :: ReactIcon
 
-giBiceps :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBiceps = element (unsafeCoerce _giBiceps)
+giBiceps :: Icon
+giBiceps = element _giBiceps
 
 foreign import _giBigDiamondRing :: ReactIcon
 
-giBigDiamondRing :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBigDiamondRing = element (unsafeCoerce _giBigDiamondRing)
+giBigDiamondRing :: Icon
+giBigDiamondRing = element _giBigDiamondRing
 
 foreign import _giBigEgg :: ReactIcon
 
-giBigEgg :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBigEgg = element (unsafeCoerce _giBigEgg)
+giBigEgg :: Icon
+giBigEgg = element _giBigEgg
 
 foreign import _giBigGear :: ReactIcon
 
-giBigGear :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBigGear = element (unsafeCoerce _giBigGear)
+giBigGear :: Icon
+giBigGear = element _giBigGear
 
 foreign import _giBigWave :: ReactIcon
 
-giBigWave :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBigWave = element (unsafeCoerce _giBigWave)
+giBigWave :: Icon
+giBigWave = element _giBigWave
 
 foreign import _giBilledCap :: ReactIcon
 
-giBilledCap :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBilledCap = element (unsafeCoerce _giBilledCap)
+giBilledCap :: Icon
+giBilledCap = element _giBilledCap
 
 foreign import _giBindle :: ReactIcon
 
-giBindle :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBindle = element (unsafeCoerce _giBindle)
+giBindle :: Icon
+giBindle = element _giBindle
 
 foreign import _giBinoculars :: ReactIcon
 
-giBinoculars :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBinoculars = element (unsafeCoerce _giBinoculars)
+giBinoculars :: Icon
+giBinoculars = element _giBinoculars
 
 foreign import _giBiohazard :: ReactIcon
 
-giBiohazard :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBiohazard = element (unsafeCoerce _giBiohazard)
+giBiohazard :: Icon
+giBiohazard = element _giBiohazard
 
 foreign import _giBiplane :: ReactIcon
 
-giBiplane :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBiplane = element (unsafeCoerce _giBiplane)
+giBiplane :: Icon
+giBiplane = element _giBiplane
 
 foreign import _giBirchTrees :: ReactIcon
 
-giBirchTrees :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBirchTrees = element (unsafeCoerce _giBirchTrees)
+giBirchTrees :: Icon
+giBirchTrees = element _giBirchTrees
 
 foreign import _giBirdCage :: ReactIcon
 
-giBirdCage :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBirdCage = element (unsafeCoerce _giBirdCage)
+giBirdCage :: Icon
+giBirdCage = element _giBirdCage
 
 foreign import _giBirdClaw :: ReactIcon
 
-giBirdClaw :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBirdClaw = element (unsafeCoerce _giBirdClaw)
+giBirdClaw :: Icon
+giBirdClaw = element _giBirdClaw
 
 foreign import _giBirdHouse :: ReactIcon
 
-giBirdHouse :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBirdHouse = element (unsafeCoerce _giBirdHouse)
+giBirdHouse :: Icon
+giBirdHouse = element _giBirdHouse
 
 foreign import _giBirdLimb :: ReactIcon
 
-giBirdLimb :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBirdLimb = element (unsafeCoerce _giBirdLimb)
+giBirdLimb :: Icon
+giBirdLimb = element _giBirdLimb
 
 foreign import _giBirdMask :: ReactIcon
 
-giBirdMask :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBirdMask = element (unsafeCoerce _giBirdMask)
+giBirdMask :: Icon
+giBirdMask = element _giBirdMask
 
 foreign import _giBirdTwitter :: ReactIcon
 
-giBirdTwitter :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBirdTwitter = element (unsafeCoerce _giBirdTwitter)
+giBirdTwitter :: Icon
+giBirdTwitter = element _giBirdTwitter
 
 foreign import _giBison :: ReactIcon
 
-giBison :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBison = element (unsafeCoerce _giBison)
+giBison :: Icon
+giBison = element _giBison
 
 foreign import _giBlackball :: ReactIcon
 
-giBlackball :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBlackball = element (unsafeCoerce _giBlackball)
+giBlackball :: Icon
+giBlackball = element _giBlackball
 
 foreign import _giBlackBar :: ReactIcon
 
-giBlackBar :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBlackBar = element (unsafeCoerce _giBlackBar)
+giBlackBar :: Icon
+giBlackBar = element _giBlackBar
 
 foreign import _giBlackBelt :: ReactIcon
 
-giBlackBelt :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBlackBelt = element (unsafeCoerce _giBlackBelt)
+giBlackBelt :: Icon
+giBlackBelt = element _giBlackBelt
 
 foreign import _giBlackBook :: ReactIcon
 
-giBlackBook :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBlackBook = element (unsafeCoerce _giBlackBook)
+giBlackBook :: Icon
+giBlackBook = element _giBlackBook
 
 foreign import _giBlackBridge :: ReactIcon
 
-giBlackBridge :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBlackBridge = element (unsafeCoerce _giBlackBridge)
+giBlackBridge :: Icon
+giBlackBridge = element _giBlackBridge
 
 foreign import _giBlackcurrant :: ReactIcon
 
-giBlackcurrant :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBlackcurrant = element (unsafeCoerce _giBlackcurrant)
+giBlackcurrant :: Icon
+giBlackcurrant = element _giBlackcurrant
 
 foreign import _giBlackFlag :: ReactIcon
 
-giBlackFlag :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBlackFlag = element (unsafeCoerce _giBlackFlag)
+giBlackFlag :: Icon
+giBlackFlag = element _giBlackFlag
 
 foreign import _giBlackHandShield :: ReactIcon
 
-giBlackHandShield :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBlackHandShield = element (unsafeCoerce _giBlackHandShield)
+giBlackHandShield :: Icon
+giBlackHandShield = element _giBlackHandShield
 
 foreign import _giBlackHoleBolas :: ReactIcon
 
-giBlackHoleBolas :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBlackHoleBolas = element (unsafeCoerce _giBlackHoleBolas)
+giBlackHoleBolas :: Icon
+giBlackHoleBolas = element _giBlackHoleBolas
 
 foreign import _giBlackKnightHelm :: ReactIcon
 
-giBlackKnightHelm :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBlackKnightHelm = element (unsafeCoerce _giBlackKnightHelm)
+giBlackKnightHelm :: Icon
+giBlackKnightHelm = element _giBlackKnightHelm
 
 foreign import _giBlackSea :: ReactIcon
 
-giBlackSea :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBlackSea = element (unsafeCoerce _giBlackSea)
+giBlackSea :: Icon
+giBlackSea = element _giBlackSea
 
 foreign import _giBlacksmith :: ReactIcon
 
-giBlacksmith :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBlacksmith = element (unsafeCoerce _giBlacksmith)
+giBlacksmith :: Icon
+giBlacksmith = element _giBlacksmith
 
 foreign import _giBladeBite :: ReactIcon
 
-giBladeBite :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBladeBite = element (unsafeCoerce _giBladeBite)
+giBladeBite :: Icon
+giBladeBite = element _giBladeBite
 
 foreign import _giBladeDrag :: ReactIcon
 
-giBladeDrag :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBladeDrag = element (unsafeCoerce _giBladeDrag)
+giBladeDrag :: Icon
+giBladeDrag = element _giBladeDrag
 
 foreign import _giBladeFall :: ReactIcon
 
-giBladeFall :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBladeFall = element (unsafeCoerce _giBladeFall)
+giBladeFall :: Icon
+giBladeFall = element _giBladeFall
 
 foreign import _giBlast :: ReactIcon
 
-giBlast :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBlast = element (unsafeCoerce _giBlast)
+giBlast :: Icon
+giBlast = element _giBlast
 
 foreign import _giBlaster :: ReactIcon
 
-giBlaster :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBlaster = element (unsafeCoerce _giBlaster)
+giBlaster :: Icon
+giBlaster = element _giBlaster
 
 foreign import _giBleedingEye :: ReactIcon
 
-giBleedingEye :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBleedingEye = element (unsafeCoerce _giBleedingEye)
+giBleedingEye :: Icon
+giBleedingEye = element _giBleedingEye
 
 foreign import _giBleedingHeart :: ReactIcon
 
-giBleedingHeart :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBleedingHeart = element (unsafeCoerce _giBleedingHeart)
+giBleedingHeart :: Icon
+giBleedingHeart = element _giBleedingHeart
 
 foreign import _giBleedingWound :: ReactIcon
 
-giBleedingWound :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBleedingWound = element (unsafeCoerce _giBleedingWound)
+giBleedingWound :: Icon
+giBleedingWound = element _giBleedingWound
 
 foreign import _giBlender :: ReactIcon
 
-giBlender :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBlender = element (unsafeCoerce _giBlender)
+giBlender :: Icon
+giBlender = element _giBlender
 
 foreign import _giBlindfold :: ReactIcon
 
-giBlindfold :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBlindfold = element (unsafeCoerce _giBlindfold)
+giBlindfold :: Icon
+giBlindfold = element _giBlindfold
 
 foreign import _giBlockHouse :: ReactIcon
 
-giBlockHouse :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBlockHouse = element (unsafeCoerce _giBlockHouse)
+giBlockHouse :: Icon
+giBlockHouse = element _giBlockHouse
 
 foreign import _giBlood :: ReactIcon
 
-giBlood :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBlood = element (unsafeCoerce _giBlood)
+giBlood :: Icon
+giBlood = element _giBlood
 
 foreign import _giBloodyStash :: ReactIcon
 
-giBloodyStash :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBloodyStash = element (unsafeCoerce _giBloodyStash)
+giBloodyStash :: Icon
+giBloodyStash = element _giBloodyStash
 
 foreign import _giBloodySword :: ReactIcon
 
-giBloodySword :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBloodySword = element (unsafeCoerce _giBloodySword)
+giBloodySword :: Icon
+giBloodySword = element _giBloodySword
 
 foreign import _giBlunderbuss :: ReactIcon
 
-giBlunderbuss :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBlunderbuss = element (unsafeCoerce _giBlunderbuss)
+giBlunderbuss :: Icon
+giBlunderbuss = element _giBlunderbuss
 
 foreign import _giBo :: ReactIcon
 
-giBo :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBo = element (unsafeCoerce _giBo)
+giBo :: Icon
+giBo = element _giBo
 
 foreign import _giBoar :: ReactIcon
 
-giBoar :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBoar = element (unsafeCoerce _giBoar)
+giBoar :: Icon
+giBoar = element _giBoar
 
 foreign import _giBoarEnsign :: ReactIcon
 
-giBoarEnsign :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBoarEnsign = element (unsafeCoerce _giBoarEnsign)
+giBoarEnsign :: Icon
+giBoarEnsign = element _giBoarEnsign
 
 foreign import _giBoarTusks :: ReactIcon
 
-giBoarTusks :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBoarTusks = element (unsafeCoerce _giBoarTusks)
+giBoarTusks :: Icon
+giBoarTusks = element _giBoarTusks
 
 foreign import _giBoatEngine :: ReactIcon
 
-giBoatEngine :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBoatEngine = element (unsafeCoerce _giBoatEngine)
+giBoatEngine :: Icon
+giBoatEngine = element _giBoatEngine
 
 foreign import _giBoatFishing :: ReactIcon
 
-giBoatFishing :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBoatFishing = element (unsafeCoerce _giBoatFishing)
+giBoatFishing :: Icon
+giBoatFishing = element _giBoatFishing
 
 foreign import _giBoatHorizon :: ReactIcon
 
-giBoatHorizon :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBoatHorizon = element (unsafeCoerce _giBoatHorizon)
+giBoatHorizon :: Icon
+giBoatHorizon = element _giBoatHorizon
 
 foreign import _giBoatPropeller :: ReactIcon
 
-giBoatPropeller :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBoatPropeller = element (unsafeCoerce _giBoatPropeller)
+giBoatPropeller :: Icon
+giBoatPropeller = element _giBoatPropeller
 
 foreign import _giBoba :: ReactIcon
 
-giBoba :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBoba = element (unsafeCoerce _giBoba)
+giBoba :: Icon
+giBoba = element _giBoba
 
 foreign import _giBodyBalance :: ReactIcon
 
-giBodyBalance :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBodyBalance = element (unsafeCoerce _giBodyBalance)
+giBodyBalance :: Icon
+giBodyBalance = element _giBodyBalance
 
 foreign import _giBodyHeight :: ReactIcon
 
-giBodyHeight :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBodyHeight = element (unsafeCoerce _giBodyHeight)
+giBodyHeight :: Icon
+giBodyHeight = element _giBodyHeight
 
 foreign import _giBodySwapping :: ReactIcon
 
-giBodySwapping :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBodySwapping = element (unsafeCoerce _giBodySwapping)
+giBodySwapping :: Icon
+giBodySwapping = element _giBodySwapping
 
 foreign import _giBoilingBubbles :: ReactIcon
 
-giBoilingBubbles :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBoilingBubbles = element (unsafeCoerce _giBoilingBubbles)
+giBoilingBubbles :: Icon
+giBoilingBubbles = element _giBoilingBubbles
 
 foreign import _giBokChoy :: ReactIcon
 
-giBokChoy :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBokChoy = element (unsafeCoerce _giBokChoy)
+giBokChoy :: Icon
+giBokChoy = element _giBokChoy
 
 foreign import _giBolas :: ReactIcon
 
-giBolas :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBolas = element (unsafeCoerce _giBolas)
+giBolas :: Icon
+giBolas = element _giBolas
 
 foreign import _giBolivia :: ReactIcon
 
-giBolivia :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBolivia = element (unsafeCoerce _giBolivia)
+giBolivia :: Icon
+giBolivia = element _giBolivia
 
 foreign import _giBoltBomb :: ReactIcon
 
-giBoltBomb :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBoltBomb = element (unsafeCoerce _giBoltBomb)
+giBoltBomb :: Icon
+giBoltBomb = element _giBoltBomb
 
 foreign import _giBoltCutter :: ReactIcon
 
-giBoltCutter :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBoltCutter = element (unsafeCoerce _giBoltCutter)
+giBoltCutter :: Icon
+giBoltCutter = element _giBoltCutter
 
 foreign import _giBoltDrop :: ReactIcon
 
-giBoltDrop :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBoltDrop = element (unsafeCoerce _giBoltDrop)
+giBoltDrop :: Icon
+giBoltDrop = element _giBoltDrop
 
 foreign import _giBolterGun :: ReactIcon
 
-giBolterGun :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBolterGun = element (unsafeCoerce _giBolterGun)
+giBolterGun :: Icon
+giBolterGun = element _giBolterGun
 
 foreign import _giBoltEye :: ReactIcon
 
-giBoltEye :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBoltEye = element (unsafeCoerce _giBoltEye)
+giBoltEye :: Icon
+giBoltEye = element _giBoltEye
 
 foreign import _giBoltSaw :: ReactIcon
 
-giBoltSaw :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBoltSaw = element (unsafeCoerce _giBoltSaw)
+giBoltSaw :: Icon
+giBoltSaw = element _giBoltSaw
 
 foreign import _giBoltShield :: ReactIcon
 
-giBoltShield :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBoltShield = element (unsafeCoerce _giBoltShield)
+giBoltShield :: Icon
+giBoltShield = element _giBoltShield
 
 foreign import _giBoltSpellCast :: ReactIcon
 
-giBoltSpellCast :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBoltSpellCast = element (unsafeCoerce _giBoltSpellCast)
+giBoltSpellCast :: Icon
+giBoltSpellCast = element _giBoltSpellCast
 
 foreign import _giBomber :: ReactIcon
 
-giBomber :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBomber = element (unsafeCoerce _giBomber)
+giBomber :: Icon
+giBomber = element _giBomber
 
 foreign import _giBombingRun :: ReactIcon
 
-giBombingRun :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBombingRun = element (unsafeCoerce _giBombingRun)
+giBombingRun :: Icon
+giBombingRun = element _giBombingRun
 
 foreign import _giBoneGnawer :: ReactIcon
 
-giBoneGnawer :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBoneGnawer = element (unsafeCoerce _giBoneGnawer)
+giBoneGnawer :: Icon
+giBoneGnawer = element _giBoneGnawer
 
 foreign import _giBoneKnife :: ReactIcon
 
-giBoneKnife :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBoneKnife = element (unsafeCoerce _giBoneKnife)
+giBoneKnife :: Icon
+giBoneKnife = element _giBoneKnife
 
 foreign import _giBoneMace :: ReactIcon
 
-giBoneMace :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBoneMace = element (unsafeCoerce _giBoneMace)
+giBoneMace :: Icon
+giBoneMace = element _giBoneMace
 
 foreign import _giBonsaiTree :: ReactIcon
 
-giBonsaiTree :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBonsaiTree = element (unsafeCoerce _giBonsaiTree)
+giBonsaiTree :: Icon
+giBonsaiTree = element _giBonsaiTree
 
 foreign import _giBookAura :: ReactIcon
 
-giBookAura :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBookAura = element (unsafeCoerce _giBookAura)
+giBookAura :: Icon
+giBookAura = element _giBookAura
 
 foreign import _giBookCover :: ReactIcon
 
-giBookCover :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBookCover = element (unsafeCoerce _giBookCover)
+giBookCover :: Icon
+giBookCover = element _giBookCover
 
 foreign import _giBookmark :: ReactIcon
 
-giBookmark :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBookmark = element (unsafeCoerce _giBookmark)
+giBookmark :: Icon
+giBookmark = element _giBookmark
 
 foreign import _giBookmarklet :: ReactIcon
 
-giBookmarklet :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBookmarklet = element (unsafeCoerce _giBookmarklet)
+giBookmarklet :: Icon
+giBookmarklet = element _giBookmarklet
 
 foreign import _giBookPile :: ReactIcon
 
-giBookPile :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBookPile = element (unsafeCoerce _giBookPile)
+giBookPile :: Icon
+giBookPile = element _giBookPile
 
 foreign import _giBookshelf :: ReactIcon
 
-giBookshelf :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBookshelf = element (unsafeCoerce _giBookshelf)
+giBookshelf :: Icon
+giBookshelf = element _giBookshelf
 
 foreign import _giBookStorm :: ReactIcon
 
-giBookStorm :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBookStorm = element (unsafeCoerce _giBookStorm)
+giBookStorm :: Icon
+giBookStorm = element _giBookStorm
 
 foreign import _giBoombox :: ReactIcon
 
-giBoombox :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBoombox = element (unsafeCoerce _giBoombox)
+giBoombox :: Icon
+giBoombox = element _giBoombox
 
 foreign import _giBoomerang :: ReactIcon
 
-giBoomerang :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBoomerang = element (unsafeCoerce _giBoomerang)
+giBoomerang :: Icon
+giBoomerang = element _giBoomerang
 
 foreign import _giBoomerangCross :: ReactIcon
 
-giBoomerangCross :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBoomerangCross = element (unsafeCoerce _giBoomerangCross)
+giBoomerangCross :: Icon
+giBoomerangCross = element _giBoomerangCross
 
 foreign import _giBoomerangSun :: ReactIcon
 
-giBoomerangSun :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBoomerangSun = element (unsafeCoerce _giBoomerangSun)
+giBoomerangSun :: Icon
+giBoomerangSun = element _giBoomerangSun
 
 foreign import _giBootKick :: ReactIcon
 
-giBootKick :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBootKick = element (unsafeCoerce _giBootKick)
+giBootKick :: Icon
+giBootKick = element _giBootKick
 
 foreign import _giBootPrints :: ReactIcon
 
-giBootPrints :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBootPrints = element (unsafeCoerce _giBootPrints)
+giBootPrints :: Icon
+giBootPrints = element _giBootPrints
 
 foreign import _giBoots :: ReactIcon
 
-giBoots :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBoots = element (unsafeCoerce _giBoots)
+giBoots :: Icon
+giBoots = element _giBoots
 
 foreign import _giBootStomp :: ReactIcon
 
-giBootStomp :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBootStomp = element (unsafeCoerce _giBootStomp)
+giBootStomp :: Icon
+giBootStomp = element _giBootStomp
 
 foreign import _giBooze :: ReactIcon
 
-giBooze :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBooze = element (unsafeCoerce _giBooze)
+giBooze :: Icon
+giBooze = element _giBooze
 
 foreign import _giBorderedShield :: ReactIcon
 
-giBorderedShield :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBorderedShield = element (unsafeCoerce _giBorderedShield)
+giBorderedShield :: Icon
+giBorderedShield = element _giBorderedShield
 
 foreign import _giBossKey :: ReactIcon
 
-giBossKey :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBossKey = element (unsafeCoerce _giBossKey)
+giBossKey :: Icon
+giBossKey = element _giBossKey
 
 foreign import _giBottleCap :: ReactIcon
 
-giBottleCap :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBottleCap = element (unsafeCoerce _giBottleCap)
+giBottleCap :: Icon
+giBottleCap = element _giBottleCap
 
 foreign import _giBottledBolt :: ReactIcon
 
-giBottledBolt :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBottledBolt = element (unsafeCoerce _giBottledBolt)
+giBottledBolt :: Icon
+giBottledBolt = element _giBottledBolt
 
 foreign import _giBottledShadow :: ReactIcon
 
-giBottledShadow :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBottledShadow = element (unsafeCoerce _giBottledShadow)
+giBottledShadow :: Icon
+giBottledShadow = element _giBottledShadow
 
 foreign import _giBottleVapors :: ReactIcon
 
-giBottleVapors :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBottleVapors = element (unsafeCoerce _giBottleVapors)
+giBottleVapors :: Icon
+giBottleVapors = element _giBottleVapors
 
 foreign import _giBoulderDash :: ReactIcon
 
-giBoulderDash :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBoulderDash = element (unsafeCoerce _giBoulderDash)
+giBoulderDash :: Icon
+giBoulderDash = element _giBoulderDash
 
 foreign import _giBouncingSpring :: ReactIcon
 
-giBouncingSpring :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBouncingSpring = element (unsafeCoerce _giBouncingSpring)
+giBouncingSpring :: Icon
+giBouncingSpring = element _giBouncingSpring
 
 foreign import _giBouncingSword :: ReactIcon
 
-giBouncingSword :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBouncingSword = element (unsafeCoerce _giBouncingSword)
+giBouncingSword :: Icon
+giBouncingSword = element _giBouncingSword
 
 foreign import _giBowArrow :: ReactIcon
 
-giBowArrow :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBowArrow = element (unsafeCoerce _giBowArrow)
+giBowArrow :: Icon
+giBowArrow = element _giBowArrow
 
 foreign import _giBowels :: ReactIcon
 
-giBowels :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBowels = element (unsafeCoerce _giBowels)
+giBowels :: Icon
+giBowels = element _giBowels
 
 foreign import _giBowenKnot :: ReactIcon
 
-giBowenKnot :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBowenKnot = element (unsafeCoerce _giBowenKnot)
+giBowenKnot :: Icon
+giBowenKnot = element _giBowenKnot
 
 foreign import _giBowieKnife :: ReactIcon
 
-giBowieKnife :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBowieKnife = element (unsafeCoerce _giBowieKnife)
+giBowieKnife :: Icon
+giBowieKnife = element _giBowieKnife
 
 foreign import _giBowlingAlley :: ReactIcon
 
-giBowlingAlley :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBowlingAlley = element (unsafeCoerce _giBowlingAlley)
+giBowlingAlley :: Icon
+giBowlingAlley = element _giBowlingAlley
 
 foreign import _giBowlingPin :: ReactIcon
 
-giBowlingPin :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBowlingPin = element (unsafeCoerce _giBowlingPin)
+giBowlingPin :: Icon
+giBowlingPin = element _giBowlingPin
 
 foreign import _giBowlingPropulsion :: ReactIcon
 
-giBowlingPropulsion :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBowlingPropulsion = element (unsafeCoerce _giBowlingPropulsion)
+giBowlingPropulsion :: Icon
+giBowlingPropulsion = element _giBowlingPropulsion
 
 foreign import _giBowlingStrike :: ReactIcon
 
-giBowlingStrike :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBowlingStrike = element (unsafeCoerce _giBowlingStrike)
+giBowlingStrike :: Icon
+giBowlingStrike = element _giBowlingStrike
 
 foreign import _giBowlOfRice :: ReactIcon
 
-giBowlOfRice :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBowlOfRice = element (unsafeCoerce _giBowlOfRice)
+giBowlOfRice :: Icon
+giBowlOfRice = element _giBowlOfRice
 
 foreign import _giBowlSpiral :: ReactIcon
 
-giBowlSpiral :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBowlSpiral = element (unsafeCoerce _giBowlSpiral)
+giBowlSpiral :: Icon
+giBowlSpiral = element _giBowlSpiral
 
 foreign import _giBowman :: ReactIcon
 
-giBowman :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBowman = element (unsafeCoerce _giBowman)
+giBowman :: Icon
+giBowman = element _giBowman
 
 foreign import _giBowString :: ReactIcon
 
-giBowString :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBowString = element (unsafeCoerce _giBowString)
+giBowString :: Icon
+giBowString = element _giBowString
 
 foreign import _giBowTie :: ReactIcon
 
-giBowTie :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBowTie = element (unsafeCoerce _giBowTie)
+giBowTie :: Icon
+giBowTie = element _giBowTie
 
 foreign import _giBowTieRibbon :: ReactIcon
 
-giBowTieRibbon :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBowTieRibbon = element (unsafeCoerce _giBowTieRibbon)
+giBowTieRibbon :: Icon
+giBowTieRibbon = element _giBowTieRibbon
 
 foreign import _giBoxCutter :: ReactIcon
 
-giBoxCutter :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBoxCutter = element (unsafeCoerce _giBoxCutter)
+giBoxCutter :: Icon
+giBoxCutter = element _giBoxCutter
 
 foreign import _giBoxingGlove :: ReactIcon
 
-giBoxingGlove :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBoxingGlove = element (unsafeCoerce _giBoxingGlove)
+giBoxingGlove :: Icon
+giBoxingGlove = element _giBoxingGlove
 
 foreign import _giBoxingGloveSurprise :: ReactIcon
 
-giBoxingGloveSurprise :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBoxingGloveSurprise = element (unsafeCoerce _giBoxingGloveSurprise)
+giBoxingGloveSurprise :: Icon
+giBoxingGloveSurprise = element _giBoxingGloveSurprise
 
 foreign import _giBoxingRing :: ReactIcon
 
-giBoxingRing :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBoxingRing = element (unsafeCoerce _giBoxingRing)
+giBoxingRing :: Icon
+giBoxingRing = element _giBoxingRing
 
 foreign import _giBoxTrap :: ReactIcon
 
-giBoxTrap :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBoxTrap = element (unsafeCoerce _giBoxTrap)
+giBoxTrap :: Icon
+giBoxTrap = element _giBoxTrap
 
 foreign import _giBoxUnpacking :: ReactIcon
 
-giBoxUnpacking :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBoxUnpacking = element (unsafeCoerce _giBoxUnpacking)
+giBoxUnpacking :: Icon
+giBoxUnpacking = element _giBoxUnpacking
 
 foreign import _giBracer :: ReactIcon
 
-giBracer :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBracer = element (unsafeCoerce _giBracer)
+giBracer :: Icon
+giBracer = element _giBracer
 
 foreign import _giBracers :: ReactIcon
 
-giBracers :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBracers = element (unsafeCoerce _giBracers)
+giBracers :: Icon
+giBracers = element _giBracers
 
 foreign import _giBrain :: ReactIcon
 
-giBrain :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBrain = element (unsafeCoerce _giBrain)
+giBrain :: Icon
+giBrain = element _giBrain
 
 foreign import _giBrainDump :: ReactIcon
 
-giBrainDump :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBrainDump = element (unsafeCoerce _giBrainDump)
+giBrainDump :: Icon
+giBrainDump = element _giBrainDump
 
 foreign import _giBrainFreeze :: ReactIcon
 
-giBrainFreeze :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBrainFreeze = element (unsafeCoerce _giBrainFreeze)
+giBrainFreeze :: Icon
+giBrainFreeze = element _giBrainFreeze
 
 foreign import _giBrainLeak :: ReactIcon
 
-giBrainLeak :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBrainLeak = element (unsafeCoerce _giBrainLeak)
+giBrainLeak :: Icon
+giBrainLeak = element _giBrainLeak
 
 foreign import _giBrainStem :: ReactIcon
 
-giBrainStem :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBrainStem = element (unsafeCoerce _giBrainStem)
+giBrainStem :: Icon
+giBrainStem = element _giBrainStem
 
 foreign import _giBrainstorm :: ReactIcon
 
-giBrainstorm :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBrainstorm = element (unsafeCoerce _giBrainstorm)
+giBrainstorm :: Icon
+giBrainstorm = element _giBrainstorm
 
 foreign import _giBrainTentacle :: ReactIcon
 
-giBrainTentacle :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBrainTentacle = element (unsafeCoerce _giBrainTentacle)
+giBrainTentacle :: Icon
+giBrainTentacle = element _giBrainTentacle
 
 foreign import _giBranchArrow :: ReactIcon
 
-giBranchArrow :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBranchArrow = element (unsafeCoerce _giBranchArrow)
+giBranchArrow :: Icon
+giBranchArrow = element _giBranchArrow
 
 foreign import _giBrandyBottle :: ReactIcon
 
-giBrandyBottle :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBrandyBottle = element (unsafeCoerce _giBrandyBottle)
+giBrandyBottle :: Icon
+giBrandyBottle = element _giBrandyBottle
 
 foreign import _giBrasero :: ReactIcon
 
-giBrasero :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBrasero = element (unsafeCoerce _giBrasero)
+giBrasero :: Icon
+giBrasero = element _giBrasero
 
 foreign import _giBrassEye :: ReactIcon
 
-giBrassEye :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBrassEye = element (unsafeCoerce _giBrassEye)
+giBrassEye :: Icon
+giBrassEye = element _giBrassEye
 
 foreign import _giBrassKnuckles :: ReactIcon
 
-giBrassKnuckles :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBrassKnuckles = element (unsafeCoerce _giBrassKnuckles)
+giBrassKnuckles :: Icon
+giBrassKnuckles = element _giBrassKnuckles
 
 foreign import _giBrazil :: ReactIcon
 
-giBrazil :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBrazil = element (unsafeCoerce _giBrazil)
+giBrazil :: Icon
+giBrazil = element _giBrazil
 
 foreign import _giBrazilFlag :: ReactIcon
 
-giBrazilFlag :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBrazilFlag = element (unsafeCoerce _giBrazilFlag)
+giBrazilFlag :: Icon
+giBrazilFlag = element _giBrazilFlag
 
 foreign import _giBread :: ReactIcon
 
-giBread :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBread = element (unsafeCoerce _giBread)
+giBread :: Icon
+giBread = element _giBread
 
 foreign import _giBreadSlice :: ReactIcon
 
-giBreadSlice :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBreadSlice = element (unsafeCoerce _giBreadSlice)
+giBreadSlice :: Icon
+giBreadSlice = element _giBreadSlice
 
 foreign import _giBreakingChain :: ReactIcon
 
-giBreakingChain :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBreakingChain = element (unsafeCoerce _giBreakingChain)
+giBreakingChain :: Icon
+giBreakingChain = element _giBreakingChain
 
 foreign import _giBreastplate :: ReactIcon
 
-giBreastplate :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBreastplate = element (unsafeCoerce _giBreastplate)
+giBreastplate :: Icon
+giBreastplate = element _giBreastplate
 
 foreign import _giBrickPile :: ReactIcon
 
-giBrickPile :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBrickPile = element (unsafeCoerce _giBrickPile)
+giBrickPile :: Icon
+giBrickPile = element _giBrickPile
 
 foreign import _giBrickWall :: ReactIcon
 
-giBrickWall :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBrickWall = element (unsafeCoerce _giBrickWall)
+giBrickWall :: Icon
+giBrickWall = element _giBrickWall
 
 foreign import _giBridge :: ReactIcon
 
-giBridge :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBridge = element (unsafeCoerce _giBridge)
+giBridge :: Icon
+giBridge = element _giBridge
 
 foreign import _giBriefcase :: ReactIcon
 
-giBriefcase :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBriefcase = element (unsafeCoerce _giBriefcase)
+giBriefcase :: Icon
+giBriefcase = element _giBriefcase
 
 foreign import _giBrightExplosion :: ReactIcon
 
-giBrightExplosion :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBrightExplosion = element (unsafeCoerce _giBrightExplosion)
+giBrightExplosion :: Icon
+giBrightExplosion = element _giBrightExplosion
 
 foreign import _giBroadDagger :: ReactIcon
 
-giBroadDagger :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBroadDagger = element (unsafeCoerce _giBroadDagger)
+giBroadDagger :: Icon
+giBroadDagger = element _giBroadDagger
 
 foreign import _giBroadheadArrow :: ReactIcon
 
-giBroadheadArrow :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBroadheadArrow = element (unsafeCoerce _giBroadheadArrow)
+giBroadheadArrow :: Icon
+giBroadheadArrow = element _giBroadheadArrow
 
 foreign import _giBroadsword :: ReactIcon
 
-giBroadsword :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBroadsword = element (unsafeCoerce _giBroadsword)
+giBroadsword :: Icon
+giBroadsword = element _giBroadsword
 
 foreign import _giBroccoli :: ReactIcon
 
-giBroccoli :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBroccoli = element (unsafeCoerce _giBroccoli)
+giBroccoli :: Icon
+giBroccoli = element _giBroccoli
 
 foreign import _giBrodieHelmet :: ReactIcon
 
-giBrodieHelmet :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBrodieHelmet = element (unsafeCoerce _giBrodieHelmet)
+giBrodieHelmet :: Icon
+giBrodieHelmet = element _giBrodieHelmet
 
 foreign import _giBrokenArrow :: ReactIcon
 
-giBrokenArrow :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBrokenArrow = element (unsafeCoerce _giBrokenArrow)
+giBrokenArrow :: Icon
+giBrokenArrow = element _giBrokenArrow
 
 foreign import _giBrokenAxe :: ReactIcon
 
-giBrokenAxe :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBrokenAxe = element (unsafeCoerce _giBrokenAxe)
+giBrokenAxe :: Icon
+giBrokenAxe = element _giBrokenAxe
 
 foreign import _giBrokenBone :: ReactIcon
 
-giBrokenBone :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBrokenBone = element (unsafeCoerce _giBrokenBone)
+giBrokenBone :: Icon
+giBrokenBone = element _giBrokenBone
 
 foreign import _giBrokenBottle :: ReactIcon
 
-giBrokenBottle :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBrokenBottle = element (unsafeCoerce _giBrokenBottle)
+giBrokenBottle :: Icon
+giBrokenBottle = element _giBrokenBottle
 
 foreign import _giBrokenHeart :: ReactIcon
 
-giBrokenHeart :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBrokenHeart = element (unsafeCoerce _giBrokenHeart)
+giBrokenHeart :: Icon
+giBrokenHeart = element _giBrokenHeart
 
 foreign import _giBrokenHeartZone :: ReactIcon
 
-giBrokenHeartZone :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBrokenHeartZone = element (unsafeCoerce _giBrokenHeartZone)
+giBrokenHeartZone :: Icon
+giBrokenHeartZone = element _giBrokenHeartZone
 
 foreign import _giBrokenPottery :: ReactIcon
 
-giBrokenPottery :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBrokenPottery = element (unsafeCoerce _giBrokenPottery)
+giBrokenPottery :: Icon
+giBrokenPottery = element _giBrokenPottery
 
 foreign import _giBrokenRibbon :: ReactIcon
 
-giBrokenRibbon :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBrokenRibbon = element (unsafeCoerce _giBrokenRibbon)
+giBrokenRibbon :: Icon
+giBrokenRibbon = element _giBrokenRibbon
 
 foreign import _giBrokenShield :: ReactIcon
 
-giBrokenShield :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBrokenShield = element (unsafeCoerce _giBrokenShield)
+giBrokenShield :: Icon
+giBrokenShield = element _giBrokenShield
 
 foreign import _giBrokenSkull :: ReactIcon
 
-giBrokenSkull :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBrokenSkull = element (unsafeCoerce _giBrokenSkull)
+giBrokenSkull :: Icon
+giBrokenSkull = element _giBrokenSkull
 
 foreign import _giBrokenTablet :: ReactIcon
 
-giBrokenTablet :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBrokenTablet = element (unsafeCoerce _giBrokenTablet)
+giBrokenTablet :: Icon
+giBrokenTablet = element _giBrokenTablet
 
 foreign import _giBrokenWall :: ReactIcon
 
-giBrokenWall :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBrokenWall = element (unsafeCoerce _giBrokenWall)
+giBrokenWall :: Icon
+giBrokenWall = element _giBrokenWall
 
 foreign import _giBroom :: ReactIcon
 
-giBroom :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBroom = element (unsafeCoerce _giBroom)
+giBroom :: Icon
+giBroom = element _giBroom
 
 foreign import _giBrutalHelm :: ReactIcon
 
-giBrutalHelm :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBrutalHelm = element (unsafeCoerce _giBrutalHelm)
+giBrutalHelm :: Icon
+giBrutalHelm = element _giBrutalHelm
 
 foreign import _giBrute :: ReactIcon
 
-giBrute :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBrute = element (unsafeCoerce _giBrute)
+giBrute :: Icon
+giBrute = element _giBrute
 
 foreign import _giBubbleField :: ReactIcon
 
-giBubbleField :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBubbleField = element (unsafeCoerce _giBubbleField)
+giBubbleField :: Icon
+giBubbleField = element _giBubbleField
 
 foreign import _giBubbles :: ReactIcon
 
-giBubbles :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBubbles = element (unsafeCoerce _giBubbles)
+giBubbles :: Icon
+giBubbles = element _giBubbles
 
 foreign import _giBubblingBeam :: ReactIcon
 
-giBubblingBeam :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBubblingBeam = element (unsafeCoerce _giBubblingBeam)
+giBubblingBeam :: Icon
+giBubblingBeam = element _giBubblingBeam
 
 foreign import _giBubblingBowl :: ReactIcon
 
-giBubblingBowl :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBubblingBowl = element (unsafeCoerce _giBubblingBowl)
+giBubblingBowl :: Icon
+giBubblingBowl = element _giBubblingBowl
 
 foreign import _giBubblingFlask :: ReactIcon
 
-giBubblingFlask :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBubblingFlask = element (unsafeCoerce _giBubblingFlask)
+giBubblingFlask :: Icon
+giBubblingFlask = element _giBubblingFlask
 
 foreign import _giBud :: ReactIcon
 
-giBud :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBud = element (unsafeCoerce _giBud)
+giBud :: Icon
+giBud = element _giBud
 
 foreign import _giBuffaloHead :: ReactIcon
 
-giBuffaloHead :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBuffaloHead = element (unsafeCoerce _giBuffaloHead)
+giBuffaloHead :: Icon
+giBuffaloHead = element _giBuffaloHead
 
 foreign import _giBugleCall :: ReactIcon
 
-giBugleCall :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBugleCall = element (unsafeCoerce _giBugleCall)
+giBugleCall :: Icon
+giBugleCall = element _giBugleCall
 
 foreign import _giBugNet :: ReactIcon
 
-giBugNet :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBugNet = element (unsafeCoerce _giBugNet)
+giBugNet :: Icon
+giBugNet = element _giBugNet
 
 foreign import _giBulb :: ReactIcon
 
-giBulb :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBulb = element (unsafeCoerce _giBulb)
+giBulb :: Icon
+giBulb = element _giBulb
 
 foreign import _giBulgaria :: ReactIcon
 
-giBulgaria :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBulgaria = element (unsafeCoerce _giBulgaria)
+giBulgaria :: Icon
+giBulgaria = element _giBulgaria
 
 foreign import _giBull :: ReactIcon
 
-giBull :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBull = element (unsafeCoerce _giBull)
+giBull :: Icon
+giBull = element _giBull
 
 foreign import _giBulldozer :: ReactIcon
 
-giBulldozer :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBulldozer = element (unsafeCoerce _giBulldozer)
+giBulldozer :: Icon
+giBulldozer = element _giBulldozer
 
 foreign import _giBulletBill :: ReactIcon
 
-giBulletBill :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBulletBill = element (unsafeCoerce _giBulletBill)
+giBulletBill :: Icon
+giBulletBill = element _giBulletBill
 
 foreign import _giBulletImpacts :: ReactIcon
 
-giBulletImpacts :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBulletImpacts = element (unsafeCoerce _giBulletImpacts)
+giBulletImpacts :: Icon
+giBulletImpacts = element _giBulletImpacts
 
 foreign import _giBullets :: ReactIcon
 
-giBullets :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBullets = element (unsafeCoerce _giBullets)
+giBullets :: Icon
+giBullets = element _giBullets
 
 foreign import _giBullHorns :: ReactIcon
 
-giBullHorns :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBullHorns = element (unsafeCoerce _giBullHorns)
+giBullHorns :: Icon
+giBullHorns = element _giBullHorns
 
 foreign import _giBullseye :: ReactIcon
 
-giBullseye :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBullseye = element (unsafeCoerce _giBullseye)
+giBullseye :: Icon
+giBullseye = element _giBullseye
 
 foreign import _giBullyMinion :: ReactIcon
 
-giBullyMinion :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBullyMinion = element (unsafeCoerce _giBullyMinion)
+giBullyMinion :: Icon
+giBullyMinion = element _giBullyMinion
 
 foreign import _giBundleGrenade :: ReactIcon
 
-giBundleGrenade :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBundleGrenade = element (unsafeCoerce _giBundleGrenade)
+giBundleGrenade :: Icon
+giBundleGrenade = element _giBundleGrenade
 
 foreign import _giBunkBeds :: ReactIcon
 
-giBunkBeds :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBunkBeds = element (unsafeCoerce _giBunkBeds)
+giBunkBeds :: Icon
+giBunkBeds = element _giBunkBeds
 
 foreign import _giBunker :: ReactIcon
 
-giBunker :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBunker = element (unsafeCoerce _giBunker)
+giBunker :: Icon
+giBunker = element _giBunker
 
 foreign import _giBunkerAssault :: ReactIcon
 
-giBunkerAssault :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBunkerAssault = element (unsafeCoerce _giBunkerAssault)
+giBunkerAssault :: Icon
+giBunkerAssault = element _giBunkerAssault
 
 foreign import _giBunnySlippers :: ReactIcon
 
-giBunnySlippers :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBunnySlippers = element (unsafeCoerce _giBunnySlippers)
+giBunnySlippers :: Icon
+giBunnySlippers = element _giBunnySlippers
 
 foreign import _giBuoy :: ReactIcon
 
-giBuoy :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBuoy = element (unsafeCoerce _giBuoy)
+giBuoy :: Icon
+giBuoy = element _giBuoy
 
 foreign import _giBurn :: ReactIcon
 
-giBurn :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBurn = element (unsafeCoerce _giBurn)
+giBurn :: Icon
+giBurn = element _giBurn
 
 foreign import _giBurningBlobs :: ReactIcon
 
-giBurningBlobs :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBurningBlobs = element (unsafeCoerce _giBurningBlobs)
+giBurningBlobs :: Icon
+giBurningBlobs = element _giBurningBlobs
 
 foreign import _giBurningBook :: ReactIcon
 
-giBurningBook :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBurningBook = element (unsafeCoerce _giBurningBook)
+giBurningBook :: Icon
+giBurningBook = element _giBurningBook
 
 foreign import _giBurningDot :: ReactIcon
 
-giBurningDot :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBurningDot = element (unsafeCoerce _giBurningDot)
+giBurningDot :: Icon
+giBurningDot = element _giBurningDot
 
 foreign import _giBurningEmbers :: ReactIcon
 
-giBurningEmbers :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBurningEmbers = element (unsafeCoerce _giBurningEmbers)
+giBurningEmbers :: Icon
+giBurningEmbers = element _giBurningEmbers
 
 foreign import _giBurningEye :: ReactIcon
 
-giBurningEye :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBurningEye = element (unsafeCoerce _giBurningEye)
+giBurningEye :: Icon
+giBurningEye = element _giBurningEye
 
 foreign import _giBurningForest :: ReactIcon
 
-giBurningForest :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBurningForest = element (unsafeCoerce _giBurningForest)
+giBurningForest :: Icon
+giBurningForest = element _giBurningForest
 
 foreign import _giBurningMeteor :: ReactIcon
 
-giBurningMeteor :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBurningMeteor = element (unsafeCoerce _giBurningMeteor)
+giBurningMeteor :: Icon
+giBurningMeteor = element _giBurningMeteor
 
 foreign import _giBurningPassion :: ReactIcon
 
-giBurningPassion :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBurningPassion = element (unsafeCoerce _giBurningPassion)
+giBurningPassion :: Icon
+giBurningPassion = element _giBurningPassion
 
 foreign import _giBurningRoundShot :: ReactIcon
 
-giBurningRoundShot :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBurningRoundShot = element (unsafeCoerce _giBurningRoundShot)
+giBurningRoundShot :: Icon
+giBurningRoundShot = element _giBurningRoundShot
 
 foreign import _giBurningSkull :: ReactIcon
 
-giBurningSkull :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBurningSkull = element (unsafeCoerce _giBurningSkull)
+giBurningSkull :: Icon
+giBurningSkull = element _giBurningSkull
 
 foreign import _giBurningTree :: ReactIcon
 
-giBurningTree :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBurningTree = element (unsafeCoerce _giBurningTree)
+giBurningTree :: Icon
+giBurningTree = element _giBurningTree
 
 foreign import _giBurstBlob :: ReactIcon
 
-giBurstBlob :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBurstBlob = element (unsafeCoerce _giBurstBlob)
+giBurstBlob :: Icon
+giBurstBlob = element _giBurstBlob
 
 foreign import _giBus :: ReactIcon
 
-giBus :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBus = element (unsafeCoerce _giBus)
+giBus :: Icon
+giBus = element _giBus
 
 foreign import _giBusDoors :: ReactIcon
 
-giBusDoors :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBusDoors = element (unsafeCoerce _giBusDoors)
+giBusDoors :: Icon
+giBusDoors = element _giBusDoors
 
 foreign import _giBusStop :: ReactIcon
 
-giBusStop :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBusStop = element (unsafeCoerce _giBusStop)
+giBusStop :: Icon
+giBusStop = element _giBusStop
 
 foreign import _giButter :: ReactIcon
 
-giButter :: forall a b. Union a b PropsIcon => Record a -> JSX
-giButter = element (unsafeCoerce _giButter)
+giButter :: Icon
+giButter = element _giButter
 
 foreign import _giButterfly :: ReactIcon
 
-giButterfly :: forall a b. Union a b PropsIcon => Record a -> JSX
-giButterfly = element (unsafeCoerce _giButterfly)
+giButterfly :: Icon
+giButterfly = element _giButterfly
 
 foreign import _giButterflyFlower :: ReactIcon
 
-giButterflyFlower :: forall a b. Union a b PropsIcon => Record a -> JSX
-giButterflyFlower = element (unsafeCoerce _giButterflyFlower)
+giButterflyFlower :: Icon
+giButterflyFlower = element _giButterflyFlower
 
 foreign import _giButterflyKnife :: ReactIcon
 
-giButterflyKnife :: forall a b. Union a b PropsIcon => Record a -> JSX
-giButterflyKnife = element (unsafeCoerce _giButterflyKnife)
+giButterflyKnife :: Icon
+giButterflyKnife = element _giButterflyKnife
 
 foreign import _giButterflyWarning :: ReactIcon
 
-giButterflyWarning :: forall a b. Union a b PropsIcon => Record a -> JSX
-giButterflyWarning = element (unsafeCoerce _giButterflyWarning)
+giButterflyWarning :: Icon
+giButterflyWarning = element _giButterflyWarning
 
 foreign import _giButterToast :: ReactIcon
 
-giButterToast :: forall a b. Union a b PropsIcon => Record a -> JSX
-giButterToast = element (unsafeCoerce _giButterToast)
+giButterToast :: Icon
+giButterToast = element _giButterToast
 
 foreign import _giButtonFinger :: ReactIcon
 
-giButtonFinger :: forall a b. Union a b PropsIcon => Record a -> JSX
-giButtonFinger = element (unsafeCoerce _giButtonFinger)
+giButtonFinger :: Icon
+giButtonFinger = element _giButtonFinger
 
 foreign import _giBuyCard :: ReactIcon
 
-giBuyCard :: forall a b. Union a b PropsIcon => Record a -> JSX
-giBuyCard = element (unsafeCoerce _giBuyCard)
+giBuyCard :: Icon
+giBuyCard = element _giBuyCard
 
 foreign import _giByzantinTemple :: ReactIcon
 
-giByzantinTemple :: forall a b. Union a b PropsIcon => Record a -> JSX
-giByzantinTemple = element (unsafeCoerce _giByzantinTemple)
+giByzantinTemple :: Icon
+giByzantinTemple = element _giByzantinTemple
 
 foreign import _giCabbage :: ReactIcon
 
-giCabbage :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCabbage = element (unsafeCoerce _giCabbage)
+giCabbage :: Icon
+giCabbage = element _giCabbage
 
 foreign import _giCableStayedBridge :: ReactIcon
 
-giCableStayedBridge :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCableStayedBridge = element (unsafeCoerce _giCableStayedBridge)
+giCableStayedBridge :: Icon
+giCableStayedBridge = element _giCableStayedBridge
 
 foreign import _giCactus :: ReactIcon
 
-giCactus :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCactus = element (unsafeCoerce _giCactus)
+giCactus :: Icon
+giCactus = element _giCactus
 
 foreign import _giCactusPot :: ReactIcon
 
-giCactusPot :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCactusPot = element (unsafeCoerce _giCactusPot)
+giCactusPot :: Icon
+giCactusPot = element _giCactusPot
 
 foreign import _giCactusTap :: ReactIcon
 
-giCactusTap :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCactusTap = element (unsafeCoerce _giCactusTap)
+giCactusTap :: Icon
+giCactusTap = element _giCactusTap
 
 foreign import _giCadillacHelm :: ReactIcon
 
-giCadillacHelm :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCadillacHelm = element (unsafeCoerce _giCadillacHelm)
+giCadillacHelm :: Icon
+giCadillacHelm = element _giCadillacHelm
 
 foreign import _giCaduceus :: ReactIcon
 
-giCaduceus :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCaduceus = element (unsafeCoerce _giCaduceus)
+giCaduceus :: Icon
+giCaduceus = element _giCaduceus
 
 foreign import _giCaesar :: ReactIcon
 
-giCaesar :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCaesar = element (unsafeCoerce _giCaesar)
+giCaesar :: Icon
+giCaesar = element _giCaesar
 
 foreign import _giCage :: ReactIcon
 
-giCage :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCage = element (unsafeCoerce _giCage)
+giCage :: Icon
+giCage = element _giCage
 
 foreign import _giCagedBall :: ReactIcon
 
-giCagedBall :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCagedBall = element (unsafeCoerce _giCagedBall)
+giCagedBall :: Icon
+giCagedBall = element _giCagedBall
 
 foreign import _giCakeSlice :: ReactIcon
 
-giCakeSlice :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCakeSlice = element (unsafeCoerce _giCakeSlice)
+giCakeSlice :: Icon
+giCakeSlice = element _giCakeSlice
 
 foreign import _giCalavera :: ReactIcon
 
-giCalavera :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCalavera = element (unsafeCoerce _giCalavera)
+giCalavera :: Icon
+giCalavera = element _giCalavera
 
 foreign import _giCalculator :: ReactIcon
 
-giCalculator :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCalculator = element (unsafeCoerce _giCalculator)
+giCalculator :: Icon
+giCalculator = element _giCalculator
 
 foreign import _giCaldera :: ReactIcon
 
-giCaldera :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCaldera = element (unsafeCoerce _giCaldera)
+giCaldera :: Icon
+giCaldera = element _giCaldera
 
 foreign import _giCalendar :: ReactIcon
 
-giCalendar :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCalendar = element (unsafeCoerce _giCalendar)
+giCalendar :: Icon
+giCalendar = element _giCalendar
 
 foreign import _giCalendarHalfYear :: ReactIcon
 
-giCalendarHalfYear :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCalendarHalfYear = element (unsafeCoerce _giCalendarHalfYear)
+giCalendarHalfYear :: Icon
+giCalendarHalfYear = element _giCalendarHalfYear
 
 foreign import _giCaltrops :: ReactIcon
 
-giCaltrops :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCaltrops = element (unsafeCoerce _giCaltrops)
+giCaltrops :: Icon
+giCaltrops = element _giCaltrops
 
 foreign import _giCamargueCross :: ReactIcon
 
-giCamargueCross :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCamargueCross = element (unsafeCoerce _giCamargueCross)
+giCamargueCross :: Icon
+giCamargueCross = element _giCamargueCross
 
 foreign import _giCambodia :: ReactIcon
 
-giCambodia :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCambodia = element (unsafeCoerce _giCambodia)
+giCambodia :: Icon
+giCambodia = element _giCambodia
 
 foreign import _giCamel :: ReactIcon
 
-giCamel :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCamel = element (unsafeCoerce _giCamel)
+giCamel :: Icon
+giCamel = element _giCamel
 
 foreign import _giCamelHead :: ReactIcon
 
-giCamelHead :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCamelHead = element (unsafeCoerce _giCamelHead)
+giCamelHead :: Icon
+giCamelHead = element _giCamelHead
 
 foreign import _giCampCookingPot :: ReactIcon
 
-giCampCookingPot :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCampCookingPot = element (unsafeCoerce _giCampCookingPot)
+giCampCookingPot :: Icon
+giCampCookingPot = element _giCampCookingPot
 
 foreign import _giCampfire :: ReactIcon
 
-giCampfire :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCampfire = element (unsafeCoerce _giCampfire)
+giCampfire :: Icon
+giCampfire = element _giCampfire
 
 foreign import _giCampingTent :: ReactIcon
 
-giCampingTent :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCampingTent = element (unsafeCoerce _giCampingTent)
+giCampingTent :: Icon
+giCampingTent = element _giCampingTent
 
 foreign import _giCancel :: ReactIcon
 
-giCancel :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCancel = element (unsafeCoerce _giCancel)
+giCancel :: Icon
+giCancel = element _giCancel
 
 foreign import _giCancer :: ReactIcon
 
-giCancer :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCancer = element (unsafeCoerce _giCancer)
+giCancer :: Icon
+giCancer = element _giCancer
 
 foreign import _giCandlebright :: ReactIcon
 
-giCandlebright :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCandlebright = element (unsafeCoerce _giCandlebright)
+giCandlebright :: Icon
+giCandlebright = element _giCandlebright
 
 foreign import _giCandleFlame :: ReactIcon
 
-giCandleFlame :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCandleFlame = element (unsafeCoerce _giCandleFlame)
+giCandleFlame :: Icon
+giCandleFlame = element _giCandleFlame
 
 foreign import _giCandleHolder :: ReactIcon
 
-giCandleHolder :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCandleHolder = element (unsafeCoerce _giCandleHolder)
+giCandleHolder :: Icon
+giCandleHolder = element _giCandleHolder
 
 foreign import _giCandleLight :: ReactIcon
 
-giCandleLight :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCandleLight = element (unsafeCoerce _giCandleLight)
+giCandleLight :: Icon
+giCandleLight = element _giCandleLight
 
 foreign import _giCandles :: ReactIcon
 
-giCandles :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCandles = element (unsafeCoerce _giCandles)
+giCandles :: Icon
+giCandles = element _giCandles
 
 foreign import _giCandleSkull :: ReactIcon
 
-giCandleSkull :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCandleSkull = element (unsafeCoerce _giCandleSkull)
+giCandleSkull :: Icon
+giCandleSkull = element _giCandleSkull
 
 foreign import _giCandlestickPhone :: ReactIcon
 
-giCandlestickPhone :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCandlestickPhone = element (unsafeCoerce _giCandlestickPhone)
+giCandlestickPhone :: Icon
+giCandlestickPhone = element _giCandlestickPhone
 
 foreign import _giCandyCanes :: ReactIcon
 
-giCandyCanes :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCandyCanes = element (unsafeCoerce _giCandyCanes)
+giCandyCanes :: Icon
+giCandyCanes = element _giCandyCanes
 
 foreign import _giCannedFish :: ReactIcon
 
-giCannedFish :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCannedFish = element (unsafeCoerce _giCannedFish)
+giCannedFish :: Icon
+giCannedFish = element _giCannedFish
 
 foreign import _giCannister :: ReactIcon
 
-giCannister :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCannister = element (unsafeCoerce _giCannister)
+giCannister :: Icon
+giCannister = element _giCannister
 
 foreign import _giCannon :: ReactIcon
 
-giCannon :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCannon = element (unsafeCoerce _giCannon)
+giCannon :: Icon
+giCannon = element _giCannon
 
 foreign import _giCannonBall :: ReactIcon
 
-giCannonBall :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCannonBall = element (unsafeCoerce _giCannonBall)
+giCannonBall :: Icon
+giCannonBall = element _giCannonBall
 
 foreign import _giCannonShot :: ReactIcon
 
-giCannonShot :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCannonShot = element (unsafeCoerce _giCannonShot)
+giCannonShot :: Icon
+giCannonShot = element _giCannonShot
 
 foreign import _giCanoe :: ReactIcon
 
-giCanoe :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCanoe = element (unsafeCoerce _giCanoe)
+giCanoe :: Icon
+giCanoe = element _giCanoe
 
 foreign import _giCantua :: ReactIcon
 
-giCantua :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCantua = element (unsafeCoerce _giCantua)
+giCantua :: Icon
+giCantua = element _giCantua
 
 foreign import _giCape :: ReactIcon
 
-giCape :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCape = element (unsafeCoerce _giCape)
+giCape :: Icon
+giCape = element _giCape
 
 foreign import _giCapeArmor :: ReactIcon
 
-giCapeArmor :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCapeArmor = element (unsafeCoerce _giCapeArmor)
+giCapeArmor :: Icon
+giCapeArmor = element _giCapeArmor
 
 foreign import _giCapitol :: ReactIcon
 
-giCapitol :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCapitol = element (unsafeCoerce _giCapitol)
+giCapitol :: Icon
+giCapitol = element _giCapitol
 
 foreign import _giCapricorn :: ReactIcon
 
-giCapricorn :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCapricorn = element (unsafeCoerce _giCapricorn)
+giCapricorn :: Icon
+giCapricorn = element _giCapricorn
 
 foreign import _giCaptainHatProfile :: ReactIcon
 
-giCaptainHatProfile :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCaptainHatProfile = element (unsafeCoerce _giCaptainHatProfile)
+giCaptainHatProfile :: Icon
+giCaptainHatProfile = element _giCaptainHatProfile
 
 foreign import _giCapybara :: ReactIcon
 
-giCapybara :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCapybara = element (unsafeCoerce _giCapybara)
+giCapybara :: Icon
+giCapybara = element _giCapybara
 
 foreign import _giCarabiner :: ReactIcon
 
-giCarabiner :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCarabiner = element (unsafeCoerce _giCarabiner)
+giCarabiner :: Icon
+giCarabiner = element _giCarabiner
 
 foreign import _giCarambola :: ReactIcon
 
-giCarambola :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCarambola = element (unsafeCoerce _giCarambola)
+giCarambola :: Icon
+giCarambola = element _giCarambola
 
 foreign import _giCaravan :: ReactIcon
 
-giCaravan :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCaravan = element (unsafeCoerce _giCaravan)
+giCaravan :: Icon
+giCaravan = element _giCaravan
 
 foreign import _giCaravel :: ReactIcon
 
-giCaravel :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCaravel = element (unsafeCoerce _giCaravel)
+giCaravel :: Icon
+giCaravel = element _giCaravel
 
 foreign import _giCarBattery :: ReactIcon
 
-giCarBattery :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCarBattery = element (unsafeCoerce _giCarBattery)
+giCarBattery :: Icon
+giCarBattery = element _giCarBattery
 
 foreign import _giCardAceClubs :: ReactIcon
 
-giCardAceClubs :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCardAceClubs = element (unsafeCoerce _giCardAceClubs)
+giCardAceClubs :: Icon
+giCardAceClubs = element _giCardAceClubs
 
 foreign import _giCardAceDiamonds :: ReactIcon
 
-giCardAceDiamonds :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCardAceDiamonds = element (unsafeCoerce _giCardAceDiamonds)
+giCardAceDiamonds :: Icon
+giCardAceDiamonds = element _giCardAceDiamonds
 
 foreign import _giCardAceHearts :: ReactIcon
 
-giCardAceHearts :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCardAceHearts = element (unsafeCoerce _giCardAceHearts)
+giCardAceHearts :: Icon
+giCardAceHearts = element _giCardAceHearts
 
 foreign import _giCardAceSpades :: ReactIcon
 
-giCardAceSpades :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCardAceSpades = element (unsafeCoerce _giCardAceSpades)
+giCardAceSpades :: Icon
+giCardAceSpades = element _giCardAceSpades
 
 foreign import _giCardboardBox :: ReactIcon
 
-giCardboardBox :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCardboardBox = element (unsafeCoerce _giCardboardBox)
+giCardboardBox :: Icon
+giCardboardBox = element _giCardboardBox
 
 foreign import _giCardboardBoxClosed :: ReactIcon
 
-giCardboardBoxClosed :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCardboardBoxClosed = element (unsafeCoerce _giCardboardBoxClosed)
+giCardboardBoxClosed :: Icon
+giCardboardBoxClosed = element _giCardboardBoxClosed
 
 foreign import _giCardBurn :: ReactIcon
 
-giCardBurn :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCardBurn = element (unsafeCoerce _giCardBurn)
+giCardBurn :: Icon
+giCardBurn = element _giCardBurn
 
 foreign import _giCardDiscard :: ReactIcon
 
-giCardDiscard :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCardDiscard = element (unsafeCoerce _giCardDiscard)
+giCardDiscard :: Icon
+giCardDiscard = element _giCardDiscard
 
 foreign import _giCardDraw :: ReactIcon
 
-giCardDraw :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCardDraw = element (unsafeCoerce _giCardDraw)
+giCardDraw :: Icon
+giCardDraw = element _giCardDraw
 
 foreign import _giCardExchange :: ReactIcon
 
-giCardExchange :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCardExchange = element (unsafeCoerce _giCardExchange)
+giCardExchange :: Icon
+giCardExchange = element _giCardExchange
 
 foreign import _giCardJackClubs :: ReactIcon
 
-giCardJackClubs :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCardJackClubs = element (unsafeCoerce _giCardJackClubs)
+giCardJackClubs :: Icon
+giCardJackClubs = element _giCardJackClubs
 
 foreign import _giCardJackDiamonds :: ReactIcon
 
-giCardJackDiamonds :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCardJackDiamonds = element (unsafeCoerce _giCardJackDiamonds)
+giCardJackDiamonds :: Icon
+giCardJackDiamonds = element _giCardJackDiamonds
 
 foreign import _giCardJackHearts :: ReactIcon
 
-giCardJackHearts :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCardJackHearts = element (unsafeCoerce _giCardJackHearts)
+giCardJackHearts :: Icon
+giCardJackHearts = element _giCardJackHearts
 
 foreign import _giCardJackSpades :: ReactIcon
 
-giCardJackSpades :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCardJackSpades = element (unsafeCoerce _giCardJackSpades)
+giCardJackSpades :: Icon
+giCardJackSpades = element _giCardJackSpades
 
 foreign import _giCardJoker :: ReactIcon
 
-giCardJoker :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCardJoker = element (unsafeCoerce _giCardJoker)
+giCardJoker :: Icon
+giCardJoker = element _giCardJoker
 
 foreign import _giCardKingClubs :: ReactIcon
 
-giCardKingClubs :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCardKingClubs = element (unsafeCoerce _giCardKingClubs)
+giCardKingClubs :: Icon
+giCardKingClubs = element _giCardKingClubs
 
 foreign import _giCardKingDiamonds :: ReactIcon
 
-giCardKingDiamonds :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCardKingDiamonds = element (unsafeCoerce _giCardKingDiamonds)
+giCardKingDiamonds :: Icon
+giCardKingDiamonds = element _giCardKingDiamonds
 
 foreign import _giCardKingHearts :: ReactIcon
 
-giCardKingHearts :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCardKingHearts = element (unsafeCoerce _giCardKingHearts)
+giCardKingHearts :: Icon
+giCardKingHearts = element _giCardKingHearts
 
 foreign import _giCardKingSpades :: ReactIcon
 
-giCardKingSpades :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCardKingSpades = element (unsafeCoerce _giCardKingSpades)
+giCardKingSpades :: Icon
+giCardKingSpades = element _giCardKingSpades
 
 foreign import _giCarDoor :: ReactIcon
 
-giCarDoor :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCarDoor = element (unsafeCoerce _giCarDoor)
+giCarDoor :: Icon
+giCarDoor = element _giCarDoor
 
 foreign import _giCardPick :: ReactIcon
 
-giCardPick :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCardPick = element (unsafeCoerce _giCardPick)
+giCardPick :: Icon
+giCardPick = element _giCardPick
 
 foreign import _giCardPickup :: ReactIcon
 
-giCardPickup :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCardPickup = element (unsafeCoerce _giCardPickup)
+giCardPickup :: Icon
+giCardPickup = element _giCardPickup
 
 foreign import _giCardPlay :: ReactIcon
 
-giCardPlay :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCardPlay = element (unsafeCoerce _giCardPlay)
+giCardPlay :: Icon
+giCardPlay = element _giCardPlay
 
 foreign import _giCardQueenClubs :: ReactIcon
 
-giCardQueenClubs :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCardQueenClubs = element (unsafeCoerce _giCardQueenClubs)
+giCardQueenClubs :: Icon
+giCardQueenClubs = element _giCardQueenClubs
 
 foreign import _giCardQueenDiamonds :: ReactIcon
 
-giCardQueenDiamonds :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCardQueenDiamonds = element (unsafeCoerce _giCardQueenDiamonds)
+giCardQueenDiamonds :: Icon
+giCardQueenDiamonds = element _giCardQueenDiamonds
 
 foreign import _giCardQueenHearts :: ReactIcon
 
-giCardQueenHearts :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCardQueenHearts = element (unsafeCoerce _giCardQueenHearts)
+giCardQueenHearts :: Icon
+giCardQueenHearts = element _giCardQueenHearts
 
 foreign import _giCardQueenSpades :: ReactIcon
 
-giCardQueenSpades :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCardQueenSpades = element (unsafeCoerce _giCardQueenSpades)
+giCardQueenSpades :: Icon
+giCardQueenSpades = element _giCardQueenSpades
 
 foreign import _giCardRandom :: ReactIcon
 
-giCardRandom :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCardRandom = element (unsafeCoerce _giCardRandom)
+giCardRandom :: Icon
+giCardRandom = element _giCardRandom
 
 foreign import _giCargoCrane :: ReactIcon
 
-giCargoCrane :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCargoCrane = element (unsafeCoerce _giCargoCrane)
+giCargoCrane :: Icon
+giCargoCrane = element _giCargoCrane
 
 foreign import _giCargoCrate :: ReactIcon
 
-giCargoCrate :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCargoCrate = element (unsafeCoerce _giCargoCrate)
+giCargoCrate :: Icon
+giCargoCrate = element _giCargoCrate
 
 foreign import _giCargoShip :: ReactIcon
 
-giCargoShip :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCargoShip = element (unsafeCoerce _giCargoShip)
+giCargoShip :: Icon
+giCargoShip = element _giCargoShip
 
 foreign import _giCarillon :: ReactIcon
 
-giCarillon :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCarillon = element (unsafeCoerce _giCarillon)
+giCarillon :: Icon
+giCarillon = element _giCarillon
 
 foreign import _giCarKey :: ReactIcon
 
-giCarKey :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCarKey = element (unsafeCoerce _giCarKey)
+giCarKey :: Icon
+giCarKey = element _giCarKey
 
 foreign import _giCarnivalMask :: ReactIcon
 
-giCarnivalMask :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCarnivalMask = element (unsafeCoerce _giCarnivalMask)
+giCarnivalMask :: Icon
+giCarnivalMask = element _giCarnivalMask
 
 foreign import _giCarnivoreMouth :: ReactIcon
 
-giCarnivoreMouth :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCarnivoreMouth = element (unsafeCoerce _giCarnivoreMouth)
+giCarnivoreMouth :: Icon
+giCarnivoreMouth = element _giCarnivoreMouth
 
 foreign import _giCarnivorousPlant :: ReactIcon
 
-giCarnivorousPlant :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCarnivorousPlant = element (unsafeCoerce _giCarnivorousPlant)
+giCarnivorousPlant :: Icon
+giCarnivorousPlant = element _giCarnivorousPlant
 
 foreign import _giCarnyx :: ReactIcon
 
-giCarnyx :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCarnyx = element (unsafeCoerce _giCarnyx)
+giCarnyx :: Icon
+giCarnyx = element _giCarnyx
 
 foreign import _giCarousel :: ReactIcon
 
-giCarousel :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCarousel = element (unsafeCoerce _giCarousel)
+giCarousel :: Icon
+giCarousel = element _giCarousel
 
 foreign import _giCarpetBombing :: ReactIcon
 
-giCarpetBombing :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCarpetBombing = element (unsafeCoerce _giCarpetBombing)
+giCarpetBombing :: Icon
+giCarpetBombing = element _giCarpetBombing
 
 foreign import _giCarrier :: ReactIcon
 
-giCarrier :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCarrier = element (unsafeCoerce _giCarrier)
+giCarrier :: Icon
+giCarrier = element _giCarrier
 
 foreign import _giCarrion :: ReactIcon
 
-giCarrion :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCarrion = element (unsafeCoerce _giCarrion)
+giCarrion :: Icon
+giCarrion = element _giCarrion
 
 foreign import _giCarrot :: ReactIcon
 
-giCarrot :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCarrot = element (unsafeCoerce _giCarrot)
+giCarrot :: Icon
+giCarrot = element _giCarrot
 
 foreign import _giCarSeat :: ReactIcon
 
-giCarSeat :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCarSeat = element (unsafeCoerce _giCarSeat)
+giCarSeat :: Icon
+giCarSeat = element _giCarSeat
 
 foreign import _giCartwheel :: ReactIcon
 
-giCartwheel :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCartwheel = element (unsafeCoerce _giCartwheel)
+giCartwheel :: Icon
+giCartwheel = element _giCartwheel
 
 foreign import _giCarWheel :: ReactIcon
 
-giCarWheel :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCarWheel = element (unsafeCoerce _giCarWheel)
+giCarWheel :: Icon
+giCarWheel = element _giCarWheel
 
 foreign import _giCash :: ReactIcon
 
-giCash :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCash = element (unsafeCoerce _giCash)
+giCash :: Icon
+giCash = element _giCash
 
 foreign import _giCassowaryHead :: ReactIcon
 
-giCassowaryHead :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCassowaryHead = element (unsafeCoerce _giCassowaryHead)
+giCassowaryHead :: Icon
+giCassowaryHead = element _giCassowaryHead
 
 foreign import _giCastle :: ReactIcon
 
-giCastle :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCastle = element (unsafeCoerce _giCastle)
+giCastle :: Icon
+giCastle = element _giCastle
 
 foreign import _giCastleRuins :: ReactIcon
 
-giCastleRuins :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCastleRuins = element (unsafeCoerce _giCastleRuins)
+giCastleRuins :: Icon
+giCastleRuins = element _giCastleRuins
 
 foreign import _giCat :: ReactIcon
 
-giCat :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCat = element (unsafeCoerce _giCat)
+giCat :: Icon
+giCat = element _giCat
 
 foreign import _giCatapult :: ReactIcon
 
-giCatapult :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCatapult = element (unsafeCoerce _giCatapult)
+giCatapult :: Icon
+giCatapult = element _giCatapult
 
 foreign import _giCatch :: ReactIcon
 
-giCatch :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCatch = element (unsafeCoerce _giCatch)
+giCatch :: Icon
+giCatch = element _giCatch
 
 foreign import _giCaterpillar :: ReactIcon
 
-giCaterpillar :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCaterpillar = element (unsafeCoerce _giCaterpillar)
+giCaterpillar :: Icon
+giCaterpillar = element _giCaterpillar
 
 foreign import _giCauldron :: ReactIcon
 
-giCauldron :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCauldron = element (unsafeCoerce _giCauldron)
+giCauldron :: Icon
+giCauldron = element _giCauldron
 
 foreign import _giCavalry :: ReactIcon
 
-giCavalry :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCavalry = element (unsafeCoerce _giCavalry)
+giCavalry :: Icon
+giCavalry = element _giCavalry
 
 foreign import _giCaveEntrance :: ReactIcon
 
-giCaveEntrance :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCaveEntrance = element (unsafeCoerce _giCaveEntrance)
+giCaveEntrance :: Icon
+giCaveEntrance = element _giCaveEntrance
 
 foreign import _giCaveman :: ReactIcon
 
-giCaveman :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCaveman = element (unsafeCoerce _giCaveman)
+giCaveman :: Icon
+giCaveman = element _giCaveman
 
 foreign import _giCctvCamera :: ReactIcon
 
-giCctvCamera :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCctvCamera = element (unsafeCoerce _giCctvCamera)
+giCctvCamera :: Icon
+giCctvCamera = element _giCctvCamera
 
 foreign import _giCeilingBarnacle :: ReactIcon
 
-giCeilingBarnacle :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCeilingBarnacle = element (unsafeCoerce _giCeilingBarnacle)
+giCeilingBarnacle :: Icon
+giCeilingBarnacle = element _giCeilingBarnacle
 
 foreign import _giCeilingLight :: ReactIcon
 
-giCeilingLight :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCeilingLight = element (unsafeCoerce _giCeilingLight)
+giCeilingLight :: Icon
+giCeilingLight = element _giCeilingLight
 
 foreign import _giCelebrationFire :: ReactIcon
 
-giCelebrationFire :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCelebrationFire = element (unsafeCoerce _giCelebrationFire)
+giCelebrationFire :: Icon
+giCelebrationFire = element _giCelebrationFire
 
 foreign import _giCellarBarrels :: ReactIcon
 
-giCellarBarrels :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCellarBarrels = element (unsafeCoerce _giCellarBarrels)
+giCellarBarrels :: Icon
+giCellarBarrels = element _giCellarBarrels
 
 foreign import _giCementShoes :: ReactIcon
 
-giCementShoes :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCementShoes = element (unsafeCoerce _giCementShoes)
+giCementShoes :: Icon
+giCementShoes = element _giCementShoes
 
 foreign import _giCentaur :: ReactIcon
 
-giCentaur :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCentaur = element (unsafeCoerce _giCentaur)
+giCentaur :: Icon
+giCentaur = element _giCentaur
 
 foreign import _giCentaurHeart :: ReactIcon
 
-giCentaurHeart :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCentaurHeart = element (unsafeCoerce _giCentaurHeart)
+giCentaurHeart :: Icon
+giCentaurHeart = element _giCentaurHeart
 
 foreign import _giCentipede :: ReactIcon
 
-giCentipede :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCentipede = element (unsafeCoerce _giCentipede)
+giCentipede :: Icon
+giCentipede = element _giCentipede
 
 foreign import _giCenturionHelmet :: ReactIcon
 
-giCenturionHelmet :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCenturionHelmet = element (unsafeCoerce _giCenturionHelmet)
+giCenturionHelmet :: Icon
+giCenturionHelmet = element _giCenturionHelmet
 
 foreign import _giCeremonialMask :: ReactIcon
 
-giCeremonialMask :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCeremonialMask = element (unsafeCoerce _giCeremonialMask)
+giCeremonialMask :: Icon
+giCeremonialMask = element _giCeremonialMask
 
 foreign import _giChainedArrowHeads :: ReactIcon
 
-giChainedArrowHeads :: forall a b. Union a b PropsIcon => Record a -> JSX
-giChainedArrowHeads = element (unsafeCoerce _giChainedArrowHeads)
+giChainedArrowHeads :: Icon
+giChainedArrowHeads = element _giChainedArrowHeads
 
 foreign import _giChainedHeart :: ReactIcon
 
-giChainedHeart :: forall a b. Union a b PropsIcon => Record a -> JSX
-giChainedHeart = element (unsafeCoerce _giChainedHeart)
+giChainedHeart :: Icon
+giChainedHeart = element _giChainedHeart
 
 foreign import _giChaingun :: ReactIcon
 
-giChaingun :: forall a b. Union a b PropsIcon => Record a -> JSX
-giChaingun = element (unsafeCoerce _giChaingun)
+giChaingun :: Icon
+giChaingun = element _giChaingun
 
 foreign import _giChainLightning :: ReactIcon
 
-giChainLightning :: forall a b. Union a b PropsIcon => Record a -> JSX
-giChainLightning = element (unsafeCoerce _giChainLightning)
+giChainLightning :: Icon
+giChainLightning = element _giChainLightning
 
 foreign import _giChainMail :: ReactIcon
 
-giChainMail :: forall a b. Union a b PropsIcon => Record a -> JSX
-giChainMail = element (unsafeCoerce _giChainMail)
+giChainMail :: Icon
+giChainMail = element _giChainMail
 
 foreign import _giChainsaw :: ReactIcon
 
-giChainsaw :: forall a b. Union a b PropsIcon => Record a -> JSX
-giChainsaw = element (unsafeCoerce _giChainsaw)
+giChainsaw :: Icon
+giChainsaw = element _giChainsaw
 
 foreign import _giChakram :: ReactIcon
 
-giChakram :: forall a b. Union a b PropsIcon => Record a -> JSX
-giChakram = element (unsafeCoerce _giChakram)
+giChakram :: Icon
+giChakram = element _giChakram
 
 foreign import _giChaliceDrops :: ReactIcon
 
-giChaliceDrops :: forall a b. Union a b PropsIcon => Record a -> JSX
-giChaliceDrops = element (unsafeCoerce _giChaliceDrops)
+giChaliceDrops :: Icon
+giChaliceDrops = element _giChaliceDrops
 
 foreign import _giChalkOutlineMurder :: ReactIcon
 
-giChalkOutlineMurder :: forall a b. Union a b PropsIcon => Record a -> JSX
-giChalkOutlineMurder = element (unsafeCoerce _giChalkOutlineMurder)
+giChalkOutlineMurder :: Icon
+giChalkOutlineMurder = element _giChalkOutlineMurder
 
 foreign import _giChameleonGlyph :: ReactIcon
 
-giChameleonGlyph :: forall a b. Union a b PropsIcon => Record a -> JSX
-giChameleonGlyph = element (unsafeCoerce _giChameleonGlyph)
+giChameleonGlyph :: Icon
+giChameleonGlyph = element _giChameleonGlyph
 
 foreign import _giChampagneCork :: ReactIcon
 
-giChampagneCork :: forall a b. Union a b PropsIcon => Record a -> JSX
-giChampagneCork = element (unsafeCoerce _giChampagneCork)
+giChampagneCork :: Icon
+giChampagneCork = element _giChampagneCork
 
 foreign import _giChampions :: ReactIcon
 
-giChampions :: forall a b. Union a b PropsIcon => Record a -> JSX
-giChampions = element (unsafeCoerce _giChampions)
+giChampions :: Icon
+giChampions = element _giChampions
 
 foreign import _giChanterelles :: ReactIcon
 
-giChanterelles :: forall a b. Union a b PropsIcon => Record a -> JSX
-giChanterelles = element (unsafeCoerce _giChanterelles)
+giChanterelles :: Icon
+giChanterelles = element _giChanterelles
 
 foreign import _giCharacter :: ReactIcon
 
-giCharacter :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCharacter = element (unsafeCoerce _giCharacter)
+giCharacter :: Icon
+giCharacter = element _giCharacter
 
 foreign import _giCharcuterie :: ReactIcon
 
-giCharcuterie :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCharcuterie = element (unsafeCoerce _giCharcuterie)
+giCharcuterie :: Icon
+giCharcuterie = element _giCharcuterie
 
 foreign import _giChargedArrow :: ReactIcon
 
-giChargedArrow :: forall a b. Union a b PropsIcon => Record a -> JSX
-giChargedArrow = element (unsafeCoerce _giChargedArrow)
+giChargedArrow :: Icon
+giChargedArrow = element _giChargedArrow
 
 foreign import _giCharging :: ReactIcon
 
-giCharging :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCharging = element (unsafeCoerce _giCharging)
+giCharging :: Icon
+giCharging = element _giCharging
 
 foreign import _giChargingBull :: ReactIcon
 
-giChargingBull :: forall a b. Union a b PropsIcon => Record a -> JSX
-giChargingBull = element (unsafeCoerce _giChargingBull)
+giChargingBull :: Icon
+giChargingBull = element _giChargingBull
 
 foreign import _giChariot :: ReactIcon
 
-giChariot :: forall a b. Union a b PropsIcon => Record a -> JSX
-giChariot = element (unsafeCoerce _giChariot)
+giChariot :: Icon
+giChariot = element _giChariot
 
 foreign import _giCharm :: ReactIcon
 
-giCharm :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCharm = element (unsafeCoerce _giCharm)
+giCharm :: Icon
+giCharm = element _giCharm
 
 foreign import _giChart :: ReactIcon
 
-giChart :: forall a b. Union a b PropsIcon => Record a -> JSX
-giChart = element (unsafeCoerce _giChart)
+giChart :: Icon
+giChart = element _giChart
 
 foreign import _giChatBubble :: ReactIcon
 
-giChatBubble :: forall a b. Union a b PropsIcon => Record a -> JSX
-giChatBubble = element (unsafeCoerce _giChatBubble)
+giChatBubble :: Icon
+giChatBubble = element _giChatBubble
 
 foreign import _giCheckboxTree :: ReactIcon
 
-giCheckboxTree :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCheckboxTree = element (unsafeCoerce _giCheckboxTree)
+giCheckboxTree :: Icon
+giCheckboxTree = element _giCheckboxTree
 
 foreign import _giCheckedShield :: ReactIcon
 
-giCheckedShield :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCheckedShield = element (unsafeCoerce _giCheckedShield)
+giCheckedShield :: Icon
+giCheckedShield = element _giCheckedShield
 
 foreign import _giCheckeredDiamond :: ReactIcon
 
-giCheckeredDiamond :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCheckeredDiamond = element (unsafeCoerce _giCheckeredDiamond)
+giCheckeredDiamond :: Icon
+giCheckeredDiamond = element _giCheckeredDiamond
 
 foreign import _giCheckeredFlag :: ReactIcon
 
-giCheckeredFlag :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCheckeredFlag = element (unsafeCoerce _giCheckeredFlag)
+giCheckeredFlag :: Icon
+giCheckeredFlag = element _giCheckeredFlag
 
 foreign import _giChecklist :: ReactIcon
 
-giChecklist :: forall a b. Union a b PropsIcon => Record a -> JSX
-giChecklist = element (unsafeCoerce _giChecklist)
+giChecklist :: Icon
+giChecklist = element _giChecklist
 
 foreign import _giCheckMark :: ReactIcon
 
-giCheckMark :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCheckMark = element (unsafeCoerce _giCheckMark)
+giCheckMark :: Icon
+giCheckMark = element _giCheckMark
 
 foreign import _giCheerful :: ReactIcon
 
-giCheerful :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCheerful = element (unsafeCoerce _giCheerful)
+giCheerful :: Icon
+giCheerful = element _giCheerful
 
 foreign import _giCheeseWedge :: ReactIcon
 
-giCheeseWedge :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCheeseWedge = element (unsafeCoerce _giCheeseWedge)
+giCheeseWedge :: Icon
+giCheeseWedge = element _giCheeseWedge
 
 foreign import _giChefToque :: ReactIcon
 
-giChefToque :: forall a b. Union a b PropsIcon => Record a -> JSX
-giChefToque = element (unsafeCoerce _giChefToque)
+giChefToque :: Icon
+giChefToque = element _giChefToque
 
 foreign import _giChelseaBoot :: ReactIcon
 
-giChelseaBoot :: forall a b. Union a b PropsIcon => Record a -> JSX
-giChelseaBoot = element (unsafeCoerce _giChelseaBoot)
+giChelseaBoot :: Icon
+giChelseaBoot = element _giChelseaBoot
 
 foreign import _giChemicalArrow :: ReactIcon
 
-giChemicalArrow :: forall a b. Union a b PropsIcon => Record a -> JSX
-giChemicalArrow = element (unsafeCoerce _giChemicalArrow)
+giChemicalArrow :: Icon
+giChemicalArrow = element _giChemicalArrow
 
 foreign import _giChemicalBolt :: ReactIcon
 
-giChemicalBolt :: forall a b. Union a b PropsIcon => Record a -> JSX
-giChemicalBolt = element (unsafeCoerce _giChemicalBolt)
+giChemicalBolt :: Icon
+giChemicalBolt = element _giChemicalBolt
 
 foreign import _giChemicalDrop :: ReactIcon
 
-giChemicalDrop :: forall a b. Union a b PropsIcon => Record a -> JSX
-giChemicalDrop = element (unsafeCoerce _giChemicalDrop)
+giChemicalDrop :: Icon
+giChemicalDrop = element _giChemicalDrop
 
 foreign import _giChemicalTank :: ReactIcon
 
-giChemicalTank :: forall a b. Union a b PropsIcon => Record a -> JSX
-giChemicalTank = element (unsafeCoerce _giChemicalTank)
+giChemicalTank :: Icon
+giChemicalTank = element _giChemicalTank
 
 foreign import _giCherish :: ReactIcon
 
-giCherish :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCherish = element (unsafeCoerce _giCherish)
+giCherish :: Icon
+giCherish = element _giCherish
 
 foreign import _giCherry :: ReactIcon
 
-giCherry :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCherry = element (unsafeCoerce _giCherry)
+giCherry :: Icon
+giCherry = element _giCherry
 
 foreign import _giChessBishop :: ReactIcon
 
-giChessBishop :: forall a b. Union a b PropsIcon => Record a -> JSX
-giChessBishop = element (unsafeCoerce _giChessBishop)
+giChessBishop :: Icon
+giChessBishop = element _giChessBishop
 
 foreign import _giChessKing :: ReactIcon
 
-giChessKing :: forall a b. Union a b PropsIcon => Record a -> JSX
-giChessKing = element (unsafeCoerce _giChessKing)
+giChessKing :: Icon
+giChessKing = element _giChessKing
 
 foreign import _giChessKnight :: ReactIcon
 
-giChessKnight :: forall a b. Union a b PropsIcon => Record a -> JSX
-giChessKnight = element (unsafeCoerce _giChessKnight)
+giChessKnight :: Icon
+giChessKnight = element _giChessKnight
 
 foreign import _giChessPawn :: ReactIcon
 
-giChessPawn :: forall a b. Union a b PropsIcon => Record a -> JSX
-giChessPawn = element (unsafeCoerce _giChessPawn)
+giChessPawn :: Icon
+giChessPawn = element _giChessPawn
 
 foreign import _giChessQueen :: ReactIcon
 
-giChessQueen :: forall a b. Union a b PropsIcon => Record a -> JSX
-giChessQueen = element (unsafeCoerce _giChessQueen)
+giChessQueen :: Icon
+giChessQueen = element _giChessQueen
 
 foreign import _giChessRook :: ReactIcon
 
-giChessRook :: forall a b. Union a b PropsIcon => Record a -> JSX
-giChessRook = element (unsafeCoerce _giChessRook)
+giChessRook :: Icon
+giChessRook = element _giChessRook
 
 foreign import _giChest :: ReactIcon
 
-giChest :: forall a b. Union a b PropsIcon => Record a -> JSX
-giChest = element (unsafeCoerce _giChest)
+giChest :: Icon
+giChest = element _giChest
 
 foreign import _giChestArmor :: ReactIcon
 
-giChestArmor :: forall a b. Union a b PropsIcon => Record a -> JSX
-giChestArmor = element (unsafeCoerce _giChestArmor)
+giChestArmor :: Icon
+giChestArmor = element _giChestArmor
 
 foreign import _giChestnutLeaf :: ReactIcon
 
-giChestnutLeaf :: forall a b. Union a b PropsIcon => Record a -> JSX
-giChestnutLeaf = element (unsafeCoerce _giChestnutLeaf)
+giChestnutLeaf :: Icon
+giChestnutLeaf = element _giChestnutLeaf
 
 foreign import _giChewedHeart :: ReactIcon
 
-giChewedHeart :: forall a b. Union a b PropsIcon => Record a -> JSX
-giChewedHeart = element (unsafeCoerce _giChewedHeart)
+giChewedHeart :: Icon
+giChewedHeart = element _giChewedHeart
 
 foreign import _giChewedSkull :: ReactIcon
 
-giChewedSkull :: forall a b. Union a b PropsIcon => Record a -> JSX
-giChewedSkull = element (unsafeCoerce _giChewedSkull)
+giChewedSkull :: Icon
+giChewedSkull = element _giChewedSkull
 
 foreign import _giChicken :: ReactIcon
 
-giChicken :: forall a b. Union a b PropsIcon => Record a -> JSX
-giChicken = element (unsafeCoerce _giChicken)
+giChicken :: Icon
+giChicken = element _giChicken
 
 foreign import _giChickenLeg :: ReactIcon
 
-giChickenLeg :: forall a b. Union a b PropsIcon => Record a -> JSX
-giChickenLeg = element (unsafeCoerce _giChickenLeg)
+giChickenLeg :: Icon
+giChickenLeg = element _giChickenLeg
 
 foreign import _giChickenOven :: ReactIcon
 
-giChickenOven :: forall a b. Union a b PropsIcon => Record a -> JSX
-giChickenOven = element (unsafeCoerce _giChickenOven)
+giChickenOven :: Icon
+giChickenOven = element _giChickenOven
 
 foreign import _giChiliPepper :: ReactIcon
 
-giChiliPepper :: forall a b. Union a b PropsIcon => Record a -> JSX
-giChiliPepper = element (unsafeCoerce _giChiliPepper)
+giChiliPepper :: Icon
+giChiliPepper = element _giChiliPepper
 
 foreign import _giChimney :: ReactIcon
 
-giChimney :: forall a b. Union a b PropsIcon => Record a -> JSX
-giChimney = element (unsafeCoerce _giChimney)
+giChimney :: Icon
+giChimney = element _giChimney
 
 foreign import _giChipsBag :: ReactIcon
 
-giChipsBag :: forall a b. Union a b PropsIcon => Record a -> JSX
-giChipsBag = element (unsafeCoerce _giChipsBag)
+giChipsBag :: Icon
+giChipsBag = element _giChipsBag
 
 foreign import _giChisel :: ReactIcon
 
-giChisel :: forall a b. Union a b PropsIcon => Record a -> JSX
-giChisel = element (unsafeCoerce _giChisel)
+giChisel :: Icon
+giChisel = element _giChisel
 
 foreign import _giChocolateBar :: ReactIcon
 
-giChocolateBar :: forall a b. Union a b PropsIcon => Record a -> JSX
-giChocolateBar = element (unsafeCoerce _giChocolateBar)
+giChocolateBar :: Icon
+giChocolateBar = element _giChocolateBar
 
 foreign import _giChoice :: ReactIcon
 
-giChoice :: forall a b. Union a b PropsIcon => Record a -> JSX
-giChoice = element (unsafeCoerce _giChoice)
+giChoice :: Icon
+giChoice = element _giChoice
 
 foreign import _giChoppedSkull :: ReactIcon
 
-giChoppedSkull :: forall a b. Union a b PropsIcon => Record a -> JSX
-giChoppedSkull = element (unsafeCoerce _giChoppedSkull)
+giChoppedSkull :: Icon
+giChoppedSkull = element _giChoppedSkull
 
 foreign import _giChopsticks :: ReactIcon
 
-giChopsticks :: forall a b. Union a b PropsIcon => Record a -> JSX
-giChopsticks = element (unsafeCoerce _giChopsticks)
+giChopsticks :: Icon
+giChopsticks = element _giChopsticks
 
 foreign import _giChurch :: ReactIcon
 
-giChurch :: forall a b. Union a b PropsIcon => Record a -> JSX
-giChurch = element (unsafeCoerce _giChurch)
+giChurch :: Icon
+giChurch = element _giChurch
 
 foreign import _giCigale :: ReactIcon
 
-giCigale :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCigale = element (unsafeCoerce _giCigale)
+giCigale :: Icon
+giCigale = element _giCigale
 
 foreign import _giCigar :: ReactIcon
 
-giCigar :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCigar = element (unsafeCoerce _giCigar)
+giCigar :: Icon
+giCigar = element _giCigar
 
 foreign import _giCigarette :: ReactIcon
 
-giCigarette :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCigarette = element (unsafeCoerce _giCigarette)
+giCigarette :: Icon
+giCigarette = element _giCigarette
 
 foreign import _giCircle :: ReactIcon
 
-giCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCircle = element (unsafeCoerce _giCircle)
+giCircle :: Icon
+giCircle = element _giCircle
 
 foreign import _giCircleCage :: ReactIcon
 
-giCircleCage :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCircleCage = element (unsafeCoerce _giCircleCage)
+giCircleCage :: Icon
+giCircleCage = element _giCircleCage
 
 foreign import _giCircleClaws :: ReactIcon
 
-giCircleClaws :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCircleClaws = element (unsafeCoerce _giCircleClaws)
+giCircleClaws :: Icon
+giCircleClaws = element _giCircleClaws
 
 foreign import _giCircleForest :: ReactIcon
 
-giCircleForest :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCircleForest = element (unsafeCoerce _giCircleForest)
+giCircleForest :: Icon
+giCircleForest = element _giCircleForest
 
 foreign import _giCircleSparks :: ReactIcon
 
-giCircleSparks :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCircleSparks = element (unsafeCoerce _giCircleSparks)
+giCircleSparks :: Icon
+giCircleSparks = element _giCircleSparks
 
 foreign import _giCirclingFish :: ReactIcon
 
-giCirclingFish :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCirclingFish = element (unsafeCoerce _giCirclingFish)
+giCirclingFish :: Icon
+giCirclingFish = element _giCirclingFish
 
 foreign import _giCircuitry :: ReactIcon
 
-giCircuitry :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCircuitry = element (unsafeCoerce _giCircuitry)
+giCircuitry :: Icon
+giCircuitry = element _giCircuitry
 
 foreign import _giCircularSaw :: ReactIcon
 
-giCircularSaw :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCircularSaw = element (unsafeCoerce _giCircularSaw)
+giCircularSaw :: Icon
+giCircularSaw = element _giCircularSaw
 
 foreign import _giCircularSawblade :: ReactIcon
 
-giCircularSawblade :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCircularSawblade = element (unsafeCoerce _giCircularSawblade)
+giCircularSawblade :: Icon
+giCircularSawblade = element _giCircularSawblade
 
 foreign import _giCityCar :: ReactIcon
 
-giCityCar :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCityCar = element (unsafeCoerce _giCityCar)
+giCityCar :: Icon
+giCityCar = element _giCityCar
 
 foreign import _giClamp :: ReactIcon
 
-giClamp :: forall a b. Union a b PropsIcon => Record a -> JSX
-giClamp = element (unsafeCoerce _giClamp)
+giClamp :: Icon
+giClamp = element _giClamp
 
 foreign import _giClapperboard :: ReactIcon
 
-giClapperboard :: forall a b. Union a b PropsIcon => Record a -> JSX
-giClapperboard = element (unsafeCoerce _giClapperboard)
+giClapperboard :: Icon
+giClapperboard = element _giClapperboard
 
 foreign import _giClarinet :: ReactIcon
 
-giClarinet :: forall a b. Union a b PropsIcon => Record a -> JSX
-giClarinet = element (unsafeCoerce _giClarinet)
+giClarinet :: Icon
+giClarinet = element _giClarinet
 
 foreign import _giClassicalKnowledge :: ReactIcon
 
-giClassicalKnowledge :: forall a b. Union a b PropsIcon => Record a -> JSX
-giClassicalKnowledge = element (unsafeCoerce _giClassicalKnowledge)
+giClassicalKnowledge :: Icon
+giClassicalKnowledge = element _giClassicalKnowledge
 
 foreign import _giClaw :: ReactIcon
 
-giClaw :: forall a b. Union a b PropsIcon => Record a -> JSX
-giClaw = element (unsafeCoerce _giClaw)
+giClaw :: Icon
+giClaw = element _giClaw
 
 foreign import _giClawHammer :: ReactIcon
 
-giClawHammer :: forall a b. Union a b PropsIcon => Record a -> JSX
-giClawHammer = element (unsafeCoerce _giClawHammer)
+giClawHammer :: Icon
+giClawHammer = element _giClawHammer
 
 foreign import _giClaws :: ReactIcon
 
-giClaws :: forall a b. Union a b PropsIcon => Record a -> JSX
-giClaws = element (unsafeCoerce _giClaws)
+giClaws :: Icon
+giClaws = element _giClaws
 
 foreign import _giClawSlashes :: ReactIcon
 
-giClawSlashes :: forall a b. Union a b PropsIcon => Record a -> JSX
-giClawSlashes = element (unsafeCoerce _giClawSlashes)
+giClawSlashes :: Icon
+giClawSlashes = element _giClawSlashes
 
 foreign import _giClawString :: ReactIcon
 
-giClawString :: forall a b. Union a b PropsIcon => Record a -> JSX
-giClawString = element (unsafeCoerce _giClawString)
+giClawString :: Icon
+giClawString = element _giClawString
 
 foreign import _giClayBrick :: ReactIcon
 
-giClayBrick :: forall a b. Union a b PropsIcon => Record a -> JSX
-giClayBrick = element (unsafeCoerce _giClayBrick)
+giClayBrick :: Icon
+giClayBrick = element _giClayBrick
 
 foreign import _giClaymoreExplosive :: ReactIcon
 
-giClaymoreExplosive :: forall a b. Union a b PropsIcon => Record a -> JSX
-giClaymoreExplosive = element (unsafeCoerce _giClaymoreExplosive)
+giClaymoreExplosive :: Icon
+giClaymoreExplosive = element _giClaymoreExplosive
 
 foreign import _giCleaver :: ReactIcon
 
-giCleaver :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCleaver = element (unsafeCoerce _giCleaver)
+giCleaver :: Icon
+giCleaver = element _giCleaver
 
 foreign import _giCleopatra :: ReactIcon
 
-giCleopatra :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCleopatra = element (unsafeCoerce _giCleopatra)
+giCleopatra :: Icon
+giCleopatra = element _giCleopatra
 
 foreign import _giClick :: ReactIcon
 
-giClick :: forall a b. Union a b PropsIcon => Record a -> JSX
-giClick = element (unsafeCoerce _giClick)
+giClick :: Icon
+giClick = element _giClick
 
 foreign import _giCliffCrossing :: ReactIcon
 
-giCliffCrossing :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCliffCrossing = element (unsafeCoerce _giCliffCrossing)
+giCliffCrossing :: Icon
+giCliffCrossing = element _giCliffCrossing
 
 foreign import _giCloak :: ReactIcon
 
-giCloak :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCloak = element (unsafeCoerce _giCloak)
+giCloak :: Icon
+giCloak = element _giCloak
 
 foreign import _giCloakDagger :: ReactIcon
 
-giCloakDagger :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCloakDagger = element (unsafeCoerce _giCloakDagger)
+giCloakDagger :: Icon
+giCloakDagger = element _giCloakDagger
 
 foreign import _giClockwiseRotation :: ReactIcon
 
-giClockwiseRotation :: forall a b. Union a b PropsIcon => Record a -> JSX
-giClockwiseRotation = element (unsafeCoerce _giClockwiseRotation)
+giClockwiseRotation :: Icon
+giClockwiseRotation = element _giClockwiseRotation
 
 foreign import _giClockwork :: ReactIcon
 
-giClockwork :: forall a b. Union a b PropsIcon => Record a -> JSX
-giClockwork = element (unsafeCoerce _giClockwork)
+giClockwork :: Icon
+giClockwork = element _giClockwork
 
 foreign import _giClosedBarbute :: ReactIcon
 
-giClosedBarbute :: forall a b. Union a b PropsIcon => Record a -> JSX
-giClosedBarbute = element (unsafeCoerce _giClosedBarbute)
+giClosedBarbute :: Icon
+giClosedBarbute = element _giClosedBarbute
 
 foreign import _giClosedDoors :: ReactIcon
 
-giClosedDoors :: forall a b. Union a b PropsIcon => Record a -> JSX
-giClosedDoors = element (unsafeCoerce _giClosedDoors)
+giClosedDoors :: Icon
+giClosedDoors = element _giClosedDoors
 
 foreign import _giClothes :: ReactIcon
 
-giClothes :: forall a b. Union a b PropsIcon => Record a -> JSX
-giClothes = element (unsafeCoerce _giClothes)
+giClothes :: Icon
+giClothes = element _giClothes
 
 foreign import _giClothesline :: ReactIcon
 
-giClothesline :: forall a b. Union a b PropsIcon => Record a -> JSX
-giClothesline = element (unsafeCoerce _giClothesline)
+giClothesline :: Icon
+giClothesline = element _giClothesline
 
 foreign import _giClothespin :: ReactIcon
 
-giClothespin :: forall a b. Union a b PropsIcon => Record a -> JSX
-giClothespin = element (unsafeCoerce _giClothespin)
+giClothespin :: Icon
+giClothespin = element _giClothespin
 
 foreign import _giClothJar :: ReactIcon
 
-giClothJar :: forall a b. Union a b PropsIcon => Record a -> JSX
-giClothJar = element (unsafeCoerce _giClothJar)
+giClothJar :: Icon
+giClothJar = element _giClothJar
 
 foreign import _giCloudDownload :: ReactIcon
 
-giCloudDownload :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCloudDownload = element (unsafeCoerce _giCloudDownload)
+giCloudDownload :: Icon
+giCloudDownload = element _giCloudDownload
 
 foreign import _giCloudRing :: ReactIcon
 
-giCloudRing :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCloudRing = element (unsafeCoerce _giCloudRing)
+giCloudRing :: Icon
+giCloudRing = element _giCloudRing
 
 foreign import _giCloudUpload :: ReactIcon
 
-giCloudUpload :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCloudUpload = element (unsafeCoerce _giCloudUpload)
+giCloudUpload :: Icon
+giCloudUpload = element _giCloudUpload
 
 foreign import _giCloudyFork :: ReactIcon
 
-giCloudyFork :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCloudyFork = element (unsafeCoerce _giCloudyFork)
+giCloudyFork :: Icon
+giCloudyFork = element _giCloudyFork
 
 foreign import _giClout :: ReactIcon
 
-giClout :: forall a b. Union a b PropsIcon => Record a -> JSX
-giClout = element (unsafeCoerce _giClout)
+giClout :: Icon
+giClout = element _giClout
 
 foreign import _giClover :: ReactIcon
 
-giClover :: forall a b. Union a b PropsIcon => Record a -> JSX
-giClover = element (unsafeCoerce _giClover)
+giClover :: Icon
+giClover = element _giClover
 
 foreign import _giCloverSpiked :: ReactIcon
 
-giCloverSpiked :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCloverSpiked = element (unsafeCoerce _giCloverSpiked)
+giCloverSpiked :: Icon
+giCloverSpiked = element _giCloverSpiked
 
 foreign import _giClown :: ReactIcon
 
-giClown :: forall a b. Union a b PropsIcon => Record a -> JSX
-giClown = element (unsafeCoerce _giClown)
+giClown :: Icon
+giClown = element _giClown
 
 foreign import _giClownfish :: ReactIcon
 
-giClownfish :: forall a b. Union a b PropsIcon => Record a -> JSX
-giClownfish = element (unsafeCoerce _giClownfish)
+giClownfish :: Icon
+giClownfish = element _giClownfish
 
 foreign import _giClubs :: ReactIcon
 
-giClubs :: forall a b. Union a b PropsIcon => Record a -> JSX
-giClubs = element (unsafeCoerce _giClubs)
+giClubs :: Icon
+giClubs = element _giClubs
 
 foreign import _giClusterBomb :: ReactIcon
 
-giClusterBomb :: forall a b. Union a b PropsIcon => Record a -> JSX
-giClusterBomb = element (unsafeCoerce _giClusterBomb)
+giClusterBomb :: Icon
+giClusterBomb = element _giClusterBomb
 
 foreign import _giCoaDeJima :: ReactIcon
 
-giCoaDeJima :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCoaDeJima = element (unsafeCoerce _giCoaDeJima)
+giCoaDeJima :: Icon
+giCoaDeJima = element _giCoaDeJima
 
 foreign import _giCoalPile :: ReactIcon
 
-giCoalPile :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCoalPile = element (unsafeCoerce _giCoalPile)
+giCoalPile :: Icon
+giCoalPile = element _giCoalPile
 
 foreign import _giCoalWagon :: ReactIcon
 
-giCoalWagon :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCoalWagon = element (unsafeCoerce _giCoalWagon)
+giCoalWagon :: Icon
+giCoalWagon = element _giCoalWagon
 
 foreign import _giCobra :: ReactIcon
 
-giCobra :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCobra = element (unsafeCoerce _giCobra)
+giCobra :: Icon
+giCobra = element _giCobra
 
 foreign import _giCobweb :: ReactIcon
 
-giCobweb :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCobweb = element (unsafeCoerce _giCobweb)
+giCobweb :: Icon
+giCobweb = element _giCobweb
 
 foreign import _giCoconuts :: ReactIcon
 
-giCoconuts :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCoconuts = element (unsafeCoerce _giCoconuts)
+giCoconuts :: Icon
+giCoconuts = element _giCoconuts
 
 foreign import _giCoffeeBeans :: ReactIcon
 
-giCoffeeBeans :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCoffeeBeans = element (unsafeCoerce _giCoffeeBeans)
+giCoffeeBeans :: Icon
+giCoffeeBeans = element _giCoffeeBeans
 
 foreign import _giCoffeeCup :: ReactIcon
 
-giCoffeeCup :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCoffeeCup = element (unsafeCoerce _giCoffeeCup)
+giCoffeeCup :: Icon
+giCoffeeCup = element _giCoffeeCup
 
 foreign import _giCoffeeMug :: ReactIcon
 
-giCoffeeMug :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCoffeeMug = element (unsafeCoerce _giCoffeeMug)
+giCoffeeMug :: Icon
+giCoffeeMug = element _giCoffeeMug
 
 foreign import _giCoffeePot :: ReactIcon
 
-giCoffeePot :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCoffeePot = element (unsafeCoerce _giCoffeePot)
+giCoffeePot :: Icon
+giCoffeePot = element _giCoffeePot
 
 foreign import _giCoffin :: ReactIcon
 
-giCoffin :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCoffin = element (unsafeCoerce _giCoffin)
+giCoffin :: Icon
+giCoffin = element _giCoffin
 
 foreign import _giCog :: ReactIcon
 
-giCog :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCog = element (unsafeCoerce _giCog)
+giCog :: Icon
+giCog = element _giCog
 
 foreign import _giCogLock :: ReactIcon
 
-giCogLock :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCogLock = element (unsafeCoerce _giCogLock)
+giCogLock :: Icon
+giCogLock = element _giCogLock
 
 foreign import _giCogsplosion :: ReactIcon
 
-giCogsplosion :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCogsplosion = element (unsafeCoerce _giCogsplosion)
+giCogsplosion :: Icon
+giCogsplosion = element _giCogsplosion
 
 foreign import _giCoiledNail :: ReactIcon
 
-giCoiledNail :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCoiledNail = element (unsafeCoerce _giCoiledNail)
+giCoiledNail :: Icon
+giCoiledNail = element _giCoiledNail
 
 foreign import _giCoilingCurl :: ReactIcon
 
-giCoilingCurl :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCoilingCurl = element (unsafeCoerce _giCoilingCurl)
+giCoilingCurl :: Icon
+giCoilingCurl = element _giCoilingCurl
 
 foreign import _giCoinflip :: ReactIcon
 
-giCoinflip :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCoinflip = element (unsafeCoerce _giCoinflip)
+giCoinflip :: Icon
+giCoinflip = element _giCoinflip
 
 foreign import _giCoins :: ReactIcon
 
-giCoins :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCoins = element (unsafeCoerce _giCoins)
+giCoins :: Icon
+giCoins = element _giCoins
 
 foreign import _giCoinsPile :: ReactIcon
 
-giCoinsPile :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCoinsPile = element (unsafeCoerce _giCoinsPile)
+giCoinsPile :: Icon
+giCoinsPile = element _giCoinsPile
 
 foreign import _giColdHeart :: ReactIcon
 
-giColdHeart :: forall a b. Union a b PropsIcon => Record a -> JSX
-giColdHeart = element (unsafeCoerce _giColdHeart)
+giColdHeart :: Icon
+giColdHeart = element _giColdHeart
 
 foreign import _giColiseum :: ReactIcon
 
-giColiseum :: forall a b. Union a b PropsIcon => Record a -> JSX
-giColiseum = element (unsafeCoerce _giColiseum)
+giColiseum :: Icon
+giColiseum = element _giColiseum
 
 foreign import _giColombia :: ReactIcon
 
-giColombia :: forall a b. Union a b PropsIcon => Record a -> JSX
-giColombia = element (unsafeCoerce _giColombia)
+giColombia :: Icon
+giColombia = element _giColombia
 
 foreign import _giColombianStatue :: ReactIcon
 
-giColombianStatue :: forall a b. Union a b PropsIcon => Record a -> JSX
-giColombianStatue = element (unsafeCoerce _giColombianStatue)
+giColombianStatue :: Icon
+giColombianStatue = element _giColombianStatue
 
 foreign import _giColumnVase :: ReactIcon
 
-giColumnVase :: forall a b. Union a b PropsIcon => Record a -> JSX
-giColumnVase = element (unsafeCoerce _giColumnVase)
+giColumnVase :: Icon
+giColumnVase = element _giColumnVase
 
 foreign import _giComa :: ReactIcon
 
-giComa :: forall a b. Union a b PropsIcon => Record a -> JSX
-giComa = element (unsafeCoerce _giComa)
+giComa :: Icon
+giComa = element _giComa
 
 foreign import _giComb :: ReactIcon
 
-giComb :: forall a b. Union a b PropsIcon => Record a -> JSX
-giComb = element (unsafeCoerce _giComb)
+giComb :: Icon
+giComb = element _giComb
 
 foreign import _giCombinationLock :: ReactIcon
 
-giCombinationLock :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCombinationLock = element (unsafeCoerce _giCombinationLock)
+giCombinationLock :: Icon
+giCombinationLock = element _giCombinationLock
 
 foreign import _giCometSpark :: ReactIcon
 
-giCometSpark :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCometSpark = element (unsafeCoerce _giCometSpark)
+giCometSpark :: Icon
+giCometSpark = element _giCometSpark
 
 foreign import _giCommercialAirplane :: ReactIcon
 
-giCommercialAirplane :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCommercialAirplane = element (unsafeCoerce _giCommercialAirplane)
+giCommercialAirplane :: Icon
+giCommercialAirplane = element _giCommercialAirplane
 
 foreign import _giCompactDisc :: ReactIcon
 
-giCompactDisc :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCompactDisc = element (unsafeCoerce _giCompactDisc)
+giCompactDisc :: Icon
+giCompactDisc = element _giCompactDisc
 
 foreign import _giCompanionCube :: ReactIcon
 
-giCompanionCube :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCompanionCube = element (unsafeCoerce _giCompanionCube)
+giCompanionCube :: Icon
+giCompanionCube = element _giCompanionCube
 
 foreign import _giCompass :: ReactIcon
 
-giCompass :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCompass = element (unsafeCoerce _giCompass)
+giCompass :: Icon
+giCompass = element _giCompass
 
 foreign import _giComputerFan :: ReactIcon
 
-giComputerFan :: forall a b. Union a b PropsIcon => Record a -> JSX
-giComputerFan = element (unsafeCoerce _giComputerFan)
+giComputerFan :: Icon
+giComputerFan = element _giComputerFan
 
 foreign import _giComputing :: ReactIcon
 
-giComputing :: forall a b. Union a b PropsIcon => Record a -> JSX
-giComputing = element (unsafeCoerce _giComputing)
+giComputing :: Icon
+giComputing = element _giComputing
 
 foreign import _giConcentrationOrb :: ReactIcon
 
-giConcentrationOrb :: forall a b. Union a b PropsIcon => Record a -> JSX
-giConcentrationOrb = element (unsafeCoerce _giConcentrationOrb)
+giConcentrationOrb :: Icon
+giConcentrationOrb = element _giConcentrationOrb
 
 foreign import _giConcentricCrescents :: ReactIcon
 
-giConcentricCrescents :: forall a b. Union a b PropsIcon => Record a -> JSX
-giConcentricCrescents = element (unsafeCoerce _giConcentricCrescents)
+giConcentricCrescents :: Icon
+giConcentricCrescents = element _giConcentricCrescents
 
 foreign import _giConcreteBag :: ReactIcon
 
-giConcreteBag :: forall a b. Union a b PropsIcon => Record a -> JSX
-giConcreteBag = element (unsafeCoerce _giConcreteBag)
+giConcreteBag :: Icon
+giConcreteBag = element _giConcreteBag
 
 foreign import _giCondorEmblem :: ReactIcon
 
-giCondorEmblem :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCondorEmblem = element (unsafeCoerce _giCondorEmblem)
+giCondorEmblem :: Icon
+giCondorEmblem = element _giCondorEmblem
 
 foreign import _giCondyluraSkull :: ReactIcon
 
-giCondyluraSkull :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCondyluraSkull = element (unsafeCoerce _giCondyluraSkull)
+giCondyluraSkull :: Icon
+giCondyluraSkull = element _giCondyluraSkull
 
 foreign import _giConfirmed :: ReactIcon
 
-giConfirmed :: forall a b. Union a b PropsIcon => Record a -> JSX
-giConfirmed = element (unsafeCoerce _giConfirmed)
+giConfirmed :: Icon
+giConfirmed = element _giConfirmed
 
 foreign import _giConfrontation :: ReactIcon
 
-giConfrontation :: forall a b. Union a b PropsIcon => Record a -> JSX
-giConfrontation = element (unsafeCoerce _giConfrontation)
+giConfrontation :: Icon
+giConfrontation = element _giConfrontation
 
 foreign import _giCongress :: ReactIcon
 
-giCongress :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCongress = element (unsafeCoerce _giCongress)
+giCongress :: Icon
+giCongress = element _giCongress
 
 foreign import _giConqueror :: ReactIcon
 
-giConqueror :: forall a b. Union a b PropsIcon => Record a -> JSX
-giConqueror = element (unsafeCoerce _giConqueror)
+giConqueror :: Icon
+giConqueror = element _giConqueror
 
 foreign import _giConsoleController :: ReactIcon
 
-giConsoleController :: forall a b. Union a b PropsIcon => Record a -> JSX
-giConsoleController = element (unsafeCoerce _giConsoleController)
+giConsoleController :: Icon
+giConsoleController = element _giConsoleController
 
 foreign import _giContortionist :: ReactIcon
 
-giContortionist :: forall a b. Union a b PropsIcon => Record a -> JSX
-giContortionist = element (unsafeCoerce _giContortionist)
+giContortionist :: Icon
+giContortionist = element _giContortionist
 
 foreign import _giContract :: ReactIcon
 
-giContract :: forall a b. Union a b PropsIcon => Record a -> JSX
-giContract = element (unsafeCoerce _giContract)
+giContract :: Icon
+giContract = element _giContract
 
 foreign import _giControlTower :: ReactIcon
 
-giControlTower :: forall a b. Union a b PropsIcon => Record a -> JSX
-giControlTower = element (unsafeCoerce _giControlTower)
+giControlTower :: Icon
+giControlTower = element _giControlTower
 
 foreign import _giConvergenceTarget :: ReactIcon
 
-giConvergenceTarget :: forall a b. Union a b PropsIcon => Record a -> JSX
-giConvergenceTarget = element (unsafeCoerce _giConvergenceTarget)
+giConvergenceTarget :: Icon
+giConvergenceTarget = element _giConvergenceTarget
 
 foreign import _giConversation :: ReactIcon
 
-giConversation :: forall a b. Union a b PropsIcon => Record a -> JSX
-giConversation = element (unsafeCoerce _giConversation)
+giConversation :: Icon
+giConversation = element _giConversation
 
 foreign import _giConverseShoe :: ReactIcon
 
-giConverseShoe :: forall a b. Union a b PropsIcon => Record a -> JSX
-giConverseShoe = element (unsafeCoerce _giConverseShoe)
+giConverseShoe :: Icon
+giConverseShoe = element _giConverseShoe
 
 foreign import _giConvict :: ReactIcon
 
-giConvict :: forall a b. Union a b PropsIcon => Record a -> JSX
-giConvict = element (unsafeCoerce _giConvict)
+giConvict :: Icon
+giConvict = element _giConvict
 
 foreign import _giConvince :: ReactIcon
 
-giConvince :: forall a b. Union a b PropsIcon => Record a -> JSX
-giConvince = element (unsafeCoerce _giConvince)
+giConvince :: Icon
+giConvince = element _giConvince
 
 foreign import _giConwayLifeGlider :: ReactIcon
 
-giConwayLifeGlider :: forall a b. Union a b PropsIcon => Record a -> JSX
-giConwayLifeGlider = element (unsafeCoerce _giConwayLifeGlider)
+giConwayLifeGlider :: Icon
+giConwayLifeGlider = element _giConwayLifeGlider
 
 foreign import _giCook :: ReactIcon
 
-giCook :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCook = element (unsafeCoerce _giCook)
+giCook :: Icon
+giCook = element _giCook
 
 foreign import _giCookie :: ReactIcon
 
-giCookie :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCookie = element (unsafeCoerce _giCookie)
+giCookie :: Icon
+giCookie = element _giCookie
 
 foreign import _giCookingGlove :: ReactIcon
 
-giCookingGlove :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCookingGlove = element (unsafeCoerce _giCookingGlove)
+giCookingGlove :: Icon
+giCookingGlove = element _giCookingGlove
 
 foreign import _giCookingPot :: ReactIcon
 
-giCookingPot :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCookingPot = element (unsafeCoerce _giCookingPot)
+giCookingPot :: Icon
+giCookingPot = element _giCookingPot
 
 foreign import _giCooler :: ReactIcon
 
-giCooler :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCooler = element (unsafeCoerce _giCooler)
+giCooler :: Icon
+giCooler = element _giCooler
 
 foreign import _giCoolSpices :: ReactIcon
 
-giCoolSpices :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCoolSpices = element (unsafeCoerce _giCoolSpices)
+giCoolSpices :: Icon
+giCoolSpices = element _giCoolSpices
 
 foreign import _giCootieCatcher :: ReactIcon
 
-giCootieCatcher :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCootieCatcher = element (unsafeCoerce _giCootieCatcher)
+giCootieCatcher :: Icon
+giCootieCatcher = element _giCootieCatcher
 
 foreign import _giCoral :: ReactIcon
 
-giCoral :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCoral = element (unsafeCoerce _giCoral)
+giCoral :: Icon
+giCoral = element _giCoral
 
 foreign import _giCorkedTube :: ReactIcon
 
-giCorkedTube :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCorkedTube = element (unsafeCoerce _giCorkedTube)
+giCorkedTube :: Icon
+giCorkedTube = element _giCorkedTube
 
 foreign import _giCorkHat :: ReactIcon
 
-giCorkHat :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCorkHat = element (unsafeCoerce _giCorkHat)
+giCorkHat :: Icon
+giCorkHat = element _giCorkHat
 
 foreign import _giCorkscrew :: ReactIcon
 
-giCorkscrew :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCorkscrew = element (unsafeCoerce _giCorkscrew)
+giCorkscrew :: Icon
+giCorkscrew = element _giCorkscrew
 
 foreign import _giCorn :: ReactIcon
 
-giCorn :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCorn = element (unsafeCoerce _giCorn)
+giCorn :: Icon
+giCorn = element _giCorn
 
 foreign import _giCornerExplosion :: ReactIcon
 
-giCornerExplosion :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCornerExplosion = element (unsafeCoerce _giCornerExplosion)
+giCornerExplosion :: Icon
+giCornerExplosion = element _giCornerExplosion
 
 foreign import _giCornerFlag :: ReactIcon
 
-giCornerFlag :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCornerFlag = element (unsafeCoerce _giCornerFlag)
+giCornerFlag :: Icon
+giCornerFlag = element _giCornerFlag
 
 foreign import _giCornucopia :: ReactIcon
 
-giCornucopia :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCornucopia = element (unsafeCoerce _giCornucopia)
+giCornucopia :: Icon
+giCornucopia = element _giCornucopia
 
 foreign import _giCoronation :: ReactIcon
 
-giCoronation :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCoronation = element (unsafeCoerce _giCoronation)
+giCoronation :: Icon
+giCoronation = element _giCoronation
 
 foreign import _giCorporal :: ReactIcon
 
-giCorporal :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCorporal = element (unsafeCoerce _giCorporal)
+giCorporal :: Icon
+giCorporal = element _giCorporal
 
 foreign import _giCorset :: ReactIcon
 
-giCorset :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCorset = element (unsafeCoerce _giCorset)
+giCorset :: Icon
+giCorset = element _giCorset
 
 foreign import _giCorsica :: ReactIcon
 
-giCorsica :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCorsica = element (unsafeCoerce _giCorsica)
+giCorsica :: Icon
+giCorsica = element _giCorsica
 
 foreign import _giCosmicEgg :: ReactIcon
 
-giCosmicEgg :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCosmicEgg = element (unsafeCoerce _giCosmicEgg)
+giCosmicEgg :: Icon
+giCosmicEgg = element _giCosmicEgg
 
 foreign import _giCottonFlower :: ReactIcon
 
-giCottonFlower :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCottonFlower = element (unsafeCoerce _giCottonFlower)
+giCottonFlower :: Icon
+giCottonFlower = element _giCottonFlower
 
 foreign import _giCoveredJar :: ReactIcon
 
-giCoveredJar :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCoveredJar = element (unsafeCoerce _giCoveredJar)
+giCoveredJar :: Icon
+giCoveredJar = element _giCoveredJar
 
 foreign import _giCow :: ReactIcon
 
-giCow :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCow = element (unsafeCoerce _giCow)
+giCow :: Icon
+giCow = element _giCow
 
 foreign import _giCowboyBoot :: ReactIcon
 
-giCowboyBoot :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCowboyBoot = element (unsafeCoerce _giCowboyBoot)
+giCowboyBoot :: Icon
+giCowboyBoot = element _giCowboyBoot
 
 foreign import _giCowboyHolster :: ReactIcon
 
-giCowboyHolster :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCowboyHolster = element (unsafeCoerce _giCowboyHolster)
+giCowboyHolster :: Icon
+giCowboyHolster = element _giCowboyHolster
 
 foreign import _giCowled :: ReactIcon
 
-giCowled :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCowled = element (unsafeCoerce _giCowled)
+giCowled :: Icon
+giCowled = element _giCowled
 
 foreign import _giCpu :: ReactIcon
 
-giCpu :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCpu = element (unsafeCoerce _giCpu)
+giCpu :: Icon
+giCpu = element _giCpu
 
 foreign import _giCpuShot :: ReactIcon
 
-giCpuShot :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCpuShot = element (unsafeCoerce _giCpuShot)
+giCpuShot :: Icon
+giCpuShot = element _giCpuShot
 
 foreign import _giCrab :: ReactIcon
 
-giCrab :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCrab = element (unsafeCoerce _giCrab)
+giCrab :: Icon
+giCrab = element _giCrab
 
 foreign import _giCrabClaw :: ReactIcon
 
-giCrabClaw :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCrabClaw = element (unsafeCoerce _giCrabClaw)
+giCrabClaw :: Icon
+giCrabClaw = element _giCrabClaw
 
 foreign import _giCrackedAlienSkull :: ReactIcon
 
-giCrackedAlienSkull :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCrackedAlienSkull = element (unsafeCoerce _giCrackedAlienSkull)
+giCrackedAlienSkull :: Icon
+giCrackedAlienSkull = element _giCrackedAlienSkull
 
 foreign import _giCrackedBallDunk :: ReactIcon
 
-giCrackedBallDunk :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCrackedBallDunk = element (unsafeCoerce _giCrackedBallDunk)
+giCrackedBallDunk :: Icon
+giCrackedBallDunk = element _giCrackedBallDunk
 
 foreign import _giCrackedDisc :: ReactIcon
 
-giCrackedDisc :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCrackedDisc = element (unsafeCoerce _giCrackedDisc)
+giCrackedDisc :: Icon
+giCrackedDisc = element _giCrackedDisc
 
 foreign import _giCrackedGlass :: ReactIcon
 
-giCrackedGlass :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCrackedGlass = element (unsafeCoerce _giCrackedGlass)
+giCrackedGlass :: Icon
+giCrackedGlass = element _giCrackedGlass
 
 foreign import _giCrackedHelm :: ReactIcon
 
-giCrackedHelm :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCrackedHelm = element (unsafeCoerce _giCrackedHelm)
+giCrackedHelm :: Icon
+giCrackedHelm = element _giCrackedHelm
 
 foreign import _giCrackedMask :: ReactIcon
 
-giCrackedMask :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCrackedMask = element (unsafeCoerce _giCrackedMask)
+giCrackedMask :: Icon
+giCrackedMask = element _giCrackedMask
 
 foreign import _giCrackedSaber :: ReactIcon
 
-giCrackedSaber :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCrackedSaber = element (unsafeCoerce _giCrackedSaber)
+giCrackedSaber :: Icon
+giCrackedSaber = element _giCrackedSaber
 
 foreign import _giCrackedShield :: ReactIcon
 
-giCrackedShield :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCrackedShield = element (unsafeCoerce _giCrackedShield)
+giCrackedShield :: Icon
+giCrackedShield = element _giCrackedShield
 
 foreign import _giCrafting :: ReactIcon
 
-giCrafting :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCrafting = element (unsafeCoerce _giCrafting)
+giCrafting :: Icon
+giCrafting = element _giCrafting
 
 foreign import _giCrags :: ReactIcon
 
-giCrags :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCrags = element (unsafeCoerce _giCrags)
+giCrags :: Icon
+giCrags = element _giCrags
 
 foreign import _giCrane :: ReactIcon
 
-giCrane :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCrane = element (unsafeCoerce _giCrane)
+giCrane :: Icon
+giCrane = element _giCrane
 
 foreign import _giCreditsCurrency :: ReactIcon
 
-giCreditsCurrency :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCreditsCurrency = element (unsafeCoerce _giCreditsCurrency)
+giCreditsCurrency :: Icon
+giCreditsCurrency = element _giCreditsCurrency
 
 foreign import _giCrenelCrown :: ReactIcon
 
-giCrenelCrown :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCrenelCrown = element (unsafeCoerce _giCrenelCrown)
+giCrenelCrown :: Icon
+giCrenelCrown = element _giCrenelCrown
 
 foreign import _giCrenulatedShield :: ReactIcon
 
-giCrenulatedShield :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCrenulatedShield = element (unsafeCoerce _giCrenulatedShield)
+giCrenulatedShield :: Icon
+giCrenulatedShield = element _giCrenulatedShield
 
 foreign import _giCrescentBlade :: ReactIcon
 
-giCrescentBlade :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCrescentBlade = element (unsafeCoerce _giCrescentBlade)
+giCrescentBlade :: Icon
+giCrescentBlade = element _giCrescentBlade
 
 foreign import _giCrescentStaff :: ReactIcon
 
-giCrescentStaff :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCrescentStaff = element (unsafeCoerce _giCrescentStaff)
+giCrescentStaff :: Icon
+giCrescentStaff = element _giCrescentStaff
 
 foreign import _giCrestedHelmet :: ReactIcon
 
-giCrestedHelmet :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCrestedHelmet = element (unsafeCoerce _giCrestedHelmet)
+giCrestedHelmet :: Icon
+giCrestedHelmet = element _giCrestedHelmet
 
 foreign import _giCricket :: ReactIcon
 
-giCricket :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCricket = element (unsafeCoerce _giCricket)
+giCricket :: Icon
+giCricket = element _giCricket
 
 foreign import _giCricketBat :: ReactIcon
 
-giCricketBat :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCricketBat = element (unsafeCoerce _giCricketBat)
+giCricketBat :: Icon
+giCricketBat = element _giCricketBat
 
 foreign import _giCrimeSceneTape :: ReactIcon
 
-giCrimeSceneTape :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCrimeSceneTape = element (unsafeCoerce _giCrimeSceneTape)
+giCrimeSceneTape :: Icon
+giCrimeSceneTape = element _giCrimeSceneTape
 
 foreign import _giCrocJaws :: ReactIcon
 
-giCrocJaws :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCrocJaws = element (unsafeCoerce _giCrocJaws)
+giCrocJaws :: Icon
+giCrocJaws = element _giCrocJaws
 
 foreign import _giCrocSword :: ReactIcon
 
-giCrocSword :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCrocSword = element (unsafeCoerce _giCrocSword)
+giCrocSword :: Icon
+giCrocSword = element _giCrocSword
 
 foreign import _giCroissant :: ReactIcon
 
-giCroissant :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCroissant = element (unsafeCoerce _giCroissant)
+giCroissant :: Icon
+giCroissant = element _giCroissant
 
 foreign import _giCroissantsPupil :: ReactIcon
 
-giCroissantsPupil :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCroissantsPupil = element (unsafeCoerce _giCroissantsPupil)
+giCroissantsPupil :: Icon
+giCroissantsPupil = element _giCroissantsPupil
 
 foreign import _giCrookFlail :: ReactIcon
 
-giCrookFlail :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCrookFlail = element (unsafeCoerce _giCrookFlail)
+giCrookFlail :: Icon
+giCrookFlail = element _giCrookFlail
 
 foreign import _giCrossbow :: ReactIcon
 
-giCrossbow :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCrossbow = element (unsafeCoerce _giCrossbow)
+giCrossbow :: Icon
+giCrossbow = element _giCrossbow
 
 foreign import _giCrosscutSaw :: ReactIcon
 
-giCrosscutSaw :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCrosscutSaw = element (unsafeCoerce _giCrosscutSaw)
+giCrosscutSaw :: Icon
+giCrosscutSaw = element _giCrosscutSaw
 
 foreign import _giCrossedAirFlows :: ReactIcon
 
-giCrossedAirFlows :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCrossedAirFlows = element (unsafeCoerce _giCrossedAirFlows)
+giCrossedAirFlows :: Icon
+giCrossedAirFlows = element _giCrossedAirFlows
 
 foreign import _giCrossedAxes :: ReactIcon
 
-giCrossedAxes :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCrossedAxes = element (unsafeCoerce _giCrossedAxes)
+giCrossedAxes :: Icon
+giCrossedAxes = element _giCrossedAxes
 
 foreign import _giCrossedBones :: ReactIcon
 
-giCrossedBones :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCrossedBones = element (unsafeCoerce _giCrossedBones)
+giCrossedBones :: Icon
+giCrossedBones = element _giCrossedBones
 
 foreign import _giCrossedChains :: ReactIcon
 
-giCrossedChains :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCrossedChains = element (unsafeCoerce _giCrossedChains)
+giCrossedChains :: Icon
+giCrossedChains = element _giCrossedChains
 
 foreign import _giCrossedClaws :: ReactIcon
 
-giCrossedClaws :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCrossedClaws = element (unsafeCoerce _giCrossedClaws)
+giCrossedClaws :: Icon
+giCrossedClaws = element _giCrossedClaws
 
 foreign import _giCrossedPistols :: ReactIcon
 
-giCrossedPistols :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCrossedPistols = element (unsafeCoerce _giCrossedPistols)
+giCrossedPistols :: Icon
+giCrossedPistols = element _giCrossedPistols
 
 foreign import _giCrossedSabres :: ReactIcon
 
-giCrossedSabres :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCrossedSabres = element (unsafeCoerce _giCrossedSabres)
+giCrossedSabres :: Icon
+giCrossedSabres = element _giCrossedSabres
 
 foreign import _giCrossedSlashes :: ReactIcon
 
-giCrossedSlashes :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCrossedSlashes = element (unsafeCoerce _giCrossedSlashes)
+giCrossedSlashes :: Icon
+giCrossedSlashes = element _giCrossedSlashes
 
 foreign import _giCrossedSwords :: ReactIcon
 
-giCrossedSwords :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCrossedSwords = element (unsafeCoerce _giCrossedSwords)
+giCrossedSwords :: Icon
+giCrossedSwords = element _giCrossedSwords
 
 foreign import _giCrossFlare :: ReactIcon
 
-giCrossFlare :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCrossFlare = element (unsafeCoerce _giCrossFlare)
+giCrossFlare :: Icon
+giCrossFlare = element _giCrossFlare
 
 foreign import _giCrosshair :: ReactIcon
 
-giCrosshair :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCrosshair = element (unsafeCoerce _giCrosshair)
+giCrosshair :: Icon
+giCrosshair = element _giCrosshair
 
 foreign import _giCrosshairArrow :: ReactIcon
 
-giCrosshairArrow :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCrosshairArrow = element (unsafeCoerce _giCrosshairArrow)
+giCrosshairArrow :: Icon
+giCrosshairArrow = element _giCrosshairArrow
 
 foreign import _giCrossMark :: ReactIcon
 
-giCrossMark :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCrossMark = element (unsafeCoerce _giCrossMark)
+giCrossMark :: Icon
+giCrossMark = element _giCrossMark
 
 foreign import _giCrossroad :: ReactIcon
 
-giCrossroad :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCrossroad = element (unsafeCoerce _giCrossroad)
+giCrossroad :: Icon
+giCrossroad = element _giCrossroad
 
 foreign import _giCrossShield :: ReactIcon
 
-giCrossShield :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCrossShield = element (unsafeCoerce _giCrossShield)
+giCrossShield :: Icon
+giCrossShield = element _giCrossShield
 
 foreign import _giCrowbar :: ReactIcon
 
-giCrowbar :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCrowbar = element (unsafeCoerce _giCrowbar)
+giCrowbar :: Icon
+giCrowbar = element _giCrowbar
 
 foreign import _giCrowDive :: ReactIcon
 
-giCrowDive :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCrowDive = element (unsafeCoerce _giCrowDive)
+giCrowDive :: Icon
+giCrowDive = element _giCrowDive
 
 foreign import _giCrown :: ReactIcon
 
-giCrown :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCrown = element (unsafeCoerce _giCrown)
+giCrown :: Icon
+giCrown = element _giCrown
 
 foreign import _giCrownCoin :: ReactIcon
 
-giCrownCoin :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCrownCoin = element (unsafeCoerce _giCrownCoin)
+giCrownCoin :: Icon
+giCrownCoin = element _giCrownCoin
 
 foreign import _giCrownedExplosion :: ReactIcon
 
-giCrownedExplosion :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCrownedExplosion = element (unsafeCoerce _giCrownedExplosion)
+giCrownedExplosion :: Icon
+giCrownedExplosion = element _giCrownedExplosion
 
 foreign import _giCrownedHeart :: ReactIcon
 
-giCrownedHeart :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCrownedHeart = element (unsafeCoerce _giCrownedHeart)
+giCrownedHeart :: Icon
+giCrownedHeart = element _giCrownedHeart
 
 foreign import _giCrownedSkull :: ReactIcon
 
-giCrownedSkull :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCrownedSkull = element (unsafeCoerce _giCrownedSkull)
+giCrownedSkull :: Icon
+giCrownedSkull = element _giCrownedSkull
 
 foreign import _giCrowNest :: ReactIcon
 
-giCrowNest :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCrowNest = element (unsafeCoerce _giCrowNest)
+giCrowNest :: Icon
+giCrowNest = element _giCrowNest
 
 foreign import _giCrownOfThorns :: ReactIcon
 
-giCrownOfThorns :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCrownOfThorns = element (unsafeCoerce _giCrownOfThorns)
+giCrownOfThorns :: Icon
+giCrownOfThorns = element _giCrownOfThorns
 
 foreign import _giCrucifix :: ReactIcon
 
-giCrucifix :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCrucifix = element (unsafeCoerce _giCrucifix)
+giCrucifix :: Icon
+giCrucifix = element _giCrucifix
 
 foreign import _giCruiser :: ReactIcon
 
-giCruiser :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCruiser = element (unsafeCoerce _giCruiser)
+giCruiser :: Icon
+giCruiser = element _giCruiser
 
 foreign import _giCrumblingBall :: ReactIcon
 
-giCrumblingBall :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCrumblingBall = element (unsafeCoerce _giCrumblingBall)
+giCrumblingBall :: Icon
+giCrumblingBall = element _giCrumblingBall
 
 foreign import _giCrush :: ReactIcon
 
-giCrush :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCrush = element (unsafeCoerce _giCrush)
+giCrush :: Icon
+giCrush = element _giCrush
 
 foreign import _giCryoChamber :: ReactIcon
 
-giCryoChamber :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCryoChamber = element (unsafeCoerce _giCryoChamber)
+giCryoChamber :: Icon
+giCryoChamber = element _giCryoChamber
 
 foreign import _giCryptEntrance :: ReactIcon
 
-giCryptEntrance :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCryptEntrance = element (unsafeCoerce _giCryptEntrance)
+giCryptEntrance :: Icon
+giCryptEntrance = element _giCryptEntrance
 
 foreign import _giCrystalBall :: ReactIcon
 
-giCrystalBall :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCrystalBall = element (unsafeCoerce _giCrystalBall)
+giCrystalBall :: Icon
+giCrystalBall = element _giCrystalBall
 
 foreign import _giCrystalBars :: ReactIcon
 
-giCrystalBars :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCrystalBars = element (unsafeCoerce _giCrystalBars)
+giCrystalBars :: Icon
+giCrystalBars = element _giCrystalBars
 
 foreign import _giCrystalCluster :: ReactIcon
 
-giCrystalCluster :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCrystalCluster = element (unsafeCoerce _giCrystalCluster)
+giCrystalCluster :: Icon
+giCrystalCluster = element _giCrystalCluster
 
 foreign import _giCrystalEarrings :: ReactIcon
 
-giCrystalEarrings :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCrystalEarrings = element (unsafeCoerce _giCrystalEarrings)
+giCrystalEarrings :: Icon
+giCrystalEarrings = element _giCrystalEarrings
 
 foreign import _giCrystalEye :: ReactIcon
 
-giCrystalEye :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCrystalEye = element (unsafeCoerce _giCrystalEye)
+giCrystalEye :: Icon
+giCrystalEye = element _giCrystalEye
 
 foreign import _giCrystalGrowth :: ReactIcon
 
-giCrystalGrowth :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCrystalGrowth = element (unsafeCoerce _giCrystalGrowth)
+giCrystalGrowth :: Icon
+giCrystalGrowth = element _giCrystalGrowth
 
 foreign import _giCrystalize :: ReactIcon
 
-giCrystalize :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCrystalize = element (unsafeCoerce _giCrystalize)
+giCrystalize :: Icon
+giCrystalize = element _giCrystalize
 
 foreign import _giCrystalShine :: ReactIcon
 
-giCrystalShine :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCrystalShine = element (unsafeCoerce _giCrystalShine)
+giCrystalShine :: Icon
+giCrystalShine = element _giCrystalShine
 
 foreign import _giCrystalShrine :: ReactIcon
 
-giCrystalShrine :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCrystalShrine = element (unsafeCoerce _giCrystalShrine)
+giCrystalShrine :: Icon
+giCrystalShrine = element _giCrystalShrine
 
 foreign import _giCrystalWand :: ReactIcon
 
-giCrystalWand :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCrystalWand = element (unsafeCoerce _giCrystalWand)
+giCrystalWand :: Icon
+giCrystalWand = element _giCrystalWand
 
 foreign import _giCuauhtli :: ReactIcon
 
-giCuauhtli :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCuauhtli = element (unsafeCoerce _giCuauhtli)
+giCuauhtli :: Icon
+giCuauhtli = element _giCuauhtli
 
 foreign import _giCube :: ReactIcon
 
-giCube :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCube = element (unsafeCoerce _giCube)
+giCube :: Icon
+giCube = element _giCube
 
 foreign import _giCubeforce :: ReactIcon
 
-giCubeforce :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCubeforce = element (unsafeCoerce _giCubeforce)
+giCubeforce :: Icon
+giCubeforce = element _giCubeforce
 
 foreign import _giCubes :: ReactIcon
 
-giCubes :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCubes = element (unsafeCoerce _giCubes)
+giCubes :: Icon
+giCubes = element _giCubes
 
 foreign import _giCuckooClock :: ReactIcon
 
-giCuckooClock :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCuckooClock = element (unsafeCoerce _giCuckooClock)
+giCuckooClock :: Icon
+giCuckooClock = element _giCuckooClock
 
 foreign import _giCultist :: ReactIcon
 
-giCultist :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCultist = element (unsafeCoerce _giCultist)
+giCultist :: Icon
+giCultist = element _giCultist
 
 foreign import _giCupcake :: ReactIcon
 
-giCupcake :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCupcake = element (unsafeCoerce _giCupcake)
+giCupcake :: Icon
+giCupcake = element _giCupcake
 
 foreign import _giCupidonArrow :: ReactIcon
 
-giCupidonArrow :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCupidonArrow = element (unsafeCoerce _giCupidonArrow)
+giCupidonArrow :: Icon
+giCupidonArrow = element _giCupidonArrow
 
 foreign import _giCurledLeaf :: ReactIcon
 
-giCurledLeaf :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCurledLeaf = element (unsafeCoerce _giCurledLeaf)
+giCurledLeaf :: Icon
+giCurledLeaf = element _giCurledLeaf
 
 foreign import _giCurledTentacle :: ReactIcon
 
-giCurledTentacle :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCurledTentacle = element (unsafeCoerce _giCurledTentacle)
+giCurledTentacle :: Icon
+giCurledTentacle = element _giCurledTentacle
 
 foreign import _giCurlingStone :: ReactIcon
 
-giCurlingStone :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCurlingStone = element (unsafeCoerce _giCurlingStone)
+giCurlingStone :: Icon
+giCurlingStone = element _giCurlingStone
 
 foreign import _giCurlingVines :: ReactIcon
 
-giCurlingVines :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCurlingVines = element (unsafeCoerce _giCurlingVines)
+giCurlingVines :: Icon
+giCurlingVines = element _giCurlingVines
 
 foreign import _giCurlyMask :: ReactIcon
 
-giCurlyMask :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCurlyMask = element (unsafeCoerce _giCurlyMask)
+giCurlyMask :: Icon
+giCurlyMask = element _giCurlyMask
 
 foreign import _giCurlyWing :: ReactIcon
 
-giCurlyWing :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCurlyWing = element (unsafeCoerce _giCurlyWing)
+giCurlyWing :: Icon
+giCurlyWing = element _giCurlyWing
 
 foreign import _giCursedStar :: ReactIcon
 
-giCursedStar :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCursedStar = element (unsafeCoerce _giCursedStar)
+giCursedStar :: Icon
+giCursedStar = element _giCursedStar
 
 foreign import _giCurvyKnife :: ReactIcon
 
-giCurvyKnife :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCurvyKnife = element (unsafeCoerce _giCurvyKnife)
+giCurvyKnife :: Icon
+giCurvyKnife = element _giCurvyKnife
 
 foreign import _giCustodianHelmet :: ReactIcon
 
-giCustodianHelmet :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCustodianHelmet = element (unsafeCoerce _giCustodianHelmet)
+giCustodianHelmet :: Icon
+giCustodianHelmet = element _giCustodianHelmet
 
 foreign import _giCutDiamond :: ReactIcon
 
-giCutDiamond :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCutDiamond = element (unsafeCoerce _giCutDiamond)
+giCutDiamond :: Icon
+giCutDiamond = element _giCutDiamond
 
 foreign import _giCutLemon :: ReactIcon
 
-giCutLemon :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCutLemon = element (unsafeCoerce _giCutLemon)
+giCutLemon :: Icon
+giCutLemon = element _giCutLemon
 
 foreign import _giCutPalm :: ReactIcon
 
-giCutPalm :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCutPalm = element (unsafeCoerce _giCutPalm)
+giCutPalm :: Icon
+giCutPalm = element _giCutPalm
 
 foreign import _giCyberEye :: ReactIcon
 
-giCyberEye :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCyberEye = element (unsafeCoerce _giCyberEye)
+giCyberEye :: Icon
+giCyberEye = element _giCyberEye
 
 foreign import _giCyborgFace :: ReactIcon
 
-giCyborgFace :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCyborgFace = element (unsafeCoerce _giCyborgFace)
+giCyborgFace :: Icon
+giCyborgFace = element _giCyborgFace
 
 foreign import _giCycle :: ReactIcon
 
-giCycle :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCycle = element (unsafeCoerce _giCycle)
+giCycle :: Icon
+giCycle = element _giCycle
 
 foreign import _giCycling :: ReactIcon
 
-giCycling :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCycling = element (unsafeCoerce _giCycling)
+giCycling :: Icon
+giCycling = element _giCycling
 
 foreign import _giCyclops :: ReactIcon
 
-giCyclops :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCyclops = element (unsafeCoerce _giCyclops)
+giCyclops :: Icon
+giCyclops = element _giCyclops
 
 foreign import _giCzSkorpion :: ReactIcon
 
-giCzSkorpion :: forall a b. Union a b PropsIcon => Record a -> JSX
-giCzSkorpion = element (unsafeCoerce _giCzSkorpion)
+giCzSkorpion :: Icon
+giCzSkorpion = element _giCzSkorpion
 
 foreign import _giDaemonPull :: ReactIcon
 
-giDaemonPull :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDaemonPull = element (unsafeCoerce _giDaemonPull)
+giDaemonPull :: Icon
+giDaemonPull = element _giDaemonPull
 
 foreign import _giDaemonSkull :: ReactIcon
 
-giDaemonSkull :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDaemonSkull = element (unsafeCoerce _giDaemonSkull)
+giDaemonSkull :: Icon
+giDaemonSkull = element _giDaemonSkull
 
 foreign import _giDaggerRose :: ReactIcon
 
-giDaggerRose :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDaggerRose = element (unsafeCoerce _giDaggerRose)
+giDaggerRose :: Icon
+giDaggerRose = element _giDaggerRose
 
 foreign import _giDaggers :: ReactIcon
 
-giDaggers :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDaggers = element (unsafeCoerce _giDaggers)
+giDaggers :: Icon
+giDaggers = element _giDaggers
 
 foreign import _giDaisy :: ReactIcon
 
-giDaisy :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDaisy = element (unsafeCoerce _giDaisy)
+giDaisy :: Icon
+giDaisy = element _giDaisy
 
 foreign import _giDam :: ReactIcon
 
-giDam :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDam = element (unsafeCoerce _giDam)
+giDam :: Icon
+giDam = element _giDam
 
 foreign import _giDamagedHouse :: ReactIcon
 
-giDamagedHouse :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDamagedHouse = element (unsafeCoerce _giDamagedHouse)
+giDamagedHouse :: Icon
+giDamagedHouse = element _giDamagedHouse
 
 foreign import _giDandelionFlower :: ReactIcon
 
-giDandelionFlower :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDandelionFlower = element (unsafeCoerce _giDandelionFlower)
+giDandelionFlower :: Icon
+giDandelionFlower = element _giDandelionFlower
 
 foreign import _giDango :: ReactIcon
 
-giDango :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDango = element (unsafeCoerce _giDango)
+giDango :: Icon
+giDango = element _giDango
 
 foreign import _giDarkSquad :: ReactIcon
 
-giDarkSquad :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDarkSquad = element (unsafeCoerce _giDarkSquad)
+giDarkSquad :: Icon
+giDarkSquad = element _giDarkSquad
 
 foreign import _giDart :: ReactIcon
 
-giDart :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDart = element (unsafeCoerce _giDart)
+giDart :: Icon
+giDart = element _giDart
 
 foreign import _giDatabase :: ReactIcon
 
-giDatabase :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDatabase = element (unsafeCoerce _giDatabase)
+giDatabase :: Icon
+giDatabase = element _giDatabase
 
 foreign import _giDeadEye :: ReactIcon
 
-giDeadEye :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDeadEye = element (unsafeCoerce _giDeadEye)
+giDeadEye :: Icon
+giDeadEye = element _giDeadEye
 
 foreign import _giDeadHead :: ReactIcon
 
-giDeadHead :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDeadHead = element (unsafeCoerce _giDeadHead)
+giDeadHead :: Icon
+giDeadHead = element _giDeadHead
 
 foreign import _giDeadlyStrike :: ReactIcon
 
-giDeadlyStrike :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDeadlyStrike = element (unsafeCoerce _giDeadlyStrike)
+giDeadlyStrike :: Icon
+giDeadlyStrike = element _giDeadlyStrike
 
 foreign import _giDeadWood :: ReactIcon
 
-giDeadWood :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDeadWood = element (unsafeCoerce _giDeadWood)
+giDeadWood :: Icon
+giDeadWood = element _giDeadWood
 
 foreign import _giDeathcab :: ReactIcon
 
-giDeathcab :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDeathcab = element (unsafeCoerce _giDeathcab)
+giDeathcab :: Icon
+giDeathcab = element _giDeathcab
 
 foreign import _giDeathJuice :: ReactIcon
 
-giDeathJuice :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDeathJuice = element (unsafeCoerce _giDeathJuice)
+giDeathJuice :: Icon
+giDeathJuice = element _giDeathJuice
 
 foreign import _giDeathNote :: ReactIcon
 
-giDeathNote :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDeathNote = element (unsafeCoerce _giDeathNote)
+giDeathNote :: Icon
+giDeathNote = element _giDeathNote
 
 foreign import _giDeathSkull :: ReactIcon
 
-giDeathSkull :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDeathSkull = element (unsafeCoerce _giDeathSkull)
+giDeathSkull :: Icon
+giDeathSkull = element _giDeathSkull
 
 foreign import _giDeathStar :: ReactIcon
 
-giDeathStar :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDeathStar = element (unsafeCoerce _giDeathStar)
+giDeathStar :: Icon
+giDeathStar = element _giDeathStar
 
 foreign import _giDeathZone :: ReactIcon
 
-giDeathZone :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDeathZone = element (unsafeCoerce _giDeathZone)
+giDeathZone :: Icon
+giDeathZone = element _giDeathZone
 
 foreign import _giDecapitation :: ReactIcon
 
-giDecapitation :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDecapitation = element (unsafeCoerce _giDecapitation)
+giDecapitation :: Icon
+giDecapitation = element _giDecapitation
 
 foreign import _giDeer :: ReactIcon
 
-giDeer :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDeer = element (unsafeCoerce _giDeer)
+giDeer :: Icon
+giDeer = element _giDeer
 
 foreign import _giDeerHead :: ReactIcon
 
-giDeerHead :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDeerHead = element (unsafeCoerce _giDeerHead)
+giDeerHead :: Icon
+giDeerHead = element _giDeerHead
 
 foreign import _giDeerTrack :: ReactIcon
 
-giDeerTrack :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDeerTrack = element (unsafeCoerce _giDeerTrack)
+giDeerTrack :: Icon
+giDeerTrack = element _giDeerTrack
 
 foreign import _giDefenseSatellite :: ReactIcon
 
-giDefenseSatellite :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDefenseSatellite = element (unsafeCoerce _giDefenseSatellite)
+giDefenseSatellite :: Icon
+giDefenseSatellite = element _giDefenseSatellite
 
 foreign import _giDefensiveWall :: ReactIcon
 
-giDefensiveWall :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDefensiveWall = element (unsafeCoerce _giDefensiveWall)
+giDefensiveWall :: Icon
+giDefensiveWall = element _giDefensiveWall
 
 foreign import _giDefibrilate :: ReactIcon
 
-giDefibrilate :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDefibrilate = element (unsafeCoerce _giDefibrilate)
+giDefibrilate :: Icon
+giDefibrilate = element _giDefibrilate
 
 foreign import _giDekuTree :: ReactIcon
 
-giDekuTree :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDekuTree = element (unsafeCoerce _giDekuTree)
+giDekuTree :: Icon
+giDekuTree = element _giDekuTree
 
 foreign import _giDelicatePerfume :: ReactIcon
 
-giDelicatePerfume :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDelicatePerfume = element (unsafeCoerce _giDelicatePerfume)
+giDelicatePerfume :: Icon
+giDelicatePerfume = element _giDelicatePerfume
 
 foreign import _giDelighted :: ReactIcon
 
-giDelighted :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDelighted = element (unsafeCoerce _giDelighted)
+giDelighted :: Icon
+giDelighted = element _giDelighted
 
 foreign import _giDeliveryDrone :: ReactIcon
 
-giDeliveryDrone :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDeliveryDrone = element (unsafeCoerce _giDeliveryDrone)
+giDeliveryDrone :: Icon
+giDeliveryDrone = element _giDeliveryDrone
 
 foreign import _giDemolish :: ReactIcon
 
-giDemolish :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDemolish = element (unsafeCoerce _giDemolish)
+giDemolish :: Icon
+giDemolish = element _giDemolish
 
 foreign import _giDervishSwords :: ReactIcon
 
-giDervishSwords :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDervishSwords = element (unsafeCoerce _giDervishSwords)
+giDervishSwords :: Icon
+giDervishSwords = element _giDervishSwords
 
 foreign import _giDesert :: ReactIcon
 
-giDesert :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDesert = element (unsafeCoerce _giDesert)
+giDesert :: Icon
+giDesert = element _giDesert
 
 foreign import _giDesertEagle :: ReactIcon
 
-giDesertEagle :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDesertEagle = element (unsafeCoerce _giDesertEagle)
+giDesertEagle :: Icon
+giDesertEagle = element _giDesertEagle
 
 foreign import _giDesertSkull :: ReactIcon
 
-giDesertSkull :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDesertSkull = element (unsafeCoerce _giDesertSkull)
+giDesertSkull :: Icon
+giDesertSkull = element _giDesertSkull
 
 foreign import _giDeshretRedCrown :: ReactIcon
 
-giDeshretRedCrown :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDeshretRedCrown = element (unsafeCoerce _giDeshretRedCrown)
+giDeshretRedCrown :: Icon
+giDeshretRedCrown = element _giDeshretRedCrown
 
 foreign import _giDesk :: ReactIcon
 
-giDesk :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDesk = element (unsafeCoerce _giDesk)
+giDesk :: Icon
+giDesk = element _giDesk
 
 foreign import _giDeskLamp :: ReactIcon
 
-giDeskLamp :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDeskLamp = element (unsafeCoerce _giDeskLamp)
+giDeskLamp :: Icon
+giDeskLamp = element _giDeskLamp
 
 foreign import _giDespair :: ReactIcon
 
-giDespair :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDespair = element (unsafeCoerce _giDespair)
+giDespair :: Icon
+giDespair = element _giDespair
 
 foreign import _giDetonator :: ReactIcon
 
-giDetonator :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDetonator = element (unsafeCoerce _giDetonator)
+giDetonator :: Icon
+giDetonator = element _giDetonator
 
 foreign import _giDetour :: ReactIcon
 
-giDetour :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDetour = element (unsafeCoerce _giDetour)
+giDetour :: Icon
+giDetour = element _giDetour
 
 foreign import _giDevilMask :: ReactIcon
 
-giDevilMask :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDevilMask = element (unsafeCoerce _giDevilMask)
+giDevilMask :: Icon
+giDevilMask = element _giDevilMask
 
 foreign import _giDew :: ReactIcon
 
-giDew :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDew = element (unsafeCoerce _giDew)
+giDew :: Icon
+giDew = element _giDew
 
 foreign import _giDiabloSkull :: ReactIcon
 
-giDiabloSkull :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDiabloSkull = element (unsafeCoerce _giDiabloSkull)
+giDiabloSkull :: Icon
+giDiabloSkull = element _giDiabloSkull
 
 foreign import _giDiagram :: ReactIcon
 
-giDiagram :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDiagram = element (unsafeCoerce _giDiagram)
+giDiagram :: Icon
+giDiagram = element _giDiagram
 
 foreign import _giDialPadlock :: ReactIcon
 
-giDialPadlock :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDialPadlock = element (unsafeCoerce _giDialPadlock)
+giDialPadlock :: Icon
+giDialPadlock = element _giDialPadlock
 
 foreign import _giDiamondHard :: ReactIcon
 
-giDiamondHard :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDiamondHard = element (unsafeCoerce _giDiamondHard)
+giDiamondHard :: Icon
+giDiamondHard = element _giDiamondHard
 
 foreign import _giDiamondHilt :: ReactIcon
 
-giDiamondHilt :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDiamondHilt = element (unsafeCoerce _giDiamondHilt)
+giDiamondHilt :: Icon
+giDiamondHilt = element _giDiamondHilt
 
 foreign import _giDiamondRing :: ReactIcon
 
-giDiamondRing :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDiamondRing = element (unsafeCoerce _giDiamondRing)
+giDiamondRing :: Icon
+giDiamondRing = element _giDiamondRing
 
 foreign import _giDiamonds :: ReactIcon
 
-giDiamonds :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDiamonds = element (unsafeCoerce _giDiamonds)
+giDiamonds :: Icon
+giDiamonds = element _giDiamonds
 
 foreign import _giDiamondsSmile :: ReactIcon
 
-giDiamondsSmile :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDiamondsSmile = element (unsafeCoerce _giDiamondsSmile)
+giDiamondsSmile :: Icon
+giDiamondsSmile = element _giDiamondsSmile
 
 foreign import _giDiamondTrophy :: ReactIcon
 
-giDiamondTrophy :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDiamondTrophy = element (unsafeCoerce _giDiamondTrophy)
+giDiamondTrophy :: Icon
+giDiamondTrophy = element _giDiamondTrophy
 
 foreign import _giDiceEightFacesEight :: ReactIcon
 
-giDiceEightFacesEight :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDiceEightFacesEight = element (unsafeCoerce _giDiceEightFacesEight)
+giDiceEightFacesEight :: Icon
+giDiceEightFacesEight = element _giDiceEightFacesEight
 
 foreign import _giDiceFire :: ReactIcon
 
-giDiceFire :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDiceFire = element (unsafeCoerce _giDiceFire)
+giDiceFire :: Icon
+giDiceFire = element _giDiceFire
 
 foreign import _giDiceShield :: ReactIcon
 
-giDiceShield :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDiceShield = element (unsafeCoerce _giDiceShield)
+giDiceShield :: Icon
+giDiceShield = element _giDiceShield
 
 foreign import _giDiceSixFacesFive :: ReactIcon
 
-giDiceSixFacesFive :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDiceSixFacesFive = element (unsafeCoerce _giDiceSixFacesFive)
+giDiceSixFacesFive :: Icon
+giDiceSixFacesFive = element _giDiceSixFacesFive
 
 foreign import _giDiceSixFacesFour :: ReactIcon
 
-giDiceSixFacesFour :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDiceSixFacesFour = element (unsafeCoerce _giDiceSixFacesFour)
+giDiceSixFacesFour :: Icon
+giDiceSixFacesFour = element _giDiceSixFacesFour
 
 foreign import _giDiceSixFacesOne :: ReactIcon
 
-giDiceSixFacesOne :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDiceSixFacesOne = element (unsafeCoerce _giDiceSixFacesOne)
+giDiceSixFacesOne :: Icon
+giDiceSixFacesOne = element _giDiceSixFacesOne
 
 foreign import _giDiceSixFacesSix :: ReactIcon
 
-giDiceSixFacesSix :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDiceSixFacesSix = element (unsafeCoerce _giDiceSixFacesSix)
+giDiceSixFacesSix :: Icon
+giDiceSixFacesSix = element _giDiceSixFacesSix
 
 foreign import _giDiceSixFacesThree :: ReactIcon
 
-giDiceSixFacesThree :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDiceSixFacesThree = element (unsafeCoerce _giDiceSixFacesThree)
+giDiceSixFacesThree :: Icon
+giDiceSixFacesThree = element _giDiceSixFacesThree
 
 foreign import _giDiceSixFacesTwo :: ReactIcon
 
-giDiceSixFacesTwo :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDiceSixFacesTwo = element (unsafeCoerce _giDiceSixFacesTwo)
+giDiceSixFacesTwo :: Icon
+giDiceSixFacesTwo = element _giDiceSixFacesTwo
 
 foreign import _giDiceTarget :: ReactIcon
 
-giDiceTarget :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDiceTarget = element (unsafeCoerce _giDiceTarget)
+giDiceTarget :: Icon
+giDiceTarget = element _giDiceTarget
 
 foreign import _giDiceTwentyFacesOne :: ReactIcon
 
-giDiceTwentyFacesOne :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDiceTwentyFacesOne = element (unsafeCoerce _giDiceTwentyFacesOne)
+giDiceTwentyFacesOne :: Icon
+giDiceTwentyFacesOne = element _giDiceTwentyFacesOne
 
 foreign import _giDiceTwentyFacesTwenty :: ReactIcon
 
-giDiceTwentyFacesTwenty :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDiceTwentyFacesTwenty = element (unsafeCoerce _giDiceTwentyFacesTwenty)
+giDiceTwentyFacesTwenty :: Icon
+giDiceTwentyFacesTwenty = element _giDiceTwentyFacesTwenty
 
 foreign import _giDigDug :: ReactIcon
 
-giDigDug :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDigDug = element (unsafeCoerce _giDigDug)
+giDigDug :: Icon
+giDigDug = element _giDigDug
 
 foreign import _giDigHole :: ReactIcon
 
-giDigHole :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDigHole = element (unsafeCoerce _giDigHole)
+giDigHole :: Icon
+giDigHole = element _giDigHole
 
 foreign import _giDigitalTrace :: ReactIcon
 
-giDigitalTrace :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDigitalTrace = element (unsafeCoerce _giDigitalTrace)
+giDigitalTrace :: Icon
+giDigitalTrace = element _giDigitalTrace
 
 foreign import _giDimetrodon :: ReactIcon
 
-giDimetrodon :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDimetrodon = element (unsafeCoerce _giDimetrodon)
+giDimetrodon :: Icon
+giDimetrodon = element _giDimetrodon
 
 foreign import _giDinosaurBones :: ReactIcon
 
-giDinosaurBones :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDinosaurBones = element (unsafeCoerce _giDinosaurBones)
+giDinosaurBones :: Icon
+giDinosaurBones = element _giDinosaurBones
 
 foreign import _giDinosaurEgg :: ReactIcon
 
-giDinosaurEgg :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDinosaurEgg = element (unsafeCoerce _giDinosaurEgg)
+giDinosaurEgg :: Icon
+giDinosaurEgg = element _giDinosaurEgg
 
 foreign import _giDinosaurRex :: ReactIcon
 
-giDinosaurRex :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDinosaurRex = element (unsafeCoerce _giDinosaurRex)
+giDinosaurRex :: Icon
+giDinosaurRex = element _giDinosaurRex
 
 foreign import _giDiplodocus :: ReactIcon
 
-giDiplodocus :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDiplodocus = element (unsafeCoerce _giDiplodocus)
+giDiplodocus :: Icon
+giDiplodocus = element _giDiplodocus
 
 foreign import _giDiploma :: ReactIcon
 
-giDiploma :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDiploma = element (unsafeCoerce _giDiploma)
+giDiploma :: Icon
+giDiploma = element _giDiploma
 
 foreign import _giDirectionSign :: ReactIcon
 
-giDirectionSign :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDirectionSign = element (unsafeCoerce _giDirectionSign)
+giDirectionSign :: Icon
+giDirectionSign = element _giDirectionSign
 
 foreign import _giDirectionSigns :: ReactIcon
 
-giDirectionSigns :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDirectionSigns = element (unsafeCoerce _giDirectionSigns)
+giDirectionSigns :: Icon
+giDirectionSigns = element _giDirectionSigns
 
 foreign import _giDirectorChair :: ReactIcon
 
-giDirectorChair :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDirectorChair = element (unsafeCoerce _giDirectorChair)
+giDirectorChair :: Icon
+giDirectorChair = element _giDirectorChair
 
 foreign import _giDirewolf :: ReactIcon
 
-giDirewolf :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDirewolf = element (unsafeCoerce _giDirewolf)
+giDirewolf :: Icon
+giDirewolf = element _giDirewolf
 
 foreign import _giDisc :: ReactIcon
 
-giDisc :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDisc = element (unsafeCoerce _giDisc)
+giDisc :: Icon
+giDisc = element _giDisc
 
 foreign import _giDiscGolfBag :: ReactIcon
 
-giDiscGolfBag :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDiscGolfBag = element (unsafeCoerce _giDiscGolfBag)
+giDiscGolfBag :: Icon
+giDiscGolfBag = element _giDiscGolfBag
 
 foreign import _giDiscGolfBasket :: ReactIcon
 
-giDiscGolfBasket :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDiscGolfBasket = element (unsafeCoerce _giDiscGolfBasket)
+giDiscGolfBasket :: Icon
+giDiscGolfBasket = element _giDiscGolfBasket
 
 foreign import _giDiscobolus :: ReactIcon
 
-giDiscobolus :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDiscobolus = element (unsafeCoerce _giDiscobolus)
+giDiscobolus :: Icon
+giDiscobolus = element _giDiscobolus
 
 foreign import _giDiscussion :: ReactIcon
 
-giDiscussion :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDiscussion = element (unsafeCoerce _giDiscussion)
+giDiscussion :: Icon
+giDiscussion = element _giDiscussion
 
 foreign import _giDisintegrate :: ReactIcon
 
-giDisintegrate :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDisintegrate = element (unsafeCoerce _giDisintegrate)
+giDisintegrate :: Icon
+giDisintegrate = element _giDisintegrate
 
 foreign import _giDistraction :: ReactIcon
 
-giDistraction :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDistraction = element (unsafeCoerce _giDistraction)
+giDistraction :: Icon
+giDistraction = element _giDistraction
 
 foreign import _giDistressSignal :: ReactIcon
 
-giDistressSignal :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDistressSignal = element (unsafeCoerce _giDistressSignal)
+giDistressSignal :: Icon
+giDistressSignal = element _giDistressSignal
 
 foreign import _giDivergence :: ReactIcon
 
-giDivergence :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDivergence = element (unsafeCoerce _giDivergence)
+giDivergence :: Icon
+giDivergence = element _giDivergence
 
 foreign import _giDivert :: ReactIcon
 
-giDivert :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDivert = element (unsafeCoerce _giDivert)
+giDivert :: Icon
+giDivert = element _giDivert
 
 foreign import _giDividedSpiral :: ReactIcon
 
-giDividedSpiral :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDividedSpiral = element (unsafeCoerce _giDividedSpiral)
+giDividedSpiral :: Icon
+giDividedSpiral = element _giDividedSpiral
 
 foreign import _giDividedSquare :: ReactIcon
 
-giDividedSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDividedSquare = element (unsafeCoerce _giDividedSquare)
+giDividedSquare :: Icon
+giDividedSquare = element _giDividedSquare
 
 foreign import _giDivingDagger :: ReactIcon
 
-giDivingDagger :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDivingDagger = element (unsafeCoerce _giDivingDagger)
+giDivingDagger :: Icon
+giDivingDagger = element _giDivingDagger
 
 foreign import _giDivingHelmet :: ReactIcon
 
-giDivingHelmet :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDivingHelmet = element (unsafeCoerce _giDivingHelmet)
+giDivingHelmet :: Icon
+giDivingHelmet = element _giDivingHelmet
 
 foreign import _giDjedPillar :: ReactIcon
 
-giDjedPillar :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDjedPillar = element (unsafeCoerce _giDjedPillar)
+giDjedPillar :: Icon
+giDjedPillar = element _giDjedPillar
 
 foreign import _giDjembe :: ReactIcon
 
-giDjembe :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDjembe = element (unsafeCoerce _giDjembe)
+giDjembe :: Icon
+giDjembe = element _giDjembe
 
 foreign import _giDjinn :: ReactIcon
 
-giDjinn :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDjinn = element (unsafeCoerce _giDjinn)
+giDjinn :: Icon
+giDjinn = element _giDjinn
 
 foreign import _giDoctorFace :: ReactIcon
 
-giDoctorFace :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDoctorFace = element (unsafeCoerce _giDoctorFace)
+giDoctorFace :: Icon
+giDoctorFace = element _giDoctorFace
 
 foreign import _giDodge :: ReactIcon
 
-giDodge :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDodge = element (unsafeCoerce _giDodge)
+giDodge :: Icon
+giDodge = element _giDodge
 
 foreign import _giDodging :: ReactIcon
 
-giDodging :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDodging = element (unsafeCoerce _giDodging)
+giDodging :: Icon
+giDodging = element _giDodging
 
 foreign import _giDogBowl :: ReactIcon
 
-giDogBowl :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDogBowl = element (unsafeCoerce _giDogBowl)
+giDogBowl :: Icon
+giDogBowl = element _giDogBowl
 
 foreign import _giDogHouse :: ReactIcon
 
-giDogHouse :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDogHouse = element (unsafeCoerce _giDogHouse)
+giDogHouse :: Icon
+giDogHouse = element _giDogHouse
 
 foreign import _giDolmen :: ReactIcon
 
-giDolmen :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDolmen = element (unsafeCoerce _giDolmen)
+giDolmen :: Icon
+giDolmen = element _giDolmen
 
 foreign import _giDolphin :: ReactIcon
 
-giDolphin :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDolphin = element (unsafeCoerce _giDolphin)
+giDolphin :: Icon
+giDolphin = element _giDolphin
 
 foreign import _giDominoMask :: ReactIcon
 
-giDominoMask :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDominoMask = element (unsafeCoerce _giDominoMask)
+giDominoMask :: Icon
+giDominoMask = element _giDominoMask
 
 foreign import _giDominoTiles :: ReactIcon
 
-giDominoTiles :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDominoTiles = element (unsafeCoerce _giDominoTiles)
+giDominoTiles :: Icon
+giDominoTiles = element _giDominoTiles
 
 foreign import _giDonerKebab :: ReactIcon
 
-giDonerKebab :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDonerKebab = element (unsafeCoerce _giDonerKebab)
+giDonerKebab :: Icon
+giDonerKebab = element _giDonerKebab
 
 foreign import _giDonkey :: ReactIcon
 
-giDonkey :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDonkey = element (unsafeCoerce _giDonkey)
+giDonkey :: Icon
+giDonkey = element _giDonkey
 
 foreign import _giDonut :: ReactIcon
 
-giDonut :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDonut = element (unsafeCoerce _giDonut)
+giDonut :: Icon
+giDonut = element _giDonut
 
 foreign import _giDoor :: ReactIcon
 
-giDoor :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDoor = element (unsafeCoerce _giDoor)
+giDoor :: Icon
+giDoor = element _giDoor
 
 foreign import _giDoorHandle :: ReactIcon
 
-giDoorHandle :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDoorHandle = element (unsafeCoerce _giDoorHandle)
+giDoorHandle :: Icon
+giDoorHandle = element _giDoorHandle
 
 foreign import _giDoorRingHandle :: ReactIcon
 
-giDoorRingHandle :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDoorRingHandle = element (unsafeCoerce _giDoorRingHandle)
+giDoorRingHandle :: Icon
+giDoorRingHandle = element _giDoorRingHandle
 
 foreign import _giDoorWatcher :: ReactIcon
 
-giDoorWatcher :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDoorWatcher = element (unsafeCoerce _giDoorWatcher)
+giDoorWatcher :: Icon
+giDoorWatcher = element _giDoorWatcher
 
 foreign import _giDoorway :: ReactIcon
 
-giDoorway :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDoorway = element (unsafeCoerce _giDoorway)
+giDoorway :: Icon
+giDoorway = element _giDoorway
 
 foreign import _giDorsalScales :: ReactIcon
 
-giDorsalScales :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDorsalScales = element (unsafeCoerce _giDorsalScales)
+giDorsalScales :: Icon
+giDorsalScales = element _giDorsalScales
 
 foreign import _giDoubled :: ReactIcon
 
-giDoubled :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDoubled = element (unsafeCoerce _giDoubled)
+giDoubled :: Icon
+giDoubled = element _giDoubled
 
 foreign import _giDoubleDiaphragm :: ReactIcon
 
-giDoubleDiaphragm :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDoubleDiaphragm = element (unsafeCoerce _giDoubleDiaphragm)
+giDoubleDiaphragm :: Icon
+giDoubleDiaphragm = element _giDoubleDiaphragm
 
 foreign import _giDoubleDragon :: ReactIcon
 
-giDoubleDragon :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDoubleDragon = element (unsafeCoerce _giDoubleDragon)
+giDoubleDragon :: Icon
+giDoubleDragon = element _giDoubleDragon
 
 foreign import _giDoubleFaceMask :: ReactIcon
 
-giDoubleFaceMask :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDoubleFaceMask = element (unsafeCoerce _giDoubleFaceMask)
+giDoubleFaceMask :: Icon
+giDoubleFaceMask = element _giDoubleFaceMask
 
 foreign import _giDoubleFish :: ReactIcon
 
-giDoubleFish :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDoubleFish = element (unsafeCoerce _giDoubleFish)
+giDoubleFish :: Icon
+giDoubleFish = element _giDoubleFish
 
 foreign import _giDoubleNecklace :: ReactIcon
 
-giDoubleNecklace :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDoubleNecklace = element (unsafeCoerce _giDoubleNecklace)
+giDoubleNecklace :: Icon
+giDoubleNecklace = element _giDoubleNecklace
 
 foreign import _giDoubleQuaver :: ReactIcon
 
-giDoubleQuaver :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDoubleQuaver = element (unsafeCoerce _giDoubleQuaver)
+giDoubleQuaver :: Icon
+giDoubleQuaver = element _giDoubleQuaver
 
 foreign import _giDoubleRingedOrb :: ReactIcon
 
-giDoubleRingedOrb :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDoubleRingedOrb = element (unsafeCoerce _giDoubleRingedOrb)
+giDoubleRingedOrb :: Icon
+giDoubleRingedOrb = element _giDoubleRingedOrb
 
 foreign import _giDoubleShot :: ReactIcon
 
-giDoubleShot :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDoubleShot = element (unsafeCoerce _giDoubleShot)
+giDoubleShot :: Icon
+giDoubleShot = element _giDoubleShot
 
 foreign import _giDoubleStreetLights :: ReactIcon
 
-giDoubleStreetLights :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDoubleStreetLights = element (unsafeCoerce _giDoubleStreetLights)
+giDoubleStreetLights :: Icon
+giDoubleStreetLights = element _giDoubleStreetLights
 
 foreign import _giDoughRoller :: ReactIcon
 
-giDoughRoller :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDoughRoller = element (unsafeCoerce _giDoughRoller)
+giDoughRoller :: Icon
+giDoughRoller = element _giDoughRoller
 
 foreign import _giDove :: ReactIcon
 
-giDove :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDove = element (unsafeCoerce _giDove)
+giDove :: Icon
+giDove = element _giDove
 
 foreign import _giDozen :: ReactIcon
 
-giDozen :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDozen = element (unsafeCoerce _giDozen)
+giDozen :: Icon
+giDozen = element _giDozen
 
 foreign import _giDragonBalls :: ReactIcon
 
-giDragonBalls :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDragonBalls = element (unsafeCoerce _giDragonBalls)
+giDragonBalls :: Icon
+giDragonBalls = element _giDragonBalls
 
 foreign import _giDragonBreath :: ReactIcon
 
-giDragonBreath :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDragonBreath = element (unsafeCoerce _giDragonBreath)
+giDragonBreath :: Icon
+giDragonBreath = element _giDragonBreath
 
 foreign import _giDragonfly :: ReactIcon
 
-giDragonfly :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDragonfly = element (unsafeCoerce _giDragonfly)
+giDragonfly :: Icon
+giDragonfly = element _giDragonfly
 
 foreign import _giDragonHead :: ReactIcon
 
-giDragonHead :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDragonHead = element (unsafeCoerce _giDragonHead)
+giDragonHead :: Icon
+giDragonHead = element _giDragonHead
 
 foreign import _giDragonOrb :: ReactIcon
 
-giDragonOrb :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDragonOrb = element (unsafeCoerce _giDragonOrb)
+giDragonOrb :: Icon
+giDragonOrb = element _giDragonOrb
 
 foreign import _giDragonShield :: ReactIcon
 
-giDragonShield :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDragonShield = element (unsafeCoerce _giDragonShield)
+giDragonShield :: Icon
+giDragonShield = element _giDragonShield
 
 foreign import _giDragonSpiral :: ReactIcon
 
-giDragonSpiral :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDragonSpiral = element (unsafeCoerce _giDragonSpiral)
+giDragonSpiral :: Icon
+giDragonSpiral = element _giDragonSpiral
 
 foreign import _giDrakkar :: ReactIcon
 
-giDrakkar :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDrakkar = element (unsafeCoerce _giDrakkar)
+giDrakkar :: Icon
+giDrakkar = element _giDrakkar
 
 foreign import _giDrakkarDragon :: ReactIcon
 
-giDrakkarDragon :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDrakkarDragon = element (unsafeCoerce _giDrakkarDragon)
+giDrakkarDragon :: Icon
+giDrakkarDragon = element _giDrakkarDragon
 
 foreign import _giDramaMasks :: ReactIcon
 
-giDramaMasks :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDramaMasks = element (unsafeCoerce _giDramaMasks)
+giDramaMasks :: Icon
+giDramaMasks = element _giDramaMasks
 
 foreign import _giDrawbridge :: ReactIcon
 
-giDrawbridge :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDrawbridge = element (unsafeCoerce _giDrawbridge)
+giDrawbridge :: Icon
+giDrawbridge = element _giDrawbridge
 
 foreign import _giDread :: ReactIcon
 
-giDread :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDread = element (unsafeCoerce _giDread)
+giDread :: Icon
+giDread = element _giDread
 
 foreign import _giDreadnought :: ReactIcon
 
-giDreadnought :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDreadnought = element (unsafeCoerce _giDreadnought)
+giDreadnought :: Icon
+giDreadnought = element _giDreadnought
 
 foreign import _giDreadSkull :: ReactIcon
 
-giDreadSkull :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDreadSkull = element (unsafeCoerce _giDreadSkull)
+giDreadSkull :: Icon
+giDreadSkull = element _giDreadSkull
 
 foreign import _giDreamCatcher :: ReactIcon
 
-giDreamCatcher :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDreamCatcher = element (unsafeCoerce _giDreamCatcher)
+giDreamCatcher :: Icon
+giDreamCatcher = element _giDreamCatcher
 
 foreign import _giDress :: ReactIcon
 
-giDress :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDress = element (unsafeCoerce _giDress)
+giDress :: Icon
+giDress = element _giDress
 
 foreign import _giDrill :: ReactIcon
 
-giDrill :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDrill = element (unsafeCoerce _giDrill)
+giDrill :: Icon
+giDrill = element _giDrill
 
 foreign import _giDrinking :: ReactIcon
 
-giDrinking :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDrinking = element (unsafeCoerce _giDrinking)
+giDrinking :: Icon
+giDrinking = element _giDrinking
 
 foreign import _giDrinkMe :: ReactIcon
 
-giDrinkMe :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDrinkMe = element (unsafeCoerce _giDrinkMe)
+giDrinkMe :: Icon
+giDrinkMe = element _giDrinkMe
 
 foreign import _giDrippingBlade :: ReactIcon
 
-giDrippingBlade :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDrippingBlade = element (unsafeCoerce _giDrippingBlade)
+giDrippingBlade :: Icon
+giDrippingBlade = element _giDrippingBlade
 
 foreign import _giDrippingGoo :: ReactIcon
 
-giDrippingGoo :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDrippingGoo = element (unsafeCoerce _giDrippingGoo)
+giDrippingGoo :: Icon
+giDrippingGoo = element _giDrippingGoo
 
 foreign import _giDrippingHoney :: ReactIcon
 
-giDrippingHoney :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDrippingHoney = element (unsafeCoerce _giDrippingHoney)
+giDrippingHoney :: Icon
+giDrippingHoney = element _giDrippingHoney
 
 foreign import _giDrippingKnife :: ReactIcon
 
-giDrippingKnife :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDrippingKnife = element (unsafeCoerce _giDrippingKnife)
+giDrippingKnife :: Icon
+giDrippingKnife = element _giDrippingKnife
 
 foreign import _giDrippingStar :: ReactIcon
 
-giDrippingStar :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDrippingStar = element (unsafeCoerce _giDrippingStar)
+giDrippingStar :: Icon
+giDrippingStar = element _giDrippingStar
 
 foreign import _giDrippingStone :: ReactIcon
 
-giDrippingStone :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDrippingStone = element (unsafeCoerce _giDrippingStone)
+giDrippingStone :: Icon
+giDrippingStone = element _giDrippingStone
 
 foreign import _giDrippingSword :: ReactIcon
 
-giDrippingSword :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDrippingSword = element (unsafeCoerce _giDrippingSword)
+giDrippingSword :: Icon
+giDrippingSword = element _giDrippingSword
 
 foreign import _giDrippingTube :: ReactIcon
 
-giDrippingTube :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDrippingTube = element (unsafeCoerce _giDrippingTube)
+giDrippingTube :: Icon
+giDrippingTube = element _giDrippingTube
 
 foreign import _giDrop :: ReactIcon
 
-giDrop :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDrop = element (unsafeCoerce _giDrop)
+giDrop :: Icon
+giDrop = element _giDrop
 
 foreign import _giDropEarrings :: ReactIcon
 
-giDropEarrings :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDropEarrings = element (unsafeCoerce _giDropEarrings)
+giDropEarrings :: Icon
+giDropEarrings = element _giDropEarrings
 
 foreign import _giDroplets :: ReactIcon
 
-giDroplets :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDroplets = element (unsafeCoerce _giDroplets)
+giDroplets :: Icon
+giDroplets = element _giDroplets
 
 foreign import _giDropletSplash :: ReactIcon
 
-giDropletSplash :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDropletSplash = element (unsafeCoerce _giDropletSplash)
+giDropletSplash :: Icon
+giDropletSplash = element _giDropletSplash
 
 foreign import _giDropWeapon :: ReactIcon
 
-giDropWeapon :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDropWeapon = element (unsafeCoerce _giDropWeapon)
+giDropWeapon :: Icon
+giDropWeapon = element _giDropWeapon
 
 foreign import _giDrowning :: ReactIcon
 
-giDrowning :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDrowning = element (unsafeCoerce _giDrowning)
+giDrowning :: Icon
+giDrowning = element _giDrowning
 
 foreign import _giDrum :: ReactIcon
 
-giDrum :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDrum = element (unsafeCoerce _giDrum)
+giDrum :: Icon
+giDrum = element _giDrum
 
 foreign import _giDrumKit :: ReactIcon
 
-giDrumKit :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDrumKit = element (unsafeCoerce _giDrumKit)
+giDrumKit :: Icon
+giDrumKit = element _giDrumKit
 
 foreign import _giDuality :: ReactIcon
 
-giDuality :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDuality = element (unsafeCoerce _giDuality)
+giDuality :: Icon
+giDuality = element _giDuality
 
 foreign import _giDualityMask :: ReactIcon
 
-giDualityMask :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDualityMask = element (unsafeCoerce _giDualityMask)
+giDualityMask :: Icon
+giDualityMask = element _giDualityMask
 
 foreign import _giDuck :: ReactIcon
 
-giDuck :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDuck = element (unsafeCoerce _giDuck)
+giDuck :: Icon
+giDuck = element _giDuck
 
 foreign import _giDuckPalm :: ReactIcon
 
-giDuckPalm :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDuckPalm = element (unsafeCoerce _giDuckPalm)
+giDuckPalm :: Icon
+giDuckPalm = element _giDuckPalm
 
 foreign import _giDuel :: ReactIcon
 
-giDuel :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDuel = element (unsafeCoerce _giDuel)
+giDuel :: Icon
+giDuel = element _giDuel
 
 foreign import _giDuffelBag :: ReactIcon
 
-giDuffelBag :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDuffelBag = element (unsafeCoerce _giDuffelBag)
+giDuffelBag :: Icon
+giDuffelBag = element _giDuffelBag
 
 foreign import _giDumpling :: ReactIcon
 
-giDumpling :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDumpling = element (unsafeCoerce _giDumpling)
+giDumpling :: Icon
+giDumpling = element _giDumpling
 
 foreign import _giDumplingBao :: ReactIcon
 
-giDumplingBao :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDumplingBao = element (unsafeCoerce _giDumplingBao)
+giDumplingBao :: Icon
+giDumplingBao = element _giDumplingBao
 
 foreign import _giDunceCap :: ReactIcon
 
-giDunceCap :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDunceCap = element (unsafeCoerce _giDunceCap)
+giDunceCap :: Icon
+giDunceCap = element _giDunceCap
 
 foreign import _giDungeonGate :: ReactIcon
 
-giDungeonGate :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDungeonGate = element (unsafeCoerce _giDungeonGate)
+giDungeonGate :: Icon
+giDungeonGate = element _giDungeonGate
 
 foreign import _giDungeonLight :: ReactIcon
 
-giDungeonLight :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDungeonLight = element (unsafeCoerce _giDungeonLight)
+giDungeonLight :: Icon
+giDungeonLight = element _giDungeonLight
 
 foreign import _giDuration :: ReactIcon
 
-giDuration :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDuration = element (unsafeCoerce _giDuration)
+giDuration :: Icon
+giDuration = element _giDuration
 
 foreign import _giDustCloud :: ReactIcon
 
-giDustCloud :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDustCloud = element (unsafeCoerce _giDustCloud)
+giDustCloud :: Icon
+giDustCloud = element _giDustCloud
 
 foreign import _giDutchBike :: ReactIcon
 
-giDutchBike :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDutchBike = element (unsafeCoerce _giDutchBike)
+giDutchBike :: Icon
+giDutchBike = element _giDutchBike
 
 foreign import _giDwarfFace :: ReactIcon
 
-giDwarfFace :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDwarfFace = element (unsafeCoerce _giDwarfFace)
+giDwarfFace :: Icon
+giDwarfFace = element _giDwarfFace
 
 foreign import _giDwarfHelmet :: ReactIcon
 
-giDwarfHelmet :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDwarfHelmet = element (unsafeCoerce _giDwarfHelmet)
+giDwarfHelmet :: Icon
+giDwarfHelmet = element _giDwarfHelmet
 
 foreign import _giDwarfKing :: ReactIcon
 
-giDwarfKing :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDwarfKing = element (unsafeCoerce _giDwarfKing)
+giDwarfKing :: Icon
+giDwarfKing = element _giDwarfKing
 
 foreign import _giDwennimmen :: ReactIcon
 
-giDwennimmen :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDwennimmen = element (unsafeCoerce _giDwennimmen)
+giDwennimmen :: Icon
+giDwennimmen = element _giDwennimmen
 
 foreign import _giDynamite :: ReactIcon
 
-giDynamite :: forall a b. Union a b PropsIcon => Record a -> JSX
-giDynamite = element (unsafeCoerce _giDynamite)
+giDynamite :: Icon
+giDynamite = element _giDynamite
 
 foreign import _giEagleEmblem :: ReactIcon
 
-giEagleEmblem :: forall a b. Union a b PropsIcon => Record a -> JSX
-giEagleEmblem = element (unsafeCoerce _giEagleEmblem)
+giEagleEmblem :: Icon
+giEagleEmblem = element _giEagleEmblem
 
 foreign import _giEagleHead :: ReactIcon
 
-giEagleHead :: forall a b. Union a b PropsIcon => Record a -> JSX
-giEagleHead = element (unsafeCoerce _giEagleHead)
+giEagleHead :: Icon
+giEagleHead = element _giEagleHead
 
 foreign import _giEarbuds :: ReactIcon
 
-giEarbuds :: forall a b. Union a b PropsIcon => Record a -> JSX
-giEarbuds = element (unsafeCoerce _giEarbuds)
+giEarbuds :: Icon
+giEarbuds = element _giEarbuds
 
 foreign import _giEarrings :: ReactIcon
 
-giEarrings :: forall a b. Union a b PropsIcon => Record a -> JSX
-giEarrings = element (unsafeCoerce _giEarrings)
+giEarrings :: Icon
+giEarrings = element _giEarrings
 
 foreign import _giEarthAfricaEurope :: ReactIcon
 
-giEarthAfricaEurope :: forall a b. Union a b PropsIcon => Record a -> JSX
-giEarthAfricaEurope = element (unsafeCoerce _giEarthAfricaEurope)
+giEarthAfricaEurope :: Icon
+giEarthAfricaEurope = element _giEarthAfricaEurope
 
 foreign import _giEarthAmerica :: ReactIcon
 
-giEarthAmerica :: forall a b. Union a b PropsIcon => Record a -> JSX
-giEarthAmerica = element (unsafeCoerce _giEarthAmerica)
+giEarthAmerica :: Icon
+giEarthAmerica = element _giEarthAmerica
 
 foreign import _giEarthAsiaOceania :: ReactIcon
 
-giEarthAsiaOceania :: forall a b. Union a b PropsIcon => Record a -> JSX
-giEarthAsiaOceania = element (unsafeCoerce _giEarthAsiaOceania)
+giEarthAsiaOceania :: Icon
+giEarthAsiaOceania = element _giEarthAsiaOceania
 
 foreign import _giEarthCrack :: ReactIcon
 
-giEarthCrack :: forall a b. Union a b PropsIcon => Record a -> JSX
-giEarthCrack = element (unsafeCoerce _giEarthCrack)
+giEarthCrack :: Icon
+giEarthCrack = element _giEarthCrack
 
 foreign import _giEarthSpit :: ReactIcon
 
-giEarthSpit :: forall a b. Union a b PropsIcon => Record a -> JSX
-giEarthSpit = element (unsafeCoerce _giEarthSpit)
+giEarthSpit :: Icon
+giEarthSpit = element _giEarthSpit
 
 foreign import _giEarthWorm :: ReactIcon
 
-giEarthWorm :: forall a b. Union a b PropsIcon => Record a -> JSX
-giEarthWorm = element (unsafeCoerce _giEarthWorm)
+giEarthWorm :: Icon
+giEarthWorm = element _giEarthWorm
 
 foreign import _giEarwig :: ReactIcon
 
-giEarwig :: forall a b. Union a b PropsIcon => Record a -> JSX
-giEarwig = element (unsafeCoerce _giEarwig)
+giEarwig :: Icon
+giEarwig = element _giEarwig
 
 foreign import _giEasel :: ReactIcon
 
-giEasel :: forall a b. Union a b PropsIcon => Record a -> JSX
-giEasel = element (unsafeCoerce _giEasel)
+giEasel :: Icon
+giEasel = element _giEasel
 
 foreign import _giEasterEgg :: ReactIcon
 
-giEasterEgg :: forall a b. Union a b PropsIcon => Record a -> JSX
-giEasterEgg = element (unsafeCoerce _giEasterEgg)
+giEasterEgg :: Icon
+giEasterEgg = element _giEasterEgg
 
 foreign import _giEating :: ReactIcon
 
-giEating :: forall a b. Union a b PropsIcon => Record a -> JSX
-giEating = element (unsafeCoerce _giEating)
+giEating :: Icon
+giEating = element _giEating
 
 foreign import _giEatingPelican :: ReactIcon
 
-giEatingPelican :: forall a b. Union a b PropsIcon => Record a -> JSX
-giEatingPelican = element (unsafeCoerce _giEatingPelican)
+giEatingPelican :: Icon
+giEatingPelican = element _giEatingPelican
 
 foreign import _giEchoRipples :: ReactIcon
 
-giEchoRipples :: forall a b. Union a b PropsIcon => Record a -> JSX
-giEchoRipples = element (unsafeCoerce _giEchoRipples)
+giEchoRipples :: Icon
+giEchoRipples = element _giEchoRipples
 
 foreign import _giEclipse :: ReactIcon
 
-giEclipse :: forall a b. Union a b PropsIcon => Record a -> JSX
-giEclipse = element (unsafeCoerce _giEclipse)
+giEclipse :: Icon
+giEclipse = element _giEclipse
 
 foreign import _giEclipseFlare :: ReactIcon
 
-giEclipseFlare :: forall a b. Union a b PropsIcon => Record a -> JSX
-giEclipseFlare = element (unsafeCoerce _giEclipseFlare)
+giEclipseFlare :: Icon
+giEclipseFlare = element _giEclipseFlare
 
 foreign import _giEclipseSaw :: ReactIcon
 
-giEclipseSaw :: forall a b. Union a b PropsIcon => Record a -> JSX
-giEclipseSaw = element (unsafeCoerce _giEclipseSaw)
+giEclipseSaw :: Icon
+giEclipseSaw = element _giEclipseSaw
 
 foreign import _giEcology :: ReactIcon
 
-giEcology :: forall a b. Union a b PropsIcon => Record a -> JSX
-giEcology = element (unsafeCoerce _giEcology)
+giEcology :: Icon
+giEcology = element _giEcology
 
 foreign import _giEdgeCrack :: ReactIcon
 
-giEdgeCrack :: forall a b. Union a b PropsIcon => Record a -> JSX
-giEdgeCrack = element (unsafeCoerce _giEdgeCrack)
+giEdgeCrack :: Icon
+giEdgeCrack = element _giEdgeCrack
 
 foreign import _giEdgedShield :: ReactIcon
 
-giEdgedShield :: forall a b. Union a b PropsIcon => Record a -> JSX
-giEdgedShield = element (unsafeCoerce _giEdgedShield)
+giEdgedShield :: Icon
+giEdgedShield = element _giEdgedShield
 
 foreign import _giEel :: ReactIcon
 
-giEel :: forall a b. Union a b PropsIcon => Record a -> JSX
-giEel = element (unsafeCoerce _giEel)
+giEel :: Icon
+giEel = element _giEel
 
 foreign import _giEggClutch :: ReactIcon
 
-giEggClutch :: forall a b. Union a b PropsIcon => Record a -> JSX
-giEggClutch = element (unsafeCoerce _giEggClutch)
+giEggClutch :: Icon
+giEggClutch = element _giEggClutch
 
 foreign import _giEggDefense :: ReactIcon
 
-giEggDefense :: forall a b. Union a b PropsIcon => Record a -> JSX
-giEggDefense = element (unsafeCoerce _giEggDefense)
+giEggDefense :: Icon
+giEggDefense = element _giEggDefense
 
 foreign import _giEggEye :: ReactIcon
 
-giEggEye :: forall a b. Union a b PropsIcon => Record a -> JSX
-giEggEye = element (unsafeCoerce _giEggEye)
+giEggEye :: Icon
+giEggEye = element _giEggEye
 
 foreign import _giEggPod :: ReactIcon
 
-giEggPod :: forall a b. Union a b PropsIcon => Record a -> JSX
-giEggPod = element (unsafeCoerce _giEggPod)
+giEggPod :: Icon
+giEggPod = element _giEggPod
 
 foreign import _giEgypt :: ReactIcon
 
-giEgypt :: forall a b. Union a b PropsIcon => Record a -> JSX
-giEgypt = element (unsafeCoerce _giEgypt)
+giEgypt :: Icon
+giEgypt = element _giEgypt
 
 foreign import _giEgyptianBird :: ReactIcon
 
-giEgyptianBird :: forall a b. Union a b PropsIcon => Record a -> JSX
-giEgyptianBird = element (unsafeCoerce _giEgyptianBird)
+giEgyptianBird :: Icon
+giEgyptianBird = element _giEgyptianBird
 
 foreign import _giEgyptianProfile :: ReactIcon
 
-giEgyptianProfile :: forall a b. Union a b PropsIcon => Record a -> JSX
-giEgyptianProfile = element (unsafeCoerce _giEgyptianProfile)
+giEgyptianProfile :: Icon
+giEgyptianProfile = element _giEgyptianProfile
 
 foreign import _giEgyptianPyramids :: ReactIcon
 
-giEgyptianPyramids :: forall a b. Union a b PropsIcon => Record a -> JSX
-giEgyptianPyramids = element (unsafeCoerce _giEgyptianPyramids)
+giEgyptianPyramids :: Icon
+giEgyptianPyramids = element _giEgyptianPyramids
 
 foreign import _giEgyptianSphinx :: ReactIcon
 
-giEgyptianSphinx :: forall a b. Union a b PropsIcon => Record a -> JSX
-giEgyptianSphinx = element (unsafeCoerce _giEgyptianSphinx)
+giEgyptianSphinx :: Icon
+giEgyptianSphinx = element _giEgyptianSphinx
 
 foreign import _giEgyptianTemple :: ReactIcon
 
-giEgyptianTemple :: forall a b. Union a b PropsIcon => Record a -> JSX
-giEgyptianTemple = element (unsafeCoerce _giEgyptianTemple)
+giEgyptianTemple :: Icon
+giEgyptianTemple = element _giEgyptianTemple
 
 foreign import _giEgyptianUrns :: ReactIcon
 
-giEgyptianUrns :: forall a b. Union a b PropsIcon => Record a -> JSX
-giEgyptianUrns = element (unsafeCoerce _giEgyptianUrns)
+giEgyptianUrns :: Icon
+giEgyptianUrns = element _giEgyptianUrns
 
 foreign import _giEgyptianWalk :: ReactIcon
 
-giEgyptianWalk :: forall a b. Union a b PropsIcon => Record a -> JSX
-giEgyptianWalk = element (unsafeCoerce _giEgyptianWalk)
+giEgyptianWalk :: Icon
+giEgyptianWalk = element _giEgyptianWalk
 
 foreign import _giEightBall :: ReactIcon
 
-giEightBall :: forall a b. Union a b PropsIcon => Record a -> JSX
-giEightBall = element (unsafeCoerce _giEightBall)
+giEightBall :: Icon
+giEightBall = element _giEightBall
 
 foreign import _giElbowPad :: ReactIcon
 
-giElbowPad :: forall a b. Union a b PropsIcon => Record a -> JSX
-giElbowPad = element (unsafeCoerce _giElbowPad)
+giElbowPad :: Icon
+giElbowPad = element _giElbowPad
 
 foreign import _giElderberry :: ReactIcon
 
-giElderberry :: forall a b. Union a b PropsIcon => Record a -> JSX
-giElderberry = element (unsafeCoerce _giElderberry)
+giElderberry :: Icon
+giElderberry = element _giElderberry
 
 foreign import _giElectric :: ReactIcon
 
-giElectric :: forall a b. Union a b PropsIcon => Record a -> JSX
-giElectric = element (unsafeCoerce _giElectric)
+giElectric :: Icon
+giElectric = element _giElectric
 
 foreign import _giElectricalCrescent :: ReactIcon
 
-giElectricalCrescent :: forall a b. Union a b PropsIcon => Record a -> JSX
-giElectricalCrescent = element (unsafeCoerce _giElectricalCrescent)
+giElectricalCrescent :: Icon
+giElectricalCrescent = element _giElectricalCrescent
 
 foreign import _giElectricalResistance :: ReactIcon
 
-giElectricalResistance :: forall a b. Union a b PropsIcon => Record a -> JSX
-giElectricalResistance = element (unsafeCoerce _giElectricalResistance)
+giElectricalResistance :: Icon
+giElectricalResistance = element _giElectricalResistance
 
 foreign import _giElectricalSocket :: ReactIcon
 
-giElectricalSocket :: forall a b. Union a b PropsIcon => Record a -> JSX
-giElectricalSocket = element (unsafeCoerce _giElectricalSocket)
+giElectricalSocket :: Icon
+giElectricalSocket = element _giElectricalSocket
 
 foreign import _giElectricWhip :: ReactIcon
 
-giElectricWhip :: forall a b. Union a b PropsIcon => Record a -> JSX
-giElectricWhip = element (unsafeCoerce _giElectricWhip)
+giElectricWhip :: Icon
+giElectricWhip = element _giElectricWhip
 
 foreign import _giElephant :: ReactIcon
 
-giElephant :: forall a b. Union a b PropsIcon => Record a -> JSX
-giElephant = element (unsafeCoerce _giElephant)
+giElephant :: Icon
+giElephant = element _giElephant
 
 foreign import _giElephantHead :: ReactIcon
 
-giElephantHead :: forall a b. Union a b PropsIcon => Record a -> JSX
-giElephantHead = element (unsafeCoerce _giElephantHead)
+giElephantHead :: Icon
+giElephantHead = element _giElephantHead
 
 foreign import _giElevator :: ReactIcon
 
-giElevator :: forall a b. Union a b PropsIcon => Record a -> JSX
-giElevator = element (unsafeCoerce _giElevator)
+giElevator :: Icon
+giElevator = element _giElevator
 
 foreign import _giElfEar :: ReactIcon
 
-giElfEar :: forall a b. Union a b PropsIcon => Record a -> JSX
-giElfEar = element (unsafeCoerce _giElfEar)
+giElfEar :: Icon
+giElfEar = element _giElfEar
 
 foreign import _giElfHelmet :: ReactIcon
 
-giElfHelmet :: forall a b. Union a b PropsIcon => Record a -> JSX
-giElfHelmet = element (unsafeCoerce _giElfHelmet)
+giElfHelmet :: Icon
+giElfHelmet = element _giElfHelmet
 
 foreign import _giElvenCastle :: ReactIcon
 
-giElvenCastle :: forall a b. Union a b PropsIcon => Record a -> JSX
-giElvenCastle = element (unsafeCoerce _giElvenCastle)
+giElvenCastle :: Icon
+giElvenCastle = element _giElvenCastle
 
 foreign import _giEmberShot :: ReactIcon
 
-giEmberShot :: forall a b. Union a b PropsIcon => Record a -> JSX
-giEmberShot = element (unsafeCoerce _giEmberShot)
+giEmberShot :: Icon
+giEmberShot = element _giEmberShot
 
 foreign import _giEmbrassedEnergy :: ReactIcon
 
-giEmbrassedEnergy :: forall a b. Union a b PropsIcon => Record a -> JSX
-giEmbrassedEnergy = element (unsafeCoerce _giEmbrassedEnergy)
+giEmbrassedEnergy :: Icon
+giEmbrassedEnergy = element _giEmbrassedEnergy
 
 foreign import _giEmbryo :: ReactIcon
 
-giEmbryo :: forall a b. Union a b PropsIcon => Record a -> JSX
-giEmbryo = element (unsafeCoerce _giEmbryo)
+giEmbryo :: Icon
+giEmbryo = element _giEmbryo
 
 foreign import _giEmerald :: ReactIcon
 
-giEmerald :: forall a b. Union a b PropsIcon => Record a -> JSX
-giEmerald = element (unsafeCoerce _giEmerald)
+giEmerald :: Icon
+giEmerald = element _giEmerald
 
 foreign import _giEmeraldNecklace :: ReactIcon
 
-giEmeraldNecklace :: forall a b. Union a b PropsIcon => Record a -> JSX
-giEmeraldNecklace = element (unsafeCoerce _giEmeraldNecklace)
+giEmeraldNecklace :: Icon
+giEmeraldNecklace = element _giEmeraldNecklace
 
 foreign import _giEmptyChessboard :: ReactIcon
 
-giEmptyChessboard :: forall a b. Union a b PropsIcon => Record a -> JSX
-giEmptyChessboard = element (unsafeCoerce _giEmptyChessboard)
+giEmptyChessboard :: Icon
+giEmptyChessboard = element _giEmptyChessboard
 
 foreign import _giEmptyHourglass :: ReactIcon
 
-giEmptyHourglass :: forall a b. Union a b PropsIcon => Record a -> JSX
-giEmptyHourglass = element (unsafeCoerce _giEmptyHourglass)
+giEmptyHourglass :: Icon
+giEmptyHourglass = element _giEmptyHourglass
 
 foreign import _giEmptyMetalBucket :: ReactIcon
 
-giEmptyMetalBucket :: forall a b. Union a b PropsIcon => Record a -> JSX
-giEmptyMetalBucket = element (unsafeCoerce _giEmptyMetalBucket)
+giEmptyMetalBucket :: Icon
+giEmptyMetalBucket = element _giEmptyMetalBucket
 
 foreign import _giEmptyMetalBucketHandle :: ReactIcon
 
-giEmptyMetalBucketHandle :: forall a b. Union a b PropsIcon => Record a -> JSX
-giEmptyMetalBucketHandle = element (unsafeCoerce _giEmptyMetalBucketHandle)
+giEmptyMetalBucketHandle :: Icon
+giEmptyMetalBucketHandle = element _giEmptyMetalBucketHandle
 
 foreign import _giEmptyWoodBucket :: ReactIcon
 
-giEmptyWoodBucket :: forall a b. Union a b PropsIcon => Record a -> JSX
-giEmptyWoodBucket = element (unsafeCoerce _giEmptyWoodBucket)
+giEmptyWoodBucket :: Icon
+giEmptyWoodBucket = element _giEmptyWoodBucket
 
 foreign import _giEmptyWoodBucketHandle :: ReactIcon
 
-giEmptyWoodBucketHandle :: forall a b. Union a b PropsIcon => Record a -> JSX
-giEmptyWoodBucketHandle = element (unsafeCoerce _giEmptyWoodBucketHandle)
+giEmptyWoodBucketHandle :: Icon
+giEmptyWoodBucketHandle = element _giEmptyWoodBucketHandle
 
 foreign import _giEncirclement :: ReactIcon
 
-giEncirclement :: forall a b. Union a b PropsIcon => Record a -> JSX
-giEncirclement = element (unsafeCoerce _giEncirclement)
+giEncirclement :: Icon
+giEncirclement = element _giEncirclement
 
 foreign import _giEnergise :: ReactIcon
 
-giEnergise :: forall a b. Union a b PropsIcon => Record a -> JSX
-giEnergise = element (unsafeCoerce _giEnergise)
+giEnergise :: Icon
+giEnergise = element _giEnergise
 
 foreign import _giEnergyArrow :: ReactIcon
 
-giEnergyArrow :: forall a b. Union a b PropsIcon => Record a -> JSX
-giEnergyArrow = element (unsafeCoerce _giEnergyArrow)
+giEnergyArrow :: Icon
+giEnergyArrow = element _giEnergyArrow
 
 foreign import _giEnergyBreath :: ReactIcon
 
-giEnergyBreath :: forall a b. Union a b PropsIcon => Record a -> JSX
-giEnergyBreath = element (unsafeCoerce _giEnergyBreath)
+giEnergyBreath :: Icon
+giEnergyBreath = element _giEnergyBreath
 
 foreign import _giEnergyShield :: ReactIcon
 
-giEnergyShield :: forall a b. Union a b PropsIcon => Record a -> JSX
-giEnergyShield = element (unsafeCoerce _giEnergyShield)
+giEnergyShield :: Icon
+giEnergyShield = element _giEnergyShield
 
 foreign import _giEnergySword :: ReactIcon
 
-giEnergySword :: forall a b. Union a b PropsIcon => Record a -> JSX
-giEnergySword = element (unsafeCoerce _giEnergySword)
+giEnergySword :: Icon
+giEnergySword = element _giEnergySword
 
 foreign import _giEnergyTank :: ReactIcon
 
-giEnergyTank :: forall a b. Union a b PropsIcon => Record a -> JSX
-giEnergyTank = element (unsafeCoerce _giEnergyTank)
+giEnergyTank :: Icon
+giEnergyTank = element _giEnergyTank
 
 foreign import _giEngagementRing :: ReactIcon
 
-giEngagementRing :: forall a b. Union a b PropsIcon => Record a -> JSX
-giEngagementRing = element (unsafeCoerce _giEngagementRing)
+giEngagementRing :: Icon
+giEngagementRing = element _giEngagementRing
 
 foreign import _giEnlightenment :: ReactIcon
 
-giEnlightenment :: forall a b. Union a b PropsIcon => Record a -> JSX
-giEnlightenment = element (unsafeCoerce _giEnlightenment)
+giEnlightenment :: Icon
+giEnlightenment = element _giEnlightenment
 
 foreign import _giEnrage :: ReactIcon
 
-giEnrage :: forall a b. Union a b PropsIcon => Record a -> JSX
-giEnrage = element (unsafeCoerce _giEnrage)
+giEnrage :: Icon
+giEnrage = element _giEnrage
 
 foreign import _giEntangledTyphoon :: ReactIcon
 
-giEntangledTyphoon :: forall a b. Union a b PropsIcon => Record a -> JSX
-giEntangledTyphoon = element (unsafeCoerce _giEntangledTyphoon)
+giEntangledTyphoon :: Icon
+giEntangledTyphoon = element _giEntangledTyphoon
 
 foreign import _giEntMouth :: ReactIcon
 
-giEntMouth :: forall a b. Union a b PropsIcon => Record a -> JSX
-giEntMouth = element (unsafeCoerce _giEntMouth)
+giEntMouth :: Icon
+giEntMouth = element _giEntMouth
 
 foreign import _giEntryDoor :: ReactIcon
 
-giEntryDoor :: forall a b. Union a b PropsIcon => Record a -> JSX
-giEntryDoor = element (unsafeCoerce _giEntryDoor)
+giEntryDoor :: Icon
+giEntryDoor = element _giEntryDoor
 
 foreign import _giEnvelope :: ReactIcon
 
-giEnvelope :: forall a b. Union a b PropsIcon => Record a -> JSX
-giEnvelope = element (unsafeCoerce _giEnvelope)
+giEnvelope :: Icon
+giEnvelope = element _giEnvelope
 
 foreign import _giErlenmeyer :: ReactIcon
 
-giErlenmeyer :: forall a b. Union a b PropsIcon => Record a -> JSX
-giErlenmeyer = element (unsafeCoerce _giErlenmeyer)
+giErlenmeyer :: Icon
+giErlenmeyer = element _giErlenmeyer
 
 foreign import _giErmine :: ReactIcon
 
-giErmine :: forall a b. Union a b PropsIcon => Record a -> JSX
-giErmine = element (unsafeCoerce _giErmine)
+giErmine :: Icon
+giErmine = element _giErmine
 
 foreign import _giEruption :: ReactIcon
 
-giEruption :: forall a b. Union a b PropsIcon => Record a -> JSX
-giEruption = element (unsafeCoerce _giEruption)
+giEruption :: Icon
+giEruption = element _giEruption
 
 foreign import _giEscalator :: ReactIcon
 
-giEscalator :: forall a b. Union a b PropsIcon => Record a -> JSX
-giEscalator = element (unsafeCoerce _giEscalator)
+giEscalator :: Icon
+giEscalator = element _giEscalator
 
 foreign import _giEskimo :: ReactIcon
 
-giEskimo :: forall a b. Union a b PropsIcon => Record a -> JSX
-giEskimo = element (unsafeCoerce _giEskimo)
+giEskimo :: Icon
+giEskimo = element _giEskimo
 
 foreign import _giEternalLove :: ReactIcon
 
-giEternalLove :: forall a b. Union a b PropsIcon => Record a -> JSX
-giEternalLove = element (unsafeCoerce _giEternalLove)
+giEternalLove :: Icon
+giEternalLove = element _giEternalLove
 
 foreign import _giEuropeanFlag :: ReactIcon
 
-giEuropeanFlag :: forall a b. Union a b PropsIcon => Record a -> JSX
-giEuropeanFlag = element (unsafeCoerce _giEuropeanFlag)
+giEuropeanFlag :: Icon
+giEuropeanFlag = element _giEuropeanFlag
 
 foreign import _giEvasion :: ReactIcon
 
-giEvasion :: forall a b. Union a b PropsIcon => Record a -> JSX
-giEvasion = element (unsafeCoerce _giEvasion)
+giEvasion :: Icon
+giEvasion = element _giEvasion
 
 foreign import _giEvilBat :: ReactIcon
 
-giEvilBat :: forall a b. Union a b PropsIcon => Record a -> JSX
-giEvilBat = element (unsafeCoerce _giEvilBat)
+giEvilBat :: Icon
+giEvilBat = element _giEvilBat
 
 foreign import _giEvilBook :: ReactIcon
 
-giEvilBook :: forall a b. Union a b PropsIcon => Record a -> JSX
-giEvilBook = element (unsafeCoerce _giEvilBook)
+giEvilBook :: Icon
+giEvilBook = element _giEvilBook
 
 foreign import _giEvilBud :: ReactIcon
 
-giEvilBud :: forall a b. Union a b PropsIcon => Record a -> JSX
-giEvilBud = element (unsafeCoerce _giEvilBud)
+giEvilBud :: Icon
+giEvilBud = element _giEvilBud
 
 foreign import _giEvilComet :: ReactIcon
 
-giEvilComet :: forall a b. Union a b PropsIcon => Record a -> JSX
-giEvilComet = element (unsafeCoerce _giEvilComet)
+giEvilComet :: Icon
+giEvilComet = element _giEvilComet
 
 foreign import _giEvilEyes :: ReactIcon
 
-giEvilEyes :: forall a b. Union a b PropsIcon => Record a -> JSX
-giEvilEyes = element (unsafeCoerce _giEvilEyes)
+giEvilEyes :: Icon
+giEvilEyes = element _giEvilEyes
 
 foreign import _giEvilFork :: ReactIcon
 
-giEvilFork :: forall a b. Union a b PropsIcon => Record a -> JSX
-giEvilFork = element (unsafeCoerce _giEvilFork)
+giEvilFork :: Icon
+giEvilFork = element _giEvilFork
 
 foreign import _giEvilHand :: ReactIcon
 
-giEvilHand :: forall a b. Union a b PropsIcon => Record a -> JSX
-giEvilHand = element (unsafeCoerce _giEvilHand)
+giEvilHand :: Icon
+giEvilHand = element _giEvilHand
 
 foreign import _giEvilLove :: ReactIcon
 
-giEvilLove :: forall a b. Union a b PropsIcon => Record a -> JSX
-giEvilLove = element (unsafeCoerce _giEvilLove)
+giEvilLove :: Icon
+giEvilLove = element _giEvilLove
 
 foreign import _giEvilMinion :: ReactIcon
 
-giEvilMinion :: forall a b. Union a b PropsIcon => Record a -> JSX
-giEvilMinion = element (unsafeCoerce _giEvilMinion)
+giEvilMinion :: Icon
+giEvilMinion = element _giEvilMinion
 
 foreign import _giEvilMoon :: ReactIcon
 
-giEvilMoon :: forall a b. Union a b PropsIcon => Record a -> JSX
-giEvilMoon = element (unsafeCoerce _giEvilMoon)
+giEvilMoon :: Icon
+giEvilMoon = element _giEvilMoon
 
 foreign import _giEvilTower :: ReactIcon
 
-giEvilTower :: forall a b. Union a b PropsIcon => Record a -> JSX
-giEvilTower = element (unsafeCoerce _giEvilTower)
+giEvilTower :: Icon
+giEvilTower = element _giEvilTower
 
 foreign import _giEvilTree :: ReactIcon
 
-giEvilTree :: forall a b. Union a b PropsIcon => Record a -> JSX
-giEvilTree = element (unsafeCoerce _giEvilTree)
+giEvilTree :: Icon
+giEvilTree = element _giEvilTree
 
 foreign import _giEvilWings :: ReactIcon
 
-giEvilWings :: forall a b. Union a b PropsIcon => Record a -> JSX
-giEvilWings = element (unsafeCoerce _giEvilWings)
+giEvilWings :: Icon
+giEvilWings = element _giEvilWings
 
 foreign import _giExecutionerHood :: ReactIcon
 
-giExecutionerHood :: forall a b. Union a b PropsIcon => Record a -> JSX
-giExecutionerHood = element (unsafeCoerce _giExecutionerHood)
+giExecutionerHood :: Icon
+giExecutionerHood = element _giExecutionerHood
 
 foreign import _giExitDoor :: ReactIcon
 
-giExitDoor :: forall a b. Union a b PropsIcon => Record a -> JSX
-giExitDoor = element (unsafeCoerce _giExitDoor)
+giExitDoor :: Icon
+giExitDoor = element _giExitDoor
 
 foreign import _giExpand :: ReactIcon
 
-giExpand :: forall a b. Union a b PropsIcon => Record a -> JSX
-giExpand = element (unsafeCoerce _giExpand)
+giExpand :: Icon
+giExpand = element _giExpand
 
 foreign import _giExpandedRays :: ReactIcon
 
-giExpandedRays :: forall a b. Union a b PropsIcon => Record a -> JSX
-giExpandedRays = element (unsafeCoerce _giExpandedRays)
+giExpandedRays :: Icon
+giExpandedRays = element _giExpandedRays
 
 foreign import _giExpander :: ReactIcon
 
-giExpander :: forall a b. Union a b PropsIcon => Record a -> JSX
-giExpander = element (unsafeCoerce _giExpander)
+giExpander :: Icon
+giExpander = element _giExpander
 
 foreign import _giExpense :: ReactIcon
 
-giExpense :: forall a b. Union a b PropsIcon => Record a -> JSX
-giExpense = element (unsafeCoerce _giExpense)
+giExpense :: Icon
+giExpense = element _giExpense
 
 foreign import _giExplodingPlanet :: ReactIcon
 
-giExplodingPlanet :: forall a b. Union a b PropsIcon => Record a -> JSX
-giExplodingPlanet = element (unsafeCoerce _giExplodingPlanet)
+giExplodingPlanet :: Icon
+giExplodingPlanet = element _giExplodingPlanet
 
 foreign import _giExplosionRays :: ReactIcon
 
-giExplosionRays :: forall a b. Union a b PropsIcon => Record a -> JSX
-giExplosionRays = element (unsafeCoerce _giExplosionRays)
+giExplosionRays :: Icon
+giExplosionRays = element _giExplosionRays
 
 foreign import _giExplosiveMaterials :: ReactIcon
 
-giExplosiveMaterials :: forall a b. Union a b PropsIcon => Record a -> JSX
-giExplosiveMaterials = element (unsafeCoerce _giExplosiveMaterials)
+giExplosiveMaterials :: Icon
+giExplosiveMaterials = element _giExplosiveMaterials
 
 foreign import _giExplosiveMeeting :: ReactIcon
 
-giExplosiveMeeting :: forall a b. Union a b PropsIcon => Record a -> JSX
-giExplosiveMeeting = element (unsafeCoerce _giExplosiveMeeting)
+giExplosiveMeeting :: Icon
+giExplosiveMeeting = element _giExplosiveMeeting
 
 foreign import _giExtractionOrb :: ReactIcon
 
-giExtractionOrb :: forall a b. Union a b PropsIcon => Record a -> JSX
-giExtractionOrb = element (unsafeCoerce _giExtractionOrb)
+giExtractionOrb :: Icon
+giExtractionOrb = element _giExtractionOrb
 
 foreign import _giExtraLucid :: ReactIcon
 
-giExtraLucid :: forall a b. Union a b PropsIcon => Record a -> JSX
-giExtraLucid = element (unsafeCoerce _giExtraLucid)
+giExtraLucid :: Icon
+giExtraLucid = element _giExtraLucid
 
 foreign import _giExtraTime :: ReactIcon
 
-giExtraTime :: forall a b. Union a b PropsIcon => Record a -> JSX
-giExtraTime = element (unsafeCoerce _giExtraTime)
+giExtraTime :: Icon
+giExtraTime = element _giExtraTime
 
 foreign import _giEyeball :: ReactIcon
 
-giEyeball :: forall a b. Union a b PropsIcon => Record a -> JSX
-giEyeball = element (unsafeCoerce _giEyeball)
+giEyeball :: Icon
+giEyeball = element _giEyeball
 
 foreign import _giEyedropper :: ReactIcon
 
-giEyedropper :: forall a b. Union a b PropsIcon => Record a -> JSX
-giEyedropper = element (unsafeCoerce _giEyedropper)
+giEyedropper :: Icon
+giEyedropper = element _giEyedropper
 
 foreign import _giEyelashes :: ReactIcon
 
-giEyelashes :: forall a b. Union a b PropsIcon => Record a -> JSX
-giEyelashes = element (unsafeCoerce _giEyelashes)
+giEyelashes :: Icon
+giEyelashes = element _giEyelashes
 
 foreign import _giEyeOfHorus :: ReactIcon
 
-giEyeOfHorus :: forall a b. Union a b PropsIcon => Record a -> JSX
-giEyeOfHorus = element (unsafeCoerce _giEyeOfHorus)
+giEyeOfHorus :: Icon
+giEyeOfHorus = element _giEyeOfHorus
 
 foreign import _giEyepatch :: ReactIcon
 
-giEyepatch :: forall a b. Union a b PropsIcon => Record a -> JSX
-giEyepatch = element (unsafeCoerce _giEyepatch)
+giEyepatch :: Icon
+giEyepatch = element _giEyepatch
 
 foreign import _giEyeShield :: ReactIcon
 
-giEyeShield :: forall a b. Union a b PropsIcon => Record a -> JSX
-giEyeShield = element (unsafeCoerce _giEyeShield)
+giEyeShield :: Icon
+giEyeShield = element _giEyeShield
 
 foreign import _giEyestalk :: ReactIcon
 
-giEyestalk :: forall a b. Union a b PropsIcon => Record a -> JSX
-giEyestalk = element (unsafeCoerce _giEyestalk)
+giEyestalk :: Icon
+giEyestalk = element _giEyestalk
 
 foreign import _giEyeTarget :: ReactIcon
 
-giEyeTarget :: forall a b. Union a b PropsIcon => Record a -> JSX
-giEyeTarget = element (unsafeCoerce _giEyeTarget)
+giEyeTarget :: Icon
+giEyeTarget = element _giEyeTarget
 
 foreign import _giFaceToFace :: ReactIcon
 
-giFaceToFace :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFaceToFace = element (unsafeCoerce _giFaceToFace)
+giFaceToFace :: Icon
+giFaceToFace = element _giFaceToFace
 
 foreign import _giFactory :: ReactIcon
 
-giFactory :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFactory = element (unsafeCoerce _giFactory)
+giFactory :: Icon
+giFactory = element _giFactory
 
 foreign import _giFactoryArm :: ReactIcon
 
-giFactoryArm :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFactoryArm = element (unsafeCoerce _giFactoryArm)
+giFactoryArm :: Icon
+giFactoryArm = element _giFactoryArm
 
 foreign import _giFairy :: ReactIcon
 
-giFairy :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFairy = element (unsafeCoerce _giFairy)
+giFairy :: Icon
+giFairy = element _giFairy
 
 foreign import _giFairyWand :: ReactIcon
 
-giFairyWand :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFairyWand = element (unsafeCoerce _giFairyWand)
+giFairyWand :: Icon
+giFairyWand = element _giFairyWand
 
 foreign import _giFairyWings :: ReactIcon
 
-giFairyWings :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFairyWings = element (unsafeCoerce _giFairyWings)
+giFairyWings :: Icon
+giFairyWings = element _giFairyWings
 
 foreign import _giFalconMoon :: ReactIcon
 
-giFalconMoon :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFalconMoon = element (unsafeCoerce _giFalconMoon)
+giFalconMoon :: Icon
+giFalconMoon = element _giFalconMoon
 
 foreign import _giFallDown :: ReactIcon
 
-giFallDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFallDown = element (unsafeCoerce _giFallDown)
+giFallDown :: Icon
+giFallDown = element _giFallDown
 
 foreign import _giFalling :: ReactIcon
 
-giFalling :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFalling = element (unsafeCoerce _giFalling)
+giFalling :: Icon
+giFalling = element _giFalling
 
 foreign import _giFallingBlob :: ReactIcon
 
-giFallingBlob :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFallingBlob = element (unsafeCoerce _giFallingBlob)
+giFallingBlob :: Icon
+giFallingBlob = element _giFallingBlob
 
 foreign import _giFallingBomb :: ReactIcon
 
-giFallingBomb :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFallingBomb = element (unsafeCoerce _giFallingBomb)
+giFallingBomb :: Icon
+giFallingBomb = element _giFallingBomb
 
 foreign import _giFallingBoulder :: ReactIcon
 
-giFallingBoulder :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFallingBoulder = element (unsafeCoerce _giFallingBoulder)
+giFallingBoulder :: Icon
+giFallingBoulder = element _giFallingBoulder
 
 foreign import _giFallingEye :: ReactIcon
 
-giFallingEye :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFallingEye = element (unsafeCoerce _giFallingEye)
+giFallingEye :: Icon
+giFallingEye = element _giFallingEye
 
 foreign import _giFallingLeaf :: ReactIcon
 
-giFallingLeaf :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFallingLeaf = element (unsafeCoerce _giFallingLeaf)
+giFallingLeaf :: Icon
+giFallingLeaf = element _giFallingLeaf
 
 foreign import _giFallingOvoid :: ReactIcon
 
-giFallingOvoid :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFallingOvoid = element (unsafeCoerce _giFallingOvoid)
+giFallingOvoid :: Icon
+giFallingOvoid = element _giFallingOvoid
 
 foreign import _giFallingRocks :: ReactIcon
 
-giFallingRocks :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFallingRocks = element (unsafeCoerce _giFallingRocks)
+giFallingRocks :: Icon
+giFallingRocks = element _giFallingRocks
 
 foreign import _giFallingStar :: ReactIcon
 
-giFallingStar :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFallingStar = element (unsafeCoerce _giFallingStar)
+giFallingStar :: Icon
+giFallingStar = element _giFallingStar
 
 foreign import _giFalloutShelter :: ReactIcon
 
-giFalloutShelter :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFalloutShelter = element (unsafeCoerce _giFalloutShelter)
+giFalloutShelter :: Icon
+giFalloutShelter = element _giFalloutShelter
 
 foreign import _giFamas :: ReactIcon
 
-giFamas :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFamas = element (unsafeCoerce _giFamas)
+giFamas :: Icon
+giFamas = element _giFamas
 
 foreign import _giFamilyHouse :: ReactIcon
 
-giFamilyHouse :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFamilyHouse = element (unsafeCoerce _giFamilyHouse)
+giFamilyHouse :: Icon
+giFamilyHouse = element _giFamilyHouse
 
 foreign import _giFamilyTree :: ReactIcon
 
-giFamilyTree :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFamilyTree = element (unsafeCoerce _giFamilyTree)
+giFamilyTree :: Icon
+giFamilyTree = element _giFamilyTree
 
 foreign import _giFangedSkull :: ReactIcon
 
-giFangedSkull :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFangedSkull = element (unsafeCoerce _giFangedSkull)
+giFangedSkull :: Icon
+giFangedSkull = element _giFangedSkull
 
 foreign import _giFangs :: ReactIcon
 
-giFangs :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFangs = element (unsafeCoerce _giFangs)
+giFangs :: Icon
+giFangs = element _giFangs
 
 foreign import _giFangsCircle :: ReactIcon
 
-giFangsCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFangsCircle = element (unsafeCoerce _giFangsCircle)
+giFangsCircle :: Icon
+giFangsCircle = element _giFangsCircle
 
 foreign import _giFarmer :: ReactIcon
 
-giFarmer :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFarmer = element (unsafeCoerce _giFarmer)
+giFarmer :: Icon
+giFarmer = element _giFarmer
 
 foreign import _giFarmTractor :: ReactIcon
 
-giFarmTractor :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFarmTractor = element (unsafeCoerce _giFarmTractor)
+giFarmTractor :: Icon
+giFarmTractor = element _giFarmTractor
 
 foreign import _giFastArrow :: ReactIcon
 
-giFastArrow :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFastArrow = element (unsafeCoerce _giFastArrow)
+giFastArrow :: Icon
+giFastArrow = element _giFastArrow
 
 foreign import _giFastBackwardButton :: ReactIcon
 
-giFastBackwardButton :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFastBackwardButton = element (unsafeCoerce _giFastBackwardButton)
+giFastBackwardButton :: Icon
+giFastBackwardButton = element _giFastBackwardButton
 
 foreign import _giFastForwardButton :: ReactIcon
 
-giFastForwardButton :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFastForwardButton = element (unsafeCoerce _giFastForwardButton)
+giFastForwardButton :: Icon
+giFastForwardButton = element _giFastForwardButton
 
 foreign import _giFastNoodles :: ReactIcon
 
-giFastNoodles :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFastNoodles = element (unsafeCoerce _giFastNoodles)
+giFastNoodles :: Icon
+giFastNoodles = element _giFastNoodles
 
 foreign import _giFat :: ReactIcon
 
-giFat :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFat = element (unsafeCoerce _giFat)
+giFat :: Icon
+giFat = element _giFat
 
 foreign import _giFClef :: ReactIcon
 
-giFClef :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFClef = element (unsafeCoerce _giFClef)
+giFClef :: Icon
+giFClef = element _giFClef
 
 foreign import _giFeather :: ReactIcon
 
-giFeather :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFeather = element (unsafeCoerce _giFeather)
+giFeather :: Icon
+giFeather = element _giFeather
 
 foreign import _giFeatheredWing :: ReactIcon
 
-giFeatheredWing :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFeatheredWing = element (unsafeCoerce _giFeatheredWing)
+giFeatheredWing :: Icon
+giFeatheredWing = element _giFeatheredWing
 
 foreign import _giFeatherNecklace :: ReactIcon
 
-giFeatherNecklace :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFeatherNecklace = element (unsafeCoerce _giFeatherNecklace)
+giFeatherNecklace :: Icon
+giFeatherNecklace = element _giFeatherNecklace
 
 foreign import _giFeatherWound :: ReactIcon
 
-giFeatherWound :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFeatherWound = element (unsafeCoerce _giFeatherWound)
+giFeatherWound :: Icon
+giFeatherWound = element _giFeatherWound
 
 foreign import _giFedora :: ReactIcon
 
-giFedora :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFedora = element (unsafeCoerce _giFedora)
+giFedora :: Icon
+giFedora = element _giFedora
 
 foreign import _giFeline :: ReactIcon
 
-giFeline :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFeline = element (unsafeCoerce _giFeline)
+giFeline :: Icon
+giFeline = element _giFeline
 
 foreign import _giFemale :: ReactIcon
 
-giFemale :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFemale = element (unsafeCoerce _giFemale)
+giFemale :: Icon
+giFemale = element _giFemale
 
 foreign import _giFemaleLegs :: ReactIcon
 
-giFemaleLegs :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFemaleLegs = element (unsafeCoerce _giFemaleLegs)
+giFemaleLegs :: Icon
+giFemaleLegs = element _giFemaleLegs
 
 foreign import _giFemaleVampire :: ReactIcon
 
-giFemaleVampire :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFemaleVampire = element (unsafeCoerce _giFemaleVampire)
+giFemaleVampire :: Icon
+giFemaleVampire = element _giFemaleVampire
 
 foreign import _giFencer :: ReactIcon
 
-giFencer :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFencer = element (unsafeCoerce _giFencer)
+giFencer :: Icon
+giFencer = element _giFencer
 
 foreign import _giFern :: ReactIcon
 
-giFern :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFern = element (unsafeCoerce _giFern)
+giFern :: Icon
+giFern = element _giFern
 
 foreign import _giFertilizerBag :: ReactIcon
 
-giFertilizerBag :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFertilizerBag = element (unsafeCoerce _giFertilizerBag)
+giFertilizerBag :: Icon
+giFertilizerBag = element _giFertilizerBag
 
 foreign import _giFetus :: ReactIcon
 
-giFetus :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFetus = element (unsafeCoerce _giFetus)
+giFetus :: Icon
+giFetus = element _giFetus
 
 foreign import _giFez :: ReactIcon
 
-giFez :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFez = element (unsafeCoerce _giFez)
+giFez :: Icon
+giFez = element _giFez
 
 foreign import _giField :: ReactIcon
 
-giField :: forall a b. Union a b PropsIcon => Record a -> JSX
-giField = element (unsafeCoerce _giField)
+giField :: Icon
+giField = element _giField
 
 foreign import _giFieldGun :: ReactIcon
 
-giFieldGun :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFieldGun = element (unsafeCoerce _giFieldGun)
+giFieldGun :: Icon
+giFieldGun = element _giFieldGun
 
 foreign import _giFigurehead :: ReactIcon
 
-giFigurehead :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFigurehead = element (unsafeCoerce _giFigurehead)
+giFigurehead :: Icon
+giFigurehead = element _giFigurehead
 
 foreign import _giFiles :: ReactIcon
 
-giFiles :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFiles = element (unsafeCoerce _giFiles)
+giFiles :: Icon
+giFiles = element _giFiles
 
 foreign import _giFilmProjector :: ReactIcon
 
-giFilmProjector :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFilmProjector = element (unsafeCoerce _giFilmProjector)
+giFilmProjector :: Icon
+giFilmProjector = element _giFilmProjector
 
 foreign import _giFilmSpool :: ReactIcon
 
-giFilmSpool :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFilmSpool = element (unsafeCoerce _giFilmSpool)
+giFilmSpool :: Icon
+giFilmSpool = element _giFilmSpool
 
 foreign import _giFilmStrip :: ReactIcon
 
-giFilmStrip :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFilmStrip = element (unsafeCoerce _giFilmStrip)
+giFilmStrip :: Icon
+giFilmStrip = element _giFilmStrip
 
 foreign import _giFinch :: ReactIcon
 
-giFinch :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFinch = element (unsafeCoerce _giFinch)
+giFinch :: Icon
+giFinch = element _giFinch
 
 foreign import _giFingernail :: ReactIcon
 
-giFingernail :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFingernail = element (unsafeCoerce _giFingernail)
+giFingernail :: Icon
+giFingernail = element _giFingernail
 
 foreign import _giFingerPrint :: ReactIcon
 
-giFingerPrint :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFingerPrint = element (unsafeCoerce _giFingerPrint)
+giFingerPrint :: Icon
+giFingerPrint = element _giFingerPrint
 
 foreign import _giFingersCrossed :: ReactIcon
 
-giFingersCrossed :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFingersCrossed = element (unsafeCoerce _giFingersCrossed)
+giFingersCrossed :: Icon
+giFingersCrossed = element _giFingersCrossed
 
 foreign import _giFinishLine :: ReactIcon
 
-giFinishLine :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFinishLine = element (unsafeCoerce _giFinishLine)
+giFinishLine :: Icon
+giFinishLine = element _giFinishLine
 
 foreign import _giFire :: ReactIcon
 
-giFire :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFire = element (unsafeCoerce _giFire)
+giFire :: Icon
+giFire = element _giFire
 
 foreign import _giFireAce :: ReactIcon
 
-giFireAce :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFireAce = element (unsafeCoerce _giFireAce)
+giFireAce :: Icon
+giFireAce = element _giFireAce
 
 foreign import _giFireAxe :: ReactIcon
 
-giFireAxe :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFireAxe = element (unsafeCoerce _giFireAxe)
+giFireAxe :: Icon
+giFireAxe = element _giFireAxe
 
 foreign import _giFireball :: ReactIcon
 
-giFireball :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFireball = element (unsafeCoerce _giFireball)
+giFireball :: Icon
+giFireball = element _giFireball
 
 foreign import _giFireBomb :: ReactIcon
 
-giFireBomb :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFireBomb = element (unsafeCoerce _giFireBomb)
+giFireBomb :: Icon
+giFireBomb = element _giFireBomb
 
 foreign import _giFireBottle :: ReactIcon
 
-giFireBottle :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFireBottle = element (unsafeCoerce _giFireBottle)
+giFireBottle :: Icon
+giFireBottle = element _giFireBottle
 
 foreign import _giFireBowl :: ReactIcon
 
-giFireBowl :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFireBowl = element (unsafeCoerce _giFireBowl)
+giFireBowl :: Icon
+giFireBowl = element _giFireBowl
 
 foreign import _giFireBreath :: ReactIcon
 
-giFireBreath :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFireBreath = element (unsafeCoerce _giFireBreath)
+giFireBreath :: Icon
+giFireBreath = element _giFireBreath
 
 foreign import _giFireDash :: ReactIcon
 
-giFireDash :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFireDash = element (unsafeCoerce _giFireDash)
+giFireDash :: Icon
+giFireDash = element _giFireDash
 
 foreign import _giFireExtinguisher :: ReactIcon
 
-giFireExtinguisher :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFireExtinguisher = element (unsafeCoerce _giFireExtinguisher)
+giFireExtinguisher :: Icon
+giFireExtinguisher = element _giFireExtinguisher
 
 foreign import _giFireflake :: ReactIcon
 
-giFireflake :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFireflake = element (unsafeCoerce _giFireflake)
+giFireflake :: Icon
+giFireflake = element _giFireflake
 
 foreign import _giFireFlower :: ReactIcon
 
-giFireFlower :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFireFlower = element (unsafeCoerce _giFireFlower)
+giFireFlower :: Icon
+giFireFlower = element _giFireFlower
 
 foreign import _giFireGem :: ReactIcon
 
-giFireGem :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFireGem = element (unsafeCoerce _giFireGem)
+giFireGem :: Icon
+giFireGem = element _giFireGem
 
 foreign import _giFireplace :: ReactIcon
 
-giFireplace :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFireplace = element (unsafeCoerce _giFireplace)
+giFireplace :: Icon
+giFireplace = element _giFireplace
 
 foreign import _giFirePunch :: ReactIcon
 
-giFirePunch :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFirePunch = element (unsafeCoerce _giFirePunch)
+giFirePunch :: Icon
+giFirePunch = element _giFirePunch
 
 foreign import _giFireRay :: ReactIcon
 
-giFireRay :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFireRay = element (unsafeCoerce _giFireRay)
+giFireRay :: Icon
+giFireRay = element _giFireRay
 
 foreign import _giFireRing :: ReactIcon
 
-giFireRing :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFireRing = element (unsafeCoerce _giFireRing)
+giFireRing :: Icon
+giFireRing = element _giFireRing
 
 foreign import _giFireShield :: ReactIcon
 
-giFireShield :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFireShield = element (unsafeCoerce _giFireShield)
+giFireShield :: Icon
+giFireShield = element _giFireShield
 
 foreign import _giFireShrine :: ReactIcon
 
-giFireShrine :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFireShrine = element (unsafeCoerce _giFireShrine)
+giFireShrine :: Icon
+giFireShrine = element _giFireShrine
 
 foreign import _giFireSilhouette :: ReactIcon
 
-giFireSilhouette :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFireSilhouette = element (unsafeCoerce _giFireSilhouette)
+giFireSilhouette :: Icon
+giFireSilhouette = element _giFireSilhouette
 
 foreign import _giFireSpellCast :: ReactIcon
 
-giFireSpellCast :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFireSpellCast = element (unsafeCoerce _giFireSpellCast)
+giFireSpellCast :: Icon
+giFireSpellCast = element _giFireSpellCast
 
 foreign import _giFireTail :: ReactIcon
 
-giFireTail :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFireTail = element (unsafeCoerce _giFireTail)
+giFireTail :: Icon
+giFireTail = element _giFireTail
 
 foreign import _giFirewall :: ReactIcon
 
-giFirewall :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFirewall = element (unsafeCoerce _giFirewall)
+giFirewall :: Icon
+giFirewall = element _giFirewall
 
 foreign import _giFireWave :: ReactIcon
 
-giFireWave :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFireWave = element (unsafeCoerce _giFireWave)
+giFireWave :: Icon
+giFireWave = element _giFireWave
 
 foreign import _giFireworkRocket :: ReactIcon
 
-giFireworkRocket :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFireworkRocket = element (unsafeCoerce _giFireworkRocket)
+giFireworkRocket :: Icon
+giFireworkRocket = element _giFireworkRocket
 
 foreign import _giFireZone :: ReactIcon
 
-giFireZone :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFireZone = element (unsafeCoerce _giFireZone)
+giFireZone :: Icon
+giFireZone = element _giFireZone
 
 foreign import _giFirstAidKit :: ReactIcon
 
-giFirstAidKit :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFirstAidKit = element (unsafeCoerce _giFirstAidKit)
+giFirstAidKit :: Icon
+giFirstAidKit = element _giFirstAidKit
 
 foreign import _giFishbone :: ReactIcon
 
-giFishbone :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFishbone = element (unsafeCoerce _giFishbone)
+giFishbone :: Icon
+giFishbone = element _giFishbone
 
 foreign import _giFishBucket :: ReactIcon
 
-giFishBucket :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFishBucket = element (unsafeCoerce _giFishBucket)
+giFishBucket :: Icon
+giFishBucket = element _giFishBucket
 
 foreign import _giFishCooked :: ReactIcon
 
-giFishCooked :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFishCooked = element (unsafeCoerce _giFishCooked)
+giFishCooked :: Icon
+giFishCooked = element _giFishCooked
 
 foreign import _giFishCorpse :: ReactIcon
 
-giFishCorpse :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFishCorpse = element (unsafeCoerce _giFishCorpse)
+giFishCorpse :: Icon
+giFishCorpse = element _giFishCorpse
 
 foreign import _giFishEggs :: ReactIcon
 
-giFishEggs :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFishEggs = element (unsafeCoerce _giFishEggs)
+giFishEggs :: Icon
+giFishEggs = element _giFishEggs
 
 foreign import _giFishEscape :: ReactIcon
 
-giFishEscape :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFishEscape = element (unsafeCoerce _giFishEscape)
+giFishEscape :: Icon
+giFishEscape = element _giFishEscape
 
 foreign import _giFishhookFork :: ReactIcon
 
-giFishhookFork :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFishhookFork = element (unsafeCoerce _giFishhookFork)
+giFishhookFork :: Icon
+giFishhookFork = element _giFishhookFork
 
 foreign import _giFishing :: ReactIcon
 
-giFishing :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFishing = element (unsafeCoerce _giFishing)
+giFishing :: Icon
+giFishing = element _giFishing
 
 foreign import _giFishingBoat :: ReactIcon
 
-giFishingBoat :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFishingBoat = element (unsafeCoerce _giFishingBoat)
+giFishingBoat :: Icon
+giFishingBoat = element _giFishingBoat
 
 foreign import _giFishingHook :: ReactIcon
 
-giFishingHook :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFishingHook = element (unsafeCoerce _giFishingHook)
+giFishingHook :: Icon
+giFishingHook = element _giFishingHook
 
 foreign import _giFishingJig :: ReactIcon
 
-giFishingJig :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFishingJig = element (unsafeCoerce _giFishingJig)
+giFishingJig :: Icon
+giFishingJig = element _giFishingJig
 
 foreign import _giFishingLure :: ReactIcon
 
-giFishingLure :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFishingLure = element (unsafeCoerce _giFishingLure)
+giFishingLure :: Icon
+giFishingLure = element _giFishingLure
 
 foreign import _giFishingNet :: ReactIcon
 
-giFishingNet :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFishingNet = element (unsafeCoerce _giFishingNet)
+giFishingNet :: Icon
+giFishingNet = element _giFishingNet
 
 foreign import _giFishingPole :: ReactIcon
 
-giFishingPole :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFishingPole = element (unsafeCoerce _giFishingPole)
+giFishingPole :: Icon
+giFishingPole = element _giFishingPole
 
 foreign import _giFishingSpoon :: ReactIcon
 
-giFishingSpoon :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFishingSpoon = element (unsafeCoerce _giFishingSpoon)
+giFishingSpoon :: Icon
+giFishingSpoon = element _giFishingSpoon
 
 foreign import _giFishMonster :: ReactIcon
 
-giFishMonster :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFishMonster = element (unsafeCoerce _giFishMonster)
+giFishMonster :: Icon
+giFishMonster = element _giFishMonster
 
 foreign import _giFishScales :: ReactIcon
 
-giFishScales :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFishScales = element (unsafeCoerce _giFishScales)
+giFishScales :: Icon
+giFishScales = element _giFishScales
 
 foreign import _giFishSmoking :: ReactIcon
 
-giFishSmoking :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFishSmoking = element (unsafeCoerce _giFishSmoking)
+giFishSmoking :: Icon
+giFishSmoking = element _giFishSmoking
 
 foreign import _giFission :: ReactIcon
 
-giFission :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFission = element (unsafeCoerce _giFission)
+giFission :: Icon
+giFission = element _giFission
 
 foreign import _giFist :: ReactIcon
 
-giFist :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFist = element (unsafeCoerce _giFist)
+giFist :: Icon
+giFist = element _giFist
 
 foreign import _giFizzingFlask :: ReactIcon
 
-giFizzingFlask :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFizzingFlask = element (unsafeCoerce _giFizzingFlask)
+giFizzingFlask :: Icon
+giFizzingFlask = element _giFizzingFlask
 
 foreign import _giFlagObjective :: ReactIcon
 
-giFlagObjective :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFlagObjective = element (unsafeCoerce _giFlagObjective)
+giFlagObjective :: Icon
+giFlagObjective = element _giFlagObjective
 
 foreign import _giFlail :: ReactIcon
 
-giFlail :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFlail = element (unsafeCoerce _giFlail)
+giFlail :: Icon
+giFlail = element _giFlail
 
 foreign import _giFlake :: ReactIcon
 
-giFlake :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFlake = element (unsafeCoerce _giFlake)
+giFlake :: Icon
+giFlake = element _giFlake
 
 foreign import _giFlame :: ReactIcon
 
-giFlame :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFlame = element (unsafeCoerce _giFlame)
+giFlame :: Icon
+giFlame = element _giFlame
 
 foreign import _giFlameClaws :: ReactIcon
 
-giFlameClaws :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFlameClaws = element (unsafeCoerce _giFlameClaws)
+giFlameClaws :: Icon
+giFlameClaws = element _giFlameClaws
 
 foreign import _giFlamedLeaf :: ReactIcon
 
-giFlamedLeaf :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFlamedLeaf = element (unsafeCoerce _giFlamedLeaf)
+giFlamedLeaf :: Icon
+giFlamedLeaf = element _giFlamedLeaf
 
 foreign import _giFlamer :: ReactIcon
 
-giFlamer :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFlamer = element (unsafeCoerce _giFlamer)
+giFlamer :: Icon
+giFlamer = element _giFlamer
 
 foreign import _giFlameSpin :: ReactIcon
 
-giFlameSpin :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFlameSpin = element (unsafeCoerce _giFlameSpin)
+giFlameSpin :: Icon
+giFlameSpin = element _giFlameSpin
 
 foreign import _giFlamethrower :: ReactIcon
 
-giFlamethrower :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFlamethrower = element (unsafeCoerce _giFlamethrower)
+giFlamethrower :: Icon
+giFlamethrower = element _giFlamethrower
 
 foreign import _giFlamethrowerSoldier :: ReactIcon
 
-giFlamethrowerSoldier :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFlamethrowerSoldier = element (unsafeCoerce _giFlamethrowerSoldier)
+giFlamethrowerSoldier :: Icon
+giFlamethrowerSoldier = element _giFlamethrowerSoldier
 
 foreign import _giFlameTunnel :: ReactIcon
 
-giFlameTunnel :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFlameTunnel = element (unsafeCoerce _giFlameTunnel)
+giFlameTunnel :: Icon
+giFlameTunnel = element _giFlameTunnel
 
 foreign import _giFlamingArrow :: ReactIcon
 
-giFlamingArrow :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFlamingArrow = element (unsafeCoerce _giFlamingArrow)
+giFlamingArrow :: Icon
+giFlamingArrow = element _giFlamingArrow
 
 foreign import _giFlamingClaw :: ReactIcon
 
-giFlamingClaw :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFlamingClaw = element (unsafeCoerce _giFlamingClaw)
+giFlamingClaw :: Icon
+giFlamingClaw = element _giFlamingClaw
 
 foreign import _giFlamingo :: ReactIcon
 
-giFlamingo :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFlamingo = element (unsafeCoerce _giFlamingo)
+giFlamingo :: Icon
+giFlamingo = element _giFlamingo
 
 foreign import _giFlamingSheet :: ReactIcon
 
-giFlamingSheet :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFlamingSheet = element (unsafeCoerce _giFlamingSheet)
+giFlamingSheet :: Icon
+giFlamingSheet = element _giFlamingSheet
 
 foreign import _giFlamingTrident :: ReactIcon
 
-giFlamingTrident :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFlamingTrident = element (unsafeCoerce _giFlamingTrident)
+giFlamingTrident :: Icon
+giFlamingTrident = element _giFlamingTrident
 
 foreign import _giFlangedMace :: ReactIcon
 
-giFlangedMace :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFlangedMace = element (unsafeCoerce _giFlangedMace)
+giFlangedMace :: Icon
+giFlangedMace = element _giFlangedMace
 
 foreign import _giFlashGrenade :: ReactIcon
 
-giFlashGrenade :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFlashGrenade = element (unsafeCoerce _giFlashGrenade)
+giFlashGrenade :: Icon
+giFlashGrenade = element _giFlashGrenade
 
 foreign import _giFlashlight :: ReactIcon
 
-giFlashlight :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFlashlight = element (unsafeCoerce _giFlashlight)
+giFlashlight :: Icon
+giFlashlight = element _giFlashlight
 
 foreign import _giFlatbed :: ReactIcon
 
-giFlatbed :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFlatbed = element (unsafeCoerce _giFlatbed)
+giFlatbed :: Icon
+giFlatbed = element _giFlatbed
 
 foreign import _giFlatbedCovered :: ReactIcon
 
-giFlatbedCovered :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFlatbedCovered = element (unsafeCoerce _giFlatbedCovered)
+giFlatbedCovered :: Icon
+giFlatbedCovered = element _giFlatbedCovered
 
 foreign import _giFlatfish :: ReactIcon
 
-giFlatfish :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFlatfish = element (unsafeCoerce _giFlatfish)
+giFlatfish :: Icon
+giFlatfish = element _giFlatfish
 
 foreign import _giFlatHammer :: ReactIcon
 
-giFlatHammer :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFlatHammer = element (unsafeCoerce _giFlatHammer)
+giFlatHammer :: Icon
+giFlatHammer = element _giFlatHammer
 
 foreign import _giFlatPawPrint :: ReactIcon
 
-giFlatPawPrint :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFlatPawPrint = element (unsafeCoerce _giFlatPawPrint)
+giFlatPawPrint :: Icon
+giFlatPawPrint = element _giFlatPawPrint
 
 foreign import _giFlatPlatform :: ReactIcon
 
-giFlatPlatform :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFlatPlatform = element (unsafeCoerce _giFlatPlatform)
+giFlatPlatform :: Icon
+giFlatPlatform = element _giFlatPlatform
 
 foreign import _giFlatStar :: ReactIcon
 
-giFlatStar :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFlatStar = element (unsafeCoerce _giFlatStar)
+giFlatStar :: Icon
+giFlatStar = element _giFlatStar
 
 foreign import _giFlatTire :: ReactIcon
 
-giFlatTire :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFlatTire = element (unsafeCoerce _giFlatTire)
+giFlatTire :: Icon
+giFlatTire = element _giFlatTire
 
 foreign import _giFlax :: ReactIcon
 
-giFlax :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFlax = element (unsafeCoerce _giFlax)
+giFlax :: Icon
+giFlax = element _giFlax
 
 foreign import _giFleshyMass :: ReactIcon
 
-giFleshyMass :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFleshyMass = element (unsafeCoerce _giFleshyMass)
+giFleshyMass :: Icon
+giFleshyMass = element _giFleshyMass
 
 foreign import _giFleurDeLys :: ReactIcon
 
-giFleurDeLys :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFleurDeLys = element (unsafeCoerce _giFleurDeLys)
+giFleurDeLys :: Icon
+giFleurDeLys = element _giFleurDeLys
 
 foreign import _giFlexibleLamp :: ReactIcon
 
-giFlexibleLamp :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFlexibleLamp = element (unsafeCoerce _giFlexibleLamp)
+giFlexibleLamp :: Icon
+giFlexibleLamp = element _giFlexibleLamp
 
 foreign import _giFlexibleStar :: ReactIcon
 
-giFlexibleStar :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFlexibleStar = element (unsafeCoerce _giFlexibleStar)
+giFlexibleStar :: Icon
+giFlexibleStar = element _giFlexibleStar
 
 foreign import _giFlintSpark :: ReactIcon
 
-giFlintSpark :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFlintSpark = element (unsafeCoerce _giFlintSpark)
+giFlintSpark :: Icon
+giFlintSpark = element _giFlintSpark
 
 foreign import _giFlipFlops :: ReactIcon
 
-giFlipFlops :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFlipFlops = element (unsafeCoerce _giFlipFlops)
+giFlipFlops :: Icon
+giFlipFlops = element _giFlipFlops
 
 foreign import _giFloatingCrystal :: ReactIcon
 
-giFloatingCrystal :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFloatingCrystal = element (unsafeCoerce _giFloatingCrystal)
+giFloatingCrystal :: Icon
+giFloatingCrystal = element _giFloatingCrystal
 
 foreign import _giFloatingGhost :: ReactIcon
 
-giFloatingGhost :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFloatingGhost = element (unsafeCoerce _giFloatingGhost)
+giFloatingGhost :: Icon
+giFloatingGhost = element _giFloatingGhost
 
 foreign import _giFloatingPlatforms :: ReactIcon
 
-giFloatingPlatforms :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFloatingPlatforms = element (unsafeCoerce _giFloatingPlatforms)
+giFloatingPlatforms :: Icon
+giFloatingPlatforms = element _giFloatingPlatforms
 
 foreign import _giFloatingTentacles :: ReactIcon
 
-giFloatingTentacles :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFloatingTentacles = element (unsafeCoerce _giFloatingTentacles)
+giFloatingTentacles :: Icon
+giFloatingTentacles = element _giFloatingTentacles
 
 foreign import _giFlood :: ReactIcon
 
-giFlood :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFlood = element (unsafeCoerce _giFlood)
+giFlood :: Icon
+giFlood = element _giFlood
 
 foreign import _giFloorHatch :: ReactIcon
 
-giFloorHatch :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFloorHatch = element (unsafeCoerce _giFloorHatch)
+giFloorHatch :: Icon
+giFloorHatch = element _giFloorHatch
 
 foreign import _giFloorPolisher :: ReactIcon
 
-giFloorPolisher :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFloorPolisher = element (unsafeCoerce _giFloorPolisher)
+giFloorPolisher :: Icon
+giFloorPolisher = element _giFloorPolisher
 
 foreign import _giFlour :: ReactIcon
 
-giFlour :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFlour = element (unsafeCoerce _giFlour)
+giFlour :: Icon
+giFlour = element _giFlour
 
 foreign import _giFlowerEmblem :: ReactIcon
 
-giFlowerEmblem :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFlowerEmblem = element (unsafeCoerce _giFlowerEmblem)
+giFlowerEmblem :: Icon
+giFlowerEmblem = element _giFlowerEmblem
 
 foreign import _giFlowerHat :: ReactIcon
 
-giFlowerHat :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFlowerHat = element (unsafeCoerce _giFlowerHat)
+giFlowerHat :: Icon
+giFlowerHat = element _giFlowerHat
 
 foreign import _giFlowerPot :: ReactIcon
 
-giFlowerPot :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFlowerPot = element (unsafeCoerce _giFlowerPot)
+giFlowerPot :: Icon
+giFlowerPot = element _giFlowerPot
 
 foreign import _giFlowers :: ReactIcon
 
-giFlowers :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFlowers = element (unsafeCoerce _giFlowers)
+giFlowers :: Icon
+giFlowers = element _giFlowers
 
 foreign import _giFlowerStar :: ReactIcon
 
-giFlowerStar :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFlowerStar = element (unsafeCoerce _giFlowerStar)
+giFlowerStar :: Icon
+giFlowerStar = element _giFlowerStar
 
 foreign import _giFlowerTwirl :: ReactIcon
 
-giFlowerTwirl :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFlowerTwirl = element (unsafeCoerce _giFlowerTwirl)
+giFlowerTwirl :: Icon
+giFlowerTwirl = element _giFlowerTwirl
 
 foreign import _giFluffyCloud :: ReactIcon
 
-giFluffyCloud :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFluffyCloud = element (unsafeCoerce _giFluffyCloud)
+giFluffyCloud :: Icon
+giFluffyCloud = element _giFluffyCloud
 
 foreign import _giFluffyFlame :: ReactIcon
 
-giFluffyFlame :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFluffyFlame = element (unsafeCoerce _giFluffyFlame)
+giFluffyFlame :: Icon
+giFluffyFlame = element _giFluffyFlame
 
 foreign import _giFluffySwirl :: ReactIcon
 
-giFluffySwirl :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFluffySwirl = element (unsafeCoerce _giFluffySwirl)
+giFluffySwirl :: Icon
+giFluffySwirl = element _giFluffySwirl
 
 foreign import _giFluffyTrefoil :: ReactIcon
 
-giFluffyTrefoil :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFluffyTrefoil = element (unsafeCoerce _giFluffyTrefoil)
+giFluffyTrefoil :: Icon
+giFluffyTrefoil = element _giFluffyTrefoil
 
 foreign import _giFluffyWing :: ReactIcon
 
-giFluffyWing :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFluffyWing = element (unsafeCoerce _giFluffyWing)
+giFluffyWing :: Icon
+giFluffyWing = element _giFluffyWing
 
 foreign import _giFlute :: ReactIcon
 
-giFlute :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFlute = element (unsafeCoerce _giFlute)
+giFlute :: Icon
+giFlute = element _giFlute
 
 foreign import _giFly :: ReactIcon
 
-giFly :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFly = element (unsafeCoerce _giFly)
+giFly :: Icon
+giFly = element _giFly
 
 foreign import _giFlyingBeetle :: ReactIcon
 
-giFlyingBeetle :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFlyingBeetle = element (unsafeCoerce _giFlyingBeetle)
+giFlyingBeetle :: Icon
+giFlyingBeetle = element _giFlyingBeetle
 
 foreign import _giFlyingDagger :: ReactIcon
 
-giFlyingDagger :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFlyingDagger = element (unsafeCoerce _giFlyingDagger)
+giFlyingDagger :: Icon
+giFlyingDagger = element _giFlyingDagger
 
 foreign import _giFlyingFlag :: ReactIcon
 
-giFlyingFlag :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFlyingFlag = element (unsafeCoerce _giFlyingFlag)
+giFlyingFlag :: Icon
+giFlyingFlag = element _giFlyingFlag
 
 foreign import _giFlyingFox :: ReactIcon
 
-giFlyingFox :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFlyingFox = element (unsafeCoerce _giFlyingFox)
+giFlyingFox :: Icon
+giFlyingFox = element _giFlyingFox
 
 foreign import _giFlyingShuriken :: ReactIcon
 
-giFlyingShuriken :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFlyingShuriken = element (unsafeCoerce _giFlyingShuriken)
+giFlyingShuriken :: Icon
+giFlyingShuriken = element _giFlyingShuriken
 
 foreign import _giFlyingTarget :: ReactIcon
 
-giFlyingTarget :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFlyingTarget = element (unsafeCoerce _giFlyingTarget)
+giFlyingTarget :: Icon
+giFlyingTarget = element _giFlyingTarget
 
 foreign import _giFlyingTrout :: ReactIcon
 
-giFlyingTrout :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFlyingTrout = element (unsafeCoerce _giFlyingTrout)
+giFlyingTrout :: Icon
+giFlyingTrout = element _giFlyingTrout
 
 foreign import _giFnFal :: ReactIcon
 
-giFnFal :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFnFal = element (unsafeCoerce _giFnFal)
+giFnFal :: Icon
+giFnFal = element _giFnFal
 
 foreign import _giFoam :: ReactIcon
 
-giFoam :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFoam = element (unsafeCoerce _giFoam)
+giFoam :: Icon
+giFoam = element _giFoam
 
 foreign import _giFoamyDisc :: ReactIcon
 
-giFoamyDisc :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFoamyDisc = element (unsafeCoerce _giFoamyDisc)
+giFoamyDisc :: Icon
+giFoamyDisc = element _giFoamyDisc
 
 foreign import _giFocusedLightning :: ReactIcon
 
-giFocusedLightning :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFocusedLightning = element (unsafeCoerce _giFocusedLightning)
+giFocusedLightning :: Icon
+giFocusedLightning = element _giFocusedLightning
 
 foreign import _giFog :: ReactIcon
 
-giFog :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFog = element (unsafeCoerce _giFog)
+giFog :: Icon
+giFog = element _giFog
 
 foreign import _giFogLight :: ReactIcon
 
-giFogLight :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFogLight = element (unsafeCoerce _giFogLight)
+giFogLight :: Icon
+giFogLight = element _giFogLight
 
 foreign import _giFoldedPaper :: ReactIcon
 
-giFoldedPaper :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFoldedPaper = element (unsafeCoerce _giFoldedPaper)
+giFoldedPaper :: Icon
+giFoldedPaper = element _giFoldedPaper
 
 foreign import _giFomorian :: ReactIcon
 
-giFomorian :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFomorian = element (unsafeCoerce _giFomorian)
+giFomorian :: Icon
+giFomorian = element _giFomorian
 
 foreign import _giFoodChain :: ReactIcon
 
-giFoodChain :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFoodChain = element (unsafeCoerce _giFoodChain)
+giFoodChain :: Icon
+giFoodChain = element _giFoodChain
 
 foreign import _giFoodTruck :: ReactIcon
 
-giFoodTruck :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFoodTruck = element (unsafeCoerce _giFoodTruck)
+giFoodTruck :: Icon
+giFoodTruck = element _giFoodTruck
 
 foreign import _giFootPlaster :: ReactIcon
 
-giFootPlaster :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFootPlaster = element (unsafeCoerce _giFootPlaster)
+giFootPlaster :: Icon
+giFootPlaster = element _giFootPlaster
 
 foreign import _giFootprint :: ReactIcon
 
-giFootprint :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFootprint = element (unsafeCoerce _giFootprint)
+giFootprint :: Icon
+giFootprint = element _giFootprint
 
 foreign import _giFootsteps :: ReactIcon
 
-giFootsteps :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFootsteps = element (unsafeCoerce _giFootsteps)
+giFootsteps :: Icon
+giFootsteps = element _giFootsteps
 
 foreign import _giFootTrip :: ReactIcon
 
-giFootTrip :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFootTrip = element (unsafeCoerce _giFootTrip)
+giFootTrip :: Icon
+giFootTrip = element _giFootTrip
 
 foreign import _giFootyField :: ReactIcon
 
-giFootyField :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFootyField = element (unsafeCoerce _giFootyField)
+giFootyField :: Icon
+giFootyField = element _giFootyField
 
 foreign import _giForearm :: ReactIcon
 
-giForearm :: forall a b. Union a b PropsIcon => Record a -> JSX
-giForearm = element (unsafeCoerce _giForearm)
+giForearm :: Icon
+giForearm = element _giForearm
 
 foreign import _giForest :: ReactIcon
 
-giForest :: forall a b. Union a b PropsIcon => Record a -> JSX
-giForest = element (unsafeCoerce _giForest)
+giForest :: Icon
+giForest = element _giForest
 
 foreign import _giForestCamp :: ReactIcon
 
-giForestCamp :: forall a b. Union a b PropsIcon => Record a -> JSX
-giForestCamp = element (unsafeCoerce _giForestCamp)
+giForestCamp :: Icon
+giForestCamp = element _giForestCamp
 
 foreign import _giForestEntrance :: ReactIcon
 
-giForestEntrance :: forall a b. Union a b PropsIcon => Record a -> JSX
-giForestEntrance = element (unsafeCoerce _giForestEntrance)
+giForestEntrance :: Icon
+giForestEntrance = element _giForestEntrance
 
 foreign import _giForkKnifeSpoon :: ReactIcon
 
-giForkKnifeSpoon :: forall a b. Union a b PropsIcon => Record a -> JSX
-giForkKnifeSpoon = element (unsafeCoerce _giForkKnifeSpoon)
+giForkKnifeSpoon :: Icon
+giForkKnifeSpoon = element _giForkKnifeSpoon
 
 foreign import _giForklift :: ReactIcon
 
-giForklift :: forall a b. Union a b PropsIcon => Record a -> JSX
-giForklift = element (unsafeCoerce _giForklift)
+giForklift :: Icon
+giForklift = element _giForklift
 
 foreign import _giForwardField :: ReactIcon
 
-giForwardField :: forall a b. Union a b PropsIcon => Record a -> JSX
-giForwardField = element (unsafeCoerce _giForwardField)
+giForwardField :: Icon
+giForwardField = element _giForwardField
 
 foreign import _giForwardSun :: ReactIcon
 
-giForwardSun :: forall a b. Union a b PropsIcon => Record a -> JSX
-giForwardSun = element (unsafeCoerce _giForwardSun)
+giForwardSun :: Icon
+giForwardSun = element _giForwardSun
 
 foreign import _giFossil :: ReactIcon
 
-giFossil :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFossil = element (unsafeCoerce _giFossil)
+giFossil :: Icon
+giFossil = element _giFossil
 
 foreign import _giFoundryBucket :: ReactIcon
 
-giFoundryBucket :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFoundryBucket = element (unsafeCoerce _giFoundryBucket)
+giFoundryBucket :: Icon
+giFoundryBucket = element _giFoundryBucket
 
 foreign import _giFountain :: ReactIcon
 
-giFountain :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFountain = element (unsafeCoerce _giFountain)
+giFountain :: Icon
+giFountain = element _giFountain
 
 foreign import _giFountainPen :: ReactIcon
 
-giFountainPen :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFountainPen = element (unsafeCoerce _giFountainPen)
+giFountainPen :: Icon
+giFountainPen = element _giFountainPen
 
 foreign import _giFox :: ReactIcon
 
-giFox :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFox = element (unsafeCoerce _giFox)
+giFox :: Icon
+giFox = element _giFox
 
 foreign import _giFoxHead :: ReactIcon
 
-giFoxHead :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFoxHead = element (unsafeCoerce _giFoxHead)
+giFoxHead :: Icon
+giFoxHead = element _giFoxHead
 
 foreign import _giFoxTail :: ReactIcon
 
-giFoxTail :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFoxTail = element (unsafeCoerce _giFoxTail)
+giFoxTail :: Icon
+giFoxTail = element _giFoxTail
 
 foreign import _giFragmentedMeteor :: ReactIcon
 
-giFragmentedMeteor :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFragmentedMeteor = element (unsafeCoerce _giFragmentedMeteor)
+giFragmentedMeteor :: Icon
+giFragmentedMeteor = element _giFragmentedMeteor
 
 foreign import _giFragmentedSword :: ReactIcon
 
-giFragmentedSword :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFragmentedSword = element (unsafeCoerce _giFragmentedSword)
+giFragmentedSword :: Icon
+giFragmentedSword = element _giFragmentedSword
 
 foreign import _giFragrance :: ReactIcon
 
-giFragrance :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFragrance = element (unsafeCoerce _giFragrance)
+giFragrance :: Icon
+giFragrance = element _giFragrance
 
 foreign import _giFrance :: ReactIcon
 
-giFrance :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFrance = element (unsafeCoerce _giFrance)
+giFrance :: Icon
+giFrance = element _giFrance
 
 foreign import _giFrankensteinCreature :: ReactIcon
 
-giFrankensteinCreature :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFrankensteinCreature = element (unsafeCoerce _giFrankensteinCreature)
+giFrankensteinCreature :: Icon
+giFrankensteinCreature = element _giFrankensteinCreature
 
 foreign import _giFrayedArrow :: ReactIcon
 
-giFrayedArrow :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFrayedArrow = element (unsafeCoerce _giFrayedArrow)
+giFrayedArrow :: Icon
+giFrayedArrow = element _giFrayedArrow
 
 foreign import _giFreedomDove :: ReactIcon
 
-giFreedomDove :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFreedomDove = element (unsafeCoerce _giFreedomDove)
+giFreedomDove :: Icon
+giFreedomDove = element _giFreedomDove
 
 foreign import _giFreemasonry :: ReactIcon
 
-giFreemasonry :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFreemasonry = element (unsafeCoerce _giFreemasonry)
+giFreemasonry :: Icon
+giFreemasonry = element _giFreemasonry
 
 foreign import _giFrenchFries :: ReactIcon
 
-giFrenchFries :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFrenchFries = element (unsafeCoerce _giFrenchFries)
+giFrenchFries :: Icon
+giFrenchFries = element _giFrenchFries
 
 foreign import _giFrenchHorn :: ReactIcon
 
-giFrenchHorn :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFrenchHorn = element (unsafeCoerce _giFrenchHorn)
+giFrenchHorn :: Icon
+giFrenchHorn = element _giFrenchHorn
 
 foreign import _giFriedEggs :: ReactIcon
 
-giFriedEggs :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFriedEggs = element (unsafeCoerce _giFriedEggs)
+giFriedEggs :: Icon
+giFriedEggs = element _giFriedEggs
 
 foreign import _giFriedFish :: ReactIcon
 
-giFriedFish :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFriedFish = element (unsafeCoerce _giFriedFish)
+giFriedFish :: Icon
+giFriedFish = element _giFriedFish
 
 foreign import _giFrisbee :: ReactIcon
 
-giFrisbee :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFrisbee = element (unsafeCoerce _giFrisbee)
+giFrisbee :: Icon
+giFrisbee = element _giFrisbee
 
 foreign import _giFroeAndMallet :: ReactIcon
 
-giFroeAndMallet :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFroeAndMallet = element (unsafeCoerce _giFroeAndMallet)
+giFroeAndMallet :: Icon
+giFroeAndMallet = element _giFroeAndMallet
 
 foreign import _giFrog :: ReactIcon
 
-giFrog :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFrog = element (unsafeCoerce _giFrog)
+giFrog :: Icon
+giFrog = element _giFrog
 
 foreign import _giFrogFoot :: ReactIcon
 
-giFrogFoot :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFrogFoot = element (unsafeCoerce _giFrogFoot)
+giFrogFoot :: Icon
+giFrogFoot = element _giFrogFoot
 
 foreign import _giFrogPrince :: ReactIcon
 
-giFrogPrince :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFrogPrince = element (unsafeCoerce _giFrogPrince)
+giFrogPrince :: Icon
+giFrogPrince = element _giFrogPrince
 
 foreign import _giFrontalLobe :: ReactIcon
 
-giFrontalLobe :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFrontalLobe = element (unsafeCoerce _giFrontalLobe)
+giFrontalLobe :: Icon
+giFrontalLobe = element _giFrontalLobe
 
 foreign import _giFrontTeeth :: ReactIcon
 
-giFrontTeeth :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFrontTeeth = element (unsafeCoerce _giFrontTeeth)
+giFrontTeeth :: Icon
+giFrontTeeth = element _giFrontTeeth
 
 foreign import _giFrostfire :: ReactIcon
 
-giFrostfire :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFrostfire = element (unsafeCoerce _giFrostfire)
+giFrostfire :: Icon
+giFrostfire = element _giFrostfire
 
 foreign import _giFrozenArrow :: ReactIcon
 
-giFrozenArrow :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFrozenArrow = element (unsafeCoerce _giFrozenArrow)
+giFrozenArrow :: Icon
+giFrozenArrow = element _giFrozenArrow
 
 foreign import _giFrozenBlock :: ReactIcon
 
-giFrozenBlock :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFrozenBlock = element (unsafeCoerce _giFrozenBlock)
+giFrozenBlock :: Icon
+giFrozenBlock = element _giFrozenBlock
 
 foreign import _giFrozenBody :: ReactIcon
 
-giFrozenBody :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFrozenBody = element (unsafeCoerce _giFrozenBody)
+giFrozenBody :: Icon
+giFrozenBody = element _giFrozenBody
 
 foreign import _giFrozenOrb :: ReactIcon
 
-giFrozenOrb :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFrozenOrb = element (unsafeCoerce _giFrozenOrb)
+giFrozenOrb :: Icon
+giFrozenOrb = element _giFrozenOrb
 
 foreign import _giFrozenRing :: ReactIcon
 
-giFrozenRing :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFrozenRing = element (unsafeCoerce _giFrozenRing)
+giFrozenRing :: Icon
+giFrozenRing = element _giFrozenRing
 
 foreign import _giFruitBowl :: ReactIcon
 
-giFruitBowl :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFruitBowl = element (unsafeCoerce _giFruitBowl)
+giFruitBowl :: Icon
+giFruitBowl = element _giFruitBowl
 
 foreign import _giFruiting :: ReactIcon
 
-giFruiting :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFruiting = element (unsafeCoerce _giFruiting)
+giFruiting :: Icon
+giFruiting = element _giFruiting
 
 foreign import _giFruitTree :: ReactIcon
 
-giFruitTree :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFruitTree = element (unsafeCoerce _giFruitTree)
+giFruitTree :: Icon
+giFruitTree = element _giFruitTree
 
 foreign import _giFuelTank :: ReactIcon
 
-giFuelTank :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFuelTank = element (unsafeCoerce _giFuelTank)
+giFuelTank :: Icon
+giFuelTank = element _giFuelTank
 
 foreign import _giFuji :: ReactIcon
 
-giFuji :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFuji = element (unsafeCoerce _giFuji)
+giFuji :: Icon
+giFuji = element _giFuji
 
 foreign import _giFulguroPunch :: ReactIcon
 
-giFulguroPunch :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFulguroPunch = element (unsafeCoerce _giFulguroPunch)
+giFulguroPunch :: Icon
+giFulguroPunch = element _giFulguroPunch
 
 foreign import _giFullFolder :: ReactIcon
 
-giFullFolder :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFullFolder = element (unsafeCoerce _giFullFolder)
+giFullFolder :: Icon
+giFullFolder = element _giFullFolder
 
 foreign import _giFullMetalBucket :: ReactIcon
 
-giFullMetalBucket :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFullMetalBucket = element (unsafeCoerce _giFullMetalBucket)
+giFullMetalBucket :: Icon
+giFullMetalBucket = element _giFullMetalBucket
 
 foreign import _giFullMetalBucketHandle :: ReactIcon
 
-giFullMetalBucketHandle :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFullMetalBucketHandle = element (unsafeCoerce _giFullMetalBucketHandle)
+giFullMetalBucketHandle :: Icon
+giFullMetalBucketHandle = element _giFullMetalBucketHandle
 
 foreign import _giFullMotorcycleHelmet :: ReactIcon
 
-giFullMotorcycleHelmet :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFullMotorcycleHelmet = element (unsafeCoerce _giFullMotorcycleHelmet)
+giFullMotorcycleHelmet :: Icon
+giFullMotorcycleHelmet = element _giFullMotorcycleHelmet
 
 foreign import _giFullPizza :: ReactIcon
 
-giFullPizza :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFullPizza = element (unsafeCoerce _giFullPizza)
+giFullPizza :: Icon
+giFullPizza = element _giFullPizza
 
 foreign import _giFullWoodBucket :: ReactIcon
 
-giFullWoodBucket :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFullWoodBucket = element (unsafeCoerce _giFullWoodBucket)
+giFullWoodBucket :: Icon
+giFullWoodBucket = element _giFullWoodBucket
 
 foreign import _giFullWoodBucketHandle :: ReactIcon
 
-giFullWoodBucketHandle :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFullWoodBucketHandle = element (unsafeCoerce _giFullWoodBucketHandle)
+giFullWoodBucketHandle :: Icon
+giFullWoodBucketHandle = element _giFullWoodBucketHandle
 
 foreign import _giFunnel :: ReactIcon
 
-giFunnel :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFunnel = element (unsafeCoerce _giFunnel)
+giFunnel :: Icon
+giFunnel = element _giFunnel
 
 foreign import _giFurBoot :: ReactIcon
 
-giFurBoot :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFurBoot = element (unsafeCoerce _giFurBoot)
+giFurBoot :: Icon
+giFurBoot = element _giFurBoot
 
 foreign import _giFurnace :: ReactIcon
 
-giFurnace :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFurnace = element (unsafeCoerce _giFurnace)
+giFurnace :: Icon
+giFurnace = element _giFurnace
 
 foreign import _giFurShirt :: ReactIcon
 
-giFurShirt :: forall a b. Union a b PropsIcon => Record a -> JSX
-giFurShirt = element (unsafeCoerce _giFurShirt)
+giFurShirt :: Icon
+giFurShirt = element _giFurShirt
 
 foreign import _giGalaxy :: ReactIcon
 
-giGalaxy :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGalaxy = element (unsafeCoerce _giGalaxy)
+giGalaxy :: Icon
+giGalaxy = element _giGalaxy
 
 foreign import _giGalea :: ReactIcon
 
-giGalea :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGalea = element (unsafeCoerce _giGalea)
+giGalea :: Icon
+giGalea = element _giGalea
 
 foreign import _giGalleon :: ReactIcon
 
-giGalleon :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGalleon = element (unsafeCoerce _giGalleon)
+giGalleon :: Icon
+giGalleon = element _giGalleon
 
 foreign import _giGalley :: ReactIcon
 
-giGalley :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGalley = element (unsafeCoerce _giGalley)
+giGalley :: Icon
+giGalley = element _giGalley
 
 foreign import _giGameConsole :: ReactIcon
 
-giGameConsole :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGameConsole = element (unsafeCoerce _giGameConsole)
+giGameConsole :: Icon
+giGameConsole = element _giGameConsole
 
 foreign import _giGamepad :: ReactIcon
 
-giGamepad :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGamepad = element (unsafeCoerce _giGamepad)
+giGamepad :: Icon
+giGamepad = element _giGamepad
 
 foreign import _giGamepadCross :: ReactIcon
 
-giGamepadCross :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGamepadCross = element (unsafeCoerce _giGamepadCross)
+giGamepadCross :: Icon
+giGamepadCross = element _giGamepadCross
 
 foreign import _giGardeningShears :: ReactIcon
 
-giGardeningShears :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGardeningShears = element (unsafeCoerce _giGardeningShears)
+giGardeningShears :: Icon
+giGardeningShears = element _giGardeningShears
 
 foreign import _giGargoyle :: ReactIcon
 
-giGargoyle :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGargoyle = element (unsafeCoerce _giGargoyle)
+giGargoyle :: Icon
+giGargoyle = element _giGargoyle
 
 foreign import _giGarlic :: ReactIcon
 
-giGarlic :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGarlic = element (unsafeCoerce _giGarlic)
+giGarlic :: Icon
+giGarlic = element _giGarlic
 
 foreign import _giGasMask :: ReactIcon
 
-giGasMask :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGasMask = element (unsafeCoerce _giGasMask)
+giGasMask :: Icon
+giGasMask = element _giGasMask
 
 foreign import _giGasPump :: ReactIcon
 
-giGasPump :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGasPump = element (unsafeCoerce _giGasPump)
+giGasPump :: Icon
+giGasPump = element _giGasPump
 
 foreign import _giGasStove :: ReactIcon
 
-giGasStove :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGasStove = element (unsafeCoerce _giGasStove)
+giGasStove :: Icon
+giGasStove = element _giGasStove
 
 foreign import _giGate :: ReactIcon
 
-giGate :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGate = element (unsafeCoerce _giGate)
+giGate :: Icon
+giGate = element _giGate
 
 foreign import _giGaulsHelm :: ReactIcon
 
-giGaulsHelm :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGaulsHelm = element (unsafeCoerce _giGaulsHelm)
+giGaulsHelm :: Icon
+giGaulsHelm = element _giGaulsHelm
 
 foreign import _giGauntlet :: ReactIcon
 
-giGauntlet :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGauntlet = element (unsafeCoerce _giGauntlet)
+giGauntlet :: Icon
+giGauntlet = element _giGauntlet
 
 foreign import _giGavel :: ReactIcon
 
-giGavel :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGavel = element (unsafeCoerce _giGavel)
+giGavel :: Icon
+giGavel = element _giGavel
 
 foreign import _giGaze :: ReactIcon
 
-giGaze :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGaze = element (unsafeCoerce _giGaze)
+giGaze :: Icon
+giGaze = element _giGaze
 
 foreign import _giGClef :: ReactIcon
 
-giGClef :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGClef = element (unsafeCoerce _giGClef)
+giGClef :: Icon
+giGClef = element _giGClef
 
 foreign import _giGearHammer :: ReactIcon
 
-giGearHammer :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGearHammer = element (unsafeCoerce _giGearHammer)
+giGearHammer :: Icon
+giGearHammer = element _giGearHammer
 
 foreign import _giGears :: ReactIcon
 
-giGears :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGears = element (unsafeCoerce _giGears)
+giGears :: Icon
+giGears = element _giGears
 
 foreign import _giGearStick :: ReactIcon
 
-giGearStick :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGearStick = element (unsafeCoerce _giGearStick)
+giGearStick :: Icon
+giGearStick = element _giGearStick
 
 foreign import _giGearStickPattern :: ReactIcon
 
-giGearStickPattern :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGearStickPattern = element (unsafeCoerce _giGearStickPattern)
+giGearStickPattern :: Icon
+giGearStickPattern = element _giGearStickPattern
 
 foreign import _giGecko :: ReactIcon
 
-giGecko :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGecko = element (unsafeCoerce _giGecko)
+giGecko :: Icon
+giGecko = element _giGecko
 
 foreign import _giGemChain :: ReactIcon
 
-giGemChain :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGemChain = element (unsafeCoerce _giGemChain)
+giGemChain :: Icon
+giGemChain = element _giGemChain
 
 foreign import _giGemini :: ReactIcon
 
-giGemini :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGemini = element (unsafeCoerce _giGemini)
+giGemini :: Icon
+giGemini = element _giGemini
 
 foreign import _giGemNecklace :: ReactIcon
 
-giGemNecklace :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGemNecklace = element (unsafeCoerce _giGemNecklace)
+giGemNecklace :: Icon
+giGemNecklace = element _giGemNecklace
 
 foreign import _giGemPendant :: ReactIcon
 
-giGemPendant :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGemPendant = element (unsafeCoerce _giGemPendant)
+giGemPendant :: Icon
+giGemPendant = element _giGemPendant
 
 foreign import _giGems :: ReactIcon
 
-giGems :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGems = element (unsafeCoerce _giGems)
+giGems :: Icon
+giGems = element _giGems
 
 foreign import _giGhost :: ReactIcon
 
-giGhost :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGhost = element (unsafeCoerce _giGhost)
+giGhost :: Icon
+giGhost = element _giGhost
 
 foreign import _giGhostAlly :: ReactIcon
 
-giGhostAlly :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGhostAlly = element (unsafeCoerce _giGhostAlly)
+giGhostAlly :: Icon
+giGhostAlly = element _giGhostAlly
 
 foreign import _giGiant :: ReactIcon
 
-giGiant :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGiant = element (unsafeCoerce _giGiant)
+giGiant :: Icon
+giGiant = element _giGiant
 
 foreign import _giGiantSquid :: ReactIcon
 
-giGiantSquid :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGiantSquid = element (unsafeCoerce _giGiantSquid)
+giGiantSquid :: Icon
+giGiantSquid = element _giGiantSquid
 
 foreign import _giGibbet :: ReactIcon
 
-giGibbet :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGibbet = element (unsafeCoerce _giGibbet)
+giGibbet :: Icon
+giGibbet = element _giGibbet
 
 foreign import _giGiftOfKnowledge :: ReactIcon
 
-giGiftOfKnowledge :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGiftOfKnowledge = element (unsafeCoerce _giGiftOfKnowledge)
+giGiftOfKnowledge :: Icon
+giGiftOfKnowledge = element _giGiftOfKnowledge
 
 foreign import _giGiftTrap :: ReactIcon
 
-giGiftTrap :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGiftTrap = element (unsafeCoerce _giGiftTrap)
+giGiftTrap :: Icon
+giGiftTrap = element _giGiftTrap
 
 foreign import _giGingerbreadMan :: ReactIcon
 
-giGingerbreadMan :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGingerbreadMan = element (unsafeCoerce _giGingerbreadMan)
+giGingerbreadMan :: Icon
+giGingerbreadMan = element _giGingerbreadMan
 
 foreign import _giGinkgoLeaf :: ReactIcon
 
-giGinkgoLeaf :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGinkgoLeaf = element (unsafeCoerce _giGinkgoLeaf)
+giGinkgoLeaf :: Icon
+giGinkgoLeaf = element _giGinkgoLeaf
 
 foreign import _giGladius :: ReactIcon
 
-giGladius :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGladius = element (unsafeCoerce _giGladius)
+giGladius :: Icon
+giGladius = element _giGladius
 
 foreign import _giGlaive :: ReactIcon
 
-giGlaive :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGlaive = element (unsafeCoerce _giGlaive)
+giGlaive :: Icon
+giGlaive = element _giGlaive
 
 foreign import _giGlassBall :: ReactIcon
 
-giGlassBall :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGlassBall = element (unsafeCoerce _giGlassBall)
+giGlassBall :: Icon
+giGlassBall = element _giGlassBall
 
 foreign import _giGlassCelebration :: ReactIcon
 
-giGlassCelebration :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGlassCelebration = element (unsafeCoerce _giGlassCelebration)
+giGlassCelebration :: Icon
+giGlassCelebration = element _giGlassCelebration
 
 foreign import _giGlassHeart :: ReactIcon
 
-giGlassHeart :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGlassHeart = element (unsafeCoerce _giGlassHeart)
+giGlassHeart :: Icon
+giGlassHeart = element _giGlassHeart
 
 foreign import _giGlassShot :: ReactIcon
 
-giGlassShot :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGlassShot = element (unsafeCoerce _giGlassShot)
+giGlassShot :: Icon
+giGlassShot = element _giGlassShot
 
 foreign import _giGlider :: ReactIcon
 
-giGlider :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGlider = element (unsafeCoerce _giGlider)
+giGlider :: Icon
+giGlider = element _giGlider
 
 foreign import _giGlobe :: ReactIcon
 
-giGlobe :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGlobe = element (unsafeCoerce _giGlobe)
+giGlobe :: Icon
+giGlobe = element _giGlobe
 
 foreign import _giGlobeRing :: ReactIcon
 
-giGlobeRing :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGlobeRing = element (unsafeCoerce _giGlobeRing)
+giGlobeRing :: Icon
+giGlobeRing = element _giGlobeRing
 
 foreign import _giGlock :: ReactIcon
 
-giGlock :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGlock = element (unsafeCoerce _giGlock)
+giGlock :: Icon
+giGlock = element _giGlock
 
 foreign import _giGloop :: ReactIcon
 
-giGloop :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGloop = element (unsafeCoerce _giGloop)
+giGloop :: Icon
+giGloop = element _giGloop
 
 foreign import _giGloves :: ReactIcon
 
-giGloves :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGloves = element (unsafeCoerce _giGloves)
+giGloves :: Icon
+giGloves = element _giGloves
 
 foreign import _giGlowingArtifact :: ReactIcon
 
-giGlowingArtifact :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGlowingArtifact = element (unsafeCoerce _giGlowingArtifact)
+giGlowingArtifact :: Icon
+giGlowingArtifact = element _giGlowingArtifact
 
 foreign import _giGlowingHands :: ReactIcon
 
-giGlowingHands :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGlowingHands = element (unsafeCoerce _giGlowingHands)
+giGlowingHands :: Icon
+giGlowingHands = element _giGlowingHands
 
 foreign import _giGluttonousSmile :: ReactIcon
 
-giGluttonousSmile :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGluttonousSmile = element (unsafeCoerce _giGluttonousSmile)
+giGluttonousSmile :: Icon
+giGluttonousSmile = element _giGluttonousSmile
 
 foreign import _giGluttony :: ReactIcon
 
-giGluttony :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGluttony = element (unsafeCoerce _giGluttony)
+giGluttony :: Icon
+giGluttony = element _giGluttony
 
 foreign import _giGoalKeeper :: ReactIcon
 
-giGoalKeeper :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGoalKeeper = element (unsafeCoerce _giGoalKeeper)
+giGoalKeeper :: Icon
+giGoalKeeper = element _giGoalKeeper
 
 foreign import _giGoat :: ReactIcon
 
-giGoat :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGoat = element (unsafeCoerce _giGoat)
+giGoat :: Icon
+giGoat = element _giGoat
 
 foreign import _giGoblinCamp :: ReactIcon
 
-giGoblinCamp :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGoblinCamp = element (unsafeCoerce _giGoblinCamp)
+giGoblinCamp :: Icon
+giGoblinCamp = element _giGoblinCamp
 
 foreign import _giGoblinHead :: ReactIcon
 
-giGoblinHead :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGoblinHead = element (unsafeCoerce _giGoblinHead)
+giGoblinHead :: Icon
+giGoblinHead = element _giGoblinHead
 
 foreign import _giGoldBar :: ReactIcon
 
-giGoldBar :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGoldBar = element (unsafeCoerce _giGoldBar)
+giGoldBar :: Icon
+giGoldBar = element _giGoldBar
 
 foreign import _giGoldMine :: ReactIcon
 
-giGoldMine :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGoldMine = element (unsafeCoerce _giGoldMine)
+giGoldMine :: Icon
+giGoldMine = element _giGoldMine
 
 foreign import _giGoldNuggets :: ReactIcon
 
-giGoldNuggets :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGoldNuggets = element (unsafeCoerce _giGoldNuggets)
+giGoldNuggets :: Icon
+giGoldNuggets = element _giGoldNuggets
 
 foreign import _giGoldScarab :: ReactIcon
 
-giGoldScarab :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGoldScarab = element (unsafeCoerce _giGoldScarab)
+giGoldScarab :: Icon
+giGoldScarab = element _giGoldScarab
 
 foreign import _giGoldShell :: ReactIcon
 
-giGoldShell :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGoldShell = element (unsafeCoerce _giGoldShell)
+giGoldShell :: Icon
+giGoldShell = element _giGoldShell
 
 foreign import _giGoldStack :: ReactIcon
 
-giGoldStack :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGoldStack = element (unsafeCoerce _giGoldStack)
+giGoldStack :: Icon
+giGoldStack = element _giGoldStack
 
 foreign import _giGolemHead :: ReactIcon
 
-giGolemHead :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGolemHead = element (unsafeCoerce _giGolemHead)
+giGolemHead :: Icon
+giGolemHead = element _giGolemHead
 
 foreign import _giGolfFlag :: ReactIcon
 
-giGolfFlag :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGolfFlag = element (unsafeCoerce _giGolfFlag)
+giGolfFlag :: Icon
+giGolfFlag = element _giGolfFlag
 
 foreign import _giGolfTee :: ReactIcon
 
-giGolfTee :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGolfTee = element (unsafeCoerce _giGolfTee)
+giGolfTee :: Icon
+giGolfTee = element _giGolfTee
 
 foreign import _giGong :: ReactIcon
 
-giGong :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGong = element (unsafeCoerce _giGong)
+giGong :: Icon
+giGong = element _giGong
 
 foreign import _giGooExplosion :: ReactIcon
 
-giGooExplosion :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGooExplosion = element (unsafeCoerce _giGooExplosion)
+giGooExplosion :: Icon
+giGooExplosion = element _giGooExplosion
 
 foreign import _giGooeyDaemon :: ReactIcon
 
-giGooeyDaemon :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGooeyDaemon = element (unsafeCoerce _giGooeyDaemon)
+giGooeyDaemon :: Icon
+giGooeyDaemon = element _giGooeyDaemon
 
 foreign import _giGooeyEyedSun :: ReactIcon
 
-giGooeyEyedSun :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGooeyEyedSun = element (unsafeCoerce _giGooeyEyedSun)
+giGooeyEyedSun :: Icon
+giGooeyEyedSun = element _giGooeyEyedSun
 
 foreign import _giGooeyImpact :: ReactIcon
 
-giGooeyImpact :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGooeyImpact = element (unsafeCoerce _giGooeyImpact)
+giGooeyImpact :: Icon
+giGooeyImpact = element _giGooeyImpact
 
 foreign import _giGooeyMolecule :: ReactIcon
 
-giGooeyMolecule :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGooeyMolecule = element (unsafeCoerce _giGooeyMolecule)
+giGooeyMolecule :: Icon
+giGooeyMolecule = element _giGooeyMolecule
 
 foreign import _giGooeySword :: ReactIcon
 
-giGooeySword :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGooeySword = element (unsafeCoerce _giGooeySword)
+giGooeySword :: Icon
+giGooeySword = element _giGooeySword
 
 foreign import _giGoose :: ReactIcon
 
-giGoose :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGoose = element (unsafeCoerce _giGoose)
+giGoose :: Icon
+giGoose = element _giGoose
 
 foreign import _giGooSkull :: ReactIcon
 
-giGooSkull :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGooSkull = element (unsafeCoerce _giGooSkull)
+giGooSkull :: Icon
+giGooSkull = element _giGooSkull
 
 foreign import _giGooSpurt :: ReactIcon
 
-giGooSpurt :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGooSpurt = element (unsafeCoerce _giGooSpurt)
+giGooSpurt :: Icon
+giGooSpurt = element _giGooSpurt
 
 foreign import _giGorilla :: ReactIcon
 
-giGorilla :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGorilla = element (unsafeCoerce _giGorilla)
+giGorilla :: Icon
+giGorilla = element _giGorilla
 
 foreign import _giGothicCross :: ReactIcon
 
-giGothicCross :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGothicCross = element (unsafeCoerce _giGothicCross)
+giGothicCross :: Icon
+giGothicCross = element _giGothicCross
 
 foreign import _giGps :: ReactIcon
 
-giGps :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGps = element (unsafeCoerce _giGps)
+giGps :: Icon
+giGps = element _giGps
 
 foreign import _giGrab :: ReactIcon
 
-giGrab :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGrab = element (unsafeCoerce _giGrab)
+giGrab :: Icon
+giGrab = element _giGrab
 
 foreign import _giGraduateCap :: ReactIcon
 
-giGraduateCap :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGraduateCap = element (unsafeCoerce _giGraduateCap)
+giGraduateCap :: Icon
+giGraduateCap = element _giGraduateCap
 
 foreign import _giGrain :: ReactIcon
 
-giGrain :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGrain = element (unsafeCoerce _giGrain)
+giGrain :: Icon
+giGrain = element _giGrain
 
 foreign import _giGrainBundle :: ReactIcon
 
-giGrainBundle :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGrainBundle = element (unsafeCoerce _giGrainBundle)
+giGrainBundle :: Icon
+giGrainBundle = element _giGrainBundle
 
 foreign import _giGranary :: ReactIcon
 
-giGranary :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGranary = element (unsafeCoerce _giGranary)
+giGranary :: Icon
+giGranary = element _giGranary
 
 foreign import _giGrandPiano :: ReactIcon
 
-giGrandPiano :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGrandPiano = element (unsafeCoerce _giGrandPiano)
+giGrandPiano :: Icon
+giGrandPiano = element _giGrandPiano
 
 foreign import _giGrapes :: ReactIcon
 
-giGrapes :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGrapes = element (unsafeCoerce _giGrapes)
+giGrapes :: Icon
+giGrapes = element _giGrapes
 
 foreign import _giGrapple :: ReactIcon
 
-giGrapple :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGrapple = element (unsafeCoerce _giGrapple)
+giGrapple :: Icon
+giGrapple = element _giGrapple
 
 foreign import _giGraspingClaws :: ReactIcon
 
-giGraspingClaws :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGraspingClaws = element (unsafeCoerce _giGraspingClaws)
+giGraspingClaws :: Icon
+giGraspingClaws = element _giGraspingClaws
 
 foreign import _giGraspingSlug :: ReactIcon
 
-giGraspingSlug :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGraspingSlug = element (unsafeCoerce _giGraspingSlug)
+giGraspingSlug :: Icon
+giGraspingSlug = element _giGraspingSlug
 
 foreign import _giGrass :: ReactIcon
 
-giGrass :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGrass = element (unsafeCoerce _giGrass)
+giGrass :: Icon
+giGrass = element _giGrass
 
 foreign import _giGrassMushroom :: ReactIcon
 
-giGrassMushroom :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGrassMushroom = element (unsafeCoerce _giGrassMushroom)
+giGrassMushroom :: Icon
+giGrassMushroom = element _giGrassMushroom
 
 foreign import _giGraveFlowers :: ReactIcon
 
-giGraveFlowers :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGraveFlowers = element (unsafeCoerce _giGraveFlowers)
+giGraveFlowers :: Icon
+giGraveFlowers = element _giGraveFlowers
 
 foreign import _giGraveyard :: ReactIcon
 
-giGraveyard :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGraveyard = element (unsafeCoerce _giGraveyard)
+giGraveyard :: Icon
+giGraveyard = element _giGraveyard
 
 foreign import _giGreaseTrap :: ReactIcon
 
-giGreaseTrap :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGreaseTrap = element (unsafeCoerce _giGreaseTrap)
+giGreaseTrap :: Icon
+giGreaseTrap = element _giGreaseTrap
 
 foreign import _giGreatPyramid :: ReactIcon
 
-giGreatPyramid :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGreatPyramid = element (unsafeCoerce _giGreatPyramid)
+giGreatPyramid :: Icon
+giGreatPyramid = element _giGreatPyramid
 
 foreign import _giGreatWarTank :: ReactIcon
 
-giGreatWarTank :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGreatWarTank = element (unsafeCoerce _giGreatWarTank)
+giGreatWarTank :: Icon
+giGreatWarTank = element _giGreatWarTank
 
 foreign import _giGreaves :: ReactIcon
 
-giGreaves :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGreaves = element (unsafeCoerce _giGreaves)
+giGreaves :: Icon
+giGreaves = element _giGreaves
 
 foreign import _giGreekSphinx :: ReactIcon
 
-giGreekSphinx :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGreekSphinx = element (unsafeCoerce _giGreekSphinx)
+giGreekSphinx :: Icon
+giGreekSphinx = element _giGreekSphinx
 
 foreign import _giGreekTemple :: ReactIcon
 
-giGreekTemple :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGreekTemple = element (unsafeCoerce _giGreekTemple)
+giGreekTemple :: Icon
+giGreekTemple = element _giGreekTemple
 
 foreign import _giGreenhouse :: ReactIcon
 
-giGreenhouse :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGreenhouse = element (unsafeCoerce _giGreenhouse)
+giGreenhouse :: Icon
+giGreenhouse = element _giGreenhouse
 
 foreign import _giGreenPower :: ReactIcon
 
-giGreenPower :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGreenPower = element (unsafeCoerce _giGreenPower)
+giGreenPower :: Icon
+giGreenPower = element _giGreenPower
 
 foreign import _giGrenade :: ReactIcon
 
-giGrenade :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGrenade = element (unsafeCoerce _giGrenade)
+giGrenade :: Icon
+giGrenade = element _giGrenade
 
 foreign import _giGriffinShield :: ReactIcon
 
-giGriffinShield :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGriffinShield = element (unsafeCoerce _giGriffinShield)
+giGriffinShield :: Icon
+giGriffinShield = element _giGriffinShield
 
 foreign import _giGriffinSymbol :: ReactIcon
 
-giGriffinSymbol :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGriffinSymbol = element (unsafeCoerce _giGriffinSymbol)
+giGriffinSymbol :: Icon
+giGriffinSymbol = element _giGriffinSymbol
 
 foreign import _giGrimReaper :: ReactIcon
 
-giGrimReaper :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGrimReaper = element (unsafeCoerce _giGrimReaper)
+giGrimReaper :: Icon
+giGrimReaper = element _giGrimReaper
 
 foreign import _giGroundbreaker :: ReactIcon
 
-giGroundbreaker :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGroundbreaker = element (unsafeCoerce _giGroundbreaker)
+giGroundbreaker :: Icon
+giGroundbreaker = element _giGroundbreaker
 
 foreign import _giGroundSprout :: ReactIcon
 
-giGroundSprout :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGroundSprout = element (unsafeCoerce _giGroundSprout)
+giGroundSprout :: Icon
+giGroundSprout = element _giGroundSprout
 
 foreign import _giGroupedDrops :: ReactIcon
 
-giGroupedDrops :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGroupedDrops = element (unsafeCoerce _giGroupedDrops)
+giGroupedDrops :: Icon
+giGroupedDrops = element _giGroupedDrops
 
 foreign import _giGrowth :: ReactIcon
 
-giGrowth :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGrowth = element (unsafeCoerce _giGrowth)
+giGrowth :: Icon
+giGrowth = element _giGrowth
 
 foreign import _giGuardedTower :: ReactIcon
 
-giGuardedTower :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGuardedTower = element (unsafeCoerce _giGuardedTower)
+giGuardedTower :: Icon
+giGuardedTower = element _giGuardedTower
 
 foreign import _giGuards :: ReactIcon
 
-giGuards :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGuards = element (unsafeCoerce _giGuards)
+giGuards :: Icon
+giGuards = element _giGuards
 
 foreign import _giGuatemala :: ReactIcon
 
-giGuatemala :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGuatemala = element (unsafeCoerce _giGuatemala)
+giGuatemala :: Icon
+giGuatemala = element _giGuatemala
 
 foreign import _giGuillotine :: ReactIcon
 
-giGuillotine :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGuillotine = element (unsafeCoerce _giGuillotine)
+giGuillotine :: Icon
+giGuillotine = element _giGuillotine
 
 foreign import _giGuitar :: ReactIcon
 
-giGuitar :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGuitar = element (unsafeCoerce _giGuitar)
+giGuitar :: Icon
+giGuitar = element _giGuitar
 
 foreign import _giGuitarBassHead :: ReactIcon
 
-giGuitarBassHead :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGuitarBassHead = element (unsafeCoerce _giGuitarBassHead)
+giGuitarBassHead :: Icon
+giGuitarBassHead = element _giGuitarBassHead
 
 foreign import _giGuitarHead :: ReactIcon
 
-giGuitarHead :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGuitarHead = element (unsafeCoerce _giGuitarHead)
+giGuitarHead :: Icon
+giGuitarHead = element _giGuitarHead
 
 foreign import _giGunRose :: ReactIcon
 
-giGunRose :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGunRose = element (unsafeCoerce _giGunRose)
+giGunRose :: Icon
+giGunRose = element _giGunRose
 
 foreign import _giGunshot :: ReactIcon
 
-giGunshot :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGunshot = element (unsafeCoerce _giGunshot)
+giGunshot :: Icon
+giGunshot = element _giGunshot
 
 foreign import _giGunStock :: ReactIcon
 
-giGunStock :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGunStock = element (unsafeCoerce _giGunStock)
+giGunStock :: Icon
+giGunStock = element _giGunStock
 
 foreign import _giGymBag :: ReactIcon
 
-giGymBag :: forall a b. Union a b PropsIcon => Record a -> JSX
-giGymBag = element (unsafeCoerce _giGymBag)
+giGymBag :: Icon
+giGymBag = element _giGymBag
 
 foreign import _giHabitatDome :: ReactIcon
 
-giHabitatDome :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHabitatDome = element (unsafeCoerce _giHabitatDome)
+giHabitatDome :: Icon
+giHabitatDome = element _giHabitatDome
 
 foreign import _giHadesSymbol :: ReactIcon
 
-giHadesSymbol :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHadesSymbol = element (unsafeCoerce _giHadesSymbol)
+giHadesSymbol :: Icon
+giHadesSymbol = element _giHadesSymbol
 
 foreign import _giHairStrands :: ReactIcon
 
-giHairStrands :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHairStrands = element (unsafeCoerce _giHairStrands)
+giHairStrands :: Icon
+giHairStrands = element _giHairStrands
 
 foreign import _giHalberd :: ReactIcon
 
-giHalberd :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHalberd = element (unsafeCoerce _giHalberd)
+giHalberd :: Icon
+giHalberd = element _giHalberd
 
 foreign import _giHalberdShuriken :: ReactIcon
 
-giHalberdShuriken :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHalberdShuriken = element (unsafeCoerce _giHalberdShuriken)
+giHalberdShuriken :: Icon
+giHalberdShuriken = element _giHalberdShuriken
 
 foreign import _giHalfBodyCrawling :: ReactIcon
 
-giHalfBodyCrawling :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHalfBodyCrawling = element (unsafeCoerce _giHalfBodyCrawling)
+giHalfBodyCrawling :: Icon
+giHalfBodyCrawling = element _giHalfBodyCrawling
 
 foreign import _giHalfDead :: ReactIcon
 
-giHalfDead :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHalfDead = element (unsafeCoerce _giHalfDead)
+giHalfDead :: Icon
+giHalfDead = element _giHalfDead
 
 foreign import _giHalfHeart :: ReactIcon
 
-giHalfHeart :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHalfHeart = element (unsafeCoerce _giHalfHeart)
+giHalfHeart :: Icon
+giHalfHeart = element _giHalfHeart
 
 foreign import _giHalfLog :: ReactIcon
 
-giHalfLog :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHalfLog = element (unsafeCoerce _giHalfLog)
+giHalfLog :: Icon
+giHalfLog = element _giHalfLog
 
 foreign import _giHalfTornado :: ReactIcon
 
-giHalfTornado :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHalfTornado = element (unsafeCoerce _giHalfTornado)
+giHalfTornado :: Icon
+giHalfTornado = element _giHalfTornado
 
 foreign import _giHalt :: ReactIcon
 
-giHalt :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHalt = element (unsafeCoerce _giHalt)
+giHalt :: Icon
+giHalt = element _giHalt
 
 foreign import _giHamburger :: ReactIcon
 
-giHamburger :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHamburger = element (unsafeCoerce _giHamburger)
+giHamburger :: Icon
+giHamburger = element _giHamburger
 
 foreign import _giHamburgerMenu :: ReactIcon
 
-giHamburgerMenu :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHamburgerMenu = element (unsafeCoerce _giHamburgerMenu)
+giHamburgerMenu :: Icon
+giHamburgerMenu = element _giHamburgerMenu
 
 foreign import _giHammerBreak :: ReactIcon
 
-giHammerBreak :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHammerBreak = element (unsafeCoerce _giHammerBreak)
+giHammerBreak :: Icon
+giHammerBreak = element _giHammerBreak
 
 foreign import _giHammerDrop :: ReactIcon
 
-giHammerDrop :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHammerDrop = element (unsafeCoerce _giHammerDrop)
+giHammerDrop :: Icon
+giHammerDrop = element _giHammerDrop
 
 foreign import _giHammerNails :: ReactIcon
 
-giHammerNails :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHammerNails = element (unsafeCoerce _giHammerNails)
+giHammerNails :: Icon
+giHammerNails = element _giHammerNails
 
 foreign import _giHammerSickle :: ReactIcon
 
-giHammerSickle :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHammerSickle = element (unsafeCoerce _giHammerSickle)
+giHammerSickle :: Icon
+giHammerSickle = element _giHammerSickle
 
 foreign import _giHamShank :: ReactIcon
 
-giHamShank :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHamShank = element (unsafeCoerce _giHamShank)
+giHamShank :: Icon
+giHamShank = element _giHamShank
 
 foreign import _giHand :: ReactIcon
 
-giHand :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHand = element (unsafeCoerce _giHand)
+giHand :: Icon
+giHand = element _giHand
 
 foreign import _giHandBag :: ReactIcon
 
-giHandBag :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHandBag = element (unsafeCoerce _giHandBag)
+giHandBag :: Icon
+giHandBag = element _giHandBag
 
 foreign import _giHandBandage :: ReactIcon
 
-giHandBandage :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHandBandage = element (unsafeCoerce _giHandBandage)
+giHandBandage :: Icon
+giHandBandage = element _giHandBandage
 
 foreign import _giHandcuffed :: ReactIcon
 
-giHandcuffed :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHandcuffed = element (unsafeCoerce _giHandcuffed)
+giHandcuffed :: Icon
+giHandcuffed = element _giHandcuffed
 
 foreign import _giHandcuffs :: ReactIcon
 
-giHandcuffs :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHandcuffs = element (unsafeCoerce _giHandcuffs)
+giHandcuffs :: Icon
+giHandcuffs = element _giHandcuffs
 
 foreign import _giHandGrip :: ReactIcon
 
-giHandGrip :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHandGrip = element (unsafeCoerce _giHandGrip)
+giHandGrip :: Icon
+giHandGrip = element _giHandGrip
 
 foreign import _giHandheldFan :: ReactIcon
 
-giHandheldFan :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHandheldFan = element (unsafeCoerce _giHandheldFan)
+giHandheldFan :: Icon
+giHandheldFan = element _giHandheldFan
 
 foreign import _giHandOfGod :: ReactIcon
 
-giHandOfGod :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHandOfGod = element (unsafeCoerce _giHandOfGod)
+giHandOfGod :: Icon
+giHandOfGod = element _giHandOfGod
 
 foreign import _giHandOk :: ReactIcon
 
-giHandOk :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHandOk = element (unsafeCoerce _giHandOk)
+giHandOk :: Icon
+giHandOk = element _giHandOk
 
 foreign import _giHandSaw :: ReactIcon
 
-giHandSaw :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHandSaw = element (unsafeCoerce _giHandSaw)
+giHandSaw :: Icon
+giHandSaw = element _giHandSaw
 
 foreign import _giHandTruck :: ReactIcon
 
-giHandTruck :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHandTruck = element (unsafeCoerce _giHandTruck)
+giHandTruck :: Icon
+giHandTruck = element _giHandTruck
 
 foreign import _giHandWing :: ReactIcon
 
-giHandWing :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHandWing = element (unsafeCoerce _giHandWing)
+giHandWing :: Icon
+giHandWing = element _giHandWing
 
 foreign import _giHanger :: ReactIcon
 
-giHanger :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHanger = element (unsafeCoerce _giHanger)
+giHanger :: Icon
+giHanger = element _giHanger
 
 foreign import _giHangGlider :: ReactIcon
 
-giHangGlider :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHangGlider = element (unsafeCoerce _giHangGlider)
+giHangGlider :: Icon
+giHangGlider = element _giHangGlider
 
 foreign import _giHangingSign :: ReactIcon
 
-giHangingSign :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHangingSign = element (unsafeCoerce _giHangingSign)
+giHangingSign :: Icon
+giHangingSign = element _giHangingSign
 
 foreign import _giHangingSpider :: ReactIcon
 
-giHangingSpider :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHangingSpider = element (unsafeCoerce _giHangingSpider)
+giHangingSpider :: Icon
+giHangingSpider = element _giHangingSpider
 
 foreign import _giHappySkull :: ReactIcon
 
-giHappySkull :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHappySkull = element (unsafeCoerce _giHappySkull)
+giHappySkull :: Icon
+giHappySkull = element _giHappySkull
 
 foreign import _giHarborDock :: ReactIcon
 
-giHarborDock :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHarborDock = element (unsafeCoerce _giHarborDock)
+giHarborDock :: Icon
+giHarborDock = element _giHarborDock
 
 foreign import _giHarp :: ReactIcon
 
-giHarp :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHarp = element (unsafeCoerce _giHarp)
+giHarp :: Icon
+giHarp = element _giHarp
 
 foreign import _giHarpoonChain :: ReactIcon
 
-giHarpoonChain :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHarpoonChain = element (unsafeCoerce _giHarpoonChain)
+giHarpoonChain :: Icon
+giHarpoonChain = element _giHarpoonChain
 
 foreign import _giHarpoonTrident :: ReactIcon
 
-giHarpoonTrident :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHarpoonTrident = element (unsafeCoerce _giHarpoonTrident)
+giHarpoonTrident :: Icon
+giHarpoonTrident = element _giHarpoonTrident
 
 foreign import _giHarpy :: ReactIcon
 
-giHarpy :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHarpy = element (unsafeCoerce _giHarpy)
+giHarpy :: Icon
+giHarpy = element _giHarpy
 
 foreign import _giHarryPotterSkull :: ReactIcon
 
-giHarryPotterSkull :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHarryPotterSkull = element (unsafeCoerce _giHarryPotterSkull)
+giHarryPotterSkull :: Icon
+giHarryPotterSkull = element _giHarryPotterSkull
 
 foreign import _giHastyGrave :: ReactIcon
 
-giHastyGrave :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHastyGrave = element (unsafeCoerce _giHastyGrave)
+giHastyGrave :: Icon
+giHastyGrave = element _giHastyGrave
 
 foreign import _giHatchet :: ReactIcon
 
-giHatchet :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHatchet = element (unsafeCoerce _giHatchet)
+giHatchet :: Icon
+giHatchet = element _giHatchet
 
 foreign import _giHatchets :: ReactIcon
 
-giHatchets :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHatchets = element (unsafeCoerce _giHatchets)
+giHatchets :: Icon
+giHatchets = element _giHatchets
 
 foreign import _giHaunting :: ReactIcon
 
-giHaunting :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHaunting = element (unsafeCoerce _giHaunting)
+giHaunting :: Icon
+giHaunting = element _giHaunting
 
 foreign import _giHawkEmblem :: ReactIcon
 
-giHawkEmblem :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHawkEmblem = element (unsafeCoerce _giHawkEmblem)
+giHawkEmblem :: Icon
+giHawkEmblem = element _giHawkEmblem
 
 foreign import _giHazardSign :: ReactIcon
 
-giHazardSign :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHazardSign = element (unsafeCoerce _giHazardSign)
+giHazardSign :: Icon
+giHazardSign = element _giHazardSign
 
 foreign import _giHazmatSuit :: ReactIcon
 
-giHazmatSuit :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHazmatSuit = element (unsafeCoerce _giHazmatSuit)
+giHazmatSuit :: Icon
+giHazmatSuit = element _giHazmatSuit
 
 foreign import _giHeadbandKnot :: ReactIcon
 
-giHeadbandKnot :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHeadbandKnot = element (unsafeCoerce _giHeadbandKnot)
+giHeadbandKnot :: Icon
+giHeadbandKnot = element _giHeadbandKnot
 
 foreign import _giHeadphones :: ReactIcon
 
-giHeadphones :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHeadphones = element (unsafeCoerce _giHeadphones)
+giHeadphones :: Icon
+giHeadphones = element _giHeadphones
 
 foreign import _giHeadshot :: ReactIcon
 
-giHeadshot :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHeadshot = element (unsafeCoerce _giHeadshot)
+giHeadshot :: Icon
+giHeadshot = element _giHeadshot
 
 foreign import _giHeadShot :: ReactIcon
 
-giHeadShot :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHeadShot = element (unsafeCoerce _giHeadShot)
+giHeadShot :: Icon
+giHeadShot = element _giHeadShot
 
 foreign import _giHealing :: ReactIcon
 
-giHealing :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHealing = element (unsafeCoerce _giHealing)
+giHealing :: Icon
+giHealing = element _giHealing
 
 foreign import _giHealingShield :: ReactIcon
 
-giHealingShield :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHealingShield = element (unsafeCoerce _giHealingShield)
+giHealingShield :: Icon
+giHealingShield = element _giHealingShield
 
 foreign import _giHealthCapsule :: ReactIcon
 
-giHealthCapsule :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHealthCapsule = element (unsafeCoerce _giHealthCapsule)
+giHealthCapsule :: Icon
+giHealthCapsule = element _giHealthCapsule
 
 foreign import _giHealthDecrease :: ReactIcon
 
-giHealthDecrease :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHealthDecrease = element (unsafeCoerce _giHealthDecrease)
+giHealthDecrease :: Icon
+giHealthDecrease = element _giHealthDecrease
 
 foreign import _giHealthIncrease :: ReactIcon
 
-giHealthIncrease :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHealthIncrease = element (unsafeCoerce _giHealthIncrease)
+giHealthIncrease :: Icon
+giHealthIncrease = element _giHealthIncrease
 
 foreign import _giHealthNormal :: ReactIcon
 
-giHealthNormal :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHealthNormal = element (unsafeCoerce _giHealthNormal)
+giHealthNormal :: Icon
+giHealthNormal = element _giHealthNormal
 
 foreign import _giHealthPotion :: ReactIcon
 
-giHealthPotion :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHealthPotion = element (unsafeCoerce _giHealthPotion)
+giHealthPotion :: Icon
+giHealthPotion = element _giHealthPotion
 
 foreign import _giHearingDisabled :: ReactIcon
 
-giHearingDisabled :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHearingDisabled = element (unsafeCoerce _giHearingDisabled)
+giHearingDisabled :: Icon
+giHearingDisabled = element _giHearingDisabled
 
 foreign import _giHeartArmor :: ReactIcon
 
-giHeartArmor :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHeartArmor = element (unsafeCoerce _giHeartArmor)
+giHeartArmor :: Icon
+giHeartArmor = element _giHeartArmor
 
 foreign import _giHeartBattery :: ReactIcon
 
-giHeartBattery :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHeartBattery = element (unsafeCoerce _giHeartBattery)
+giHeartBattery :: Icon
+giHeartBattery = element _giHeartBattery
 
 foreign import _giHeartBeats :: ReactIcon
 
-giHeartBeats :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHeartBeats = element (unsafeCoerce _giHeartBeats)
+giHeartBeats :: Icon
+giHeartBeats = element _giHeartBeats
 
 foreign import _giHeartBottle :: ReactIcon
 
-giHeartBottle :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHeartBottle = element (unsafeCoerce _giHeartBottle)
+giHeartBottle :: Icon
+giHeartBottle = element _giHeartBottle
 
 foreign import _giHeartburn :: ReactIcon
 
-giHeartburn :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHeartburn = element (unsafeCoerce _giHeartburn)
+giHeartburn :: Icon
+giHeartburn = element _giHeartburn
 
 foreign import _giHeartDrop :: ReactIcon
 
-giHeartDrop :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHeartDrop = element (unsafeCoerce _giHeartDrop)
+giHeartDrop :: Icon
+giHeartDrop = element _giHeartDrop
 
 foreign import _giHeartEarrings :: ReactIcon
 
-giHeartEarrings :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHeartEarrings = element (unsafeCoerce _giHeartEarrings)
+giHeartEarrings :: Icon
+giHeartEarrings = element _giHeartEarrings
 
 foreign import _giHeartInside :: ReactIcon
 
-giHeartInside :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHeartInside = element (unsafeCoerce _giHeartInside)
+giHeartInside :: Icon
+giHeartInside = element _giHeartInside
 
 foreign import _giHeartKey :: ReactIcon
 
-giHeartKey :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHeartKey = element (unsafeCoerce _giHeartKey)
+giHeartKey :: Icon
+giHeartKey = element _giHeartKey
 
 foreign import _giHeartMinus :: ReactIcon
 
-giHeartMinus :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHeartMinus = element (unsafeCoerce _giHeartMinus)
+giHeartMinus :: Icon
+giHeartMinus = element _giHeartMinus
 
 foreign import _giHeartNecklace :: ReactIcon
 
-giHeartNecklace :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHeartNecklace = element (unsafeCoerce _giHeartNecklace)
+giHeartNecklace :: Icon
+giHeartNecklace = element _giHeartNecklace
 
 foreign import _giHeartOrgan :: ReactIcon
 
-giHeartOrgan :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHeartOrgan = element (unsafeCoerce _giHeartOrgan)
+giHeartOrgan :: Icon
+giHeartOrgan = element _giHeartOrgan
 
 foreign import _giHeartPlus :: ReactIcon
 
-giHeartPlus :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHeartPlus = element (unsafeCoerce _giHeartPlus)
+giHeartPlus :: Icon
+giHeartPlus = element _giHeartPlus
 
 foreign import _giHearts :: ReactIcon
 
-giHearts :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHearts = element (unsafeCoerce _giHearts)
+giHearts :: Icon
+giHearts = element _giHearts
 
 foreign import _giHeartShield :: ReactIcon
 
-giHeartShield :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHeartShield = element (unsafeCoerce _giHeartShield)
+giHeartShield :: Icon
+giHeartShield = element _giHeartShield
 
 foreign import _giHeartStake :: ReactIcon
 
-giHeartStake :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHeartStake = element (unsafeCoerce _giHeartStake)
+giHeartStake :: Icon
+giHeartStake = element _giHeartStake
 
 foreign import _giHeartTower :: ReactIcon
 
-giHeartTower :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHeartTower = element (unsafeCoerce _giHeartTower)
+giHeartTower :: Icon
+giHeartTower = element _giHeartTower
 
 foreign import _giHeartWings :: ReactIcon
 
-giHeartWings :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHeartWings = element (unsafeCoerce _giHeartWings)
+giHeartWings :: Icon
+giHeartWings = element _giHeartWings
 
 foreign import _giHeatHaze :: ReactIcon
 
-giHeatHaze :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHeatHaze = element (unsafeCoerce _giHeatHaze)
+giHeatHaze :: Icon
+giHeatHaze = element _giHeatHaze
 
 foreign import _giHeavenGate :: ReactIcon
 
-giHeavenGate :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHeavenGate = element (unsafeCoerce _giHeavenGate)
+giHeavenGate :: Icon
+giHeavenGate = element _giHeavenGate
 
 foreign import _giHeavyArrow :: ReactIcon
 
-giHeavyArrow :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHeavyArrow = element (unsafeCoerce _giHeavyArrow)
+giHeavyArrow :: Icon
+giHeavyArrow = element _giHeavyArrow
 
 foreign import _giHeavyBullets :: ReactIcon
 
-giHeavyBullets :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHeavyBullets = element (unsafeCoerce _giHeavyBullets)
+giHeavyBullets :: Icon
+giHeavyBullets = element _giHeavyBullets
 
 foreign import _giHeavyCollar :: ReactIcon
 
-giHeavyCollar :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHeavyCollar = element (unsafeCoerce _giHeavyCollar)
+giHeavyCollar :: Icon
+giHeavyCollar = element _giHeavyCollar
 
 foreign import _giHeavyFall :: ReactIcon
 
-giHeavyFall :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHeavyFall = element (unsafeCoerce _giHeavyFall)
+giHeavyFall :: Icon
+giHeavyFall = element _giHeavyFall
 
 foreign import _giHeavyFighter :: ReactIcon
 
-giHeavyFighter :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHeavyFighter = element (unsafeCoerce _giHeavyFighter)
+giHeavyFighter :: Icon
+giHeavyFighter = element _giHeavyFighter
 
 foreign import _giHeavyHelm :: ReactIcon
 
-giHeavyHelm :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHeavyHelm = element (unsafeCoerce _giHeavyHelm)
+giHeavyHelm :: Icon
+giHeavyHelm = element _giHeavyHelm
 
 foreign import _giHeavyLightning :: ReactIcon
 
-giHeavyLightning :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHeavyLightning = element (unsafeCoerce _giHeavyLightning)
+giHeavyLightning :: Icon
+giHeavyLightning = element _giHeavyLightning
 
 foreign import _giHeavyRain :: ReactIcon
 
-giHeavyRain :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHeavyRain = element (unsafeCoerce _giHeavyRain)
+giHeavyRain :: Icon
+giHeavyRain = element _giHeavyRain
 
 foreign import _giHeavyThornyTriskelion :: ReactIcon
 
-giHeavyThornyTriskelion :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHeavyThornyTriskelion = element (unsafeCoerce _giHeavyThornyTriskelion)
+giHeavyThornyTriskelion :: Icon
+giHeavyThornyTriskelion = element _giHeavyThornyTriskelion
 
 foreign import _giHeavyTimer :: ReactIcon
 
-giHeavyTimer :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHeavyTimer = element (unsafeCoerce _giHeavyTimer)
+giHeavyTimer :: Icon
+giHeavyTimer = element _giHeavyTimer
 
 foreign import _giHedgehog :: ReactIcon
 
-giHedgehog :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHedgehog = element (unsafeCoerce _giHedgehog)
+giHedgehog :: Icon
+giHedgehog = element _giHedgehog
 
 foreign import _giHedjetWhiteCrown :: ReactIcon
 
-giHedjetWhiteCrown :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHedjetWhiteCrown = element (unsafeCoerce _giHedjetWhiteCrown)
+giHedjetWhiteCrown :: Icon
+giHedjetWhiteCrown = element _giHedjetWhiteCrown
 
 foreign import _giHelicoprion :: ReactIcon
 
-giHelicoprion :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHelicoprion = element (unsafeCoerce _giHelicoprion)
+giHelicoprion :: Icon
+giHelicoprion = element _giHelicoprion
 
 foreign import _giHelicopter :: ReactIcon
 
-giHelicopter :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHelicopter = element (unsafeCoerce _giHelicopter)
+giHelicopter :: Icon
+giHelicopter = element _giHelicopter
 
 foreign import _giHelicopterTail :: ReactIcon
 
-giHelicopterTail :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHelicopterTail = element (unsafeCoerce _giHelicopterTail)
+giHelicopterTail :: Icon
+giHelicopterTail = element _giHelicopterTail
 
 foreign import _giHellCrosses :: ReactIcon
 
-giHellCrosses :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHellCrosses = element (unsafeCoerce _giHellCrosses)
+giHellCrosses :: Icon
+giHellCrosses = element _giHellCrosses
 
 foreign import _giHelmet :: ReactIcon
 
-giHelmet :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHelmet = element (unsafeCoerce _giHelmet)
+giHelmet :: Icon
+giHelmet = element _giHelmet
 
 foreign import _giHelmetHeadShot :: ReactIcon
 
-giHelmetHeadShot :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHelmetHeadShot = element (unsafeCoerce _giHelmetHeadShot)
+giHelmetHeadShot :: Icon
+giHelmetHeadShot = element _giHelmetHeadShot
 
 foreign import _giHelp :: ReactIcon
 
-giHelp :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHelp = element (unsafeCoerce _giHelp)
+giHelp :: Icon
+giHelp = element _giHelp
 
 foreign import _giHemp :: ReactIcon
 
-giHemp :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHemp = element (unsafeCoerce _giHemp)
+giHemp :: Icon
+giHemp = element _giHemp
 
 foreign import _giHeptagram :: ReactIcon
 
-giHeptagram :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHeptagram = element (unsafeCoerce _giHeptagram)
+giHeptagram :: Icon
+giHeptagram = element _giHeptagram
 
 foreign import _giHeraldicSun :: ReactIcon
 
-giHeraldicSun :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHeraldicSun = element (unsafeCoerce _giHeraldicSun)
+giHeraldicSun :: Icon
+giHeraldicSun = element _giHeraldicSun
 
 foreign import _giHerbsBundle :: ReactIcon
 
-giHerbsBundle :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHerbsBundle = element (unsafeCoerce _giHerbsBundle)
+giHerbsBundle :: Icon
+giHerbsBundle = element _giHerbsBundle
 
 foreign import _giHeron :: ReactIcon
 
-giHeron :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHeron = element (unsafeCoerce _giHeron)
+giHeron :: Icon
+giHeron = element _giHeron
 
 foreign import _giHexagonalNut :: ReactIcon
 
-giHexagonalNut :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHexagonalNut = element (unsafeCoerce _giHexagonalNut)
+giHexagonalNut :: Icon
+giHexagonalNut = element _giHexagonalNut
 
 foreign import _giHexes :: ReactIcon
 
-giHexes :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHexes = element (unsafeCoerce _giHexes)
+giHexes :: Icon
+giHexes = element _giHexes
 
 foreign import _giHidden :: ReactIcon
 
-giHidden :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHidden = element (unsafeCoerce _giHidden)
+giHidden :: Icon
+giHidden = element _giHidden
 
 foreign import _giHieroglyphLegs :: ReactIcon
 
-giHieroglyphLegs :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHieroglyphLegs = element (unsafeCoerce _giHieroglyphLegs)
+giHieroglyphLegs :: Icon
+giHieroglyphLegs = element _giHieroglyphLegs
 
 foreign import _giHieroglyphY :: ReactIcon
 
-giHieroglyphY :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHieroglyphY = element (unsafeCoerce _giHieroglyphY)
+giHieroglyphY :: Icon
+giHieroglyphY = element _giHieroglyphY
 
 foreign import _giHighFive :: ReactIcon
 
-giHighFive :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHighFive = element (unsafeCoerce _giHighFive)
+giHighFive :: Icon
+giHighFive = element _giHighFive
 
 foreign import _giHighGrass :: ReactIcon
 
-giHighGrass :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHighGrass = element (unsafeCoerce _giHighGrass)
+giHighGrass :: Icon
+giHighGrass = element _giHighGrass
 
 foreign import _giHighHeel :: ReactIcon
 
-giHighHeel :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHighHeel = element (unsafeCoerce _giHighHeel)
+giHighHeel :: Icon
+giHighHeel = element _giHighHeel
 
 foreign import _giHighKick :: ReactIcon
 
-giHighKick :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHighKick = element (unsafeCoerce _giHighKick)
+giHighKick :: Icon
+giHighKick = element _giHighKick
 
 foreign import _giHighlighter :: ReactIcon
 
-giHighlighter :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHighlighter = element (unsafeCoerce _giHighlighter)
+giHighlighter :: Icon
+giHighlighter = element _giHighlighter
 
 foreign import _giHighPunch :: ReactIcon
 
-giHighPunch :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHighPunch = element (unsafeCoerce _giHighPunch)
+giHighPunch :: Icon
+giHighPunch = element _giHighPunch
 
 foreign import _giHighShot :: ReactIcon
 
-giHighShot :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHighShot = element (unsafeCoerce _giHighShot)
+giHighShot :: Icon
+giHighShot = element _giHighShot
 
 foreign import _giHighTide :: ReactIcon
 
-giHighTide :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHighTide = element (unsafeCoerce _giHighTide)
+giHighTide :: Icon
+giHighTide = element _giHighTide
 
 foreign import _giHiking :: ReactIcon
 
-giHiking :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHiking = element (unsafeCoerce _giHiking)
+giHiking :: Icon
+giHiking = element _giHiking
 
 foreign import _giHillConquest :: ReactIcon
 
-giHillConquest :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHillConquest = element (unsafeCoerce _giHillConquest)
+giHillConquest :: Icon
+giHillConquest = element _giHillConquest
 
 foreign import _giHillFort :: ReactIcon
 
-giHillFort :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHillFort = element (unsafeCoerce _giHillFort)
+giHillFort :: Icon
+giHillFort = element _giHillFort
 
 foreign import _giHills :: ReactIcon
 
-giHills :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHills = element (unsafeCoerce _giHills)
+giHills :: Icon
+giHills = element _giHills
 
 foreign import _giHistogram :: ReactIcon
 
-giHistogram :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHistogram = element (unsafeCoerce _giHistogram)
+giHistogram :: Icon
+giHistogram = element _giHistogram
 
 foreign import _giHive :: ReactIcon
 
-giHive :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHive = element (unsafeCoerce _giHive)
+giHive :: Icon
+giHive = element _giHive
 
 foreign import _giHiveMind :: ReactIcon
 
-giHiveMind :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHiveMind = element (unsafeCoerce _giHiveMind)
+giHiveMind :: Icon
+giHiveMind = element _giHiveMind
 
 foreign import _giHobbitDoor :: ReactIcon
 
-giHobbitDoor :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHobbitDoor = element (unsafeCoerce _giHobbitDoor)
+giHobbitDoor :: Icon
+giHobbitDoor = element _giHobbitDoor
 
 foreign import _giHobbitDwelling :: ReactIcon
 
-giHobbitDwelling :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHobbitDwelling = element (unsafeCoerce _giHobbitDwelling)
+giHobbitDwelling :: Icon
+giHobbitDwelling = element _giHobbitDwelling
 
 foreign import _giHockey :: ReactIcon
 
-giHockey :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHockey = element (unsafeCoerce _giHockey)
+giHockey :: Icon
+giHockey = element _giHockey
 
 foreign import _giHole :: ReactIcon
 
-giHole :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHole = element (unsafeCoerce _giHole)
+giHole :: Icon
+giHole = element _giHole
 
 foreign import _giHoleLadder :: ReactIcon
 
-giHoleLadder :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHoleLadder = element (unsafeCoerce _giHoleLadder)
+giHoleLadder :: Icon
+giHoleLadder = element _giHoleLadder
 
 foreign import _giHollowCat :: ReactIcon
 
-giHollowCat :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHollowCat = element (unsafeCoerce _giHollowCat)
+giHollowCat :: Icon
+giHollowCat = element _giHollowCat
 
 foreign import _giHolosphere :: ReactIcon
 
-giHolosphere :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHolosphere = element (unsafeCoerce _giHolosphere)
+giHolosphere :: Icon
+giHolosphere = element _giHolosphere
 
 foreign import _giHolyGrail :: ReactIcon
 
-giHolyGrail :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHolyGrail = element (unsafeCoerce _giHolyGrail)
+giHolyGrail :: Icon
+giHolyGrail = element _giHolyGrail
 
 foreign import _giHolyHandGrenade :: ReactIcon
 
-giHolyHandGrenade :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHolyHandGrenade = element (unsafeCoerce _giHolyHandGrenade)
+giHolyHandGrenade :: Icon
+giHolyHandGrenade = element _giHolyHandGrenade
 
 foreign import _giHolyOak :: ReactIcon
 
-giHolyOak :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHolyOak = element (unsafeCoerce _giHolyOak)
+giHolyOak :: Icon
+giHolyOak = element _giHolyOak
 
 foreign import _giHolySymbol :: ReactIcon
 
-giHolySymbol :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHolySymbol = element (unsafeCoerce _giHolySymbol)
+giHolySymbol :: Icon
+giHolySymbol = element _giHolySymbol
 
 foreign import _giHolyWater :: ReactIcon
 
-giHolyWater :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHolyWater = element (unsafeCoerce _giHolyWater)
+giHolyWater :: Icon
+giHolyWater = element _giHolyWater
 
 foreign import _giHomeGarage :: ReactIcon
 
-giHomeGarage :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHomeGarage = element (unsafeCoerce _giHomeGarage)
+giHomeGarage :: Icon
+giHomeGarage = element _giHomeGarage
 
 foreign import _giHoneycomb :: ReactIcon
 
-giHoneycomb :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHoneycomb = element (unsafeCoerce _giHoneycomb)
+giHoneycomb :: Icon
+giHoneycomb = element _giHoneycomb
 
 foreign import _giHoneyJar :: ReactIcon
 
-giHoneyJar :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHoneyJar = element (unsafeCoerce _giHoneyJar)
+giHoneyJar :: Icon
+giHoneyJar = element _giHoneyJar
 
 foreign import _giHoneypot :: ReactIcon
 
-giHoneypot :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHoneypot = element (unsafeCoerce _giHoneypot)
+giHoneypot :: Icon
+giHoneypot = element _giHoneypot
 
 foreign import _giHood :: ReactIcon
 
-giHood :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHood = element (unsafeCoerce _giHood)
+giHood :: Icon
+giHood = element _giHood
 
 foreign import _giHoodedAssassin :: ReactIcon
 
-giHoodedAssassin :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHoodedAssassin = element (unsafeCoerce _giHoodedAssassin)
+giHoodedAssassin :: Icon
+giHoodedAssassin = element _giHoodedAssassin
 
 foreign import _giHoodedFigure :: ReactIcon
 
-giHoodedFigure :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHoodedFigure = element (unsafeCoerce _giHoodedFigure)
+giHoodedFigure :: Icon
+giHoodedFigure = element _giHoodedFigure
 
 foreign import _giHoodie :: ReactIcon
 
-giHoodie :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHoodie = element (unsafeCoerce _giHoodie)
+giHoodie :: Icon
+giHoodie = element _giHoodie
 
 foreign import _giHoof :: ReactIcon
 
-giHoof :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHoof = element (unsafeCoerce _giHoof)
+giHoof :: Icon
+giHoof = element _giHoof
 
 foreign import _giHook :: ReactIcon
 
-giHook :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHook = element (unsafeCoerce _giHook)
+giHook :: Icon
+giHook = element _giHook
 
 foreign import _giHops :: ReactIcon
 
-giHops :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHops = element (unsafeCoerce _giHops)
+giHops :: Icon
+giHops = element _giHops
 
 foreign import _giHorizonRoad :: ReactIcon
 
-giHorizonRoad :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHorizonRoad = element (unsafeCoerce _giHorizonRoad)
+giHorizonRoad :: Icon
+giHorizonRoad = element _giHorizonRoad
 
 foreign import _giHorizontalFlip :: ReactIcon
 
-giHorizontalFlip :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHorizontalFlip = element (unsafeCoerce _giHorizontalFlip)
+giHorizontalFlip :: Icon
+giHorizontalFlip = element _giHorizontalFlip
 
 foreign import _giHornedHelm :: ReactIcon
 
-giHornedHelm :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHornedHelm = element (unsafeCoerce _giHornedHelm)
+giHornedHelm :: Icon
+giHornedHelm = element _giHornedHelm
 
 foreign import _giHornedReptile :: ReactIcon
 
-giHornedReptile :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHornedReptile = element (unsafeCoerce _giHornedReptile)
+giHornedReptile :: Icon
+giHornedReptile = element _giHornedReptile
 
 foreign import _giHornedSkull :: ReactIcon
 
-giHornedSkull :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHornedSkull = element (unsafeCoerce _giHornedSkull)
+giHornedSkull :: Icon
+giHornedSkull = element _giHornedSkull
 
 foreign import _giHornInternal :: ReactIcon
 
-giHornInternal :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHornInternal = element (unsafeCoerce _giHornInternal)
+giHornInternal :: Icon
+giHornInternal = element _giHornInternal
 
 foreign import _giHorseHead :: ReactIcon
 
-giHorseHead :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHorseHead = element (unsafeCoerce _giHorseHead)
+giHorseHead :: Icon
+giHorseHead = element _giHorseHead
 
 foreign import _giHorseshoe :: ReactIcon
 
-giHorseshoe :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHorseshoe = element (unsafeCoerce _giHorseshoe)
+giHorseshoe :: Icon
+giHorseshoe = element _giHorseshoe
 
 foreign import _giHorus :: ReactIcon
 
-giHorus :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHorus = element (unsafeCoerce _giHorus)
+giHorus :: Icon
+giHorus = element _giHorus
 
 foreign import _giHospital :: ReactIcon
 
-giHospital :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHospital = element (unsafeCoerce _giHospital)
+giHospital :: Icon
+giHospital = element _giHospital
 
 foreign import _giHospitalCross :: ReactIcon
 
-giHospitalCross :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHospitalCross = element (unsafeCoerce _giHospitalCross)
+giHospitalCross :: Icon
+giHospitalCross = element _giHospitalCross
 
 foreign import _giHotDog :: ReactIcon
 
-giHotDog :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHotDog = element (unsafeCoerce _giHotDog)
+giHotDog :: Icon
+giHotDog = element _giHotDog
 
 foreign import _giHotMeal :: ReactIcon
 
-giHotMeal :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHotMeal = element (unsafeCoerce _giHotMeal)
+giHotMeal :: Icon
+giHotMeal = element _giHotMeal
 
 foreign import _giHotSpices :: ReactIcon
 
-giHotSpices :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHotSpices = element (unsafeCoerce _giHotSpices)
+giHotSpices :: Icon
+giHotSpices = element _giHotSpices
 
 foreign import _giHotSurface :: ReactIcon
 
-giHotSurface :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHotSurface = element (unsafeCoerce _giHotSurface)
+giHotSurface :: Icon
+giHotSurface = element _giHotSurface
 
 foreign import _giHound :: ReactIcon
 
-giHound :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHound = element (unsafeCoerce _giHound)
+giHound :: Icon
+giHound = element _giHound
 
 foreign import _giHourglass :: ReactIcon
 
-giHourglass :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHourglass = element (unsafeCoerce _giHourglass)
+giHourglass :: Icon
+giHourglass = element _giHourglass
 
 foreign import _giHouse :: ReactIcon
 
-giHouse :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHouse = element (unsafeCoerce _giHouse)
+giHouse :: Icon
+giHouse = element _giHouse
 
 foreign import _giHouseKeys :: ReactIcon
 
-giHouseKeys :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHouseKeys = element (unsafeCoerce _giHouseKeys)
+giHouseKeys :: Icon
+giHouseKeys = element _giHouseKeys
 
 foreign import _giHumanCannonball :: ReactIcon
 
-giHumanCannonball :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHumanCannonball = element (unsafeCoerce _giHumanCannonball)
+giHumanCannonball :: Icon
+giHumanCannonball = element _giHumanCannonball
 
 foreign import _giHumanEar :: ReactIcon
 
-giHumanEar :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHumanEar = element (unsafeCoerce _giHumanEar)
+giHumanEar :: Icon
+giHumanEar = element _giHumanEar
 
 foreign import _giHumanPyramid :: ReactIcon
 
-giHumanPyramid :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHumanPyramid = element (unsafeCoerce _giHumanPyramid)
+giHumanPyramid :: Icon
+giHumanPyramid = element _giHumanPyramid
 
 foreign import _giHumanTarget :: ReactIcon
 
-giHumanTarget :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHumanTarget = element (unsafeCoerce _giHumanTarget)
+giHumanTarget :: Icon
+giHumanTarget = element _giHumanTarget
 
 foreign import _giHummingbird :: ReactIcon
 
-giHummingbird :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHummingbird = element (unsafeCoerce _giHummingbird)
+giHummingbird :: Icon
+giHummingbird = element _giHummingbird
 
 foreign import _giHungary :: ReactIcon
 
-giHungary :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHungary = element (unsafeCoerce _giHungary)
+giHungary :: Icon
+giHungary = element _giHungary
 
 foreign import _giHunterEyes :: ReactIcon
 
-giHunterEyes :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHunterEyes = element (unsafeCoerce _giHunterEyes)
+giHunterEyes :: Icon
+giHunterEyes = element _giHunterEyes
 
 foreign import _giHuntingBolas :: ReactIcon
 
-giHuntingBolas :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHuntingBolas = element (unsafeCoerce _giHuntingBolas)
+giHuntingBolas :: Icon
+giHuntingBolas = element _giHuntingBolas
 
 foreign import _giHuntingHorn :: ReactIcon
 
-giHuntingHorn :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHuntingHorn = element (unsafeCoerce _giHuntingHorn)
+giHuntingHorn :: Icon
+giHuntingHorn = element _giHuntingHorn
 
 foreign import _giHut :: ReactIcon
 
-giHut :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHut = element (unsafeCoerce _giHut)
+giHut :: Icon
+giHut = element _giHut
 
 foreign import _giHutsVillage :: ReactIcon
 
-giHutsVillage :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHutsVillage = element (unsafeCoerce _giHutsVillage)
+giHutsVillage :: Icon
+giHutsVillage = element _giHutsVillage
 
 foreign import _giHydra :: ReactIcon
 
-giHydra :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHydra = element (unsafeCoerce _giHydra)
+giHydra :: Icon
+giHydra = element _giHydra
 
 foreign import _giHydraShot :: ReactIcon
 
-giHydraShot :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHydraShot = element (unsafeCoerce _giHydraShot)
+giHydraShot :: Icon
+giHydraShot = element _giHydraShot
 
 foreign import _giHyenaHead :: ReactIcon
 
-giHyenaHead :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHyenaHead = element (unsafeCoerce _giHyenaHead)
+giHyenaHead :: Icon
+giHyenaHead = element _giHyenaHead
 
 foreign import _giHypersonicBolt :: ReactIcon
 
-giHypersonicBolt :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHypersonicBolt = element (unsafeCoerce _giHypersonicBolt)
+giHypersonicBolt :: Icon
+giHypersonicBolt = element _giHypersonicBolt
 
 foreign import _giHypersonicMelon :: ReactIcon
 
-giHypersonicMelon :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHypersonicMelon = element (unsafeCoerce _giHypersonicMelon)
+giHypersonicMelon :: Icon
+giHypersonicMelon = element _giHypersonicMelon
 
 foreign import _giHypodermicTest :: ReactIcon
 
-giHypodermicTest :: forall a b. Union a b PropsIcon => Record a -> JSX
-giHypodermicTest = element (unsafeCoerce _giHypodermicTest)
+giHypodermicTest :: Icon
+giHypodermicTest = element _giHypodermicTest
 
 foreign import _giIBeam :: ReactIcon
 
-giIBeam :: forall a b. Union a b PropsIcon => Record a -> JSX
-giIBeam = element (unsafeCoerce _giIBeam)
+giIBeam :: Icon
+giIBeam = element _giIBeam
 
 foreign import _giIbis :: ReactIcon
 
-giIbis :: forall a b. Union a b PropsIcon => Record a -> JSX
-giIbis = element (unsafeCoerce _giIbis)
+giIbis :: Icon
+giIbis = element _giIbis
 
 foreign import _giIBrick :: ReactIcon
 
-giIBrick :: forall a b. Union a b PropsIcon => Record a -> JSX
-giIBrick = element (unsafeCoerce _giIBrick)
+giIBrick :: Icon
+giIBrick = element _giIBrick
 
 foreign import _giIcarus :: ReactIcon
 
-giIcarus :: forall a b. Union a b PropsIcon => Record a -> JSX
-giIcarus = element (unsafeCoerce _giIcarus)
+giIcarus :: Icon
+giIcarus = element _giIcarus
 
 foreign import _giIceberg :: ReactIcon
 
-giIceberg :: forall a b. Union a b PropsIcon => Record a -> JSX
-giIceberg = element (unsafeCoerce _giIceberg)
+giIceberg :: Icon
+giIceberg = element _giIceberg
 
 foreign import _giIcebergs :: ReactIcon
 
-giIcebergs :: forall a b. Union a b PropsIcon => Record a -> JSX
-giIcebergs = element (unsafeCoerce _giIcebergs)
+giIcebergs :: Icon
+giIcebergs = element _giIcebergs
 
 foreign import _giIceBolt :: ReactIcon
 
-giIceBolt :: forall a b. Union a b PropsIcon => Record a -> JSX
-giIceBolt = element (unsafeCoerce _giIceBolt)
+giIceBolt :: Icon
+giIceBolt = element _giIceBolt
 
 foreign import _giIceBomb :: ReactIcon
 
-giIceBomb :: forall a b. Union a b PropsIcon => Record a -> JSX
-giIceBomb = element (unsafeCoerce _giIceBomb)
+giIceBomb :: Icon
+giIceBomb = element _giIceBomb
 
 foreign import _giIceCreamCone :: ReactIcon
 
-giIceCreamCone :: forall a b. Union a b PropsIcon => Record a -> JSX
-giIceCreamCone = element (unsafeCoerce _giIceCreamCone)
+giIceCreamCone :: Icon
+giIceCreamCone = element _giIceCreamCone
 
 foreign import _giIceCreamScoop :: ReactIcon
 
-giIceCreamScoop :: forall a b. Union a b PropsIcon => Record a -> JSX
-giIceCreamScoop = element (unsafeCoerce _giIceCreamScoop)
+giIceCreamScoop :: Icon
+giIceCreamScoop = element _giIceCreamScoop
 
 foreign import _giIceCube :: ReactIcon
 
-giIceCube :: forall a b. Union a b PropsIcon => Record a -> JSX
-giIceCube = element (unsafeCoerce _giIceCube)
+giIceCube :: Icon
+giIceCube = element _giIceCube
 
 foreign import _giIceCubes :: ReactIcon
 
-giIceCubes :: forall a b. Union a b PropsIcon => Record a -> JSX
-giIceCubes = element (unsafeCoerce _giIceCubes)
+giIceCubes :: Icon
+giIceCubes = element _giIceCubes
 
 foreign import _giIceGolem :: ReactIcon
 
-giIceGolem :: forall a b. Union a b PropsIcon => Record a -> JSX
-giIceGolem = element (unsafeCoerce _giIceGolem)
+giIceGolem :: Icon
+giIceGolem = element _giIceGolem
 
 foreign import _giIceIris :: ReactIcon
 
-giIceIris :: forall a b. Union a b PropsIcon => Record a -> JSX
-giIceIris = element (unsafeCoerce _giIceIris)
+giIceIris :: Icon
+giIceIris = element _giIceIris
 
 foreign import _giIceland :: ReactIcon
 
-giIceland :: forall a b. Union a b PropsIcon => Record a -> JSX
-giIceland = element (unsafeCoerce _giIceland)
+giIceland :: Icon
+giIceland = element _giIceland
 
 foreign import _giIcePop :: ReactIcon
 
-giIcePop :: forall a b. Union a b PropsIcon => Record a -> JSX
-giIcePop = element (unsafeCoerce _giIcePop)
+giIcePop :: Icon
+giIcePop = element _giIcePop
 
 foreign import _giIceShield :: ReactIcon
 
-giIceShield :: forall a b. Union a b PropsIcon => Record a -> JSX
-giIceShield = element (unsafeCoerce _giIceShield)
+giIceShield :: Icon
+giIceShield = element _giIceShield
 
 foreign import _giIceSkate :: ReactIcon
 
-giIceSkate :: forall a b. Union a b PropsIcon => Record a -> JSX
-giIceSkate = element (unsafeCoerce _giIceSkate)
+giIceSkate :: Icon
+giIceSkate = element _giIceSkate
 
 foreign import _giIceSpear :: ReactIcon
 
-giIceSpear :: forall a b. Union a b PropsIcon => Record a -> JSX
-giIceSpear = element (unsafeCoerce _giIceSpear)
+giIceSpear :: Icon
+giIceSpear = element _giIceSpear
 
 foreign import _giIceSpellCast :: ReactIcon
 
-giIceSpellCast :: forall a b. Union a b PropsIcon => Record a -> JSX
-giIceSpellCast = element (unsafeCoerce _giIceSpellCast)
+giIceSpellCast :: Icon
+giIceSpellCast = element _giIceSpellCast
 
 foreign import _giIciclesAura :: ReactIcon
 
-giIciclesAura :: forall a b. Union a b PropsIcon => Record a -> JSX
-giIciclesAura = element (unsafeCoerce _giIciclesAura)
+giIciclesAura :: Icon
+giIciclesAura = element _giIciclesAura
 
 foreign import _giIciclesFence :: ReactIcon
 
-giIciclesFence :: forall a b. Union a b PropsIcon => Record a -> JSX
-giIciclesFence = element (unsafeCoerce _giIciclesFence)
+giIciclesFence :: Icon
+giIciclesFence = element _giIciclesFence
 
 foreign import _giIdCard :: ReactIcon
 
-giIdCard :: forall a b. Union a b PropsIcon => Record a -> JSX
-giIdCard = element (unsafeCoerce _giIdCard)
+giIdCard :: Icon
+giIdCard = element _giIdCard
 
 foreign import _giIdea :: ReactIcon
 
-giIdea :: forall a b. Union a b PropsIcon => Record a -> JSX
-giIdea = element (unsafeCoerce _giIdea)
+giIdea :: Icon
+giIdea = element _giIdea
 
 foreign import _giIfrit :: ReactIcon
 
-giIfrit :: forall a b. Union a b PropsIcon => Record a -> JSX
-giIfrit = element (unsafeCoerce _giIfrit)
+giIfrit :: Icon
+giIfrit = element _giIfrit
 
 foreign import _giIgloo :: ReactIcon
 
-giIgloo :: forall a b. Union a b PropsIcon => Record a -> JSX
-giIgloo = element (unsafeCoerce _giIgloo)
+giIgloo :: Icon
+giIgloo = element _giIgloo
 
 foreign import _giImbricatedArrows :: ReactIcon
 
-giImbricatedArrows :: forall a b. Union a b PropsIcon => Record a -> JSX
-giImbricatedArrows = element (unsafeCoerce _giImbricatedArrows)
+giImbricatedArrows :: Icon
+giImbricatedArrows = element _giImbricatedArrows
 
 foreign import _giImp :: ReactIcon
 
-giImp :: forall a b. Union a b PropsIcon => Record a -> JSX
-giImp = element (unsafeCoerce _giImp)
+giImp :: Icon
+giImp = element _giImp
 
 foreign import _giImpactPoint :: ReactIcon
 
-giImpactPoint :: forall a b. Union a b PropsIcon => Record a -> JSX
-giImpactPoint = element (unsafeCoerce _giImpactPoint)
+giImpactPoint :: Icon
+giImpactPoint = element _giImpactPoint
 
 foreign import _giImperialCrown :: ReactIcon
 
-giImperialCrown :: forall a b. Union a b PropsIcon => Record a -> JSX
-giImperialCrown = element (unsafeCoerce _giImperialCrown)
+giImperialCrown :: Icon
+giImperialCrown = element _giImperialCrown
 
 foreign import _giImpLaugh :: ReactIcon
 
-giImpLaugh :: forall a b. Union a b PropsIcon => Record a -> JSX
-giImpLaugh = element (unsafeCoerce _giImpLaugh)
+giImpLaugh :: Icon
+giImpLaugh = element _giImpLaugh
 
 foreign import _giImplosion :: ReactIcon
 
-giImplosion :: forall a b. Union a b PropsIcon => Record a -> JSX
-giImplosion = element (unsafeCoerce _giImplosion)
+giImplosion :: Icon
+giImplosion = element _giImplosion
 
 foreign import _giImprisoned :: ReactIcon
 
-giImprisoned :: forall a b. Union a b PropsIcon => Record a -> JSX
-giImprisoned = element (unsafeCoerce _giImprisoned)
+giImprisoned :: Icon
+giImprisoned = element _giImprisoned
 
 foreign import _giInauguration :: ReactIcon
 
-giInauguration :: forall a b. Union a b PropsIcon => Record a -> JSX
-giInauguration = element (unsafeCoerce _giInauguration)
+giInauguration :: Icon
+giInauguration = element _giInauguration
 
 foreign import _giIncense :: ReactIcon
 
-giIncense :: forall a b. Union a b PropsIcon => Record a -> JSX
-giIncense = element (unsafeCoerce _giIncense)
+giIncense :: Icon
+giIncense = element _giIncense
 
 foreign import _giIncisors :: ReactIcon
 
-giIncisors :: forall a b. Union a b PropsIcon => Record a -> JSX
-giIncisors = element (unsafeCoerce _giIncisors)
+giIncisors :: Icon
+giIncisors = element _giIncisors
 
 foreign import _giIncomingRocket :: ReactIcon
 
-giIncomingRocket :: forall a b. Union a b PropsIcon => Record a -> JSX
-giIncomingRocket = element (unsafeCoerce _giIncomingRocket)
+giIncomingRocket :: Icon
+giIncomingRocket = element _giIncomingRocket
 
 foreign import _giIncubator :: ReactIcon
 
-giIncubator :: forall a b. Union a b PropsIcon => Record a -> JSX
-giIncubator = element (unsafeCoerce _giIncubator)
+giIncubator :: Icon
+giIncubator = element _giIncubator
 
 foreign import _giIndiaGate :: ReactIcon
 
-giIndiaGate :: forall a b. Union a b PropsIcon => Record a -> JSX
-giIndiaGate = element (unsafeCoerce _giIndiaGate)
+giIndiaGate :: Icon
+giIndiaGate = element _giIndiaGate
 
 foreign import _giIndianPalace :: ReactIcon
 
-giIndianPalace :: forall a b. Union a b PropsIcon => Record a -> JSX
-giIndianPalace = element (unsafeCoerce _giIndianPalace)
+giIndianPalace :: Icon
+giIndianPalace = element _giIndianPalace
 
 foreign import _giInfernoBomb :: ReactIcon
 
-giInfernoBomb :: forall a b. Union a b PropsIcon => Record a -> JSX
-giInfernoBomb = element (unsafeCoerce _giInfernoBomb)
+giInfernoBomb :: Icon
+giInfernoBomb = element _giInfernoBomb
 
 foreign import _giInfestedMass :: ReactIcon
 
-giInfestedMass :: forall a b. Union a b PropsIcon => Record a -> JSX
-giInfestedMass = element (unsafeCoerce _giInfestedMass)
+giInfestedMass :: Icon
+giInfestedMass = element _giInfestedMass
 
 foreign import _giInfinity :: ReactIcon
 
-giInfinity :: forall a b. Union a b PropsIcon => Record a -> JSX
-giInfinity = element (unsafeCoerce _giInfinity)
+giInfinity :: Icon
+giInfinity = element _giInfinity
 
 foreign import _giInfo :: ReactIcon
 
-giInfo :: forall a b. Union a b PropsIcon => Record a -> JSX
-giInfo = element (unsafeCoerce _giInfo)
+giInfo :: Icon
+giInfo = element _giInfo
 
 foreign import _giInjustice :: ReactIcon
 
-giInjustice :: forall a b. Union a b PropsIcon => Record a -> JSX
-giInjustice = element (unsafeCoerce _giInjustice)
+giInjustice :: Icon
+giInjustice = element _giInjustice
 
 foreign import _giInkSwirl :: ReactIcon
 
-giInkSwirl :: forall a b. Union a b PropsIcon => Record a -> JSX
-giInkSwirl = element (unsafeCoerce _giInkSwirl)
+giInkSwirl :: Icon
+giInkSwirl = element _giInkSwirl
 
 foreign import _giInnerSelf :: ReactIcon
 
-giInnerSelf :: forall a b. Union a b PropsIcon => Record a -> JSX
-giInnerSelf = element (unsafeCoerce _giInnerSelf)
+giInnerSelf :: Icon
+giInnerSelf = element _giInnerSelf
 
 foreign import _giInsectJaws :: ReactIcon
 
-giInsectJaws :: forall a b. Union a b PropsIcon => Record a -> JSX
-giInsectJaws = element (unsafeCoerce _giInsectJaws)
+giInsectJaws :: Icon
+giInsectJaws = element _giInsectJaws
 
 foreign import _giInspiration :: ReactIcon
 
-giInspiration :: forall a b. Union a b PropsIcon => Record a -> JSX
-giInspiration = element (unsafeCoerce _giInspiration)
+giInspiration :: Icon
+giInspiration = element _giInspiration
 
 foreign import _giInterceptorShip :: ReactIcon
 
-giInterceptorShip :: forall a b. Union a b PropsIcon => Record a -> JSX
-giInterceptorShip = element (unsafeCoerce _giInterceptorShip)
+giInterceptorShip :: Icon
+giInterceptorShip = element _giInterceptorShip
 
 foreign import _giInterdiction :: ReactIcon
 
-giInterdiction :: forall a b. Union a b PropsIcon => Record a -> JSX
-giInterdiction = element (unsafeCoerce _giInterdiction)
+giInterdiction :: Icon
+giInterdiction = element _giInterdiction
 
 foreign import _giInterlacedTentacles :: ReactIcon
 
-giInterlacedTentacles :: forall a b. Union a b PropsIcon => Record a -> JSX
-giInterlacedTentacles = element (unsafeCoerce _giInterlacedTentacles)
+giInterlacedTentacles :: Icon
+giInterlacedTentacles = element _giInterlacedTentacles
 
 foreign import _giInterleavedArrows :: ReactIcon
 
-giInterleavedArrows :: forall a b. Union a b PropsIcon => Record a -> JSX
-giInterleavedArrows = element (unsafeCoerce _giInterleavedArrows)
+giInterleavedArrows :: Icon
+giInterleavedArrows = element _giInterleavedArrows
 
 foreign import _giInterleavedClaws :: ReactIcon
 
-giInterleavedClaws :: forall a b. Union a b PropsIcon => Record a -> JSX
-giInterleavedClaws = element (unsafeCoerce _giInterleavedClaws)
+giInterleavedClaws :: Icon
+giInterleavedClaws = element _giInterleavedClaws
 
 foreign import _giInternalInjury :: ReactIcon
 
-giInternalInjury :: forall a b. Union a b PropsIcon => Record a -> JSX
-giInternalInjury = element (unsafeCoerce _giInternalInjury)
+giInternalInjury :: Icon
+giInternalInjury = element _giInternalInjury
 
 foreign import _giInternalOrgan :: ReactIcon
 
-giInternalOrgan :: forall a b. Union a b PropsIcon => Record a -> JSX
-giInternalOrgan = element (unsafeCoerce _giInternalOrgan)
+giInternalOrgan :: Icon
+giInternalOrgan = element _giInternalOrgan
 
 foreign import _giInterstellarPath :: ReactIcon
 
-giInterstellarPath :: forall a b. Union a b PropsIcon => Record a -> JSX
-giInterstellarPath = element (unsafeCoerce _giInterstellarPath)
+giInterstellarPath :: Icon
+giInterstellarPath = element _giInterstellarPath
 
 foreign import _giIntricateNecklace :: ReactIcon
 
-giIntricateNecklace :: forall a b. Union a b PropsIcon => Record a -> JSX
-giIntricateNecklace = element (unsafeCoerce _giIntricateNecklace)
+giIntricateNecklace :: Icon
+giIntricateNecklace = element _giIntricateNecklace
 
 foreign import _giInvisible :: ReactIcon
 
-giInvisible :: forall a b. Union a b PropsIcon => Record a -> JSX
-giInvisible = element (unsafeCoerce _giInvisible)
+giInvisible :: Icon
+giInvisible = element _giInvisible
 
 foreign import _giInvisibleFace :: ReactIcon
 
-giInvisibleFace :: forall a b. Union a b PropsIcon => Record a -> JSX
-giInvisibleFace = element (unsafeCoerce _giInvisibleFace)
+giInvisibleFace :: Icon
+giInvisibleFace = element _giInvisibleFace
 
 foreign import _giIonCannonBlast :: ReactIcon
 
-giIonCannonBlast :: forall a b. Union a b PropsIcon => Record a -> JSX
-giIonCannonBlast = element (unsafeCoerce _giIonCannonBlast)
+giIonCannonBlast :: Icon
+giIonCannonBlast = element _giIonCannonBlast
 
 foreign import _giIonicColumn :: ReactIcon
 
-giIonicColumn :: forall a b. Union a b PropsIcon => Record a -> JSX
-giIonicColumn = element (unsafeCoerce _giIonicColumn)
+giIonicColumn :: Icon
+giIonicColumn = element _giIonicColumn
 
 foreign import _giIraq :: ReactIcon
 
-giIraq :: forall a b. Union a b PropsIcon => Record a -> JSX
-giIraq = element (unsafeCoerce _giIraq)
+giIraq :: Icon
+giIraq = element _giIraq
 
 foreign import _giIronCross :: ReactIcon
 
-giIronCross :: forall a b. Union a b PropsIcon => Record a -> JSX
-giIronCross = element (unsafeCoerce _giIronCross)
+giIronCross :: Icon
+giIronCross = element _giIronCross
 
 foreign import _giIronHulledWarship :: ReactIcon
 
-giIronHulledWarship :: forall a b. Union a b PropsIcon => Record a -> JSX
-giIronHulledWarship = element (unsafeCoerce _giIronHulledWarship)
+giIronHulledWarship :: Icon
+giIronHulledWarship = element _giIronHulledWarship
 
 foreign import _giIronMask :: ReactIcon
 
-giIronMask :: forall a b. Union a b PropsIcon => Record a -> JSX
-giIronMask = element (unsafeCoerce _giIronMask)
+giIronMask :: Icon
+giIronMask = element _giIronMask
 
 foreign import _giIsland :: ReactIcon
 
-giIsland :: forall a b. Union a b PropsIcon => Record a -> JSX
-giIsland = element (unsafeCoerce _giIsland)
+giIsland :: Icon
+giIsland = element _giIsland
 
 foreign import _giItalia :: ReactIcon
 
-giItalia :: forall a b. Union a b PropsIcon => Record a -> JSX
-giItalia = element (unsafeCoerce _giItalia)
+giItalia :: Icon
+giItalia = element _giItalia
 
 foreign import _giIvoryTusks :: ReactIcon
 
-giIvoryTusks :: forall a b. Union a b PropsIcon => Record a -> JSX
-giIvoryTusks = element (unsafeCoerce _giIvoryTusks)
+giIvoryTusks :: Icon
+giIvoryTusks = element _giIvoryTusks
 
 foreign import _giJackPlug :: ReactIcon
 
-giJackPlug :: forall a b. Union a b PropsIcon => Record a -> JSX
-giJackPlug = element (unsafeCoerce _giJackPlug)
+giJackPlug :: Icon
+giJackPlug = element _giJackPlug
 
 foreign import _giJamesBondAperture :: ReactIcon
 
-giJamesBondAperture :: forall a b. Union a b PropsIcon => Record a -> JSX
-giJamesBondAperture = element (unsafeCoerce _giJamesBondAperture)
+giJamesBondAperture :: Icon
+giJamesBondAperture = element _giJamesBondAperture
 
 foreign import _giJapan :: ReactIcon
 
-giJapan :: forall a b. Union a b PropsIcon => Record a -> JSX
-giJapan = element (unsafeCoerce _giJapan)
+giJapan :: Icon
+giJapan = element _giJapan
 
 foreign import _giJapaneseBridge :: ReactIcon
 
-giJapaneseBridge :: forall a b. Union a b PropsIcon => Record a -> JSX
-giJapaneseBridge = element (unsafeCoerce _giJapaneseBridge)
+giJapaneseBridge :: Icon
+giJapaneseBridge = element _giJapaneseBridge
 
 foreign import _giJasmine :: ReactIcon
 
-giJasmine :: forall a b. Union a b PropsIcon => Record a -> JSX
-giJasmine = element (unsafeCoerce _giJasmine)
+giJasmine :: Icon
+giJasmine = element _giJasmine
 
 foreign import _giJasonMask :: ReactIcon
 
-giJasonMask :: forall a b. Union a b PropsIcon => Record a -> JSX
-giJasonMask = element (unsafeCoerce _giJasonMask)
+giJasonMask :: Icon
+giJasonMask = element _giJasonMask
 
 foreign import _giJawbone :: ReactIcon
 
-giJawbone :: forall a b. Union a b PropsIcon => Record a -> JSX
-giJawbone = element (unsafeCoerce _giJawbone)
+giJawbone :: Icon
+giJawbone = element _giJawbone
 
 foreign import _giJawlessCyclop :: ReactIcon
 
-giJawlessCyclop :: forall a b. Union a b PropsIcon => Record a -> JSX
-giJawlessCyclop = element (unsafeCoerce _giJawlessCyclop)
+giJawlessCyclop :: Icon
+giJawlessCyclop = element _giJawlessCyclop
 
 foreign import _giJBrick :: ReactIcon
 
-giJBrick :: forall a b. Union a b PropsIcon => Record a -> JSX
-giJBrick = element (unsafeCoerce _giJBrick)
+giJBrick :: Icon
+giJBrick = element _giJBrick
 
 foreign import _giJeep :: ReactIcon
 
-giJeep :: forall a b. Union a b PropsIcon => Record a -> JSX
-giJeep = element (unsafeCoerce _giJeep)
+giJeep :: Icon
+giJeep = element _giJeep
 
 foreign import _giJelly :: ReactIcon
 
-giJelly :: forall a b. Union a b PropsIcon => Record a -> JSX
-giJelly = element (unsafeCoerce _giJelly)
+giJelly :: Icon
+giJelly = element _giJelly
 
 foreign import _giJellyBeans :: ReactIcon
 
-giJellyBeans :: forall a b. Union a b PropsIcon => Record a -> JSX
-giJellyBeans = element (unsafeCoerce _giJellyBeans)
+giJellyBeans :: Icon
+giJellyBeans = element _giJellyBeans
 
 foreign import _giJellyfish :: ReactIcon
 
-giJellyfish :: forall a b. Union a b PropsIcon => Record a -> JSX
-giJellyfish = element (unsafeCoerce _giJellyfish)
+giJellyfish :: Icon
+giJellyfish = element _giJellyfish
 
 foreign import _giJerrycan :: ReactIcon
 
-giJerrycan :: forall a b. Union a b PropsIcon => Record a -> JSX
-giJerrycan = element (unsafeCoerce _giJerrycan)
+giJerrycan :: Icon
+giJerrycan = element _giJerrycan
 
 foreign import _giJerusalemCross :: ReactIcon
 
-giJerusalemCross :: forall a b. Union a b PropsIcon => Record a -> JSX
-giJerusalemCross = element (unsafeCoerce _giJerusalemCross)
+giJerusalemCross :: Icon
+giJerusalemCross = element _giJerusalemCross
 
 foreign import _giJesterHat :: ReactIcon
 
-giJesterHat :: forall a b. Union a b PropsIcon => Record a -> JSX
-giJesterHat = element (unsafeCoerce _giJesterHat)
+giJesterHat :: Icon
+giJesterHat = element _giJesterHat
 
 foreign import _giJetFighter :: ReactIcon
 
-giJetFighter :: forall a b. Union a b PropsIcon => Record a -> JSX
-giJetFighter = element (unsafeCoerce _giJetFighter)
+giJetFighter :: Icon
+giJetFighter = element _giJetFighter
 
 foreign import _giJetpack :: ReactIcon
 
-giJetpack :: forall a b. Union a b PropsIcon => Record a -> JSX
-giJetpack = element (unsafeCoerce _giJetpack)
+giJetpack :: Icon
+giJetpack = element _giJetpack
 
 foreign import _giJetPack :: ReactIcon
 
-giJetPack :: forall a b. Union a b PropsIcon => Record a -> JSX
-giJetPack = element (unsafeCoerce _giJetPack)
+giJetPack :: Icon
+giJetPack = element _giJetPack
 
 foreign import _giJewelCrown :: ReactIcon
 
-giJewelCrown :: forall a b. Union a b PropsIcon => Record a -> JSX
-giJewelCrown = element (unsafeCoerce _giJewelCrown)
+giJewelCrown :: Icon
+giJewelCrown = element _giJewelCrown
 
 foreign import _giJeweledChalice :: ReactIcon
 
-giJeweledChalice :: forall a b. Union a b PropsIcon => Record a -> JSX
-giJeweledChalice = element (unsafeCoerce _giJeweledChalice)
+giJeweledChalice :: Icon
+giJeweledChalice = element _giJeweledChalice
 
 foreign import _giJigsawBox :: ReactIcon
 
-giJigsawBox :: forall a b. Union a b PropsIcon => Record a -> JSX
-giJigsawBox = element (unsafeCoerce _giJigsawBox)
+giJigsawBox :: Icon
+giJigsawBox = element _giJigsawBox
 
 foreign import _giJigsawPiece :: ReactIcon
 
-giJigsawPiece :: forall a b. Union a b PropsIcon => Record a -> JSX
-giJigsawPiece = element (unsafeCoerce _giJigsawPiece)
+giJigsawPiece :: Icon
+giJigsawPiece = element _giJigsawPiece
 
 foreign import _giJoin :: ReactIcon
 
-giJoin :: forall a b. Union a b PropsIcon => Record a -> JSX
-giJoin = element (unsafeCoerce _giJoin)
+giJoin :: Icon
+giJoin = element _giJoin
 
 foreign import _giJoint :: ReactIcon
 
-giJoint :: forall a b. Union a b PropsIcon => Record a -> JSX
-giJoint = element (unsafeCoerce _giJoint)
+giJoint :: Icon
+giJoint = element _giJoint
 
 foreign import _giJourney :: ReactIcon
 
-giJourney :: forall a b. Union a b PropsIcon => Record a -> JSX
-giJourney = element (unsafeCoerce _giJourney)
+giJourney :: Icon
+giJourney = element _giJourney
 
 foreign import _giJoystick :: ReactIcon
 
-giJoystick :: forall a b. Union a b PropsIcon => Record a -> JSX
-giJoystick = element (unsafeCoerce _giJoystick)
+giJoystick :: Icon
+giJoystick = element _giJoystick
 
 foreign import _giJug :: ReactIcon
 
-giJug :: forall a b. Union a b PropsIcon => Record a -> JSX
-giJug = element (unsafeCoerce _giJug)
+giJug :: Icon
+giJug = element _giJug
 
 foreign import _giJuggler :: ReactIcon
 
-giJuggler :: forall a b. Union a b PropsIcon => Record a -> JSX
-giJuggler = element (unsafeCoerce _giJuggler)
+giJuggler :: Icon
+giJuggler = element _giJuggler
 
 foreign import _giJugglingClubs :: ReactIcon
 
-giJugglingClubs :: forall a b. Union a b PropsIcon => Record a -> JSX
-giJugglingClubs = element (unsafeCoerce _giJugglingClubs)
+giJugglingClubs :: Icon
+giJugglingClubs = element _giJugglingClubs
 
 foreign import _giJugglingSeal :: ReactIcon
 
-giJugglingSeal :: forall a b. Union a b PropsIcon => Record a -> JSX
-giJugglingSeal = element (unsafeCoerce _giJugglingSeal)
+giJugglingSeal :: Icon
+giJugglingSeal = element _giJugglingSeal
 
 foreign import _giJumpAcross :: ReactIcon
 
-giJumpAcross :: forall a b. Union a b PropsIcon => Record a -> JSX
-giJumpAcross = element (unsafeCoerce _giJumpAcross)
+giJumpAcross :: Icon
+giJumpAcross = element _giJumpAcross
 
 foreign import _giJumpingDog :: ReactIcon
 
-giJumpingDog :: forall a b. Union a b PropsIcon => Record a -> JSX
-giJumpingDog = element (unsafeCoerce _giJumpingDog)
+giJumpingDog :: Icon
+giJumpingDog = element _giJumpingDog
 
 foreign import _giJumpingRope :: ReactIcon
 
-giJumpingRope :: forall a b. Union a b PropsIcon => Record a -> JSX
-giJumpingRope = element (unsafeCoerce _giJumpingRope)
+giJumpingRope :: Icon
+giJumpingRope = element _giJumpingRope
 
 foreign import _giJungle :: ReactIcon
 
-giJungle :: forall a b. Union a b PropsIcon => Record a -> JSX
-giJungle = element (unsafeCoerce _giJungle)
+giJungle :: Icon
+giJungle = element _giJungle
 
 foreign import _giJupiter :: ReactIcon
 
-giJupiter :: forall a b. Union a b PropsIcon => Record a -> JSX
-giJupiter = element (unsafeCoerce _giJupiter)
+giJupiter :: Icon
+giJupiter = element _giJupiter
 
 foreign import _giJusticeStar :: ReactIcon
 
-giJusticeStar :: forall a b. Union a b PropsIcon => Record a -> JSX
-giJusticeStar = element (unsafeCoerce _giJusticeStar)
+giJusticeStar :: Icon
+giJusticeStar = element _giJusticeStar
 
 foreign import _giKaleidoscopePearls :: ReactIcon
 
-giKaleidoscopePearls :: forall a b. Union a b PropsIcon => Record a -> JSX
-giKaleidoscopePearls = element (unsafeCoerce _giKaleidoscopePearls)
+giKaleidoscopePearls :: Icon
+giKaleidoscopePearls = element _giKaleidoscopePearls
 
 foreign import _giKangaroo :: ReactIcon
 
-giKangaroo :: forall a b. Union a b PropsIcon => Record a -> JSX
-giKangaroo = element (unsafeCoerce _giKangaroo)
+giKangaroo :: Icon
+giKangaroo = element _giKangaroo
 
 foreign import _giKatana :: ReactIcon
 
-giKatana :: forall a b. Union a b PropsIcon => Record a -> JSX
-giKatana = element (unsafeCoerce _giKatana)
+giKatana :: Icon
+giKatana = element _giKatana
 
 foreign import _giKebabSpit :: ReactIcon
 
-giKebabSpit :: forall a b. Union a b PropsIcon => Record a -> JSX
-giKebabSpit = element (unsafeCoerce _giKebabSpit)
+giKebabSpit :: Icon
+giKebabSpit = element _giKebabSpit
 
 foreign import _giKenkuHead :: ReactIcon
 
-giKenkuHead :: forall a b. Union a b PropsIcon => Record a -> JSX
-giKenkuHead = element (unsafeCoerce _giKenkuHead)
+giKenkuHead :: Icon
+giKenkuHead = element _giKenkuHead
 
 foreign import _giKenya :: ReactIcon
 
-giKenya :: forall a b. Union a b PropsIcon => Record a -> JSX
-giKenya = element (unsafeCoerce _giKenya)
+giKenya :: Icon
+giKenya = element _giKenya
 
 foreign import _giKetchup :: ReactIcon
 
-giKetchup :: forall a b. Union a b PropsIcon => Record a -> JSX
-giKetchup = element (unsafeCoerce _giKetchup)
+giKetchup :: Icon
+giKetchup = element _giKetchup
 
 foreign import _giKevlar :: ReactIcon
 
-giKevlar :: forall a b. Union a b PropsIcon => Record a -> JSX
-giKevlar = element (unsafeCoerce _giKevlar)
+giKevlar :: Icon
+giKevlar = element _giKevlar
 
 foreign import _giKevlarVest :: ReactIcon
 
-giKevlarVest :: forall a b. Union a b PropsIcon => Record a -> JSX
-giKevlarVest = element (unsafeCoerce _giKevlarVest)
+giKevlarVest :: Icon
+giKevlarVest = element _giKevlarVest
 
 foreign import _giKey :: ReactIcon
 
-giKey :: forall a b. Union a b PropsIcon => Record a -> JSX
-giKey = element (unsafeCoerce _giKey)
+giKey :: Icon
+giKey = element _giKey
 
 foreign import _giKeyboard :: ReactIcon
 
-giKeyboard :: forall a b. Union a b PropsIcon => Record a -> JSX
-giKeyboard = element (unsafeCoerce _giKeyboard)
+giKeyboard :: Icon
+giKeyboard = element _giKeyboard
 
 foreign import _giKeyCard :: ReactIcon
 
-giKeyCard :: forall a b. Union a b PropsIcon => Record a -> JSX
-giKeyCard = element (unsafeCoerce _giKeyCard)
+giKeyCard :: Icon
+giKeyCard = element _giKeyCard
 
 foreign import _giKeyLock :: ReactIcon
 
-giKeyLock :: forall a b. Union a b PropsIcon => Record a -> JSX
-giKeyLock = element (unsafeCoerce _giKeyLock)
+giKeyLock :: Icon
+giKeyLock = element _giKeyLock
 
 foreign import _giKeyring :: ReactIcon
 
-giKeyring :: forall a b. Union a b PropsIcon => Record a -> JSX
-giKeyring = element (unsafeCoerce _giKeyring)
+giKeyring :: Icon
+giKeyring = element _giKeyring
 
 foreign import _giKickScooter :: ReactIcon
 
-giKickScooter :: forall a b. Union a b PropsIcon => Record a -> JSX
-giKickScooter = element (unsafeCoerce _giKickScooter)
+giKickScooter :: Icon
+giKickScooter = element _giKickScooter
 
 foreign import _giKidneys :: ReactIcon
 
-giKidneys :: forall a b. Union a b PropsIcon => Record a -> JSX
-giKidneys = element (unsafeCoerce _giKidneys)
+giKidneys :: Icon
+giKidneys = element _giKidneys
 
 foreign import _giKidSlide :: ReactIcon
 
-giKidSlide :: forall a b. Union a b PropsIcon => Record a -> JSX
-giKidSlide = element (unsafeCoerce _giKidSlide)
+giKidSlide :: Icon
+giKidSlide = element _giKidSlide
 
 foreign import _giKimono :: ReactIcon
 
-giKimono :: forall a b. Union a b PropsIcon => Record a -> JSX
-giKimono = element (unsafeCoerce _giKimono)
+giKimono :: Icon
+giKimono = element _giKimono
 
 foreign import _giKindle :: ReactIcon
 
-giKindle :: forall a b. Union a b PropsIcon => Record a -> JSX
-giKindle = element (unsafeCoerce _giKindle)
+giKindle :: Icon
+giKindle = element _giKindle
 
 foreign import _giKing :: ReactIcon
 
-giKing :: forall a b. Union a b PropsIcon => Record a -> JSX
-giKing = element (unsafeCoerce _giKing)
+giKing :: Icon
+giKing = element _giKing
 
 foreign import _giKingJuMask :: ReactIcon
 
-giKingJuMask :: forall a b. Union a b PropsIcon => Record a -> JSX
-giKingJuMask = element (unsafeCoerce _giKingJuMask)
+giKingJuMask :: Icon
+giKingJuMask = element _giKingJuMask
 
 foreign import _giKitchenKnives :: ReactIcon
 
-giKitchenKnives :: forall a b. Union a b PropsIcon => Record a -> JSX
-giKitchenKnives = element (unsafeCoerce _giKitchenKnives)
+giKitchenKnives :: Icon
+giKitchenKnives = element _giKitchenKnives
 
 foreign import _giKitchenScale :: ReactIcon
 
-giKitchenScale :: forall a b. Union a b PropsIcon => Record a -> JSX
-giKitchenScale = element (unsafeCoerce _giKitchenScale)
+giKitchenScale :: Icon
+giKitchenScale = element _giKitchenScale
 
 foreign import _giKitchenTap :: ReactIcon
 
-giKitchenTap :: forall a b. Union a b PropsIcon => Record a -> JSX
-giKitchenTap = element (unsafeCoerce _giKitchenTap)
+giKitchenTap :: Icon
+giKitchenTap = element _giKitchenTap
 
 foreign import _giKite :: ReactIcon
 
-giKite :: forall a b. Union a b PropsIcon => Record a -> JSX
-giKite = element (unsafeCoerce _giKite)
+giKite :: Icon
+giKite = element _giKite
 
 foreign import _giKiwiBird :: ReactIcon
 
-giKiwiBird :: forall a b. Union a b PropsIcon => Record a -> JSX
-giKiwiBird = element (unsafeCoerce _giKiwiBird)
+giKiwiBird :: Icon
+giKiwiBird = element _giKiwiBird
 
 foreign import _giKiwiFruit :: ReactIcon
 
-giKiwiFruit :: forall a b. Union a b PropsIcon => Record a -> JSX
-giKiwiFruit = element (unsafeCoerce _giKiwiFruit)
+giKiwiFruit :: Icon
+giKiwiFruit = element _giKiwiFruit
 
 foreign import _giKlingon :: ReactIcon
 
-giKlingon :: forall a b. Union a b PropsIcon => Record a -> JSX
-giKlingon = element (unsafeCoerce _giKlingon)
+giKlingon :: Icon
+giKlingon = element _giKlingon
 
 foreign import _giKnapsack :: ReactIcon
 
-giKnapsack :: forall a b. Union a b PropsIcon => Record a -> JSX
-giKnapsack = element (unsafeCoerce _giKnapsack)
+giKnapsack :: Icon
+giKnapsack = element _giKnapsack
 
 foreign import _giKneeBandage :: ReactIcon
 
-giKneeBandage :: forall a b. Union a b PropsIcon => Record a -> JSX
-giKneeBandage = element (unsafeCoerce _giKneeBandage)
+giKneeBandage :: Icon
+giKneeBandage = element _giKneeBandage
 
 foreign import _giKneeCap :: ReactIcon
 
-giKneeCap :: forall a b. Union a b PropsIcon => Record a -> JSX
-giKneeCap = element (unsafeCoerce _giKneeCap)
+giKneeCap :: Icon
+giKneeCap = element _giKneeCap
 
 foreign import _giKneeling :: ReactIcon
 
-giKneeling :: forall a b. Union a b PropsIcon => Record a -> JSX
-giKneeling = element (unsafeCoerce _giKneeling)
+giKneeling :: Icon
+giKneeling = element _giKneeling
 
 foreign import _giKneePad :: ReactIcon
 
-giKneePad :: forall a b. Union a b PropsIcon => Record a -> JSX
-giKneePad = element (unsafeCoerce _giKneePad)
+giKneePad :: Icon
+giKneePad = element _giKneePad
 
 foreign import _giKnifeFork :: ReactIcon
 
-giKnifeFork :: forall a b. Union a b PropsIcon => Record a -> JSX
-giKnifeFork = element (unsafeCoerce _giKnifeFork)
+giKnifeFork :: Icon
+giKnifeFork = element _giKnifeFork
 
 foreign import _giKnifeThrust :: ReactIcon
 
-giKnifeThrust :: forall a b. Union a b PropsIcon => Record a -> JSX
-giKnifeThrust = element (unsafeCoerce _giKnifeThrust)
+giKnifeThrust :: Icon
+giKnifeThrust = element _giKnifeThrust
 
 foreign import _giKnightBanner :: ReactIcon
 
-giKnightBanner :: forall a b. Union a b PropsIcon => Record a -> JSX
-giKnightBanner = element (unsafeCoerce _giKnightBanner)
+giKnightBanner :: Icon
+giKnightBanner = element _giKnightBanner
 
 foreign import _giKnockedOutStars :: ReactIcon
 
-giKnockedOutStars :: forall a b. Union a b PropsIcon => Record a -> JSX
-giKnockedOutStars = element (unsafeCoerce _giKnockedOutStars)
+giKnockedOutStars :: Icon
+giKnockedOutStars = element _giKnockedOutStars
 
 foreign import _giKnockout :: ReactIcon
 
-giKnockout :: forall a b. Union a b PropsIcon => Record a -> JSX
-giKnockout = element (unsafeCoerce _giKnockout)
+giKnockout :: Icon
+giKnockout = element _giKnockout
 
 foreign import _giKnot :: ReactIcon
 
-giKnot :: forall a b. Union a b PropsIcon => Record a -> JSX
-giKnot = element (unsafeCoerce _giKnot)
+giKnot :: Icon
+giKnot = element _giKnot
 
 foreign import _giKoala :: ReactIcon
 
-giKoala :: forall a b. Union a b PropsIcon => Record a -> JSX
-giKoala = element (unsafeCoerce _giKoala)
+giKoala :: Icon
+giKoala = element _giKoala
 
 foreign import _giKoholintEgg :: ReactIcon
 
-giKoholintEgg :: forall a b. Union a b PropsIcon => Record a -> JSX
-giKoholintEgg = element (unsafeCoerce _giKoholintEgg)
+giKoholintEgg :: Icon
+giKoholintEgg = element _giKoholintEgg
 
 foreign import _giKrakenTentacle :: ReactIcon
 
-giKrakenTentacle :: forall a b. Union a b PropsIcon => Record a -> JSX
-giKrakenTentacle = element (unsafeCoerce _giKrakenTentacle)
+giKrakenTentacle :: Icon
+giKrakenTentacle = element _giKrakenTentacle
 
 foreign import _giKusarigama :: ReactIcon
 
-giKusarigama :: forall a b. Union a b PropsIcon => Record a -> JSX
-giKusarigama = element (unsafeCoerce _giKusarigama)
+giKusarigama :: Icon
+giKusarigama = element _giKusarigama
 
 foreign import _giLabCoat :: ReactIcon
 
-giLabCoat :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLabCoat = element (unsafeCoerce _giLabCoat)
+giLabCoat :: Icon
+giLabCoat = element _giLabCoat
 
 foreign import _giLabradorHead :: ReactIcon
 
-giLabradorHead :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLabradorHead = element (unsafeCoerce _giLabradorHead)
+giLabradorHead :: Icon
+giLabradorHead = element _giLabradorHead
 
 foreign import _giLadder :: ReactIcon
 
-giLadder :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLadder = element (unsafeCoerce _giLadder)
+giLadder :: Icon
+giLadder = element _giLadder
 
 foreign import _giLaddersPlatform :: ReactIcon
 
-giLaddersPlatform :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLaddersPlatform = element (unsafeCoerce _giLaddersPlatform)
+giLaddersPlatform :: Icon
+giLaddersPlatform = element _giLaddersPlatform
 
 foreign import _giLadle :: ReactIcon
 
-giLadle :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLadle = element (unsafeCoerce _giLadle)
+giLadle :: Icon
+giLadle = element _giLadle
 
 foreign import _giLadybug :: ReactIcon
 
-giLadybug :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLadybug = element (unsafeCoerce _giLadybug)
+giLadybug :: Icon
+giLadybug = element _giLadybug
 
 foreign import _giLamellar :: ReactIcon
 
-giLamellar :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLamellar = element (unsafeCoerce _giLamellar)
+giLamellar :: Icon
+giLamellar = element _giLamellar
 
 foreign import _giLampreyMouth :: ReactIcon
 
-giLampreyMouth :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLampreyMouth = element (unsafeCoerce _giLampreyMouth)
+giLampreyMouth :: Icon
+giLampreyMouth = element _giLampreyMouth
 
 foreign import _giLandMine :: ReactIcon
 
-giLandMine :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLandMine = element (unsafeCoerce _giLandMine)
+giLandMine :: Icon
+giLandMine = element _giLandMine
 
 foreign import _giLantern :: ReactIcon
 
-giLantern :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLantern = element (unsafeCoerce _giLantern)
+giLantern :: Icon
+giLantern = element _giLantern
 
 foreign import _giLanternFlame :: ReactIcon
 
-giLanternFlame :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLanternFlame = element (unsafeCoerce _giLanternFlame)
+giLanternFlame :: Icon
+giLanternFlame = element _giLanternFlame
 
 foreign import _giLaptop :: ReactIcon
 
-giLaptop :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLaptop = element (unsafeCoerce _giLaptop)
+giLaptop :: Icon
+giLaptop = element _giLaptop
 
 foreign import _giLargeDress :: ReactIcon
 
-giLargeDress :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLargeDress = element (unsafeCoerce _giLargeDress)
+giLargeDress :: Icon
+giLargeDress = element _giLargeDress
 
 foreign import _giLargePaintBrush :: ReactIcon
 
-giLargePaintBrush :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLargePaintBrush = element (unsafeCoerce _giLargePaintBrush)
+giLargePaintBrush :: Icon
+giLargePaintBrush = element _giLargePaintBrush
 
 foreign import _giLargeWound :: ReactIcon
 
-giLargeWound :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLargeWound = element (unsafeCoerce _giLargeWound)
+giLargeWound :: Icon
+giLargeWound = element _giLargeWound
 
 foreign import _giLaserBlast :: ReactIcon
 
-giLaserBlast :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLaserBlast = element (unsafeCoerce _giLaserBlast)
+giLaserBlast :: Icon
+giLaserBlast = element _giLaserBlast
 
 foreign import _giLaserburn :: ReactIcon
 
-giLaserburn :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLaserburn = element (unsafeCoerce _giLaserburn)
+giLaserburn :: Icon
+giLaserburn = element _giLaserburn
 
 foreign import _giLaserBurst :: ReactIcon
 
-giLaserBurst :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLaserBurst = element (unsafeCoerce _giLaserBurst)
+giLaserBurst :: Icon
+giLaserBurst = element _giLaserBurst
 
 foreign import _giLaserGun :: ReactIcon
 
-giLaserGun :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLaserGun = element (unsafeCoerce _giLaserGun)
+giLaserGun :: Icon
+giLaserGun = element _giLaserGun
 
 foreign import _giLaserPrecision :: ReactIcon
 
-giLaserPrecision :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLaserPrecision = element (unsafeCoerce _giLaserPrecision)
+giLaserPrecision :: Icon
+giLaserPrecision = element _giLaserPrecision
 
 foreign import _giLaserSparks :: ReactIcon
 
-giLaserSparks :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLaserSparks = element (unsafeCoerce _giLaserSparks)
+giLaserSparks :: Icon
+giLaserSparks = element _giLaserSparks
 
 foreign import _giLaserTurret :: ReactIcon
 
-giLaserTurret :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLaserTurret = element (unsafeCoerce _giLaserTurret)
+giLaserTurret :: Icon
+giLaserTurret = element _giLaserTurret
 
 foreign import _giLaserWarning :: ReactIcon
 
-giLaserWarning :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLaserWarning = element (unsafeCoerce _giLaserWarning)
+giLaserWarning :: Icon
+giLaserWarning = element _giLaserWarning
 
 foreign import _giLasso :: ReactIcon
 
-giLasso :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLasso = element (unsafeCoerce _giLasso)
+giLasso :: Icon
+giLasso = element _giLasso
 
 foreign import _giLatvia :: ReactIcon
 
-giLatvia :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLatvia = element (unsafeCoerce _giLatvia)
+giLatvia :: Icon
+giLatvia = element _giLatvia
 
 foreign import _giLaurelCrown :: ReactIcon
 
-giLaurelCrown :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLaurelCrown = element (unsafeCoerce _giLaurelCrown)
+giLaurelCrown :: Icon
+giLaurelCrown = element _giLaurelCrown
 
 foreign import _giLaurels :: ReactIcon
 
-giLaurels :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLaurels = element (unsafeCoerce _giLaurels)
+giLaurels :: Icon
+giLaurels = element _giLaurels
 
 foreign import _giLaurelsTrophy :: ReactIcon
 
-giLaurelsTrophy :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLaurelsTrophy = element (unsafeCoerce _giLaurelsTrophy)
+giLaurelsTrophy :: Icon
+giLaurelsTrophy = element _giLaurelsTrophy
 
 foreign import _giLava :: ReactIcon
 
-giLava :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLava = element (unsafeCoerce _giLava)
+giLava :: Icon
+giLava = element _giLava
 
 foreign import _giLawStar :: ReactIcon
 
-giLawStar :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLawStar = element (unsafeCoerce _giLawStar)
+giLawStar :: Icon
+giLawStar = element _giLawStar
 
 foreign import _giLayeredArmor :: ReactIcon
 
-giLayeredArmor :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLayeredArmor = element (unsafeCoerce _giLayeredArmor)
+giLayeredArmor :: Icon
+giLayeredArmor = element _giLayeredArmor
 
 foreign import _giLBrick :: ReactIcon
 
-giLBrick :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLBrick = element (unsafeCoerce _giLBrick)
+giLBrick :: Icon
+giLBrick = element _giLBrick
 
 foreign import _giLeadPipe :: ReactIcon
 
-giLeadPipe :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLeadPipe = element (unsafeCoerce _giLeadPipe)
+giLeadPipe :: Icon
+giLeadPipe = element _giLeadPipe
 
 foreign import _giLeafSkeleton :: ReactIcon
 
-giLeafSkeleton :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLeafSkeleton = element (unsafeCoerce _giLeafSkeleton)
+giLeafSkeleton :: Icon
+giLeafSkeleton = element _giLeafSkeleton
 
 foreign import _giLeafSwirl :: ReactIcon
 
-giLeafSwirl :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLeafSwirl = element (unsafeCoerce _giLeafSwirl)
+giLeafSwirl :: Icon
+giLeafSwirl = element _giLeafSwirl
 
 foreign import _giLeak :: ReactIcon
 
-giLeak :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLeak = element (unsafeCoerce _giLeak)
+giLeak :: Icon
+giLeak = element _giLeak
 
 foreign import _giLeakySkull :: ReactIcon
 
-giLeakySkull :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLeakySkull = element (unsafeCoerce _giLeakySkull)
+giLeakySkull :: Icon
+giLeakySkull = element _giLeakySkull
 
 foreign import _giLeapfrog :: ReactIcon
 
-giLeapfrog :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLeapfrog = element (unsafeCoerce _giLeapfrog)
+giLeapfrog :: Icon
+giLeapfrog = element _giLeapfrog
 
 foreign import _giLeatherArmor :: ReactIcon
 
-giLeatherArmor :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLeatherArmor = element (unsafeCoerce _giLeatherArmor)
+giLeatherArmor :: Icon
+giLeatherArmor = element _giLeatherArmor
 
 foreign import _giLeatherBoot :: ReactIcon
 
-giLeatherBoot :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLeatherBoot = element (unsafeCoerce _giLeatherBoot)
+giLeatherBoot :: Icon
+giLeatherBoot = element _giLeatherBoot
 
 foreign import _giLeatherVest :: ReactIcon
 
-giLeatherVest :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLeatherVest = element (unsafeCoerce _giLeatherVest)
+giLeatherVest :: Icon
+giLeatherVest = element _giLeatherVest
 
 foreign import _giLed :: ReactIcon
 
-giLed :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLed = element (unsafeCoerce _giLed)
+giLed :: Icon
+giLed = element _giLed
 
 foreign import _giLeechingWorm :: ReactIcon
 
-giLeechingWorm :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLeechingWorm = element (unsafeCoerce _giLeechingWorm)
+giLeechingWorm :: Icon
+giLeechingWorm = element _giLeechingWorm
 
 foreign import _giLeeEnfield :: ReactIcon
 
-giLeeEnfield :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLeeEnfield = element (unsafeCoerce _giLeeEnfield)
+giLeeEnfield :: Icon
+giLeeEnfield = element _giLeeEnfield
 
 foreign import _giLeek :: ReactIcon
 
-giLeek :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLeek = element (unsafeCoerce _giLeek)
+giLeek :: Icon
+giLeek = element _giLeek
 
 foreign import _giLeg :: ReactIcon
 
-giLeg :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLeg = element (unsafeCoerce _giLeg)
+giLeg :: Icon
+giLeg = element _giLeg
 
 foreign import _giLegArmor :: ReactIcon
 
-giLegArmor :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLegArmor = element (unsafeCoerce _giLegArmor)
+giLegArmor :: Icon
+giLegArmor = element _giLegArmor
 
 foreign import _giLemon :: ReactIcon
 
-giLemon :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLemon = element (unsafeCoerce _giLemon)
+giLemon :: Icon
+giLemon = element _giLemon
 
 foreign import _giLeo :: ReactIcon
 
-giLeo :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLeo = element (unsafeCoerce _giLeo)
+giLeo :: Icon
+giLeo = element _giLeo
 
 foreign import _giLetterBomb :: ReactIcon
 
-giLetterBomb :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLetterBomb = element (unsafeCoerce _giLetterBomb)
+giLetterBomb :: Icon
+giLetterBomb = element _giLetterBomb
 
 foreign import _giLevelCrossing :: ReactIcon
 
-giLevelCrossing :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLevelCrossing = element (unsafeCoerce _giLevelCrossing)
+giLevelCrossing :: Icon
+giLevelCrossing = element _giLevelCrossing
 
 foreign import _giLevelEndFlag :: ReactIcon
 
-giLevelEndFlag :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLevelEndFlag = element (unsafeCoerce _giLevelEndFlag)
+giLevelEndFlag :: Icon
+giLevelEndFlag = element _giLevelEndFlag
 
 foreign import _giLevelFour :: ReactIcon
 
-giLevelFour :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLevelFour = element (unsafeCoerce _giLevelFour)
+giLevelFour :: Icon
+giLevelFour = element _giLevelFour
 
 foreign import _giLevelFourAdvanced :: ReactIcon
 
-giLevelFourAdvanced :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLevelFourAdvanced = element (unsafeCoerce _giLevelFourAdvanced)
+giLevelFourAdvanced :: Icon
+giLevelFourAdvanced = element _giLevelFourAdvanced
 
 foreign import _giLevelThree :: ReactIcon
 
-giLevelThree :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLevelThree = element (unsafeCoerce _giLevelThree)
+giLevelThree :: Icon
+giLevelThree = element _giLevelThree
 
 foreign import _giLevelThreeAdvanced :: ReactIcon
 
-giLevelThreeAdvanced :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLevelThreeAdvanced = element (unsafeCoerce _giLevelThreeAdvanced)
+giLevelThreeAdvanced :: Icon
+giLevelThreeAdvanced = element _giLevelThreeAdvanced
 
 foreign import _giLevelTwo :: ReactIcon
 
-giLevelTwo :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLevelTwo = element (unsafeCoerce _giLevelTwo)
+giLevelTwo :: Icon
+giLevelTwo = element _giLevelTwo
 
 foreign import _giLevelTwoAdvanced :: ReactIcon
 
-giLevelTwoAdvanced :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLevelTwoAdvanced = element (unsafeCoerce _giLevelTwoAdvanced)
+giLevelTwoAdvanced :: Icon
+giLevelTwoAdvanced = element _giLevelTwoAdvanced
 
 foreign import _giLever :: ReactIcon
 
-giLever :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLever = element (unsafeCoerce _giLever)
+giLever :: Icon
+giLever = element _giLever
 
 foreign import _giLiar :: ReactIcon
 
-giLiar :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLiar = element (unsafeCoerce _giLiar)
+giLiar :: Icon
+giLiar = element _giLiar
 
 foreign import _giLibertyWing :: ReactIcon
 
-giLibertyWing :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLibertyWing = element (unsafeCoerce _giLibertyWing)
+giLibertyWing :: Icon
+giLibertyWing = element _giLibertyWing
 
 foreign import _giLibra :: ReactIcon
 
-giLibra :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLibra = element (unsafeCoerce _giLibra)
+giLibra :: Icon
+giLibra = element _giLibra
 
 foreign import _giLibya :: ReactIcon
 
-giLibya :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLibya = element (unsafeCoerce _giLibya)
+giLibya :: Icon
+giLibya = element _giLibya
 
 foreign import _giLifeBar :: ReactIcon
 
-giLifeBar :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLifeBar = element (unsafeCoerce _giLifeBar)
+giLifeBar :: Icon
+giLifeBar = element _giLifeBar
 
 foreign import _giLifeBuoy :: ReactIcon
 
-giLifeBuoy :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLifeBuoy = element (unsafeCoerce _giLifeBuoy)
+giLifeBuoy :: Icon
+giLifeBuoy = element _giLifeBuoy
 
 foreign import _giLifeInTheBalance :: ReactIcon
 
-giLifeInTheBalance :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLifeInTheBalance = element (unsafeCoerce _giLifeInTheBalance)
+giLifeInTheBalance :: Icon
+giLifeInTheBalance = element _giLifeInTheBalance
 
 foreign import _giLifeJacket :: ReactIcon
 
-giLifeJacket :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLifeJacket = element (unsafeCoerce _giLifeJacket)
+giLifeJacket :: Icon
+giLifeJacket = element _giLifeJacket
 
 foreign import _giLifeSupport :: ReactIcon
 
-giLifeSupport :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLifeSupport = element (unsafeCoerce _giLifeSupport)
+giLifeSupport :: Icon
+giLifeSupport = element _giLifeSupport
 
 foreign import _giLifeTap :: ReactIcon
 
-giLifeTap :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLifeTap = element (unsafeCoerce _giLifeTap)
+giLifeTap :: Icon
+giLifeTap = element _giLifeTap
 
 foreign import _giLift :: ReactIcon
 
-giLift :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLift = element (unsafeCoerce _giLift)
+giLift :: Icon
+giLift = element _giLift
 
 foreign import _giLightBackpack :: ReactIcon
 
-giLightBackpack :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLightBackpack = element (unsafeCoerce _giLightBackpack)
+giLightBackpack :: Icon
+giLightBackpack = element _giLightBackpack
 
 foreign import _giLightBulb :: ReactIcon
 
-giLightBulb :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLightBulb = element (unsafeCoerce _giLightBulb)
+giLightBulb :: Icon
+giLightBulb = element _giLightBulb
 
 foreign import _giLighter :: ReactIcon
 
-giLighter :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLighter = element (unsafeCoerce _giLighter)
+giLighter :: Icon
+giLighter = element _giLighter
 
 foreign import _giLightFighter :: ReactIcon
 
-giLightFighter :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLightFighter = element (unsafeCoerce _giLightFighter)
+giLightFighter :: Icon
+giLightFighter = element _giLightFighter
 
 foreign import _giLightHelm :: ReactIcon
 
-giLightHelm :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLightHelm = element (unsafeCoerce _giLightHelm)
+giLightHelm :: Icon
+giLightHelm = element _giLightHelm
 
 foreign import _giLighthouse :: ReactIcon
 
-giLighthouse :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLighthouse = element (unsafeCoerce _giLighthouse)
+giLighthouse :: Icon
+giLighthouse = element _giLighthouse
 
 foreign import _giLightningArc :: ReactIcon
 
-giLightningArc :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLightningArc = element (unsafeCoerce _giLightningArc)
+giLightningArc :: Icon
+giLightningArc = element _giLightningArc
 
 foreign import _giLightningBow :: ReactIcon
 
-giLightningBow :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLightningBow = element (unsafeCoerce _giLightningBow)
+giLightningBow :: Icon
+giLightningBow = element _giLightningBow
 
 foreign import _giLightningBranches :: ReactIcon
 
-giLightningBranches :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLightningBranches = element (unsafeCoerce _giLightningBranches)
+giLightningBranches :: Icon
+giLightningBranches = element _giLightningBranches
 
 foreign import _giLightningDissipation :: ReactIcon
 
-giLightningDissipation :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLightningDissipation = element (unsafeCoerce _giLightningDissipation)
+giLightningDissipation :: Icon
+giLightningDissipation = element _giLightningDissipation
 
 foreign import _giLightningDome :: ReactIcon
 
-giLightningDome :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLightningDome = element (unsafeCoerce _giLightningDome)
+giLightningDome :: Icon
+giLightningDome = element _giLightningDome
 
 foreign import _giLightningElectron :: ReactIcon
 
-giLightningElectron :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLightningElectron = element (unsafeCoerce _giLightningElectron)
+giLightningElectron :: Icon
+giLightningElectron = element _giLightningElectron
 
 foreign import _giLightningFlame :: ReactIcon
 
-giLightningFlame :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLightningFlame = element (unsafeCoerce _giLightningFlame)
+giLightningFlame :: Icon
+giLightningFlame = element _giLightningFlame
 
 foreign import _giLightningFrequency :: ReactIcon
 
-giLightningFrequency :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLightningFrequency = element (unsafeCoerce _giLightningFrequency)
+giLightningFrequency :: Icon
+giLightningFrequency = element _giLightningFrequency
 
 foreign import _giLightningHelix :: ReactIcon
 
-giLightningHelix :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLightningHelix = element (unsafeCoerce _giLightningHelix)
+giLightningHelix :: Icon
+giLightningHelix = element _giLightningHelix
 
 foreign import _giLightningMask :: ReactIcon
 
-giLightningMask :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLightningMask = element (unsafeCoerce _giLightningMask)
+giLightningMask :: Icon
+giLightningMask = element _giLightningMask
 
 foreign import _giLightningSaber :: ReactIcon
 
-giLightningSaber :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLightningSaber = element (unsafeCoerce _giLightningSaber)
+giLightningSaber :: Icon
+giLightningSaber = element _giLightningSaber
 
 foreign import _giLightningShadow :: ReactIcon
 
-giLightningShadow :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLightningShadow = element (unsafeCoerce _giLightningShadow)
+giLightningShadow :: Icon
+giLightningShadow = element _giLightningShadow
 
 foreign import _giLightningShield :: ReactIcon
 
-giLightningShield :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLightningShield = element (unsafeCoerce _giLightningShield)
+giLightningShield :: Icon
+giLightningShield = element _giLightningShield
 
 foreign import _giLightningShout :: ReactIcon
 
-giLightningShout :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLightningShout = element (unsafeCoerce _giLightningShout)
+giLightningShout :: Icon
+giLightningShout = element _giLightningShout
 
 foreign import _giLightningSlashes :: ReactIcon
 
-giLightningSlashes :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLightningSlashes = element (unsafeCoerce _giLightningSlashes)
+giLightningSlashes :: Icon
+giLightningSlashes = element _giLightningSlashes
 
 foreign import _giLightningSpanner :: ReactIcon
 
-giLightningSpanner :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLightningSpanner = element (unsafeCoerce _giLightningSpanner)
+giLightningSpanner :: Icon
+giLightningSpanner = element _giLightningSpanner
 
 foreign import _giLightningStorm :: ReactIcon
 
-giLightningStorm :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLightningStorm = element (unsafeCoerce _giLightningStorm)
+giLightningStorm :: Icon
+giLightningStorm = element _giLightningStorm
 
 foreign import _giLightningTear :: ReactIcon
 
-giLightningTear :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLightningTear = element (unsafeCoerce _giLightningTear)
+giLightningTear :: Icon
+giLightningTear = element _giLightningTear
 
 foreign import _giLightningTree :: ReactIcon
 
-giLightningTree :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLightningTree = element (unsafeCoerce _giLightningTree)
+giLightningTree :: Icon
+giLightningTree = element _giLightningTree
 
 foreign import _giLightningTrio :: ReactIcon
 
-giLightningTrio :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLightningTrio = element (unsafeCoerce _giLightningTrio)
+giLightningTrio :: Icon
+giLightningTrio = element _giLightningTrio
 
 foreign import _giLightProjector :: ReactIcon
 
-giLightProjector :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLightProjector = element (unsafeCoerce _giLightProjector)
+giLightProjector :: Icon
+giLightProjector = element _giLightProjector
 
 foreign import _giLightSabers :: ReactIcon
 
-giLightSabers :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLightSabers = element (unsafeCoerce _giLightSabers)
+giLightSabers :: Icon
+giLightSabers = element _giLightSabers
 
 foreign import _giLightThornyTriskelion :: ReactIcon
 
-giLightThornyTriskelion :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLightThornyTriskelion = element (unsafeCoerce _giLightThornyTriskelion)
+giLightThornyTriskelion :: Icon
+giLightThornyTriskelion = element _giLightThornyTriskelion
 
 foreign import _giLilyPads :: ReactIcon
 
-giLilyPads :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLilyPads = element (unsafeCoerce _giLilyPads)
+giLilyPads :: Icon
+giLilyPads = element _giLilyPads
 
 foreign import _giLindenLeaf :: ReactIcon
 
-giLindenLeaf :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLindenLeaf = element (unsafeCoerce _giLindenLeaf)
+giLindenLeaf :: Icon
+giLindenLeaf = element _giLindenLeaf
 
 foreign import _giLinkedRings :: ReactIcon
 
-giLinkedRings :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLinkedRings = element (unsafeCoerce _giLinkedRings)
+giLinkedRings :: Icon
+giLinkedRings = element _giLinkedRings
 
 foreign import _giLion :: ReactIcon
 
-giLion :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLion = element (unsafeCoerce _giLion)
+giLion :: Icon
+giLion = element _giLion
 
 foreign import _giLips :: ReactIcon
 
-giLips :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLips = element (unsafeCoerce _giLips)
+giLips :: Icon
+giLips = element _giLips
 
 foreign import _giLipstick :: ReactIcon
 
-giLipstick :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLipstick = element (unsafeCoerce _giLipstick)
+giLipstick :: Icon
+giLipstick = element _giLipstick
 
 foreign import _giLiquidSoap :: ReactIcon
 
-giLiquidSoap :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLiquidSoap = element (unsafeCoerce _giLiquidSoap)
+giLiquidSoap :: Icon
+giLiquidSoap = element _giLiquidSoap
 
 foreign import _giLitCandelabra :: ReactIcon
 
-giLitCandelabra :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLitCandelabra = element (unsafeCoerce _giLitCandelabra)
+giLitCandelabra :: Icon
+giLitCandelabra = element _giLitCandelabra
 
 foreign import _giLiver :: ReactIcon
 
-giLiver :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLiver = element (unsafeCoerce _giLiver)
+giLiver :: Icon
+giLiver = element _giLiver
 
 foreign import _giLizardman :: ReactIcon
 
-giLizardman :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLizardman = element (unsafeCoerce _giLizardman)
+giLizardman :: Icon
+giLizardman = element _giLizardman
 
 foreign import _giLizardTongue :: ReactIcon
 
-giLizardTongue :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLizardTongue = element (unsafeCoerce _giLizardTongue)
+giLizardTongue :: Icon
+giLizardTongue = element _giLizardTongue
 
 foreign import _giLoad :: ReactIcon
 
-giLoad :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLoad = element (unsafeCoerce _giLoad)
+giLoad :: Icon
+giLoad = element _giLoad
 
 foreign import _giLobArrow :: ReactIcon
 
-giLobArrow :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLobArrow = element (unsafeCoerce _giLobArrow)
+giLobArrow :: Icon
+giLobArrow = element _giLobArrow
 
 foreign import _giLockedBox :: ReactIcon
 
-giLockedBox :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLockedBox = element (unsafeCoerce _giLockedBox)
+giLockedBox :: Icon
+giLockedBox = element _giLockedBox
 
 foreign import _giLockedChest :: ReactIcon
 
-giLockedChest :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLockedChest = element (unsafeCoerce _giLockedChest)
+giLockedChest :: Icon
+giLockedChest = element _giLockedChest
 
 foreign import _giLockedDoor :: ReactIcon
 
-giLockedDoor :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLockedDoor = element (unsafeCoerce _giLockedDoor)
+giLockedDoor :: Icon
+giLockedDoor = element _giLockedDoor
 
 foreign import _giLockedFortress :: ReactIcon
 
-giLockedFortress :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLockedFortress = element (unsafeCoerce _giLockedFortress)
+giLockedFortress :: Icon
+giLockedFortress = element _giLockedFortress
 
 foreign import _giLockedHeart :: ReactIcon
 
-giLockedHeart :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLockedHeart = element (unsafeCoerce _giLockedHeart)
+giLockedHeart :: Icon
+giLockedHeart = element _giLockedHeart
 
 foreign import _giLockers :: ReactIcon
 
-giLockers :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLockers = element (unsafeCoerce _giLockers)
+giLockers :: Icon
+giLockers = element _giLockers
 
 foreign import _giLockPicking :: ReactIcon
 
-giLockPicking :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLockPicking = element (unsafeCoerce _giLockPicking)
+giLockPicking :: Icon
+giLockPicking = element _giLockPicking
 
 foreign import _giLockpicks :: ReactIcon
 
-giLockpicks :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLockpicks = element (unsafeCoerce _giLockpicks)
+giLockpicks :: Icon
+giLockpicks = element _giLockpicks
 
 foreign import _giLockSpy :: ReactIcon
 
-giLockSpy :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLockSpy = element (unsafeCoerce _giLockSpy)
+giLockSpy :: Icon
+giLockSpy = element _giLockSpy
 
 foreign import _giLog :: ReactIcon
 
-giLog :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLog = element (unsafeCoerce _giLog)
+giLog :: Icon
+giLog = element _giLog
 
 foreign import _giLogging :: ReactIcon
 
-giLogging :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLogging = element (unsafeCoerce _giLogging)
+giLogging :: Icon
+giLogging = element _giLogging
 
 foreign import _giLogicGateAnd :: ReactIcon
 
-giLogicGateAnd :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLogicGateAnd = element (unsafeCoerce _giLogicGateAnd)
+giLogicGateAnd :: Icon
+giLogicGateAnd = element _giLogicGateAnd
 
 foreign import _giLogicGateNand :: ReactIcon
 
-giLogicGateNand :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLogicGateNand = element (unsafeCoerce _giLogicGateNand)
+giLogicGateNand :: Icon
+giLogicGateNand = element _giLogicGateNand
 
 foreign import _giLogicGateNor :: ReactIcon
 
-giLogicGateNor :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLogicGateNor = element (unsafeCoerce _giLogicGateNor)
+giLogicGateNor :: Icon
+giLogicGateNor = element _giLogicGateNor
 
 foreign import _giLogicGateNot :: ReactIcon
 
-giLogicGateNot :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLogicGateNot = element (unsafeCoerce _giLogicGateNot)
+giLogicGateNot :: Icon
+giLogicGateNot = element _giLogicGateNot
 
 foreign import _giLogicGateNxor :: ReactIcon
 
-giLogicGateNxor :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLogicGateNxor = element (unsafeCoerce _giLogicGateNxor)
+giLogicGateNxor :: Icon
+giLogicGateNxor = element _giLogicGateNxor
 
 foreign import _giLogicGateOr :: ReactIcon
 
-giLogicGateOr :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLogicGateOr = element (unsafeCoerce _giLogicGateOr)
+giLogicGateOr :: Icon
+giLogicGateOr = element _giLogicGateOr
 
 foreign import _giLogicGateXor :: ReactIcon
 
-giLogicGateXor :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLogicGateXor = element (unsafeCoerce _giLogicGateXor)
+giLogicGateXor :: Icon
+giLogicGateXor = element _giLogicGateXor
 
 foreign import _giLoincloth :: ReactIcon
 
-giLoincloth :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLoincloth = element (unsafeCoerce _giLoincloth)
+giLoincloth :: Icon
+giLoincloth = element _giLoincloth
 
 foreign import _giLongAntennaeBug :: ReactIcon
 
-giLongAntennaeBug :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLongAntennaeBug = element (unsafeCoerce _giLongAntennaeBug)
+giLongAntennaeBug :: Icon
+giLongAntennaeBug = element _giLongAntennaeBug
 
 foreign import _giLongLeggedSpider :: ReactIcon
 
-giLongLeggedSpider :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLongLeggedSpider = element (unsafeCoerce _giLongLeggedSpider)
+giLongLeggedSpider :: Icon
+giLongLeggedSpider = element _giLongLeggedSpider
 
 foreign import _giLookAt :: ReactIcon
 
-giLookAt :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLookAt = element (unsafeCoerce _giLookAt)
+giLookAt :: Icon
+giLookAt = element _giLookAt
 
 foreign import _giLorgnette :: ReactIcon
 
-giLorgnette :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLorgnette = element (unsafeCoerce _giLorgnette)
+giLorgnette :: Icon
+giLorgnette = element _giLorgnette
 
 foreign import _giLostLimb :: ReactIcon
 
-giLostLimb :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLostLimb = element (unsafeCoerce _giLostLimb)
+giLostLimb :: Icon
+giLostLimb = element _giLostLimb
 
 foreign import _giLotus :: ReactIcon
 
-giLotus :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLotus = element (unsafeCoerce _giLotus)
+giLotus :: Icon
+giLotus = element _giLotus
 
 foreign import _giLotusFlower :: ReactIcon
 
-giLotusFlower :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLotusFlower = element (unsafeCoerce _giLotusFlower)
+giLotusFlower :: Icon
+giLotusFlower = element _giLotusFlower
 
 foreign import _giLouvrePyramid :: ReactIcon
 
-giLouvrePyramid :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLouvrePyramid = element (unsafeCoerce _giLouvrePyramid)
+giLouvrePyramid :: Icon
+giLouvrePyramid = element _giLouvrePyramid
 
 foreign import _giLoveHowl :: ReactIcon
 
-giLoveHowl :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLoveHowl = element (unsafeCoerce _giLoveHowl)
+giLoveHowl :: Icon
+giLoveHowl = element _giLoveHowl
 
 foreign import _giLoveInjection :: ReactIcon
 
-giLoveInjection :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLoveInjection = element (unsafeCoerce _giLoveInjection)
+giLoveInjection :: Icon
+giLoveInjection = element _giLoveInjection
 
 foreign import _giLoveLetter :: ReactIcon
 
-giLoveLetter :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLoveLetter = element (unsafeCoerce _giLoveLetter)
+giLoveLetter :: Icon
+giLoveLetter = element _giLoveLetter
 
 foreign import _giLoveMystery :: ReactIcon
 
-giLoveMystery :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLoveMystery = element (unsafeCoerce _giLoveMystery)
+giLoveMystery :: Icon
+giLoveMystery = element _giLoveMystery
 
 foreign import _giLovers :: ReactIcon
 
-giLovers :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLovers = element (unsafeCoerce _giLovers)
+giLovers :: Icon
+giLovers = element _giLovers
 
 foreign import _giLoveSong :: ReactIcon
 
-giLoveSong :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLoveSong = element (unsafeCoerce _giLoveSong)
+giLoveSong :: Icon
+giLoveSong = element _giLoveSong
 
 foreign import _giLowTide :: ReactIcon
 
-giLowTide :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLowTide = element (unsafeCoerce _giLowTide)
+giLowTide :: Icon
+giLowTide = element _giLowTide
 
 foreign import _giLuchador :: ReactIcon
 
-giLuchador :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLuchador = element (unsafeCoerce _giLuchador)
+giLuchador :: Icon
+giLuchador = element _giLuchador
 
 foreign import _giLuciferCannon :: ReactIcon
 
-giLuciferCannon :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLuciferCannon = element (unsafeCoerce _giLuciferCannon)
+giLuciferCannon :: Icon
+giLuciferCannon = element _giLuciferCannon
 
 foreign import _giLuckyFisherman :: ReactIcon
 
-giLuckyFisherman :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLuckyFisherman = element (unsafeCoerce _giLuckyFisherman)
+giLuckyFisherman :: Icon
+giLuckyFisherman = element _giLuckyFisherman
 
 foreign import _giLuger :: ReactIcon
 
-giLuger :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLuger = element (unsafeCoerce _giLuger)
+giLuger :: Icon
+giLuger = element _giLuger
 
 foreign import _giLunarModule :: ReactIcon
 
-giLunarModule :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLunarModule = element (unsafeCoerce _giLunarModule)
+giLunarModule :: Icon
+giLunarModule = element _giLunarModule
 
 foreign import _giLunarWand :: ReactIcon
 
-giLunarWand :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLunarWand = element (unsafeCoerce _giLunarWand)
+giLunarWand :: Icon
+giLunarWand = element _giLunarWand
 
 foreign import _giLungs :: ReactIcon
 
-giLungs :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLungs = element (unsafeCoerce _giLungs)
+giLungs :: Icon
+giLungs = element _giLungs
 
 foreign import _giLynxHead :: ReactIcon
 
-giLynxHead :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLynxHead = element (unsafeCoerce _giLynxHead)
+giLynxHead :: Icon
+giLynxHead = element _giLynxHead
 
 foreign import _giLyre :: ReactIcon
 
-giLyre :: forall a b. Union a b PropsIcon => Record a -> JSX
-giLyre = element (unsafeCoerce _giLyre)
+giLyre :: Icon
+giLyre = element _giLyre
 
 foreign import _giMaceHead :: ReactIcon
 
-giMaceHead :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMaceHead = element (unsafeCoerce _giMaceHead)
+giMaceHead :: Icon
+giMaceHead = element _giMaceHead
 
 foreign import _giMachete :: ReactIcon
 
-giMachete :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMachete = element (unsafeCoerce _giMachete)
+giMachete :: Icon
+giMachete = element _giMachete
 
 foreign import _giMachineGun :: ReactIcon
 
-giMachineGun :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMachineGun = element (unsafeCoerce _giMachineGun)
+giMachineGun :: Icon
+giMachineGun = element _giMachineGun
 
 foreign import _giMachineGunMagazine :: ReactIcon
 
-giMachineGunMagazine :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMachineGunMagazine = element (unsafeCoerce _giMachineGunMagazine)
+giMachineGunMagazine :: Icon
+giMachineGunMagazine = element _giMachineGunMagazine
 
 foreign import _giMadScientist :: ReactIcon
 
-giMadScientist :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMadScientist = element (unsafeCoerce _giMadScientist)
+giMadScientist :: Icon
+giMadScientist = element _giMadScientist
 
 foreign import _giMaggot :: ReactIcon
 
-giMaggot :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMaggot = element (unsafeCoerce _giMaggot)
+giMaggot :: Icon
+giMaggot = element _giMaggot
 
 foreign import _giMagicAxe :: ReactIcon
 
-giMagicAxe :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMagicAxe = element (unsafeCoerce _giMagicAxe)
+giMagicAxe :: Icon
+giMagicAxe = element _giMagicAxe
 
 foreign import _giMagicBroom :: ReactIcon
 
-giMagicBroom :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMagicBroom = element (unsafeCoerce _giMagicBroom)
+giMagicBroom :: Icon
+giMagicBroom = element _giMagicBroom
 
 foreign import _giMagicGate :: ReactIcon
 
-giMagicGate :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMagicGate = element (unsafeCoerce _giMagicGate)
+giMagicGate :: Icon
+giMagicGate = element _giMagicGate
 
 foreign import _giMagicHat :: ReactIcon
 
-giMagicHat :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMagicHat = element (unsafeCoerce _giMagicHat)
+giMagicHat :: Icon
+giMagicHat = element _giMagicHat
 
 foreign import _giMagickTrick :: ReactIcon
 
-giMagickTrick :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMagickTrick = element (unsafeCoerce _giMagickTrick)
+giMagickTrick :: Icon
+giMagickTrick = element _giMagickTrick
 
 foreign import _giMagicLamp :: ReactIcon
 
-giMagicLamp :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMagicLamp = element (unsafeCoerce _giMagicLamp)
+giMagicLamp :: Icon
+giMagicLamp = element _giMagicLamp
 
 foreign import _giMagicPalm :: ReactIcon
 
-giMagicPalm :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMagicPalm = element (unsafeCoerce _giMagicPalm)
+giMagicPalm :: Icon
+giMagicPalm = element _giMagicPalm
 
 foreign import _giMagicPortal :: ReactIcon
 
-giMagicPortal :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMagicPortal = element (unsafeCoerce _giMagicPortal)
+giMagicPortal :: Icon
+giMagicPortal = element _giMagicPortal
 
 foreign import _giMagicPotion :: ReactIcon
 
-giMagicPotion :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMagicPotion = element (unsafeCoerce _giMagicPotion)
+giMagicPotion :: Icon
+giMagicPotion = element _giMagicPotion
 
 foreign import _giMagicShield :: ReactIcon
 
-giMagicShield :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMagicShield = element (unsafeCoerce _giMagicShield)
+giMagicShield :: Icon
+giMagicShield = element _giMagicShield
 
 foreign import _giMagicSwirl :: ReactIcon
 
-giMagicSwirl :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMagicSwirl = element (unsafeCoerce _giMagicSwirl)
+giMagicSwirl :: Icon
+giMagicSwirl = element _giMagicSwirl
 
 foreign import _giMagicTrident :: ReactIcon
 
-giMagicTrident :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMagicTrident = element (unsafeCoerce _giMagicTrident)
+giMagicTrident :: Icon
+giMagicTrident = element _giMagicTrident
 
 foreign import _giMagnet :: ReactIcon
 
-giMagnet :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMagnet = element (unsafeCoerce _giMagnet)
+giMagnet :: Icon
+giMagnet = element _giMagnet
 
 foreign import _giMagnetBlast :: ReactIcon
 
-giMagnetBlast :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMagnetBlast = element (unsafeCoerce _giMagnetBlast)
+giMagnetBlast :: Icon
+giMagnetBlast = element _giMagnetBlast
 
 foreign import _giMagnetMan :: ReactIcon
 
-giMagnetMan :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMagnetMan = element (unsafeCoerce _giMagnetMan)
+giMagnetMan :: Icon
+giMagnetMan = element _giMagnetMan
 
 foreign import _giMagnifyingGlass :: ReactIcon
 
-giMagnifyingGlass :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMagnifyingGlass = element (unsafeCoerce _giMagnifyingGlass)
+giMagnifyingGlass :: Icon
+giMagnifyingGlass = element _giMagnifyingGlass
 
 foreign import _giMailbox :: ReactIcon
 
-giMailbox :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMailbox = element (unsafeCoerce _giMailbox)
+giMailbox :: Icon
+giMailbox = element _giMailbox
 
 foreign import _giMailedFist :: ReactIcon
 
-giMailedFist :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMailedFist = element (unsafeCoerce _giMailedFist)
+giMailedFist :: Icon
+giMailedFist = element _giMailedFist
 
 foreign import _giMailShirt :: ReactIcon
 
-giMailShirt :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMailShirt = element (unsafeCoerce _giMailShirt)
+giMailShirt :: Icon
+giMailShirt = element _giMailShirt
 
 foreign import _giMale :: ReactIcon
 
-giMale :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMale = element (unsafeCoerce _giMale)
+giMale :: Icon
+giMale = element _giMale
 
 foreign import _giMammoth :: ReactIcon
 
-giMammoth :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMammoth = element (unsafeCoerce _giMammoth)
+giMammoth :: Icon
+giMammoth = element _giMammoth
 
 foreign import _giManacles :: ReactIcon
 
-giManacles :: forall a b. Union a b PropsIcon => Record a -> JSX
-giManacles = element (unsafeCoerce _giManacles)
+giManacles :: Icon
+giManacles = element _giManacles
 
 foreign import _giMandrillHead :: ReactIcon
 
-giMandrillHead :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMandrillHead = element (unsafeCoerce _giMandrillHead)
+giMandrillHead :: Icon
+giMandrillHead = element _giMandrillHead
 
 foreign import _giMantaRay :: ReactIcon
 
-giMantaRay :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMantaRay = element (unsafeCoerce _giMantaRay)
+giMantaRay :: Icon
+giMantaRay = element _giMantaRay
 
 foreign import _giMantrap :: ReactIcon
 
-giMantrap :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMantrap = element (unsafeCoerce _giMantrap)
+giMantrap :: Icon
+giMantrap = element _giMantrap
 
 foreign import _giManualJuicer :: ReactIcon
 
-giManualJuicer :: forall a b. Union a b PropsIcon => Record a -> JSX
-giManualJuicer = element (unsafeCoerce _giManualJuicer)
+giManualJuicer :: Icon
+giManualJuicer = element _giManualJuicer
 
 foreign import _giManualMeatGrinder :: ReactIcon
 
-giManualMeatGrinder :: forall a b. Union a b PropsIcon => Record a -> JSX
-giManualMeatGrinder = element (unsafeCoerce _giManualMeatGrinder)
+giManualMeatGrinder :: Icon
+giManualMeatGrinder = element _giManualMeatGrinder
 
 foreign import _giMapleLeaf :: ReactIcon
 
-giMapleLeaf :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMapleLeaf = element (unsafeCoerce _giMapleLeaf)
+giMapleLeaf :: Icon
+giMapleLeaf = element _giMapleLeaf
 
 foreign import _giMaracas :: ReactIcon
 
-giMaracas :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMaracas = element (unsafeCoerce _giMaracas)
+giMaracas :: Icon
+giMaracas = element _giMaracas
 
 foreign import _giMarbles :: ReactIcon
 
-giMarbles :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMarbles = element (unsafeCoerce _giMarbles)
+giMarbles :: Icon
+giMarbles = element _giMarbles
 
 foreign import _giMarbleTap :: ReactIcon
 
-giMarbleTap :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMarbleTap = element (unsafeCoerce _giMarbleTap)
+giMarbleTap :: Icon
+giMarbleTap = element _giMarbleTap
 
 foreign import _giMarrowDrain :: ReactIcon
 
-giMarrowDrain :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMarrowDrain = element (unsafeCoerce _giMarrowDrain)
+giMarrowDrain :: Icon
+giMarrowDrain = element _giMarrowDrain
 
 foreign import _giMarsCuriosity :: ReactIcon
 
-giMarsCuriosity :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMarsCuriosity = element (unsafeCoerce _giMarsCuriosity)
+giMarsCuriosity :: Icon
+giMarsCuriosity = element _giMarsCuriosity
 
 foreign import _giMarshmallows :: ReactIcon
 
-giMarshmallows :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMarshmallows = element (unsafeCoerce _giMarshmallows)
+giMarshmallows :: Icon
+giMarshmallows = element _giMarshmallows
 
 foreign import _giMarsPathfinder :: ReactIcon
 
-giMarsPathfinder :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMarsPathfinder = element (unsafeCoerce _giMarsPathfinder)
+giMarsPathfinder :: Icon
+giMarsPathfinder = element _giMarsPathfinder
 
 foreign import _giMartini :: ReactIcon
 
-giMartini :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMartini = element (unsafeCoerce _giMartini)
+giMartini :: Icon
+giMartini = element _giMartini
 
 foreign import _giMartyrMemorial :: ReactIcon
 
-giMartyrMemorial :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMartyrMemorial = element (unsafeCoerce _giMartyrMemorial)
+giMartyrMemorial :: Icon
+giMartyrMemorial = element _giMartyrMemorial
 
 foreign import _giMaskedSpider :: ReactIcon
 
-giMaskedSpider :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMaskedSpider = element (unsafeCoerce _giMaskedSpider)
+giMaskedSpider :: Icon
+giMaskedSpider = element _giMaskedSpider
 
 foreign import _giMasonJar :: ReactIcon
 
-giMasonJar :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMasonJar = element (unsafeCoerce _giMasonJar)
+giMasonJar :: Icon
+giMasonJar = element _giMasonJar
 
 foreign import _giMassDriver :: ReactIcon
 
-giMassDriver :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMassDriver = element (unsafeCoerce _giMassDriver)
+giMassDriver :: Icon
+giMassDriver = element _giMassDriver
 
 foreign import _giMasterOfArms :: ReactIcon
 
-giMasterOfArms :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMasterOfArms = element (unsafeCoerce _giMasterOfArms)
+giMasterOfArms :: Icon
+giMasterOfArms = element _giMasterOfArms
 
 foreign import _giMatchbox :: ReactIcon
 
-giMatchbox :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMatchbox = element (unsafeCoerce _giMatchbox)
+giMatchbox :: Icon
+giMatchbox = element _giMatchbox
 
 foreign import _giMatchHead :: ReactIcon
 
-giMatchHead :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMatchHead = element (unsafeCoerce _giMatchHead)
+giMatchHead :: Icon
+giMatchHead = element _giMatchHead
 
 foreign import _giMatchTip :: ReactIcon
 
-giMatchTip :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMatchTip = element (unsafeCoerce _giMatchTip)
+giMatchTip :: Icon
+giMatchTip = element _giMatchTip
 
 foreign import _giMaterialsScience :: ReactIcon
 
-giMaterialsScience :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMaterialsScience = element (unsafeCoerce _giMaterialsScience)
+giMaterialsScience :: Icon
+giMaterialsScience = element _giMaterialsScience
 
 foreign import _giMatryoshkaDolls :: ReactIcon
 
-giMatryoshkaDolls :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMatryoshkaDolls = element (unsafeCoerce _giMatryoshkaDolls)
+giMatryoshkaDolls :: Icon
+giMatryoshkaDolls = element _giMatryoshkaDolls
 
 foreign import _giMatterStates :: ReactIcon
 
-giMatterStates :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMatterStates = element (unsafeCoerce _giMatterStates)
+giMatterStates :: Icon
+giMatterStates = element _giMatterStates
 
 foreign import _giMayanPyramid :: ReactIcon
 
-giMayanPyramid :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMayanPyramid = element (unsafeCoerce _giMayanPyramid)
+giMayanPyramid :: Icon
+giMayanPyramid = element _giMayanPyramid
 
 foreign import _giMaze :: ReactIcon
 
-giMaze :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMaze = element (unsafeCoerce _giMaze)
+giMaze :: Icon
+giMaze = element _giMaze
 
 foreign import _giMazeCornea :: ReactIcon
 
-giMazeCornea :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMazeCornea = element (unsafeCoerce _giMazeCornea)
+giMazeCornea :: Icon
+giMazeCornea = element _giMazeCornea
 
 foreign import _giMazeSaw :: ReactIcon
 
-giMazeSaw :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMazeSaw = element (unsafeCoerce _giMazeSaw)
+giMazeSaw :: Icon
+giMazeSaw = element _giMazeSaw
 
 foreign import _giMeal :: ReactIcon
 
-giMeal :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMeal = element (unsafeCoerce _giMeal)
+giMeal :: Icon
+giMeal = element _giMeal
 
 foreign import _giMeat :: ReactIcon
 
-giMeat :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMeat = element (unsafeCoerce _giMeat)
+giMeat :: Icon
+giMeat = element _giMeat
 
 foreign import _giMeatCleaver :: ReactIcon
 
-giMeatCleaver :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMeatCleaver = element (unsafeCoerce _giMeatCleaver)
+giMeatCleaver :: Icon
+giMeatCleaver = element _giMeatCleaver
 
 foreign import _giMeatHook :: ReactIcon
 
-giMeatHook :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMeatHook = element (unsafeCoerce _giMeatHook)
+giMeatHook :: Icon
+giMeatHook = element _giMeatHook
 
 foreign import _giMechaHead :: ReactIcon
 
-giMechaHead :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMechaHead = element (unsafeCoerce _giMechaHead)
+giMechaHead :: Icon
+giMechaHead = element _giMechaHead
 
 foreign import _giMechaMask :: ReactIcon
 
-giMechaMask :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMechaMask = element (unsafeCoerce _giMechaMask)
+giMechaMask :: Icon
+giMechaMask = element _giMechaMask
 
 foreign import _giMechanicalArm :: ReactIcon
 
-giMechanicalArm :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMechanicalArm = element (unsafeCoerce _giMechanicalArm)
+giMechanicalArm :: Icon
+giMechanicalArm = element _giMechanicalArm
 
 foreign import _giMechanicGarage :: ReactIcon
 
-giMechanicGarage :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMechanicGarage = element (unsafeCoerce _giMechanicGarage)
+giMechanicGarage :: Icon
+giMechanicGarage = element _giMechanicGarage
 
 foreign import _giMedal :: ReactIcon
 
-giMedal :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMedal = element (unsafeCoerce _giMedal)
+giMedal :: Icon
+giMedal = element _giMedal
 
 foreign import _giMedallist :: ReactIcon
 
-giMedallist :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMedallist = element (unsafeCoerce _giMedallist)
+giMedallist :: Icon
+giMedallist = element _giMedallist
 
 foreign import _giMedalSkull :: ReactIcon
 
-giMedalSkull :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMedalSkull = element (unsafeCoerce _giMedalSkull)
+giMedalSkull :: Icon
+giMedalSkull = element _giMedalSkull
 
 foreign import _giMedicalDrip :: ReactIcon
 
-giMedicalDrip :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMedicalDrip = element (unsafeCoerce _giMedicalDrip)
+giMedicalDrip :: Icon
+giMedicalDrip = element _giMedicalDrip
 
 foreign import _giMedicalPack :: ReactIcon
 
-giMedicalPack :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMedicalPack = element (unsafeCoerce _giMedicalPack)
+giMedicalPack :: Icon
+giMedicalPack = element _giMedicalPack
 
 foreign import _giMedicalPackAlt :: ReactIcon
 
-giMedicalPackAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMedicalPackAlt = element (unsafeCoerce _giMedicalPackAlt)
+giMedicalPackAlt :: Icon
+giMedicalPackAlt = element _giMedicalPackAlt
 
 foreign import _giMedicalThermometer :: ReactIcon
 
-giMedicalThermometer :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMedicalThermometer = element (unsafeCoerce _giMedicalThermometer)
+giMedicalThermometer :: Icon
+giMedicalThermometer = element _giMedicalThermometer
 
 foreign import _giMedicinePills :: ReactIcon
 
-giMedicinePills :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMedicinePills = element (unsafeCoerce _giMedicinePills)
+giMedicinePills :: Icon
+giMedicinePills = element _giMedicinePills
 
 foreign import _giMedicines :: ReactIcon
 
-giMedicines :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMedicines = element (unsafeCoerce _giMedicines)
+giMedicines :: Icon
+giMedicines = element _giMedicines
 
 foreign import _giMedievalBarracks :: ReactIcon
 
-giMedievalBarracks :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMedievalBarracks = element (unsafeCoerce _giMedievalBarracks)
+giMedievalBarracks :: Icon
+giMedievalBarracks = element _giMedievalBarracks
 
 foreign import _giMedievalGate :: ReactIcon
 
-giMedievalGate :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMedievalGate = element (unsafeCoerce _giMedievalGate)
+giMedievalGate :: Icon
+giMedievalGate = element _giMedievalGate
 
 foreign import _giMedievalPavilion :: ReactIcon
 
-giMedievalPavilion :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMedievalPavilion = element (unsafeCoerce _giMedievalPavilion)
+giMedievalPavilion :: Icon
+giMedievalPavilion = element _giMedievalPavilion
 
 foreign import _giMeditation :: ReactIcon
 
-giMeditation :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMeditation = element (unsafeCoerce _giMeditation)
+giMeditation :: Icon
+giMeditation = element _giMeditation
 
 foreign import _giMedusaHead :: ReactIcon
 
-giMedusaHead :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMedusaHead = element (unsafeCoerce _giMedusaHead)
+giMedusaHead :: Icon
+giMedusaHead = element _giMedusaHead
 
 foreign import _giMeeple :: ReactIcon
 
-giMeeple :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMeeple = element (unsafeCoerce _giMeeple)
+giMeeple :: Icon
+giMeeple = element _giMeeple
 
 foreign import _giMeepleArmy :: ReactIcon
 
-giMeepleArmy :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMeepleArmy = element (unsafeCoerce _giMeepleArmy)
+giMeepleArmy :: Icon
+giMeepleArmy = element _giMeepleArmy
 
 foreign import _giMeepleCircle :: ReactIcon
 
-giMeepleCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMeepleCircle = element (unsafeCoerce _giMeepleCircle)
+giMeepleCircle :: Icon
+giMeepleCircle = element _giMeepleCircle
 
 foreign import _giMeepleGroup :: ReactIcon
 
-giMeepleGroup :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMeepleGroup = element (unsafeCoerce _giMeepleGroup)
+giMeepleGroup :: Icon
+giMeepleGroup = element _giMeepleGroup
 
 foreign import _giMeepleKing :: ReactIcon
 
-giMeepleKing :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMeepleKing = element (unsafeCoerce _giMeepleKing)
+giMeepleKing :: Icon
+giMeepleKing = element _giMeepleKing
 
 foreign import _giMegabot :: ReactIcon
 
-giMegabot :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMegabot = element (unsafeCoerce _giMegabot)
+giMegabot :: Icon
+giMegabot = element _giMegabot
 
 foreign import _giMegaphone :: ReactIcon
 
-giMegaphone :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMegaphone = element (unsafeCoerce _giMegaphone)
+giMegaphone :: Icon
+giMegaphone = element _giMegaphone
 
 foreign import _giMeltingIceCube :: ReactIcon
 
-giMeltingIceCube :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMeltingIceCube = element (unsafeCoerce _giMeltingIceCube)
+giMeltingIceCube :: Icon
+giMeltingIceCube = element _giMeltingIceCube
 
 foreign import _giMeltingMetal :: ReactIcon
 
-giMeltingMetal :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMeltingMetal = element (unsafeCoerce _giMeltingMetal)
+giMeltingMetal :: Icon
+giMeltingMetal = element _giMeltingMetal
 
 foreign import _giMenhir :: ReactIcon
 
-giMenhir :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMenhir = element (unsafeCoerce _giMenhir)
+giMenhir :: Icon
+giMenhir = element _giMenhir
 
 foreign import _giMermaid :: ReactIcon
 
-giMermaid :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMermaid = element (unsafeCoerce _giMermaid)
+giMermaid :: Icon
+giMermaid = element _giMermaid
 
 foreign import _giMeshBall :: ReactIcon
 
-giMeshBall :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMeshBall = element (unsafeCoerce _giMeshBall)
+giMeshBall :: Icon
+giMeshBall = element _giMeshBall
 
 foreign import _giMeshNetwork :: ReactIcon
 
-giMeshNetwork :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMeshNetwork = element (unsafeCoerce _giMeshNetwork)
+giMeshNetwork :: Icon
+giMeshNetwork = element _giMeshNetwork
 
 foreign import _giMetalBar :: ReactIcon
 
-giMetalBar :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMetalBar = element (unsafeCoerce _giMetalBar)
+giMetalBar :: Icon
+giMetalBar = element _giMetalBar
 
 foreign import _giMetalBoot :: ReactIcon
 
-giMetalBoot :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMetalBoot = element (unsafeCoerce _giMetalBoot)
+giMetalBoot :: Icon
+giMetalBoot = element _giMetalBoot
 
 foreign import _giMetalDisc :: ReactIcon
 
-giMetalDisc :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMetalDisc = element (unsafeCoerce _giMetalDisc)
+giMetalDisc :: Icon
+giMetalDisc = element _giMetalDisc
 
 foreign import _giMetalGolemHead :: ReactIcon
 
-giMetalGolemHead :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMetalGolemHead = element (unsafeCoerce _giMetalGolemHead)
+giMetalGolemHead :: Icon
+giMetalGolemHead = element _giMetalGolemHead
 
 foreign import _giMetalHand :: ReactIcon
 
-giMetalHand :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMetalHand = element (unsafeCoerce _giMetalHand)
+giMetalHand :: Icon
+giMetalHand = element _giMetalHand
 
 foreign import _giMetalPlate :: ReactIcon
 
-giMetalPlate :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMetalPlate = element (unsafeCoerce _giMetalPlate)
+giMetalPlate :: Icon
+giMetalPlate = element _giMetalPlate
 
 foreign import _giMetalScales :: ReactIcon
 
-giMetalScales :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMetalScales = element (unsafeCoerce _giMetalScales)
+giMetalScales :: Icon
+giMetalScales = element _giMetalScales
 
 foreign import _giMetalSkirt :: ReactIcon
 
-giMetalSkirt :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMetalSkirt = element (unsafeCoerce _giMetalSkirt)
+giMetalSkirt :: Icon
+giMetalSkirt = element _giMetalSkirt
 
 foreign import _giMeteorImpact :: ReactIcon
 
-giMeteorImpact :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMeteorImpact = element (unsafeCoerce _giMeteorImpact)
+giMeteorImpact :: Icon
+giMeteorImpact = element _giMeteorImpact
 
 foreign import _giMetroid :: ReactIcon
 
-giMetroid :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMetroid = element (unsafeCoerce _giMetroid)
+giMetroid :: Icon
+giMetroid = element _giMetroid
 
 foreign import _giMetronome :: ReactIcon
 
-giMetronome :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMetronome = element (unsafeCoerce _giMetronome)
+giMetronome :: Icon
+giMetronome = element _giMetronome
 
 foreign import _giMexico :: ReactIcon
 
-giMexico :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMexico = element (unsafeCoerce _giMexico)
+giMexico :: Icon
+giMexico = element _giMexico
 
 foreign import _giMicrochip :: ReactIcon
 
-giMicrochip :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMicrochip = element (unsafeCoerce _giMicrochip)
+giMicrochip :: Icon
+giMicrochip = element _giMicrochip
 
 foreign import _giMicrophone :: ReactIcon
 
-giMicrophone :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMicrophone = element (unsafeCoerce _giMicrophone)
+giMicrophone :: Icon
+giMicrophone = element _giMicrophone
 
 foreign import _giMicroscope :: ReactIcon
 
-giMicroscope :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMicroscope = element (unsafeCoerce _giMicroscope)
+giMicroscope :: Icon
+giMicroscope = element _giMicroscope
 
 foreign import _giMicroscopeLens :: ReactIcon
 
-giMicroscopeLens :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMicroscopeLens = element (unsafeCoerce _giMicroscopeLens)
+giMicroscopeLens :: Icon
+giMicroscopeLens = element _giMicroscopeLens
 
 foreign import _giMiddleArrow :: ReactIcon
 
-giMiddleArrow :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMiddleArrow = element (unsafeCoerce _giMiddleArrow)
+giMiddleArrow :: Icon
+giMiddleArrow = element _giMiddleArrow
 
 foreign import _giMidnightClaw :: ReactIcon
 
-giMidnightClaw :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMidnightClaw = element (unsafeCoerce _giMidnightClaw)
+giMidnightClaw :: Icon
+giMidnightClaw = element _giMidnightClaw
 
 foreign import _giMightyBoosh :: ReactIcon
 
-giMightyBoosh :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMightyBoosh = element (unsafeCoerce _giMightyBoosh)
+giMightyBoosh :: Icon
+giMightyBoosh = element _giMightyBoosh
 
 foreign import _giMightyForce :: ReactIcon
 
-giMightyForce :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMightyForce = element (unsafeCoerce _giMightyForce)
+giMightyForce :: Icon
+giMightyForce = element _giMightyForce
 
 foreign import _giMightyHorn :: ReactIcon
 
-giMightyHorn :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMightyHorn = element (unsafeCoerce _giMightyHorn)
+giMightyHorn :: Icon
+giMightyHorn = element _giMightyHorn
 
 foreign import _giMightySpanner :: ReactIcon
 
-giMightySpanner :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMightySpanner = element (unsafeCoerce _giMightySpanner)
+giMightySpanner :: Icon
+giMightySpanner = element _giMightySpanner
 
 foreign import _giMilitaryAmbulance :: ReactIcon
 
-giMilitaryAmbulance :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMilitaryAmbulance = element (unsafeCoerce _giMilitaryAmbulance)
+giMilitaryAmbulance :: Icon
+giMilitaryAmbulance = element _giMilitaryAmbulance
 
 foreign import _giMilitaryFort :: ReactIcon
 
-giMilitaryFort :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMilitaryFort = element (unsafeCoerce _giMilitaryFort)
+giMilitaryFort :: Icon
+giMilitaryFort = element _giMilitaryFort
 
 foreign import _giMilkCarton :: ReactIcon
 
-giMilkCarton :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMilkCarton = element (unsafeCoerce _giMilkCarton)
+giMilkCarton :: Icon
+giMilkCarton = element _giMilkCarton
 
 foreign import _giMilleniumKey :: ReactIcon
 
-giMilleniumKey :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMilleniumKey = element (unsafeCoerce _giMilleniumKey)
+giMilleniumKey :: Icon
+giMilleniumKey = element _giMilleniumKey
 
 foreign import _giMimicChest :: ReactIcon
 
-giMimicChest :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMimicChest = element (unsafeCoerce _giMimicChest)
+giMimicChest :: Icon
+giMimicChest = element _giMimicChest
 
 foreign import _giMineExplosion :: ReactIcon
 
-giMineExplosion :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMineExplosion = element (unsafeCoerce _giMineExplosion)
+giMineExplosion :: Icon
+giMineExplosion = element _giMineExplosion
 
 foreign import _giMinefield :: ReactIcon
 
-giMinefield :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMinefield = element (unsafeCoerce _giMinefield)
+giMinefield :: Icon
+giMinefield = element _giMinefield
 
 foreign import _giMiner :: ReactIcon
 
-giMiner :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMiner = element (unsafeCoerce _giMiner)
+giMiner :: Icon
+giMiner = element _giMiner
 
 foreign import _giMineralHeart :: ReactIcon
 
-giMineralHeart :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMineralHeart = element (unsafeCoerce _giMineralHeart)
+giMineralHeart :: Icon
+giMineralHeart = element _giMineralHeart
 
 foreign import _giMineralPearls :: ReactIcon
 
-giMineralPearls :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMineralPearls = element (unsafeCoerce _giMineralPearls)
+giMineralPearls :: Icon
+giMineralPearls = element _giMineralPearls
 
 foreign import _giMinerals :: ReactIcon
 
-giMinerals :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMinerals = element (unsafeCoerce _giMinerals)
+giMinerals :: Icon
+giMinerals = element _giMinerals
 
 foreign import _giMineTruck :: ReactIcon
 
-giMineTruck :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMineTruck = element (unsafeCoerce _giMineTruck)
+giMineTruck :: Icon
+giMineTruck = element _giMineTruck
 
 foreign import _giMineWagon :: ReactIcon
 
-giMineWagon :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMineWagon = element (unsafeCoerce _giMineWagon)
+giMineWagon :: Icon
+giMineWagon = element _giMineWagon
 
 foreign import _giMinigun :: ReactIcon
 
-giMinigun :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMinigun = element (unsafeCoerce _giMinigun)
+giMinigun :: Icon
+giMinigun = element _giMinigun
 
 foreign import _giMining :: ReactIcon
 
-giMining :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMining = element (unsafeCoerce _giMining)
+giMining :: Icon
+giMining = element _giMining
 
 foreign import _giMiningHelmet :: ReactIcon
 
-giMiningHelmet :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMiningHelmet = element (unsafeCoerce _giMiningHelmet)
+giMiningHelmet :: Icon
+giMiningHelmet = element _giMiningHelmet
 
 foreign import _giMinions :: ReactIcon
 
-giMinions :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMinions = element (unsafeCoerce _giMinions)
+giMinions :: Icon
+giMinions = element _giMinions
 
 foreign import _giMiniSubmarine :: ReactIcon
 
-giMiniSubmarine :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMiniSubmarine = element (unsafeCoerce _giMiniSubmarine)
+giMiniSubmarine :: Icon
+giMiniSubmarine = element _giMiniSubmarine
 
 foreign import _giMinotaur :: ReactIcon
 
-giMinotaur :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMinotaur = element (unsafeCoerce _giMinotaur)
+giMinotaur :: Icon
+giMinotaur = element _giMinotaur
 
 foreign import _giMiracleMedecine :: ReactIcon
 
-giMiracleMedecine :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMiracleMedecine = element (unsafeCoerce _giMiracleMedecine)
+giMiracleMedecine :: Icon
+giMiracleMedecine = element _giMiracleMedecine
 
 foreign import _giMirrorMirror :: ReactIcon
 
-giMirrorMirror :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMirrorMirror = element (unsafeCoerce _giMirrorMirror)
+giMirrorMirror :: Icon
+giMirrorMirror = element _giMirrorMirror
 
 foreign import _giMisdirection :: ReactIcon
 
-giMisdirection :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMisdirection = element (unsafeCoerce _giMisdirection)
+giMisdirection :: Icon
+giMisdirection = element _giMisdirection
 
 foreign import _giMissileLauncher :: ReactIcon
 
-giMissileLauncher :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMissileLauncher = element (unsafeCoerce _giMissileLauncher)
+giMissileLauncher :: Icon
+giMissileLauncher = element _giMissileLauncher
 
 foreign import _giMissileMech :: ReactIcon
 
-giMissileMech :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMissileMech = element (unsafeCoerce _giMissileMech)
+giMissileMech :: Icon
+giMissileMech = element _giMissileMech
 
 foreign import _giMissilePod :: ReactIcon
 
-giMissilePod :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMissilePod = element (unsafeCoerce _giMissilePod)
+giMissilePod :: Icon
+giMissilePod = element _giMissilePod
 
 foreign import _giMissileSwarm :: ReactIcon
 
-giMissileSwarm :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMissileSwarm = element (unsafeCoerce _giMissileSwarm)
+giMissileSwarm :: Icon
+giMissileSwarm = element _giMissileSwarm
 
 foreign import _giMite :: ReactIcon
 
-giMite :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMite = element (unsafeCoerce _giMite)
+giMite :: Icon
+giMite = element _giMite
 
 foreign import _giMiteAlt :: ReactIcon
 
-giMiteAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMiteAlt = element (unsafeCoerce _giMiteAlt)
+giMiteAlt :: Icon
+giMiteAlt = element _giMiteAlt
 
 foreign import _giMoai :: ReactIcon
 
-giMoai :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMoai = element (unsafeCoerce _giMoai)
+giMoai :: Icon
+giMoai = element _giMoai
 
 foreign import _giModernCity :: ReactIcon
 
-giModernCity :: forall a b. Union a b PropsIcon => Record a -> JSX
-giModernCity = element (unsafeCoerce _giModernCity)
+giModernCity :: Icon
+giModernCity = element _giModernCity
 
 foreign import _giMoebiusStar :: ReactIcon
 
-giMoebiusStar :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMoebiusStar = element (unsafeCoerce _giMoebiusStar)
+giMoebiusStar :: Icon
+giMoebiusStar = element _giMoebiusStar
 
 foreign import _giMoebiusTrefoil :: ReactIcon
 
-giMoebiusTrefoil :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMoebiusTrefoil = element (unsafeCoerce _giMoebiusTrefoil)
+giMoebiusTrefoil :: Icon
+giMoebiusTrefoil = element _giMoebiusTrefoil
 
 foreign import _giMoebiusTriangle :: ReactIcon
 
-giMoebiusTriangle :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMoebiusTriangle = element (unsafeCoerce _giMoebiusTriangle)
+giMoebiusTriangle :: Icon
+giMoebiusTriangle = element _giMoebiusTriangle
 
 foreign import _giMokaPot :: ReactIcon
 
-giMokaPot :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMokaPot = element (unsafeCoerce _giMokaPot)
+giMokaPot :: Icon
+giMokaPot = element _giMokaPot
 
 foreign import _giMoldova :: ReactIcon
 
-giMoldova :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMoldova = element (unsafeCoerce _giMoldova)
+giMoldova :: Icon
+giMoldova = element _giMoldova
 
 foreign import _giMolecule :: ReactIcon
 
-giMolecule :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMolecule = element (unsafeCoerce _giMolecule)
+giMolecule :: Icon
+giMolecule = element _giMolecule
 
 foreign import _giMolotov :: ReactIcon
 
-giMolotov :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMolotov = element (unsafeCoerce _giMolotov)
+giMolotov :: Icon
+giMolotov = element _giMolotov
 
 foreign import _giMonaLisa :: ReactIcon
 
-giMonaLisa :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMonaLisa = element (unsafeCoerce _giMonaLisa)
+giMonaLisa :: Icon
+giMonaLisa = element _giMonaLisa
 
 foreign import _giMonclerJacket :: ReactIcon
 
-giMonclerJacket :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMonclerJacket = element (unsafeCoerce _giMonclerJacket)
+giMonclerJacket :: Icon
+giMonclerJacket = element _giMonclerJacket
 
 foreign import _giMoneyStack :: ReactIcon
 
-giMoneyStack :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMoneyStack = element (unsafeCoerce _giMoneyStack)
+giMoneyStack :: Icon
+giMoneyStack = element _giMoneyStack
 
 foreign import _giMongolia :: ReactIcon
 
-giMongolia :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMongolia = element (unsafeCoerce _giMongolia)
+giMongolia :: Icon
+giMongolia = element _giMongolia
 
 foreign import _giMonkey :: ReactIcon
 
-giMonkey :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMonkey = element (unsafeCoerce _giMonkey)
+giMonkey :: Icon
+giMonkey = element _giMonkey
 
 foreign import _giMonkeyWrench :: ReactIcon
 
-giMonkeyWrench :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMonkeyWrench = element (unsafeCoerce _giMonkeyWrench)
+giMonkeyWrench :: Icon
+giMonkeyWrench = element _giMonkeyWrench
 
 foreign import _giMonkFace :: ReactIcon
 
-giMonkFace :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMonkFace = element (unsafeCoerce _giMonkFace)
+giMonkFace :: Icon
+giMonkFace = element _giMonkFace
 
 foreign import _giMonoWheelRobot :: ReactIcon
 
-giMonoWheelRobot :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMonoWheelRobot = element (unsafeCoerce _giMonoWheelRobot)
+giMonoWheelRobot :: Icon
+giMonoWheelRobot = element _giMonoWheelRobot
 
 foreign import _giMonsteraLeaf :: ReactIcon
 
-giMonsteraLeaf :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMonsteraLeaf = element (unsafeCoerce _giMonsteraLeaf)
+giMonsteraLeaf :: Icon
+giMonsteraLeaf = element _giMonsteraLeaf
 
 foreign import _giMonsterGrasp :: ReactIcon
 
-giMonsterGrasp :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMonsterGrasp = element (unsafeCoerce _giMonsterGrasp)
+giMonsterGrasp :: Icon
+giMonsterGrasp = element _giMonsterGrasp
 
 foreign import _giMonumentValley :: ReactIcon
 
-giMonumentValley :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMonumentValley = element (unsafeCoerce _giMonumentValley)
+giMonumentValley :: Icon
+giMonumentValley = element _giMonumentValley
 
 foreign import _giMoon :: ReactIcon
 
-giMoon :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMoon = element (unsafeCoerce _giMoon)
+giMoon :: Icon
+giMoon = element _giMoon
 
 foreign import _giMoonBats :: ReactIcon
 
-giMoonBats :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMoonBats = element (unsafeCoerce _giMoonBats)
+giMoonBats :: Icon
+giMoonBats = element _giMoonBats
 
 foreign import _giMoonClaws :: ReactIcon
 
-giMoonClaws :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMoonClaws = element (unsafeCoerce _giMoonClaws)
+giMoonClaws :: Icon
+giMoonClaws = element _giMoonClaws
 
 foreign import _giMoonOrbit :: ReactIcon
 
-giMoonOrbit :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMoonOrbit = element (unsafeCoerce _giMoonOrbit)
+giMoonOrbit :: Icon
+giMoonOrbit = element _giMoonOrbit
 
 foreign import _giMooringBollard :: ReactIcon
 
-giMooringBollard :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMooringBollard = element (unsafeCoerce _giMooringBollard)
+giMooringBollard :: Icon
+giMooringBollard = element _giMooringBollard
 
 foreign import _giMorbidHumour :: ReactIcon
 
-giMorbidHumour :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMorbidHumour = element (unsafeCoerce _giMorbidHumour)
+giMorbidHumour :: Icon
+giMorbidHumour = element _giMorbidHumour
 
 foreign import _giMorgueFeet :: ReactIcon
 
-giMorgueFeet :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMorgueFeet = element (unsafeCoerce _giMorgueFeet)
+giMorgueFeet :: Icon
+giMorgueFeet = element _giMorgueFeet
 
 foreign import _giMorphBall :: ReactIcon
 
-giMorphBall :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMorphBall = element (unsafeCoerce _giMorphBall)
+giMorphBall :: Icon
+giMorphBall = element _giMorphBall
 
 foreign import _giMortar :: ReactIcon
 
-giMortar :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMortar = element (unsafeCoerce _giMortar)
+giMortar :: Icon
+giMortar = element _giMortar
 
 foreign import _giMountainCave :: ReactIcon
 
-giMountainCave :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMountainCave = element (unsafeCoerce _giMountainCave)
+giMountainCave :: Icon
+giMountainCave = element _giMountainCave
 
 foreign import _giMountainClimbing :: ReactIcon
 
-giMountainClimbing :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMountainClimbing = element (unsafeCoerce _giMountainClimbing)
+giMountainClimbing :: Icon
+giMountainClimbing = element _giMountainClimbing
 
 foreign import _giMountainRoad :: ReactIcon
 
-giMountainRoad :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMountainRoad = element (unsafeCoerce _giMountainRoad)
+giMountainRoad :: Icon
+giMountainRoad = element _giMountainRoad
 
 foreign import _giMountains :: ReactIcon
 
-giMountains :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMountains = element (unsafeCoerce _giMountains)
+giMountains :: Icon
+giMountains = element _giMountains
 
 foreign import _giMountaintop :: ReactIcon
 
-giMountaintop :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMountaintop = element (unsafeCoerce _giMountaintop)
+giMountaintop :: Icon
+giMountaintop = element _giMountaintop
 
 foreign import _giMountedKnight :: ReactIcon
 
-giMountedKnight :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMountedKnight = element (unsafeCoerce _giMountedKnight)
+giMountedKnight :: Icon
+giMountedKnight = element _giMountedKnight
 
 foreign import _giMouse :: ReactIcon
 
-giMouse :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMouse = element (unsafeCoerce _giMouse)
+giMouse :: Icon
+giMouse = element _giMouse
 
 foreign import _giMouthWatering :: ReactIcon
 
-giMouthWatering :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMouthWatering = element (unsafeCoerce _giMouthWatering)
+giMouthWatering :: Icon
+giMouthWatering = element _giMouthWatering
 
 foreign import _giMove :: ReactIcon
 
-giMove :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMove = element (unsafeCoerce _giMove)
+giMove :: Icon
+giMove = element _giMove
 
 foreign import _giMovementSensor :: ReactIcon
 
-giMovementSensor :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMovementSensor = element (unsafeCoerce _giMovementSensor)
+giMovementSensor :: Icon
+giMovementSensor = element _giMovementSensor
 
 foreign import _giMucousPillar :: ReactIcon
 
-giMucousPillar :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMucousPillar = element (unsafeCoerce _giMucousPillar)
+giMucousPillar :: Icon
+giMucousPillar = element _giMucousPillar
 
 foreign import _giMugShot :: ReactIcon
 
-giMugShot :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMugShot = element (unsafeCoerce _giMugShot)
+giMugShot :: Icon
+giMugShot = element _giMugShot
 
 foreign import _giMultiDirections :: ReactIcon
 
-giMultiDirections :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMultiDirections = element (unsafeCoerce _giMultiDirections)
+giMultiDirections :: Icon
+giMultiDirections = element _giMultiDirections
 
 foreign import _giMultipleTargets :: ReactIcon
 
-giMultipleTargets :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMultipleTargets = element (unsafeCoerce _giMultipleTargets)
+giMultipleTargets :: Icon
+giMultipleTargets = element _giMultipleTargets
 
 foreign import _giMummyHead :: ReactIcon
 
-giMummyHead :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMummyHead = element (unsafeCoerce _giMummyHead)
+giMummyHead :: Icon
+giMummyHead = element _giMummyHead
 
 foreign import _giMuscleFat :: ReactIcon
 
-giMuscleFat :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMuscleFat = element (unsafeCoerce _giMuscleFat)
+giMuscleFat :: Icon
+giMuscleFat = element _giMuscleFat
 
 foreign import _giMuscleUp :: ReactIcon
 
-giMuscleUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMuscleUp = element (unsafeCoerce _giMuscleUp)
+giMuscleUp :: Icon
+giMuscleUp = element _giMuscleUp
 
 foreign import _giMuscularTorso :: ReactIcon
 
-giMuscularTorso :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMuscularTorso = element (unsafeCoerce _giMuscularTorso)
+giMuscularTorso :: Icon
+giMuscularTorso = element _giMuscularTorso
 
 foreign import _giMushroom :: ReactIcon
 
-giMushroom :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMushroom = element (unsafeCoerce _giMushroom)
+giMushroom :: Icon
+giMushroom = element _giMushroom
 
 foreign import _giMushroomCloud :: ReactIcon
 
-giMushroomCloud :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMushroomCloud = element (unsafeCoerce _giMushroomCloud)
+giMushroomCloud :: Icon
+giMushroomCloud = element _giMushroomCloud
 
 foreign import _giMushroomGills :: ReactIcon
 
-giMushroomGills :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMushroomGills = element (unsafeCoerce _giMushroomGills)
+giMushroomGills :: Icon
+giMushroomGills = element _giMushroomGills
 
 foreign import _giMushroomHouse :: ReactIcon
 
-giMushroomHouse :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMushroomHouse = element (unsafeCoerce _giMushroomHouse)
+giMushroomHouse :: Icon
+giMushroomHouse = element _giMushroomHouse
 
 foreign import _giMushrooms :: ReactIcon
 
-giMushrooms :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMushrooms = element (unsafeCoerce _giMushrooms)
+giMushrooms :: Icon
+giMushrooms = element _giMushrooms
 
 foreign import _giMushroomsCluster :: ReactIcon
 
-giMushroomsCluster :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMushroomsCluster = element (unsafeCoerce _giMushroomsCluster)
+giMushroomsCluster :: Icon
+giMushroomsCluster = element _giMushroomsCluster
 
 foreign import _giMusicalKeyboard :: ReactIcon
 
-giMusicalKeyboard :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMusicalKeyboard = element (unsafeCoerce _giMusicalKeyboard)
+giMusicalKeyboard :: Icon
+giMusicalKeyboard = element _giMusicalKeyboard
 
 foreign import _giMusicalNotes :: ReactIcon
 
-giMusicalNotes :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMusicalNotes = element (unsafeCoerce _giMusicalNotes)
+giMusicalNotes :: Icon
+giMusicalNotes = element _giMusicalNotes
 
 foreign import _giMusicalScore :: ReactIcon
 
-giMusicalScore :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMusicalScore = element (unsafeCoerce _giMusicalScore)
+giMusicalScore :: Icon
+giMusicalScore = element _giMusicalScore
 
 foreign import _giMusicSpell :: ReactIcon
 
-giMusicSpell :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMusicSpell = element (unsafeCoerce _giMusicSpell)
+giMusicSpell :: Icon
+giMusicSpell = element _giMusicSpell
 
 foreign import _giMusket :: ReactIcon
 
-giMusket :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMusket = element (unsafeCoerce _giMusket)
+giMusket :: Icon
+giMusket = element _giMusket
 
 foreign import _giMussel :: ReactIcon
 
-giMussel :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMussel = element (unsafeCoerce _giMussel)
+giMussel :: Icon
+giMussel = element _giMussel
 
 foreign import _giMustache :: ReactIcon
 
-giMustache :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMustache = element (unsafeCoerce _giMustache)
+giMustache :: Icon
+giMustache = element _giMustache
 
 foreign import _giMute :: ReactIcon
 
-giMute :: forall a b. Union a b PropsIcon => Record a -> JSX
-giMute = element (unsafeCoerce _giMute)
+giMute :: Icon
+giMute = element _giMute
 
 foreign import _giNachos :: ReactIcon
 
-giNachos :: forall a b. Union a b PropsIcon => Record a -> JSX
-giNachos = element (unsafeCoerce _giNachos)
+giNachos :: Icon
+giNachos = element _giNachos
 
 foreign import _giNailedFoot :: ReactIcon
 
-giNailedFoot :: forall a b. Union a b PropsIcon => Record a -> JSX
-giNailedFoot = element (unsafeCoerce _giNailedFoot)
+giNailedFoot :: Icon
+giNailedFoot = element _giNailedFoot
 
 foreign import _giNailedHead :: ReactIcon
 
-giNailedHead :: forall a b. Union a b PropsIcon => Record a -> JSX
-giNailedHead = element (unsafeCoerce _giNailedHead)
+giNailedHead :: Icon
+giNailedHead = element _giNailedHead
 
 foreign import _giNails :: ReactIcon
 
-giNails :: forall a b. Union a b PropsIcon => Record a -> JSX
-giNails = element (unsafeCoerce _giNails)
+giNails :: Icon
+giNails = element _giNails
 
 foreign import _giNanoBot :: ReactIcon
 
-giNanoBot :: forall a b. Union a b PropsIcon => Record a -> JSX
-giNanoBot = element (unsafeCoerce _giNanoBot)
+giNanoBot :: Icon
+giNanoBot = element _giNanoBot
 
 foreign import _giNautilusShell :: ReactIcon
 
-giNautilusShell :: forall a b. Union a b PropsIcon => Record a -> JSX
-giNautilusShell = element (unsafeCoerce _giNautilusShell)
+giNautilusShell :: Icon
+giNautilusShell = element _giNautilusShell
 
 foreign import _giNeckBite :: ReactIcon
 
-giNeckBite :: forall a b. Union a b PropsIcon => Record a -> JSX
-giNeckBite = element (unsafeCoerce _giNeckBite)
+giNeckBite :: Icon
+giNeckBite = element _giNeckBite
 
 foreign import _giNecklace :: ReactIcon
 
-giNecklace :: forall a b. Union a b PropsIcon => Record a -> JSX
-giNecklace = element (unsafeCoerce _giNecklace)
+giNecklace :: Icon
+giNecklace = element _giNecklace
 
 foreign import _giNecklaceDisplay :: ReactIcon
 
-giNecklaceDisplay :: forall a b. Union a b PropsIcon => Record a -> JSX
-giNecklaceDisplay = element (unsafeCoerce _giNecklaceDisplay)
+giNecklaceDisplay :: Icon
+giNecklaceDisplay = element _giNecklaceDisplay
 
 foreign import _giNeedleDrill :: ReactIcon
 
-giNeedleDrill :: forall a b. Union a b PropsIcon => Record a -> JSX
-giNeedleDrill = element (unsafeCoerce _giNeedleDrill)
+giNeedleDrill :: Icon
+giNeedleDrill = element _giNeedleDrill
 
 foreign import _giNeedleJaws :: ReactIcon
 
-giNeedleJaws :: forall a b. Union a b PropsIcon => Record a -> JSX
-giNeedleJaws = element (unsafeCoerce _giNeedleJaws)
+giNeedleJaws :: Icon
+giNeedleJaws = element _giNeedleJaws
 
 foreign import _giNefertiti :: ReactIcon
 
-giNefertiti :: forall a b. Union a b PropsIcon => Record a -> JSX
-giNefertiti = element (unsafeCoerce _giNefertiti)
+giNefertiti :: Icon
+giNefertiti = element _giNefertiti
 
 foreign import _giNestBirds :: ReactIcon
 
-giNestBirds :: forall a b. Union a b PropsIcon => Record a -> JSX
-giNestBirds = element (unsafeCoerce _giNestBirds)
+giNestBirds :: Icon
+giNestBirds = element _giNestBirds
 
 foreign import _giNestedEclipses :: ReactIcon
 
-giNestedEclipses :: forall a b. Union a b PropsIcon => Record a -> JSX
-giNestedEclipses = element (unsafeCoerce _giNestedEclipses)
+giNestedEclipses :: Icon
+giNestedEclipses = element _giNestedEclipses
 
 foreign import _giNestedHearts :: ReactIcon
 
-giNestedHearts :: forall a b. Union a b PropsIcon => Record a -> JSX
-giNestedHearts = element (unsafeCoerce _giNestedHearts)
+giNestedHearts :: Icon
+giNestedHearts = element _giNestedHearts
 
 foreign import _giNestedHexagons :: ReactIcon
 
-giNestedHexagons :: forall a b. Union a b PropsIcon => Record a -> JSX
-giNestedHexagons = element (unsafeCoerce _giNestedHexagons)
+giNestedHexagons :: Icon
+giNestedHexagons = element _giNestedHexagons
 
 foreign import _giNestEggs :: ReactIcon
 
-giNestEggs :: forall a b. Union a b PropsIcon => Record a -> JSX
-giNestEggs = element (unsafeCoerce _giNestEggs)
+giNestEggs :: Icon
+giNestEggs = element _giNestEggs
 
 foreign import _giNetworkBars :: ReactIcon
 
-giNetworkBars :: forall a b. Union a b PropsIcon => Record a -> JSX
-giNetworkBars = element (unsafeCoerce _giNetworkBars)
+giNetworkBars :: Icon
+giNetworkBars = element _giNetworkBars
 
 foreign import _giNewBorn :: ReactIcon
 
-giNewBorn :: forall a b. Union a b PropsIcon => Record a -> JSX
-giNewBorn = element (unsafeCoerce _giNewBorn)
+giNewBorn :: Icon
+giNewBorn = element _giNewBorn
 
 foreign import _giNewShoot :: ReactIcon
 
-giNewShoot :: forall a b. Union a b PropsIcon => Record a -> JSX
-giNewShoot = element (unsafeCoerce _giNewShoot)
+giNewShoot :: Icon
+giNewShoot = element _giNewShoot
 
 foreign import _giNewspaper :: ReactIcon
 
-giNewspaper :: forall a b. Union a b PropsIcon => Record a -> JSX
-giNewspaper = element (unsafeCoerce _giNewspaper)
+giNewspaper :: Icon
+giNewspaper = element _giNewspaper
 
 foreign import _giNextButton :: ReactIcon
 
-giNextButton :: forall a b. Union a b PropsIcon => Record a -> JSX
-giNextButton = element (unsafeCoerce _giNextButton)
+giNextButton :: Icon
+giNextButton = element _giNextButton
 
 foreign import _giNigeria :: ReactIcon
 
-giNigeria :: forall a b. Union a b PropsIcon => Record a -> JSX
-giNigeria = element (unsafeCoerce _giNigeria)
+giNigeria :: Icon
+giNigeria = element _giNigeria
 
 foreign import _giNightSky :: ReactIcon
 
-giNightSky :: forall a b. Union a b PropsIcon => Record a -> JSX
-giNightSky = element (unsafeCoerce _giNightSky)
+giNightSky :: Icon
+giNightSky = element _giNightSky
 
 foreign import _giNightSleep :: ReactIcon
 
-giNightSleep :: forall a b. Union a b PropsIcon => Record a -> JSX
-giNightSleep = element (unsafeCoerce _giNightSleep)
+giNightSleep :: Icon
+giNightSleep = element _giNightSleep
 
 foreign import _giNightVision :: ReactIcon
 
-giNightVision :: forall a b. Union a b PropsIcon => Record a -> JSX
-giNightVision = element (unsafeCoerce _giNightVision)
+giNightVision :: Icon
+giNightVision = element _giNightVision
 
 foreign import _giNinjaArmor :: ReactIcon
 
-giNinjaArmor :: forall a b. Union a b PropsIcon => Record a -> JSX
-giNinjaArmor = element (unsafeCoerce _giNinjaArmor)
+giNinjaArmor :: Icon
+giNinjaArmor = element _giNinjaArmor
 
 foreign import _giNinjaHead :: ReactIcon
 
-giNinjaHead :: forall a b. Union a b PropsIcon => Record a -> JSX
-giNinjaHead = element (unsafeCoerce _giNinjaHead)
+giNinjaHead :: Icon
+giNinjaHead = element _giNinjaHead
 
 foreign import _giNinjaHeroicStance :: ReactIcon
 
-giNinjaHeroicStance :: forall a b. Union a b PropsIcon => Record a -> JSX
-giNinjaHeroicStance = element (unsafeCoerce _giNinjaHeroicStance)
+giNinjaHeroicStance :: Icon
+giNinjaHeroicStance = element _giNinjaHeroicStance
 
 foreign import _giNinjaMask :: ReactIcon
 
-giNinjaMask :: forall a b. Union a b PropsIcon => Record a -> JSX
-giNinjaMask = element (unsafeCoerce _giNinjaMask)
+giNinjaMask :: Icon
+giNinjaMask = element _giNinjaMask
 
 foreign import _giNinjaStar :: ReactIcon
 
-giNinjaStar :: forall a b. Union a b PropsIcon => Record a -> JSX
-giNinjaStar = element (unsafeCoerce _giNinjaStar)
+giNinjaStar :: Icon
+giNinjaStar = element _giNinjaStar
 
 foreign import _giNinjaVelociraptor :: ReactIcon
 
-giNinjaVelociraptor :: forall a b. Union a b PropsIcon => Record a -> JSX
-giNinjaVelociraptor = element (unsafeCoerce _giNinjaVelociraptor)
+giNinjaVelociraptor :: Icon
+giNinjaVelociraptor = element _giNinjaVelociraptor
 
 foreign import _giNodular :: ReactIcon
 
-giNodular :: forall a b. Union a b PropsIcon => Record a -> JSX
-giNodular = element (unsafeCoerce _giNodular)
+giNodular :: Icon
+giNodular = element _giNodular
 
 foreign import _giNoodleBall :: ReactIcon
 
-giNoodleBall :: forall a b. Union a b PropsIcon => Record a -> JSX
-giNoodleBall = element (unsafeCoerce _giNoodleBall)
+giNoodleBall :: Icon
+giNoodleBall = element _giNoodleBall
 
 foreign import _giNoodles :: ReactIcon
 
-giNoodles :: forall a b. Union a b PropsIcon => Record a -> JSX
-giNoodles = element (unsafeCoerce _giNoodles)
+giNoodles :: Icon
+giNoodles = element _giNoodles
 
 foreign import _giNorthStarShuriken :: ReactIcon
 
-giNorthStarShuriken :: forall a b. Union a b PropsIcon => Record a -> JSX
-giNorthStarShuriken = element (unsafeCoerce _giNorthStarShuriken)
+giNorthStarShuriken :: Icon
+giNorthStarShuriken = element _giNorthStarShuriken
 
 foreign import _giNoseFront :: ReactIcon
 
-giNoseFront :: forall a b. Union a b PropsIcon => Record a -> JSX
-giNoseFront = element (unsafeCoerce _giNoseFront)
+giNoseFront :: Icon
+giNoseFront = element _giNoseFront
 
 foreign import _giNoseSide :: ReactIcon
 
-giNoseSide :: forall a b. Union a b PropsIcon => Record a -> JSX
-giNoseSide = element (unsafeCoerce _giNoseSide)
+giNoseSide :: Icon
+giNoseSide = element _giNoseSide
 
 foreign import _giNotebook :: ReactIcon
 
-giNotebook :: forall a b. Union a b PropsIcon => Record a -> JSX
-giNotebook = element (unsafeCoerce _giNotebook)
+giNotebook :: Icon
+giNotebook = element _giNotebook
 
 foreign import _giNothingToSay :: ReactIcon
 
-giNothingToSay :: forall a b. Union a b PropsIcon => Record a -> JSX
-giNothingToSay = element (unsafeCoerce _giNothingToSay)
+giNothingToSay :: Icon
+giNothingToSay = element _giNothingToSay
 
 foreign import _giNuclear :: ReactIcon
 
-giNuclear :: forall a b. Union a b PropsIcon => Record a -> JSX
-giNuclear = element (unsafeCoerce _giNuclear)
+giNuclear :: Icon
+giNuclear = element _giNuclear
 
 foreign import _giNuclearBomb :: ReactIcon
 
-giNuclearBomb :: forall a b. Union a b PropsIcon => Record a -> JSX
-giNuclearBomb = element (unsafeCoerce _giNuclearBomb)
+giNuclearBomb :: Icon
+giNuclearBomb = element _giNuclearBomb
 
 foreign import _giNuclearPlant :: ReactIcon
 
-giNuclearPlant :: forall a b. Union a b PropsIcon => Record a -> JSX
-giNuclearPlant = element (unsafeCoerce _giNuclearPlant)
+giNuclearPlant :: Icon
+giNuclearPlant = element _giNuclearPlant
 
 foreign import _giNuclearWaste :: ReactIcon
 
-giNuclearWaste :: forall a b. Union a b PropsIcon => Record a -> JSX
-giNuclearWaste = element (unsafeCoerce _giNuclearWaste)
+giNuclearWaste :: Icon
+giNuclearWaste = element _giNuclearWaste
 
 foreign import _giNunchaku :: ReactIcon
 
-giNunchaku :: forall a b. Union a b PropsIcon => Record a -> JSX
-giNunchaku = element (unsafeCoerce _giNunchaku)
+giNunchaku :: Icon
+giNunchaku = element _giNunchaku
 
 foreign import _giNunFace :: ReactIcon
 
-giNunFace :: forall a b. Union a b PropsIcon => Record a -> JSX
-giNunFace = element (unsafeCoerce _giNunFace)
+giNunFace :: Icon
+giNunFace = element _giNunFace
 
 foreign import _giNurseFemale :: ReactIcon
 
-giNurseFemale :: forall a b. Union a b PropsIcon => Record a -> JSX
-giNurseFemale = element (unsafeCoerce _giNurseFemale)
+giNurseFemale :: Icon
+giNurseFemale = element _giNurseFemale
 
 foreign import _giNurseMale :: ReactIcon
 
-giNurseMale :: forall a b. Union a b PropsIcon => Record a -> JSX
-giNurseMale = element (unsafeCoerce _giNurseMale)
+giNurseMale :: Icon
+giNurseMale = element _giNurseMale
 
 foreign import _giOak :: ReactIcon
 
-giOak :: forall a b. Union a b PropsIcon => Record a -> JSX
-giOak = element (unsafeCoerce _giOak)
+giOak :: Icon
+giOak = element _giOak
 
 foreign import _giOakLeaf :: ReactIcon
 
-giOakLeaf :: forall a b. Union a b PropsIcon => Record a -> JSX
-giOakLeaf = element (unsafeCoerce _giOakLeaf)
+giOakLeaf :: Icon
+giOakLeaf = element _giOakLeaf
 
 foreign import _giOasis :: ReactIcon
 
-giOasis :: forall a b. Union a b PropsIcon => Record a -> JSX
-giOasis = element (unsafeCoerce _giOasis)
+giOasis :: Icon
+giOasis = element _giOasis
 
 foreign import _giOat :: ReactIcon
 
-giOat :: forall a b. Union a b PropsIcon => Record a -> JSX
-giOat = element (unsafeCoerce _giOat)
+giOat :: Icon
+giOat = element _giOat
 
 foreign import _giObelisk :: ReactIcon
 
-giObelisk :: forall a b. Union a b PropsIcon => Record a -> JSX
-giObelisk = element (unsafeCoerce _giObelisk)
+giObelisk :: Icon
+giObelisk = element _giObelisk
 
 foreign import _giOBrick :: ReactIcon
 
-giOBrick :: forall a b. Union a b PropsIcon => Record a -> JSX
-giOBrick = element (unsafeCoerce _giOBrick)
+giOBrick :: Icon
+giOBrick = element _giOBrick
 
 foreign import _giObservatory :: ReactIcon
 
-giObservatory :: forall a b. Union a b PropsIcon => Record a -> JSX
-giObservatory = element (unsafeCoerce _giObservatory)
+giObservatory :: Icon
+giObservatory = element _giObservatory
 
 foreign import _giOcarina :: ReactIcon
 
-giOcarina :: forall a b. Union a b PropsIcon => Record a -> JSX
-giOcarina = element (unsafeCoerce _giOcarina)
+giOcarina :: Icon
+giOcarina = element _giOcarina
 
 foreign import _giOccupy :: ReactIcon
 
-giOccupy :: forall a b. Union a b PropsIcon => Record a -> JSX
-giOccupy = element (unsafeCoerce _giOccupy)
+giOccupy :: Icon
+giOccupy = element _giOccupy
 
 foreign import _giOctogonalEye :: ReactIcon
 
-giOctogonalEye :: forall a b. Union a b PropsIcon => Record a -> JSX
-giOctogonalEye = element (unsafeCoerce _giOctogonalEye)
+giOctogonalEye :: Icon
+giOctogonalEye = element _giOctogonalEye
 
 foreign import _giOctoman :: ReactIcon
 
-giOctoman :: forall a b. Union a b PropsIcon => Record a -> JSX
-giOctoman = element (unsafeCoerce _giOctoman)
+giOctoman :: Icon
+giOctoman = element _giOctoman
 
 foreign import _giOctopus :: ReactIcon
 
-giOctopus :: forall a b. Union a b PropsIcon => Record a -> JSX
-giOctopus = element (unsafeCoerce _giOctopus)
+giOctopus :: Icon
+giOctopus = element _giOctopus
 
 foreign import _giOden :: ReactIcon
 
-giOden :: forall a b. Union a b PropsIcon => Record a -> JSX
-giOden = element (unsafeCoerce _giOden)
+giOden :: Icon
+giOden = element _giOden
 
 foreign import _giOfficeChair :: ReactIcon
 
-giOfficeChair :: forall a b. Union a b PropsIcon => Record a -> JSX
-giOfficeChair = element (unsafeCoerce _giOfficeChair)
+giOfficeChair :: Icon
+giOfficeChair = element _giOfficeChair
 
 foreign import _giOffshorePlatform :: ReactIcon
 
-giOffshorePlatform :: forall a b. Union a b PropsIcon => Record a -> JSX
-giOffshorePlatform = element (unsafeCoerce _giOffshorePlatform)
+giOffshorePlatform :: Icon
+giOffshorePlatform = element _giOffshorePlatform
 
 foreign import _giOgre :: ReactIcon
 
-giOgre :: forall a b. Union a b PropsIcon => Record a -> JSX
-giOgre = element (unsafeCoerce _giOgre)
+giOgre :: Icon
+giOgre = element _giOgre
 
 foreign import _giOilDrum :: ReactIcon
 
-giOilDrum :: forall a b. Union a b PropsIcon => Record a -> JSX
-giOilDrum = element (unsafeCoerce _giOilDrum)
+giOilDrum :: Icon
+giOilDrum = element _giOilDrum
 
 foreign import _giOilPump :: ReactIcon
 
-giOilPump :: forall a b. Union a b PropsIcon => Record a -> JSX
-giOilPump = element (unsafeCoerce _giOilPump)
+giOilPump :: Icon
+giOilPump = element _giOilPump
 
 foreign import _giOilRig :: ReactIcon
 
-giOilRig :: forall a b. Union a b PropsIcon => Record a -> JSX
-giOilRig = element (unsafeCoerce _giOilRig)
+giOilRig :: Icon
+giOilRig = element _giOilRig
 
 foreign import _giOilySpiral :: ReactIcon
 
-giOilySpiral :: forall a b. Union a b PropsIcon => Record a -> JSX
-giOilySpiral = element (unsafeCoerce _giOilySpiral)
+giOilySpiral :: Icon
+giOilySpiral = element _giOilySpiral
 
 foreign import _giOldKing :: ReactIcon
 
-giOldKing :: forall a b. Union a b PropsIcon => Record a -> JSX
-giOldKing = element (unsafeCoerce _giOldKing)
+giOldKing :: Icon
+giOldKing = element _giOldKing
 
 foreign import _giOldLantern :: ReactIcon
 
-giOldLantern :: forall a b. Union a b PropsIcon => Record a -> JSX
-giOldLantern = element (unsafeCoerce _giOldLantern)
+giOldLantern :: Icon
+giOldLantern = element _giOldLantern
 
 foreign import _giOldMicrophone :: ReactIcon
 
-giOldMicrophone :: forall a b. Union a b PropsIcon => Record a -> JSX
-giOldMicrophone = element (unsafeCoerce _giOldMicrophone)
+giOldMicrophone :: Icon
+giOldMicrophone = element _giOldMicrophone
 
 foreign import _giOldWagon :: ReactIcon
 
-giOldWagon :: forall a b. Union a b PropsIcon => Record a -> JSX
-giOldWagon = element (unsafeCoerce _giOldWagon)
+giOldWagon :: Icon
+giOldWagon = element _giOldWagon
 
 foreign import _giOlive :: ReactIcon
 
-giOlive :: forall a b. Union a b PropsIcon => Record a -> JSX
-giOlive = element (unsafeCoerce _giOlive)
+giOlive :: Icon
+giOlive = element _giOlive
 
 foreign import _giOmega :: ReactIcon
 
-giOmega :: forall a b. Union a b PropsIcon => Record a -> JSX
-giOmega = element (unsafeCoerce _giOmega)
+giOmega :: Icon
+giOmega = element _giOmega
 
 foreign import _giOneEyed :: ReactIcon
 
-giOneEyed :: forall a b. Union a b PropsIcon => Record a -> JSX
-giOneEyed = element (unsafeCoerce _giOneEyed)
+giOneEyed :: Icon
+giOneEyed = element _giOneEyed
 
 foreign import _giOni :: ReactIcon
 
-giOni :: forall a b. Union a b PropsIcon => Record a -> JSX
-giOni = element (unsafeCoerce _giOni)
+giOni :: Icon
+giOni = element _giOni
 
 foreign import _giOnigori :: ReactIcon
 
-giOnigori :: forall a b. Union a b PropsIcon => Record a -> JSX
-giOnigori = element (unsafeCoerce _giOnigori)
+giOnigori :: Icon
+giOnigori = element _giOnigori
 
 foreign import _giOnSight :: ReactIcon
 
-giOnSight :: forall a b. Union a b PropsIcon => Record a -> JSX
-giOnSight = element (unsafeCoerce _giOnSight)
+giOnSight :: Icon
+giOnSight = element _giOnSight
 
 foreign import _giOnTarget :: ReactIcon
 
-giOnTarget :: forall a b. Union a b PropsIcon => Record a -> JSX
-giOnTarget = element (unsafeCoerce _giOnTarget)
+giOnTarget :: Icon
+giOnTarget = element _giOnTarget
 
 foreign import _giOpenBook :: ReactIcon
 
-giOpenBook :: forall a b. Union a b PropsIcon => Record a -> JSX
-giOpenBook = element (unsafeCoerce _giOpenBook)
+giOpenBook :: Icon
+giOpenBook = element _giOpenBook
 
 foreign import _giOpenChest :: ReactIcon
 
-giOpenChest :: forall a b. Union a b PropsIcon => Record a -> JSX
-giOpenChest = element (unsafeCoerce _giOpenChest)
+giOpenChest :: Icon
+giOpenChest = element _giOpenChest
 
 foreign import _giOpenedFoodCan :: ReactIcon
 
-giOpenedFoodCan :: forall a b. Union a b PropsIcon => Record a -> JSX
-giOpenedFoodCan = element (unsafeCoerce _giOpenedFoodCan)
+giOpenedFoodCan :: Icon
+giOpenedFoodCan = element _giOpenedFoodCan
 
 foreign import _giOpenFolder :: ReactIcon
 
-giOpenFolder :: forall a b. Union a b PropsIcon => Record a -> JSX
-giOpenFolder = element (unsafeCoerce _giOpenFolder)
+giOpenFolder :: Icon
+giOpenFolder = element _giOpenFolder
 
 foreign import _giOpenGate :: ReactIcon
 
-giOpenGate :: forall a b. Union a b PropsIcon => Record a -> JSX
-giOpenGate = element (unsafeCoerce _giOpenGate)
+giOpenGate :: Icon
+giOpenGate = element _giOpenGate
 
 foreign import _giOpeningShell :: ReactIcon
 
-giOpeningShell :: forall a b. Union a b PropsIcon => Record a -> JSX
-giOpeningShell = element (unsafeCoerce _giOpeningShell)
+giOpeningShell :: Icon
+giOpeningShell = element _giOpeningShell
 
 foreign import _giOpenPalm :: ReactIcon
 
-giOpenPalm :: forall a b. Union a b PropsIcon => Record a -> JSX
-giOpenPalm = element (unsafeCoerce _giOpenPalm)
+giOpenPalm :: Icon
+giOpenPalm = element _giOpenPalm
 
 foreign import _giOpenTreasureChest :: ReactIcon
 
-giOpenTreasureChest :: forall a b. Union a b PropsIcon => Record a -> JSX
-giOpenTreasureChest = element (unsafeCoerce _giOpenTreasureChest)
+giOpenTreasureChest :: Icon
+giOpenTreasureChest = element _giOpenTreasureChest
 
 foreign import _giOpenWound :: ReactIcon
 
-giOpenWound :: forall a b. Union a b PropsIcon => Record a -> JSX
-giOpenWound = element (unsafeCoerce _giOpenWound)
+giOpenWound :: Icon
+giOpenWound = element _giOpenWound
 
 foreign import _giOphiuchus :: ReactIcon
 
-giOphiuchus :: forall a b. Union a b PropsIcon => Record a -> JSX
-giOphiuchus = element (unsafeCoerce _giOphiuchus)
+giOphiuchus :: Icon
+giOphiuchus = element _giOphiuchus
 
 foreign import _giOppidum :: ReactIcon
 
-giOppidum :: forall a b. Union a b PropsIcon => Record a -> JSX
-giOppidum = element (unsafeCoerce _giOppidum)
+giOppidum :: Icon
+giOppidum = element _giOppidum
 
 foreign import _giOppositeHearts :: ReactIcon
 
-giOppositeHearts :: forall a b. Union a b PropsIcon => Record a -> JSX
-giOppositeHearts = element (unsafeCoerce _giOppositeHearts)
+giOppositeHearts :: Icon
+giOppositeHearts = element _giOppositeHearts
 
 foreign import _giOppression :: ReactIcon
 
-giOppression :: forall a b. Union a b PropsIcon => Record a -> JSX
-giOppression = element (unsafeCoerce _giOppression)
+giOppression :: Icon
+giOppression = element _giOppression
 
 foreign import _giOrange :: ReactIcon
 
-giOrange :: forall a b. Union a b PropsIcon => Record a -> JSX
-giOrange = element (unsafeCoerce _giOrange)
+giOrange :: Icon
+giOrange = element _giOrange
 
 foreign import _giOrangeSlice :: ReactIcon
 
-giOrangeSlice :: forall a b. Union a b PropsIcon => Record a -> JSX
-giOrangeSlice = element (unsafeCoerce _giOrangeSlice)
+giOrangeSlice :: Icon
+giOrangeSlice = element _giOrangeSlice
 
 foreign import _giOrbDirection :: ReactIcon
 
-giOrbDirection :: forall a b. Union a b PropsIcon => Record a -> JSX
-giOrbDirection = element (unsafeCoerce _giOrbDirection)
+giOrbDirection :: Icon
+giOrbDirection = element _giOrbDirection
 
 foreign import _giOrbit :: ReactIcon
 
-giOrbit :: forall a b. Union a b PropsIcon => Record a -> JSX
-giOrbit = element (unsafeCoerce _giOrbit)
+giOrbit :: Icon
+giOrbit = element _giOrbit
 
 foreign import _giOrbital :: ReactIcon
 
-giOrbital :: forall a b. Union a b PropsIcon => Record a -> JSX
-giOrbital = element (unsafeCoerce _giOrbital)
+giOrbital :: Icon
+giOrbital = element _giOrbital
 
 foreign import _giOrbitalRays :: ReactIcon
 
-giOrbitalRays :: forall a b. Union a b PropsIcon => Record a -> JSX
-giOrbitalRays = element (unsafeCoerce _giOrbitalRays)
+giOrbitalRays :: Icon
+giOrbitalRays = element _giOrbitalRays
 
 foreign import _giOrbWand :: ReactIcon
 
-giOrbWand :: forall a b. Union a b PropsIcon => Record a -> JSX
-giOrbWand = element (unsafeCoerce _giOrbWand)
+giOrbWand :: Icon
+giOrbWand = element _giOrbWand
 
 foreign import _giOrcHead :: ReactIcon
 
-giOrcHead :: forall a b. Union a b PropsIcon => Record a -> JSX
-giOrcHead = element (unsafeCoerce _giOrcHead)
+giOrcHead :: Icon
+giOrcHead = element _giOrcHead
 
 foreign import _giOre :: ReactIcon
 
-giOre :: forall a b. Union a b PropsIcon => Record a -> JSX
-giOre = element (unsafeCoerce _giOre)
+giOre :: Icon
+giOre = element _giOre
 
 foreign import _giOrganigram :: ReactIcon
 
-giOrganigram :: forall a b. Union a b PropsIcon => Record a -> JSX
-giOrganigram = element (unsafeCoerce _giOrganigram)
+giOrganigram :: Icon
+giOrganigram = element _giOrganigram
 
 foreign import _giOstrich :: ReactIcon
 
-giOstrich :: forall a b. Union a b PropsIcon => Record a -> JSX
-giOstrich = element (unsafeCoerce _giOstrich)
+giOstrich :: Icon
+giOstrich = element _giOstrich
 
 foreign import _giOuroboros :: ReactIcon
 
-giOuroboros :: forall a b. Union a b PropsIcon => Record a -> JSX
-giOuroboros = element (unsafeCoerce _giOuroboros)
+giOuroboros :: Icon
+giOuroboros = element _giOuroboros
 
 foreign import _giOutbackHat :: ReactIcon
 
-giOutbackHat :: forall a b. Union a b PropsIcon => Record a -> JSX
-giOutbackHat = element (unsafeCoerce _giOutbackHat)
+giOutbackHat :: Icon
+giOutbackHat = element _giOutbackHat
 
 foreign import _giOverdose :: ReactIcon
 
-giOverdose :: forall a b. Union a b PropsIcon => Record a -> JSX
-giOverdose = element (unsafeCoerce _giOverdose)
+giOverdose :: Icon
+giOverdose = element _giOverdose
 
 foreign import _giOverdrive :: ReactIcon
 
-giOverdrive :: forall a b. Union a b PropsIcon => Record a -> JSX
-giOverdrive = element (unsafeCoerce _giOverdrive)
+giOverdrive :: Icon
+giOverdrive = element _giOverdrive
 
 foreign import _giOverhead :: ReactIcon
 
-giOverhead :: forall a b. Union a b PropsIcon => Record a -> JSX
-giOverhead = element (unsafeCoerce _giOverhead)
+giOverhead :: Icon
+giOverhead = element _giOverhead
 
 foreign import _giOverInfinity :: ReactIcon
 
-giOverInfinity :: forall a b. Union a b PropsIcon => Record a -> JSX
-giOverInfinity = element (unsafeCoerce _giOverInfinity)
+giOverInfinity :: Icon
+giOverInfinity = element _giOverInfinity
 
 foreign import _giOverkill :: ReactIcon
 
-giOverkill :: forall a b. Union a b PropsIcon => Record a -> JSX
-giOverkill = element (unsafeCoerce _giOverkill)
+giOverkill :: Icon
+giOverkill = element _giOverkill
 
 foreign import _giOverlordHelm :: ReactIcon
 
-giOverlordHelm :: forall a b. Union a b PropsIcon => Record a -> JSX
-giOverlordHelm = element (unsafeCoerce _giOverlordHelm)
+giOverlordHelm :: Icon
+giOverlordHelm = element _giOverlordHelm
 
 foreign import _giOvermind :: ReactIcon
 
-giOvermind :: forall a b. Union a b PropsIcon => Record a -> JSX
-giOvermind = element (unsafeCoerce _giOvermind)
+giOvermind :: Icon
+giOvermind = element _giOvermind
 
 foreign import _giOwl :: ReactIcon
 
-giOwl :: forall a b. Union a b PropsIcon => Record a -> JSX
-giOwl = element (unsafeCoerce _giOwl)
+giOwl :: Icon
+giOwl = element _giOwl
 
 foreign import _giOyster :: ReactIcon
 
-giOyster :: forall a b. Union a b PropsIcon => Record a -> JSX
-giOyster = element (unsafeCoerce _giOyster)
+giOyster :: Icon
+giOyster = element _giOyster
 
 foreign import _giOysterPearl :: ReactIcon
 
-giOysterPearl :: forall a b. Union a b PropsIcon => Record a -> JSX
-giOysterPearl = element (unsafeCoerce _giOysterPearl)
+giOysterPearl :: Icon
+giOysterPearl = element _giOysterPearl
 
 foreign import _giPackedPlanks :: ReactIcon
 
-giPackedPlanks :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPackedPlanks = element (unsafeCoerce _giPackedPlanks)
+giPackedPlanks :: Icon
+giPackedPlanks = element _giPackedPlanks
 
 foreign import _giPaddles :: ReactIcon
 
-giPaddles :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPaddles = element (unsafeCoerce _giPaddles)
+giPaddles :: Icon
+giPaddles = element _giPaddles
 
 foreign import _giPaddleSteamer :: ReactIcon
 
-giPaddleSteamer :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPaddleSteamer = element (unsafeCoerce _giPaddleSteamer)
+giPaddleSteamer :: Icon
+giPaddleSteamer = element _giPaddleSteamer
 
 foreign import _giPadlock :: ReactIcon
 
-giPadlock :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPadlock = element (unsafeCoerce _giPadlock)
+giPadlock :: Icon
+giPadlock = element _giPadlock
 
 foreign import _giPadlockOpen :: ReactIcon
 
-giPadlockOpen :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPadlockOpen = element (unsafeCoerce _giPadlockOpen)
+giPadlockOpen :: Icon
+giPadlockOpen = element _giPadlockOpen
 
 foreign import _giPagoda :: ReactIcon
 
-giPagoda :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPagoda = element (unsafeCoerce _giPagoda)
+giPagoda :: Icon
+giPagoda = element _giPagoda
 
 foreign import _giPaintBrush :: ReactIcon
 
-giPaintBrush :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPaintBrush = element (unsafeCoerce _giPaintBrush)
+giPaintBrush :: Icon
+giPaintBrush = element _giPaintBrush
 
 foreign import _giPaintBucket :: ReactIcon
 
-giPaintBucket :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPaintBucket = element (unsafeCoerce _giPaintBucket)
+giPaintBucket :: Icon
+giPaintBucket = element _giPaintBucket
 
 foreign import _giPaintedPottery :: ReactIcon
 
-giPaintedPottery :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPaintedPottery = element (unsafeCoerce _giPaintedPottery)
+giPaintedPottery :: Icon
+giPaintedPottery = element _giPaintedPottery
 
 foreign import _giPaintRoller :: ReactIcon
 
-giPaintRoller :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPaintRoller = element (unsafeCoerce _giPaintRoller)
+giPaintRoller :: Icon
+giPaintRoller = element _giPaintRoller
 
 foreign import _giPalette :: ReactIcon
 
-giPalette :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPalette = element (unsafeCoerce _giPalette)
+giPalette :: Icon
+giPalette = element _giPalette
 
 foreign import _giPalisade :: ReactIcon
 
-giPalisade :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPalisade = element (unsafeCoerce _giPalisade)
+giPalisade :: Icon
+giPalisade = element _giPalisade
 
 foreign import _giPalm :: ReactIcon
 
-giPalm :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPalm = element (unsafeCoerce _giPalm)
+giPalm :: Icon
+giPalm = element _giPalm
 
 foreign import _giPalmTree :: ReactIcon
 
-giPalmTree :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPalmTree = element (unsafeCoerce _giPalmTree)
+giPalmTree :: Icon
+giPalmTree = element _giPalmTree
 
 foreign import _giPanda :: ReactIcon
 
-giPanda :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPanda = element (unsafeCoerce _giPanda)
+giPanda :: Icon
+giPanda = element _giPanda
 
 foreign import _giPanFlute :: ReactIcon
 
-giPanFlute :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPanFlute = element (unsafeCoerce _giPanFlute)
+giPanFlute :: Icon
+giPanFlute = element _giPanFlute
 
 foreign import _giPangolin :: ReactIcon
 
-giPangolin :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPangolin = element (unsafeCoerce _giPangolin)
+giPangolin :: Icon
+giPangolin = element _giPangolin
 
 foreign import _giPanzerfaust :: ReactIcon
 
-giPanzerfaust :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPanzerfaust = element (unsafeCoerce _giPanzerfaust)
+giPanzerfaust :: Icon
+giPanzerfaust = element _giPanzerfaust
 
 foreign import _giPaper :: ReactIcon
 
-giPaper :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPaper = element (unsafeCoerce _giPaper)
+giPaper :: Icon
+giPaper = element _giPaper
 
 foreign import _giPaperArrow :: ReactIcon
 
-giPaperArrow :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPaperArrow = element (unsafeCoerce _giPaperArrow)
+giPaperArrow :: Icon
+giPaperArrow = element _giPaperArrow
 
 foreign import _giPaperBagCrumpled :: ReactIcon
 
-giPaperBagCrumpled :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPaperBagCrumpled = element (unsafeCoerce _giPaperBagCrumpled)
+giPaperBagCrumpled :: Icon
+giPaperBagCrumpled = element _giPaperBagCrumpled
 
 foreign import _giPaperBagFolded :: ReactIcon
 
-giPaperBagFolded :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPaperBagFolded = element (unsafeCoerce _giPaperBagFolded)
+giPaperBagFolded :: Icon
+giPaperBagFolded = element _giPaperBagFolded
 
 foreign import _giPaperBagOpen :: ReactIcon
 
-giPaperBagOpen :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPaperBagOpen = element (unsafeCoerce _giPaperBagOpen)
+giPaperBagOpen :: Icon
+giPaperBagOpen = element _giPaperBagOpen
 
 foreign import _giPaperBoat :: ReactIcon
 
-giPaperBoat :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPaperBoat = element (unsafeCoerce _giPaperBoat)
+giPaperBoat :: Icon
+giPaperBoat = element _giPaperBoat
 
 foreign import _giPaperBomb :: ReactIcon
 
-giPaperBomb :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPaperBomb = element (unsafeCoerce _giPaperBomb)
+giPaperBomb :: Icon
+giPaperBomb = element _giPaperBomb
 
 foreign import _giPaperClip :: ReactIcon
 
-giPaperClip :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPaperClip = element (unsafeCoerce _giPaperClip)
+giPaperClip :: Icon
+giPaperClip = element _giPaperClip
 
 foreign import _giPaperCrane :: ReactIcon
 
-giPaperCrane :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPaperCrane = element (unsafeCoerce _giPaperCrane)
+giPaperCrane :: Icon
+giPaperCrane = element _giPaperCrane
 
 foreign import _giPaperFrog :: ReactIcon
 
-giPaperFrog :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPaperFrog = element (unsafeCoerce _giPaperFrog)
+giPaperFrog :: Icon
+giPaperFrog = element _giPaperFrog
 
 foreign import _giPaperLantern :: ReactIcon
 
-giPaperLantern :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPaperLantern = element (unsafeCoerce _giPaperLantern)
+giPaperLantern :: Icon
+giPaperLantern = element _giPaperLantern
 
 foreign import _giPaperPlane :: ReactIcon
 
-giPaperPlane :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPaperPlane = element (unsafeCoerce _giPaperPlane)
+giPaperPlane :: Icon
+giPaperPlane = element _giPaperPlane
 
 foreign import _giPapers :: ReactIcon
 
-giPapers :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPapers = element (unsafeCoerce _giPapers)
+giPapers :: Icon
+giPapers = element _giPapers
 
 foreign import _giPaperTray :: ReactIcon
 
-giPaperTray :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPaperTray = element (unsafeCoerce _giPaperTray)
+giPaperTray :: Icon
+giPaperTray = element _giPaperTray
 
 foreign import _giPaperWindmill :: ReactIcon
 
-giPaperWindmill :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPaperWindmill = element (unsafeCoerce _giPaperWindmill)
+giPaperWindmill :: Icon
+giPaperWindmill = element _giPaperWindmill
 
 foreign import _giPapyrus :: ReactIcon
 
-giPapyrus :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPapyrus = element (unsafeCoerce _giPapyrus)
+giPapyrus :: Icon
+giPapyrus = element _giPapyrus
 
 foreign import _giParachute :: ReactIcon
 
-giParachute :: forall a b. Union a b PropsIcon => Record a -> JSX
-giParachute = element (unsafeCoerce _giParachute)
+giParachute :: Icon
+giParachute = element _giParachute
 
 foreign import _giParaguay :: ReactIcon
 
-giParaguay :: forall a b. Union a b PropsIcon => Record a -> JSX
-giParaguay = element (unsafeCoerce _giParaguay)
+giParaguay :: Icon
+giParaguay = element _giParaguay
 
 foreign import _giParanoia :: ReactIcon
 
-giParanoia :: forall a b. Union a b PropsIcon => Record a -> JSX
-giParanoia = element (unsafeCoerce _giParanoia)
+giParanoia :: Icon
+giParanoia = element _giParanoia
 
 foreign import _giParasaurolophus :: ReactIcon
 
-giParasaurolophus :: forall a b. Union a b PropsIcon => Record a -> JSX
-giParasaurolophus = element (unsafeCoerce _giParasaurolophus)
+giParasaurolophus :: Icon
+giParasaurolophus = element _giParasaurolophus
 
 foreign import _giParkBench :: ReactIcon
 
-giParkBench :: forall a b. Union a b PropsIcon => Record a -> JSX
-giParkBench = element (unsafeCoerce _giParkBench)
+giParkBench :: Icon
+giParkBench = element _giParkBench
 
 foreign import _giParmecia :: ReactIcon
 
-giParmecia :: forall a b. Union a b PropsIcon => Record a -> JSX
-giParmecia = element (unsafeCoerce _giParmecia)
+giParmecia :: Icon
+giParmecia = element _giParmecia
 
 foreign import _giParrotHead :: ReactIcon
 
-giParrotHead :: forall a b. Union a b PropsIcon => Record a -> JSX
-giParrotHead = element (unsafeCoerce _giParrotHead)
+giParrotHead :: Icon
+giParrotHead = element _giParrotHead
 
 foreign import _giPartyFlags :: ReactIcon
 
-giPartyFlags :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPartyFlags = element (unsafeCoerce _giPartyFlags)
+giPartyFlags :: Icon
+giPartyFlags = element _giPartyFlags
 
 foreign import _giPartyHat :: ReactIcon
 
-giPartyHat :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPartyHat = element (unsafeCoerce _giPartyHat)
+giPartyHat :: Icon
+giPartyHat = element _giPartyHat
 
 foreign import _giPartyPopper :: ReactIcon
 
-giPartyPopper :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPartyPopper = element (unsafeCoerce _giPartyPopper)
+giPartyPopper :: Icon
+giPartyPopper = element _giPartyPopper
 
 foreign import _giPassport :: ReactIcon
 
-giPassport :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPassport = element (unsafeCoerce _giPassport)
+giPassport :: Icon
+giPassport = element _giPassport
 
 foreign import _giPathDistance :: ReactIcon
 
-giPathDistance :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPathDistance = element (unsafeCoerce _giPathDistance)
+giPathDistance :: Icon
+giPathDistance = element _giPathDistance
 
 foreign import _giPathTile :: ReactIcon
 
-giPathTile :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPathTile = element (unsafeCoerce _giPathTile)
+giPathTile :: Icon
+giPathTile = element _giPathTile
 
 foreign import _giPauldrons :: ReactIcon
 
-giPauldrons :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPauldrons = element (unsafeCoerce _giPauldrons)
+giPauldrons :: Icon
+giPauldrons = element _giPauldrons
 
 foreign import _giPauseButton :: ReactIcon
 
-giPauseButton :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPauseButton = element (unsafeCoerce _giPauseButton)
+giPauseButton :: Icon
+giPauseButton = element _giPauseButton
 
 foreign import _giPaw :: ReactIcon
 
-giPaw :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPaw = element (unsafeCoerce _giPaw)
+giPaw :: Icon
+giPaw = element _giPaw
 
 foreign import _giPawFront :: ReactIcon
 
-giPawFront :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPawFront = element (unsafeCoerce _giPawFront)
+giPawFront :: Icon
+giPawFront = element _giPawFront
 
 foreign import _giPawHeart :: ReactIcon
 
-giPawHeart :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPawHeart = element (unsafeCoerce _giPawHeart)
+giPawHeart :: Icon
+giPawHeart = element _giPawHeart
 
 foreign import _giPawn :: ReactIcon
 
-giPawn :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPawn = element (unsafeCoerce _giPawn)
+giPawn :: Icon
+giPawn = element _giPawn
 
 foreign import _giPawPrint :: ReactIcon
 
-giPawPrint :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPawPrint = element (unsafeCoerce _giPawPrint)
+giPawPrint :: Icon
+giPawPrint = element _giPawPrint
 
 foreign import _giPayMoney :: ReactIcon
 
-giPayMoney :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPayMoney = element (unsafeCoerce _giPayMoney)
+giPayMoney :: Icon
+giPayMoney = element _giPayMoney
 
 foreign import _giPc :: ReactIcon
 
-giPc :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPc = element (unsafeCoerce _giPc)
+giPc :: Icon
+giPc = element _giPc
 
 foreign import _giPeaceDove :: ReactIcon
 
-giPeaceDove :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPeaceDove = element (unsafeCoerce _giPeaceDove)
+giPeaceDove :: Icon
+giPeaceDove = element _giPeaceDove
 
 foreign import _giPeach :: ReactIcon
 
-giPeach :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPeach = element (unsafeCoerce _giPeach)
+giPeach :: Icon
+giPeach = element _giPeach
 
 foreign import _giPeaks :: ReactIcon
 
-giPeaks :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPeaks = element (unsafeCoerce _giPeaks)
+giPeaks :: Icon
+giPeaks = element _giPeaks
 
 foreign import _giPeanut :: ReactIcon
 
-giPeanut :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPeanut = element (unsafeCoerce _giPeanut)
+giPeanut :: Icon
+giPeanut = element _giPeanut
 
 foreign import _giPear :: ReactIcon
 
-giPear :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPear = element (unsafeCoerce _giPear)
+giPear :: Icon
+giPear = element _giPear
 
 foreign import _giPearlEarring :: ReactIcon
 
-giPearlEarring :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPearlEarring = element (unsafeCoerce _giPearlEarring)
+giPearlEarring :: Icon
+giPearlEarring = element _giPearlEarring
 
 foreign import _giPearlNecklace :: ReactIcon
 
-giPearlNecklace :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPearlNecklace = element (unsafeCoerce _giPearlNecklace)
+giPearlNecklace :: Icon
+giPearlNecklace = element _giPearlNecklace
 
 foreign import _giPeas :: ReactIcon
 
-giPeas :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPeas = element (unsafeCoerce _giPeas)
+giPeas :: Icon
+giPeas = element _giPeas
 
 foreign import _giPegasus :: ReactIcon
 
-giPegasus :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPegasus = element (unsafeCoerce _giPegasus)
+giPegasus :: Icon
+giPegasus = element _giPegasus
 
 foreign import _giPelvisBone :: ReactIcon
 
-giPelvisBone :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPelvisBone = element (unsafeCoerce _giPelvisBone)
+giPelvisBone :: Icon
+giPelvisBone = element _giPelvisBone
 
 foreign import _giPencil :: ReactIcon
 
-giPencil :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPencil = element (unsafeCoerce _giPencil)
+giPencil :: Icon
+giPencil = element _giPencil
 
 foreign import _giPencilBrush :: ReactIcon
 
-giPencilBrush :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPencilBrush = element (unsafeCoerce _giPencilBrush)
+giPencilBrush :: Icon
+giPencilBrush = element _giPencilBrush
 
 foreign import _giPencilRuler :: ReactIcon
 
-giPencilRuler :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPencilRuler = element (unsafeCoerce _giPencilRuler)
+giPencilRuler :: Icon
+giPencilRuler = element _giPencilRuler
 
 foreign import _giPendantKey :: ReactIcon
 
-giPendantKey :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPendantKey = element (unsafeCoerce _giPendantKey)
+giPendantKey :: Icon
+giPendantKey = element _giPendantKey
 
 foreign import _giPendulumSwing :: ReactIcon
 
-giPendulumSwing :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPendulumSwing = element (unsafeCoerce _giPendulumSwing)
+giPendulumSwing :: Icon
+giPendulumSwing = element _giPendulumSwing
 
 foreign import _giPenguin :: ReactIcon
 
-giPenguin :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPenguin = element (unsafeCoerce _giPenguin)
+giPenguin :: Icon
+giPenguin = element _giPenguin
 
 foreign import _giPentacle :: ReactIcon
 
-giPentacle :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPentacle = element (unsafeCoerce _giPentacle)
+giPentacle :: Icon
+giPentacle = element _giPentacle
 
 foreign import _giPentagramRose :: ReactIcon
 
-giPentagramRose :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPentagramRose = element (unsafeCoerce _giPentagramRose)
+giPentagramRose :: Icon
+giPentagramRose = element _giPentagramRose
 
 foreign import _giPentarrowsTornado :: ReactIcon
 
-giPentarrowsTornado :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPentarrowsTornado = element (unsafeCoerce _giPentarrowsTornado)
+giPentarrowsTornado :: Icon
+giPentarrowsTornado = element _giPentarrowsTornado
 
 foreign import _giPerfumeBottle :: ReactIcon
 
-giPerfumeBottle :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPerfumeBottle = element (unsafeCoerce _giPerfumeBottle)
+giPerfumeBottle :: Icon
+giPerfumeBottle = element _giPerfumeBottle
 
 foreign import _giPeriscope :: ReactIcon
 
-giPeriscope :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPeriscope = element (unsafeCoerce _giPeriscope)
+giPeriscope :: Icon
+giPeriscope = element _giPeriscope
 
 foreign import _giPerpendicularRings :: ReactIcon
 
-giPerpendicularRings :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPerpendicularRings = element (unsafeCoerce _giPerpendicularRings)
+giPerpendicularRings :: Icon
+giPerpendicularRings = element _giPerpendicularRings
 
 foreign import _giPerson :: ReactIcon
 
-giPerson :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPerson = element (unsafeCoerce _giPerson)
+giPerson :: Icon
+giPerson = element _giPerson
 
 foreign import _giPersonInBed :: ReactIcon
 
-giPersonInBed :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPersonInBed = element (unsafeCoerce _giPersonInBed)
+giPersonInBed :: Icon
+giPersonInBed = element _giPersonInBed
 
 foreign import _giPerspectiveDiceFive :: ReactIcon
 
-giPerspectiveDiceFive :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPerspectiveDiceFive = element (unsafeCoerce _giPerspectiveDiceFive)
+giPerspectiveDiceFive :: Icon
+giPerspectiveDiceFive = element _giPerspectiveDiceFive
 
 foreign import _giPerspectiveDiceFour :: ReactIcon
 
-giPerspectiveDiceFour :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPerspectiveDiceFour = element (unsafeCoerce _giPerspectiveDiceFour)
+giPerspectiveDiceFour :: Icon
+giPerspectiveDiceFour = element _giPerspectiveDiceFour
 
 foreign import _giPerspectiveDiceOne :: ReactIcon
 
-giPerspectiveDiceOne :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPerspectiveDiceOne = element (unsafeCoerce _giPerspectiveDiceOne)
+giPerspectiveDiceOne :: Icon
+giPerspectiveDiceOne = element _giPerspectiveDiceOne
 
 foreign import _giPerspectiveDiceSix :: ReactIcon
 
-giPerspectiveDiceSix :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPerspectiveDiceSix = element (unsafeCoerce _giPerspectiveDiceSix)
+giPerspectiveDiceSix :: Icon
+giPerspectiveDiceSix = element _giPerspectiveDiceSix
 
 foreign import _giPerspectiveDiceSixFacesFive :: ReactIcon
 
-giPerspectiveDiceSixFacesFive :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPerspectiveDiceSixFacesFive = element (unsafeCoerce _giPerspectiveDiceSixFacesFive)
+giPerspectiveDiceSixFacesFive :: Icon
+giPerspectiveDiceSixFacesFive = element _giPerspectiveDiceSixFacesFive
 
 foreign import _giPerspectiveDiceSixFacesFour :: ReactIcon
 
-giPerspectiveDiceSixFacesFour :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPerspectiveDiceSixFacesFour = element (unsafeCoerce _giPerspectiveDiceSixFacesFour)
+giPerspectiveDiceSixFacesFour :: Icon
+giPerspectiveDiceSixFacesFour = element _giPerspectiveDiceSixFacesFour
 
 foreign import _giPerspectiveDiceSixFacesOne :: ReactIcon
 
-giPerspectiveDiceSixFacesOne :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPerspectiveDiceSixFacesOne = element (unsafeCoerce _giPerspectiveDiceSixFacesOne)
+giPerspectiveDiceSixFacesOne :: Icon
+giPerspectiveDiceSixFacesOne = element _giPerspectiveDiceSixFacesOne
 
 foreign import _giPerspectiveDiceSixFacesRandom :: ReactIcon
 
-giPerspectiveDiceSixFacesRandom :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPerspectiveDiceSixFacesRandom = element (unsafeCoerce _giPerspectiveDiceSixFacesRandom)
+giPerspectiveDiceSixFacesRandom :: Icon
+giPerspectiveDiceSixFacesRandom = element _giPerspectiveDiceSixFacesRandom
 
 foreign import _giPerspectiveDiceSixFacesSix :: ReactIcon
 
-giPerspectiveDiceSixFacesSix :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPerspectiveDiceSixFacesSix = element (unsafeCoerce _giPerspectiveDiceSixFacesSix)
+giPerspectiveDiceSixFacesSix :: Icon
+giPerspectiveDiceSixFacesSix = element _giPerspectiveDiceSixFacesSix
 
 foreign import _giPerspectiveDiceSixFacesThree :: ReactIcon
 
-giPerspectiveDiceSixFacesThree :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPerspectiveDiceSixFacesThree = element (unsafeCoerce _giPerspectiveDiceSixFacesThree)
+giPerspectiveDiceSixFacesThree :: Icon
+giPerspectiveDiceSixFacesThree = element _giPerspectiveDiceSixFacesThree
 
 foreign import _giPerspectiveDiceSixFacesTwo :: ReactIcon
 
-giPerspectiveDiceSixFacesTwo :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPerspectiveDiceSixFacesTwo = element (unsafeCoerce _giPerspectiveDiceSixFacesTwo)
+giPerspectiveDiceSixFacesTwo :: Icon
+giPerspectiveDiceSixFacesTwo = element _giPerspectiveDiceSixFacesTwo
 
 foreign import _giPerspectiveDiceThree :: ReactIcon
 
-giPerspectiveDiceThree :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPerspectiveDiceThree = element (unsafeCoerce _giPerspectiveDiceThree)
+giPerspectiveDiceThree :: Icon
+giPerspectiveDiceThree = element _giPerspectiveDiceThree
 
 foreign import _giPerspectiveDiceTwo :: ReactIcon
 
-giPerspectiveDiceTwo :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPerspectiveDiceTwo = element (unsafeCoerce _giPerspectiveDiceTwo)
+giPerspectiveDiceTwo :: Icon
+giPerspectiveDiceTwo = element _giPerspectiveDiceTwo
 
 foreign import _giPeru :: ReactIcon
 
-giPeru :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPeru = element (unsafeCoerce _giPeru)
+giPeru :: Icon
+giPeru = element _giPeru
 
 foreign import _giPestleMortar :: ReactIcon
 
-giPestleMortar :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPestleMortar = element (unsafeCoerce _giPestleMortar)
+giPestleMortar :: Icon
+giPestleMortar = element _giPestleMortar
 
 foreign import _giPharoah :: ReactIcon
 
-giPharoah :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPharoah = element (unsafeCoerce _giPharoah)
+giPharoah :: Icon
+giPharoah = element _giPharoah
 
 foreign import _giPhone :: ReactIcon
 
-giPhone :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPhone = element (unsafeCoerce _giPhone)
+giPhone :: Icon
+giPhone = element _giPhone
 
 foreign import _giPhotoCamera :: ReactIcon
 
-giPhotoCamera :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPhotoCamera = element (unsafeCoerce _giPhotoCamera)
+giPhotoCamera :: Icon
+giPhotoCamera = element _giPhotoCamera
 
 foreign import _giPhrygianCap :: ReactIcon
 
-giPhrygianCap :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPhrygianCap = element (unsafeCoerce _giPhrygianCap)
+giPhrygianCap :: Icon
+giPhrygianCap = element _giPhrygianCap
 
 foreign import _giPianist :: ReactIcon
 
-giPianist :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPianist = element (unsafeCoerce _giPianist)
+giPianist :: Icon
+giPianist = element _giPianist
 
 foreign import _giPianoKeys :: ReactIcon
 
-giPianoKeys :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPianoKeys = element (unsafeCoerce _giPianoKeys)
+giPianoKeys :: Icon
+giPianoKeys = element _giPianoKeys
 
 foreign import _giPickelhaube :: ReactIcon
 
-giPickelhaube :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPickelhaube = element (unsafeCoerce _giPickelhaube)
+giPickelhaube :: Icon
+giPickelhaube = element _giPickelhaube
 
 foreign import _giPickle :: ReactIcon
 
-giPickle :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPickle = element (unsafeCoerce _giPickle)
+giPickle :: Icon
+giPickle = element _giPickle
 
 foreign import _giPickOfDestiny :: ReactIcon
 
-giPickOfDestiny :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPickOfDestiny = element (unsafeCoerce _giPickOfDestiny)
+giPickOfDestiny :: Icon
+giPickOfDestiny = element _giPickOfDestiny
 
 foreign import _giPieceSkull :: ReactIcon
 
-giPieceSkull :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPieceSkull = element (unsafeCoerce _giPieceSkull)
+giPieceSkull :: Icon
+giPieceSkull = element _giPieceSkull
 
 foreign import _giPieChart :: ReactIcon
 
-giPieChart :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPieChart = element (unsafeCoerce _giPieChart)
+giPieChart :: Icon
+giPieChart = element _giPieChart
 
 foreign import _giPiercedBody :: ReactIcon
 
-giPiercedBody :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPiercedBody = element (unsafeCoerce _giPiercedBody)
+giPiercedBody :: Icon
+giPiercedBody = element _giPiercedBody
 
 foreign import _giPiercedHeart :: ReactIcon
 
-giPiercedHeart :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPiercedHeart = element (unsafeCoerce _giPiercedHeart)
+giPiercedHeart :: Icon
+giPiercedHeart = element _giPiercedHeart
 
 foreign import _giPiercingSword :: ReactIcon
 
-giPiercingSword :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPiercingSword = element (unsafeCoerce _giPiercingSword)
+giPiercingSword :: Icon
+giPiercingSword = element _giPiercingSword
 
 foreign import _giPieSlice :: ReactIcon
 
-giPieSlice :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPieSlice = element (unsafeCoerce _giPieSlice)
+giPieSlice :: Icon
+giPieSlice = element _giPieSlice
 
 foreign import _giPig :: ReactIcon
 
-giPig :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPig = element (unsafeCoerce _giPig)
+giPig :: Icon
+giPig = element _giPig
 
 foreign import _giPigFace :: ReactIcon
 
-giPigFace :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPigFace = element (unsafeCoerce _giPigFace)
+giPigFace :: Icon
+giPigFace = element _giPigFace
 
 foreign import _giPiggyBank :: ReactIcon
 
-giPiggyBank :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPiggyBank = element (unsafeCoerce _giPiggyBank)
+giPiggyBank :: Icon
+giPiggyBank = element _giPiggyBank
 
 foreign import _giPikeman :: ReactIcon
 
-giPikeman :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPikeman = element (unsafeCoerce _giPikeman)
+giPikeman :: Icon
+giPikeman = element _giPikeman
 
 foreign import _giPilgrimHat :: ReactIcon
 
-giPilgrimHat :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPilgrimHat = element (unsafeCoerce _giPilgrimHat)
+giPilgrimHat :: Icon
+giPilgrimHat = element _giPilgrimHat
 
 foreign import _giPill :: ReactIcon
 
-giPill :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPill = element (unsafeCoerce _giPill)
+giPill :: Icon
+giPill = element _giPill
 
 foreign import _giPillDrop :: ReactIcon
 
-giPillDrop :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPillDrop = element (unsafeCoerce _giPillDrop)
+giPillDrop :: Icon
+giPillDrop = element _giPillDrop
 
 foreign import _giPillow :: ReactIcon
 
-giPillow :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPillow = element (unsafeCoerce _giPillow)
+giPillow :: Icon
+giPillow = element _giPillow
 
 foreign import _giPimiento :: ReactIcon
 
-giPimiento :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPimiento = element (unsafeCoerce _giPimiento)
+giPimiento :: Icon
+giPimiento = element _giPimiento
 
 foreign import _giPin :: ReactIcon
 
-giPin :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPin = element (unsafeCoerce _giPin)
+giPin :: Icon
+giPin = element _giPin
 
 foreign import _giPinata :: ReactIcon
 
-giPinata :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPinata = element (unsafeCoerce _giPinata)
+giPinata :: Icon
+giPinata = element _giPinata
 
 foreign import _giPinballFlipper :: ReactIcon
 
-giPinballFlipper :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPinballFlipper = element (unsafeCoerce _giPinballFlipper)
+giPinballFlipper :: Icon
+giPinballFlipper = element _giPinballFlipper
 
 foreign import _giPincers :: ReactIcon
 
-giPincers :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPincers = element (unsafeCoerce _giPincers)
+giPincers :: Icon
+giPincers = element _giPincers
 
 foreign import _giPineapple :: ReactIcon
 
-giPineapple :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPineapple = element (unsafeCoerce _giPineapple)
+giPineapple :: Icon
+giPineapple = element _giPineapple
 
 foreign import _giPineTree :: ReactIcon
 
-giPineTree :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPineTree = element (unsafeCoerce _giPineTree)
+giPineTree :: Icon
+giPineTree = element _giPineTree
 
 foreign import _giPingPongBat :: ReactIcon
 
-giPingPongBat :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPingPongBat = element (unsafeCoerce _giPingPongBat)
+giPingPongBat :: Icon
+giPingPongBat = element _giPingPongBat
 
 foreign import _giPipeOrgan :: ReactIcon
 
-giPipeOrgan :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPipeOrgan = element (unsafeCoerce _giPipeOrgan)
+giPipeOrgan :: Icon
+giPipeOrgan = element _giPipeOrgan
 
 foreign import _giPipes :: ReactIcon
 
-giPipes :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPipes = element (unsafeCoerce _giPipes)
+giPipes :: Icon
+giPipes = element _giPipes
 
 foreign import _giPiranha :: ReactIcon
 
-giPiranha :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPiranha = element (unsafeCoerce _giPiranha)
+giPiranha :: Icon
+giPiranha = element _giPiranha
 
 foreign import _giPirateCannon :: ReactIcon
 
-giPirateCannon :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPirateCannon = element (unsafeCoerce _giPirateCannon)
+giPirateCannon :: Icon
+giPirateCannon = element _giPirateCannon
 
 foreign import _giPirateCaptain :: ReactIcon
 
-giPirateCaptain :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPirateCaptain = element (unsafeCoerce _giPirateCaptain)
+giPirateCaptain :: Icon
+giPirateCaptain = element _giPirateCaptain
 
 foreign import _giPirateCoat :: ReactIcon
 
-giPirateCoat :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPirateCoat = element (unsafeCoerce _giPirateCoat)
+giPirateCoat :: Icon
+giPirateCoat = element _giPirateCoat
 
 foreign import _giPirateFlag :: ReactIcon
 
-giPirateFlag :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPirateFlag = element (unsafeCoerce _giPirateFlag)
+giPirateFlag :: Icon
+giPirateFlag = element _giPirateFlag
 
 foreign import _giPirateGrave :: ReactIcon
 
-giPirateGrave :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPirateGrave = element (unsafeCoerce _giPirateGrave)
+giPirateGrave :: Icon
+giPirateGrave = element _giPirateGrave
 
 foreign import _giPirateHat :: ReactIcon
 
-giPirateHat :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPirateHat = element (unsafeCoerce _giPirateHat)
+giPirateHat :: Icon
+giPirateHat = element _giPirateHat
 
 foreign import _giPirateHook :: ReactIcon
 
-giPirateHook :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPirateHook = element (unsafeCoerce _giPirateHook)
+giPirateHook :: Icon
+giPirateHook = element _giPirateHook
 
 foreign import _giPirateSkull :: ReactIcon
 
-giPirateSkull :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPirateSkull = element (unsafeCoerce _giPirateSkull)
+giPirateSkull :: Icon
+giPirateSkull = element _giPirateSkull
 
 foreign import _giPisaTower :: ReactIcon
 
-giPisaTower :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPisaTower = element (unsafeCoerce _giPisaTower)
+giPisaTower :: Icon
+giPisaTower = element _giPisaTower
 
 foreign import _giPisces :: ReactIcon
 
-giPisces :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPisces = element (unsafeCoerce _giPisces)
+giPisces :: Icon
+giPisces = element _giPisces
 
 foreign import _giPistolGun :: ReactIcon
 
-giPistolGun :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPistolGun = element (unsafeCoerce _giPistolGun)
+giPistolGun :: Icon
+giPistolGun = element _giPistolGun
 
 foreign import _giPitchfork :: ReactIcon
 
-giPitchfork :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPitchfork = element (unsafeCoerce _giPitchfork)
+giPitchfork :: Icon
+giPitchfork = element _giPitchfork
 
 foreign import _giPizzaCutter :: ReactIcon
 
-giPizzaCutter :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPizzaCutter = element (unsafeCoerce _giPizzaCutter)
+giPizzaCutter :: Icon
+giPizzaCutter = element _giPizzaCutter
 
 foreign import _giPizzaSlice :: ReactIcon
 
-giPizzaSlice :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPizzaSlice = element (unsafeCoerce _giPizzaSlice)
+giPizzaSlice :: Icon
+giPizzaSlice = element _giPizzaSlice
 
 foreign import _giPlagueDoctorProfile :: ReactIcon
 
-giPlagueDoctorProfile :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPlagueDoctorProfile = element (unsafeCoerce _giPlagueDoctorProfile)
+giPlagueDoctorProfile :: Icon
+giPlagueDoctorProfile = element _giPlagueDoctorProfile
 
 foreign import _giPlainArrow :: ReactIcon
 
-giPlainArrow :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPlainArrow = element (unsafeCoerce _giPlainArrow)
+giPlainArrow :: Icon
+giPlainArrow = element _giPlainArrow
 
 foreign import _giPlainCircle :: ReactIcon
 
-giPlainCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPlainCircle = element (unsafeCoerce _giPlainCircle)
+giPlainCircle :: Icon
+giPlainCircle = element _giPlainCircle
 
 foreign import _giPlainDagger :: ReactIcon
 
-giPlainDagger :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPlainDagger = element (unsafeCoerce _giPlainDagger)
+giPlainDagger :: Icon
+giPlainDagger = element _giPlainDagger
 
 foreign import _giPlainSquare :: ReactIcon
 
-giPlainSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPlainSquare = element (unsafeCoerce _giPlainSquare)
+giPlainSquare :: Icon
+giPlainSquare = element _giPlainSquare
 
 foreign import _giPlanePilot :: ReactIcon
 
-giPlanePilot :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPlanePilot = element (unsafeCoerce _giPlanePilot)
+giPlanePilot :: Icon
+giPlanePilot = element _giPlanePilot
 
 foreign import _giPlanetConquest :: ReactIcon
 
-giPlanetConquest :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPlanetConquest = element (unsafeCoerce _giPlanetConquest)
+giPlanetConquest :: Icon
+giPlanetConquest = element _giPlanetConquest
 
 foreign import _giPlanetCore :: ReactIcon
 
-giPlanetCore :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPlanetCore = element (unsafeCoerce _giPlanetCore)
+giPlanetCore :: Icon
+giPlanetCore = element _giPlanetCore
 
 foreign import _giPlaneWing :: ReactIcon
 
-giPlaneWing :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPlaneWing = element (unsafeCoerce _giPlaneWing)
+giPlaneWing :: Icon
+giPlaneWing = element _giPlaneWing
 
 foreign import _giPlanks :: ReactIcon
 
-giPlanks :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPlanks = element (unsafeCoerce _giPlanks)
+giPlanks :: Icon
+giPlanks = element _giPlanks
 
 foreign import _giPlantRoots :: ReactIcon
 
-giPlantRoots :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPlantRoots = element (unsafeCoerce _giPlantRoots)
+giPlantRoots :: Icon
+giPlantRoots = element _giPlantRoots
 
 foreign import _giPlantsAndAnimals :: ReactIcon
 
-giPlantsAndAnimals :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPlantsAndAnimals = element (unsafeCoerce _giPlantsAndAnimals)
+giPlantsAndAnimals :: Icon
+giPlantsAndAnimals = element _giPlantsAndAnimals
 
 foreign import _giPlantSeed :: ReactIcon
 
-giPlantSeed :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPlantSeed = element (unsafeCoerce _giPlantSeed)
+giPlantSeed :: Icon
+giPlantSeed = element _giPlantSeed
 
 foreign import _giPlantWatering :: ReactIcon
 
-giPlantWatering :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPlantWatering = element (unsafeCoerce _giPlantWatering)
+giPlantWatering :: Icon
+giPlantWatering = element _giPlantWatering
 
 foreign import _giPlasmaBolt :: ReactIcon
 
-giPlasmaBolt :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPlasmaBolt = element (unsafeCoerce _giPlasmaBolt)
+giPlasmaBolt :: Icon
+giPlasmaBolt = element _giPlasmaBolt
 
 foreign import _giPlasticDuck :: ReactIcon
 
-giPlasticDuck :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPlasticDuck = element (unsafeCoerce _giPlasticDuck)
+giPlasticDuck :: Icon
+giPlasticDuck = element _giPlasticDuck
 
 foreign import _giPlastron :: ReactIcon
 
-giPlastron :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPlastron = element (unsafeCoerce _giPlastron)
+giPlastron :: Icon
+giPlastron = element _giPlastron
 
 foreign import _giPlateClaw :: ReactIcon
 
-giPlateClaw :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPlateClaw = element (unsafeCoerce _giPlateClaw)
+giPlateClaw :: Icon
+giPlateClaw = element _giPlateClaw
 
 foreign import _giPlatform :: ReactIcon
 
-giPlatform :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPlatform = element (unsafeCoerce _giPlatform)
+giPlatform :: Icon
+giPlatform = element _giPlatform
 
 foreign import _giPlayButton :: ReactIcon
 
-giPlayButton :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPlayButton = element (unsafeCoerce _giPlayButton)
+giPlayButton :: Icon
+giPlayButton = element _giPlayButton
 
 foreign import _giPlayerBase :: ReactIcon
 
-giPlayerBase :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPlayerBase = element (unsafeCoerce _giPlayerBase)
+giPlayerBase :: Icon
+giPlayerBase = element _giPlayerBase
 
 foreign import _giPlayerNext :: ReactIcon
 
-giPlayerNext :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPlayerNext = element (unsafeCoerce _giPlayerNext)
+giPlayerNext :: Icon
+giPlayerNext = element _giPlayerNext
 
 foreign import _giPlayerPrevious :: ReactIcon
 
-giPlayerPrevious :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPlayerPrevious = element (unsafeCoerce _giPlayerPrevious)
+giPlayerPrevious :: Icon
+giPlayerPrevious = element _giPlayerPrevious
 
 foreign import _giPlayerTime :: ReactIcon
 
-giPlayerTime :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPlayerTime = element (unsafeCoerce _giPlayerTime)
+giPlayerTime :: Icon
+giPlayerTime = element _giPlayerTime
 
 foreign import _giPlesiosaurus :: ReactIcon
 
-giPlesiosaurus :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPlesiosaurus = element (unsafeCoerce _giPlesiosaurus)
+giPlesiosaurus :: Icon
+giPlesiosaurus = element _giPlesiosaurus
 
 foreign import _giPlow :: ReactIcon
 
-giPlow :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPlow = element (unsafeCoerce _giPlow)
+giPlow :: Icon
+giPlow = element _giPlow
 
 foreign import _giPlug :: ReactIcon
 
-giPlug :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPlug = element (unsafeCoerce _giPlug)
+giPlug :: Icon
+giPlug = element _giPlug
 
 foreign import _giPlunger :: ReactIcon
 
-giPlunger :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPlunger = element (unsafeCoerce _giPlunger)
+giPlunger :: Icon
+giPlunger = element _giPlunger
 
 foreign import _giPocketBow :: ReactIcon
 
-giPocketBow :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPocketBow = element (unsafeCoerce _giPocketBow)
+giPocketBow :: Icon
+giPocketBow = element _giPocketBow
 
 foreign import _giPocketRadio :: ReactIcon
 
-giPocketRadio :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPocketRadio = element (unsafeCoerce _giPocketRadio)
+giPocketRadio :: Icon
+giPocketRadio = element _giPocketRadio
 
 foreign import _giPocketWatch :: ReactIcon
 
-giPocketWatch :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPocketWatch = element (unsafeCoerce _giPocketWatch)
+giPocketWatch :: Icon
+giPocketWatch = element _giPocketWatch
 
 foreign import _giPodium :: ReactIcon
 
-giPodium :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPodium = element (unsafeCoerce _giPodium)
+giPodium :: Icon
+giPodium = element _giPodium
 
 foreign import _giPodiumSecond :: ReactIcon
 
-giPodiumSecond :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPodiumSecond = element (unsafeCoerce _giPodiumSecond)
+giPodiumSecond :: Icon
+giPodiumSecond = element _giPodiumSecond
 
 foreign import _giPodiumThird :: ReactIcon
 
-giPodiumThird :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPodiumThird = element (unsafeCoerce _giPodiumThird)
+giPodiumThird :: Icon
+giPodiumThird = element _giPodiumThird
 
 foreign import _giPodiumWinner :: ReactIcon
 
-giPodiumWinner :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPodiumWinner = element (unsafeCoerce _giPodiumWinner)
+giPodiumWinner :: Icon
+giPodiumWinner = element _giPodiumWinner
 
 foreign import _giPointing :: ReactIcon
 
-giPointing :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPointing = element (unsafeCoerce _giPointing)
+giPointing :: Icon
+giPointing = element _giPointing
 
 foreign import _giPointyHat :: ReactIcon
 
-giPointyHat :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPointyHat = element (unsafeCoerce _giPointyHat)
+giPointyHat :: Icon
+giPointyHat = element _giPointyHat
 
 foreign import _giPointySword :: ReactIcon
 
-giPointySword :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPointySword = element (unsafeCoerce _giPointySword)
+giPointySword :: Icon
+giPointySword = element _giPointySword
 
 foreign import _giPoison :: ReactIcon
 
-giPoison :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPoison = element (unsafeCoerce _giPoison)
+giPoison :: Icon
+giPoison = element _giPoison
 
 foreign import _giPoisonBottle :: ReactIcon
 
-giPoisonBottle :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPoisonBottle = element (unsafeCoerce _giPoisonBottle)
+giPoisonBottle :: Icon
+giPoisonBottle = element _giPoisonBottle
 
 foreign import _giPoisonCloud :: ReactIcon
 
-giPoisonCloud :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPoisonCloud = element (unsafeCoerce _giPoisonCloud)
+giPoisonCloud :: Icon
+giPoisonCloud = element _giPoisonCloud
 
 foreign import _giPoisonGas :: ReactIcon
 
-giPoisonGas :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPoisonGas = element (unsafeCoerce _giPoisonGas)
+giPoisonGas :: Icon
+giPoisonGas = element _giPoisonGas
 
 foreign import _giPokecog :: ReactIcon
 
-giPokecog :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPokecog = element (unsafeCoerce _giPokecog)
+giPokecog :: Icon
+giPokecog = element _giPokecog
 
 foreign import _giPokerHand :: ReactIcon
 
-giPokerHand :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPokerHand = element (unsafeCoerce _giPokerHand)
+giPokerHand :: Icon
+giPokerHand = element _giPokerHand
 
 foreign import _giPoland :: ReactIcon
 
-giPoland :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPoland = element (unsafeCoerce _giPoland)
+giPoland :: Icon
+giPoland = element _giPoland
 
 foreign import _giPolarBear :: ReactIcon
 
-giPolarBear :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPolarBear = element (unsafeCoerce _giPolarBear)
+giPolarBear :: Icon
+giPolarBear = element _giPolarBear
 
 foreign import _giPolarStar :: ReactIcon
 
-giPolarStar :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPolarStar = element (unsafeCoerce _giPolarStar)
+giPolarStar :: Icon
+giPolarStar = element _giPolarStar
 
 foreign import _giPoliceBadge :: ReactIcon
 
-giPoliceBadge :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPoliceBadge = element (unsafeCoerce _giPoliceBadge)
+giPoliceBadge :: Icon
+giPoliceBadge = element _giPoliceBadge
 
 foreign import _giPoliceCar :: ReactIcon
 
-giPoliceCar :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPoliceCar = element (unsafeCoerce _giPoliceCar)
+giPoliceCar :: Icon
+giPoliceCar = element _giPoliceCar
 
 foreign import _giPoliceOfficerHead :: ReactIcon
 
-giPoliceOfficerHead :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPoliceOfficerHead = element (unsafeCoerce _giPoliceOfficerHead)
+giPoliceOfficerHead :: Icon
+giPoliceOfficerHead = element _giPoliceOfficerHead
 
 foreign import _giPoliceTarget :: ReactIcon
 
-giPoliceTarget :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPoliceTarget = element (unsafeCoerce _giPoliceTarget)
+giPoliceTarget :: Icon
+giPoliceTarget = element _giPoliceTarget
 
 foreign import _giPollenDust :: ReactIcon
 
-giPollenDust :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPollenDust = element (unsafeCoerce _giPollenDust)
+giPollenDust :: Icon
+giPollenDust = element _giPollenDust
 
 foreign import _giPoloShirt :: ReactIcon
 
-giPoloShirt :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPoloShirt = element (unsafeCoerce _giPoloShirt)
+giPoloShirt :: Icon
+giPoloShirt = element _giPoloShirt
 
 foreign import _giPoncho :: ReactIcon
 
-giPoncho :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPoncho = element (unsafeCoerce _giPoncho)
+giPoncho :: Icon
+giPoncho = element _giPoncho
 
 foreign import _giPoolDive :: ReactIcon
 
-giPoolDive :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPoolDive = element (unsafeCoerce _giPoolDive)
+giPoolDive :: Icon
+giPoolDive = element _giPoolDive
 
 foreign import _giPoolTableCorner :: ReactIcon
 
-giPoolTableCorner :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPoolTableCorner = element (unsafeCoerce _giPoolTableCorner)
+giPoolTableCorner :: Icon
+giPoolTableCorner = element _giPoolTableCorner
 
 foreign import _giPoolTriangle :: ReactIcon
 
-giPoolTriangle :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPoolTriangle = element (unsafeCoerce _giPoolTriangle)
+giPoolTriangle :: Icon
+giPoolTriangle = element _giPoolTriangle
 
 foreign import _giPopcorn :: ReactIcon
 
-giPopcorn :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPopcorn = element (unsafeCoerce _giPopcorn)
+giPopcorn :: Icon
+giPopcorn = element _giPopcorn
 
 foreign import _giPopeCrown :: ReactIcon
 
-giPopeCrown :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPopeCrown = element (unsafeCoerce _giPopeCrown)
+giPopeCrown :: Icon
+giPopeCrown = element _giPopeCrown
 
 foreign import _giPoppy :: ReactIcon
 
-giPoppy :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPoppy = element (unsafeCoerce _giPoppy)
+giPoppy :: Icon
+giPoppy = element _giPoppy
 
 foreign import _giPorcelainVase :: ReactIcon
 
-giPorcelainVase :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPorcelainVase = element (unsafeCoerce _giPorcelainVase)
+giPorcelainVase :: Icon
+giPorcelainVase = element _giPorcelainVase
 
 foreign import _giPorcupine :: ReactIcon
 
-giPorcupine :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPorcupine = element (unsafeCoerce _giPorcupine)
+giPorcupine :: Icon
+giPorcupine = element _giPorcupine
 
 foreign import _giPorcupinefish :: ReactIcon
 
-giPorcupinefish :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPorcupinefish = element (unsafeCoerce _giPorcupinefish)
+giPorcupinefish :: Icon
+giPorcupinefish = element _giPorcupinefish
 
 foreign import _giPortal :: ReactIcon
 
-giPortal :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPortal = element (unsafeCoerce _giPortal)
+giPortal :: Icon
+giPortal = element _giPortal
 
 foreign import _giPortculis :: ReactIcon
 
-giPortculis :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPortculis = element (unsafeCoerce _giPortculis)
+giPortculis :: Icon
+giPortculis = element _giPortculis
 
 foreign import _giPortrait :: ReactIcon
 
-giPortrait :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPortrait = element (unsafeCoerce _giPortrait)
+giPortrait :: Icon
+giPortrait = element _giPortrait
 
 foreign import _giPortugal :: ReactIcon
 
-giPortugal :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPortugal = element (unsafeCoerce _giPortugal)
+giPortugal :: Icon
+giPortugal = element _giPortugal
 
 foreign import _giPositionMarker :: ReactIcon
 
-giPositionMarker :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPositionMarker = element (unsafeCoerce _giPositionMarker)
+giPositionMarker :: Icon
+giPositionMarker = element _giPositionMarker
 
 foreign import _giPostOffice :: ReactIcon
 
-giPostOffice :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPostOffice = element (unsafeCoerce _giPostOffice)
+giPostOffice :: Icon
+giPostOffice = element _giPostOffice
 
 foreign import _giPostStamp :: ReactIcon
 
-giPostStamp :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPostStamp = element (unsafeCoerce _giPostStamp)
+giPostStamp :: Icon
+giPostStamp = element _giPostStamp
 
 foreign import _giPotato :: ReactIcon
 
-giPotato :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPotato = element (unsafeCoerce _giPotato)
+giPotato :: Icon
+giPotato = element _giPotato
 
 foreign import _giPotionBall :: ReactIcon
 
-giPotionBall :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPotionBall = element (unsafeCoerce _giPotionBall)
+giPotionBall :: Icon
+giPotionBall = element _giPotionBall
 
 foreign import _giPotionOfMadness :: ReactIcon
 
-giPotionOfMadness :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPotionOfMadness = element (unsafeCoerce _giPotionOfMadness)
+giPotionOfMadness :: Icon
+giPotionOfMadness = element _giPotionOfMadness
 
 foreign import _giPounce :: ReactIcon
 
-giPounce :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPounce = element (unsafeCoerce _giPounce)
+giPounce :: Icon
+giPounce = element _giPounce
 
 foreign import _giPouringChalice :: ReactIcon
 
-giPouringChalice :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPouringChalice = element (unsafeCoerce _giPouringChalice)
+giPouringChalice :: Icon
+giPouringChalice = element _giPouringChalice
 
 foreign import _giPouringPot :: ReactIcon
 
-giPouringPot :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPouringPot = element (unsafeCoerce _giPouringPot)
+giPouringPot :: Icon
+giPouringPot = element _giPouringPot
 
 foreign import _giPowder :: ReactIcon
 
-giPowder :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPowder = element (unsafeCoerce _giPowder)
+giPowder :: Icon
+giPowder = element _giPowder
 
 foreign import _giPowderBag :: ReactIcon
 
-giPowderBag :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPowderBag = element (unsafeCoerce _giPowderBag)
+giPowderBag :: Icon
+giPowderBag = element _giPowderBag
 
 foreign import _giPowerButton :: ReactIcon
 
-giPowerButton :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPowerButton = element (unsafeCoerce _giPowerButton)
+giPowerButton :: Icon
+giPowerButton = element _giPowerButton
 
 foreign import _giPowerGenerator :: ReactIcon
 
-giPowerGenerator :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPowerGenerator = element (unsafeCoerce _giPowerGenerator)
+giPowerGenerator :: Icon
+giPowerGenerator = element _giPowerGenerator
 
 foreign import _giPowerLightning :: ReactIcon
 
-giPowerLightning :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPowerLightning = element (unsafeCoerce _giPowerLightning)
+giPowerLightning :: Icon
+giPowerLightning = element _giPowerLightning
 
 foreign import _giPowerRing :: ReactIcon
 
-giPowerRing :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPowerRing = element (unsafeCoerce _giPowerRing)
+giPowerRing :: Icon
+giPowerRing = element _giPowerRing
 
 foreign import _giPrayer :: ReactIcon
 
-giPrayer :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPrayer = element (unsafeCoerce _giPrayer)
+giPrayer :: Icon
+giPrayer = element _giPrayer
 
 foreign import _giPrayerBeads :: ReactIcon
 
-giPrayerBeads :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPrayerBeads = element (unsafeCoerce _giPrayerBeads)
+giPrayerBeads :: Icon
+giPrayerBeads = element _giPrayerBeads
 
 foreign import _giPrayingMantis :: ReactIcon
 
-giPrayingMantis :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPrayingMantis = element (unsafeCoerce _giPrayingMantis)
+giPrayingMantis :: Icon
+giPrayingMantis = element _giPrayingMantis
 
 foreign import _giPresent :: ReactIcon
 
-giPresent :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPresent = element (unsafeCoerce _giPresent)
+giPresent :: Icon
+giPresent = element _giPresent
 
 foreign import _giPressureCooker :: ReactIcon
 
-giPressureCooker :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPressureCooker = element (unsafeCoerce _giPressureCooker)
+giPressureCooker :: Icon
+giPressureCooker = element _giPressureCooker
 
 foreign import _giPrettyFangs :: ReactIcon
 
-giPrettyFangs :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPrettyFangs = element (unsafeCoerce _giPrettyFangs)
+giPrettyFangs :: Icon
+giPrettyFangs = element _giPrettyFangs
 
 foreign import _giPretzel :: ReactIcon
 
-giPretzel :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPretzel = element (unsafeCoerce _giPretzel)
+giPretzel :: Icon
+giPretzel = element _giPretzel
 
 foreign import _giPreviousButton :: ReactIcon
 
-giPreviousButton :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPreviousButton = element (unsafeCoerce _giPreviousButton)
+giPreviousButton :: Icon
+giPreviousButton = element _giPreviousButton
 
 foreign import _giPriceTag :: ReactIcon
 
-giPriceTag :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPriceTag = element (unsafeCoerce _giPriceTag)
+giPriceTag :: Icon
+giPriceTag = element _giPriceTag
 
 foreign import _giPrimitiveNecklace :: ReactIcon
 
-giPrimitiveNecklace :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPrimitiveNecklace = element (unsafeCoerce _giPrimitiveNecklace)
+giPrimitiveNecklace :: Icon
+giPrimitiveNecklace = element _giPrimitiveNecklace
 
 foreign import _giPrimitiveTorch :: ReactIcon
 
-giPrimitiveTorch :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPrimitiveTorch = element (unsafeCoerce _giPrimitiveTorch)
+giPrimitiveTorch :: Icon
+giPrimitiveTorch = element _giPrimitiveTorch
 
 foreign import _giPrism :: ReactIcon
 
-giPrism :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPrism = element (unsafeCoerce _giPrism)
+giPrism :: Icon
+giPrism = element _giPrism
 
 foreign import _giPrisoner :: ReactIcon
 
-giPrisoner :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPrisoner = element (unsafeCoerce _giPrisoner)
+giPrisoner :: Icon
+giPrisoner = element _giPrisoner
 
 foreign import _giPrivate :: ReactIcon
 
-giPrivate :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPrivate = element (unsafeCoerce _giPrivate)
+giPrivate :: Icon
+giPrivate = element _giPrivate
 
 foreign import _giPrivateFirstClass :: ReactIcon
 
-giPrivateFirstClass :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPrivateFirstClass = element (unsafeCoerce _giPrivateFirstClass)
+giPrivateFirstClass :: Icon
+giPrivateFirstClass = element _giPrivateFirstClass
 
 foreign import _giProcessor :: ReactIcon
 
-giProcessor :: forall a b. Union a b PropsIcon => Record a -> JSX
-giProcessor = element (unsafeCoerce _giProcessor)
+giProcessor :: Icon
+giProcessor = element _giProcessor
 
 foreign import _giProfit :: ReactIcon
 
-giProfit :: forall a b. Union a b PropsIcon => Record a -> JSX
-giProfit = element (unsafeCoerce _giProfit)
+giProfit :: Icon
+giProfit = element _giProfit
 
 foreign import _giProgression :: ReactIcon
 
-giProgression :: forall a b. Union a b PropsIcon => Record a -> JSX
-giProgression = element (unsafeCoerce _giProgression)
+giProgression :: Icon
+giProgression = element _giProgression
 
 foreign import _giPropellerBeanie :: ReactIcon
 
-giPropellerBeanie :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPropellerBeanie = element (unsafeCoerce _giPropellerBeanie)
+giPropellerBeanie :: Icon
+giPropellerBeanie = element _giPropellerBeanie
 
 foreign import _giProtectionGlasses :: ReactIcon
 
-giProtectionGlasses :: forall a b. Union a b PropsIcon => Record a -> JSX
-giProtectionGlasses = element (unsafeCoerce _giProtectionGlasses)
+giProtectionGlasses :: Icon
+giProtectionGlasses = element _giProtectionGlasses
 
 foreign import _giPschentDoubleCrown :: ReactIcon
 
-giPschentDoubleCrown :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPschentDoubleCrown = element (unsafeCoerce _giPschentDoubleCrown)
+giPschentDoubleCrown :: Icon
+giPschentDoubleCrown = element _giPschentDoubleCrown
 
 foreign import _giPsychicWaves :: ReactIcon
 
-giPsychicWaves :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPsychicWaves = element (unsafeCoerce _giPsychicWaves)
+giPsychicWaves :: Icon
+giPsychicWaves = element _giPsychicWaves
 
 foreign import _giPterodactylus :: ReactIcon
 
-giPterodactylus :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPterodactylus = element (unsafeCoerce _giPterodactylus)
+giPterodactylus :: Icon
+giPterodactylus = element _giPterodactylus
 
 foreign import _giPteruges :: ReactIcon
 
-giPteruges :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPteruges = element (unsafeCoerce _giPteruges)
+giPteruges :: Icon
+giPteruges = element _giPteruges
 
 foreign import _giPublicSpeaker :: ReactIcon
 
-giPublicSpeaker :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPublicSpeaker = element (unsafeCoerce _giPublicSpeaker)
+giPublicSpeaker :: Icon
+giPublicSpeaker = element _giPublicSpeaker
 
 foreign import _giPull :: ReactIcon
 
-giPull :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPull = element (unsafeCoerce _giPull)
+giPull :: Icon
+giPull = element _giPull
 
 foreign import _giPulleyHook :: ReactIcon
 
-giPulleyHook :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPulleyHook = element (unsafeCoerce _giPulleyHook)
+giPulleyHook :: Icon
+giPulleyHook = element _giPulleyHook
 
 foreign import _giPulse :: ReactIcon
 
-giPulse :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPulse = element (unsafeCoerce _giPulse)
+giPulse :: Icon
+giPulse = element _giPulse
 
 foreign import _giPummeled :: ReactIcon
 
-giPummeled :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPummeled = element (unsafeCoerce _giPummeled)
+giPummeled :: Icon
+giPummeled = element _giPummeled
 
 foreign import _giPumpkin :: ReactIcon
 
-giPumpkin :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPumpkin = element (unsafeCoerce _giPumpkin)
+giPumpkin :: Icon
+giPumpkin = element _giPumpkin
 
 foreign import _giPumpkinLantern :: ReactIcon
 
-giPumpkinLantern :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPumpkinLantern = element (unsafeCoerce _giPumpkinLantern)
+giPumpkinLantern :: Icon
+giPumpkinLantern = element _giPumpkinLantern
 
 foreign import _giPumpkinMask :: ReactIcon
 
-giPumpkinMask :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPumpkinMask = element (unsafeCoerce _giPumpkinMask)
+giPumpkinMask :: Icon
+giPumpkinMask = element _giPumpkinMask
 
 foreign import _giPunch :: ReactIcon
 
-giPunch :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPunch = element (unsafeCoerce _giPunch)
+giPunch :: Icon
+giPunch = element _giPunch
 
 foreign import _giPunchBlast :: ReactIcon
 
-giPunchBlast :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPunchBlast = element (unsafeCoerce _giPunchBlast)
+giPunchBlast :: Icon
+giPunchBlast = element _giPunchBlast
 
 foreign import _giPunchingBag :: ReactIcon
 
-giPunchingBag :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPunchingBag = element (unsafeCoerce _giPunchingBag)
+giPunchingBag :: Icon
+giPunchingBag = element _giPunchingBag
 
 foreign import _giPuppet :: ReactIcon
 
-giPuppet :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPuppet = element (unsafeCoerce _giPuppet)
+giPuppet :: Icon
+giPuppet = element _giPuppet
 
 foreign import _giPurpleTentacle :: ReactIcon
 
-giPurpleTentacle :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPurpleTentacle = element (unsafeCoerce _giPurpleTentacle)
+giPurpleTentacle :: Icon
+giPurpleTentacle = element _giPurpleTentacle
 
 foreign import _giPush :: ReactIcon
 
-giPush :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPush = element (unsafeCoerce _giPush)
+giPush :: Icon
+giPush = element _giPush
 
 foreign import _giPuzzle :: ReactIcon
 
-giPuzzle :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPuzzle = element (unsafeCoerce _giPuzzle)
+giPuzzle :: Icon
+giPuzzle = element _giPuzzle
 
 foreign import _giPylon :: ReactIcon
 
-giPylon :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPylon = element (unsafeCoerce _giPylon)
+giPylon :: Icon
+giPylon = element _giPylon
 
 foreign import _giPyre :: ReactIcon
 
-giPyre :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPyre = element (unsafeCoerce _giPyre)
+giPyre :: Icon
+giPyre = element _giPyre
 
 foreign import _giPyromaniac :: ReactIcon
 
-giPyromaniac :: forall a b. Union a b PropsIcon => Record a -> JSX
-giPyromaniac = element (unsafeCoerce _giPyromaniac)
+giPyromaniac :: Icon
+giPyromaniac = element _giPyromaniac
 
 foreign import _giQaitbayCitadel :: ReactIcon
 
-giQaitbayCitadel :: forall a b. Union a b PropsIcon => Record a -> JSX
-giQaitbayCitadel = element (unsafeCoerce _giQaitbayCitadel)
+giQaitbayCitadel :: Icon
+giQaitbayCitadel = element _giQaitbayCitadel
 
 foreign import _giQuakeStomp :: ReactIcon
 
-giQuakeStomp :: forall a b. Union a b PropsIcon => Record a -> JSX
-giQuakeStomp = element (unsafeCoerce _giQuakeStomp)
+giQuakeStomp :: Icon
+giQuakeStomp = element _giQuakeStomp
 
 foreign import _giQueenCrown :: ReactIcon
 
-giQueenCrown :: forall a b. Union a b PropsIcon => Record a -> JSX
-giQueenCrown = element (unsafeCoerce _giQueenCrown)
+giQueenCrown :: Icon
+giQueenCrown = element _giQueenCrown
 
 foreign import _giQuickMan :: ReactIcon
 
-giQuickMan :: forall a b. Union a b PropsIcon => Record a -> JSX
-giQuickMan = element (unsafeCoerce _giQuickMan)
+giQuickMan :: Icon
+giQuickMan = element _giQuickMan
 
 foreign import _giQuicksand :: ReactIcon
 
-giQuicksand :: forall a b. Union a b PropsIcon => Record a -> JSX
-giQuicksand = element (unsafeCoerce _giQuicksand)
+giQuicksand :: Icon
+giQuicksand = element _giQuicksand
 
 foreign import _giQuickSlash :: ReactIcon
 
-giQuickSlash :: forall a b. Union a b PropsIcon => Record a -> JSX
-giQuickSlash = element (unsafeCoerce _giQuickSlash)
+giQuickSlash :: Icon
+giQuickSlash = element _giQuickSlash
 
 foreign import _giQuill :: ReactIcon
 
-giQuill :: forall a b. Union a b PropsIcon => Record a -> JSX
-giQuill = element (unsafeCoerce _giQuill)
+giQuill :: Icon
+giQuill = element _giQuill
 
 foreign import _giQuillInk :: ReactIcon
 
-giQuillInk :: forall a b. Union a b PropsIcon => Record a -> JSX
-giQuillInk = element (unsafeCoerce _giQuillInk)
+giQuillInk :: Icon
+giQuillInk = element _giQuillInk
 
 foreign import _giQuiver :: ReactIcon
 
-giQuiver :: forall a b. Union a b PropsIcon => Record a -> JSX
-giQuiver = element (unsafeCoerce _giQuiver)
+giQuiver :: Icon
+giQuiver = element _giQuiver
 
 foreign import _giRabbit :: ReactIcon
 
-giRabbit :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRabbit = element (unsafeCoerce _giRabbit)
+giRabbit :: Icon
+giRabbit = element _giRabbit
 
 foreign import _giRabbitHead :: ReactIcon
 
-giRabbitHead :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRabbitHead = element (unsafeCoerce _giRabbitHead)
+giRabbitHead :: Icon
+giRabbitHead = element _giRabbitHead
 
 foreign import _giRaccoonHead :: ReactIcon
 
-giRaccoonHead :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRaccoonHead = element (unsafeCoerce _giRaccoonHead)
+giRaccoonHead :: Icon
+giRaccoonHead = element _giRaccoonHead
 
 foreign import _giRaceCar :: ReactIcon
 
-giRaceCar :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRaceCar = element (unsafeCoerce _giRaceCar)
+giRaceCar :: Icon
+giRaceCar = element _giRaceCar
 
 foreign import _giRadarCrossSection :: ReactIcon
 
-giRadarCrossSection :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRadarCrossSection = element (unsafeCoerce _giRadarCrossSection)
+giRadarCrossSection :: Icon
+giRadarCrossSection = element _giRadarCrossSection
 
 foreign import _giRadarDish :: ReactIcon
 
-giRadarDish :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRadarDish = element (unsafeCoerce _giRadarDish)
+giRadarDish :: Icon
+giRadarDish = element _giRadarDish
 
 foreign import _giRadarSweep :: ReactIcon
 
-giRadarSweep :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRadarSweep = element (unsafeCoerce _giRadarSweep)
+giRadarSweep :: Icon
+giRadarSweep = element _giRadarSweep
 
 foreign import _giRaddish :: ReactIcon
 
-giRaddish :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRaddish = element (unsafeCoerce _giRaddish)
+giRaddish :: Icon
+giRaddish = element _giRaddish
 
 foreign import _giRadialBalance :: ReactIcon
 
-giRadialBalance :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRadialBalance = element (unsafeCoerce _giRadialBalance)
+giRadialBalance :: Icon
+giRadialBalance = element _giRadialBalance
 
 foreign import _giRadiations :: ReactIcon
 
-giRadiations :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRadiations = element (unsafeCoerce _giRadiations)
+giRadiations :: Icon
+giRadiations = element _giRadiations
 
 foreign import _giRadioactive :: ReactIcon
 
-giRadioactive :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRadioactive = element (unsafeCoerce _giRadioactive)
+giRadioactive :: Icon
+giRadioactive = element _giRadioactive
 
 foreign import _giRadioTower :: ReactIcon
 
-giRadioTower :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRadioTower = element (unsafeCoerce _giRadioTower)
+giRadioTower :: Icon
+giRadioTower = element _giRadioTower
 
 foreign import _giRaft :: ReactIcon
 
-giRaft :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRaft = element (unsafeCoerce _giRaft)
+giRaft :: Icon
+giRaft = element _giRaft
 
 foreign import _giRaggedWound :: ReactIcon
 
-giRaggedWound :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRaggedWound = element (unsafeCoerce _giRaggedWound)
+giRaggedWound :: Icon
+giRaggedWound = element _giRaggedWound
 
 foreign import _giRailRoad :: ReactIcon
 
-giRailRoad :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRailRoad = element (unsafeCoerce _giRailRoad)
+giRailRoad :: Icon
+giRailRoad = element _giRailRoad
 
 foreign import _giRailway :: ReactIcon
 
-giRailway :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRailway = element (unsafeCoerce _giRailway)
+giRailway :: Icon
+giRailway = element _giRailway
 
 foreign import _giRainbowStar :: ReactIcon
 
-giRainbowStar :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRainbowStar = element (unsafeCoerce _giRainbowStar)
+giRainbowStar :: Icon
+giRainbowStar = element _giRainbowStar
 
 foreign import _giRaining :: ReactIcon
 
-giRaining :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRaining = element (unsafeCoerce _giRaining)
+giRaining :: Icon
+giRaining = element _giRaining
 
 foreign import _giRaiseSkeleton :: ReactIcon
 
-giRaiseSkeleton :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRaiseSkeleton = element (unsafeCoerce _giRaiseSkeleton)
+giRaiseSkeleton :: Icon
+giRaiseSkeleton = element _giRaiseSkeleton
 
 foreign import _giRaiseZombie :: ReactIcon
 
-giRaiseZombie :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRaiseZombie = element (unsafeCoerce _giRaiseZombie)
+giRaiseZombie :: Icon
+giRaiseZombie = element _giRaiseZombie
 
 foreign import _giRake :: ReactIcon
 
-giRake :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRake = element (unsafeCoerce _giRake)
+giRake :: Icon
+giRake = element _giRake
 
 foreign import _giRallyTheTroops :: ReactIcon
 
-giRallyTheTroops :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRallyTheTroops = element (unsafeCoerce _giRallyTheTroops)
+giRallyTheTroops :: Icon
+giRallyTheTroops = element _giRallyTheTroops
 
 foreign import _giRam :: ReactIcon
 
-giRam :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRam = element (unsafeCoerce _giRam)
+giRam :: Icon
+giRam = element _giRam
 
 foreign import _giRamProfile :: ReactIcon
 
-giRamProfile :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRamProfile = element (unsafeCoerce _giRamProfile)
+giRamProfile :: Icon
+giRamProfile = element _giRamProfile
 
 foreign import _giRanchGate :: ReactIcon
 
-giRanchGate :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRanchGate = element (unsafeCoerce _giRanchGate)
+giRanchGate :: Icon
+giRanchGate = element _giRanchGate
 
 foreign import _giRapidshareArrow :: ReactIcon
 
-giRapidshareArrow :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRapidshareArrow = element (unsafeCoerce _giRapidshareArrow)
+giRapidshareArrow :: Icon
+giRapidshareArrow = element _giRapidshareArrow
 
 foreign import _giRaspberry :: ReactIcon
 
-giRaspberry :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRaspberry = element (unsafeCoerce _giRaspberry)
+giRaspberry :: Icon
+giRaspberry = element _giRaspberry
 
 foreign import _giRat :: ReactIcon
 
-giRat :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRat = element (unsafeCoerce _giRat)
+giRat :: Icon
+giRat = element _giRat
 
 foreign import _giRattlesnake :: ReactIcon
 
-giRattlesnake :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRattlesnake = element (unsafeCoerce _giRattlesnake)
+giRattlesnake :: Icon
+giRattlesnake = element _giRattlesnake
 
 foreign import _giRaven :: ReactIcon
 
-giRaven :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRaven = element (unsafeCoerce _giRaven)
+giRaven :: Icon
+giRaven = element _giRaven
 
 foreign import _giRawEgg :: ReactIcon
 
-giRawEgg :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRawEgg = element (unsafeCoerce _giRawEgg)
+giRawEgg :: Icon
+giRawEgg = element _giRawEgg
 
 foreign import _giRayGun :: ReactIcon
 
-giRayGun :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRayGun = element (unsafeCoerce _giRayGun)
+giRayGun :: Icon
+giRayGun = element _giRayGun
 
 foreign import _giRazor :: ReactIcon
 
-giRazor :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRazor = element (unsafeCoerce _giRazor)
+giRazor :: Icon
+giRazor = element _giRazor
 
 foreign import _giRazorBlade :: ReactIcon
 
-giRazorBlade :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRazorBlade = element (unsafeCoerce _giRazorBlade)
+giRazorBlade :: Icon
+giRazorBlade = element _giRazorBlade
 
 foreign import _giReactor :: ReactIcon
 
-giReactor :: forall a b. Union a b PropsIcon => Record a -> JSX
-giReactor = element (unsafeCoerce _giReactor)
+giReactor :: Icon
+giReactor = element _giReactor
 
 foreign import _giRead :: ReactIcon
 
-giRead :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRead = element (unsafeCoerce _giRead)
+giRead :: Icon
+giRead = element _giRead
 
 foreign import _giReaperScythe :: ReactIcon
 
-giReaperScythe :: forall a b. Union a b PropsIcon => Record a -> JSX
-giReaperScythe = element (unsafeCoerce _giReaperScythe)
+giReaperScythe :: Icon
+giReaperScythe = element _giReaperScythe
 
 foreign import _giRearAura :: ReactIcon
 
-giRearAura :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRearAura = element (unsafeCoerce _giRearAura)
+giRearAura :: Icon
+giRearAura = element _giRearAura
 
 foreign import _giReceiveMoney :: ReactIcon
 
-giReceiveMoney :: forall a b. Union a b PropsIcon => Record a -> JSX
-giReceiveMoney = element (unsafeCoerce _giReceiveMoney)
+giReceiveMoney :: Icon
+giReceiveMoney = element _giReceiveMoney
 
 foreign import _giRecycle :: ReactIcon
 
-giRecycle :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRecycle = element (unsafeCoerce _giRecycle)
+giRecycle :: Icon
+giRecycle = element _giRecycle
 
 foreign import _giRedCarpet :: ReactIcon
 
-giRedCarpet :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRedCarpet = element (unsafeCoerce _giRedCarpet)
+giRedCarpet :: Icon
+giRedCarpet = element _giRedCarpet
 
 foreign import _giReed :: ReactIcon
 
-giReed :: forall a b. Union a b PropsIcon => Record a -> JSX
-giReed = element (unsafeCoerce _giReed)
+giReed :: Icon
+giReed = element _giReed
 
 foreign import _giRefinery :: ReactIcon
 
-giRefinery :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRefinery = element (unsafeCoerce _giRefinery)
+giRefinery :: Icon
+giRefinery = element _giRefinery
 
 foreign import _giRegeneration :: ReactIcon
 
-giRegeneration :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRegeneration = element (unsafeCoerce _giRegeneration)
+giRegeneration :: Icon
+giRegeneration = element _giRegeneration
 
 foreign import _giRelationshipBounds :: ReactIcon
 
-giRelationshipBounds :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRelationshipBounds = element (unsafeCoerce _giRelationshipBounds)
+giRelationshipBounds :: Icon
+giRelationshipBounds = element _giRelationshipBounds
 
 foreign import _giRelicBlade :: ReactIcon
 
-giRelicBlade :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRelicBlade = element (unsafeCoerce _giRelicBlade)
+giRelicBlade :: Icon
+giRelicBlade = element _giRelicBlade
 
 foreign import _giReloadGunBarrel :: ReactIcon
 
-giReloadGunBarrel :: forall a b. Union a b PropsIcon => Record a -> JSX
-giReloadGunBarrel = element (unsafeCoerce _giReloadGunBarrel)
+giReloadGunBarrel :: Icon
+giReloadGunBarrel = element _giReloadGunBarrel
 
 foreign import _giRemedy :: ReactIcon
 
-giRemedy :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRemedy = element (unsafeCoerce _giRemedy)
+giRemedy :: Icon
+giRemedy = element _giRemedy
 
 foreign import _giRempart :: ReactIcon
 
-giRempart :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRempart = element (unsafeCoerce _giRempart)
+giRempart :: Icon
+giRempart = element _giRempart
 
 foreign import _giReptileTail :: ReactIcon
 
-giReptileTail :: forall a b. Union a b PropsIcon => Record a -> JSX
-giReptileTail = element (unsafeCoerce _giReptileTail)
+giReptileTail :: Icon
+giReptileTail = element _giReptileTail
 
 foreign import _giResize :: ReactIcon
 
-giResize :: forall a b. Union a b PropsIcon => Record a -> JSX
-giResize = element (unsafeCoerce _giResize)
+giResize :: Icon
+giResize = element _giResize
 
 foreign import _giResonance :: ReactIcon
 
-giResonance :: forall a b. Union a b PropsIcon => Record a -> JSX
-giResonance = element (unsafeCoerce _giResonance)
+giResonance :: Icon
+giResonance = element _giResonance
 
 foreign import _giRestingVampire :: ReactIcon
 
-giRestingVampire :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRestingVampire = element (unsafeCoerce _giRestingVampire)
+giRestingVampire :: Icon
+giRestingVampire = element _giRestingVampire
 
 foreign import _giReticule :: ReactIcon
 
-giReticule :: forall a b. Union a b PropsIcon => Record a -> JSX
-giReticule = element (unsafeCoerce _giReticule)
+giReticule :: Icon
+giReticule = element _giReticule
 
 foreign import _giRetroController :: ReactIcon
 
-giRetroController :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRetroController = element (unsafeCoerce _giRetroController)
+giRetroController :: Icon
+giRetroController = element _giRetroController
 
 foreign import _giReturnArrow :: ReactIcon
 
-giReturnArrow :: forall a b. Union a b PropsIcon => Record a -> JSX
-giReturnArrow = element (unsafeCoerce _giReturnArrow)
+giReturnArrow :: Icon
+giReturnArrow = element _giReturnArrow
 
 foreign import _giRevolt :: ReactIcon
 
-giRevolt :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRevolt = element (unsafeCoerce _giRevolt)
+giRevolt :: Icon
+giRevolt = element _giRevolt
 
 foreign import _giRevolver :: ReactIcon
 
-giRevolver :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRevolver = element (unsafeCoerce _giRevolver)
+giRevolver :: Icon
+giRevolver = element _giRevolver
 
 foreign import _giRhinocerosHorn :: ReactIcon
 
-giRhinocerosHorn :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRhinocerosHorn = element (unsafeCoerce _giRhinocerosHorn)
+giRhinocerosHorn :: Icon
+giRhinocerosHorn = element _giRhinocerosHorn
 
 foreign import _giRialtoBridge :: ReactIcon
 
-giRialtoBridge :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRialtoBridge = element (unsafeCoerce _giRialtoBridge)
+giRialtoBridge :: Icon
+giRialtoBridge = element _giRialtoBridge
 
 foreign import _giRibbon :: ReactIcon
 
-giRibbon :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRibbon = element (unsafeCoerce _giRibbon)
+giRibbon :: Icon
+giRibbon = element _giRibbon
 
 foreign import _giRibbonMedal :: ReactIcon
 
-giRibbonMedal :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRibbonMedal = element (unsafeCoerce _giRibbonMedal)
+giRibbonMedal :: Icon
+giRibbonMedal = element _giRibbonMedal
 
 foreign import _giRibbonShield :: ReactIcon
 
-giRibbonShield :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRibbonShield = element (unsafeCoerce _giRibbonShield)
+giRibbonShield :: Icon
+giRibbonShield = element _giRibbonShield
 
 foreign import _giRibcage :: ReactIcon
 
-giRibcage :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRibcage = element (unsafeCoerce _giRibcage)
+giRibcage :: Icon
+giRibcage = element _giRibcage
 
 foreign import _giRiceCooker :: ReactIcon
 
-giRiceCooker :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRiceCooker = element (unsafeCoerce _giRiceCooker)
+giRiceCooker :: Icon
+giRiceCooker = element _giRiceCooker
 
 foreign import _giRifle :: ReactIcon
 
-giRifle :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRifle = element (unsafeCoerce _giRifle)
+giRifle :: Icon
+giRifle = element _giRifle
 
 foreign import _giRing :: ReactIcon
 
-giRing :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRing = element (unsafeCoerce _giRing)
+giRing :: Icon
+giRing = element _giRing
 
 foreign import _giRingBox :: ReactIcon
 
-giRingBox :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRingBox = element (unsafeCoerce _giRingBox)
+giRingBox :: Icon
+giRingBox = element _giRingBox
 
 foreign import _giRingedBeam :: ReactIcon
 
-giRingedBeam :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRingedBeam = element (unsafeCoerce _giRingedBeam)
+giRingedBeam :: Icon
+giRingedBeam = element _giRingedBeam
 
 foreign import _giRingedPlanet :: ReactIcon
 
-giRingedPlanet :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRingedPlanet = element (unsafeCoerce _giRingedPlanet)
+giRingedPlanet :: Icon
+giRingedPlanet = element _giRingedPlanet
 
 foreign import _giRingingAlarm :: ReactIcon
 
-giRingingAlarm :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRingingAlarm = element (unsafeCoerce _giRingingAlarm)
+giRingingAlarm :: Icon
+giRingingAlarm = element _giRingingAlarm
 
 foreign import _giRingingBell :: ReactIcon
 
-giRingingBell :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRingingBell = element (unsafeCoerce _giRingingBell)
+giRingingBell :: Icon
+giRingingBell = element _giRingingBell
 
 foreign import _giRingmaster :: ReactIcon
 
-giRingmaster :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRingmaster = element (unsafeCoerce _giRingmaster)
+giRingmaster :: Icon
+giRingmaster = element _giRingmaster
 
 foreign import _giRingMould :: ReactIcon
 
-giRingMould :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRingMould = element (unsafeCoerce _giRingMould)
+giRingMould :: Icon
+giRingMould = element _giRingMould
 
 foreign import _giRiotShield :: ReactIcon
 
-giRiotShield :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRiotShield = element (unsafeCoerce _giRiotShield)
+giRiotShield :: Icon
+giRiotShield = element _giRiotShield
 
 foreign import _giRiver :: ReactIcon
 
-giRiver :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRiver = element (unsafeCoerce _giRiver)
+giRiver :: Icon
+giRiver = element _giRiver
 
 foreign import _giRoad :: ReactIcon
 
-giRoad :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRoad = element (unsafeCoerce _giRoad)
+giRoad :: Icon
+giRoad = element _giRoad
 
 foreign import _giRoastChicken :: ReactIcon
 
-giRoastChicken :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRoastChicken = element (unsafeCoerce _giRoastChicken)
+giRoastChicken :: Icon
+giRoastChicken = element _giRoastChicken
 
 foreign import _giRobber :: ReactIcon
 
-giRobber :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRobber = element (unsafeCoerce _giRobber)
+giRobber :: Icon
+giRobber = element _giRobber
 
 foreign import _giRobberHand :: ReactIcon
 
-giRobberHand :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRobberHand = element (unsafeCoerce _giRobberHand)
+giRobberHand :: Icon
+giRobberHand = element _giRobberHand
 
 foreign import _giRobberMask :: ReactIcon
 
-giRobberMask :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRobberMask = element (unsafeCoerce _giRobberMask)
+giRobberMask :: Icon
+giRobberMask = element _giRobberMask
 
 foreign import _giRobe :: ReactIcon
 
-giRobe :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRobe = element (unsafeCoerce _giRobe)
+giRobe :: Icon
+giRobe = element _giRobe
 
 foreign import _giRobinHoodHat :: ReactIcon
 
-giRobinHoodHat :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRobinHoodHat = element (unsafeCoerce _giRobinHoodHat)
+giRobinHoodHat :: Icon
+giRobinHoodHat = element _giRobinHoodHat
 
 foreign import _giRobotAntennas :: ReactIcon
 
-giRobotAntennas :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRobotAntennas = element (unsafeCoerce _giRobotAntennas)
+giRobotAntennas :: Icon
+giRobotAntennas = element _giRobotAntennas
 
 foreign import _giRobotGolem :: ReactIcon
 
-giRobotGolem :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRobotGolem = element (unsafeCoerce _giRobotGolem)
+giRobotGolem :: Icon
+giRobotGolem = element _giRobotGolem
 
 foreign import _giRobotGrab :: ReactIcon
 
-giRobotGrab :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRobotGrab = element (unsafeCoerce _giRobotGrab)
+giRobotGrab :: Icon
+giRobotGrab = element _giRobotGrab
 
 foreign import _giRobotHelmet :: ReactIcon
 
-giRobotHelmet :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRobotHelmet = element (unsafeCoerce _giRobotHelmet)
+giRobotHelmet :: Icon
+giRobotHelmet = element _giRobotHelmet
 
 foreign import _giRobotLeg :: ReactIcon
 
-giRobotLeg :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRobotLeg = element (unsafeCoerce _giRobotLeg)
+giRobotLeg :: Icon
+giRobotLeg = element _giRobotLeg
 
 foreign import _giRock :: ReactIcon
 
-giRock :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRock = element (unsafeCoerce _giRock)
+giRock :: Icon
+giRock = element _giRock
 
 foreign import _giRocket :: ReactIcon
 
-giRocket :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRocket = element (unsafeCoerce _giRocket)
+giRocket :: Icon
+giRocket = element _giRocket
 
 foreign import _giRocketFlight :: ReactIcon
 
-giRocketFlight :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRocketFlight = element (unsafeCoerce _giRocketFlight)
+giRocketFlight :: Icon
+giRocketFlight = element _giRocketFlight
 
 foreign import _giRocketThruster :: ReactIcon
 
-giRocketThruster :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRocketThruster = element (unsafeCoerce _giRocketThruster)
+giRocketThruster :: Icon
+giRocketThruster = element _giRocketThruster
 
 foreign import _giRockGolem :: ReactIcon
 
-giRockGolem :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRockGolem = element (unsafeCoerce _giRockGolem)
+giRockGolem :: Icon
+giRockGolem = element _giRockGolem
 
 foreign import _giRockingChair :: ReactIcon
 
-giRockingChair :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRockingChair = element (unsafeCoerce _giRockingChair)
+giRockingChair :: Icon
+giRockingChair = element _giRockingChair
 
 foreign import _giRodOfAsclepius :: ReactIcon
 
-giRodOfAsclepius :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRodOfAsclepius = element (unsafeCoerce _giRodOfAsclepius)
+giRodOfAsclepius :: Icon
+giRodOfAsclepius = element _giRodOfAsclepius
 
 foreign import _giRogue :: ReactIcon
 
-giRogue :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRogue = element (unsafeCoerce _giRogue)
+giRogue :: Icon
+giRogue = element _giRogue
 
 foreign import _giRolledCloth :: ReactIcon
 
-giRolledCloth :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRolledCloth = element (unsafeCoerce _giRolledCloth)
+giRolledCloth :: Icon
+giRolledCloth = element _giRolledCloth
 
 foreign import _giRollerSkate :: ReactIcon
 
-giRollerSkate :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRollerSkate = element (unsafeCoerce _giRollerSkate)
+giRollerSkate :: Icon
+giRollerSkate = element _giRollerSkate
 
 foreign import _giRollingBomb :: ReactIcon
 
-giRollingBomb :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRollingBomb = element (unsafeCoerce _giRollingBomb)
+giRollingBomb :: Icon
+giRollingBomb = element _giRollingBomb
 
 foreign import _giRollingDiceCup :: ReactIcon
 
-giRollingDiceCup :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRollingDiceCup = element (unsafeCoerce _giRollingDiceCup)
+giRollingDiceCup :: Icon
+giRollingDiceCup = element _giRollingDiceCup
 
 foreign import _giRollingDices :: ReactIcon
 
-giRollingDices :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRollingDices = element (unsafeCoerce _giRollingDices)
+giRollingDices :: Icon
+giRollingDices = element _giRollingDices
 
 foreign import _giRollingEnergy :: ReactIcon
 
-giRollingEnergy :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRollingEnergy = element (unsafeCoerce _giRollingEnergy)
+giRollingEnergy :: Icon
+giRollingEnergy = element _giRollingEnergy
 
 foreign import _giRollingSuitcase :: ReactIcon
 
-giRollingSuitcase :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRollingSuitcase = element (unsafeCoerce _giRollingSuitcase)
+giRollingSuitcase :: Icon
+giRollingSuitcase = element _giRollingSuitcase
 
 foreign import _giRomanShield :: ReactIcon
 
-giRomanShield :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRomanShield = element (unsafeCoerce _giRomanShield)
+giRomanShield :: Icon
+giRomanShield = element _giRomanShield
 
 foreign import _giRomanToga :: ReactIcon
 
-giRomanToga :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRomanToga = element (unsafeCoerce _giRomanToga)
+giRomanToga :: Icon
+giRomanToga = element _giRomanToga
 
 foreign import _giRooster :: ReactIcon
 
-giRooster :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRooster = element (unsafeCoerce _giRooster)
+giRooster :: Icon
+giRooster = element _giRooster
 
 foreign import _giRootTip :: ReactIcon
 
-giRootTip :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRootTip = element (unsafeCoerce _giRootTip)
+giRootTip :: Icon
+giRootTip = element _giRootTip
 
 foreign import _giRopeBridge :: ReactIcon
 
-giRopeBridge :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRopeBridge = element (unsafeCoerce _giRopeBridge)
+giRopeBridge :: Icon
+giRopeBridge = element _giRopeBridge
 
 foreign import _giRopeCoil :: ReactIcon
 
-giRopeCoil :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRopeCoil = element (unsafeCoerce _giRopeCoil)
+giRopeCoil :: Icon
+giRopeCoil = element _giRopeCoil
 
 foreign import _giRopeDart :: ReactIcon
 
-giRopeDart :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRopeDart = element (unsafeCoerce _giRopeDart)
+giRopeDart :: Icon
+giRopeDart = element _giRopeDart
 
 foreign import _giRopeway :: ReactIcon
 
-giRopeway :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRopeway = element (unsafeCoerce _giRopeway)
+giRopeway :: Icon
+giRopeway = element _giRopeway
 
 foreign import _giRosaShield :: ReactIcon
 
-giRosaShield :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRosaShield = element (unsafeCoerce _giRosaShield)
+giRosaShield :: Icon
+giRosaShield = element _giRosaShield
 
 foreign import _giRose :: ReactIcon
 
-giRose :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRose = element (unsafeCoerce _giRose)
+giRose :: Icon
+giRose = element _giRose
 
 foreign import _giRotaryPhone :: ReactIcon
 
-giRotaryPhone :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRotaryPhone = element (unsafeCoerce _giRotaryPhone)
+giRotaryPhone :: Icon
+giRotaryPhone = element _giRotaryPhone
 
 foreign import _giRoughWound :: ReactIcon
 
-giRoughWound :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRoughWound = element (unsafeCoerce _giRoughWound)
+giRoughWound :: Icon
+giRoughWound = element _giRoughWound
 
 foreign import _giRoundBottomFlask :: ReactIcon
 
-giRoundBottomFlask :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRoundBottomFlask = element (unsafeCoerce _giRoundBottomFlask)
+giRoundBottomFlask :: Icon
+giRoundBottomFlask = element _giRoundBottomFlask
 
 foreign import _giRoundKnob :: ReactIcon
 
-giRoundKnob :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRoundKnob = element (unsafeCoerce _giRoundKnob)
+giRoundKnob :: Icon
+giRoundKnob = element _giRoundKnob
 
 foreign import _giRoundShield :: ReactIcon
 
-giRoundShield :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRoundShield = element (unsafeCoerce _giRoundShield)
+giRoundShield :: Icon
+giRoundShield = element _giRoundShield
 
 foreign import _giRoundSilo :: ReactIcon
 
-giRoundSilo :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRoundSilo = element (unsafeCoerce _giRoundSilo)
+giRoundSilo :: Icon
+giRoundSilo = element _giRoundSilo
 
 foreign import _giRoundStar :: ReactIcon
 
-giRoundStar :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRoundStar = element (unsafeCoerce _giRoundStar)
+giRoundStar :: Icon
+giRoundStar = element _giRoundStar
 
 foreign import _giRoundStrawBale :: ReactIcon
 
-giRoundStrawBale :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRoundStrawBale = element (unsafeCoerce _giRoundStrawBale)
+giRoundStrawBale :: Icon
+giRoundStrawBale = element _giRoundStrawBale
 
 foreign import _giRoundStruck :: ReactIcon
 
-giRoundStruck :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRoundStruck = element (unsafeCoerce _giRoundStruck)
+giRoundStruck :: Icon
+giRoundStruck = element _giRoundStruck
 
 foreign import _giRoundTable :: ReactIcon
 
-giRoundTable :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRoundTable = element (unsafeCoerce _giRoundTable)
+giRoundTable :: Icon
+giRoundTable = element _giRoundTable
 
 foreign import _giRoyalLove :: ReactIcon
 
-giRoyalLove :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRoyalLove = element (unsafeCoerce _giRoyalLove)
+giRoyalLove :: Icon
+giRoyalLove = element _giRoyalLove
 
 foreign import _giRss :: ReactIcon
 
-giRss :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRss = element (unsafeCoerce _giRss)
+giRss :: Icon
+giRss = element _giRss
 
 foreign import _giRubberBoot :: ReactIcon
 
-giRubberBoot :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRubberBoot = element (unsafeCoerce _giRubberBoot)
+giRubberBoot :: Icon
+giRubberBoot = element _giRubberBoot
 
 foreign import _giRubElHizb :: ReactIcon
 
-giRubElHizb :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRubElHizb = element (unsafeCoerce _giRubElHizb)
+giRubElHizb :: Icon
+giRubElHizb = element _giRubElHizb
 
 foreign import _giRugbyConversion :: ReactIcon
 
-giRugbyConversion :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRugbyConversion = element (unsafeCoerce _giRugbyConversion)
+giRugbyConversion :: Icon
+giRugbyConversion = element _giRugbyConversion
 
 foreign import _giRuleBook :: ReactIcon
 
-giRuleBook :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRuleBook = element (unsafeCoerce _giRuleBook)
+giRuleBook :: Icon
+giRuleBook = element _giRuleBook
 
 foreign import _giRun :: ReactIcon
 
-giRun :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRun = element (unsafeCoerce _giRun)
+giRun :: Icon
+giRun = element _giRun
 
 foreign import _giRuneStone :: ReactIcon
 
-giRuneStone :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRuneStone = element (unsafeCoerce _giRuneStone)
+giRuneStone :: Icon
+giRuneStone = element _giRuneStone
 
 foreign import _giRuneSword :: ReactIcon
 
-giRuneSword :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRuneSword = element (unsafeCoerce _giRuneSword)
+giRuneSword :: Icon
+giRuneSword = element _giRuneSword
 
 foreign import _giRunningNinja :: ReactIcon
 
-giRunningNinja :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRunningNinja = element (unsafeCoerce _giRunningNinja)
+giRunningNinja :: Icon
+giRunningNinja = element _giRunningNinja
 
 foreign import _giRunningShoe :: ReactIcon
 
-giRunningShoe :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRunningShoe = element (unsafeCoerce _giRunningShoe)
+giRunningShoe :: Icon
+giRunningShoe = element _giRunningShoe
 
 foreign import _giRupee :: ReactIcon
 
-giRupee :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRupee = element (unsafeCoerce _giRupee)
+giRupee :: Icon
+giRupee = element _giRupee
 
 foreign import _giRustySword :: ReactIcon
 
-giRustySword :: forall a b. Union a b PropsIcon => Record a -> JSX
-giRustySword = element (unsafeCoerce _giRustySword)
+giRustySword :: Icon
+giRustySword = element _giRustySword
 
 foreign import _giSaberAndPistol :: ReactIcon
 
-giSaberAndPistol :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSaberAndPistol = element (unsafeCoerce _giSaberAndPistol)
+giSaberAndPistol :: Icon
+giSaberAndPistol = element _giSaberAndPistol
 
 foreign import _giSabersChoc :: ReactIcon
 
-giSabersChoc :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSabersChoc = element (unsafeCoerce _giSabersChoc)
+giSabersChoc :: Icon
+giSabersChoc = element _giSabersChoc
 
 foreign import _giSaberSlash :: ReactIcon
 
-giSaberSlash :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSaberSlash = element (unsafeCoerce _giSaberSlash)
+giSaberSlash :: Icon
+giSaberSlash = element _giSaberSlash
 
 foreign import _giSaberTooth :: ReactIcon
 
-giSaberTooth :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSaberTooth = element (unsafeCoerce _giSaberTooth)
+giSaberTooth :: Icon
+giSaberTooth = element _giSaberTooth
 
 foreign import _giSaberToothedCatHead :: ReactIcon
 
-giSaberToothedCatHead :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSaberToothedCatHead = element (unsafeCoerce _giSaberToothedCatHead)
+giSaberToothedCatHead :: Icon
+giSaberToothedCatHead = element _giSaberToothedCatHead
 
 foreign import _giSacrificialDagger :: ReactIcon
 
-giSacrificialDagger :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSacrificialDagger = element (unsafeCoerce _giSacrificialDagger)
+giSacrificialDagger :: Icon
+giSacrificialDagger = element _giSacrificialDagger
 
 foreign import _giSadCrab :: ReactIcon
 
-giSadCrab :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSadCrab = element (unsafeCoerce _giSadCrab)
+giSadCrab :: Icon
+giSadCrab = element _giSadCrab
 
 foreign import _giSaddle :: ReactIcon
 
-giSaddle :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSaddle = element (unsafeCoerce _giSaddle)
+giSaddle :: Icon
+giSaddle = element _giSaddle
 
 foreign import _giSafetyPin :: ReactIcon
 
-giSafetyPin :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSafetyPin = element (unsafeCoerce _giSafetyPin)
+giSafetyPin :: Icon
+giSafetyPin = element _giSafetyPin
 
 foreign import _giSagittarius :: ReactIcon
 
-giSagittarius :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSagittarius = element (unsafeCoerce _giSagittarius)
+giSagittarius :: Icon
+giSagittarius = element _giSagittarius
 
 foreign import _giSai :: ReactIcon
 
-giSai :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSai = element (unsafeCoerce _giSai)
+giSai :: Icon
+giSai = element _giSai
 
 foreign import _giSail :: ReactIcon
 
-giSail :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSail = element (unsafeCoerce _giSail)
+giSail :: Icon
+giSail = element _giSail
 
 foreign import _giSailboat :: ReactIcon
 
-giSailboat :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSailboat = element (unsafeCoerce _giSailboat)
+giSailboat :: Icon
+giSailboat = element _giSailboat
 
 foreign import _giSaintBasilCathedral :: ReactIcon
 
-giSaintBasilCathedral :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSaintBasilCathedral = element (unsafeCoerce _giSaintBasilCathedral)
+giSaintBasilCathedral :: Icon
+giSaintBasilCathedral = element _giSaintBasilCathedral
 
 foreign import _giSaiyanSuit :: ReactIcon
 
-giSaiyanSuit :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSaiyanSuit = element (unsafeCoerce _giSaiyanSuit)
+giSaiyanSuit :: Icon
+giSaiyanSuit = element _giSaiyanSuit
 
 foreign import _giSalamander :: ReactIcon
 
-giSalamander :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSalamander = element (unsafeCoerce _giSalamander)
+giSalamander :: Icon
+giSalamander = element _giSalamander
 
 foreign import _giSalmon :: ReactIcon
 
-giSalmon :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSalmon = element (unsafeCoerce _giSalmon)
+giSalmon :: Icon
+giSalmon = element _giSalmon
 
 foreign import _giSaloon :: ReactIcon
 
-giSaloon :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSaloon = element (unsafeCoerce _giSaloon)
+giSaloon :: Icon
+giSaloon = element _giSaloon
 
 foreign import _giSaloonDoors :: ReactIcon
 
-giSaloonDoors :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSaloonDoors = element (unsafeCoerce _giSaloonDoors)
+giSaloonDoors :: Icon
+giSaloonDoors = element _giSaloonDoors
 
 foreign import _giSaltShaker :: ReactIcon
 
-giSaltShaker :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSaltShaker = element (unsafeCoerce _giSaltShaker)
+giSaltShaker :: Icon
+giSaltShaker = element _giSaltShaker
 
 foreign import _giSamaraMosque :: ReactIcon
 
-giSamaraMosque :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSamaraMosque = element (unsafeCoerce _giSamaraMosque)
+giSamaraMosque :: Icon
+giSamaraMosque = element _giSamaraMosque
 
 foreign import _giSamuraiHelmet :: ReactIcon
 
-giSamuraiHelmet :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSamuraiHelmet = element (unsafeCoerce _giSamuraiHelmet)
+giSamuraiHelmet :: Icon
+giSamuraiHelmet = element _giSamuraiHelmet
 
 foreign import _giSamusHelmet :: ReactIcon
 
-giSamusHelmet :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSamusHelmet = element (unsafeCoerce _giSamusHelmet)
+giSamusHelmet :: Icon
+giSamusHelmet = element _giSamusHelmet
 
 foreign import _giSandal :: ReactIcon
 
-giSandal :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSandal = element (unsafeCoerce _giSandal)
+giSandal :: Icon
+giSandal = element _giSandal
 
 foreign import _giSandCastle :: ReactIcon
 
-giSandCastle :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSandCastle = element (unsafeCoerce _giSandCastle)
+giSandCastle :: Icon
+giSandCastle = element _giSandCastle
 
 foreign import _giSandSnake :: ReactIcon
 
-giSandSnake :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSandSnake = element (unsafeCoerce _giSandSnake)
+giSandSnake :: Icon
+giSandSnake = element _giSandSnake
 
 foreign import _giSandsOfTime :: ReactIcon
 
-giSandsOfTime :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSandsOfTime = element (unsafeCoerce _giSandsOfTime)
+giSandsOfTime :: Icon
+giSandsOfTime = element _giSandsOfTime
 
 foreign import _giSandstorm :: ReactIcon
 
-giSandstorm :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSandstorm = element (unsafeCoerce _giSandstorm)
+giSandstorm :: Icon
+giSandstorm = element _giSandstorm
 
 foreign import _giSandwich :: ReactIcon
 
-giSandwich :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSandwich = element (unsafeCoerce _giSandwich)
+giSandwich :: Icon
+giSandwich = element _giSandwich
 
 foreign import _giSaphir :: ReactIcon
 
-giSaphir :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSaphir = element (unsafeCoerce _giSaphir)
+giSaphir :: Icon
+giSaphir = element _giSaphir
 
 foreign import _giSarcophagus :: ReactIcon
 
-giSarcophagus :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSarcophagus = element (unsafeCoerce _giSarcophagus)
+giSarcophagus :: Icon
+giSarcophagus = element _giSarcophagus
 
 foreign import _giSasquatch :: ReactIcon
 
-giSasquatch :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSasquatch = element (unsafeCoerce _giSasquatch)
+giSasquatch :: Icon
+giSasquatch = element _giSasquatch
 
 foreign import _giSatelliteCommunication :: ReactIcon
 
-giSatelliteCommunication :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSatelliteCommunication = element (unsafeCoerce _giSatelliteCommunication)
+giSatelliteCommunication :: Icon
+giSatelliteCommunication = element _giSatelliteCommunication
 
 foreign import _giSattelite :: ReactIcon
 
-giSattelite :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSattelite = element (unsafeCoerce _giSattelite)
+giSattelite :: Icon
+giSattelite = element _giSattelite
 
 foreign import _giSaucepan :: ReactIcon
 
-giSaucepan :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSaucepan = element (unsafeCoerce _giSaucepan)
+giSaucepan :: Icon
+giSaucepan = element _giSaucepan
 
 foreign import _giSauropodHead :: ReactIcon
 
-giSauropodHead :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSauropodHead = element (unsafeCoerce _giSauropodHead)
+giSauropodHead :: Icon
+giSauropodHead = element _giSauropodHead
 
 foreign import _giSauropodSkeleton :: ReactIcon
 
-giSauropodSkeleton :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSauropodSkeleton = element (unsafeCoerce _giSauropodSkeleton)
+giSauropodSkeleton :: Icon
+giSauropodSkeleton = element _giSauropodSkeleton
 
 foreign import _giSausage :: ReactIcon
 
-giSausage :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSausage = element (unsafeCoerce _giSausage)
+giSausage :: Icon
+giSausage = element _giSausage
 
 foreign import _giSausagesRibbon :: ReactIcon
 
-giSausagesRibbon :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSausagesRibbon = element (unsafeCoerce _giSausagesRibbon)
+giSausagesRibbon :: Icon
+giSausagesRibbon = element _giSausagesRibbon
 
 foreign import _giSave :: ReactIcon
 
-giSave :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSave = element (unsafeCoerce _giSave)
+giSave :: Icon
+giSave = element _giSave
 
 foreign import _giSaveArrow :: ReactIcon
 
-giSaveArrow :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSaveArrow = element (unsafeCoerce _giSaveArrow)
+giSaveArrow :: Icon
+giSaveArrow = element _giSaveArrow
 
 foreign import _giSawClaw :: ReactIcon
 
-giSawClaw :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSawClaw = element (unsafeCoerce _giSawClaw)
+giSawClaw :: Icon
+giSawClaw = element _giSawClaw
 
 foreign import _giSawedOffShotgun :: ReactIcon
 
-giSawedOffShotgun :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSawedOffShotgun = element (unsafeCoerce _giSawedOffShotgun)
+giSawedOffShotgun :: Icon
+giSawedOffShotgun = element _giSawedOffShotgun
 
 foreign import _giSaxophone :: ReactIcon
 
-giSaxophone :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSaxophone = element (unsafeCoerce _giSaxophone)
+giSaxophone :: Icon
+giSaxophone = element _giSaxophone
 
 foreign import _giSBrick :: ReactIcon
 
-giSBrick :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSBrick = element (unsafeCoerce _giSBrick)
+giSBrick :: Icon
+giSBrick = element _giSBrick
 
 foreign import _giScabbard :: ReactIcon
 
-giScabbard :: forall a b. Union a b PropsIcon => Record a -> JSX
-giScabbard = element (unsafeCoerce _giScabbard)
+giScabbard :: Icon
+giScabbard = element _giScabbard
 
 foreign import _giScaleMail :: ReactIcon
 
-giScaleMail :: forall a b. Union a b PropsIcon => Record a -> JSX
-giScaleMail = element (unsafeCoerce _giScaleMail)
+giScaleMail :: Icon
+giScaleMail = element _giScaleMail
 
 foreign import _giScales :: ReactIcon
 
-giScales :: forall a b. Union a b PropsIcon => Record a -> JSX
-giScales = element (unsafeCoerce _giScales)
+giScales :: Icon
+giScales = element _giScales
 
 foreign import _giScallop :: ReactIcon
 
-giScallop :: forall a b. Union a b PropsIcon => Record a -> JSX
-giScallop = element (unsafeCoerce _giScallop)
+giScallop :: Icon
+giScallop = element _giScallop
 
 foreign import _giScalpel :: ReactIcon
 
-giScalpel :: forall a b. Union a b PropsIcon => Record a -> JSX
-giScalpel = element (unsafeCoerce _giScalpel)
+giScalpel :: Icon
+giScalpel = element _giScalpel
 
 foreign import _giScalpelStrike :: ReactIcon
 
-giScalpelStrike :: forall a b. Union a b PropsIcon => Record a -> JSX
-giScalpelStrike = element (unsafeCoerce _giScalpelStrike)
+giScalpelStrike :: Icon
+giScalpelStrike = element _giScalpelStrike
 
 foreign import _giScarabBeetle :: ReactIcon
 
-giScarabBeetle :: forall a b. Union a b PropsIcon => Record a -> JSX
-giScarabBeetle = element (unsafeCoerce _giScarabBeetle)
+giScarabBeetle :: Icon
+giScarabBeetle = element _giScarabBeetle
 
 foreign import _giScarecrow :: ReactIcon
 
-giScarecrow :: forall a b. Union a b PropsIcon => Record a -> JSX
-giScarecrow = element (unsafeCoerce _giScarecrow)
+giScarecrow :: Icon
+giScarecrow = element _giScarecrow
 
 foreign import _giScarWound :: ReactIcon
 
-giScarWound :: forall a b. Union a b PropsIcon => Record a -> JSX
-giScarWound = element (unsafeCoerce _giScarWound)
+giScarWound :: Icon
+giScarWound = element _giScarWound
 
 foreign import _giSchoolBag :: ReactIcon
 
-giSchoolBag :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSchoolBag = element (unsafeCoerce _giSchoolBag)
+giSchoolBag :: Icon
+giSchoolBag = element _giSchoolBag
 
 foreign import _giSchoolOfFish :: ReactIcon
 
-giSchoolOfFish :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSchoolOfFish = element (unsafeCoerce _giSchoolOfFish)
+giSchoolOfFish :: Icon
+giSchoolOfFish = element _giSchoolOfFish
 
 foreign import _giScissors :: ReactIcon
 
-giScissors :: forall a b. Union a b PropsIcon => Record a -> JSX
-giScissors = element (unsafeCoerce _giScissors)
+giScissors :: Icon
+giScissors = element _giScissors
 
 foreign import _giScooter :: ReactIcon
 
-giScooter :: forall a b. Union a b PropsIcon => Record a -> JSX
-giScooter = element (unsafeCoerce _giScooter)
+giScooter :: Icon
+giScooter = element _giScooter
 
 foreign import _giScorpio :: ReactIcon
 
-giScorpio :: forall a b. Union a b PropsIcon => Record a -> JSX
-giScorpio = element (unsafeCoerce _giScorpio)
+giScorpio :: Icon
+giScorpio = element _giScorpio
 
 foreign import _giScorpion :: ReactIcon
 
-giScorpion :: forall a b. Union a b PropsIcon => Record a -> JSX
-giScorpion = element (unsafeCoerce _giScorpion)
+giScorpion :: Icon
+giScorpion = element _giScorpion
 
 foreign import _giScorpionTail :: ReactIcon
 
-giScorpionTail :: forall a b. Union a b PropsIcon => Record a -> JSX
-giScorpionTail = element (unsafeCoerce _giScorpionTail)
+giScorpionTail :: Icon
+giScorpionTail = element _giScorpionTail
 
 foreign import _giScoutShip :: ReactIcon
 
-giScoutShip :: forall a b. Union a b PropsIcon => Record a -> JSX
-giScoutShip = element (unsafeCoerce _giScoutShip)
+giScoutShip :: Icon
+giScoutShip = element _giScoutShip
 
 foreign import _giScreaming :: ReactIcon
 
-giScreaming :: forall a b. Union a b PropsIcon => Record a -> JSX
-giScreaming = element (unsafeCoerce _giScreaming)
+giScreaming :: Icon
+giScreaming = element _giScreaming
 
 foreign import _giScreenImpact :: ReactIcon
 
-giScreenImpact :: forall a b. Union a b PropsIcon => Record a -> JSX
-giScreenImpact = element (unsafeCoerce _giScreenImpact)
+giScreenImpact :: Icon
+giScreenImpact = element _giScreenImpact
 
 foreign import _giScrew :: ReactIcon
 
-giScrew :: forall a b. Union a b PropsIcon => Record a -> JSX
-giScrew = element (unsafeCoerce _giScrew)
+giScrew :: Icon
+giScrew = element _giScrew
 
 foreign import _giScrewdriver :: ReactIcon
 
-giScrewdriver :: forall a b. Union a b PropsIcon => Record a -> JSX
-giScrewdriver = element (unsafeCoerce _giScrewdriver)
+giScrewdriver :: Icon
+giScrewdriver = element _giScrewdriver
 
 foreign import _giScrollQuill :: ReactIcon
 
-giScrollQuill :: forall a b. Union a b PropsIcon => Record a -> JSX
-giScrollQuill = element (unsafeCoerce _giScrollQuill)
+giScrollQuill :: Icon
+giScrollQuill = element _giScrollQuill
 
 foreign import _giScrollUnfurled :: ReactIcon
 
-giScrollUnfurled :: forall a b. Union a b PropsIcon => Record a -> JSX
-giScrollUnfurled = element (unsafeCoerce _giScrollUnfurled)
+giScrollUnfurled :: Icon
+giScrollUnfurled = element _giScrollUnfurled
 
 foreign import _giScubaMask :: ReactIcon
 
-giScubaMask :: forall a b. Union a b PropsIcon => Record a -> JSX
-giScubaMask = element (unsafeCoerce _giScubaMask)
+giScubaMask :: Icon
+giScubaMask = element _giScubaMask
 
 foreign import _giScubaTanks :: ReactIcon
 
-giScubaTanks :: forall a b. Union a b PropsIcon => Record a -> JSX
-giScubaTanks = element (unsafeCoerce _giScubaTanks)
+giScubaTanks :: Icon
+giScubaTanks = element _giScubaTanks
 
 foreign import _giScythe :: ReactIcon
 
-giScythe :: forall a b. Union a b PropsIcon => Record a -> JSX
-giScythe = element (unsafeCoerce _giScythe)
+giScythe :: Icon
+giScythe = element _giScythe
 
 foreign import _giSeaCliff :: ReactIcon
 
-giSeaCliff :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSeaCliff = element (unsafeCoerce _giSeaCliff)
+giSeaCliff :: Icon
+giSeaCliff = element _giSeaCliff
 
 foreign import _giSeaCreature :: ReactIcon
 
-giSeaCreature :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSeaCreature = element (unsafeCoerce _giSeaCreature)
+giSeaCreature :: Icon
+giSeaCreature = element _giSeaCreature
 
 foreign import _giSeaDragon :: ReactIcon
 
-giSeaDragon :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSeaDragon = element (unsafeCoerce _giSeaDragon)
+giSeaDragon :: Icon
+giSeaDragon = element _giSeaDragon
 
 foreign import _giSeagull :: ReactIcon
 
-giSeagull :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSeagull = element (unsafeCoerce _giSeagull)
+giSeagull :: Icon
+giSeagull = element _giSeagull
 
 foreign import _giSeahorse :: ReactIcon
 
-giSeahorse :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSeahorse = element (unsafeCoerce _giSeahorse)
+giSeahorse :: Icon
+giSeahorse = element _giSeahorse
 
 foreign import _giSeaSerpent :: ReactIcon
 
-giSeaSerpent :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSeaSerpent = element (unsafeCoerce _giSeaSerpent)
+giSeaSerpent :: Icon
+giSeaSerpent = element _giSeaSerpent
 
 foreign import _giSeaStar :: ReactIcon
 
-giSeaStar :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSeaStar = element (unsafeCoerce _giSeaStar)
+giSeaStar :: Icon
+giSeaStar = element _giSeaStar
 
 foreign import _giSeatedMouse :: ReactIcon
 
-giSeatedMouse :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSeatedMouse = element (unsafeCoerce _giSeatedMouse)
+giSeatedMouse :: Icon
+giSeatedMouse = element _giSeatedMouse
 
 foreign import _giSeaTurtle :: ReactIcon
 
-giSeaTurtle :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSeaTurtle = element (unsafeCoerce _giSeaTurtle)
+giSeaTurtle :: Icon
+giSeaTurtle = element _giSeaTurtle
 
 foreign import _giSecretBook :: ReactIcon
 
-giSecretBook :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSecretBook = element (unsafeCoerce _giSecretBook)
+giSecretBook :: Icon
+giSecretBook = element _giSecretBook
 
 foreign import _giSecretDoor :: ReactIcon
 
-giSecretDoor :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSecretDoor = element (unsafeCoerce _giSecretDoor)
+giSecretDoor :: Icon
+giSecretDoor = element _giSecretDoor
 
 foreign import _giSecurityGate :: ReactIcon
 
-giSecurityGate :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSecurityGate = element (unsafeCoerce _giSecurityGate)
+giSecurityGate :: Icon
+giSecurityGate = element _giSecurityGate
 
 foreign import _giSeedling :: ReactIcon
 
-giSeedling :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSeedling = element (unsafeCoerce _giSeedling)
+giSeedling :: Icon
+giSeedling = element _giSeedling
 
 foreign import _giSelect :: ReactIcon
 
-giSelect :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSelect = element (unsafeCoerce _giSelect)
+giSelect :: Icon
+giSelect = element _giSelect
 
 foreign import _giSelfLove :: ReactIcon
 
-giSelfLove :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSelfLove = element (unsafeCoerce _giSelfLove)
+giSelfLove :: Icon
+giSelfLove = element _giSelfLove
 
 foreign import _giSellCard :: ReactIcon
 
-giSellCard :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSellCard = element (unsafeCoerce _giSellCard)
+giSellCard :: Icon
+giSellCard = element _giSellCard
 
 foreign import _giSemiClosedEye :: ReactIcon
 
-giSemiClosedEye :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSemiClosedEye = element (unsafeCoerce _giSemiClosedEye)
+giSemiClosedEye :: Icon
+giSemiClosedEye = element _giSemiClosedEye
 
 foreign import _giSensuousness :: ReactIcon
 
-giSensuousness :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSensuousness = element (unsafeCoerce _giSensuousness)
+giSensuousness :: Icon
+giSensuousness = element _giSensuousness
 
 foreign import _giSentryGun :: ReactIcon
 
-giSentryGun :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSentryGun = element (unsafeCoerce _giSentryGun)
+giSentryGun :: Icon
+giSentryGun = element _giSentryGun
 
 foreign import _giSergeant :: ReactIcon
 
-giSergeant :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSergeant = element (unsafeCoerce _giSergeant)
+giSergeant :: Icon
+giSergeant = element _giSergeant
 
 foreign import _giSerratedSlash :: ReactIcon
 
-giSerratedSlash :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSerratedSlash = element (unsafeCoerce _giSerratedSlash)
+giSerratedSlash :: Icon
+giSerratedSlash = element _giSerratedSlash
 
 foreign import _giServerRack :: ReactIcon
 
-giServerRack :: forall a b. Union a b PropsIcon => Record a -> JSX
-giServerRack = element (unsafeCoerce _giServerRack)
+giServerRack :: Icon
+giServerRack = element _giServerRack
 
 foreign import _giSesame :: ReactIcon
 
-giSesame :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSesame = element (unsafeCoerce _giSesame)
+giSesame :: Icon
+giSesame = element _giSesame
 
 foreign import _giSettingsKnobs :: ReactIcon
 
-giSettingsKnobs :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSettingsKnobs = element (unsafeCoerce _giSettingsKnobs)
+giSettingsKnobs :: Icon
+giSettingsKnobs = element _giSettingsKnobs
 
 foreign import _giSevenPointedStar :: ReactIcon
 
-giSevenPointedStar :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSevenPointedStar = element (unsafeCoerce _giSevenPointedStar)
+giSevenPointedStar :: Icon
+giSevenPointedStar = element _giSevenPointedStar
 
 foreign import _giSeveredHand :: ReactIcon
 
-giSeveredHand :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSeveredHand = element (unsafeCoerce _giSeveredHand)
+giSeveredHand :: Icon
+giSeveredHand = element _giSeveredHand
 
 foreign import _giSewedShell :: ReactIcon
 
-giSewedShell :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSewedShell = element (unsafeCoerce _giSewedShell)
+giSewedShell :: Icon
+giSewedShell = element _giSewedShell
 
 foreign import _giSewingMachine :: ReactIcon
 
-giSewingMachine :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSewingMachine = element (unsafeCoerce _giSewingMachine)
+giSewingMachine :: Icon
+giSewingMachine = element _giSewingMachine
 
 foreign import _giSewingNeedle :: ReactIcon
 
-giSewingNeedle :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSewingNeedle = element (unsafeCoerce _giSewingNeedle)
+giSewingNeedle :: Icon
+giSewingNeedle = element _giSewingNeedle
 
 foreign import _giSewingString :: ReactIcon
 
-giSewingString :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSewingString = element (unsafeCoerce _giSewingString)
+giSewingString :: Icon
+giSewingString = element _giSewingString
 
 foreign import _giSextant :: ReactIcon
 
-giSextant :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSextant = element (unsafeCoerce _giSextant)
+giSextant :: Icon
+giSextant = element _giSextant
 
 foreign import _giShadowFollower :: ReactIcon
 
-giShadowFollower :: forall a b. Union a b PropsIcon => Record a -> JSX
-giShadowFollower = element (unsafeCoerce _giShadowFollower)
+giShadowFollower :: Icon
+giShadowFollower = element _giShadowFollower
 
 foreign import _giShadowGrasp :: ReactIcon
 
-giShadowGrasp :: forall a b. Union a b PropsIcon => Record a -> JSX
-giShadowGrasp = element (unsafeCoerce _giShadowGrasp)
+giShadowGrasp :: Icon
+giShadowGrasp = element _giShadowGrasp
 
 foreign import _giShakingHands :: ReactIcon
 
-giShakingHands :: forall a b. Union a b PropsIcon => Record a -> JSX
-giShakingHands = element (unsafeCoerce _giShakingHands)
+giShakingHands :: Icon
+giShakingHands = element _giShakingHands
 
 foreign import _giShamblingMound :: ReactIcon
 
-giShamblingMound :: forall a b. Union a b PropsIcon => Record a -> JSX
-giShamblingMound = element (unsafeCoerce _giShamblingMound)
+giShamblingMound :: Icon
+giShamblingMound = element _giShamblingMound
 
 foreign import _giShamblingZombie :: ReactIcon
 
-giShamblingZombie :: forall a b. Union a b PropsIcon => Record a -> JSX
-giShamblingZombie = element (unsafeCoerce _giShamblingZombie)
+giShamblingZombie :: Icon
+giShamblingZombie = element _giShamblingZombie
 
 foreign import _giShamrock :: ReactIcon
 
-giShamrock :: forall a b. Union a b PropsIcon => Record a -> JSX
-giShamrock = element (unsafeCoerce _giShamrock)
+giShamrock :: Icon
+giShamrock = element _giShamrock
 
 foreign import _giShardSword :: ReactIcon
 
-giShardSword :: forall a b. Union a b PropsIcon => Record a -> JSX
-giShardSword = element (unsafeCoerce _giShardSword)
+giShardSword :: Icon
+giShardSword = element _giShardSword
 
 foreign import _giShare :: ReactIcon
 
-giShare :: forall a b. Union a b PropsIcon => Record a -> JSX
-giShare = element (unsafeCoerce _giShare)
+giShare :: Icon
+giShare = element _giShare
 
 foreign import _giSharkBite :: ReactIcon
 
-giSharkBite :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSharkBite = element (unsafeCoerce _giSharkBite)
+giSharkBite :: Icon
+giSharkBite = element _giSharkBite
 
 foreign import _giSharkFin :: ReactIcon
 
-giSharkFin :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSharkFin = element (unsafeCoerce _giSharkFin)
+giSharkFin :: Icon
+giSharkFin = element _giSharkFin
 
 foreign import _giSharkJaws :: ReactIcon
 
-giSharkJaws :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSharkJaws = element (unsafeCoerce _giSharkJaws)
+giSharkJaws :: Icon
+giSharkJaws = element _giSharkJaws
 
 foreign import _giSharpAxe :: ReactIcon
 
-giSharpAxe :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSharpAxe = element (unsafeCoerce _giSharpAxe)
+giSharpAxe :: Icon
+giSharpAxe = element _giSharpAxe
 
 foreign import _giSharpCrown :: ReactIcon
 
-giSharpCrown :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSharpCrown = element (unsafeCoerce _giSharpCrown)
+giSharpCrown :: Icon
+giSharpCrown = element _giSharpCrown
 
 foreign import _giSharpedTeethSkull :: ReactIcon
 
-giSharpedTeethSkull :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSharpedTeethSkull = element (unsafeCoerce _giSharpedTeethSkull)
+giSharpedTeethSkull :: Icon
+giSharpedTeethSkull = element _giSharpedTeethSkull
 
 foreign import _giSharpHalberd :: ReactIcon
 
-giSharpHalberd :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSharpHalberd = element (unsafeCoerce _giSharpHalberd)
+giSharpHalberd :: Icon
+giSharpHalberd = element _giSharpHalberd
 
 foreign import _giSharpLips :: ReactIcon
 
-giSharpLips :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSharpLips = element (unsafeCoerce _giSharpLips)
+giSharpLips :: Icon
+giSharpLips = element _giSharpLips
 
 foreign import _giSharpShuriken :: ReactIcon
 
-giSharpShuriken :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSharpShuriken = element (unsafeCoerce _giSharpShuriken)
+giSharpShuriken :: Icon
+giSharpShuriken = element _giSharpShuriken
 
 foreign import _giSharpSmile :: ReactIcon
 
-giSharpSmile :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSharpSmile = element (unsafeCoerce _giSharpSmile)
+giSharpSmile :: Icon
+giSharpSmile = element _giSharpSmile
 
 foreign import _giShatter :: ReactIcon
 
-giShatter :: forall a b. Union a b PropsIcon => Record a -> JSX
-giShatter = element (unsafeCoerce _giShatter)
+giShatter :: Icon
+giShatter = element _giShatter
 
 foreign import _giShatteredGlass :: ReactIcon
 
-giShatteredGlass :: forall a b. Union a b PropsIcon => Record a -> JSX
-giShatteredGlass = element (unsafeCoerce _giShatteredGlass)
+giShatteredGlass :: Icon
+giShatteredGlass = element _giShatteredGlass
 
 foreign import _giShatteredHeart :: ReactIcon
 
-giShatteredHeart :: forall a b. Union a b PropsIcon => Record a -> JSX
-giShatteredHeart = element (unsafeCoerce _giShatteredHeart)
+giShatteredHeart :: Icon
+giShatteredHeart = element _giShatteredHeart
 
 foreign import _giShatteredSword :: ReactIcon
 
-giShatteredSword :: forall a b. Union a b PropsIcon => Record a -> JSX
-giShatteredSword = element (unsafeCoerce _giShatteredSword)
+giShatteredSword :: Icon
+giShatteredSword = element _giShatteredSword
 
 foreign import _giShears :: ReactIcon
 
-giShears :: forall a b. Union a b PropsIcon => Record a -> JSX
-giShears = element (unsafeCoerce _giShears)
+giShears :: Icon
+giShears = element _giShears
 
 foreign import _giSheep :: ReactIcon
 
-giSheep :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSheep = element (unsafeCoerce _giSheep)
+giSheep :: Icon
+giSheep = element _giSheep
 
 foreign import _giSheikahEye :: ReactIcon
 
-giSheikahEye :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSheikahEye = element (unsafeCoerce _giSheikahEye)
+giSheikahEye :: Icon
+giSheikahEye = element _giSheikahEye
 
 foreign import _giShepherdsCrook :: ReactIcon
 
-giShepherdsCrook :: forall a b. Union a b PropsIcon => Record a -> JSX
-giShepherdsCrook = element (unsafeCoerce _giShepherdsCrook)
+giShepherdsCrook :: Icon
+giShepherdsCrook = element _giShepherdsCrook
 
 foreign import _giSherlockHolmes :: ReactIcon
 
-giSherlockHolmes :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSherlockHolmes = element (unsafeCoerce _giSherlockHolmes)
+giSherlockHolmes :: Icon
+giSherlockHolmes = element _giSherlockHolmes
 
 foreign import _giShield :: ReactIcon
 
-giShield :: forall a b. Union a b PropsIcon => Record a -> JSX
-giShield = element (unsafeCoerce _giShield)
+giShield :: Icon
+giShield = element _giShield
 
 foreign import _giShieldBash :: ReactIcon
 
-giShieldBash :: forall a b. Union a b PropsIcon => Record a -> JSX
-giShieldBash = element (unsafeCoerce _giShieldBash)
+giShieldBash :: Icon
+giShieldBash = element _giShieldBash
 
 foreign import _giShieldBounces :: ReactIcon
 
-giShieldBounces :: forall a b. Union a b PropsIcon => Record a -> JSX
-giShieldBounces = element (unsafeCoerce _giShieldBounces)
+giShieldBounces :: Icon
+giShieldBounces = element _giShieldBounces
 
 foreign import _giShieldcomb :: ReactIcon
 
-giShieldcomb :: forall a b. Union a b PropsIcon => Record a -> JSX
-giShieldcomb = element (unsafeCoerce _giShieldcomb)
+giShieldcomb :: Icon
+giShieldcomb = element _giShieldcomb
 
 foreign import _giShieldDisabled :: ReactIcon
 
-giShieldDisabled :: forall a b. Union a b PropsIcon => Record a -> JSX
-giShieldDisabled = element (unsafeCoerce _giShieldDisabled)
+giShieldDisabled :: Icon
+giShieldDisabled = element _giShieldDisabled
 
 foreign import _giShieldEchoes :: ReactIcon
 
-giShieldEchoes :: forall a b. Union a b PropsIcon => Record a -> JSX
-giShieldEchoes = element (unsafeCoerce _giShieldEchoes)
+giShieldEchoes :: Icon
+giShieldEchoes = element _giShieldEchoes
 
 foreign import _giShieldImpact :: ReactIcon
 
-giShieldImpact :: forall a b. Union a b PropsIcon => Record a -> JSX
-giShieldImpact = element (unsafeCoerce _giShieldImpact)
+giShieldImpact :: Icon
+giShieldImpact = element _giShieldImpact
 
 foreign import _giShieldOpposition :: ReactIcon
 
-giShieldOpposition :: forall a b. Union a b PropsIcon => Record a -> JSX
-giShieldOpposition = element (unsafeCoerce _giShieldOpposition)
+giShieldOpposition :: Icon
+giShieldOpposition = element _giShieldOpposition
 
 foreign import _giShieldReflect :: ReactIcon
 
-giShieldReflect :: forall a b. Union a b PropsIcon => Record a -> JSX
-giShieldReflect = element (unsafeCoerce _giShieldReflect)
+giShieldReflect :: Icon
+giShieldReflect = element _giShieldReflect
 
 foreign import _giShiningClaw :: ReactIcon
 
-giShiningClaw :: forall a b. Union a b PropsIcon => Record a -> JSX
-giShiningClaw = element (unsafeCoerce _giShiningClaw)
+giShiningClaw :: Icon
+giShiningClaw = element _giShiningClaw
 
 foreign import _giShiningHeart :: ReactIcon
 
-giShiningHeart :: forall a b. Union a b PropsIcon => Record a -> JSX
-giShiningHeart = element (unsafeCoerce _giShiningHeart)
+giShiningHeart :: Icon
+giShiningHeart = element _giShiningHeart
 
 foreign import _giShiningSword :: ReactIcon
 
-giShiningSword :: forall a b. Union a b PropsIcon => Record a -> JSX
-giShiningSword = element (unsafeCoerce _giShiningSword)
+giShiningSword :: Icon
+giShiningSword = element _giShiningSword
 
 foreign import _giShintoShrine :: ReactIcon
 
-giShintoShrine :: forall a b. Union a b PropsIcon => Record a -> JSX
-giShintoShrine = element (unsafeCoerce _giShintoShrine)
+giShintoShrine :: Icon
+giShintoShrine = element _giShintoShrine
 
 foreign import _giShintoShrineMirror :: ReactIcon
 
-giShintoShrineMirror :: forall a b. Union a b PropsIcon => Record a -> JSX
-giShintoShrineMirror = element (unsafeCoerce _giShintoShrineMirror)
+giShintoShrineMirror :: Icon
+giShintoShrineMirror = element _giShintoShrineMirror
 
 foreign import _giShinyApple :: ReactIcon
 
-giShinyApple :: forall a b. Union a b PropsIcon => Record a -> JSX
-giShinyApple = element (unsafeCoerce _giShinyApple)
+giShinyApple :: Icon
+giShinyApple = element _giShinyApple
 
 foreign import _giShinyEntrance :: ReactIcon
 
-giShinyEntrance :: forall a b. Union a b PropsIcon => Record a -> JSX
-giShinyEntrance = element (unsafeCoerce _giShinyEntrance)
+giShinyEntrance :: Icon
+giShinyEntrance = element _giShinyEntrance
 
 foreign import _giShinyIris :: ReactIcon
 
-giShinyIris :: forall a b. Union a b PropsIcon => Record a -> JSX
-giShinyIris = element (unsafeCoerce _giShinyIris)
+giShinyIris :: Icon
+giShinyIris = element _giShinyIris
 
 foreign import _giShinyOmega :: ReactIcon
 
-giShinyOmega :: forall a b. Union a b PropsIcon => Record a -> JSX
-giShinyOmega = element (unsafeCoerce _giShinyOmega)
+giShinyOmega :: Icon
+giShinyOmega = element _giShinyOmega
 
 foreign import _giShinyPurse :: ReactIcon
 
-giShinyPurse :: forall a b. Union a b PropsIcon => Record a -> JSX
-giShinyPurse = element (unsafeCoerce _giShinyPurse)
+giShinyPurse :: Icon
+giShinyPurse = element _giShinyPurse
 
 foreign import _giShipBow :: ReactIcon
 
-giShipBow :: forall a b. Union a b PropsIcon => Record a -> JSX
-giShipBow = element (unsafeCoerce _giShipBow)
+giShipBow :: Icon
+giShipBow = element _giShipBow
 
 foreign import _giShipWheel :: ReactIcon
 
-giShipWheel :: forall a b. Union a b PropsIcon => Record a -> JSX
-giShipWheel = element (unsafeCoerce _giShipWheel)
+giShipWheel :: Icon
+giShipWheel = element _giShipWheel
 
 foreign import _giShipWreck :: ReactIcon
 
-giShipWreck :: forall a b. Union a b PropsIcon => Record a -> JSX
-giShipWreck = element (unsafeCoerce _giShipWreck)
+giShipWreck :: Icon
+giShipWreck = element _giShipWreck
 
 foreign import _giShirt :: ReactIcon
 
-giShirt :: forall a b. Union a b PropsIcon => Record a -> JSX
-giShirt = element (unsafeCoerce _giShirt)
+giShirt :: Icon
+giShirt = element _giShirt
 
 foreign import _giShirtButton :: ReactIcon
 
-giShirtButton :: forall a b. Union a b PropsIcon => Record a -> JSX
-giShirtButton = element (unsafeCoerce _giShirtButton)
+giShirtButton :: Icon
+giShirtButton = element _giShirtButton
 
 foreign import _giShoebillStork :: ReactIcon
 
-giShoebillStork :: forall a b. Union a b PropsIcon => Record a -> JSX
-giShoebillStork = element (unsafeCoerce _giShoebillStork)
+giShoebillStork :: Icon
+giShoebillStork = element _giShoebillStork
 
 foreign import _giShoonerSailboat :: ReactIcon
 
-giShoonerSailboat :: forall a b. Union a b PropsIcon => Record a -> JSX
-giShoonerSailboat = element (unsafeCoerce _giShoonerSailboat)
+giShoonerSailboat :: Icon
+giShoonerSailboat = element _giShoonerSailboat
 
 foreign import _giShop :: ReactIcon
 
-giShop :: forall a b. Union a b PropsIcon => Record a -> JSX
-giShop = element (unsafeCoerce _giShop)
+giShop :: Icon
+giShop = element _giShop
 
 foreign import _giShoppingBag :: ReactIcon
 
-giShoppingBag :: forall a b. Union a b PropsIcon => Record a -> JSX
-giShoppingBag = element (unsafeCoerce _giShoppingBag)
+giShoppingBag :: Icon
+giShoppingBag = element _giShoppingBag
 
 foreign import _giShoppingCart :: ReactIcon
 
-giShoppingCart :: forall a b. Union a b PropsIcon => Record a -> JSX
-giShoppingCart = element (unsafeCoerce _giShoppingCart)
+giShoppingCart :: Icon
+giShoppingCart = element _giShoppingCart
 
 foreign import _giShorts :: ReactIcon
 
-giShorts :: forall a b. Union a b PropsIcon => Record a -> JSX
-giShorts = element (unsafeCoerce _giShorts)
+giShorts :: Icon
+giShorts = element _giShorts
 
 foreign import _giShotgun :: ReactIcon
 
-giShotgun :: forall a b. Union a b PropsIcon => Record a -> JSX
-giShotgun = element (unsafeCoerce _giShotgun)
+giShotgun :: Icon
+giShotgun = element _giShotgun
 
 foreign import _giShotgunRounds :: ReactIcon
 
-giShotgunRounds :: forall a b. Union a b PropsIcon => Record a -> JSX
-giShotgunRounds = element (unsafeCoerce _giShotgunRounds)
+giShotgunRounds :: Icon
+giShotgunRounds = element _giShotgunRounds
 
 foreign import _giShoulderArmor :: ReactIcon
 
-giShoulderArmor :: forall a b. Union a b PropsIcon => Record a -> JSX
-giShoulderArmor = element (unsafeCoerce _giShoulderArmor)
+giShoulderArmor :: Icon
+giShoulderArmor = element _giShoulderArmor
 
 foreign import _giShoulderBag :: ReactIcon
 
-giShoulderBag :: forall a b. Union a b PropsIcon => Record a -> JSX
-giShoulderBag = element (unsafeCoerce _giShoulderBag)
+giShoulderBag :: Icon
+giShoulderBag = element _giShoulderBag
 
 foreign import _giShoulderScales :: ReactIcon
 
-giShoulderScales :: forall a b. Union a b PropsIcon => Record a -> JSX
-giShoulderScales = element (unsafeCoerce _giShoulderScales)
+giShoulderScales :: Icon
+giShoulderScales = element _giShoulderScales
 
 foreign import _giShouting :: ReactIcon
 
-giShouting :: forall a b. Union a b PropsIcon => Record a -> JSX
-giShouting = element (unsafeCoerce _giShouting)
+giShouting :: Icon
+giShouting = element _giShouting
 
 foreign import _giShower :: ReactIcon
 
-giShower :: forall a b. Union a b PropsIcon => Record a -> JSX
-giShower = element (unsafeCoerce _giShower)
+giShower :: Icon
+giShower = element _giShower
 
 foreign import _giShrimp :: ReactIcon
 
-giShrimp :: forall a b. Union a b PropsIcon => Record a -> JSX
-giShrimp = element (unsafeCoerce _giShrimp)
+giShrimp :: Icon
+giShrimp = element _giShrimp
 
 foreign import _giShrug :: ReactIcon
 
-giShrug :: forall a b. Union a b PropsIcon => Record a -> JSX
-giShrug = element (unsafeCoerce _giShrug)
+giShrug :: Icon
+giShrug = element _giShrug
 
 foreign import _giShuriken :: ReactIcon
 
-giShuriken :: forall a b. Union a b PropsIcon => Record a -> JSX
-giShuriken = element (unsafeCoerce _giShuriken)
+giShuriken :: Icon
+giShuriken = element _giShuriken
 
 foreign import _giShurikenAperture :: ReactIcon
 
-giShurikenAperture :: forall a b. Union a b PropsIcon => Record a -> JSX
-giShurikenAperture = element (unsafeCoerce _giShurikenAperture)
+giShurikenAperture :: Icon
+giShurikenAperture = element _giShurikenAperture
 
 foreign import _giShutRose :: ReactIcon
 
-giShutRose :: forall a b. Union a b PropsIcon => Record a -> JSX
-giShutRose = element (unsafeCoerce _giShutRose)
+giShutRose :: Icon
+giShutRose = element _giShutRose
 
 foreign import _giShuttlecock :: ReactIcon
 
-giShuttlecock :: forall a b. Union a b PropsIcon => Record a -> JSX
-giShuttlecock = element (unsafeCoerce _giShuttlecock)
+giShuttlecock :: Icon
+giShuttlecock = element _giShuttlecock
 
 foreign import _giSickle :: ReactIcon
 
-giSickle :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSickle = element (unsafeCoerce _giSickle)
+giSickle :: Icon
+giSickle = element _giSickle
 
 foreign import _giSideswipe :: ReactIcon
 
-giSideswipe :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSideswipe = element (unsafeCoerce _giSideswipe)
+giSideswipe :: Icon
+giSideswipe = element _giSideswipe
 
 foreign import _giSiegeRam :: ReactIcon
 
-giSiegeRam :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSiegeRam = element (unsafeCoerce _giSiegeRam)
+giSiegeRam :: Icon
+giSiegeRam = element _giSiegeRam
 
 foreign import _giSiegeTower :: ReactIcon
 
-giSiegeTower :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSiegeTower = element (unsafeCoerce _giSiegeTower)
+giSiegeTower :: Icon
+giSiegeTower = element _giSiegeTower
 
 foreign import _giSightDisabled :: ReactIcon
 
-giSightDisabled :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSightDisabled = element (unsafeCoerce _giSightDisabled)
+giSightDisabled :: Icon
+giSightDisabled = element _giSightDisabled
 
 foreign import _giSilence :: ReactIcon
 
-giSilence :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSilence = element (unsafeCoerce _giSilence)
+giSilence :: Icon
+giSilence = element _giSilence
 
 foreign import _giSilenced :: ReactIcon
 
-giSilenced :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSilenced = element (unsafeCoerce _giSilenced)
+giSilenced :: Icon
+giSilenced = element _giSilenced
 
 foreign import _giSilex :: ReactIcon
 
-giSilex :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSilex = element (unsafeCoerce _giSilex)
+giSilex :: Icon
+giSilex = element _giSilex
 
 foreign import _giSilverBullet :: ReactIcon
 
-giSilverBullet :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSilverBullet = element (unsafeCoerce _giSilverBullet)
+giSilverBullet :: Icon
+giSilverBullet = element _giSilverBullet
 
 foreign import _giSinagot :: ReactIcon
 
-giSinagot :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSinagot = element (unsafeCoerce _giSinagot)
+giSinagot :: Icon
+giSinagot = element _giSinagot
 
 foreign import _giSing :: ReactIcon
 
-giSing :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSing = element (unsafeCoerce _giSing)
+giSing :: Icon
+giSing = element _giSing
 
 foreign import _giSinkingShip :: ReactIcon
 
-giSinkingShip :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSinkingShip = element (unsafeCoerce _giSinkingShip)
+giSinkingShip :: Icon
+giSinkingShip = element _giSinkingShip
 
 foreign import _giSinkingTrap :: ReactIcon
 
-giSinkingTrap :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSinkingTrap = element (unsafeCoerce _giSinkingTrap)
+giSinkingTrap :: Icon
+giSinkingTrap = element _giSinkingTrap
 
 foreign import _giSinusoidalBeam :: ReactIcon
 
-giSinusoidalBeam :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSinusoidalBeam = element (unsafeCoerce _giSinusoidalBeam)
+giSinusoidalBeam :: Icon
+giSinusoidalBeam = element _giSinusoidalBeam
 
 foreign import _giSiren :: ReactIcon
 
-giSiren :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSiren = element (unsafeCoerce _giSiren)
+giSiren :: Icon
+giSiren = element _giSiren
 
 foreign import _giSittingDog :: ReactIcon
 
-giSittingDog :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSittingDog = element (unsafeCoerce _giSittingDog)
+giSittingDog :: Icon
+giSittingDog = element _giSittingDog
 
 foreign import _giSixEyes :: ReactIcon
 
-giSixEyes :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSixEyes = element (unsafeCoerce _giSixEyes)
+giSixEyes :: Icon
+giSixEyes = element _giSixEyes
 
 foreign import _giSkateboard :: ReactIcon
 
-giSkateboard :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSkateboard = element (unsafeCoerce _giSkateboard)
+giSkateboard :: Icon
+giSkateboard = element _giSkateboard
 
 foreign import _giSkeletalHand :: ReactIcon
 
-giSkeletalHand :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSkeletalHand = element (unsafeCoerce _giSkeletalHand)
+giSkeletalHand :: Icon
+giSkeletalHand = element _giSkeletalHand
 
 foreign import _giSkeleton :: ReactIcon
 
-giSkeleton :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSkeleton = element (unsafeCoerce _giSkeleton)
+giSkeleton :: Icon
+giSkeleton = element _giSkeleton
 
 foreign import _giSkeletonInside :: ReactIcon
 
-giSkeletonInside :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSkeletonInside = element (unsafeCoerce _giSkeletonInside)
+giSkeletonInside :: Icon
+giSkeletonInside = element _giSkeletonInside
 
 foreign import _giSkeletonKey :: ReactIcon
 
-giSkeletonKey :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSkeletonKey = element (unsafeCoerce _giSkeletonKey)
+giSkeletonKey :: Icon
+giSkeletonKey = element _giSkeletonKey
 
 foreign import _giSkiBoot :: ReactIcon
 
-giSkiBoot :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSkiBoot = element (unsafeCoerce _giSkiBoot)
+giSkiBoot :: Icon
+giSkiBoot = element _giSkiBoot
 
 foreign import _giSkidMark :: ReactIcon
 
-giSkidMark :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSkidMark = element (unsafeCoerce _giSkidMark)
+giSkidMark :: Icon
+giSkidMark = element _giSkidMark
 
 foreign import _giSkier :: ReactIcon
 
-giSkier :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSkier = element (unsafeCoerce _giSkier)
+giSkier :: Icon
+giSkier = element _giSkier
 
 foreign import _giSkills :: ReactIcon
 
-giSkills :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSkills = element (unsafeCoerce _giSkills)
+giSkills :: Icon
+giSkills = element _giSkills
 
 foreign import _giSkippingRope :: ReactIcon
 
-giSkippingRope :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSkippingRope = element (unsafeCoerce _giSkippingRope)
+giSkippingRope :: Icon
+giSkippingRope = element _giSkippingRope
 
 foreign import _giSkirt :: ReactIcon
 
-giSkirt :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSkirt = element (unsafeCoerce _giSkirt)
+giSkirt :: Icon
+giSkirt = element _giSkirt
 
 foreign import _giSkis :: ReactIcon
 
-giSkis :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSkis = element (unsafeCoerce _giSkis)
+giSkis :: Icon
+giSkis = element _giSkis
 
 foreign import _giSkullBolt :: ReactIcon
 
-giSkullBolt :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSkullBolt = element (unsafeCoerce _giSkullBolt)
+giSkullBolt :: Icon
+giSkullBolt = element _giSkullBolt
 
 foreign import _giSkullCrack :: ReactIcon
 
-giSkullCrack :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSkullCrack = element (unsafeCoerce _giSkullCrack)
+giSkullCrack :: Icon
+giSkullCrack = element _giSkullCrack
 
 foreign import _giSkullCrossedBones :: ReactIcon
 
-giSkullCrossedBones :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSkullCrossedBones = element (unsafeCoerce _giSkullCrossedBones)
+giSkullCrossedBones :: Icon
+giSkullCrossedBones = element _giSkullCrossedBones
 
 foreign import _giSkullInJar :: ReactIcon
 
-giSkullInJar :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSkullInJar = element (unsafeCoerce _giSkullInJar)
+giSkullInJar :: Icon
+giSkullInJar = element _giSkullInJar
 
 foreign import _giSkullMask :: ReactIcon
 
-giSkullMask :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSkullMask = element (unsafeCoerce _giSkullMask)
+giSkullMask :: Icon
+giSkullMask = element _giSkullMask
 
 foreign import _giSkullRing :: ReactIcon
 
-giSkullRing :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSkullRing = element (unsafeCoerce _giSkullRing)
+giSkullRing :: Icon
+giSkullRing = element _giSkullRing
 
 foreign import _giSkullSabertooth :: ReactIcon
 
-giSkullSabertooth :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSkullSabertooth = element (unsafeCoerce _giSkullSabertooth)
+giSkullSabertooth :: Icon
+giSkullSabertooth = element _giSkullSabertooth
 
 foreign import _giSkullShield :: ReactIcon
 
-giSkullShield :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSkullShield = element (unsafeCoerce _giSkullShield)
+giSkullShield :: Icon
+giSkullShield = element _giSkullShield
 
 foreign import _giSkullSignet :: ReactIcon
 
-giSkullSignet :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSkullSignet = element (unsafeCoerce _giSkullSignet)
+giSkullSignet :: Icon
+giSkullSignet = element _giSkullSignet
 
 foreign import _giSkullSlices :: ReactIcon
 
-giSkullSlices :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSkullSlices = element (unsafeCoerce _giSkullSlices)
+giSkullSlices :: Icon
+giSkullSlices = element _giSkullSlices
 
 foreign import _giSkullStaff :: ReactIcon
 
-giSkullStaff :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSkullStaff = element (unsafeCoerce _giSkullStaff)
+giSkullStaff :: Icon
+giSkullStaff = element _giSkullStaff
 
 foreign import _giSkullWithSyringe :: ReactIcon
 
-giSkullWithSyringe :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSkullWithSyringe = element (unsafeCoerce _giSkullWithSyringe)
+giSkullWithSyringe :: Icon
+giSkullWithSyringe = element _giSkullWithSyringe
 
 foreign import _giSlalom :: ReactIcon
 
-giSlalom :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSlalom = element (unsafeCoerce _giSlalom)
+giSlalom :: Icon
+giSlalom = element _giSlalom
 
 foreign import _giSlap :: ReactIcon
 
-giSlap :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSlap = element (unsafeCoerce _giSlap)
+giSlap :: Icon
+giSlap = element _giSlap
 
 foreign import _giSlashedShield :: ReactIcon
 
-giSlashedShield :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSlashedShield = element (unsafeCoerce _giSlashedShield)
+giSlashedShield :: Icon
+giSlashedShield = element _giSlashedShield
 
 foreign import _giSlaveryWhip :: ReactIcon
 
-giSlaveryWhip :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSlaveryWhip = element (unsafeCoerce _giSlaveryWhip)
+giSlaveryWhip :: Icon
+giSlaveryWhip = element _giSlaveryWhip
 
 foreign import _giSleepingBag :: ReactIcon
 
-giSleepingBag :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSleepingBag = element (unsafeCoerce _giSleepingBag)
+giSleepingBag :: Icon
+giSleepingBag = element _giSleepingBag
 
 foreign import _giSleepy :: ReactIcon
 
-giSleepy :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSleepy = element (unsafeCoerce _giSleepy)
+giSleepy :: Icon
+giSleepy = element _giSleepy
 
 foreign import _giSleevelessJacket :: ReactIcon
 
-giSleevelessJacket :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSleevelessJacket = element (unsafeCoerce _giSleevelessJacket)
+giSleevelessJacket :: Icon
+giSleevelessJacket = element _giSleevelessJacket
 
 foreign import _giSleevelessTop :: ReactIcon
 
-giSleevelessTop :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSleevelessTop = element (unsafeCoerce _giSleevelessTop)
+giSleevelessTop :: Icon
+giSleevelessTop = element _giSleevelessTop
 
 foreign import _giSlicedBread :: ReactIcon
 
-giSlicedBread :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSlicedBread = element (unsafeCoerce _giSlicedBread)
+giSlicedBread :: Icon
+giSlicedBread = element _giSlicedBread
 
 foreign import _giSlicedMushroom :: ReactIcon
 
-giSlicedMushroom :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSlicedMushroom = element (unsafeCoerce _giSlicedMushroom)
+giSlicedMushroom :: Icon
+giSlicedMushroom = element _giSlicedMushroom
 
 foreign import _giSlicedSausage :: ReactIcon
 
-giSlicedSausage :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSlicedSausage = element (unsafeCoerce _giSlicedSausage)
+giSlicedSausage :: Icon
+giSlicedSausage = element _giSlicedSausage
 
 foreign import _giSlicingArrow :: ReactIcon
 
-giSlicingArrow :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSlicingArrow = element (unsafeCoerce _giSlicingArrow)
+giSlicingArrow :: Icon
+giSlicingArrow = element _giSlicingArrow
 
 foreign import _giSlime :: ReactIcon
 
-giSlime :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSlime = element (unsafeCoerce _giSlime)
+giSlime :: Icon
+giSlime = element _giSlime
 
 foreign import _giSling :: ReactIcon
 
-giSling :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSling = element (unsafeCoerce _giSling)
+giSling :: Icon
+giSling = element _giSling
 
 foreign import _giSlingshot :: ReactIcon
 
-giSlingshot :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSlingshot = element (unsafeCoerce _giSlingshot)
+giSlingshot :: Icon
+giSlingshot = element _giSlingshot
 
 foreign import _giSlipknot :: ReactIcon
 
-giSlipknot :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSlipknot = element (unsafeCoerce _giSlipknot)
+giSlipknot :: Icon
+giSlipknot = element _giSlipknot
 
 foreign import _giSlippers :: ReactIcon
 
-giSlippers :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSlippers = element (unsafeCoerce _giSlippers)
+giSlippers :: Icon
+giSlippers = element _giSlippers
 
 foreign import _giSloth :: ReactIcon
 
-giSloth :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSloth = element (unsafeCoerce _giSloth)
+giSloth :: Icon
+giSloth = element _giSloth
 
 foreign import _giSlowBlob :: ReactIcon
 
-giSlowBlob :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSlowBlob = element (unsafeCoerce _giSlowBlob)
+giSlowBlob :: Icon
+giSlowBlob = element _giSlowBlob
 
 foreign import _giSlumberingSanctuary :: ReactIcon
 
-giSlumberingSanctuary :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSlumberingSanctuary = element (unsafeCoerce _giSlumberingSanctuary)
+giSlumberingSanctuary :: Icon
+giSlumberingSanctuary = element _giSlumberingSanctuary
 
 foreign import _giSly :: ReactIcon
 
-giSly :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSly = element (unsafeCoerce _giSly)
+giSly :: Icon
+giSly = element _giSly
 
 foreign import _giSmallFire :: ReactIcon
 
-giSmallFire :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSmallFire = element (unsafeCoerce _giSmallFire)
+giSmallFire :: Icon
+giSmallFire = element _giSmallFire
 
 foreign import _giSmallFishingSailboat :: ReactIcon
 
-giSmallFishingSailboat :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSmallFishingSailboat = element (unsafeCoerce _giSmallFishingSailboat)
+giSmallFishingSailboat :: Icon
+giSmallFishingSailboat = element _giSmallFishingSailboat
 
 foreign import _giSmart :: ReactIcon
 
-giSmart :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSmart = element (unsafeCoerce _giSmart)
+giSmart :: Icon
+giSmart = element _giSmart
 
 foreign import _giSmartphone :: ReactIcon
 
-giSmartphone :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSmartphone = element (unsafeCoerce _giSmartphone)
+giSmartphone :: Icon
+giSmartphone = element _giSmartphone
 
 foreign import _giSmashArrows :: ReactIcon
 
-giSmashArrows :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSmashArrows = element (unsafeCoerce _giSmashArrows)
+giSmashArrows :: Icon
+giSmashArrows = element _giSmashArrows
 
 foreign import _giSmitten :: ReactIcon
 
-giSmitten :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSmitten = element (unsafeCoerce _giSmitten)
+giSmitten :: Icon
+giSmitten = element _giSmitten
 
 foreign import _giSmokeBomb :: ReactIcon
 
-giSmokeBomb :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSmokeBomb = element (unsafeCoerce _giSmokeBomb)
+giSmokeBomb :: Icon
+giSmokeBomb = element _giSmokeBomb
 
 foreign import _giSmokingFinger :: ReactIcon
 
-giSmokingFinger :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSmokingFinger = element (unsafeCoerce _giSmokingFinger)
+giSmokingFinger :: Icon
+giSmokingFinger = element _giSmokingFinger
 
 foreign import _giSmokingOrb :: ReactIcon
 
-giSmokingOrb :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSmokingOrb = element (unsafeCoerce _giSmokingOrb)
+giSmokingOrb :: Icon
+giSmokingOrb = element _giSmokingOrb
 
 foreign import _giSmokingPipe :: ReactIcon
 
-giSmokingPipe :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSmokingPipe = element (unsafeCoerce _giSmokingPipe)
+giSmokingPipe :: Icon
+giSmokingPipe = element _giSmokingPipe
 
 foreign import _giSmokingVolcano :: ReactIcon
 
-giSmokingVolcano :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSmokingVolcano = element (unsafeCoerce _giSmokingVolcano)
+giSmokingVolcano :: Icon
+giSmokingVolcano = element _giSmokingVolcano
 
 foreign import _giSnail :: ReactIcon
 
-giSnail :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSnail = element (unsafeCoerce _giSnail)
+giSnail :: Icon
+giSnail = element _giSnail
 
 foreign import _giSnailEyes :: ReactIcon
 
-giSnailEyes :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSnailEyes = element (unsafeCoerce _giSnailEyes)
+giSnailEyes :: Icon
+giSnailEyes = element _giSnailEyes
 
 foreign import _giSnake :: ReactIcon
 
-giSnake :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSnake = element (unsafeCoerce _giSnake)
+giSnake :: Icon
+giSnake = element _giSnake
 
 foreign import _giSnakeBite :: ReactIcon
 
-giSnakeBite :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSnakeBite = element (unsafeCoerce _giSnakeBite)
+giSnakeBite :: Icon
+giSnakeBite = element _giSnakeBite
 
 foreign import _giSnakeEgg :: ReactIcon
 
-giSnakeEgg :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSnakeEgg = element (unsafeCoerce _giSnakeEgg)
+giSnakeEgg :: Icon
+giSnakeEgg = element _giSnakeEgg
 
 foreign import _giSnakeJar :: ReactIcon
 
-giSnakeJar :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSnakeJar = element (unsafeCoerce _giSnakeJar)
+giSnakeJar :: Icon
+giSnakeJar = element _giSnakeJar
 
 foreign import _giSnakeSpiral :: ReactIcon
 
-giSnakeSpiral :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSnakeSpiral = element (unsafeCoerce _giSnakeSpiral)
+giSnakeSpiral :: Icon
+giSnakeSpiral = element _giSnakeSpiral
 
 foreign import _giSnakeTongue :: ReactIcon
 
-giSnakeTongue :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSnakeTongue = element (unsafeCoerce _giSnakeTongue)
+giSnakeTongue :: Icon
+giSnakeTongue = element _giSnakeTongue
 
 foreign import _giSnakeTotem :: ReactIcon
 
-giSnakeTotem :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSnakeTotem = element (unsafeCoerce _giSnakeTotem)
+giSnakeTotem :: Icon
+giSnakeTotem = element _giSnakeTotem
 
 foreign import _giSnatch :: ReactIcon
 
-giSnatch :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSnatch = element (unsafeCoerce _giSnatch)
+giSnatch :: Icon
+giSnatch = element _giSnatch
 
 foreign import _giSniffingDog :: ReactIcon
 
-giSniffingDog :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSniffingDog = element (unsafeCoerce _giSniffingDog)
+giSniffingDog :: Icon
+giSniffingDog = element _giSniffingDog
 
 foreign import _giSnitchQuidditchBall :: ReactIcon
 
-giSnitchQuidditchBall :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSnitchQuidditchBall = element (unsafeCoerce _giSnitchQuidditchBall)
+giSnitchQuidditchBall :: Icon
+giSnitchQuidditchBall = element _giSnitchQuidditchBall
 
 foreign import _giSnorkel :: ReactIcon
 
-giSnorkel :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSnorkel = element (unsafeCoerce _giSnorkel)
+giSnorkel :: Icon
+giSnorkel = element _giSnorkel
 
 foreign import _giSnout :: ReactIcon
 
-giSnout :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSnout = element (unsafeCoerce _giSnout)
+giSnout :: Icon
+giSnout = element _giSnout
 
 foreign import _giSnowboard :: ReactIcon
 
-giSnowboard :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSnowboard = element (unsafeCoerce _giSnowboard)
+giSnowboard :: Icon
+giSnowboard = element _giSnowboard
 
 foreign import _giSnowBottle :: ReactIcon
 
-giSnowBottle :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSnowBottle = element (unsafeCoerce _giSnowBottle)
+giSnowBottle :: Icon
+giSnowBottle = element _giSnowBottle
 
 foreign import _giSnowing :: ReactIcon
 
-giSnowing :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSnowing = element (unsafeCoerce _giSnowing)
+giSnowing :: Icon
+giSnowing = element _giSnowing
 
 foreign import _giSnowman :: ReactIcon
 
-giSnowman :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSnowman = element (unsafeCoerce _giSnowman)
+giSnowman :: Icon
+giSnowman = element _giSnowman
 
 foreign import _giSoap :: ReactIcon
 
-giSoap :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSoap = element (unsafeCoerce _giSoap)
+giSoap :: Icon
+giSoap = element _giSoap
 
 foreign import _giSoapExperiment :: ReactIcon
 
-giSoapExperiment :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSoapExperiment = element (unsafeCoerce _giSoapExperiment)
+giSoapExperiment :: Icon
+giSoapExperiment = element _giSoapExperiment
 
 foreign import _giSoccerBall :: ReactIcon
 
-giSoccerBall :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSoccerBall = element (unsafeCoerce _giSoccerBall)
+giSoccerBall :: Icon
+giSoccerBall = element _giSoccerBall
 
 foreign import _giSoccerField :: ReactIcon
 
-giSoccerField :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSoccerField = element (unsafeCoerce _giSoccerField)
+giSoccerField :: Icon
+giSoccerField = element _giSoccerField
 
 foreign import _giSoccerKick :: ReactIcon
 
-giSoccerKick :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSoccerKick = element (unsafeCoerce _giSoccerKick)
+giSoccerKick :: Icon
+giSoccerKick = element _giSoccerKick
 
 foreign import _giSocks :: ReactIcon
 
-giSocks :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSocks = element (unsafeCoerce _giSocks)
+giSocks :: Icon
+giSocks = element _giSocks
 
 foreign import _giSodaCan :: ReactIcon
 
-giSodaCan :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSodaCan = element (unsafeCoerce _giSodaCan)
+giSodaCan :: Icon
+giSodaCan = element _giSodaCan
 
 foreign import _giSofa :: ReactIcon
 
-giSofa :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSofa = element (unsafeCoerce _giSofa)
+giSofa :: Icon
+giSofa = element _giSofa
 
 foreign import _giSolarPower :: ReactIcon
 
-giSolarPower :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSolarPower = element (unsafeCoerce _giSolarPower)
+giSolarPower :: Icon
+giSolarPower = element _giSolarPower
 
 foreign import _giSolarSystem :: ReactIcon
 
-giSolarSystem :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSolarSystem = element (unsafeCoerce _giSolarSystem)
+giSolarSystem :: Icon
+giSolarSystem = element _giSolarSystem
 
 foreign import _giSolarTime :: ReactIcon
 
-giSolarTime :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSolarTime = element (unsafeCoerce _giSolarTime)
+giSolarTime :: Icon
+giSolarTime = element _giSolarTime
 
 foreign import _giSolderingIron :: ReactIcon
 
-giSolderingIron :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSolderingIron = element (unsafeCoerce _giSolderingIron)
+giSolderingIron :: Icon
+giSolderingIron = element _giSolderingIron
 
 foreign import _giSolidLeaf :: ReactIcon
 
-giSolidLeaf :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSolidLeaf = element (unsafeCoerce _giSolidLeaf)
+giSolidLeaf :: Icon
+giSolidLeaf = element _giSolidLeaf
 
 foreign import _giSombrero :: ReactIcon
 
-giSombrero :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSombrero = element (unsafeCoerce _giSombrero)
+giSombrero :: Icon
+giSombrero = element _giSombrero
 
 foreign import _giSonicBoom :: ReactIcon
 
-giSonicBoom :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSonicBoom = element (unsafeCoerce _giSonicBoom)
+giSonicBoom :: Icon
+giSonicBoom = element _giSonicBoom
 
 foreign import _giSonicLightning :: ReactIcon
 
-giSonicLightning :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSonicLightning = element (unsafeCoerce _giSonicLightning)
+giSonicLightning :: Icon
+giSonicLightning = element _giSonicLightning
 
 foreign import _giSonicScreech :: ReactIcon
 
-giSonicScreech :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSonicScreech = element (unsafeCoerce _giSonicScreech)
+giSonicScreech :: Icon
+giSonicScreech = element _giSonicScreech
 
 foreign import _giSonicShoes :: ReactIcon
 
-giSonicShoes :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSonicShoes = element (unsafeCoerce _giSonicShoes)
+giSonicShoes :: Icon
+giSonicShoes = element _giSonicShoes
 
 foreign import _giSonicShout :: ReactIcon
 
-giSonicShout :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSonicShout = element (unsafeCoerce _giSonicShout)
+giSonicShout :: Icon
+giSonicShout = element _giSonicShout
 
 foreign import _giSoulVessel :: ReactIcon
 
-giSoulVessel :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSoulVessel = element (unsafeCoerce _giSoulVessel)
+giSoulVessel :: Icon
+giSoulVessel = element _giSoulVessel
 
 foreign import _giSoundOff :: ReactIcon
 
-giSoundOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSoundOff = element (unsafeCoerce _giSoundOff)
+giSoundOff :: Icon
+giSoundOff = element _giSoundOff
 
 foreign import _giSoundOn :: ReactIcon
 
-giSoundOn :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSoundOn = element (unsafeCoerce _giSoundOn)
+giSoundOn :: Icon
+giSoundOn = element _giSoundOn
 
 foreign import _giSoundWaves :: ReactIcon
 
-giSoundWaves :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSoundWaves = element (unsafeCoerce _giSoundWaves)
+giSoundWaves :: Icon
+giSoundWaves = element _giSoundWaves
 
 foreign import _giSouthAfrica :: ReactIcon
 
-giSouthAfrica :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSouthAfrica = element (unsafeCoerce _giSouthAfrica)
+giSouthAfrica :: Icon
+giSouthAfrica = element _giSouthAfrica
 
 foreign import _giSouthAfricaFlag :: ReactIcon
 
-giSouthAfricaFlag :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSouthAfricaFlag = element (unsafeCoerce _giSouthAfricaFlag)
+giSouthAfricaFlag :: Icon
+giSouthAfricaFlag = element _giSouthAfricaFlag
 
 foreign import _giSouthAmerica :: ReactIcon
 
-giSouthAmerica :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSouthAmerica = element (unsafeCoerce _giSouthAmerica)
+giSouthAmerica :: Icon
+giSouthAmerica = element _giSouthAmerica
 
 foreign import _giSouthKorea :: ReactIcon
 
-giSouthKorea :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSouthKorea = element (unsafeCoerce _giSouthKorea)
+giSouthKorea :: Icon
+giSouthKorea = element _giSouthKorea
 
 foreign import _giSpaceNeedle :: ReactIcon
 
-giSpaceNeedle :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSpaceNeedle = element (unsafeCoerce _giSpaceNeedle)
+giSpaceNeedle :: Icon
+giSpaceNeedle = element _giSpaceNeedle
 
 foreign import _giSpaceship :: ReactIcon
 
-giSpaceship :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSpaceship = element (unsafeCoerce _giSpaceship)
+giSpaceship :: Icon
+giSpaceship = element _giSpaceship
 
 foreign import _giSpaceShuttle :: ReactIcon
 
-giSpaceShuttle :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSpaceShuttle = element (unsafeCoerce _giSpaceShuttle)
+giSpaceShuttle :: Icon
+giSpaceShuttle = element _giSpaceShuttle
 
 foreign import _giSpaceSuit :: ReactIcon
 
-giSpaceSuit :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSpaceSuit = element (unsafeCoerce _giSpaceSuit)
+giSpaceSuit :: Icon
+giSpaceSuit = element _giSpaceSuit
 
 foreign import _giSpade :: ReactIcon
 
-giSpade :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSpade = element (unsafeCoerce _giSpade)
+giSpade :: Icon
+giSpade = element _giSpade
 
 foreign import _giSpades :: ReactIcon
 
-giSpades :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSpades = element (unsafeCoerce _giSpades)
+giSpades :: Icon
+giSpades = element _giSpades
 
 foreign import _giSpadeSkull :: ReactIcon
 
-giSpadeSkull :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSpadeSkull = element (unsafeCoerce _giSpadeSkull)
+giSpadeSkull :: Icon
+giSpadeSkull = element _giSpadeSkull
 
 foreign import _giSpain :: ReactIcon
 
-giSpain :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSpain = element (unsafeCoerce _giSpain)
+giSpain :: Icon
+giSpain = element _giSpain
 
 foreign import _giSpanner :: ReactIcon
 
-giSpanner :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSpanner = element (unsafeCoerce _giSpanner)
+giSpanner :: Icon
+giSpanner = element _giSpanner
 
 foreign import _giSparkles :: ReactIcon
 
-giSparkles :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSparkles = element (unsafeCoerce _giSparkles)
+giSparkles :: Icon
+giSparkles = element _giSparkles
 
 foreign import _giSparklingSabre :: ReactIcon
 
-giSparklingSabre :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSparklingSabre = element (unsafeCoerce _giSparklingSabre)
+giSparklingSabre :: Icon
+giSparklingSabre = element _giSparklingSabre
 
 foreign import _giSparkPlug :: ReactIcon
 
-giSparkPlug :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSparkPlug = element (unsafeCoerce _giSparkPlug)
+giSparkPlug :: Icon
+giSparkPlug = element _giSparkPlug
 
 foreign import _giSparkSpirit :: ReactIcon
 
-giSparkSpirit :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSparkSpirit = element (unsafeCoerce _giSparkSpirit)
+giSparkSpirit :: Icon
+giSparkSpirit = element _giSparkSpirit
 
 foreign import _giSparkyBomb :: ReactIcon
 
-giSparkyBomb :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSparkyBomb = element (unsafeCoerce _giSparkyBomb)
+giSparkyBomb :: Icon
+giSparkyBomb = element _giSparkyBomb
 
 foreign import _giSparrow :: ReactIcon
 
-giSparrow :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSparrow = element (unsafeCoerce _giSparrow)
+giSparrow :: Icon
+giSparrow = element _giSparrow
 
 foreign import _giSpartan :: ReactIcon
 
-giSpartan :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSpartan = element (unsafeCoerce _giSpartan)
+giSpartan :: Icon
+giSpartan = element _giSpartan
 
 foreign import _giSpartanHelmet :: ReactIcon
 
-giSpartanHelmet :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSpartanHelmet = element (unsafeCoerce _giSpartanHelmet)
+giSpartanHelmet :: Icon
+giSpartanHelmet = element _giSpartanHelmet
 
 foreign import _giSpatter :: ReactIcon
 
-giSpatter :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSpatter = element (unsafeCoerce _giSpatter)
+giSpatter :: Icon
+giSpatter = element _giSpatter
 
 foreign import _giSpawnNode :: ReactIcon
 
-giSpawnNode :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSpawnNode = element (unsafeCoerce _giSpawnNode)
+giSpawnNode :: Icon
+giSpawnNode = element _giSpawnNode
 
 foreign import _giSpeaker :: ReactIcon
 
-giSpeaker :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSpeaker = element (unsafeCoerce _giSpeaker)
+giSpeaker :: Icon
+giSpeaker = element _giSpeaker
 
 foreign import _giSpeakerOff :: ReactIcon
 
-giSpeakerOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSpeakerOff = element (unsafeCoerce _giSpeakerOff)
+giSpeakerOff :: Icon
+giSpeakerOff = element _giSpeakerOff
 
 foreign import _giSpearFeather :: ReactIcon
 
-giSpearFeather :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSpearFeather = element (unsafeCoerce _giSpearFeather)
+giSpearFeather :: Icon
+giSpearFeather = element _giSpearFeather
 
 foreign import _giSpearfishing :: ReactIcon
 
-giSpearfishing :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSpearfishing = element (unsafeCoerce _giSpearfishing)
+giSpearfishing :: Icon
+giSpearfishing = element _giSpearfishing
 
 foreign import _giSpearHook :: ReactIcon
 
-giSpearHook :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSpearHook = element (unsafeCoerce _giSpearHook)
+giSpearHook :: Icon
+giSpearHook = element _giSpearHook
 
 foreign import _giSpears :: ReactIcon
 
-giSpears :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSpears = element (unsafeCoerce _giSpears)
+giSpears :: Icon
+giSpears = element _giSpears
 
 foreign import _giSpectacleLenses :: ReactIcon
 
-giSpectacleLenses :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSpectacleLenses = element (unsafeCoerce _giSpectacleLenses)
+giSpectacleLenses :: Icon
+giSpectacleLenses = element _giSpectacleLenses
 
 foreign import _giSpectacles :: ReactIcon
 
-giSpectacles :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSpectacles = element (unsafeCoerce _giSpectacles)
+giSpectacles :: Icon
+giSpectacles = element _giSpectacles
 
 foreign import _giSpectre :: ReactIcon
 
-giSpectre :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSpectre = element (unsafeCoerce _giSpectre)
+giSpectre :: Icon
+giSpectre = element _giSpectre
 
 foreign import _giSpeedBoat :: ReactIcon
 
-giSpeedBoat :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSpeedBoat = element (unsafeCoerce _giSpeedBoat)
+giSpeedBoat :: Icon
+giSpeedBoat = element _giSpeedBoat
 
 foreign import _giSpeedometer :: ReactIcon
 
-giSpeedometer :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSpeedometer = element (unsafeCoerce _giSpeedometer)
+giSpeedometer :: Icon
+giSpeedometer = element _giSpeedometer
 
 foreign import _giSpellBook :: ReactIcon
 
-giSpellBook :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSpellBook = element (unsafeCoerce _giSpellBook)
+giSpellBook :: Icon
+giSpellBook = element _giSpellBook
 
 foreign import _giSpermWhale :: ReactIcon
 
-giSpermWhale :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSpermWhale = element (unsafeCoerce _giSpermWhale)
+giSpermWhale :: Icon
+giSpermWhale = element _giSpermWhale
 
 foreign import _giSpiderAlt :: ReactIcon
 
-giSpiderAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSpiderAlt = element (unsafeCoerce _giSpiderAlt)
+giSpiderAlt :: Icon
+giSpiderAlt = element _giSpiderAlt
 
 foreign import _giSpiderBot :: ReactIcon
 
-giSpiderBot :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSpiderBot = element (unsafeCoerce _giSpiderBot)
+giSpiderBot :: Icon
+giSpiderBot = element _giSpiderBot
 
 foreign import _giSpiderEye :: ReactIcon
 
-giSpiderEye :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSpiderEye = element (unsafeCoerce _giSpiderEye)
+giSpiderEye :: Icon
+giSpiderEye = element _giSpiderEye
 
 foreign import _giSpiderFace :: ReactIcon
 
-giSpiderFace :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSpiderFace = element (unsafeCoerce _giSpiderFace)
+giSpiderFace :: Icon
+giSpiderFace = element _giSpiderFace
 
 foreign import _giSpiderMask :: ReactIcon
 
-giSpiderMask :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSpiderMask = element (unsafeCoerce _giSpiderMask)
+giSpiderMask :: Icon
+giSpiderMask = element _giSpiderMask
 
 foreign import _giSpiderWeb :: ReactIcon
 
-giSpiderWeb :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSpiderWeb = element (unsafeCoerce _giSpiderWeb)
+giSpiderWeb :: Icon
+giSpiderWeb = element _giSpiderWeb
 
 foreign import _giSpikeball :: ReactIcon
 
-giSpikeball :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSpikeball = element (unsafeCoerce _giSpikeball)
+giSpikeball :: Icon
+giSpikeball = element _giSpikeball
 
 foreign import _giSpikedArmor :: ReactIcon
 
-giSpikedArmor :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSpikedArmor = element (unsafeCoerce _giSpikedArmor)
+giSpikedArmor :: Icon
+giSpikedArmor = element _giSpikedArmor
 
 foreign import _giSpikedBall :: ReactIcon
 
-giSpikedBall :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSpikedBall = element (unsafeCoerce _giSpikedBall)
+giSpikedBall :: Icon
+giSpikedBall = element _giSpikedBall
 
 foreign import _giSpikedBat :: ReactIcon
 
-giSpikedBat :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSpikedBat = element (unsafeCoerce _giSpikedBat)
+giSpikedBat :: Icon
+giSpikedBat = element _giSpikedBat
 
 foreign import _giSpikedCollar :: ReactIcon
 
-giSpikedCollar :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSpikedCollar = element (unsafeCoerce _giSpikedCollar)
+giSpikedCollar :: Icon
+giSpikedCollar = element _giSpikedCollar
 
 foreign import _giSpikedDragonHead :: ReactIcon
 
-giSpikedDragonHead :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSpikedDragonHead = element (unsafeCoerce _giSpikedDragonHead)
+giSpikedDragonHead :: Icon
+giSpikedDragonHead = element _giSpikedDragonHead
 
 foreign import _giSpikedFence :: ReactIcon
 
-giSpikedFence :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSpikedFence = element (unsafeCoerce _giSpikedFence)
+giSpikedFence :: Icon
+giSpikedFence = element _giSpikedFence
 
 foreign import _giSpikedHalo :: ReactIcon
 
-giSpikedHalo :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSpikedHalo = element (unsafeCoerce _giSpikedHalo)
+giSpikedHalo :: Icon
+giSpikedHalo = element _giSpikedHalo
 
 foreign import _giSpikedMace :: ReactIcon
 
-giSpikedMace :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSpikedMace = element (unsafeCoerce _giSpikedMace)
+giSpikedMace :: Icon
+giSpikedMace = element _giSpikedMace
 
 foreign import _giSpikedShell :: ReactIcon
 
-giSpikedShell :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSpikedShell = element (unsafeCoerce _giSpikedShell)
+giSpikedShell :: Icon
+giSpikedShell = element _giSpikedShell
 
 foreign import _giSpikedShield :: ReactIcon
 
-giSpikedShield :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSpikedShield = element (unsafeCoerce _giSpikedShield)
+giSpikedShield :: Icon
+giSpikedShield = element _giSpikedShield
 
 foreign import _giSpikedShoulderArmor :: ReactIcon
 
-giSpikedShoulderArmor :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSpikedShoulderArmor = element (unsafeCoerce _giSpikedShoulderArmor)
+giSpikedShoulderArmor :: Icon
+giSpikedShoulderArmor = element _giSpikedShoulderArmor
 
 foreign import _giSpikedSnail :: ReactIcon
 
-giSpikedSnail :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSpikedSnail = element (unsafeCoerce _giSpikedSnail)
+giSpikedSnail :: Icon
+giSpikedSnail = element _giSpikedSnail
 
 foreign import _giSpikedTail :: ReactIcon
 
-giSpikedTail :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSpikedTail = element (unsafeCoerce _giSpikedTail)
+giSpikedTail :: Icon
+giSpikedTail = element _giSpikedTail
 
 foreign import _giSpikedTentacle :: ReactIcon
 
-giSpikedTentacle :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSpikedTentacle = element (unsafeCoerce _giSpikedTentacle)
+giSpikedTentacle :: Icon
+giSpikedTentacle = element _giSpikedTentacle
 
 foreign import _giSpikedTrunk :: ReactIcon
 
-giSpikedTrunk :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSpikedTrunk = element (unsafeCoerce _giSpikedTrunk)
+giSpikedTrunk :: Icon
+giSpikedTrunk = element _giSpikedTrunk
 
 foreign import _giSpikedWall :: ReactIcon
 
-giSpikedWall :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSpikedWall = element (unsafeCoerce _giSpikedWall)
+giSpikedWall :: Icon
+giSpikedWall = element _giSpikedWall
 
 foreign import _giSpikes :: ReactIcon
 
-giSpikes :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSpikes = element (unsafeCoerce _giSpikes)
+giSpikes :: Icon
+giSpikes = element _giSpikes
 
 foreign import _giSpikesFull :: ReactIcon
 
-giSpikesFull :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSpikesFull = element (unsafeCoerce _giSpikesFull)
+giSpikesFull :: Icon
+giSpikesFull = element _giSpikesFull
 
 foreign import _giSpikesHalf :: ReactIcon
 
-giSpikesHalf :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSpikesHalf = element (unsafeCoerce _giSpikesHalf)
+giSpikesHalf :: Icon
+giSpikesHalf = element _giSpikesHalf
 
 foreign import _giSpikesInit :: ReactIcon
 
-giSpikesInit :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSpikesInit = element (unsafeCoerce _giSpikesInit)
+giSpikesInit :: Icon
+giSpikesInit = element _giSpikesInit
 
 foreign import _giSpikyEclipse :: ReactIcon
 
-giSpikyEclipse :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSpikyEclipse = element (unsafeCoerce _giSpikyEclipse)
+giSpikyEclipse :: Icon
+giSpikyEclipse = element _giSpikyEclipse
 
 foreign import _giSpikyExplosion :: ReactIcon
 
-giSpikyExplosion :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSpikyExplosion = element (unsafeCoerce _giSpikyExplosion)
+giSpikyExplosion :: Icon
+giSpikyExplosion = element _giSpikyExplosion
 
 foreign import _giSpikyField :: ReactIcon
 
-giSpikyField :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSpikyField = element (unsafeCoerce _giSpikyField)
+giSpikyField :: Icon
+giSpikyField = element _giSpikyField
 
 foreign import _giSpikyPit :: ReactIcon
 
-giSpikyPit :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSpikyPit = element (unsafeCoerce _giSpikyPit)
+giSpikyPit :: Icon
+giSpikyPit = element _giSpikyPit
 
 foreign import _giSpikyWing :: ReactIcon
 
-giSpikyWing :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSpikyWing = element (unsafeCoerce _giSpikyWing)
+giSpikyWing :: Icon
+giSpikyWing = element _giSpikyWing
 
 foreign import _giSpill :: ReactIcon
 
-giSpill :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSpill = element (unsafeCoerce _giSpill)
+giSpill :: Icon
+giSpill = element _giSpill
 
 foreign import _giSpinalCoil :: ReactIcon
 
-giSpinalCoil :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSpinalCoil = element (unsafeCoerce _giSpinalCoil)
+giSpinalCoil :: Icon
+giSpinalCoil = element _giSpinalCoil
 
 foreign import _giSpineArrow :: ReactIcon
 
-giSpineArrow :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSpineArrow = element (unsafeCoerce _giSpineArrow)
+giSpineArrow :: Icon
+giSpineArrow = element _giSpineArrow
 
 foreign import _giSpinningBlades :: ReactIcon
 
-giSpinningBlades :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSpinningBlades = element (unsafeCoerce _giSpinningBlades)
+giSpinningBlades :: Icon
+giSpinningBlades = element _giSpinningBlades
 
 foreign import _giSpinningRibbons :: ReactIcon
 
-giSpinningRibbons :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSpinningRibbons = element (unsafeCoerce _giSpinningRibbons)
+giSpinningRibbons :: Icon
+giSpinningRibbons = element _giSpinningRibbons
 
 foreign import _giSpinningSword :: ReactIcon
 
-giSpinningSword :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSpinningSword = element (unsafeCoerce _giSpinningSword)
+giSpinningSword :: Icon
+giSpinningSword = element _giSpinningSword
 
 foreign import _giSpinningTop :: ReactIcon
 
-giSpinningTop :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSpinningTop = element (unsafeCoerce _giSpinningTop)
+giSpinningTop :: Icon
+giSpinningTop = element _giSpinningTop
 
 foreign import _giSpinningWheel :: ReactIcon
 
-giSpinningWheel :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSpinningWheel = element (unsafeCoerce _giSpinningWheel)
+giSpinningWheel :: Icon
+giSpinningWheel = element _giSpinningWheel
 
 foreign import _giSpiralArrow :: ReactIcon
 
-giSpiralArrow :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSpiralArrow = element (unsafeCoerce _giSpiralArrow)
+giSpiralArrow :: Icon
+giSpiralArrow = element _giSpiralArrow
 
 foreign import _giSpiralBloom :: ReactIcon
 
-giSpiralBloom :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSpiralBloom = element (unsafeCoerce _giSpiralBloom)
+giSpiralBloom :: Icon
+giSpiralBloom = element _giSpiralBloom
 
 foreign import _giSpiralBottle :: ReactIcon
 
-giSpiralBottle :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSpiralBottle = element (unsafeCoerce _giSpiralBottle)
+giSpiralBottle :: Icon
+giSpiralBottle = element _giSpiralBottle
 
 foreign import _giSpiralHilt :: ReactIcon
 
-giSpiralHilt :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSpiralHilt = element (unsafeCoerce _giSpiralHilt)
+giSpiralHilt :: Icon
+giSpiralHilt = element _giSpiralHilt
 
 foreign import _giSpiralLollipop :: ReactIcon
 
-giSpiralLollipop :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSpiralLollipop = element (unsafeCoerce _giSpiralLollipop)
+giSpiralLollipop :: Icon
+giSpiralLollipop = element _giSpiralLollipop
 
 foreign import _giSpiralShell :: ReactIcon
 
-giSpiralShell :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSpiralShell = element (unsafeCoerce _giSpiralShell)
+giSpiralShell :: Icon
+giSpiralShell = element _giSpiralShell
 
 foreign import _giSpiralTentacle :: ReactIcon
 
-giSpiralTentacle :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSpiralTentacle = element (unsafeCoerce _giSpiralTentacle)
+giSpiralTentacle :: Icon
+giSpiralTentacle = element _giSpiralTentacle
 
 foreign import _giSpiralThrust :: ReactIcon
 
-giSpiralThrust :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSpiralThrust = element (unsafeCoerce _giSpiralThrust)
+giSpiralThrust :: Icon
+giSpiralThrust = element _giSpiralThrust
 
 foreign import _giSplash :: ReactIcon
 
-giSplash :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSplash = element (unsafeCoerce _giSplash)
+giSplash :: Icon
+giSplash = element _giSplash
 
 foreign import _giSplashyStream :: ReactIcon
 
-giSplashyStream :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSplashyStream = element (unsafeCoerce _giSplashyStream)
+giSplashyStream :: Icon
+giSplashyStream = element _giSplashyStream
 
 foreign import _giSplitArrows :: ReactIcon
 
-giSplitArrows :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSplitArrows = element (unsafeCoerce _giSplitArrows)
+giSplitArrows :: Icon
+giSplitArrows = element _giSplitArrows
 
 foreign import _giSplitBody :: ReactIcon
 
-giSplitBody :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSplitBody = element (unsafeCoerce _giSplitBody)
+giSplitBody :: Icon
+giSplitBody = element _giSplitBody
 
 foreign import _giSplitCross :: ReactIcon
 
-giSplitCross :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSplitCross = element (unsafeCoerce _giSplitCross)
+giSplitCross :: Icon
+giSplitCross = element _giSplitCross
 
 foreign import _giSplurt :: ReactIcon
 
-giSplurt :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSplurt = element (unsafeCoerce _giSplurt)
+giSplurt :: Icon
+giSplurt = element _giSplurt
 
 foreign import _giSpockHand :: ReactIcon
 
-giSpockHand :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSpockHand = element (unsafeCoerce _giSpockHand)
+giSpockHand :: Icon
+giSpockHand = element _giSpockHand
 
 foreign import _giSpookyHouse :: ReactIcon
 
-giSpookyHouse :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSpookyHouse = element (unsafeCoerce _giSpookyHouse)
+giSpookyHouse :: Icon
+giSpookyHouse = element _giSpookyHouse
 
 foreign import _giSpoon :: ReactIcon
 
-giSpoon :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSpoon = element (unsafeCoerce _giSpoon)
+giSpoon :: Icon
+giSpoon = element _giSpoon
 
 foreign import _giSportMedal :: ReactIcon
 
-giSportMedal :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSportMedal = element (unsafeCoerce _giSportMedal)
+giSportMedal :: Icon
+giSportMedal = element _giSportMedal
 
 foreign import _giSpotedFlower :: ReactIcon
 
-giSpotedFlower :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSpotedFlower = element (unsafeCoerce _giSpotedFlower)
+giSpotedFlower :: Icon
+giSpotedFlower = element _giSpotedFlower
 
 foreign import _giSpottedArrowhead :: ReactIcon
 
-giSpottedArrowhead :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSpottedArrowhead = element (unsafeCoerce _giSpottedArrowhead)
+giSpottedArrowhead :: Icon
+giSpottedArrowhead = element _giSpottedArrowhead
 
 foreign import _giSpottedBug :: ReactIcon
 
-giSpottedBug :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSpottedBug = element (unsafeCoerce _giSpottedBug)
+giSpottedBug :: Icon
+giSpottedBug = element _giSpottedBug
 
 foreign import _giSpottedMushroom :: ReactIcon
 
-giSpottedMushroom :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSpottedMushroom = element (unsafeCoerce _giSpottedMushroom)
+giSpottedMushroom :: Icon
+giSpottedMushroom = element _giSpottedMushroom
 
 foreign import _giSpottedWound :: ReactIcon
 
-giSpottedWound :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSpottedWound = element (unsafeCoerce _giSpottedWound)
+giSpottedWound :: Icon
+giSpottedWound = element _giSpottedWound
 
 foreign import _giSpoutnik :: ReactIcon
 
-giSpoutnik :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSpoutnik = element (unsafeCoerce _giSpoutnik)
+giSpoutnik :: Icon
+giSpoutnik = element _giSpoutnik
 
 foreign import _giSpray :: ReactIcon
 
-giSpray :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSpray = element (unsafeCoerce _giSpray)
+giSpray :: Icon
+giSpray = element _giSpray
 
 foreign import _giSpring :: ReactIcon
 
-giSpring :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSpring = element (unsafeCoerce _giSpring)
+giSpring :: Icon
+giSpring = element _giSpring
 
 foreign import _giSprint :: ReactIcon
 
-giSprint :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSprint = element (unsafeCoerce _giSprint)
+giSprint :: Icon
+giSprint = element _giSprint
 
 foreign import _giSprout :: ReactIcon
 
-giSprout :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSprout = element (unsafeCoerce _giSprout)
+giSprout :: Icon
+giSprout = element _giSprout
 
 foreign import _giSproutDisc :: ReactIcon
 
-giSproutDisc :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSproutDisc = element (unsafeCoerce _giSproutDisc)
+giSproutDisc :: Icon
+giSproutDisc = element _giSproutDisc
 
 foreign import _giSpy :: ReactIcon
 
-giSpy :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSpy = element (unsafeCoerce _giSpy)
+giSpy :: Icon
+giSpy = element _giSpy
 
 foreign import _giSpyglass :: ReactIcon
 
-giSpyglass :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSpyglass = element (unsafeCoerce _giSpyglass)
+giSpyglass :: Icon
+giSpyglass = element _giSpyglass
 
 foreign import _giSquare :: ReactIcon
 
-giSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSquare = element (unsafeCoerce _giSquare)
+giSquare :: Icon
+giSquare = element _giSquare
 
 foreign import _giSquareBottle :: ReactIcon
 
-giSquareBottle :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSquareBottle = element (unsafeCoerce _giSquareBottle)
+giSquareBottle :: Icon
+giSquareBottle = element _giSquareBottle
 
 foreign import _giSquib :: ReactIcon
 
-giSquib :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSquib = element (unsafeCoerce _giSquib)
+giSquib :: Icon
+giSquib = element _giSquib
 
 foreign import _giSquid :: ReactIcon
 
-giSquid :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSquid = element (unsafeCoerce _giSquid)
+giSquid :: Icon
+giSquid = element _giSquid
 
 foreign import _giSquidHead :: ReactIcon
 
-giSquidHead :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSquidHead = element (unsafeCoerce _giSquidHead)
+giSquidHead :: Icon
+giSquidHead = element _giSquidHead
 
 foreign import _giSquirrel :: ReactIcon
 
-giSquirrel :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSquirrel = element (unsafeCoerce _giSquirrel)
+giSquirrel :: Icon
+giSquirrel = element _giSquirrel
 
 foreign import _giSriLanka :: ReactIcon
 
-giSriLanka :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSriLanka = element (unsafeCoerce _giSriLanka)
+giSriLanka :: Icon
+giSriLanka = element _giSriLanka
 
 foreign import _giStabbedNote :: ReactIcon
 
-giStabbedNote :: forall a b. Union a b PropsIcon => Record a -> JSX
-giStabbedNote = element (unsafeCoerce _giStabbedNote)
+giStabbedNote :: Icon
+giStabbedNote = element _giStabbedNote
 
 foreign import _giStable :: ReactIcon
 
-giStable :: forall a b. Union a b PropsIcon => Record a -> JSX
-giStable = element (unsafeCoerce _giStable)
+giStable :: Icon
+giStable = element _giStable
 
 foreign import _giStack :: ReactIcon
 
-giStack :: forall a b. Union a b PropsIcon => Record a -> JSX
-giStack = element (unsafeCoerce _giStack)
+giStack :: Icon
+giStack = element _giStack
 
 foreign import _giStagHead :: ReactIcon
 
-giStagHead :: forall a b. Union a b PropsIcon => Record a -> JSX
-giStagHead = element (unsafeCoerce _giStagHead)
+giStagHead :: Icon
+giStagHead = element _giStagHead
 
 foreign import _giStahlhelm :: ReactIcon
 
-giStahlhelm :: forall a b. Union a b PropsIcon => Record a -> JSX
-giStahlhelm = element (unsafeCoerce _giStahlhelm)
+giStahlhelm :: Icon
+giStahlhelm = element _giStahlhelm
 
 foreign import _giStairs :: ReactIcon
 
-giStairs :: forall a b. Union a b PropsIcon => Record a -> JSX
-giStairs = element (unsafeCoerce _giStairs)
+giStairs :: Icon
+giStairs = element _giStairs
 
 foreign import _giStairsCake :: ReactIcon
 
-giStairsCake :: forall a b. Union a b PropsIcon => Record a -> JSX
-giStairsCake = element (unsafeCoerce _giStairsCake)
+giStairsCake :: Icon
+giStairsCake = element _giStairsCake
 
 foreign import _giStairsGoal :: ReactIcon
 
-giStairsGoal :: forall a b. Union a b PropsIcon => Record a -> JSX
-giStairsGoal = element (unsafeCoerce _giStairsGoal)
+giStairsGoal :: Icon
+giStairsGoal = element _giStairsGoal
 
 foreign import _giStakeHammer :: ReactIcon
 
-giStakeHammer :: forall a b. Union a b PropsIcon => Record a -> JSX
-giStakeHammer = element (unsafeCoerce _giStakeHammer)
+giStakeHammer :: Icon
+giStakeHammer = element _giStakeHammer
 
 foreign import _giStakesFence :: ReactIcon
 
-giStakesFence :: forall a b. Union a b PropsIcon => Record a -> JSX
-giStakesFence = element (unsafeCoerce _giStakesFence)
+giStakesFence :: Icon
+giStakesFence = element _giStakesFence
 
 foreign import _giStalactites :: ReactIcon
 
-giStalactites :: forall a b. Union a b PropsIcon => Record a -> JSX
-giStalactites = element (unsafeCoerce _giStalactites)
+giStalactites :: Icon
+giStalactites = element _giStalactites
 
 foreign import _giStalagtite :: ReactIcon
 
-giStalagtite :: forall a b. Union a b PropsIcon => Record a -> JSX
-giStalagtite = element (unsafeCoerce _giStalagtite)
+giStalagtite :: Icon
+giStalagtite = element _giStalagtite
 
 foreign import _giStamper :: ReactIcon
 
-giStamper :: forall a b. Union a b PropsIcon => Record a -> JSX
-giStamper = element (unsafeCoerce _giStamper)
+giStamper :: Icon
+giStamper = element _giStamper
 
 foreign import _giStandingPotion :: ReactIcon
 
-giStandingPotion :: forall a b. Union a b PropsIcon => Record a -> JSX
-giStandingPotion = element (unsafeCoerce _giStandingPotion)
+giStandingPotion :: Icon
+giStandingPotion = element _giStandingPotion
 
 foreign import _giStapler :: ReactIcon
 
-giStapler :: forall a b. Union a b PropsIcon => Record a -> JSX
-giStapler = element (unsafeCoerce _giStapler)
+giStapler :: Icon
+giStapler = element _giStapler
 
 foreign import _giStaplerHeavyDuty :: ReactIcon
 
-giStaplerHeavyDuty :: forall a b. Union a b PropsIcon => Record a -> JSX
-giStaplerHeavyDuty = element (unsafeCoerce _giStaplerHeavyDuty)
+giStaplerHeavyDuty :: Icon
+giStaplerHeavyDuty = element _giStaplerHeavyDuty
 
 foreign import _giStaplerPneumatic :: ReactIcon
 
-giStaplerPneumatic :: forall a b. Union a b PropsIcon => Record a -> JSX
-giStaplerPneumatic = element (unsafeCoerce _giStaplerPneumatic)
+giStaplerPneumatic :: Icon
+giStaplerPneumatic = element _giStaplerPneumatic
 
 foreign import _giStarAltar :: ReactIcon
 
-giStarAltar :: forall a b. Union a b PropsIcon => Record a -> JSX
-giStarAltar = element (unsafeCoerce _giStarAltar)
+giStarAltar :: Icon
+giStarAltar = element _giStarAltar
 
 foreign import _giStarCycle :: ReactIcon
 
-giStarCycle :: forall a b. Union a b PropsIcon => Record a -> JSX
-giStarCycle = element (unsafeCoerce _giStarCycle)
+giStarCycle :: Icon
+giStarCycle = element _giStarCycle
 
 foreign import _giStarfighter :: ReactIcon
 
-giStarfighter :: forall a b. Union a b PropsIcon => Record a -> JSX
-giStarfighter = element (unsafeCoerce _giStarfighter)
+giStarfighter :: Icon
+giStarfighter = element _giStarfighter
 
 foreign import _giStarFlag :: ReactIcon
 
-giStarFlag :: forall a b. Union a b PropsIcon => Record a -> JSX
-giStarFlag = element (unsafeCoerce _giStarFlag)
+giStarFlag :: Icon
+giStarFlag = element _giStarFlag
 
 foreign import _giStarFormation :: ReactIcon
 
-giStarFormation :: forall a b. Union a b PropsIcon => Record a -> JSX
-giStarFormation = element (unsafeCoerce _giStarFormation)
+giStarFormation :: Icon
+giStarFormation = element _giStarFormation
 
 foreign import _giStarGate :: ReactIcon
 
-giStarGate :: forall a b. Union a b PropsIcon => Record a -> JSX
-giStarGate = element (unsafeCoerce _giStarGate)
+giStarGate :: Icon
+giStarGate = element _giStarGate
 
 foreign import _giStarKey :: ReactIcon
 
-giStarKey :: forall a b. Union a b PropsIcon => Record a -> JSX
-giStarKey = element (unsafeCoerce _giStarKey)
+giStarKey :: Icon
+giStarKey = element _giStarKey
 
 foreign import _giStarMedal :: ReactIcon
 
-giStarMedal :: forall a b. Union a b PropsIcon => Record a -> JSX
-giStarMedal = element (unsafeCoerce _giStarMedal)
+giStarMedal :: Icon
+giStarMedal = element _giStarMedal
 
 foreign import _giStarProminences :: ReactIcon
 
-giStarProminences :: forall a b. Union a b PropsIcon => Record a -> JSX
-giStarProminences = element (unsafeCoerce _giStarProminences)
+giStarProminences :: Icon
+giStarProminences = element _giStarProminences
 
 foreign import _giStarPupil :: ReactIcon
 
-giStarPupil :: forall a b. Union a b PropsIcon => Record a -> JSX
-giStarPupil = element (unsafeCoerce _giStarPupil)
+giStarPupil :: Icon
+giStarPupil = element _giStarPupil
 
 foreign import _giStarSattelites :: ReactIcon
 
-giStarSattelites :: forall a b. Union a b PropsIcon => Record a -> JSX
-giStarSattelites = element (unsafeCoerce _giStarSattelites)
+giStarSattelites :: Icon
+giStarSattelites = element _giStarSattelites
 
 foreign import _giStarShuriken :: ReactIcon
 
-giStarShuriken :: forall a b. Union a b PropsIcon => Record a -> JSX
-giStarShuriken = element (unsafeCoerce _giStarShuriken)
+giStarShuriken :: Icon
+giStarShuriken = element _giStarShuriken
 
 foreign import _giStarSkull :: ReactIcon
 
-giStarSkull :: forall a b. Union a b PropsIcon => Record a -> JSX
-giStarSkull = element (unsafeCoerce _giStarSkull)
+giStarSkull :: Icon
+giStarSkull = element _giStarSkull
 
 foreign import _giStarsStack :: ReactIcon
 
-giStarsStack :: forall a b. Union a b PropsIcon => Record a -> JSX
-giStarsStack = element (unsafeCoerce _giStarsStack)
+giStarsStack :: Icon
+giStarsStack = element _giStarsStack
 
 foreign import _giStarStruck :: ReactIcon
 
-giStarStruck :: forall a b. Union a b PropsIcon => Record a -> JSX
-giStarStruck = element (unsafeCoerce _giStarStruck)
+giStarStruck :: Icon
+giStarStruck = element _giStarStruck
 
 foreign import _giStarSwirl :: ReactIcon
 
-giStarSwirl :: forall a b. Union a b PropsIcon => Record a -> JSX
-giStarSwirl = element (unsafeCoerce _giStarSwirl)
+giStarSwirl :: Icon
+giStarSwirl = element _giStarSwirl
 
 foreign import _giStaryu :: ReactIcon
 
-giStaryu :: forall a b. Union a b PropsIcon => Record a -> JSX
-giStaryu = element (unsafeCoerce _giStaryu)
+giStaryu :: Icon
+giStaryu = element _giStaryu
 
 foreign import _giStatic :: ReactIcon
 
-giStatic :: forall a b. Union a b PropsIcon => Record a -> JSX
-giStatic = element (unsafeCoerce _giStatic)
+giStatic :: Icon
+giStatic = element _giStatic
 
 foreign import _giStaticGuard :: ReactIcon
 
-giStaticGuard :: forall a b. Union a b PropsIcon => Record a -> JSX
-giStaticGuard = element (unsafeCoerce _giStaticGuard)
+giStaticGuard :: Icon
+giStaticGuard = element _giStaticGuard
 
 foreign import _giStaticWaves :: ReactIcon
 
-giStaticWaves :: forall a b. Union a b PropsIcon => Record a -> JSX
-giStaticWaves = element (unsafeCoerce _giStaticWaves)
+giStaticWaves :: Icon
+giStaticWaves = element _giStaticWaves
 
 foreign import _giSteak :: ReactIcon
 
-giSteak :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSteak = element (unsafeCoerce _giSteak)
+giSteak :: Icon
+giSteak = element _giSteak
 
 foreign import _giStealthBomber :: ReactIcon
 
-giStealthBomber :: forall a b. Union a b PropsIcon => Record a -> JSX
-giStealthBomber = element (unsafeCoerce _giStealthBomber)
+giStealthBomber :: Icon
+giStealthBomber = element _giStealthBomber
 
 foreign import _giSteam :: ReactIcon
 
-giSteam :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSteam = element (unsafeCoerce _giSteam)
+giSteam :: Icon
+giSteam = element _giSteam
 
 foreign import _giSteamBlast :: ReactIcon
 
-giSteamBlast :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSteamBlast = element (unsafeCoerce _giSteamBlast)
+giSteamBlast :: Icon
+giSteamBlast = element _giSteamBlast
 
 foreign import _giSteamLocomotive :: ReactIcon
 
-giSteamLocomotive :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSteamLocomotive = element (unsafeCoerce _giSteamLocomotive)
+giSteamLocomotive :: Icon
+giSteamLocomotive = element _giSteamLocomotive
 
 foreign import _giSteampunkGoggles :: ReactIcon
 
-giSteampunkGoggles :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSteampunkGoggles = element (unsafeCoerce _giSteampunkGoggles)
+giSteampunkGoggles :: Icon
+giSteampunkGoggles = element _giSteampunkGoggles
 
 foreign import _giSteelClaws :: ReactIcon
 
-giSteelClaws :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSteelClaws = element (unsafeCoerce _giSteelClaws)
+giSteelClaws :: Icon
+giSteelClaws = element _giSteelClaws
 
 foreign import _giSteelDoor :: ReactIcon
 
-giSteelDoor :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSteelDoor = element (unsafeCoerce _giSteelDoor)
+giSteelDoor :: Icon
+giSteelDoor = element _giSteelDoor
 
 foreign import _giSteeltoeBoots :: ReactIcon
 
-giSteeltoeBoots :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSteeltoeBoots = element (unsafeCoerce _giSteeltoeBoots)
+giSteeltoeBoots :: Icon
+giSteeltoeBoots = element _giSteeltoeBoots
 
 foreign import _giSteelwingEmblem :: ReactIcon
 
-giSteelwingEmblem :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSteelwingEmblem = element (unsafeCoerce _giSteelwingEmblem)
+giSteelwingEmblem :: Icon
+giSteelwingEmblem = element _giSteelwingEmblem
 
 foreign import _giSteeringWheel :: ReactIcon
 
-giSteeringWheel :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSteeringWheel = element (unsafeCoerce _giSteeringWheel)
+giSteeringWheel :: Icon
+giSteeringWheel = element _giSteeringWheel
 
 foreign import _giStegosaurusScales :: ReactIcon
 
-giStegosaurusScales :: forall a b. Union a b PropsIcon => Record a -> JSX
-giStegosaurusScales = element (unsafeCoerce _giStegosaurusScales)
+giStegosaurusScales :: Icon
+giStegosaurusScales = element _giStegosaurusScales
 
 foreign import _giStethoscope :: ReactIcon
 
-giStethoscope :: forall a b. Union a b PropsIcon => Record a -> JSX
-giStethoscope = element (unsafeCoerce _giStethoscope)
+giStethoscope :: Icon
+giStethoscope = element _giStethoscope
 
 foreign import _giSteyrAug :: ReactIcon
 
-giSteyrAug :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSteyrAug = element (unsafeCoerce _giSteyrAug)
+giSteyrAug :: Icon
+giSteyrAug = element _giSteyrAug
 
 foreign import _giStickFrame :: ReactIcon
 
-giStickFrame :: forall a b. Union a b PropsIcon => Record a -> JSX
-giStickFrame = element (unsafeCoerce _giStickFrame)
+giStickFrame :: Icon
+giStickFrame = element _giStickFrame
 
 foreign import _giStickGrenade :: ReactIcon
 
-giStickGrenade :: forall a b. Union a b PropsIcon => Record a -> JSX
-giStickGrenade = element (unsafeCoerce _giStickGrenade)
+giStickGrenade :: Icon
+giStickGrenade = element _giStickGrenade
 
 foreign import _giStickingPlaster :: ReactIcon
 
-giStickingPlaster :: forall a b. Union a b PropsIcon => Record a -> JSX
-giStickingPlaster = element (unsafeCoerce _giStickingPlaster)
+giStickingPlaster :: Icon
+giStickingPlaster = element _giStickingPlaster
 
 foreign import _giStickSplitting :: ReactIcon
 
-giStickSplitting :: forall a b. Union a b PropsIcon => Record a -> JSX
-giStickSplitting = element (unsafeCoerce _giStickSplitting)
+giStickSplitting :: Icon
+giStickSplitting = element _giStickSplitting
 
 foreign import _giStickyBoot :: ReactIcon
 
-giStickyBoot :: forall a b. Union a b PropsIcon => Record a -> JSX
-giStickyBoot = element (unsafeCoerce _giStickyBoot)
+giStickyBoot :: Icon
+giStickyBoot = element _giStickyBoot
 
 foreign import _giStigmata :: ReactIcon
 
-giStigmata :: forall a b. Union a b PropsIcon => Record a -> JSX
-giStigmata = element (unsafeCoerce _giStigmata)
+giStigmata :: Icon
+giStigmata = element _giStigmata
 
 foreign import _giStiletto :: ReactIcon
 
-giStiletto :: forall a b. Union a b PropsIcon => Record a -> JSX
-giStiletto = element (unsafeCoerce _giStiletto)
+giStiletto :: Icon
+giStiletto = element _giStiletto
 
 foreign import _giStitchedWound :: ReactIcon
 
-giStitchedWound :: forall a b. Union a b PropsIcon => Record a -> JSX
-giStitchedWound = element (unsafeCoerce _giStitchedWound)
+giStitchedWound :: Icon
+giStitchedWound = element _giStitchedWound
 
 foreign import _giStockpiles :: ReactIcon
 
-giStockpiles :: forall a b. Union a b PropsIcon => Record a -> JSX
-giStockpiles = element (unsafeCoerce _giStockpiles)
+giStockpiles :: Icon
+giStockpiles = element _giStockpiles
 
 foreign import _giStomach :: ReactIcon
 
-giStomach :: forall a b. Union a b PropsIcon => Record a -> JSX
-giStomach = element (unsafeCoerce _giStomach)
+giStomach :: Icon
+giStomach = element _giStomach
 
 foreign import _giStomp :: ReactIcon
 
-giStomp :: forall a b. Union a b PropsIcon => Record a -> JSX
-giStomp = element (unsafeCoerce _giStomp)
+giStomp :: Icon
+giStomp = element _giStomp
 
 foreign import _giStompTornado :: ReactIcon
 
-giStompTornado :: forall a b. Union a b PropsIcon => Record a -> JSX
-giStompTornado = element (unsafeCoerce _giStompTornado)
+giStompTornado :: Icon
+giStompTornado = element _giStompTornado
 
 foreign import _giStoneAxe :: ReactIcon
 
-giStoneAxe :: forall a b. Union a b PropsIcon => Record a -> JSX
-giStoneAxe = element (unsafeCoerce _giStoneAxe)
+giStoneAxe :: Icon
+giStoneAxe = element _giStoneAxe
 
 foreign import _giStoneBlock :: ReactIcon
 
-giStoneBlock :: forall a b. Union a b PropsIcon => Record a -> JSX
-giStoneBlock = element (unsafeCoerce _giStoneBlock)
+giStoneBlock :: Icon
+giStoneBlock = element _giStoneBlock
 
 foreign import _giStoneBridge :: ReactIcon
 
-giStoneBridge :: forall a b. Union a b PropsIcon => Record a -> JSX
-giStoneBridge = element (unsafeCoerce _giStoneBridge)
+giStoneBridge :: Icon
+giStoneBridge = element _giStoneBridge
 
 foreign import _giStoneBust :: ReactIcon
 
-giStoneBust :: forall a b. Union a b PropsIcon => Record a -> JSX
-giStoneBust = element (unsafeCoerce _giStoneBust)
+giStoneBust :: Icon
+giStoneBust = element _giStoneBust
 
 foreign import _giStoneCrafting :: ReactIcon
 
-giStoneCrafting :: forall a b. Union a b PropsIcon => Record a -> JSX
-giStoneCrafting = element (unsafeCoerce _giStoneCrafting)
+giStoneCrafting :: Icon
+giStoneCrafting = element _giStoneCrafting
 
 foreign import _giStonedSkull :: ReactIcon
 
-giStonedSkull :: forall a b. Union a b PropsIcon => Record a -> JSX
-giStonedSkull = element (unsafeCoerce _giStonedSkull)
+giStonedSkull :: Icon
+giStonedSkull = element _giStonedSkull
 
 foreign import _giStonePath :: ReactIcon
 
-giStonePath :: forall a b. Union a b PropsIcon => Record a -> JSX
-giStonePath = element (unsafeCoerce _giStonePath)
+giStonePath :: Icon
+giStonePath = element _giStonePath
 
 foreign import _giStonePile :: ReactIcon
 
-giStonePile :: forall a b. Union a b PropsIcon => Record a -> JSX
-giStonePile = element (unsafeCoerce _giStonePile)
+giStonePile :: Icon
+giStonePile = element _giStonePile
 
 foreign import _giStoneSpear :: ReactIcon
 
-giStoneSpear :: forall a b. Union a b PropsIcon => Record a -> JSX
-giStoneSpear = element (unsafeCoerce _giStoneSpear)
+giStoneSpear :: Icon
+giStoneSpear = element _giStoneSpear
 
 foreign import _giStoneSphere :: ReactIcon
 
-giStoneSphere :: forall a b. Union a b PropsIcon => Record a -> JSX
-giStoneSphere = element (unsafeCoerce _giStoneSphere)
+giStoneSphere :: Icon
+giStoneSphere = element _giStoneSphere
 
 foreign import _giStoneStack :: ReactIcon
 
-giStoneStack :: forall a b. Union a b PropsIcon => Record a -> JSX
-giStoneStack = element (unsafeCoerce _giStoneStack)
+giStoneStack :: Icon
+giStoneStack = element _giStoneStack
 
 foreign import _giStoneTablet :: ReactIcon
 
-giStoneTablet :: forall a b. Union a b PropsIcon => Record a -> JSX
-giStoneTablet = element (unsafeCoerce _giStoneTablet)
+giStoneTablet :: Icon
+giStoneTablet = element _giStoneTablet
 
 foreign import _giStoneThrone :: ReactIcon
 
-giStoneThrone :: forall a b. Union a b PropsIcon => Record a -> JSX
-giStoneThrone = element (unsafeCoerce _giStoneThrone)
+giStoneThrone :: Icon
+giStoneThrone = element _giStoneThrone
 
 foreign import _giStoneTower :: ReactIcon
 
-giStoneTower :: forall a b. Union a b PropsIcon => Record a -> JSX
-giStoneTower = element (unsafeCoerce _giStoneTower)
+giStoneTower :: Icon
+giStoneTower = element _giStoneTower
 
 foreign import _giStoneWall :: ReactIcon
 
-giStoneWall :: forall a b. Union a b PropsIcon => Record a -> JSX
-giStoneWall = element (unsafeCoerce _giStoneWall)
+giStoneWall :: Icon
+giStoneWall = element _giStoneWall
 
 foreign import _giStoneWheel :: ReactIcon
 
-giStoneWheel :: forall a b. Union a b PropsIcon => Record a -> JSX
-giStoneWheel = element (unsafeCoerce _giStoneWheel)
+giStoneWheel :: Icon
+giStoneWheel = element _giStoneWheel
 
 foreign import _giStopSign :: ReactIcon
 
-giStopSign :: forall a b. Union a b PropsIcon => Record a -> JSX
-giStopSign = element (unsafeCoerce _giStopSign)
+giStopSign :: Icon
+giStopSign = element _giStopSign
 
 foreign import _giStopwatch :: ReactIcon
 
-giStopwatch :: forall a b. Union a b PropsIcon => Record a -> JSX
-giStopwatch = element (unsafeCoerce _giStopwatch)
+giStopwatch :: Icon
+giStopwatch = element _giStopwatch
 
 foreign import _giStorkDelivery :: ReactIcon
 
-giStorkDelivery :: forall a b. Union a b PropsIcon => Record a -> JSX
-giStorkDelivery = element (unsafeCoerce _giStorkDelivery)
+giStorkDelivery :: Icon
+giStorkDelivery = element _giStorkDelivery
 
 foreign import _giStrafe :: ReactIcon
 
-giStrafe :: forall a b. Union a b PropsIcon => Record a -> JSX
-giStrafe = element (unsafeCoerce _giStrafe)
+giStrafe :: Icon
+giStrafe = element _giStrafe
 
 foreign import _giStraightPipe :: ReactIcon
 
-giStraightPipe :: forall a b. Union a b PropsIcon => Record a -> JSX
-giStraightPipe = element (unsafeCoerce _giStraightPipe)
+giStraightPipe :: Icon
+giStraightPipe = element _giStraightPipe
 
 foreign import _giStrawberry :: ReactIcon
 
-giStrawberry :: forall a b. Union a b PropsIcon => Record a -> JSX
-giStrawberry = element (unsafeCoerce _giStrawberry)
+giStrawberry :: Icon
+giStrawberry = element _giStrawberry
 
 foreign import _giStreetLight :: ReactIcon
 
-giStreetLight :: forall a b. Union a b PropsIcon => Record a -> JSX
-giStreetLight = element (unsafeCoerce _giStreetLight)
+giStreetLight :: Icon
+giStreetLight = element _giStreetLight
 
 foreign import _giStrikingArrows :: ReactIcon
 
-giStrikingArrows :: forall a b. Union a b PropsIcon => Record a -> JSX
-giStrikingArrows = element (unsafeCoerce _giStrikingArrows)
+giStrikingArrows :: Icon
+giStrikingArrows = element _giStrikingArrows
 
 foreign import _giStrikingBalls :: ReactIcon
 
-giStrikingBalls :: forall a b. Union a b PropsIcon => Record a -> JSX
-giStrikingBalls = element (unsafeCoerce _giStrikingBalls)
+giStrikingBalls :: Icon
+giStrikingBalls = element _giStrikingBalls
 
 foreign import _giStrikingClamps :: ReactIcon
 
-giStrikingClamps :: forall a b. Union a b PropsIcon => Record a -> JSX
-giStrikingClamps = element (unsafeCoerce _giStrikingClamps)
+giStrikingClamps :: Icon
+giStrikingClamps = element _giStrikingClamps
 
 foreign import _giStrikingDiamonds :: ReactIcon
 
-giStrikingDiamonds :: forall a b. Union a b PropsIcon => Record a -> JSX
-giStrikingDiamonds = element (unsafeCoerce _giStrikingDiamonds)
+giStrikingDiamonds :: Icon
+giStrikingDiamonds = element _giStrikingDiamonds
 
 foreign import _giStrikingSplinter :: ReactIcon
 
-giStrikingSplinter :: forall a b. Union a b PropsIcon => Record a -> JSX
-giStrikingSplinter = element (unsafeCoerce _giStrikingSplinter)
+giStrikingSplinter :: Icon
+giStrikingSplinter = element _giStrikingSplinter
 
 foreign import _giStripedSun :: ReactIcon
 
-giStripedSun :: forall a b. Union a b PropsIcon => Record a -> JSX
-giStripedSun = element (unsafeCoerce _giStripedSun)
+giStripedSun :: Icon
+giStripedSun = element _giStripedSun
 
 foreign import _giStripedSword :: ReactIcon
 
-giStripedSword :: forall a b. Union a b PropsIcon => Record a -> JSX
-giStripedSword = element (unsafeCoerce _giStripedSword)
+giStripedSword :: Icon
+giStripedSword = element _giStripedSword
 
 foreign import _giStrong :: ReactIcon
 
-giStrong :: forall a b. Union a b PropsIcon => Record a -> JSX
-giStrong = element (unsafeCoerce _giStrong)
+giStrong :: Icon
+giStrong = element _giStrong
 
 foreign import _giStrongbox :: ReactIcon
 
-giStrongbox :: forall a b. Union a b PropsIcon => Record a -> JSX
-giStrongbox = element (unsafeCoerce _giStrongbox)
+giStrongbox :: Icon
+giStrongbox = element _giStrongbox
 
 foreign import _giStrongMan :: ReactIcon
 
-giStrongMan :: forall a b. Union a b PropsIcon => Record a -> JSX
-giStrongMan = element (unsafeCoerce _giStrongMan)
+giStrongMan :: Icon
+giStrongMan = element _giStrongMan
 
 foreign import _giStumpRegrowth :: ReactIcon
 
-giStumpRegrowth :: forall a b. Union a b PropsIcon => Record a -> JSX
-giStumpRegrowth = element (unsafeCoerce _giStumpRegrowth)
+giStumpRegrowth :: Icon
+giStumpRegrowth = element _giStumpRegrowth
 
 foreign import _giStunGrenade :: ReactIcon
 
-giStunGrenade :: forall a b. Union a b PropsIcon => Record a -> JSX
-giStunGrenade = element (unsafeCoerce _giStunGrenade)
+giStunGrenade :: Icon
+giStunGrenade = element _giStunGrenade
 
 foreign import _giSubmarine :: ReactIcon
 
-giSubmarine :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSubmarine = element (unsafeCoerce _giSubmarine)
+giSubmarine :: Icon
+giSubmarine = element _giSubmarine
 
 foreign import _giSubmarineMissile :: ReactIcon
 
-giSubmarineMissile :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSubmarineMissile = element (unsafeCoerce _giSubmarineMissile)
+giSubmarineMissile :: Icon
+giSubmarineMissile = element _giSubmarineMissile
 
 foreign import _giSubway :: ReactIcon
 
-giSubway :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSubway = element (unsafeCoerce _giSubway)
+giSubway :: Icon
+giSubway = element _giSubway
 
 foreign import _giSuckeredTentacle :: ReactIcon
 
-giSuckeredTentacle :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSuckeredTentacle = element (unsafeCoerce _giSuckeredTentacle)
+giSuckeredTentacle :: Icon
+giSuckeredTentacle = element _giSuckeredTentacle
 
 foreign import _giSugarCane :: ReactIcon
 
-giSugarCane :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSugarCane = element (unsafeCoerce _giSugarCane)
+giSugarCane :: Icon
+giSugarCane = element _giSugarCane
 
 foreign import _giSuicide :: ReactIcon
 
-giSuicide :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSuicide = element (unsafeCoerce _giSuicide)
+giSuicide :: Icon
+giSuicide = element _giSuicide
 
 foreign import _giSuitcase :: ReactIcon
 
-giSuitcase :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSuitcase = element (unsafeCoerce _giSuitcase)
+giSuitcase :: Icon
+giSuitcase = element _giSuitcase
 
 foreign import _giSuits :: ReactIcon
 
-giSuits :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSuits = element (unsafeCoerce _giSuits)
+giSuits :: Icon
+giSuits = element _giSuits
 
 foreign import _giSummits :: ReactIcon
 
-giSummits :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSummits = element (unsafeCoerce _giSummits)
+giSummits :: Icon
+giSummits = element _giSummits
 
 foreign import _giSun :: ReactIcon
 
-giSun :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSun = element (unsafeCoerce _giSun)
+giSun :: Icon
+giSun = element _giSun
 
 foreign import _giSunbeams :: ReactIcon
 
-giSunbeams :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSunbeams = element (unsafeCoerce _giSunbeams)
+giSunbeams :: Icon
+giSunbeams = element _giSunbeams
 
 foreign import _giSunCloud :: ReactIcon
 
-giSunCloud :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSunCloud = element (unsafeCoerce _giSunCloud)
+giSunCloud :: Icon
+giSunCloud = element _giSunCloud
 
 foreign import _giSundial :: ReactIcon
 
-giSundial :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSundial = element (unsafeCoerce _giSundial)
+giSundial :: Icon
+giSundial = element _giSundial
 
 foreign import _giSunflower :: ReactIcon
 
-giSunflower :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSunflower = element (unsafeCoerce _giSunflower)
+giSunflower :: Icon
+giSunflower = element _giSunflower
 
 foreign import _giSunglasses :: ReactIcon
 
-giSunglasses :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSunglasses = element (unsafeCoerce _giSunglasses)
+giSunglasses :: Icon
+giSunglasses = element _giSunglasses
 
 foreign import _giSunkenEye :: ReactIcon
 
-giSunkenEye :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSunkenEye = element (unsafeCoerce _giSunkenEye)
+giSunkenEye :: Icon
+giSunkenEye = element _giSunkenEye
 
 foreign import _giSunPriest :: ReactIcon
 
-giSunPriest :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSunPriest = element (unsafeCoerce _giSunPriest)
+giSunPriest :: Icon
+giSunPriest = element _giSunPriest
 
 foreign import _giSunRadiations :: ReactIcon
 
-giSunRadiations :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSunRadiations = element (unsafeCoerce _giSunRadiations)
+giSunRadiations :: Icon
+giSunRadiations = element _giSunRadiations
 
 foreign import _giSunrise :: ReactIcon
 
-giSunrise :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSunrise = element (unsafeCoerce _giSunrise)
+giSunrise :: Icon
+giSunrise = element _giSunrise
 
 foreign import _giSunset :: ReactIcon
 
-giSunset :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSunset = element (unsafeCoerce _giSunset)
+giSunset :: Icon
+giSunset = element _giSunset
 
 foreign import _giSunSpear :: ReactIcon
 
-giSunSpear :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSunSpear = element (unsafeCoerce _giSunSpear)
+giSunSpear :: Icon
+giSunSpear = element _giSunSpear
 
 foreign import _giSuperMushroom :: ReactIcon
 
-giSuperMushroom :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSuperMushroom = element (unsafeCoerce _giSuperMushroom)
+giSuperMushroom :: Icon
+giSuperMushroom = element _giSuperMushroom
 
 foreign import _giSupersonicArrow :: ReactIcon
 
-giSupersonicArrow :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSupersonicArrow = element (unsafeCoerce _giSupersonicArrow)
+giSupersonicArrow :: Icon
+giSupersonicArrow = element _giSupersonicArrow
 
 foreign import _giSupersonicBullet :: ReactIcon
 
-giSupersonicBullet :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSupersonicBullet = element (unsafeCoerce _giSupersonicBullet)
+giSupersonicBullet :: Icon
+giSupersonicBullet = element _giSupersonicBullet
 
 foreign import _giSurfBoard :: ReactIcon
 
-giSurfBoard :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSurfBoard = element (unsafeCoerce _giSurfBoard)
+giSurfBoard :: Icon
+giSurfBoard = element _giSurfBoard
 
 foreign import _giSurferVan :: ReactIcon
 
-giSurferVan :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSurferVan = element (unsafeCoerce _giSurferVan)
+giSurferVan :: Icon
+giSurferVan = element _giSurferVan
 
 foreign import _giSurprised :: ReactIcon
 
-giSurprised :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSurprised = element (unsafeCoerce _giSurprised)
+giSurprised :: Icon
+giSurprised = element _giSurprised
 
 foreign import _giSurprisedSkull :: ReactIcon
 
-giSurprisedSkull :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSurprisedSkull = element (unsafeCoerce _giSurprisedSkull)
+giSurprisedSkull :: Icon
+giSurprisedSkull = element _giSurprisedSkull
 
 foreign import _giSurroundedEye :: ReactIcon
 
-giSurroundedEye :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSurroundedEye = element (unsafeCoerce _giSurroundedEye)
+giSurroundedEye :: Icon
+giSurroundedEye = element _giSurroundedEye
 
 foreign import _giSurroundedShield :: ReactIcon
 
-giSurroundedShield :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSurroundedShield = element (unsafeCoerce _giSurroundedShield)
+giSurroundedShield :: Icon
+giSurroundedShield = element _giSurroundedShield
 
 foreign import _giSushis :: ReactIcon
 
-giSushis :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSushis = element (unsafeCoerce _giSushis)
+giSushis :: Icon
+giSushis = element _giSushis
 
 foreign import _giSuspensionBridge :: ReactIcon
 
-giSuspensionBridge :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSuspensionBridge = element (unsafeCoerce _giSuspensionBridge)
+giSuspensionBridge :: Icon
+giSuspensionBridge = element _giSuspensionBridge
 
 foreign import _giSuspicious :: ReactIcon
 
-giSuspicious :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSuspicious = element (unsafeCoerce _giSuspicious)
+giSuspicious :: Icon
+giSuspicious = element _giSuspicious
 
 foreign import _giSverdIFjell :: ReactIcon
 
-giSverdIFjell :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSverdIFjell = element (unsafeCoerce _giSverdIFjell)
+giSverdIFjell :: Icon
+giSverdIFjell = element _giSverdIFjell
 
 foreign import _giSwallow :: ReactIcon
 
-giSwallow :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSwallow = element (unsafeCoerce _giSwallow)
+giSwallow :: Icon
+giSwallow = element _giSwallow
 
 foreign import _giSwallower :: ReactIcon
 
-giSwallower :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSwallower = element (unsafeCoerce _giSwallower)
+giSwallower :: Icon
+giSwallower = element _giSwallower
 
 foreign import _giSwamp :: ReactIcon
 
-giSwamp :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSwamp = element (unsafeCoerce _giSwamp)
+giSwamp :: Icon
+giSwamp = element _giSwamp
 
 foreign import _giSwampBat :: ReactIcon
 
-giSwampBat :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSwampBat = element (unsafeCoerce _giSwampBat)
+giSwampBat :: Icon
+giSwampBat = element _giSwampBat
 
 foreign import _giSwan :: ReactIcon
 
-giSwan :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSwan = element (unsafeCoerce _giSwan)
+giSwan :: Icon
+giSwan = element _giSwan
 
 foreign import _giSwanBreeze :: ReactIcon
 
-giSwanBreeze :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSwanBreeze = element (unsafeCoerce _giSwanBreeze)
+giSwanBreeze :: Icon
+giSwanBreeze = element _giSwanBreeze
 
 foreign import _giSwapBag :: ReactIcon
 
-giSwapBag :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSwapBag = element (unsafeCoerce _giSwapBag)
+giSwapBag :: Icon
+giSwapBag = element _giSwapBag
 
 foreign import _giSwimfins :: ReactIcon
 
-giSwimfins :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSwimfins = element (unsafeCoerce _giSwimfins)
+giSwimfins :: Icon
+giSwimfins = element _giSwimfins
 
 foreign import _giSwipeCard :: ReactIcon
 
-giSwipeCard :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSwipeCard = element (unsafeCoerce _giSwipeCard)
+giSwipeCard :: Icon
+giSwipeCard = element _giSwipeCard
 
 foreign import _giSwirledShell :: ReactIcon
 
-giSwirledShell :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSwirledShell = element (unsafeCoerce _giSwirledShell)
+giSwirledShell :: Icon
+giSwirledShell = element _giSwirledShell
 
 foreign import _giSwirlRing :: ReactIcon
 
-giSwirlRing :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSwirlRing = element (unsafeCoerce _giSwirlRing)
+giSwirlRing :: Icon
+giSwirlRing = element _giSwirlRing
 
 foreign import _giSwirlString :: ReactIcon
 
-giSwirlString :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSwirlString = element (unsafeCoerce _giSwirlString)
+giSwirlString :: Icon
+giSwirlString = element _giSwirlString
 
 foreign import _giSwissArmyKnife :: ReactIcon
 
-giSwissArmyKnife :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSwissArmyKnife = element (unsafeCoerce _giSwissArmyKnife)
+giSwissArmyKnife :: Icon
+giSwissArmyKnife = element _giSwissArmyKnife
 
 foreign import _giSwitchblade :: ReactIcon
 
-giSwitchblade :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSwitchblade = element (unsafeCoerce _giSwitchblade)
+giSwitchblade :: Icon
+giSwitchblade = element _giSwitchblade
 
 foreign import _giSwitchWeapon :: ReactIcon
 
-giSwitchWeapon :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSwitchWeapon = element (unsafeCoerce _giSwitchWeapon)
+giSwitchWeapon :: Icon
+giSwitchWeapon = element _giSwitchWeapon
 
 foreign import _giSwitzerland :: ReactIcon
 
-giSwitzerland :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSwitzerland = element (unsafeCoerce _giSwitzerland)
+giSwitzerland :: Icon
+giSwitzerland = element _giSwitzerland
 
 foreign import _giSwordAltar :: ReactIcon
 
-giSwordAltar :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSwordAltar = element (unsafeCoerce _giSwordAltar)
+giSwordAltar :: Icon
+giSwordAltar = element _giSwordAltar
 
 foreign import _giSwordArray :: ReactIcon
 
-giSwordArray :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSwordArray = element (unsafeCoerce _giSwordArray)
+giSwordArray :: Icon
+giSwordArray = element _giSwordArray
 
 foreign import _giSwordBrandish :: ReactIcon
 
-giSwordBrandish :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSwordBrandish = element (unsafeCoerce _giSwordBrandish)
+giSwordBrandish :: Icon
+giSwordBrandish = element _giSwordBrandish
 
 foreign import _giSwordBreak :: ReactIcon
 
-giSwordBreak :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSwordBreak = element (unsafeCoerce _giSwordBreak)
+giSwordBreak :: Icon
+giSwordBreak = element _giSwordBreak
 
 foreign import _giSwordClash :: ReactIcon
 
-giSwordClash :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSwordClash = element (unsafeCoerce _giSwordClash)
+giSwordClash :: Icon
+giSwordClash = element _giSwordClash
 
 foreign import _giSwordHilt :: ReactIcon
 
-giSwordHilt :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSwordHilt = element (unsafeCoerce _giSwordHilt)
+giSwordHilt :: Icon
+giSwordHilt = element _giSwordHilt
 
 foreign import _giSwordInStone :: ReactIcon
 
-giSwordInStone :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSwordInStone = element (unsafeCoerce _giSwordInStone)
+giSwordInStone :: Icon
+giSwordInStone = element _giSwordInStone
 
 foreign import _giSwordman :: ReactIcon
 
-giSwordman :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSwordman = element (unsafeCoerce _giSwordman)
+giSwordman :: Icon
+giSwordman = element _giSwordman
 
 foreign import _giSwordMold :: ReactIcon
 
-giSwordMold :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSwordMold = element (unsafeCoerce _giSwordMold)
+giSwordMold :: Icon
+giSwordMold = element _giSwordMold
 
 foreign import _giSwordsEmblem :: ReactIcon
 
-giSwordsEmblem :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSwordsEmblem = element (unsafeCoerce _giSwordsEmblem)
+giSwordsEmblem :: Icon
+giSwordsEmblem = element _giSwordsEmblem
 
 foreign import _giSwordSlice :: ReactIcon
 
-giSwordSlice :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSwordSlice = element (unsafeCoerce _giSwordSlice)
+giSwordSlice :: Icon
+giSwordSlice = element _giSwordSlice
 
 foreign import _giSwordSmithing :: ReactIcon
 
-giSwordSmithing :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSwordSmithing = element (unsafeCoerce _giSwordSmithing)
+giSwordSmithing :: Icon
+giSwordSmithing = element _giSwordSmithing
 
 foreign import _giSwordSpade :: ReactIcon
 
-giSwordSpade :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSwordSpade = element (unsafeCoerce _giSwordSpade)
+giSwordSpade :: Icon
+giSwordSpade = element _giSwordSpade
 
 foreign import _giSwordSpin :: ReactIcon
 
-giSwordSpin :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSwordSpin = element (unsafeCoerce _giSwordSpin)
+giSwordSpin :: Icon
+giSwordSpin = element _giSwordSpin
 
 foreign import _giSwordsPower :: ReactIcon
 
-giSwordsPower :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSwordsPower = element (unsafeCoerce _giSwordsPower)
+giSwordsPower :: Icon
+giSwordsPower = element _giSwordsPower
 
 foreign import _giSwordTie :: ReactIcon
 
-giSwordTie :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSwordTie = element (unsafeCoerce _giSwordTie)
+giSwordTie :: Icon
+giSwordTie = element _giSwordTie
 
 foreign import _giSwordwoman :: ReactIcon
 
-giSwordwoman :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSwordwoman = element (unsafeCoerce _giSwordwoman)
+giSwordwoman :: Icon
+giSwordwoman = element _giSwordwoman
 
 foreign import _giSwordWound :: ReactIcon
 
-giSwordWound :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSwordWound = element (unsafeCoerce _giSwordWound)
+giSwordWound :: Icon
+giSwordWound = element _giSwordWound
 
 foreign import _giSydneyOperaHouse :: ReactIcon
 
-giSydneyOperaHouse :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSydneyOperaHouse = element (unsafeCoerce _giSydneyOperaHouse)
+giSydneyOperaHouse :: Icon
+giSydneyOperaHouse = element _giSydneyOperaHouse
 
 foreign import _giSyringe :: ReactIcon
 
-giSyringe :: forall a b. Union a b PropsIcon => Record a -> JSX
-giSyringe = element (unsafeCoerce _giSyringe)
+giSyringe :: Icon
+giSyringe = element _giSyringe
 
 foreign import _giTabiBoot :: ReactIcon
 
-giTabiBoot :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTabiBoot = element (unsafeCoerce _giTabiBoot)
+giTabiBoot :: Icon
+giTabiBoot = element _giTabiBoot
 
 foreign import _giTable :: ReactIcon
 
-giTable :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTable = element (unsafeCoerce _giTable)
+giTable :: Icon
+giTable = element _giTable
 
 foreign import _giTablet :: ReactIcon
 
-giTablet :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTablet = element (unsafeCoerce _giTablet)
+giTablet :: Icon
+giTablet = element _giTablet
 
 foreign import _giTabletopPlayers :: ReactIcon
 
-giTabletopPlayers :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTabletopPlayers = element (unsafeCoerce _giTabletopPlayers)
+giTabletopPlayers :: Icon
+giTabletopPlayers = element _giTabletopPlayers
 
 foreign import _giTacos :: ReactIcon
 
-giTacos :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTacos = element (unsafeCoerce _giTacos)
+giTacos :: Icon
+giTacos = element _giTacos
 
 foreign import _giTadpole :: ReactIcon
 
-giTadpole :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTadpole = element (unsafeCoerce _giTadpole)
+giTadpole :: Icon
+giTadpole = element _giTadpole
 
 foreign import _giTakeMyMoney :: ReactIcon
 
-giTakeMyMoney :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTakeMyMoney = element (unsafeCoerce _giTakeMyMoney)
+giTakeMyMoney :: Icon
+giTakeMyMoney = element _giTakeMyMoney
 
 foreign import _giTalk :: ReactIcon
 
-giTalk :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTalk = element (unsafeCoerce _giTalk)
+giTalk :: Icon
+giTalk = element _giTalk
 
 foreign import _giTallBridge :: ReactIcon
 
-giTallBridge :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTallBridge = element (unsafeCoerce _giTallBridge)
+giTallBridge :: Icon
+giTallBridge = element _giTallBridge
 
 foreign import _giTambourine :: ReactIcon
 
-giTambourine :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTambourine = element (unsafeCoerce _giTambourine)
+giTambourine :: Icon
+giTambourine = element _giTambourine
 
 foreign import _giTangerine :: ReactIcon
 
-giTangerine :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTangerine = element (unsafeCoerce _giTangerine)
+giTangerine :: Icon
+giTangerine = element _giTangerine
 
 foreign import _giTank :: ReactIcon
 
-giTank :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTank = element (unsafeCoerce _giTank)
+giTank :: Icon
+giTank = element _giTank
 
 foreign import _giTankTop :: ReactIcon
 
-giTankTop :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTankTop = element (unsafeCoerce _giTankTop)
+giTankTop :: Icon
+giTankTop = element _giTankTop
 
 foreign import _giTankTread :: ReactIcon
 
-giTankTread :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTankTread = element (unsafeCoerce _giTankTread)
+giTankTread :: Icon
+giTankTread = element _giTankTread
 
 foreign import _giTanzania :: ReactIcon
 
-giTanzania :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTanzania = element (unsafeCoerce _giTanzania)
+giTanzania :: Icon
+giTanzania = element _giTanzania
 
 foreign import _giTap :: ReactIcon
 
-giTap :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTap = element (unsafeCoerce _giTap)
+giTap :: Icon
+giTap = element _giTap
 
 foreign import _giTapir :: ReactIcon
 
-giTapir :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTapir = element (unsafeCoerce _giTapir)
+giTapir :: Icon
+giTapir = element _giTapir
 
 foreign import _giTargetArrows :: ReactIcon
 
-giTargetArrows :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTargetArrows = element (unsafeCoerce _giTargetArrows)
+giTargetArrows :: Icon
+giTargetArrows = element _giTargetArrows
 
 foreign import _giTargetDummy :: ReactIcon
 
-giTargetDummy :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTargetDummy = element (unsafeCoerce _giTargetDummy)
+giTargetDummy :: Icon
+giTargetDummy = element _giTargetDummy
 
 foreign import _giTargeted :: ReactIcon
 
-giTargeted :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTargeted = element (unsafeCoerce _giTargeted)
+giTargeted :: Icon
+giTargeted = element _giTargeted
 
 foreign import _giTargeting :: ReactIcon
 
-giTargeting :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTargeting = element (unsafeCoerce _giTargeting)
+giTargeting :: Icon
+giTargeting = element _giTargeting
 
 foreign import _giTargetLaser :: ReactIcon
 
-giTargetLaser :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTargetLaser = element (unsafeCoerce _giTargetLaser)
+giTargetLaser :: Icon
+giTargetLaser = element _giTargetLaser
 
 foreign import _giTargetPoster :: ReactIcon
 
-giTargetPoster :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTargetPoster = element (unsafeCoerce _giTargetPoster)
+giTargetPoster :: Icon
+giTargetPoster = element _giTargetPoster
 
 foreign import _giTargetPrize :: ReactIcon
 
-giTargetPrize :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTargetPrize = element (unsafeCoerce _giTargetPrize)
+giTargetPrize :: Icon
+giTargetPrize = element _giTargetPrize
 
 foreign import _giTargetShot :: ReactIcon
 
-giTargetShot :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTargetShot = element (unsafeCoerce _giTargetShot)
+giTargetShot :: Icon
+giTargetShot = element _giTargetShot
 
 foreign import _giTatteredBanner :: ReactIcon
 
-giTatteredBanner :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTatteredBanner = element (unsafeCoerce _giTatteredBanner)
+giTatteredBanner :: Icon
+giTatteredBanner = element _giTatteredBanner
 
 foreign import _giTaurus :: ReactIcon
 
-giTaurus :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTaurus = element (unsafeCoerce _giTaurus)
+giTaurus :: Icon
+giTaurus = element _giTaurus
 
 foreign import _giTavernSign :: ReactIcon
 
-giTavernSign :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTavernSign = element (unsafeCoerce _giTavernSign)
+giTavernSign :: Icon
+giTavernSign = element _giTavernSign
 
 foreign import _giTBrick :: ReactIcon
 
-giTBrick :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTBrick = element (unsafeCoerce _giTBrick)
+giTBrick :: Icon
+giTBrick = element _giTBrick
 
 foreign import _giTeacher :: ReactIcon
 
-giTeacher :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTeacher = element (unsafeCoerce _giTeacher)
+giTeacher :: Icon
+giTeacher = element _giTeacher
 
 foreign import _giTeamDowngrade :: ReactIcon
 
-giTeamDowngrade :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTeamDowngrade = element (unsafeCoerce _giTeamDowngrade)
+giTeamDowngrade :: Icon
+giTeamDowngrade = element _giTeamDowngrade
 
 foreign import _giTeamIdea :: ReactIcon
 
-giTeamIdea :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTeamIdea = element (unsafeCoerce _giTeamIdea)
+giTeamIdea :: Icon
+giTeamIdea = element _giTeamIdea
 
 foreign import _giTeamUpgrade :: ReactIcon
 
-giTeamUpgrade :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTeamUpgrade = element (unsafeCoerce _giTeamUpgrade)
+giTeamUpgrade :: Icon
+giTeamUpgrade = element _giTeamUpgrade
 
 foreign import _giTeapot :: ReactIcon
 
-giTeapot :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTeapot = element (unsafeCoerce _giTeapot)
+giTeapot :: Icon
+giTeapot = element _giTeapot
 
 foreign import _giTeapotLeaves :: ReactIcon
 
-giTeapotLeaves :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTeapotLeaves = element (unsafeCoerce _giTeapotLeaves)
+giTeapotLeaves :: Icon
+giTeapotLeaves = element _giTeapotLeaves
 
 foreign import _giTearing :: ReactIcon
 
-giTearing :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTearing = element (unsafeCoerce _giTearing)
+giTearing :: Icon
+giTearing = element _giTearing
 
 foreign import _giTearTracks :: ReactIcon
 
-giTearTracks :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTearTracks = element (unsafeCoerce _giTearTracks)
+giTearTracks :: Icon
+giTearTracks = element _giTearTracks
 
 foreign import _giTechnoHeart :: ReactIcon
 
-giTechnoHeart :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTechnoHeart = element (unsafeCoerce _giTechnoHeart)
+giTechnoHeart :: Icon
+giTechnoHeart = element _giTechnoHeart
 
 foreign import _giTeePipe :: ReactIcon
 
-giTeePipe :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTeePipe = element (unsafeCoerce _giTeePipe)
+giTeePipe :: Icon
+giTeePipe = element _giTeePipe
 
 foreign import _giTelefrag :: ReactIcon
 
-giTelefrag :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTelefrag = element (unsafeCoerce _giTelefrag)
+giTelefrag :: Icon
+giTelefrag = element _giTelefrag
 
 foreign import _giTelepathy :: ReactIcon
 
-giTelepathy :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTelepathy = element (unsafeCoerce _giTelepathy)
+giTelepathy :: Icon
+giTelepathy = element _giTelepathy
 
 foreign import _giTeleport :: ReactIcon
 
-giTeleport :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTeleport = element (unsafeCoerce _giTeleport)
+giTeleport :: Icon
+giTeleport = element _giTeleport
 
 foreign import _giTelescopicBaton :: ReactIcon
 
-giTelescopicBaton :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTelescopicBaton = element (unsafeCoerce _giTelescopicBaton)
+giTelescopicBaton :: Icon
+giTelescopicBaton = element _giTelescopicBaton
 
 foreign import _giTellerMine :: ReactIcon
 
-giTellerMine :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTellerMine = element (unsafeCoerce _giTellerMine)
+giTellerMine :: Icon
+giTellerMine = element _giTellerMine
 
 foreign import _giTemplarEye :: ReactIcon
 
-giTemplarEye :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTemplarEye = element (unsafeCoerce _giTemplarEye)
+giTemplarEye :: Icon
+giTemplarEye = element _giTemplarEye
 
 foreign import _giTemplarHeart :: ReactIcon
 
-giTemplarHeart :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTemplarHeart = element (unsafeCoerce _giTemplarHeart)
+giTemplarHeart :: Icon
+giTemplarHeart = element _giTemplarHeart
 
 foreign import _giTemplarShield :: ReactIcon
 
-giTemplarShield :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTemplarShield = element (unsafeCoerce _giTemplarShield)
+giTemplarShield :: Icon
+giTemplarShield = element _giTemplarShield
 
 foreign import _giTempleDoor :: ReactIcon
 
-giTempleDoor :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTempleDoor = element (unsafeCoerce _giTempleDoor)
+giTempleDoor :: Icon
+giTempleDoor = element _giTempleDoor
 
 foreign import _giTempleGate :: ReactIcon
 
-giTempleGate :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTempleGate = element (unsafeCoerce _giTempleGate)
+giTempleGate :: Icon
+giTempleGate = element _giTempleGate
 
 foreign import _giTemporaryShield :: ReactIcon
 
-giTemporaryShield :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTemporaryShield = element (unsafeCoerce _giTemporaryShield)
+giTemporaryShield :: Icon
+giTemporaryShield = element _giTemporaryShield
 
 foreign import _giTemptation :: ReactIcon
 
-giTemptation :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTemptation = element (unsafeCoerce _giTemptation)
+giTemptation :: Icon
+giTemptation = element _giTemptation
 
 foreign import _giTennisBall :: ReactIcon
 
-giTennisBall :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTennisBall = element (unsafeCoerce _giTennisBall)
+giTennisBall :: Icon
+giTennisBall = element _giTennisBall
 
 foreign import _giTennisCourt :: ReactIcon
 
-giTennisCourt :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTennisCourt = element (unsafeCoerce _giTennisCourt)
+giTennisCourt :: Icon
+giTennisCourt = element _giTennisCourt
 
 foreign import _giTennisRacket :: ReactIcon
 
-giTennisRacket :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTennisRacket = element (unsafeCoerce _giTennisRacket)
+giTennisRacket :: Icon
+giTennisRacket = element _giTennisRacket
 
 foreign import _giTensionSnowflake :: ReactIcon
 
-giTensionSnowflake :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTensionSnowflake = element (unsafeCoerce _giTensionSnowflake)
+giTensionSnowflake :: Icon
+giTensionSnowflake = element _giTensionSnowflake
 
 foreign import _giTentacleHeart :: ReactIcon
 
-giTentacleHeart :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTentacleHeart = element (unsafeCoerce _giTentacleHeart)
+giTentacleHeart :: Icon
+giTentacleHeart = element _giTentacleHeart
 
 foreign import _giTentaclesBarrier :: ReactIcon
 
-giTentaclesBarrier :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTentaclesBarrier = element (unsafeCoerce _giTentaclesBarrier)
+giTentaclesBarrier :: Icon
+giTentaclesBarrier = element _giTentaclesBarrier
 
 foreign import _giTentaclesSkull :: ReactIcon
 
-giTentaclesSkull :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTentaclesSkull = element (unsafeCoerce _giTentaclesSkull)
+giTentaclesSkull :: Icon
+giTentaclesSkull = element _giTentaclesSkull
 
 foreign import _giTentacleStrike :: ReactIcon
 
-giTentacleStrike :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTentacleStrike = element (unsafeCoerce _giTentacleStrike)
+giTentacleStrike :: Icon
+giTentacleStrike = element _giTentacleStrike
 
 foreign import _giTentacurl :: ReactIcon
 
-giTentacurl :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTentacurl = element (unsafeCoerce _giTentacurl)
+giTentacurl :: Icon
+giTentacurl = element _giTentacurl
 
 foreign import _giTerror :: ReactIcon
 
-giTerror :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTerror = element (unsafeCoerce _giTerror)
+giTerror :: Icon
+giTerror = element _giTerror
 
 foreign import _giTesla :: ReactIcon
 
-giTesla :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTesla = element (unsafeCoerce _giTesla)
+giTesla :: Icon
+giTesla = element _giTesla
 
 foreign import _giTeslaCoil :: ReactIcon
 
-giTeslaCoil :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTeslaCoil = element (unsafeCoerce _giTeslaCoil)
+giTeslaCoil :: Icon
+giTeslaCoil = element _giTeslaCoil
 
 foreign import _giTeslaTurret :: ReactIcon
 
-giTeslaTurret :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTeslaTurret = element (unsafeCoerce _giTeslaTurret)
+giTeslaTurret :: Icon
+giTeslaTurret = element _giTeslaTurret
 
 foreign import _giTestTubes :: ReactIcon
 
-giTestTubes :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTestTubes = element (unsafeCoerce _giTestTubes)
+giTestTubes :: Icon
+giTestTubes = element _giTestTubes
 
 foreign import _giTexas :: ReactIcon
 
-giTexas :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTexas = element (unsafeCoerce _giTexas)
+giTexas :: Icon
+giTexas = element _giTexas
 
 foreign import _giTheater :: ReactIcon
 
-giTheater :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTheater = element (unsafeCoerce _giTheater)
+giTheater :: Icon
+giTheater = element _giTheater
 
 foreign import _giTheaterCurtains :: ReactIcon
 
-giTheaterCurtains :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTheaterCurtains = element (unsafeCoerce _giTheaterCurtains)
+giTheaterCurtains :: Icon
+giTheaterCurtains = element _giTheaterCurtains
 
 foreign import _giThermometerCold :: ReactIcon
 
-giThermometerCold :: forall a b. Union a b PropsIcon => Record a -> JSX
-giThermometerCold = element (unsafeCoerce _giThermometerCold)
+giThermometerCold :: Icon
+giThermometerCold = element _giThermometerCold
 
 foreign import _giThermometerHot :: ReactIcon
 
-giThermometerHot :: forall a b. Union a b PropsIcon => Record a -> JSX
-giThermometerHot = element (unsafeCoerce _giThermometerHot)
+giThermometerHot :: Icon
+giThermometerHot = element _giThermometerHot
 
 foreign import _giThermometerScale :: ReactIcon
 
-giThermometerScale :: forall a b. Union a b PropsIcon => Record a -> JSX
-giThermometerScale = element (unsafeCoerce _giThermometerScale)
+giThermometerScale :: Icon
+giThermometerScale = element _giThermometerScale
 
 foreign import _giThink :: ReactIcon
 
-giThink :: forall a b. Union a b PropsIcon => Record a -> JSX
-giThink = element (unsafeCoerce _giThink)
+giThink :: Icon
+giThink = element _giThink
 
 foreign import _giThirdEye :: ReactIcon
 
-giThirdEye :: forall a b. Union a b PropsIcon => Record a -> JSX
-giThirdEye = element (unsafeCoerce _giThirdEye)
+giThirdEye :: Icon
+giThirdEye = element _giThirdEye
 
 foreign import _giThorFist :: ReactIcon
 
-giThorFist :: forall a b. Union a b PropsIcon => Record a -> JSX
-giThorFist = element (unsafeCoerce _giThorFist)
+giThorFist :: Icon
+giThorFist = element _giThorFist
 
 foreign import _giThorHammer :: ReactIcon
 
-giThorHammer :: forall a b. Union a b PropsIcon => Record a -> JSX
-giThorHammer = element (unsafeCoerce _giThorHammer)
+giThorHammer :: Icon
+giThorHammer = element _giThorHammer
 
 foreign import _giThornedArrow :: ReactIcon
 
-giThornedArrow :: forall a b. Union a b PropsIcon => Record a -> JSX
-giThornedArrow = element (unsafeCoerce _giThornedArrow)
+giThornedArrow :: Icon
+giThornedArrow = element _giThornedArrow
 
 foreign import _giThornHelix :: ReactIcon
 
-giThornHelix :: forall a b. Union a b PropsIcon => Record a -> JSX
-giThornHelix = element (unsafeCoerce _giThornHelix)
+giThornHelix :: Icon
+giThornHelix = element _giThornHelix
 
 foreign import _giThornyTentacle :: ReactIcon
 
-giThornyTentacle :: forall a b. Union a b PropsIcon => Record a -> JSX
-giThornyTentacle = element (unsafeCoerce _giThornyTentacle)
+giThornyTentacle :: Icon
+giThornyTentacle = element _giThornyTentacle
 
 foreign import _giThornyVine :: ReactIcon
 
-giThornyVine :: forall a b. Union a b PropsIcon => Record a -> JSX
-giThornyVine = element (unsafeCoerce _giThornyVine)
+giThornyVine :: Icon
+giThornyVine = element _giThornyVine
 
 foreign import _giThreeBurningBalls :: ReactIcon
 
-giThreeBurningBalls :: forall a b. Union a b PropsIcon => Record a -> JSX
-giThreeBurningBalls = element (unsafeCoerce _giThreeBurningBalls)
+giThreeBurningBalls :: Icon
+giThreeBurningBalls = element _giThreeBurningBalls
 
 foreign import _giThreeFriends :: ReactIcon
 
-giThreeFriends :: forall a b. Union a b PropsIcon => Record a -> JSX
-giThreeFriends = element (unsafeCoerce _giThreeFriends)
+giThreeFriends :: Icon
+giThreeFriends = element _giThreeFriends
 
 foreign import _giThreeKeys :: ReactIcon
 
-giThreeKeys :: forall a b. Union a b PropsIcon => Record a -> JSX
-giThreeKeys = element (unsafeCoerce _giThreeKeys)
+giThreeKeys :: Icon
+giThreeKeys = element _giThreeKeys
 
 foreign import _giThreeLeaves :: ReactIcon
 
-giThreeLeaves :: forall a b. Union a b PropsIcon => Record a -> JSX
-giThreeLeaves = element (unsafeCoerce _giThreeLeaves)
+giThreeLeaves :: Icon
+giThreeLeaves = element _giThreeLeaves
 
 foreign import _giThreePointedShuriken :: ReactIcon
 
-giThreePointedShuriken :: forall a b. Union a b PropsIcon => Record a -> JSX
-giThreePointedShuriken = element (unsafeCoerce _giThreePointedShuriken)
+giThreePointedShuriken :: Icon
+giThreePointedShuriken = element _giThreePointedShuriken
 
 foreign import _giThroneKing :: ReactIcon
 
-giThroneKing :: forall a b. Union a b PropsIcon => Record a -> JSX
-giThroneKing = element (unsafeCoerce _giThroneKing)
+giThroneKing :: Icon
+giThroneKing = element _giThroneKing
 
 foreign import _giThrowingBall :: ReactIcon
 
-giThrowingBall :: forall a b. Union a b PropsIcon => Record a -> JSX
-giThrowingBall = element (unsafeCoerce _giThrowingBall)
+giThrowingBall :: Icon
+giThrowingBall = element _giThrowingBall
 
 foreign import _giThrownCharcoal :: ReactIcon
 
-giThrownCharcoal :: forall a b. Union a b PropsIcon => Record a -> JSX
-giThrownCharcoal = element (unsafeCoerce _giThrownCharcoal)
+giThrownCharcoal :: Icon
+giThrownCharcoal = element _giThrownCharcoal
 
 foreign import _giThrownDaggers :: ReactIcon
 
-giThrownDaggers :: forall a b. Union a b PropsIcon => Record a -> JSX
-giThrownDaggers = element (unsafeCoerce _giThrownDaggers)
+giThrownDaggers :: Icon
+giThrownDaggers = element _giThrownDaggers
 
 foreign import _giThrownKnife :: ReactIcon
 
-giThrownKnife :: forall a b. Union a b PropsIcon => Record a -> JSX
-giThrownKnife = element (unsafeCoerce _giThrownKnife)
+giThrownKnife :: Icon
+giThrownKnife = element _giThrownKnife
 
 foreign import _giThrownSpear :: ReactIcon
 
-giThrownSpear :: forall a b. Union a b PropsIcon => Record a -> JSX
-giThrownSpear = element (unsafeCoerce _giThrownSpear)
+giThrownSpear :: Icon
+giThrownSpear = element _giThrownSpear
 
 foreign import _giThrust :: ReactIcon
 
-giThrust :: forall a b. Union a b PropsIcon => Record a -> JSX
-giThrust = element (unsafeCoerce _giThrust)
+giThrust :: Icon
+giThrust = element _giThrust
 
 foreign import _giThrustBend :: ReactIcon
 
-giThrustBend :: forall a b. Union a b PropsIcon => Record a -> JSX
-giThrustBend = element (unsafeCoerce _giThrustBend)
+giThrustBend :: Icon
+giThrustBend = element _giThrustBend
 
 foreign import _giThumbDown :: ReactIcon
 
-giThumbDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-giThumbDown = element (unsafeCoerce _giThumbDown)
+giThumbDown :: Icon
+giThumbDown = element _giThumbDown
 
 foreign import _giThumbUp :: ReactIcon
 
-giThumbUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-giThumbUp = element (unsafeCoerce _giThumbUp)
+giThumbUp :: Icon
+giThumbUp = element _giThumbUp
 
 foreign import _giThunderball :: ReactIcon
 
-giThunderball :: forall a b. Union a b PropsIcon => Record a -> JSX
-giThunderball = element (unsafeCoerce _giThunderball)
+giThunderball :: Icon
+giThunderball = element _giThunderball
 
 foreign import _giThunderBlade :: ReactIcon
 
-giThunderBlade :: forall a b. Union a b PropsIcon => Record a -> JSX
-giThunderBlade = element (unsafeCoerce _giThunderBlade)
+giThunderBlade :: Icon
+giThunderBlade = element _giThunderBlade
 
 foreign import _giThunderSkull :: ReactIcon
 
-giThunderSkull :: forall a b. Union a b PropsIcon => Record a -> JSX
-giThunderSkull = element (unsafeCoerce _giThunderSkull)
+giThunderSkull :: Icon
+giThunderSkull = element _giThunderSkull
 
 foreign import _giThunderStruck :: ReactIcon
 
-giThunderStruck :: forall a b. Union a b PropsIcon => Record a -> JSX
-giThunderStruck = element (unsafeCoerce _giThunderStruck)
+giThunderStruck :: Icon
+giThunderStruck = element _giThunderStruck
 
 foreign import _giThwomp :: ReactIcon
 
-giThwomp :: forall a b. Union a b PropsIcon => Record a -> JSX
-giThwomp = element (unsafeCoerce _giThwomp)
+giThwomp :: Icon
+giThwomp = element _giThwomp
 
 foreign import _giTiara :: ReactIcon
 
-giTiara :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTiara = element (unsafeCoerce _giTiara)
+giTiara :: Icon
+giTiara = element _giTiara
 
 foreign import _giTick :: ReactIcon
 
-giTick :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTick = element (unsafeCoerce _giTick)
+giTick :: Icon
+giTick = element _giTick
 
 foreign import _giTicket :: ReactIcon
 
-giTicket :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTicket = element (unsafeCoerce _giTicket)
+giTicket :: Icon
+giTicket = element _giTicket
 
 foreign import _giTicTacToe :: ReactIcon
 
-giTicTacToe :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTicTacToe = element (unsafeCoerce _giTicTacToe)
+giTicTacToe :: Icon
+giTicTacToe = element _giTicTacToe
 
 foreign import _giTie :: ReactIcon
 
-giTie :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTie = element (unsafeCoerce _giTie)
+giTie :: Icon
+giTie = element _giTie
 
 foreign import _giTiedScroll :: ReactIcon
 
-giTiedScroll :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTiedScroll = element (unsafeCoerce _giTiedScroll)
+giTiedScroll :: Icon
+giTiedScroll = element _giTiedScroll
 
 foreign import _giTiger :: ReactIcon
 
-giTiger :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTiger = element (unsafeCoerce _giTiger)
+giTiger :: Icon
+giTiger = element _giTiger
 
 foreign import _giTigerHead :: ReactIcon
 
-giTigerHead :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTigerHead = element (unsafeCoerce _giTigerHead)
+giTigerHead :: Icon
+giTigerHead = element _giTigerHead
 
 foreign import _giTightrope :: ReactIcon
 
-giTightrope :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTightrope = element (unsafeCoerce _giTightrope)
+giTightrope :: Icon
+giTightrope = element _giTightrope
 
 foreign import _giTimeBomb :: ReactIcon
 
-giTimeBomb :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTimeBomb = element (unsafeCoerce _giTimeBomb)
+giTimeBomb :: Icon
+giTimeBomb = element _giTimeBomb
 
 foreign import _giTimeDynamite :: ReactIcon
 
-giTimeDynamite :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTimeDynamite = element (unsafeCoerce _giTimeDynamite)
+giTimeDynamite :: Icon
+giTimeDynamite = element _giTimeDynamite
 
 foreign import _giTimeSynchronization :: ReactIcon
 
-giTimeSynchronization :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTimeSynchronization = element (unsafeCoerce _giTimeSynchronization)
+giTimeSynchronization :: Icon
+giTimeSynchronization = element _giTimeSynchronization
 
 foreign import _giTimeTrap :: ReactIcon
 
-giTimeTrap :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTimeTrap = element (unsafeCoerce _giTimeTrap)
+giTimeTrap :: Icon
+giTimeTrap = element _giTimeTrap
 
 foreign import _giTinker :: ReactIcon
 
-giTinker :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTinker = element (unsafeCoerce _giTinker)
+giTinker :: Icon
+giTinker = element _giTinker
 
 foreign import _giTipi :: ReactIcon
 
-giTipi :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTipi = element (unsafeCoerce _giTipi)
+giTipi :: Icon
+giTipi = element _giTipi
 
 foreign import _giTiredEye :: ReactIcon
 
-giTiredEye :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTiredEye = element (unsafeCoerce _giTiredEye)
+giTiredEye :: Icon
+giTiredEye = element _giTiredEye
 
 foreign import _giTireIron :: ReactIcon
 
-giTireIron :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTireIron = element (unsafeCoerce _giTireIron)
+giTireIron :: Icon
+giTireIron = element _giTireIron
 
 foreign import _giTireIronCross :: ReactIcon
 
-giTireIronCross :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTireIronCross = element (unsafeCoerce _giTireIronCross)
+giTireIronCross :: Icon
+giTireIronCross = element _giTireIronCross
 
 foreign import _giTireTracks :: ReactIcon
 
-giTireTracks :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTireTracks = element (unsafeCoerce _giTireTracks)
+giTireTracks :: Icon
+giTireTracks = element _giTireTracks
 
 foreign import _giToadTeeth :: ReactIcon
 
-giToadTeeth :: forall a b. Union a b PropsIcon => Record a -> JSX
-giToadTeeth = element (unsafeCoerce _giToadTeeth)
+giToadTeeth :: Icon
+giToadTeeth = element _giToadTeeth
 
 foreign import _giToaster :: ReactIcon
 
-giToaster :: forall a b. Union a b PropsIcon => Record a -> JSX
-giToaster = element (unsafeCoerce _giToaster)
+giToaster :: Icon
+giToaster = element _giToaster
 
 foreign import _giToggles :: ReactIcon
 
-giToggles :: forall a b. Union a b PropsIcon => Record a -> JSX
-giToggles = element (unsafeCoerce _giToggles)
+giToggles :: Icon
+giToggles = element _giToggles
 
 foreign import _giToken :: ReactIcon
 
-giToken :: forall a b. Union a b PropsIcon => Record a -> JSX
-giToken = element (unsafeCoerce _giToken)
+giToken :: Icon
+giToken = element _giToken
 
 foreign import _giTomahawk :: ReactIcon
 
-giTomahawk :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTomahawk = element (unsafeCoerce _giTomahawk)
+giTomahawk :: Icon
+giTomahawk = element _giTomahawk
 
 foreign import _giTomato :: ReactIcon
 
-giTomato :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTomato = element (unsafeCoerce _giTomato)
+giTomato :: Icon
+giTomato = element _giTomato
 
 foreign import _giTombstone :: ReactIcon
 
-giTombstone :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTombstone = element (unsafeCoerce _giTombstone)
+giTombstone :: Icon
+giTombstone = element _giTombstone
 
 foreign import _giTongue :: ReactIcon
 
-giTongue :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTongue = element (unsafeCoerce _giTongue)
+giTongue :: Icon
+giTongue = element _giTongue
 
 foreign import _giToolbox :: ReactIcon
 
-giToolbox :: forall a b. Union a b PropsIcon => Record a -> JSX
-giToolbox = element (unsafeCoerce _giToolbox)
+giToolbox :: Icon
+giToolbox = element _giToolbox
 
 foreign import _giTooth :: ReactIcon
 
-giTooth :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTooth = element (unsafeCoerce _giTooth)
+giTooth :: Icon
+giTooth = element _giTooth
 
 foreign import _giToothbrush :: ReactIcon
 
-giToothbrush :: forall a b. Union a b PropsIcon => Record a -> JSX
-giToothbrush = element (unsafeCoerce _giToothbrush)
+giToothbrush :: Icon
+giToothbrush = element _giToothbrush
 
 foreign import _giTopaz :: ReactIcon
 
-giTopaz :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTopaz = element (unsafeCoerce _giTopaz)
+giTopaz :: Icon
+giTopaz = element _giTopaz
 
 foreign import _giTopHat :: ReactIcon
 
-giTopHat :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTopHat = element (unsafeCoerce _giTopHat)
+giTopHat :: Icon
+giTopHat = element _giTopHat
 
 foreign import _giTopPaw :: ReactIcon
 
-giTopPaw :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTopPaw = element (unsafeCoerce _giTopPaw)
+giTopPaw :: Icon
+giTopPaw = element _giTopPaw
 
 foreign import _giTorc :: ReactIcon
 
-giTorc :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTorc = element (unsafeCoerce _giTorc)
+giTorc :: Icon
+giTorc = element _giTorc
 
 foreign import _giTorch :: ReactIcon
 
-giTorch :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTorch = element (unsafeCoerce _giTorch)
+giTorch :: Icon
+giTorch = element _giTorch
 
 foreign import _giTornado :: ReactIcon
 
-giTornado :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTornado = element (unsafeCoerce _giTornado)
+giTornado :: Icon
+giTornado = element _giTornado
 
 foreign import _giTornadoDiscs :: ReactIcon
 
-giTornadoDiscs :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTornadoDiscs = element (unsafeCoerce _giTornadoDiscs)
+giTornadoDiscs :: Icon
+giTornadoDiscs = element _giTornadoDiscs
 
 foreign import _giTorpedo :: ReactIcon
 
-giTorpedo :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTorpedo = element (unsafeCoerce _giTorpedo)
+giTorpedo :: Icon
+giTorpedo = element _giTorpedo
 
 foreign import _giTortoise :: ReactIcon
 
-giTortoise :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTortoise = element (unsafeCoerce _giTortoise)
+giTortoise :: Icon
+giTortoise = element _giTortoise
 
 foreign import _giTotem :: ReactIcon
 
-giTotem :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTotem = element (unsafeCoerce _giTotem)
+giTotem :: Icon
+giTotem = element _giTotem
 
 foreign import _giTotemHead :: ReactIcon
 
-giTotemHead :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTotemHead = element (unsafeCoerce _giTotemHead)
+giTotemHead :: Icon
+giTotemHead = element _giTotemHead
 
 foreign import _giTotemMask :: ReactIcon
 
-giTotemMask :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTotemMask = element (unsafeCoerce _giTotemMask)
+giTotemMask :: Icon
+giTotemMask = element _giTotemMask
 
 foreign import _giToucan :: ReactIcon
 
-giToucan :: forall a b. Union a b PropsIcon => Record a -> JSX
-giToucan = element (unsafeCoerce _giToucan)
+giToucan :: Icon
+giToucan = element _giToucan
 
 foreign import _giTowel :: ReactIcon
 
-giTowel :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTowel = element (unsafeCoerce _giTowel)
+giTowel :: Icon
+giTowel = element _giTowel
 
 foreign import _giTowerBridge :: ReactIcon
 
-giTowerBridge :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTowerBridge = element (unsafeCoerce _giTowerBridge)
+giTowerBridge :: Icon
+giTowerBridge = element _giTowerBridge
 
 foreign import _giTowerFall :: ReactIcon
 
-giTowerFall :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTowerFall = element (unsafeCoerce _giTowerFall)
+giTowerFall :: Icon
+giTowerFall = element _giTowerFall
 
 foreign import _giTowerFlag :: ReactIcon
 
-giTowerFlag :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTowerFlag = element (unsafeCoerce _giTowerFlag)
+giTowerFlag :: Icon
+giTowerFlag = element _giTowerFlag
 
 foreign import _giTowTruck :: ReactIcon
 
-giTowTruck :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTowTruck = element (unsafeCoerce _giTowTruck)
+giTowTruck :: Icon
+giTowTruck = element _giTowTruck
 
 foreign import _giToyMallet :: ReactIcon
 
-giToyMallet :: forall a b. Union a b PropsIcon => Record a -> JSX
-giToyMallet = element (unsafeCoerce _giToyMallet)
+giToyMallet :: Icon
+giToyMallet = element _giToyMallet
 
 foreign import _giTrackedRobot :: ReactIcon
 
-giTrackedRobot :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTrackedRobot = element (unsafeCoerce _giTrackedRobot)
+giTrackedRobot :: Icon
+giTrackedRobot = element _giTrackedRobot
 
 foreign import _giTrade :: ReactIcon
 
-giTrade :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTrade = element (unsafeCoerce _giTrade)
+giTrade :: Icon
+giTrade = element _giTrade
 
 foreign import _giTrafficCone :: ReactIcon
 
-giTrafficCone :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTrafficCone = element (unsafeCoerce _giTrafficCone)
+giTrafficCone :: Icon
+giTrafficCone = element _giTrafficCone
 
 foreign import _giTrafficLightsGreen :: ReactIcon
 
-giTrafficLightsGreen :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTrafficLightsGreen = element (unsafeCoerce _giTrafficLightsGreen)
+giTrafficLightsGreen :: Icon
+giTrafficLightsGreen = element _giTrafficLightsGreen
 
 foreign import _giTrafficLightsOrange :: ReactIcon
 
-giTrafficLightsOrange :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTrafficLightsOrange = element (unsafeCoerce _giTrafficLightsOrange)
+giTrafficLightsOrange :: Icon
+giTrafficLightsOrange = element _giTrafficLightsOrange
 
 foreign import _giTrafficLightsReadyToGo :: ReactIcon
 
-giTrafficLightsReadyToGo :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTrafficLightsReadyToGo = element (unsafeCoerce _giTrafficLightsReadyToGo)
+giTrafficLightsReadyToGo :: Icon
+giTrafficLightsReadyToGo = element _giTrafficLightsReadyToGo
 
 foreign import _giTrafficLightsRed :: ReactIcon
 
-giTrafficLightsRed :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTrafficLightsRed = element (unsafeCoerce _giTrafficLightsRed)
+giTrafficLightsRed :: Icon
+giTrafficLightsRed = element _giTrafficLightsRed
 
 foreign import _giTrail :: ReactIcon
 
-giTrail :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTrail = element (unsafeCoerce _giTrail)
+giTrail :: Icon
+giTrail = element _giTrail
 
 foreign import _giTrample :: ReactIcon
 
-giTrample :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTrample = element (unsafeCoerce _giTrample)
+giTrample :: Icon
+giTrample = element _giTrample
 
 foreign import _giTransform :: ReactIcon
 
-giTransform :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTransform = element (unsafeCoerce _giTransform)
+giTransform :: Icon
+giTransform = element _giTransform
 
 foreign import _giTransfuse :: ReactIcon
 
-giTransfuse :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTransfuse = element (unsafeCoerce _giTransfuse)
+giTransfuse :: Icon
+giTransfuse = element _giTransfuse
 
 foreign import _giTransparentSlime :: ReactIcon
 
-giTransparentSlime :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTransparentSlime = element (unsafeCoerce _giTransparentSlime)
+giTransparentSlime :: Icon
+giTransparentSlime = element _giTransparentSlime
 
 foreign import _giTransparentTubes :: ReactIcon
 
-giTransparentTubes :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTransparentTubes = element (unsafeCoerce _giTransparentTubes)
+giTransparentTubes :: Icon
+giTransparentTubes = element _giTransparentTubes
 
 foreign import _giTransportationRings :: ReactIcon
 
-giTransportationRings :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTransportationRings = element (unsafeCoerce _giTransportationRings)
+giTransportationRings :: Icon
+giTransportationRings = element _giTransportationRings
 
 foreign import _giTrapMask :: ReactIcon
 
-giTrapMask :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTrapMask = element (unsafeCoerce _giTrapMask)
+giTrapMask :: Icon
+giTrapMask = element _giTrapMask
 
 foreign import _giTrashCan :: ReactIcon
 
-giTrashCan :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTrashCan = element (unsafeCoerce _giTrashCan)
+giTrashCan :: Icon
+giTrashCan = element _giTrashCan
 
 foreign import _giTravelDress :: ReactIcon
 
-giTravelDress :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTravelDress = element (unsafeCoerce _giTravelDress)
+giTravelDress :: Icon
+giTravelDress = element _giTravelDress
 
 foreign import _giTread :: ReactIcon
 
-giTread :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTread = element (unsafeCoerce _giTread)
+giTread :: Icon
+giTread = element _giTread
 
 foreign import _giTreasureMap :: ReactIcon
 
-giTreasureMap :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTreasureMap = element (unsafeCoerce _giTreasureMap)
+giTreasureMap :: Icon
+giTreasureMap = element _giTreasureMap
 
 foreign import _giTrebuchet :: ReactIcon
 
-giTrebuchet :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTrebuchet = element (unsafeCoerce _giTrebuchet)
+giTrebuchet :: Icon
+giTrebuchet = element _giTrebuchet
 
 foreign import _giTreeBeehive :: ReactIcon
 
-giTreeBeehive :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTreeBeehive = element (unsafeCoerce _giTreeBeehive)
+giTreeBeehive :: Icon
+giTreeBeehive = element _giTreeBeehive
 
 foreign import _giTreeBranch :: ReactIcon
 
-giTreeBranch :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTreeBranch = element (unsafeCoerce _giTreeBranch)
+giTreeBranch :: Icon
+giTreeBranch = element _giTreeBranch
 
 foreign import _giTreeDoor :: ReactIcon
 
-giTreeDoor :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTreeDoor = element (unsafeCoerce _giTreeDoor)
+giTreeDoor :: Icon
+giTreeDoor = element _giTreeDoor
 
 foreign import _giTreeFace :: ReactIcon
 
-giTreeFace :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTreeFace = element (unsafeCoerce _giTreeFace)
+giTreeFace :: Icon
+giTreeFace = element _giTreeFace
 
 foreign import _giTreeGrowth :: ReactIcon
 
-giTreeGrowth :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTreeGrowth = element (unsafeCoerce _giTreeGrowth)
+giTreeGrowth :: Icon
+giTreeGrowth = element _giTreeGrowth
 
 foreign import _giTreehouse :: ReactIcon
 
-giTreehouse :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTreehouse = element (unsafeCoerce _giTreehouse)
+giTreehouse :: Icon
+giTreehouse = element _giTreehouse
 
 foreign import _giTreeRoots :: ReactIcon
 
-giTreeRoots :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTreeRoots = element (unsafeCoerce _giTreeRoots)
+giTreeRoots :: Icon
+giTreeRoots = element _giTreeRoots
 
 foreign import _giTreeSwing :: ReactIcon
 
-giTreeSwing :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTreeSwing = element (unsafeCoerce _giTreeSwing)
+giTreeSwing :: Icon
+giTreeSwing = element _giTreeSwing
 
 foreign import _giTrefoilLily :: ReactIcon
 
-giTrefoilLily :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTrefoilLily = element (unsafeCoerce _giTrefoilLily)
+giTrefoilLily :: Icon
+giTrefoilLily = element _giTrefoilLily
 
 foreign import _giTrefoilShuriken :: ReactIcon
 
-giTrefoilShuriken :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTrefoilShuriken = element (unsafeCoerce _giTrefoilShuriken)
+giTrefoilShuriken :: Icon
+giTrefoilShuriken = element _giTrefoilShuriken
 
 foreign import _giTrenchAssault :: ReactIcon
 
-giTrenchAssault :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTrenchAssault = element (unsafeCoerce _giTrenchAssault)
+giTrenchAssault :: Icon
+giTrenchAssault = element _giTrenchAssault
 
 foreign import _giTrenchBodyArmor :: ReactIcon
 
-giTrenchBodyArmor :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTrenchBodyArmor = element (unsafeCoerce _giTrenchBodyArmor)
+giTrenchBodyArmor :: Icon
+giTrenchBodyArmor = element _giTrenchBodyArmor
 
 foreign import _giTrenchKnife :: ReactIcon
 
-giTrenchKnife :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTrenchKnife = element (unsafeCoerce _giTrenchKnife)
+giTrenchKnife :: Icon
+giTrenchKnife = element _giTrenchKnife
 
 foreign import _giTrenchSpade :: ReactIcon
 
-giTrenchSpade :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTrenchSpade = element (unsafeCoerce _giTrenchSpade)
+giTrenchSpade :: Icon
+giTrenchSpade = element _giTrenchSpade
 
 foreign import _giTRexSkull :: ReactIcon
 
-giTRexSkull :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTRexSkull = element (unsafeCoerce _giTRexSkull)
+giTRexSkull :: Icon
+giTRexSkull = element _giTRexSkull
 
 foreign import _giTriangleTarget :: ReactIcon
 
-giTriangleTarget :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTriangleTarget = element (unsafeCoerce _giTriangleTarget)
+giTriangleTarget :: Icon
+giTriangleTarget = element _giTriangleTarget
 
 foreign import _giTribalGear :: ReactIcon
 
-giTribalGear :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTribalGear = element (unsafeCoerce _giTribalGear)
+giTribalGear :: Icon
+giTribalGear = element _giTribalGear
 
 foreign import _giTribalMask :: ReactIcon
 
-giTribalMask :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTribalMask = element (unsafeCoerce _giTribalMask)
+giTribalMask :: Icon
+giTribalMask = element _giTribalMask
 
 foreign import _giTribalPendant :: ReactIcon
 
-giTribalPendant :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTribalPendant = element (unsafeCoerce _giTribalPendant)
+giTribalPendant :: Icon
+giTribalPendant = element _giTribalPendant
 
 foreign import _giTribalShield :: ReactIcon
 
-giTribalShield :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTribalShield = element (unsafeCoerce _giTribalShield)
+giTribalShield :: Icon
+giTribalShield = element _giTribalShield
 
 foreign import _giTribunalJury :: ReactIcon
 
-giTribunalJury :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTribunalJury = element (unsafeCoerce _giTribunalJury)
+giTribunalJury :: Icon
+giTribunalJury = element _giTribunalJury
 
 foreign import _giTriceratopsHead :: ReactIcon
 
-giTriceratopsHead :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTriceratopsHead = element (unsafeCoerce _giTriceratopsHead)
+giTriceratopsHead :: Icon
+giTriceratopsHead = element _giTriceratopsHead
 
 foreign import _giTrident :: ReactIcon
 
-giTrident :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTrident = element (unsafeCoerce _giTrident)
+giTrident :: Icon
+giTrident = element _giTrident
 
 foreign import _giTridentShield :: ReactIcon
 
-giTridentShield :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTridentShield = element (unsafeCoerce _giTridentShield)
+giTridentShield :: Icon
+giTridentShield = element _giTridentShield
 
 foreign import _giTriforce :: ReactIcon
 
-giTriforce :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTriforce = element (unsafeCoerce _giTriforce)
+giTriforce :: Icon
+giTriforce = element _giTriforce
 
 foreign import _giTriggerHurt :: ReactIcon
 
-giTriggerHurt :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTriggerHurt = element (unsafeCoerce _giTriggerHurt)
+giTriggerHurt :: Icon
+giTriggerHurt = element _giTriggerHurt
 
 foreign import _giTrilobite :: ReactIcon
 
-giTrilobite :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTrilobite = element (unsafeCoerce _giTrilobite)
+giTrilobite :: Icon
+giTrilobite = element _giTrilobite
 
 foreign import _giTrinacria :: ReactIcon
 
-giTrinacria :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTrinacria = element (unsafeCoerce _giTrinacria)
+giTrinacria :: Icon
+giTrinacria = element _giTrinacria
 
 foreign import _giTriorb :: ReactIcon
 
-giTriorb :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTriorb = element (unsafeCoerce _giTriorb)
+giTriorb :: Icon
+giTriorb = element _giTriorb
 
 foreign import _giTripleBeak :: ReactIcon
 
-giTripleBeak :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTripleBeak = element (unsafeCoerce _giTripleBeak)
+giTripleBeak :: Icon
+giTripleBeak = element _giTripleBeak
 
 foreign import _giTripleClaws :: ReactIcon
 
-giTripleClaws :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTripleClaws = element (unsafeCoerce _giTripleClaws)
+giTripleClaws :: Icon
+giTripleClaws = element _giTripleClaws
 
 foreign import _giTripleCorn :: ReactIcon
 
-giTripleCorn :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTripleCorn = element (unsafeCoerce _giTripleCorn)
+giTripleCorn :: Icon
+giTripleCorn = element _giTripleCorn
 
 foreign import _giTripleGate :: ReactIcon
 
-giTripleGate :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTripleGate = element (unsafeCoerce _giTripleGate)
+giTripleGate :: Icon
+giTripleGate = element _giTripleGate
 
 foreign import _giTripleLock :: ReactIcon
 
-giTripleLock :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTripleLock = element (unsafeCoerce _giTripleLock)
+giTripleLock :: Icon
+giTripleLock = element _giTripleLock
 
 foreign import _giTripleNeedle :: ReactIcon
 
-giTripleNeedle :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTripleNeedle = element (unsafeCoerce _giTripleNeedle)
+giTripleNeedle :: Icon
+giTripleNeedle = element _giTripleNeedle
 
 foreign import _giTriplePlier :: ReactIcon
 
-giTriplePlier :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTriplePlier = element (unsafeCoerce _giTriplePlier)
+giTriplePlier :: Icon
+giTriplePlier = element _giTriplePlier
 
 foreign import _giTripleScratches :: ReactIcon
 
-giTripleScratches :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTripleScratches = element (unsafeCoerce _giTripleScratches)
+giTripleScratches :: Icon
+giTripleScratches = element _giTripleScratches
 
 foreign import _giTripleShells :: ReactIcon
 
-giTripleShells :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTripleShells = element (unsafeCoerce _giTripleShells)
+giTripleShells :: Icon
+giTripleShells = element _giTripleShells
 
 foreign import _giTripleSkulls :: ReactIcon
 
-giTripleSkulls :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTripleSkulls = element (unsafeCoerce _giTripleSkulls)
+giTripleSkulls :: Icon
+giTripleSkulls = element _giTripleSkulls
 
 foreign import _giTripleYin :: ReactIcon
 
-giTripleYin :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTripleYin = element (unsafeCoerce _giTripleYin)
+giTripleYin :: Icon
+giTripleYin = element _giTripleYin
 
 foreign import _giTripwire :: ReactIcon
 
-giTripwire :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTripwire = element (unsafeCoerce _giTripwire)
+giTripwire :: Icon
+giTripwire = element _giTripwire
 
 foreign import _giTriquetra :: ReactIcon
 
-giTriquetra :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTriquetra = element (unsafeCoerce _giTriquetra)
+giTriquetra :: Icon
+giTriquetra = element _giTriquetra
 
 foreign import _giTrireme :: ReactIcon
 
-giTrireme :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTrireme = element (unsafeCoerce _giTrireme)
+giTrireme :: Icon
+giTrireme = element _giTrireme
 
 foreign import _giTritonHead :: ReactIcon
 
-giTritonHead :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTritonHead = element (unsafeCoerce _giTritonHead)
+giTritonHead :: Icon
+giTritonHead = element _giTritonHead
 
 foreign import _giTroglodyte :: ReactIcon
 
-giTroglodyte :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTroglodyte = element (unsafeCoerce _giTroglodyte)
+giTroglodyte :: Icon
+giTroglodyte = element _giTroglodyte
 
 foreign import _giTrojanHorse :: ReactIcon
 
-giTrojanHorse :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTrojanHorse = element (unsafeCoerce _giTrojanHorse)
+giTrojanHorse :: Icon
+giTrojanHorse = element _giTrojanHorse
 
 foreign import _giTroll :: ReactIcon
 
-giTroll :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTroll = element (unsafeCoerce _giTroll)
+giTroll :: Icon
+giTroll = element _giTroll
 
 foreign import _giTrombone :: ReactIcon
 
-giTrombone :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTrombone = element (unsafeCoerce _giTrombone)
+giTrombone :: Icon
+giTrombone = element _giTrombone
 
 foreign import _giTronArrow :: ReactIcon
 
-giTronArrow :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTronArrow = element (unsafeCoerce _giTronArrow)
+giTronArrow :: Icon
+giTronArrow = element _giTronArrow
 
 foreign import _giTrophiesShelf :: ReactIcon
 
-giTrophiesShelf :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTrophiesShelf = element (unsafeCoerce _giTrophiesShelf)
+giTrophiesShelf :: Icon
+giTrophiesShelf = element _giTrophiesShelf
 
 foreign import _giTrophy :: ReactIcon
 
-giTrophy :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTrophy = element (unsafeCoerce _giTrophy)
+giTrophy :: Icon
+giTrophy = element _giTrophy
 
 foreign import _giTrophyCup :: ReactIcon
 
-giTrophyCup :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTrophyCup = element (unsafeCoerce _giTrophyCup)
+giTrophyCup :: Icon
+giTrophyCup = element _giTrophyCup
 
 foreign import _giTropicalFish :: ReactIcon
 
-giTropicalFish :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTropicalFish = element (unsafeCoerce _giTropicalFish)
+giTropicalFish :: Icon
+giTropicalFish = element _giTropicalFish
 
 foreign import _giTrousers :: ReactIcon
 
-giTrousers :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTrousers = element (unsafeCoerce _giTrousers)
+giTrousers :: Icon
+giTrousers = element _giTrousers
 
 foreign import _giTrowel :: ReactIcon
 
-giTrowel :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTrowel = element (unsafeCoerce _giTrowel)
+giTrowel :: Icon
+giTrowel = element _giTrowel
 
 foreign import _giTruce :: ReactIcon
 
-giTruce :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTruce = element (unsafeCoerce _giTruce)
+giTruce :: Icon
+giTruce = element _giTruce
 
 foreign import _giTruck :: ReactIcon
 
-giTruck :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTruck = element (unsafeCoerce _giTruck)
+giTruck :: Icon
+giTruck = element _giTruck
 
 foreign import _giTrumpet :: ReactIcon
 
-giTrumpet :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTrumpet = element (unsafeCoerce _giTrumpet)
+giTrumpet :: Icon
+giTrumpet = element _giTrumpet
 
 foreign import _giTrumpetFlag :: ReactIcon
 
-giTrumpetFlag :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTrumpetFlag = element (unsafeCoerce _giTrumpetFlag)
+giTrumpetFlag :: Icon
+giTrumpetFlag = element _giTrumpetFlag
 
 foreign import _giTrunkMushroom :: ReactIcon
 
-giTrunkMushroom :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTrunkMushroom = element (unsafeCoerce _giTrunkMushroom)
+giTrunkMushroom :: Icon
+giTrunkMushroom = element _giTrunkMushroom
 
 foreign import _giTShirt :: ReactIcon
 
-giTShirt :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTShirt = element (unsafeCoerce _giTShirt)
+giTShirt :: Icon
+giTShirt = element _giTShirt
 
 foreign import _giTuba :: ReactIcon
 
-giTuba :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTuba = element (unsafeCoerce _giTuba)
+giTuba :: Icon
+giTuba = element _giTuba
 
 foreign import _giTumbleweed :: ReactIcon
 
-giTumbleweed :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTumbleweed = element (unsafeCoerce _giTumbleweed)
+giTumbleweed :: Icon
+giTumbleweed = element _giTumbleweed
 
 foreign import _giTumor :: ReactIcon
 
-giTumor :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTumor = element (unsafeCoerce _giTumor)
+giTumor :: Icon
+giTumor = element _giTumor
 
 foreign import _giTumulus :: ReactIcon
 
-giTumulus :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTumulus = element (unsafeCoerce _giTumulus)
+giTumulus :: Icon
+giTumulus = element _giTumulus
 
 foreign import _giTunePitch :: ReactIcon
 
-giTunePitch :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTunePitch = element (unsafeCoerce _giTunePitch)
+giTunePitch :: Icon
+giTunePitch = element _giTunePitch
 
 foreign import _giTunisia :: ReactIcon
 
-giTunisia :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTunisia = element (unsafeCoerce _giTunisia)
+giTunisia :: Icon
+giTunisia = element _giTunisia
 
 foreign import _giTurban :: ReactIcon
 
-giTurban :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTurban = element (unsafeCoerce _giTurban)
+giTurban :: Icon
+giTurban = element _giTurban
 
 foreign import _giTurbine :: ReactIcon
 
-giTurbine :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTurbine = element (unsafeCoerce _giTurbine)
+giTurbine :: Icon
+giTurbine = element _giTurbine
 
 foreign import _giTurd :: ReactIcon
 
-giTurd :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTurd = element (unsafeCoerce _giTurd)
+giTurd :: Icon
+giTurd = element _giTurd
 
 foreign import _giTurnstile :: ReactIcon
 
-giTurnstile :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTurnstile = element (unsafeCoerce _giTurnstile)
+giTurnstile :: Icon
+giTurnstile = element _giTurnstile
 
 foreign import _giTurret :: ReactIcon
 
-giTurret :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTurret = element (unsafeCoerce _giTurret)
+giTurret :: Icon
+giTurret = element _giTurret
 
 foreign import _giTurtle :: ReactIcon
 
-giTurtle :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTurtle = element (unsafeCoerce _giTurtle)
+giTurtle :: Icon
+giTurtle = element _giTurtle
 
 foreign import _giTurtleShell :: ReactIcon
 
-giTurtleShell :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTurtleShell = element (unsafeCoerce _giTurtleShell)
+giTurtleShell :: Icon
+giTurtleShell = element _giTurtleShell
 
 foreign import _giTusksFlag :: ReactIcon
 
-giTusksFlag :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTusksFlag = element (unsafeCoerce _giTusksFlag)
+giTusksFlag :: Icon
+giTusksFlag = element _giTusksFlag
 
 foreign import _giTv :: ReactIcon
 
-giTv :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTv = element (unsafeCoerce _giTv)
+giTv :: Icon
+giTv = element _giTv
 
 foreign import _giTvRemote :: ReactIcon
 
-giTvRemote :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTvRemote = element (unsafeCoerce _giTvRemote)
+giTvRemote :: Icon
+giTvRemote = element _giTvRemote
 
 foreign import _giTvTower :: ReactIcon
 
-giTvTower :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTvTower = element (unsafeCoerce _giTvTower)
+giTvTower :: Icon
+giTvTower = element _giTvTower
 
 foreign import _giTwinShell :: ReactIcon
 
-giTwinShell :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTwinShell = element (unsafeCoerce _giTwinShell)
+giTwinShell :: Icon
+giTwinShell = element _giTwinShell
 
 foreign import _giTwirlCenter :: ReactIcon
 
-giTwirlCenter :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTwirlCenter = element (unsafeCoerce _giTwirlCenter)
+giTwirlCenter :: Icon
+giTwirlCenter = element _giTwirlCenter
 
 foreign import _giTwirlyFlower :: ReactIcon
 
-giTwirlyFlower :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTwirlyFlower = element (unsafeCoerce _giTwirlyFlower)
+giTwirlyFlower :: Icon
+giTwirlyFlower = element _giTwirlyFlower
 
 foreign import _giTwister :: ReactIcon
 
-giTwister :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTwister = element (unsafeCoerce _giTwister)
+giTwister :: Icon
+giTwister = element _giTwister
 
 foreign import _giTwoCoins :: ReactIcon
 
-giTwoCoins :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTwoCoins = element (unsafeCoerce _giTwoCoins)
+giTwoCoins :: Icon
+giTwoCoins = element _giTwoCoins
 
 foreign import _giTwoFeathers :: ReactIcon
 
-giTwoFeathers :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTwoFeathers = element (unsafeCoerce _giTwoFeathers)
+giTwoFeathers :: Icon
+giTwoFeathers = element _giTwoFeathers
 
 foreign import _giTwoHandedSword :: ReactIcon
 
-giTwoHandedSword :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTwoHandedSword = element (unsafeCoerce _giTwoHandedSword)
+giTwoHandedSword :: Icon
+giTwoHandedSword = element _giTwoHandedSword
 
 foreign import _giTwoShadows :: ReactIcon
 
-giTwoShadows :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTwoShadows = element (unsafeCoerce _giTwoShadows)
+giTwoShadows :: Icon
+giTwoShadows = element _giTwoShadows
 
 foreign import _giTyre :: ReactIcon
 
-giTyre :: forall a b. Union a b PropsIcon => Record a -> JSX
-giTyre = element (unsafeCoerce _giTyre)
+giTyre :: Icon
+giTyre = element _giTyre
 
 foreign import _giUbisoftSun :: ReactIcon
 
-giUbisoftSun :: forall a b. Union a b PropsIcon => Record a -> JSX
-giUbisoftSun = element (unsafeCoerce _giUbisoftSun)
+giUbisoftSun :: Icon
+giUbisoftSun = element _giUbisoftSun
 
 foreign import _giUdder :: ReactIcon
 
-giUdder :: forall a b. Union a b PropsIcon => Record a -> JSX
-giUdder = element (unsafeCoerce _giUdder)
+giUdder :: Icon
+giUdder = element _giUdder
 
 foreign import _giUfo :: ReactIcon
 
-giUfo :: forall a b. Union a b PropsIcon => Record a -> JSX
-giUfo = element (unsafeCoerce _giUfo)
+giUfo :: Icon
+giUfo = element _giUfo
 
 foreign import _giUltrasound :: ReactIcon
 
-giUltrasound :: forall a b. Union a b PropsIcon => Record a -> JSX
-giUltrasound = element (unsafeCoerce _giUltrasound)
+giUltrasound :: Icon
+giUltrasound = element _giUltrasound
 
 foreign import _giUluru :: ReactIcon
 
-giUluru :: forall a b. Union a b PropsIcon => Record a -> JSX
-giUluru = element (unsafeCoerce _giUluru)
+giUluru :: Icon
+giUluru = element _giUluru
 
 foreign import _giUmbrella :: ReactIcon
 
-giUmbrella :: forall a b. Union a b PropsIcon => Record a -> JSX
-giUmbrella = element (unsafeCoerce _giUmbrella)
+giUmbrella :: Icon
+giUmbrella = element _giUmbrella
 
 foreign import _giUmbrellaBayonet :: ReactIcon
 
-giUmbrellaBayonet :: forall a b. Union a b PropsIcon => Record a -> JSX
-giUmbrellaBayonet = element (unsafeCoerce _giUmbrellaBayonet)
+giUmbrellaBayonet :: Icon
+giUmbrellaBayonet = element _giUmbrellaBayonet
 
 foreign import _giUnbalanced :: ReactIcon
 
-giUnbalanced :: forall a b. Union a b PropsIcon => Record a -> JSX
-giUnbalanced = element (unsafeCoerce _giUnbalanced)
+giUnbalanced :: Icon
+giUnbalanced = element _giUnbalanced
 
 foreign import _giUncertainty :: ReactIcon
 
-giUncertainty :: forall a b. Union a b PropsIcon => Record a -> JSX
-giUncertainty = element (unsafeCoerce _giUncertainty)
+giUncertainty :: Icon
+giUncertainty = element _giUncertainty
 
 foreign import _giUndergroundCave :: ReactIcon
 
-giUndergroundCave :: forall a b. Union a b PropsIcon => Record a -> JSX
-giUndergroundCave = element (unsafeCoerce _giUndergroundCave)
+giUndergroundCave :: Icon
+giUndergroundCave = element _giUndergroundCave
 
 foreign import _giUnderhand :: ReactIcon
 
-giUnderhand :: forall a b. Union a b PropsIcon => Record a -> JSX
-giUnderhand = element (unsafeCoerce _giUnderhand)
+giUnderhand :: Icon
+giUnderhand = element _giUnderhand
 
 foreign import _giUnderwear :: ReactIcon
 
-giUnderwear :: forall a b. Union a b PropsIcon => Record a -> JSX
-giUnderwear = element (unsafeCoerce _giUnderwear)
+giUnderwear :: Icon
+giUnderwear = element _giUnderwear
 
 foreign import _giUnderwearShorts :: ReactIcon
 
-giUnderwearShorts :: forall a b. Union a b PropsIcon => Record a -> JSX
-giUnderwearShorts = element (unsafeCoerce _giUnderwearShorts)
+giUnderwearShorts :: Icon
+giUnderwearShorts = element _giUnderwearShorts
 
 foreign import _giUnfriendlyFire :: ReactIcon
 
-giUnfriendlyFire :: forall a b. Union a b PropsIcon => Record a -> JSX
-giUnfriendlyFire = element (unsafeCoerce _giUnfriendlyFire)
+giUnfriendlyFire :: Icon
+giUnfriendlyFire = element _giUnfriendlyFire
 
 foreign import _giUnicorn :: ReactIcon
 
-giUnicorn :: forall a b. Union a b PropsIcon => Record a -> JSX
-giUnicorn = element (unsafeCoerce _giUnicorn)
+giUnicorn :: Icon
+giUnicorn = element _giUnicorn
 
 foreign import _giUnicycle :: ReactIcon
 
-giUnicycle :: forall a b. Union a b PropsIcon => Record a -> JSX
-giUnicycle = element (unsafeCoerce _giUnicycle)
+giUnicycle :: Icon
+giUnicycle = element _giUnicycle
 
 foreign import _giUnionJack :: ReactIcon
 
-giUnionJack :: forall a b. Union a b PropsIcon => Record a -> JSX
-giUnionJack = element (unsafeCoerce _giUnionJack)
+giUnionJack :: Icon
+giUnionJack = element _giUnionJack
 
 foreign import _giUnlitBomb :: ReactIcon
 
-giUnlitBomb :: forall a b. Union a b PropsIcon => Record a -> JSX
-giUnlitBomb = element (unsafeCoerce _giUnlitBomb)
+giUnlitBomb :: Icon
+giUnlitBomb = element _giUnlitBomb
 
 foreign import _giUnlitCandelabra :: ReactIcon
 
-giUnlitCandelabra :: forall a b. Union a b PropsIcon => Record a -> JSX
-giUnlitCandelabra = element (unsafeCoerce _giUnlitCandelabra)
+giUnlitCandelabra :: Icon
+giUnlitCandelabra = element _giUnlitCandelabra
 
 foreign import _giUnlocking :: ReactIcon
 
-giUnlocking :: forall a b. Union a b PropsIcon => Record a -> JSX
-giUnlocking = element (unsafeCoerce _giUnlocking)
+giUnlocking :: Icon
+giUnlocking = element _giUnlocking
 
 foreign import _giUnplugged :: ReactIcon
 
-giUnplugged :: forall a b. Union a b PropsIcon => Record a -> JSX
-giUnplugged = element (unsafeCoerce _giUnplugged)
+giUnplugged :: Icon
+giUnplugged = element _giUnplugged
 
 foreign import _giUnstableOrb :: ReactIcon
 
-giUnstableOrb :: forall a b. Union a b PropsIcon => Record a -> JSX
-giUnstableOrb = element (unsafeCoerce _giUnstableOrb)
+giUnstableOrb :: Icon
+giUnstableOrb = element _giUnstableOrb
 
 foreign import _giUnstableProjectile :: ReactIcon
 
-giUnstableProjectile :: forall a b. Union a b PropsIcon => Record a -> JSX
-giUnstableProjectile = element (unsafeCoerce _giUnstableProjectile)
+giUnstableProjectile :: Icon
+giUnstableProjectile = element _giUnstableProjectile
 
 foreign import _giUpCard :: ReactIcon
 
-giUpCard :: forall a b. Union a b PropsIcon => Record a -> JSX
-giUpCard = element (unsafeCoerce _giUpCard)
+giUpCard :: Icon
+giUpCard = element _giUpCard
 
 foreign import _giUpgrade :: ReactIcon
 
-giUpgrade :: forall a b. Union a b PropsIcon => Record a -> JSX
-giUpgrade = element (unsafeCoerce _giUpgrade)
+giUpgrade :: Icon
+giUpgrade = element _giUpgrade
 
 foreign import _giUprising :: ReactIcon
 
-giUprising :: forall a b. Union a b PropsIcon => Record a -> JSX
-giUprising = element (unsafeCoerce _giUprising)
+giUprising :: Icon
+giUprising = element _giUprising
 
 foreign import _giUrsaMajor :: ReactIcon
 
-giUrsaMajor :: forall a b. Union a b PropsIcon => Record a -> JSX
-giUrsaMajor = element (unsafeCoerce _giUrsaMajor)
+giUrsaMajor :: Icon
+giUrsaMajor = element _giUrsaMajor
 
 foreign import _giUruguay :: ReactIcon
 
-giUruguay :: forall a b. Union a b PropsIcon => Record a -> JSX
-giUruguay = element (unsafeCoerce _giUruguay)
+giUruguay :: Icon
+giUruguay = element _giUruguay
 
 foreign import _giUsable :: ReactIcon
 
-giUsable :: forall a b. Union a b PropsIcon => Record a -> JSX
-giUsable = element (unsafeCoerce _giUsable)
+giUsable :: Icon
+giUsable = element _giUsable
 
 foreign import _giUsaFlag :: ReactIcon
 
-giUsaFlag :: forall a b. Union a b PropsIcon => Record a -> JSX
-giUsaFlag = element (unsafeCoerce _giUsaFlag)
+giUsaFlag :: Icon
+giUsaFlag = element _giUsaFlag
 
 foreign import _giUsbKey :: ReactIcon
 
-giUsbKey :: forall a b. Union a b PropsIcon => Record a -> JSX
-giUsbKey = element (unsafeCoerce _giUsbKey)
+giUsbKey :: Icon
+giUsbKey = element _giUsbKey
 
 foreign import _giUshanka :: ReactIcon
 
-giUshanka :: forall a b. Union a b PropsIcon => Record a -> JSX
-giUshanka = element (unsafeCoerce _giUshanka)
+giUshanka :: Icon
+giUshanka = element _giUshanka
 
 foreign import _giUzi :: ReactIcon
 
-giUzi :: forall a b. Union a b PropsIcon => Record a -> JSX
-giUzi = element (unsafeCoerce _giUzi)
+giUzi :: Icon
+giUzi = element _giUzi
 
 foreign import _giVacuumCleaner :: ReactIcon
 
-giVacuumCleaner :: forall a b. Union a b PropsIcon => Record a -> JSX
-giVacuumCleaner = element (unsafeCoerce _giVacuumCleaner)
+giVacuumCleaner :: Icon
+giVacuumCleaner = element _giVacuumCleaner
 
 foreign import _giValley :: ReactIcon
 
-giValley :: forall a b. Union a b PropsIcon => Record a -> JSX
-giValley = element (unsafeCoerce _giValley)
+giValley :: Icon
+giValley = element _giValley
 
 foreign import _giValve :: ReactIcon
 
-giValve :: forall a b. Union a b PropsIcon => Record a -> JSX
-giValve = element (unsafeCoerce _giValve)
+giValve :: Icon
+giValve = element _giValve
 
 foreign import _giVampireCape :: ReactIcon
 
-giVampireCape :: forall a b. Union a b PropsIcon => Record a -> JSX
-giVampireCape = element (unsafeCoerce _giVampireCape)
+giVampireCape :: Icon
+giVampireCape = element _giVampireCape
 
 foreign import _giVampireDracula :: ReactIcon
 
-giVampireDracula :: forall a b. Union a b PropsIcon => Record a -> JSX
-giVampireDracula = element (unsafeCoerce _giVampireDracula)
+giVampireDracula :: Icon
+giVampireDracula = element _giVampireDracula
 
 foreign import _giVanDammeSplit :: ReactIcon
 
-giVanDammeSplit :: forall a b. Union a b PropsIcon => Record a -> JSX
-giVanDammeSplit = element (unsafeCoerce _giVanDammeSplit)
+giVanDammeSplit :: Icon
+giVanDammeSplit = element _giVanDammeSplit
 
 foreign import _giVanillaFlower :: ReactIcon
 
-giVanillaFlower :: forall a b. Union a b PropsIcon => Record a -> JSX
-giVanillaFlower = element (unsafeCoerce _giVanillaFlower)
+giVanillaFlower :: Icon
+giVanillaFlower = element _giVanillaFlower
 
 foreign import _giVelocipede :: ReactIcon
 
-giVelocipede :: forall a b. Union a b PropsIcon => Record a -> JSX
-giVelocipede = element (unsafeCoerce _giVelocipede)
+giVelocipede :: Icon
+giVelocipede = element _giVelocipede
 
 foreign import _giVelociraptor :: ReactIcon
 
-giVelociraptor :: forall a b. Union a b PropsIcon => Record a -> JSX
-giVelociraptor = element (unsafeCoerce _giVelociraptor)
+giVelociraptor :: Icon
+giVelociraptor = element _giVelociraptor
 
 foreign import _giVelociraptorTracks :: ReactIcon
 
-giVelociraptorTracks :: forall a b. Union a b PropsIcon => Record a -> JSX
-giVelociraptorTracks = element (unsafeCoerce _giVelociraptorTracks)
+giVelociraptorTracks :: Icon
+giVelociraptorTracks = element _giVelociraptorTracks
 
 foreign import _giVendingMachine :: ReactIcon
 
-giVendingMachine :: forall a b. Union a b PropsIcon => Record a -> JSX
-giVendingMachine = element (unsafeCoerce _giVendingMachine)
+giVendingMachine :: Icon
+giVendingMachine = element _giVendingMachine
 
 foreign import _giVenezuela :: ReactIcon
 
-giVenezuela :: forall a b. Union a b PropsIcon => Record a -> JSX
-giVenezuela = element (unsafeCoerce _giVenezuela)
+giVenezuela :: Icon
+giVenezuela = element _giVenezuela
 
 foreign import _giVenusFlytrap :: ReactIcon
 
-giVenusFlytrap :: forall a b. Union a b PropsIcon => Record a -> JSX
-giVenusFlytrap = element (unsafeCoerce _giVenusFlytrap)
+giVenusFlytrap :: Icon
+giVenusFlytrap = element _giVenusFlytrap
 
 foreign import _giVenusOfWillendorf :: ReactIcon
 
-giVenusOfWillendorf :: forall a b. Union a b PropsIcon => Record a -> JSX
-giVenusOfWillendorf = element (unsafeCoerce _giVenusOfWillendorf)
+giVenusOfWillendorf :: Icon
+giVenusOfWillendorf = element _giVenusOfWillendorf
 
 foreign import _giVerticalBanner :: ReactIcon
 
-giVerticalBanner :: forall a b. Union a b PropsIcon => Record a -> JSX
-giVerticalBanner = element (unsafeCoerce _giVerticalBanner)
+giVerticalBanner :: Icon
+giVerticalBanner = element _giVerticalBanner
 
 foreign import _giVerticalFlip :: ReactIcon
 
-giVerticalFlip :: forall a b. Union a b PropsIcon => Record a -> JSX
-giVerticalFlip = element (unsafeCoerce _giVerticalFlip)
+giVerticalFlip :: Icon
+giVerticalFlip = element _giVerticalFlip
 
 foreign import _giVhs :: ReactIcon
 
-giVhs :: forall a b. Union a b PropsIcon => Record a -> JSX
-giVhs = element (unsafeCoerce _giVhs)
+giVhs :: Icon
+giVhs = element _giVhs
 
 foreign import _giVial :: ReactIcon
 
-giVial :: forall a b. Union a b PropsIcon => Record a -> JSX
-giVial = element (unsafeCoerce _giVial)
+giVial :: Icon
+giVial = element _giVial
 
 foreign import _giVibratingBall :: ReactIcon
 
-giVibratingBall :: forall a b. Union a b PropsIcon => Record a -> JSX
-giVibratingBall = element (unsafeCoerce _giVibratingBall)
+giVibratingBall :: Icon
+giVibratingBall = element _giVibratingBall
 
 foreign import _giVibratingShield :: ReactIcon
 
-giVibratingShield :: forall a b. Union a b PropsIcon => Record a -> JSX
-giVibratingShield = element (unsafeCoerce _giVibratingShield)
+giVibratingShield :: Icon
+giVibratingShield = element _giVibratingShield
 
 foreign import _giVibratingSmartphone :: ReactIcon
 
-giVibratingSmartphone :: forall a b. Union a b PropsIcon => Record a -> JSX
-giVibratingSmartphone = element (unsafeCoerce _giVibratingSmartphone)
+giVibratingSmartphone :: Icon
+giVibratingSmartphone = element _giVibratingSmartphone
 
 foreign import _giVideoCamera :: ReactIcon
 
-giVideoCamera :: forall a b. Union a b PropsIcon => Record a -> JSX
-giVideoCamera = element (unsafeCoerce _giVideoCamera)
+giVideoCamera :: Icon
+giVideoCamera = element _giVideoCamera
 
 foreign import _giVideoConference :: ReactIcon
 
-giVideoConference :: forall a b. Union a b PropsIcon => Record a -> JSX
-giVideoConference = element (unsafeCoerce _giVideoConference)
+giVideoConference :: Icon
+giVideoConference = element _giVideoConference
 
 foreign import _giVikingChurch :: ReactIcon
 
-giVikingChurch :: forall a b. Union a b PropsIcon => Record a -> JSX
-giVikingChurch = element (unsafeCoerce _giVikingChurch)
+giVikingChurch :: Icon
+giVikingChurch = element _giVikingChurch
 
 foreign import _giVikingHead :: ReactIcon
 
-giVikingHead :: forall a b. Union a b PropsIcon => Record a -> JSX
-giVikingHead = element (unsafeCoerce _giVikingHead)
+giVikingHead :: Icon
+giVikingHead = element _giVikingHead
 
 foreign import _giVikingHelmet :: ReactIcon
 
-giVikingHelmet :: forall a b. Union a b PropsIcon => Record a -> JSX
-giVikingHelmet = element (unsafeCoerce _giVikingHelmet)
+giVikingHelmet :: Icon
+giVikingHelmet = element _giVikingHelmet
 
 foreign import _giVikingLonghouse :: ReactIcon
 
-giVikingLonghouse :: forall a b. Union a b PropsIcon => Record a -> JSX
-giVikingLonghouse = element (unsafeCoerce _giVikingLonghouse)
+giVikingLonghouse :: Icon
+giVikingLonghouse = element _giVikingLonghouse
 
 foreign import _giVikingShield :: ReactIcon
 
-giVikingShield :: forall a b. Union a b PropsIcon => Record a -> JSX
-giVikingShield = element (unsafeCoerce _giVikingShield)
+giVikingShield :: Icon
+giVikingShield = element _giVikingShield
 
 foreign import _giVileFluid :: ReactIcon
 
-giVileFluid :: forall a b. Union a b PropsIcon => Record a -> JSX
-giVileFluid = element (unsafeCoerce _giVileFluid)
+giVileFluid :: Icon
+giVileFluid = element _giVileFluid
 
 foreign import _giVillage :: ReactIcon
 
-giVillage :: forall a b. Union a b PropsIcon => Record a -> JSX
-giVillage = element (unsafeCoerce _giVillage)
+giVillage :: Icon
+giVillage = element _giVillage
 
 foreign import _giVineFlower :: ReactIcon
 
-giVineFlower :: forall a b. Union a b PropsIcon => Record a -> JSX
-giVineFlower = element (unsafeCoerce _giVineFlower)
+giVineFlower :: Icon
+giVineFlower = element _giVineFlower
 
 foreign import _giVineLeaf :: ReactIcon
 
-giVineLeaf :: forall a b. Union a b PropsIcon => Record a -> JSX
-giVineLeaf = element (unsafeCoerce _giVineLeaf)
+giVineLeaf :: Icon
+giVineLeaf = element _giVineLeaf
 
 foreign import _giVines :: ReactIcon
 
-giVines :: forall a b. Union a b PropsIcon => Record a -> JSX
-giVines = element (unsafeCoerce _giVines)
+giVines :: Icon
+giVines = element _giVines
 
 foreign import _giVineWhip :: ReactIcon
 
-giVineWhip :: forall a b. Union a b PropsIcon => Record a -> JSX
-giVineWhip = element (unsafeCoerce _giVineWhip)
+giVineWhip :: Icon
+giVineWhip = element _giVineWhip
 
 foreign import _giVintageRobot :: ReactIcon
 
-giVintageRobot :: forall a b. Union a b PropsIcon => Record a -> JSX
-giVintageRobot = element (unsafeCoerce _giVintageRobot)
+giVintageRobot :: Icon
+giVintageRobot = element _giVintageRobot
 
 foreign import _giViola :: ReactIcon
 
-giViola :: forall a b. Union a b PropsIcon => Record a -> JSX
-giViola = element (unsafeCoerce _giViola)
+giViola :: Icon
+giViola = element _giViola
 
 foreign import _giViolin :: ReactIcon
 
-giViolin :: forall a b. Union a b PropsIcon => Record a -> JSX
-giViolin = element (unsafeCoerce _giViolin)
+giViolin :: Icon
+giViolin = element _giViolin
 
 foreign import _giVirgo :: ReactIcon
 
-giVirgo :: forall a b. Union a b PropsIcon => Record a -> JSX
-giVirgo = element (unsafeCoerce _giVirgo)
+giVirgo :: Icon
+giVirgo = element _giVirgo
 
 foreign import _giVirtualMarker :: ReactIcon
 
-giVirtualMarker :: forall a b. Union a b PropsIcon => Record a -> JSX
-giVirtualMarker = element (unsafeCoerce _giVirtualMarker)
+giVirtualMarker :: Icon
+giVirtualMarker = element _giVirtualMarker
 
 foreign import _giVirus :: ReactIcon
 
-giVirus :: forall a b. Union a b PropsIcon => Record a -> JSX
-giVirus = element (unsafeCoerce _giVirus)
+giVirus :: Icon
+giVirus = element _giVirus
 
 foreign import _giVisoredHelm :: ReactIcon
 
-giVisoredHelm :: forall a b. Union a b PropsIcon => Record a -> JSX
-giVisoredHelm = element (unsafeCoerce _giVisoredHelm)
+giVisoredHelm :: Icon
+giVisoredHelm = element _giVisoredHelm
 
 foreign import _giVitruvianMan :: ReactIcon
 
-giVitruvianMan :: forall a b. Union a b PropsIcon => Record a -> JSX
-giVitruvianMan = element (unsafeCoerce _giVitruvianMan)
+giVitruvianMan :: Icon
+giVitruvianMan = element _giVitruvianMan
 
 foreign import _giVolcano :: ReactIcon
 
-giVolcano :: forall a b. Union a b PropsIcon => Record a -> JSX
-giVolcano = element (unsafeCoerce _giVolcano)
+giVolcano :: Icon
+giVolcano = element _giVolcano
 
 foreign import _giVolleyballBall :: ReactIcon
 
-giVolleyballBall :: forall a b. Union a b PropsIcon => Record a -> JSX
-giVolleyballBall = element (unsafeCoerce _giVolleyballBall)
+giVolleyballBall :: Icon
+giVolleyballBall = element _giVolleyballBall
 
 foreign import _giVomiting :: ReactIcon
 
-giVomiting :: forall a b. Union a b PropsIcon => Record a -> JSX
-giVomiting = element (unsafeCoerce _giVomiting)
+giVomiting :: Icon
+giVomiting = element _giVomiting
 
 foreign import _giVoodooDoll :: ReactIcon
 
-giVoodooDoll :: forall a b. Union a b PropsIcon => Record a -> JSX
-giVoodooDoll = element (unsafeCoerce _giVoodooDoll)
+giVoodooDoll :: Icon
+giVoodooDoll = element _giVoodooDoll
 
 foreign import _giVortex :: ReactIcon
 
-giVortex :: forall a b. Union a b PropsIcon => Record a -> JSX
-giVortex = element (unsafeCoerce _giVortex)
+giVortex :: Icon
+giVortex = element _giVortex
 
 foreign import _giVote :: ReactIcon
 
-giVote :: forall a b. Union a b PropsIcon => Record a -> JSX
-giVote = element (unsafeCoerce _giVote)
+giVote :: Icon
+giVote = element _giVote
 
 foreign import _giVrHeadset :: ReactIcon
 
-giVrHeadset :: forall a b. Union a b PropsIcon => Record a -> JSX
-giVrHeadset = element (unsafeCoerce _giVrHeadset)
+giVrHeadset :: Icon
+giVrHeadset = element _giVrHeadset
 
 foreign import _giVulture :: ReactIcon
 
-giVulture :: forall a b. Union a b PropsIcon => Record a -> JSX
-giVulture = element (unsafeCoerce _giVulture)
+giVulture :: Icon
+giVulture = element _giVulture
 
 foreign import _giVuvuzelas :: ReactIcon
 
-giVuvuzelas :: forall a b. Union a b PropsIcon => Record a -> JSX
-giVuvuzelas = element (unsafeCoerce _giVuvuzelas)
+giVuvuzelas :: Icon
+giVuvuzelas = element _giVuvuzelas
 
 foreign import _giWalk :: ReactIcon
 
-giWalk :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWalk = element (unsafeCoerce _giWalk)
+giWalk :: Icon
+giWalk = element _giWalk
 
 foreign import _giWalkieTalkie :: ReactIcon
 
-giWalkieTalkie :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWalkieTalkie = element (unsafeCoerce _giWalkieTalkie)
+giWalkieTalkie :: Icon
+giWalkieTalkie = element _giWalkieTalkie
 
 foreign import _giWalkingBoot :: ReactIcon
 
-giWalkingBoot :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWalkingBoot = element (unsafeCoerce _giWalkingBoot)
+giWalkingBoot :: Icon
+giWalkingBoot = element _giWalkingBoot
 
 foreign import _giWalkingScout :: ReactIcon
 
-giWalkingScout :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWalkingScout = element (unsafeCoerce _giWalkingScout)
+giWalkingScout :: Icon
+giWalkingScout = element _giWalkingScout
 
 foreign import _giWalkingTurret :: ReactIcon
 
-giWalkingTurret :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWalkingTurret = element (unsafeCoerce _giWalkingTurret)
+giWalkingTurret :: Icon
+giWalkingTurret = element _giWalkingTurret
 
 foreign import _giWallet :: ReactIcon
 
-giWallet :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWallet = element (unsafeCoerce _giWallet)
+giWallet :: Icon
+giWallet = element _giWallet
 
 foreign import _giWallLight :: ReactIcon
 
-giWallLight :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWallLight = element (unsafeCoerce _giWallLight)
+giWallLight :: Icon
+giWallLight = element _giWallLight
 
 foreign import _giWalrusHead :: ReactIcon
 
-giWalrusHead :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWalrusHead = element (unsafeCoerce _giWalrusHead)
+giWalrusHead :: Icon
+giWalrusHead = element _giWalrusHead
 
 foreign import _giWaltherPpk :: ReactIcon
 
-giWaltherPpk :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWaltherPpk = element (unsafeCoerce _giWaltherPpk)
+giWaltherPpk :: Icon
+giWaltherPpk = element _giWaltherPpk
 
 foreign import _giWantedReward :: ReactIcon
 
-giWantedReward :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWantedReward = element (unsafeCoerce _giWantedReward)
+giWantedReward :: Icon
+giWantedReward = element _giWantedReward
 
 foreign import _giWarAxe :: ReactIcon
 
-giWarAxe :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWarAxe = element (unsafeCoerce _giWarAxe)
+giWarAxe :: Icon
+giWarAxe = element _giWarAxe
 
 foreign import _giWarBonnet :: ReactIcon
 
-giWarBonnet :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWarBonnet = element (unsafeCoerce _giWarBonnet)
+giWarBonnet :: Icon
+giWarBonnet = element _giWarBonnet
 
 foreign import _giWarhammer :: ReactIcon
 
-giWarhammer :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWarhammer = element (unsafeCoerce _giWarhammer)
+giWarhammer :: Icon
+giWarhammer = element _giWarhammer
 
 foreign import _giWarlockEye :: ReactIcon
 
-giWarlockEye :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWarlockEye = element (unsafeCoerce _giWarlockEye)
+giWarlockEye :: Icon
+giWarlockEye = element _giWarlockEye
 
 foreign import _giWarlockHood :: ReactIcon
 
-giWarlockHood :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWarlockHood = element (unsafeCoerce _giWarlockHood)
+giWarlockHood :: Icon
+giWarlockHood = element _giWarlockHood
 
 foreign import _giWarPick :: ReactIcon
 
-giWarPick :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWarPick = element (unsafeCoerce _giWarPick)
+giWarPick :: Icon
+giWarPick = element _giWarPick
 
 foreign import _giWarpPipe :: ReactIcon
 
-giWarpPipe :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWarpPipe = element (unsafeCoerce _giWarpPipe)
+giWarpPipe :: Icon
+giWarpPipe = element _giWarpPipe
 
 foreign import _giWashingMachine :: ReactIcon
 
-giWashingMachine :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWashingMachine = element (unsafeCoerce _giWashingMachine)
+giWashingMachine :: Icon
+giWashingMachine = element _giWashingMachine
 
 foreign import _giWaspSting :: ReactIcon
 
-giWaspSting :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWaspSting = element (unsafeCoerce _giWaspSting)
+giWaspSting :: Icon
+giWaspSting = element _giWaspSting
 
 foreign import _giWatch :: ReactIcon
 
-giWatch :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWatch = element (unsafeCoerce _giWatch)
+giWatch :: Icon
+giWatch = element _giWatch
 
 foreign import _giWatchtower :: ReactIcon
 
-giWatchtower :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWatchtower = element (unsafeCoerce _giWatchtower)
+giWatchtower :: Icon
+giWatchtower = element _giWatchtower
 
 foreign import _giWaterBolt :: ReactIcon
 
-giWaterBolt :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWaterBolt = element (unsafeCoerce _giWaterBolt)
+giWaterBolt :: Icon
+giWaterBolt = element _giWaterBolt
 
 foreign import _giWaterBottle :: ReactIcon
 
-giWaterBottle :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWaterBottle = element (unsafeCoerce _giWaterBottle)
+giWaterBottle :: Icon
+giWaterBottle = element _giWaterBottle
 
 foreign import _giWaterDivinerStick :: ReactIcon
 
-giWaterDivinerStick :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWaterDivinerStick = element (unsafeCoerce _giWaterDivinerStick)
+giWaterDivinerStick :: Icon
+giWaterDivinerStick = element _giWaterDivinerStick
 
 foreign import _giWaterDrop :: ReactIcon
 
-giWaterDrop :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWaterDrop = element (unsafeCoerce _giWaterDrop)
+giWaterDrop :: Icon
+giWaterDrop = element _giWaterDrop
 
 foreign import _giWaterfall :: ReactIcon
 
-giWaterfall :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWaterfall = element (unsafeCoerce _giWaterfall)
+giWaterfall :: Icon
+giWaterfall = element _giWaterfall
 
 foreign import _giWaterFlask :: ReactIcon
 
-giWaterFlask :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWaterFlask = element (unsafeCoerce _giWaterFlask)
+giWaterFlask :: Icon
+giWaterFlask = element _giWaterFlask
 
 foreign import _giWaterFountain :: ReactIcon
 
-giWaterFountain :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWaterFountain = element (unsafeCoerce _giWaterFountain)
+giWaterFountain :: Icon
+giWaterFountain = element _giWaterFountain
 
 foreign import _giWaterGallon :: ReactIcon
 
-giWaterGallon :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWaterGallon = element (unsafeCoerce _giWaterGallon)
+giWaterGallon :: Icon
+giWaterGallon = element _giWaterGallon
 
 foreign import _giWaterGun :: ReactIcon
 
-giWaterGun :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWaterGun = element (unsafeCoerce _giWaterGun)
+giWaterGun :: Icon
+giWaterGun = element _giWaterGun
 
 foreign import _giWateringCan :: ReactIcon
 
-giWateringCan :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWateringCan = element (unsafeCoerce _giWateringCan)
+giWateringCan :: Icon
+giWateringCan = element _giWateringCan
 
 foreign import _giWatermelon :: ReactIcon
 
-giWatermelon :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWatermelon = element (unsafeCoerce _giWatermelon)
+giWatermelon :: Icon
+giWatermelon = element _giWatermelon
 
 foreign import _giWaterMill :: ReactIcon
 
-giWaterMill :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWaterMill = element (unsafeCoerce _giWaterMill)
+giWaterMill :: Icon
+giWaterMill = element _giWaterMill
 
 foreign import _giWaterPolo :: ReactIcon
 
-giWaterPolo :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWaterPolo = element (unsafeCoerce _giWaterPolo)
+giWaterPolo :: Icon
+giWaterPolo = element _giWaterPolo
 
 foreign import _giWaterRecycling :: ReactIcon
 
-giWaterRecycling :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWaterRecycling = element (unsafeCoerce _giWaterRecycling)
+giWaterRecycling :: Icon
+giWaterRecycling = element _giWaterRecycling
 
 foreign import _giWaterSplash :: ReactIcon
 
-giWaterSplash :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWaterSplash = element (unsafeCoerce _giWaterSplash)
+giWaterSplash :: Icon
+giWaterSplash = element _giWaterSplash
 
 foreign import _giWaterTank :: ReactIcon
 
-giWaterTank :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWaterTank = element (unsafeCoerce _giWaterTank)
+giWaterTank :: Icon
+giWaterTank = element _giWaterTank
 
 foreign import _giWaterTower :: ReactIcon
 
-giWaterTower :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWaterTower = element (unsafeCoerce _giWaterTower)
+giWaterTower :: Icon
+giWaterTower = element _giWaterTower
 
 foreign import _giWaveCrest :: ReactIcon
 
-giWaveCrest :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWaveCrest = element (unsafeCoerce _giWaveCrest)
+giWaveCrest :: Icon
+giWaveCrest = element _giWaveCrest
 
 foreign import _giWaves :: ReactIcon
 
-giWaves :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWaves = element (unsafeCoerce _giWaves)
+giWaves :: Icon
+giWaves = element _giWaves
 
 foreign import _giWaveStrike :: ReactIcon
 
-giWaveStrike :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWaveStrike = element (unsafeCoerce _giWaveStrike)
+giWaveStrike :: Icon
+giWaveStrike = element _giWaveStrike
 
 foreign import _giWaveSurfer :: ReactIcon
 
-giWaveSurfer :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWaveSurfer = element (unsafeCoerce _giWaveSurfer)
+giWaveSurfer :: Icon
+giWaveSurfer = element _giWaveSurfer
 
 foreign import _giWavyChains :: ReactIcon
 
-giWavyChains :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWavyChains = element (unsafeCoerce _giWavyChains)
+giWavyChains :: Icon
+giWavyChains = element _giWavyChains
 
 foreign import _giWavyItinerary :: ReactIcon
 
-giWavyItinerary :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWavyItinerary = element (unsafeCoerce _giWavyItinerary)
+giWavyItinerary :: Icon
+giWavyItinerary = element _giWavyItinerary
 
 foreign import _giWaxSeal :: ReactIcon
 
-giWaxSeal :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWaxSeal = element (unsafeCoerce _giWaxSeal)
+giWaxSeal :: Icon
+giWaxSeal = element _giWaxSeal
 
 foreign import _giWaxTablet :: ReactIcon
 
-giWaxTablet :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWaxTablet = element (unsafeCoerce _giWaxTablet)
+giWaxTablet :: Icon
+giWaxTablet = element _giWaxTablet
 
 foreign import _giWebSpit :: ReactIcon
 
-giWebSpit :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWebSpit = element (unsafeCoerce _giWebSpit)
+giWebSpit :: Icon
+giWebSpit = element _giWebSpit
 
 foreign import _giWeight :: ReactIcon
 
-giWeight :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWeight = element (unsafeCoerce _giWeight)
+giWeight :: Icon
+giWeight = element _giWeight
 
 foreign import _giWeightCrush :: ReactIcon
 
-giWeightCrush :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWeightCrush = element (unsafeCoerce _giWeightCrush)
+giWeightCrush :: Icon
+giWeightCrush = element _giWeightCrush
 
 foreign import _giWeightLiftingDown :: ReactIcon
 
-giWeightLiftingDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWeightLiftingDown = element (unsafeCoerce _giWeightLiftingDown)
+giWeightLiftingDown :: Icon
+giWeightLiftingDown = element _giWeightLiftingDown
 
 foreign import _giWeightLiftingUp :: ReactIcon
 
-giWeightLiftingUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWeightLiftingUp = element (unsafeCoerce _giWeightLiftingUp)
+giWeightLiftingUp :: Icon
+giWeightLiftingUp = element _giWeightLiftingUp
 
 foreign import _giWeightScale :: ReactIcon
 
-giWeightScale :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWeightScale = element (unsafeCoerce _giWeightScale)
+giWeightScale :: Icon
+giWeightScale = element _giWeightScale
 
 foreign import _giWell :: ReactIcon
 
-giWell :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWell = element (unsafeCoerce _giWell)
+giWell :: Icon
+giWell = element _giWell
 
 foreign import _giWerewolf :: ReactIcon
 
-giWerewolf :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWerewolf = element (unsafeCoerce _giWerewolf)
+giWerewolf :: Icon
+giWerewolf = element _giWerewolf
 
 foreign import _giWesternHat :: ReactIcon
 
-giWesternHat :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWesternHat = element (unsafeCoerce _giWesternHat)
+giWesternHat :: Icon
+giWesternHat = element _giWesternHat
 
 foreign import _giWhaleTail :: ReactIcon
 
-giWhaleTail :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWhaleTail = element (unsafeCoerce _giWhaleTail)
+giWhaleTail :: Icon
+giWhaleTail = element _giWhaleTail
 
 foreign import _giWheat :: ReactIcon
 
-giWheat :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWheat = element (unsafeCoerce _giWheat)
+giWheat :: Icon
+giWheat = element _giWheat
 
 foreign import _giWheelbarrow :: ReactIcon
 
-giWheelbarrow :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWheelbarrow = element (unsafeCoerce _giWheelbarrow)
+giWheelbarrow :: Icon
+giWheelbarrow = element _giWheelbarrow
 
 foreign import _giWhip :: ReactIcon
 
-giWhip :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWhip = element (unsafeCoerce _giWhip)
+giWhip :: Icon
+giWhip = element _giWhip
 
 foreign import _giWhiplash :: ReactIcon
 
-giWhiplash :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWhiplash = element (unsafeCoerce _giWhiplash)
+giWhiplash :: Icon
+giWhiplash = element _giWhiplash
 
 foreign import _giWhirlpoolShuriken :: ReactIcon
 
-giWhirlpoolShuriken :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWhirlpoolShuriken = element (unsafeCoerce _giWhirlpoolShuriken)
+giWhirlpoolShuriken :: Icon
+giWhirlpoolShuriken = element _giWhirlpoolShuriken
 
 foreign import _giWhirlwind :: ReactIcon
 
-giWhirlwind :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWhirlwind = element (unsafeCoerce _giWhirlwind)
+giWhirlwind :: Icon
+giWhirlwind = element _giWhirlwind
 
 foreign import _giWhisk :: ReactIcon
 
-giWhisk :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWhisk = element (unsafeCoerce _giWhisk)
+giWhisk :: Icon
+giWhisk = element _giWhisk
 
 foreign import _giWhistle :: ReactIcon
 
-giWhistle :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWhistle = element (unsafeCoerce _giWhistle)
+giWhistle :: Icon
+giWhistle = element _giWhistle
 
 foreign import _giWhiteBook :: ReactIcon
 
-giWhiteBook :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWhiteBook = element (unsafeCoerce _giWhiteBook)
+giWhiteBook :: Icon
+giWhiteBook = element _giWhiteBook
 
 foreign import _giWhiteTower :: ReactIcon
 
-giWhiteTower :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWhiteTower = element (unsafeCoerce _giWhiteTower)
+giWhiteTower :: Icon
+giWhiteTower = element _giWhiteTower
 
 foreign import _giWideArrowDunk :: ReactIcon
 
-giWideArrowDunk :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWideArrowDunk = element (unsafeCoerce _giWideArrowDunk)
+giWideArrowDunk :: Icon
+giWideArrowDunk = element _giWideArrowDunk
 
 foreign import _giWifiRouter :: ReactIcon
 
-giWifiRouter :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWifiRouter = element (unsafeCoerce _giWifiRouter)
+giWifiRouter :: Icon
+giWifiRouter = element _giWifiRouter
 
 foreign import _giWildfires :: ReactIcon
 
-giWildfires :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWildfires = element (unsafeCoerce _giWildfires)
+giWildfires :: Icon
+giWildfires = element _giWildfires
 
 foreign import _giWilliamTell :: ReactIcon
 
-giWilliamTell :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWilliamTell = element (unsafeCoerce _giWilliamTell)
+giWilliamTell :: Icon
+giWilliamTell = element _giWilliamTell
 
 foreign import _giWilliamTellSkull :: ReactIcon
 
-giWilliamTellSkull :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWilliamTellSkull = element (unsafeCoerce _giWilliamTellSkull)
+giWilliamTellSkull :: Icon
+giWilliamTellSkull = element _giWilliamTellSkull
 
 foreign import _giWillowTree :: ReactIcon
 
-giWillowTree :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWillowTree = element (unsafeCoerce _giWillowTree)
+giWillowTree :: Icon
+giWillowTree = element _giWillowTree
 
 foreign import _giWinchesterRifle :: ReactIcon
 
-giWinchesterRifle :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWinchesterRifle = element (unsafeCoerce _giWinchesterRifle)
+giWinchesterRifle :: Icon
+giWinchesterRifle = element _giWinchesterRifle
 
 foreign import _giWindchimes :: ReactIcon
 
-giWindchimes :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWindchimes = element (unsafeCoerce _giWindchimes)
+giWindchimes :: Icon
+giWindchimes = element _giWindchimes
 
 foreign import _giWindHole :: ReactIcon
 
-giWindHole :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWindHole = element (unsafeCoerce _giWindHole)
+giWindHole :: Icon
+giWindHole = element _giWindHole
 
 foreign import _giWindmill :: ReactIcon
 
-giWindmill :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWindmill = element (unsafeCoerce _giWindmill)
+giWindmill :: Icon
+giWindmill = element _giWindmill
 
 foreign import _giWindow :: ReactIcon
 
-giWindow :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWindow = element (unsafeCoerce _giWindow)
+giWindow :: Icon
+giWindow = element _giWindow
 
 foreign import _giWindowBars :: ReactIcon
 
-giWindowBars :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWindowBars = element (unsafeCoerce _giWindowBars)
+giWindowBars :: Icon
+giWindowBars = element _giWindowBars
 
 foreign import _giWindpump :: ReactIcon
 
-giWindpump :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWindpump = element (unsafeCoerce _giWindpump)
+giWindpump :: Icon
+giWindpump = element _giWindpump
 
 foreign import _giWindSlap :: ReactIcon
 
-giWindSlap :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWindSlap = element (unsafeCoerce _giWindSlap)
+giWindSlap :: Icon
+giWindSlap = element _giWindSlap
 
 foreign import _giWindsock :: ReactIcon
 
-giWindsock :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWindsock = element (unsafeCoerce _giWindsock)
+giWindsock :: Icon
+giWindsock = element _giWindsock
 
 foreign import _giWindTurbine :: ReactIcon
 
-giWindTurbine :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWindTurbine = element (unsafeCoerce _giWindTurbine)
+giWindTurbine :: Icon
+giWindTurbine = element _giWindTurbine
 
 foreign import _giWindyStripes :: ReactIcon
 
-giWindyStripes :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWindyStripes = element (unsafeCoerce _giWindyStripes)
+giWindyStripes :: Icon
+giWindyStripes = element _giWindyStripes
 
 foreign import _giWineBottle :: ReactIcon
 
-giWineBottle :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWineBottle = element (unsafeCoerce _giWineBottle)
+giWineBottle :: Icon
+giWineBottle = element _giWineBottle
 
 foreign import _giWineGlass :: ReactIcon
 
-giWineGlass :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWineGlass = element (unsafeCoerce _giWineGlass)
+giWineGlass :: Icon
+giWineGlass = element _giWineGlass
 
 foreign import _giWingCloak :: ReactIcon
 
-giWingCloak :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWingCloak = element (unsafeCoerce _giWingCloak)
+giWingCloak :: Icon
+giWingCloak = element _giWingCloak
 
 foreign import _giWingedArrow :: ReactIcon
 
-giWingedArrow :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWingedArrow = element (unsafeCoerce _giWingedArrow)
+giWingedArrow :: Icon
+giWingedArrow = element _giWingedArrow
 
 foreign import _giWingedEmblem :: ReactIcon
 
-giWingedEmblem :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWingedEmblem = element (unsafeCoerce _giWingedEmblem)
+giWingedEmblem :: Icon
+giWingedEmblem = element _giWingedEmblem
 
 foreign import _giWingedLeg :: ReactIcon
 
-giWingedLeg :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWingedLeg = element (unsafeCoerce _giWingedLeg)
+giWingedLeg :: Icon
+giWingedLeg = element _giWingedLeg
 
 foreign import _giWingedScepter :: ReactIcon
 
-giWingedScepter :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWingedScepter = element (unsafeCoerce _giWingedScepter)
+giWingedScepter :: Icon
+giWingedScepter = element _giWingedScepter
 
 foreign import _giWingedShield :: ReactIcon
 
-giWingedShield :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWingedShield = element (unsafeCoerce _giWingedShield)
+giWingedShield :: Icon
+giWingedShield = element _giWingedShield
 
 foreign import _giWingedSword :: ReactIcon
 
-giWingedSword :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWingedSword = element (unsafeCoerce _giWingedSword)
+giWingedSword :: Icon
+giWingedSword = element _giWingedSword
 
 foreign import _giWingfoot :: ReactIcon
 
-giWingfoot :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWingfoot = element (unsafeCoerce _giWingfoot)
+giWingfoot :: Icon
+giWingfoot = element _giWingfoot
 
 foreign import _giWinterGloves :: ReactIcon
 
-giWinterGloves :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWinterGloves = element (unsafeCoerce _giWinterGloves)
+giWinterGloves :: Icon
+giWinterGloves = element _giWinterGloves
 
 foreign import _giWinterHat :: ReactIcon
 
-giWinterHat :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWinterHat = element (unsafeCoerce _giWinterHat)
+giWinterHat :: Icon
+giWinterHat = element _giWinterHat
 
 foreign import _giWireCoil :: ReactIcon
 
-giWireCoil :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWireCoil = element (unsafeCoerce _giWireCoil)
+giWireCoil :: Icon
+giWireCoil = element _giWireCoil
 
 foreign import _giWireframeGlobe :: ReactIcon
 
-giWireframeGlobe :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWireframeGlobe = element (unsafeCoerce _giWireframeGlobe)
+giWireframeGlobe :: Icon
+giWireframeGlobe = element _giWireframeGlobe
 
 foreign import _giWisdom :: ReactIcon
 
-giWisdom :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWisdom = element (unsafeCoerce _giWisdom)
+giWisdom :: Icon
+giWisdom = element _giWisdom
 
 foreign import _giWitchFace :: ReactIcon
 
-giWitchFace :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWitchFace = element (unsafeCoerce _giWitchFace)
+giWitchFace :: Icon
+giWitchFace = element _giWitchFace
 
 foreign import _giWitchFlight :: ReactIcon
 
-giWitchFlight :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWitchFlight = element (unsafeCoerce _giWitchFlight)
+giWitchFlight :: Icon
+giWitchFlight = element _giWitchFlight
 
 foreign import _giWizardFace :: ReactIcon
 
-giWizardFace :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWizardFace = element (unsafeCoerce _giWizardFace)
+giWizardFace :: Icon
+giWizardFace = element _giWizardFace
 
 foreign import _giWizardStaff :: ReactIcon
 
-giWizardStaff :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWizardStaff = element (unsafeCoerce _giWizardStaff)
+giWizardStaff :: Icon
+giWizardStaff = element _giWizardStaff
 
 foreign import _giWok :: ReactIcon
 
-giWok :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWok = element (unsafeCoerce _giWok)
+giWok :: Icon
+giWok = element _giWok
 
 foreign import _giWolfHead :: ReactIcon
 
-giWolfHead :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWolfHead = element (unsafeCoerce _giWolfHead)
+giWolfHead :: Icon
+giWolfHead = element _giWolfHead
 
 foreign import _giWolfHowl :: ReactIcon
 
-giWolfHowl :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWolfHowl = element (unsafeCoerce _giWolfHowl)
+giWolfHowl :: Icon
+giWolfHowl = element _giWolfHowl
 
 foreign import _giWolfTrap :: ReactIcon
 
-giWolfTrap :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWolfTrap = element (unsafeCoerce _giWolfTrap)
+giWolfTrap :: Icon
+giWolfTrap = element _giWolfTrap
 
 foreign import _giWolverineClaws :: ReactIcon
 
-giWolverineClaws :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWolverineClaws = element (unsafeCoerce _giWolverineClaws)
+giWolverineClaws :: Icon
+giWolverineClaws = element _giWolverineClaws
 
 foreign import _giWomanElfFace :: ReactIcon
 
-giWomanElfFace :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWomanElfFace = element (unsafeCoerce _giWomanElfFace)
+giWomanElfFace :: Icon
+giWomanElfFace = element _giWomanElfFace
 
 foreign import _giWoodAxe :: ReactIcon
 
-giWoodAxe :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWoodAxe = element (unsafeCoerce _giWoodAxe)
+giWoodAxe :: Icon
+giWoodAxe = element _giWoodAxe
 
 foreign import _giWoodBeam :: ReactIcon
 
-giWoodBeam :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWoodBeam = element (unsafeCoerce _giWoodBeam)
+giWoodBeam :: Icon
+giWoodBeam = element _giWoodBeam
 
 foreign import _giWoodCabin :: ReactIcon
 
-giWoodCabin :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWoodCabin = element (unsafeCoerce _giWoodCabin)
+giWoodCabin :: Icon
+giWoodCabin = element _giWoodCabin
 
 foreign import _giWoodCanoe :: ReactIcon
 
-giWoodCanoe :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWoodCanoe = element (unsafeCoerce _giWoodCanoe)
+giWoodCanoe :: Icon
+giWoodCanoe = element _giWoodCanoe
 
 foreign import _giWoodClub :: ReactIcon
 
-giWoodClub :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWoodClub = element (unsafeCoerce _giWoodClub)
+giWoodClub :: Icon
+giWoodClub = element _giWoodClub
 
 foreign import _giWoodenChair :: ReactIcon
 
-giWoodenChair :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWoodenChair = element (unsafeCoerce _giWoodenChair)
+giWoodenChair :: Icon
+giWoodenChair = element _giWoodenChair
 
 foreign import _giWoodenClogs :: ReactIcon
 
-giWoodenClogs :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWoodenClogs = element (unsafeCoerce _giWoodenClogs)
+giWoodenClogs :: Icon
+giWoodenClogs = element _giWoodenClogs
 
 foreign import _giWoodenCrate :: ReactIcon
 
-giWoodenCrate :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWoodenCrate = element (unsafeCoerce _giWoodenCrate)
+giWoodenCrate :: Icon
+giWoodenCrate = element _giWoodenCrate
 
 foreign import _giWoodenDoor :: ReactIcon
 
-giWoodenDoor :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWoodenDoor = element (unsafeCoerce _giWoodenDoor)
+giWoodenDoor :: Icon
+giWoodenDoor = element _giWoodenDoor
 
 foreign import _giWoodenFence :: ReactIcon
 
-giWoodenFence :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWoodenFence = element (unsafeCoerce _giWoodenFence)
+giWoodenFence :: Icon
+giWoodenFence = element _giWoodenFence
 
 foreign import _giWoodenHelmet :: ReactIcon
 
-giWoodenHelmet :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWoodenHelmet = element (unsafeCoerce _giWoodenHelmet)
+giWoodenHelmet :: Icon
+giWoodenHelmet = element _giWoodenHelmet
 
 foreign import _giWoodenPegleg :: ReactIcon
 
-giWoodenPegleg :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWoodenPegleg = element (unsafeCoerce _giWoodenPegleg)
+giWoodenPegleg :: Icon
+giWoodenPegleg = element _giWoodenPegleg
 
 foreign import _giWoodenPier :: ReactIcon
 
-giWoodenPier :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWoodenPier = element (unsafeCoerce _giWoodenPier)
+giWoodenPier :: Icon
+giWoodenPier = element _giWoodenPier
 
 foreign import _giWoodenSign :: ReactIcon
 
-giWoodenSign :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWoodenSign = element (unsafeCoerce _giWoodenSign)
+giWoodenSign :: Icon
+giWoodenSign = element _giWoodenSign
 
 foreign import _giWoodFrame :: ReactIcon
 
-giWoodFrame :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWoodFrame = element (unsafeCoerce _giWoodFrame)
+giWoodFrame :: Icon
+giWoodFrame = element _giWoodFrame
 
 foreign import _giWoodPile :: ReactIcon
 
-giWoodPile :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWoodPile = element (unsafeCoerce _giWoodPile)
+giWoodPile :: Icon
+giWoodPile = element _giWoodPile
 
 foreign import _giWoodStick :: ReactIcon
 
-giWoodStick :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWoodStick = element (unsafeCoerce _giWoodStick)
+giWoodStick :: Icon
+giWoodStick = element _giWoodStick
 
 foreign import _giWool :: ReactIcon
 
-giWool :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWool = element (unsafeCoerce _giWool)
+giWool :: Icon
+giWool = element _giWool
 
 foreign import _giWorld :: ReactIcon
 
-giWorld :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWorld = element (unsafeCoerce _giWorld)
+giWorld :: Icon
+giWorld = element _giWorld
 
 foreign import _giWormMouth :: ReactIcon
 
-giWormMouth :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWormMouth = element (unsafeCoerce _giWormMouth)
+giWormMouth :: Icon
+giWormMouth = element _giWormMouth
 
 foreign import _giWorms :: ReactIcon
 
-giWorms :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWorms = element (unsafeCoerce _giWorms)
+giWorms :: Icon
+giWorms = element _giWorms
 
 foreign import _giWorriedEyes :: ReactIcon
 
-giWorriedEyes :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWorriedEyes = element (unsafeCoerce _giWorriedEyes)
+giWorriedEyes :: Icon
+giWorriedEyes = element _giWorriedEyes
 
 foreign import _giWrappedHeart :: ReactIcon
 
-giWrappedHeart :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWrappedHeart = element (unsafeCoerce _giWrappedHeart)
+giWrappedHeart :: Icon
+giWrappedHeart = element _giWrappedHeart
 
 foreign import _giWrappedSweet :: ReactIcon
 
-giWrappedSweet :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWrappedSweet = element (unsafeCoerce _giWrappedSweet)
+giWrappedSweet :: Icon
+giWrappedSweet = element _giWrappedSweet
 
 foreign import _giWrappingStar :: ReactIcon
 
-giWrappingStar :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWrappingStar = element (unsafeCoerce _giWrappingStar)
+giWrappingStar :: Icon
+giWrappingStar = element _giWrappingStar
 
 foreign import _giWreckingBall :: ReactIcon
 
-giWreckingBall :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWreckingBall = element (unsafeCoerce _giWreckingBall)
+giWreckingBall :: Icon
+giWreckingBall = element _giWreckingBall
 
 foreign import _giWrench :: ReactIcon
 
-giWrench :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWrench = element (unsafeCoerce _giWrench)
+giWrench :: Icon
+giWrench = element _giWrench
 
 foreign import _giWyvern :: ReactIcon
 
-giWyvern :: forall a b. Union a b PropsIcon => Record a -> JSX
-giWyvern = element (unsafeCoerce _giWyvern)
+giWyvern :: Icon
+giWyvern = element _giWyvern
 
 foreign import _giXylophone :: ReactIcon
 
-giXylophone :: forall a b. Union a b PropsIcon => Record a -> JSX
-giXylophone = element (unsafeCoerce _giXylophone)
+giXylophone :: Icon
+giXylophone = element _giXylophone
 
 foreign import _giYarn :: ReactIcon
 
-giYarn :: forall a b. Union a b PropsIcon => Record a -> JSX
-giYarn = element (unsafeCoerce _giYarn)
+giYarn :: Icon
+giYarn = element _giYarn
 
 foreign import _giYinYang :: ReactIcon
 
-giYinYang :: forall a b. Union a b PropsIcon => Record a -> JSX
-giYinYang = element (unsafeCoerce _giYinYang)
+giYinYang :: Icon
+giYinYang = element _giYinYang
 
 foreign import _giYunluo :: ReactIcon
 
-giYunluo :: forall a b. Union a b PropsIcon => Record a -> JSX
-giYunluo = element (unsafeCoerce _giYunluo)
+giYunluo :: Icon
+giYunluo = element _giYunluo
 
 foreign import _giZatGun :: ReactIcon
 
-giZatGun :: forall a b. Union a b PropsIcon => Record a -> JSX
-giZatGun = element (unsafeCoerce _giZatGun)
+giZatGun :: Icon
+giZatGun = element _giZatGun
 
 foreign import _giZBrick :: ReactIcon
 
-giZBrick :: forall a b. Union a b PropsIcon => Record a -> JSX
-giZBrick = element (unsafeCoerce _giZBrick)
+giZBrick :: Icon
+giZBrick = element _giZBrick
 
 foreign import _giZebraShield :: ReactIcon
 
-giZebraShield :: forall a b. Union a b PropsIcon => Record a -> JSX
-giZebraShield = element (unsafeCoerce _giZebraShield)
+giZebraShield :: Icon
+giZebraShield = element _giZebraShield
 
 foreign import _giZeppelin :: ReactIcon
 
-giZeppelin :: forall a b. Union a b PropsIcon => Record a -> JSX
-giZeppelin = element (unsafeCoerce _giZeppelin)
+giZeppelin :: Icon
+giZeppelin = element _giZeppelin
 
 foreign import _giZeusSword :: ReactIcon
 
-giZeusSword :: forall a b. Union a b PropsIcon => Record a -> JSX
-giZeusSword = element (unsafeCoerce _giZeusSword)
+giZeusSword :: Icon
+giZeusSword = element _giZeusSword
 
 foreign import _giZigArrow :: ReactIcon
 
-giZigArrow :: forall a b. Union a b PropsIcon => Record a -> JSX
-giZigArrow = element (unsafeCoerce _giZigArrow)
+giZigArrow :: Icon
+giZigArrow = element _giZigArrow
 
 foreign import _giZigzagCage :: ReactIcon
 
-giZigzagCage :: forall a b. Union a b PropsIcon => Record a -> JSX
-giZigzagCage = element (unsafeCoerce _giZigzagCage)
+giZigzagCage :: Icon
+giZigzagCage = element _giZigzagCage
 
 foreign import _giZigzagHieroglyph :: ReactIcon
 
-giZigzagHieroglyph :: forall a b. Union a b PropsIcon => Record a -> JSX
-giZigzagHieroglyph = element (unsafeCoerce _giZigzagHieroglyph)
+giZigzagHieroglyph :: Icon
+giZigzagHieroglyph = element _giZigzagHieroglyph
 
 foreign import _giZigzagLeaf :: ReactIcon
 
-giZigzagLeaf :: forall a b. Union a b PropsIcon => Record a -> JSX
-giZigzagLeaf = element (unsafeCoerce _giZigzagLeaf)
+giZigzagLeaf :: Icon
+giZigzagLeaf = element _giZigzagLeaf
 
 foreign import _giZigzagTune :: ReactIcon
 
-giZigzagTune :: forall a b. Union a b PropsIcon => Record a -> JSX
-giZigzagTune = element (unsafeCoerce _giZigzagTune)
+giZigzagTune :: Icon
+giZigzagTune = element _giZigzagTune
 
 foreign import _giZipper :: ReactIcon
 
-giZipper :: forall a b. Union a b PropsIcon => Record a -> JSX
-giZipper = element (unsafeCoerce _giZipper)
+giZipper :: Icon
+giZipper = element _giZipper

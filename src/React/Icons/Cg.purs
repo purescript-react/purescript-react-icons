@@ -1,3496 +1,3494 @@
 module React.Icons.Cg (cgAbstract, cgAdd, cgAddR, cgAdidas, cgAirplane, cgAlarm, cgAlbum, cgAlignBottom, cgAlignCenter, cgAlignLeft, cgAlignMiddle, cgAlignRight, cgAlignTop, cgAnchor, cgAppleWatch, cgArrangeBack, cgArrangeFront, cgArrowAlignH, cgArrowAlignV, cgArrowBottomLeft, cgArrowBottomLeftO, cgArrowBottomLeftR, cgArrowBottomRight, cgArrowBottomRightO, cgArrowBottomRightR, cgArrowDown, cgArrowDownO, cgArrowDownR, cgArrowLeft, cgArrowLeftO, cgArrowLeftR, cgArrowLongDown, cgArrowLongDownC, cgArrowLongDownE, cgArrowLongDownL, cgArrowLongDownR, cgArrowLongLeft, cgArrowLongLeftC, cgArrowLongLeftE, cgArrowLongLeftL, cgArrowLongLeftR, cgArrowLongRight, cgArrowLongRightC, cgArrowLongRightE, cgArrowLongRightL, cgArrowLongRightR, cgArrowLongUp, cgArrowLongUpC, cgArrowLongUpE, cgArrowLongUpL, cgArrowLongUpR, cgArrowRight, cgArrowRightO, cgArrowRightR, cgArrowsBreakeH, cgArrowsBreakeV, cgArrowsExchange, cgArrowsExchangeAlt, cgArrowsExchangeAltV, cgArrowsExchangeV, cgArrowsExpandDownLeft, cgArrowsExpandDownRight, cgArrowsExpandLeft, cgArrowsExpandLeftAlt, cgArrowsExpandRight, cgArrowsExpandRightAlt, cgArrowsExpandUpLeft, cgArrowsExpandUpRight, cgArrowsH, cgArrowsHAlt, cgArrowsMergeAltH, cgArrowsMergeAltV, cgArrowsScrollH, cgArrowsScrollV, cgArrowsShrinkH, cgArrowsShrinkV, cgArrowsV, cgArrowsVAlt, cgArrowTopLeft, cgArrowTopLeftO, cgArrowTopLeftR, cgArrowTopRight, cgArrowTopRightO, cgArrowTopRightR, cgArrowUp, cgArrowUpO, cgArrowUpR, cgAssign, cgAsterisk, cgAtlasian, cgAttachment, cgAttribution, cgAwards, cgBackspace, cgBandAid, cgBattery, cgBatteryEmpty, cgBatteryFull, cgBee, cgBell, cgBitbucket, cgBlock, cgBmw, cgBoard, cgBolt, cgBookmark, cgBorderAll, cgBorderBottom, cgBorderLeft, cgBorderRight, cgBorderStyleDashed, cgBorderStyleDotted, cgBorderStyleSolid, cgBorderTop, cgBot, cgBowl, cgBox, cgBoy, cgBrackets, cgBriefcase, cgBrowse, cgBrowser, cgBrush, cgBulb, cgCalculator, cgCalendar, cgCalendarDates, cgCalendarDue, cgCalendarNext, cgCalendarToday, cgCalendarTwo, cgCalibrate, cgCamera, cgCap, cgCaptions, cgCardClubs, cgCardDiamonds, cgCardHearts, cgCardSpades, cgCarousel, cgCast, cgChanel, cgChart, cgCheck, cgCheckO, cgCheckR, cgChevronDoubleDown, cgChevronDoubleDownO, cgChevronDoubleDownR, cgChevronDoubleLeft, cgChevronDoubleLeftO, cgChevronDoubleLeftR, cgChevronDoubleRight, cgChevronDoubleRightO, cgChevronDoubleRightR, cgChevronDoubleUp, cgChevronDoubleUpO, cgChevronDoubleUpR, cgChevronDown, cgChevronDownO, cgChevronDownR, cgChevronLeft, cgChevronLeftO, cgChevronLeftR, cgChevronRight, cgChevronRightO, cgChevronRightR, cgChevronUp, cgChevronUpO, cgChevronUpR, cgCircleci, cgClapperBoard, cgClipboard, cgClose, cgCloseO, cgCloseR, cgCloud, cgCode, cgCodeClimate, cgCodeSlash, cgCoffee, cgCollage, cgColorBucket, cgColorPicker, cgComedyCentral, cgComment, cgCommunity, cgComponents, cgCompress, cgCompressLeft, cgCompressRight, cgCompressV, cgController, cgCopy, cgCopyright, cgCornerDoubleDownLeft, cgCornerDoubleDownRight, cgCornerDoubleLeftDown, cgCornerDoubleLeftUp, cgCornerDoubleRightDown, cgCornerDoubleRightUp, cgCornerDoubleUpLeft, cgCornerDoubleUpRight, cgCornerDownLeft, cgCornerDownRight, cgCornerLeftDown, cgCornerLeftUp, cgCornerRightDown, cgCornerRightUp, cgCornerUpLeft, cgCornerUpRight, cgCPlusPlus, cgCreditCard, cgCrop, cgCross, cgCrowdfire, cgCrown, cgDanger, cgDarkMode, cgData, cgDatabase, cgDebug, cgDesignmodo, cgDesktop, cgDetailsLess, cgDetailsMore, cgDialpad, cgDigitalocean, cgDisc, cgDisplayFlex, cgDisplayFullwidth, cgDisplayGrid, cgDisplaySpacing, cgDistributeHorizontal, cgDistributeVertical, cgDockBottom, cgDockLeft, cgDockRight, cgDockWindow, cgDolby, cgDollar, cgDribbble, cgDrive, cgDrop, cgDropInvert, cgDropOpacity, cgDuplicate, cgEditBlackPoint, cgEditContrast, cgEditExposure, cgEditFade, cgEditFlipH, cgEditFlipV, cgEditHighlight, cgEditMarkup, cgEditMask, cgEditNoise, cgEditShadows, cgEditStraight, cgEditUnmask, cgEject, cgEnter, cgErase, cgEreader, cgEricsson, cgEthernet, cgEuro, cgEventbrite, cgExpand, cgExport, cgExtension, cgExtensionAdd, cgExtensionAlt, cgExtensionRemove, cgExternal, cgEye, cgEyeAlt, cgFacebook, cgFeed, cgFigma, cgFile, cgFileAdd, cgFileDocument, cgFileRemove, cgFilm, cgFilters, cgFlag, cgFlagAlt, cgFolder, cgFolderAdd, cgFolderRemove, cgFontHeight, cgFontSpacing, cgFormatBold, cgFormatCenter, cgFormatColor, cgFormatHeading, cgFormatIndentDecrease, cgFormatIndentIncrease, cgFormatItalic, cgFormatJustify, cgFormatLeft, cgFormatLineHeight, cgFormatRight, cgFormatSeparator, cgFormatSlash, cgFormatStrike, cgFormatText, cgFormatUnderline, cgFormatUppercase, cgFramer, cgGames, cgGenderFemale, cgGenderMale, cgGhost, cgGhostCharacter, cgGift, cgGirl, cgGitBranch, cgGitCommit, cgGitFork, cgGitPull, cgGitter, cgGlass, cgGlassAlt, cgGlobe, cgGlobeAlt, cgGoogle, cgGoogleTasks, cgGym, cgHashtag, cgHeadset, cgHeart, cgHello, cgHome, cgHomeAlt, cgHomeScreen, cgIcecream, cgIfDesign, cgImage, cgImport, cgInbox, cgIndieHackers, cgInfinity, cgInfo, cgInpicture, cgInsertAfter, cgInsertAfterO, cgInsertAfterR, cgInsertBefore, cgInsertBeforeO, cgInsertBeforeR, cgInsights, cgInstagram, cgInternal, cgKey, cgKeyboard, cgKeyhole, cgLaptop, cgLastpass, cgLayoutGrid, cgLayoutGridSmall, cgLayoutList, cgLayoutPin, cgLinear, cgLink, cgList, cgListTree, cgLivePhoto, cgLoadbar, cgLoadbarAlt, cgLoadbarDoc, cgLoadbarSound, cgLock, cgLockUnlock, cgLogIn, cgLogOff, cgLogOut, cgLoupe, cgMagnet, cgMail, cgMailForward, cgMailOpen, cgMailReply, cgMathDivide, cgMathEqual, cgMathMinus, cgMathPercent, cgMathPlus, cgMaximize, cgMaximizeAlt, cgMaze, cgMediaLive, cgMediaPodcast, cgMenu, cgMenuBoxed, cgMenuCake, cgMenuCheese, cgMenuGridO, cgMenuGridR, cgMenuHotdog, cgMenuLeft, cgMenuLeftAlt, cgMenuMotion, cgMenuOreos, cgMenuRight, cgMenuRightAlt, cgMenuRound, cgMergeHorizontal, cgMergeVertical, cgMic, cgMicrobit, cgMicrosoft, cgMinimize, cgMinimizeAlt, cgMiniPlayer, cgModem, cgMonday, cgMoon, cgMore, cgMoreAlt, cgMoreO, cgMoreR, cgMoreVertical, cgMoreVerticalAlt, cgMoreVerticalO, cgMoreVerticalR, cgMouse, cgMoveDown, cgMoveLeft, cgMoveRight, cgMoveTask, cgMoveUp, cgMusic, cgMusicNote, cgMusicSpeaker, cgNametag, cgNotes, cgNotifications, cgNpm, cgOculus, cgOpenCollective, cgOptions, cgOrganisation, cgOverflow, cgPacman, cgPassword, cgPathBack, cgPathCrop, cgPathDivide, cgPathExclude, cgPathFront, cgPathIntersect, cgPathOutline, cgPathTrim, cgPathUnite, cgPatreon, cgPaypal, cgPen, cgPentagonBottomLeft, cgPentagonBottomRight, cgPentagonDown, cgPentagonLeft, cgPentagonRight, cgPentagonTopLeft, cgPentagonTopRight, cgPentagonUp, cgPerformance, cgPexels, cgPhone, cgPhotoscan, cgPiano, cgPill, cgPin, cgPinAlt, cgPinBottom, cgPinTop, cgPlayBackwards, cgPlayButton, cgPlayButtonO, cgPlayButtonR, cgPlayForwards, cgPlayList, cgPlayListAdd, cgPlayListCheck, cgPlayListRemove, cgPlayListSearch, cgPlayPause, cgPlayPauseO, cgPlayPauseR, cgPlayStop, cgPlayStopO, cgPlayStopR, cgPlayTrackNext, cgPlayTrackNextO, cgPlayTrackNextR, cgPlayTrackPrev, cgPlayTrackPrevO, cgPlayTrackPrevR, cgPlug, cgPocket, cgPokemon, cgPolaroid, cgPoll, cgPresentation, cgPrinter, cgProductHunt, cgProfile, cgPullClear, cgPushChevronDown, cgPushChevronDownO, cgPushChevronDownR, cgPushChevronLeft, cgPushChevronLeftO, cgPushChevronLeftR, cgPushChevronRight, cgPushChevronRightO, cgPushChevronRightR, cgPushChevronUp, cgPushChevronUpO, cgPushChevronUpR, cgPushDown, cgPushLeft, cgPushRight, cgPushUp, cgQr, cgQuote, cgQuoteO, cgRadioCheck, cgRadioChecked, cgRatio, cgRead, cgReadme, cgRecord, cgRedo, cgRemote, cgRemove, cgRemoveR, cgRename, cgReorder, cgRepeat, cgRing, cgRowFirst, cgRowLast, cgRuler, cgSandClock, cgScan, cgScreen, cgScreenMirror, cgScreenShot, cgScreenWide, cgScrollH, cgScrollV, cgSearch, cgSearchFound, cgSearchLoading, cgSelect, cgSelectO, cgSelectR, cgServer, cgServerless, cgShapeCircle, cgShapeHalfCircle, cgShapeHexagon, cgShapeRhombus, cgShapeSquare, cgShapeTriangle, cgShapeZigzag, cgShare, cgShield, cgShoppingBag, cgShoppingCart, cgShortcut, cgShutterstock, cgSidebar, cgSidebarOpen, cgSidebarRight, cgSignal, cgSize, cgSketch, cgSlack, cgSleep, cgSmartHomeBoiler, cgSmartHomeCooker, cgSmartHomeHeat, cgSmartHomeLight, cgSmartHomeRefrigerator, cgSmartHomeWashMachine, cgSmartphone, cgSmartphoneChip, cgSmartphoneRam, cgSmartphoneShake, cgSmile, cgSmileMouthOpen, cgSmileNeutral, cgSmileNoMouth, cgSmileNone, cgSmileSad, cgSmileUpside, cgSoftwareDownload, cgSoftwareUpload, cgSortAz, cgSortZa, cgSpaceBetween, cgSpaceBetweenV, cgSpectrum, cgSpinner, cgSpinnerAlt, cgSpinnerTwo, cgSpinnerTwoAlt, cgSquare, cgStack, cgStark, cgStopwatch, cgStories, cgStudio, cgStyle, cgSun, cgSupport, cgSwap, cgSwapVertical, cgSweden, cgSwiss, cgSync, cgTab, cgTag, cgTally, cgTapDouble, cgTapSingle, cgTemplate, cgTennis, cgTerminal, cgTerrain, cgThermometer, cgThermostat, cgTikcode, cgTime, cgTimelapse, cgTimer, cgToday, cgToggleOff, cgToggleOn, cgToggleSquare, cgToggleSquareOff, cgToolbarBottom, cgToolbarLeft, cgToolbarRight, cgToolbarTop, cgToolbox, cgTouchpad, cgTrack, cgTranscript, cgTrash, cgTrashEmpty, cgTree, cgTrees, cgTrello, cgTrending, cgTrendingDown, cgTrophy, cgTv, cgTwilio, cgTwitter, cgUiKit, cgUmbrella, cgUnavailable, cgUnblock, cgUndo, cgUnfold, cgUnsplash, cgUsb, cgUsbC, cgUser, cgUserAdd, cgUserlane, cgUserList, cgUserRemove, cgViewCols, cgViewComfortable, cgViewDay, cgViewGrid, cgViewList, cgViewMonth, cgViewSplit, cgVinyl, cgVoicemail, cgVoicemailO, cgVoicemailR, cgVolume, cgWebcam, cgWebsite, cgWindows, cgWorkAlt, cgYinyang, cgYoutube, cgZeit, cgZoomIn, cgZoomOut) where
 
-import Prim.Row (class Union)
-import React.Basic (JSX, element)
-import React.Icons.Types (ReactIcon, PropsIcon)
-import Unsafe.Coerce (unsafeCoerce)
+import React.Basic (element)
+import React.Icons.Types (ReactIcon, Icon)
 
 foreign import _cgAbstract :: ReactIcon
 
-cgAbstract :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgAbstract = element (unsafeCoerce _cgAbstract)
+cgAbstract :: Icon
+cgAbstract = element _cgAbstract
 
 foreign import _cgAdd :: ReactIcon
 
-cgAdd :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgAdd = element (unsafeCoerce _cgAdd)
+cgAdd :: Icon
+cgAdd = element _cgAdd
 
 foreign import _cgAddR :: ReactIcon
 
-cgAddR :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgAddR = element (unsafeCoerce _cgAddR)
+cgAddR :: Icon
+cgAddR = element _cgAddR
 
 foreign import _cgAdidas :: ReactIcon
 
-cgAdidas :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgAdidas = element (unsafeCoerce _cgAdidas)
+cgAdidas :: Icon
+cgAdidas = element _cgAdidas
 
 foreign import _cgAirplane :: ReactIcon
 
-cgAirplane :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgAirplane = element (unsafeCoerce _cgAirplane)
+cgAirplane :: Icon
+cgAirplane = element _cgAirplane
 
 foreign import _cgAlarm :: ReactIcon
 
-cgAlarm :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgAlarm = element (unsafeCoerce _cgAlarm)
+cgAlarm :: Icon
+cgAlarm = element _cgAlarm
 
 foreign import _cgAlbum :: ReactIcon
 
-cgAlbum :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgAlbum = element (unsafeCoerce _cgAlbum)
+cgAlbum :: Icon
+cgAlbum = element _cgAlbum
 
 foreign import _cgAlignBottom :: ReactIcon
 
-cgAlignBottom :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgAlignBottom = element (unsafeCoerce _cgAlignBottom)
+cgAlignBottom :: Icon
+cgAlignBottom = element _cgAlignBottom
 
 foreign import _cgAlignCenter :: ReactIcon
 
-cgAlignCenter :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgAlignCenter = element (unsafeCoerce _cgAlignCenter)
+cgAlignCenter :: Icon
+cgAlignCenter = element _cgAlignCenter
 
 foreign import _cgAlignLeft :: ReactIcon
 
-cgAlignLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgAlignLeft = element (unsafeCoerce _cgAlignLeft)
+cgAlignLeft :: Icon
+cgAlignLeft = element _cgAlignLeft
 
 foreign import _cgAlignMiddle :: ReactIcon
 
-cgAlignMiddle :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgAlignMiddle = element (unsafeCoerce _cgAlignMiddle)
+cgAlignMiddle :: Icon
+cgAlignMiddle = element _cgAlignMiddle
 
 foreign import _cgAlignRight :: ReactIcon
 
-cgAlignRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgAlignRight = element (unsafeCoerce _cgAlignRight)
+cgAlignRight :: Icon
+cgAlignRight = element _cgAlignRight
 
 foreign import _cgAlignTop :: ReactIcon
 
-cgAlignTop :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgAlignTop = element (unsafeCoerce _cgAlignTop)
+cgAlignTop :: Icon
+cgAlignTop = element _cgAlignTop
 
 foreign import _cgAnchor :: ReactIcon
 
-cgAnchor :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgAnchor = element (unsafeCoerce _cgAnchor)
+cgAnchor :: Icon
+cgAnchor = element _cgAnchor
 
 foreign import _cgAppleWatch :: ReactIcon
 
-cgAppleWatch :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgAppleWatch = element (unsafeCoerce _cgAppleWatch)
+cgAppleWatch :: Icon
+cgAppleWatch = element _cgAppleWatch
 
 foreign import _cgArrangeBack :: ReactIcon
 
-cgArrangeBack :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgArrangeBack = element (unsafeCoerce _cgArrangeBack)
+cgArrangeBack :: Icon
+cgArrangeBack = element _cgArrangeBack
 
 foreign import _cgArrangeFront :: ReactIcon
 
-cgArrangeFront :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgArrangeFront = element (unsafeCoerce _cgArrangeFront)
+cgArrangeFront :: Icon
+cgArrangeFront = element _cgArrangeFront
 
 foreign import _cgArrowAlignH :: ReactIcon
 
-cgArrowAlignH :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgArrowAlignH = element (unsafeCoerce _cgArrowAlignH)
+cgArrowAlignH :: Icon
+cgArrowAlignH = element _cgArrowAlignH
 
 foreign import _cgArrowAlignV :: ReactIcon
 
-cgArrowAlignV :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgArrowAlignV = element (unsafeCoerce _cgArrowAlignV)
+cgArrowAlignV :: Icon
+cgArrowAlignV = element _cgArrowAlignV
 
 foreign import _cgArrowBottomLeft :: ReactIcon
 
-cgArrowBottomLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgArrowBottomLeft = element (unsafeCoerce _cgArrowBottomLeft)
+cgArrowBottomLeft :: Icon
+cgArrowBottomLeft = element _cgArrowBottomLeft
 
 foreign import _cgArrowBottomLeftO :: ReactIcon
 
-cgArrowBottomLeftO :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgArrowBottomLeftO = element (unsafeCoerce _cgArrowBottomLeftO)
+cgArrowBottomLeftO :: Icon
+cgArrowBottomLeftO = element _cgArrowBottomLeftO
 
 foreign import _cgArrowBottomLeftR :: ReactIcon
 
-cgArrowBottomLeftR :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgArrowBottomLeftR = element (unsafeCoerce _cgArrowBottomLeftR)
+cgArrowBottomLeftR :: Icon
+cgArrowBottomLeftR = element _cgArrowBottomLeftR
 
 foreign import _cgArrowBottomRight :: ReactIcon
 
-cgArrowBottomRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgArrowBottomRight = element (unsafeCoerce _cgArrowBottomRight)
+cgArrowBottomRight :: Icon
+cgArrowBottomRight = element _cgArrowBottomRight
 
 foreign import _cgArrowBottomRightO :: ReactIcon
 
-cgArrowBottomRightO :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgArrowBottomRightO = element (unsafeCoerce _cgArrowBottomRightO)
+cgArrowBottomRightO :: Icon
+cgArrowBottomRightO = element _cgArrowBottomRightO
 
 foreign import _cgArrowBottomRightR :: ReactIcon
 
-cgArrowBottomRightR :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgArrowBottomRightR = element (unsafeCoerce _cgArrowBottomRightR)
+cgArrowBottomRightR :: Icon
+cgArrowBottomRightR = element _cgArrowBottomRightR
 
 foreign import _cgArrowDown :: ReactIcon
 
-cgArrowDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgArrowDown = element (unsafeCoerce _cgArrowDown)
+cgArrowDown :: Icon
+cgArrowDown = element _cgArrowDown
 
 foreign import _cgArrowDownO :: ReactIcon
 
-cgArrowDownO :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgArrowDownO = element (unsafeCoerce _cgArrowDownO)
+cgArrowDownO :: Icon
+cgArrowDownO = element _cgArrowDownO
 
 foreign import _cgArrowDownR :: ReactIcon
 
-cgArrowDownR :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgArrowDownR = element (unsafeCoerce _cgArrowDownR)
+cgArrowDownR :: Icon
+cgArrowDownR = element _cgArrowDownR
 
 foreign import _cgArrowLeft :: ReactIcon
 
-cgArrowLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgArrowLeft = element (unsafeCoerce _cgArrowLeft)
+cgArrowLeft :: Icon
+cgArrowLeft = element _cgArrowLeft
 
 foreign import _cgArrowLeftO :: ReactIcon
 
-cgArrowLeftO :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgArrowLeftO = element (unsafeCoerce _cgArrowLeftO)
+cgArrowLeftO :: Icon
+cgArrowLeftO = element _cgArrowLeftO
 
 foreign import _cgArrowLeftR :: ReactIcon
 
-cgArrowLeftR :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgArrowLeftR = element (unsafeCoerce _cgArrowLeftR)
+cgArrowLeftR :: Icon
+cgArrowLeftR = element _cgArrowLeftR
 
 foreign import _cgArrowLongDown :: ReactIcon
 
-cgArrowLongDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgArrowLongDown = element (unsafeCoerce _cgArrowLongDown)
+cgArrowLongDown :: Icon
+cgArrowLongDown = element _cgArrowLongDown
 
 foreign import _cgArrowLongDownC :: ReactIcon
 
-cgArrowLongDownC :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgArrowLongDownC = element (unsafeCoerce _cgArrowLongDownC)
+cgArrowLongDownC :: Icon
+cgArrowLongDownC = element _cgArrowLongDownC
 
 foreign import _cgArrowLongDownE :: ReactIcon
 
-cgArrowLongDownE :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgArrowLongDownE = element (unsafeCoerce _cgArrowLongDownE)
+cgArrowLongDownE :: Icon
+cgArrowLongDownE = element _cgArrowLongDownE
 
 foreign import _cgArrowLongDownL :: ReactIcon
 
-cgArrowLongDownL :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgArrowLongDownL = element (unsafeCoerce _cgArrowLongDownL)
+cgArrowLongDownL :: Icon
+cgArrowLongDownL = element _cgArrowLongDownL
 
 foreign import _cgArrowLongDownR :: ReactIcon
 
-cgArrowLongDownR :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgArrowLongDownR = element (unsafeCoerce _cgArrowLongDownR)
+cgArrowLongDownR :: Icon
+cgArrowLongDownR = element _cgArrowLongDownR
 
 foreign import _cgArrowLongLeft :: ReactIcon
 
-cgArrowLongLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgArrowLongLeft = element (unsafeCoerce _cgArrowLongLeft)
+cgArrowLongLeft :: Icon
+cgArrowLongLeft = element _cgArrowLongLeft
 
 foreign import _cgArrowLongLeftC :: ReactIcon
 
-cgArrowLongLeftC :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgArrowLongLeftC = element (unsafeCoerce _cgArrowLongLeftC)
+cgArrowLongLeftC :: Icon
+cgArrowLongLeftC = element _cgArrowLongLeftC
 
 foreign import _cgArrowLongLeftE :: ReactIcon
 
-cgArrowLongLeftE :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgArrowLongLeftE = element (unsafeCoerce _cgArrowLongLeftE)
+cgArrowLongLeftE :: Icon
+cgArrowLongLeftE = element _cgArrowLongLeftE
 
 foreign import _cgArrowLongLeftL :: ReactIcon
 
-cgArrowLongLeftL :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgArrowLongLeftL = element (unsafeCoerce _cgArrowLongLeftL)
+cgArrowLongLeftL :: Icon
+cgArrowLongLeftL = element _cgArrowLongLeftL
 
 foreign import _cgArrowLongLeftR :: ReactIcon
 
-cgArrowLongLeftR :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgArrowLongLeftR = element (unsafeCoerce _cgArrowLongLeftR)
+cgArrowLongLeftR :: Icon
+cgArrowLongLeftR = element _cgArrowLongLeftR
 
 foreign import _cgArrowLongRight :: ReactIcon
 
-cgArrowLongRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgArrowLongRight = element (unsafeCoerce _cgArrowLongRight)
+cgArrowLongRight :: Icon
+cgArrowLongRight = element _cgArrowLongRight
 
 foreign import _cgArrowLongRightC :: ReactIcon
 
-cgArrowLongRightC :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgArrowLongRightC = element (unsafeCoerce _cgArrowLongRightC)
+cgArrowLongRightC :: Icon
+cgArrowLongRightC = element _cgArrowLongRightC
 
 foreign import _cgArrowLongRightE :: ReactIcon
 
-cgArrowLongRightE :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgArrowLongRightE = element (unsafeCoerce _cgArrowLongRightE)
+cgArrowLongRightE :: Icon
+cgArrowLongRightE = element _cgArrowLongRightE
 
 foreign import _cgArrowLongRightL :: ReactIcon
 
-cgArrowLongRightL :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgArrowLongRightL = element (unsafeCoerce _cgArrowLongRightL)
+cgArrowLongRightL :: Icon
+cgArrowLongRightL = element _cgArrowLongRightL
 
 foreign import _cgArrowLongRightR :: ReactIcon
 
-cgArrowLongRightR :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgArrowLongRightR = element (unsafeCoerce _cgArrowLongRightR)
+cgArrowLongRightR :: Icon
+cgArrowLongRightR = element _cgArrowLongRightR
 
 foreign import _cgArrowLongUp :: ReactIcon
 
-cgArrowLongUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgArrowLongUp = element (unsafeCoerce _cgArrowLongUp)
+cgArrowLongUp :: Icon
+cgArrowLongUp = element _cgArrowLongUp
 
 foreign import _cgArrowLongUpC :: ReactIcon
 
-cgArrowLongUpC :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgArrowLongUpC = element (unsafeCoerce _cgArrowLongUpC)
+cgArrowLongUpC :: Icon
+cgArrowLongUpC = element _cgArrowLongUpC
 
 foreign import _cgArrowLongUpE :: ReactIcon
 
-cgArrowLongUpE :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgArrowLongUpE = element (unsafeCoerce _cgArrowLongUpE)
+cgArrowLongUpE :: Icon
+cgArrowLongUpE = element _cgArrowLongUpE
 
 foreign import _cgArrowLongUpL :: ReactIcon
 
-cgArrowLongUpL :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgArrowLongUpL = element (unsafeCoerce _cgArrowLongUpL)
+cgArrowLongUpL :: Icon
+cgArrowLongUpL = element _cgArrowLongUpL
 
 foreign import _cgArrowLongUpR :: ReactIcon
 
-cgArrowLongUpR :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgArrowLongUpR = element (unsafeCoerce _cgArrowLongUpR)
+cgArrowLongUpR :: Icon
+cgArrowLongUpR = element _cgArrowLongUpR
 
 foreign import _cgArrowRight :: ReactIcon
 
-cgArrowRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgArrowRight = element (unsafeCoerce _cgArrowRight)
+cgArrowRight :: Icon
+cgArrowRight = element _cgArrowRight
 
 foreign import _cgArrowRightO :: ReactIcon
 
-cgArrowRightO :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgArrowRightO = element (unsafeCoerce _cgArrowRightO)
+cgArrowRightO :: Icon
+cgArrowRightO = element _cgArrowRightO
 
 foreign import _cgArrowRightR :: ReactIcon
 
-cgArrowRightR :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgArrowRightR = element (unsafeCoerce _cgArrowRightR)
+cgArrowRightR :: Icon
+cgArrowRightR = element _cgArrowRightR
 
 foreign import _cgArrowsBreakeH :: ReactIcon
 
-cgArrowsBreakeH :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgArrowsBreakeH = element (unsafeCoerce _cgArrowsBreakeH)
+cgArrowsBreakeH :: Icon
+cgArrowsBreakeH = element _cgArrowsBreakeH
 
 foreign import _cgArrowsBreakeV :: ReactIcon
 
-cgArrowsBreakeV :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgArrowsBreakeV = element (unsafeCoerce _cgArrowsBreakeV)
+cgArrowsBreakeV :: Icon
+cgArrowsBreakeV = element _cgArrowsBreakeV
 
 foreign import _cgArrowsExchange :: ReactIcon
 
-cgArrowsExchange :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgArrowsExchange = element (unsafeCoerce _cgArrowsExchange)
+cgArrowsExchange :: Icon
+cgArrowsExchange = element _cgArrowsExchange
 
 foreign import _cgArrowsExchangeAlt :: ReactIcon
 
-cgArrowsExchangeAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgArrowsExchangeAlt = element (unsafeCoerce _cgArrowsExchangeAlt)
+cgArrowsExchangeAlt :: Icon
+cgArrowsExchangeAlt = element _cgArrowsExchangeAlt
 
 foreign import _cgArrowsExchangeAltV :: ReactIcon
 
-cgArrowsExchangeAltV :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgArrowsExchangeAltV = element (unsafeCoerce _cgArrowsExchangeAltV)
+cgArrowsExchangeAltV :: Icon
+cgArrowsExchangeAltV = element _cgArrowsExchangeAltV
 
 foreign import _cgArrowsExchangeV :: ReactIcon
 
-cgArrowsExchangeV :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgArrowsExchangeV = element (unsafeCoerce _cgArrowsExchangeV)
+cgArrowsExchangeV :: Icon
+cgArrowsExchangeV = element _cgArrowsExchangeV
 
 foreign import _cgArrowsExpandDownLeft :: ReactIcon
 
-cgArrowsExpandDownLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgArrowsExpandDownLeft = element (unsafeCoerce _cgArrowsExpandDownLeft)
+cgArrowsExpandDownLeft :: Icon
+cgArrowsExpandDownLeft = element _cgArrowsExpandDownLeft
 
 foreign import _cgArrowsExpandDownRight :: ReactIcon
 
-cgArrowsExpandDownRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgArrowsExpandDownRight = element (unsafeCoerce _cgArrowsExpandDownRight)
+cgArrowsExpandDownRight :: Icon
+cgArrowsExpandDownRight = element _cgArrowsExpandDownRight
 
 foreign import _cgArrowsExpandLeft :: ReactIcon
 
-cgArrowsExpandLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgArrowsExpandLeft = element (unsafeCoerce _cgArrowsExpandLeft)
+cgArrowsExpandLeft :: Icon
+cgArrowsExpandLeft = element _cgArrowsExpandLeft
 
 foreign import _cgArrowsExpandLeftAlt :: ReactIcon
 
-cgArrowsExpandLeftAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgArrowsExpandLeftAlt = element (unsafeCoerce _cgArrowsExpandLeftAlt)
+cgArrowsExpandLeftAlt :: Icon
+cgArrowsExpandLeftAlt = element _cgArrowsExpandLeftAlt
 
 foreign import _cgArrowsExpandRight :: ReactIcon
 
-cgArrowsExpandRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgArrowsExpandRight = element (unsafeCoerce _cgArrowsExpandRight)
+cgArrowsExpandRight :: Icon
+cgArrowsExpandRight = element _cgArrowsExpandRight
 
 foreign import _cgArrowsExpandRightAlt :: ReactIcon
 
-cgArrowsExpandRightAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgArrowsExpandRightAlt = element (unsafeCoerce _cgArrowsExpandRightAlt)
+cgArrowsExpandRightAlt :: Icon
+cgArrowsExpandRightAlt = element _cgArrowsExpandRightAlt
 
 foreign import _cgArrowsExpandUpLeft :: ReactIcon
 
-cgArrowsExpandUpLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgArrowsExpandUpLeft = element (unsafeCoerce _cgArrowsExpandUpLeft)
+cgArrowsExpandUpLeft :: Icon
+cgArrowsExpandUpLeft = element _cgArrowsExpandUpLeft
 
 foreign import _cgArrowsExpandUpRight :: ReactIcon
 
-cgArrowsExpandUpRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgArrowsExpandUpRight = element (unsafeCoerce _cgArrowsExpandUpRight)
+cgArrowsExpandUpRight :: Icon
+cgArrowsExpandUpRight = element _cgArrowsExpandUpRight
 
 foreign import _cgArrowsH :: ReactIcon
 
-cgArrowsH :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgArrowsH = element (unsafeCoerce _cgArrowsH)
+cgArrowsH :: Icon
+cgArrowsH = element _cgArrowsH
 
 foreign import _cgArrowsHAlt :: ReactIcon
 
-cgArrowsHAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgArrowsHAlt = element (unsafeCoerce _cgArrowsHAlt)
+cgArrowsHAlt :: Icon
+cgArrowsHAlt = element _cgArrowsHAlt
 
 foreign import _cgArrowsMergeAltH :: ReactIcon
 
-cgArrowsMergeAltH :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgArrowsMergeAltH = element (unsafeCoerce _cgArrowsMergeAltH)
+cgArrowsMergeAltH :: Icon
+cgArrowsMergeAltH = element _cgArrowsMergeAltH
 
 foreign import _cgArrowsMergeAltV :: ReactIcon
 
-cgArrowsMergeAltV :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgArrowsMergeAltV = element (unsafeCoerce _cgArrowsMergeAltV)
+cgArrowsMergeAltV :: Icon
+cgArrowsMergeAltV = element _cgArrowsMergeAltV
 
 foreign import _cgArrowsScrollH :: ReactIcon
 
-cgArrowsScrollH :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgArrowsScrollH = element (unsafeCoerce _cgArrowsScrollH)
+cgArrowsScrollH :: Icon
+cgArrowsScrollH = element _cgArrowsScrollH
 
 foreign import _cgArrowsScrollV :: ReactIcon
 
-cgArrowsScrollV :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgArrowsScrollV = element (unsafeCoerce _cgArrowsScrollV)
+cgArrowsScrollV :: Icon
+cgArrowsScrollV = element _cgArrowsScrollV
 
 foreign import _cgArrowsShrinkH :: ReactIcon
 
-cgArrowsShrinkH :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgArrowsShrinkH = element (unsafeCoerce _cgArrowsShrinkH)
+cgArrowsShrinkH :: Icon
+cgArrowsShrinkH = element _cgArrowsShrinkH
 
 foreign import _cgArrowsShrinkV :: ReactIcon
 
-cgArrowsShrinkV :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgArrowsShrinkV = element (unsafeCoerce _cgArrowsShrinkV)
+cgArrowsShrinkV :: Icon
+cgArrowsShrinkV = element _cgArrowsShrinkV
 
 foreign import _cgArrowsV :: ReactIcon
 
-cgArrowsV :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgArrowsV = element (unsafeCoerce _cgArrowsV)
+cgArrowsV :: Icon
+cgArrowsV = element _cgArrowsV
 
 foreign import _cgArrowsVAlt :: ReactIcon
 
-cgArrowsVAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgArrowsVAlt = element (unsafeCoerce _cgArrowsVAlt)
+cgArrowsVAlt :: Icon
+cgArrowsVAlt = element _cgArrowsVAlt
 
 foreign import _cgArrowTopLeft :: ReactIcon
 
-cgArrowTopLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgArrowTopLeft = element (unsafeCoerce _cgArrowTopLeft)
+cgArrowTopLeft :: Icon
+cgArrowTopLeft = element _cgArrowTopLeft
 
 foreign import _cgArrowTopLeftO :: ReactIcon
 
-cgArrowTopLeftO :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgArrowTopLeftO = element (unsafeCoerce _cgArrowTopLeftO)
+cgArrowTopLeftO :: Icon
+cgArrowTopLeftO = element _cgArrowTopLeftO
 
 foreign import _cgArrowTopLeftR :: ReactIcon
 
-cgArrowTopLeftR :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgArrowTopLeftR = element (unsafeCoerce _cgArrowTopLeftR)
+cgArrowTopLeftR :: Icon
+cgArrowTopLeftR = element _cgArrowTopLeftR
 
 foreign import _cgArrowTopRight :: ReactIcon
 
-cgArrowTopRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgArrowTopRight = element (unsafeCoerce _cgArrowTopRight)
+cgArrowTopRight :: Icon
+cgArrowTopRight = element _cgArrowTopRight
 
 foreign import _cgArrowTopRightO :: ReactIcon
 
-cgArrowTopRightO :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgArrowTopRightO = element (unsafeCoerce _cgArrowTopRightO)
+cgArrowTopRightO :: Icon
+cgArrowTopRightO = element _cgArrowTopRightO
 
 foreign import _cgArrowTopRightR :: ReactIcon
 
-cgArrowTopRightR :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgArrowTopRightR = element (unsafeCoerce _cgArrowTopRightR)
+cgArrowTopRightR :: Icon
+cgArrowTopRightR = element _cgArrowTopRightR
 
 foreign import _cgArrowUp :: ReactIcon
 
-cgArrowUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgArrowUp = element (unsafeCoerce _cgArrowUp)
+cgArrowUp :: Icon
+cgArrowUp = element _cgArrowUp
 
 foreign import _cgArrowUpO :: ReactIcon
 
-cgArrowUpO :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgArrowUpO = element (unsafeCoerce _cgArrowUpO)
+cgArrowUpO :: Icon
+cgArrowUpO = element _cgArrowUpO
 
 foreign import _cgArrowUpR :: ReactIcon
 
-cgArrowUpR :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgArrowUpR = element (unsafeCoerce _cgArrowUpR)
+cgArrowUpR :: Icon
+cgArrowUpR = element _cgArrowUpR
 
 foreign import _cgAssign :: ReactIcon
 
-cgAssign :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgAssign = element (unsafeCoerce _cgAssign)
+cgAssign :: Icon
+cgAssign = element _cgAssign
 
 foreign import _cgAsterisk :: ReactIcon
 
-cgAsterisk :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgAsterisk = element (unsafeCoerce _cgAsterisk)
+cgAsterisk :: Icon
+cgAsterisk = element _cgAsterisk
 
 foreign import _cgAtlasian :: ReactIcon
 
-cgAtlasian :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgAtlasian = element (unsafeCoerce _cgAtlasian)
+cgAtlasian :: Icon
+cgAtlasian = element _cgAtlasian
 
 foreign import _cgAttachment :: ReactIcon
 
-cgAttachment :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgAttachment = element (unsafeCoerce _cgAttachment)
+cgAttachment :: Icon
+cgAttachment = element _cgAttachment
 
 foreign import _cgAttribution :: ReactIcon
 
-cgAttribution :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgAttribution = element (unsafeCoerce _cgAttribution)
+cgAttribution :: Icon
+cgAttribution = element _cgAttribution
 
 foreign import _cgAwards :: ReactIcon
 
-cgAwards :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgAwards = element (unsafeCoerce _cgAwards)
+cgAwards :: Icon
+cgAwards = element _cgAwards
 
 foreign import _cgBackspace :: ReactIcon
 
-cgBackspace :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgBackspace = element (unsafeCoerce _cgBackspace)
+cgBackspace :: Icon
+cgBackspace = element _cgBackspace
 
 foreign import _cgBandAid :: ReactIcon
 
-cgBandAid :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgBandAid = element (unsafeCoerce _cgBandAid)
+cgBandAid :: Icon
+cgBandAid = element _cgBandAid
 
 foreign import _cgBattery :: ReactIcon
 
-cgBattery :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgBattery = element (unsafeCoerce _cgBattery)
+cgBattery :: Icon
+cgBattery = element _cgBattery
 
 foreign import _cgBatteryEmpty :: ReactIcon
 
-cgBatteryEmpty :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgBatteryEmpty = element (unsafeCoerce _cgBatteryEmpty)
+cgBatteryEmpty :: Icon
+cgBatteryEmpty = element _cgBatteryEmpty
 
 foreign import _cgBatteryFull :: ReactIcon
 
-cgBatteryFull :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgBatteryFull = element (unsafeCoerce _cgBatteryFull)
+cgBatteryFull :: Icon
+cgBatteryFull = element _cgBatteryFull
 
 foreign import _cgBee :: ReactIcon
 
-cgBee :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgBee = element (unsafeCoerce _cgBee)
+cgBee :: Icon
+cgBee = element _cgBee
 
 foreign import _cgBell :: ReactIcon
 
-cgBell :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgBell = element (unsafeCoerce _cgBell)
+cgBell :: Icon
+cgBell = element _cgBell
 
 foreign import _cgBitbucket :: ReactIcon
 
-cgBitbucket :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgBitbucket = element (unsafeCoerce _cgBitbucket)
+cgBitbucket :: Icon
+cgBitbucket = element _cgBitbucket
 
 foreign import _cgBlock :: ReactIcon
 
-cgBlock :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgBlock = element (unsafeCoerce _cgBlock)
+cgBlock :: Icon
+cgBlock = element _cgBlock
 
 foreign import _cgBmw :: ReactIcon
 
-cgBmw :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgBmw = element (unsafeCoerce _cgBmw)
+cgBmw :: Icon
+cgBmw = element _cgBmw
 
 foreign import _cgBoard :: ReactIcon
 
-cgBoard :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgBoard = element (unsafeCoerce _cgBoard)
+cgBoard :: Icon
+cgBoard = element _cgBoard
 
 foreign import _cgBolt :: ReactIcon
 
-cgBolt :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgBolt = element (unsafeCoerce _cgBolt)
+cgBolt :: Icon
+cgBolt = element _cgBolt
 
 foreign import _cgBookmark :: ReactIcon
 
-cgBookmark :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgBookmark = element (unsafeCoerce _cgBookmark)
+cgBookmark :: Icon
+cgBookmark = element _cgBookmark
 
 foreign import _cgBorderAll :: ReactIcon
 
-cgBorderAll :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgBorderAll = element (unsafeCoerce _cgBorderAll)
+cgBorderAll :: Icon
+cgBorderAll = element _cgBorderAll
 
 foreign import _cgBorderBottom :: ReactIcon
 
-cgBorderBottom :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgBorderBottom = element (unsafeCoerce _cgBorderBottom)
+cgBorderBottom :: Icon
+cgBorderBottom = element _cgBorderBottom
 
 foreign import _cgBorderLeft :: ReactIcon
 
-cgBorderLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgBorderLeft = element (unsafeCoerce _cgBorderLeft)
+cgBorderLeft :: Icon
+cgBorderLeft = element _cgBorderLeft
 
 foreign import _cgBorderRight :: ReactIcon
 
-cgBorderRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgBorderRight = element (unsafeCoerce _cgBorderRight)
+cgBorderRight :: Icon
+cgBorderRight = element _cgBorderRight
 
 foreign import _cgBorderStyleDashed :: ReactIcon
 
-cgBorderStyleDashed :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgBorderStyleDashed = element (unsafeCoerce _cgBorderStyleDashed)
+cgBorderStyleDashed :: Icon
+cgBorderStyleDashed = element _cgBorderStyleDashed
 
 foreign import _cgBorderStyleDotted :: ReactIcon
 
-cgBorderStyleDotted :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgBorderStyleDotted = element (unsafeCoerce _cgBorderStyleDotted)
+cgBorderStyleDotted :: Icon
+cgBorderStyleDotted = element _cgBorderStyleDotted
 
 foreign import _cgBorderStyleSolid :: ReactIcon
 
-cgBorderStyleSolid :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgBorderStyleSolid = element (unsafeCoerce _cgBorderStyleSolid)
+cgBorderStyleSolid :: Icon
+cgBorderStyleSolid = element _cgBorderStyleSolid
 
 foreign import _cgBorderTop :: ReactIcon
 
-cgBorderTop :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgBorderTop = element (unsafeCoerce _cgBorderTop)
+cgBorderTop :: Icon
+cgBorderTop = element _cgBorderTop
 
 foreign import _cgBot :: ReactIcon
 
-cgBot :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgBot = element (unsafeCoerce _cgBot)
+cgBot :: Icon
+cgBot = element _cgBot
 
 foreign import _cgBowl :: ReactIcon
 
-cgBowl :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgBowl = element (unsafeCoerce _cgBowl)
+cgBowl :: Icon
+cgBowl = element _cgBowl
 
 foreign import _cgBox :: ReactIcon
 
-cgBox :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgBox = element (unsafeCoerce _cgBox)
+cgBox :: Icon
+cgBox = element _cgBox
 
 foreign import _cgBoy :: ReactIcon
 
-cgBoy :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgBoy = element (unsafeCoerce _cgBoy)
+cgBoy :: Icon
+cgBoy = element _cgBoy
 
 foreign import _cgBrackets :: ReactIcon
 
-cgBrackets :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgBrackets = element (unsafeCoerce _cgBrackets)
+cgBrackets :: Icon
+cgBrackets = element _cgBrackets
 
 foreign import _cgBriefcase :: ReactIcon
 
-cgBriefcase :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgBriefcase = element (unsafeCoerce _cgBriefcase)
+cgBriefcase :: Icon
+cgBriefcase = element _cgBriefcase
 
 foreign import _cgBrowse :: ReactIcon
 
-cgBrowse :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgBrowse = element (unsafeCoerce _cgBrowse)
+cgBrowse :: Icon
+cgBrowse = element _cgBrowse
 
 foreign import _cgBrowser :: ReactIcon
 
-cgBrowser :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgBrowser = element (unsafeCoerce _cgBrowser)
+cgBrowser :: Icon
+cgBrowser = element _cgBrowser
 
 foreign import _cgBrush :: ReactIcon
 
-cgBrush :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgBrush = element (unsafeCoerce _cgBrush)
+cgBrush :: Icon
+cgBrush = element _cgBrush
 
 foreign import _cgBulb :: ReactIcon
 
-cgBulb :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgBulb = element (unsafeCoerce _cgBulb)
+cgBulb :: Icon
+cgBulb = element _cgBulb
 
 foreign import _cgCalculator :: ReactIcon
 
-cgCalculator :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgCalculator = element (unsafeCoerce _cgCalculator)
+cgCalculator :: Icon
+cgCalculator = element _cgCalculator
 
 foreign import _cgCalendar :: ReactIcon
 
-cgCalendar :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgCalendar = element (unsafeCoerce _cgCalendar)
+cgCalendar :: Icon
+cgCalendar = element _cgCalendar
 
 foreign import _cgCalendarDates :: ReactIcon
 
-cgCalendarDates :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgCalendarDates = element (unsafeCoerce _cgCalendarDates)
+cgCalendarDates :: Icon
+cgCalendarDates = element _cgCalendarDates
 
 foreign import _cgCalendarDue :: ReactIcon
 
-cgCalendarDue :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgCalendarDue = element (unsafeCoerce _cgCalendarDue)
+cgCalendarDue :: Icon
+cgCalendarDue = element _cgCalendarDue
 
 foreign import _cgCalendarNext :: ReactIcon
 
-cgCalendarNext :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgCalendarNext = element (unsafeCoerce _cgCalendarNext)
+cgCalendarNext :: Icon
+cgCalendarNext = element _cgCalendarNext
 
 foreign import _cgCalendarToday :: ReactIcon
 
-cgCalendarToday :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgCalendarToday = element (unsafeCoerce _cgCalendarToday)
+cgCalendarToday :: Icon
+cgCalendarToday = element _cgCalendarToday
 
 foreign import _cgCalendarTwo :: ReactIcon
 
-cgCalendarTwo :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgCalendarTwo = element (unsafeCoerce _cgCalendarTwo)
+cgCalendarTwo :: Icon
+cgCalendarTwo = element _cgCalendarTwo
 
 foreign import _cgCalibrate :: ReactIcon
 
-cgCalibrate :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgCalibrate = element (unsafeCoerce _cgCalibrate)
+cgCalibrate :: Icon
+cgCalibrate = element _cgCalibrate
 
 foreign import _cgCamera :: ReactIcon
 
-cgCamera :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgCamera = element (unsafeCoerce _cgCamera)
+cgCamera :: Icon
+cgCamera = element _cgCamera
 
 foreign import _cgCap :: ReactIcon
 
-cgCap :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgCap = element (unsafeCoerce _cgCap)
+cgCap :: Icon
+cgCap = element _cgCap
 
 foreign import _cgCaptions :: ReactIcon
 
-cgCaptions :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgCaptions = element (unsafeCoerce _cgCaptions)
+cgCaptions :: Icon
+cgCaptions = element _cgCaptions
 
 foreign import _cgCardClubs :: ReactIcon
 
-cgCardClubs :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgCardClubs = element (unsafeCoerce _cgCardClubs)
+cgCardClubs :: Icon
+cgCardClubs = element _cgCardClubs
 
 foreign import _cgCardDiamonds :: ReactIcon
 
-cgCardDiamonds :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgCardDiamonds = element (unsafeCoerce _cgCardDiamonds)
+cgCardDiamonds :: Icon
+cgCardDiamonds = element _cgCardDiamonds
 
 foreign import _cgCardHearts :: ReactIcon
 
-cgCardHearts :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgCardHearts = element (unsafeCoerce _cgCardHearts)
+cgCardHearts :: Icon
+cgCardHearts = element _cgCardHearts
 
 foreign import _cgCardSpades :: ReactIcon
 
-cgCardSpades :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgCardSpades = element (unsafeCoerce _cgCardSpades)
+cgCardSpades :: Icon
+cgCardSpades = element _cgCardSpades
 
 foreign import _cgCarousel :: ReactIcon
 
-cgCarousel :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgCarousel = element (unsafeCoerce _cgCarousel)
+cgCarousel :: Icon
+cgCarousel = element _cgCarousel
 
 foreign import _cgCast :: ReactIcon
 
-cgCast :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgCast = element (unsafeCoerce _cgCast)
+cgCast :: Icon
+cgCast = element _cgCast
 
 foreign import _cgChanel :: ReactIcon
 
-cgChanel :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgChanel = element (unsafeCoerce _cgChanel)
+cgChanel :: Icon
+cgChanel = element _cgChanel
 
 foreign import _cgChart :: ReactIcon
 
-cgChart :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgChart = element (unsafeCoerce _cgChart)
+cgChart :: Icon
+cgChart = element _cgChart
 
 foreign import _cgCheck :: ReactIcon
 
-cgCheck :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgCheck = element (unsafeCoerce _cgCheck)
+cgCheck :: Icon
+cgCheck = element _cgCheck
 
 foreign import _cgCheckO :: ReactIcon
 
-cgCheckO :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgCheckO = element (unsafeCoerce _cgCheckO)
+cgCheckO :: Icon
+cgCheckO = element _cgCheckO
 
 foreign import _cgCheckR :: ReactIcon
 
-cgCheckR :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgCheckR = element (unsafeCoerce _cgCheckR)
+cgCheckR :: Icon
+cgCheckR = element _cgCheckR
 
 foreign import _cgChevronDoubleDown :: ReactIcon
 
-cgChevronDoubleDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgChevronDoubleDown = element (unsafeCoerce _cgChevronDoubleDown)
+cgChevronDoubleDown :: Icon
+cgChevronDoubleDown = element _cgChevronDoubleDown
 
 foreign import _cgChevronDoubleDownO :: ReactIcon
 
-cgChevronDoubleDownO :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgChevronDoubleDownO = element (unsafeCoerce _cgChevronDoubleDownO)
+cgChevronDoubleDownO :: Icon
+cgChevronDoubleDownO = element _cgChevronDoubleDownO
 
 foreign import _cgChevronDoubleDownR :: ReactIcon
 
-cgChevronDoubleDownR :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgChevronDoubleDownR = element (unsafeCoerce _cgChevronDoubleDownR)
+cgChevronDoubleDownR :: Icon
+cgChevronDoubleDownR = element _cgChevronDoubleDownR
 
 foreign import _cgChevronDoubleLeft :: ReactIcon
 
-cgChevronDoubleLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgChevronDoubleLeft = element (unsafeCoerce _cgChevronDoubleLeft)
+cgChevronDoubleLeft :: Icon
+cgChevronDoubleLeft = element _cgChevronDoubleLeft
 
 foreign import _cgChevronDoubleLeftO :: ReactIcon
 
-cgChevronDoubleLeftO :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgChevronDoubleLeftO = element (unsafeCoerce _cgChevronDoubleLeftO)
+cgChevronDoubleLeftO :: Icon
+cgChevronDoubleLeftO = element _cgChevronDoubleLeftO
 
 foreign import _cgChevronDoubleLeftR :: ReactIcon
 
-cgChevronDoubleLeftR :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgChevronDoubleLeftR = element (unsafeCoerce _cgChevronDoubleLeftR)
+cgChevronDoubleLeftR :: Icon
+cgChevronDoubleLeftR = element _cgChevronDoubleLeftR
 
 foreign import _cgChevronDoubleRight :: ReactIcon
 
-cgChevronDoubleRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgChevronDoubleRight = element (unsafeCoerce _cgChevronDoubleRight)
+cgChevronDoubleRight :: Icon
+cgChevronDoubleRight = element _cgChevronDoubleRight
 
 foreign import _cgChevronDoubleRightO :: ReactIcon
 
-cgChevronDoubleRightO :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgChevronDoubleRightO = element (unsafeCoerce _cgChevronDoubleRightO)
+cgChevronDoubleRightO :: Icon
+cgChevronDoubleRightO = element _cgChevronDoubleRightO
 
 foreign import _cgChevronDoubleRightR :: ReactIcon
 
-cgChevronDoubleRightR :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgChevronDoubleRightR = element (unsafeCoerce _cgChevronDoubleRightR)
+cgChevronDoubleRightR :: Icon
+cgChevronDoubleRightR = element _cgChevronDoubleRightR
 
 foreign import _cgChevronDoubleUp :: ReactIcon
 
-cgChevronDoubleUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgChevronDoubleUp = element (unsafeCoerce _cgChevronDoubleUp)
+cgChevronDoubleUp :: Icon
+cgChevronDoubleUp = element _cgChevronDoubleUp
 
 foreign import _cgChevronDoubleUpO :: ReactIcon
 
-cgChevronDoubleUpO :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgChevronDoubleUpO = element (unsafeCoerce _cgChevronDoubleUpO)
+cgChevronDoubleUpO :: Icon
+cgChevronDoubleUpO = element _cgChevronDoubleUpO
 
 foreign import _cgChevronDoubleUpR :: ReactIcon
 
-cgChevronDoubleUpR :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgChevronDoubleUpR = element (unsafeCoerce _cgChevronDoubleUpR)
+cgChevronDoubleUpR :: Icon
+cgChevronDoubleUpR = element _cgChevronDoubleUpR
 
 foreign import _cgChevronDown :: ReactIcon
 
-cgChevronDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgChevronDown = element (unsafeCoerce _cgChevronDown)
+cgChevronDown :: Icon
+cgChevronDown = element _cgChevronDown
 
 foreign import _cgChevronDownO :: ReactIcon
 
-cgChevronDownO :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgChevronDownO = element (unsafeCoerce _cgChevronDownO)
+cgChevronDownO :: Icon
+cgChevronDownO = element _cgChevronDownO
 
 foreign import _cgChevronDownR :: ReactIcon
 
-cgChevronDownR :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgChevronDownR = element (unsafeCoerce _cgChevronDownR)
+cgChevronDownR :: Icon
+cgChevronDownR = element _cgChevronDownR
 
 foreign import _cgChevronLeft :: ReactIcon
 
-cgChevronLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgChevronLeft = element (unsafeCoerce _cgChevronLeft)
+cgChevronLeft :: Icon
+cgChevronLeft = element _cgChevronLeft
 
 foreign import _cgChevronLeftO :: ReactIcon
 
-cgChevronLeftO :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgChevronLeftO = element (unsafeCoerce _cgChevronLeftO)
+cgChevronLeftO :: Icon
+cgChevronLeftO = element _cgChevronLeftO
 
 foreign import _cgChevronLeftR :: ReactIcon
 
-cgChevronLeftR :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgChevronLeftR = element (unsafeCoerce _cgChevronLeftR)
+cgChevronLeftR :: Icon
+cgChevronLeftR = element _cgChevronLeftR
 
 foreign import _cgChevronRight :: ReactIcon
 
-cgChevronRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgChevronRight = element (unsafeCoerce _cgChevronRight)
+cgChevronRight :: Icon
+cgChevronRight = element _cgChevronRight
 
 foreign import _cgChevronRightO :: ReactIcon
 
-cgChevronRightO :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgChevronRightO = element (unsafeCoerce _cgChevronRightO)
+cgChevronRightO :: Icon
+cgChevronRightO = element _cgChevronRightO
 
 foreign import _cgChevronRightR :: ReactIcon
 
-cgChevronRightR :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgChevronRightR = element (unsafeCoerce _cgChevronRightR)
+cgChevronRightR :: Icon
+cgChevronRightR = element _cgChevronRightR
 
 foreign import _cgChevronUp :: ReactIcon
 
-cgChevronUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgChevronUp = element (unsafeCoerce _cgChevronUp)
+cgChevronUp :: Icon
+cgChevronUp = element _cgChevronUp
 
 foreign import _cgChevronUpO :: ReactIcon
 
-cgChevronUpO :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgChevronUpO = element (unsafeCoerce _cgChevronUpO)
+cgChevronUpO :: Icon
+cgChevronUpO = element _cgChevronUpO
 
 foreign import _cgChevronUpR :: ReactIcon
 
-cgChevronUpR :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgChevronUpR = element (unsafeCoerce _cgChevronUpR)
+cgChevronUpR :: Icon
+cgChevronUpR = element _cgChevronUpR
 
 foreign import _cgCircleci :: ReactIcon
 
-cgCircleci :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgCircleci = element (unsafeCoerce _cgCircleci)
+cgCircleci :: Icon
+cgCircleci = element _cgCircleci
 
 foreign import _cgClapperBoard :: ReactIcon
 
-cgClapperBoard :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgClapperBoard = element (unsafeCoerce _cgClapperBoard)
+cgClapperBoard :: Icon
+cgClapperBoard = element _cgClapperBoard
 
 foreign import _cgClipboard :: ReactIcon
 
-cgClipboard :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgClipboard = element (unsafeCoerce _cgClipboard)
+cgClipboard :: Icon
+cgClipboard = element _cgClipboard
 
 foreign import _cgClose :: ReactIcon
 
-cgClose :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgClose = element (unsafeCoerce _cgClose)
+cgClose :: Icon
+cgClose = element _cgClose
 
 foreign import _cgCloseO :: ReactIcon
 
-cgCloseO :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgCloseO = element (unsafeCoerce _cgCloseO)
+cgCloseO :: Icon
+cgCloseO = element _cgCloseO
 
 foreign import _cgCloseR :: ReactIcon
 
-cgCloseR :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgCloseR = element (unsafeCoerce _cgCloseR)
+cgCloseR :: Icon
+cgCloseR = element _cgCloseR
 
 foreign import _cgCloud :: ReactIcon
 
-cgCloud :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgCloud = element (unsafeCoerce _cgCloud)
+cgCloud :: Icon
+cgCloud = element _cgCloud
 
 foreign import _cgCode :: ReactIcon
 
-cgCode :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgCode = element (unsafeCoerce _cgCode)
+cgCode :: Icon
+cgCode = element _cgCode
 
 foreign import _cgCodeClimate :: ReactIcon
 
-cgCodeClimate :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgCodeClimate = element (unsafeCoerce _cgCodeClimate)
+cgCodeClimate :: Icon
+cgCodeClimate = element _cgCodeClimate
 
 foreign import _cgCodeSlash :: ReactIcon
 
-cgCodeSlash :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgCodeSlash = element (unsafeCoerce _cgCodeSlash)
+cgCodeSlash :: Icon
+cgCodeSlash = element _cgCodeSlash
 
 foreign import _cgCoffee :: ReactIcon
 
-cgCoffee :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgCoffee = element (unsafeCoerce _cgCoffee)
+cgCoffee :: Icon
+cgCoffee = element _cgCoffee
 
 foreign import _cgCollage :: ReactIcon
 
-cgCollage :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgCollage = element (unsafeCoerce _cgCollage)
+cgCollage :: Icon
+cgCollage = element _cgCollage
 
 foreign import _cgColorBucket :: ReactIcon
 
-cgColorBucket :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgColorBucket = element (unsafeCoerce _cgColorBucket)
+cgColorBucket :: Icon
+cgColorBucket = element _cgColorBucket
 
 foreign import _cgColorPicker :: ReactIcon
 
-cgColorPicker :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgColorPicker = element (unsafeCoerce _cgColorPicker)
+cgColorPicker :: Icon
+cgColorPicker = element _cgColorPicker
 
 foreign import _cgComedyCentral :: ReactIcon
 
-cgComedyCentral :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgComedyCentral = element (unsafeCoerce _cgComedyCentral)
+cgComedyCentral :: Icon
+cgComedyCentral = element _cgComedyCentral
 
 foreign import _cgComment :: ReactIcon
 
-cgComment :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgComment = element (unsafeCoerce _cgComment)
+cgComment :: Icon
+cgComment = element _cgComment
 
 foreign import _cgCommunity :: ReactIcon
 
-cgCommunity :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgCommunity = element (unsafeCoerce _cgCommunity)
+cgCommunity :: Icon
+cgCommunity = element _cgCommunity
 
 foreign import _cgComponents :: ReactIcon
 
-cgComponents :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgComponents = element (unsafeCoerce _cgComponents)
+cgComponents :: Icon
+cgComponents = element _cgComponents
 
 foreign import _cgCompress :: ReactIcon
 
-cgCompress :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgCompress = element (unsafeCoerce _cgCompress)
+cgCompress :: Icon
+cgCompress = element _cgCompress
 
 foreign import _cgCompressLeft :: ReactIcon
 
-cgCompressLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgCompressLeft = element (unsafeCoerce _cgCompressLeft)
+cgCompressLeft :: Icon
+cgCompressLeft = element _cgCompressLeft
 
 foreign import _cgCompressRight :: ReactIcon
 
-cgCompressRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgCompressRight = element (unsafeCoerce _cgCompressRight)
+cgCompressRight :: Icon
+cgCompressRight = element _cgCompressRight
 
 foreign import _cgCompressV :: ReactIcon
 
-cgCompressV :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgCompressV = element (unsafeCoerce _cgCompressV)
+cgCompressV :: Icon
+cgCompressV = element _cgCompressV
 
 foreign import _cgController :: ReactIcon
 
-cgController :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgController = element (unsafeCoerce _cgController)
+cgController :: Icon
+cgController = element _cgController
 
 foreign import _cgCopy :: ReactIcon
 
-cgCopy :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgCopy = element (unsafeCoerce _cgCopy)
+cgCopy :: Icon
+cgCopy = element _cgCopy
 
 foreign import _cgCopyright :: ReactIcon
 
-cgCopyright :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgCopyright = element (unsafeCoerce _cgCopyright)
+cgCopyright :: Icon
+cgCopyright = element _cgCopyright
 
 foreign import _cgCornerDoubleDownLeft :: ReactIcon
 
-cgCornerDoubleDownLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgCornerDoubleDownLeft = element (unsafeCoerce _cgCornerDoubleDownLeft)
+cgCornerDoubleDownLeft :: Icon
+cgCornerDoubleDownLeft = element _cgCornerDoubleDownLeft
 
 foreign import _cgCornerDoubleDownRight :: ReactIcon
 
-cgCornerDoubleDownRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgCornerDoubleDownRight = element (unsafeCoerce _cgCornerDoubleDownRight)
+cgCornerDoubleDownRight :: Icon
+cgCornerDoubleDownRight = element _cgCornerDoubleDownRight
 
 foreign import _cgCornerDoubleLeftDown :: ReactIcon
 
-cgCornerDoubleLeftDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgCornerDoubleLeftDown = element (unsafeCoerce _cgCornerDoubleLeftDown)
+cgCornerDoubleLeftDown :: Icon
+cgCornerDoubleLeftDown = element _cgCornerDoubleLeftDown
 
 foreign import _cgCornerDoubleLeftUp :: ReactIcon
 
-cgCornerDoubleLeftUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgCornerDoubleLeftUp = element (unsafeCoerce _cgCornerDoubleLeftUp)
+cgCornerDoubleLeftUp :: Icon
+cgCornerDoubleLeftUp = element _cgCornerDoubleLeftUp
 
 foreign import _cgCornerDoubleRightDown :: ReactIcon
 
-cgCornerDoubleRightDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgCornerDoubleRightDown = element (unsafeCoerce _cgCornerDoubleRightDown)
+cgCornerDoubleRightDown :: Icon
+cgCornerDoubleRightDown = element _cgCornerDoubleRightDown
 
 foreign import _cgCornerDoubleRightUp :: ReactIcon
 
-cgCornerDoubleRightUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgCornerDoubleRightUp = element (unsafeCoerce _cgCornerDoubleRightUp)
+cgCornerDoubleRightUp :: Icon
+cgCornerDoubleRightUp = element _cgCornerDoubleRightUp
 
 foreign import _cgCornerDoubleUpLeft :: ReactIcon
 
-cgCornerDoubleUpLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgCornerDoubleUpLeft = element (unsafeCoerce _cgCornerDoubleUpLeft)
+cgCornerDoubleUpLeft :: Icon
+cgCornerDoubleUpLeft = element _cgCornerDoubleUpLeft
 
 foreign import _cgCornerDoubleUpRight :: ReactIcon
 
-cgCornerDoubleUpRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgCornerDoubleUpRight = element (unsafeCoerce _cgCornerDoubleUpRight)
+cgCornerDoubleUpRight :: Icon
+cgCornerDoubleUpRight = element _cgCornerDoubleUpRight
 
 foreign import _cgCornerDownLeft :: ReactIcon
 
-cgCornerDownLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgCornerDownLeft = element (unsafeCoerce _cgCornerDownLeft)
+cgCornerDownLeft :: Icon
+cgCornerDownLeft = element _cgCornerDownLeft
 
 foreign import _cgCornerDownRight :: ReactIcon
 
-cgCornerDownRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgCornerDownRight = element (unsafeCoerce _cgCornerDownRight)
+cgCornerDownRight :: Icon
+cgCornerDownRight = element _cgCornerDownRight
 
 foreign import _cgCornerLeftDown :: ReactIcon
 
-cgCornerLeftDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgCornerLeftDown = element (unsafeCoerce _cgCornerLeftDown)
+cgCornerLeftDown :: Icon
+cgCornerLeftDown = element _cgCornerLeftDown
 
 foreign import _cgCornerLeftUp :: ReactIcon
 
-cgCornerLeftUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgCornerLeftUp = element (unsafeCoerce _cgCornerLeftUp)
+cgCornerLeftUp :: Icon
+cgCornerLeftUp = element _cgCornerLeftUp
 
 foreign import _cgCornerRightDown :: ReactIcon
 
-cgCornerRightDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgCornerRightDown = element (unsafeCoerce _cgCornerRightDown)
+cgCornerRightDown :: Icon
+cgCornerRightDown = element _cgCornerRightDown
 
 foreign import _cgCornerRightUp :: ReactIcon
 
-cgCornerRightUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgCornerRightUp = element (unsafeCoerce _cgCornerRightUp)
+cgCornerRightUp :: Icon
+cgCornerRightUp = element _cgCornerRightUp
 
 foreign import _cgCornerUpLeft :: ReactIcon
 
-cgCornerUpLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgCornerUpLeft = element (unsafeCoerce _cgCornerUpLeft)
+cgCornerUpLeft :: Icon
+cgCornerUpLeft = element _cgCornerUpLeft
 
 foreign import _cgCornerUpRight :: ReactIcon
 
-cgCornerUpRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgCornerUpRight = element (unsafeCoerce _cgCornerUpRight)
+cgCornerUpRight :: Icon
+cgCornerUpRight = element _cgCornerUpRight
 
 foreign import _cgCPlusPlus :: ReactIcon
 
-cgCPlusPlus :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgCPlusPlus = element (unsafeCoerce _cgCPlusPlus)
+cgCPlusPlus :: Icon
+cgCPlusPlus = element _cgCPlusPlus
 
 foreign import _cgCreditCard :: ReactIcon
 
-cgCreditCard :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgCreditCard = element (unsafeCoerce _cgCreditCard)
+cgCreditCard :: Icon
+cgCreditCard = element _cgCreditCard
 
 foreign import _cgCrop :: ReactIcon
 
-cgCrop :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgCrop = element (unsafeCoerce _cgCrop)
+cgCrop :: Icon
+cgCrop = element _cgCrop
 
 foreign import _cgCross :: ReactIcon
 
-cgCross :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgCross = element (unsafeCoerce _cgCross)
+cgCross :: Icon
+cgCross = element _cgCross
 
 foreign import _cgCrowdfire :: ReactIcon
 
-cgCrowdfire :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgCrowdfire = element (unsafeCoerce _cgCrowdfire)
+cgCrowdfire :: Icon
+cgCrowdfire = element _cgCrowdfire
 
 foreign import _cgCrown :: ReactIcon
 
-cgCrown :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgCrown = element (unsafeCoerce _cgCrown)
+cgCrown :: Icon
+cgCrown = element _cgCrown
 
 foreign import _cgDanger :: ReactIcon
 
-cgDanger :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgDanger = element (unsafeCoerce _cgDanger)
+cgDanger :: Icon
+cgDanger = element _cgDanger
 
 foreign import _cgDarkMode :: ReactIcon
 
-cgDarkMode :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgDarkMode = element (unsafeCoerce _cgDarkMode)
+cgDarkMode :: Icon
+cgDarkMode = element _cgDarkMode
 
 foreign import _cgData :: ReactIcon
 
-cgData :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgData = element (unsafeCoerce _cgData)
+cgData :: Icon
+cgData = element _cgData
 
 foreign import _cgDatabase :: ReactIcon
 
-cgDatabase :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgDatabase = element (unsafeCoerce _cgDatabase)
+cgDatabase :: Icon
+cgDatabase = element _cgDatabase
 
 foreign import _cgDebug :: ReactIcon
 
-cgDebug :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgDebug = element (unsafeCoerce _cgDebug)
+cgDebug :: Icon
+cgDebug = element _cgDebug
 
 foreign import _cgDesignmodo :: ReactIcon
 
-cgDesignmodo :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgDesignmodo = element (unsafeCoerce _cgDesignmodo)
+cgDesignmodo :: Icon
+cgDesignmodo = element _cgDesignmodo
 
 foreign import _cgDesktop :: ReactIcon
 
-cgDesktop :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgDesktop = element (unsafeCoerce _cgDesktop)
+cgDesktop :: Icon
+cgDesktop = element _cgDesktop
 
 foreign import _cgDetailsLess :: ReactIcon
 
-cgDetailsLess :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgDetailsLess = element (unsafeCoerce _cgDetailsLess)
+cgDetailsLess :: Icon
+cgDetailsLess = element _cgDetailsLess
 
 foreign import _cgDetailsMore :: ReactIcon
 
-cgDetailsMore :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgDetailsMore = element (unsafeCoerce _cgDetailsMore)
+cgDetailsMore :: Icon
+cgDetailsMore = element _cgDetailsMore
 
 foreign import _cgDialpad :: ReactIcon
 
-cgDialpad :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgDialpad = element (unsafeCoerce _cgDialpad)
+cgDialpad :: Icon
+cgDialpad = element _cgDialpad
 
 foreign import _cgDigitalocean :: ReactIcon
 
-cgDigitalocean :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgDigitalocean = element (unsafeCoerce _cgDigitalocean)
+cgDigitalocean :: Icon
+cgDigitalocean = element _cgDigitalocean
 
 foreign import _cgDisc :: ReactIcon
 
-cgDisc :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgDisc = element (unsafeCoerce _cgDisc)
+cgDisc :: Icon
+cgDisc = element _cgDisc
 
 foreign import _cgDisplayFlex :: ReactIcon
 
-cgDisplayFlex :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgDisplayFlex = element (unsafeCoerce _cgDisplayFlex)
+cgDisplayFlex :: Icon
+cgDisplayFlex = element _cgDisplayFlex
 
 foreign import _cgDisplayFullwidth :: ReactIcon
 
-cgDisplayFullwidth :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgDisplayFullwidth = element (unsafeCoerce _cgDisplayFullwidth)
+cgDisplayFullwidth :: Icon
+cgDisplayFullwidth = element _cgDisplayFullwidth
 
 foreign import _cgDisplayGrid :: ReactIcon
 
-cgDisplayGrid :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgDisplayGrid = element (unsafeCoerce _cgDisplayGrid)
+cgDisplayGrid :: Icon
+cgDisplayGrid = element _cgDisplayGrid
 
 foreign import _cgDisplaySpacing :: ReactIcon
 
-cgDisplaySpacing :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgDisplaySpacing = element (unsafeCoerce _cgDisplaySpacing)
+cgDisplaySpacing :: Icon
+cgDisplaySpacing = element _cgDisplaySpacing
 
 foreign import _cgDistributeHorizontal :: ReactIcon
 
-cgDistributeHorizontal :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgDistributeHorizontal = element (unsafeCoerce _cgDistributeHorizontal)
+cgDistributeHorizontal :: Icon
+cgDistributeHorizontal = element _cgDistributeHorizontal
 
 foreign import _cgDistributeVertical :: ReactIcon
 
-cgDistributeVertical :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgDistributeVertical = element (unsafeCoerce _cgDistributeVertical)
+cgDistributeVertical :: Icon
+cgDistributeVertical = element _cgDistributeVertical
 
 foreign import _cgDockBottom :: ReactIcon
 
-cgDockBottom :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgDockBottom = element (unsafeCoerce _cgDockBottom)
+cgDockBottom :: Icon
+cgDockBottom = element _cgDockBottom
 
 foreign import _cgDockLeft :: ReactIcon
 
-cgDockLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgDockLeft = element (unsafeCoerce _cgDockLeft)
+cgDockLeft :: Icon
+cgDockLeft = element _cgDockLeft
 
 foreign import _cgDockRight :: ReactIcon
 
-cgDockRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgDockRight = element (unsafeCoerce _cgDockRight)
+cgDockRight :: Icon
+cgDockRight = element _cgDockRight
 
 foreign import _cgDockWindow :: ReactIcon
 
-cgDockWindow :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgDockWindow = element (unsafeCoerce _cgDockWindow)
+cgDockWindow :: Icon
+cgDockWindow = element _cgDockWindow
 
 foreign import _cgDolby :: ReactIcon
 
-cgDolby :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgDolby = element (unsafeCoerce _cgDolby)
+cgDolby :: Icon
+cgDolby = element _cgDolby
 
 foreign import _cgDollar :: ReactIcon
 
-cgDollar :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgDollar = element (unsafeCoerce _cgDollar)
+cgDollar :: Icon
+cgDollar = element _cgDollar
 
 foreign import _cgDribbble :: ReactIcon
 
-cgDribbble :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgDribbble = element (unsafeCoerce _cgDribbble)
+cgDribbble :: Icon
+cgDribbble = element _cgDribbble
 
 foreign import _cgDrive :: ReactIcon
 
-cgDrive :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgDrive = element (unsafeCoerce _cgDrive)
+cgDrive :: Icon
+cgDrive = element _cgDrive
 
 foreign import _cgDrop :: ReactIcon
 
-cgDrop :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgDrop = element (unsafeCoerce _cgDrop)
+cgDrop :: Icon
+cgDrop = element _cgDrop
 
 foreign import _cgDropInvert :: ReactIcon
 
-cgDropInvert :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgDropInvert = element (unsafeCoerce _cgDropInvert)
+cgDropInvert :: Icon
+cgDropInvert = element _cgDropInvert
 
 foreign import _cgDropOpacity :: ReactIcon
 
-cgDropOpacity :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgDropOpacity = element (unsafeCoerce _cgDropOpacity)
+cgDropOpacity :: Icon
+cgDropOpacity = element _cgDropOpacity
 
 foreign import _cgDuplicate :: ReactIcon
 
-cgDuplicate :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgDuplicate = element (unsafeCoerce _cgDuplicate)
+cgDuplicate :: Icon
+cgDuplicate = element _cgDuplicate
 
 foreign import _cgEditBlackPoint :: ReactIcon
 
-cgEditBlackPoint :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgEditBlackPoint = element (unsafeCoerce _cgEditBlackPoint)
+cgEditBlackPoint :: Icon
+cgEditBlackPoint = element _cgEditBlackPoint
 
 foreign import _cgEditContrast :: ReactIcon
 
-cgEditContrast :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgEditContrast = element (unsafeCoerce _cgEditContrast)
+cgEditContrast :: Icon
+cgEditContrast = element _cgEditContrast
 
 foreign import _cgEditExposure :: ReactIcon
 
-cgEditExposure :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgEditExposure = element (unsafeCoerce _cgEditExposure)
+cgEditExposure :: Icon
+cgEditExposure = element _cgEditExposure
 
 foreign import _cgEditFade :: ReactIcon
 
-cgEditFade :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgEditFade = element (unsafeCoerce _cgEditFade)
+cgEditFade :: Icon
+cgEditFade = element _cgEditFade
 
 foreign import _cgEditFlipH :: ReactIcon
 
-cgEditFlipH :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgEditFlipH = element (unsafeCoerce _cgEditFlipH)
+cgEditFlipH :: Icon
+cgEditFlipH = element _cgEditFlipH
 
 foreign import _cgEditFlipV :: ReactIcon
 
-cgEditFlipV :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgEditFlipV = element (unsafeCoerce _cgEditFlipV)
+cgEditFlipV :: Icon
+cgEditFlipV = element _cgEditFlipV
 
 foreign import _cgEditHighlight :: ReactIcon
 
-cgEditHighlight :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgEditHighlight = element (unsafeCoerce _cgEditHighlight)
+cgEditHighlight :: Icon
+cgEditHighlight = element _cgEditHighlight
 
 foreign import _cgEditMarkup :: ReactIcon
 
-cgEditMarkup :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgEditMarkup = element (unsafeCoerce _cgEditMarkup)
+cgEditMarkup :: Icon
+cgEditMarkup = element _cgEditMarkup
 
 foreign import _cgEditMask :: ReactIcon
 
-cgEditMask :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgEditMask = element (unsafeCoerce _cgEditMask)
+cgEditMask :: Icon
+cgEditMask = element _cgEditMask
 
 foreign import _cgEditNoise :: ReactIcon
 
-cgEditNoise :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgEditNoise = element (unsafeCoerce _cgEditNoise)
+cgEditNoise :: Icon
+cgEditNoise = element _cgEditNoise
 
 foreign import _cgEditShadows :: ReactIcon
 
-cgEditShadows :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgEditShadows = element (unsafeCoerce _cgEditShadows)
+cgEditShadows :: Icon
+cgEditShadows = element _cgEditShadows
 
 foreign import _cgEditStraight :: ReactIcon
 
-cgEditStraight :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgEditStraight = element (unsafeCoerce _cgEditStraight)
+cgEditStraight :: Icon
+cgEditStraight = element _cgEditStraight
 
 foreign import _cgEditUnmask :: ReactIcon
 
-cgEditUnmask :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgEditUnmask = element (unsafeCoerce _cgEditUnmask)
+cgEditUnmask :: Icon
+cgEditUnmask = element _cgEditUnmask
 
 foreign import _cgEject :: ReactIcon
 
-cgEject :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgEject = element (unsafeCoerce _cgEject)
+cgEject :: Icon
+cgEject = element _cgEject
 
 foreign import _cgEnter :: ReactIcon
 
-cgEnter :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgEnter = element (unsafeCoerce _cgEnter)
+cgEnter :: Icon
+cgEnter = element _cgEnter
 
 foreign import _cgErase :: ReactIcon
 
-cgErase :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgErase = element (unsafeCoerce _cgErase)
+cgErase :: Icon
+cgErase = element _cgErase
 
 foreign import _cgEreader :: ReactIcon
 
-cgEreader :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgEreader = element (unsafeCoerce _cgEreader)
+cgEreader :: Icon
+cgEreader = element _cgEreader
 
 foreign import _cgEricsson :: ReactIcon
 
-cgEricsson :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgEricsson = element (unsafeCoerce _cgEricsson)
+cgEricsson :: Icon
+cgEricsson = element _cgEricsson
 
 foreign import _cgEthernet :: ReactIcon
 
-cgEthernet :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgEthernet = element (unsafeCoerce _cgEthernet)
+cgEthernet :: Icon
+cgEthernet = element _cgEthernet
 
 foreign import _cgEuro :: ReactIcon
 
-cgEuro :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgEuro = element (unsafeCoerce _cgEuro)
+cgEuro :: Icon
+cgEuro = element _cgEuro
 
 foreign import _cgEventbrite :: ReactIcon
 
-cgEventbrite :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgEventbrite = element (unsafeCoerce _cgEventbrite)
+cgEventbrite :: Icon
+cgEventbrite = element _cgEventbrite
 
 foreign import _cgExpand :: ReactIcon
 
-cgExpand :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgExpand = element (unsafeCoerce _cgExpand)
+cgExpand :: Icon
+cgExpand = element _cgExpand
 
 foreign import _cgExport :: ReactIcon
 
-cgExport :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgExport = element (unsafeCoerce _cgExport)
+cgExport :: Icon
+cgExport = element _cgExport
 
 foreign import _cgExtension :: ReactIcon
 
-cgExtension :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgExtension = element (unsafeCoerce _cgExtension)
+cgExtension :: Icon
+cgExtension = element _cgExtension
 
 foreign import _cgExtensionAdd :: ReactIcon
 
-cgExtensionAdd :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgExtensionAdd = element (unsafeCoerce _cgExtensionAdd)
+cgExtensionAdd :: Icon
+cgExtensionAdd = element _cgExtensionAdd
 
 foreign import _cgExtensionAlt :: ReactIcon
 
-cgExtensionAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgExtensionAlt = element (unsafeCoerce _cgExtensionAlt)
+cgExtensionAlt :: Icon
+cgExtensionAlt = element _cgExtensionAlt
 
 foreign import _cgExtensionRemove :: ReactIcon
 
-cgExtensionRemove :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgExtensionRemove = element (unsafeCoerce _cgExtensionRemove)
+cgExtensionRemove :: Icon
+cgExtensionRemove = element _cgExtensionRemove
 
 foreign import _cgExternal :: ReactIcon
 
-cgExternal :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgExternal = element (unsafeCoerce _cgExternal)
+cgExternal :: Icon
+cgExternal = element _cgExternal
 
 foreign import _cgEye :: ReactIcon
 
-cgEye :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgEye = element (unsafeCoerce _cgEye)
+cgEye :: Icon
+cgEye = element _cgEye
 
 foreign import _cgEyeAlt :: ReactIcon
 
-cgEyeAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgEyeAlt = element (unsafeCoerce _cgEyeAlt)
+cgEyeAlt :: Icon
+cgEyeAlt = element _cgEyeAlt
 
 foreign import _cgFacebook :: ReactIcon
 
-cgFacebook :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgFacebook = element (unsafeCoerce _cgFacebook)
+cgFacebook :: Icon
+cgFacebook = element _cgFacebook
 
 foreign import _cgFeed :: ReactIcon
 
-cgFeed :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgFeed = element (unsafeCoerce _cgFeed)
+cgFeed :: Icon
+cgFeed = element _cgFeed
 
 foreign import _cgFigma :: ReactIcon
 
-cgFigma :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgFigma = element (unsafeCoerce _cgFigma)
+cgFigma :: Icon
+cgFigma = element _cgFigma
 
 foreign import _cgFile :: ReactIcon
 
-cgFile :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgFile = element (unsafeCoerce _cgFile)
+cgFile :: Icon
+cgFile = element _cgFile
 
 foreign import _cgFileAdd :: ReactIcon
 
-cgFileAdd :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgFileAdd = element (unsafeCoerce _cgFileAdd)
+cgFileAdd :: Icon
+cgFileAdd = element _cgFileAdd
 
 foreign import _cgFileDocument :: ReactIcon
 
-cgFileDocument :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgFileDocument = element (unsafeCoerce _cgFileDocument)
+cgFileDocument :: Icon
+cgFileDocument = element _cgFileDocument
 
 foreign import _cgFileRemove :: ReactIcon
 
-cgFileRemove :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgFileRemove = element (unsafeCoerce _cgFileRemove)
+cgFileRemove :: Icon
+cgFileRemove = element _cgFileRemove
 
 foreign import _cgFilm :: ReactIcon
 
-cgFilm :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgFilm = element (unsafeCoerce _cgFilm)
+cgFilm :: Icon
+cgFilm = element _cgFilm
 
 foreign import _cgFilters :: ReactIcon
 
-cgFilters :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgFilters = element (unsafeCoerce _cgFilters)
+cgFilters :: Icon
+cgFilters = element _cgFilters
 
 foreign import _cgFlag :: ReactIcon
 
-cgFlag :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgFlag = element (unsafeCoerce _cgFlag)
+cgFlag :: Icon
+cgFlag = element _cgFlag
 
 foreign import _cgFlagAlt :: ReactIcon
 
-cgFlagAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgFlagAlt = element (unsafeCoerce _cgFlagAlt)
+cgFlagAlt :: Icon
+cgFlagAlt = element _cgFlagAlt
 
 foreign import _cgFolder :: ReactIcon
 
-cgFolder :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgFolder = element (unsafeCoerce _cgFolder)
+cgFolder :: Icon
+cgFolder = element _cgFolder
 
 foreign import _cgFolderAdd :: ReactIcon
 
-cgFolderAdd :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgFolderAdd = element (unsafeCoerce _cgFolderAdd)
+cgFolderAdd :: Icon
+cgFolderAdd = element _cgFolderAdd
 
 foreign import _cgFolderRemove :: ReactIcon
 
-cgFolderRemove :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgFolderRemove = element (unsafeCoerce _cgFolderRemove)
+cgFolderRemove :: Icon
+cgFolderRemove = element _cgFolderRemove
 
 foreign import _cgFontHeight :: ReactIcon
 
-cgFontHeight :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgFontHeight = element (unsafeCoerce _cgFontHeight)
+cgFontHeight :: Icon
+cgFontHeight = element _cgFontHeight
 
 foreign import _cgFontSpacing :: ReactIcon
 
-cgFontSpacing :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgFontSpacing = element (unsafeCoerce _cgFontSpacing)
+cgFontSpacing :: Icon
+cgFontSpacing = element _cgFontSpacing
 
 foreign import _cgFormatBold :: ReactIcon
 
-cgFormatBold :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgFormatBold = element (unsafeCoerce _cgFormatBold)
+cgFormatBold :: Icon
+cgFormatBold = element _cgFormatBold
 
 foreign import _cgFormatCenter :: ReactIcon
 
-cgFormatCenter :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgFormatCenter = element (unsafeCoerce _cgFormatCenter)
+cgFormatCenter :: Icon
+cgFormatCenter = element _cgFormatCenter
 
 foreign import _cgFormatColor :: ReactIcon
 
-cgFormatColor :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgFormatColor = element (unsafeCoerce _cgFormatColor)
+cgFormatColor :: Icon
+cgFormatColor = element _cgFormatColor
 
 foreign import _cgFormatHeading :: ReactIcon
 
-cgFormatHeading :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgFormatHeading = element (unsafeCoerce _cgFormatHeading)
+cgFormatHeading :: Icon
+cgFormatHeading = element _cgFormatHeading
 
 foreign import _cgFormatIndentDecrease :: ReactIcon
 
-cgFormatIndentDecrease :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgFormatIndentDecrease = element (unsafeCoerce _cgFormatIndentDecrease)
+cgFormatIndentDecrease :: Icon
+cgFormatIndentDecrease = element _cgFormatIndentDecrease
 
 foreign import _cgFormatIndentIncrease :: ReactIcon
 
-cgFormatIndentIncrease :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgFormatIndentIncrease = element (unsafeCoerce _cgFormatIndentIncrease)
+cgFormatIndentIncrease :: Icon
+cgFormatIndentIncrease = element _cgFormatIndentIncrease
 
 foreign import _cgFormatItalic :: ReactIcon
 
-cgFormatItalic :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgFormatItalic = element (unsafeCoerce _cgFormatItalic)
+cgFormatItalic :: Icon
+cgFormatItalic = element _cgFormatItalic
 
 foreign import _cgFormatJustify :: ReactIcon
 
-cgFormatJustify :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgFormatJustify = element (unsafeCoerce _cgFormatJustify)
+cgFormatJustify :: Icon
+cgFormatJustify = element _cgFormatJustify
 
 foreign import _cgFormatLeft :: ReactIcon
 
-cgFormatLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgFormatLeft = element (unsafeCoerce _cgFormatLeft)
+cgFormatLeft :: Icon
+cgFormatLeft = element _cgFormatLeft
 
 foreign import _cgFormatLineHeight :: ReactIcon
 
-cgFormatLineHeight :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgFormatLineHeight = element (unsafeCoerce _cgFormatLineHeight)
+cgFormatLineHeight :: Icon
+cgFormatLineHeight = element _cgFormatLineHeight
 
 foreign import _cgFormatRight :: ReactIcon
 
-cgFormatRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgFormatRight = element (unsafeCoerce _cgFormatRight)
+cgFormatRight :: Icon
+cgFormatRight = element _cgFormatRight
 
 foreign import _cgFormatSeparator :: ReactIcon
 
-cgFormatSeparator :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgFormatSeparator = element (unsafeCoerce _cgFormatSeparator)
+cgFormatSeparator :: Icon
+cgFormatSeparator = element _cgFormatSeparator
 
 foreign import _cgFormatSlash :: ReactIcon
 
-cgFormatSlash :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgFormatSlash = element (unsafeCoerce _cgFormatSlash)
+cgFormatSlash :: Icon
+cgFormatSlash = element _cgFormatSlash
 
 foreign import _cgFormatStrike :: ReactIcon
 
-cgFormatStrike :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgFormatStrike = element (unsafeCoerce _cgFormatStrike)
+cgFormatStrike :: Icon
+cgFormatStrike = element _cgFormatStrike
 
 foreign import _cgFormatText :: ReactIcon
 
-cgFormatText :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgFormatText = element (unsafeCoerce _cgFormatText)
+cgFormatText :: Icon
+cgFormatText = element _cgFormatText
 
 foreign import _cgFormatUnderline :: ReactIcon
 
-cgFormatUnderline :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgFormatUnderline = element (unsafeCoerce _cgFormatUnderline)
+cgFormatUnderline :: Icon
+cgFormatUnderline = element _cgFormatUnderline
 
 foreign import _cgFormatUppercase :: ReactIcon
 
-cgFormatUppercase :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgFormatUppercase = element (unsafeCoerce _cgFormatUppercase)
+cgFormatUppercase :: Icon
+cgFormatUppercase = element _cgFormatUppercase
 
 foreign import _cgFramer :: ReactIcon
 
-cgFramer :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgFramer = element (unsafeCoerce _cgFramer)
+cgFramer :: Icon
+cgFramer = element _cgFramer
 
 foreign import _cgGames :: ReactIcon
 
-cgGames :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgGames = element (unsafeCoerce _cgGames)
+cgGames :: Icon
+cgGames = element _cgGames
 
 foreign import _cgGenderFemale :: ReactIcon
 
-cgGenderFemale :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgGenderFemale = element (unsafeCoerce _cgGenderFemale)
+cgGenderFemale :: Icon
+cgGenderFemale = element _cgGenderFemale
 
 foreign import _cgGenderMale :: ReactIcon
 
-cgGenderMale :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgGenderMale = element (unsafeCoerce _cgGenderMale)
+cgGenderMale :: Icon
+cgGenderMale = element _cgGenderMale
 
 foreign import _cgGhost :: ReactIcon
 
-cgGhost :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgGhost = element (unsafeCoerce _cgGhost)
+cgGhost :: Icon
+cgGhost = element _cgGhost
 
 foreign import _cgGhostCharacter :: ReactIcon
 
-cgGhostCharacter :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgGhostCharacter = element (unsafeCoerce _cgGhostCharacter)
+cgGhostCharacter :: Icon
+cgGhostCharacter = element _cgGhostCharacter
 
 foreign import _cgGift :: ReactIcon
 
-cgGift :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgGift = element (unsafeCoerce _cgGift)
+cgGift :: Icon
+cgGift = element _cgGift
 
 foreign import _cgGirl :: ReactIcon
 
-cgGirl :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgGirl = element (unsafeCoerce _cgGirl)
+cgGirl :: Icon
+cgGirl = element _cgGirl
 
 foreign import _cgGitBranch :: ReactIcon
 
-cgGitBranch :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgGitBranch = element (unsafeCoerce _cgGitBranch)
+cgGitBranch :: Icon
+cgGitBranch = element _cgGitBranch
 
 foreign import _cgGitCommit :: ReactIcon
 
-cgGitCommit :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgGitCommit = element (unsafeCoerce _cgGitCommit)
+cgGitCommit :: Icon
+cgGitCommit = element _cgGitCommit
 
 foreign import _cgGitFork :: ReactIcon
 
-cgGitFork :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgGitFork = element (unsafeCoerce _cgGitFork)
+cgGitFork :: Icon
+cgGitFork = element _cgGitFork
 
 foreign import _cgGitPull :: ReactIcon
 
-cgGitPull :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgGitPull = element (unsafeCoerce _cgGitPull)
+cgGitPull :: Icon
+cgGitPull = element _cgGitPull
 
 foreign import _cgGitter :: ReactIcon
 
-cgGitter :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgGitter = element (unsafeCoerce _cgGitter)
+cgGitter :: Icon
+cgGitter = element _cgGitter
 
 foreign import _cgGlass :: ReactIcon
 
-cgGlass :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgGlass = element (unsafeCoerce _cgGlass)
+cgGlass :: Icon
+cgGlass = element _cgGlass
 
 foreign import _cgGlassAlt :: ReactIcon
 
-cgGlassAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgGlassAlt = element (unsafeCoerce _cgGlassAlt)
+cgGlassAlt :: Icon
+cgGlassAlt = element _cgGlassAlt
 
 foreign import _cgGlobe :: ReactIcon
 
-cgGlobe :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgGlobe = element (unsafeCoerce _cgGlobe)
+cgGlobe :: Icon
+cgGlobe = element _cgGlobe
 
 foreign import _cgGlobeAlt :: ReactIcon
 
-cgGlobeAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgGlobeAlt = element (unsafeCoerce _cgGlobeAlt)
+cgGlobeAlt :: Icon
+cgGlobeAlt = element _cgGlobeAlt
 
 foreign import _cgGoogle :: ReactIcon
 
-cgGoogle :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgGoogle = element (unsafeCoerce _cgGoogle)
+cgGoogle :: Icon
+cgGoogle = element _cgGoogle
 
 foreign import _cgGoogleTasks :: ReactIcon
 
-cgGoogleTasks :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgGoogleTasks = element (unsafeCoerce _cgGoogleTasks)
+cgGoogleTasks :: Icon
+cgGoogleTasks = element _cgGoogleTasks
 
 foreign import _cgGym :: ReactIcon
 
-cgGym :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgGym = element (unsafeCoerce _cgGym)
+cgGym :: Icon
+cgGym = element _cgGym
 
 foreign import _cgHashtag :: ReactIcon
 
-cgHashtag :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgHashtag = element (unsafeCoerce _cgHashtag)
+cgHashtag :: Icon
+cgHashtag = element _cgHashtag
 
 foreign import _cgHeadset :: ReactIcon
 
-cgHeadset :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgHeadset = element (unsafeCoerce _cgHeadset)
+cgHeadset :: Icon
+cgHeadset = element _cgHeadset
 
 foreign import _cgHeart :: ReactIcon
 
-cgHeart :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgHeart = element (unsafeCoerce _cgHeart)
+cgHeart :: Icon
+cgHeart = element _cgHeart
 
 foreign import _cgHello :: ReactIcon
 
-cgHello :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgHello = element (unsafeCoerce _cgHello)
+cgHello :: Icon
+cgHello = element _cgHello
 
 foreign import _cgHome :: ReactIcon
 
-cgHome :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgHome = element (unsafeCoerce _cgHome)
+cgHome :: Icon
+cgHome = element _cgHome
 
 foreign import _cgHomeAlt :: ReactIcon
 
-cgHomeAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgHomeAlt = element (unsafeCoerce _cgHomeAlt)
+cgHomeAlt :: Icon
+cgHomeAlt = element _cgHomeAlt
 
 foreign import _cgHomeScreen :: ReactIcon
 
-cgHomeScreen :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgHomeScreen = element (unsafeCoerce _cgHomeScreen)
+cgHomeScreen :: Icon
+cgHomeScreen = element _cgHomeScreen
 
 foreign import _cgIcecream :: ReactIcon
 
-cgIcecream :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgIcecream = element (unsafeCoerce _cgIcecream)
+cgIcecream :: Icon
+cgIcecream = element _cgIcecream
 
 foreign import _cgIfDesign :: ReactIcon
 
-cgIfDesign :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgIfDesign = element (unsafeCoerce _cgIfDesign)
+cgIfDesign :: Icon
+cgIfDesign = element _cgIfDesign
 
 foreign import _cgImage :: ReactIcon
 
-cgImage :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgImage = element (unsafeCoerce _cgImage)
+cgImage :: Icon
+cgImage = element _cgImage
 
 foreign import _cgImport :: ReactIcon
 
-cgImport :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgImport = element (unsafeCoerce _cgImport)
+cgImport :: Icon
+cgImport = element _cgImport
 
 foreign import _cgInbox :: ReactIcon
 
-cgInbox :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgInbox = element (unsafeCoerce _cgInbox)
+cgInbox :: Icon
+cgInbox = element _cgInbox
 
 foreign import _cgIndieHackers :: ReactIcon
 
-cgIndieHackers :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgIndieHackers = element (unsafeCoerce _cgIndieHackers)
+cgIndieHackers :: Icon
+cgIndieHackers = element _cgIndieHackers
 
 foreign import _cgInfinity :: ReactIcon
 
-cgInfinity :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgInfinity = element (unsafeCoerce _cgInfinity)
+cgInfinity :: Icon
+cgInfinity = element _cgInfinity
 
 foreign import _cgInfo :: ReactIcon
 
-cgInfo :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgInfo = element (unsafeCoerce _cgInfo)
+cgInfo :: Icon
+cgInfo = element _cgInfo
 
 foreign import _cgInpicture :: ReactIcon
 
-cgInpicture :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgInpicture = element (unsafeCoerce _cgInpicture)
+cgInpicture :: Icon
+cgInpicture = element _cgInpicture
 
 foreign import _cgInsertAfter :: ReactIcon
 
-cgInsertAfter :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgInsertAfter = element (unsafeCoerce _cgInsertAfter)
+cgInsertAfter :: Icon
+cgInsertAfter = element _cgInsertAfter
 
 foreign import _cgInsertAfterO :: ReactIcon
 
-cgInsertAfterO :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgInsertAfterO = element (unsafeCoerce _cgInsertAfterO)
+cgInsertAfterO :: Icon
+cgInsertAfterO = element _cgInsertAfterO
 
 foreign import _cgInsertAfterR :: ReactIcon
 
-cgInsertAfterR :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgInsertAfterR = element (unsafeCoerce _cgInsertAfterR)
+cgInsertAfterR :: Icon
+cgInsertAfterR = element _cgInsertAfterR
 
 foreign import _cgInsertBefore :: ReactIcon
 
-cgInsertBefore :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgInsertBefore = element (unsafeCoerce _cgInsertBefore)
+cgInsertBefore :: Icon
+cgInsertBefore = element _cgInsertBefore
 
 foreign import _cgInsertBeforeO :: ReactIcon
 
-cgInsertBeforeO :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgInsertBeforeO = element (unsafeCoerce _cgInsertBeforeO)
+cgInsertBeforeO :: Icon
+cgInsertBeforeO = element _cgInsertBeforeO
 
 foreign import _cgInsertBeforeR :: ReactIcon
 
-cgInsertBeforeR :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgInsertBeforeR = element (unsafeCoerce _cgInsertBeforeR)
+cgInsertBeforeR :: Icon
+cgInsertBeforeR = element _cgInsertBeforeR
 
 foreign import _cgInsights :: ReactIcon
 
-cgInsights :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgInsights = element (unsafeCoerce _cgInsights)
+cgInsights :: Icon
+cgInsights = element _cgInsights
 
 foreign import _cgInstagram :: ReactIcon
 
-cgInstagram :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgInstagram = element (unsafeCoerce _cgInstagram)
+cgInstagram :: Icon
+cgInstagram = element _cgInstagram
 
 foreign import _cgInternal :: ReactIcon
 
-cgInternal :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgInternal = element (unsafeCoerce _cgInternal)
+cgInternal :: Icon
+cgInternal = element _cgInternal
 
 foreign import _cgKey :: ReactIcon
 
-cgKey :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgKey = element (unsafeCoerce _cgKey)
+cgKey :: Icon
+cgKey = element _cgKey
 
 foreign import _cgKeyboard :: ReactIcon
 
-cgKeyboard :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgKeyboard = element (unsafeCoerce _cgKeyboard)
+cgKeyboard :: Icon
+cgKeyboard = element _cgKeyboard
 
 foreign import _cgKeyhole :: ReactIcon
 
-cgKeyhole :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgKeyhole = element (unsafeCoerce _cgKeyhole)
+cgKeyhole :: Icon
+cgKeyhole = element _cgKeyhole
 
 foreign import _cgLaptop :: ReactIcon
 
-cgLaptop :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgLaptop = element (unsafeCoerce _cgLaptop)
+cgLaptop :: Icon
+cgLaptop = element _cgLaptop
 
 foreign import _cgLastpass :: ReactIcon
 
-cgLastpass :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgLastpass = element (unsafeCoerce _cgLastpass)
+cgLastpass :: Icon
+cgLastpass = element _cgLastpass
 
 foreign import _cgLayoutGrid :: ReactIcon
 
-cgLayoutGrid :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgLayoutGrid = element (unsafeCoerce _cgLayoutGrid)
+cgLayoutGrid :: Icon
+cgLayoutGrid = element _cgLayoutGrid
 
 foreign import _cgLayoutGridSmall :: ReactIcon
 
-cgLayoutGridSmall :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgLayoutGridSmall = element (unsafeCoerce _cgLayoutGridSmall)
+cgLayoutGridSmall :: Icon
+cgLayoutGridSmall = element _cgLayoutGridSmall
 
 foreign import _cgLayoutList :: ReactIcon
 
-cgLayoutList :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgLayoutList = element (unsafeCoerce _cgLayoutList)
+cgLayoutList :: Icon
+cgLayoutList = element _cgLayoutList
 
 foreign import _cgLayoutPin :: ReactIcon
 
-cgLayoutPin :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgLayoutPin = element (unsafeCoerce _cgLayoutPin)
+cgLayoutPin :: Icon
+cgLayoutPin = element _cgLayoutPin
 
 foreign import _cgLinear :: ReactIcon
 
-cgLinear :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgLinear = element (unsafeCoerce _cgLinear)
+cgLinear :: Icon
+cgLinear = element _cgLinear
 
 foreign import _cgLink :: ReactIcon
 
-cgLink :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgLink = element (unsafeCoerce _cgLink)
+cgLink :: Icon
+cgLink = element _cgLink
 
 foreign import _cgList :: ReactIcon
 
-cgList :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgList = element (unsafeCoerce _cgList)
+cgList :: Icon
+cgList = element _cgList
 
 foreign import _cgListTree :: ReactIcon
 
-cgListTree :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgListTree = element (unsafeCoerce _cgListTree)
+cgListTree :: Icon
+cgListTree = element _cgListTree
 
 foreign import _cgLivePhoto :: ReactIcon
 
-cgLivePhoto :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgLivePhoto = element (unsafeCoerce _cgLivePhoto)
+cgLivePhoto :: Icon
+cgLivePhoto = element _cgLivePhoto
 
 foreign import _cgLoadbar :: ReactIcon
 
-cgLoadbar :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgLoadbar = element (unsafeCoerce _cgLoadbar)
+cgLoadbar :: Icon
+cgLoadbar = element _cgLoadbar
 
 foreign import _cgLoadbarAlt :: ReactIcon
 
-cgLoadbarAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgLoadbarAlt = element (unsafeCoerce _cgLoadbarAlt)
+cgLoadbarAlt :: Icon
+cgLoadbarAlt = element _cgLoadbarAlt
 
 foreign import _cgLoadbarDoc :: ReactIcon
 
-cgLoadbarDoc :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgLoadbarDoc = element (unsafeCoerce _cgLoadbarDoc)
+cgLoadbarDoc :: Icon
+cgLoadbarDoc = element _cgLoadbarDoc
 
 foreign import _cgLoadbarSound :: ReactIcon
 
-cgLoadbarSound :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgLoadbarSound = element (unsafeCoerce _cgLoadbarSound)
+cgLoadbarSound :: Icon
+cgLoadbarSound = element _cgLoadbarSound
 
 foreign import _cgLock :: ReactIcon
 
-cgLock :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgLock = element (unsafeCoerce _cgLock)
+cgLock :: Icon
+cgLock = element _cgLock
 
 foreign import _cgLockUnlock :: ReactIcon
 
-cgLockUnlock :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgLockUnlock = element (unsafeCoerce _cgLockUnlock)
+cgLockUnlock :: Icon
+cgLockUnlock = element _cgLockUnlock
 
 foreign import _cgLogIn :: ReactIcon
 
-cgLogIn :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgLogIn = element (unsafeCoerce _cgLogIn)
+cgLogIn :: Icon
+cgLogIn = element _cgLogIn
 
 foreign import _cgLogOff :: ReactIcon
 
-cgLogOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgLogOff = element (unsafeCoerce _cgLogOff)
+cgLogOff :: Icon
+cgLogOff = element _cgLogOff
 
 foreign import _cgLogOut :: ReactIcon
 
-cgLogOut :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgLogOut = element (unsafeCoerce _cgLogOut)
+cgLogOut :: Icon
+cgLogOut = element _cgLogOut
 
 foreign import _cgLoupe :: ReactIcon
 
-cgLoupe :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgLoupe = element (unsafeCoerce _cgLoupe)
+cgLoupe :: Icon
+cgLoupe = element _cgLoupe
 
 foreign import _cgMagnet :: ReactIcon
 
-cgMagnet :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgMagnet = element (unsafeCoerce _cgMagnet)
+cgMagnet :: Icon
+cgMagnet = element _cgMagnet
 
 foreign import _cgMail :: ReactIcon
 
-cgMail :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgMail = element (unsafeCoerce _cgMail)
+cgMail :: Icon
+cgMail = element _cgMail
 
 foreign import _cgMailForward :: ReactIcon
 
-cgMailForward :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgMailForward = element (unsafeCoerce _cgMailForward)
+cgMailForward :: Icon
+cgMailForward = element _cgMailForward
 
 foreign import _cgMailOpen :: ReactIcon
 
-cgMailOpen :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgMailOpen = element (unsafeCoerce _cgMailOpen)
+cgMailOpen :: Icon
+cgMailOpen = element _cgMailOpen
 
 foreign import _cgMailReply :: ReactIcon
 
-cgMailReply :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgMailReply = element (unsafeCoerce _cgMailReply)
+cgMailReply :: Icon
+cgMailReply = element _cgMailReply
 
 foreign import _cgMathDivide :: ReactIcon
 
-cgMathDivide :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgMathDivide = element (unsafeCoerce _cgMathDivide)
+cgMathDivide :: Icon
+cgMathDivide = element _cgMathDivide
 
 foreign import _cgMathEqual :: ReactIcon
 
-cgMathEqual :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgMathEqual = element (unsafeCoerce _cgMathEqual)
+cgMathEqual :: Icon
+cgMathEqual = element _cgMathEqual
 
 foreign import _cgMathMinus :: ReactIcon
 
-cgMathMinus :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgMathMinus = element (unsafeCoerce _cgMathMinus)
+cgMathMinus :: Icon
+cgMathMinus = element _cgMathMinus
 
 foreign import _cgMathPercent :: ReactIcon
 
-cgMathPercent :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgMathPercent = element (unsafeCoerce _cgMathPercent)
+cgMathPercent :: Icon
+cgMathPercent = element _cgMathPercent
 
 foreign import _cgMathPlus :: ReactIcon
 
-cgMathPlus :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgMathPlus = element (unsafeCoerce _cgMathPlus)
+cgMathPlus :: Icon
+cgMathPlus = element _cgMathPlus
 
 foreign import _cgMaximize :: ReactIcon
 
-cgMaximize :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgMaximize = element (unsafeCoerce _cgMaximize)
+cgMaximize :: Icon
+cgMaximize = element _cgMaximize
 
 foreign import _cgMaximizeAlt :: ReactIcon
 
-cgMaximizeAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgMaximizeAlt = element (unsafeCoerce _cgMaximizeAlt)
+cgMaximizeAlt :: Icon
+cgMaximizeAlt = element _cgMaximizeAlt
 
 foreign import _cgMaze :: ReactIcon
 
-cgMaze :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgMaze = element (unsafeCoerce _cgMaze)
+cgMaze :: Icon
+cgMaze = element _cgMaze
 
 foreign import _cgMediaLive :: ReactIcon
 
-cgMediaLive :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgMediaLive = element (unsafeCoerce _cgMediaLive)
+cgMediaLive :: Icon
+cgMediaLive = element _cgMediaLive
 
 foreign import _cgMediaPodcast :: ReactIcon
 
-cgMediaPodcast :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgMediaPodcast = element (unsafeCoerce _cgMediaPodcast)
+cgMediaPodcast :: Icon
+cgMediaPodcast = element _cgMediaPodcast
 
 foreign import _cgMenu :: ReactIcon
 
-cgMenu :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgMenu = element (unsafeCoerce _cgMenu)
+cgMenu :: Icon
+cgMenu = element _cgMenu
 
 foreign import _cgMenuBoxed :: ReactIcon
 
-cgMenuBoxed :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgMenuBoxed = element (unsafeCoerce _cgMenuBoxed)
+cgMenuBoxed :: Icon
+cgMenuBoxed = element _cgMenuBoxed
 
 foreign import _cgMenuCake :: ReactIcon
 
-cgMenuCake :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgMenuCake = element (unsafeCoerce _cgMenuCake)
+cgMenuCake :: Icon
+cgMenuCake = element _cgMenuCake
 
 foreign import _cgMenuCheese :: ReactIcon
 
-cgMenuCheese :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgMenuCheese = element (unsafeCoerce _cgMenuCheese)
+cgMenuCheese :: Icon
+cgMenuCheese = element _cgMenuCheese
 
 foreign import _cgMenuGridO :: ReactIcon
 
-cgMenuGridO :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgMenuGridO = element (unsafeCoerce _cgMenuGridO)
+cgMenuGridO :: Icon
+cgMenuGridO = element _cgMenuGridO
 
 foreign import _cgMenuGridR :: ReactIcon
 
-cgMenuGridR :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgMenuGridR = element (unsafeCoerce _cgMenuGridR)
+cgMenuGridR :: Icon
+cgMenuGridR = element _cgMenuGridR
 
 foreign import _cgMenuHotdog :: ReactIcon
 
-cgMenuHotdog :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgMenuHotdog = element (unsafeCoerce _cgMenuHotdog)
+cgMenuHotdog :: Icon
+cgMenuHotdog = element _cgMenuHotdog
 
 foreign import _cgMenuLeft :: ReactIcon
 
-cgMenuLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgMenuLeft = element (unsafeCoerce _cgMenuLeft)
+cgMenuLeft :: Icon
+cgMenuLeft = element _cgMenuLeft
 
 foreign import _cgMenuLeftAlt :: ReactIcon
 
-cgMenuLeftAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgMenuLeftAlt = element (unsafeCoerce _cgMenuLeftAlt)
+cgMenuLeftAlt :: Icon
+cgMenuLeftAlt = element _cgMenuLeftAlt
 
 foreign import _cgMenuMotion :: ReactIcon
 
-cgMenuMotion :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgMenuMotion = element (unsafeCoerce _cgMenuMotion)
+cgMenuMotion :: Icon
+cgMenuMotion = element _cgMenuMotion
 
 foreign import _cgMenuOreos :: ReactIcon
 
-cgMenuOreos :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgMenuOreos = element (unsafeCoerce _cgMenuOreos)
+cgMenuOreos :: Icon
+cgMenuOreos = element _cgMenuOreos
 
 foreign import _cgMenuRight :: ReactIcon
 
-cgMenuRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgMenuRight = element (unsafeCoerce _cgMenuRight)
+cgMenuRight :: Icon
+cgMenuRight = element _cgMenuRight
 
 foreign import _cgMenuRightAlt :: ReactIcon
 
-cgMenuRightAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgMenuRightAlt = element (unsafeCoerce _cgMenuRightAlt)
+cgMenuRightAlt :: Icon
+cgMenuRightAlt = element _cgMenuRightAlt
 
 foreign import _cgMenuRound :: ReactIcon
 
-cgMenuRound :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgMenuRound = element (unsafeCoerce _cgMenuRound)
+cgMenuRound :: Icon
+cgMenuRound = element _cgMenuRound
 
 foreign import _cgMergeHorizontal :: ReactIcon
 
-cgMergeHorizontal :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgMergeHorizontal = element (unsafeCoerce _cgMergeHorizontal)
+cgMergeHorizontal :: Icon
+cgMergeHorizontal = element _cgMergeHorizontal
 
 foreign import _cgMergeVertical :: ReactIcon
 
-cgMergeVertical :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgMergeVertical = element (unsafeCoerce _cgMergeVertical)
+cgMergeVertical :: Icon
+cgMergeVertical = element _cgMergeVertical
 
 foreign import _cgMic :: ReactIcon
 
-cgMic :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgMic = element (unsafeCoerce _cgMic)
+cgMic :: Icon
+cgMic = element _cgMic
 
 foreign import _cgMicrobit :: ReactIcon
 
-cgMicrobit :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgMicrobit = element (unsafeCoerce _cgMicrobit)
+cgMicrobit :: Icon
+cgMicrobit = element _cgMicrobit
 
 foreign import _cgMicrosoft :: ReactIcon
 
-cgMicrosoft :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgMicrosoft = element (unsafeCoerce _cgMicrosoft)
+cgMicrosoft :: Icon
+cgMicrosoft = element _cgMicrosoft
 
 foreign import _cgMinimize :: ReactIcon
 
-cgMinimize :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgMinimize = element (unsafeCoerce _cgMinimize)
+cgMinimize :: Icon
+cgMinimize = element _cgMinimize
 
 foreign import _cgMinimizeAlt :: ReactIcon
 
-cgMinimizeAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgMinimizeAlt = element (unsafeCoerce _cgMinimizeAlt)
+cgMinimizeAlt :: Icon
+cgMinimizeAlt = element _cgMinimizeAlt
 
 foreign import _cgMiniPlayer :: ReactIcon
 
-cgMiniPlayer :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgMiniPlayer = element (unsafeCoerce _cgMiniPlayer)
+cgMiniPlayer :: Icon
+cgMiniPlayer = element _cgMiniPlayer
 
 foreign import _cgModem :: ReactIcon
 
-cgModem :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgModem = element (unsafeCoerce _cgModem)
+cgModem :: Icon
+cgModem = element _cgModem
 
 foreign import _cgMonday :: ReactIcon
 
-cgMonday :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgMonday = element (unsafeCoerce _cgMonday)
+cgMonday :: Icon
+cgMonday = element _cgMonday
 
 foreign import _cgMoon :: ReactIcon
 
-cgMoon :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgMoon = element (unsafeCoerce _cgMoon)
+cgMoon :: Icon
+cgMoon = element _cgMoon
 
 foreign import _cgMore :: ReactIcon
 
-cgMore :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgMore = element (unsafeCoerce _cgMore)
+cgMore :: Icon
+cgMore = element _cgMore
 
 foreign import _cgMoreAlt :: ReactIcon
 
-cgMoreAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgMoreAlt = element (unsafeCoerce _cgMoreAlt)
+cgMoreAlt :: Icon
+cgMoreAlt = element _cgMoreAlt
 
 foreign import _cgMoreO :: ReactIcon
 
-cgMoreO :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgMoreO = element (unsafeCoerce _cgMoreO)
+cgMoreO :: Icon
+cgMoreO = element _cgMoreO
 
 foreign import _cgMoreR :: ReactIcon
 
-cgMoreR :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgMoreR = element (unsafeCoerce _cgMoreR)
+cgMoreR :: Icon
+cgMoreR = element _cgMoreR
 
 foreign import _cgMoreVertical :: ReactIcon
 
-cgMoreVertical :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgMoreVertical = element (unsafeCoerce _cgMoreVertical)
+cgMoreVertical :: Icon
+cgMoreVertical = element _cgMoreVertical
 
 foreign import _cgMoreVerticalAlt :: ReactIcon
 
-cgMoreVerticalAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgMoreVerticalAlt = element (unsafeCoerce _cgMoreVerticalAlt)
+cgMoreVerticalAlt :: Icon
+cgMoreVerticalAlt = element _cgMoreVerticalAlt
 
 foreign import _cgMoreVerticalO :: ReactIcon
 
-cgMoreVerticalO :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgMoreVerticalO = element (unsafeCoerce _cgMoreVerticalO)
+cgMoreVerticalO :: Icon
+cgMoreVerticalO = element _cgMoreVerticalO
 
 foreign import _cgMoreVerticalR :: ReactIcon
 
-cgMoreVerticalR :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgMoreVerticalR = element (unsafeCoerce _cgMoreVerticalR)
+cgMoreVerticalR :: Icon
+cgMoreVerticalR = element _cgMoreVerticalR
 
 foreign import _cgMouse :: ReactIcon
 
-cgMouse :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgMouse = element (unsafeCoerce _cgMouse)
+cgMouse :: Icon
+cgMouse = element _cgMouse
 
 foreign import _cgMoveDown :: ReactIcon
 
-cgMoveDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgMoveDown = element (unsafeCoerce _cgMoveDown)
+cgMoveDown :: Icon
+cgMoveDown = element _cgMoveDown
 
 foreign import _cgMoveLeft :: ReactIcon
 
-cgMoveLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgMoveLeft = element (unsafeCoerce _cgMoveLeft)
+cgMoveLeft :: Icon
+cgMoveLeft = element _cgMoveLeft
 
 foreign import _cgMoveRight :: ReactIcon
 
-cgMoveRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgMoveRight = element (unsafeCoerce _cgMoveRight)
+cgMoveRight :: Icon
+cgMoveRight = element _cgMoveRight
 
 foreign import _cgMoveTask :: ReactIcon
 
-cgMoveTask :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgMoveTask = element (unsafeCoerce _cgMoveTask)
+cgMoveTask :: Icon
+cgMoveTask = element _cgMoveTask
 
 foreign import _cgMoveUp :: ReactIcon
 
-cgMoveUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgMoveUp = element (unsafeCoerce _cgMoveUp)
+cgMoveUp :: Icon
+cgMoveUp = element _cgMoveUp
 
 foreign import _cgMusic :: ReactIcon
 
-cgMusic :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgMusic = element (unsafeCoerce _cgMusic)
+cgMusic :: Icon
+cgMusic = element _cgMusic
 
 foreign import _cgMusicNote :: ReactIcon
 
-cgMusicNote :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgMusicNote = element (unsafeCoerce _cgMusicNote)
+cgMusicNote :: Icon
+cgMusicNote = element _cgMusicNote
 
 foreign import _cgMusicSpeaker :: ReactIcon
 
-cgMusicSpeaker :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgMusicSpeaker = element (unsafeCoerce _cgMusicSpeaker)
+cgMusicSpeaker :: Icon
+cgMusicSpeaker = element _cgMusicSpeaker
 
 foreign import _cgNametag :: ReactIcon
 
-cgNametag :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgNametag = element (unsafeCoerce _cgNametag)
+cgNametag :: Icon
+cgNametag = element _cgNametag
 
 foreign import _cgNotes :: ReactIcon
 
-cgNotes :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgNotes = element (unsafeCoerce _cgNotes)
+cgNotes :: Icon
+cgNotes = element _cgNotes
 
 foreign import _cgNotifications :: ReactIcon
 
-cgNotifications :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgNotifications = element (unsafeCoerce _cgNotifications)
+cgNotifications :: Icon
+cgNotifications = element _cgNotifications
 
 foreign import _cgNpm :: ReactIcon
 
-cgNpm :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgNpm = element (unsafeCoerce _cgNpm)
+cgNpm :: Icon
+cgNpm = element _cgNpm
 
 foreign import _cgOculus :: ReactIcon
 
-cgOculus :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgOculus = element (unsafeCoerce _cgOculus)
+cgOculus :: Icon
+cgOculus = element _cgOculus
 
 foreign import _cgOpenCollective :: ReactIcon
 
-cgOpenCollective :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgOpenCollective = element (unsafeCoerce _cgOpenCollective)
+cgOpenCollective :: Icon
+cgOpenCollective = element _cgOpenCollective
 
 foreign import _cgOptions :: ReactIcon
 
-cgOptions :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgOptions = element (unsafeCoerce _cgOptions)
+cgOptions :: Icon
+cgOptions = element _cgOptions
 
 foreign import _cgOrganisation :: ReactIcon
 
-cgOrganisation :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgOrganisation = element (unsafeCoerce _cgOrganisation)
+cgOrganisation :: Icon
+cgOrganisation = element _cgOrganisation
 
 foreign import _cgOverflow :: ReactIcon
 
-cgOverflow :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgOverflow = element (unsafeCoerce _cgOverflow)
+cgOverflow :: Icon
+cgOverflow = element _cgOverflow
 
 foreign import _cgPacman :: ReactIcon
 
-cgPacman :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgPacman = element (unsafeCoerce _cgPacman)
+cgPacman :: Icon
+cgPacman = element _cgPacman
 
 foreign import _cgPassword :: ReactIcon
 
-cgPassword :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgPassword = element (unsafeCoerce _cgPassword)
+cgPassword :: Icon
+cgPassword = element _cgPassword
 
 foreign import _cgPathBack :: ReactIcon
 
-cgPathBack :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgPathBack = element (unsafeCoerce _cgPathBack)
+cgPathBack :: Icon
+cgPathBack = element _cgPathBack
 
 foreign import _cgPathCrop :: ReactIcon
 
-cgPathCrop :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgPathCrop = element (unsafeCoerce _cgPathCrop)
+cgPathCrop :: Icon
+cgPathCrop = element _cgPathCrop
 
 foreign import _cgPathDivide :: ReactIcon
 
-cgPathDivide :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgPathDivide = element (unsafeCoerce _cgPathDivide)
+cgPathDivide :: Icon
+cgPathDivide = element _cgPathDivide
 
 foreign import _cgPathExclude :: ReactIcon
 
-cgPathExclude :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgPathExclude = element (unsafeCoerce _cgPathExclude)
+cgPathExclude :: Icon
+cgPathExclude = element _cgPathExclude
 
 foreign import _cgPathFront :: ReactIcon
 
-cgPathFront :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgPathFront = element (unsafeCoerce _cgPathFront)
+cgPathFront :: Icon
+cgPathFront = element _cgPathFront
 
 foreign import _cgPathIntersect :: ReactIcon
 
-cgPathIntersect :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgPathIntersect = element (unsafeCoerce _cgPathIntersect)
+cgPathIntersect :: Icon
+cgPathIntersect = element _cgPathIntersect
 
 foreign import _cgPathOutline :: ReactIcon
 
-cgPathOutline :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgPathOutline = element (unsafeCoerce _cgPathOutline)
+cgPathOutline :: Icon
+cgPathOutline = element _cgPathOutline
 
 foreign import _cgPathTrim :: ReactIcon
 
-cgPathTrim :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgPathTrim = element (unsafeCoerce _cgPathTrim)
+cgPathTrim :: Icon
+cgPathTrim = element _cgPathTrim
 
 foreign import _cgPathUnite :: ReactIcon
 
-cgPathUnite :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgPathUnite = element (unsafeCoerce _cgPathUnite)
+cgPathUnite :: Icon
+cgPathUnite = element _cgPathUnite
 
 foreign import _cgPatreon :: ReactIcon
 
-cgPatreon :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgPatreon = element (unsafeCoerce _cgPatreon)
+cgPatreon :: Icon
+cgPatreon = element _cgPatreon
 
 foreign import _cgPaypal :: ReactIcon
 
-cgPaypal :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgPaypal = element (unsafeCoerce _cgPaypal)
+cgPaypal :: Icon
+cgPaypal = element _cgPaypal
 
 foreign import _cgPen :: ReactIcon
 
-cgPen :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgPen = element (unsafeCoerce _cgPen)
+cgPen :: Icon
+cgPen = element _cgPen
 
 foreign import _cgPentagonBottomLeft :: ReactIcon
 
-cgPentagonBottomLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgPentagonBottomLeft = element (unsafeCoerce _cgPentagonBottomLeft)
+cgPentagonBottomLeft :: Icon
+cgPentagonBottomLeft = element _cgPentagonBottomLeft
 
 foreign import _cgPentagonBottomRight :: ReactIcon
 
-cgPentagonBottomRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgPentagonBottomRight = element (unsafeCoerce _cgPentagonBottomRight)
+cgPentagonBottomRight :: Icon
+cgPentagonBottomRight = element _cgPentagonBottomRight
 
 foreign import _cgPentagonDown :: ReactIcon
 
-cgPentagonDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgPentagonDown = element (unsafeCoerce _cgPentagonDown)
+cgPentagonDown :: Icon
+cgPentagonDown = element _cgPentagonDown
 
 foreign import _cgPentagonLeft :: ReactIcon
 
-cgPentagonLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgPentagonLeft = element (unsafeCoerce _cgPentagonLeft)
+cgPentagonLeft :: Icon
+cgPentagonLeft = element _cgPentagonLeft
 
 foreign import _cgPentagonRight :: ReactIcon
 
-cgPentagonRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgPentagonRight = element (unsafeCoerce _cgPentagonRight)
+cgPentagonRight :: Icon
+cgPentagonRight = element _cgPentagonRight
 
 foreign import _cgPentagonTopLeft :: ReactIcon
 
-cgPentagonTopLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgPentagonTopLeft = element (unsafeCoerce _cgPentagonTopLeft)
+cgPentagonTopLeft :: Icon
+cgPentagonTopLeft = element _cgPentagonTopLeft
 
 foreign import _cgPentagonTopRight :: ReactIcon
 
-cgPentagonTopRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgPentagonTopRight = element (unsafeCoerce _cgPentagonTopRight)
+cgPentagonTopRight :: Icon
+cgPentagonTopRight = element _cgPentagonTopRight
 
 foreign import _cgPentagonUp :: ReactIcon
 
-cgPentagonUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgPentagonUp = element (unsafeCoerce _cgPentagonUp)
+cgPentagonUp :: Icon
+cgPentagonUp = element _cgPentagonUp
 
 foreign import _cgPerformance :: ReactIcon
 
-cgPerformance :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgPerformance = element (unsafeCoerce _cgPerformance)
+cgPerformance :: Icon
+cgPerformance = element _cgPerformance
 
 foreign import _cgPexels :: ReactIcon
 
-cgPexels :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgPexels = element (unsafeCoerce _cgPexels)
+cgPexels :: Icon
+cgPexels = element _cgPexels
 
 foreign import _cgPhone :: ReactIcon
 
-cgPhone :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgPhone = element (unsafeCoerce _cgPhone)
+cgPhone :: Icon
+cgPhone = element _cgPhone
 
 foreign import _cgPhotoscan :: ReactIcon
 
-cgPhotoscan :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgPhotoscan = element (unsafeCoerce _cgPhotoscan)
+cgPhotoscan :: Icon
+cgPhotoscan = element _cgPhotoscan
 
 foreign import _cgPiano :: ReactIcon
 
-cgPiano :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgPiano = element (unsafeCoerce _cgPiano)
+cgPiano :: Icon
+cgPiano = element _cgPiano
 
 foreign import _cgPill :: ReactIcon
 
-cgPill :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgPill = element (unsafeCoerce _cgPill)
+cgPill :: Icon
+cgPill = element _cgPill
 
 foreign import _cgPin :: ReactIcon
 
-cgPin :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgPin = element (unsafeCoerce _cgPin)
+cgPin :: Icon
+cgPin = element _cgPin
 
 foreign import _cgPinAlt :: ReactIcon
 
-cgPinAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgPinAlt = element (unsafeCoerce _cgPinAlt)
+cgPinAlt :: Icon
+cgPinAlt = element _cgPinAlt
 
 foreign import _cgPinBottom :: ReactIcon
 
-cgPinBottom :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgPinBottom = element (unsafeCoerce _cgPinBottom)
+cgPinBottom :: Icon
+cgPinBottom = element _cgPinBottom
 
 foreign import _cgPinTop :: ReactIcon
 
-cgPinTop :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgPinTop = element (unsafeCoerce _cgPinTop)
+cgPinTop :: Icon
+cgPinTop = element _cgPinTop
 
 foreign import _cgPlayBackwards :: ReactIcon
 
-cgPlayBackwards :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgPlayBackwards = element (unsafeCoerce _cgPlayBackwards)
+cgPlayBackwards :: Icon
+cgPlayBackwards = element _cgPlayBackwards
 
 foreign import _cgPlayButton :: ReactIcon
 
-cgPlayButton :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgPlayButton = element (unsafeCoerce _cgPlayButton)
+cgPlayButton :: Icon
+cgPlayButton = element _cgPlayButton
 
 foreign import _cgPlayButtonO :: ReactIcon
 
-cgPlayButtonO :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgPlayButtonO = element (unsafeCoerce _cgPlayButtonO)
+cgPlayButtonO :: Icon
+cgPlayButtonO = element _cgPlayButtonO
 
 foreign import _cgPlayButtonR :: ReactIcon
 
-cgPlayButtonR :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgPlayButtonR = element (unsafeCoerce _cgPlayButtonR)
+cgPlayButtonR :: Icon
+cgPlayButtonR = element _cgPlayButtonR
 
 foreign import _cgPlayForwards :: ReactIcon
 
-cgPlayForwards :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgPlayForwards = element (unsafeCoerce _cgPlayForwards)
+cgPlayForwards :: Icon
+cgPlayForwards = element _cgPlayForwards
 
 foreign import _cgPlayList :: ReactIcon
 
-cgPlayList :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgPlayList = element (unsafeCoerce _cgPlayList)
+cgPlayList :: Icon
+cgPlayList = element _cgPlayList
 
 foreign import _cgPlayListAdd :: ReactIcon
 
-cgPlayListAdd :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgPlayListAdd = element (unsafeCoerce _cgPlayListAdd)
+cgPlayListAdd :: Icon
+cgPlayListAdd = element _cgPlayListAdd
 
 foreign import _cgPlayListCheck :: ReactIcon
 
-cgPlayListCheck :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgPlayListCheck = element (unsafeCoerce _cgPlayListCheck)
+cgPlayListCheck :: Icon
+cgPlayListCheck = element _cgPlayListCheck
 
 foreign import _cgPlayListRemove :: ReactIcon
 
-cgPlayListRemove :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgPlayListRemove = element (unsafeCoerce _cgPlayListRemove)
+cgPlayListRemove :: Icon
+cgPlayListRemove = element _cgPlayListRemove
 
 foreign import _cgPlayListSearch :: ReactIcon
 
-cgPlayListSearch :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgPlayListSearch = element (unsafeCoerce _cgPlayListSearch)
+cgPlayListSearch :: Icon
+cgPlayListSearch = element _cgPlayListSearch
 
 foreign import _cgPlayPause :: ReactIcon
 
-cgPlayPause :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgPlayPause = element (unsafeCoerce _cgPlayPause)
+cgPlayPause :: Icon
+cgPlayPause = element _cgPlayPause
 
 foreign import _cgPlayPauseO :: ReactIcon
 
-cgPlayPauseO :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgPlayPauseO = element (unsafeCoerce _cgPlayPauseO)
+cgPlayPauseO :: Icon
+cgPlayPauseO = element _cgPlayPauseO
 
 foreign import _cgPlayPauseR :: ReactIcon
 
-cgPlayPauseR :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgPlayPauseR = element (unsafeCoerce _cgPlayPauseR)
+cgPlayPauseR :: Icon
+cgPlayPauseR = element _cgPlayPauseR
 
 foreign import _cgPlayStop :: ReactIcon
 
-cgPlayStop :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgPlayStop = element (unsafeCoerce _cgPlayStop)
+cgPlayStop :: Icon
+cgPlayStop = element _cgPlayStop
 
 foreign import _cgPlayStopO :: ReactIcon
 
-cgPlayStopO :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgPlayStopO = element (unsafeCoerce _cgPlayStopO)
+cgPlayStopO :: Icon
+cgPlayStopO = element _cgPlayStopO
 
 foreign import _cgPlayStopR :: ReactIcon
 
-cgPlayStopR :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgPlayStopR = element (unsafeCoerce _cgPlayStopR)
+cgPlayStopR :: Icon
+cgPlayStopR = element _cgPlayStopR
 
 foreign import _cgPlayTrackNext :: ReactIcon
 
-cgPlayTrackNext :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgPlayTrackNext = element (unsafeCoerce _cgPlayTrackNext)
+cgPlayTrackNext :: Icon
+cgPlayTrackNext = element _cgPlayTrackNext
 
 foreign import _cgPlayTrackNextO :: ReactIcon
 
-cgPlayTrackNextO :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgPlayTrackNextO = element (unsafeCoerce _cgPlayTrackNextO)
+cgPlayTrackNextO :: Icon
+cgPlayTrackNextO = element _cgPlayTrackNextO
 
 foreign import _cgPlayTrackNextR :: ReactIcon
 
-cgPlayTrackNextR :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgPlayTrackNextR = element (unsafeCoerce _cgPlayTrackNextR)
+cgPlayTrackNextR :: Icon
+cgPlayTrackNextR = element _cgPlayTrackNextR
 
 foreign import _cgPlayTrackPrev :: ReactIcon
 
-cgPlayTrackPrev :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgPlayTrackPrev = element (unsafeCoerce _cgPlayTrackPrev)
+cgPlayTrackPrev :: Icon
+cgPlayTrackPrev = element _cgPlayTrackPrev
 
 foreign import _cgPlayTrackPrevO :: ReactIcon
 
-cgPlayTrackPrevO :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgPlayTrackPrevO = element (unsafeCoerce _cgPlayTrackPrevO)
+cgPlayTrackPrevO :: Icon
+cgPlayTrackPrevO = element _cgPlayTrackPrevO
 
 foreign import _cgPlayTrackPrevR :: ReactIcon
 
-cgPlayTrackPrevR :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgPlayTrackPrevR = element (unsafeCoerce _cgPlayTrackPrevR)
+cgPlayTrackPrevR :: Icon
+cgPlayTrackPrevR = element _cgPlayTrackPrevR
 
 foreign import _cgPlug :: ReactIcon
 
-cgPlug :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgPlug = element (unsafeCoerce _cgPlug)
+cgPlug :: Icon
+cgPlug = element _cgPlug
 
 foreign import _cgPocket :: ReactIcon
 
-cgPocket :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgPocket = element (unsafeCoerce _cgPocket)
+cgPocket :: Icon
+cgPocket = element _cgPocket
 
 foreign import _cgPokemon :: ReactIcon
 
-cgPokemon :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgPokemon = element (unsafeCoerce _cgPokemon)
+cgPokemon :: Icon
+cgPokemon = element _cgPokemon
 
 foreign import _cgPolaroid :: ReactIcon
 
-cgPolaroid :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgPolaroid = element (unsafeCoerce _cgPolaroid)
+cgPolaroid :: Icon
+cgPolaroid = element _cgPolaroid
 
 foreign import _cgPoll :: ReactIcon
 
-cgPoll :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgPoll = element (unsafeCoerce _cgPoll)
+cgPoll :: Icon
+cgPoll = element _cgPoll
 
 foreign import _cgPresentation :: ReactIcon
 
-cgPresentation :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgPresentation = element (unsafeCoerce _cgPresentation)
+cgPresentation :: Icon
+cgPresentation = element _cgPresentation
 
 foreign import _cgPrinter :: ReactIcon
 
-cgPrinter :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgPrinter = element (unsafeCoerce _cgPrinter)
+cgPrinter :: Icon
+cgPrinter = element _cgPrinter
 
 foreign import _cgProductHunt :: ReactIcon
 
-cgProductHunt :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgProductHunt = element (unsafeCoerce _cgProductHunt)
+cgProductHunt :: Icon
+cgProductHunt = element _cgProductHunt
 
 foreign import _cgProfile :: ReactIcon
 
-cgProfile :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgProfile = element (unsafeCoerce _cgProfile)
+cgProfile :: Icon
+cgProfile = element _cgProfile
 
 foreign import _cgPullClear :: ReactIcon
 
-cgPullClear :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgPullClear = element (unsafeCoerce _cgPullClear)
+cgPullClear :: Icon
+cgPullClear = element _cgPullClear
 
 foreign import _cgPushChevronDown :: ReactIcon
 
-cgPushChevronDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgPushChevronDown = element (unsafeCoerce _cgPushChevronDown)
+cgPushChevronDown :: Icon
+cgPushChevronDown = element _cgPushChevronDown
 
 foreign import _cgPushChevronDownO :: ReactIcon
 
-cgPushChevronDownO :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgPushChevronDownO = element (unsafeCoerce _cgPushChevronDownO)
+cgPushChevronDownO :: Icon
+cgPushChevronDownO = element _cgPushChevronDownO
 
 foreign import _cgPushChevronDownR :: ReactIcon
 
-cgPushChevronDownR :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgPushChevronDownR = element (unsafeCoerce _cgPushChevronDownR)
+cgPushChevronDownR :: Icon
+cgPushChevronDownR = element _cgPushChevronDownR
 
 foreign import _cgPushChevronLeft :: ReactIcon
 
-cgPushChevronLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgPushChevronLeft = element (unsafeCoerce _cgPushChevronLeft)
+cgPushChevronLeft :: Icon
+cgPushChevronLeft = element _cgPushChevronLeft
 
 foreign import _cgPushChevronLeftO :: ReactIcon
 
-cgPushChevronLeftO :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgPushChevronLeftO = element (unsafeCoerce _cgPushChevronLeftO)
+cgPushChevronLeftO :: Icon
+cgPushChevronLeftO = element _cgPushChevronLeftO
 
 foreign import _cgPushChevronLeftR :: ReactIcon
 
-cgPushChevronLeftR :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgPushChevronLeftR = element (unsafeCoerce _cgPushChevronLeftR)
+cgPushChevronLeftR :: Icon
+cgPushChevronLeftR = element _cgPushChevronLeftR
 
 foreign import _cgPushChevronRight :: ReactIcon
 
-cgPushChevronRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgPushChevronRight = element (unsafeCoerce _cgPushChevronRight)
+cgPushChevronRight :: Icon
+cgPushChevronRight = element _cgPushChevronRight
 
 foreign import _cgPushChevronRightO :: ReactIcon
 
-cgPushChevronRightO :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgPushChevronRightO = element (unsafeCoerce _cgPushChevronRightO)
+cgPushChevronRightO :: Icon
+cgPushChevronRightO = element _cgPushChevronRightO
 
 foreign import _cgPushChevronRightR :: ReactIcon
 
-cgPushChevronRightR :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgPushChevronRightR = element (unsafeCoerce _cgPushChevronRightR)
+cgPushChevronRightR :: Icon
+cgPushChevronRightR = element _cgPushChevronRightR
 
 foreign import _cgPushChevronUp :: ReactIcon
 
-cgPushChevronUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgPushChevronUp = element (unsafeCoerce _cgPushChevronUp)
+cgPushChevronUp :: Icon
+cgPushChevronUp = element _cgPushChevronUp
 
 foreign import _cgPushChevronUpO :: ReactIcon
 
-cgPushChevronUpO :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgPushChevronUpO = element (unsafeCoerce _cgPushChevronUpO)
+cgPushChevronUpO :: Icon
+cgPushChevronUpO = element _cgPushChevronUpO
 
 foreign import _cgPushChevronUpR :: ReactIcon
 
-cgPushChevronUpR :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgPushChevronUpR = element (unsafeCoerce _cgPushChevronUpR)
+cgPushChevronUpR :: Icon
+cgPushChevronUpR = element _cgPushChevronUpR
 
 foreign import _cgPushDown :: ReactIcon
 
-cgPushDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgPushDown = element (unsafeCoerce _cgPushDown)
+cgPushDown :: Icon
+cgPushDown = element _cgPushDown
 
 foreign import _cgPushLeft :: ReactIcon
 
-cgPushLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgPushLeft = element (unsafeCoerce _cgPushLeft)
+cgPushLeft :: Icon
+cgPushLeft = element _cgPushLeft
 
 foreign import _cgPushRight :: ReactIcon
 
-cgPushRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgPushRight = element (unsafeCoerce _cgPushRight)
+cgPushRight :: Icon
+cgPushRight = element _cgPushRight
 
 foreign import _cgPushUp :: ReactIcon
 
-cgPushUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgPushUp = element (unsafeCoerce _cgPushUp)
+cgPushUp :: Icon
+cgPushUp = element _cgPushUp
 
 foreign import _cgQr :: ReactIcon
 
-cgQr :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgQr = element (unsafeCoerce _cgQr)
+cgQr :: Icon
+cgQr = element _cgQr
 
 foreign import _cgQuote :: ReactIcon
 
-cgQuote :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgQuote = element (unsafeCoerce _cgQuote)
+cgQuote :: Icon
+cgQuote = element _cgQuote
 
 foreign import _cgQuoteO :: ReactIcon
 
-cgQuoteO :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgQuoteO = element (unsafeCoerce _cgQuoteO)
+cgQuoteO :: Icon
+cgQuoteO = element _cgQuoteO
 
 foreign import _cgRadioCheck :: ReactIcon
 
-cgRadioCheck :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgRadioCheck = element (unsafeCoerce _cgRadioCheck)
+cgRadioCheck :: Icon
+cgRadioCheck = element _cgRadioCheck
 
 foreign import _cgRadioChecked :: ReactIcon
 
-cgRadioChecked :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgRadioChecked = element (unsafeCoerce _cgRadioChecked)
+cgRadioChecked :: Icon
+cgRadioChecked = element _cgRadioChecked
 
 foreign import _cgRatio :: ReactIcon
 
-cgRatio :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgRatio = element (unsafeCoerce _cgRatio)
+cgRatio :: Icon
+cgRatio = element _cgRatio
 
 foreign import _cgRead :: ReactIcon
 
-cgRead :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgRead = element (unsafeCoerce _cgRead)
+cgRead :: Icon
+cgRead = element _cgRead
 
 foreign import _cgReadme :: ReactIcon
 
-cgReadme :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgReadme = element (unsafeCoerce _cgReadme)
+cgReadme :: Icon
+cgReadme = element _cgReadme
 
 foreign import _cgRecord :: ReactIcon
 
-cgRecord :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgRecord = element (unsafeCoerce _cgRecord)
+cgRecord :: Icon
+cgRecord = element _cgRecord
 
 foreign import _cgRedo :: ReactIcon
 
-cgRedo :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgRedo = element (unsafeCoerce _cgRedo)
+cgRedo :: Icon
+cgRedo = element _cgRedo
 
 foreign import _cgRemote :: ReactIcon
 
-cgRemote :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgRemote = element (unsafeCoerce _cgRemote)
+cgRemote :: Icon
+cgRemote = element _cgRemote
 
 foreign import _cgRemove :: ReactIcon
 
-cgRemove :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgRemove = element (unsafeCoerce _cgRemove)
+cgRemove :: Icon
+cgRemove = element _cgRemove
 
 foreign import _cgRemoveR :: ReactIcon
 
-cgRemoveR :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgRemoveR = element (unsafeCoerce _cgRemoveR)
+cgRemoveR :: Icon
+cgRemoveR = element _cgRemoveR
 
 foreign import _cgRename :: ReactIcon
 
-cgRename :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgRename = element (unsafeCoerce _cgRename)
+cgRename :: Icon
+cgRename = element _cgRename
 
 foreign import _cgReorder :: ReactIcon
 
-cgReorder :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgReorder = element (unsafeCoerce _cgReorder)
+cgReorder :: Icon
+cgReorder = element _cgReorder
 
 foreign import _cgRepeat :: ReactIcon
 
-cgRepeat :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgRepeat = element (unsafeCoerce _cgRepeat)
+cgRepeat :: Icon
+cgRepeat = element _cgRepeat
 
 foreign import _cgRing :: ReactIcon
 
-cgRing :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgRing = element (unsafeCoerce _cgRing)
+cgRing :: Icon
+cgRing = element _cgRing
 
 foreign import _cgRowFirst :: ReactIcon
 
-cgRowFirst :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgRowFirst = element (unsafeCoerce _cgRowFirst)
+cgRowFirst :: Icon
+cgRowFirst = element _cgRowFirst
 
 foreign import _cgRowLast :: ReactIcon
 
-cgRowLast :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgRowLast = element (unsafeCoerce _cgRowLast)
+cgRowLast :: Icon
+cgRowLast = element _cgRowLast
 
 foreign import _cgRuler :: ReactIcon
 
-cgRuler :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgRuler = element (unsafeCoerce _cgRuler)
+cgRuler :: Icon
+cgRuler = element _cgRuler
 
 foreign import _cgSandClock :: ReactIcon
 
-cgSandClock :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgSandClock = element (unsafeCoerce _cgSandClock)
+cgSandClock :: Icon
+cgSandClock = element _cgSandClock
 
 foreign import _cgScan :: ReactIcon
 
-cgScan :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgScan = element (unsafeCoerce _cgScan)
+cgScan :: Icon
+cgScan = element _cgScan
 
 foreign import _cgScreen :: ReactIcon
 
-cgScreen :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgScreen = element (unsafeCoerce _cgScreen)
+cgScreen :: Icon
+cgScreen = element _cgScreen
 
 foreign import _cgScreenMirror :: ReactIcon
 
-cgScreenMirror :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgScreenMirror = element (unsafeCoerce _cgScreenMirror)
+cgScreenMirror :: Icon
+cgScreenMirror = element _cgScreenMirror
 
 foreign import _cgScreenShot :: ReactIcon
 
-cgScreenShot :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgScreenShot = element (unsafeCoerce _cgScreenShot)
+cgScreenShot :: Icon
+cgScreenShot = element _cgScreenShot
 
 foreign import _cgScreenWide :: ReactIcon
 
-cgScreenWide :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgScreenWide = element (unsafeCoerce _cgScreenWide)
+cgScreenWide :: Icon
+cgScreenWide = element _cgScreenWide
 
 foreign import _cgScrollH :: ReactIcon
 
-cgScrollH :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgScrollH = element (unsafeCoerce _cgScrollH)
+cgScrollH :: Icon
+cgScrollH = element _cgScrollH
 
 foreign import _cgScrollV :: ReactIcon
 
-cgScrollV :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgScrollV = element (unsafeCoerce _cgScrollV)
+cgScrollV :: Icon
+cgScrollV = element _cgScrollV
 
 foreign import _cgSearch :: ReactIcon
 
-cgSearch :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgSearch = element (unsafeCoerce _cgSearch)
+cgSearch :: Icon
+cgSearch = element _cgSearch
 
 foreign import _cgSearchFound :: ReactIcon
 
-cgSearchFound :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgSearchFound = element (unsafeCoerce _cgSearchFound)
+cgSearchFound :: Icon
+cgSearchFound = element _cgSearchFound
 
 foreign import _cgSearchLoading :: ReactIcon
 
-cgSearchLoading :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgSearchLoading = element (unsafeCoerce _cgSearchLoading)
+cgSearchLoading :: Icon
+cgSearchLoading = element _cgSearchLoading
 
 foreign import _cgSelect :: ReactIcon
 
-cgSelect :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgSelect = element (unsafeCoerce _cgSelect)
+cgSelect :: Icon
+cgSelect = element _cgSelect
 
 foreign import _cgSelectO :: ReactIcon
 
-cgSelectO :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgSelectO = element (unsafeCoerce _cgSelectO)
+cgSelectO :: Icon
+cgSelectO = element _cgSelectO
 
 foreign import _cgSelectR :: ReactIcon
 
-cgSelectR :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgSelectR = element (unsafeCoerce _cgSelectR)
+cgSelectR :: Icon
+cgSelectR = element _cgSelectR
 
 foreign import _cgServer :: ReactIcon
 
-cgServer :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgServer = element (unsafeCoerce _cgServer)
+cgServer :: Icon
+cgServer = element _cgServer
 
 foreign import _cgServerless :: ReactIcon
 
-cgServerless :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgServerless = element (unsafeCoerce _cgServerless)
+cgServerless :: Icon
+cgServerless = element _cgServerless
 
 foreign import _cgShapeCircle :: ReactIcon
 
-cgShapeCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgShapeCircle = element (unsafeCoerce _cgShapeCircle)
+cgShapeCircle :: Icon
+cgShapeCircle = element _cgShapeCircle
 
 foreign import _cgShapeHalfCircle :: ReactIcon
 
-cgShapeHalfCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgShapeHalfCircle = element (unsafeCoerce _cgShapeHalfCircle)
+cgShapeHalfCircle :: Icon
+cgShapeHalfCircle = element _cgShapeHalfCircle
 
 foreign import _cgShapeHexagon :: ReactIcon
 
-cgShapeHexagon :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgShapeHexagon = element (unsafeCoerce _cgShapeHexagon)
+cgShapeHexagon :: Icon
+cgShapeHexagon = element _cgShapeHexagon
 
 foreign import _cgShapeRhombus :: ReactIcon
 
-cgShapeRhombus :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgShapeRhombus = element (unsafeCoerce _cgShapeRhombus)
+cgShapeRhombus :: Icon
+cgShapeRhombus = element _cgShapeRhombus
 
 foreign import _cgShapeSquare :: ReactIcon
 
-cgShapeSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgShapeSquare = element (unsafeCoerce _cgShapeSquare)
+cgShapeSquare :: Icon
+cgShapeSquare = element _cgShapeSquare
 
 foreign import _cgShapeTriangle :: ReactIcon
 
-cgShapeTriangle :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgShapeTriangle = element (unsafeCoerce _cgShapeTriangle)
+cgShapeTriangle :: Icon
+cgShapeTriangle = element _cgShapeTriangle
 
 foreign import _cgShapeZigzag :: ReactIcon
 
-cgShapeZigzag :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgShapeZigzag = element (unsafeCoerce _cgShapeZigzag)
+cgShapeZigzag :: Icon
+cgShapeZigzag = element _cgShapeZigzag
 
 foreign import _cgShare :: ReactIcon
 
-cgShare :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgShare = element (unsafeCoerce _cgShare)
+cgShare :: Icon
+cgShare = element _cgShare
 
 foreign import _cgShield :: ReactIcon
 
-cgShield :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgShield = element (unsafeCoerce _cgShield)
+cgShield :: Icon
+cgShield = element _cgShield
 
 foreign import _cgShoppingBag :: ReactIcon
 
-cgShoppingBag :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgShoppingBag = element (unsafeCoerce _cgShoppingBag)
+cgShoppingBag :: Icon
+cgShoppingBag = element _cgShoppingBag
 
 foreign import _cgShoppingCart :: ReactIcon
 
-cgShoppingCart :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgShoppingCart = element (unsafeCoerce _cgShoppingCart)
+cgShoppingCart :: Icon
+cgShoppingCart = element _cgShoppingCart
 
 foreign import _cgShortcut :: ReactIcon
 
-cgShortcut :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgShortcut = element (unsafeCoerce _cgShortcut)
+cgShortcut :: Icon
+cgShortcut = element _cgShortcut
 
 foreign import _cgShutterstock :: ReactIcon
 
-cgShutterstock :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgShutterstock = element (unsafeCoerce _cgShutterstock)
+cgShutterstock :: Icon
+cgShutterstock = element _cgShutterstock
 
 foreign import _cgSidebar :: ReactIcon
 
-cgSidebar :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgSidebar = element (unsafeCoerce _cgSidebar)
+cgSidebar :: Icon
+cgSidebar = element _cgSidebar
 
 foreign import _cgSidebarOpen :: ReactIcon
 
-cgSidebarOpen :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgSidebarOpen = element (unsafeCoerce _cgSidebarOpen)
+cgSidebarOpen :: Icon
+cgSidebarOpen = element _cgSidebarOpen
 
 foreign import _cgSidebarRight :: ReactIcon
 
-cgSidebarRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgSidebarRight = element (unsafeCoerce _cgSidebarRight)
+cgSidebarRight :: Icon
+cgSidebarRight = element _cgSidebarRight
 
 foreign import _cgSignal :: ReactIcon
 
-cgSignal :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgSignal = element (unsafeCoerce _cgSignal)
+cgSignal :: Icon
+cgSignal = element _cgSignal
 
 foreign import _cgSize :: ReactIcon
 
-cgSize :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgSize = element (unsafeCoerce _cgSize)
+cgSize :: Icon
+cgSize = element _cgSize
 
 foreign import _cgSketch :: ReactIcon
 
-cgSketch :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgSketch = element (unsafeCoerce _cgSketch)
+cgSketch :: Icon
+cgSketch = element _cgSketch
 
 foreign import _cgSlack :: ReactIcon
 
-cgSlack :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgSlack = element (unsafeCoerce _cgSlack)
+cgSlack :: Icon
+cgSlack = element _cgSlack
 
 foreign import _cgSleep :: ReactIcon
 
-cgSleep :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgSleep = element (unsafeCoerce _cgSleep)
+cgSleep :: Icon
+cgSleep = element _cgSleep
 
 foreign import _cgSmartHomeBoiler :: ReactIcon
 
-cgSmartHomeBoiler :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgSmartHomeBoiler = element (unsafeCoerce _cgSmartHomeBoiler)
+cgSmartHomeBoiler :: Icon
+cgSmartHomeBoiler = element _cgSmartHomeBoiler
 
 foreign import _cgSmartHomeCooker :: ReactIcon
 
-cgSmartHomeCooker :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgSmartHomeCooker = element (unsafeCoerce _cgSmartHomeCooker)
+cgSmartHomeCooker :: Icon
+cgSmartHomeCooker = element _cgSmartHomeCooker
 
 foreign import _cgSmartHomeHeat :: ReactIcon
 
-cgSmartHomeHeat :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgSmartHomeHeat = element (unsafeCoerce _cgSmartHomeHeat)
+cgSmartHomeHeat :: Icon
+cgSmartHomeHeat = element _cgSmartHomeHeat
 
 foreign import _cgSmartHomeLight :: ReactIcon
 
-cgSmartHomeLight :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgSmartHomeLight = element (unsafeCoerce _cgSmartHomeLight)
+cgSmartHomeLight :: Icon
+cgSmartHomeLight = element _cgSmartHomeLight
 
 foreign import _cgSmartHomeRefrigerator :: ReactIcon
 
-cgSmartHomeRefrigerator :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgSmartHomeRefrigerator = element (unsafeCoerce _cgSmartHomeRefrigerator)
+cgSmartHomeRefrigerator :: Icon
+cgSmartHomeRefrigerator = element _cgSmartHomeRefrigerator
 
 foreign import _cgSmartHomeWashMachine :: ReactIcon
 
-cgSmartHomeWashMachine :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgSmartHomeWashMachine = element (unsafeCoerce _cgSmartHomeWashMachine)
+cgSmartHomeWashMachine :: Icon
+cgSmartHomeWashMachine = element _cgSmartHomeWashMachine
 
 foreign import _cgSmartphone :: ReactIcon
 
-cgSmartphone :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgSmartphone = element (unsafeCoerce _cgSmartphone)
+cgSmartphone :: Icon
+cgSmartphone = element _cgSmartphone
 
 foreign import _cgSmartphoneChip :: ReactIcon
 
-cgSmartphoneChip :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgSmartphoneChip = element (unsafeCoerce _cgSmartphoneChip)
+cgSmartphoneChip :: Icon
+cgSmartphoneChip = element _cgSmartphoneChip
 
 foreign import _cgSmartphoneRam :: ReactIcon
 
-cgSmartphoneRam :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgSmartphoneRam = element (unsafeCoerce _cgSmartphoneRam)
+cgSmartphoneRam :: Icon
+cgSmartphoneRam = element _cgSmartphoneRam
 
 foreign import _cgSmartphoneShake :: ReactIcon
 
-cgSmartphoneShake :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgSmartphoneShake = element (unsafeCoerce _cgSmartphoneShake)
+cgSmartphoneShake :: Icon
+cgSmartphoneShake = element _cgSmartphoneShake
 
 foreign import _cgSmile :: ReactIcon
 
-cgSmile :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgSmile = element (unsafeCoerce _cgSmile)
+cgSmile :: Icon
+cgSmile = element _cgSmile
 
 foreign import _cgSmileMouthOpen :: ReactIcon
 
-cgSmileMouthOpen :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgSmileMouthOpen = element (unsafeCoerce _cgSmileMouthOpen)
+cgSmileMouthOpen :: Icon
+cgSmileMouthOpen = element _cgSmileMouthOpen
 
 foreign import _cgSmileNeutral :: ReactIcon
 
-cgSmileNeutral :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgSmileNeutral = element (unsafeCoerce _cgSmileNeutral)
+cgSmileNeutral :: Icon
+cgSmileNeutral = element _cgSmileNeutral
 
 foreign import _cgSmileNoMouth :: ReactIcon
 
-cgSmileNoMouth :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgSmileNoMouth = element (unsafeCoerce _cgSmileNoMouth)
+cgSmileNoMouth :: Icon
+cgSmileNoMouth = element _cgSmileNoMouth
 
 foreign import _cgSmileNone :: ReactIcon
 
-cgSmileNone :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgSmileNone = element (unsafeCoerce _cgSmileNone)
+cgSmileNone :: Icon
+cgSmileNone = element _cgSmileNone
 
 foreign import _cgSmileSad :: ReactIcon
 
-cgSmileSad :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgSmileSad = element (unsafeCoerce _cgSmileSad)
+cgSmileSad :: Icon
+cgSmileSad = element _cgSmileSad
 
 foreign import _cgSmileUpside :: ReactIcon
 
-cgSmileUpside :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgSmileUpside = element (unsafeCoerce _cgSmileUpside)
+cgSmileUpside :: Icon
+cgSmileUpside = element _cgSmileUpside
 
 foreign import _cgSoftwareDownload :: ReactIcon
 
-cgSoftwareDownload :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgSoftwareDownload = element (unsafeCoerce _cgSoftwareDownload)
+cgSoftwareDownload :: Icon
+cgSoftwareDownload = element _cgSoftwareDownload
 
 foreign import _cgSoftwareUpload :: ReactIcon
 
-cgSoftwareUpload :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgSoftwareUpload = element (unsafeCoerce _cgSoftwareUpload)
+cgSoftwareUpload :: Icon
+cgSoftwareUpload = element _cgSoftwareUpload
 
 foreign import _cgSortAz :: ReactIcon
 
-cgSortAz :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgSortAz = element (unsafeCoerce _cgSortAz)
+cgSortAz :: Icon
+cgSortAz = element _cgSortAz
 
 foreign import _cgSortZa :: ReactIcon
 
-cgSortZa :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgSortZa = element (unsafeCoerce _cgSortZa)
+cgSortZa :: Icon
+cgSortZa = element _cgSortZa
 
 foreign import _cgSpaceBetween :: ReactIcon
 
-cgSpaceBetween :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgSpaceBetween = element (unsafeCoerce _cgSpaceBetween)
+cgSpaceBetween :: Icon
+cgSpaceBetween = element _cgSpaceBetween
 
 foreign import _cgSpaceBetweenV :: ReactIcon
 
-cgSpaceBetweenV :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgSpaceBetweenV = element (unsafeCoerce _cgSpaceBetweenV)
+cgSpaceBetweenV :: Icon
+cgSpaceBetweenV = element _cgSpaceBetweenV
 
 foreign import _cgSpectrum :: ReactIcon
 
-cgSpectrum :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgSpectrum = element (unsafeCoerce _cgSpectrum)
+cgSpectrum :: Icon
+cgSpectrum = element _cgSpectrum
 
 foreign import _cgSpinner :: ReactIcon
 
-cgSpinner :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgSpinner = element (unsafeCoerce _cgSpinner)
+cgSpinner :: Icon
+cgSpinner = element _cgSpinner
 
 foreign import _cgSpinnerAlt :: ReactIcon
 
-cgSpinnerAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgSpinnerAlt = element (unsafeCoerce _cgSpinnerAlt)
+cgSpinnerAlt :: Icon
+cgSpinnerAlt = element _cgSpinnerAlt
 
 foreign import _cgSpinnerTwo :: ReactIcon
 
-cgSpinnerTwo :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgSpinnerTwo = element (unsafeCoerce _cgSpinnerTwo)
+cgSpinnerTwo :: Icon
+cgSpinnerTwo = element _cgSpinnerTwo
 
 foreign import _cgSpinnerTwoAlt :: ReactIcon
 
-cgSpinnerTwoAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgSpinnerTwoAlt = element (unsafeCoerce _cgSpinnerTwoAlt)
+cgSpinnerTwoAlt :: Icon
+cgSpinnerTwoAlt = element _cgSpinnerTwoAlt
 
 foreign import _cgSquare :: ReactIcon
 
-cgSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgSquare = element (unsafeCoerce _cgSquare)
+cgSquare :: Icon
+cgSquare = element _cgSquare
 
 foreign import _cgStack :: ReactIcon
 
-cgStack :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgStack = element (unsafeCoerce _cgStack)
+cgStack :: Icon
+cgStack = element _cgStack
 
 foreign import _cgStark :: ReactIcon
 
-cgStark :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgStark = element (unsafeCoerce _cgStark)
+cgStark :: Icon
+cgStark = element _cgStark
 
 foreign import _cgStopwatch :: ReactIcon
 
-cgStopwatch :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgStopwatch = element (unsafeCoerce _cgStopwatch)
+cgStopwatch :: Icon
+cgStopwatch = element _cgStopwatch
 
 foreign import _cgStories :: ReactIcon
 
-cgStories :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgStories = element (unsafeCoerce _cgStories)
+cgStories :: Icon
+cgStories = element _cgStories
 
 foreign import _cgStudio :: ReactIcon
 
-cgStudio :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgStudio = element (unsafeCoerce _cgStudio)
+cgStudio :: Icon
+cgStudio = element _cgStudio
 
 foreign import _cgStyle :: ReactIcon
 
-cgStyle :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgStyle = element (unsafeCoerce _cgStyle)
+cgStyle :: Icon
+cgStyle = element _cgStyle
 
 foreign import _cgSun :: ReactIcon
 
-cgSun :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgSun = element (unsafeCoerce _cgSun)
+cgSun :: Icon
+cgSun = element _cgSun
 
 foreign import _cgSupport :: ReactIcon
 
-cgSupport :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgSupport = element (unsafeCoerce _cgSupport)
+cgSupport :: Icon
+cgSupport = element _cgSupport
 
 foreign import _cgSwap :: ReactIcon
 
-cgSwap :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgSwap = element (unsafeCoerce _cgSwap)
+cgSwap :: Icon
+cgSwap = element _cgSwap
 
 foreign import _cgSwapVertical :: ReactIcon
 
-cgSwapVertical :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgSwapVertical = element (unsafeCoerce _cgSwapVertical)
+cgSwapVertical :: Icon
+cgSwapVertical = element _cgSwapVertical
 
 foreign import _cgSweden :: ReactIcon
 
-cgSweden :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgSweden = element (unsafeCoerce _cgSweden)
+cgSweden :: Icon
+cgSweden = element _cgSweden
 
 foreign import _cgSwiss :: ReactIcon
 
-cgSwiss :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgSwiss = element (unsafeCoerce _cgSwiss)
+cgSwiss :: Icon
+cgSwiss = element _cgSwiss
 
 foreign import _cgSync :: ReactIcon
 
-cgSync :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgSync = element (unsafeCoerce _cgSync)
+cgSync :: Icon
+cgSync = element _cgSync
 
 foreign import _cgTab :: ReactIcon
 
-cgTab :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgTab = element (unsafeCoerce _cgTab)
+cgTab :: Icon
+cgTab = element _cgTab
 
 foreign import _cgTag :: ReactIcon
 
-cgTag :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgTag = element (unsafeCoerce _cgTag)
+cgTag :: Icon
+cgTag = element _cgTag
 
 foreign import _cgTally :: ReactIcon
 
-cgTally :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgTally = element (unsafeCoerce _cgTally)
+cgTally :: Icon
+cgTally = element _cgTally
 
 foreign import _cgTapDouble :: ReactIcon
 
-cgTapDouble :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgTapDouble = element (unsafeCoerce _cgTapDouble)
+cgTapDouble :: Icon
+cgTapDouble = element _cgTapDouble
 
 foreign import _cgTapSingle :: ReactIcon
 
-cgTapSingle :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgTapSingle = element (unsafeCoerce _cgTapSingle)
+cgTapSingle :: Icon
+cgTapSingle = element _cgTapSingle
 
 foreign import _cgTemplate :: ReactIcon
 
-cgTemplate :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgTemplate = element (unsafeCoerce _cgTemplate)
+cgTemplate :: Icon
+cgTemplate = element _cgTemplate
 
 foreign import _cgTennis :: ReactIcon
 
-cgTennis :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgTennis = element (unsafeCoerce _cgTennis)
+cgTennis :: Icon
+cgTennis = element _cgTennis
 
 foreign import _cgTerminal :: ReactIcon
 
-cgTerminal :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgTerminal = element (unsafeCoerce _cgTerminal)
+cgTerminal :: Icon
+cgTerminal = element _cgTerminal
 
 foreign import _cgTerrain :: ReactIcon
 
-cgTerrain :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgTerrain = element (unsafeCoerce _cgTerrain)
+cgTerrain :: Icon
+cgTerrain = element _cgTerrain
 
 foreign import _cgThermometer :: ReactIcon
 
-cgThermometer :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgThermometer = element (unsafeCoerce _cgThermometer)
+cgThermometer :: Icon
+cgThermometer = element _cgThermometer
 
 foreign import _cgThermostat :: ReactIcon
 
-cgThermostat :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgThermostat = element (unsafeCoerce _cgThermostat)
+cgThermostat :: Icon
+cgThermostat = element _cgThermostat
 
 foreign import _cgTikcode :: ReactIcon
 
-cgTikcode :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgTikcode = element (unsafeCoerce _cgTikcode)
+cgTikcode :: Icon
+cgTikcode = element _cgTikcode
 
 foreign import _cgTime :: ReactIcon
 
-cgTime :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgTime = element (unsafeCoerce _cgTime)
+cgTime :: Icon
+cgTime = element _cgTime
 
 foreign import _cgTimelapse :: ReactIcon
 
-cgTimelapse :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgTimelapse = element (unsafeCoerce _cgTimelapse)
+cgTimelapse :: Icon
+cgTimelapse = element _cgTimelapse
 
 foreign import _cgTimer :: ReactIcon
 
-cgTimer :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgTimer = element (unsafeCoerce _cgTimer)
+cgTimer :: Icon
+cgTimer = element _cgTimer
 
 foreign import _cgToday :: ReactIcon
 
-cgToday :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgToday = element (unsafeCoerce _cgToday)
+cgToday :: Icon
+cgToday = element _cgToday
 
 foreign import _cgToggleOff :: ReactIcon
 
-cgToggleOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgToggleOff = element (unsafeCoerce _cgToggleOff)
+cgToggleOff :: Icon
+cgToggleOff = element _cgToggleOff
 
 foreign import _cgToggleOn :: ReactIcon
 
-cgToggleOn :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgToggleOn = element (unsafeCoerce _cgToggleOn)
+cgToggleOn :: Icon
+cgToggleOn = element _cgToggleOn
 
 foreign import _cgToggleSquare :: ReactIcon
 
-cgToggleSquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgToggleSquare = element (unsafeCoerce _cgToggleSquare)
+cgToggleSquare :: Icon
+cgToggleSquare = element _cgToggleSquare
 
 foreign import _cgToggleSquareOff :: ReactIcon
 
-cgToggleSquareOff :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgToggleSquareOff = element (unsafeCoerce _cgToggleSquareOff)
+cgToggleSquareOff :: Icon
+cgToggleSquareOff = element _cgToggleSquareOff
 
 foreign import _cgToolbarBottom :: ReactIcon
 
-cgToolbarBottom :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgToolbarBottom = element (unsafeCoerce _cgToolbarBottom)
+cgToolbarBottom :: Icon
+cgToolbarBottom = element _cgToolbarBottom
 
 foreign import _cgToolbarLeft :: ReactIcon
 
-cgToolbarLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgToolbarLeft = element (unsafeCoerce _cgToolbarLeft)
+cgToolbarLeft :: Icon
+cgToolbarLeft = element _cgToolbarLeft
 
 foreign import _cgToolbarRight :: ReactIcon
 
-cgToolbarRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgToolbarRight = element (unsafeCoerce _cgToolbarRight)
+cgToolbarRight :: Icon
+cgToolbarRight = element _cgToolbarRight
 
 foreign import _cgToolbarTop :: ReactIcon
 
-cgToolbarTop :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgToolbarTop = element (unsafeCoerce _cgToolbarTop)
+cgToolbarTop :: Icon
+cgToolbarTop = element _cgToolbarTop
 
 foreign import _cgToolbox :: ReactIcon
 
-cgToolbox :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgToolbox = element (unsafeCoerce _cgToolbox)
+cgToolbox :: Icon
+cgToolbox = element _cgToolbox
 
 foreign import _cgTouchpad :: ReactIcon
 
-cgTouchpad :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgTouchpad = element (unsafeCoerce _cgTouchpad)
+cgTouchpad :: Icon
+cgTouchpad = element _cgTouchpad
 
 foreign import _cgTrack :: ReactIcon
 
-cgTrack :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgTrack = element (unsafeCoerce _cgTrack)
+cgTrack :: Icon
+cgTrack = element _cgTrack
 
 foreign import _cgTranscript :: ReactIcon
 
-cgTranscript :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgTranscript = element (unsafeCoerce _cgTranscript)
+cgTranscript :: Icon
+cgTranscript = element _cgTranscript
 
 foreign import _cgTrash :: ReactIcon
 
-cgTrash :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgTrash = element (unsafeCoerce _cgTrash)
+cgTrash :: Icon
+cgTrash = element _cgTrash
 
 foreign import _cgTrashEmpty :: ReactIcon
 
-cgTrashEmpty :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgTrashEmpty = element (unsafeCoerce _cgTrashEmpty)
+cgTrashEmpty :: Icon
+cgTrashEmpty = element _cgTrashEmpty
 
 foreign import _cgTree :: ReactIcon
 
-cgTree :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgTree = element (unsafeCoerce _cgTree)
+cgTree :: Icon
+cgTree = element _cgTree
 
 foreign import _cgTrees :: ReactIcon
 
-cgTrees :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgTrees = element (unsafeCoerce _cgTrees)
+cgTrees :: Icon
+cgTrees = element _cgTrees
 
 foreign import _cgTrello :: ReactIcon
 
-cgTrello :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgTrello = element (unsafeCoerce _cgTrello)
+cgTrello :: Icon
+cgTrello = element _cgTrello
 
 foreign import _cgTrending :: ReactIcon
 
-cgTrending :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgTrending = element (unsafeCoerce _cgTrending)
+cgTrending :: Icon
+cgTrending = element _cgTrending
 
 foreign import _cgTrendingDown :: ReactIcon
 
-cgTrendingDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgTrendingDown = element (unsafeCoerce _cgTrendingDown)
+cgTrendingDown :: Icon
+cgTrendingDown = element _cgTrendingDown
 
 foreign import _cgTrophy :: ReactIcon
 
-cgTrophy :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgTrophy = element (unsafeCoerce _cgTrophy)
+cgTrophy :: Icon
+cgTrophy = element _cgTrophy
 
 foreign import _cgTv :: ReactIcon
 
-cgTv :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgTv = element (unsafeCoerce _cgTv)
+cgTv :: Icon
+cgTv = element _cgTv
 
 foreign import _cgTwilio :: ReactIcon
 
-cgTwilio :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgTwilio = element (unsafeCoerce _cgTwilio)
+cgTwilio :: Icon
+cgTwilio = element _cgTwilio
 
 foreign import _cgTwitter :: ReactIcon
 
-cgTwitter :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgTwitter = element (unsafeCoerce _cgTwitter)
+cgTwitter :: Icon
+cgTwitter = element _cgTwitter
 
 foreign import _cgUiKit :: ReactIcon
 
-cgUiKit :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgUiKit = element (unsafeCoerce _cgUiKit)
+cgUiKit :: Icon
+cgUiKit = element _cgUiKit
 
 foreign import _cgUmbrella :: ReactIcon
 
-cgUmbrella :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgUmbrella = element (unsafeCoerce _cgUmbrella)
+cgUmbrella :: Icon
+cgUmbrella = element _cgUmbrella
 
 foreign import _cgUnavailable :: ReactIcon
 
-cgUnavailable :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgUnavailable = element (unsafeCoerce _cgUnavailable)
+cgUnavailable :: Icon
+cgUnavailable = element _cgUnavailable
 
 foreign import _cgUnblock :: ReactIcon
 
-cgUnblock :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgUnblock = element (unsafeCoerce _cgUnblock)
+cgUnblock :: Icon
+cgUnblock = element _cgUnblock
 
 foreign import _cgUndo :: ReactIcon
 
-cgUndo :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgUndo = element (unsafeCoerce _cgUndo)
+cgUndo :: Icon
+cgUndo = element _cgUndo
 
 foreign import _cgUnfold :: ReactIcon
 
-cgUnfold :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgUnfold = element (unsafeCoerce _cgUnfold)
+cgUnfold :: Icon
+cgUnfold = element _cgUnfold
 
 foreign import _cgUnsplash :: ReactIcon
 
-cgUnsplash :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgUnsplash = element (unsafeCoerce _cgUnsplash)
+cgUnsplash :: Icon
+cgUnsplash = element _cgUnsplash
 
 foreign import _cgUsb :: ReactIcon
 
-cgUsb :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgUsb = element (unsafeCoerce _cgUsb)
+cgUsb :: Icon
+cgUsb = element _cgUsb
 
 foreign import _cgUsbC :: ReactIcon
 
-cgUsbC :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgUsbC = element (unsafeCoerce _cgUsbC)
+cgUsbC :: Icon
+cgUsbC = element _cgUsbC
 
 foreign import _cgUser :: ReactIcon
 
-cgUser :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgUser = element (unsafeCoerce _cgUser)
+cgUser :: Icon
+cgUser = element _cgUser
 
 foreign import _cgUserAdd :: ReactIcon
 
-cgUserAdd :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgUserAdd = element (unsafeCoerce _cgUserAdd)
+cgUserAdd :: Icon
+cgUserAdd = element _cgUserAdd
 
 foreign import _cgUserlane :: ReactIcon
 
-cgUserlane :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgUserlane = element (unsafeCoerce _cgUserlane)
+cgUserlane :: Icon
+cgUserlane = element _cgUserlane
 
 foreign import _cgUserList :: ReactIcon
 
-cgUserList :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgUserList = element (unsafeCoerce _cgUserList)
+cgUserList :: Icon
+cgUserList = element _cgUserList
 
 foreign import _cgUserRemove :: ReactIcon
 
-cgUserRemove :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgUserRemove = element (unsafeCoerce _cgUserRemove)
+cgUserRemove :: Icon
+cgUserRemove = element _cgUserRemove
 
 foreign import _cgViewCols :: ReactIcon
 
-cgViewCols :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgViewCols = element (unsafeCoerce _cgViewCols)
+cgViewCols :: Icon
+cgViewCols = element _cgViewCols
 
 foreign import _cgViewComfortable :: ReactIcon
 
-cgViewComfortable :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgViewComfortable = element (unsafeCoerce _cgViewComfortable)
+cgViewComfortable :: Icon
+cgViewComfortable = element _cgViewComfortable
 
 foreign import _cgViewDay :: ReactIcon
 
-cgViewDay :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgViewDay = element (unsafeCoerce _cgViewDay)
+cgViewDay :: Icon
+cgViewDay = element _cgViewDay
 
 foreign import _cgViewGrid :: ReactIcon
 
-cgViewGrid :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgViewGrid = element (unsafeCoerce _cgViewGrid)
+cgViewGrid :: Icon
+cgViewGrid = element _cgViewGrid
 
 foreign import _cgViewList :: ReactIcon
 
-cgViewList :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgViewList = element (unsafeCoerce _cgViewList)
+cgViewList :: Icon
+cgViewList = element _cgViewList
 
 foreign import _cgViewMonth :: ReactIcon
 
-cgViewMonth :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgViewMonth = element (unsafeCoerce _cgViewMonth)
+cgViewMonth :: Icon
+cgViewMonth = element _cgViewMonth
 
 foreign import _cgViewSplit :: ReactIcon
 
-cgViewSplit :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgViewSplit = element (unsafeCoerce _cgViewSplit)
+cgViewSplit :: Icon
+cgViewSplit = element _cgViewSplit
 
 foreign import _cgVinyl :: ReactIcon
 
-cgVinyl :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgVinyl = element (unsafeCoerce _cgVinyl)
+cgVinyl :: Icon
+cgVinyl = element _cgVinyl
 
 foreign import _cgVoicemail :: ReactIcon
 
-cgVoicemail :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgVoicemail = element (unsafeCoerce _cgVoicemail)
+cgVoicemail :: Icon
+cgVoicemail = element _cgVoicemail
 
 foreign import _cgVoicemailO :: ReactIcon
 
-cgVoicemailO :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgVoicemailO = element (unsafeCoerce _cgVoicemailO)
+cgVoicemailO :: Icon
+cgVoicemailO = element _cgVoicemailO
 
 foreign import _cgVoicemailR :: ReactIcon
 
-cgVoicemailR :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgVoicemailR = element (unsafeCoerce _cgVoicemailR)
+cgVoicemailR :: Icon
+cgVoicemailR = element _cgVoicemailR
 
 foreign import _cgVolume :: ReactIcon
 
-cgVolume :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgVolume = element (unsafeCoerce _cgVolume)
+cgVolume :: Icon
+cgVolume = element _cgVolume
 
 foreign import _cgWebcam :: ReactIcon
 
-cgWebcam :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgWebcam = element (unsafeCoerce _cgWebcam)
+cgWebcam :: Icon
+cgWebcam = element _cgWebcam
 
 foreign import _cgWebsite :: ReactIcon
 
-cgWebsite :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgWebsite = element (unsafeCoerce _cgWebsite)
+cgWebsite :: Icon
+cgWebsite = element _cgWebsite
 
 foreign import _cgWindows :: ReactIcon
 
-cgWindows :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgWindows = element (unsafeCoerce _cgWindows)
+cgWindows :: Icon
+cgWindows = element _cgWindows
 
 foreign import _cgWorkAlt :: ReactIcon
 
-cgWorkAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgWorkAlt = element (unsafeCoerce _cgWorkAlt)
+cgWorkAlt :: Icon
+cgWorkAlt = element _cgWorkAlt
 
 foreign import _cgYinyang :: ReactIcon
 
-cgYinyang :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgYinyang = element (unsafeCoerce _cgYinyang)
+cgYinyang :: Icon
+cgYinyang = element _cgYinyang
 
 foreign import _cgYoutube :: ReactIcon
 
-cgYoutube :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgYoutube = element (unsafeCoerce _cgYoutube)
+cgYoutube :: Icon
+cgYoutube = element _cgYoutube
 
 foreign import _cgZeit :: ReactIcon
 
-cgZeit :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgZeit = element (unsafeCoerce _cgZeit)
+cgZeit :: Icon
+cgZeit = element _cgZeit
 
 foreign import _cgZoomIn :: ReactIcon
 
-cgZoomIn :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgZoomIn = element (unsafeCoerce _cgZoomIn)
+cgZoomIn :: Icon
+cgZoomIn = element _cgZoomIn
 
 foreign import _cgZoomOut :: ReactIcon
 
-cgZoomOut :: forall a b. Union a b PropsIcon => Record a -> JSX
-cgZoomOut = element (unsafeCoerce _cgZoomOut)
+cgZoomOut :: Icon
+cgZoomOut = element _cgZoomOut

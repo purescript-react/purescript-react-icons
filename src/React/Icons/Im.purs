@@ -1,1876 +1,1874 @@
 module React.Icons.Im (imAccessibility, imAddressBook, imAidKit, imAirplane, imAlarm, imAmazon, imAndroid, imAngry, imAppleinc, imArrowDown, imArrowDownLeft, imArrowDownRight, imArrowLeft, imArrowRight, imArrowUp, imArrowUpLeft, imArrowUpRight, imAttachment, imBackward, imBaffled, imBarcode, imBasecamp, imBehance, imBell, imBin, imBinoculars, imBlocked, imBlog, imBlogger, imBold, imBook, imBookmark, imBookmarks, imBooks, imBoxAdd, imBoxRemove, imBriefcase, imBrightnessContrast, imBubble, imBubbles, imBug, imBullhorn, imCalculator, imCalendar, imCamera, imCancelCircle, imCart, imCheckboxChecked, imCheckboxUnchecked, imCheckmark, imChrome, imCircleDown, imCircleLeft, imCircleRight, imCircleUp, imClearFormatting, imClipboard, imClock, imCloud, imCloudCheck, imCloudDownload, imCloudUpload, imClubs, imCodepen, imCog, imCogs, imCoinDollar, imCoinEuro, imCoinPound, imCoinYen, imCommand, imCompass, imConfused, imConnection, imContrast, imCool, imCopy, imCreditCard, imCrop, imCross, imCrying, imCtrl, imDatabase, imDelicious, imDeviantart, imDiamonds, imDice, imDisplay, imDownload, imDrawer, imDribbble, imDrive, imDropbox, imDroplet, imEarth, imEdge, imEject, imEllo, imEmbed, imEnlarge, imEnter, imEnvelop, imEqualizer, imEvil, imExit, imEye, imEyeBlocked, imEyedropper, imEyeMinus, imEyePlus, imFacebook, imFeed, imFileEmpty, imFileExcel, imFileMusic, imFileOpenoffice, imFilePdf, imFilePicture, imFilePlay, imFilesEmpty, imFileText, imFileVideo, imFileWord, imFileZip, imFilm, imFilter, imFinder, imFire, imFirefox, imFirst, imFlag, imFlattr, imFlickr, imFloppyDisk, imFolder, imFolderDownload, imFolderMinus, imFolderOpen, imFolderPlus, imFolderUpload, imFont, imFontSize, imForward, imFoursquare, imFrustrated, imGift, imGit, imGithub, imGlass, imGoogle, imGoogleDrive, imGooglePlus, imGrin, imHackernews, imHammer, imHangouts, imHappy, imHeadphones, imHeart, imHeartBroken, imHipster, imHistory, imHome, imHourGlass, imHtmlFive, imIcoMoon, imIe, imImage, imImages, imIndentDecrease, imIndentIncrease, imInfinite, imInfo, imInsertTemplate, imInstagram, imItalic, imJoomla, imKey, imKeyboard, imLab, imLanyrd, imLaptop, imLast, imLastfm, imLeaf, imLibrary, imLibreoffice, imLifebuoy, imLigature, imLink, imLinkedin, imList, imListNumbered, imLocation, imLock, imLoop, imLtr, imMagicWand, imMagnet, imMail, imMakeGroup, imMan, imManWoman, imMap, imMenu, imMeter, imMic, imMinus, imMobile, imMoveDown, imMoveUp, imMug, imMusic, imNeutral, imNewspaper, imNewTab, imNext, imNotification, imNpm, imOffice, imOmega, imOnedrive, imOpera, imOpt, imPacman, imPagebreak, imPageBreak, imPaintFormat, imParagraphCenter, imParagraphJustify, imParagraphLeft, imParagraphRight, imPaste, imPause, imPaypal, imPen, imPencil, imPhone, imPhoneHangUp, imPieChart, imPilcrow, imPinterest, imPlay, imPlus, imPodcast, imPointDown, imPointLeft, imPointRight, imPointUp, imPower, imPowerCord, imPrevious, imPriceTag, imPriceTags, imPrinter, imProfile, imPushpin, imQrcode, imQuestion, imQuill, imQuotesLeft, imQuotesRight, imRadioChecked, imRadioUnchecked, imReddit, imRedo, imRenren, imReply, imRoad, imRocket, imRss, imRtl, imSad, imSafari, imScissors, imSearch, imSection, imShare, imShield, imShift, imShocked, imShrink, imShuffle, imSigma, imSinaWeibo, imSkype, imSleepy, imSmile, imSortAlphaAsc, imSortAlphaDesc, imSortAmountAsc, imSortAmountDesc, imSortNumbericDesc, imSortNumericAsc, imSoundcloud, imSpades, imSpellCheck, imSphere, imSpinner, imSpoonKnife, imSpotify, imStack, imStackoverflow, imStarEmpty, imStarFull, imStarHalf, imStatsBars, imStatsDots, imSteam, imStop, imStopwatch, imStrikethrough, imStumbleupon, imSubscript, imSun, imSuperscript, imSvg, imSwitch, imTab, imTable, imTablet, imTarget, imTelegram, imTerminal, imTextColor, imTextHeight, imTextWidth, imTicket, imTongue, imTree, imTrello, imTrophy, imTruck, imTumblr, imTux, imTv, imTwitch, imTwitter, imUnderline, imUndo, imUngroup, imUnlocked, imUpload, imUser, imUserCheck, imUserMinus, imUserPlus, imUsers, imUserTie, imVideoCamera, imVimeo, imVine, imVk, imVolumeDecrease, imVolumeHigh, imVolumeIncrease, imVolumeLow, imVolumeMedium, imVolumeMute, imWarning, imWhatsapp, imWikipedia, imWindows, imWink, imWoman, imWondering, imWordpress, imWrench, imXing, imYahoo, imYelp, imYoutube, imZoomIn, imZoomOut) where
 
-import Prim.Row (class Union)
-import React.Basic (JSX, element)
-import React.Icons.Types (ReactIcon, PropsIcon)
-import Unsafe.Coerce (unsafeCoerce)
+import React.Basic (element)
+import React.Icons.Types (ReactIcon, Icon)
 
 foreign import _imAccessibility :: ReactIcon
 
-imAccessibility :: forall a b. Union a b PropsIcon => Record a -> JSX
-imAccessibility = element (unsafeCoerce _imAccessibility)
+imAccessibility :: Icon
+imAccessibility = element _imAccessibility
 
 foreign import _imAddressBook :: ReactIcon
 
-imAddressBook :: forall a b. Union a b PropsIcon => Record a -> JSX
-imAddressBook = element (unsafeCoerce _imAddressBook)
+imAddressBook :: Icon
+imAddressBook = element _imAddressBook
 
 foreign import _imAidKit :: ReactIcon
 
-imAidKit :: forall a b. Union a b PropsIcon => Record a -> JSX
-imAidKit = element (unsafeCoerce _imAidKit)
+imAidKit :: Icon
+imAidKit = element _imAidKit
 
 foreign import _imAirplane :: ReactIcon
 
-imAirplane :: forall a b. Union a b PropsIcon => Record a -> JSX
-imAirplane = element (unsafeCoerce _imAirplane)
+imAirplane :: Icon
+imAirplane = element _imAirplane
 
 foreign import _imAlarm :: ReactIcon
 
-imAlarm :: forall a b. Union a b PropsIcon => Record a -> JSX
-imAlarm = element (unsafeCoerce _imAlarm)
+imAlarm :: Icon
+imAlarm = element _imAlarm
 
 foreign import _imAmazon :: ReactIcon
 
-imAmazon :: forall a b. Union a b PropsIcon => Record a -> JSX
-imAmazon = element (unsafeCoerce _imAmazon)
+imAmazon :: Icon
+imAmazon = element _imAmazon
 
 foreign import _imAndroid :: ReactIcon
 
-imAndroid :: forall a b. Union a b PropsIcon => Record a -> JSX
-imAndroid = element (unsafeCoerce _imAndroid)
+imAndroid :: Icon
+imAndroid = element _imAndroid
 
 foreign import _imAngry :: ReactIcon
 
-imAngry :: forall a b. Union a b PropsIcon => Record a -> JSX
-imAngry = element (unsafeCoerce _imAngry)
+imAngry :: Icon
+imAngry = element _imAngry
 
 foreign import _imAppleinc :: ReactIcon
 
-imAppleinc :: forall a b. Union a b PropsIcon => Record a -> JSX
-imAppleinc = element (unsafeCoerce _imAppleinc)
+imAppleinc :: Icon
+imAppleinc = element _imAppleinc
 
 foreign import _imArrowDown :: ReactIcon
 
-imArrowDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-imArrowDown = element (unsafeCoerce _imArrowDown)
+imArrowDown :: Icon
+imArrowDown = element _imArrowDown
 
 foreign import _imArrowDownLeft :: ReactIcon
 
-imArrowDownLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-imArrowDownLeft = element (unsafeCoerce _imArrowDownLeft)
+imArrowDownLeft :: Icon
+imArrowDownLeft = element _imArrowDownLeft
 
 foreign import _imArrowDownRight :: ReactIcon
 
-imArrowDownRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-imArrowDownRight = element (unsafeCoerce _imArrowDownRight)
+imArrowDownRight :: Icon
+imArrowDownRight = element _imArrowDownRight
 
 foreign import _imArrowLeft :: ReactIcon
 
-imArrowLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-imArrowLeft = element (unsafeCoerce _imArrowLeft)
+imArrowLeft :: Icon
+imArrowLeft = element _imArrowLeft
 
 foreign import _imArrowRight :: ReactIcon
 
-imArrowRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-imArrowRight = element (unsafeCoerce _imArrowRight)
+imArrowRight :: Icon
+imArrowRight = element _imArrowRight
 
 foreign import _imArrowUp :: ReactIcon
 
-imArrowUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-imArrowUp = element (unsafeCoerce _imArrowUp)
+imArrowUp :: Icon
+imArrowUp = element _imArrowUp
 
 foreign import _imArrowUpLeft :: ReactIcon
 
-imArrowUpLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-imArrowUpLeft = element (unsafeCoerce _imArrowUpLeft)
+imArrowUpLeft :: Icon
+imArrowUpLeft = element _imArrowUpLeft
 
 foreign import _imArrowUpRight :: ReactIcon
 
-imArrowUpRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-imArrowUpRight = element (unsafeCoerce _imArrowUpRight)
+imArrowUpRight :: Icon
+imArrowUpRight = element _imArrowUpRight
 
 foreign import _imAttachment :: ReactIcon
 
-imAttachment :: forall a b. Union a b PropsIcon => Record a -> JSX
-imAttachment = element (unsafeCoerce _imAttachment)
+imAttachment :: Icon
+imAttachment = element _imAttachment
 
 foreign import _imBackward :: ReactIcon
 
-imBackward :: forall a b. Union a b PropsIcon => Record a -> JSX
-imBackward = element (unsafeCoerce _imBackward)
+imBackward :: Icon
+imBackward = element _imBackward
 
 foreign import _imBaffled :: ReactIcon
 
-imBaffled :: forall a b. Union a b PropsIcon => Record a -> JSX
-imBaffled = element (unsafeCoerce _imBaffled)
+imBaffled :: Icon
+imBaffled = element _imBaffled
 
 foreign import _imBarcode :: ReactIcon
 
-imBarcode :: forall a b. Union a b PropsIcon => Record a -> JSX
-imBarcode = element (unsafeCoerce _imBarcode)
+imBarcode :: Icon
+imBarcode = element _imBarcode
 
 foreign import _imBasecamp :: ReactIcon
 
-imBasecamp :: forall a b. Union a b PropsIcon => Record a -> JSX
-imBasecamp = element (unsafeCoerce _imBasecamp)
+imBasecamp :: Icon
+imBasecamp = element _imBasecamp
 
 foreign import _imBehance :: ReactIcon
 
-imBehance :: forall a b. Union a b PropsIcon => Record a -> JSX
-imBehance = element (unsafeCoerce _imBehance)
+imBehance :: Icon
+imBehance = element _imBehance
 
 foreign import _imBell :: ReactIcon
 
-imBell :: forall a b. Union a b PropsIcon => Record a -> JSX
-imBell = element (unsafeCoerce _imBell)
+imBell :: Icon
+imBell = element _imBell
 
 foreign import _imBin :: ReactIcon
 
-imBin :: forall a b. Union a b PropsIcon => Record a -> JSX
-imBin = element (unsafeCoerce _imBin)
+imBin :: Icon
+imBin = element _imBin
 
 foreign import _imBinoculars :: ReactIcon
 
-imBinoculars :: forall a b. Union a b PropsIcon => Record a -> JSX
-imBinoculars = element (unsafeCoerce _imBinoculars)
+imBinoculars :: Icon
+imBinoculars = element _imBinoculars
 
 foreign import _imBlocked :: ReactIcon
 
-imBlocked :: forall a b. Union a b PropsIcon => Record a -> JSX
-imBlocked = element (unsafeCoerce _imBlocked)
+imBlocked :: Icon
+imBlocked = element _imBlocked
 
 foreign import _imBlog :: ReactIcon
 
-imBlog :: forall a b. Union a b PropsIcon => Record a -> JSX
-imBlog = element (unsafeCoerce _imBlog)
+imBlog :: Icon
+imBlog = element _imBlog
 
 foreign import _imBlogger :: ReactIcon
 
-imBlogger :: forall a b. Union a b PropsIcon => Record a -> JSX
-imBlogger = element (unsafeCoerce _imBlogger)
+imBlogger :: Icon
+imBlogger = element _imBlogger
 
 foreign import _imBold :: ReactIcon
 
-imBold :: forall a b. Union a b PropsIcon => Record a -> JSX
-imBold = element (unsafeCoerce _imBold)
+imBold :: Icon
+imBold = element _imBold
 
 foreign import _imBook :: ReactIcon
 
-imBook :: forall a b. Union a b PropsIcon => Record a -> JSX
-imBook = element (unsafeCoerce _imBook)
+imBook :: Icon
+imBook = element _imBook
 
 foreign import _imBookmark :: ReactIcon
 
-imBookmark :: forall a b. Union a b PropsIcon => Record a -> JSX
-imBookmark = element (unsafeCoerce _imBookmark)
+imBookmark :: Icon
+imBookmark = element _imBookmark
 
 foreign import _imBookmarks :: ReactIcon
 
-imBookmarks :: forall a b. Union a b PropsIcon => Record a -> JSX
-imBookmarks = element (unsafeCoerce _imBookmarks)
+imBookmarks :: Icon
+imBookmarks = element _imBookmarks
 
 foreign import _imBooks :: ReactIcon
 
-imBooks :: forall a b. Union a b PropsIcon => Record a -> JSX
-imBooks = element (unsafeCoerce _imBooks)
+imBooks :: Icon
+imBooks = element _imBooks
 
 foreign import _imBoxAdd :: ReactIcon
 
-imBoxAdd :: forall a b. Union a b PropsIcon => Record a -> JSX
-imBoxAdd = element (unsafeCoerce _imBoxAdd)
+imBoxAdd :: Icon
+imBoxAdd = element _imBoxAdd
 
 foreign import _imBoxRemove :: ReactIcon
 
-imBoxRemove :: forall a b. Union a b PropsIcon => Record a -> JSX
-imBoxRemove = element (unsafeCoerce _imBoxRemove)
+imBoxRemove :: Icon
+imBoxRemove = element _imBoxRemove
 
 foreign import _imBriefcase :: ReactIcon
 
-imBriefcase :: forall a b. Union a b PropsIcon => Record a -> JSX
-imBriefcase = element (unsafeCoerce _imBriefcase)
+imBriefcase :: Icon
+imBriefcase = element _imBriefcase
 
 foreign import _imBrightnessContrast :: ReactIcon
 
-imBrightnessContrast :: forall a b. Union a b PropsIcon => Record a -> JSX
-imBrightnessContrast = element (unsafeCoerce _imBrightnessContrast)
+imBrightnessContrast :: Icon
+imBrightnessContrast = element _imBrightnessContrast
 
 foreign import _imBubble :: ReactIcon
 
-imBubble :: forall a b. Union a b PropsIcon => Record a -> JSX
-imBubble = element (unsafeCoerce _imBubble)
+imBubble :: Icon
+imBubble = element _imBubble
 
 foreign import _imBubbles :: ReactIcon
 
-imBubbles :: forall a b. Union a b PropsIcon => Record a -> JSX
-imBubbles = element (unsafeCoerce _imBubbles)
+imBubbles :: Icon
+imBubbles = element _imBubbles
 
 foreign import _imBug :: ReactIcon
 
-imBug :: forall a b. Union a b PropsIcon => Record a -> JSX
-imBug = element (unsafeCoerce _imBug)
+imBug :: Icon
+imBug = element _imBug
 
 foreign import _imBullhorn :: ReactIcon
 
-imBullhorn :: forall a b. Union a b PropsIcon => Record a -> JSX
-imBullhorn = element (unsafeCoerce _imBullhorn)
+imBullhorn :: Icon
+imBullhorn = element _imBullhorn
 
 foreign import _imCalculator :: ReactIcon
 
-imCalculator :: forall a b. Union a b PropsIcon => Record a -> JSX
-imCalculator = element (unsafeCoerce _imCalculator)
+imCalculator :: Icon
+imCalculator = element _imCalculator
 
 foreign import _imCalendar :: ReactIcon
 
-imCalendar :: forall a b. Union a b PropsIcon => Record a -> JSX
-imCalendar = element (unsafeCoerce _imCalendar)
+imCalendar :: Icon
+imCalendar = element _imCalendar
 
 foreign import _imCamera :: ReactIcon
 
-imCamera :: forall a b. Union a b PropsIcon => Record a -> JSX
-imCamera = element (unsafeCoerce _imCamera)
+imCamera :: Icon
+imCamera = element _imCamera
 
 foreign import _imCancelCircle :: ReactIcon
 
-imCancelCircle :: forall a b. Union a b PropsIcon => Record a -> JSX
-imCancelCircle = element (unsafeCoerce _imCancelCircle)
+imCancelCircle :: Icon
+imCancelCircle = element _imCancelCircle
 
 foreign import _imCart :: ReactIcon
 
-imCart :: forall a b. Union a b PropsIcon => Record a -> JSX
-imCart = element (unsafeCoerce _imCart)
+imCart :: Icon
+imCart = element _imCart
 
 foreign import _imCheckboxChecked :: ReactIcon
 
-imCheckboxChecked :: forall a b. Union a b PropsIcon => Record a -> JSX
-imCheckboxChecked = element (unsafeCoerce _imCheckboxChecked)
+imCheckboxChecked :: Icon
+imCheckboxChecked = element _imCheckboxChecked
 
 foreign import _imCheckboxUnchecked :: ReactIcon
 
-imCheckboxUnchecked :: forall a b. Union a b PropsIcon => Record a -> JSX
-imCheckboxUnchecked = element (unsafeCoerce _imCheckboxUnchecked)
+imCheckboxUnchecked :: Icon
+imCheckboxUnchecked = element _imCheckboxUnchecked
 
 foreign import _imCheckmark :: ReactIcon
 
-imCheckmark :: forall a b. Union a b PropsIcon => Record a -> JSX
-imCheckmark = element (unsafeCoerce _imCheckmark)
+imCheckmark :: Icon
+imCheckmark = element _imCheckmark
 
 foreign import _imChrome :: ReactIcon
 
-imChrome :: forall a b. Union a b PropsIcon => Record a -> JSX
-imChrome = element (unsafeCoerce _imChrome)
+imChrome :: Icon
+imChrome = element _imChrome
 
 foreign import _imCircleDown :: ReactIcon
 
-imCircleDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-imCircleDown = element (unsafeCoerce _imCircleDown)
+imCircleDown :: Icon
+imCircleDown = element _imCircleDown
 
 foreign import _imCircleLeft :: ReactIcon
 
-imCircleLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-imCircleLeft = element (unsafeCoerce _imCircleLeft)
+imCircleLeft :: Icon
+imCircleLeft = element _imCircleLeft
 
 foreign import _imCircleRight :: ReactIcon
 
-imCircleRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-imCircleRight = element (unsafeCoerce _imCircleRight)
+imCircleRight :: Icon
+imCircleRight = element _imCircleRight
 
 foreign import _imCircleUp :: ReactIcon
 
-imCircleUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-imCircleUp = element (unsafeCoerce _imCircleUp)
+imCircleUp :: Icon
+imCircleUp = element _imCircleUp
 
 foreign import _imClearFormatting :: ReactIcon
 
-imClearFormatting :: forall a b. Union a b PropsIcon => Record a -> JSX
-imClearFormatting = element (unsafeCoerce _imClearFormatting)
+imClearFormatting :: Icon
+imClearFormatting = element _imClearFormatting
 
 foreign import _imClipboard :: ReactIcon
 
-imClipboard :: forall a b. Union a b PropsIcon => Record a -> JSX
-imClipboard = element (unsafeCoerce _imClipboard)
+imClipboard :: Icon
+imClipboard = element _imClipboard
 
 foreign import _imClock :: ReactIcon
 
-imClock :: forall a b. Union a b PropsIcon => Record a -> JSX
-imClock = element (unsafeCoerce _imClock)
+imClock :: Icon
+imClock = element _imClock
 
 foreign import _imCloud :: ReactIcon
 
-imCloud :: forall a b. Union a b PropsIcon => Record a -> JSX
-imCloud = element (unsafeCoerce _imCloud)
+imCloud :: Icon
+imCloud = element _imCloud
 
 foreign import _imCloudCheck :: ReactIcon
 
-imCloudCheck :: forall a b. Union a b PropsIcon => Record a -> JSX
-imCloudCheck = element (unsafeCoerce _imCloudCheck)
+imCloudCheck :: Icon
+imCloudCheck = element _imCloudCheck
 
 foreign import _imCloudDownload :: ReactIcon
 
-imCloudDownload :: forall a b. Union a b PropsIcon => Record a -> JSX
-imCloudDownload = element (unsafeCoerce _imCloudDownload)
+imCloudDownload :: Icon
+imCloudDownload = element _imCloudDownload
 
 foreign import _imCloudUpload :: ReactIcon
 
-imCloudUpload :: forall a b. Union a b PropsIcon => Record a -> JSX
-imCloudUpload = element (unsafeCoerce _imCloudUpload)
+imCloudUpload :: Icon
+imCloudUpload = element _imCloudUpload
 
 foreign import _imClubs :: ReactIcon
 
-imClubs :: forall a b. Union a b PropsIcon => Record a -> JSX
-imClubs = element (unsafeCoerce _imClubs)
+imClubs :: Icon
+imClubs = element _imClubs
 
 foreign import _imCodepen :: ReactIcon
 
-imCodepen :: forall a b. Union a b PropsIcon => Record a -> JSX
-imCodepen = element (unsafeCoerce _imCodepen)
+imCodepen :: Icon
+imCodepen = element _imCodepen
 
 foreign import _imCog :: ReactIcon
 
-imCog :: forall a b. Union a b PropsIcon => Record a -> JSX
-imCog = element (unsafeCoerce _imCog)
+imCog :: Icon
+imCog = element _imCog
 
 foreign import _imCogs :: ReactIcon
 
-imCogs :: forall a b. Union a b PropsIcon => Record a -> JSX
-imCogs = element (unsafeCoerce _imCogs)
+imCogs :: Icon
+imCogs = element _imCogs
 
 foreign import _imCoinDollar :: ReactIcon
 
-imCoinDollar :: forall a b. Union a b PropsIcon => Record a -> JSX
-imCoinDollar = element (unsafeCoerce _imCoinDollar)
+imCoinDollar :: Icon
+imCoinDollar = element _imCoinDollar
 
 foreign import _imCoinEuro :: ReactIcon
 
-imCoinEuro :: forall a b. Union a b PropsIcon => Record a -> JSX
-imCoinEuro = element (unsafeCoerce _imCoinEuro)
+imCoinEuro :: Icon
+imCoinEuro = element _imCoinEuro
 
 foreign import _imCoinPound :: ReactIcon
 
-imCoinPound :: forall a b. Union a b PropsIcon => Record a -> JSX
-imCoinPound = element (unsafeCoerce _imCoinPound)
+imCoinPound :: Icon
+imCoinPound = element _imCoinPound
 
 foreign import _imCoinYen :: ReactIcon
 
-imCoinYen :: forall a b. Union a b PropsIcon => Record a -> JSX
-imCoinYen = element (unsafeCoerce _imCoinYen)
+imCoinYen :: Icon
+imCoinYen = element _imCoinYen
 
 foreign import _imCommand :: ReactIcon
 
-imCommand :: forall a b. Union a b PropsIcon => Record a -> JSX
-imCommand = element (unsafeCoerce _imCommand)
+imCommand :: Icon
+imCommand = element _imCommand
 
 foreign import _imCompass :: ReactIcon
 
-imCompass :: forall a b. Union a b PropsIcon => Record a -> JSX
-imCompass = element (unsafeCoerce _imCompass)
+imCompass :: Icon
+imCompass = element _imCompass
 
 foreign import _imConfused :: ReactIcon
 
-imConfused :: forall a b. Union a b PropsIcon => Record a -> JSX
-imConfused = element (unsafeCoerce _imConfused)
+imConfused :: Icon
+imConfused = element _imConfused
 
 foreign import _imConnection :: ReactIcon
 
-imConnection :: forall a b. Union a b PropsIcon => Record a -> JSX
-imConnection = element (unsafeCoerce _imConnection)
+imConnection :: Icon
+imConnection = element _imConnection
 
 foreign import _imContrast :: ReactIcon
 
-imContrast :: forall a b. Union a b PropsIcon => Record a -> JSX
-imContrast = element (unsafeCoerce _imContrast)
+imContrast :: Icon
+imContrast = element _imContrast
 
 foreign import _imCool :: ReactIcon
 
-imCool :: forall a b. Union a b PropsIcon => Record a -> JSX
-imCool = element (unsafeCoerce _imCool)
+imCool :: Icon
+imCool = element _imCool
 
 foreign import _imCopy :: ReactIcon
 
-imCopy :: forall a b. Union a b PropsIcon => Record a -> JSX
-imCopy = element (unsafeCoerce _imCopy)
+imCopy :: Icon
+imCopy = element _imCopy
 
 foreign import _imCreditCard :: ReactIcon
 
-imCreditCard :: forall a b. Union a b PropsIcon => Record a -> JSX
-imCreditCard = element (unsafeCoerce _imCreditCard)
+imCreditCard :: Icon
+imCreditCard = element _imCreditCard
 
 foreign import _imCrop :: ReactIcon
 
-imCrop :: forall a b. Union a b PropsIcon => Record a -> JSX
-imCrop = element (unsafeCoerce _imCrop)
+imCrop :: Icon
+imCrop = element _imCrop
 
 foreign import _imCross :: ReactIcon
 
-imCross :: forall a b. Union a b PropsIcon => Record a -> JSX
-imCross = element (unsafeCoerce _imCross)
+imCross :: Icon
+imCross = element _imCross
 
 foreign import _imCrying :: ReactIcon
 
-imCrying :: forall a b. Union a b PropsIcon => Record a -> JSX
-imCrying = element (unsafeCoerce _imCrying)
+imCrying :: Icon
+imCrying = element _imCrying
 
 foreign import _imCtrl :: ReactIcon
 
-imCtrl :: forall a b. Union a b PropsIcon => Record a -> JSX
-imCtrl = element (unsafeCoerce _imCtrl)
+imCtrl :: Icon
+imCtrl = element _imCtrl
 
 foreign import _imDatabase :: ReactIcon
 
-imDatabase :: forall a b. Union a b PropsIcon => Record a -> JSX
-imDatabase = element (unsafeCoerce _imDatabase)
+imDatabase :: Icon
+imDatabase = element _imDatabase
 
 foreign import _imDelicious :: ReactIcon
 
-imDelicious :: forall a b. Union a b PropsIcon => Record a -> JSX
-imDelicious = element (unsafeCoerce _imDelicious)
+imDelicious :: Icon
+imDelicious = element _imDelicious
 
 foreign import _imDeviantart :: ReactIcon
 
-imDeviantart :: forall a b. Union a b PropsIcon => Record a -> JSX
-imDeviantart = element (unsafeCoerce _imDeviantart)
+imDeviantart :: Icon
+imDeviantart = element _imDeviantart
 
 foreign import _imDiamonds :: ReactIcon
 
-imDiamonds :: forall a b. Union a b PropsIcon => Record a -> JSX
-imDiamonds = element (unsafeCoerce _imDiamonds)
+imDiamonds :: Icon
+imDiamonds = element _imDiamonds
 
 foreign import _imDice :: ReactIcon
 
-imDice :: forall a b. Union a b PropsIcon => Record a -> JSX
-imDice = element (unsafeCoerce _imDice)
+imDice :: Icon
+imDice = element _imDice
 
 foreign import _imDisplay :: ReactIcon
 
-imDisplay :: forall a b. Union a b PropsIcon => Record a -> JSX
-imDisplay = element (unsafeCoerce _imDisplay)
+imDisplay :: Icon
+imDisplay = element _imDisplay
 
 foreign import _imDownload :: ReactIcon
 
-imDownload :: forall a b. Union a b PropsIcon => Record a -> JSX
-imDownload = element (unsafeCoerce _imDownload)
+imDownload :: Icon
+imDownload = element _imDownload
 
 foreign import _imDrawer :: ReactIcon
 
-imDrawer :: forall a b. Union a b PropsIcon => Record a -> JSX
-imDrawer = element (unsafeCoerce _imDrawer)
+imDrawer :: Icon
+imDrawer = element _imDrawer
 
 foreign import _imDribbble :: ReactIcon
 
-imDribbble :: forall a b. Union a b PropsIcon => Record a -> JSX
-imDribbble = element (unsafeCoerce _imDribbble)
+imDribbble :: Icon
+imDribbble = element _imDribbble
 
 foreign import _imDrive :: ReactIcon
 
-imDrive :: forall a b. Union a b PropsIcon => Record a -> JSX
-imDrive = element (unsafeCoerce _imDrive)
+imDrive :: Icon
+imDrive = element _imDrive
 
 foreign import _imDropbox :: ReactIcon
 
-imDropbox :: forall a b. Union a b PropsIcon => Record a -> JSX
-imDropbox = element (unsafeCoerce _imDropbox)
+imDropbox :: Icon
+imDropbox = element _imDropbox
 
 foreign import _imDroplet :: ReactIcon
 
-imDroplet :: forall a b. Union a b PropsIcon => Record a -> JSX
-imDroplet = element (unsafeCoerce _imDroplet)
+imDroplet :: Icon
+imDroplet = element _imDroplet
 
 foreign import _imEarth :: ReactIcon
 
-imEarth :: forall a b. Union a b PropsIcon => Record a -> JSX
-imEarth = element (unsafeCoerce _imEarth)
+imEarth :: Icon
+imEarth = element _imEarth
 
 foreign import _imEdge :: ReactIcon
 
-imEdge :: forall a b. Union a b PropsIcon => Record a -> JSX
-imEdge = element (unsafeCoerce _imEdge)
+imEdge :: Icon
+imEdge = element _imEdge
 
 foreign import _imEject :: ReactIcon
 
-imEject :: forall a b. Union a b PropsIcon => Record a -> JSX
-imEject = element (unsafeCoerce _imEject)
+imEject :: Icon
+imEject = element _imEject
 
 foreign import _imEllo :: ReactIcon
 
-imEllo :: forall a b. Union a b PropsIcon => Record a -> JSX
-imEllo = element (unsafeCoerce _imEllo)
+imEllo :: Icon
+imEllo = element _imEllo
 
 foreign import _imEmbed :: ReactIcon
 
-imEmbed :: forall a b. Union a b PropsIcon => Record a -> JSX
-imEmbed = element (unsafeCoerce _imEmbed)
+imEmbed :: Icon
+imEmbed = element _imEmbed
 
 foreign import _imEnlarge :: ReactIcon
 
-imEnlarge :: forall a b. Union a b PropsIcon => Record a -> JSX
-imEnlarge = element (unsafeCoerce _imEnlarge)
+imEnlarge :: Icon
+imEnlarge = element _imEnlarge
 
 foreign import _imEnter :: ReactIcon
 
-imEnter :: forall a b. Union a b PropsIcon => Record a -> JSX
-imEnter = element (unsafeCoerce _imEnter)
+imEnter :: Icon
+imEnter = element _imEnter
 
 foreign import _imEnvelop :: ReactIcon
 
-imEnvelop :: forall a b. Union a b PropsIcon => Record a -> JSX
-imEnvelop = element (unsafeCoerce _imEnvelop)
+imEnvelop :: Icon
+imEnvelop = element _imEnvelop
 
 foreign import _imEqualizer :: ReactIcon
 
-imEqualizer :: forall a b. Union a b PropsIcon => Record a -> JSX
-imEqualizer = element (unsafeCoerce _imEqualizer)
+imEqualizer :: Icon
+imEqualizer = element _imEqualizer
 
 foreign import _imEvil :: ReactIcon
 
-imEvil :: forall a b. Union a b PropsIcon => Record a -> JSX
-imEvil = element (unsafeCoerce _imEvil)
+imEvil :: Icon
+imEvil = element _imEvil
 
 foreign import _imExit :: ReactIcon
 
-imExit :: forall a b. Union a b PropsIcon => Record a -> JSX
-imExit = element (unsafeCoerce _imExit)
+imExit :: Icon
+imExit = element _imExit
 
 foreign import _imEye :: ReactIcon
 
-imEye :: forall a b. Union a b PropsIcon => Record a -> JSX
-imEye = element (unsafeCoerce _imEye)
+imEye :: Icon
+imEye = element _imEye
 
 foreign import _imEyeBlocked :: ReactIcon
 
-imEyeBlocked :: forall a b. Union a b PropsIcon => Record a -> JSX
-imEyeBlocked = element (unsafeCoerce _imEyeBlocked)
+imEyeBlocked :: Icon
+imEyeBlocked = element _imEyeBlocked
 
 foreign import _imEyedropper :: ReactIcon
 
-imEyedropper :: forall a b. Union a b PropsIcon => Record a -> JSX
-imEyedropper = element (unsafeCoerce _imEyedropper)
+imEyedropper :: Icon
+imEyedropper = element _imEyedropper
 
 foreign import _imEyeMinus :: ReactIcon
 
-imEyeMinus :: forall a b. Union a b PropsIcon => Record a -> JSX
-imEyeMinus = element (unsafeCoerce _imEyeMinus)
+imEyeMinus :: Icon
+imEyeMinus = element _imEyeMinus
 
 foreign import _imEyePlus :: ReactIcon
 
-imEyePlus :: forall a b. Union a b PropsIcon => Record a -> JSX
-imEyePlus = element (unsafeCoerce _imEyePlus)
+imEyePlus :: Icon
+imEyePlus = element _imEyePlus
 
 foreign import _imFacebook :: ReactIcon
 
-imFacebook :: forall a b. Union a b PropsIcon => Record a -> JSX
-imFacebook = element (unsafeCoerce _imFacebook)
+imFacebook :: Icon
+imFacebook = element _imFacebook
 
 foreign import _imFeed :: ReactIcon
 
-imFeed :: forall a b. Union a b PropsIcon => Record a -> JSX
-imFeed = element (unsafeCoerce _imFeed)
+imFeed :: Icon
+imFeed = element _imFeed
 
 foreign import _imFileEmpty :: ReactIcon
 
-imFileEmpty :: forall a b. Union a b PropsIcon => Record a -> JSX
-imFileEmpty = element (unsafeCoerce _imFileEmpty)
+imFileEmpty :: Icon
+imFileEmpty = element _imFileEmpty
 
 foreign import _imFileExcel :: ReactIcon
 
-imFileExcel :: forall a b. Union a b PropsIcon => Record a -> JSX
-imFileExcel = element (unsafeCoerce _imFileExcel)
+imFileExcel :: Icon
+imFileExcel = element _imFileExcel
 
 foreign import _imFileMusic :: ReactIcon
 
-imFileMusic :: forall a b. Union a b PropsIcon => Record a -> JSX
-imFileMusic = element (unsafeCoerce _imFileMusic)
+imFileMusic :: Icon
+imFileMusic = element _imFileMusic
 
 foreign import _imFileOpenoffice :: ReactIcon
 
-imFileOpenoffice :: forall a b. Union a b PropsIcon => Record a -> JSX
-imFileOpenoffice = element (unsafeCoerce _imFileOpenoffice)
+imFileOpenoffice :: Icon
+imFileOpenoffice = element _imFileOpenoffice
 
 foreign import _imFilePdf :: ReactIcon
 
-imFilePdf :: forall a b. Union a b PropsIcon => Record a -> JSX
-imFilePdf = element (unsafeCoerce _imFilePdf)
+imFilePdf :: Icon
+imFilePdf = element _imFilePdf
 
 foreign import _imFilePicture :: ReactIcon
 
-imFilePicture :: forall a b. Union a b PropsIcon => Record a -> JSX
-imFilePicture = element (unsafeCoerce _imFilePicture)
+imFilePicture :: Icon
+imFilePicture = element _imFilePicture
 
 foreign import _imFilePlay :: ReactIcon
 
-imFilePlay :: forall a b. Union a b PropsIcon => Record a -> JSX
-imFilePlay = element (unsafeCoerce _imFilePlay)
+imFilePlay :: Icon
+imFilePlay = element _imFilePlay
 
 foreign import _imFilesEmpty :: ReactIcon
 
-imFilesEmpty :: forall a b. Union a b PropsIcon => Record a -> JSX
-imFilesEmpty = element (unsafeCoerce _imFilesEmpty)
+imFilesEmpty :: Icon
+imFilesEmpty = element _imFilesEmpty
 
 foreign import _imFileText :: ReactIcon
 
-imFileText :: forall a b. Union a b PropsIcon => Record a -> JSX
-imFileText = element (unsafeCoerce _imFileText)
+imFileText :: Icon
+imFileText = element _imFileText
 
 foreign import _imFileVideo :: ReactIcon
 
-imFileVideo :: forall a b. Union a b PropsIcon => Record a -> JSX
-imFileVideo = element (unsafeCoerce _imFileVideo)
+imFileVideo :: Icon
+imFileVideo = element _imFileVideo
 
 foreign import _imFileWord :: ReactIcon
 
-imFileWord :: forall a b. Union a b PropsIcon => Record a -> JSX
-imFileWord = element (unsafeCoerce _imFileWord)
+imFileWord :: Icon
+imFileWord = element _imFileWord
 
 foreign import _imFileZip :: ReactIcon
 
-imFileZip :: forall a b. Union a b PropsIcon => Record a -> JSX
-imFileZip = element (unsafeCoerce _imFileZip)
+imFileZip :: Icon
+imFileZip = element _imFileZip
 
 foreign import _imFilm :: ReactIcon
 
-imFilm :: forall a b. Union a b PropsIcon => Record a -> JSX
-imFilm = element (unsafeCoerce _imFilm)
+imFilm :: Icon
+imFilm = element _imFilm
 
 foreign import _imFilter :: ReactIcon
 
-imFilter :: forall a b. Union a b PropsIcon => Record a -> JSX
-imFilter = element (unsafeCoerce _imFilter)
+imFilter :: Icon
+imFilter = element _imFilter
 
 foreign import _imFinder :: ReactIcon
 
-imFinder :: forall a b. Union a b PropsIcon => Record a -> JSX
-imFinder = element (unsafeCoerce _imFinder)
+imFinder :: Icon
+imFinder = element _imFinder
 
 foreign import _imFire :: ReactIcon
 
-imFire :: forall a b. Union a b PropsIcon => Record a -> JSX
-imFire = element (unsafeCoerce _imFire)
+imFire :: Icon
+imFire = element _imFire
 
 foreign import _imFirefox :: ReactIcon
 
-imFirefox :: forall a b. Union a b PropsIcon => Record a -> JSX
-imFirefox = element (unsafeCoerce _imFirefox)
+imFirefox :: Icon
+imFirefox = element _imFirefox
 
 foreign import _imFirst :: ReactIcon
 
-imFirst :: forall a b. Union a b PropsIcon => Record a -> JSX
-imFirst = element (unsafeCoerce _imFirst)
+imFirst :: Icon
+imFirst = element _imFirst
 
 foreign import _imFlag :: ReactIcon
 
-imFlag :: forall a b. Union a b PropsIcon => Record a -> JSX
-imFlag = element (unsafeCoerce _imFlag)
+imFlag :: Icon
+imFlag = element _imFlag
 
 foreign import _imFlattr :: ReactIcon
 
-imFlattr :: forall a b. Union a b PropsIcon => Record a -> JSX
-imFlattr = element (unsafeCoerce _imFlattr)
+imFlattr :: Icon
+imFlattr = element _imFlattr
 
 foreign import _imFlickr :: ReactIcon
 
-imFlickr :: forall a b. Union a b PropsIcon => Record a -> JSX
-imFlickr = element (unsafeCoerce _imFlickr)
+imFlickr :: Icon
+imFlickr = element _imFlickr
 
 foreign import _imFloppyDisk :: ReactIcon
 
-imFloppyDisk :: forall a b. Union a b PropsIcon => Record a -> JSX
-imFloppyDisk = element (unsafeCoerce _imFloppyDisk)
+imFloppyDisk :: Icon
+imFloppyDisk = element _imFloppyDisk
 
 foreign import _imFolder :: ReactIcon
 
-imFolder :: forall a b. Union a b PropsIcon => Record a -> JSX
-imFolder = element (unsafeCoerce _imFolder)
+imFolder :: Icon
+imFolder = element _imFolder
 
 foreign import _imFolderDownload :: ReactIcon
 
-imFolderDownload :: forall a b. Union a b PropsIcon => Record a -> JSX
-imFolderDownload = element (unsafeCoerce _imFolderDownload)
+imFolderDownload :: Icon
+imFolderDownload = element _imFolderDownload
 
 foreign import _imFolderMinus :: ReactIcon
 
-imFolderMinus :: forall a b. Union a b PropsIcon => Record a -> JSX
-imFolderMinus = element (unsafeCoerce _imFolderMinus)
+imFolderMinus :: Icon
+imFolderMinus = element _imFolderMinus
 
 foreign import _imFolderOpen :: ReactIcon
 
-imFolderOpen :: forall a b. Union a b PropsIcon => Record a -> JSX
-imFolderOpen = element (unsafeCoerce _imFolderOpen)
+imFolderOpen :: Icon
+imFolderOpen = element _imFolderOpen
 
 foreign import _imFolderPlus :: ReactIcon
 
-imFolderPlus :: forall a b. Union a b PropsIcon => Record a -> JSX
-imFolderPlus = element (unsafeCoerce _imFolderPlus)
+imFolderPlus :: Icon
+imFolderPlus = element _imFolderPlus
 
 foreign import _imFolderUpload :: ReactIcon
 
-imFolderUpload :: forall a b. Union a b PropsIcon => Record a -> JSX
-imFolderUpload = element (unsafeCoerce _imFolderUpload)
+imFolderUpload :: Icon
+imFolderUpload = element _imFolderUpload
 
 foreign import _imFont :: ReactIcon
 
-imFont :: forall a b. Union a b PropsIcon => Record a -> JSX
-imFont = element (unsafeCoerce _imFont)
+imFont :: Icon
+imFont = element _imFont
 
 foreign import _imFontSize :: ReactIcon
 
-imFontSize :: forall a b. Union a b PropsIcon => Record a -> JSX
-imFontSize = element (unsafeCoerce _imFontSize)
+imFontSize :: Icon
+imFontSize = element _imFontSize
 
 foreign import _imForward :: ReactIcon
 
-imForward :: forall a b. Union a b PropsIcon => Record a -> JSX
-imForward = element (unsafeCoerce _imForward)
+imForward :: Icon
+imForward = element _imForward
 
 foreign import _imFoursquare :: ReactIcon
 
-imFoursquare :: forall a b. Union a b PropsIcon => Record a -> JSX
-imFoursquare = element (unsafeCoerce _imFoursquare)
+imFoursquare :: Icon
+imFoursquare = element _imFoursquare
 
 foreign import _imFrustrated :: ReactIcon
 
-imFrustrated :: forall a b. Union a b PropsIcon => Record a -> JSX
-imFrustrated = element (unsafeCoerce _imFrustrated)
+imFrustrated :: Icon
+imFrustrated = element _imFrustrated
 
 foreign import _imGift :: ReactIcon
 
-imGift :: forall a b. Union a b PropsIcon => Record a -> JSX
-imGift = element (unsafeCoerce _imGift)
+imGift :: Icon
+imGift = element _imGift
 
 foreign import _imGit :: ReactIcon
 
-imGit :: forall a b. Union a b PropsIcon => Record a -> JSX
-imGit = element (unsafeCoerce _imGit)
+imGit :: Icon
+imGit = element _imGit
 
 foreign import _imGithub :: ReactIcon
 
-imGithub :: forall a b. Union a b PropsIcon => Record a -> JSX
-imGithub = element (unsafeCoerce _imGithub)
+imGithub :: Icon
+imGithub = element _imGithub
 
 foreign import _imGlass :: ReactIcon
 
-imGlass :: forall a b. Union a b PropsIcon => Record a -> JSX
-imGlass = element (unsafeCoerce _imGlass)
+imGlass :: Icon
+imGlass = element _imGlass
 
 foreign import _imGoogle :: ReactIcon
 
-imGoogle :: forall a b. Union a b PropsIcon => Record a -> JSX
-imGoogle = element (unsafeCoerce _imGoogle)
+imGoogle :: Icon
+imGoogle = element _imGoogle
 
 foreign import _imGoogleDrive :: ReactIcon
 
-imGoogleDrive :: forall a b. Union a b PropsIcon => Record a -> JSX
-imGoogleDrive = element (unsafeCoerce _imGoogleDrive)
+imGoogleDrive :: Icon
+imGoogleDrive = element _imGoogleDrive
 
 foreign import _imGooglePlus :: ReactIcon
 
-imGooglePlus :: forall a b. Union a b PropsIcon => Record a -> JSX
-imGooglePlus = element (unsafeCoerce _imGooglePlus)
+imGooglePlus :: Icon
+imGooglePlus = element _imGooglePlus
 
 foreign import _imGrin :: ReactIcon
 
-imGrin :: forall a b. Union a b PropsIcon => Record a -> JSX
-imGrin = element (unsafeCoerce _imGrin)
+imGrin :: Icon
+imGrin = element _imGrin
 
 foreign import _imHackernews :: ReactIcon
 
-imHackernews :: forall a b. Union a b PropsIcon => Record a -> JSX
-imHackernews = element (unsafeCoerce _imHackernews)
+imHackernews :: Icon
+imHackernews = element _imHackernews
 
 foreign import _imHammer :: ReactIcon
 
-imHammer :: forall a b. Union a b PropsIcon => Record a -> JSX
-imHammer = element (unsafeCoerce _imHammer)
+imHammer :: Icon
+imHammer = element _imHammer
 
 foreign import _imHangouts :: ReactIcon
 
-imHangouts :: forall a b. Union a b PropsIcon => Record a -> JSX
-imHangouts = element (unsafeCoerce _imHangouts)
+imHangouts :: Icon
+imHangouts = element _imHangouts
 
 foreign import _imHappy :: ReactIcon
 
-imHappy :: forall a b. Union a b PropsIcon => Record a -> JSX
-imHappy = element (unsafeCoerce _imHappy)
+imHappy :: Icon
+imHappy = element _imHappy
 
 foreign import _imHeadphones :: ReactIcon
 
-imHeadphones :: forall a b. Union a b PropsIcon => Record a -> JSX
-imHeadphones = element (unsafeCoerce _imHeadphones)
+imHeadphones :: Icon
+imHeadphones = element _imHeadphones
 
 foreign import _imHeart :: ReactIcon
 
-imHeart :: forall a b. Union a b PropsIcon => Record a -> JSX
-imHeart = element (unsafeCoerce _imHeart)
+imHeart :: Icon
+imHeart = element _imHeart
 
 foreign import _imHeartBroken :: ReactIcon
 
-imHeartBroken :: forall a b. Union a b PropsIcon => Record a -> JSX
-imHeartBroken = element (unsafeCoerce _imHeartBroken)
+imHeartBroken :: Icon
+imHeartBroken = element _imHeartBroken
 
 foreign import _imHipster :: ReactIcon
 
-imHipster :: forall a b. Union a b PropsIcon => Record a -> JSX
-imHipster = element (unsafeCoerce _imHipster)
+imHipster :: Icon
+imHipster = element _imHipster
 
 foreign import _imHistory :: ReactIcon
 
-imHistory :: forall a b. Union a b PropsIcon => Record a -> JSX
-imHistory = element (unsafeCoerce _imHistory)
+imHistory :: Icon
+imHistory = element _imHistory
 
 foreign import _imHome :: ReactIcon
 
-imHome :: forall a b. Union a b PropsIcon => Record a -> JSX
-imHome = element (unsafeCoerce _imHome)
+imHome :: Icon
+imHome = element _imHome
 
 foreign import _imHourGlass :: ReactIcon
 
-imHourGlass :: forall a b. Union a b PropsIcon => Record a -> JSX
-imHourGlass = element (unsafeCoerce _imHourGlass)
+imHourGlass :: Icon
+imHourGlass = element _imHourGlass
 
 foreign import _imHtmlFive :: ReactIcon
 
-imHtmlFive :: forall a b. Union a b PropsIcon => Record a -> JSX
-imHtmlFive = element (unsafeCoerce _imHtmlFive)
+imHtmlFive :: Icon
+imHtmlFive = element _imHtmlFive
 
 foreign import _imIcoMoon :: ReactIcon
 
-imIcoMoon :: forall a b. Union a b PropsIcon => Record a -> JSX
-imIcoMoon = element (unsafeCoerce _imIcoMoon)
+imIcoMoon :: Icon
+imIcoMoon = element _imIcoMoon
 
 foreign import _imIe :: ReactIcon
 
-imIe :: forall a b. Union a b PropsIcon => Record a -> JSX
-imIe = element (unsafeCoerce _imIe)
+imIe :: Icon
+imIe = element _imIe
 
 foreign import _imImage :: ReactIcon
 
-imImage :: forall a b. Union a b PropsIcon => Record a -> JSX
-imImage = element (unsafeCoerce _imImage)
+imImage :: Icon
+imImage = element _imImage
 
 foreign import _imImages :: ReactIcon
 
-imImages :: forall a b. Union a b PropsIcon => Record a -> JSX
-imImages = element (unsafeCoerce _imImages)
+imImages :: Icon
+imImages = element _imImages
 
 foreign import _imIndentDecrease :: ReactIcon
 
-imIndentDecrease :: forall a b. Union a b PropsIcon => Record a -> JSX
-imIndentDecrease = element (unsafeCoerce _imIndentDecrease)
+imIndentDecrease :: Icon
+imIndentDecrease = element _imIndentDecrease
 
 foreign import _imIndentIncrease :: ReactIcon
 
-imIndentIncrease :: forall a b. Union a b PropsIcon => Record a -> JSX
-imIndentIncrease = element (unsafeCoerce _imIndentIncrease)
+imIndentIncrease :: Icon
+imIndentIncrease = element _imIndentIncrease
 
 foreign import _imInfinite :: ReactIcon
 
-imInfinite :: forall a b. Union a b PropsIcon => Record a -> JSX
-imInfinite = element (unsafeCoerce _imInfinite)
+imInfinite :: Icon
+imInfinite = element _imInfinite
 
 foreign import _imInfo :: ReactIcon
 
-imInfo :: forall a b. Union a b PropsIcon => Record a -> JSX
-imInfo = element (unsafeCoerce _imInfo)
+imInfo :: Icon
+imInfo = element _imInfo
 
 foreign import _imInsertTemplate :: ReactIcon
 
-imInsertTemplate :: forall a b. Union a b PropsIcon => Record a -> JSX
-imInsertTemplate = element (unsafeCoerce _imInsertTemplate)
+imInsertTemplate :: Icon
+imInsertTemplate = element _imInsertTemplate
 
 foreign import _imInstagram :: ReactIcon
 
-imInstagram :: forall a b. Union a b PropsIcon => Record a -> JSX
-imInstagram = element (unsafeCoerce _imInstagram)
+imInstagram :: Icon
+imInstagram = element _imInstagram
 
 foreign import _imItalic :: ReactIcon
 
-imItalic :: forall a b. Union a b PropsIcon => Record a -> JSX
-imItalic = element (unsafeCoerce _imItalic)
+imItalic :: Icon
+imItalic = element _imItalic
 
 foreign import _imJoomla :: ReactIcon
 
-imJoomla :: forall a b. Union a b PropsIcon => Record a -> JSX
-imJoomla = element (unsafeCoerce _imJoomla)
+imJoomla :: Icon
+imJoomla = element _imJoomla
 
 foreign import _imKey :: ReactIcon
 
-imKey :: forall a b. Union a b PropsIcon => Record a -> JSX
-imKey = element (unsafeCoerce _imKey)
+imKey :: Icon
+imKey = element _imKey
 
 foreign import _imKeyboard :: ReactIcon
 
-imKeyboard :: forall a b. Union a b PropsIcon => Record a -> JSX
-imKeyboard = element (unsafeCoerce _imKeyboard)
+imKeyboard :: Icon
+imKeyboard = element _imKeyboard
 
 foreign import _imLab :: ReactIcon
 
-imLab :: forall a b. Union a b PropsIcon => Record a -> JSX
-imLab = element (unsafeCoerce _imLab)
+imLab :: Icon
+imLab = element _imLab
 
 foreign import _imLanyrd :: ReactIcon
 
-imLanyrd :: forall a b. Union a b PropsIcon => Record a -> JSX
-imLanyrd = element (unsafeCoerce _imLanyrd)
+imLanyrd :: Icon
+imLanyrd = element _imLanyrd
 
 foreign import _imLaptop :: ReactIcon
 
-imLaptop :: forall a b. Union a b PropsIcon => Record a -> JSX
-imLaptop = element (unsafeCoerce _imLaptop)
+imLaptop :: Icon
+imLaptop = element _imLaptop
 
 foreign import _imLast :: ReactIcon
 
-imLast :: forall a b. Union a b PropsIcon => Record a -> JSX
-imLast = element (unsafeCoerce _imLast)
+imLast :: Icon
+imLast = element _imLast
 
 foreign import _imLastfm :: ReactIcon
 
-imLastfm :: forall a b. Union a b PropsIcon => Record a -> JSX
-imLastfm = element (unsafeCoerce _imLastfm)
+imLastfm :: Icon
+imLastfm = element _imLastfm
 
 foreign import _imLeaf :: ReactIcon
 
-imLeaf :: forall a b. Union a b PropsIcon => Record a -> JSX
-imLeaf = element (unsafeCoerce _imLeaf)
+imLeaf :: Icon
+imLeaf = element _imLeaf
 
 foreign import _imLibrary :: ReactIcon
 
-imLibrary :: forall a b. Union a b PropsIcon => Record a -> JSX
-imLibrary = element (unsafeCoerce _imLibrary)
+imLibrary :: Icon
+imLibrary = element _imLibrary
 
 foreign import _imLibreoffice :: ReactIcon
 
-imLibreoffice :: forall a b. Union a b PropsIcon => Record a -> JSX
-imLibreoffice = element (unsafeCoerce _imLibreoffice)
+imLibreoffice :: Icon
+imLibreoffice = element _imLibreoffice
 
 foreign import _imLifebuoy :: ReactIcon
 
-imLifebuoy :: forall a b. Union a b PropsIcon => Record a -> JSX
-imLifebuoy = element (unsafeCoerce _imLifebuoy)
+imLifebuoy :: Icon
+imLifebuoy = element _imLifebuoy
 
 foreign import _imLigature :: ReactIcon
 
-imLigature :: forall a b. Union a b PropsIcon => Record a -> JSX
-imLigature = element (unsafeCoerce _imLigature)
+imLigature :: Icon
+imLigature = element _imLigature
 
 foreign import _imLink :: ReactIcon
 
-imLink :: forall a b. Union a b PropsIcon => Record a -> JSX
-imLink = element (unsafeCoerce _imLink)
+imLink :: Icon
+imLink = element _imLink
 
 foreign import _imLinkedin :: ReactIcon
 
-imLinkedin :: forall a b. Union a b PropsIcon => Record a -> JSX
-imLinkedin = element (unsafeCoerce _imLinkedin)
+imLinkedin :: Icon
+imLinkedin = element _imLinkedin
 
 foreign import _imList :: ReactIcon
 
-imList :: forall a b. Union a b PropsIcon => Record a -> JSX
-imList = element (unsafeCoerce _imList)
+imList :: Icon
+imList = element _imList
 
 foreign import _imListNumbered :: ReactIcon
 
-imListNumbered :: forall a b. Union a b PropsIcon => Record a -> JSX
-imListNumbered = element (unsafeCoerce _imListNumbered)
+imListNumbered :: Icon
+imListNumbered = element _imListNumbered
 
 foreign import _imLocation :: ReactIcon
 
-imLocation :: forall a b. Union a b PropsIcon => Record a -> JSX
-imLocation = element (unsafeCoerce _imLocation)
+imLocation :: Icon
+imLocation = element _imLocation
 
 foreign import _imLock :: ReactIcon
 
-imLock :: forall a b. Union a b PropsIcon => Record a -> JSX
-imLock = element (unsafeCoerce _imLock)
+imLock :: Icon
+imLock = element _imLock
 
 foreign import _imLoop :: ReactIcon
 
-imLoop :: forall a b. Union a b PropsIcon => Record a -> JSX
-imLoop = element (unsafeCoerce _imLoop)
+imLoop :: Icon
+imLoop = element _imLoop
 
 foreign import _imLtr :: ReactIcon
 
-imLtr :: forall a b. Union a b PropsIcon => Record a -> JSX
-imLtr = element (unsafeCoerce _imLtr)
+imLtr :: Icon
+imLtr = element _imLtr
 
 foreign import _imMagicWand :: ReactIcon
 
-imMagicWand :: forall a b. Union a b PropsIcon => Record a -> JSX
-imMagicWand = element (unsafeCoerce _imMagicWand)
+imMagicWand :: Icon
+imMagicWand = element _imMagicWand
 
 foreign import _imMagnet :: ReactIcon
 
-imMagnet :: forall a b. Union a b PropsIcon => Record a -> JSX
-imMagnet = element (unsafeCoerce _imMagnet)
+imMagnet :: Icon
+imMagnet = element _imMagnet
 
 foreign import _imMail :: ReactIcon
 
-imMail :: forall a b. Union a b PropsIcon => Record a -> JSX
-imMail = element (unsafeCoerce _imMail)
+imMail :: Icon
+imMail = element _imMail
 
 foreign import _imMakeGroup :: ReactIcon
 
-imMakeGroup :: forall a b. Union a b PropsIcon => Record a -> JSX
-imMakeGroup = element (unsafeCoerce _imMakeGroup)
+imMakeGroup :: Icon
+imMakeGroup = element _imMakeGroup
 
 foreign import _imMan :: ReactIcon
 
-imMan :: forall a b. Union a b PropsIcon => Record a -> JSX
-imMan = element (unsafeCoerce _imMan)
+imMan :: Icon
+imMan = element _imMan
 
 foreign import _imManWoman :: ReactIcon
 
-imManWoman :: forall a b. Union a b PropsIcon => Record a -> JSX
-imManWoman = element (unsafeCoerce _imManWoman)
+imManWoman :: Icon
+imManWoman = element _imManWoman
 
 foreign import _imMap :: ReactIcon
 
-imMap :: forall a b. Union a b PropsIcon => Record a -> JSX
-imMap = element (unsafeCoerce _imMap)
+imMap :: Icon
+imMap = element _imMap
 
 foreign import _imMenu :: ReactIcon
 
-imMenu :: forall a b. Union a b PropsIcon => Record a -> JSX
-imMenu = element (unsafeCoerce _imMenu)
+imMenu :: Icon
+imMenu = element _imMenu
 
 foreign import _imMeter :: ReactIcon
 
-imMeter :: forall a b. Union a b PropsIcon => Record a -> JSX
-imMeter = element (unsafeCoerce _imMeter)
+imMeter :: Icon
+imMeter = element _imMeter
 
 foreign import _imMic :: ReactIcon
 
-imMic :: forall a b. Union a b PropsIcon => Record a -> JSX
-imMic = element (unsafeCoerce _imMic)
+imMic :: Icon
+imMic = element _imMic
 
 foreign import _imMinus :: ReactIcon
 
-imMinus :: forall a b. Union a b PropsIcon => Record a -> JSX
-imMinus = element (unsafeCoerce _imMinus)
+imMinus :: Icon
+imMinus = element _imMinus
 
 foreign import _imMobile :: ReactIcon
 
-imMobile :: forall a b. Union a b PropsIcon => Record a -> JSX
-imMobile = element (unsafeCoerce _imMobile)
+imMobile :: Icon
+imMobile = element _imMobile
 
 foreign import _imMoveDown :: ReactIcon
 
-imMoveDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-imMoveDown = element (unsafeCoerce _imMoveDown)
+imMoveDown :: Icon
+imMoveDown = element _imMoveDown
 
 foreign import _imMoveUp :: ReactIcon
 
-imMoveUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-imMoveUp = element (unsafeCoerce _imMoveUp)
+imMoveUp :: Icon
+imMoveUp = element _imMoveUp
 
 foreign import _imMug :: ReactIcon
 
-imMug :: forall a b. Union a b PropsIcon => Record a -> JSX
-imMug = element (unsafeCoerce _imMug)
+imMug :: Icon
+imMug = element _imMug
 
 foreign import _imMusic :: ReactIcon
 
-imMusic :: forall a b. Union a b PropsIcon => Record a -> JSX
-imMusic = element (unsafeCoerce _imMusic)
+imMusic :: Icon
+imMusic = element _imMusic
 
 foreign import _imNeutral :: ReactIcon
 
-imNeutral :: forall a b. Union a b PropsIcon => Record a -> JSX
-imNeutral = element (unsafeCoerce _imNeutral)
+imNeutral :: Icon
+imNeutral = element _imNeutral
 
 foreign import _imNewspaper :: ReactIcon
 
-imNewspaper :: forall a b. Union a b PropsIcon => Record a -> JSX
-imNewspaper = element (unsafeCoerce _imNewspaper)
+imNewspaper :: Icon
+imNewspaper = element _imNewspaper
 
 foreign import _imNewTab :: ReactIcon
 
-imNewTab :: forall a b. Union a b PropsIcon => Record a -> JSX
-imNewTab = element (unsafeCoerce _imNewTab)
+imNewTab :: Icon
+imNewTab = element _imNewTab
 
 foreign import _imNext :: ReactIcon
 
-imNext :: forall a b. Union a b PropsIcon => Record a -> JSX
-imNext = element (unsafeCoerce _imNext)
+imNext :: Icon
+imNext = element _imNext
 
 foreign import _imNotification :: ReactIcon
 
-imNotification :: forall a b. Union a b PropsIcon => Record a -> JSX
-imNotification = element (unsafeCoerce _imNotification)
+imNotification :: Icon
+imNotification = element _imNotification
 
 foreign import _imNpm :: ReactIcon
 
-imNpm :: forall a b. Union a b PropsIcon => Record a -> JSX
-imNpm = element (unsafeCoerce _imNpm)
+imNpm :: Icon
+imNpm = element _imNpm
 
 foreign import _imOffice :: ReactIcon
 
-imOffice :: forall a b. Union a b PropsIcon => Record a -> JSX
-imOffice = element (unsafeCoerce _imOffice)
+imOffice :: Icon
+imOffice = element _imOffice
 
 foreign import _imOmega :: ReactIcon
 
-imOmega :: forall a b. Union a b PropsIcon => Record a -> JSX
-imOmega = element (unsafeCoerce _imOmega)
+imOmega :: Icon
+imOmega = element _imOmega
 
 foreign import _imOnedrive :: ReactIcon
 
-imOnedrive :: forall a b. Union a b PropsIcon => Record a -> JSX
-imOnedrive = element (unsafeCoerce _imOnedrive)
+imOnedrive :: Icon
+imOnedrive = element _imOnedrive
 
 foreign import _imOpera :: ReactIcon
 
-imOpera :: forall a b. Union a b PropsIcon => Record a -> JSX
-imOpera = element (unsafeCoerce _imOpera)
+imOpera :: Icon
+imOpera = element _imOpera
 
 foreign import _imOpt :: ReactIcon
 
-imOpt :: forall a b. Union a b PropsIcon => Record a -> JSX
-imOpt = element (unsafeCoerce _imOpt)
+imOpt :: Icon
+imOpt = element _imOpt
 
 foreign import _imPacman :: ReactIcon
 
-imPacman :: forall a b. Union a b PropsIcon => Record a -> JSX
-imPacman = element (unsafeCoerce _imPacman)
+imPacman :: Icon
+imPacman = element _imPacman
 
 foreign import _imPagebreak :: ReactIcon
 
-imPagebreak :: forall a b. Union a b PropsIcon => Record a -> JSX
-imPagebreak = element (unsafeCoerce _imPagebreak)
+imPagebreak :: Icon
+imPagebreak = element _imPagebreak
 
 foreign import _imPageBreak :: ReactIcon
 
-imPageBreak :: forall a b. Union a b PropsIcon => Record a -> JSX
-imPageBreak = element (unsafeCoerce _imPageBreak)
+imPageBreak :: Icon
+imPageBreak = element _imPageBreak
 
 foreign import _imPaintFormat :: ReactIcon
 
-imPaintFormat :: forall a b. Union a b PropsIcon => Record a -> JSX
-imPaintFormat = element (unsafeCoerce _imPaintFormat)
+imPaintFormat :: Icon
+imPaintFormat = element _imPaintFormat
 
 foreign import _imParagraphCenter :: ReactIcon
 
-imParagraphCenter :: forall a b. Union a b PropsIcon => Record a -> JSX
-imParagraphCenter = element (unsafeCoerce _imParagraphCenter)
+imParagraphCenter :: Icon
+imParagraphCenter = element _imParagraphCenter
 
 foreign import _imParagraphJustify :: ReactIcon
 
-imParagraphJustify :: forall a b. Union a b PropsIcon => Record a -> JSX
-imParagraphJustify = element (unsafeCoerce _imParagraphJustify)
+imParagraphJustify :: Icon
+imParagraphJustify = element _imParagraphJustify
 
 foreign import _imParagraphLeft :: ReactIcon
 
-imParagraphLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-imParagraphLeft = element (unsafeCoerce _imParagraphLeft)
+imParagraphLeft :: Icon
+imParagraphLeft = element _imParagraphLeft
 
 foreign import _imParagraphRight :: ReactIcon
 
-imParagraphRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-imParagraphRight = element (unsafeCoerce _imParagraphRight)
+imParagraphRight :: Icon
+imParagraphRight = element _imParagraphRight
 
 foreign import _imPaste :: ReactIcon
 
-imPaste :: forall a b. Union a b PropsIcon => Record a -> JSX
-imPaste = element (unsafeCoerce _imPaste)
+imPaste :: Icon
+imPaste = element _imPaste
 
 foreign import _imPause :: ReactIcon
 
-imPause :: forall a b. Union a b PropsIcon => Record a -> JSX
-imPause = element (unsafeCoerce _imPause)
+imPause :: Icon
+imPause = element _imPause
 
 foreign import _imPaypal :: ReactIcon
 
-imPaypal :: forall a b. Union a b PropsIcon => Record a -> JSX
-imPaypal = element (unsafeCoerce _imPaypal)
+imPaypal :: Icon
+imPaypal = element _imPaypal
 
 foreign import _imPen :: ReactIcon
 
-imPen :: forall a b. Union a b PropsIcon => Record a -> JSX
-imPen = element (unsafeCoerce _imPen)
+imPen :: Icon
+imPen = element _imPen
 
 foreign import _imPencil :: ReactIcon
 
-imPencil :: forall a b. Union a b PropsIcon => Record a -> JSX
-imPencil = element (unsafeCoerce _imPencil)
+imPencil :: Icon
+imPencil = element _imPencil
 
 foreign import _imPhone :: ReactIcon
 
-imPhone :: forall a b. Union a b PropsIcon => Record a -> JSX
-imPhone = element (unsafeCoerce _imPhone)
+imPhone :: Icon
+imPhone = element _imPhone
 
 foreign import _imPhoneHangUp :: ReactIcon
 
-imPhoneHangUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-imPhoneHangUp = element (unsafeCoerce _imPhoneHangUp)
+imPhoneHangUp :: Icon
+imPhoneHangUp = element _imPhoneHangUp
 
 foreign import _imPieChart :: ReactIcon
 
-imPieChart :: forall a b. Union a b PropsIcon => Record a -> JSX
-imPieChart = element (unsafeCoerce _imPieChart)
+imPieChart :: Icon
+imPieChart = element _imPieChart
 
 foreign import _imPilcrow :: ReactIcon
 
-imPilcrow :: forall a b. Union a b PropsIcon => Record a -> JSX
-imPilcrow = element (unsafeCoerce _imPilcrow)
+imPilcrow :: Icon
+imPilcrow = element _imPilcrow
 
 foreign import _imPinterest :: ReactIcon
 
-imPinterest :: forall a b. Union a b PropsIcon => Record a -> JSX
-imPinterest = element (unsafeCoerce _imPinterest)
+imPinterest :: Icon
+imPinterest = element _imPinterest
 
 foreign import _imPlay :: ReactIcon
 
-imPlay :: forall a b. Union a b PropsIcon => Record a -> JSX
-imPlay = element (unsafeCoerce _imPlay)
+imPlay :: Icon
+imPlay = element _imPlay
 
 foreign import _imPlus :: ReactIcon
 
-imPlus :: forall a b. Union a b PropsIcon => Record a -> JSX
-imPlus = element (unsafeCoerce _imPlus)
+imPlus :: Icon
+imPlus = element _imPlus
 
 foreign import _imPodcast :: ReactIcon
 
-imPodcast :: forall a b. Union a b PropsIcon => Record a -> JSX
-imPodcast = element (unsafeCoerce _imPodcast)
+imPodcast :: Icon
+imPodcast = element _imPodcast
 
 foreign import _imPointDown :: ReactIcon
 
-imPointDown :: forall a b. Union a b PropsIcon => Record a -> JSX
-imPointDown = element (unsafeCoerce _imPointDown)
+imPointDown :: Icon
+imPointDown = element _imPointDown
 
 foreign import _imPointLeft :: ReactIcon
 
-imPointLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-imPointLeft = element (unsafeCoerce _imPointLeft)
+imPointLeft :: Icon
+imPointLeft = element _imPointLeft
 
 foreign import _imPointRight :: ReactIcon
 
-imPointRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-imPointRight = element (unsafeCoerce _imPointRight)
+imPointRight :: Icon
+imPointRight = element _imPointRight
 
 foreign import _imPointUp :: ReactIcon
 
-imPointUp :: forall a b. Union a b PropsIcon => Record a -> JSX
-imPointUp = element (unsafeCoerce _imPointUp)
+imPointUp :: Icon
+imPointUp = element _imPointUp
 
 foreign import _imPower :: ReactIcon
 
-imPower :: forall a b. Union a b PropsIcon => Record a -> JSX
-imPower = element (unsafeCoerce _imPower)
+imPower :: Icon
+imPower = element _imPower
 
 foreign import _imPowerCord :: ReactIcon
 
-imPowerCord :: forall a b. Union a b PropsIcon => Record a -> JSX
-imPowerCord = element (unsafeCoerce _imPowerCord)
+imPowerCord :: Icon
+imPowerCord = element _imPowerCord
 
 foreign import _imPrevious :: ReactIcon
 
-imPrevious :: forall a b. Union a b PropsIcon => Record a -> JSX
-imPrevious = element (unsafeCoerce _imPrevious)
+imPrevious :: Icon
+imPrevious = element _imPrevious
 
 foreign import _imPriceTag :: ReactIcon
 
-imPriceTag :: forall a b. Union a b PropsIcon => Record a -> JSX
-imPriceTag = element (unsafeCoerce _imPriceTag)
+imPriceTag :: Icon
+imPriceTag = element _imPriceTag
 
 foreign import _imPriceTags :: ReactIcon
 
-imPriceTags :: forall a b. Union a b PropsIcon => Record a -> JSX
-imPriceTags = element (unsafeCoerce _imPriceTags)
+imPriceTags :: Icon
+imPriceTags = element _imPriceTags
 
 foreign import _imPrinter :: ReactIcon
 
-imPrinter :: forall a b. Union a b PropsIcon => Record a -> JSX
-imPrinter = element (unsafeCoerce _imPrinter)
+imPrinter :: Icon
+imPrinter = element _imPrinter
 
 foreign import _imProfile :: ReactIcon
 
-imProfile :: forall a b. Union a b PropsIcon => Record a -> JSX
-imProfile = element (unsafeCoerce _imProfile)
+imProfile :: Icon
+imProfile = element _imProfile
 
 foreign import _imPushpin :: ReactIcon
 
-imPushpin :: forall a b. Union a b PropsIcon => Record a -> JSX
-imPushpin = element (unsafeCoerce _imPushpin)
+imPushpin :: Icon
+imPushpin = element _imPushpin
 
 foreign import _imQrcode :: ReactIcon
 
-imQrcode :: forall a b. Union a b PropsIcon => Record a -> JSX
-imQrcode = element (unsafeCoerce _imQrcode)
+imQrcode :: Icon
+imQrcode = element _imQrcode
 
 foreign import _imQuestion :: ReactIcon
 
-imQuestion :: forall a b. Union a b PropsIcon => Record a -> JSX
-imQuestion = element (unsafeCoerce _imQuestion)
+imQuestion :: Icon
+imQuestion = element _imQuestion
 
 foreign import _imQuill :: ReactIcon
 
-imQuill :: forall a b. Union a b PropsIcon => Record a -> JSX
-imQuill = element (unsafeCoerce _imQuill)
+imQuill :: Icon
+imQuill = element _imQuill
 
 foreign import _imQuotesLeft :: ReactIcon
 
-imQuotesLeft :: forall a b. Union a b PropsIcon => Record a -> JSX
-imQuotesLeft = element (unsafeCoerce _imQuotesLeft)
+imQuotesLeft :: Icon
+imQuotesLeft = element _imQuotesLeft
 
 foreign import _imQuotesRight :: ReactIcon
 
-imQuotesRight :: forall a b. Union a b PropsIcon => Record a -> JSX
-imQuotesRight = element (unsafeCoerce _imQuotesRight)
+imQuotesRight :: Icon
+imQuotesRight = element _imQuotesRight
 
 foreign import _imRadioChecked :: ReactIcon
 
-imRadioChecked :: forall a b. Union a b PropsIcon => Record a -> JSX
-imRadioChecked = element (unsafeCoerce _imRadioChecked)
+imRadioChecked :: Icon
+imRadioChecked = element _imRadioChecked
 
 foreign import _imRadioUnchecked :: ReactIcon
 
-imRadioUnchecked :: forall a b. Union a b PropsIcon => Record a -> JSX
-imRadioUnchecked = element (unsafeCoerce _imRadioUnchecked)
+imRadioUnchecked :: Icon
+imRadioUnchecked = element _imRadioUnchecked
 
 foreign import _imReddit :: ReactIcon
 
-imReddit :: forall a b. Union a b PropsIcon => Record a -> JSX
-imReddit = element (unsafeCoerce _imReddit)
+imReddit :: Icon
+imReddit = element _imReddit
 
 foreign import _imRedo :: ReactIcon
 
-imRedo :: forall a b. Union a b PropsIcon => Record a -> JSX
-imRedo = element (unsafeCoerce _imRedo)
+imRedo :: Icon
+imRedo = element _imRedo
 
 foreign import _imRenren :: ReactIcon
 
-imRenren :: forall a b. Union a b PropsIcon => Record a -> JSX
-imRenren = element (unsafeCoerce _imRenren)
+imRenren :: Icon
+imRenren = element _imRenren
 
 foreign import _imReply :: ReactIcon
 
-imReply :: forall a b. Union a b PropsIcon => Record a -> JSX
-imReply = element (unsafeCoerce _imReply)
+imReply :: Icon
+imReply = element _imReply
 
 foreign import _imRoad :: ReactIcon
 
-imRoad :: forall a b. Union a b PropsIcon => Record a -> JSX
-imRoad = element (unsafeCoerce _imRoad)
+imRoad :: Icon
+imRoad = element _imRoad
 
 foreign import _imRocket :: ReactIcon
 
-imRocket :: forall a b. Union a b PropsIcon => Record a -> JSX
-imRocket = element (unsafeCoerce _imRocket)
+imRocket :: Icon
+imRocket = element _imRocket
 
 foreign import _imRss :: ReactIcon
 
-imRss :: forall a b. Union a b PropsIcon => Record a -> JSX
-imRss = element (unsafeCoerce _imRss)
+imRss :: Icon
+imRss = element _imRss
 
 foreign import _imRtl :: ReactIcon
 
-imRtl :: forall a b. Union a b PropsIcon => Record a -> JSX
-imRtl = element (unsafeCoerce _imRtl)
+imRtl :: Icon
+imRtl = element _imRtl
 
 foreign import _imSad :: ReactIcon
 
-imSad :: forall a b. Union a b PropsIcon => Record a -> JSX
-imSad = element (unsafeCoerce _imSad)
+imSad :: Icon
+imSad = element _imSad
 
 foreign import _imSafari :: ReactIcon
 
-imSafari :: forall a b. Union a b PropsIcon => Record a -> JSX
-imSafari = element (unsafeCoerce _imSafari)
+imSafari :: Icon
+imSafari = element _imSafari
 
 foreign import _imScissors :: ReactIcon
 
-imScissors :: forall a b. Union a b PropsIcon => Record a -> JSX
-imScissors = element (unsafeCoerce _imScissors)
+imScissors :: Icon
+imScissors = element _imScissors
 
 foreign import _imSearch :: ReactIcon
 
-imSearch :: forall a b. Union a b PropsIcon => Record a -> JSX
-imSearch = element (unsafeCoerce _imSearch)
+imSearch :: Icon
+imSearch = element _imSearch
 
 foreign import _imSection :: ReactIcon
 
-imSection :: forall a b. Union a b PropsIcon => Record a -> JSX
-imSection = element (unsafeCoerce _imSection)
+imSection :: Icon
+imSection = element _imSection
 
 foreign import _imShare :: ReactIcon
 
-imShare :: forall a b. Union a b PropsIcon => Record a -> JSX
-imShare = element (unsafeCoerce _imShare)
+imShare :: Icon
+imShare = element _imShare
 
 foreign import _imShield :: ReactIcon
 
-imShield :: forall a b. Union a b PropsIcon => Record a -> JSX
-imShield = element (unsafeCoerce _imShield)
+imShield :: Icon
+imShield = element _imShield
 
 foreign import _imShift :: ReactIcon
 
-imShift :: forall a b. Union a b PropsIcon => Record a -> JSX
-imShift = element (unsafeCoerce _imShift)
+imShift :: Icon
+imShift = element _imShift
 
 foreign import _imShocked :: ReactIcon
 
-imShocked :: forall a b. Union a b PropsIcon => Record a -> JSX
-imShocked = element (unsafeCoerce _imShocked)
+imShocked :: Icon
+imShocked = element _imShocked
 
 foreign import _imShrink :: ReactIcon
 
-imShrink :: forall a b. Union a b PropsIcon => Record a -> JSX
-imShrink = element (unsafeCoerce _imShrink)
+imShrink :: Icon
+imShrink = element _imShrink
 
 foreign import _imShuffle :: ReactIcon
 
-imShuffle :: forall a b. Union a b PropsIcon => Record a -> JSX
-imShuffle = element (unsafeCoerce _imShuffle)
+imShuffle :: Icon
+imShuffle = element _imShuffle
 
 foreign import _imSigma :: ReactIcon
 
-imSigma :: forall a b. Union a b PropsIcon => Record a -> JSX
-imSigma = element (unsafeCoerce _imSigma)
+imSigma :: Icon
+imSigma = element _imSigma
 
 foreign import _imSinaWeibo :: ReactIcon
 
-imSinaWeibo :: forall a b. Union a b PropsIcon => Record a -> JSX
-imSinaWeibo = element (unsafeCoerce _imSinaWeibo)
+imSinaWeibo :: Icon
+imSinaWeibo = element _imSinaWeibo
 
 foreign import _imSkype :: ReactIcon
 
-imSkype :: forall a b. Union a b PropsIcon => Record a -> JSX
-imSkype = element (unsafeCoerce _imSkype)
+imSkype :: Icon
+imSkype = element _imSkype
 
 foreign import _imSleepy :: ReactIcon
 
-imSleepy :: forall a b. Union a b PropsIcon => Record a -> JSX
-imSleepy = element (unsafeCoerce _imSleepy)
+imSleepy :: Icon
+imSleepy = element _imSleepy
 
 foreign import _imSmile :: ReactIcon
 
-imSmile :: forall a b. Union a b PropsIcon => Record a -> JSX
-imSmile = element (unsafeCoerce _imSmile)
+imSmile :: Icon
+imSmile = element _imSmile
 
 foreign import _imSortAlphaAsc :: ReactIcon
 
-imSortAlphaAsc :: forall a b. Union a b PropsIcon => Record a -> JSX
-imSortAlphaAsc = element (unsafeCoerce _imSortAlphaAsc)
+imSortAlphaAsc :: Icon
+imSortAlphaAsc = element _imSortAlphaAsc
 
 foreign import _imSortAlphaDesc :: ReactIcon
 
-imSortAlphaDesc :: forall a b. Union a b PropsIcon => Record a -> JSX
-imSortAlphaDesc = element (unsafeCoerce _imSortAlphaDesc)
+imSortAlphaDesc :: Icon
+imSortAlphaDesc = element _imSortAlphaDesc
 
 foreign import _imSortAmountAsc :: ReactIcon
 
-imSortAmountAsc :: forall a b. Union a b PropsIcon => Record a -> JSX
-imSortAmountAsc = element (unsafeCoerce _imSortAmountAsc)
+imSortAmountAsc :: Icon
+imSortAmountAsc = element _imSortAmountAsc
 
 foreign import _imSortAmountDesc :: ReactIcon
 
-imSortAmountDesc :: forall a b. Union a b PropsIcon => Record a -> JSX
-imSortAmountDesc = element (unsafeCoerce _imSortAmountDesc)
+imSortAmountDesc :: Icon
+imSortAmountDesc = element _imSortAmountDesc
 
 foreign import _imSortNumbericDesc :: ReactIcon
 
-imSortNumbericDesc :: forall a b. Union a b PropsIcon => Record a -> JSX
-imSortNumbericDesc = element (unsafeCoerce _imSortNumbericDesc)
+imSortNumbericDesc :: Icon
+imSortNumbericDesc = element _imSortNumbericDesc
 
 foreign import _imSortNumericAsc :: ReactIcon
 
-imSortNumericAsc :: forall a b. Union a b PropsIcon => Record a -> JSX
-imSortNumericAsc = element (unsafeCoerce _imSortNumericAsc)
+imSortNumericAsc :: Icon
+imSortNumericAsc = element _imSortNumericAsc
 
 foreign import _imSoundcloud :: ReactIcon
 
-imSoundcloud :: forall a b. Union a b PropsIcon => Record a -> JSX
-imSoundcloud = element (unsafeCoerce _imSoundcloud)
+imSoundcloud :: Icon
+imSoundcloud = element _imSoundcloud
 
 foreign import _imSpades :: ReactIcon
 
-imSpades :: forall a b. Union a b PropsIcon => Record a -> JSX
-imSpades = element (unsafeCoerce _imSpades)
+imSpades :: Icon
+imSpades = element _imSpades
 
 foreign import _imSpellCheck :: ReactIcon
 
-imSpellCheck :: forall a b. Union a b PropsIcon => Record a -> JSX
-imSpellCheck = element (unsafeCoerce _imSpellCheck)
+imSpellCheck :: Icon
+imSpellCheck = element _imSpellCheck
 
 foreign import _imSphere :: ReactIcon
 
-imSphere :: forall a b. Union a b PropsIcon => Record a -> JSX
-imSphere = element (unsafeCoerce _imSphere)
+imSphere :: Icon
+imSphere = element _imSphere
 
 foreign import _imSpinner :: ReactIcon
 
-imSpinner :: forall a b. Union a b PropsIcon => Record a -> JSX
-imSpinner = element (unsafeCoerce _imSpinner)
+imSpinner :: Icon
+imSpinner = element _imSpinner
 
 foreign import _imSpoonKnife :: ReactIcon
 
-imSpoonKnife :: forall a b. Union a b PropsIcon => Record a -> JSX
-imSpoonKnife = element (unsafeCoerce _imSpoonKnife)
+imSpoonKnife :: Icon
+imSpoonKnife = element _imSpoonKnife
 
 foreign import _imSpotify :: ReactIcon
 
-imSpotify :: forall a b. Union a b PropsIcon => Record a -> JSX
-imSpotify = element (unsafeCoerce _imSpotify)
+imSpotify :: Icon
+imSpotify = element _imSpotify
 
 foreign import _imStack :: ReactIcon
 
-imStack :: forall a b. Union a b PropsIcon => Record a -> JSX
-imStack = element (unsafeCoerce _imStack)
+imStack :: Icon
+imStack = element _imStack
 
 foreign import _imStackoverflow :: ReactIcon
 
-imStackoverflow :: forall a b. Union a b PropsIcon => Record a -> JSX
-imStackoverflow = element (unsafeCoerce _imStackoverflow)
+imStackoverflow :: Icon
+imStackoverflow = element _imStackoverflow
 
 foreign import _imStarEmpty :: ReactIcon
 
-imStarEmpty :: forall a b. Union a b PropsIcon => Record a -> JSX
-imStarEmpty = element (unsafeCoerce _imStarEmpty)
+imStarEmpty :: Icon
+imStarEmpty = element _imStarEmpty
 
 foreign import _imStarFull :: ReactIcon
 
-imStarFull :: forall a b. Union a b PropsIcon => Record a -> JSX
-imStarFull = element (unsafeCoerce _imStarFull)
+imStarFull :: Icon
+imStarFull = element _imStarFull
 
 foreign import _imStarHalf :: ReactIcon
 
-imStarHalf :: forall a b. Union a b PropsIcon => Record a -> JSX
-imStarHalf = element (unsafeCoerce _imStarHalf)
+imStarHalf :: Icon
+imStarHalf = element _imStarHalf
 
 foreign import _imStatsBars :: ReactIcon
 
-imStatsBars :: forall a b. Union a b PropsIcon => Record a -> JSX
-imStatsBars = element (unsafeCoerce _imStatsBars)
+imStatsBars :: Icon
+imStatsBars = element _imStatsBars
 
 foreign import _imStatsDots :: ReactIcon
 
-imStatsDots :: forall a b. Union a b PropsIcon => Record a -> JSX
-imStatsDots = element (unsafeCoerce _imStatsDots)
+imStatsDots :: Icon
+imStatsDots = element _imStatsDots
 
 foreign import _imSteam :: ReactIcon
 
-imSteam :: forall a b. Union a b PropsIcon => Record a -> JSX
-imSteam = element (unsafeCoerce _imSteam)
+imSteam :: Icon
+imSteam = element _imSteam
 
 foreign import _imStop :: ReactIcon
 
-imStop :: forall a b. Union a b PropsIcon => Record a -> JSX
-imStop = element (unsafeCoerce _imStop)
+imStop :: Icon
+imStop = element _imStop
 
 foreign import _imStopwatch :: ReactIcon
 
-imStopwatch :: forall a b. Union a b PropsIcon => Record a -> JSX
-imStopwatch = element (unsafeCoerce _imStopwatch)
+imStopwatch :: Icon
+imStopwatch = element _imStopwatch
 
 foreign import _imStrikethrough :: ReactIcon
 
-imStrikethrough :: forall a b. Union a b PropsIcon => Record a -> JSX
-imStrikethrough = element (unsafeCoerce _imStrikethrough)
+imStrikethrough :: Icon
+imStrikethrough = element _imStrikethrough
 
 foreign import _imStumbleupon :: ReactIcon
 
-imStumbleupon :: forall a b. Union a b PropsIcon => Record a -> JSX
-imStumbleupon = element (unsafeCoerce _imStumbleupon)
+imStumbleupon :: Icon
+imStumbleupon = element _imStumbleupon
 
 foreign import _imSubscript :: ReactIcon
 
-imSubscript :: forall a b. Union a b PropsIcon => Record a -> JSX
-imSubscript = element (unsafeCoerce _imSubscript)
+imSubscript :: Icon
+imSubscript = element _imSubscript
 
 foreign import _imSun :: ReactIcon
 
-imSun :: forall a b. Union a b PropsIcon => Record a -> JSX
-imSun = element (unsafeCoerce _imSun)
+imSun :: Icon
+imSun = element _imSun
 
 foreign import _imSuperscript :: ReactIcon
 
-imSuperscript :: forall a b. Union a b PropsIcon => Record a -> JSX
-imSuperscript = element (unsafeCoerce _imSuperscript)
+imSuperscript :: Icon
+imSuperscript = element _imSuperscript
 
 foreign import _imSvg :: ReactIcon
 
-imSvg :: forall a b. Union a b PropsIcon => Record a -> JSX
-imSvg = element (unsafeCoerce _imSvg)
+imSvg :: Icon
+imSvg = element _imSvg
 
 foreign import _imSwitch :: ReactIcon
 
-imSwitch :: forall a b. Union a b PropsIcon => Record a -> JSX
-imSwitch = element (unsafeCoerce _imSwitch)
+imSwitch :: Icon
+imSwitch = element _imSwitch
 
 foreign import _imTab :: ReactIcon
 
-imTab :: forall a b. Union a b PropsIcon => Record a -> JSX
-imTab = element (unsafeCoerce _imTab)
+imTab :: Icon
+imTab = element _imTab
 
 foreign import _imTable :: ReactIcon
 
-imTable :: forall a b. Union a b PropsIcon => Record a -> JSX
-imTable = element (unsafeCoerce _imTable)
+imTable :: Icon
+imTable = element _imTable
 
 foreign import _imTablet :: ReactIcon
 
-imTablet :: forall a b. Union a b PropsIcon => Record a -> JSX
-imTablet = element (unsafeCoerce _imTablet)
+imTablet :: Icon
+imTablet = element _imTablet
 
 foreign import _imTarget :: ReactIcon
 
-imTarget :: forall a b. Union a b PropsIcon => Record a -> JSX
-imTarget = element (unsafeCoerce _imTarget)
+imTarget :: Icon
+imTarget = element _imTarget
 
 foreign import _imTelegram :: ReactIcon
 
-imTelegram :: forall a b. Union a b PropsIcon => Record a -> JSX
-imTelegram = element (unsafeCoerce _imTelegram)
+imTelegram :: Icon
+imTelegram = element _imTelegram
 
 foreign import _imTerminal :: ReactIcon
 
-imTerminal :: forall a b. Union a b PropsIcon => Record a -> JSX
-imTerminal = element (unsafeCoerce _imTerminal)
+imTerminal :: Icon
+imTerminal = element _imTerminal
 
 foreign import _imTextColor :: ReactIcon
 
-imTextColor :: forall a b. Union a b PropsIcon => Record a -> JSX
-imTextColor = element (unsafeCoerce _imTextColor)
+imTextColor :: Icon
+imTextColor = element _imTextColor
 
 foreign import _imTextHeight :: ReactIcon
 
-imTextHeight :: forall a b. Union a b PropsIcon => Record a -> JSX
-imTextHeight = element (unsafeCoerce _imTextHeight)
+imTextHeight :: Icon
+imTextHeight = element _imTextHeight
 
 foreign import _imTextWidth :: ReactIcon
 
-imTextWidth :: forall a b. Union a b PropsIcon => Record a -> JSX
-imTextWidth = element (unsafeCoerce _imTextWidth)
+imTextWidth :: Icon
+imTextWidth = element _imTextWidth
 
 foreign import _imTicket :: ReactIcon
 
-imTicket :: forall a b. Union a b PropsIcon => Record a -> JSX
-imTicket = element (unsafeCoerce _imTicket)
+imTicket :: Icon
+imTicket = element _imTicket
 
 foreign import _imTongue :: ReactIcon
 
-imTongue :: forall a b. Union a b PropsIcon => Record a -> JSX
-imTongue = element (unsafeCoerce _imTongue)
+imTongue :: Icon
+imTongue = element _imTongue
 
 foreign import _imTree :: ReactIcon
 
-imTree :: forall a b. Union a b PropsIcon => Record a -> JSX
-imTree = element (unsafeCoerce _imTree)
+imTree :: Icon
+imTree = element _imTree
 
 foreign import _imTrello :: ReactIcon
 
-imTrello :: forall a b. Union a b PropsIcon => Record a -> JSX
-imTrello = element (unsafeCoerce _imTrello)
+imTrello :: Icon
+imTrello = element _imTrello
 
 foreign import _imTrophy :: ReactIcon
 
-imTrophy :: forall a b. Union a b PropsIcon => Record a -> JSX
-imTrophy = element (unsafeCoerce _imTrophy)
+imTrophy :: Icon
+imTrophy = element _imTrophy
 
 foreign import _imTruck :: ReactIcon
 
-imTruck :: forall a b. Union a b PropsIcon => Record a -> JSX
-imTruck = element (unsafeCoerce _imTruck)
+imTruck :: Icon
+imTruck = element _imTruck
 
 foreign import _imTumblr :: ReactIcon
 
-imTumblr :: forall a b. Union a b PropsIcon => Record a -> JSX
-imTumblr = element (unsafeCoerce _imTumblr)
+imTumblr :: Icon
+imTumblr = element _imTumblr
 
 foreign import _imTux :: ReactIcon
 
-imTux :: forall a b. Union a b PropsIcon => Record a -> JSX
-imTux = element (unsafeCoerce _imTux)
+imTux :: Icon
+imTux = element _imTux
 
 foreign import _imTv :: ReactIcon
 
-imTv :: forall a b. Union a b PropsIcon => Record a -> JSX
-imTv = element (unsafeCoerce _imTv)
+imTv :: Icon
+imTv = element _imTv
 
 foreign import _imTwitch :: ReactIcon
 
-imTwitch :: forall a b. Union a b PropsIcon => Record a -> JSX
-imTwitch = element (unsafeCoerce _imTwitch)
+imTwitch :: Icon
+imTwitch = element _imTwitch
 
 foreign import _imTwitter :: ReactIcon
 
-imTwitter :: forall a b. Union a b PropsIcon => Record a -> JSX
-imTwitter = element (unsafeCoerce _imTwitter)
+imTwitter :: Icon
+imTwitter = element _imTwitter
 
 foreign import _imUnderline :: ReactIcon
 
-imUnderline :: forall a b. Union a b PropsIcon => Record a -> JSX
-imUnderline = element (unsafeCoerce _imUnderline)
+imUnderline :: Icon
+imUnderline = element _imUnderline
 
 foreign import _imUndo :: ReactIcon
 
-imUndo :: forall a b. Union a b PropsIcon => Record a -> JSX
-imUndo = element (unsafeCoerce _imUndo)
+imUndo :: Icon
+imUndo = element _imUndo
 
 foreign import _imUngroup :: ReactIcon
 
-imUngroup :: forall a b. Union a b PropsIcon => Record a -> JSX
-imUngroup = element (unsafeCoerce _imUngroup)
+imUngroup :: Icon
+imUngroup = element _imUngroup
 
 foreign import _imUnlocked :: ReactIcon
 
-imUnlocked :: forall a b. Union a b PropsIcon => Record a -> JSX
-imUnlocked = element (unsafeCoerce _imUnlocked)
+imUnlocked :: Icon
+imUnlocked = element _imUnlocked
 
 foreign import _imUpload :: ReactIcon
 
-imUpload :: forall a b. Union a b PropsIcon => Record a -> JSX
-imUpload = element (unsafeCoerce _imUpload)
+imUpload :: Icon
+imUpload = element _imUpload
 
 foreign import _imUser :: ReactIcon
 
-imUser :: forall a b. Union a b PropsIcon => Record a -> JSX
-imUser = element (unsafeCoerce _imUser)
+imUser :: Icon
+imUser = element _imUser
 
 foreign import _imUserCheck :: ReactIcon
 
-imUserCheck :: forall a b. Union a b PropsIcon => Record a -> JSX
-imUserCheck = element (unsafeCoerce _imUserCheck)
+imUserCheck :: Icon
+imUserCheck = element _imUserCheck
 
 foreign import _imUserMinus :: ReactIcon
 
-imUserMinus :: forall a b. Union a b PropsIcon => Record a -> JSX
-imUserMinus = element (unsafeCoerce _imUserMinus)
+imUserMinus :: Icon
+imUserMinus = element _imUserMinus
 
 foreign import _imUserPlus :: ReactIcon
 
-imUserPlus :: forall a b. Union a b PropsIcon => Record a -> JSX
-imUserPlus = element (unsafeCoerce _imUserPlus)
+imUserPlus :: Icon
+imUserPlus = element _imUserPlus
 
 foreign import _imUsers :: ReactIcon
 
-imUsers :: forall a b. Union a b PropsIcon => Record a -> JSX
-imUsers = element (unsafeCoerce _imUsers)
+imUsers :: Icon
+imUsers = element _imUsers
 
 foreign import _imUserTie :: ReactIcon
 
-imUserTie :: forall a b. Union a b PropsIcon => Record a -> JSX
-imUserTie = element (unsafeCoerce _imUserTie)
+imUserTie :: Icon
+imUserTie = element _imUserTie
 
 foreign import _imVideoCamera :: ReactIcon
 
-imVideoCamera :: forall a b. Union a b PropsIcon => Record a -> JSX
-imVideoCamera = element (unsafeCoerce _imVideoCamera)
+imVideoCamera :: Icon
+imVideoCamera = element _imVideoCamera
 
 foreign import _imVimeo :: ReactIcon
 
-imVimeo :: forall a b. Union a b PropsIcon => Record a -> JSX
-imVimeo = element (unsafeCoerce _imVimeo)
+imVimeo :: Icon
+imVimeo = element _imVimeo
 
 foreign import _imVine :: ReactIcon
 
-imVine :: forall a b. Union a b PropsIcon => Record a -> JSX
-imVine = element (unsafeCoerce _imVine)
+imVine :: Icon
+imVine = element _imVine
 
 foreign import _imVk :: ReactIcon
 
-imVk :: forall a b. Union a b PropsIcon => Record a -> JSX
-imVk = element (unsafeCoerce _imVk)
+imVk :: Icon
+imVk = element _imVk
 
 foreign import _imVolumeDecrease :: ReactIcon
 
-imVolumeDecrease :: forall a b. Union a b PropsIcon => Record a -> JSX
-imVolumeDecrease = element (unsafeCoerce _imVolumeDecrease)
+imVolumeDecrease :: Icon
+imVolumeDecrease = element _imVolumeDecrease
 
 foreign import _imVolumeHigh :: ReactIcon
 
-imVolumeHigh :: forall a b. Union a b PropsIcon => Record a -> JSX
-imVolumeHigh = element (unsafeCoerce _imVolumeHigh)
+imVolumeHigh :: Icon
+imVolumeHigh = element _imVolumeHigh
 
 foreign import _imVolumeIncrease :: ReactIcon
 
-imVolumeIncrease :: forall a b. Union a b PropsIcon => Record a -> JSX
-imVolumeIncrease = element (unsafeCoerce _imVolumeIncrease)
+imVolumeIncrease :: Icon
+imVolumeIncrease = element _imVolumeIncrease
 
 foreign import _imVolumeLow :: ReactIcon
 
-imVolumeLow :: forall a b. Union a b PropsIcon => Record a -> JSX
-imVolumeLow = element (unsafeCoerce _imVolumeLow)
+imVolumeLow :: Icon
+imVolumeLow = element _imVolumeLow
 
 foreign import _imVolumeMedium :: ReactIcon
 
-imVolumeMedium :: forall a b. Union a b PropsIcon => Record a -> JSX
-imVolumeMedium = element (unsafeCoerce _imVolumeMedium)
+imVolumeMedium :: Icon
+imVolumeMedium = element _imVolumeMedium
 
 foreign import _imVolumeMute :: ReactIcon
 
-imVolumeMute :: forall a b. Union a b PropsIcon => Record a -> JSX
-imVolumeMute = element (unsafeCoerce _imVolumeMute)
+imVolumeMute :: Icon
+imVolumeMute = element _imVolumeMute
 
 foreign import _imWarning :: ReactIcon
 
-imWarning :: forall a b. Union a b PropsIcon => Record a -> JSX
-imWarning = element (unsafeCoerce _imWarning)
+imWarning :: Icon
+imWarning = element _imWarning
 
 foreign import _imWhatsapp :: ReactIcon
 
-imWhatsapp :: forall a b. Union a b PropsIcon => Record a -> JSX
-imWhatsapp = element (unsafeCoerce _imWhatsapp)
+imWhatsapp :: Icon
+imWhatsapp = element _imWhatsapp
 
 foreign import _imWikipedia :: ReactIcon
 
-imWikipedia :: forall a b. Union a b PropsIcon => Record a -> JSX
-imWikipedia = element (unsafeCoerce _imWikipedia)
+imWikipedia :: Icon
+imWikipedia = element _imWikipedia
 
 foreign import _imWindows :: ReactIcon
 
-imWindows :: forall a b. Union a b PropsIcon => Record a -> JSX
-imWindows = element (unsafeCoerce _imWindows)
+imWindows :: Icon
+imWindows = element _imWindows
 
 foreign import _imWink :: ReactIcon
 
-imWink :: forall a b. Union a b PropsIcon => Record a -> JSX
-imWink = element (unsafeCoerce _imWink)
+imWink :: Icon
+imWink = element _imWink
 
 foreign import _imWoman :: ReactIcon
 
-imWoman :: forall a b. Union a b PropsIcon => Record a -> JSX
-imWoman = element (unsafeCoerce _imWoman)
+imWoman :: Icon
+imWoman = element _imWoman
 
 foreign import _imWondering :: ReactIcon
 
-imWondering :: forall a b. Union a b PropsIcon => Record a -> JSX
-imWondering = element (unsafeCoerce _imWondering)
+imWondering :: Icon
+imWondering = element _imWondering
 
 foreign import _imWordpress :: ReactIcon
 
-imWordpress :: forall a b. Union a b PropsIcon => Record a -> JSX
-imWordpress = element (unsafeCoerce _imWordpress)
+imWordpress :: Icon
+imWordpress = element _imWordpress
 
 foreign import _imWrench :: ReactIcon
 
-imWrench :: forall a b. Union a b PropsIcon => Record a -> JSX
-imWrench = element (unsafeCoerce _imWrench)
+imWrench :: Icon
+imWrench = element _imWrench
 
 foreign import _imXing :: ReactIcon
 
-imXing :: forall a b. Union a b PropsIcon => Record a -> JSX
-imXing = element (unsafeCoerce _imXing)
+imXing :: Icon
+imXing = element _imXing
 
 foreign import _imYahoo :: ReactIcon
 
-imYahoo :: forall a b. Union a b PropsIcon => Record a -> JSX
-imYahoo = element (unsafeCoerce _imYahoo)
+imYahoo :: Icon
+imYahoo = element _imYahoo
 
 foreign import _imYelp :: ReactIcon
 
-imYelp :: forall a b. Union a b PropsIcon => Record a -> JSX
-imYelp = element (unsafeCoerce _imYelp)
+imYelp :: Icon
+imYelp = element _imYelp
 
 foreign import _imYoutube :: ReactIcon
 
-imYoutube :: forall a b. Union a b PropsIcon => Record a -> JSX
-imYoutube = element (unsafeCoerce _imYoutube)
+imYoutube :: Icon
+imYoutube = element _imYoutube
 
 foreign import _imZoomIn :: ReactIcon
 
-imZoomIn :: forall a b. Union a b PropsIcon => Record a -> JSX
-imZoomIn = element (unsafeCoerce _imZoomIn)
+imZoomIn :: Icon
+imZoomIn = element _imZoomIn
 
 foreign import _imZoomOut :: ReactIcon
 
-imZoomOut :: forall a b. Union a b PropsIcon => Record a -> JSX
-imZoomOut = element (unsafeCoerce _imZoomOut)
+imZoomOut :: Icon
+imZoomOut = element _imZoomOut

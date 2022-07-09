@@ -1,911 +1,909 @@
 module React.Icons.Di (diAndroid, diAngularSimple, diAppcelerator, diApple, diAppstore, diAptana, diAsterisk, diAtlassian, diAtom, diAws, diBackbone, diBingSmall, diBintray, diBitbucket, diBlackberry, diBootstrap, diBower, diBrackets, diBugsense, diCelluloid, diChrome, diCisco, diClojure, diClojureAlt, diCoda, diCode, diCodeBadge, diCodeigniter, diCodepen, diCodrops, diCoffeescript, diCompass, diComposer, diCreativecommons, diCreativecommonsBadge, diCssdeck, diCssTricks, diDart, diDatabase, diDebian, diDigitalOcean, diDjango, diDlang, diDocker, diDoctrine, diDojo, diDotnet, diDreamweaver, diDropbox, diDrupal, diEclipse, diEmber, diEnvato, diErlang, diExtjs, diFirebase, diFirefox, diFsharp, diGhost, diGhostSmall, diGit, diGitBranch, diGitCommit, diGitCompare, diGithub, diGithubAlt, diGithubBadge, diGithubFull, diGitMerge, diGitPullRequest, diGnu, diGo, diGoogleAnalytics, diGoogleCloudPlatform, diGoogleDrive, diGrails, diGroovy, diGrunt, diGulp, diHackernews, diHaskell, diHeroku, diIe, diIllustrator, diIntellij, diIonic, diJava, diJavascript, diJekyllSmall, diJenkins, diJira, diJoomla, diJqueryLogo, diJqueryUiLogo, diJsBadge, diKomodo, diKrakenjs, diKrakenjsBadge, diLaravel, diLess, diLinux, diMagento, diMailchimp, diMarkdown, diMaterializecss, diMeteor, diMeteorfull, diMitlicence, diModernizr, diMongodb, diMootools, diMootoolsBadge, diMozilla, diMsqlServer, diMysql, diNancy, diNetbeans, diNetmagazine, diNginx, diNodejs, diNodejsSmall, diNpm, diOnedrive, diOpenshift, diOpensource, diOpera, diPerl, diPhonegap, diPhotoshop, diPhp, diPostgresql, diProlog, diPython, diRackspace, diRaphael, diRasberryPi, diReact, diRedhat, diRedis, diRequirejs, diResponsive, diRor, diRuby, diRubyRough, diRust, diSafari, diSass, diScala, diScriptcs, diScrum, diSenchatouch, diSizzlejs, diSmashingMagazine, diSnapSvg, diSpark, diSqllite, diStackoverflow, diStreamline, diStylus, diSublime, diSwift, diSymfony, diSymfonyBadge, diTechcrunch, diTerminal, diTerminalBadge, diTravis, diTrello, diUbuntu, diUikit, diUnitySmall, diVim, diVisualstudio, diWebplatform, diWindows, diWordpress, diYahoo, diYahooSmall, diYeoman, diYii, diZend) where
 
-import Prim.Row (class Union)
-import React.Basic (JSX, element)
-import React.Icons.Types (ReactIcon, PropsIcon)
-import Unsafe.Coerce (unsafeCoerce)
+import React.Basic (element)
+import React.Icons.Types (ReactIcon, Icon)
 
 foreign import _diAndroid :: ReactIcon
 
-diAndroid :: forall a b. Union a b PropsIcon => Record a -> JSX
-diAndroid = element (unsafeCoerce _diAndroid)
+diAndroid :: Icon
+diAndroid = element _diAndroid
 
 foreign import _diAngularSimple :: ReactIcon
 
-diAngularSimple :: forall a b. Union a b PropsIcon => Record a -> JSX
-diAngularSimple = element (unsafeCoerce _diAngularSimple)
+diAngularSimple :: Icon
+diAngularSimple = element _diAngularSimple
 
 foreign import _diAppcelerator :: ReactIcon
 
-diAppcelerator :: forall a b. Union a b PropsIcon => Record a -> JSX
-diAppcelerator = element (unsafeCoerce _diAppcelerator)
+diAppcelerator :: Icon
+diAppcelerator = element _diAppcelerator
 
 foreign import _diApple :: ReactIcon
 
-diApple :: forall a b. Union a b PropsIcon => Record a -> JSX
-diApple = element (unsafeCoerce _diApple)
+diApple :: Icon
+diApple = element _diApple
 
 foreign import _diAppstore :: ReactIcon
 
-diAppstore :: forall a b. Union a b PropsIcon => Record a -> JSX
-diAppstore = element (unsafeCoerce _diAppstore)
+diAppstore :: Icon
+diAppstore = element _diAppstore
 
 foreign import _diAptana :: ReactIcon
 
-diAptana :: forall a b. Union a b PropsIcon => Record a -> JSX
-diAptana = element (unsafeCoerce _diAptana)
+diAptana :: Icon
+diAptana = element _diAptana
 
 foreign import _diAsterisk :: ReactIcon
 
-diAsterisk :: forall a b. Union a b PropsIcon => Record a -> JSX
-diAsterisk = element (unsafeCoerce _diAsterisk)
+diAsterisk :: Icon
+diAsterisk = element _diAsterisk
 
 foreign import _diAtlassian :: ReactIcon
 
-diAtlassian :: forall a b. Union a b PropsIcon => Record a -> JSX
-diAtlassian = element (unsafeCoerce _diAtlassian)
+diAtlassian :: Icon
+diAtlassian = element _diAtlassian
 
 foreign import _diAtom :: ReactIcon
 
-diAtom :: forall a b. Union a b PropsIcon => Record a -> JSX
-diAtom = element (unsafeCoerce _diAtom)
+diAtom :: Icon
+diAtom = element _diAtom
 
 foreign import _diAws :: ReactIcon
 
-diAws :: forall a b. Union a b PropsIcon => Record a -> JSX
-diAws = element (unsafeCoerce _diAws)
+diAws :: Icon
+diAws = element _diAws
 
 foreign import _diBackbone :: ReactIcon
 
-diBackbone :: forall a b. Union a b PropsIcon => Record a -> JSX
-diBackbone = element (unsafeCoerce _diBackbone)
+diBackbone :: Icon
+diBackbone = element _diBackbone
 
 foreign import _diBingSmall :: ReactIcon
 
-diBingSmall :: forall a b. Union a b PropsIcon => Record a -> JSX
-diBingSmall = element (unsafeCoerce _diBingSmall)
+diBingSmall :: Icon
+diBingSmall = element _diBingSmall
 
 foreign import _diBintray :: ReactIcon
 
-diBintray :: forall a b. Union a b PropsIcon => Record a -> JSX
-diBintray = element (unsafeCoerce _diBintray)
+diBintray :: Icon
+diBintray = element _diBintray
 
 foreign import _diBitbucket :: ReactIcon
 
-diBitbucket :: forall a b. Union a b PropsIcon => Record a -> JSX
-diBitbucket = element (unsafeCoerce _diBitbucket)
+diBitbucket :: Icon
+diBitbucket = element _diBitbucket
 
 foreign import _diBlackberry :: ReactIcon
 
-diBlackberry :: forall a b. Union a b PropsIcon => Record a -> JSX
-diBlackberry = element (unsafeCoerce _diBlackberry)
+diBlackberry :: Icon
+diBlackberry = element _diBlackberry
 
 foreign import _diBootstrap :: ReactIcon
 
-diBootstrap :: forall a b. Union a b PropsIcon => Record a -> JSX
-diBootstrap = element (unsafeCoerce _diBootstrap)
+diBootstrap :: Icon
+diBootstrap = element _diBootstrap
 
 foreign import _diBower :: ReactIcon
 
-diBower :: forall a b. Union a b PropsIcon => Record a -> JSX
-diBower = element (unsafeCoerce _diBower)
+diBower :: Icon
+diBower = element _diBower
 
 foreign import _diBrackets :: ReactIcon
 
-diBrackets :: forall a b. Union a b PropsIcon => Record a -> JSX
-diBrackets = element (unsafeCoerce _diBrackets)
+diBrackets :: Icon
+diBrackets = element _diBrackets
 
 foreign import _diBugsense :: ReactIcon
 
-diBugsense :: forall a b. Union a b PropsIcon => Record a -> JSX
-diBugsense = element (unsafeCoerce _diBugsense)
+diBugsense :: Icon
+diBugsense = element _diBugsense
 
 foreign import _diCelluloid :: ReactIcon
 
-diCelluloid :: forall a b. Union a b PropsIcon => Record a -> JSX
-diCelluloid = element (unsafeCoerce _diCelluloid)
+diCelluloid :: Icon
+diCelluloid = element _diCelluloid
 
 foreign import _diChrome :: ReactIcon
 
-diChrome :: forall a b. Union a b PropsIcon => Record a -> JSX
-diChrome = element (unsafeCoerce _diChrome)
+diChrome :: Icon
+diChrome = element _diChrome
 
 foreign import _diCisco :: ReactIcon
 
-diCisco :: forall a b. Union a b PropsIcon => Record a -> JSX
-diCisco = element (unsafeCoerce _diCisco)
+diCisco :: Icon
+diCisco = element _diCisco
 
 foreign import _diClojure :: ReactIcon
 
-diClojure :: forall a b. Union a b PropsIcon => Record a -> JSX
-diClojure = element (unsafeCoerce _diClojure)
+diClojure :: Icon
+diClojure = element _diClojure
 
 foreign import _diClojureAlt :: ReactIcon
 
-diClojureAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-diClojureAlt = element (unsafeCoerce _diClojureAlt)
+diClojureAlt :: Icon
+diClojureAlt = element _diClojureAlt
 
 foreign import _diCoda :: ReactIcon
 
-diCoda :: forall a b. Union a b PropsIcon => Record a -> JSX
-diCoda = element (unsafeCoerce _diCoda)
+diCoda :: Icon
+diCoda = element _diCoda
 
 foreign import _diCode :: ReactIcon
 
-diCode :: forall a b. Union a b PropsIcon => Record a -> JSX
-diCode = element (unsafeCoerce _diCode)
+diCode :: Icon
+diCode = element _diCode
 
 foreign import _diCodeBadge :: ReactIcon
 
-diCodeBadge :: forall a b. Union a b PropsIcon => Record a -> JSX
-diCodeBadge = element (unsafeCoerce _diCodeBadge)
+diCodeBadge :: Icon
+diCodeBadge = element _diCodeBadge
 
 foreign import _diCodeigniter :: ReactIcon
 
-diCodeigniter :: forall a b. Union a b PropsIcon => Record a -> JSX
-diCodeigniter = element (unsafeCoerce _diCodeigniter)
+diCodeigniter :: Icon
+diCodeigniter = element _diCodeigniter
 
 foreign import _diCodepen :: ReactIcon
 
-diCodepen :: forall a b. Union a b PropsIcon => Record a -> JSX
-diCodepen = element (unsafeCoerce _diCodepen)
+diCodepen :: Icon
+diCodepen = element _diCodepen
 
 foreign import _diCodrops :: ReactIcon
 
-diCodrops :: forall a b. Union a b PropsIcon => Record a -> JSX
-diCodrops = element (unsafeCoerce _diCodrops)
+diCodrops :: Icon
+diCodrops = element _diCodrops
 
 foreign import _diCoffeescript :: ReactIcon
 
-diCoffeescript :: forall a b. Union a b PropsIcon => Record a -> JSX
-diCoffeescript = element (unsafeCoerce _diCoffeescript)
+diCoffeescript :: Icon
+diCoffeescript = element _diCoffeescript
 
 foreign import _diCompass :: ReactIcon
 
-diCompass :: forall a b. Union a b PropsIcon => Record a -> JSX
-diCompass = element (unsafeCoerce _diCompass)
+diCompass :: Icon
+diCompass = element _diCompass
 
 foreign import _diComposer :: ReactIcon
 
-diComposer :: forall a b. Union a b PropsIcon => Record a -> JSX
-diComposer = element (unsafeCoerce _diComposer)
+diComposer :: Icon
+diComposer = element _diComposer
 
 foreign import _diCreativecommons :: ReactIcon
 
-diCreativecommons :: forall a b. Union a b PropsIcon => Record a -> JSX
-diCreativecommons = element (unsafeCoerce _diCreativecommons)
+diCreativecommons :: Icon
+diCreativecommons = element _diCreativecommons
 
 foreign import _diCreativecommonsBadge :: ReactIcon
 
-diCreativecommonsBadge :: forall a b. Union a b PropsIcon => Record a -> JSX
-diCreativecommonsBadge = element (unsafeCoerce _diCreativecommonsBadge)
+diCreativecommonsBadge :: Icon
+diCreativecommonsBadge = element _diCreativecommonsBadge
 
 foreign import _diCssdeck :: ReactIcon
 
-diCssdeck :: forall a b. Union a b PropsIcon => Record a -> JSX
-diCssdeck = element (unsafeCoerce _diCssdeck)
+diCssdeck :: Icon
+diCssdeck = element _diCssdeck
 
 foreign import _diCssTricks :: ReactIcon
 
-diCssTricks :: forall a b. Union a b PropsIcon => Record a -> JSX
-diCssTricks = element (unsafeCoerce _diCssTricks)
+diCssTricks :: Icon
+diCssTricks = element _diCssTricks
 
 foreign import _diDart :: ReactIcon
 
-diDart :: forall a b. Union a b PropsIcon => Record a -> JSX
-diDart = element (unsafeCoerce _diDart)
+diDart :: Icon
+diDart = element _diDart
 
 foreign import _diDatabase :: ReactIcon
 
-diDatabase :: forall a b. Union a b PropsIcon => Record a -> JSX
-diDatabase = element (unsafeCoerce _diDatabase)
+diDatabase :: Icon
+diDatabase = element _diDatabase
 
 foreign import _diDebian :: ReactIcon
 
-diDebian :: forall a b. Union a b PropsIcon => Record a -> JSX
-diDebian = element (unsafeCoerce _diDebian)
+diDebian :: Icon
+diDebian = element _diDebian
 
 foreign import _diDigitalOcean :: ReactIcon
 
-diDigitalOcean :: forall a b. Union a b PropsIcon => Record a -> JSX
-diDigitalOcean = element (unsafeCoerce _diDigitalOcean)
+diDigitalOcean :: Icon
+diDigitalOcean = element _diDigitalOcean
 
 foreign import _diDjango :: ReactIcon
 
-diDjango :: forall a b. Union a b PropsIcon => Record a -> JSX
-diDjango = element (unsafeCoerce _diDjango)
+diDjango :: Icon
+diDjango = element _diDjango
 
 foreign import _diDlang :: ReactIcon
 
-diDlang :: forall a b. Union a b PropsIcon => Record a -> JSX
-diDlang = element (unsafeCoerce _diDlang)
+diDlang :: Icon
+diDlang = element _diDlang
 
 foreign import _diDocker :: ReactIcon
 
-diDocker :: forall a b. Union a b PropsIcon => Record a -> JSX
-diDocker = element (unsafeCoerce _diDocker)
+diDocker :: Icon
+diDocker = element _diDocker
 
 foreign import _diDoctrine :: ReactIcon
 
-diDoctrine :: forall a b. Union a b PropsIcon => Record a -> JSX
-diDoctrine = element (unsafeCoerce _diDoctrine)
+diDoctrine :: Icon
+diDoctrine = element _diDoctrine
 
 foreign import _diDojo :: ReactIcon
 
-diDojo :: forall a b. Union a b PropsIcon => Record a -> JSX
-diDojo = element (unsafeCoerce _diDojo)
+diDojo :: Icon
+diDojo = element _diDojo
 
 foreign import _diDotnet :: ReactIcon
 
-diDotnet :: forall a b. Union a b PropsIcon => Record a -> JSX
-diDotnet = element (unsafeCoerce _diDotnet)
+diDotnet :: Icon
+diDotnet = element _diDotnet
 
 foreign import _diDreamweaver :: ReactIcon
 
-diDreamweaver :: forall a b. Union a b PropsIcon => Record a -> JSX
-diDreamweaver = element (unsafeCoerce _diDreamweaver)
+diDreamweaver :: Icon
+diDreamweaver = element _diDreamweaver
 
 foreign import _diDropbox :: ReactIcon
 
-diDropbox :: forall a b. Union a b PropsIcon => Record a -> JSX
-diDropbox = element (unsafeCoerce _diDropbox)
+diDropbox :: Icon
+diDropbox = element _diDropbox
 
 foreign import _diDrupal :: ReactIcon
 
-diDrupal :: forall a b. Union a b PropsIcon => Record a -> JSX
-diDrupal = element (unsafeCoerce _diDrupal)
+diDrupal :: Icon
+diDrupal = element _diDrupal
 
 foreign import _diEclipse :: ReactIcon
 
-diEclipse :: forall a b. Union a b PropsIcon => Record a -> JSX
-diEclipse = element (unsafeCoerce _diEclipse)
+diEclipse :: Icon
+diEclipse = element _diEclipse
 
 foreign import _diEmber :: ReactIcon
 
-diEmber :: forall a b. Union a b PropsIcon => Record a -> JSX
-diEmber = element (unsafeCoerce _diEmber)
+diEmber :: Icon
+diEmber = element _diEmber
 
 foreign import _diEnvato :: ReactIcon
 
-diEnvato :: forall a b. Union a b PropsIcon => Record a -> JSX
-diEnvato = element (unsafeCoerce _diEnvato)
+diEnvato :: Icon
+diEnvato = element _diEnvato
 
 foreign import _diErlang :: ReactIcon
 
-diErlang :: forall a b. Union a b PropsIcon => Record a -> JSX
-diErlang = element (unsafeCoerce _diErlang)
+diErlang :: Icon
+diErlang = element _diErlang
 
 foreign import _diExtjs :: ReactIcon
 
-diExtjs :: forall a b. Union a b PropsIcon => Record a -> JSX
-diExtjs = element (unsafeCoerce _diExtjs)
+diExtjs :: Icon
+diExtjs = element _diExtjs
 
 foreign import _diFirebase :: ReactIcon
 
-diFirebase :: forall a b. Union a b PropsIcon => Record a -> JSX
-diFirebase = element (unsafeCoerce _diFirebase)
+diFirebase :: Icon
+diFirebase = element _diFirebase
 
 foreign import _diFirefox :: ReactIcon
 
-diFirefox :: forall a b. Union a b PropsIcon => Record a -> JSX
-diFirefox = element (unsafeCoerce _diFirefox)
+diFirefox :: Icon
+diFirefox = element _diFirefox
 
 foreign import _diFsharp :: ReactIcon
 
-diFsharp :: forall a b. Union a b PropsIcon => Record a -> JSX
-diFsharp = element (unsafeCoerce _diFsharp)
+diFsharp :: Icon
+diFsharp = element _diFsharp
 
 foreign import _diGhost :: ReactIcon
 
-diGhost :: forall a b. Union a b PropsIcon => Record a -> JSX
-diGhost = element (unsafeCoerce _diGhost)
+diGhost :: Icon
+diGhost = element _diGhost
 
 foreign import _diGhostSmall :: ReactIcon
 
-diGhostSmall :: forall a b. Union a b PropsIcon => Record a -> JSX
-diGhostSmall = element (unsafeCoerce _diGhostSmall)
+diGhostSmall :: Icon
+diGhostSmall = element _diGhostSmall
 
 foreign import _diGit :: ReactIcon
 
-diGit :: forall a b. Union a b PropsIcon => Record a -> JSX
-diGit = element (unsafeCoerce _diGit)
+diGit :: Icon
+diGit = element _diGit
 
 foreign import _diGitBranch :: ReactIcon
 
-diGitBranch :: forall a b. Union a b PropsIcon => Record a -> JSX
-diGitBranch = element (unsafeCoerce _diGitBranch)
+diGitBranch :: Icon
+diGitBranch = element _diGitBranch
 
 foreign import _diGitCommit :: ReactIcon
 
-diGitCommit :: forall a b. Union a b PropsIcon => Record a -> JSX
-diGitCommit = element (unsafeCoerce _diGitCommit)
+diGitCommit :: Icon
+diGitCommit = element _diGitCommit
 
 foreign import _diGitCompare :: ReactIcon
 
-diGitCompare :: forall a b. Union a b PropsIcon => Record a -> JSX
-diGitCompare = element (unsafeCoerce _diGitCompare)
+diGitCompare :: Icon
+diGitCompare = element _diGitCompare
 
 foreign import _diGithub :: ReactIcon
 
-diGithub :: forall a b. Union a b PropsIcon => Record a -> JSX
-diGithub = element (unsafeCoerce _diGithub)
+diGithub :: Icon
+diGithub = element _diGithub
 
 foreign import _diGithubAlt :: ReactIcon
 
-diGithubAlt :: forall a b. Union a b PropsIcon => Record a -> JSX
-diGithubAlt = element (unsafeCoerce _diGithubAlt)
+diGithubAlt :: Icon
+diGithubAlt = element _diGithubAlt
 
 foreign import _diGithubBadge :: ReactIcon
 
-diGithubBadge :: forall a b. Union a b PropsIcon => Record a -> JSX
-diGithubBadge = element (unsafeCoerce _diGithubBadge)
+diGithubBadge :: Icon
+diGithubBadge = element _diGithubBadge
 
 foreign import _diGithubFull :: ReactIcon
 
-diGithubFull :: forall a b. Union a b PropsIcon => Record a -> JSX
-diGithubFull = element (unsafeCoerce _diGithubFull)
+diGithubFull :: Icon
+diGithubFull = element _diGithubFull
 
 foreign import _diGitMerge :: ReactIcon
 
-diGitMerge :: forall a b. Union a b PropsIcon => Record a -> JSX
-diGitMerge = element (unsafeCoerce _diGitMerge)
+diGitMerge :: Icon
+diGitMerge = element _diGitMerge
 
 foreign import _diGitPullRequest :: ReactIcon
 
-diGitPullRequest :: forall a b. Union a b PropsIcon => Record a -> JSX
-diGitPullRequest = element (unsafeCoerce _diGitPullRequest)
+diGitPullRequest :: Icon
+diGitPullRequest = element _diGitPullRequest
 
 foreign import _diGnu :: ReactIcon
 
-diGnu :: forall a b. Union a b PropsIcon => Record a -> JSX
-diGnu = element (unsafeCoerce _diGnu)
+diGnu :: Icon
+diGnu = element _diGnu
 
 foreign import _diGo :: ReactIcon
 
-diGo :: forall a b. Union a b PropsIcon => Record a -> JSX
-diGo = element (unsafeCoerce _diGo)
+diGo :: Icon
+diGo = element _diGo
 
 foreign import _diGoogleAnalytics :: ReactIcon
 
-diGoogleAnalytics :: forall a b. Union a b PropsIcon => Record a -> JSX
-diGoogleAnalytics = element (unsafeCoerce _diGoogleAnalytics)
+diGoogleAnalytics :: Icon
+diGoogleAnalytics = element _diGoogleAnalytics
 
 foreign import _diGoogleCloudPlatform :: ReactIcon
 
-diGoogleCloudPlatform :: forall a b. Union a b PropsIcon => Record a -> JSX
-diGoogleCloudPlatform = element (unsafeCoerce _diGoogleCloudPlatform)
+diGoogleCloudPlatform :: Icon
+diGoogleCloudPlatform = element _diGoogleCloudPlatform
 
 foreign import _diGoogleDrive :: ReactIcon
 
-diGoogleDrive :: forall a b. Union a b PropsIcon => Record a -> JSX
-diGoogleDrive = element (unsafeCoerce _diGoogleDrive)
+diGoogleDrive :: Icon
+diGoogleDrive = element _diGoogleDrive
 
 foreign import _diGrails :: ReactIcon
 
-diGrails :: forall a b. Union a b PropsIcon => Record a -> JSX
-diGrails = element (unsafeCoerce _diGrails)
+diGrails :: Icon
+diGrails = element _diGrails
 
 foreign import _diGroovy :: ReactIcon
 
-diGroovy :: forall a b. Union a b PropsIcon => Record a -> JSX
-diGroovy = element (unsafeCoerce _diGroovy)
+diGroovy :: Icon
+diGroovy = element _diGroovy
 
 foreign import _diGrunt :: ReactIcon
 
-diGrunt :: forall a b. Union a b PropsIcon => Record a -> JSX
-diGrunt = element (unsafeCoerce _diGrunt)
+diGrunt :: Icon
+diGrunt = element _diGrunt
 
 foreign import _diGulp :: ReactIcon
 
-diGulp :: forall a b. Union a b PropsIcon => Record a -> JSX
-diGulp = element (unsafeCoerce _diGulp)
+diGulp :: Icon
+diGulp = element _diGulp
 
 foreign import _diHackernews :: ReactIcon
 
-diHackernews :: forall a b. Union a b PropsIcon => Record a -> JSX
-diHackernews = element (unsafeCoerce _diHackernews)
+diHackernews :: Icon
+diHackernews = element _diHackernews
 
 foreign import _diHaskell :: ReactIcon
 
-diHaskell :: forall a b. Union a b PropsIcon => Record a -> JSX
-diHaskell = element (unsafeCoerce _diHaskell)
+diHaskell :: Icon
+diHaskell = element _diHaskell
 
 foreign import _diHeroku :: ReactIcon
 
-diHeroku :: forall a b. Union a b PropsIcon => Record a -> JSX
-diHeroku = element (unsafeCoerce _diHeroku)
+diHeroku :: Icon
+diHeroku = element _diHeroku
 
 foreign import _diIe :: ReactIcon
 
-diIe :: forall a b. Union a b PropsIcon => Record a -> JSX
-diIe = element (unsafeCoerce _diIe)
+diIe :: Icon
+diIe = element _diIe
 
 foreign import _diIllustrator :: ReactIcon
 
-diIllustrator :: forall a b. Union a b PropsIcon => Record a -> JSX
-diIllustrator = element (unsafeCoerce _diIllustrator)
+diIllustrator :: Icon
+diIllustrator = element _diIllustrator
 
 foreign import _diIntellij :: ReactIcon
 
-diIntellij :: forall a b. Union a b PropsIcon => Record a -> JSX
-diIntellij = element (unsafeCoerce _diIntellij)
+diIntellij :: Icon
+diIntellij = element _diIntellij
 
 foreign import _diIonic :: ReactIcon
 
-diIonic :: forall a b. Union a b PropsIcon => Record a -> JSX
-diIonic = element (unsafeCoerce _diIonic)
+diIonic :: Icon
+diIonic = element _diIonic
 
 foreign import _diJava :: ReactIcon
 
-diJava :: forall a b. Union a b PropsIcon => Record a -> JSX
-diJava = element (unsafeCoerce _diJava)
+diJava :: Icon
+diJava = element _diJava
 
 foreign import _diJavascript :: ReactIcon
 
-diJavascript :: forall a b. Union a b PropsIcon => Record a -> JSX
-diJavascript = element (unsafeCoerce _diJavascript)
+diJavascript :: Icon
+diJavascript = element _diJavascript
 
 foreign import _diJekyllSmall :: ReactIcon
 
-diJekyllSmall :: forall a b. Union a b PropsIcon => Record a -> JSX
-diJekyllSmall = element (unsafeCoerce _diJekyllSmall)
+diJekyllSmall :: Icon
+diJekyllSmall = element _diJekyllSmall
 
 foreign import _diJenkins :: ReactIcon
 
-diJenkins :: forall a b. Union a b PropsIcon => Record a -> JSX
-diJenkins = element (unsafeCoerce _diJenkins)
+diJenkins :: Icon
+diJenkins = element _diJenkins
 
 foreign import _diJira :: ReactIcon
 
-diJira :: forall a b. Union a b PropsIcon => Record a -> JSX
-diJira = element (unsafeCoerce _diJira)
+diJira :: Icon
+diJira = element _diJira
 
 foreign import _diJoomla :: ReactIcon
 
-diJoomla :: forall a b. Union a b PropsIcon => Record a -> JSX
-diJoomla = element (unsafeCoerce _diJoomla)
+diJoomla :: Icon
+diJoomla = element _diJoomla
 
 foreign import _diJqueryLogo :: ReactIcon
 
-diJqueryLogo :: forall a b. Union a b PropsIcon => Record a -> JSX
-diJqueryLogo = element (unsafeCoerce _diJqueryLogo)
+diJqueryLogo :: Icon
+diJqueryLogo = element _diJqueryLogo
 
 foreign import _diJqueryUiLogo :: ReactIcon
 
-diJqueryUiLogo :: forall a b. Union a b PropsIcon => Record a -> JSX
-diJqueryUiLogo = element (unsafeCoerce _diJqueryUiLogo)
+diJqueryUiLogo :: Icon
+diJqueryUiLogo = element _diJqueryUiLogo
 
 foreign import _diJsBadge :: ReactIcon
 
-diJsBadge :: forall a b. Union a b PropsIcon => Record a -> JSX
-diJsBadge = element (unsafeCoerce _diJsBadge)
+diJsBadge :: Icon
+diJsBadge = element _diJsBadge
 
 foreign import _diKomodo :: ReactIcon
 
-diKomodo :: forall a b. Union a b PropsIcon => Record a -> JSX
-diKomodo = element (unsafeCoerce _diKomodo)
+diKomodo :: Icon
+diKomodo = element _diKomodo
 
 foreign import _diKrakenjs :: ReactIcon
 
-diKrakenjs :: forall a b. Union a b PropsIcon => Record a -> JSX
-diKrakenjs = element (unsafeCoerce _diKrakenjs)
+diKrakenjs :: Icon
+diKrakenjs = element _diKrakenjs
 
 foreign import _diKrakenjsBadge :: ReactIcon
 
-diKrakenjsBadge :: forall a b. Union a b PropsIcon => Record a -> JSX
-diKrakenjsBadge = element (unsafeCoerce _diKrakenjsBadge)
+diKrakenjsBadge :: Icon
+diKrakenjsBadge = element _diKrakenjsBadge
 
 foreign import _diLaravel :: ReactIcon
 
-diLaravel :: forall a b. Union a b PropsIcon => Record a -> JSX
-diLaravel = element (unsafeCoerce _diLaravel)
+diLaravel :: Icon
+diLaravel = element _diLaravel
 
 foreign import _diLess :: ReactIcon
 
-diLess :: forall a b. Union a b PropsIcon => Record a -> JSX
-diLess = element (unsafeCoerce _diLess)
+diLess :: Icon
+diLess = element _diLess
 
 foreign import _diLinux :: ReactIcon
 
-diLinux :: forall a b. Union a b PropsIcon => Record a -> JSX
-diLinux = element (unsafeCoerce _diLinux)
+diLinux :: Icon
+diLinux = element _diLinux
 
 foreign import _diMagento :: ReactIcon
 
-diMagento :: forall a b. Union a b PropsIcon => Record a -> JSX
-diMagento = element (unsafeCoerce _diMagento)
+diMagento :: Icon
+diMagento = element _diMagento
 
 foreign import _diMailchimp :: ReactIcon
 
-diMailchimp :: forall a b. Union a b PropsIcon => Record a -> JSX
-diMailchimp = element (unsafeCoerce _diMailchimp)
+diMailchimp :: Icon
+diMailchimp = element _diMailchimp
 
 foreign import _diMarkdown :: ReactIcon
 
-diMarkdown :: forall a b. Union a b PropsIcon => Record a -> JSX
-diMarkdown = element (unsafeCoerce _diMarkdown)
+diMarkdown :: Icon
+diMarkdown = element _diMarkdown
 
 foreign import _diMaterializecss :: ReactIcon
 
-diMaterializecss :: forall a b. Union a b PropsIcon => Record a -> JSX
-diMaterializecss = element (unsafeCoerce _diMaterializecss)
+diMaterializecss :: Icon
+diMaterializecss = element _diMaterializecss
 
 foreign import _diMeteor :: ReactIcon
 
-diMeteor :: forall a b. Union a b PropsIcon => Record a -> JSX
-diMeteor = element (unsafeCoerce _diMeteor)
+diMeteor :: Icon
+diMeteor = element _diMeteor
 
 foreign import _diMeteorfull :: ReactIcon
 
-diMeteorfull :: forall a b. Union a b PropsIcon => Record a -> JSX
-diMeteorfull = element (unsafeCoerce _diMeteorfull)
+diMeteorfull :: Icon
+diMeteorfull = element _diMeteorfull
 
 foreign import _diMitlicence :: ReactIcon
 
-diMitlicence :: forall a b. Union a b PropsIcon => Record a -> JSX
-diMitlicence = element (unsafeCoerce _diMitlicence)
+diMitlicence :: Icon
+diMitlicence = element _diMitlicence
 
 foreign import _diModernizr :: ReactIcon
 
-diModernizr :: forall a b. Union a b PropsIcon => Record a -> JSX
-diModernizr = element (unsafeCoerce _diModernizr)
+diModernizr :: Icon
+diModernizr = element _diModernizr
 
 foreign import _diMongodb :: ReactIcon
 
-diMongodb :: forall a b. Union a b PropsIcon => Record a -> JSX
-diMongodb = element (unsafeCoerce _diMongodb)
+diMongodb :: Icon
+diMongodb = element _diMongodb
 
 foreign import _diMootools :: ReactIcon
 
-diMootools :: forall a b. Union a b PropsIcon => Record a -> JSX
-diMootools = element (unsafeCoerce _diMootools)
+diMootools :: Icon
+diMootools = element _diMootools
 
 foreign import _diMootoolsBadge :: ReactIcon
 
-diMootoolsBadge :: forall a b. Union a b PropsIcon => Record a -> JSX
-diMootoolsBadge = element (unsafeCoerce _diMootoolsBadge)
+diMootoolsBadge :: Icon
+diMootoolsBadge = element _diMootoolsBadge
 
 foreign import _diMozilla :: ReactIcon
 
-diMozilla :: forall a b. Union a b PropsIcon => Record a -> JSX
-diMozilla = element (unsafeCoerce _diMozilla)
+diMozilla :: Icon
+diMozilla = element _diMozilla
 
 foreign import _diMsqlServer :: ReactIcon
 
-diMsqlServer :: forall a b. Union a b PropsIcon => Record a -> JSX
-diMsqlServer = element (unsafeCoerce _diMsqlServer)
+diMsqlServer :: Icon
+diMsqlServer = element _diMsqlServer
 
 foreign import _diMysql :: ReactIcon
 
-diMysql :: forall a b. Union a b PropsIcon => Record a -> JSX
-diMysql = element (unsafeCoerce _diMysql)
+diMysql :: Icon
+diMysql = element _diMysql
 
 foreign import _diNancy :: ReactIcon
 
-diNancy :: forall a b. Union a b PropsIcon => Record a -> JSX
-diNancy = element (unsafeCoerce _diNancy)
+diNancy :: Icon
+diNancy = element _diNancy
 
 foreign import _diNetbeans :: ReactIcon
 
-diNetbeans :: forall a b. Union a b PropsIcon => Record a -> JSX
-diNetbeans = element (unsafeCoerce _diNetbeans)
+diNetbeans :: Icon
+diNetbeans = element _diNetbeans
 
 foreign import _diNetmagazine :: ReactIcon
 
-diNetmagazine :: forall a b. Union a b PropsIcon => Record a -> JSX
-diNetmagazine = element (unsafeCoerce _diNetmagazine)
+diNetmagazine :: Icon
+diNetmagazine = element _diNetmagazine
 
 foreign import _diNginx :: ReactIcon
 
-diNginx :: forall a b. Union a b PropsIcon => Record a -> JSX
-diNginx = element (unsafeCoerce _diNginx)
+diNginx :: Icon
+diNginx = element _diNginx
 
 foreign import _diNodejs :: ReactIcon
 
-diNodejs :: forall a b. Union a b PropsIcon => Record a -> JSX
-diNodejs = element (unsafeCoerce _diNodejs)
+diNodejs :: Icon
+diNodejs = element _diNodejs
 
 foreign import _diNodejsSmall :: ReactIcon
 
-diNodejsSmall :: forall a b. Union a b PropsIcon => Record a -> JSX
-diNodejsSmall = element (unsafeCoerce _diNodejsSmall)
+diNodejsSmall :: Icon
+diNodejsSmall = element _diNodejsSmall
 
 foreign import _diNpm :: ReactIcon
 
-diNpm :: forall a b. Union a b PropsIcon => Record a -> JSX
-diNpm = element (unsafeCoerce _diNpm)
+diNpm :: Icon
+diNpm = element _diNpm
 
 foreign import _diOnedrive :: ReactIcon
 
-diOnedrive :: forall a b. Union a b PropsIcon => Record a -> JSX
-diOnedrive = element (unsafeCoerce _diOnedrive)
+diOnedrive :: Icon
+diOnedrive = element _diOnedrive
 
 foreign import _diOpenshift :: ReactIcon
 
-diOpenshift :: forall a b. Union a b PropsIcon => Record a -> JSX
-diOpenshift = element (unsafeCoerce _diOpenshift)
+diOpenshift :: Icon
+diOpenshift = element _diOpenshift
 
 foreign import _diOpensource :: ReactIcon
 
-diOpensource :: forall a b. Union a b PropsIcon => Record a -> JSX
-diOpensource = element (unsafeCoerce _diOpensource)
+diOpensource :: Icon
+diOpensource = element _diOpensource
 
 foreign import _diOpera :: ReactIcon
 
-diOpera :: forall a b. Union a b PropsIcon => Record a -> JSX
-diOpera = element (unsafeCoerce _diOpera)
+diOpera :: Icon
+diOpera = element _diOpera
 
 foreign import _diPerl :: ReactIcon
 
-diPerl :: forall a b. Union a b PropsIcon => Record a -> JSX
-diPerl = element (unsafeCoerce _diPerl)
+diPerl :: Icon
+diPerl = element _diPerl
 
 foreign import _diPhonegap :: ReactIcon
 
-diPhonegap :: forall a b. Union a b PropsIcon => Record a -> JSX
-diPhonegap = element (unsafeCoerce _diPhonegap)
+diPhonegap :: Icon
+diPhonegap = element _diPhonegap
 
 foreign import _diPhotoshop :: ReactIcon
 
-diPhotoshop :: forall a b. Union a b PropsIcon => Record a -> JSX
-diPhotoshop = element (unsafeCoerce _diPhotoshop)
+diPhotoshop :: Icon
+diPhotoshop = element _diPhotoshop
 
 foreign import _diPhp :: ReactIcon
 
-diPhp :: forall a b. Union a b PropsIcon => Record a -> JSX
-diPhp = element (unsafeCoerce _diPhp)
+diPhp :: Icon
+diPhp = element _diPhp
 
 foreign import _diPostgresql :: ReactIcon
 
-diPostgresql :: forall a b. Union a b PropsIcon => Record a -> JSX
-diPostgresql = element (unsafeCoerce _diPostgresql)
+diPostgresql :: Icon
+diPostgresql = element _diPostgresql
 
 foreign import _diProlog :: ReactIcon
 
-diProlog :: forall a b. Union a b PropsIcon => Record a -> JSX
-diProlog = element (unsafeCoerce _diProlog)
+diProlog :: Icon
+diProlog = element _diProlog
 
 foreign import _diPython :: ReactIcon
 
-diPython :: forall a b. Union a b PropsIcon => Record a -> JSX
-diPython = element (unsafeCoerce _diPython)
+diPython :: Icon
+diPython = element _diPython
 
 foreign import _diRackspace :: ReactIcon
 
-diRackspace :: forall a b. Union a b PropsIcon => Record a -> JSX
-diRackspace = element (unsafeCoerce _diRackspace)
+diRackspace :: Icon
+diRackspace = element _diRackspace
 
 foreign import _diRaphael :: ReactIcon
 
-diRaphael :: forall a b. Union a b PropsIcon => Record a -> JSX
-diRaphael = element (unsafeCoerce _diRaphael)
+diRaphael :: Icon
+diRaphael = element _diRaphael
 
 foreign import _diRasberryPi :: ReactIcon
 
-diRasberryPi :: forall a b. Union a b PropsIcon => Record a -> JSX
-diRasberryPi = element (unsafeCoerce _diRasberryPi)
+diRasberryPi :: Icon
+diRasberryPi = element _diRasberryPi
 
 foreign import _diReact :: ReactIcon
 
-diReact :: forall a b. Union a b PropsIcon => Record a -> JSX
-diReact = element (unsafeCoerce _diReact)
+diReact :: Icon
+diReact = element _diReact
 
 foreign import _diRedhat :: ReactIcon
 
-diRedhat :: forall a b. Union a b PropsIcon => Record a -> JSX
-diRedhat = element (unsafeCoerce _diRedhat)
+diRedhat :: Icon
+diRedhat = element _diRedhat
 
 foreign import _diRedis :: ReactIcon
 
-diRedis :: forall a b. Union a b PropsIcon => Record a -> JSX
-diRedis = element (unsafeCoerce _diRedis)
+diRedis :: Icon
+diRedis = element _diRedis
 
 foreign import _diRequirejs :: ReactIcon
 
-diRequirejs :: forall a b. Union a b PropsIcon => Record a -> JSX
-diRequirejs = element (unsafeCoerce _diRequirejs)
+diRequirejs :: Icon
+diRequirejs = element _diRequirejs
 
 foreign import _diResponsive :: ReactIcon
 
-diResponsive :: forall a b. Union a b PropsIcon => Record a -> JSX
-diResponsive = element (unsafeCoerce _diResponsive)
+diResponsive :: Icon
+diResponsive = element _diResponsive
 
 foreign import _diRor :: ReactIcon
 
-diRor :: forall a b. Union a b PropsIcon => Record a -> JSX
-diRor = element (unsafeCoerce _diRor)
+diRor :: Icon
+diRor = element _diRor
 
 foreign import _diRuby :: ReactIcon
 
-diRuby :: forall a b. Union a b PropsIcon => Record a -> JSX
-diRuby = element (unsafeCoerce _diRuby)
+diRuby :: Icon
+diRuby = element _diRuby
 
 foreign import _diRubyRough :: ReactIcon
 
-diRubyRough :: forall a b. Union a b PropsIcon => Record a -> JSX
-diRubyRough = element (unsafeCoerce _diRubyRough)
+diRubyRough :: Icon
+diRubyRough = element _diRubyRough
 
 foreign import _diRust :: ReactIcon
 
-diRust :: forall a b. Union a b PropsIcon => Record a -> JSX
-diRust = element (unsafeCoerce _diRust)
+diRust :: Icon
+diRust = element _diRust
 
 foreign import _diSafari :: ReactIcon
 
-diSafari :: forall a b. Union a b PropsIcon => Record a -> JSX
-diSafari = element (unsafeCoerce _diSafari)
+diSafari :: Icon
+diSafari = element _diSafari
 
 foreign import _diSass :: ReactIcon
 
-diSass :: forall a b. Union a b PropsIcon => Record a -> JSX
-diSass = element (unsafeCoerce _diSass)
+diSass :: Icon
+diSass = element _diSass
 
 foreign import _diScala :: ReactIcon
 
-diScala :: forall a b. Union a b PropsIcon => Record a -> JSX
-diScala = element (unsafeCoerce _diScala)
+diScala :: Icon
+diScala = element _diScala
 
 foreign import _diScriptcs :: ReactIcon
 
-diScriptcs :: forall a b. Union a b PropsIcon => Record a -> JSX
-diScriptcs = element (unsafeCoerce _diScriptcs)
+diScriptcs :: Icon
+diScriptcs = element _diScriptcs
 
 foreign import _diScrum :: ReactIcon
 
-diScrum :: forall a b. Union a b PropsIcon => Record a -> JSX
-diScrum = element (unsafeCoerce _diScrum)
+diScrum :: Icon
+diScrum = element _diScrum
 
 foreign import _diSenchatouch :: ReactIcon
 
-diSenchatouch :: forall a b. Union a b PropsIcon => Record a -> JSX
-diSenchatouch = element (unsafeCoerce _diSenchatouch)
+diSenchatouch :: Icon
+diSenchatouch = element _diSenchatouch
 
 foreign import _diSizzlejs :: ReactIcon
 
-diSizzlejs :: forall a b. Union a b PropsIcon => Record a -> JSX
-diSizzlejs = element (unsafeCoerce _diSizzlejs)
+diSizzlejs :: Icon
+diSizzlejs = element _diSizzlejs
 
 foreign import _diSmashingMagazine :: ReactIcon
 
-diSmashingMagazine :: forall a b. Union a b PropsIcon => Record a -> JSX
-diSmashingMagazine = element (unsafeCoerce _diSmashingMagazine)
+diSmashingMagazine :: Icon
+diSmashingMagazine = element _diSmashingMagazine
 
 foreign import _diSnapSvg :: ReactIcon
 
-diSnapSvg :: forall a b. Union a b PropsIcon => Record a -> JSX
-diSnapSvg = element (unsafeCoerce _diSnapSvg)
+diSnapSvg :: Icon
+diSnapSvg = element _diSnapSvg
 
 foreign import _diSpark :: ReactIcon
 
-diSpark :: forall a b. Union a b PropsIcon => Record a -> JSX
-diSpark = element (unsafeCoerce _diSpark)
+diSpark :: Icon
+diSpark = element _diSpark
 
 foreign import _diSqllite :: ReactIcon
 
-diSqllite :: forall a b. Union a b PropsIcon => Record a -> JSX
-diSqllite = element (unsafeCoerce _diSqllite)
+diSqllite :: Icon
+diSqllite = element _diSqllite
 
 foreign import _diStackoverflow :: ReactIcon
 
-diStackoverflow :: forall a b. Union a b PropsIcon => Record a -> JSX
-diStackoverflow = element (unsafeCoerce _diStackoverflow)
+diStackoverflow :: Icon
+diStackoverflow = element _diStackoverflow
 
 foreign import _diStreamline :: ReactIcon
 
-diStreamline :: forall a b. Union a b PropsIcon => Record a -> JSX
-diStreamline = element (unsafeCoerce _diStreamline)
+diStreamline :: Icon
+diStreamline = element _diStreamline
 
 foreign import _diStylus :: ReactIcon
 
-diStylus :: forall a b. Union a b PropsIcon => Record a -> JSX
-diStylus = element (unsafeCoerce _diStylus)
+diStylus :: Icon
+diStylus = element _diStylus
 
 foreign import _diSublime :: ReactIcon
 
-diSublime :: forall a b. Union a b PropsIcon => Record a -> JSX
-diSublime = element (unsafeCoerce _diSublime)
+diSublime :: Icon
+diSublime = element _diSublime
 
 foreign import _diSwift :: ReactIcon
 
-diSwift :: forall a b. Union a b PropsIcon => Record a -> JSX
-diSwift = element (unsafeCoerce _diSwift)
+diSwift :: Icon
+diSwift = element _diSwift
 
 foreign import _diSymfony :: ReactIcon
 
-diSymfony :: forall a b. Union a b PropsIcon => Record a -> JSX
-diSymfony = element (unsafeCoerce _diSymfony)
+diSymfony :: Icon
+diSymfony = element _diSymfony
 
 foreign import _diSymfonyBadge :: ReactIcon
 
-diSymfonyBadge :: forall a b. Union a b PropsIcon => Record a -> JSX
-diSymfonyBadge = element (unsafeCoerce _diSymfonyBadge)
+diSymfonyBadge :: Icon
+diSymfonyBadge = element _diSymfonyBadge
 
 foreign import _diTechcrunch :: ReactIcon
 
-diTechcrunch :: forall a b. Union a b PropsIcon => Record a -> JSX
-diTechcrunch = element (unsafeCoerce _diTechcrunch)
+diTechcrunch :: Icon
+diTechcrunch = element _diTechcrunch
 
 foreign import _diTerminal :: ReactIcon
 
-diTerminal :: forall a b. Union a b PropsIcon => Record a -> JSX
-diTerminal = element (unsafeCoerce _diTerminal)
+diTerminal :: Icon
+diTerminal = element _diTerminal
 
 foreign import _diTerminalBadge :: ReactIcon
 
-diTerminalBadge :: forall a b. Union a b PropsIcon => Record a -> JSX
-diTerminalBadge = element (unsafeCoerce _diTerminalBadge)
+diTerminalBadge :: Icon
+diTerminalBadge = element _diTerminalBadge
 
 foreign import _diTravis :: ReactIcon
 
-diTravis :: forall a b. Union a b PropsIcon => Record a -> JSX
-diTravis = element (unsafeCoerce _diTravis)
+diTravis :: Icon
+diTravis = element _diTravis
 
 foreign import _diTrello :: ReactIcon
 
-diTrello :: forall a b. Union a b PropsIcon => Record a -> JSX
-diTrello = element (unsafeCoerce _diTrello)
+diTrello :: Icon
+diTrello = element _diTrello
 
 foreign import _diUbuntu :: ReactIcon
 
-diUbuntu :: forall a b. Union a b PropsIcon => Record a -> JSX
-diUbuntu = element (unsafeCoerce _diUbuntu)
+diUbuntu :: Icon
+diUbuntu = element _diUbuntu
 
 foreign import _diUikit :: ReactIcon
 
-diUikit :: forall a b. Union a b PropsIcon => Record a -> JSX
-diUikit = element (unsafeCoerce _diUikit)
+diUikit :: Icon
+diUikit = element _diUikit
 
 foreign import _diUnitySmall :: ReactIcon
 
-diUnitySmall :: forall a b. Union a b PropsIcon => Record a -> JSX
-diUnitySmall = element (unsafeCoerce _diUnitySmall)
+diUnitySmall :: Icon
+diUnitySmall = element _diUnitySmall
 
 foreign import _diVim :: ReactIcon
 
-diVim :: forall a b. Union a b PropsIcon => Record a -> JSX
-diVim = element (unsafeCoerce _diVim)
+diVim :: Icon
+diVim = element _diVim
 
 foreign import _diVisualstudio :: ReactIcon
 
-diVisualstudio :: forall a b. Union a b PropsIcon => Record a -> JSX
-diVisualstudio = element (unsafeCoerce _diVisualstudio)
+diVisualstudio :: Icon
+diVisualstudio = element _diVisualstudio
 
 foreign import _diWebplatform :: ReactIcon
 
-diWebplatform :: forall a b. Union a b PropsIcon => Record a -> JSX
-diWebplatform = element (unsafeCoerce _diWebplatform)
+diWebplatform :: Icon
+diWebplatform = element _diWebplatform
 
 foreign import _diWindows :: ReactIcon
 
-diWindows :: forall a b. Union a b PropsIcon => Record a -> JSX
-diWindows = element (unsafeCoerce _diWindows)
+diWindows :: Icon
+diWindows = element _diWindows
 
 foreign import _diWordpress :: ReactIcon
 
-diWordpress :: forall a b. Union a b PropsIcon => Record a -> JSX
-diWordpress = element (unsafeCoerce _diWordpress)
+diWordpress :: Icon
+diWordpress = element _diWordpress
 
 foreign import _diYahoo :: ReactIcon
 
-diYahoo :: forall a b. Union a b PropsIcon => Record a -> JSX
-diYahoo = element (unsafeCoerce _diYahoo)
+diYahoo :: Icon
+diYahoo = element _diYahoo
 
 foreign import _diYahooSmall :: ReactIcon
 
-diYahooSmall :: forall a b. Union a b PropsIcon => Record a -> JSX
-diYahooSmall = element (unsafeCoerce _diYahooSmall)
+diYahooSmall :: Icon
+diYahooSmall = element _diYahooSmall
 
 foreign import _diYeoman :: ReactIcon
 
-diYeoman :: forall a b. Union a b PropsIcon => Record a -> JSX
-diYeoman = element (unsafeCoerce _diYeoman)
+diYeoman :: Icon
+diYeoman = element _diYeoman
 
 foreign import _diYii :: ReactIcon
 
-diYii :: forall a b. Union a b PropsIcon => Record a -> JSX
-diYii = element (unsafeCoerce _diYii)
+diYii :: Icon
+diYii = element _diYii
 
 foreign import _diZend :: ReactIcon
 
-diZend :: forall a b. Union a b PropsIcon => Record a -> JSX
-diZend = element (unsafeCoerce _diZend)
+diZend :: Icon
+diZend = element _diZend

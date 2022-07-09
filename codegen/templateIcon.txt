@@ -1,4 +1,4 @@
 foreign import _${icon} :: ReactIcon
 
-${icon} :: forall a b. Union a b PropsIcon => Record a -> JSX
-${icon} = element (unsafeCoerce _${icon})
+${icon} :: Icon
+${icon} = element _${icon}
