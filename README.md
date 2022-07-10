@@ -10,7 +10,7 @@ Tested with react-icons `v4.4.0`.
 
 ```shell
 npm install --save react-icons
-spago install react-icions
+spago install react-icons
 ```
 
 ## Usage
