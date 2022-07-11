@@ -19,12 +19,12 @@ Search for an icon on [`react-icons`](https://react-icons.github.io/react-icons)
 and see these examples on how to import in PureScript.
 
 ```purescript
-import React.Basic (element)
+import React.Icons (icon, icon_)
 import React.Icons.Fa (faGithub)
 import React.Icons.Md (mdCrop)
 
-element faGithub {}
-element mdCrop { size: "24px", className: "my-class" }
+icon_ faGithub
+icon mdCrop { id: "0", className: "my-class", size: "24px", color: "#ff0000" }
 ```
 
 ## Libraries
