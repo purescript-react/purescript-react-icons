@@ -24,7 +24,7 @@ import React.Icons.Fa (faGithub)
 import React.Icons.Md (mdCrop)
 
 icon_ faGithub
-icon mdCrop { size: "24px", className: "my-class" }
+icon mdCrop { id: "0", className: "my-class", size: "24px", color: "#ff0000" }
 ```
 
 ## Libraries
