@@ -6,7 +6,7 @@ import React.Basic.DOM (CSS)
 type ReactIcon = ReactComponent (Record PropsIcon)
 
 type PropsIcon =
-  ( children :: JSX
+  ( children :: Array JSX
   , size :: String
   , color :: String
   , title :: String
