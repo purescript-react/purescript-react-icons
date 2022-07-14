@@ -2,7 +2,6 @@ module React.Icons (icon, icon_) where
 
 import Prim.Row (class Union)
 import React.Basic (JSX, element)
-import React.Icons.Fa (faCheck)
 import React.Icons.Types (ReactIcon, PropsIcon)
 import Unsafe.Coerce (unsafeCoerce)
 
