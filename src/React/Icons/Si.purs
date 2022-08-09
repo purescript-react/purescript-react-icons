@@ -2,6 +2,12 @@ module React.Icons.Si where
 
 import React.Icons.Types (ReactIcon)
 
+foreign import si1001Tracklists :: ReactIcon
+foreign import si1Password :: ReactIcon
+foreign import si3M :: ReactIcon
+foreign import si42 :: ReactIcon
+foreign import si4D :: ReactIcon
+foreign import si500Px :: ReactIcon
 foreign import siAbbrobotstudio :: ReactIcon
 foreign import siAbbvie :: ReactIcon
 foreign import siAbletonlive :: ReactIcon
@@ -82,6 +88,7 @@ foreign import siAmazonfiretv :: ReactIcon
 foreign import siAmazonlumberyard :: ReactIcon
 foreign import siAmazonpay :: ReactIcon
 foreign import siAmazonprime :: ReactIcon
+foreign import siAmazons3 :: ReactIcon
 foreign import siAmd :: ReactIcon
 foreign import siAmericanairlines :: ReactIcon
 foreign import siAmericanexpress :: ReactIcon
@@ -103,6 +110,7 @@ foreign import siAnilist :: ReactIcon
 foreign import siAnsible :: ReactIcon
 foreign import siAnsys :: ReactIcon
 foreign import siAntdesign :: ReactIcon
+foreign import siAntena3 :: ReactIcon
 foreign import siAnydesk :: ReactIcon
 foreign import siAol :: ReactIcon
 foreign import siApache :: ReactIcon
@@ -171,6 +179,7 @@ foreign import siAudioboom :: ReactIcon
 foreign import siAudiomack :: ReactIcon
 foreign import siAudiotechnica :: ReactIcon
 foreign import siAurelia :: ReactIcon
+foreign import siAuth0 :: ReactIcon
 foreign import siAuthy :: ReactIcon
 foreign import siAutodesk :: ReactIcon
 foreign import siAutohotkey :: ReactIcon
@@ -307,6 +316,7 @@ foreign import siChinasouthernairlines :: ReactIcon
 foreign import siChocolatey :: ReactIcon
 foreign import siChrysler :: ReactIcon
 foreign import siChupachups :: ReactIcon
+foreign import siCinema4D :: ReactIcon
 foreign import siCircle :: ReactIcon
 foreign import siCircleci :: ReactIcon
 foreign import siCirrusci :: ReactIcon
@@ -315,12 +325,14 @@ foreign import siCitrix :: ReactIcon
 foreign import siCitroen :: ReactIcon
 foreign import siCivicrm :: ReactIcon
 foreign import siCivo :: ReactIcon
+foreign import siCkeditor4 :: ReactIcon
 foreign import siClaris :: ReactIcon
 foreign import siClickup :: ReactIcon
 foreign import siClion :: ReactIcon
 foreign import siCliqz :: ReactIcon
 foreign import siClockify :: ReactIcon
 foreign import siClojure :: ReactIcon
+foreign import siCloud66 :: ReactIcon
 foreign import siCloudbees :: ReactIcon
 foreign import siCloudcannon :: ReactIcon
 foreign import siCloudera :: ReactIcon
@@ -369,6 +381,7 @@ foreign import siConcourse :: ReactIcon
 foreign import siCondaforge :: ReactIcon
 foreign import siConekta :: ReactIcon
 foreign import siConfluence :: ReactIcon
+foreign import siConstruct3 :: ReactIcon
 foreign import siConsul :: ReactIcon
 foreign import siContactlesspayment :: ReactIcon
 foreign import siContainerd :: ReactIcon
@@ -396,12 +409,15 @@ foreign import siCrunchyroll :: ReactIcon
 foreign import siCryengine :: ReactIcon
 foreign import siCrystal :: ReactIcon
 foreign import siCsharp :: ReactIcon
+foreign import siCss3 :: ReactIcon
 foreign import siCsswizardry :: ReactIcon
 foreign import siCucumber :: ReactIcon
 foreign import siCurl :: ReactIcon
 foreign import siCurseforge :: ReactIcon
+foreign import siCycling74 :: ReactIcon
 foreign import siCypress :: ReactIcon
 foreign import siCytoscapedotjs :: ReactIcon
+foreign import siD3Dotjs :: ReactIcon
 foreign import siDacia :: ReactIcon
 foreign import siDaf :: ReactIcon
 foreign import siDailymotion :: ReactIcon
@@ -486,6 +502,7 @@ foreign import siDunked :: ReactIcon
 foreign import siDuolingo :: ReactIcon
 foreign import siDwavesystems :: ReactIcon
 foreign import siDwm :: ReactIcon
+foreign import siDynamics365 :: ReactIcon
 foreign import siDynatrace :: ReactIcon
 foreign import siE :: ReactIcon
 foreign import siEa :: ReactIcon
@@ -631,6 +648,7 @@ foreign import siFujitsu :: ReactIcon
 foreign import siFuraffinity :: ReactIcon
 foreign import siFurrynetwork :: ReactIcon
 foreign import siFuturelearn :: ReactIcon
+foreign import siG2A :: ReactIcon
 foreign import siGamejolt :: ReactIcon
 foreign import siGarmin :: ReactIcon
 foreign import siGatling :: ReactIcon
@@ -788,6 +806,7 @@ foreign import siHotjar :: ReactIcon
 foreign import siHoudini :: ReactIcon
 foreign import siHouzz :: ReactIcon
 foreign import siHp :: ReactIcon
+foreign import siHtml5 :: ReactIcon
 foreign import siHtmlacademy :: ReactIcon
 foreign import siHuawei :: ReactIcon
 foreign import siHubspot :: ReactIcon
@@ -812,6 +831,7 @@ foreign import siIcon :: ReactIcon
 foreign import siIconfinder :: ReactIcon
 foreign import siIconify :: ReactIcon
 foreign import siIconjar :: ReactIcon
+foreign import siIcons8 :: ReactIcon
 foreign import siIcq :: ReactIcon
 foreign import siIeee :: ReactIcon
 foreign import siIfixit :: ReactIcon
@@ -853,6 +873,7 @@ foreign import siIpfs :: ReactIcon
 foreign import siIssuu :: ReactIcon
 foreign import siIstio :: ReactIcon
 foreign import siItchdotio :: ReactIcon
+foreign import siIterm2 :: ReactIcon
 foreign import siItunes :: ReactIcon
 foreign import siIveco :: ReactIcon
 foreign import siJabber :: ReactIcon
@@ -893,6 +914,7 @@ foreign import siJsonwebtokens :: ReactIcon
 foreign import siJss :: ReactIcon
 foreign import siJulia :: ReactIcon
 foreign import siJunipernetworks :: ReactIcon
+foreign import siJunit5 :: ReactIcon
 foreign import siJupyter :: ReactIcon
 foreign import siJusteat :: ReactIcon
 foreign import siJustgiving :: ReactIcon
@@ -1124,6 +1146,7 @@ foreign import siMyanimelist :: ReactIcon
 foreign import siMyob :: ReactIcon
 foreign import siMyspace :: ReactIcon
 foreign import siMysql :: ReactIcon
+foreign import siN26 :: ReactIcon
 foreign import siNamebase :: ReactIcon
 foreign import siNamecheap :: ReactIcon
 foreign import siNano :: ReactIcon
@@ -1135,6 +1158,7 @@ foreign import siNba :: ReactIcon
 foreign import siNbb :: ReactIcon
 foreign import siNdr :: ReactIcon
 foreign import siNec :: ReactIcon
+foreign import siNeo4J :: ReactIcon
 foreign import siNeovim :: ReactIcon
 foreign import siNestjs :: ReactIcon
 foreign import siNetapp :: ReactIcon
@@ -1155,6 +1179,7 @@ foreign import siNiconico :: ReactIcon
 foreign import siNike :: ReactIcon
 foreign import siNim :: ReactIcon
 foreign import siNintendo :: ReactIcon
+foreign import siNintendo3Ds :: ReactIcon
 foreign import siNintendogamecube :: ReactIcon
 foreign import siNintendonetwork :: ReactIcon
 foreign import siNintendoswitch :: ReactIcon
@@ -1238,6 +1263,7 @@ foreign import siOvh :: ReactIcon
 foreign import siOwasp :: ReactIcon
 foreign import siOxygen :: ReactIcon
 foreign import siOyo :: ReactIcon
+foreign import siP5Dotjs :: ReactIcon
 foreign import siPackagist :: ReactIcon
 foreign import siPacker :: ReactIcon
 foreign import siPaddypower :: ReactIcon
@@ -1301,6 +1327,10 @@ foreign import siPlaycanvas :: ReactIcon
 foreign import siPlayerdotme :: ReactIcon
 foreign import siPlayerfm :: ReactIcon
 foreign import siPlaystation :: ReactIcon
+foreign import siPlaystation2 :: ReactIcon
+foreign import siPlaystation3 :: ReactIcon
+foreign import siPlaystation4 :: ReactIcon
+foreign import siPlaystation5 :: ReactIcon
 foreign import siPlaystationvita :: ReactIcon
 foreign import siPleroma :: ReactIcon
 foreign import siPlesk :: ReactIcon
@@ -1309,6 +1339,7 @@ foreign import siPlotly :: ReactIcon
 foreign import siPluralsight :: ReactIcon
 foreign import siPlurk :: ReactIcon
 foreign import siPluscodes :: ReactIcon
+foreign import siPm2 :: ReactIcon
 foreign import siPnpm :: ReactIcon
 foreign import siPocket :: ReactIcon
 foreign import siPocketcasts :: ReactIcon
@@ -1402,6 +1433,7 @@ foreign import siQuora :: ReactIcon
 foreign import siQwiklabs :: ReactIcon
 foreign import siQzone :: ReactIcon
 foreign import siR :: ReactIcon
+foreign import siR3 :: ReactIcon
 foreign import siRabbitmq :: ReactIcon
 foreign import siRacket :: ReactIcon
 foreign import siRadar :: ReactIcon
@@ -1481,6 +1513,7 @@ foreign import siRunkit :: ReactIcon
 foreign import siRust :: ReactIcon
 foreign import siRxdb :: ReactIcon
 foreign import siRyanair :: ReactIcon
+foreign import siS7Airlines :: ReactIcon
 foreign import siSafari :: ReactIcon
 foreign import siSahibinden :: ReactIcon
 foreign import siSalesforce :: ReactIcon
@@ -1491,6 +1524,7 @@ foreign import siSanfranciscomunicipalrailway :: ReactIcon
 foreign import siSaopaulometro :: ReactIcon
 foreign import siSap :: ReactIcon
 foreign import siSass :: ReactIcon
+foreign import siSat1 :: ReactIcon
 foreign import siSaucelabs :: ReactIcon
 foreign import siScala :: ReactIcon
 foreign import siScaleway :: ReactIcon
@@ -1574,6 +1608,7 @@ foreign import siSnapchat :: ReactIcon
 foreign import siSnapcraft :: ReactIcon
 foreign import siSnowflake :: ReactIcon
 foreign import siSnyk :: ReactIcon
+foreign import siSociety6 :: ReactIcon
 foreign import siSocketdotio :: ReactIcon
 foreign import siSogou :: ReactIcon
 foreign import siSolidity :: ReactIcon
@@ -1701,6 +1736,7 @@ foreign import siTeamviewer :: ReactIcon
 foreign import siTed :: ReactIcon
 foreign import siTeespring :: ReactIcon
 foreign import siTekton :: ReactIcon
+foreign import siTele5 :: ReactIcon
 foreign import siTelegram :: ReactIcon
 foreign import siTelegraph :: ReactIcon
 foreign import siTencentqq :: ReactIcon
@@ -1787,6 +1823,7 @@ foreign import siTwitch :: ReactIcon
 foreign import siTwitter :: ReactIcon
 foreign import siTwoo :: ReactIcon
 foreign import siTypescript :: ReactIcon
+foreign import siTypo3 :: ReactIcon
 foreign import siUber :: ReactIcon
 foreign import siUbereats :: ReactIcon
 foreign import siUbiquiti :: ReactIcon
@@ -1818,6 +1855,7 @@ foreign import siUps :: ReactIcon
 foreign import siUpwork :: ReactIcon
 foreign import siUsps :: ReactIcon
 foreign import siV :: ReactIcon
+foreign import siV8 :: ReactIcon
 foreign import siVaadin :: ReactIcon
 foreign import siVagrant :: ReactIcon
 foreign import siValve :: ReactIcon
@@ -1861,6 +1899,7 @@ foreign import siVuedotjs :: ReactIcon
 foreign import siVuetify :: ReactIcon
 foreign import siVulkan :: ReactIcon
 foreign import siVultr :: ReactIcon
+foreign import siW3C :: ReactIcon
 foreign import siWagtail :: ReactIcon
 foreign import siWakatime :: ReactIcon
 foreign import siWalkman :: ReactIcon
@@ -1872,6 +1911,7 @@ foreign import siWattpad :: ReactIcon
 foreign import siWaze :: ReactIcon
 foreign import siWearos :: ReactIcon
 foreign import siWeasyl :: ReactIcon
+foreign import siWeb3Dotjs :: ReactIcon
 foreign import siWebassembly :: ReactIcon
 foreign import siWebauthn :: ReactIcon
 foreign import siWebcomponentsdotorg :: ReactIcon
@@ -1902,6 +1942,7 @@ foreign import siWikiquote :: ReactIcon
 foreign import siWikivoyage :: ReactIcon
 foreign import siWindicss :: ReactIcon
 foreign import siWindows :: ReactIcon
+foreign import siWindows95 :: ReactIcon
 foreign import siWindowsterminal :: ReactIcon
 foreign import siWindowsxp :: ReactIcon
 foreign import siWinmate :: ReactIcon

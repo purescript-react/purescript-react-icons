@@ -43,6 +43,7 @@ foreign import hiChartPie :: ReactIcon
 foreign import hiChartSquareBar :: ReactIcon
 foreign import hiChat :: ReactIcon
 foreign import hiChatAlt :: ReactIcon
+foreign import hiChatAlt2 :: ReactIcon
 foreign import hiCheck :: ReactIcon
 foreign import hiCheckCircle :: ReactIcon
 foreign import hiChevronDoubleDown :: ReactIcon
@@ -136,6 +137,10 @@ foreign import hiMail :: ReactIcon
 foreign import hiMailOpen :: ReactIcon
 foreign import hiMap :: ReactIcon
 foreign import hiMenu :: ReactIcon
+foreign import hiMenuAlt1 :: ReactIcon
+foreign import hiMenuAlt2 :: ReactIcon
+foreign import hiMenuAlt3 :: ReactIcon
+foreign import hiMenuAlt4 :: ReactIcon
 foreign import hiMicrophone :: ReactIcon
 foreign import hiMinus :: ReactIcon
 foreign import hiMinusCircle :: ReactIcon
@@ -185,6 +190,7 @@ foreign import hiOutlineChartPie :: ReactIcon
 foreign import hiOutlineChartSquareBar :: ReactIcon
 foreign import hiOutlineChat :: ReactIcon
 foreign import hiOutlineChatAlt :: ReactIcon
+foreign import hiOutlineChatAlt2 :: ReactIcon
 foreign import hiOutlineCheck :: ReactIcon
 foreign import hiOutlineCheckCircle :: ReactIcon
 foreign import hiOutlineChevronDoubleDown :: ReactIcon
@@ -278,6 +284,10 @@ foreign import hiOutlineMail :: ReactIcon
 foreign import hiOutlineMailOpen :: ReactIcon
 foreign import hiOutlineMap :: ReactIcon
 foreign import hiOutlineMenu :: ReactIcon
+foreign import hiOutlineMenuAlt1 :: ReactIcon
+foreign import hiOutlineMenuAlt2 :: ReactIcon
+foreign import hiOutlineMenuAlt3 :: ReactIcon
+foreign import hiOutlineMenuAlt4 :: ReactIcon
 foreign import hiOutlineMicrophone :: ReactIcon
 foreign import hiOutlineMinus :: ReactIcon
 foreign import hiOutlineMinusCircle :: ReactIcon

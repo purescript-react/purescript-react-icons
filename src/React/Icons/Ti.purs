@@ -87,6 +87,7 @@ foreign import tiCogOutline :: ReactIcon
 foreign import tiCompass :: ReactIcon
 foreign import tiContacts :: ReactIcon
 foreign import tiCreditCard :: ReactIcon
+foreign import tiCss3 :: ReactIcon
 foreign import tiDatabase :: ReactIcon
 foreign import tiDelete :: ReactIcon
 foreign import tiDeleteOutline :: ReactIcon
@@ -140,6 +141,7 @@ foreign import tiHeartHalfOutline :: ReactIcon
 foreign import tiHeartOutline :: ReactIcon
 foreign import tiHome :: ReactIcon
 foreign import tiHomeOutline :: ReactIcon
+foreign import tiHtml5 :: ReactIcon
 foreign import tiImage :: ReactIcon
 foreign import tiImageOutline :: ReactIcon
 foreign import tiInfinity :: ReactIcon

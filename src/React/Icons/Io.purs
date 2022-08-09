@@ -328,6 +328,7 @@ foreign import ioLogoBuffer :: ReactIcon
 foreign import ioLogoChrome :: ReactIcon
 foreign import ioLogoClosedCaptioning :: ReactIcon
 foreign import ioLogoCodepen :: ReactIcon
+foreign import ioLogoCss3 :: ReactIcon
 foreign import ioLogoDesignernews :: ReactIcon
 foreign import ioLogoDribbble :: ReactIcon
 foreign import ioLogoDropbox :: ReactIcon
@@ -342,6 +343,7 @@ foreign import ioLogoGithub :: ReactIcon
 foreign import ioLogoGoogle :: ReactIcon
 foreign import ioLogoGoogleplus :: ReactIcon
 foreign import ioLogoHackernews :: ReactIcon
+foreign import ioLogoHtml5 :: ReactIcon
 foreign import ioLogoInstagram :: ReactIcon
 foreign import ioLogoIonic :: ReactIcon
 foreign import ioLogoIonitron :: ReactIcon

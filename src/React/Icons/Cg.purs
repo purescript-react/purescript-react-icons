@@ -229,6 +229,12 @@ foreign import cgDesktop :: ReactIcon
 foreign import cgDetailsLess :: ReactIcon
 foreign import cgDetailsMore :: ReactIcon
 foreign import cgDialpad :: ReactIcon
+foreign import cgDice1 :: ReactIcon
+foreign import cgDice2 :: ReactIcon
+foreign import cgDice3 :: ReactIcon
+foreign import cgDice4 :: ReactIcon
+foreign import cgDice5 :: ReactIcon
+foreign import cgDice6 :: ReactIcon
 foreign import cgDigitalocean :: ReactIcon
 foreign import cgDisc :: ReactIcon
 foreign import cgDisplayFlex :: ReactIcon

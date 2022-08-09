@@ -43,6 +43,7 @@ foreign import biBall :: ReactIcon
 foreign import biBandAid :: ReactIcon
 foreign import biBarChart :: ReactIcon
 foreign import biBarChartAlt :: ReactIcon
+foreign import biBarChartAlt2 :: ReactIcon
 foreign import biBarChartSquare :: ReactIcon
 foreign import biBarcode :: ReactIcon
 foreign import biBarcodeReader :: ReactIcon
@@ -102,6 +103,7 @@ foreign import biBraille :: ReactIcon
 foreign import biBrain :: ReactIcon
 foreign import biBriefcase :: ReactIcon
 foreign import biBriefcaseAlt :: ReactIcon
+foreign import biBriefcaseAlt2 :: ReactIcon
 foreign import biBrightness :: ReactIcon
 foreign import biBrightnessHalf :: ReactIcon
 foreign import biBroadcast :: ReactIcon
@@ -255,6 +257,12 @@ foreign import biDevices :: ReactIcon
 foreign import biDialpad :: ReactIcon
 foreign import biDialpadAlt :: ReactIcon
 foreign import biDiamond :: ReactIcon
+foreign import biDice1 :: ReactIcon
+foreign import biDice2 :: ReactIcon
+foreign import biDice3 :: ReactIcon
+foreign import biDice4 :: ReactIcon
+foreign import biDice5 :: ReactIcon
+foreign import biDice6 :: ReactIcon
 foreign import biDirections :: ReactIcon
 foreign import biDisc :: ReactIcon
 foreign import biDish :: ReactIcon
@@ -535,6 +543,7 @@ foreign import biPhoneOutgoing :: ReactIcon
 foreign import biPhotoAlbum :: ReactIcon
 foreign import biPieChart :: ReactIcon
 foreign import biPieChartAlt :: ReactIcon
+foreign import biPieChartAlt2 :: ReactIcon
 foreign import biPin :: ReactIcon
 foreign import biPlanet :: ReactIcon
 foreign import biPlay :: ReactIcon
@@ -597,6 +606,7 @@ foreign import biScan :: ReactIcon
 foreign import biScreenshot :: ReactIcon
 foreign import biSearch :: ReactIcon
 foreign import biSearchAlt :: ReactIcon
+foreign import biSearchAlt2 :: ReactIcon
 foreign import biSelection :: ReactIcon
 foreign import biSelectMultiple :: ReactIcon
 foreign import biSend :: ReactIcon
@@ -610,6 +620,7 @@ foreign import biShareAlt :: ReactIcon
 foreign import biShekel :: ReactIcon
 foreign import biShield :: ReactIcon
 foreign import biShieldAlt :: ReactIcon
+foreign import biShieldAlt2 :: ReactIcon
 foreign import biShieldQuarter :: ReactIcon
 foreign import biShieldX :: ReactIcon
 foreign import biShocked :: ReactIcon
@@ -629,6 +640,7 @@ foreign import biSliderAlt :: ReactIcon
 foreign import biSlideshow :: ReactIcon
 foreign import biSmile :: ReactIcon
 foreign import biSort :: ReactIcon
+foreign import biSortAlt2 :: ReactIcon
 foreign import biSortAZ :: ReactIcon
 foreign import biSortDown :: ReactIcon
 foreign import biSortUp :: ReactIcon
@@ -726,6 +738,9 @@ foreign import biWalletAlt :: ReactIcon
 foreign import biWater :: ReactIcon
 foreign import biWebcam :: ReactIcon
 foreign import biWifi :: ReactIcon
+foreign import biWifi0 :: ReactIcon
+foreign import biWifi1 :: ReactIcon
+foreign import biWifi2 :: ReactIcon
 foreign import biWifiOff :: ReactIcon
 foreign import biWind :: ReactIcon
 foreign import biWindow :: ReactIcon

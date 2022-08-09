@@ -29,6 +29,7 @@ foreign import fiArrowUpRight :: ReactIcon
 foreign import fiAtSign :: ReactIcon
 foreign import fiAward :: ReactIcon
 foreign import fiBarChart :: ReactIcon
+foreign import fiBarChart2 :: ReactIcon
 foreign import fiBattery :: ReactIcon
 foreign import fiBatteryCharging :: ReactIcon
 foreign import fiBell :: ReactIcon
@@ -97,6 +98,8 @@ foreign import fiDownloadCloud :: ReactIcon
 foreign import fiDribbble :: ReactIcon
 foreign import fiDroplet :: ReactIcon
 foreign import fiEdit :: ReactIcon
+foreign import fiEdit2 :: ReactIcon
+foreign import fiEdit3 :: ReactIcon
 foreign import fiExternalLink :: ReactIcon
 foreign import fiEye :: ReactIcon
 foreign import fiEyeOff :: ReactIcon
@@ -142,6 +145,7 @@ foreign import fiLayers :: ReactIcon
 foreign import fiLayout :: ReactIcon
 foreign import fiLifeBuoy :: ReactIcon
 foreign import fiLink :: ReactIcon
+foreign import fiLink2 :: ReactIcon
 foreign import fiLinkedin :: ReactIcon
 foreign import fiList :: ReactIcon
 foreign import fiLoader :: ReactIcon
@@ -152,6 +156,7 @@ foreign import fiMail :: ReactIcon
 foreign import fiMap :: ReactIcon
 foreign import fiMapPin :: ReactIcon
 foreign import fiMaximize :: ReactIcon
+foreign import fiMaximize2 :: ReactIcon
 foreign import fiMeh :: ReactIcon
 foreign import fiMenu :: ReactIcon
 foreign import fiMessageCircle :: ReactIcon
@@ -159,6 +164,7 @@ foreign import fiMessageSquare :: ReactIcon
 foreign import fiMic :: ReactIcon
 foreign import fiMicOff :: ReactIcon
 foreign import fiMinimize :: ReactIcon
+foreign import fiMinimize2 :: ReactIcon
 foreign import fiMinus :: ReactIcon
 foreign import fiMinusCircle :: ReactIcon
 foreign import fiMinusSquare :: ReactIcon
@@ -170,6 +176,7 @@ foreign import fiMousePointer :: ReactIcon
 foreign import fiMove :: ReactIcon
 foreign import fiMusic :: ReactIcon
 foreign import fiNavigation :: ReactIcon
+foreign import fiNavigation2 :: ReactIcon
 foreign import fiOctagon :: ReactIcon
 foreign import fiPackage :: ReactIcon
 foreign import fiPaperclip :: ReactIcon
@@ -208,6 +215,7 @@ foreign import fiSend :: ReactIcon
 foreign import fiServer :: ReactIcon
 foreign import fiSettings :: ReactIcon
 foreign import fiShare :: ReactIcon
+foreign import fiShare2 :: ReactIcon
 foreign import fiShield :: ReactIcon
 foreign import fiShieldOff :: ReactIcon
 foreign import fiShoppingBag :: ReactIcon
@@ -239,6 +247,7 @@ foreign import fiToggleLeft :: ReactIcon
 foreign import fiToggleRight :: ReactIcon
 foreign import fiTool :: ReactIcon
 foreign import fiTrash :: ReactIcon
+foreign import fiTrash2 :: ReactIcon
 foreign import fiTrello :: ReactIcon
 foreign import fiTrendingDown :: ReactIcon
 foreign import fiTrendingUp :: ReactIcon
@@ -263,6 +272,8 @@ foreign import fiVideo :: ReactIcon
 foreign import fiVideoOff :: ReactIcon
 foreign import fiVoicemail :: ReactIcon
 foreign import fiVolume :: ReactIcon
+foreign import fiVolume1 :: ReactIcon
+foreign import fiVolume2 :: ReactIcon
 foreign import fiVolumeX :: ReactIcon
 foreign import fiWatch :: ReactIcon
 foreign import fiWifi :: ReactIcon

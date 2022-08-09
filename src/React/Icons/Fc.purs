@@ -94,6 +94,8 @@ foreign import fcDeleteDatabase :: ReactIcon
 foreign import fcDeleteRow :: ReactIcon
 foreign import fcDepartment :: ReactIcon
 foreign import fcDeployment :: ReactIcon
+foreign import fcDiploma1 :: ReactIcon
+foreign import fcDiploma2 :: ReactIcon
 foreign import fcDisapprove :: ReactIcon
 foreign import fcDisclaimer :: ReactIcon
 foreign import fcDislike :: ReactIcon
@@ -159,6 +161,7 @@ foreign import fcHeatMap :: ReactIcon
 foreign import fcHighBattery :: ReactIcon
 foreign import fcHighPriority :: ReactIcon
 foreign import fcHome :: ReactIcon
+foreign import fcIcons8Cup :: ReactIcon
 foreign import fcIdea :: ReactIcon
 foreign import fcImageFile :: ReactIcon
 foreign import fcImport :: ReactIcon
@@ -176,7 +179,9 @@ foreign import fcLandscape :: ReactIcon
 foreign import fcLeave :: ReactIcon
 foreign import fcLeft :: ReactIcon
 foreign import fcLeftDown :: ReactIcon
+foreign import fcLeftDown2 :: ReactIcon
 foreign import fcLeftUp :: ReactIcon
+foreign import fcLeftUp2 :: ReactIcon
 foreign import fcLibrary :: ReactIcon
 foreign import fcLightAtTheEndOfTunnel :: ReactIcon
 foreign import fcLike :: ReactIcon
@@ -216,6 +221,8 @@ foreign import fcNightPortrait :: ReactIcon
 foreign import fcNoIdea :: ReactIcon
 foreign import fcNook :: ReactIcon
 foreign import fcNoVideo :: ReactIcon
+foreign import fcNumericalSorting12 :: ReactIcon
+foreign import fcNumericalSorting21 :: ReactIcon
 foreign import fcOk :: ReactIcon
 foreign import fcOldTimeCamera :: ReactIcon
 foreign import fcOnlineSupport :: ReactIcon
@@ -258,7 +265,9 @@ foreign import fcRemoveImage :: ReactIcon
 foreign import fcReuse :: ReactIcon
 foreign import fcRight :: ReactIcon
 foreign import fcRightDown :: ReactIcon
+foreign import fcRightDown2 :: ReactIcon
 foreign import fcRightUp :: ReactIcon
+foreign import fcRightUp2 :: ReactIcon
 foreign import fcRotateCamera :: ReactIcon
 foreign import fcRotateToLandscape :: ReactIcon
 foreign import fcRotateToPortrait :: ReactIcon

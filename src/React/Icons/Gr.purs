@@ -128,6 +128,7 @@ foreign import grCopy :: ReactIcon
 foreign import grCpu :: ReactIcon
 foreign import grCreativeCommons :: ReactIcon
 foreign import grCreditCard :: ReactIcon
+foreign import grCss3 :: ReactIcon
 foreign import grCube :: ReactIcon
 foreign import grCubes :: ReactIcon
 foreign import grCurrency :: ReactIcon
@@ -288,6 +289,7 @@ foreign import grHp :: ReactIcon
 foreign import grHpe :: ReactIcon
 foreign import grHpeLabs :: ReactIcon
 foreign import grHpi :: ReactIcon
+foreign import grHtml5 :: ReactIcon
 foreign import grIceCream :: ReactIcon
 foreign import grImage :: ReactIcon
 foreign import grImpact :: ReactIcon

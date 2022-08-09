@@ -116,6 +116,7 @@ foreign import aiFillHeart :: ReactIcon
 foreign import aiFillHighlight :: ReactIcon
 foreign import aiFillHome :: ReactIcon
 foreign import aiFillHourglass :: ReactIcon
+foreign import aiFillHtml5 :: ReactIcon
 foreign import aiFillIdcard :: ReactIcon
 foreign import aiFillIeCircle :: ReactIcon
 foreign import aiFillIeSquare :: ReactIcon
@@ -428,6 +429,7 @@ foreign import aiOutlineHistory :: ReactIcon
 foreign import aiOutlineHolder :: ReactIcon
 foreign import aiOutlineHome :: ReactIcon
 foreign import aiOutlineHourglass :: ReactIcon
+foreign import aiOutlineHtml5 :: ReactIcon
 foreign import aiOutlineIdcard :: ReactIcon
 foreign import aiOutlineIe :: ReactIcon
 foreign import aiOutlineImport :: ReactIcon
@@ -456,6 +458,7 @@ foreign import aiOutlineLineHeight :: ReactIcon
 foreign import aiOutlineLink :: ReactIcon
 foreign import aiOutlineLinkedin :: ReactIcon
 foreign import aiOutlineLoading :: ReactIcon
+foreign import aiOutlineLoading3Quarters :: ReactIcon
 foreign import aiOutlineLock :: ReactIcon
 foreign import aiOutlineLogin :: ReactIcon
 foreign import aiOutlineLogout :: ReactIcon
@@ -719,6 +722,7 @@ foreign import aiTwotoneHeart :: ReactIcon
 foreign import aiTwotoneHighlight :: ReactIcon
 foreign import aiTwotoneHome :: ReactIcon
 foreign import aiTwotoneHourglass :: ReactIcon
+foreign import aiTwotoneHtml5 :: ReactIcon
 foreign import aiTwotoneIdcard :: ReactIcon
 foreign import aiTwotoneInfoCircle :: ReactIcon
 foreign import aiTwotoneInsurance :: ReactIcon

@@ -2,6 +2,7 @@ module React.Icons.Fa where
 
 import React.Icons.Types (ReactIcon)
 
+foreign import fa500Px :: ReactIcon
 foreign import faAccessibleIcon :: ReactIcon
 foreign import faAccusoft :: ReactIcon
 foreign import faAcquisitionsIncorporated :: ReactIcon
@@ -334,6 +335,8 @@ foreign import faCrosshairs :: ReactIcon
 foreign import faCrow :: ReactIcon
 foreign import faCrown :: ReactIcon
 foreign import faCrutch :: ReactIcon
+foreign import faCss3 :: ReactIcon
+foreign import faCss3Alt :: ReactIcon
 foreign import faCube :: ReactIcon
 foreign import faCubes :: ReactIcon
 foreign import faCut :: ReactIcon
@@ -357,6 +360,8 @@ foreign import faDhl :: ReactIcon
 foreign import faDiagnoses :: ReactIcon
 foreign import faDiaspora :: ReactIcon
 foreign import faDice :: ReactIcon
+foreign import faDiceD20 :: ReactIcon
+foreign import faDiceD6 :: ReactIcon
 foreign import faDiceFive :: ReactIcon
 foreign import faDiceFour :: ReactIcon
 foreign import faDiceOne :: ReactIcon
@@ -385,6 +390,7 @@ foreign import faDoorOpen :: ReactIcon
 foreign import faDotCircle :: ReactIcon
 foreign import faDove :: ReactIcon
 foreign import faDownload :: ReactIcon
+foreign import faDraft2Digital :: ReactIcon
 foreign import faDraftingCompass :: ReactIcon
 foreign import faDragon :: ReactIcon
 foreign import faDrawPolygon :: ReactIcon
@@ -683,6 +689,7 @@ foreign import faHouseUser :: ReactIcon
 foreign import faHouzz :: ReactIcon
 foreign import faHryvnia :: ReactIcon
 foreign import faHSquare :: ReactIcon
+foreign import faHtml5 :: ReactIcon
 foreign import faHubspot :: ReactIcon
 foreign import faIceCream :: ReactIcon
 foreign import faIcicles :: ReactIcon
@@ -875,6 +882,7 @@ foreign import faNodeJs :: ReactIcon
 foreign import faNotEqual :: ReactIcon
 foreign import faNotesMedical :: ReactIcon
 foreign import faNpm :: ReactIcon
+foreign import faNs8 :: ReactIcon
 foreign import faNutritionix :: ReactIcon
 foreign import faObjectGroup :: ReactIcon
 foreign import faObjectUngroup :: ReactIcon
@@ -892,6 +900,7 @@ foreign import faOrcid :: ReactIcon
 foreign import faOsi :: ReactIcon
 foreign import faOtter :: ReactIcon
 foreign import faOutdent :: ReactIcon
+foreign import faPage4 :: ReactIcon
 foreign import faPagelines :: ReactIcon
 foreign import faPager :: ReactIcon
 foreign import faPaintBrush :: ReactIcon
@@ -1339,6 +1348,7 @@ foreign import faStickyNote :: ReactIcon
 foreign import faStop :: ReactIcon
 foreign import faStopCircle :: ReactIcon
 foreign import faStopwatch :: ReactIcon
+foreign import faStopwatch20 :: ReactIcon
 foreign import faStore :: ReactIcon
 foreign import faStoreAlt :: ReactIcon
 foreign import faStoreAltSlash :: ReactIcon
@@ -1459,6 +1469,7 @@ foreign import faTv :: ReactIcon
 foreign import faTwitch :: ReactIcon
 foreign import faTwitter :: ReactIcon
 foreign import faTwitterSquare :: ReactIcon
+foreign import faTypo3 :: ReactIcon
 foreign import faUber :: ReactIcon
 foreign import faUbuntu :: ReactIcon
 foreign import faUikit :: ReactIcon

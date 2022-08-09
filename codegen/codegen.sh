@@ -47,7 +47,7 @@ libs=$(sed -nr "s/export \* from '\.\/([a-z]+)';/\1/p" "$allLibsFile" | sort -u)
 for lib in $libs; do
     echo "Generating $lib icons ..."
     iconFile="$libDir/$lib/index.d.ts"
-    regex='s/export declare const ([A-Za-z]+): IconType;/\1/p'
+    regex='s/export declare const ([A-Za-z0-9_]+): IconType;/\1/p'
     iconNames=$(sed -nr "$regex" "$iconFile" | sort -u)
 
     # PureScript and JS defintions
