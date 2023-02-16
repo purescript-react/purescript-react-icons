@@ -42,7 +42,7 @@ toJavaScript() {
     outputJs+="\n"
 }
 
-libs=$(sed -nr "s/export \* from '\.\/([a-z]+)';/\1/p" "$allLibsFile" | sort -u)
+libs=$(sed -nr "s/export \* from '\.\/([a-z0-9]+)';/\1/p" "$allLibsFile" | sort -u)
 
 for lib in $libs; do
     echo "Generating $lib icons ..."
