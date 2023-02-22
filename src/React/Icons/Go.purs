@@ -77,9 +77,9 @@ foreign import goGistSecret :: ReactIcon
 foreign import goGitBranch :: ReactIcon
 foreign import goGitCommit :: ReactIcon
 foreign import goGitCompare :: ReactIcon
-foreign import goGithubAction :: ReactIcon
 foreign import goGitMerge :: ReactIcon
 foreign import goGitPullRequest :: ReactIcon
+foreign import goGithubAction :: ReactIcon
 foreign import goGlobe :: ReactIcon
 foreign import goGrabber :: ReactIcon
 foreign import goGraph :: ReactIcon
@@ -111,8 +111,8 @@ foreign import goLogoGist :: ReactIcon
 foreign import goLogoGithub :: ReactIcon
 foreign import goMail :: ReactIcon
 foreign import goMailRead :: ReactIcon
-foreign import goMarkdown :: ReactIcon
 foreign import goMarkGithub :: ReactIcon
+foreign import goMarkdown :: ReactIcon
 foreign import goMegaphone :: ReactIcon
 foreign import goMention :: ReactIcon
 foreign import goMilestone :: ReactIcon

@@ -30,12 +30,12 @@ foreign import tfiArrowCircleUp :: ReactIcon
 foreign import tfiArrowDown :: ReactIcon
 foreign import tfiArrowLeft :: ReactIcon
 foreign import tfiArrowRight :: ReactIcon
-foreign import tfiArrowsCorner :: ReactIcon
-foreign import tfiArrowsHorizontal :: ReactIcon
-foreign import tfiArrowsVertical :: ReactIcon
 foreign import tfiArrowTopLeft :: ReactIcon
 foreign import tfiArrowTopRight :: ReactIcon
 foreign import tfiArrowUp :: ReactIcon
+foreign import tfiArrowsCorner :: ReactIcon
+foreign import tfiArrowsHorizontal :: ReactIcon
+foreign import tfiArrowsVertical :: ReactIcon
 foreign import tfiBackLeft :: ReactIcon
 foreign import tfiBackRight :: ReactIcon
 foreign import tfiBag :: ReactIcon
@@ -97,9 +97,9 @@ foreign import tfiEraser :: ReactIcon
 foreign import tfiExchangeVertical :: ReactIcon
 foreign import tfiExport :: ReactIcon
 foreign import tfiEye :: ReactIcon
-foreign import tfiFacebook :: ReactIcon
 foreign import tfiFaceSad :: ReactIcon
 foreign import tfiFaceSmile :: ReactIcon
+foreign import tfiFacebook :: ReactIcon
 foreign import tfiFile :: ReactIcon
 foreign import tfiFiles :: ReactIcon
 foreign import tfiFilter :: ReactIcon

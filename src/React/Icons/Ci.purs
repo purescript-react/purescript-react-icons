@@ -38,8 +38,8 @@ foreign import ciBookmarkMinus :: ReactIcon
 foreign import ciBookmarkPlus :: ReactIcon
 foreign import ciBookmarkRemove :: ReactIcon
 foreign import ciBowlNoodles :: ReactIcon
-foreign import ciBoxes :: ReactIcon
 foreign import ciBoxList :: ReactIcon
+foreign import ciBoxes :: ReactIcon
 foreign import ciBrightnessDown :: ReactIcon
 foreign import ciBrightnessUp :: ReactIcon
 foreign import ciBullhorn :: ReactIcon
@@ -95,10 +95,10 @@ foreign import ciDumbbell :: ReactIcon
 foreign import ciEdit :: ReactIcon
 foreign import ciEraser :: ReactIcon
 foreign import ciExport :: ReactIcon
-foreign import ciFacebook :: ReactIcon
 foreign import ciFaceFrown :: ReactIcon
 foreign import ciFaceMeh :: ReactIcon
 foreign import ciFaceSmile :: ReactIcon
+foreign import ciFacebook :: ReactIcon
 foreign import ciFileOff :: ReactIcon
 foreign import ciFileOn :: ReactIcon
 foreign import ciFilter :: ReactIcon
