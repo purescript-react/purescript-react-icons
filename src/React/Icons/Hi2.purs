@@ -26,6 +26,10 @@ foreign import hiArrowPath :: ReactIcon
 foreign import hiArrowRight :: ReactIcon
 foreign import hiArrowRightCircle :: ReactIcon
 foreign import hiArrowRightOnRectangle :: ReactIcon
+foreign import hiArrowsPointingIn :: ReactIcon
+foreign import hiArrowsPointingOut :: ReactIcon
+foreign import hiArrowsRightLeft :: ReactIcon
+foreign import hiArrowsUpDown :: ReactIcon
 foreign import hiArrowTopRightOnSquare :: ReactIcon
 foreign import hiArrowTrendingDown :: ReactIcon
 foreign import hiArrowTrendingUp :: ReactIcon
@@ -40,10 +44,6 @@ foreign import hiArrowUturnDown :: ReactIcon
 foreign import hiArrowUturnLeft :: ReactIcon
 foreign import hiArrowUturnRight :: ReactIcon
 foreign import hiArrowUturnUp :: ReactIcon
-foreign import hiArrowsPointingIn :: ReactIcon
-foreign import hiArrowsPointingOut :: ReactIcon
-foreign import hiArrowsRightLeft :: ReactIcon
-foreign import hiArrowsUpDown :: ReactIcon
 foreign import hiAtSymbol :: ReactIcon
 foreign import hiBackspace :: ReactIcon
 foreign import hiBackward :: ReactIcon
@@ -63,10 +63,10 @@ foreign import hiBellSlash :: ReactIcon
 foreign import hiBellSnooze :: ReactIcon
 foreign import hiBolt :: ReactIcon
 foreign import hiBoltSlash :: ReactIcon
-foreign import hiBookOpen :: ReactIcon
 foreign import hiBookmark :: ReactIcon
 foreign import hiBookmarkSlash :: ReactIcon
 foreign import hiBookmarkSquare :: ReactIcon
+foreign import hiBookOpen :: ReactIcon
 foreign import hiBriefcase :: ReactIcon
 foreign import hiBuildingLibrary :: ReactIcon
 foreign import hiBuildingOffice :: ReactIcon
@@ -224,6 +224,10 @@ foreign import hiOutlineArrowPath :: ReactIcon
 foreign import hiOutlineArrowRight :: ReactIcon
 foreign import hiOutlineArrowRightCircle :: ReactIcon
 foreign import hiOutlineArrowRightOnRectangle :: ReactIcon
+foreign import hiOutlineArrowsPointingIn :: ReactIcon
+foreign import hiOutlineArrowsPointingOut :: ReactIcon
+foreign import hiOutlineArrowsRightLeft :: ReactIcon
+foreign import hiOutlineArrowsUpDown :: ReactIcon
 foreign import hiOutlineArrowTopRightOnSquare :: ReactIcon
 foreign import hiOutlineArrowTrendingDown :: ReactIcon
 foreign import hiOutlineArrowTrendingUp :: ReactIcon
@@ -238,10 +242,6 @@ foreign import hiOutlineArrowUturnDown :: ReactIcon
 foreign import hiOutlineArrowUturnLeft :: ReactIcon
 foreign import hiOutlineArrowUturnRight :: ReactIcon
 foreign import hiOutlineArrowUturnUp :: ReactIcon
-foreign import hiOutlineArrowsPointingIn :: ReactIcon
-foreign import hiOutlineArrowsPointingOut :: ReactIcon
-foreign import hiOutlineArrowsRightLeft :: ReactIcon
-foreign import hiOutlineArrowsUpDown :: ReactIcon
 foreign import hiOutlineAtSymbol :: ReactIcon
 foreign import hiOutlineBackspace :: ReactIcon
 foreign import hiOutlineBackward :: ReactIcon
@@ -261,10 +261,10 @@ foreign import hiOutlineBellSlash :: ReactIcon
 foreign import hiOutlineBellSnooze :: ReactIcon
 foreign import hiOutlineBolt :: ReactIcon
 foreign import hiOutlineBoltSlash :: ReactIcon
-foreign import hiOutlineBookOpen :: ReactIcon
 foreign import hiOutlineBookmark :: ReactIcon
 foreign import hiOutlineBookmarkSlash :: ReactIcon
 foreign import hiOutlineBookmarkSquare :: ReactIcon
+foreign import hiOutlineBookOpen :: ReactIcon
 foreign import hiOutlineBriefcase :: ReactIcon
 foreign import hiOutlineBuildingLibrary :: ReactIcon
 foreign import hiOutlineBuildingOffice :: ReactIcon

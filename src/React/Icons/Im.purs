@@ -142,9 +142,9 @@ foreign import imEvil2 :: ReactIcon
 foreign import imExit :: ReactIcon
 foreign import imEye :: ReactIcon
 foreign import imEyeBlocked :: ReactIcon
+foreign import imEyedropper :: ReactIcon
 foreign import imEyeMinus :: ReactIcon
 foreign import imEyePlus :: ReactIcon
-foreign import imEyedropper :: ReactIcon
 foreign import imFacebook :: ReactIcon
 foreign import imFacebook2 :: ReactIcon
 foreign import imFeed :: ReactIcon
@@ -155,12 +155,12 @@ foreign import imFileOpenoffice :: ReactIcon
 foreign import imFilePdf :: ReactIcon
 foreign import imFilePicture :: ReactIcon
 foreign import imFilePlay :: ReactIcon
+foreign import imFilesEmpty :: ReactIcon
 foreign import imFileText :: ReactIcon
 foreign import imFileText2 :: ReactIcon
 foreign import imFileVideo :: ReactIcon
 foreign import imFileWord :: ReactIcon
 foreign import imFileZip :: ReactIcon
-foreign import imFilesEmpty :: ReactIcon
 foreign import imFilm :: ReactIcon
 foreign import imFilter :: ReactIcon
 foreign import imFinder :: ReactIcon
@@ -286,8 +286,8 @@ foreign import imMug :: ReactIcon
 foreign import imMusic :: ReactIcon
 foreign import imNeutral :: ReactIcon
 foreign import imNeutral2 :: ReactIcon
-foreign import imNewTab :: ReactIcon
 foreign import imNewspaper :: ReactIcon
+foreign import imNewTab :: ReactIcon
 foreign import imNext :: ReactIcon
 foreign import imNext2 :: ReactIcon
 foreign import imNotification :: ReactIcon
@@ -299,7 +299,6 @@ foreign import imOpera :: ReactIcon
 foreign import imOpt :: ReactIcon
 foreign import imPacman :: ReactIcon
 foreign import imPageBreak :: ReactIcon
-foreign import imPagebreak :: ReactIcon
 foreign import imPaintFormat :: ReactIcon
 foreign import imParagraphCenter :: ReactIcon
 foreign import imParagraphJustify :: ReactIcon
@@ -458,8 +457,8 @@ foreign import imUser :: ReactIcon
 foreign import imUserCheck :: ReactIcon
 foreign import imUserMinus :: ReactIcon
 foreign import imUserPlus :: ReactIcon
-foreign import imUserTie :: ReactIcon
 foreign import imUsers :: ReactIcon
+foreign import imUserTie :: ReactIcon
 foreign import imVideoCamera :: ReactIcon
 foreign import imVimeo :: ReactIcon
 foreign import imVimeo2 :: ReactIcon

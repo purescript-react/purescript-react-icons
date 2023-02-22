@@ -42,13 +42,13 @@ toJavaScript() {
     outputJs+="\n"
 }
 
-libs=$(sed -nr "s/export \* from '\.\/([a-z0-9]+)';/\1/p" "$allLibsFile" | sort -u)
+libs=$(sed -nr "s/export \* from '\.\/([a-z0-9]+)';/\1/p" "$allLibsFile" | sort -u -f)
 
 for lib in $libs; do
     echo "Generating $lib icons ..."
     iconFile="$libDir/$lib/index.d.ts"
     regex='s/export declare const ([A-Za-z0-9_]+): IconType;/\1/p'
-    iconNames=$(sed -nr "$regex" "$iconFile" | sort -u)
+    iconNames=$(sed -nr "$regex" "$iconFile" | sort -u -f)
 
     # PureScript and JS defintions
     outputPs="$(sed -e "s/\${lib}/${lib^}/" "$dir/templateModule.txt")\n"
