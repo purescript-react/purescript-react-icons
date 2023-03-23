@@ -55,6 +55,7 @@ foreign import grBottomCorner :: ReactIcon
 foreign import grBraille :: ReactIcon
 foreign import grBriefcase :: ReactIcon
 foreign import grBrush :: ReactIcon
+foreign import grBucket :: ReactIcon
 foreign import grBug :: ReactIcon
 foreign import grBundle :: ReactIcon
 foreign import grBus :: ReactIcon
@@ -150,6 +151,7 @@ foreign import grDirections :: ReactIcon
 foreign import grDisabledOutline :: ReactIcon
 foreign import grDisc :: ReactIcon
 foreign import grDislike :: ReactIcon
+foreign import grDislikeFill :: ReactIcon
 foreign import grDocker :: ReactIcon
 foreign import grDocument :: ReactIcon
 foreign import grDocumentCloud :: ReactIcon
@@ -240,6 +242,7 @@ foreign import grFormLocation :: ReactIcon
 foreign import grFormLock :: ReactIcon
 foreign import grFormNext :: ReactIcon
 foreign import grFormNextLink :: ReactIcon
+foreign import grFormPin :: ReactIcon
 foreign import grFormPrevious :: ReactIcon
 foreign import grFormPreviousLink :: ReactIcon
 foreign import grFormRefresh :: ReactIcon
@@ -317,6 +320,7 @@ foreign import grLaunch :: ReactIcon
 foreign import grLayer :: ReactIcon
 foreign import grLicense :: ReactIcon
 foreign import grLike :: ReactIcon
+foreign import grLikeFill :: ReactIcon
 foreign import grLineChart :: ReactIcon
 foreign import grLink :: ReactIcon
 foreign import grLinkBottom :: ReactIcon
@@ -487,6 +491,7 @@ foreign import grStackOverflow :: ReactIcon
 foreign import grStakeholder :: ReactIcon
 foreign import grStar :: ReactIcon
 foreign import grStarHalf :: ReactIcon
+foreign import grStarOutline :: ReactIcon
 foreign import grStatusCritical :: ReactIcon
 foreign import grStatusCriticalSmall :: ReactIcon
 foreign import grStatusDisabled :: ReactIcon
@@ -543,7 +548,7 @@ foreign import grThreats :: ReactIcon
 foreign import grThreeD :: ReactIcon
 foreign import grThreeDEffects :: ReactIcon
 foreign import grTicket :: ReactIcon
-foreign import grTictok :: ReactIcon
+foreign import grTiktok :: ReactIcon
 foreign import grTime :: ReactIcon
 foreign import grTip :: ReactIcon
 foreign import grToast :: ReactIcon

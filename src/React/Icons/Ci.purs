@@ -159,6 +159,9 @@ foreign import ciMedicalClipboard :: ReactIcon
 foreign import ciMedicalCross :: ReactIcon
 foreign import ciMedicalMask :: ReactIcon
 foreign import ciMemoPad :: ReactIcon
+foreign import ciMenuBurger :: ReactIcon
+foreign import ciMenuFries :: ReactIcon
+foreign import ciMenuKebab :: ReactIcon
 foreign import ciMicrochip :: ReactIcon
 foreign import ciMicrophoneOff :: ReactIcon
 foreign import ciMicrophoneOn :: ReactIcon

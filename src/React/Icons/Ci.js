@@ -155,6 +155,9 @@ export { CiMedicalClipboard as ciMedicalClipboard } from "react-icons/ci/index.e
 export { CiMedicalCross as ciMedicalCross } from "react-icons/ci/index.esm.js";
 export { CiMedicalMask as ciMedicalMask } from "react-icons/ci/index.esm.js";
 export { CiMemoPad as ciMemoPad } from "react-icons/ci/index.esm.js";
+export { CiMenuBurger as ciMenuBurger } from "react-icons/ci/index.esm.js";
+export { CiMenuFries as ciMenuFries } from "react-icons/ci/index.esm.js";
+export { CiMenuKebab as ciMenuKebab } from "react-icons/ci/index.esm.js";
 export { CiMicrochip as ciMicrochip } from "react-icons/ci/index.esm.js";
 export { CiMicrophoneOff as ciMicrophoneOff } from "react-icons/ci/index.esm.js";
 export { CiMicrophoneOn as ciMicrophoneOn } from "react-icons/ci/index.esm.js";

@@ -15,7 +15,7 @@
     "codegen": "codegen/codegen.sh"
   },
   "dependencies": {
-    "react-icons": "^4.7.1"
+    "react-icons": "^4.8.0"
   },
   "devDependencies": {
     "react": "^18.2.0",
