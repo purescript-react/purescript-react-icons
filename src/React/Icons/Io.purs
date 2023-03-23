@@ -130,8 +130,8 @@ foreign import ioIosFitness :: ReactIcon
 foreign import ioIosFlag :: ReactIcon
 foreign import ioIosFlame :: ReactIcon
 foreign import ioIosFlash :: ReactIcon
-foreign import ioIosFlashlight :: ReactIcon
 foreign import ioIosFlashOff :: ReactIcon
+foreign import ioIosFlashlight :: ReactIcon
 foreign import ioIosFlask :: ReactIcon
 foreign import ioIosFlower :: ReactIcon
 foreign import ioIosFolder :: ReactIcon
@@ -351,8 +351,8 @@ foreign import ioLogoJavascript :: ReactIcon
 foreign import ioLogoLinkedin :: ReactIcon
 foreign import ioLogoMarkdown :: ReactIcon
 foreign import ioLogoModelS :: ReactIcon
-foreign import ioLogoNodejs :: ReactIcon
 foreign import ioLogoNoSmoking :: ReactIcon
+foreign import ioLogoNodejs :: ReactIcon
 foreign import ioLogoNpm :: ReactIcon
 foreign import ioLogoOctocat :: ReactIcon
 foreign import ioLogoPinterest :: ReactIcon
@@ -509,8 +509,8 @@ foreign import ioMdFitness :: ReactIcon
 foreign import ioMdFlag :: ReactIcon
 foreign import ioMdFlame :: ReactIcon
 foreign import ioMdFlash :: ReactIcon
-foreign import ioMdFlashlight :: ReactIcon
 foreign import ioMdFlashOff :: ReactIcon
+foreign import ioMdFlashlight :: ReactIcon
 foreign import ioMdFlask :: ReactIcon
 foreign import ioMdFlower :: ReactIcon
 foreign import ioMdFolder :: ReactIcon

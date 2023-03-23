@@ -58,8 +58,8 @@ foreign import rxCaretSort :: ReactIcon
 foreign import rxCaretUp :: ReactIcon
 foreign import rxChatBubble :: ReactIcon
 foreign import rxCheck :: ReactIcon
-foreign import rxCheckbox :: ReactIcon
 foreign import rxCheckCircled :: ReactIcon
+foreign import rxCheckbox :: ReactIcon
 foreign import rxChevronDown :: ReactIcon
 foreign import rxChevronLeft :: ReactIcon
 foreign import rxChevronRight :: ReactIcon
@@ -72,8 +72,8 @@ foreign import rxClock :: ReactIcon
 foreign import rxCode :: ReactIcon
 foreign import rxCodesandboxLogo :: ReactIcon
 foreign import rxColorWheel :: ReactIcon
-foreign import rxColumns :: ReactIcon
 foreign import rxColumnSpacing :: ReactIcon
+foreign import rxColumns :: ReactIcon
 foreign import rxCommit :: ReactIcon
 foreign import rxComponent1 :: ReactIcon
 foreign import rxComponent2 :: ReactIcon
@@ -86,9 +86,9 @@ foreign import rxCookie :: ReactIcon
 foreign import rxCopy :: ReactIcon
 foreign import rxCornerBottomLeft :: ReactIcon
 foreign import rxCornerBottomRight :: ReactIcon
-foreign import rxCorners :: ReactIcon
 foreign import rxCornerTopLeft :: ReactIcon
 foreign import rxCornerTopRight :: ReactIcon
+foreign import rxCorners :: ReactIcon
 foreign import rxCountdownTimer :: ReactIcon
 foreign import rxCounterClockwiseClock :: ReactIcon
 foreign import rxCrop :: ReactIcon
@@ -188,9 +188,9 @@ foreign import rxLink1 :: ReactIcon
 foreign import rxLink2 :: ReactIcon
 foreign import rxLinkBreak1 :: ReactIcon
 foreign import rxLinkBreak2 :: ReactIcon
-foreign import rxLinkedinLogo :: ReactIcon
 foreign import rxLinkNone1 :: ReactIcon
 foreign import rxLinkNone2 :: ReactIcon
+foreign import rxLinkedinLogo :: ReactIcon
 foreign import rxListBullet :: ReactIcon
 foreign import rxLockClosed :: ReactIcon
 foreign import rxLockOpen1 :: ReactIcon
@@ -239,8 +239,8 @@ foreign import rxReset :: ReactIcon
 foreign import rxResume :: ReactIcon
 foreign import rxRocket :: ReactIcon
 foreign import rxRotateCounterClockwise :: ReactIcon
-foreign import rxRows :: ReactIcon
 foreign import rxRowSpacing :: ReactIcon
+foreign import rxRows :: ReactIcon
 foreign import rxRulerHorizontal :: ReactIcon
 foreign import rxRulerSquare :: ReactIcon
 foreign import rxScissors :: ReactIcon
