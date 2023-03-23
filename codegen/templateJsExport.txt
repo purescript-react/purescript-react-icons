@@ -1,1 +1,1 @@
-export { ${nameImport} as ${nameExport} } from "react-icons/${nameModule}/index.js";
+export { ${nameImport} as ${nameExport} } from "react-icons/${nameModule}/index.esm.js";
