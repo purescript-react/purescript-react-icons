@@ -17,7 +17,6 @@ command -v "sort" >/dev/null 2>&1 || {
 
 dir="$(cd "$(dirname "${BASH_SOURCE[0]}")" >/dev/null 2>&1 && pwd)"
 libDir="$dir/../node_modules/react-icons"
-allLibsFile="$libDir/all.d.ts"
 
 [ -d "$libDir" ] || {
     echo "Error: react-icons dependency not installed" && exit 1
@@ -42,7 +41,8 @@ toJavaScript() {
     outputJs+="\n"
 }
 
-libs=$(sed -nr "s/export \* from '\.\/([a-z0-9]+)';/\1/p" "$allLibsFile" | sort -u)
+libs=$(ls -1p "$libDir" | grep / | sed 's/^\(.*\)\//\1/' | sort -u)
+libs=${libs[*]//lib/}
 
 for lib in $libs; do
     echo "Generating $lib icons ..."
