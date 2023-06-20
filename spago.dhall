@@ -3,5 +3,5 @@
 , packages = ./packages.dhall
 , sources = [ "src/**/*.purs" ]
 , license = "MIT-0"
-, repository = "https://github.com/andys8/purescript-react-icons.git"
+, repository = "https://github.com/purescript-react/purescript-react-icons.git"
 }

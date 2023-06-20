@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "PureScript bindings for react-icons",
   "type": "module",
-  "author": "andys8",
+  "author": "purescript-react",
   "license": "MIT-0",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/andys8/purescript-react-icons.git"
+    "url": "git+https://github.com/purescript-react/purescript-react-icons.git"
   },
   "scripts": {
     "postinstall": "spago install",
