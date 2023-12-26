@@ -15,11 +15,11 @@
     "codegen": "codegen/codegen.sh"
   },
   "dependencies": {
-    "react-icons": "^4.9.0"
+    "react-icons": "^4.12.0"
   },
   "devDependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "spago": "^0.20.9"
+    "spago": "^0.21.0"
   }
 }

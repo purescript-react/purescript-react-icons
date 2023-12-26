@@ -4,12 +4,12 @@ PureScript bindings for [`react-icons`](https://react-icons.github.io/react-icon
 
 > Include popular icons in your React projects easily with react-icons, which utilizes ES6 imports that allows you to include only the icons that your project is using.
 
-Tested with react-icons `v4.9.0`.
+Tested with react-icons `v4.12.0`.
 
 ## Installation
 
 ```shell
-npm install --save react-icons@4.9.0
+npm install --save react-icons@4.12.0
 spago install react-icons
 ```
 
