@@ -232,6 +232,7 @@ export { FiStopCircle as fiStopCircle } from "react-icons/fi";
 export { FiSun as fiSun } from "react-icons/fi";
 export { FiSunrise as fiSunrise } from "react-icons/fi";
 export { FiSunset as fiSunset } from "react-icons/fi";
+export { FiTable as fiTable } from "react-icons/fi";
 export { FiTablet as fiTablet } from "react-icons/fi";
 export { FiTag as fiTag } from "react-icons/fi";
 export { FiTarget as fiTarget } from "react-icons/fi";

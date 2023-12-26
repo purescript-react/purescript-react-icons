@@ -49,6 +49,7 @@ foreign import vscChevronDown :: ReactIcon
 foreign import vscChevronLeft :: ReactIcon
 foreign import vscChevronRight :: ReactIcon
 foreign import vscChevronUp :: ReactIcon
+foreign import vscChip :: ReactIcon
 foreign import vscChromeClose :: ReactIcon
 foreign import vscChromeMaximize :: ReactIcon
 foreign import vscChromeMinimize :: ReactIcon
@@ -69,6 +70,7 @@ foreign import vscCloud :: ReactIcon
 foreign import vscCloudDownload :: ReactIcon
 foreign import vscCloudUpload :: ReactIcon
 foreign import vscCode :: ReactIcon
+foreign import vscCoffee :: ReactIcon
 foreign import vscCollapseAll :: ReactIcon
 foreign import vscColorMode :: ReactIcon
 foreign import vscCombine :: ReactIcon
@@ -79,6 +81,7 @@ foreign import vscCommentUnresolved :: ReactIcon
 foreign import vscCompass :: ReactIcon
 foreign import vscCompassActive :: ReactIcon
 foreign import vscCompassDot :: ReactIcon
+foreign import vscCopilot :: ReactIcon
 foreign import vscCopy :: ReactIcon
 foreign import vscCreditCard :: ReactIcon
 foreign import vscDash :: ReactIcon
@@ -160,12 +163,14 @@ foreign import vscFolderActive :: ReactIcon
 foreign import vscFolderLibrary :: ReactIcon
 foreign import vscFolderOpened :: ReactIcon
 foreign import vscFoldUp :: ReactIcon
+foreign import vscGame :: ReactIcon
 foreign import vscGear :: ReactIcon
 foreign import vscGift :: ReactIcon
 foreign import vscGist :: ReactIcon
 foreign import vscGistSecret :: ReactIcon
 foreign import vscGitCommit :: ReactIcon
 foreign import vscGitCompare :: ReactIcon
+foreign import vscGitFetch :: ReactIcon
 foreign import vscGithub :: ReactIcon
 foreign import vscGithubAction :: ReactIcon
 foreign import vscGithubAlt :: ReactIcon
@@ -195,6 +200,7 @@ foreign import vscHubot :: ReactIcon
 foreign import vscInbox :: ReactIcon
 foreign import vscIndent :: ReactIcon
 foreign import vscInfo :: ReactIcon
+foreign import vscInsert :: ReactIcon
 foreign import vscInspect :: ReactIcon
 foreign import vscIssueDraft :: ReactIcon
 foreign import vscIssueReopened :: ReactIcon
@@ -250,11 +256,14 @@ foreign import vscMegaphone :: ReactIcon
 foreign import vscMention :: ReactIcon
 foreign import vscMenu :: ReactIcon
 foreign import vscMerge :: ReactIcon
+foreign import vscMic :: ReactIcon
+foreign import vscMicFilled :: ReactIcon
 foreign import vscMilestone :: ReactIcon
 foreign import vscMirror :: ReactIcon
 foreign import vscMortarBoard :: ReactIcon
 foreign import vscMove :: ReactIcon
 foreign import vscMultipleWindows :: ReactIcon
+foreign import vscMusic :: ReactIcon
 foreign import vscMute :: ReactIcon
 foreign import vscNewFile :: ReactIcon
 foreign import vscNewFolder :: ReactIcon
@@ -273,6 +282,7 @@ foreign import vscPass :: ReactIcon
 foreign import vscPassFilled :: ReactIcon
 foreign import vscPerson :: ReactIcon
 foreign import vscPersonAdd :: ReactIcon
+foreign import vscPiano :: ReactIcon
 foreign import vscPieChart :: ReactIcon
 foreign import vscPin :: ReactIcon
 foreign import vscPinned :: ReactIcon
@@ -327,6 +337,7 @@ foreign import vscScreenNormal :: ReactIcon
 foreign import vscSearch :: ReactIcon
 foreign import vscSearchFuzzy :: ReactIcon
 foreign import vscSearchStop :: ReactIcon
+foreign import vscSend :: ReactIcon
 foreign import vscServer :: ReactIcon
 foreign import vscServerEnvironment :: ReactIcon
 foreign import vscServerProcess :: ReactIcon
@@ -336,8 +347,10 @@ foreign import vscShield :: ReactIcon
 foreign import vscSignIn :: ReactIcon
 foreign import vscSignOut :: ReactIcon
 foreign import vscSmiley :: ReactIcon
+foreign import vscSnake :: ReactIcon
 foreign import vscSortPrecedence :: ReactIcon
 foreign import vscSourceControl :: ReactIcon
+foreign import vscSparkle :: ReactIcon
 foreign import vscSplitHorizontal :: ReactIcon
 foreign import vscSplitVertical :: ReactIcon
 foreign import vscSquirrel :: ReactIcon
@@ -388,7 +401,9 @@ foreign import vscTerminalUbuntu :: ReactIcon
 foreign import vscTextSize :: ReactIcon
 foreign import vscThreeBars :: ReactIcon
 foreign import vscThumbsdown :: ReactIcon
+foreign import vscThumbsdownFilled :: ReactIcon
 foreign import vscThumbsup :: ReactIcon
+foreign import vscThumbsupFilled :: ReactIcon
 foreign import vscTools :: ReactIcon
 foreign import vscTrash :: ReactIcon
 foreign import vscTriangleDown :: ReactIcon
@@ -413,6 +428,7 @@ foreign import vscVmActive :: ReactIcon
 foreign import vscVmConnect :: ReactIcon
 foreign import vscVmOutline :: ReactIcon
 foreign import vscVmRunning :: ReactIcon
+foreign import vscVr :: ReactIcon
 foreign import vscWand :: ReactIcon
 foreign import vscWarning :: ReactIcon
 foreign import vscWatch :: ReactIcon

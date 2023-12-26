@@ -685,6 +685,7 @@ foreign import cgUserAdd :: ReactIcon
 foreign import cgUserlane :: ReactIcon
 foreign import cgUserList :: ReactIcon
 foreign import cgUserRemove :: ReactIcon
+foreign import cgVercel :: ReactIcon
 foreign import cgViewCols :: ReactIcon
 foreign import cgViewComfortable :: ReactIcon
 foreign import cgViewDay :: ReactIcon
@@ -703,6 +704,5 @@ foreign import cgWindows :: ReactIcon
 foreign import cgWorkAlt :: ReactIcon
 foreign import cgYinyang :: ReactIcon
 foreign import cgYoutube :: ReactIcon
-foreign import cgZeit :: ReactIcon
 foreign import cgZoomIn :: ReactIcon
 foreign import cgZoomOut :: ReactIcon
