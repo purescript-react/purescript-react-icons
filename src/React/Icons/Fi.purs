@@ -236,6 +236,7 @@ foreign import fiStopCircle :: ReactIcon
 foreign import fiSun :: ReactIcon
 foreign import fiSunrise :: ReactIcon
 foreign import fiSunset :: ReactIcon
+foreign import fiTable :: ReactIcon
 foreign import fiTablet :: ReactIcon
 foreign import fiTag :: ReactIcon
 foreign import fiTarget :: ReactIcon

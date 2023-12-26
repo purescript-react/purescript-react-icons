@@ -9,6 +9,7 @@ foreign import grActions :: ReactIcon
 foreign import grAd :: ReactIcon
 foreign import grAdd :: ReactIcon
 foreign import grAddCircle :: ReactIcon
+foreign import grAdobeCreativeCloud :: ReactIcon
 foreign import grAed :: ReactIcon
 foreign import grAggregate :: ReactIcon
 foreign import grAid :: ReactIcon
@@ -23,6 +24,8 @@ foreign import grAndroid :: ReactIcon
 foreign import grAnnounce :: ReactIcon
 foreign import grApple :: ReactIcon
 foreign import grAppleAppStore :: ReactIcon
+foreign import grAppleMusic :: ReactIcon
+foreign import grApplePodcasts :: ReactIcon
 foreign import grApps :: ReactIcon
 foreign import grAppsRounded :: ReactIcon
 foreign import grArchive :: ReactIcon
@@ -266,6 +269,7 @@ foreign import grGithub :: ReactIcon
 foreign import grGlobe :: ReactIcon
 foreign import grGolang :: ReactIcon
 foreign import grGoogle :: ReactIcon
+foreign import grGooglePay :: ReactIcon
 foreign import grGooglePlay :: ReactIcon
 foreign import grGooglePlus :: ReactIcon
 foreign import grGoogleWallet :: ReactIcon
@@ -278,6 +282,7 @@ foreign import grGrow :: ReactIcon
 foreign import grHadoop :: ReactIcon
 foreign import grHalt :: ReactIcon
 foreign import grHelp :: ReactIcon
+foreign import grHelpBook :: ReactIcon
 foreign import grHelpOption :: ReactIcon
 foreign import grHeroku :: ReactIcon
 foreign import grHide :: ReactIcon
@@ -314,6 +319,7 @@ foreign import grJava :: ReactIcon
 foreign import grJs :: ReactIcon
 foreign import grKey :: ReactIcon
 foreign import grKeyboard :: ReactIcon
+foreign import grKubernetes :: ReactIcon
 foreign import grLanguage :: ReactIcon
 foreign import grLastfm :: ReactIcon
 foreign import grLaunch :: ReactIcon
@@ -350,6 +356,7 @@ foreign import grMastercard :: ReactIcon
 foreign import grMedium :: ReactIcon
 foreign import grMemory :: ReactIcon
 foreign import grMenu :: ReactIcon
+foreign import grMeta :: ReactIcon
 foreign import grMicrofocus :: ReactIcon
 foreign import grMicrophone :: ReactIcon
 foreign import grMoney :: ReactIcon
@@ -441,6 +448,7 @@ foreign import grRotateRight :: ReactIcon
 foreign import grRss :: ReactIcon
 foreign import grRun :: ReactIcon
 foreign import grSafariOption :: ReactIcon
+foreign import grSamsungPay :: ReactIcon
 foreign import grSans :: ReactIcon
 foreign import grSatellite :: ReactIcon
 foreign import grSave :: ReactIcon
@@ -544,6 +552,7 @@ foreign import grTextAlignFull :: ReactIcon
 foreign import grTextAlignLeft :: ReactIcon
 foreign import grTextAlignRight :: ReactIcon
 foreign import grTextWrap :: ReactIcon
+foreign import grThreads :: ReactIcon
 foreign import grThreats :: ReactIcon
 foreign import grThreeD :: ReactIcon
 foreign import grThreeDEffects :: ReactIcon
@@ -566,6 +575,7 @@ foreign import grTroubleshoot :: ReactIcon
 foreign import grTty :: ReactIcon
 foreign import grTumblr :: ReactIcon
 foreign import grTurbolinux :: ReactIcon
+foreign import grTwitch :: ReactIcon
 foreign import grTwitter :: ReactIcon
 foreign import grUbuntu :: ReactIcon
 foreign import grUnderline :: ReactIcon
@@ -592,6 +602,7 @@ foreign import grUserSettings :: ReactIcon
 foreign import grUserWorker :: ReactIcon
 foreign import grValidate :: ReactIcon
 foreign import grVend :: ReactIcon
+foreign import grVenmo :: ReactIcon
 foreign import grVideo :: ReactIcon
 foreign import grView :: ReactIcon
 foreign import grVimeo :: ReactIcon
@@ -607,6 +618,8 @@ foreign import grVolumeMute :: ReactIcon
 foreign import grVulnerability :: ReactIcon
 foreign import grWaypoint :: ReactIcon
 foreign import grWebcam :: ReactIcon
+foreign import grWechat :: ReactIcon
+foreign import grWhatsapp :: ReactIcon
 foreign import grWheelchair :: ReactIcon
 foreign import grWheelchairActive :: ReactIcon
 foreign import grWifi :: ReactIcon
@@ -617,6 +630,8 @@ foreign import grWindows :: ReactIcon
 foreign import grWindowsLegacy :: ReactIcon
 foreign import grWordpress :: ReactIcon
 foreign import grWorkshop :: ReactIcon
+foreign import grX :: ReactIcon
+foreign import grXing :: ReactIcon
 foreign import grYoga :: ReactIcon
 foreign import grYoutube :: ReactIcon
 foreign import grZoom :: ReactIcon
