@@ -37,8 +37,8 @@ foreign import fiBellOff :: ReactIcon
 foreign import fiBluetooth :: ReactIcon
 foreign import fiBold :: ReactIcon
 foreign import fiBook :: ReactIcon
-foreign import fiBookmark :: ReactIcon
 foreign import fiBookOpen :: ReactIcon
+foreign import fiBookmark :: ReactIcon
 foreign import fiBox :: ReactIcon
 foreign import fiBriefcase :: ReactIcon
 foreign import fiCalendar :: ReactIcon
@@ -51,11 +51,11 @@ foreign import fiCheckSquare :: ReactIcon
 foreign import fiChevronDown :: ReactIcon
 foreign import fiChevronLeft :: ReactIcon
 foreign import fiChevronRight :: ReactIcon
+foreign import fiChevronUp :: ReactIcon
 foreign import fiChevronsDown :: ReactIcon
 foreign import fiChevronsLeft :: ReactIcon
 foreign import fiChevronsRight :: ReactIcon
 foreign import fiChevronsUp :: ReactIcon
-foreign import fiChevronUp :: ReactIcon
 foreign import fiChrome :: ReactIcon
 foreign import fiCircle :: ReactIcon
 foreign import fiClipboard :: ReactIcon
@@ -122,10 +122,10 @@ foreign import fiFrown :: ReactIcon
 foreign import fiGift :: ReactIcon
 foreign import fiGitBranch :: ReactIcon
 foreign import fiGitCommit :: ReactIcon
-foreign import fiGithub :: ReactIcon
-foreign import fiGitlab :: ReactIcon
 foreign import fiGitMerge :: ReactIcon
 foreign import fiGitPullRequest :: ReactIcon
+foreign import fiGithub :: ReactIcon
+foreign import fiGitlab :: ReactIcon
 foreign import fiGlobe :: ReactIcon
 foreign import fiGrid :: ReactIcon
 foreign import fiHardDrive :: ReactIcon
@@ -267,8 +267,8 @@ foreign import fiUser :: ReactIcon
 foreign import fiUserCheck :: ReactIcon
 foreign import fiUserMinus :: ReactIcon
 foreign import fiUserPlus :: ReactIcon
-foreign import fiUsers :: ReactIcon
 foreign import fiUserX :: ReactIcon
+foreign import fiUsers :: ReactIcon
 foreign import fiVideo :: ReactIcon
 foreign import fiVideoOff :: ReactIcon
 foreign import fiVoicemail :: ReactIcon

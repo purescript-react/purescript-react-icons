@@ -19,8 +19,8 @@ foreign import wiDayCloudyWindy :: ReactIcon
 foreign import wiDayFog :: ReactIcon
 foreign import wiDayHail :: ReactIcon
 foreign import wiDayHaze :: ReactIcon
-foreign import wiDayLightning :: ReactIcon
 foreign import wiDayLightWind :: ReactIcon
+foreign import wiDayLightning :: ReactIcon
 foreign import wiDayRain :: ReactIcon
 foreign import wiDayRainMix :: ReactIcon
 foreign import wiDayRainWind :: ReactIcon
@@ -93,8 +93,6 @@ foreign import wiMoonAltWaxingGibbous6 :: ReactIcon
 foreign import wiMoonFirstQuarter :: ReactIcon
 foreign import wiMoonFull :: ReactIcon
 foreign import wiMoonNew :: ReactIcon
-foreign import wiMoonrise :: ReactIcon
-foreign import wiMoonset :: ReactIcon
 foreign import wiMoonThirdQuarter :: ReactIcon
 foreign import wiMoonWaningCrescent1 :: ReactIcon
 foreign import wiMoonWaningCrescent2 :: ReactIcon
@@ -120,6 +118,8 @@ foreign import wiMoonWaxingGibbous3 :: ReactIcon
 foreign import wiMoonWaxingGibbous4 :: ReactIcon
 foreign import wiMoonWaxingGibbous5 :: ReactIcon
 foreign import wiMoonWaxingGibbous6 :: ReactIcon
+foreign import wiMoonrise :: ReactIcon
+foreign import wiMoonset :: ReactIcon
 foreign import wiNa :: ReactIcon
 foreign import wiNightAltCloudy :: ReactIcon
 foreign import wiNightAltCloudyGusts :: ReactIcon
@@ -162,10 +162,10 @@ foreign import wiNightSprinkle :: ReactIcon
 foreign import wiNightStormShowers :: ReactIcon
 foreign import wiNightThunderstorm :: ReactIcon
 foreign import wiRain :: ReactIcon
-foreign import wiRaindrop :: ReactIcon
-foreign import wiRaindrops :: ReactIcon
 foreign import wiRainMix :: ReactIcon
 foreign import wiRainWind :: ReactIcon
+foreign import wiRaindrop :: ReactIcon
+foreign import wiRaindrops :: ReactIcon
 foreign import wiRefresh :: ReactIcon
 foreign import wiRefreshAlt :: ReactIcon
 foreign import wiSandstorm :: ReactIcon
@@ -175,8 +175,8 @@ foreign import wiSmallCraftAdvisory :: ReactIcon
 foreign import wiSmog :: ReactIcon
 foreign import wiSmoke :: ReactIcon
 foreign import wiSnow :: ReactIcon
-foreign import wiSnowflakeCold :: ReactIcon
 foreign import wiSnowWind :: ReactIcon
+foreign import wiSnowflakeCold :: ReactIcon
 foreign import wiSolarEclipse :: ReactIcon
 foreign import wiSprinkle :: ReactIcon
 foreign import wiStars :: ReactIcon

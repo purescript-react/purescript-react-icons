@@ -32,9 +32,9 @@ foreign import goBrowser :: ReactIcon
 foreign import goBug :: ReactIcon
 foreign import goCalendar :: ReactIcon
 foreign import goCheck :: ReactIcon
-foreign import goCheckbox :: ReactIcon
 foreign import goCheckCircle :: ReactIcon
 foreign import goCheckCircleFill :: ReactIcon
+foreign import goCheckbox :: ReactIcon
 foreign import goChecklist :: ReactIcon
 foreign import goChevronDown :: ReactIcon
 foreign import goChevronLeft :: ReactIcon
@@ -49,10 +49,10 @@ foreign import goCloudOffline :: ReactIcon
 foreign import goCode :: ReactIcon
 foreign import goCodeOfConduct :: ReactIcon
 foreign import goCodeReview :: ReactIcon
+foreign import goCodeSquare :: ReactIcon
 foreign import goCodescan :: ReactIcon
 foreign import goCodescanCheckmark :: ReactIcon
 foreign import goCodespaces :: ReactIcon
-foreign import goCodeSquare :: ReactIcon
 foreign import goColumns :: ReactIcon
 foreign import goCommandPalette :: ReactIcon
 foreign import goComment :: ReactIcon
@@ -193,8 +193,8 @@ foreign import goRepo :: ReactIcon
 foreign import goRepoForked :: ReactIcon
 foreign import goRepoLocked :: ReactIcon
 foreign import goRepoPush :: ReactIcon
-foreign import goReport :: ReactIcon
 foreign import goRepoTemplate :: ReactIcon
+foreign import goReport :: ReactIcon
 foreign import goRocket :: ReactIcon
 foreign import goRows :: ReactIcon
 foreign import goRss :: ReactIcon
