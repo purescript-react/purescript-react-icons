@@ -84,7 +84,7 @@ export { DiHackernews as diHackernews } from "react-icons/di";
 export { DiHaskell as diHaskell } from "react-icons/di";
 export { DiHeroku as diHeroku } from "react-icons/di";
 export { DiHtml5 as diHtml5 } from "react-icons/di";
-export { DiHtml53DEffects as diHtml53DEffects } from "react-icons/di";
+export { DiHtml53dEffects as diHtml53dEffects } from "react-icons/di";
 export { DiHtml5Connectivity as diHtml5Connectivity } from "react-icons/di";
 export { DiHtml5DeviceAccess as diHtml5DeviceAccess } from "react-icons/di";
 export { DiHtml5Multimedia as diHtml5Multimedia } from "react-icons/di";

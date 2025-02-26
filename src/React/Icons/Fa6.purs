@@ -180,6 +180,7 @@ foreign import faBlenderPhone :: ReactIcon
 foreign import faBlog :: ReactIcon
 foreign import faBlogger :: ReactIcon
 foreign import faBloggerB :: ReactIcon
+foreign import faBluesky :: ReactIcon
 foreign import faBluetooth :: ReactIcon
 foreign import faBluetoothB :: ReactIcon
 foreign import faBold :: ReactIcon
@@ -219,6 +220,8 @@ foreign import faBoxesPacking :: ReactIcon
 foreign import faBoxesStacked :: ReactIcon
 foreign import faBraille :: ReactIcon
 foreign import faBrain :: ReactIcon
+foreign import faBrave :: ReactIcon
+foreign import faBraveReverse :: ReactIcon
 foreign import faBrazilianRealSign :: ReactIcon
 foreign import faBreadSlice :: ReactIcon
 foreign import faBridge :: ReactIcon
@@ -482,6 +485,7 @@ foreign import faD :: ReactIcon
 foreign import faDAndD :: ReactIcon
 foreign import faDAndDBeyond :: ReactIcon
 foreign import faDailymotion :: ReactIcon
+foreign import faDartLang :: ReactIcon
 foreign import faDashcube :: ReactIcon
 foreign import faDatabase :: ReactIcon
 foreign import faDebian :: ReactIcon
@@ -701,6 +705,7 @@ foreign import faFlickr :: ReactIcon
 foreign import faFlipboard :: ReactIcon
 foreign import faFloppyDisk :: ReactIcon
 foreign import faFlorinSign :: ReactIcon
+foreign import faFlutter :: ReactIcon
 foreign import faFly :: ReactIcon
 foreign import faFolder :: ReactIcon
 foreign import faFolderClosed :: ReactIcon
@@ -770,6 +775,7 @@ foreign import faGooglePay :: ReactIcon
 foreign import faGooglePlay :: ReactIcon
 foreign import faGooglePlus :: ReactIcon
 foreign import faGooglePlusG :: ReactIcon
+foreign import faGoogleScholar :: ReactIcon
 foreign import faGoogleWallet :: ReactIcon
 foreign import faGopuram :: ReactIcon
 foreign import faGraduationCap :: ReactIcon
@@ -956,6 +962,7 @@ foreign import faJoomla :: ReactIcon
 foreign import faJs :: ReactIcon
 foreign import faJsfiddle :: ReactIcon
 foreign import faJugDetergent :: ReactIcon
+foreign import faJxl :: ReactIcon
 foreign import faK :: ReactIcon
 foreign import faKaaba :: ReactIcon
 foreign import faKaggle :: ReactIcon
@@ -993,6 +1000,7 @@ foreign import faLemon :: ReactIcon
 foreign import faLess :: ReactIcon
 foreign import faLessThan :: ReactIcon
 foreign import faLessThanEqual :: ReactIcon
+foreign import faLetterboxd :: ReactIcon
 foreign import faLifeRing :: ReactIcon
 foreign import faLightbulb :: ReactIcon
 foreign import faLine :: ReactIcon
@@ -1081,6 +1089,7 @@ foreign import faMicroscope :: ReactIcon
 foreign import faMicrosoft :: ReactIcon
 foreign import faMillSign :: ReactIcon
 foreign import faMinimize :: ReactIcon
+foreign import faMintbit :: ReactIcon
 foreign import faMinus :: ReactIcon
 foreign import faMitten :: ReactIcon
 foreign import faMix :: ReactIcon
@@ -1149,6 +1158,7 @@ foreign import faOldRepublic :: ReactIcon
 foreign import faOm :: ReactIcon
 foreign import faOpencart :: ReactIcon
 foreign import faOpenid :: ReactIcon
+foreign import faOpensuse :: ReactIcon
 foreign import faOpera :: ReactIcon
 foreign import faOptinMonster :: ReactIcon
 foreign import faOrcid :: ReactIcon
@@ -1261,6 +1271,7 @@ foreign import faPills :: ReactIcon
 foreign import faPinterest :: ReactIcon
 foreign import faPinterestP :: ReactIcon
 foreign import faPix :: ReactIcon
+foreign import faPixiv :: ReactIcon
 foreign import faPizzaSlice :: ReactIcon
 foreign import faPlaceOfWorship :: ReactIcon
 foreign import faPlane :: ReactIcon
@@ -1587,6 +1598,7 @@ foreign import faShip :: ReactIcon
 foreign import faShirt :: ReactIcon
 foreign import faShirtsinbulk :: ReactIcon
 foreign import faShoePrints :: ReactIcon
+foreign import faShoelace :: ReactIcon
 foreign import faShop :: ReactIcon
 foreign import faShopLock :: ReactIcon
 foreign import faShopSlash :: ReactIcon
@@ -1598,6 +1610,7 @@ foreign import faShuffle :: ReactIcon
 foreign import faShuttleSpace :: ReactIcon
 foreign import faSignHanging :: ReactIcon
 foreign import faSignal :: ReactIcon
+foreign import faSignalMessenger :: ReactIcon
 foreign import faSignature :: ReactIcon
 foreign import faSignsPost :: ReactIcon
 foreign import faSimCard :: ReactIcon
@@ -1667,6 +1680,7 @@ foreign import faSquareHackerNews :: ReactIcon
 foreign import faSquareInstagram :: ReactIcon
 foreign import faSquareJs :: ReactIcon
 foreign import faSquareLastfm :: ReactIcon
+foreign import faSquareLetterboxd :: ReactIcon
 foreign import faSquareMinus :: ReactIcon
 foreign import faSquareNfi :: ReactIcon
 foreign import faSquareOdnoklassniki :: ReactIcon
@@ -1690,9 +1704,12 @@ foreign import faSquareThreads :: ReactIcon
 foreign import faSquareTumblr :: ReactIcon
 foreign import faSquareTwitter :: ReactIcon
 foreign import faSquareUpRight :: ReactIcon
+foreign import faSquareUpwork :: ReactIcon
 foreign import faSquareViadeo :: ReactIcon
 foreign import faSquareVimeo :: ReactIcon
 foreign import faSquareVirus :: ReactIcon
+foreign import faSquareWebAwesome :: ReactIcon
+foreign import faSquareWebAwesomeStroke :: ReactIcon
 foreign import faSquareWhatsapp :: ReactIcon
 foreign import faSquareXTwitter :: ReactIcon
 foreign import faSquareXing :: ReactIcon
@@ -1751,7 +1768,10 @@ foreign import faSyringe :: ReactIcon
 foreign import faT :: ReactIcon
 foreign import faTable :: ReactIcon
 foreign import faTableCells :: ReactIcon
+foreign import faTableCellsColumnLock :: ReactIcon
 foreign import faTableCellsLarge :: ReactIcon
+foreign import faTableCellsRowLock :: ReactIcon
+foreign import faTableCellsRowUnlock :: ReactIcon
 foreign import faTableColumns :: ReactIcon
 foreign import faTableList :: ReactIcon
 foreign import faTableTennisPaddleBall :: ReactIcon
@@ -1800,6 +1820,7 @@ foreign import faThreads :: ReactIcon
 foreign import faThumbsDown :: ReactIcon
 foreign import faThumbsUp :: ReactIcon
 foreign import faThumbtack :: ReactIcon
+foreign import faThumbtackSlash :: ReactIcon
 foreign import faTicket :: ReactIcon
 foreign import faTicketSimple :: ReactIcon
 foreign import faTiktok :: ReactIcon
@@ -1883,6 +1904,7 @@ foreign import faUpRightAndDownLeftFromCenter :: ReactIcon
 foreign import faUpRightFromSquare :: ReactIcon
 foreign import faUpload :: ReactIcon
 foreign import faUps :: ReactIcon
+foreign import faUpwork :: ReactIcon
 foreign import faUsb :: ReactIcon
 foreign import faUser :: ReactIcon
 foreign import faUserAstronaut :: ReactIcon
@@ -1969,6 +1991,8 @@ foreign import faWater :: ReactIcon
 foreign import faWaterLadder :: ReactIcon
 foreign import faWaveSquare :: ReactIcon
 foreign import faWaze :: ReactIcon
+foreign import faWebAwesome :: ReactIcon
+foreign import faWebflow :: ReactIcon
 foreign import faWeebly :: ReactIcon
 foreign import faWeibo :: ReactIcon
 foreign import faWeightHanging :: ReactIcon

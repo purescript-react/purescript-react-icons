@@ -88,7 +88,7 @@ foreign import diHackernews :: ReactIcon
 foreign import diHaskell :: ReactIcon
 foreign import diHeroku :: ReactIcon
 foreign import diHtml5 :: ReactIcon
-foreign import diHtml53DEffects :: ReactIcon
+foreign import diHtml53dEffects :: ReactIcon
 foreign import diHtml5Connectivity :: ReactIcon
 foreign import diHtml5DeviceAccess :: ReactIcon
 foreign import diHtml5Multimedia :: ReactIcon

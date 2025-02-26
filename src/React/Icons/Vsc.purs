@@ -20,6 +20,7 @@ foreign import vscArrowSmallRight :: ReactIcon
 foreign import vscArrowSmallUp :: ReactIcon
 foreign import vscArrowSwap :: ReactIcon
 foreign import vscArrowUp :: ReactIcon
+foreign import vscAttach :: ReactIcon
 foreign import vscAzure :: ReactIcon
 foreign import vscAzureDevops :: ReactIcon
 foreign import vscBeaker :: ReactIcon
@@ -70,6 +71,8 @@ foreign import vscCloud :: ReactIcon
 foreign import vscCloudDownload :: ReactIcon
 foreign import vscCloudUpload :: ReactIcon
 foreign import vscCode :: ReactIcon
+foreign import vscCodeOss :: ReactIcon
+foreign import vscCodeReview :: ReactIcon
 foreign import vscCoffee :: ReactIcon
 foreign import vscCollapseAll :: ReactIcon
 foreign import vscColorMode :: ReactIcon
@@ -82,7 +85,9 @@ foreign import vscCompass :: ReactIcon
 foreign import vscCompassActive :: ReactIcon
 foreign import vscCompassDot :: ReactIcon
 foreign import vscCopilot :: ReactIcon
+foreign import vscCopilotWarning :: ReactIcon
 foreign import vscCopy :: ReactIcon
+foreign import vscCoverage :: ReactIcon
 foreign import vscCreditCard :: ReactIcon
 foreign import vscDash :: ReactIcon
 foreign import vscDashboard :: ReactIcon
@@ -127,10 +132,13 @@ foreign import vscDiff :: ReactIcon
 foreign import vscDiffAdded :: ReactIcon
 foreign import vscDiffIgnored :: ReactIcon
 foreign import vscDiffModified :: ReactIcon
+foreign import vscDiffMultiple :: ReactIcon
 foreign import vscDiffRemoved :: ReactIcon
 foreign import vscDiffRenamed :: ReactIcon
+foreign import vscDiffSingle :: ReactIcon
 foreign import vscDiscard :: ReactIcon
 foreign import vscEdit :: ReactIcon
+foreign import vscEditSession :: ReactIcon
 foreign import vscEditorLayout :: ReactIcon
 foreign import vscEllipsis :: ReactIcon
 foreign import vscEmptyWindow :: ReactIcon
@@ -178,12 +186,18 @@ foreign import vscGitPullRequestCreate :: ReactIcon
 foreign import vscGitPullRequestDraft :: ReactIcon
 foreign import vscGitPullRequestGoToChanges :: ReactIcon
 foreign import vscGitPullRequestNewChanges :: ReactIcon
+foreign import vscGitStash :: ReactIcon
+foreign import vscGitStashApply :: ReactIcon
+foreign import vscGitStashPop :: ReactIcon
 foreign import vscGithub :: ReactIcon
 foreign import vscGithubAction :: ReactIcon
 foreign import vscGithubAlt :: ReactIcon
 foreign import vscGithubInverted :: ReactIcon
+foreign import vscGithubProject :: ReactIcon
 foreign import vscGlobe :: ReactIcon
+foreign import vscGoToEditingSession :: ReactIcon
 foreign import vscGoToFile :: ReactIcon
+foreign import vscGoToSearch :: ReactIcon
 foreign import vscGrabber :: ReactIcon
 foreign import vscGraph :: ReactIcon
 foreign import vscGraphLeft :: ReactIcon
@@ -233,6 +247,7 @@ foreign import vscLayoutStatusbar :: ReactIcon
 foreign import vscLibrary :: ReactIcon
 foreign import vscLightbulb :: ReactIcon
 foreign import vscLightbulbAutofix :: ReactIcon
+foreign import vscLightbulbSparkle :: ReactIcon
 foreign import vscLink :: ReactIcon
 foreign import vscLinkExternal :: ReactIcon
 foreign import vscListFilter :: ReactIcon
@@ -251,6 +266,8 @@ foreign import vscMail :: ReactIcon
 foreign import vscMailRead :: ReactIcon
 foreign import vscMap :: ReactIcon
 foreign import vscMapFilled :: ReactIcon
+foreign import vscMapVertical :: ReactIcon
+foreign import vscMapVerticalFilled :: ReactIcon
 foreign import vscMarkdown :: ReactIcon
 foreign import vscMegaphone :: ReactIcon
 foreign import vscMention :: ReactIcon
@@ -280,6 +297,7 @@ foreign import vscPackage :: ReactIcon
 foreign import vscPaintcan :: ReactIcon
 foreign import vscPass :: ReactIcon
 foreign import vscPassFilled :: ReactIcon
+foreign import vscPercentage :: ReactIcon
 foreign import vscPerson :: ReactIcon
 foreign import vscPersonAdd :: ReactIcon
 foreign import vscPiano :: ReactIcon
@@ -314,12 +332,14 @@ foreign import vscReplaceAll :: ReactIcon
 foreign import vscReply :: ReactIcon
 foreign import vscRepo :: ReactIcon
 foreign import vscRepoClone :: ReactIcon
+foreign import vscRepoFetch :: ReactIcon
 foreign import vscRepoForcePush :: ReactIcon
 foreign import vscRepoForked :: ReactIcon
 foreign import vscRepoPull :: ReactIcon
 foreign import vscRepoPush :: ReactIcon
 foreign import vscReport :: ReactIcon
 foreign import vscRequestChanges :: ReactIcon
+foreign import vscRobot :: ReactIcon
 foreign import vscRocket :: ReactIcon
 foreign import vscRootFolder :: ReactIcon
 foreign import vscRootFolderOpened :: ReactIcon
@@ -327,7 +347,9 @@ foreign import vscRss :: ReactIcon
 foreign import vscRuby :: ReactIcon
 foreign import vscRunAbove :: ReactIcon
 foreign import vscRunAll :: ReactIcon
+foreign import vscRunAllCoverage :: ReactIcon
 foreign import vscRunBelow :: ReactIcon
+foreign import vscRunCoverage :: ReactIcon
 foreign import vscRunErrors :: ReactIcon
 foreign import vscSave :: ReactIcon
 foreign import vscSaveAll :: ReactIcon
@@ -343,6 +365,7 @@ foreign import vscServerEnvironment :: ReactIcon
 foreign import vscServerProcess :: ReactIcon
 foreign import vscSettings :: ReactIcon
 foreign import vscSettingsGear :: ReactIcon
+foreign import vscShare :: ReactIcon
 foreign import vscShield :: ReactIcon
 foreign import vscSignIn :: ReactIcon
 foreign import vscSignOut :: ReactIcon
@@ -351,6 +374,7 @@ foreign import vscSnake :: ReactIcon
 foreign import vscSortPrecedence :: ReactIcon
 foreign import vscSourceControl :: ReactIcon
 foreign import vscSparkle :: ReactIcon
+foreign import vscSparkleFilled :: ReactIcon
 foreign import vscSplitHorizontal :: ReactIcon
 foreign import vscSplitVertical :: ReactIcon
 foreign import vscSquirrel :: ReactIcon
@@ -358,6 +382,7 @@ foreign import vscStarEmpty :: ReactIcon
 foreign import vscStarFull :: ReactIcon
 foreign import vscStarHalf :: ReactIcon
 foreign import vscStopCircle :: ReactIcon
+foreign import vscSurroundWith :: ReactIcon
 foreign import vscSymbolArray :: ReactIcon
 foreign import vscSymbolBoolean :: ReactIcon
 foreign import vscSymbolClass :: ReactIcon
@@ -429,6 +454,8 @@ foreign import vscVmConnect :: ReactIcon
 foreign import vscVmOutline :: ReactIcon
 foreign import vscVmRunning :: ReactIcon
 foreign import vscVr :: ReactIcon
+foreign import vscVscode :: ReactIcon
+foreign import vscVscodeInsiders :: ReactIcon
 foreign import vscWand :: ReactIcon
 foreign import vscWarning :: ReactIcon
 foreign import vscWatch :: ReactIcon

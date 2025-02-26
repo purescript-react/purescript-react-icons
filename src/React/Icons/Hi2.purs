@@ -17,7 +17,9 @@ foreign import hiArrowDownRight :: ReactIcon
 foreign import hiArrowDownTray :: ReactIcon
 foreign import hiArrowLeft :: ReactIcon
 foreign import hiArrowLeftCircle :: ReactIcon
+foreign import hiArrowLeftEndOnRectangle :: ReactIcon
 foreign import hiArrowLeftOnRectangle :: ReactIcon
+foreign import hiArrowLeftStartOnRectangle :: ReactIcon
 foreign import hiArrowLongDown :: ReactIcon
 foreign import hiArrowLongLeft :: ReactIcon
 foreign import hiArrowLongRight :: ReactIcon
@@ -26,7 +28,9 @@ foreign import hiArrowPath :: ReactIcon
 foreign import hiArrowPathRoundedSquare :: ReactIcon
 foreign import hiArrowRight :: ReactIcon
 foreign import hiArrowRightCircle :: ReactIcon
+foreign import hiArrowRightEndOnRectangle :: ReactIcon
 foreign import hiArrowRightOnRectangle :: ReactIcon
+foreign import hiArrowRightStartOnRectangle :: ReactIcon
 foreign import hiArrowSmallDown :: ReactIcon
 foreign import hiArrowSmallLeft :: ReactIcon
 foreign import hiArrowSmallRight :: ReactIcon
@@ -34,6 +38,14 @@ foreign import hiArrowSmallUp :: ReactIcon
 foreign import hiArrowTopRightOnSquare :: ReactIcon
 foreign import hiArrowTrendingDown :: ReactIcon
 foreign import hiArrowTrendingUp :: ReactIcon
+foreign import hiArrowTurnDownLeft :: ReactIcon
+foreign import hiArrowTurnDownRight :: ReactIcon
+foreign import hiArrowTurnLeftDown :: ReactIcon
+foreign import hiArrowTurnLeftUp :: ReactIcon
+foreign import hiArrowTurnRightDown :: ReactIcon
+foreign import hiArrowTurnRightUp :: ReactIcon
+foreign import hiArrowTurnUpLeft :: ReactIcon
+foreign import hiArrowTurnUpRight :: ReactIcon
 foreign import hiArrowUp :: ReactIcon
 foreign import hiArrowUpCircle :: ReactIcon
 foreign import hiArrowUpLeft :: ReactIcon
@@ -69,6 +81,7 @@ foreign import hiBell :: ReactIcon
 foreign import hiBellAlert :: ReactIcon
 foreign import hiBellSlash :: ReactIcon
 foreign import hiBellSnooze :: ReactIcon
+foreign import hiBold :: ReactIcon
 foreign import hiBolt :: ReactIcon
 foreign import hiBoltSlash :: ReactIcon
 foreign import hiBookOpen :: ReactIcon
@@ -84,6 +97,7 @@ foreign import hiBuildingStorefront :: ReactIcon
 foreign import hiCake :: ReactIcon
 foreign import hiCalculator :: ReactIcon
 foreign import hiCalendar :: ReactIcon
+foreign import hiCalendarDateRange :: ReactIcon
 foreign import hiCalendarDays :: ReactIcon
 foreign import hiCamera :: ReactIcon
 foreign import hiChartBar :: ReactIcon
@@ -138,11 +152,18 @@ foreign import hiCursorArrowRays :: ReactIcon
 foreign import hiCursorArrowRipple :: ReactIcon
 foreign import hiDevicePhoneMobile :: ReactIcon
 foreign import hiDeviceTablet :: ReactIcon
+foreign import hiDivide :: ReactIcon
 foreign import hiDocument :: ReactIcon
 foreign import hiDocumentArrowDown :: ReactIcon
 foreign import hiDocumentArrowUp :: ReactIcon
 foreign import hiDocumentChartBar :: ReactIcon
 foreign import hiDocumentCheck :: ReactIcon
+foreign import hiDocumentCurrencyBangladeshi :: ReactIcon
+foreign import hiDocumentCurrencyDollar :: ReactIcon
+foreign import hiDocumentCurrencyEuro :: ReactIcon
+foreign import hiDocumentCurrencyPound :: ReactIcon
+foreign import hiDocumentCurrencyRupee :: ReactIcon
+foreign import hiDocumentCurrencyYen :: ReactIcon
 foreign import hiDocumentDuplicate :: ReactIcon
 foreign import hiDocumentMagnifyingGlass :: ReactIcon
 foreign import hiDocumentMinus :: ReactIcon
@@ -153,6 +174,7 @@ foreign import hiEllipsisHorizontalCircle :: ReactIcon
 foreign import hiEllipsisVertical :: ReactIcon
 foreign import hiEnvelope :: ReactIcon
 foreign import hiEnvelopeOpen :: ReactIcon
+foreign import hiEquals :: ReactIcon
 foreign import hiExclamationCircle :: ReactIcon
 foreign import hiExclamationTriangle :: ReactIcon
 foreign import hiEye :: ReactIcon
@@ -178,6 +200,9 @@ foreign import hiGlobeAlt :: ReactIcon
 foreign import hiGlobeAmericas :: ReactIcon
 foreign import hiGlobeAsiaAustralia :: ReactIcon
 foreign import hiGlobeEuropeAfrica :: ReactIcon
+foreign import hiH1 :: ReactIcon
+foreign import hiH2 :: ReactIcon
+foreign import hiH3 :: ReactIcon
 foreign import hiHandRaised :: ReactIcon
 foreign import hiHandThumbDown :: ReactIcon
 foreign import hiHandThumbUp :: ReactIcon
@@ -190,11 +215,13 @@ foreign import hiInbox :: ReactIcon
 foreign import hiInboxArrowDown :: ReactIcon
 foreign import hiInboxStack :: ReactIcon
 foreign import hiInformationCircle :: ReactIcon
+foreign import hiItalic :: ReactIcon
 foreign import hiKey :: ReactIcon
 foreign import hiLanguage :: ReactIcon
 foreign import hiLifebuoy :: ReactIcon
 foreign import hiLightBulb :: ReactIcon
 foreign import hiLink :: ReactIcon
+foreign import hiLinkSlash :: ReactIcon
 foreign import hiListBullet :: ReactIcon
 foreign import hiLockClosed :: ReactIcon
 foreign import hiLockOpen :: ReactIcon
@@ -221,7 +248,9 @@ foreign import hiMiniArrowDownRight :: ReactIcon
 foreign import hiMiniArrowDownTray :: ReactIcon
 foreign import hiMiniArrowLeft :: ReactIcon
 foreign import hiMiniArrowLeftCircle :: ReactIcon
+foreign import hiMiniArrowLeftEndOnRectangle :: ReactIcon
 foreign import hiMiniArrowLeftOnRectangle :: ReactIcon
+foreign import hiMiniArrowLeftStartOnRectangle :: ReactIcon
 foreign import hiMiniArrowLongDown :: ReactIcon
 foreign import hiMiniArrowLongLeft :: ReactIcon
 foreign import hiMiniArrowLongRight :: ReactIcon
@@ -230,7 +259,9 @@ foreign import hiMiniArrowPath :: ReactIcon
 foreign import hiMiniArrowPathRoundedSquare :: ReactIcon
 foreign import hiMiniArrowRight :: ReactIcon
 foreign import hiMiniArrowRightCircle :: ReactIcon
+foreign import hiMiniArrowRightEndOnRectangle :: ReactIcon
 foreign import hiMiniArrowRightOnRectangle :: ReactIcon
+foreign import hiMiniArrowRightStartOnRectangle :: ReactIcon
 foreign import hiMiniArrowSmallDown :: ReactIcon
 foreign import hiMiniArrowSmallLeft :: ReactIcon
 foreign import hiMiniArrowSmallRight :: ReactIcon
@@ -238,6 +269,14 @@ foreign import hiMiniArrowSmallUp :: ReactIcon
 foreign import hiMiniArrowTopRightOnSquare :: ReactIcon
 foreign import hiMiniArrowTrendingDown :: ReactIcon
 foreign import hiMiniArrowTrendingUp :: ReactIcon
+foreign import hiMiniArrowTurnDownLeft :: ReactIcon
+foreign import hiMiniArrowTurnDownRight :: ReactIcon
+foreign import hiMiniArrowTurnLeftDown :: ReactIcon
+foreign import hiMiniArrowTurnLeftUp :: ReactIcon
+foreign import hiMiniArrowTurnRightDown :: ReactIcon
+foreign import hiMiniArrowTurnRightUp :: ReactIcon
+foreign import hiMiniArrowTurnUpLeft :: ReactIcon
+foreign import hiMiniArrowTurnUpRight :: ReactIcon
 foreign import hiMiniArrowUp :: ReactIcon
 foreign import hiMiniArrowUpCircle :: ReactIcon
 foreign import hiMiniArrowUpLeft :: ReactIcon
@@ -273,6 +312,7 @@ foreign import hiMiniBell :: ReactIcon
 foreign import hiMiniBellAlert :: ReactIcon
 foreign import hiMiniBellSlash :: ReactIcon
 foreign import hiMiniBellSnooze :: ReactIcon
+foreign import hiMiniBold :: ReactIcon
 foreign import hiMiniBolt :: ReactIcon
 foreign import hiMiniBoltSlash :: ReactIcon
 foreign import hiMiniBookOpen :: ReactIcon
@@ -288,6 +328,7 @@ foreign import hiMiniBuildingStorefront :: ReactIcon
 foreign import hiMiniCake :: ReactIcon
 foreign import hiMiniCalculator :: ReactIcon
 foreign import hiMiniCalendar :: ReactIcon
+foreign import hiMiniCalendarDateRange :: ReactIcon
 foreign import hiMiniCalendarDays :: ReactIcon
 foreign import hiMiniCamera :: ReactIcon
 foreign import hiMiniChartBar :: ReactIcon
@@ -342,11 +383,18 @@ foreign import hiMiniCursorArrowRays :: ReactIcon
 foreign import hiMiniCursorArrowRipple :: ReactIcon
 foreign import hiMiniDevicePhoneMobile :: ReactIcon
 foreign import hiMiniDeviceTablet :: ReactIcon
+foreign import hiMiniDivide :: ReactIcon
 foreign import hiMiniDocument :: ReactIcon
 foreign import hiMiniDocumentArrowDown :: ReactIcon
 foreign import hiMiniDocumentArrowUp :: ReactIcon
 foreign import hiMiniDocumentChartBar :: ReactIcon
 foreign import hiMiniDocumentCheck :: ReactIcon
+foreign import hiMiniDocumentCurrencyBangladeshi :: ReactIcon
+foreign import hiMiniDocumentCurrencyDollar :: ReactIcon
+foreign import hiMiniDocumentCurrencyEuro :: ReactIcon
+foreign import hiMiniDocumentCurrencyPound :: ReactIcon
+foreign import hiMiniDocumentCurrencyRupee :: ReactIcon
+foreign import hiMiniDocumentCurrencyYen :: ReactIcon
 foreign import hiMiniDocumentDuplicate :: ReactIcon
 foreign import hiMiniDocumentMagnifyingGlass :: ReactIcon
 foreign import hiMiniDocumentMinus :: ReactIcon
@@ -357,6 +405,7 @@ foreign import hiMiniEllipsisHorizontalCircle :: ReactIcon
 foreign import hiMiniEllipsisVertical :: ReactIcon
 foreign import hiMiniEnvelope :: ReactIcon
 foreign import hiMiniEnvelopeOpen :: ReactIcon
+foreign import hiMiniEquals :: ReactIcon
 foreign import hiMiniExclamationCircle :: ReactIcon
 foreign import hiMiniExclamationTriangle :: ReactIcon
 foreign import hiMiniEye :: ReactIcon
@@ -382,6 +431,9 @@ foreign import hiMiniGlobeAlt :: ReactIcon
 foreign import hiMiniGlobeAmericas :: ReactIcon
 foreign import hiMiniGlobeAsiaAustralia :: ReactIcon
 foreign import hiMiniGlobeEuropeAfrica :: ReactIcon
+foreign import hiMiniH1 :: ReactIcon
+foreign import hiMiniH2 :: ReactIcon
+foreign import hiMiniH3 :: ReactIcon
 foreign import hiMiniHandRaised :: ReactIcon
 foreign import hiMiniHandThumbDown :: ReactIcon
 foreign import hiMiniHandThumbUp :: ReactIcon
@@ -394,11 +446,13 @@ foreign import hiMiniInbox :: ReactIcon
 foreign import hiMiniInboxArrowDown :: ReactIcon
 foreign import hiMiniInboxStack :: ReactIcon
 foreign import hiMiniInformationCircle :: ReactIcon
+foreign import hiMiniItalic :: ReactIcon
 foreign import hiMiniKey :: ReactIcon
 foreign import hiMiniLanguage :: ReactIcon
 foreign import hiMiniLifebuoy :: ReactIcon
 foreign import hiMiniLightBulb :: ReactIcon
 foreign import hiMiniLink :: ReactIcon
+foreign import hiMiniLinkSlash :: ReactIcon
 foreign import hiMiniListBullet :: ReactIcon
 foreign import hiMiniLockClosed :: ReactIcon
 foreign import hiMiniLockOpen :: ReactIcon
@@ -417,6 +471,7 @@ foreign import hiMiniMoon :: ReactIcon
 foreign import hiMiniMusicalNote :: ReactIcon
 foreign import hiMiniNewspaper :: ReactIcon
 foreign import hiMiniNoSymbol :: ReactIcon
+foreign import hiMiniNumberedList :: ReactIcon
 foreign import hiMiniPaintBrush :: ReactIcon
 foreign import hiMiniPaperAirplane :: ReactIcon
 foreign import hiMiniPaperClip :: ReactIcon
@@ -424,6 +479,7 @@ foreign import hiMiniPause :: ReactIcon
 foreign import hiMiniPauseCircle :: ReactIcon
 foreign import hiMiniPencil :: ReactIcon
 foreign import hiMiniPencilSquare :: ReactIcon
+foreign import hiMiniPercentBadge :: ReactIcon
 foreign import hiMiniPhone :: ReactIcon
 foreign import hiMiniPhoneArrowDownLeft :: ReactIcon
 foreign import hiMiniPhoneArrowUpRight :: ReactIcon
@@ -461,6 +517,7 @@ foreign import hiMiniShoppingBag :: ReactIcon
 foreign import hiMiniShoppingCart :: ReactIcon
 foreign import hiMiniSignal :: ReactIcon
 foreign import hiMiniSignalSlash :: ReactIcon
+foreign import hiMiniSlash :: ReactIcon
 foreign import hiMiniSparkles :: ReactIcon
 foreign import hiMiniSpeakerWave :: ReactIcon
 foreign import hiMiniSpeakerXMark :: ReactIcon
@@ -471,6 +528,7 @@ foreign import hiMiniSquaresPlus :: ReactIcon
 foreign import hiMiniStar :: ReactIcon
 foreign import hiMiniStop :: ReactIcon
 foreign import hiMiniStopCircle :: ReactIcon
+foreign import hiMiniStrikethrough :: ReactIcon
 foreign import hiMiniSun :: ReactIcon
 foreign import hiMiniSwatch :: ReactIcon
 foreign import hiMiniTableCells :: ReactIcon
@@ -480,6 +538,7 @@ foreign import hiMiniTrash :: ReactIcon
 foreign import hiMiniTrophy :: ReactIcon
 foreign import hiMiniTruck :: ReactIcon
 foreign import hiMiniTv :: ReactIcon
+foreign import hiMiniUnderline :: ReactIcon
 foreign import hiMiniUser :: ReactIcon
 foreign import hiMiniUserCircle :: ReactIcon
 foreign import hiMiniUserGroup :: ReactIcon
@@ -505,6 +564,7 @@ foreign import hiMoon :: ReactIcon
 foreign import hiMusicalNote :: ReactIcon
 foreign import hiNewspaper :: ReactIcon
 foreign import hiNoSymbol :: ReactIcon
+foreign import hiNumberedList :: ReactIcon
 foreign import hiOutlineAcademicCap :: ReactIcon
 foreign import hiOutlineAdjustmentsHorizontal :: ReactIcon
 foreign import hiOutlineAdjustmentsVertical :: ReactIcon
@@ -520,7 +580,9 @@ foreign import hiOutlineArrowDownRight :: ReactIcon
 foreign import hiOutlineArrowDownTray :: ReactIcon
 foreign import hiOutlineArrowLeft :: ReactIcon
 foreign import hiOutlineArrowLeftCircle :: ReactIcon
+foreign import hiOutlineArrowLeftEndOnRectangle :: ReactIcon
 foreign import hiOutlineArrowLeftOnRectangle :: ReactIcon
+foreign import hiOutlineArrowLeftStartOnRectangle :: ReactIcon
 foreign import hiOutlineArrowLongDown :: ReactIcon
 foreign import hiOutlineArrowLongLeft :: ReactIcon
 foreign import hiOutlineArrowLongRight :: ReactIcon
@@ -529,7 +591,9 @@ foreign import hiOutlineArrowPath :: ReactIcon
 foreign import hiOutlineArrowPathRoundedSquare :: ReactIcon
 foreign import hiOutlineArrowRight :: ReactIcon
 foreign import hiOutlineArrowRightCircle :: ReactIcon
+foreign import hiOutlineArrowRightEndOnRectangle :: ReactIcon
 foreign import hiOutlineArrowRightOnRectangle :: ReactIcon
+foreign import hiOutlineArrowRightStartOnRectangle :: ReactIcon
 foreign import hiOutlineArrowSmallDown :: ReactIcon
 foreign import hiOutlineArrowSmallLeft :: ReactIcon
 foreign import hiOutlineArrowSmallRight :: ReactIcon
@@ -537,6 +601,14 @@ foreign import hiOutlineArrowSmallUp :: ReactIcon
 foreign import hiOutlineArrowTopRightOnSquare :: ReactIcon
 foreign import hiOutlineArrowTrendingDown :: ReactIcon
 foreign import hiOutlineArrowTrendingUp :: ReactIcon
+foreign import hiOutlineArrowTurnDownLeft :: ReactIcon
+foreign import hiOutlineArrowTurnDownRight :: ReactIcon
+foreign import hiOutlineArrowTurnLeftDown :: ReactIcon
+foreign import hiOutlineArrowTurnLeftUp :: ReactIcon
+foreign import hiOutlineArrowTurnRightDown :: ReactIcon
+foreign import hiOutlineArrowTurnRightUp :: ReactIcon
+foreign import hiOutlineArrowTurnUpLeft :: ReactIcon
+foreign import hiOutlineArrowTurnUpRight :: ReactIcon
 foreign import hiOutlineArrowUp :: ReactIcon
 foreign import hiOutlineArrowUpCircle :: ReactIcon
 foreign import hiOutlineArrowUpLeft :: ReactIcon
@@ -572,6 +644,7 @@ foreign import hiOutlineBell :: ReactIcon
 foreign import hiOutlineBellAlert :: ReactIcon
 foreign import hiOutlineBellSlash :: ReactIcon
 foreign import hiOutlineBellSnooze :: ReactIcon
+foreign import hiOutlineBold :: ReactIcon
 foreign import hiOutlineBolt :: ReactIcon
 foreign import hiOutlineBoltSlash :: ReactIcon
 foreign import hiOutlineBookOpen :: ReactIcon
@@ -587,6 +660,7 @@ foreign import hiOutlineBuildingStorefront :: ReactIcon
 foreign import hiOutlineCake :: ReactIcon
 foreign import hiOutlineCalculator :: ReactIcon
 foreign import hiOutlineCalendar :: ReactIcon
+foreign import hiOutlineCalendarDateRange :: ReactIcon
 foreign import hiOutlineCalendarDays :: ReactIcon
 foreign import hiOutlineCamera :: ReactIcon
 foreign import hiOutlineChartBar :: ReactIcon
@@ -641,11 +715,18 @@ foreign import hiOutlineCursorArrowRays :: ReactIcon
 foreign import hiOutlineCursorArrowRipple :: ReactIcon
 foreign import hiOutlineDevicePhoneMobile :: ReactIcon
 foreign import hiOutlineDeviceTablet :: ReactIcon
+foreign import hiOutlineDivide :: ReactIcon
 foreign import hiOutlineDocument :: ReactIcon
 foreign import hiOutlineDocumentArrowDown :: ReactIcon
 foreign import hiOutlineDocumentArrowUp :: ReactIcon
 foreign import hiOutlineDocumentChartBar :: ReactIcon
 foreign import hiOutlineDocumentCheck :: ReactIcon
+foreign import hiOutlineDocumentCurrencyBangladeshi :: ReactIcon
+foreign import hiOutlineDocumentCurrencyDollar :: ReactIcon
+foreign import hiOutlineDocumentCurrencyEuro :: ReactIcon
+foreign import hiOutlineDocumentCurrencyPound :: ReactIcon
+foreign import hiOutlineDocumentCurrencyRupee :: ReactIcon
+foreign import hiOutlineDocumentCurrencyYen :: ReactIcon
 foreign import hiOutlineDocumentDuplicate :: ReactIcon
 foreign import hiOutlineDocumentMagnifyingGlass :: ReactIcon
 foreign import hiOutlineDocumentMinus :: ReactIcon
@@ -656,6 +737,7 @@ foreign import hiOutlineEllipsisHorizontalCircle :: ReactIcon
 foreign import hiOutlineEllipsisVertical :: ReactIcon
 foreign import hiOutlineEnvelope :: ReactIcon
 foreign import hiOutlineEnvelopeOpen :: ReactIcon
+foreign import hiOutlineEquals :: ReactIcon
 foreign import hiOutlineExclamationCircle :: ReactIcon
 foreign import hiOutlineExclamationTriangle :: ReactIcon
 foreign import hiOutlineEye :: ReactIcon
@@ -681,6 +763,9 @@ foreign import hiOutlineGlobeAlt :: ReactIcon
 foreign import hiOutlineGlobeAmericas :: ReactIcon
 foreign import hiOutlineGlobeAsiaAustralia :: ReactIcon
 foreign import hiOutlineGlobeEuropeAfrica :: ReactIcon
+foreign import hiOutlineH1 :: ReactIcon
+foreign import hiOutlineH2 :: ReactIcon
+foreign import hiOutlineH3 :: ReactIcon
 foreign import hiOutlineHandRaised :: ReactIcon
 foreign import hiOutlineHandThumbDown :: ReactIcon
 foreign import hiOutlineHandThumbUp :: ReactIcon
@@ -693,11 +778,13 @@ foreign import hiOutlineInbox :: ReactIcon
 foreign import hiOutlineInboxArrowDown :: ReactIcon
 foreign import hiOutlineInboxStack :: ReactIcon
 foreign import hiOutlineInformationCircle :: ReactIcon
+foreign import hiOutlineItalic :: ReactIcon
 foreign import hiOutlineKey :: ReactIcon
 foreign import hiOutlineLanguage :: ReactIcon
 foreign import hiOutlineLifebuoy :: ReactIcon
 foreign import hiOutlineLightBulb :: ReactIcon
 foreign import hiOutlineLink :: ReactIcon
+foreign import hiOutlineLinkSlash :: ReactIcon
 foreign import hiOutlineListBullet :: ReactIcon
 foreign import hiOutlineLockClosed :: ReactIcon
 foreign import hiOutlineLockOpen :: ReactIcon
@@ -716,6 +803,7 @@ foreign import hiOutlineMoon :: ReactIcon
 foreign import hiOutlineMusicalNote :: ReactIcon
 foreign import hiOutlineNewspaper :: ReactIcon
 foreign import hiOutlineNoSymbol :: ReactIcon
+foreign import hiOutlineNumberedList :: ReactIcon
 foreign import hiOutlinePaintBrush :: ReactIcon
 foreign import hiOutlinePaperAirplane :: ReactIcon
 foreign import hiOutlinePaperClip :: ReactIcon
@@ -723,6 +811,7 @@ foreign import hiOutlinePause :: ReactIcon
 foreign import hiOutlinePauseCircle :: ReactIcon
 foreign import hiOutlinePencil :: ReactIcon
 foreign import hiOutlinePencilSquare :: ReactIcon
+foreign import hiOutlinePercentBadge :: ReactIcon
 foreign import hiOutlinePhone :: ReactIcon
 foreign import hiOutlinePhoneArrowDownLeft :: ReactIcon
 foreign import hiOutlinePhoneArrowUpRight :: ReactIcon
@@ -760,6 +849,7 @@ foreign import hiOutlineShoppingBag :: ReactIcon
 foreign import hiOutlineShoppingCart :: ReactIcon
 foreign import hiOutlineSignal :: ReactIcon
 foreign import hiOutlineSignalSlash :: ReactIcon
+foreign import hiOutlineSlash :: ReactIcon
 foreign import hiOutlineSparkles :: ReactIcon
 foreign import hiOutlineSpeakerWave :: ReactIcon
 foreign import hiOutlineSpeakerXMark :: ReactIcon
@@ -770,6 +860,7 @@ foreign import hiOutlineSquaresPlus :: ReactIcon
 foreign import hiOutlineStar :: ReactIcon
 foreign import hiOutlineStop :: ReactIcon
 foreign import hiOutlineStopCircle :: ReactIcon
+foreign import hiOutlineStrikethrough :: ReactIcon
 foreign import hiOutlineSun :: ReactIcon
 foreign import hiOutlineSwatch :: ReactIcon
 foreign import hiOutlineTableCells :: ReactIcon
@@ -779,6 +870,7 @@ foreign import hiOutlineTrash :: ReactIcon
 foreign import hiOutlineTrophy :: ReactIcon
 foreign import hiOutlineTruck :: ReactIcon
 foreign import hiOutlineTv :: ReactIcon
+foreign import hiOutlineUnderline :: ReactIcon
 foreign import hiOutlineUser :: ReactIcon
 foreign import hiOutlineUserCircle :: ReactIcon
 foreign import hiOutlineUserGroup :: ReactIcon
@@ -804,6 +896,7 @@ foreign import hiPause :: ReactIcon
 foreign import hiPauseCircle :: ReactIcon
 foreign import hiPencil :: ReactIcon
 foreign import hiPencilSquare :: ReactIcon
+foreign import hiPercentBadge :: ReactIcon
 foreign import hiPhone :: ReactIcon
 foreign import hiPhoneArrowDownLeft :: ReactIcon
 foreign import hiPhoneArrowUpRight :: ReactIcon
@@ -841,6 +934,7 @@ foreign import hiShoppingBag :: ReactIcon
 foreign import hiShoppingCart :: ReactIcon
 foreign import hiSignal :: ReactIcon
 foreign import hiSignalSlash :: ReactIcon
+foreign import hiSlash :: ReactIcon
 foreign import hiSparkles :: ReactIcon
 foreign import hiSpeakerWave :: ReactIcon
 foreign import hiSpeakerXMark :: ReactIcon
@@ -851,6 +945,7 @@ foreign import hiSquaresPlus :: ReactIcon
 foreign import hiStar :: ReactIcon
 foreign import hiStop :: ReactIcon
 foreign import hiStopCircle :: ReactIcon
+foreign import hiStrikethrough :: ReactIcon
 foreign import hiSun :: ReactIcon
 foreign import hiSwatch :: ReactIcon
 foreign import hiTableCells :: ReactIcon
@@ -860,6 +955,7 @@ foreign import hiTrash :: ReactIcon
 foreign import hiTrophy :: ReactIcon
 foreign import hiTruck :: ReactIcon
 foreign import hiTv :: ReactIcon
+foreign import hiUnderline :: ReactIcon
 foreign import hiUser :: ReactIcon
 foreign import hiUserCircle :: ReactIcon
 foreign import hiUserGroup :: ReactIcon

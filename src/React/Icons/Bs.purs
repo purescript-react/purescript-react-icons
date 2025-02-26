@@ -161,11 +161,11 @@ foreign import bsBackspaceFill :: ReactIcon
 foreign import bsBackspaceReverse :: ReactIcon
 foreign import bsBackspaceReverseFill :: ReactIcon
 foreign import bsBadge3D :: ReactIcon
-foreign import bsBadge3DFill :: ReactIcon
+foreign import bsBadge3dFill :: ReactIcon
 foreign import bsBadge4K :: ReactIcon
-foreign import bsBadge4KFill :: ReactIcon
+foreign import bsBadge4kFill :: ReactIcon
 foreign import bsBadge8K :: ReactIcon
-foreign import bsBadge8KFill :: ReactIcon
+foreign import bsBadge8kFill :: ReactIcon
 foreign import bsBadgeAd :: ReactIcon
 foreign import bsBadgeAdFill :: ReactIcon
 foreign import bsBadgeAr :: ReactIcon
@@ -1108,9 +1108,9 @@ foreign import bsFillBackpack4Fill :: ReactIcon
 foreign import bsFillBackpackFill :: ReactIcon
 foreign import bsFillBackspaceFill :: ReactIcon
 foreign import bsFillBackspaceReverseFill :: ReactIcon
-foreign import bsFillBadge3DFill :: ReactIcon
-foreign import bsFillBadge4KFill :: ReactIcon
-foreign import bsFillBadge8KFill :: ReactIcon
+foreign import bsFillBadge3dFill :: ReactIcon
+foreign import bsFillBadge4kFill :: ReactIcon
+foreign import bsFillBadge8kFill :: ReactIcon
 foreign import bsFillBadgeAdFill :: ReactIcon
 foreign import bsFillBadgeArFill :: ReactIcon
 foreign import bsFillBadgeCcFill :: ReactIcon

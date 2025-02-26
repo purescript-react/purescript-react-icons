@@ -2,10 +2,10 @@ module React.Icons.Gi where
 
 import React.Icons.Types (ReactIcon)
 
-foreign import gi3DGlasses :: ReactIcon
-foreign import gi3DHammer :: ReactIcon
-foreign import gi3DMeeple :: ReactIcon
-foreign import gi3DStairs :: ReactIcon
+foreign import gi3dGlasses :: ReactIcon
+foreign import gi3dHammer :: ReactIcon
+foreign import gi3dMeeple :: ReactIcon
+foreign import gi3dStairs :: ReactIcon
 foreign import giAbacus :: ReactIcon
 foreign import giAbbotMeeple :: ReactIcon
 foreign import giAbdominalArmor :: ReactIcon
@@ -517,7 +517,7 @@ foreign import giBottleCap :: ReactIcon
 foreign import giBottleVapors :: ReactIcon
 foreign import giBottledBolt :: ReactIcon
 foreign import giBottledShadow :: ReactIcon
-foreign import giBottomRight3DArrow :: ReactIcon
+foreign import giBottomRight3dArrow :: ReactIcon
 foreign import giBoulderDash :: ReactIcon
 foreign import giBouncingSpring :: ReactIcon
 foreign import giBouncingSword :: ReactIcon
