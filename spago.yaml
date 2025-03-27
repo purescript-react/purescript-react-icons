@@ -1,0 +1,10 @@
+package:
+  dependencies:
+    - react-basic
+    - react-basic-dom
+    - unsafe-coerce
+  name: react-icons
+workspace:
+  extraPackages: {}
+  packageSet:
+    registry: 63.6.0
