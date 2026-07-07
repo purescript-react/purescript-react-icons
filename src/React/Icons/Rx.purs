@@ -103,6 +103,7 @@ foreign import rxCursorArrow :: ReactIcon
 foreign import rxCursorText :: ReactIcon
 foreign import rxDash :: ReactIcon
 foreign import rxDashboard :: ReactIcon
+foreign import rxDatabase :: ReactIcon
 foreign import rxDesktop :: ReactIcon
 foreign import rxDimensions :: ReactIcon
 foreign import rxDisc :: ReactIcon
@@ -130,6 +131,8 @@ foreign import rxEnterFullScreen :: ReactIcon
 foreign import rxEnvelopeClosed :: ReactIcon
 foreign import rxEnvelopeOpen :: ReactIcon
 foreign import rxEraser :: ReactIcon
+foreign import rxExclamationCircled :: ReactIcon
+foreign import rxExclamationMark :: ReactIcon
 foreign import rxExclamationTriangle :: ReactIcon
 foreign import rxExit :: ReactIcon
 foreign import rxExitFullScreen :: ReactIcon
@@ -143,6 +146,7 @@ foreign import rxFile :: ReactIcon
 foreign import rxFileMinus :: ReactIcon
 foreign import rxFilePlus :: ReactIcon
 foreign import rxFileText :: ReactIcon
+foreign import rxFilter :: ReactIcon
 foreign import rxFontBold :: ReactIcon
 foreign import rxFontFamily :: ReactIcon
 foreign import rxFontItalic :: ReactIcon
@@ -154,6 +158,7 @@ foreign import rxFramerLogo :: ReactIcon
 foreign import rxGear :: ReactIcon
 foreign import rxGithubLogo :: ReactIcon
 foreign import rxGlobe :: ReactIcon
+foreign import rxGlobe2 :: ReactIcon
 foreign import rxGrid :: ReactIcon
 foreign import rxGroup :: ReactIcon
 foreign import rxHalf1 :: ReactIcon
@@ -201,6 +206,7 @@ foreign import rxMagnifyingGlass :: ReactIcon
 foreign import rxMargin :: ReactIcon
 foreign import rxMaskOff :: ReactIcon
 foreign import rxMaskOn :: ReactIcon
+foreign import rxMinimize :: ReactIcon
 foreign import rxMinus :: ReactIcon
 foreign import rxMinusCircled :: ReactIcon
 foreign import rxMix :: ReactIcon
@@ -215,10 +221,17 @@ foreign import rxOpacity :: ReactIcon
 foreign import rxOpenInNewWindow :: ReactIcon
 foreign import rxOverline :: ReactIcon
 foreign import rxPadding :: ReactIcon
+foreign import rxPanelBottom :: ReactIcon
+foreign import rxPanelBottomMinimized :: ReactIcon
+foreign import rxPanelLeft :: ReactIcon
+foreign import rxPanelLeftMinimized :: ReactIcon
+foreign import rxPanelRight :: ReactIcon
+foreign import rxPanelRightMinimized :: ReactIcon
 foreign import rxPaperPlane :: ReactIcon
 foreign import rxPause :: ReactIcon
 foreign import rxPencil1 :: ReactIcon
 foreign import rxPencil2 :: ReactIcon
+foreign import rxPeople :: ReactIcon
 foreign import rxPerson :: ReactIcon
 foreign import rxPieChart :: ReactIcon
 foreign import rxPilcrow :: ReactIcon
@@ -245,6 +258,7 @@ foreign import rxRulerHorizontal :: ReactIcon
 foreign import rxRulerSquare :: ReactIcon
 foreign import rxScissors :: ReactIcon
 foreign import rxSection :: ReactIcon
+foreign import rxServer :: ReactIcon
 foreign import rxSewingPin :: ReactIcon
 foreign import rxSewingPinFilled :: ReactIcon
 foreign import rxShadow :: ReactIcon

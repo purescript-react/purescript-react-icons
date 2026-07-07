@@ -327,6 +327,7 @@ foreign import faChargingStation :: ReactIcon
 foreign import faChartArea :: ReactIcon
 foreign import faChartBar :: ReactIcon
 foreign import faChartColumn :: ReactIcon
+foreign import faChartDiagram :: ReactIcon
 foreign import faChartGantt :: ReactIcon
 foreign import faChartLine :: ReactIcon
 foreign import faChartPie :: ReactIcon
@@ -430,6 +431,7 @@ foreign import faComment :: ReactIcon
 foreign import faCommentDollar :: ReactIcon
 foreign import faCommentDots :: ReactIcon
 foreign import faCommentMedical :: ReactIcon
+foreign import faCommentNodes :: ReactIcon
 foreign import faCommentSlash :: ReactIcon
 foreign import faCommentSms :: ReactIcon
 foreign import faComments :: ReactIcon
@@ -475,6 +477,7 @@ foreign import faCrow :: ReactIcon
 foreign import faCrown :: ReactIcon
 foreign import faCrutch :: ReactIcon
 foreign import faCruzeiroSign :: ReactIcon
+foreign import faCss :: ReactIcon
 foreign import faCss3 :: ReactIcon
 foreign import faCss3Alt :: ReactIcon
 foreign import faCube :: ReactIcon
@@ -661,6 +664,8 @@ foreign import faFileContract :: ReactIcon
 foreign import faFileCsv :: ReactIcon
 foreign import faFileExcel :: ReactIcon
 foreign import faFileExport :: ReactIcon
+foreign import faFileFragment :: ReactIcon
+foreign import faFileHalfDashed :: ReactIcon
 foreign import faFileImage :: ReactIcon
 foreign import faFileImport :: ReactIcon
 foreign import faFileInvoice :: ReactIcon
@@ -677,6 +682,7 @@ foreign import faFileVideo :: ReactIcon
 foreign import faFileWaveform :: ReactIcon
 foreign import faFileWord :: ReactIcon
 foreign import faFileZipper :: ReactIcon
+foreign import faFilesPinwheel :: ReactIcon
 foreign import faFill :: ReactIcon
 foreign import faFillDrip :: ReactIcon
 foreign import faFilm :: ReactIcon
@@ -864,6 +870,8 @@ foreign import faHelicopter :: ReactIcon
 foreign import faHelicopterSymbol :: ReactIcon
 foreign import faHelmetSafety :: ReactIcon
 foreign import faHelmetUn :: ReactIcon
+foreign import faHexagonNodes :: ReactIcon
+foreign import faHexagonNodesBolt :: ReactIcon
 foreign import faHighlighter :: ReactIcon
 foreign import faHillAvalanche :: ReactIcon
 foreign import faHillRockslide :: ReactIcon
@@ -1660,6 +1668,8 @@ foreign import faSprayCanSparkles :: ReactIcon
 foreign import faSquare :: ReactIcon
 foreign import faSquareArrowUpRight :: ReactIcon
 foreign import faSquareBehance :: ReactIcon
+foreign import faSquareBinary :: ReactIcon
+foreign import faSquareBluesky :: ReactIcon
 foreign import faSquareCaretDown :: ReactIcon
 foreign import faSquareCaretLeft :: ReactIcon
 foreign import faSquareCaretRight :: ReactIcon

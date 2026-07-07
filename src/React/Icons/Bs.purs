@@ -65,9 +65,11 @@ foreign import bsAmazon :: ReactIcon
 foreign import bsAmd :: ReactIcon
 foreign import bsAndroid :: ReactIcon
 foreign import bsAndroid2 :: ReactIcon
+foreign import bsAnthropic :: ReactIcon
 foreign import bsApp :: ReactIcon
 foreign import bsAppIndicator :: ReactIcon
 foreign import bsApple :: ReactIcon
+foreign import bsAppleMusic :: ReactIcon
 foreign import bsArchive :: ReactIcon
 foreign import bsArchiveFill :: ReactIcon
 foreign import bsArrow90DegDown :: ReactIcon
@@ -221,6 +223,9 @@ foreign import bsBattery :: ReactIcon
 foreign import bsBatteryCharging :: ReactIcon
 foreign import bsBatteryFull :: ReactIcon
 foreign import bsBatteryHalf :: ReactIcon
+foreign import bsBatteryLow :: ReactIcon
+foreign import bsBeaker :: ReactIcon
+foreign import bsBeakerFill :: ReactIcon
 foreign import bsBehance :: ReactIcon
 foreign import bsBell :: ReactIcon
 foreign import bsBellFill :: ReactIcon
@@ -234,6 +239,7 @@ foreign import bsBinoculars :: ReactIcon
 foreign import bsBinocularsFill :: ReactIcon
 foreign import bsBlockquoteLeft :: ReactIcon
 foreign import bsBlockquoteRight :: ReactIcon
+foreign import bsBluesky :: ReactIcon
 foreign import bsBluetooth :: ReactIcon
 foreign import bsBodyText :: ReactIcon
 foreign import bsBook :: ReactIcon
@@ -557,6 +563,7 @@ foreign import bsCircle :: ReactIcon
 foreign import bsCircleFill :: ReactIcon
 foreign import bsCircleHalf :: ReactIcon
 foreign import bsCircleSquare :: ReactIcon
+foreign import bsClaude :: ReactIcon
 foreign import bsClipboard :: ReactIcon
 foreign import bsClipboard2 :: ReactIcon
 foreign import bsClipboard2Check :: ReactIcon
@@ -670,6 +677,7 @@ foreign import bsCreditCardFill :: ReactIcon
 foreign import bsCrop :: ReactIcon
 foreign import bsCrosshair :: ReactIcon
 foreign import bsCrosshair2 :: ReactIcon
+foreign import bsCss :: ReactIcon
 foreign import bsCup :: ReactIcon
 foreign import bsCupFill :: ReactIcon
 foreign import bsCupHot :: ReactIcon
@@ -1135,6 +1143,7 @@ foreign import bsFillBarChartLineFill :: ReactIcon
 foreign import bsFillBasket2Fill :: ReactIcon
 foreign import bsFillBasket3Fill :: ReactIcon
 foreign import bsFillBasketFill :: ReactIcon
+foreign import bsFillBeakerFill :: ReactIcon
 foreign import bsFillBellFill :: ReactIcon
 foreign import bsFillBellSlashFill :: ReactIcon
 foreign import bsFillBinocularsFill :: ReactIcon
@@ -1434,6 +1443,8 @@ foreign import bsFillFileZipFill :: ReactIcon
 foreign import bsFillFilterCircleFill :: ReactIcon
 foreign import bsFillFilterSquareFill :: ReactIcon
 foreign import bsFillFlagFill :: ReactIcon
+foreign import bsFillFlaskFill :: ReactIcon
+foreign import bsFillFlaskFlorenceFill :: ReactIcon
 foreign import bsFillFloppy2Fill :: ReactIcon
 foreign import bsFillFloppyFill :: ReactIcon
 foreign import bsFillFolderFill :: ReactIcon
@@ -1446,6 +1457,10 @@ foreign import bsFillGearFill :: ReactIcon
 foreign import bsFillGeoAltFill :: ReactIcon
 foreign import bsFillGeoFill :: ReactIcon
 foreign import bsFillGiftFill :: ReactIcon
+foreign import bsFillGlobeAmericasFill :: ReactIcon
+foreign import bsFillGlobeAsiaAustraliaFill :: ReactIcon
+foreign import bsFillGlobeCentralSouthAsiaFill :: ReactIcon
+foreign import bsFillGlobeEuropeAfricaFill :: ReactIcon
 foreign import bsFillGrid1X2Fill :: ReactIcon
 foreign import bsFillGrid3X2GapFill :: ReactIcon
 foreign import bsFillGrid3X3GapFill :: ReactIcon
@@ -1494,6 +1509,7 @@ foreign import bsFillKeyboardFill :: ReactIcon
 foreign import bsFillLampFill :: ReactIcon
 foreign import bsFillLaptopFill :: ReactIcon
 foreign import bsFillLayersFill :: ReactIcon
+foreign import bsFillLeafFill :: ReactIcon
 foreign import bsFillLightbulbFill :: ReactIcon
 foreign import bsFillLightbulbOffFill :: ReactIcon
 foreign import bsFillLightningChargeFill :: ReactIcon
@@ -1504,6 +1520,7 @@ foreign import bsFillLungsFill :: ReactIcon
 foreign import bsFillMagnetFill :: ReactIcon
 foreign import bsFillMapFill :: ReactIcon
 foreign import bsFillMarkdownFill :: ReactIcon
+foreign import bsFillMeasuringCupFill :: ReactIcon
 foreign import bsFillMegaphoneFill :: ReactIcon
 foreign import bsFillMenuAppFill :: ReactIcon
 foreign import bsFillMenuButtonFill :: ReactIcon
@@ -1700,6 +1717,7 @@ foreign import bsFillTrophyFill :: ReactIcon
 foreign import bsFillTruckFrontFill :: ReactIcon
 foreign import bsFillTvFill :: ReactIcon
 foreign import bsFillUmbrellaFill :: ReactIcon
+foreign import bsFillUnlock2Fill :: ReactIcon
 foreign import bsFillUnlockFill :: ReactIcon
 foreign import bsFillUsbCFill :: ReactIcon
 foreign import bsFillUsbDriveFill :: ReactIcon
@@ -1731,6 +1749,10 @@ foreign import bsFingerprint :: ReactIcon
 foreign import bsFire :: ReactIcon
 foreign import bsFlag :: ReactIcon
 foreign import bsFlagFill :: ReactIcon
+foreign import bsFlask :: ReactIcon
+foreign import bsFlaskFill :: ReactIcon
+foreign import bsFlaskFlorence :: ReactIcon
+foreign import bsFlaskFlorenceFill :: ReactIcon
 foreign import bsFloppy :: ReactIcon
 foreign import bsFloppy2 :: ReactIcon
 foreign import bsFloppy2Fill :: ReactIcon
@@ -1749,6 +1771,7 @@ foreign import bsFolderSymlink :: ReactIcon
 foreign import bsFolderSymlinkFill :: ReactIcon
 foreign import bsFolderX :: ReactIcon
 foreign import bsFonts :: ReactIcon
+foreign import bsForkKnife :: ReactIcon
 foreign import bsForward :: ReactIcon
 foreign import bsForwardFill :: ReactIcon
 foreign import bsFront :: ReactIcon
@@ -1782,9 +1805,13 @@ foreign import bsGitlab :: ReactIcon
 foreign import bsGlobe :: ReactIcon
 foreign import bsGlobe2 :: ReactIcon
 foreign import bsGlobeAmericas :: ReactIcon
+foreign import bsGlobeAmericasFill :: ReactIcon
 foreign import bsGlobeAsiaAustralia :: ReactIcon
+foreign import bsGlobeAsiaAustraliaFill :: ReactIcon
 foreign import bsGlobeCentralSouthAsia :: ReactIcon
+foreign import bsGlobeCentralSouthAsiaFill :: ReactIcon
 foreign import bsGlobeEuropeAfrica :: ReactIcon
+foreign import bsGlobeEuropeAfricaFill :: ReactIcon
 foreign import bsGoogle :: ReactIcon
 foreign import bsGooglePlay :: ReactIcon
 foreign import bsGpuCard :: ReactIcon
@@ -1908,6 +1935,7 @@ foreign import bsInputCursor :: ReactIcon
 foreign import bsInputCursorText :: ReactIcon
 foreign import bsInstagram :: ReactIcon
 foreign import bsIntersect :: ReactIcon
+foreign import bsJavascript :: ReactIcon
 foreign import bsJournal :: ReactIcon
 foreign import bsJournalAlbum :: ReactIcon
 foreign import bsJournalArrowDown :: ReactIcon
@@ -1954,6 +1982,8 @@ foreign import bsLayoutTextWindow :: ReactIcon
 foreign import bsLayoutTextWindowReverse :: ReactIcon
 foreign import bsLayoutThreeColumns :: ReactIcon
 foreign import bsLayoutWtf :: ReactIcon
+foreign import bsLeaf :: ReactIcon
+foreign import bsLeafFill :: ReactIcon
 foreign import bsLifePreserver :: ReactIcon
 foreign import bsLightbulb :: ReactIcon
 foreign import bsLightbulbFill :: ReactIcon
@@ -1996,6 +2026,8 @@ foreign import bsMarkdownFill :: ReactIcon
 foreign import bsMarkerTip :: ReactIcon
 foreign import bsMask :: ReactIcon
 foreign import bsMastodon :: ReactIcon
+foreign import bsMeasuringCup :: ReactIcon
+foreign import bsMeasuringCupFill :: ReactIcon
 foreign import bsMedium :: ReactIcon
 foreign import bsMegaphone :: ReactIcon
 foreign import bsMegaphoneFill :: ReactIcon
@@ -2055,6 +2087,7 @@ foreign import bsNvmeFill :: ReactIcon
 foreign import bsOctagon :: ReactIcon
 foreign import bsOctagonFill :: ReactIcon
 foreign import bsOctagonHalf :: ReactIcon
+foreign import bsOpenai :: ReactIcon
 foreign import bsOpencollective :: ReactIcon
 foreign import bsOpticalAudio :: ReactIcon
 foreign import bsOpticalAudioFill :: ReactIcon
@@ -2111,6 +2144,7 @@ foreign import bsPentagonHalf :: ReactIcon
 foreign import bsPeople :: ReactIcon
 foreign import bsPeopleFill :: ReactIcon
 foreign import bsPercent :: ReactIcon
+foreign import bsPerplexity :: ReactIcon
 foreign import bsPerson :: ReactIcon
 foreign import bsPersonAdd :: ReactIcon
 foreign import bsPersonArmsUp :: ReactIcon
@@ -2604,6 +2638,7 @@ foreign import bsTruckFlatbed :: ReactIcon
 foreign import bsTruckFront :: ReactIcon
 foreign import bsTruckFrontFill :: ReactIcon
 foreign import bsTsunami :: ReactIcon
+foreign import bsTux :: ReactIcon
 foreign import bsTv :: ReactIcon
 foreign import bsTvFill :: ReactIcon
 foreign import bsTwitch :: ReactIcon
@@ -2620,6 +2655,7 @@ foreign import bsTypeH6 :: ReactIcon
 foreign import bsTypeItalic :: ReactIcon
 foreign import bsTypeStrikethrough :: ReactIcon
 foreign import bsTypeUnderline :: ReactIcon
+foreign import bsTypescript :: ReactIcon
 foreign import bsUbuntu :: ReactIcon
 foreign import bsUiChecks :: ReactIcon
 foreign import bsUiChecksGrid :: ReactIcon
@@ -2633,6 +2669,8 @@ foreign import bsUnity :: ReactIcon
 foreign import bsUniversalAccess :: ReactIcon
 foreign import bsUniversalAccessCircle :: ReactIcon
 foreign import bsUnlock :: ReactIcon
+foreign import bsUnlock2 :: ReactIcon
+foreign import bsUnlock2Fill :: ReactIcon
 foreign import bsUnlockFill :: ReactIcon
 foreign import bsUpc :: ReactIcon
 foreign import bsUpcScan :: ReactIcon

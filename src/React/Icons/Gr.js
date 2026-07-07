@@ -260,6 +260,8 @@ export { GrGamepad as grGamepad } from "react-icons/gr";
 export { GrGateway as grGateway } from "react-icons/gr";
 export { GrGatsbyjs as grGatsbyjs } from "react-icons/gr";
 export { GrGem as grGem } from "react-icons/gr";
+export { GrGenai as grGenai } from "react-icons/gr";
+export { GrGenaifill as grGenaifill } from "react-icons/gr";
 export { GrGift as grGift } from "react-icons/gr";
 export { GrGithub as grGithub } from "react-icons/gr";
 export { GrGlobe as grGlobe } from "react-icons/gr";

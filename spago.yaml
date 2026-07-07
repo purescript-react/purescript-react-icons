@@ -1,0 +1,10 @@
+package:
+  dependencies:
+  - react-basic
+  - react-basic-dom
+  - unsafe-coerce
+  name: react-icons
+workspace:
+  extra_packages: {}
+  package_set:
+    url: https://raw.githubusercontent.com/purescript/package-sets/psc-0.15.4-20230105/packages.json

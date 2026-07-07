@@ -264,6 +264,8 @@ foreign import grGamepad :: ReactIcon
 foreign import grGateway :: ReactIcon
 foreign import grGatsbyjs :: ReactIcon
 foreign import grGem :: ReactIcon
+foreign import grGenai :: ReactIcon
+foreign import grGenaifill :: ReactIcon
 foreign import grGift :: ReactIcon
 foreign import grGithub :: ReactIcon
 foreign import grGlobe :: ReactIcon
