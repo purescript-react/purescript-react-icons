@@ -2811,8 +2811,8 @@ foreign import siSpotlight :: ReactIcon
 foreign import siSpreadshirt :: ReactIcon
 foreign import siSpreaker :: ReactIcon
 foreign import siSpring :: ReactIcon
-foreign import siSpringCreators :: ReactIcon
 foreign import siSpringboot :: ReactIcon
+foreign import siSpringCreators :: ReactIcon
 foreign import siSpringsecurity :: ReactIcon
 foreign import siSpyderide :: ReactIcon
 foreign import siSqlalchemy :: ReactIcon

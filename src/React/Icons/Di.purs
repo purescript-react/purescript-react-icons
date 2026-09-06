@@ -40,8 +40,8 @@ foreign import diCreativecommons :: ReactIcon
 foreign import diCreativecommonsBadge :: ReactIcon
 foreign import diCss3 :: ReactIcon
 foreign import diCss3Full :: ReactIcon
-foreign import diCssTricks :: ReactIcon
 foreign import diCssdeck :: ReactIcon
+foreign import diCssTricks :: ReactIcon
 foreign import diDart :: ReactIcon
 foreign import diDatabase :: ReactIcon
 foreign import diDebian :: ReactIcon
@@ -69,12 +69,12 @@ foreign import diGit :: ReactIcon
 foreign import diGitBranch :: ReactIcon
 foreign import diGitCommit :: ReactIcon
 foreign import diGitCompare :: ReactIcon
-foreign import diGitMerge :: ReactIcon
-foreign import diGitPullRequest :: ReactIcon
 foreign import diGithub :: ReactIcon
 foreign import diGithubAlt :: ReactIcon
 foreign import diGithubBadge :: ReactIcon
 foreign import diGithubFull :: ReactIcon
+foreign import diGitMerge :: ReactIcon
+foreign import diGitPullRequest :: ReactIcon
 foreign import diGnu :: ReactIcon
 foreign import diGo :: ReactIcon
 foreign import diGoogleAnalytics :: ReactIcon
